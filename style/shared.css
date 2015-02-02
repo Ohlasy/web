@@ -23,6 +23,10 @@ h1 small {
     color: silver;
 }
 
+h1 a:hover {
+    border: none;
+}
+
 h2 {
     font-family: 'Ladislav';
     font-weight: normal;
