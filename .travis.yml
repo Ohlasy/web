@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.1
 script:
-  - bundle exec jekyll build && bundle exec htmlproof _site
+  - bundle exec jekyll build && bundle exec htmlproof --check-html _site
 
 branches:
   only:
