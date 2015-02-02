@@ -24,3 +24,14 @@
 .article-info ul {
     margin-top: 10px;
 }
+
+/* Images */
+
+article .img-responsive {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-framed {
+    border: 1px solid #ddd;
+}

@@ -1,9 +1,12 @@
 ---
 title: Velké filmové hity a dobrá dramaturgie – to jsou podle šéfa kina Tomáše Marvana důvody loňského nárůstu návštěvnosti
 author: Tomáš Trumpeš
+cover-photo: http://i.imgur.com/G5ooKva.jpg
 ---
 
 Boskovické kino má za sebou úspěšný rok. Podle výsledků Unie filmových distributorů se zařadilo na 22. místo v návštěvnosti jednosálových kin v České republice a posunulo se tak oproti předchozímu roku o osm míst nahoru. V roce 2014 kino odehrálo 651 představení, na která přišlo celkem 34 437 diváků. „Na město, které má 11 tisíc obyvatel, je to obrovský úspěch,“ říká k tomu vedoucí kina. Čím si tento úspěch vysvětluje, na co se do kina chodí a jaká je budoucnost letního kina? A jaké filmy se líbily jemu samotnému a kterému z těch českých by dal Českého lva? Na to vše v rozhovoru odpovídá vedoucí boskovického kina Tomáš Marvan.
+
+<img src="http://i.imgur.com/G5ooKva.jpg" alt="Tomáš Marvan" class="img-responsive img-framed">
 
 **V roce 2014 přišlo do boskovického kina o 4 tisíce víc lidí než v roce 2013. Čím si to vysvětlujete – odehráli jste víc představení, nebo byl lákavější program?**
 
