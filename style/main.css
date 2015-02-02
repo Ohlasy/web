@@ -11,6 +11,7 @@ body {
 
 header {
     border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
 }
 
 h1 {
@@ -41,7 +42,7 @@ main {
 
 /* Article Previews */
 
-p.article-perex {
+.article-perex {
     line-height: 1.6em;
     font-style: italic;
 }
