@@ -1,0 +1,7 @@
+markdown: kramdown
+
+permalink: '/clanky/:year/:month/:title.html'
+paginate_path: "/clanky/strana/:num"
+paginate: 6
+
+future: false
