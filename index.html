@@ -23,7 +23,7 @@ why: A dummy header to make Jekyll process this file.
                         <h2>{{ post.title }}</h2>
                         <p class="article-perex">{{ post.excerpt | strip_html }}</p>
                     </a>
-                    <p class="text-muted">¶ {{ post.authors }}, {{ post.date | date: "%-d. %-m. %Y" }}</p>
+                    <p class="text-muted">¶ {{ post.author }}, {{ post.date | date: "%-d. %-m. %Y" }}</p>
                 </div>
                 {% endfor %}
             </div>
