@@ -1,0 +1,28 @@
+/* Header */
+
+header {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+/* Article Previews */
+
+.article-perex {
+    line-height: 1.6em;
+    font-style: italic;
+}
+
+.article-preview a, .article-preview a:hover {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border: none;
+}
+
+.article-preview {
+    padding-bottom: 10px;
+}
+
+.article-preview:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+}

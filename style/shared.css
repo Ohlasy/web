@@ -7,13 +7,6 @@ body {
     color: #444;
 }
 
-/* Header */
-
-header {
-    border-bottom: 1px solid #ddd;
-    margin-bottom: 10px;
-}
-
 h1 {
     font-family: 'Ladislav Semibold';
     font-weight: normal;
@@ -23,9 +16,10 @@ h1 {
     line-height: 1em;
 }
 
-h1 .subtitle {
+h1 small {
     font-family: 'Ladislav Regular';
     font-weight: normal;
+    font-size: inherit;
     color: silver;
 }
 
@@ -33,33 +27,6 @@ h2 {
     font-family: 'Ladislav';
     font-weight: normal;
     font-size: 200%;
-}
-
-main {
-    width: 700px;
-    margin: auto;
-}
-
-/* Article Previews */
-
-.article-perex {
-    line-height: 1.6em;
-    font-style: italic;
-}
-
-.article-preview a, .article-preview a:hover {
-    display: block;
-    text-decoration: none;
-    color: inherit;
-    border: none;
-}
-
-.article-preview {
-    padding-bottom: 10px;
-}
-
-.article-preview:not(:last-child) {
-    border-bottom: 1px solid #ddd;
 }
 
 /* Footer */
