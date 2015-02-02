@@ -13,9 +13,14 @@
     width: 100px;
     height: 100px;
     margin-right: 20px;
+    margin-bottom: 10px;
 }
 
 .article-info img, .article-info ul {
     display: inline-block;
     vertical-align: top;
+}
+
+.article-info ul {
+    margin-top: 10px;
 }
