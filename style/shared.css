@@ -42,6 +42,10 @@ footer {
     margin-top: 40px;
 }
 
+footer a {
+    color: rgba(148, 82, 0, 0.7);
+}
+
 /* Content */
 
 h2 {
