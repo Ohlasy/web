@@ -1,0 +1,21 @@
+.article-info {
+    padding: 20px;
+    background: rgb(240, 240, 240);
+    margin-top: 30px;
+    border-top: 1px solid silver;
+}
+
+.profile-picture {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.article-info img, .article-info ul {
+    display: inline-block;
+    vertical-align: top;
+}

@@ -16,6 +16,16 @@
             <article class="col-md-8">
                 <h2>{{ page.title }}</h2>
                 {{ content }}
+                <div class="article-info">
+                    {% assign author_photo = site.data.autori[page.author].profilovka %}
+                    {% assign author_email = site.data.autori[page.author].mail %}
+                    <img src="/img/profiles/{{ author_photo }}" class="profile-picture">
+                    <ul class="list-unstyled">
+                        <li>{{ page.author }}
+                        <li><a href="mailto:{{ author_email }}">{{ author_email }}</a>
+                        <li>{{ page.date | date: "%-d. %-m. %Y" }}
+                    </ul>
+                </div>
             </article>
         </div>
     </main>
