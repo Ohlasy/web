@@ -5,4 +5,4 @@ paginate_path: "/clanky/strana/:num"
 paginate: 6
 
 future: false
-exclude: ['README.md']
+exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor']
