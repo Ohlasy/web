@@ -1,0 +1,87 @@
+@import url(fonts/stylesheet.css);
+
+body {
+    font-family: 'PT Serif';
+    font-size: 19px;
+    color: #444;
+}
+
+/* Header */
+
+header {
+    border-bottom: 1px solid #ddd;
+}
+
+h1 {
+    font-family: 'Ladislav';
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgb(148, 82, 0);
+    font-size: 250%;
+    line-height: 1em;
+}
+
+h1 .subtitle {
+    color: silver;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Ladislav';
+    font-weight: normal;
+    font-size: 200%;
+}
+
+main {
+    width: 700px;
+    margin: auto;
+}
+
+/* Article Previews */
+
+p.article-perex {
+    line-height: 1.6em;
+    font-style: italic;
+}
+
+.article-preview a, .article-preview a:hover {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border: none;
+}
+
+.article-preview {
+    padding-bottom: 10px;
+}
+
+.article-preview:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+}
+
+/* Footer */
+
+footer {
+    border-top: 1px solid #ddd;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    margin-top: 40px;
+}
+
+/* Content */
+
+h2 {
+    line-height: 1.3em;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(148, 82, 0);
+}
+
+a:hover {
+    text-decoration: none;
+    border-bottom: 3px solid rgba(148, 82, 0, 0.5);
+    color: rgb(148, 82, 0);
+    padding-bottom: -3px;
+}

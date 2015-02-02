@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Ladislav Regular';
+    src: url('Ladislav-Regular.eot');
+    src: url('Ladislav-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Ladislav-Regular.woff') format('woff'),
+         url('Ladislav-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ladislav Semibold';
+    src: url('Ladislav-Semibold.eot');
+    src: url('Ladislav-Semibold.eot?#iefix') format('embedded-opentype'),
+         url('Ladislav-Semibold.woff') format('woff'),
+         url('Ladislav-Semibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
