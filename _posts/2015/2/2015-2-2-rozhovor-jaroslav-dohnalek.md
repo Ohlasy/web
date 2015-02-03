@@ -39,7 +39,9 @@ Mně se to těžko hodnotí. Tohle si často neuvědomíte. Přicházejí třeba
 **Přes to všechno: volební výsledek vypadá na první pohled jako drtivé vítězství ČSSD. Jenže minulá koalice prohrála v nejtěsnějším možném poměru – o jeden mandát. Nelitujete dnes, že jste post starosty neobhajoval? Ono to vypadá, že minulé koalici ty volby prohrála ODS tím, že nasadila nepřijatelného lídra.**
 
 Tento názor jsem slyšel mnohokrát. Bylo mi i spíláno: „Kdybys tam byl býval ty…“ Ale ne, nelituju. Já jsem do toho šel s tím, že netoužím po funkci starosty. Potřeboval jsem změnit rytmus, postarat se víc o rodinu, těch osm let bylo dost. Chtěl jsem, abychom jako koalice uspěli a já seděl v radě města, vrátil se do Služeb a byl u toho, kam se bude město posunovat dál. Ale po lídrovství a starostování jsem netoužil, říkal jsem, že budu dělat starostu jen v případě, kdyby to na mě nějak zbylo, kdyby na nikom jiném nebyla shoda. To jsem bral jako maximálně ústupovou variantu. Kdybych chtěl, tak jsem tím lídrem byl. Ale k tomu jednomu mandátu: já vůbec nezávidím nové primátorce Prahy, mít většinu jednoho hlasu – to se strašně špatně šéfuje.
-A jak v ODS reflektujete volební výsledek? Zvenku to vypadalo, že pácháte sebevraždu – promiňte, ale to vám to opravdu nedocházelo? Totiž že by bylo lepší nabídnout jinou tvář?
+
+**A jak v ODS reflektujete volební výsledek? Zvenku to vypadalo, že pácháte sebevraždu – promiňte, ale to vám to opravdu nedocházelo? Totiž že by bylo lepší nabídnout jinou tvář?**
+
 Jedna věc je nabídka a druhá věc je možnost něco nabídnout. Že by bylo milion uchazečů o lídrovství, tak to mi věřte, že nebylo.
 
 **Není tohle jeden z důvodů obecného propadu ODS? Tedy to, že potřebujete přitáhnout nové lidi?**
