@@ -88,7 +88,7 @@ Se Službami je to trochu jinak. Jednatel může být jen jeden, a když jsem j�
 
 **A jaké máte plány teď?**
 
-Budu osoba samostatně výdělečně činná. Budu vykonávat rúzné práce pro různé firmy především v ekonomické oblasti.
+Budu osoba samostatně výdělečně činná. Budu vykonávat různé práce pro různé firmy především v ekonomické oblasti.
 
 **Jste šéf místní ODS. Umíte si představit, že ji za necelé 4 roky zase povedete do voleb a budete se znovu ucházet o post starosty?**
 
