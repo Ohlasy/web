@@ -48,9 +48,9 @@ To se snaží všechny politické strany. Já si ale opravdu nemyslím, že by t
 
 <img src="http://i.imgur.com/RA2iLKd.jpg" alt="Jaroslav Dohnálek" class="img-responsive">
 
-**A jak s jakým předsevzetím teď jdete vy do nové role opozičního zastupitele? Chcete se chovat jinak? Jak si na to zvykáte?**
+**A s jakým předsevzetím teď jdete vy do nové role opozičního zastupitele? Chcete se chovat jinak? Jak si na to zvykáte?**
 
-Ono je ještě brzo. Ale já nejsem ten, který stojí na barikádách a střílí. Myslím, že můžu mluvit i za kolegy z ODS: my nemáme problém podpořit to, co bude rozumné. Kdybyste si probral zápisy ze zastupitelstev v letech 2010–2014, tak de facto nebylo ani rozpočtové opatření, byť tam byly bohulibé věci, které by opozice podpořila. Ptal jsem se jich, co jim na tom vadí, neměli ani žádný jiný návrh, ale jen proto, že to navrhovala koalice, byli buď proti, nebo se zdrželi. Tak já se chovat odmítám. Předvedli jsme to už v tom, že jsme respektovali výsledek voleb a jak paní starostku, tak paní místostarostku a pana místostarostu jsme volili.
+Ono je ještě brzo. Ale já nejsem ten, který stojí na barikádách a střílí. Myslím, že můžu mluvit i za kolegy z ODS: my nemáme problém podpořit to, co bude rozumné. Kdybyste si probral zápisy ze zastupitelstev v letech 2010–2014, tak de facto nebylo ani jedno rozpočtové opatření, byť tam byly bohulibé věci, které by opozice podpořila. Ptal jsem se jich, co jim na tom vadí, neměli ani žádný jiný návrh, ale jen proto, že to navrhovala koalice, byli buď proti, nebo se zdrželi. Tak já se chovat odmítám. Předvedli jsme to už v tom, že jsme respektovali výsledek voleb a jak paní starostku, tak paní místostarostku a pana místostarostu jsme volili.
 
 **Mně se zdálo, že tohle byly jen formální věci, ale že minulá opozice byla naopak často dost pasivní. V kauzách jako dinopark nebo vyhláška se ozvala vždy spíš občanská společnost a opozice se z mého pohledu chovala zdrženlivě. I pan Farský na besedě o hale přiznal, že začátek úplně prospali. Nepropadnete se do takové pasivity taky? Koalice má jasnou převahu, vypadá soudržně, moc prostoru pro to něco reálně prosadit mít asi nebudete…**
 
@@ -86,11 +86,11 @@ Se Službami je to trochu jinak. Jednatel může být jen jeden, a když jsem j�
 
 **A jaké máte plány teď?**
 
-Budu osoba samostatně výdělečně činná. A mám domluvené, že budu vykonávat práci pro některé brněnské firmy, díky konexím, které jsem měl ještě z dob studií. Bude to v mém ekonomickém ranku.
+Budu osoba samostatně výdělečně činná. Budu vykonávat rúzné práce pro různé firmy především v ekonomické oblasti.
 
 **Jste šéf místní ODS. Umíte si představit, že ji za necelé 4 roky zase povedete do voleb a budete se znovu ucházet o post starosty?**
 
-To je předčasné. My se teď v ODS nezabýváme tím, co bude za čtyři roky. My teď přemýšlíme o tom, jak bychom tu na celostátní úrovni pošramocenou pověst ODS naší prací zase vyhladili. A ukázali, že tady to neděláme tak blbě. Dění v Boskovicích nám není lhostejné, musíme reagovat, chovat se korektně a co bude za čtyři roky, to uvidíme. Ona nemusí ODS ani existovat, ale já mám důvěru v pana profesora Fialu a věřím, že by tu trajektorii mohl převrátit.
+To je předčasné. Každá politická strana chce vyhrávat volby, jinak její činnost nemá smysl. My teď přemýšlíme, jak přesvědčit lidi a obyvatele, že v Boskovicích se ODS nechovala nijak blbě, nebyla zde žádná fatálně špatná kolektivní rozhodnutí a nedošlo k osobním selháním jako v nejvyšších patrech ODS. Dění v Boskovicích nám není lhostejné, musíme reagovat, chovat se korektně a co bude za čtyři roky, to uvidíme. Ona nemusí ODS ani existovat, ale já mám důvěru v pana profesora Fialu a věřím, že by tu trajektorii mohl převrátit.
 
 **A vyšší politika vás nikdy nelákala?**
 
