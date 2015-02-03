@@ -57,6 +57,7 @@ Kino Panorama je po technické stránce zabezpečené, máme opravdu na pár let
 Úplně nejméně. Bylo to filmovými tituly, které se zde hrály. Filmy na 35 milimetrovém pásu se přestaly vyrábět, a pokud zde máme jen tuto technologii, musíme uvádět jen staré filmy. A na ně diváci samozřejmě nepřijdou. Snažili jsme se to řešit tím, že jsme hráli novější filmy z DVD nosiče přes dataprojektor, ale náš letňák je tak obrovský, že to prostě neusvítíme. To může fungovat v Lysicích, kde je menší plátno a menší projekční vzdálenost. Abychom u nás zajistili plnohodnotnou projekci, musíme mít digitál.
 
 **A je to reálné?**
+
 Digitalizovat letní kino se určitě v nejbližší době nebude. Ale mohlo by se podařit zapůjčení digitálního projektoru. Nese to s sebou různé technické záludnosti, takže musíme pozvat technika, aby to nějak vymyslel.
 
 **Může se to podařit ještě letos?**
