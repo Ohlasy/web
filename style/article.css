@@ -5,6 +5,16 @@
     border-top: 1px solid silver;
 }
 
+.article-info ul {
+    margin-top: 10px;
+}
+
+.article-info .profile-picture {
+    margin-left: 0;
+}
+
+/* Images */
+
 .profile-picture {
     background-repeat: no-repeat;
     background-position: 50%;
@@ -14,18 +24,9 @@
     height: 100px;
     margin-right: 20px;
     margin-bottom: 10px;
+    margin-left: -20px;
+    float: left;
 }
-
-.article-info img, .article-info ul {
-    display: inline-block;
-    vertical-align: top;
-}
-
-.article-info ul {
-    margin-top: 10px;
-}
-
-/* Images */
 
 article .img-responsive {
     margin-top: 20px;
