@@ -1,7 +1,6 @@
 ---
 title: "Anketa: Boskovické kino a filmy roku 2014"
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/Ymm5PXp.jpg
 excerpt: "U příležitosti vyhodnocení loňského roku v boskovickém kině jsme se zeptali také několika lidí, kteří mají k filmu blízko, aby nám odpověděli na anketní otázky: Vyhovuje vám zázemí a dramaturgie boskovického kina? Jaké filmy vás loni zaujaly nejvíc? Odpovídají David Tosim Čuřík, Ivet Juřeková, Jan Bařinka a Kristýna Synková."
 ---
 
