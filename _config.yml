@@ -1,4 +1,5 @@
 markdown: kramdown
+url: 'http://ohlasy.info'
 
 permalink: '/clanky/:year/:month/:title.html'
 paginate_path: "/clanky/strana/:num"
