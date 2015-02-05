@@ -4,7 +4,7 @@ author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/jx13BEP.jpg
 ---
 
-Úplný zákaz hazardu oznámilo společně se zveřejněním programového prohlášení nové vedení boskovické radnice. Z města by tak měly kompletně zmizet hrací automaty i videoloterijní terminály. Novou vyhlášku by koalice ČSSD, KDU-ČSL a ANO chtěla schválit letos, platit by ale začala od ledna roku 2016. Postup radnice se paradoxně nelíbí ani podnikatelům, kteří jsou s hazardem spojení, ani občanským aktivistům, kteří proti němu bojují.
+*Úplný zákaz hazardu oznámilo společně se zveřejněním programového prohlášení nové vedení boskovické radnice. Z města by tak měly kompletně zmizet hrací automaty i videoloterijní terminály. Novou vyhlášku by koalice ČSSD, KDU-ČSL a ANO chtěla schválit letos, platit by ale začala od ledna roku 2016. Postup radnice se paradoxně nelíbí ani podnikatelům, kteří jsou s hazardem spojení, ani občanským aktivistům, kteří proti němu bojují.*
 
 <img src="http://i.imgur.com/jx13BEP.jpg" class="img-responsive" alt="Ilustrační foto hracích automatů">
 

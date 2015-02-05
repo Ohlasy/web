@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/l9ubvOk.jpg
 author: Marek Osouch
 ---
 
-Nález uhlí a problémy s podložím loni na jaře odstartovaly úřednickou mašinérii o povolení změny stavby boskovické sportovní haly. Stavební úřad v polovině července vydal nové povolení. Odpůrci haly v lokalitě na Slovákově ulici se však odvolali ke krajskému úřadu, ten jim v jejich námitkách dal za pravdu a rozhodnutí stavebního úřadu zrušil.
+*Nález uhlí a problémy s podložím loni na jaře odstartovaly úřednickou mašinérii o povolení změny stavby boskovické sportovní haly. Stavební úřad v polovině července vydal nové povolení. Odpůrci haly v lokalitě na Slovákově ulici se však odvolali ke krajskému úřadu, ten jim v jejich námitkách dal za pravdu a rozhodnutí stavebního úřadu zrušil.*
 
 <img src="http://i.imgur.com/l9ubvOk.jpg" alt="místo, na kterém by měla vyrůst hala" class="img-responsive">
 
