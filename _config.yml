@@ -1,4 +1,7 @@
 markdown: kramdown
+
+name: Ohlasy
+description: 'Internetové noviny pro Boskovice a okolí'
 url: 'http://ohlasy.info'
 
 permalink: '/clanky/:year/:month/:title.html'
