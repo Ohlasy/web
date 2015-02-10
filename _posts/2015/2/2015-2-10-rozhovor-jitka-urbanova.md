@@ -65,7 +65,9 @@ Mám taky takový pocit. Přesná čísla bohužel neexistují, ale zaznamenáv�
 **Stává se, že se pro veganství někdo rozhodne spíš jako pro životní styl, který mu třeba přijde nějak atraktivní či trendy? Vydrží to pak takovým lidem, jakou máš zkušenost? Dochází k fluktuaci?**
 
 Samozřejmě, takhle to bude vždycky a u všeho. Ale nemyslím si, že by všichni současní vegani byli do pěti let zpět. Záleží na motivaci, já si nedovedu představit etického vegana, že by se vrátil, na určité úrovni pochopení není cesty zpět. 
-V Boskovicích jste začali pořádat Veganské společenské večeře v Kafe za rohem. To vzešlo hlavně z potřeby se setkávat?
+
+**V Boskovicích jste začali pořádat Veganské společenské večeře v Kafe za rohem. To vzešlo hlavně z potřeby se setkávat?**
+
 Vegani mají určitě potřebu se setkávat, být vegan sám bez kontaktu s dalšími je docela těžké. Ale veganské večeře nejsou primárně určeny k setkávání veganů, jsou hlavně otevřené veřejnosti. A tady se to přesně povedlo, lidé chodí, zjišťují, že veganská strava může chutnat a vypadat dobře. Je to takový první stupeň aktivismu. Zveme lidi na jídlo a chceme jim také ukázat ty další věci, které s veganstvím souvisejí.
 
 **Kolik lidí chodí?**
