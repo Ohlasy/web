@@ -18,7 +18,7 @@ Boskovice leží podle lesní typologie v pásmu dubo-bukovém a buko-jedlovém
 
 <img src="http://i.imgur.com/txMg1zb.jpg" alt="buk naproti ZUŠ" class="img-responsive">
 
-Nejznámějším a samostatně stojícím bukem v Boskovicích je určitě buk lesní (*Fagus sylvatica*) na Nám. 9. května (u „Zelené“ ZŠ). Další nádherný a mohutný buk roste v zámecké zahradě pod zámkem, jedná se o červenolistý kultivar (*Fagus sylvatica cv. Atropunicea*). Bukové stromořadí najdete na ulici Mánesova a krásné červenolisté buky také lemují zahradu MŠ na ulici Lidická. 
+Nejznámějším a samostatně stojícím bukem v Boskovicích je určitě buk lesní (*Fagus sylvatica*) na náměstí 9. května (u „Zelené“ ZŠ). Další nádherný a mohutný buk roste v zámecké zahradě pod zámkem, jedná se o červenolistý kultivar (*Fagus sylvatica cv. Atropunicea*). Bukové stromořadí najdete na ulici Mánesova a krásné červenolisté buky také lemují zahradu MŠ na ulici Lidická. 
 
 ### Buk u Zelené ZŠ
 
@@ -61,4 +61,4 @@ Gigantický a patrně nejmohutnější památný buk Jihomoravského kraje má v
 Fascinující buky najdeme jižně pod areálem zámku ve Velkých Opatovicích v blízkosti proslavené borovice, stromu roku 2014 a kandidáta na evropský strom roku. Zdejší park je plný zajímavých stromů. Naše fantazie nemůže být nikdy dostatečná, zdejší stromy nám ukazují, že každý je vskutku individuální. Zmíněný buk byl pravděpodobně dvoják. Část kmene je již řadu let pryč. Původně musel dosahovat přes šest metrů v obvodu. 
 Staleté buky najdete v lesích Josefovského údolí mezi Adamovem a Býčí skálou. Samozřejmě jsou nepřehlédnutelné mohutné buky v Lednickém parku a ve Slavkově u Brna. 
 
-Boskovický buk na Nám. 9. května není tak gigantický ani natolik originální jako některé památné buky naší krásné země, ale podle mě je pro místní obyvatele neodlučitelnou součástí zdejšího života. Do budoucna si jistě status Památného stromu zaslouží, nemyslíte?
+Boskovický buk na náměstí 9. května není tak gigantický ani natolik originální jako některé památné buky naší krásné země, ale podle mě je pro místní obyvatele neodlučitelnou součástí zdejšího života. Do budoucna si jistě status Památného stromu zaslouží, nemyslíte?
