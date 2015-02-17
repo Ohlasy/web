@@ -8,7 +8,7 @@ serial: stromy
 
 *Buky dlouho čekají,  
 trpělivě stráží vědění.  
-Až koruny mohutné  
+Až koruny mohutné,  
 plné zářícího listí,  
 dokonale zastíní oblohu.
 Kdo je ctí a naslouchá,  
@@ -18,7 +18,7 @@ Boskovice leží podle lesní typologie v pásmu dubo-bukovém a buko-jedlovém
 
 <img src="http://i.imgur.com/txMg1zb.jpg" alt="buk naproti ZUŠ" class="img-responsive">
 
-Nejznámějším a samostatně stojícím bukem v Boskovicích je určitě buk lesní (*Fagus sylvatica*) na Nám. 9. května (u „Zelené“ ZŠ). Další nádherný a mohutný buk roste v zámecké zahradě pod zámkem, jedná se o červenolistý kultivar (*Fagus sylvatica cv. Atropunicea*). Bukové stromořadí najdete na ulici Mánesova a krásné červenolisté buky také lemují zahradu MŠ na ulici Lidická. 
+Nejznámějším a samostatně stojícím bukem v Boskovicích je určitě buk lesní (*Fagus sylvatica*) na náměstí 9. května (u „Zelené“ ZŠ). Další nádherný a mohutný buk roste v zámecké zahradě pod zámkem, jedná se o červenolistý kultivar (*Fagus sylvatica cv. Atropunicea*). Bukové stromořadí najdete na ulici Mánesova a krásné červenolisté buky také lemují zahradu MŠ na ulici Lidická. 
 
 ### Buk u Zelené ZŠ
 
@@ -34,7 +34,7 @@ Buky pro svou mohutnost nejsou příliš vhodné do města, ale jsou oblíbenou 
 
 ### Bukové stromořadí na ulici Mánesova
 
-Na žádost místních obyvatel zde proběhla na jaře roku 2014 regenerace. Buky již dosáhly své velikosti a značně zastiňují lidem zahrady, nadzvedávají povrch chodníků a některé zasahovaly svými větvemi do komunikace a elektrického vedení. Příliš jsem nepochopila, proč byly vysazeny po dvou. Je to dost neobvyklé, hlavně u tak velkých stromů. Zřejmě bylo v záměru, aby byla rychle odcloněna komunikace na Blansko a ještě před šedesáti lety nebyl u nás ani v dřevinách velký výběr. Stromy byly zmlazeny a jeden ze dvojice byl pokácen. Nevím, jak by bylo mě, kdyby mi po více jak půl století odřízli souputníka – bratra, jehož větve i kořeny byly od mládí s mými propletené. Možná jsou rádi, že se konečně zbavily konkurenta. Jejich koruny byly upraveny do rovnoměrného tvaru. Tvrdé a těžké bukové dřevo zřejmě zahřívá několik rodin. Díky dobré vůli těch, co pracují v odboru tvorby a ochrany životního prostředí města Boskovice a těch, co stromy káceli, jsme získali několik zajímavě tvarovaných špalků do ZŠ na Sušilově. Slouží jako krásné posezení v atriu školy. 
+Na žádost místních obyvatel zde proběhla na jaře roku 2014 regenerace. Buky již dosáhly své velikosti a značně zastiňují lidem zahrady, nadzvedávají povrch chodníků a některé zasahovaly svými větvemi do komunikace a elektrického vedení. Příliš jsem nepochopila, proč byly vysazeny po dvou. Je to dost neobvyklé, hlavně u tak velkých stromů. Zřejmě bylo v záměru, aby byla rychle odcloněna komunikace na Blansko a ještě před šedesáti lety nebyl u nás ani v dřevinách velký výběr. Stromy byly zmlazeny a jeden ze dvojice byl pokácen. Nevím, jak by bylo mně, kdyby mi po více jak půl století odřízli souputníka – bratra, jehož větve i kořeny byly od mládí s mými propletené. Možná jsou rádi, že se konečně zbavily konkurenta. Jejich koruny byly upraveny do rovnoměrného tvaru. Tvrdé a těžké bukové dřevo zřejmě zahřívá několik rodin. Díky dobré vůli těch, co pracují v odboru tvorby a ochrany životního prostředí města Boskovice, a těch, co stromy káceli, jsme získali několik zajímavě tvarovaných špalků do ZŠ na Sušilově. Slouží jako krásné posezení v atriu školy. 
 
 ### Buky ve znamení Keltského stromokruhu
 
@@ -61,4 +61,4 @@ Gigantický a patrně nejmohutnější památný buk Jihomoravského kraje má v
 Fascinující buky najdeme jižně pod areálem zámku ve Velkých Opatovicích v blízkosti proslavené borovice, stromu roku 2014 a kandidáta na evropský strom roku. Zdejší park je plný zajímavých stromů. Naše fantazie nemůže být nikdy dostatečná, zdejší stromy nám ukazují, že každý je vskutku individuální. Zmíněný buk byl pravděpodobně dvoják. Část kmene je již řadu let pryč. Původně musel dosahovat přes šest metrů v obvodu. 
 Staleté buky najdete v lesích Josefovského údolí mezi Adamovem a Býčí skálou. Samozřejmě jsou nepřehlédnutelné mohutné buky v Lednickém parku a ve Slavkově u Brna. 
 
-Boskovický buk na Nám. 9. května není tak gigantický ani natolik originální jako některé památné buky naší krásné země, ale podle mě je pro místní obyvatele neodlučitelnou součástí zdejšího života. Do budoucna si jistě status Památného stromu zaslouží, nemyslíte?
+Boskovický buk na náměstí 9. května není tak gigantický ani natolik originální jako některé památné buky naší krásné země, ale podle mě je pro místní obyvatele neodlučitelnou součástí zdejšího života. Do budoucna si jistě status Památného stromu zaslouží, nemyslíte?
