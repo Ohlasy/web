@@ -33,14 +33,14 @@ why: A dummy header to make Jekyll process this file.
                         {% if paginator.next_page %}
                             <li><a href="/clanky/strana/{{ paginator.next_page }}">Starší články</a>
                         {% else %}
-                            <li class="disabled"><a href="">Starší články</a>
+                            <li class="disabled"><a href="#">Starší články</a>
                         {% endif %}
                         {% if paginator.previous_page == 1 %}
                             <li><a href="/">Novější články</a>
                         {% elsif paginator.previous_page %}
                             <li><a href="/clanky/strana/{{ paginator.previous_page }}">Novější články</a>
                         {% else %}
-                            <li class="disabled"><a href="">Novější články</a>
+                            <li class="disabled"><a href="#">Novější články</a>
                         {% endif %}
                         </ul>
                     </nav>
