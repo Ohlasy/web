@@ -18,7 +18,7 @@ why: A dummy header to make Jekyll process this file.
     <main class="container">
         <div class="row">
             <div class="col-md-8">
-                {% for post in site.posts %}
+                {% for post in paginator.posts %}
                 <div class="article-preview">
                     <a href="{{ post.url }}">
                         <h2>{{ post.title }}</h2>
@@ -27,6 +27,24 @@ why: A dummy header to make Jekyll process this file.
                     <p class="text-muted">¶ {{ post.author }}, {{ post.date | date: "%-d. %-m. %Y" }}</p>
                 </div>
                 {% endfor %}
+                {% if paginator.total_pages > 1 %}
+                    <nav>
+                        <ul class="pager">
+                        {% if paginator.next_page %}
+                            <li><a href="/clanky/strana/{{ paginator.next_page }}">Starší články</a>
+                        {% else %}
+                            <li class="disabled"><a href="">Starší články</a>
+                        {% endif %}
+                        {% if paginator.previous_page == 1 %}
+                            <li><a href="/">Novější články</a>
+                        {% elsif paginator.previous_page %}
+                            <li><a href="/clanky/strana/{{ paginator.previous_page }}">Novější články</a>
+                        {% else %}
+                            <li class="disabled"><a href="">Novější články</a>
+                        {% endif %}
+                        </ul>
+                    </nav>
+                {% endif %}
             </div>
             <div class="col-md-4">
                 <h2>Editorial</h2>

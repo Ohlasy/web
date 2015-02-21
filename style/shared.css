@@ -33,6 +33,13 @@ h2 {
     font-size: 200%;
 }
 
+/* Pager */
+
+ul.pager li {
+    float: left;
+    margin-right: 1ex;
+}
+
 /* Footer */
 
 footer {
