@@ -38,6 +38,7 @@ h2 {
 ul.pager li {
     float: left;
     margin-right: 1ex;
+    margin-top: 20px;
 }
 
 /* Footer */

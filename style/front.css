@@ -21,8 +21,5 @@ header {
 
 .article-preview {
     padding-bottom: 10px;
-}
-
-.article-preview:not(:last-child) {
     border-bottom: 1px solid #ddd;
 }
