@@ -31,7 +31,9 @@ My víme, že jsou věci, které zasahují do osobního života, do skupiny vaš
 **Cítíte se jako „koalice změn“? Je míra změn taková, jakou od vás čekali vaši voliči?**
 
 Za ty tři měsíce lze odvést nějakou práci, která by byla vidět, pouze pomocí kroků, které nepotřebují žádnou přípravu.
-Otázka míří spíš do budoucna, právě k programovému prohlášení.
+
+**Otázka míří spíš do budoucna, právě k programovému prohlášení.**
+
 Jistě. Ale už když jsme přišli na radnici, zavedli jsme třeba trhy zpět na Růžové náměstí. Deklarovali jsme transparentnost úřadu a už se zveřejňují zápisy z jednání rady města včetně hlasování jednotlivých radních. Do června bude schválena změna jednacího řádu zastupitelstva a budou umožněny přímé přenosy z jednání. To jsou kroky, které jsou viditelné. Myslím, že řada věcí se uskuteční už do pololetí. A zpracovává se strategický plán, což je pro mě pro letošní rok priorita. To se musí do konce roku zvládnout. Samozřejmě se musí vycházet ze spolupráce s občany. Ať už z výsledků anket, které proběhly třeba v loňském roce nebo probíhají teď. Návrh strategie bude zveřejněn na webových stránkách, aby jej občané mohli připomínkovat, a tento návrh bude projednán s veřejností. Už jen toto je důležitá věc.
 
 **Na počátku jste mírnili obavy, že nepřicházíte na úřad nikoho vyhazovat a dělat čistky. Na druhou stranu: je vůbec možná zásadní změna kurzu, když vedoucí odborů, všichni ředitelé příspěvkovek a další důležití úředníci zůstávají na svých místech? Nebo k těm změnám přece jen dojde?**
