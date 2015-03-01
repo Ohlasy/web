@@ -1,7 +1,7 @@
 ---
 title: "Komentář: Ticho v kritickém táboře"
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/10ClofC.jpg
+cover-photo: http://i.imgur.com/10ClofCl.jpg
 ---
 
 *Boskovice opět zvítězily v krajském kole soutěže o nejlepší městskou památkovou zónu. Znamená to jistě pozitivní přísun peněz určených na opravy památek, ale také povzbuzení pro ty, kteří snaze o zvelebování nejen židovské čtvrti, ale celé zóny zahrnující 36 nemovitých památek, věnují nemalé úsilí.*

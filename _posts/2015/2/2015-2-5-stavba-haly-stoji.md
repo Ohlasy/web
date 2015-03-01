@@ -1,6 +1,6 @@
 ---
 title: Co bude se stavbou haly? Do rozhodnutí se nikomu nechce
-cover-photo: http://i.imgur.com/l9ubvOk.jpg
+cover-photo: http://i.imgur.com/l9ubvOkl.jpg
 author: Marek Osouch
 ---
 

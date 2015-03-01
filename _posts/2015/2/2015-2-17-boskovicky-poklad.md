@@ -1,7 +1,7 @@
 ---
 title: V muzeu vystavují zachráněné torzo boskovického pokladu
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/Y5bMFk4.jpg
+cover-photo: http://i.imgur.com/Y5bMFk4l.jpg
 ---
 
 *Boskovický poklad vystavují od minulého týdne do 26. dubna v boskovickém muzeu. Poklad byl objeven pomocí detektoru na kopci zvaném Zlatník již v červenci roku 2010, avšak jeho nálezce nesplnil oznamovací povinnost a poklad naopak tajně rozprodal. Unikátní nález tím byl znehodnocen, neboť z původních 6 kilogramů stříbrných mincí se jich policii podařilo dohledat pouze něco přes 1,6 kilogramu, celkem 2 267 kusů. Zachráněn byl rovněž džbán, do kterého byl poklad zabalený v tkanině vložen a který byl pak uschován na bezpečném místě pod kamenem. To se odehrálo ve 40. letech 17. století, tedy v neklidné době, kdy v Evropě vrcholila třicetiletá válka. Při nálezu byl džbán asi 20 centimetrů pod povrchem.*

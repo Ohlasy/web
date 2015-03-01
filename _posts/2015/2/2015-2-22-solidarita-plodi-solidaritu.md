@@ -1,6 +1,6 @@
 ---
 title: "Komentář: Solidarita plodí solidaritu"
-cover-photo: http://i.imgur.com/tpSybPD.png
+cover-photo: http://i.imgur.com/tpSybPDl.png
 author: Tomáš Trumpeš
 ---
 

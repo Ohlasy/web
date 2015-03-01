@@ -1,7 +1,7 @@
 ---
 title: "Život pod stromy: Buky"
 author: Martina Lukešová
-cover-photo: http://i.imgur.com/txMg1zb.jpg
+cover-photo: http://i.imgur.com/txMg1zbl.jpg
 excerpt: "Boskovice leží podle lesní typologie v pásmu dubo-bukovém a buko-jedlovém. Kdybychom se mohli podívat na zdejší krajinu hluboko do minulosti, viděli bychom husté bučiny a mnohé mohutné jedle, ve svazích přecházející do doubrav a v údolí potoků do neprostupných lužních křovin s olšemi, vrbami a jasany. Proto jsou tyto stromy pro zdejší kraj typické, patří sem od pradávna. A proto právě buky zahajujeme náš seriál o stromech Boskovicka."
 serial: stromy
 ---

@@ -1,7 +1,7 @@
 ---
 title: Boskovická radnice plánuje zrušení hazardu, ale až za rok. „Je to alibistické,“ říká protihazardní aktivista
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/jx13BEP.jpg
+cover-photo: http://i.imgur.com/jx13BEPl.jpg
 ---
 
 *Úplný zákaz hazardu oznámilo společně se zveřejněním programového prohlášení nové vedení boskovické radnice. Z města by tak měly kompletně zmizet hrací automaty i videoloterijní terminály. Novou vyhlášku by koalice ČSSD, KDU-ČSL a ANO chtěla schválit letos, platit by ale začala od ledna roku 2016. Postup radnice se paradoxně nelíbí ani podnikatelům, kteří jsou s hazardem spojení, ani občanským aktivistům, kteří proti němu bojují.*

@@ -1,7 +1,7 @@
 ---
 title: Unijazz připravuje festival a zahajuje sérii setkání v Židovské obecní škole
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/2k61I9t.jpg
+cover-photo: http://i.imgur.com/2k61I9tl.jpg
 ---
 
 *Pražské sdružení Unijazz, které už více než 20 let pořádá také festival Boskovice, založilo před časem svou brněnskou pobočku. A k prvním aktivitám nového spolku na podporu kulturních aktivit bude patřit i cyklus setkání v Židovském obecním domě v Boskovicích. To první se koná dnes, tedy ve středu 25. února od 17 hodin.*
