@@ -1,0 +1,14 @@
+<div class="article-preview {{ include.class }}">
+    <a href="{{ post.url }}">
+        <div class="force-hd-aspect">
+            {% if post.cover-photo %}
+            <img src="{{ post.cover-photo }}" class='img-responsive'>
+            {% else %}
+            <img src="/img/generic.png" class='img-responsive'>
+            {% endif %}
+        </div>
+        <h2>{{ post.title }}</h2>
+        <p class="article-perex">{{ post.excerpt | strip_html }}</p>
+    </a>
+    <p class="text-muted">¶ {{ post.author }}, {{ post.date | date: "%-d. %-m. %Y" }}</p>
+</div>

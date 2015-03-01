@@ -17,79 +17,17 @@ why: A dummy header to make Jekyll process this file.
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-md-8">
-                {% for post in paginator.posts %}
-                <div class="article-preview">
-                    <a href="{{ post.url }}">
-                        <h2>{{ post.title }}</h2>
-                        <p class="article-perex">{{ post.excerpt | strip_html }}</p>
-                    </a>
-                    <p class="text-muted">¶ {{ post.author }}, {{ post.date | date: "%-d. %-m. %Y" }}</p>
-                </div>
-                {% endfor %}
-                {% if paginator.total_pages > 1 %}
-                    <nav>
-                        <ul class="pager">
-                        {% if paginator.next_page %}
-                            <li><a href="/clanky/strana/{{ paginator.next_page }}">Starší články</a>
-                        {% else %}
-                            <li class="disabled"><span>Starší články</span>
-                        {% endif %}
-                        {% if paginator.previous_page == 1 %}
-                            <li><a href="/">Novější články</a>
-                        {% elsif paginator.previous_page %}
-                            <li><a href="/clanky/strana/{{ paginator.previous_page }}">Novější články</a>
-                        {% else %}
-                            <li class="disabled"><span>Novější články</span>
-                        {% endif %}
-                        </ul>
-                    </nav>
-                {% endif %}
-            </div>
-            <div class="col-md-4">
-                <h2>Editorial</h2>
-                <p>Vážené čtenářky a vážení čtenáři, vítejte na stránkách
-                internetových novin, které jsme nazvali Ohlasy, s podtitulem
-                dění na Boskovicku.</p>
-                <p>Jak název napovídá, naším cílem nebude pouze informovat o
-                událostech v Boskovicích a přilehlém regionu, ale chtěli bychom
-                toto dění také hlouběji reflektovat, diskutovat o něm,
-                zprostředkovávat postoje a názory konkrétních osobností, tedy
-                nechávat zaznít jejich (o)hlasy.</p>
-                <p>Spolupráci nám přislíbilo několik novinářů, se kterými jsme
-                se v posledních měsících či letech podíleli na chodu
-                regionálních novin Boskovicko.</p>
-                <p>Začínáme takříkajíc od nuly, ale budeme se maximálně snažit,
-                aby si Ohlasy našly co nejdříve svou vlastní, charakteristickou
-                tvář a prokazovaly vám čtenářům dobrou službu. Totiž aby všem,
-                kterým není lhostejné dění v místě, kde žijeme, pomáhaly dobře
-                se v tomto dění orientovat, utvářet si ucelený pohled a poučené
-                názory. Věříme, že tak můžeme přispět k vyšší kvalitě života a
-                k pozitivnímu rozvoji tohoto kousku světa, který tvoří náš
-                společný domov.</p>
-                <p>Důležitou odezvou naší práce bude samozřejmě především váš
-                zájem o ni. A to nikoliv pouze ve smyslu kvantitativním, což
-                lze změřit čteností jednotlivých článků, ale také
-                prostřednictvím vašich konkrétních ohlasů. Těšíme se proto
-                nejen na sdílení zájmu o dění kolem nás prostřednictvím našich
-                textů a fotografií, ale také na setkávání, ať už při osobních
-                příležitostech, v diskusích, při korespondenci či na sociálních
-                sítích.</p>
-                <p>Se svými podněty a náměty se na nás neváhejte obracet, třeba
-                prostřednictvím e-mailové adresy <a
-                href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>.</p>
-                <p>Již nyní se na nás obrátilo několik lidí s dotazem, zda bude
-                existovat i tištěná podoba Ohlasů. Upřímně odpovídám, že
-                prozatím to není v našich možnostech, ale do budoucna to
-                nevylučujeme, protože jsme přesvědčeni, že by si Boskovicko
-                pěkný tištěný časopis zasloužilo.</p>
-                <p>Tedy uvidíme, zatím nám držte palce. A hlavně nás čtěte – to
-                je pro nás v tuto chvíli nejdůležitější. Na váš zájem a vaše ohlasy
-                se těší</p>
-                <p><em>Tomáš Trumpeš</em></p>
-            </div>
+            {% for post in paginator.posts | limit: 3 %}
+            {% include article/preview.html class="col-md-4" %}
+            {% endfor %}
         </div>
     </main>
+    <hr>
+    <div class="container">
+        <div class="row">
+            {% include pagination-links.html %}
+        </div>
+    </div>
     {% include footer.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
