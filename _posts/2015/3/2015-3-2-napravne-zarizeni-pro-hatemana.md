@@ -1,5 +1,5 @@
 ---
-title: Nápravné zařízení pro hatemana
+title: "Komentář: Nápravné zařízení pro hatemana"
 cover-photo: http://i.imgur.com/sXlPE5Al.jpg
 author: Tomáš Trumpeš
 ---
