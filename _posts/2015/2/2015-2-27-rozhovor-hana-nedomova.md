@@ -50,7 +50,7 @@ Zatím máme za sebou pět jednání rady a tři zastupitelstva. Řeknu na rovin
 
 **Na co nejspíš dost lidí v Boskovicích čeká, je zásadní rozhodnutí ve věci haly. V tom jste zatím opatrní, ale jednoduše řečeno: co víc vlastně potřebujete vědět, abyste mohli rozhodnout?**
 
-Situace se vyvíjí. V den konání posledního zastupitelstva přišel zpět spis z krajského úřadu. My dostaneme od státní správy úkol některé věci doplnit, já jsem dala úkoly příslušným úředníkům, aby se provedla analýza. Předpokládám, že do pololetí se domluvíme, jaké kroky se budou činit dál. V rámci povolování stavby před jejím dokončením jsme se vrátili na začátek. Víme, že je určitá skupina občanů, která když bude mít možnost, tak bude proces napadat. Kladů a záporů je hrozně moc. Odborníci musí připravit podklady tak, aby se dalo fundovaně rozhodnout. To není tak jednoduché.
+Situace se vyvíjí. V den konání posledního zastupitelstva přišel zpět spis z krajského úřadu. My dostaneme od státní správy úkol některé věci doplnit, já jsem dala úkoly příslušným úředníkům, aby se provedla analýza. Předpokládám, že do pololetí se domluvíme, jaké kroky se budou činit dál. V rámci povolování změny stavby před jejím dokončením jsme se vrátili na začátek. Víme, že je určitá skupina občanů, která když bude mít možnost, tak bude proces napadat. Kladů a záporů je hrozně moc. Odborníci musí připravit podklady tak, aby se dalo fundovaně rozhodnout. To není tak jednoduché.
 
 **Hledáte objektivní důvody, ale nakonec to stejně bude politické rozhodnutí.**
 
