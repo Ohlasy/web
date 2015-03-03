@@ -3,9 +3,9 @@
         {% if include.images == true %}
         <div class="force-hd-aspect">
             {% if post.cover-photo %}
-            <img src="{{ post.cover-photo }}" class='img-responsive'>
+            <img src="{{ post.cover-photo }}" class='img-responsive' alt="titulní fotka článku">
             {% else %}
-            <img src="/img/generic.png" class='img-responsive'>
+            <img src="/img/generic.png" class='img-responsive' alt="logo Ohlasů">
             {% endif %}
         </div>
         {% endif %}
