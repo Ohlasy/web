@@ -1,0 +1,24 @@
+<main class="container">
+    <div class="row">
+        <div class="col-md-4">
+        {% for post in paginator.posts | limit: 2 %}
+        {% include article/preview.html images=false %}
+        {% endfor %}
+        </div>
+        <div class="col-md-4">
+        {% for post in paginator.posts | offset: 2 | limit: 2 %}
+        {% include article/preview.html images=false %}
+        {% endfor %}
+        </div>
+        <div class="col-md-4">
+        {% for post in paginator.posts | offset: 4 %}
+        {% include article/preview.html images=false %}
+        {% endfor %}
+        </div>
+    </div>
+</main>
+<div class="container">
+    <div class="row">
+        {% include pagination/links.html %}
+    </div>
+</div>

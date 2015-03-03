@@ -15,23 +15,11 @@ why: A dummy header to make Jekyll process this file.
             <h1><a href="/">Ohlasy <small>dění na Boskovicku</small></a></h1>
         </div>
     </header>
-    <main class="container">
-        <div class="row">
-            {% for post in paginator.posts | limit: 3 %}
-            {% include article/preview.html class="col-md-4" %}
-            {% endfor %}
-        </div>
-    </main>
-    <div class="banner-wide">
-        <div class="container">
-            <a href="mailto:ohlasy@ohlasy.info"><img src="/img/banner-wide.png" class="img-responsive"></a>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            {% include pagination-links.html %}
-        </div>
-    </div>
+    {% if paginator.previous_page %}
+        {% include pagination/archive.html %}
+    {% else %}
+        {% include pagination/front.html %}
+    {% endif %}
     {% include footer.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="/lib/bootstrap/js/bootstrap.min.js"></script>

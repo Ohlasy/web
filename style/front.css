@@ -41,3 +41,7 @@ header {
 .banner-wide {
     background: rgb(248, 248, 248);
 }
+
+.banner-wide {
+    margin-bottom: 10px;
+}

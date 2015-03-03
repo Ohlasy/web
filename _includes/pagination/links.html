@@ -1,0 +1,16 @@
+{% if paginator.total_pages > 1 %}
+    <nav>
+        <ul class="pager">
+        {% if paginator.next_page %}
+            <li><a href="/clanky/strana/{{ paginator.next_page }}">
+                <span aria-hidden="true">&larr;</span> Starší články</a>
+        {% endif %}
+        {% if paginator.previous_page == 1 %}
+            <li><a href="/">Nejnovější články <span aria-hidden="true">&rarr;</span></a>
+        {% elsif paginator.previous_page %}
+            <li><a href="/clanky/strana/{{ paginator.previous_page }}">
+                Novější články <span aria-hidden="true">&rarr;</span></a>
+        {% endif %}
+        </ul>
+    </nav>
+{% endif %}

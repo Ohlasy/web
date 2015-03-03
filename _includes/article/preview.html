@@ -1,5 +1,6 @@
 <div class="article-preview {{ include.class }}">
     <a href="{{ post.url }}">
+        {% if include.images == true %}
         <div class="force-hd-aspect">
             {% if post.cover-photo %}
             <img src="{{ post.cover-photo }}" class='img-responsive'>
@@ -7,6 +8,7 @@
             <img src="/img/generic.png" class='img-responsive'>
             {% endif %}
         </div>
+        {% endif %}
         <h2>{{ post.title }}</h2>
         <p class="article-perex">{{ post.excerpt | strip_html }}</p>
     </a>
