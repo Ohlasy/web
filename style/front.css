@@ -35,3 +35,9 @@ header {
     top: 0;
     left: 0;
 }
+
+/* Wide Banner */
+
+.banner-wide {
+    background: rgb(248, 248, 248);
+}
