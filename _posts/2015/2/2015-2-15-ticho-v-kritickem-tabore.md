@@ -1,5 +1,5 @@
 ---
-title: "Komentář: Ticho v kritickém táboře"
+title: "Tomáš Trumpeš: Ticho v kritickém táboře je vždy smrtící"
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/10ClofCl.jpg
 ---

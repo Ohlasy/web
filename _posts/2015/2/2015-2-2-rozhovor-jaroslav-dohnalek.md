@@ -1,5 +1,5 @@
 ---
-title: „Každé ráno plivnout do zrcadla snad nemusím,“ říká Jaroslav Dohnálek
+title: Každé ráno plivnout do zrcadla snad nemusím, říká Jaroslav Dohnálek
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/Ymm5PXpl.jpg
 ---

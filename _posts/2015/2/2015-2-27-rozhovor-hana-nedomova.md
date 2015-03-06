@@ -1,5 +1,5 @@
 ---
-title: "Boskovická starostka Hana Nedomová: „Řada věcí se uskuteční už do pololetí, včetně rozhodnutí o hale.“"
+title: "Boskovická starostka Hana Nedomová: Řada věcí se uskuteční už do pololetí, včetně rozhodnutí o hale."
 cover-photo: http://i.imgur.com/6OmmMgTl.jpg
 author: Tomáš Trumpeš
 ---

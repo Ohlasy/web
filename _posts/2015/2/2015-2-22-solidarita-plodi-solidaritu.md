@@ -1,5 +1,5 @@
 ---
-title: "Komentář: Solidarita plodí solidaritu"
+title: "Tomáš Trumpeš: I pouhé gesto má svůj hluboký smysl"
 cover-photo: http://i.imgur.com/tpSybPDl.png
 author: Tomáš Trumpeš
 ---

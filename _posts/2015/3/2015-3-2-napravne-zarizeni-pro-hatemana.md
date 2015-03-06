@@ -1,5 +1,5 @@
 ---
-title: "Komentář: Nápravné zařízení pro hatemana"
+title: "Tomáš Trumpeš: Má sociální demokracie dost soudnosti, aby nabídla nového kandidáta na hejtmana?"
 cover-photo: http://i.imgur.com/sXlPE5Al.jpg
 author: Tomáš Trumpeš
 ---

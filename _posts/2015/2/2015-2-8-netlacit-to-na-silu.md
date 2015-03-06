@@ -1,5 +1,5 @@
 ---
-title: "Komentář: Netlačit to na sílu"
+title: "Tomáš Trumpeš: Při plánování nové boskovické knihovny se musíme poučit ze sportovní haly"
 author: Tomáš Trumpeš
 ---
 
