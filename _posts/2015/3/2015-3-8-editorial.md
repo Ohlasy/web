@@ -3,7 +3,7 @@ title: "Editorial: Měsíc v neznámých vodách"
 author: Tomáš Trumpeš
 ---
 
-*Vážené čtenářky, vážení čtenáři, uplynul první měsíc existence internetových novin Ohlasy dění na Boskovicku. To je především příležitost poděkovat vám za zájem, které nás nejen těší, ale především nám potvrdil, že má smysl o fungování takových to novin usilovat. A tím jsme si na počátku věru nebyli jistí.*
+*Vážené čtenářky, vážení čtenáři, uplynul první měsíc existence internetových novin Ohlasy dění na Boskovicku. To je především příležitost poděkovat vám za zájem, který nás nejen těší, ale především nám potvrdil, že má smysl o fungování takových to novin usilovat. A tím jsme si na počátku věru nebyli jistí.*
 
 Vstupovali jsme do neznámých vod a tak trochu se v nich stále pohybujeme. Ale jak mi při vyhodnocování prvního měsíce napsal kolega Tomáš Znamenáček: „Otázku, jestli je po novinách poptávka, můžeme s klidným srdcem odškrtnout.“ Musíme řešit mnoho dalších věcí, ale tohle je přeci jen nejpodstatnější.
 
