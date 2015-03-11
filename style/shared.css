@@ -36,6 +36,7 @@ h2 {
 /* Footer */
 
 footer {
+    background: rgb(248, 248, 248);
     border-top: 1px solid #ddd;
     padding-bottom: 50px;
     padding-top: 20px;
