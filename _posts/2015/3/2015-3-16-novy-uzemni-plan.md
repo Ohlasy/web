@@ -1,6 +1,6 @@
 ---
 title: Boskovice budou mít nový územní plán. Co se změní?
-cover-photo: http://i.imgur.com/3MjCNwOl.jpg
+cover-photo: http://i.imgur.com/HnK6m7Ol.jpg
 author: Marek Osouch
 ---
 
