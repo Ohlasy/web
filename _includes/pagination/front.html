@@ -5,13 +5,7 @@
         {% endfor %}
     </div>
 </main>
-<div class="banner-wide hidden-sm hidden-xs">
-    <div class="container">
-        <a href="mailto:ohlasy@ohlasy.info?Subject=Inzerce">
-            <img src="/img/banner-wide.png" class="img-responsive" alt="Inzerujte u nás!">
-        </a>
-    </div>
-</div>
+<div class="banner-wide hidden-sm hidden-xs" id="ad-wrapper"></div>
 <div class="container">
     <div class="row">
         {% for post in paginator.posts | offset: 3 %}
