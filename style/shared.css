@@ -27,7 +27,7 @@ h1 a:hover {
     border: none;
 }
 
-h2 {
+h2, h3 {
     font-family: 'Ladislav';
     font-weight: normal;
     font-size: 200%;
