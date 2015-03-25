@@ -33,7 +33,7 @@
             {% if page.serial %}
             {% capture serial_id %}serials/{{ page.serial}}.md{% endcapture %}
             {% capture sidebar %}{% include {{serial_id}} %}{% endcapture %}
-            <aside class="col-md-4">
+            <aside class="col-md-4 text-muted">
                 <h2>O seriálu</h2>
                 {{ sidebar | markdownify }}
             </aside>
