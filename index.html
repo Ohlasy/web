@@ -15,12 +15,19 @@ why: A dummy header to make Jekyll process this file.
             <h1><a href="/">Ohlasy <small>dění na Boskovicku</small></a></h1>
         </div>
     </header>
-    {% if paginator.previous_page %}
-        {% include pagination/archive.html %}
-    {% else %}
-        {% include pagination/front.html %}
-    {% endif %}
+
+    {% include pager/previews.html %}
+
+    <hr>
+
+    <div class="container">
+        <div class="row">
+            {% include pager/links.html %}
+        </div>
+    </div>
+
     {% include footer.html %}
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
     <script defer src="/lib/ad-rotate.js"></script>

@@ -1,0 +1,39 @@
+<main class="container">
+    <div class="row">
+        {% for post in paginator.posts | limit: 2 %}
+        {% include article/preview.html class="col-md-4" images=true %}
+        {% endfor %}
+        <div class="col-md-4 hidden-sm hidden-xs">
+            <div class="box"></div>
+            <div class="box"></div>
+        </div>
+    </div>
+</main>
+
+<hr>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 hidden-sm hidden-xs">
+            <div class="box"></div>
+            <div class="box"></div>
+        </div>
+        {% for post in paginator.posts | offset: 2 | limit: 2 %}
+        {% include article/preview.html class="col-md-4" images=true %}
+        {% endfor %}
+    </div>
+</div>
+
+<hr>
+
+<div class="container">
+    <div class="row">
+        {% for post in paginator.posts | offset: 4 | limit: 2 %}
+        {% include article/preview.html class="col-md-4" images=true %}
+        {% endfor %}
+        <div class="col-md-4 hidden-sm hidden-xs">
+            <div class="box"></div>
+            <div class="box"></div>
+        </div>
+    </div>
+</div>

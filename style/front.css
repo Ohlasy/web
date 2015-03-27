@@ -19,10 +19,6 @@ header {
     border: none;
 }
 
-.article-preview {
-    margin-bottom: 30px;
-}
-
 .force-hd-aspect {
     width: 100%;
     padding-bottom: 56.25%;
@@ -36,8 +32,7 @@ header {
     left: 0;
 }
 
-/* Wide Banner */
-
-.banner-wide {
-    margin-bottom: 20px;
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
