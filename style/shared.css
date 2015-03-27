@@ -63,6 +63,7 @@ footer a {
     height: 100%;
     position: absolute;
     -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
     opacity: 0.8;
 }
 
