@@ -1,9 +1,9 @@
 [
     {
-        "name": "Stabat Mater 28/3",
-        "image": "/ads/stabat.png",
-        "alt": "Koncert: Stabat mater, 28. března v Kunštátě",
-        "url": "http://vernum.cz",
+        "name": "Mike DiRubbo Trio",
+        "image": "/ads/mike.jpg",
+        "alt": "Mike DiRubbo Trio, sál ZUŠ Boskovice, 7. dubna",
+        "url": "http://kulturaboskovice.cz/",
         "priority": 1000
     },
     {
