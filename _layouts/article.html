@@ -37,12 +37,20 @@
                 <h2>O seriálu</h2>
                 {{ sidebar | markdownify }}
             </aside>
+            {% else %}
+            <aside class="col-md-4 text-muted">
+                <div class="box"></div>
+                <div class="box"></div>
+            </aside>
             {% endif %}
         </div>
     </main>
+
     {% include footer.html %}
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script defer src="/lib/ad-rotate.js"></script>
 </body>
 </html>
 
