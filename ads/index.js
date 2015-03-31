@@ -7,6 +7,13 @@
         "priority": 1000
     },
     {
+        "name": "Michal Prokop",
+        "image": "http://kulturaboskovice.cz/img/ohlasy.jpg",
+        "alt": "reklama na aktuální koncerty KZMB",
+        "url": "http://kulturaboskovice.cz/",
+        "priority": 1000
+    },
+    {
         "name": "Inzerujte u nás",
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
