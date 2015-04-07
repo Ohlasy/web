@@ -22,7 +22,7 @@ Na území panství jsou stanoveny trigonometrické body: 1. hora Chlum u Obory,
 
 V západní části panství až k Šebetovu se nachází syenit (v dnešní terminologii grandiorit, užívá se zejména jako stavební kámen), u Valchova, Újezda a Vratíkova vápenec, u Boskovic převládá (zejména směrem k Valchovu) velmi mocný pískovec. Z minerálů se nachází u Obory kamenec, ušlechtilý jantar (míněna fosilní pryskyřice valchovit), uhlí a pyrit. Údajně se zde mělo někdy v minulosti těžit dokonce i zlato a stříbro, díky němuž prý zbohatnul a získal šlechtický titul rytíř Hofmann z Kučerova (žijící kolem roku 1600). Ze zbytků kysličníku hlinitého se připravoval umělý vitriol. Roku 1787 odhalil chemik Weisbach u Valchova v malé hloubce 24 láter (látro = asi dva metry) celé ložisko živičného dřeva. Od té doby je zdejší pyrit využíván k výrobě ledku.
 
-<img src="http://i.imgur.com/QKLcXcx.jpg" alt="Ledková huť na Boskovickém panství na mapě stabilního katastru z r. 1826, detail" class="img-responsive">
+<img src="http://i.imgur.com/rqxlEXC.jpg" alt="Ledková huť na Boskovickém panství na mapě stabilního katastru z r. 1826, detail" class="img-responsive">
 
 Zdejší ledkové hutě jsou stejně staré jako u Černé Hory. Ledek v současnosti vyrábějí 2 továrny, totiž v Oboře a ve Valchově, z nichž první vyrobí v jedné huti s třemi pecemi a mnoha kotli a v počtu 24 dělníků ročně nejméně 961 centnýřů (centnýř = kolem 50 kg), druhá v 1 huti s 3 pecemi a 3 kotli s 51 dělníky 1200 centnýřů ledku.
 
