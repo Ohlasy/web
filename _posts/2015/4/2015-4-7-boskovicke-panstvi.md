@@ -43,7 +43,7 @@ Vrchnost obhospodařuje přes 1800 jiter polí, 900 jiter luk a
 pastvin a 9000 jiter lesů; poddaní přes 7000 jiter polí, 2000 jiter luk a pastvin a 800 jiter lesů (jitro odpovídá 0,315 ha).
 Půda je v údolích, zejména od Skalice přes Boskovice k Jevíčku, bohatá na humus, černozem, dosahující místy až dva střevíce (tedy asi 60 cm) do hloubky, ležící na slínovci je velmi vhodná pro pěstování pšenice, ječmene, konopí, máku, prosa a štětky soukenické (druh bodláku užívaný k česání sukna).
 
-<img src="http://i.imgur.com/TJCQ8bd.jpg" alt="Štětka soukenická" class="img-responsive">
+<img src="http://i.imgur.com/DvIAG6F.jpg" alt="Štětka soukenická" class="img-responsive">
 
 Vrchnostenské lesy jsou rozděleny do osmi revírů, v nichž převládají jedle a buky, výrazněji se vyskytují jasany, břízy, duby a javory; borovice jsou na písčitých půdách a smrky se používají k umělému zalesňování. K lovu se nabízí stálá zvěř: daňci, kteří jsou chováni v jediné oboře u Boskovic, srny, zajíci, bažanti, koroptve a jeřábci; vzácně přichází také jelen.
 Ovocnářství je hlavně zaměřené na modré ovoce, v oplocených zahradách v místech ležících v údolí, nejpilněji je pěstováno v obci Vísky, kde se také rodí dobrá jablka; vrchnost naproti tomu pěstuje šlechtěné ovocné stromy ve velkém množství jak v zahradách, tak i na volných pláních.
