@@ -14,6 +14,13 @@
         "priority": 1000
     },
     {
+        "name": "Možná hudba",
+        "image": "/ads/mozna.png",
+        "alt": "Možná hudba: minifestival moderní vážné hudby",
+        "url": "http://moznahudba.cz/",
+        "priority": 1000
+    },
+    {
         "name": "Inzerujte u nás",
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
