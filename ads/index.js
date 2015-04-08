@@ -18,7 +18,7 @@
         "image": "/ads/mozna.png",
         "alt": "Možná hudba: minifestival moderní vážné hudby",
         "url": "http://moznahudba.cz/",
-        "priority": 1000
+        "priority": 900
     },
     {
         "name": "Inzerujte u nás",
