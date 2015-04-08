@@ -1,5 +1,5 @@
 ---
-title: Popis Boskovického panství z 1. poloviny 19. století
+title: "Pohledy do historie: Popis Boskovického panství z 1. poloviny 19. století"
 cover-photo: http://i.imgur.com/QKLcXcxl.jpg
 excerpt: "Prvním článkem otevíráme nový seriál o regionálních dějinách. Nese název Pohledy do historie a připravuje ho historik boskovického muzea Petr Vítámvás, který bude podle své aktuální práce představovat mozaiku různých historických zajímavostí. První díl je věnován popisu boskovického panství, jak jej ve v první polovině 19. století zpracoval historik a topograf, rajhradský benediktin Tomáš Řehoř Volný. Popis přináší řadu pozoruhodných faktických údajů, na základě kterých si můžeme udělat přesnější představu, jak tehdy boskovické panství vypadalo."
 serial: historie
