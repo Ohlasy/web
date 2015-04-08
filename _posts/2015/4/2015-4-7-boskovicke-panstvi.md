@@ -14,7 +14,7 @@ author: Petr Vítámvás
 
 Boskovické panství leží na severu Brněnského kraje, hraničí na východě s panstvími Ptení, Malé Hradisko a Plumlov (Olomoucký kraj), na jihu s panstvími Rájec a Černá Hora, na západě s panstvími Lysice, Kunštát a Letovice a na severu s panstvími Šebetov a Konice.
 
-Západní část území tvoří údolí Svitavy, rozevírající se od Letovic, od Boskovic přes Jevíčko až k Trnávce se táhne rovina kvůli své úrodnosti nazývná „Malá Haná“ (zde je patrně poprvé doloženo toto pojmenování). Na severovýchod se zdvihají pahorky, které jsou nejvyšší u Žďárné a Protivanova a tvoří zde souvislou náhorní plošinu přerušovanou jen malými údolíčky s horskými potoky.
+Západní část území tvoří údolí Svitavy, rozevírající se od Letovic, od Boskovic přes Jevíčko až k Trnávce se táhne rovina kvůli své úrodnosti nazývaná „Malá Haná“ (zde je patrně poprvé doloženo toto pojmenování). Na severovýchod se zdvihají pahorky, které jsou nejvyšší u Žďárné a Protivanova a tvoří zde souvislou náhorní plošinu přerušovanou jen malými údolíčky s horskými potoky.
 
 Na území panství jsou stanoveny trigonometrické body: 1. hora Chlum u Obory, 2. hora Habří u Chrudichrom, 3. hora Písečka u Vísek, 4. hora Vratíkov u stejnojmenné vsi.
 
