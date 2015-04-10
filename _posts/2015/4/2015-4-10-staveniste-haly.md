@@ -1,5 +1,5 @@
 ---
-title: Debata neustává a staveniště působí problémy. O hale se však rozhodne až v červnu
+title: Debata neustává a staveniště působí problémy. O hale se však rozhodne až v červnu
 cover-photo: http://i.imgur.com/7Wnnk5Wl.jpg
 author: Marek Osouch
 ---
