@@ -19,6 +19,8 @@ Na základní škole na Slovákově ulici dnes mají jednu velkou tělocvičnu. 
 
 Nečinnost a rok pozastavená stavba se už začíná projevovat přímo na školní budově. Zeď odhalená až na cihly způsobila v posilovně ve škole rozsáhlou vlhkost a plíseň na zdech. Čestmír Sekanina, který před lety vzpírárnu vybudoval, už jen krčí rameny. V posilovně má rozmístěné vysoušeče, které jedou bez přestávky. Ani to ovšem nestačí. Plíseň je všude. Vlhkost už má vliv také na šatní skříně, ze kterých se odlepují zadní stěny. Na vzniklou situaci se byli podívat nedávno pracovníci z firmy IMOS, která je za výstavbu haly zodpovědná. „Řekli mi, že kdyby už byla hala postavená, tak se toto nestane,“ uvedl Čestmír Sekanina. Zatím s městem o případné kompenzaci škod, které mu vznikly, nejednal. Město o jednání v blízké době také neuvažuje.
 
+<img src="http://i.imgur.com/NZzHQdQ.jpg" alt="vlhkost na stěně" class="img-responsive">
+
 Prostory určené pro výuku zatím problémy nemají. Pokud se však nic nebude dít, stav se bude zhoršovat a postižené můžou být i některé třídy. Na tom se shodl Čestmír Sekanina i ředitel boskovické základní školy Vladimír Ochmanský. Provozovatel posilovny dokonce upozornil, že působení vody na odkrytou zeď může narušit statiku celé školní budovy.
 
 Na všechny dotazy a upozornění starostka Hana Nedomová odpovídá nutností auditu, který společně s dalšími jednáními teprve poskytne potřebné informace, aby na jejich základě mohlo zastupitelstvo rozhodnout. Zatím ani není jisté, jestli městská rada před jeho jednáním zaujme k hale nějaké stanovisko. „Do druhé poloviny května mají být závěry z auditu. Na radu to půjde 9. června, ale já nemůžu předjímat, jak ona rozhodne. Tato stanoviska vznikají až na jejím jednání,“ prohlásila boskovická starostka.
