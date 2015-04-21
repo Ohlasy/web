@@ -90,7 +90,7 @@ Jsem velice rád, že takovou vzácnost, jako je Čapkova vila, Praha 10 koupila
 
 **A zbytek uchovávali v původním stavu?**
 
-Použili jen ložnici Olgy Scheinplugové a ložnici Karla Čapka, kde spisovatel také zemřel. Pak už jen velkou obývací místnost v přízemí. Jinak nic nevyužívali, to nejcennější zůstalo nedotčené – pracovna Karla Čapka, jeho osobní archiv s trezorem, místnost pátečníků a další pokoje. A také celá galerie Čapkových obrazů a kreseb, tak jak to po své smrti zanechal. V šuplíku v pracovním stole jsou dopisy z roku 1938. 
+Použili jen ložnici Olgy Scheinpflugové a ložnici Karla Čapka, kde spisovatel také zemřel. Pak už jen velkou obývací místnost v přízemí. Jinak nic nevyužívali, to nejcennější zůstalo nedotčené – pracovna Karla Čapka, jeho osobní archiv s trezorem, místnost pátečníků a další pokoje. A také celá galerie Čapkových obrazů a kreseb, tak jak to po své smrti zanechal. V šuplíku v pracovním stole jsou dopisy z roku 1938. 
 
 **Co bylo pro tebe největším překvapením z objevů ve vile a co ti udělalo největší radost?**
 
