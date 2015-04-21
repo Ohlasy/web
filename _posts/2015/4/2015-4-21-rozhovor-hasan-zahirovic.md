@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/jbEU8N7l.jpg
 author: Tomáš Trumpeš
 ---
 
-*Čapkolog Hasan Zahirović pochází z Bosny, v České republice žije už skoro deset let. Dokončuje doktorská studia na pražské DAMU, vede obor kulturní dramaturgie na Slezské univerzitě v Opavě a vedle toho se intenzivně věnuje čapkovskému bádání. Podílí se na práci ve vile Karla Čapka, kterou nedávno získala Praha 10. Minulý týden přijel Hasan do Skalice přednášet o rodině Skoupilových a o jejich mlýně, kam se přivdala Čapkova láska Věra Hrůzová. Té slavný spisovatel adresoval krásné dopisy, které vyšly až po její smrti jako Dopisy ze zásuvky. Pro mnoho lidí byla tehdy existence skalické Princezny z Krakatitu velkým překvapením.*
+*Čapkovský badatel Hasan Zahirović pochází z Bosny, v České republice žije už skoro deset let. Dokončuje doktorská studia na pražské DAMU, vede obor kulturní dramaturgie na Slezské univerzitě v Opavě a vedle toho se intenzivně věnuje čapkovskému bádání. Podílí se na práci ve vile Karla Čapka, kterou nedávno získala Praha 10. Minulý týden přijel Hasan do Skalice přednášet o rodině Skoupilových a o jejich mlýně, kam se přivdala Čapkova láska Věra Hrůzová. Té slavný spisovatel adresoval krásné dopisy, které vyšly až po její smrti jako Dopisy ze zásuvky. Pro mnoho lidí byla tehdy existence skalické Princezny z Krakatitu velkým překvapením.*
 
 <img src="http://i.imgur.com/jbEU8N7.jpg" alt="Hasan Zahirović" class="img-responsive">
 
