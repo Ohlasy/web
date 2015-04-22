@@ -98,7 +98,7 @@ Asi to, že vůbec mám tu čest ve vile být. Každý den si říkám, tohle je
 
 **Vila ještě není otevřená pro veřejnost?**
 
-Není, protože Praha 10 přizvala tým odborníků z Národního památkového ústavu, kteří sepisují mobiliář, já pomáhám s písemnou pozůstalosti. Soupis trvá dlouho. Všechno se dentálně sepisuje a bude se to navrhovat na prohlášení památkou. Protože budova je už léta památkou, ale mobiliář a pozůstalost zatím ne.
+Není, protože Praha 10 přizvala tým odborníků z Národního památkového ústavu, kteří sepisují mobiliář, já pomáhám s písemnou pozůstalosti. Soupis trvá dlouho. Všechno se detailně sepisuje a bude se to navrhovat na prohlášení památkou. Protože budova je už léta památkou, ale mobiliář a pozůstalost zatím ne.
 
 **A pak se plánuje zpřístupnění?**
 
@@ -110,7 +110,7 @@ Musím přiznat, že mě až tolik neoslovují ty utopie, třeba Válka s mloky 
 
 **Právě Matka bývá vykládána jako jakési jeho přitakání tomu, že zlu je někdy nutno čelit i se zbraní v ruce. Chápeš to stejně?**
 
-Na to se těžko odpovídá. Já to chápu, ale neřekl bych válka, ale agrese. Proti agresi nemůžete jen stát, jinak vás zničí. My na Balkáně také říkáme, že to nebyla válka, ale agrese. Takto to chápu. Zrovna Matka mi pomohla. Já jsem taky nemohl být se svou maminkou, v sedmnácti letech jsem musel odejít kvůli válce. Otec a bratr byli na frontě a mě naštěstí pustili na školu, kde se sice bombardovalo, ale přímo se tam nestřílelo, takže jsme říkali, že je to svoboda. Když čtu Matku, je to pro mě velmi dojemné a říkám si, že je lepší být kámen než taková matka. Obdivuju Čapka, že dokázal takto vnímat ženský svět. Ono zase moc silných ženských postav u Čapka není, myslím, že to byl spíše mistr mužských postav. Ale je tu mj. Elina Makropulos, Helena v R.U.R. a především Matka.
+Na to se těžko odpovídá. Já to chápu, ale neřekl bych válka, ale agrese. Proti agresi nemůžete jen stát, jinak vás zničí. My na Balkáně také říkáme, že to nebyla válka, ale agrese. Takto to chápu. Zrovna Matka mi pomohla. Já jsem taky nemohl být se svou maminkou, v sedmnácti letech jsem musel odejít kvůli válce. Otec a bratr byli na frontě a mě naštěstí pustili na školu, kde se sice bombardovalo, ale přímo se tam nestřílelo, takže jsme říkali, že je to svoboda. Když čtu Matku, je to pro mě velmi dojemné a říkám si, že je lepší být kámen než taková matka. Obdivuju Čapka, že dokázal takto vnímat ženský svět. Ono zase moc silných ženských postav u Čapka není, myslím, že to byl spíše mistr mužských postav. Ale je tu mimo jiné Elina Makropulos, Helena v R.U.R. a především Matka.
 
 **Čapek se hodně věnoval otázkám společenským a politickým. Přemýšlíš někdy, co by si asi říkal dneska nad novinovými zprávami? A co by psal o problémech, které sužují dnešní Evropu?**
 
