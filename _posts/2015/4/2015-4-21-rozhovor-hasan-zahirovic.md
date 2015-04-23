@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/jbEU8N7l.jpg
 author: Tomáš Trumpeš
 ---
 
-*Čapkolog Hasan Zahirović pochází z Bosny, v České republice žije už skoro deset let. Dokončuje doktorská studia na pražské DAMU, vede obor kulturní dramaturgie na Slezské univerzitě v Opavě a vedle toho se intenzivně věnuje čapkovskému bádání. Podílí se na práci ve vile Karla Čapka, kterou nedávno získala Praha 10. Minulý týden přijel Hasan do Skalice přednášet o rodině Skoupilových a o jejich mlýně, kam se přivdala Čapkova láska Věra Hrůzová. Té slavný spisovatel adresoval krásné dopisy, které vyšly až po její smrti jako Dopisy ze zásuvky. Pro mnoho lidí byla tehdy existence skalické Princezny z Krakatitu velkým překvapením.*
+*Čapkovský badatel Hasan Zahirović pochází z Bosny, v České republice žije už skoro deset let. Dokončuje doktorská studia na pražské DAMU, vede obor kulturní dramaturgie na Slezské univerzitě v Opavě a vedle toho se intenzivně věnuje čapkovskému bádání. Podílí se na práci ve vile Karla Čapka, kterou nedávno získala Praha 10. Minulý týden přijel Hasan do Skalice přednášet o rodině Skoupilových a o jejich mlýně, kam se přivdala Čapkova láska Věra Hrůzová. Té slavný spisovatel adresoval krásné dopisy, které vyšly až po její smrti jako Dopisy ze zásuvky. Pro mnoho lidí byla tehdy existence skalické Princezny z Krakatitu velkým překvapením.*
 
 <img src="http://i.imgur.com/jbEU8N7.jpg" alt="Hasan Zahirović" class="img-responsive">
 
@@ -90,7 +90,7 @@ Jsem velice rád, že takovou vzácnost, jako je Čapkova vila, Praha 10 koupila
 
 **A zbytek uchovávali v původním stavu?**
 
-Použili jen ložnici Olgy Scheinplugové a ložnici Karla Čapka, kde spisovatel také zemřel. Pak už jen velkou obývací místnost v přízemí. Jinak nic nevyužívali, to nejcennější zůstalo nedotčené – pracovna Karla Čapka, jeho osobní archiv s trezorem, místnost pátečníků a další pokoje. A také celá galerie Čapkových obrazů a kreseb, tak jak to po své smrti zanechal. V šuplíku v pracovním stole jsou dopisy z roku 1938. 
+Použili jen ložnici Olgy Scheinpflugové a ložnici Karla Čapka, kde spisovatel také zemřel. Pak už jen velkou obývací místnost v přízemí. Jinak nic nevyužívali, to nejcennější zůstalo nedotčené – pracovna Karla Čapka, jeho osobní archiv s trezorem, místnost pátečníků a další pokoje. A také celá galerie Čapkových obrazů a kreseb, tak jak to po své smrti zanechal. V šuplíku v pracovním stole jsou dopisy z roku 1938. 
 
 **Co bylo pro tebe největším překvapením z objevů ve vile a co ti udělalo největší radost?**
 
@@ -98,7 +98,7 @@ Asi to, že vůbec mám tu čest ve vile být. Každý den si říkám, tohle je
 
 **Vila ještě není otevřená pro veřejnost?**
 
-Není, protože Praha 10 přizvala tým odborníků z Národního památkového ústavu, kteří sepisují mobiliář, já pomáhám s písemnou pozůstalosti. Soupis trvá dlouho. Všechno se dentálně sepisuje a bude se to navrhovat na prohlášení památkou. Protože budova je už léta památkou, ale mobiliář a pozůstalost zatím ne.
+Není, protože Praha 10 přizvala tým odborníků z Národního památkového ústavu, kteří sepisují mobiliář, já pomáhám s písemnou pozůstalosti. Soupis trvá dlouho. Všechno se detailně sepisuje a bude se to navrhovat na prohlášení památkou. Protože budova je už léta památkou, ale mobiliář a pozůstalost zatím ne.
 
 **A pak se plánuje zpřístupnění?**
 
@@ -110,7 +110,7 @@ Musím přiznat, že mě až tolik neoslovují ty utopie, třeba Válka s mloky 
 
 **Právě Matka bývá vykládána jako jakési jeho přitakání tomu, že zlu je někdy nutno čelit i se zbraní v ruce. Chápeš to stejně?**
 
-Na to se těžko odpovídá. Já to chápu, ale neřekl bych válka, ale agrese. Proti agresi nemůžete jen stát, jinak vás zničí. My na Balkáně také říkáme, že to nebyla válka, ale agrese. Takto to chápu. Zrovna Matka mi pomohla. Já jsem taky nemohl být se svou maminkou, v sedmnácti letech jsem musel odejít kvůli válce. Otec a bratr byli na frontě a mě naštěstí pustili na školu, kde se sice bombardovalo, ale přímo se tam nestřílelo, takže jsme říkali, že je to svoboda. Když čtu Matku, je to pro mě velmi dojemné a říkám si, že je lepší být kámen než taková matka. Obdivuju Čapka, že dokázal takto vnímat ženský svět. Ono zase moc silných ženských postav u Čapka není, myslím, že to byl spíše mistr mužských postav. Ale je tu mj. Elina Makropulos, Helena v R.U.R. a především Matka.
+Na to se těžko odpovídá. Já to chápu, ale neřekl bych válka, ale agrese. Proti agresi nemůžete jen stát, jinak vás zničí. My na Balkáně také říkáme, že to nebyla válka, ale agrese. Takto to chápu. Zrovna Matka mi pomohla. Já jsem taky nemohl být se svou maminkou, v sedmnácti letech jsem musel odejít kvůli válce. Otec a bratr byli na frontě a mě naštěstí pustili na školu, kde se sice bombardovalo, ale přímo se tam nestřílelo, takže jsme říkali, že je to svoboda. Když čtu Matku, je to pro mě velmi dojemné a říkám si, že je lepší být kámen než taková matka. Obdivuju Čapka, že dokázal takto vnímat ženský svět. Ono zase moc silných ženských postav u Čapka není, myslím, že to byl spíše mistr mužských postav. Ale je tu mimo jiné Elina Makropulos, Helena v R.U.R. a především Matka.
 
 **Čapek se hodně věnoval otázkám společenským a politickým. Přemýšlíš někdy, co by si asi říkal dneska nad novinovými zprávami? A co by psal o problémech, které sužují dnešní Evropu?**
 
