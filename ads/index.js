@@ -28,6 +28,13 @@
         "priority": 800
     },
     {
+        "name": "Boskovice 2015",
+        "image": "/ads/festival.png",
+        "alt": "Festival Boskovice 2015",
+        "url": "http://www.boskovice-festival.cz/",
+        "priority": 800
+    },
+    {
         "name": "Inzerujte u nás",
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
