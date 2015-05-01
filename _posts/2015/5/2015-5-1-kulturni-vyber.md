@@ -1,9 +1,12 @@
 ---
 title: Gianniho kulturní výběr na květen
 cover-photo: http://i.imgur.com/8gLiW7Sl.jpg
-excerpt: "Výběr zajímavých kulturních akcí na květen zpracoval pro čtenáře Ohlasů opět Jan Bařinka, řečený Gianni.  Gianni je vystudovaný estetik a má široké spektrum divácké i posluchačské pozornosti, takže ho můžete potkat prakticky všude: od klubových párty až po koncerty vážné hudby. Nejspíš málokdo navštíví tolik kulturních akcí jako on. Součástí jeho textu je také malé ohlédnutí za uplynulým měsícem."
 author: Jan Bařinka
 ---
+
+*Výběr zajímavých kulturních akcí na květen zpracoval pro čtenáře Ohlasů opět Jan Bařinka, řečený Gianni.  Gianni je vystudovaný estetik a má široké spektrum divácké i posluchačské pozornosti, takže ho můžete potkat prakticky všude: od klubových párty až po koncerty vážné hudby. Nejspíš málokdo navštíví tolik kulturních akcí jako on. Součástí jeho textu je také malé ohlédnutí za uplynulým měsícem.*
+
+### Hudba
 
 Jednu z největších hudebních lahůdek si budeme moci vychutnat hned v první květnový den, v pátek 1. května totiž v rámci Boskovických běhů vystoupí brněnská rocková skupina Progres 2. Ze strany občanského sdružení se jedná o zatím nejodvážnější dramaturgický počin a doufám, že jejich vystoupení návštěvníci této masové sportovní akce ocení. Na závěr celé akce vystoupí také místní kapela Karlovy hračky. V pilastrovém sále Státního zámku Kunštát se v týž den v 18:00 uskuteční Slavnostní koncert k zahájení sezóny 2015 v podání souboru Vernum 2013 Ensemble.
 
