@@ -14,6 +14,13 @@
         "priority": 1000
     },
     {
+        "name": "Boskovičtí letci",
+        "image": "/ads/letci.png",
+        "alt": "Rodáci z Boskovic a okolí ve službách královského letectva",
+        "url": "http://muzeum.boskovice.cz/vystavy.htm",
+        "priority": 1000
+    },
+    {
         "name": "Možná hudba",
         "image": "/ads/mozna.png",
         "alt": "Možná hudba: minifestival moderní vážné hudby",
