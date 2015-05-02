@@ -54,7 +54,7 @@ V pátek 22. května v18:00 proběhne v Galerii Otakara Kubína tradiční posle
  
 ### Film
 
-V květnu bude v boskovickém kině posledními dvěma filmy uzavřena retrospekce Ingmara Bergmana, těšit se můžeme v pondělí 11. května na Podzimní sonátu a v úterý 19. května na film Fanny a Alexandr. V sobotu 9. května se bude v rámci Projektu 100 promítat kultovní film Davida Finchera Klub rváčů. Silným estetickým zážitkem bude bezesporu také britský snímek Pestrobarvec petrklíčový z roku 2014, nabízející lesbická a sadomasochistická erotická témata. Promítat se bude rovněž v boskovickém kině, a to v neděli 3. května.
+V květnu bude v boskovickém kině posledními dvěma filmy uzavřena retrospekce Ingmara Bergmana, těšit se můžeme v pondělí 11. května na Podzimní sonátu a v úterý 19. května na film Fanny a Alexandr. V sobotu 9. května se bude v rámci Projektu 100 promítat kultovní film Davida Finchera Klub rváčů. Ve středu 27. května budeme svědky projekce němého filmu s Vlastou Burianem a Anny Ondrákovou Milenky starého kriminálníka, živý hudební doprovod obstará boskovický mandolinista Martin Krajíček. Silným estetickým zážitkem bude bezesporu také britský snímek Pestrobarvec petrklíčový z roku 2014, nabízející lesbická a sadomasochistická erotická témata. Promítat se bude rovněž v boskovickém kině, a to v neděli 3. května.
  
 ### Ohlédnutí za dubnem
 
