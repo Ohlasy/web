@@ -28,13 +28,6 @@
         "priority": 900
     },
     {
-        "name": "Šifrovatračka 2015",
-        "image": "/ads/vatra.png",
-        "alt": "Šifrovatračka: Zamčená truhla",
-        "url": "http://www.vatra-boskovice.cz/sifrovatracka",
-        "priority": 800
-    },
-    {
         "name": "Boskovice 2015",
         "image": "/ads/festival.png",
         "alt": "Festival Boskovice 2015",
