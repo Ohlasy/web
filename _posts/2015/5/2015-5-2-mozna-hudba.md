@@ -1,6 +1,5 @@
 ---
 title: "Kristýna Znamenáčková: Když zmizí technika, zůstane hudba"
-published: false
 cover-photo: http://i.imgur.com/d7clO88l.jpg
 author: Kristýna Znamenáčková
 ---
