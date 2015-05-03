@@ -24,7 +24,7 @@ K soudu dospěla [korupční kauza](http://www.zrcadlo.net/clanky/Boskovicky-ure
 
 V Boskovicích se vystřídalo několik interpretů ze samé špičky české hudební scény – Michal Prokop, skupina Visací zámek, Robert Balzar Trio a klavírní virtuoz Igor Ardašev. Vlnu diskusí naopak rozpoutalo pozvání Michala Davida do letního kina, Ohlasy se k polemikám připojily komentáři [Tomáše Znamenáčka](/clanky/2015/04/podpora-kultury.html) a [Jana Bařinky](/clanky/2015/04/michal-david-za-hranici.html).
 
-V boskovické nemocnici otevřeli [klientské centrum](http://blanensky.denik.cz/zpravy_region/klientske-centrum-v-boskovicke-nemocnici-nabidne-lepsi-orientaci-i-kapli-20150419.html).
+V boskovické nemocnici otevřeli [klientské centrum](http://boskovice.cz/nemocnice-otevrela-nove-klientske-centrum/d-25706/p1=1019).
 
 Začala [turistická sezóna](http://boskovice.cz/boskovice-zahajily-turistickou-sezonu/d-25402/p1=1019). A Česká speleologická společnost vyhlásila nález stometrové chodby v Býčí skále [Objevem roku](http://www.zrcadlo.net/clanky/Nalez-stometrove-chodby-v-Byci-skale-je-objevem-roku-2014-1660/). Do jeskyně se však turisté mohou podívat jen výjimečně, ovšem právě k [květnu](http://www.byciskala.cz/MaRS/index.php?show=clanek&id=555).
 
