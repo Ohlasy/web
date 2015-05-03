@@ -46,7 +46,7 @@ Kromě přednášky Pavla Šnajdra v rámci minifestivalu Možná hudba se dočk
 
 Ve čtvrtek 7. května budeme v boskovickém kině svědky akce s názvem 40 dní pěšky do Jeruzaléma. Spíše než o cestovatelskou besedu jde o stand-up comedy, s kterou její autor Ladislav Zibura vyprodává sály po celé republice.
 
-Ve středu 13. května proběhne v boskovickém muzeu setkání se spisovatelkou Edou Kriseovou a její autorské čtení z knih Václav Havel – životopis a Duši, tělo opatruj. Součástí večera bude beseda s autorkou. Hudební doprovod obstarají Irena a Vojtěch Havlovi.
+Ve středu 13. května proběhne v židovském obecním domě setkání se spisovatelkou Edou Kriseovou a její autorské čtení z knih Václav Havel – životopis a Duši, tělo opatruj. Součástí večera bude beseda s autorkou. Hudební doprovod obstarají Irena a Vojtěch Havlovi.
 
 Ve čtvrtek 21. května v17:00 se v Židovském obecním domě v rámci cyklu Časové a nadčasové uskuteční beseda, kde Zuzana Prudilová přiblíží okolnosti vzniku archivu Centra vizuální historie Malach a Nadaci šoa Univerzity Jižní Kalifornie.
 
