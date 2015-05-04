@@ -25,7 +25,7 @@ V Boskovicích se vystřídalo několik interpretů ze samé špičky české hu
 
 V boskovické nemocnici otevřeli [klientské centrum](http://boskovice.cz/nemocnice-otevrela-nove-klientske-centrum/d-25706/p1=1019).
 
-Začala [turistická sezóna](http://boskovice.cz/boskovice-zahajily-turistickou-sezonu/d-25402/p1=1019). A Česká speleologická společnost vyhlásila nález stometrové chodby v Býčí skále [Objevem roku](http://www.zrcadlo.net/clanky/Nalez-stometrove-chodby-v-Byci-skale-je-objevem-roku-2014-1660/). Do jeskyně se však turisté mohou podívat jen výjimečně, ovšem právě k [květnu](http://www.byciskala.cz/MaRS/index.php?show=clanek&id=555).
+Začala [turistická sezóna](http://boskovice.cz/boskovice-zahajily-turistickou-sezonu/d-25402/p1=1019). A Česká speleologická společnost vyhlásila nález stometrové chodby v Býčí skále [Objevem roku](http://www.zrcadlo.net/clanky/Nalez-stometrove-chodby-v-Byci-skale-je-objevem-roku-2014-1660/). Do jeskyně se však turisté mohou podívat jen výjimečně, ovšem právě v [květnu](http://www.byciskala.cz/MaRS/index.php?show=clanek&id=555).
 
 Boskovice zpřísňují pravidla pro [umístění reklamy v městské památkové zóně](http://blanensky.denik.cz/zpravy_region/boskovicka-radnice-zprisnila-pravidla-reklamy-20150407.html). Ironií zůstávají [některé reklamy](https://www.facebook.com/tomas.trumpes/posts/10204547119697846) města samotného.
 
