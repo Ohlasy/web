@@ -21,13 +21,6 @@
         "priority": 1000
     },
     {
-        "name": "Možná hudba",
-        "image": "/ads/mozna.png",
-        "alt": "Možná hudba: minifestival moderní vážné hudby",
-        "url": "http://moznahudba.cz/",
-        "priority": 900
-    },
-    {
         "name": "Boskovice 2015",
         "image": "/ads/festival.png",
         "alt": "Festival Boskovice 2015",
