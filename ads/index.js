@@ -14,9 +14,9 @@
         "priority": 1000
     },
     {
-        "name": "Muzejní noc",
-        "image": "/ads/noc.png",
-        "alt": "Muzejní noc v židovském obecím domu, 16. května",
+        "name": "Boskovičtí letci",
+        "image": "/ads/letci.png",
+        "alt": "Rodáci z Boskovic a okolí ve službách královského letectva",
         "url": "http://muzeum.boskovice.cz/vystavy.htm",
         "priority": 1000
     },
