@@ -14,9 +14,9 @@
         "priority": 1000
     },
     {
-        "name": "Boskovičtí letci",
-        "image": "/ads/letci.png",
-        "alt": "Rodáci z Boskovic a okolí ve službách královského letectva",
+        "name": "Charitativní koncert 27/5",
+        "image": "/ads/charita.jpg",
+        "alt": "Charitativní koncert v evangelickém kostele",
         "url": "http://muzeum.boskovice.cz/vystavy.htm",
         "priority": 1000
     },
