@@ -28,6 +28,13 @@
         "priority": 800
     },
     {
+        "name": "Svátky řemesel",
+        "image": "/ads/remesla.jpg",
+        "alt": "Svátky řemesel v Kunštátě",
+        "url": "http://www.osremesla.eu/",
+        "priority": 800
+    },
+    {
         "name": "Inzerujte u nás",
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
