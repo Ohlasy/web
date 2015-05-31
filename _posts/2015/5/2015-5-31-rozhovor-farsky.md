@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/aSrYBxil.jpg
 author: Tomáš Trumpeš
 ---
 
-*Vladimír Farský strávil 12 let v opoziční lavici jako nestraník zvolený za KSČM. Po posledních volbách byl koalicí ČSSD + KDU-ČSL + ANO 2011 vyzván k účasti v boskovické městské radě, stal se tedy radním a byl zvolen předsedou redakční rady městských médií. Před blížícím se důležitým jednáním zastupitelstva jsme mluvili o jeho dosavadní zkušenosti z práce ve vedení města, o jeho vazbě na KSČM, o otevřenosti radnice a samozřejmě také o klíčovém aktuálním tématu, totiž o sportovní hale.*
+*Vladimír Farský strávil 12 let v opoziční lavici jako nestraník zvolený za KSČM. Po posledních volbách byl koalicí ČSSD + KDU-ČSL + ANO 2011 vyzván k účasti v boskovické městské radě, stal se tedy radním a byl zvolen předsedou redakční rady městských médií. Před blížícím se důležitým jednáním zastupitelstva jsme mluvili o jeho dosavadní zkušenosti s prácí ve vedení města, o jeho vazbě na KSČM, o otevřenosti radnice a samozřejmě také o klíčovém aktuálním tématu, totiž o sportovní hale.*
 
 <img src="http://i.imgur.com/aSrYBxi.jpg" alt="Vladimír Farský" class="img-responsive">
 
@@ -94,7 +94,7 @@ Takto to máme připraveno. Zástupci ČSSD zprvu hovořili o nějaké formě ot
 
 **To mluvíme o tom, že občané dostanou možnost komunikovat s radnicí. Ale z druhé strany: zdá se vám, že dnes radnice komunikuje otevřeněji směrem ven?**
 
-Co se týká tisku, je domluva taková, že za město budou mluvit starostka a místostarostové. Práce tiskového mluvčího byla ukončena. Jakým způsobem komunikuje vedení města s novináři je možná trochu subjektivní.
+Co se týká tisku, je domluva taková, že za město budou mluvit starostka a místostarostové. Práce tiskového mluvčího byla ukončena. Jakým způsobem komunikuje vedení města s novináři, je možná trochu subjektivní.
 
 **My máme někdy pocit, že jste tajnůstkáři. Uvedu vám dva příklady: rada projedná restrukturalizaci úřadu, která znamená konec dvou vedoucích odborů, druhý den na tiskovce se nedozvíme nic. Teď se na tiskovce kolega ze Zrcadla na základě informace z Blanska zeptal na převod muzea na kraj. A dozvěděli jsme se, že je to v podstatě hotová věc, což by jinak nikdo neoznámil. Není to zase tak, že zásadní kroky vedení města tutlá?**
 
