@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/rAHJKmVl.jpg
 author: Jan Bařinka
 ---
 
-*Výběr zajímavých kulturních akcí na květen zpracoval pro čtenáře Ohlasů opět Jan Bařinka, řečený Gianni. Gianni je vystudovaný estetik a má široké spektrum divácké i posluchačské pozornosti, takže ho můžete potkat prakticky všude: od klubových párty až po koncerty vážné hudby. Nejspíš málokdo navštíví tolik kulturních akcí jako on. Součástí jeho textu je také malé ohlédnutí za uplynulým měsícem.*
+*Výběr zajímavých kulturních akcí na červen zpracoval pro čtenáře Ohlasů opět Jan Bařinka, řečený Gianni. Gianni je vystudovaný estetik a má široké spektrum divácké i posluchačské pozornosti, takže ho můžete potkat prakticky všude: od klubových párty až po koncerty vážné hudby. Nejspíš málokdo navštíví tolik kulturních akcí jako on. Součástí jeho textu je také malé ohlédnutí za uplynulým měsícem.*
 
 ### Hudba
 
