@@ -26,7 +26,7 @@ V pátek 5. června bude v letovické galerii Domino slavnostně zahájena výst
 
 ### Přednášky, besedy, workshopy
 
-Ve čtvrtek 11. června ve zdravé výživě Na Cestě v Boskovicích proběhne přednáška Stanislava Skřičky Pozvánka do páté dimenze bez nemoci aneb 7 mýtů o zdravé výživě. Na stejném místě se ve středu 17. červnu bude konat workshop alikvótního zpěvu pod vedením Dalibora Neuwirta. V pátek 12. června přijede do Galerie Otakara Kubína hudební a literární kritik Jan Rejžek se svým legendárním hudebním poslechovým pořadem Kaleidoskop. V rámci letovického BiGyFestu se kromě DJského workshopu, o kterém jsme informovali v hudební sekci, uskuteční beseda s populárním katolickým knězem Zbigniewem Czendlikem.
+Ve čtvrtek 11. června ve zdravé výživě Na Cestě v Boskovicích proběhne přednáška Stanislava Skřičky Pozvánka do páté dimenze bez nemoci aneb 7 mýtů o zdravé výživě. Na stejném místě se ve středu 17. červnu bude konat workshop alikvótního zpěvu pod vedením Dalibora Neuwirta. V pátek 12. června přijede do Galerie Otakara Kubína hudební a literární kritik Jan Rejžek se svým legendárním hudebním poslechovým pořadem Kaleidoskop. V rámci letovického BiGyFestu se kromě DJského workshopu, o kterém jsme informovali v hudební sekci, uskuteční beseda s populárním katolickým knězem Zbigniewem Czendlikem. Ve Skalici nad Svitavou bude v pátek 5. června od 19 hodin pokračovat v přednáškovém cyklu na téma Skoupilovi na Mikšově mlýně čapkovský badatel Hasan Zahirović.
 
 ### Ohlédnutí za květnem
 
