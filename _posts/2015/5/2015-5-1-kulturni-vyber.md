@@ -53,6 +53,8 @@ Ve středu 13. května proběhne v židovském obecním domě setkání se spiso
 Ve čtvrtek 21. května v17:00 se v Židovském obecním domě v rámci cyklu Časové a nadčasové uskuteční beseda, kde Zuzana Prudilová přiblíží okolnosti vzniku archivu Centra vizuální historie Malach a Nadaci šoa Univerzity Jižní Kalifornie.
 
 V pátek 22. května v18:00 proběhne v Galerii Otakara Kubína tradiční poslechová přednáška prof. Miloše Štědroně s názvem Setkání s Milošem Štědroněm a hudbou.
+
+Ve Skalici nad Svitavou bude v pátek 5. června od 19 hodin pokračovat v přednáškovém cyklu na téma Skoupilovi na Mikšově mlýně čapkovský badatel Hasan Zahirović.
  
 ### Film
 
