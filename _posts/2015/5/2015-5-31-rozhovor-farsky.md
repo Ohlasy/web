@@ -22,7 +22,7 @@ Podařilo. Domnívám se, že stěžejní věci, které jsme jako levicová kand
 
 **V radě jsou další dva nestraníci za ANO, hnutí nemá ani žádného člena – zastupitele. Takže solitéři jste tam vlastně tři. Neznamená to ovšem, že tady prakticky vládne ČSSD a KDU-ČSL, které také drží posty starosty a místostarostů, a vy ostatní jste tam do počtu?**
 
-Určitě ne. Nesetkal jsem se s tím, že by si něco takto prosazovali, vždycky je to konsenzus, nakonec zveřejňují se výsledky hlasování a z toho to lze poměrně dobře vyčíst. Kdybych byl zásadně proti čemu, ruku pro to určitě nezvednu.
+Určitě ne. Nesetkal jsem se s tím, že by si něco takto prosazovali, vždycky je to konsenzus, nakonec zveřejňují se výsledky hlasování a z toho to lze poměrně dobře vyčíst. Kdybych byl zásadně proti něčemu, ruku pro to určitě nezvednu.
 
 **Nenarážíte kupříkladu se svým odlišným názorem na Boskovickou spojku?**
 
