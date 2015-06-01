@@ -14,7 +14,7 @@ Zprvu jsem se toho trošku obával. Ale do voleb jde člověk s tím, že se mů
 
 **Promítá se do běžného jednání nějak, že nezastupujete žádnou ze stran podepsaných pod koaliční smlouvou, ale byl jste do rady přizván? Nejste tam jako outsider?**
 
-Jsem tam sice sám a jako nestraník. Ale byl jsem lídr KSČM, podílel jsem se z větší části i na sestavování programu. Nevím, jestli voliči volili z větší části mě jako osobnost, nebo stranu KSČM. Ono to možná bude tak půl na půl. Rozhodně jsem se při sestavování programového prohlášení rady snažil dostat tam co nejvíc z volebního programu KSČM.
+Jsem tam sice sám a jako nestraník, ale byl jsem lídr KSČM, podílel jsem se z větší části i na sestavování programu. Nevím, jestli voliči volili z větší části mě jako osobnost, nebo stranu KSČM. Ono to možná bude tak půl na půl. Rozhodně jsem se při sestavování programového prohlášení rady snažil dostat tam co nejvíc z volebního programu KSČM.
 
 **A podařilo se vám to?**
 
@@ -102,7 +102,7 @@ Je to dobrá otázka, ale asi spíš na členy vedení města.
 
 **Ale vy jste v radě a tam řešíte ty věci taky. Proč nám to druhý den neřeknete?**
 
-Mně se to třeba taky nelíbí, od té doby, co jsem byl zvolen předsedou redakční rady, upozorňují pokaždé na některá témata, že budu chtít do radničních médií informace. A až se rozjede diskuse, budu požadovat, aby se informovanost a komunikace ještě více vylepšila. Je to dané v programovém prohlášení. Asi je to pole neorané a chce to ještě zlepšovat.
+Mně se to třeba taky nelíbí, od té doby, co jsem byl zvolen předsedou redakční rady, upozorňuji pokaždé na některá témata, že budu chtít do radničních médií informace. A až se rozjede diskuse, budu požadovat, aby se informovanost a komunikace ještě více vylepšila. Je to dané v programovém prohlášení. Asi je to pole neorané a chce to ještě zlepšovat.
 
 **Říkalo se, že přichází koalice změny. Už jsme na to narazili, ale jaké máte ohlasy od svých voličů? Jsou trpěliví, nebo se jim změn zdá zatím málo?**
 
