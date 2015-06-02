@@ -20,7 +20,7 @@ Boskovická opozice vydala stanovisko, ve kterém volá po dostavbě sportovní 
 
 Boskovice navštívil hejtman Michal Hašek. [Prohlédl si kupříkladu šicí stroj.](https://scontent-fra3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11350910_1090473580979533_8986951864945789260_n.jpg?oh=0957bcad92a4103b36a2eb7df6432d99&oe=55F843EB)
 
-Anesteziologicko-resuscitační oddělení (ARO)  v boskovické nemocnici se přestěhuje a projde [úpravou za více než 30 milionů korun](http://www.zrcadlo.net/clanky/Rozsiri-detskou-lecebnu-v-Boskovicich-za-dvacet-milionu-korun-1735/). Nově bude ve čtvrtém patře budovy, poskytovat bude 8–9 lůžek a větší komfort pro pro pacienty i zaměstnance.
+Anesteziologicko-resuscitační oddělení (ARO)  v boskovické nemocnici se přestěhuje a projde [úpravou za více než 30 milionů korun](http://www.zrcadlo.net/clanky/Rozsiri-detskou-lecebnu-v-Boskovicich-za-dvacet-milionu-korun-1735/). Nově bude ve čtvrtém patře budovy, poskytovat bude 8–9 lůžek a větší komfort pro pacienty i zaměstnance.
 
 Vedení města oznámilo, že [Muzeum Boskovicka pravděpodobně přejde od roku 2016 pod správu Jihomoravského kraje](/clanky/2015/05/muzeum-na-kraj.html). Pro muzeum by to mělo znamenat výhodnější ekonomické zázemí, město se zbaví jedné příspěvkové organizace, která mu odčerpává asi 3 miliony korun ročně.
 
