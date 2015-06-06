@@ -35,6 +35,13 @@
         "priority": 800
     },
     {
+        "name": "Lezecká stěna",
+        "image": "/ads/stena.png",
+        "alt": "Lezecká stěna na boskovickém letním kině?",
+        "url": "http://stenaboskovice.cz/",
+        "priority": 600
+    },
+    {
         "name": "Inzerujte u nás",
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
