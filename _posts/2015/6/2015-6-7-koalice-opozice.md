@@ -1,6 +1,5 @@
 ---
 title: "Tomáš Znamenáček: Ode zdi ke zdi"
-published: false
 cover-photo: http://i.imgur.com/4TXHlmjl.jpg
 author: Tomáš Znamenáček
 ---
