@@ -70,7 +70,7 @@ Ne, nejde to proti sobě. U jazyka se pouze vyměnila hodinová dotace mezi tře
 
 Teď se zrovna díváme na priority nově nastupujících žáků do prvního ročníků. Opět tam převládá němčina, což je způsobeno tím, že se na základních školách němčina většinou učí jako druhý jazyk. Nicméně třeba letos se nám podařilo, když jsme na začátku dělili žáky do jazykových skupin, tak tam také převažovala němčina, ale nakonec jsme dokázali jednotlivé skupiny relativně vyvážit. Jsou totiž žáci, kteří měli němčinu jako druhý jazyk tři roky, ale rádi přejdou a začnou studovat od začátku jiný jazyk. Kdyby samozřejmě docházelo k tomu, že němčina hodně převládá, tak budeme muset třeba v jednom ročníku zvážit dvě skupiny němčiny na úkor některého románského jazyka.
 
-**Což je ale problém pro ty, co pokračují a musí čekat na nováčky.**
+**Což je ale problém pro ty, co pokračují, když musí čekat na nováčky.**
 
 Celkově jsou jazyky pro nás oříšek. Týká se to i angličtiny, kdy žáci přichází s různou úrovní a učitelé s nimi musí nějak pracovat a vyrovnat se s tím. Neplatí to jen pro jazyky, ale třeba i matematiku a chemii, kde je různá úroveň.
 
