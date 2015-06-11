@@ -99,3 +99,22 @@ a:hover {
     color: rgb(148, 82, 0);
     padding-bottom: -3px;
 }
+
+.force-hd-aspect {
+    width: 100%;
+    padding-bottom: 56.25%;
+    position: relative;
+    overflow: hidden;
+}
+
+.force-hd-aspect > img, .force-hd-aspect > iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: none;
+}
+
+iframe.vimeo {
+    width: 100%;
+    height: 100%;
+}

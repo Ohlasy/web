@@ -19,19 +19,6 @@ header {
     border: none;
 }
 
-.force-hd-aspect {
-    width: 100%;
-    padding-bottom: 56.25%;
-    position: relative;
-    overflow: hidden;
-}
-
-.force-hd-aspect > img {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
 hr {
     margin-top: 30px;
     margin-bottom: 30px;

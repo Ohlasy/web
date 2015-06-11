@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    {% include headers.html %}
+    <title>{{ page.title }}</title>
+    {% include open-graph-meta.html %}
+    <link href="/style/article.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <h1><a href="/">Ohlasy <small>dění na Boskovicku</small></a></h1>
+        </div>
+    </nav>
+    <main class="container">
+        <div class="row">
+            <article class="col-lg-12 col-md-12">
+                <div class="force-hd-aspect">
+                    <iframe class="vimeo" src="{{ page.video-url }}" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                </div>
+            </article>
+        </div>
+        <hr>
+        <div class="row hidden-sm">
+            <div class="col-lg-12 col-md-12">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="box"></div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="box"></div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="box"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    {% include footer.html %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script defer src="/lib/ad-rotate.js"></script>
+</body>
+</html>
+
