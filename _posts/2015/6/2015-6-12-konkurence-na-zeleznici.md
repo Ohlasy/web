@@ -1,5 +1,5 @@
 ---
-title: "Hynek Skořepa: Konkurence na železnici a školní výlety, aneb postřehy učitele"
+title: "Hynek Skořepa: Konkurence na železnici a školní výlety aneb Postřehy učitele"
 cover-photo: http://i.imgur.com/3Svqio4l.jpg
 author: Hynek Skořepa
 ---
