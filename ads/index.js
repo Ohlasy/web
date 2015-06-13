@@ -14,13 +14,6 @@
         "priority": 1000
     },
     {
-        "name": "Boskovičtí letci",
-        "image": "/ads/letci.png",
-        "alt": "Rodáci z Boskovic a okolí ve službách královského letectva",
-        "url": "http://muzeum.boskovice.cz/vystavy.htm",
-        "priority": 1000
-    },
-    {
         "name": "Boskovice 2015",
         "image": "/ads/festival.png",
         "alt": "Festival Boskovice 2015",
