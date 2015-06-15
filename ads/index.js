@@ -21,13 +21,6 @@
         "priority": 800
     },
     {
-        "name": "Svátky řemesel",
-        "image": "/ads/remesla.jpg",
-        "alt": "Svátky řemesel v Kunštátě",
-        "url": "http://www.osremesla.eu/",
-        "priority": 800
-    },
-    {
         "name": "Lezecká stěna",
         "image": "/ads/stena.png",
         "alt": "Lezecká stěna na boskovickém letním kině?",
