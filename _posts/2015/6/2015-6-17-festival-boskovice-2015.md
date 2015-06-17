@@ -22,7 +22,7 @@ Dramaturgem divadelního programu se stal letos brněnský režisér a vedoucí 
 
 <img src="http://i.imgur.com/lhH6r6A.jpg" alt="opera Brundibár" class="img-responsive">
 
-Atraktivní program letos nabídnou také autorská čtení a besedy. Z litarátů festival navštíví Petr Pazdera Payne, Marek Toman a Martin Reiner, přijede také historik a významná tvář Ústavu pro studium totalitních režimů Petr Blažek.
+Atraktivní program letos nabídnou také autorská čtení a besedy. Z literátů festival navštíví Petr Pazdera Payne, Marek Toman a Martin Reiner, přijede také historik a významná tvář Ústavu pro studium totalitních režimů Petr Blažek.
 
 V dramaturgické péči Petra Michálka je připravena také filmová část festivalu, jejíž součástí bude letos kupříkladu blok věnovaný profilu scénáristy Jiřího Křižana. Celý festival jako tradičně uzavře nedělní projekce v letním kině, letos filmem polského režiséra Krysztofa Kieślowského Náhoda.
 
