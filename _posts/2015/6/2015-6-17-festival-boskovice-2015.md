@@ -28,7 +28,7 @@ V dramaturgické péči Petra Michálka je připravena také filmová část fes
 
 Město Boskovice letos podpořilo festival částkou 100 tisíc korun. „Kromě toho nám město poskytuje pozemky v okolí zámeckého skleníku a odpouští poplatky ze vstupného. Spolupráce pokračuje ve stejném duchu jako v minulých letech a věřím, že tak bude pokračovat i nadále. Potýkáme se pouze s ubytovacími kapacitami v dosahu areálu,“ doplnil Čestmír Huňát z Unijazzu. Stanové ubytování pro návštěvníky bude opět umožněno ve spodním zámeckém parku. „Festival vnímáme jako tradiční záležitost. Město v těchto dnech ožije, přijede sem řada návštěvníků, pro které je akce velice zajímavá. Vážíme si toho, že festival pokračuje a věříme, že i nadále pokračovat bude,“ vyjádřila se boskovická starostka Hana Nedomová.
 
-Předprodej vstupenek probíhá v čítárně Unijazzu v Praze, dále v pražské prodejně Rekomando a v boskovickém infocentru na radnici. Cena činí 490 korun a 390 korun pro studenty. Dále jsou permanentky navýšené o servisní poplatky k dispozici v sítích GoOut, Ticketstream a Ticketportal. 
+Předprodej vstupenek probíhá v čítárně Unijazzu v Praze, dále v pražské prodejně Rekomando, na pokladně brněnského kina Scala a v boskovickém infocentru na radnici. Cena činí 490 korun a 390 korun pro studenty. Dále jsou permanentky navýšené o servisní poplatky k dispozici v sítích GoOut, Ticketstream a Ticketportal. 
 
 ### Soutěž „Nejlepší festivalová fotografie“
 
