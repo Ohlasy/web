@@ -14,6 +14,13 @@
         "priority": 1000
     },
     {
+        "name": "Svědectvím a dialogem k porozumění",
+        "image": "/ads/konference.png",
+        "alt": "Studentská konference „Svědectvím a dialogem k porozumění“",
+        "url": "http://muzeum.boskovice.cz/vystavy.htm",
+        "priority": 1000
+    },
+    {
         "name": "Boskovice 2015",
         "image": "/ads/festival.png",
         "alt": "Festival Boskovice 2015",
