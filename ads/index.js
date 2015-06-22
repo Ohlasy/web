@@ -1,5 +1,12 @@
 [
     {
+        "name": "Fotosoutěž Boskovice 2015",
+        "image": "/ads/fotosoutez.png",
+        "alt": "Fotosoutěž: vyhrajte dva volňásky na festival Boskovice 2015",
+        "url": "/clanky/2015/06/festival-boskovice-2015.html",
+        "priority": 1000
+    },
+    {
         "name": "Nature Home",
         "image": "/ads/nature-home.png",
         "alt": "Nature Home, interiér pro váš domov i kancelář",
