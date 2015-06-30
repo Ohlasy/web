@@ -30,7 +30,7 @@ V neděli 19. července ve 14 hodin proběhne v boskovickém zámeckém skleník
 
 ### Film
 
-V letošním roce zahajuje mimořádný digitální provoz boskovické letní kino. Těšit se můžeme například ve čtvrtek 16. července na Ovečku Shaun ve filmu, v pátek 17. července na Šíleného Maxe nebo v pondělí 27. července na Klub rváčů. Pět filmových představení nabídne i letovický LetFest, a to od neděle 5. července do čtvrtku 9. července. Půjde o filmy Na vítězné vlně, Velká šestka, Kód Enigmy, Muž, který sázel stromy, a dokument Češi proti Čechům. V pátek 10. července bude podle zájmu diváků jeden z těchto filmů reprízován. Spoustu kvalitních filmů tradičně nabídne i festival Boskovice 2015.
+V letošním roce zahajuje mimořádný digitální provoz boskovické letní kino. Těšit se můžeme například ve čtvrtek 16. července na Ovečku Shaun ve filmu, v pátek 17. července na Šíleného Maxe nebo v pondělí 27. července na Klub rváčů. Pět filmových představení nabídne i letovický LetFest, a to od neděle 5. července do čtvrtku 9. července. Půjde o filmy Na vítězné vlně, Velká šestka, Kód Enigmy, Muž, který sázel stromy, a dokument Češi proti Čechům. V pátek 10. července bude podle zájmu diváků jeden z těchto filmů reprízován. V červenci bude naším regionem projíždět také Kinematograf bratří Čadíků. Promítat bude 15.–18. července v Kunštátě, 19.–22. července v Boskovicích a 23.–26. července ve Vískách. Spoustu kvalitních filmů tradičně nabídne i festival Boskovice 2015.
 
 ### Ohlédnutí za červnem
 
