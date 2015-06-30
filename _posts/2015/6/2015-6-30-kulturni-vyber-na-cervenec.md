@@ -14,7 +14,7 @@ Na čtvrtek 9. července připravila hudební program i Turbína, v rámci akce 
 
 Ve středu 1. července se na boskovickém zámku v rámci festivalu Ibérica bude konat flamencový koncert Puntal – Flamenco de Sevilla. V červenci bude také pokračovat série nedělních promenádních koncertů: 5. července zahraje Boskovická kapela, 19. července Ženeva Dubská Trio s poctou Evě Olmerové a 26. července Holóbkova mozeka. Promenádní koncerty začínají vždy v 15 hodin v parku u zámeckého skleníku v Boskovicích.
 
-V sobotu 11. července se v rámci letovického LetFestu můžeme těšit na vystoupení písničkáře a Pavla Helana. V sobotu 18. července se bude na dvoře Svitavice v Letovicích konat elektronický open air festival Sex on the Beach, kde mezi jinými zahrají například Philip TBC nebo Paul Hubiss. 31. července se dočkáme jazzu, v letovické ZUŠ v rámci festivalu 3+1 zahraje Petr Beneš Quartet.
+V sobotu 11. července se v rámci letovického LetFestu můžeme těšit na vystoupení písničkáře Pavla Helana. V sobotu 18. července se bude na dvoře Svitavice v Letovicích konat elektronický open air festival Sex on the Beach, kde mezi jinými zahrají například Philip TBC nebo Paul Hubiss. 31. července se dočkáme jazzu, v letovické ZUŠ v rámci festivalu 3+1 zahraje Petr Beneš Quartet.
 
 V sobotu 18. července budeme na zámku v Lysicích svědky koncertu kapel Rangers-Plavci, Pozdní sběr a Folk Team. V sobotu 25. července v pilastrovém sále státního zámku v Kunštátě vystoupí Trio Extempore.
 
