@@ -16,7 +16,7 @@ Ve středu 1. července se na boskovickém zámku v rámci festivalu Ibérica bu
 
 V sobotu 11. července se v rámci letovického LetFestu můžeme těšit na vystoupení písničkáře Pavla Helana. V sobotu 18. července se bude na dvoře Svitavice v Letovicích konat elektronický open air festival Sex on the Beach, kde mezi jinými zahrají například Philip TBC nebo Paul Hubiss. 31. července se dočkáme jazzu, v letovické ZUŠ v rámci festivalu 3+1 zahraje Petr Beneš Quartet.
 
-Spolek PaLetA ve spolupráci s Hotelem Dermot pořádají v červenci a srpnu 2015 každý pátek od 19 hodin Barevný pátek, tedy hudební posezení na zahrádce Hotelu Dermot v Letovicích . 3. července vystoupí MC Louis de Fumes, 10. července Šnek a spol., 17. července Jay Delver Band, 24. července DJ Jah-li a 31. července Jazzulátka. V sobotu 25. července 2015 se v areálu Amatérského fotbalového klubu Letovice koná pátý ročník festivalu Rockšpíl, vystoupí Masařka 03, Vlastní šťáva, Seňorita, Bloosers, Try!(o) a Bezlimitu.
+Spolek PaLetA ve spolupráci s Hotelem Dermot pořádají v červenci a srpnu 2015 každý pátek od 19 hodin Barevný pátek, tedy hudební posezení na zahrádce Hotelu Dermot v Letovicích . 3. července vystoupí MC Louis de Fumes, 10. července Šnek a spol., 17. července Jay Delver Band, 24. července DJ Jah-li a 31. července Jazzulátka. V sobotu 25. července 2015 se v areálu Amatérského fotbalového klubu Letovice koná pátý ročník festivalu Rockšpíl, vystoupí Masařka 03, Ve Vlastní šťávě, Seňorita, Bloosers, Try!(o) a Bezlimitu.
 
 V sobotu 18. července budeme na zámku v Lysicích svědky koncertu kapel Rangers-Plavci, Pozdní sběr a Folk Team. V sobotu 25. července v pilastrovém sále státního zámku v Kunštátě vystoupí Trio Extempore.
 
