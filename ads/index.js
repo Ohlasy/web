@@ -14,6 +14,13 @@
         "priority": 1000
     },
     {
+        "name": "Muzeum",
+        "image": "/ads/muzeum.jpg",
+        "alt": "navštivte Muzeum Boskovicka",
+        "url": "http://muzeum.boskovice.cz/",
+        "priority": 1000
+    },
+    {
         "name": "Boskovice 2015",
         "image": "/ads/festival.png",
         "alt": "Festival Boskovice 2015",
