@@ -58,7 +58,7 @@ Z divadelních vystoupení jsem zvědavá na vystoupení boskovického divadla N
 
 Posledních pár let si pravidelně program festivalu nečtu, nechám se překvapit na místě. A podobně jako minulý rok se i letos (pro mě) to nejzajímavější odehraje na Palouku Potrvá u hradu, jehož dramaturgie přinese výrazná jména současné alternativní scény. Ze čtvrtečního programu doporučím projekty Obelisk of Light a Sítě, jejichž hypnotický zvuk zkrátka a dobře funguje.
 
-V pátek si asi dám pivo a budu budu pendlovat mezi UNI a jazzovou scénou, dokud u hradu Or nespustí svůj, v nejlepším slova smyslu, rock'n'roll. Dám šanci shoegazovým Manon Meurt a pak asi pivo.
+V pátek si asi dám pivo a budu pendlovat mezi UNI a jazzovou scénou, dokud u hradu Or nespustí svůj, v nejlepším slova smyslu, rock'n'roll. Dám šanci shoegazovým Manon Meurt a pak asi pivo.
 
 V sobotu v Panském dvoře dost příjemná sestava – psychedeličtí Bumfrang3 a experimentální Five Seconds to Leave, Leto pak předvedou jak to dopadá, když se ostravaci ztiší a začnou dělat pop. Na vlnách popu zůstaneme, jenom se přesuneme opět víc do přírody: písničkář Cosmic Boxer, 27 a v neposlední řadě se můžeme těšit na boží zjevení jménem Kalle, kteří zní (to klišé si neodpustím, pardon) asi jako kdyby David Pajo sbalil Beth Gibbons a začali skládat písničky k táboráku. 
 
