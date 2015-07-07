@@ -21,6 +21,13 @@
         "priority": 1000
     },
     {
+        "name": "Anatis",
+        "image": "http://anatis.cz/reklama/anatis-ohlasy.png",
+        "alt": "reklama na podlahy Anatis",
+        "url": "http://anatis.cz/",
+        "priority": 1000
+    },
+    {
         "name": "Boskovice 2015",
         "image": "/ads/festival.png",
         "alt": "Festival Boskovice 2015",
