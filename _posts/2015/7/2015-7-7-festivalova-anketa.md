@@ -16,7 +16,7 @@ Začíst se do programu festivalu s předstihem je pro mě neobvyklé. Jako náv
 
 Mezi žánry si však vždy najdu něco z filmové nabídky: letos třeba dokumentární filmy k dějinám 20. století – dokumentární cyklus Zač jsme bojovali k československým legiím.  Těším se na snímky k přemýšlení o současných tématech: dokumentární Opři žebřík o nebe nebo životopisný celovečerní film Příběh Marie. Když procházím program festivalu, už teď mám chuť na kapku československé filmové nostalgie – filmy Svědek umírajícího času (vzpomínka na Petra Čepka) nebo filmy scenáristy Jiřího Křižana – Stíny horkého léta jsem ještě neviděla a film Je třeba zabít Sekala jsem už dlouho neviděla.
 
-Z hudební nabídky: zvažuji a sbírám odvahu, zda po komornějším zážitku s Ivou Bittovou na kunštátském zámeckém vršku jít na Ivu Bittovou a Činkori do davu letního kina. Tak pokud koncert Ivy Bittové odložím do poetičtějších prostor, třeba navštívím letní kino v neděli a podívám se na dnes již polskou klasiku Náhoda Krzysztofa Kieślowského.
+Z hudební nabídky: zvažuji a sbírám odvahu, zda po komornějším zážitku s Ivou Bittovou na kunštátském zámeckém vršku jít na Ivu Bittovou a Čikori do davu letního kina. Tak pokud koncert Ivy Bittové odložím do poetičtějších prostor, třeba navštívím letní kino v neděli a podívám se na dnes již polskou klasiku Náhoda Krzysztofa Kieślowského.
 
 Mám pocit, že jsme jako návštěvníci festivalu tak trochu rozmazlení, je toho tolik, co můžeme vidět, slyšet, zažít, že někdy jen ožďubujeme  třešničky ze všeho toho dobrého.
 
