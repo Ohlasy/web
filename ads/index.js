@@ -39,7 +39,7 @@
         "image": "/ads/festival-fotky.jpg",
         "alt": "naše fotografie z festivalu Boskovice 2015",
         "url": "https://www.facebook.com/media/set/?set=a.852424381478345.1073741855.781692698551514&type=3",
-        "priority": 1200
+        "priority": 1000
     },
     {
         "name": "Lezecká stěna",
