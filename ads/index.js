@@ -28,13 +28,6 @@
         "priority": 1000
     },
     {
-        "name": "Boskovice 2015",
-        "image": "/ads/festival.png",
-        "alt": "Festival Boskovice 2015",
-        "url": "http://www.boskovice-festival.cz/",
-        "priority": 800
-    },
-    {
         "name": "Boskovice 2015 fotoreport",
         "image": "/ads/festival-fotky.jpg",
         "alt": "naše fotografie z festivalu Boskovice 2015",
