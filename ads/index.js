@@ -9,8 +9,8 @@
     {
         "name": "KZMB",
         "image": "http://kulturaboskovice.cz/img/ohlasy.jpg",
-        "alt": "reklama na aktuální koncert KZMB",
-        "url": "http://kulturaboskovice.cz/",
+        "alt": "letní kino v provozu",
+        "url": "http://kinoboskovice.cz/bpRun.aspx?idPage=1",
         "priority": 1000
     },
     {
