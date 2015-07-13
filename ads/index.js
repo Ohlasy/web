@@ -14,13 +14,6 @@
         "priority": 1000
     },
     {
-        "name": "Festiválek 2015",
-        "image": "/ads/festivalek.png",
-        "alt": "Festiválek bez bojů a válek",
-        "url": "http://fbbav.cz/",
-        "priority": 1000
-    },
-    {
         "name": "Muzeum",
         "image": "/ads/muzeum.jpg",
         "alt": "navštivte Muzeum Boskovicka",
@@ -40,6 +33,13 @@
         "alt": "naše fotografie z festivalu Boskovice 2015",
         "url": "https://www.facebook.com/media/set/?set=a.852424381478345.1073741855.781692698551514&type=3",
         "priority": 1000
+    },
+    {
+        "name": "Festiválek 2015",
+        "image": "/ads/festivalek.png",
+        "alt": "Festiválek bez bojů a válek",
+        "url": "http://fbbav.cz/",
+        "priority": 800
     },
     {
         "name": "Lezecká stěna",
