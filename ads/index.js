@@ -18,7 +18,7 @@
         "image": "/ads/jarmark.jpg",
         "alt": "23. kunštátský jarmark",
         "url": "http://www.kunstat-mesto.cz",
-        "priority": 1000
+        "priority": 800
     },
     {
         "name": "Muzeum",
