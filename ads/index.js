@@ -14,6 +14,13 @@
         "priority": 1000
     },
     {
+        "name": "Kunštátský jarmark 2015",
+        "image": "/ads/jarmark.jpg",
+        "alt": "23. kunštátský jarmark",
+        "url": "http://www.kunstat-mesto.cz",
+        "priority": 1000
+    },
+    {
         "name": "Muzeum",
         "image": "/ads/muzeum.jpg",
         "alt": "navštivte Muzeum Boskovicka",
