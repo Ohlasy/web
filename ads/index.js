@@ -17,7 +17,7 @@
         "name": "Kunštátský jarmark 2015",
         "image": "/ads/jarmark.jpg",
         "alt": "23. kunštátský jarmark",
-        "url": "http://www.kunstat-mesto.cz",
+        "url": "http://www.kunstat-mesto.cz/hnrcirsky-jarmark/hrncirsky-jarmark-2015/",
         "priority": 800
     },
     {
