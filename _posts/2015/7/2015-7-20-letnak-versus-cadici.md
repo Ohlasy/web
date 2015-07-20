@@ -16,7 +16,7 @@ Dnes ráno jsem ovšem otevřel webové stránky města a nevěřil jsem svým v
 
 _RM schvaluje poskytnutí finančního daru společnosti Kinematograf bratří Čadíků, s. r. o., Mokrá 98, ve výši 10.000,00 Kč. RM uděluje výjimky společnosti Kinematograf bratří Čadíků, s. r. o., na akce – projekce filmů, které se budou konat v daných termínech._
 
-Takže: naše vlastní příspěvková organizace za nemalé lidské, ale i ekonomické náročnosti zcela zásadně oživila stávající areál letního kina a město Boskovice poskytne 10 000 Kč a výjimku z vyhlášky (vzpomínáte na Silvery?) soukromému provozovateli letních kin na jejich obchodní činnost na náměstí města tři dny po zahájení digitální projekce v městském kině.
+Takže: naše vlastní příspěvková organizace za nemalé lidské, ale i ekonomické náročnosti zcela zásadně oživila stávající areál letního kina a město Boskovice poskytne 10 000 Kč a výjimku z vyhlášky ([vzpomínáte na Silvery?](/clanky/2015/06/silveri-nebudou.html)) soukromému provozovateli letních kin na jejich obchodní činnost na náměstí města tři dny po zahájení digitální projekce v městském kině.
 
 Dneska například hrají v letním kině velmi úspěšnou pohádku Mimoni za přijatelné vstupné, počasí je krásné a naděje, že se získá část prostředků investovaných do zápůjčky projektoru, existuje. Jenže když půjdete přes město, tak zjistíte, že tam zadarmo (což považuji za vůbec nejhorší) dnes promítají též úspěšný film. Sednete na rozpálenou dlažbu, ušetříte 400 Kč za rodinný lístek. A já vás chápu.
 
