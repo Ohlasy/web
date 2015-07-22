@@ -14,13 +14,6 @@
         "priority": 1000
     },
     {
-        "name": "Kunštátský jarmark 2015",
-        "image": "/ads/jarmark.jpg",
-        "alt": "23. kunštátský jarmark",
-        "url": "http://www.kunstat-mesto.cz/hnrcirsky-jarmark/hrncirsky-jarmark-2015/",
-        "priority": 800
-    },
-    {
         "name": "Muzeum",
         "image": "/ads/muzeum.jpg",
         "alt": "navštivte Muzeum Boskovicka",
@@ -35,6 +28,13 @@
         "priority": 1000
     },
     {
+        "name": "Kunštátský jarmark 2015",
+        "image": "/ads/jarmark.jpg",
+        "alt": "23. kunštátský jarmark",
+        "url": "http://www.kunstat-mesto.cz/hnrcirsky-jarmark/hrncirsky-jarmark-2015/",
+        "priority": 800
+    },
+    {
         "name": "Festiválek 2015",
         "image": "/ads/festivalek.png",
         "alt": "Festiválek bez bojů a válek",
@@ -42,11 +42,11 @@
         "priority": 800
     },
     {
-        "name": "Lezecká stěna",
-        "image": "/ads/stena.png",
-        "alt": "Lezecká stěna na boskovickém letním kině?",
-        "url": "http://stenaboskovice.cz/",
-        "priority": 600
+        "name": "Fotodílna",
+        "image": "/ads/dilna.png",
+        "alt": "Dětské léto nejen s fotografií",
+        "url": "mailto:gabykolcavova@yahoo.com?subject=Fotodílna",
+        "priority": 800
     },
     {
         "name": "Inzerujte u nás",
