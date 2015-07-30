@@ -20,7 +20,7 @@ V sobotu 1. srpna se v boskovickém hudebním klubu Sklepy představí dvě kape
 
 V parku u boskovického zámeckého Skleníku v srpnu pokračuje série promenádních koncertů. V neděli 4. srpna se můžeme těšit na Jitku Šuranskou, Martina Krajíčka a Mariána Friedla, jejichž výborné vystoupení jsme si mohli loni vychutnat na výborném koncertu v zámeckém skleníku. V rámci promenádní sezóny dále vystoupí 9. srpna Třetí zuby unplugged, 16. srpna Boskověnka, 23. srpna Alibaba a 30. srpna Kunštátská dechovka a FS Velen. Promenádní koncerty nově pořádá také kulturní středisko v Letovicích. Konají se také v neděli v 15 hodin, a to na Masarykově náměstí v Letovicích. 9. srpna zahraje Miloš Pernica a K-BAND, 30. srpna pak Velký dechový soubor ZUŠ Letovice. Dočkáme se i dalších Barevných pátků na zahrádce letovického Hotelu Dermot, o program se postarají 7. srpna DJ Flower, 14. srpna Paleta Band, 21. srpna DJ Naker a 28. srpna kapela Time off.
 
-Dva koncerty pořádá také státní zámek Kunštát. V sobotu 8. srpna v pilastrovém sále na akci s názvem Kontrasty zahraje Jitka Baštová na alpský roh a Lisa Stoll ze Švýcarska na loutnu, v sobotu 28. května se na nádvoří kunštátského zámku odehraje tradiční koncert Čankišou.
+Dva koncerty pořádá také státní zámek Kunštát. V sobotu 8. srpna v pilastrovém sále na akci s názvem Kontrasty zahraje Jitka Baštová na akordeon, Jindřich Macek na loutnu a Lisa Stoll ze Švýcarska na alpský roh, v sobotu 28. května se na nádvoří kunštátského zámku odehraje tradiční koncert Čankišou.
 
 ### Divadlo
 
