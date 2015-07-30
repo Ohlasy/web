@@ -38,7 +38,7 @@ V neděli 9. srpna se v boskovickém kině Panorama odehraje několik cestovatel
 
 ### Film
 
-Kromě běžných filmových projekcí boskovického kina bude každý den až do 23. srpna vždy od 21.00 promítat i kino letní. Půjde opět o projekce v digitálním formátu, nejzajímavějším titulem bude bezesporu v pátek 23. srpna Vynález zkázy režiséra a animátora Karla Zemana, zařazený letos do filmové přehlídky Projekt 100. Pět studentských filmů nabídne Festiválek bez bojů a válek v neděli 9. srpna od 19.00 v kině Panorama.
+Kromě běžných filmových projekcí boskovického kina bude každý den až do 23. srpna vždy od 21.00 promítat i kino letní. Půjde opět o projekce v digitálním formátu, nejzajímavějším titulem bude bezesporu v neděli 23. srpna Vynález zkázy režiséra a animátora Karla Zemana, zařazený letos do filmové přehlídky Projekt 100. Pět studentských filmů nabídne Festiválek bez bojů a válek v neděli 9. srpna od 19.00 v kině Panorama.
 
 ### Ohlédnutí za červencem
 
