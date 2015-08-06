@@ -1,7 +1,7 @@
 [
     {
         "name": "Nature Home",
-        "image": "/ads/nature-home.png",
+        "image": "http://i.imgur.com/QNBopAk.png",
         "alt": "Nature Home, interiér pro váš domov i kancelář",
         "url": "http://www.naturehome.cz/",
         "priority": 1000
