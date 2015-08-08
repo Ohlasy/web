@@ -9,7 +9,7 @@ Petici na podporu lezecké stěny na zadní stěně letního kina podepsalo celk
 
 ---
 
-<img src="http://i.imgur.com/NdoYtWg.jpg" class="profile-picture" alt="Petr Malach">
+<img src="http://i.imgur.com/kcshgHa.jpg" class="profile-picture" alt="Petr Malach">
 
 ***Petr Malach, místostarosta Boskovic***
 
@@ -17,7 +17,7 @@ Ano, 300 občanů města Boskovice není málo, ale není to taky moc. Pokud si 
 
 ---
 
-<img src="http://i.imgur.com/JpzuTyh.jpg" class="profile-picture" alt="Jiří Pevný">
+<img src="http://i.imgur.com/GbNAbLa.jpg" class="profile-picture" alt="Jiří Pevný">
 
 ***Jiří Pevný, zastupitel za Sportovce***
 
@@ -25,7 +25,7 @@ Jako velmi pozitivní beru skutečnost, kolik lidí svým podpisem zareagovalo n
 
 ---
 
-<img src="http://i.imgur.com/7MK5ahF.jpg" class="profile-picture" alt="Sáša Živná">
+<img src="http://i.imgur.com/x5AFgXm.jpg" class="profile-picture" alt="Sáša Živná">
 
 ***Sáša Živná, učitelka TV na gymnáziu, zastupitelka za ANO***
 
@@ -37,13 +37,8 @@ Projekt samozřejmě podporovat budu. Do Boskovic by se nalákalo veliké množs
 
 ---
 
-<img src="http://i.imgur.com/VrX08ZH.jpg" class="profile-picture" alt="Oldřich Kovář">
+<img src="http://i.imgur.com/8tELAVA.jpg" class="profile-picture" alt="Oldřich Kovář">
 
 ***Oldřich Kovář, ředitel KZMB***
 
-Vzhledem k míře popularity a zájmu o tuto sportovní volnočasovou aktivitu se domnívám, že počet respondentů je velice slušný a pro další aktivity bratelný…
-
-S umístěním stěny na konstrukci letního kina nemáme sebemenší problém, vyřeší to do značné míry i estetiku pozadí promítací plochy, jen máme jednoznačný názor celých KZMB, že se musí jednat o aktivitu organizačně, provozně i bezpečnostně zajištěnou – tedy stěna nemůže být úplně volně přístupná.
-
-
-
+Vzhledem k míře popularity a zájmu o tuto sportovní volnočasovou aktivitu se domnívám, že počet respondentů je velice slušný a pro další aktivity bratelný… S umístěním stěny na konstrukci letního kina nemáme sebemenší problém, vyřeší to do značné míry i estetiku pozadí promítací plochy, jen máme jednoznačný názor celých KZMB, že se musí jednat o aktivitu organizačně, provozně i bezpečnostně zajištěnou – tedy stěna nemůže být úplně volně přístupná.
