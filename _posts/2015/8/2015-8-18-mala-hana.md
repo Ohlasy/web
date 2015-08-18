@@ -5,9 +5,11 @@ cover-photo: http://i.imgur.com/aiEqissl.jpg
 author: Hynek Skořepa
 ---
 
-*Malou Hanou jsem v dětství a mládí spíš opomíjel. Ač rodák z Boskovic, města, které dalo jméno celé Boskovické brázdě, jíž je Malá Haná součástí, za svůj rodný kraj jsem dlouho považoval především Drahanskou vrchovinu. Inu proč ne, vždyť příkré zlomové svahy této vrchoviny se zdvíhají hned za posledními domy mého rodného města. Jak léta mládí mizela, ubývalo chuti a sil trmácet se do kopců (i když stále do nich sem tam rád zajdu). Nastal čas Malé Hané, té „kapesní roviny“. Teprve za svého učitelování na jevíčském gymnáziu jsem jí však přišel jaksepatří na chuť. Možná k tomu přispěl i krásný text jevíčského učitele, spisovatele a znalce zdejšího kraje Františka Továrka, který napsal v roce 1971 do vlastivědného sborníku zvaného právě Malá Haná, vydávaného ve Velkých Opatovicích:*
+*Malou Hanou jsem v dětství a mládí spíš opomíjel. Ač rodák z Boskovic, města, které dalo jméno celé Boskovické brázdě, jíž je Malá Haná součástí, za svůj rodný kraj jsem dlouho považoval především Drahanskou vrchovinu. Inu proč ne, vždyť příkré zlomové svahy této vrchoviny se zdvíhají hned za posledními domy mého rodného města. Jak léta mládí mizela, ubývalo chuti a sil trmácet se do kopců (i když stále do nich sem tam rád zajdu). Nastal čas Malé Hané, té „kapesní roviny“. Teprve za svého učitelování na jevíčském gymnáziu jsem jí však přišel jaksepatří na chuť.*
 
 <img src="http://i.imgur.com/ZsAWXjf.jpg" alt="Malá Haná" class="img-responsive">
+
+Možná k tomu přispěl i krásný text jevíčského učitele, spisovatele a znalce zdejšího kraje Františka Továrka, který napsal v roce 1971 do vlastivědného sborníku zvaného právě Malá Haná, vydávaného ve Velkých Opatovicích:
 
 *Kdybych měl po pravdě odpovědět, proč se mi Malá Haná tak líbí a proč ji mám rád, ocitl bych se ve značných rozpacích. Těch odpovědí se totiž nabízí hned několik: Snad z toho důvodu, že tu náš rod tkví od nepaměti všemi svými kořeny? Pro hroby předků a kolébky dětí? … Nebo pro křik čejky, vítající jaro, pro křehkou vůni prvosenek, pro střapaté vršky kopců, příslib chleba ve zrajícím žitě, …, pro slunce, vítr a hvězdy…?*
 
