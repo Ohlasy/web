@@ -21,6 +21,8 @@ Malá Haná je součástí Boskovické brázdy, což je protáhlá úzká sníž
 
 Geologická stavba a geomorfologie (tvary zemského povrchu) Malé Hané si však zaslouží více pozornosti, nechám si je proto na jindy.
 
+<img src="http://i.imgur.com/cjoIjCW.jpg" alt="Malá Haná" class="img-responsive">
+
 Teď něco o lidech. Kraj Malé Hané je odjakživa přitahoval. Nejstarší osídlení je doloženo z paleolitu (starší doby kamenné). Zdejší obyvatelé se tenkrát živili lovem a sběrem. Kromě dřevěných a kostěných nástrojů při získávání a zpracovávání potravy využívali i nástroje kamenné, nejčastěji vyráběné z místního rohovce (křemičité horniny). Ten se vyskytuje v křídových (druhohorních) usazeninách. Na Malé Hané se tento kámen zpracovával na řadě míst k výrobě štípaných nástrojů (jakýchsi čepelek), nejvýznamnější „pravěká dílna“ se nacházela na vrchu Horky u Bořitova. Když tenkrát mistři „kamenného řemesla“ ustali v práci, aby si odpočinuli, museli mít z návrší Horek nádherný výhled po širokém okolí. Nu, proto si ho nakonec vybrali. Vidět a nebýt viděn bylo tenkrát pro přežití důležitější než dnes.
 
 Rohovce, ani ne tak ty malohanácké, ale ty mnohem kvalitnější, těžené ze štěrků při okraji Krumlovského lesa v jižní části Boskovické brázdy, byly spolu s pazourkem dopravovaným ze severu od Baltského moře nejčastější surovinou pro výrobu pravěké štípané industrie na Moravě. 
