@@ -35,13 +35,6 @@
         "priority": 800
     },
     {
-        "name": "Fotodílna",
-        "image": "/ads/dilna.png",
-        "alt": "Dětské léto nejen s fotografií",
-        "url": "mailto:gabykolcavova@yahoo.com?subject=Fotodílna",
-        "priority": 800
-    },
-    {
         "name": "Inzerujte u nás",
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
