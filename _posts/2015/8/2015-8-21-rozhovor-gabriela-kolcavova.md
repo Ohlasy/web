@@ -22,7 +22,7 @@ Ne, vůbec. A zapsala jsem se i na zpěv, přičemž moje učitelka se věnovala
 
 **Jak dlouho jsi tam nakonec byla?**
 
-Přijela jsem tam podruhé a pak ještě potřetí. Ředitel Dr. Michaelis, který fandil výměnám s českými studenty, mi doporučil, abych dokončila studium na univerzitě v Dentonu. A protože můj profesor fotografie Barney Fitzpatrick měl blízko do důchodu, plánovali, že až dostuduji, tak po něm fotku ve Wacu převezmu. Odešla jsem na postmagistrální MFA studium umělecké fotografie na University of North Texas do Dentonu Daytonu, kde jsem byla dva a půl roku. Úžasné bylo, že jsme od začátku učili mladší ročníky. Pak mi nabídli, abych tam odučila ještě jeden semestr. A pak mě přetáhli podle původního plánu na mou původní McLennan Community College do Waca.
+Přijela jsem tam podruhé a pak ještě potřetí. Ředitel Dr. Michaelis, který fandil výměnám s českými studenty, mi doporučil, abych dokončila studium na univerzitě v Dentonu. A protože můj profesor fotografie Barney Fitzpatrick měl blízko do důchodu, plánovali, že až dostuduji, tak po něm fotku ve Wacu převezmu. Odešla jsem na postmagistrální MFA studium umělecké fotografie na University of North Texas do Dentonu, kde jsem byla dva a půl roku. Úžasné bylo, že jsme od začátku učili mladší ročníky. Pak mi nabídli, abych tam odučila ještě jeden semestr. A pak mě přetáhli podle původního plánu na mou původní McLennan Community College do Waca.
 
 **A tys jim utekla?**
 
