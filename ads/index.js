@@ -10,7 +10,7 @@
         "name": "KZMB",
         "image": "http://kulturaboskovice.cz/img/ohlasy.jpg",
         "alt": "letní kino v provozu",
-        "url": "http://www.kulturaboskovice.cz/kino/letni-kino",
+        "url": "http://www.kulturaboskovice.cz/",
         "priority": 1000
     },
     {
