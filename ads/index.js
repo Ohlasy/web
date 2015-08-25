@@ -15,8 +15,8 @@
     },
     {
         "name": "Muzeum",
-        "image": "/ads/muzeum.jpg",
-        "alt": "navštivte Muzeum Boskovicka",
+        "image": "/ads/prohlidka.jpg",
+        "alt": "aktivní prohlídka židovské čtvrti, 8. září",
         "url": "http://muzeum.boskovice.cz/",
         "priority": 1000
     },
