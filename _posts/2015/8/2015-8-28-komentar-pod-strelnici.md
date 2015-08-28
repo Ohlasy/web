@@ -38,7 +38,7 @@ V uvedené lokalitě se stavebníky stala vesměs nastupující generace, která
 
 Dalo by se namítnout, že za svoje peníze si má každý právo postavit, co mu vyhovuje. Pokud ale případnému zájemci žádný z architektem doporučených typů domu nevyhovuje, má na výběr z mnoha dalších developerských projektů na jiných místech, která mu splní každé přání. Tedy skoro každé – z vlastní zkušenosti vím, jaké komplikace může způsobit zmínka o regulativech, podlažnosti a tvaru střechy v územním plánu. V tomto případě by bylo škoda promarnit nabídnutou příležitost a nespojit nové místo s jedinečným geniem loci, nepostavit zde konečně opravdu soudobou a kvalitní architekturu, která v Boskovicích prakticky chybí. (Napočítal bych ji na prstech jedné ruky, a to bych některé z nich ani nepoužil.)
 
-<img src="http://i.imgur.com/lXacyph.jpg" alt="ukázka z urbanistické studie" class="img-responsive">
+<img src="http://i.imgur.com/n4vd1yN.jpg" alt="modelové typy domů" class="img-responsive">
 
 Kdyby se podařilo naplnit vize urbanistické studie od brněnských architektů z ateliéru Dimense, která je součástí tohoto záměru, je zde šance, že by na severovýchodním okraji Boskovic mohl vzniknout poměrně kvalitní architektonický soubor, byť zatím pouze formou individuální výstavby. Mohlo by se tak započít se stavěním opravdu kvalitních rodinných domů, místo vesměs naprosto tuctových ukázek stavitelské bezradnosti, kterých jsou plné výše uvedené ulice Lipová a Na Chmelnici.
 
