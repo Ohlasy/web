@@ -47,7 +47,8 @@ PETR: Hodně jich nemělo ani deky a leželi jen na rozřezaných krabicích.
 LUDMILA: Bylo vidět, že to jsou taková jednotlivá místečka, na kterých jsou pohromadě rodiny. 
 
 RADEK: Jako někde v kempu, každá skupinka si našla svůj kousek.
-Takže to byly rodiny?
+
+**Takže to byly rodiny?**
 
 LUDMILA: Myslím, že ve většině případu ano.
 
@@ -66,7 +67,8 @@ PETR: Než jsme usnuli, přišla kousek od nás rodina se dvěma malými dětmi.
 LUDMILA: To ne. Spíš jako když musíš fungovat jen v jednom oblečení delší dobu.
 
 PETR: Ale třeba špinaví nebo zarostlí rozhodně nebyli.
-Jak jste se v táboře cítili, nebáli jste se?
+
+**Jak jste se v táboře cítili, nebáli jste se?**
 
 VIKTORIE: Zpočátku to bylo trochu nepříjemné, ale nakonec jsem se tam možná cítila líp než v Brně na nádraží.
 
@@ -91,7 +93,8 @@ RADEK: Ten kluk říkal, že místní jim chodí pomáhat a nosí jim věci. Ná
 VIKTORIE: Normálně. Všichni začali vstávat a přes park už právě chodili i místní, venčili psy, normálně se mezi běženci pohybovali. Rozhodně se jich nijak nestranili, sedali si na lavičky a procházeli se. Připadalo mi to úplně v pohodě.
 
 RADEK: Ráno bylo taky víc vidět, že někteří běženci už tam asi tráví delší čas, měli tam vytahaná křesílka a podobně.
-Setkali jste se pak ještě během další cesty s běženci?
+
+**Setkali jste se pak ještě během další cesty s běženci?**
 
 PETR: Po cestě zpátky jsme zase v Budapešti přestupovali na vlak do Brna. Před ním bylo hodně policistů a potom ve vlaku jich chodilo dost ve větších skupinkách. Přepravovali stejným vlakem nějaké uprchlíky, vezli je na Slovensko. Měli vymezený jeden vagon v zadní části vlaku. Ostatní části kontrolovali, i k nám do kupé přišlo s průvodčím několik policistů. Když jsme jeli tam, policisty jsme ani nepotkali, ale ta cesta směrem na západ je evidentně kontrolovaná přísně.
 
@@ -99,4 +102,4 @@ PETR: Po cestě zpátky jsme zase v Budapešti přestupovali na vlak do Brna. P�
 
 RADEK: Moc si to neumím představit. Obávám se, že by se našlo dost lidí, kteří by s tím měli nějaký problém. Z mého pohledu si myslím, že by to mohlo být úplně v pohodě. Mohli bychom je přijmout úplně stejně, jako lidi tam.
 
-ELIŠKA: Možná kdyby lidi viděli, že to není žádné nebezpečí, ale jsou to obyčejní lidé, kteří sedí na dekách se svými dětmi, tak by to začali vnímat víc v klidu.  Že není důvod se bát.
+ELIŠKA: Možná kdyby lidi viděli, že to není žádné nebezpečí, ale jsou to obyčejní lidé, kteří sedí na dekách se svými dětmi, tak by to začali vnímat víc v klidu. Že není důvod se bát.
