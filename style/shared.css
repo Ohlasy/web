@@ -60,26 +60,6 @@ footer a {
     position: relative;
 }
 
-.box img.cover {
-    height: 100%;
-    position: absolute;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    opacity: 0.8;
-}
-
-.box p {
-    position: absolute;
-    color: white;
-    opacity: 0.9;
-    bottom: 0px;
-    padding: 20px;
-    margin-bottom: 0;
-    font-style: italic;
-    background: #9a5d11;
-    background-opacity: 0.5;
-}
-
 /* Content */
 
 h2 {
