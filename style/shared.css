@@ -56,8 +56,19 @@ footer a {
     height: 0;
     background: #ddd;
     margin-bottom: 30px;
-    overflow: hidden;
     position: relative;
+}
+
+.box:after {
+    content: "reklama";
+    position: absolute;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    right: -24px;
+    font-size: 10px;
+    color: silver;
+    top: 5px;
 }
 
 /* Content */
