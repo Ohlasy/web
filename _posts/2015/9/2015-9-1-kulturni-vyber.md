@@ -28,7 +28,7 @@ Ještě slavnějším jménem než Lenka Filipová je bezpochyby Roger Waters, z
 
 ### Divadlo
 
-V sobotu 5. září na molech v Drnovicích proběhne repríza komedie Marie Ebner Eschenbach s názvem Fialky. V neděli 6. září se v zámecké konírně státního zámku Kunštát v podání divadelního souboru Ad hoc odehraje představení Dávám všechno o životě komtesy Františky Coudenhove-Honrichs, poslední majitelky kunštátského panství. V pátek 11. září se v zámeckém skleníku v Boskovicích bude konat divadelní improvizační zápas domácího týmu Lísky s pardubickými Paleťáky.
+V sobotu 5. září na molech v Drnovicích proběhne repríza komedie Marie Ebner Eschenbach s názvem Fialky. V neděli 6. září se v zámecké konírně státního zámku Kunštát v podání divadelního souboru Ad hoc odehraje představení o životě komtesy Františky Coudenhove-Honrichs, poslední majitelky kunštátského panství, představení nese název Dávám všechno. V pátek 11. září se v zámeckém skleníku v Boskovicích bude konat divadelní improvizační zápas domácího týmu Lísky s pardubickými Paleťáky.
 
 ### Výstavy
 
