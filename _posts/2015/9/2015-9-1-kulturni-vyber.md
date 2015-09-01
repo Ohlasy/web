@@ -44,7 +44,7 @@ V sobotu a v neděli 5. a 6. září budou probíhat Dny evropského dědictví.
 
 ### Film
 
-Z filmové nabídky boskovického kina rozhodně stojí za zmínku remasterovaná verze filmu Vetřelci režiséra Jamese Camerona v sobotu 5. září. V rámci filmového klubu se můžeme těšit ve čtvrtek 17. září na dokument Filmový dobrodruh Karel Zeman a ve středu 23. září na nový film Gaspara Noé s názvem Love. Dokument o Karlu Zemanovi budeme moci vidět i v pátek 18. září v kinokavárně v zámeckém sále ve Vanovicích, kde bude následován Zemanovým filmem Vynález zkázy.
+Z filmové nabídky boskovického kina rozhodně stojí za zmínku remasterovaná verze filmu Vetřelci režiséra Jamese Camerona v sobotu 5. září. V rámci filmového klubu se můžeme těšit ve čtvrtek 17. září na dokument Filmový dobrodruh Karel Zeman a ve středu 23. září na nový film Gaspara Noé s názvem Love. Dokument o Karlu Zemanovi budeme moci vidět i v pátek 18. září v kinokavárně v zámeckém sále ve Velkých Opatovicích, kde bude následován Zemanovým filmem Vynález zkázy.
 
 ### Ohlédnutí za srpnem
 
