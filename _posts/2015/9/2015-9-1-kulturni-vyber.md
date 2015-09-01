@@ -4,13 +4,13 @@ cover-photo: http://i.imgur.com/k3NJiFnl.jpg
 author: Jan Bařinka
 ---
 
-*Měsíc září nabízí v Boskovicích a v okolí kulturní akce, které rozhodně stojí za pozornost. Gianniho kulturní výběr opět přináší výčet toho, co by bylo opravdu škoda přehlédnout. K úplným špičkám zářijového programu patří Marilyn Oliver, Michaela Koudelková nebo Lenka Filipová v zámeckém skleníku, Vltava nebo Žlutý pes na kunštátském Jarmarku, případně The Wall Rogera Waterse či Vetřelci v kině Panorama. Dále nás čeká spousta jazzových, folkových, klubových i klasických koncertů, několik vernisáží, besed a divadelních představení. V září také probíhají tradiční Dny evropského dědictví.*
+*Měsíc září nabízí v Boskovicích a v okolí kulturní akce, které rozhodně stojí za pozornost. Gianniho kulturní výběr opět přináší výčet toho, co by bylo opravdu škoda přehlédnout. K úplným špičkám zářijového programu patří Marilyn Oliver, Michaela Koudelková na zámku nebo Lenka Filipová v zámeckém skleníku, Vltava nebo Žlutý pes na kunštátském Jarmarku, případně The Wall Rogera Waterse či Vetřelci v kině Panorama. Dále nás čeká spousta jazzových, folkových, klubových i klasických koncertů, několik vernisáží, besed a divadelních představení. V září také probíhají tradiční Dny evropského dědictví.*
 
 <img src="http://i.imgur.com/k3NJiFn.jpg" alt="Michaela Koudelková" class="img-responsive">
 
 ### Hudba
 
-V pondělí 7. září se v zámeckém skleníku koná první koncert z cyklu Jazz and Blues 2014/15, vystoupí americká bluesová zpěvačka Marilyn Oliver za doprovodu českých muzikantů. Začíná také cyklus Kruh přátel hudby, a to ve středu 23. září koncertem Barokního tria Michaely Koudelkové na zámku. Toto česko-polské trio v čele s boskovickou rodačkou a absolventkou AMuz v Krakově zahraje skladby Nicoly Matteise, Johanna Sebastiana Bacha, Georga Philippa Telemanna nebo Roberta Carra. Patrně nejznámějším jménem, se kterým se v září v Boskovicích setkáme, bude Lenka Filipová, ta zahraje a zazpívá v pondělí 14. září v zámeckém skleníku.
+V pondělí 7. září se v zámeckém skleníku koná první koncert z cyklu Jazz and Blues 2014/15, vystoupí americká bluesová zpěvačka Marilyn Oliver za doprovodu českých muzikantů. Začíná také cyklus Kruh přátel hudby, a to ve středu 23. září koncertem Barokního tria Michaely Koudelkové na zámku v Boskovicích. Toto česko-polské trio v čele s boskovickou rodačkou a absolventkou AMuz v Krakově zahraje skladby Nicoly Matteise, Johanna Sebastiana Bacha, Georga Philippa Telemanna nebo Roberta Carra. Patrně nejznámějším jménem, se kterým se v září v Boskovicích setkáme, bude Lenka Filipová, ta zahraje a zazpívá v pondělí 14. září v zámeckém skleníku.
 
 Příznivci folku se mohou těšit na pátek 4. září na akci v Panském dvoře s názvem Nechte se unést hudbou, kde vystoupí Veka, Jakub Exler a kapela Od ucha k uchu. O den později, tedy v sobotu 5. září,  na stejném místě zahrají kapely Karlovy hračky, Družina prince Mrakomora a Kiks. K folku se vrátíme 30. září v zámeckém skleníku, kde se bude konat Open Mic vol. 13. Jako hosté vystoupí folková kapela Dunibuch z Dlouhé Loučky, boskovické alternativně folkové trio Veka a kapela Aladin ze Znojma, hrající acoustic blues.
 
@@ -32,11 +32,11 @@ V sobotu 5. září na molech v Drnovicích proběhne repríza komedie Marie Ebn
 
 ### Výstavy
 
-V úterý 1. září v 17 hodin bude na zámku v Lysicích zahájena výstava chorvatské výtvarnice Igeii Cervo-Pater s názvem Pohled mým kaleidoskopem. V pátek 4. září v 17.30 se v letovické galerii Domino koná vernisáž prodejní výstavy obrazů Malíři 19. a 20. století, v kulturním programu zahrají na flétny a fagot Jana Kouřilová, Kateřina Suchnová a Vladimír Pečinka. V sobotu 5. září v 14 hodin ve sklepě boskovického muzea bude v zámeckém skleníku zahájena výstava Historické fotografie Boskovic a v neděli 20. září proběhne vernisáž výstavy Tvář krajiny, člověka a jeho duše Liby Baďurové a Pepy Budiše.
+V úterý 1. září v 17 hodin bude na zámku v Lysicích zahájena výstava chorvatské výtvarnice Igeii Cervo-Pater s názvem Pohled mým kaleidoskopem. V pátek 4. září v 17.30 se v letovické galerii Domino koná vernisáž prodejní výstavy obrazů Malíři 19. a 20. století, v kulturním programu zahrají na flétny a fagot Jana Kouřilová, Kateřina Suchnová a Vladimír Pečinka. V sobotu 5. září ve 14 hodin ve sklepě boskovického muzea bude v zámeckém skleníku zahájena výstava Historické fotografie Boskovic a v neděli 20. září proběhne vernisáž výstavy Tvář krajiny, člověka a jeho duše Liby Baďurové a Pepy Budiše.
 
 ### Přednášky, besedy
 
-V neděli 6. září ve 14 hodin se v kině Panorama v Boskovicích uskuteční setkání, kde budou prezentovány fotky a zážitky z jamboree – světového skautského setkání, které proběhlo před měsícem v Japonsku. Ve čtvrtek 10. září budeme svědky besedy s dcerou posledního boskovického rabína paní Evou Morris, akce nese název Šťastné příběhy židovské čtvrti. Ve středu 23. září můžeme navštívit kulturní dům v Letovicích, kde se bude konat přednáška cestovatele a fotografa Jiřího Kolbaby Fotograf na cestách – splněný sen. V pátek 25. září se v Galerii Otakara Kubína můžeme tradičně setkat s brněnským muzikologem Milošem Štědroněm.
+V neděli 6. září ve 14 hodin se v kině Panorama v Boskovicích uskuteční setkání, kde budou prezentovány fotky a zážitky z jamboree – světového skautského setkání, které proběhlo před měsícem v Japonsku. Ve čtvrtek 10. září budeme svědky besedy s dcerou posledního boskovického rabína, paní Evou Morris, akce nese název Šťastné příběhy židovské čtvrti. Ve středu 23. září můžeme navštívit kulturní dům v Letovicích, kde se bude konat přednáška cestovatele a fotografa Jiřího Kolbaby Fotograf na cestách – splněný sen. V pátek 25. září se v Galerii Otakara Kubína můžeme tradičně setkat s brněnským muzikologem Milošem Štědroněm.
 
 ### Dny evropského dědictví
 
