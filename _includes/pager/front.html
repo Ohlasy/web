@@ -44,12 +44,7 @@
     <hr>
     <h2 class="row-header">Nejčtenější za posledních třicet dní</h2>
     <div class="row">
-        {% for mostReadPost in site.data.nejctenejsi | limit: 5 %}
-            {% if forloop.index == 2 %}
-                <div class="col-md-4 col-sm-6 hidden-xs">
-                    <div class="box"></div>
-                </div>
-            {% endif %}
+        {% for mostReadPost in site.data.nejctenejsi | limit: 6 %}
             {% for post in site.posts %}
                 {% if mostReadPost.url == post.url %}
                     {% include article/preview-small.html class="col-md-4 col-sm-6" %}
