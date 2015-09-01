@@ -1,4 +1,4 @@
-<div class="article-preview {{ include.class }}">
+<div class="article-preview article-preview-small {{ include.class }}">
     <a href="{{ post.url }}">
         <div class="force-hd-aspect">
             {% if post.cover-photo %}
@@ -7,8 +7,6 @@
             <img src="/img/generic.png" class='img-responsive' alt="logo Ohlasů">
             {% endif %}
         </div>
-        <h2>{{ post.title }}</h2>
-        <p class="article-perex">{{ post.excerpt | strip_html }}</p>
-        <p class="text-muted">{{ post.author }}, {{ post.date | date: "%-d. %-m. %Y" }}</p>
+        <h2>{{ post.title }} <small class="text-muted"> {{ post.date | date: "%-d. %-m." }}</small></h2>
     </a>
 </div>

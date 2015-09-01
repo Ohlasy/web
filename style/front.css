@@ -19,6 +19,15 @@ header {
     border: none;
 }
 
+.article-preview-small {
+    margin-bottom: 10px;
+}
+
+.article-preview-small h2 {
+    font-size: 150%;
+    min-height: 6em;
+}
+
 hr {
     margin-top: 30px;
     margin-bottom: 30px;

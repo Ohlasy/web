@@ -1,0 +1,12 @@
+<main class="container">
+    <div class="row">
+        {% for post in paginator.posts %}
+        {% if forloop.index == 2 %}
+            <div class="col-md-4 col-sm-6">
+                <div class="box"></div>
+            </div>
+        {% endif %}
+        {% include article/preview-small.html class="col-md-4 col-sm-6" %}
+        {% endfor %}
+    </div>
+</main>

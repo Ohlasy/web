@@ -55,7 +55,6 @@ footer a {
     padding-bottom: 100%;
     height: 0;
     background: #ddd;
-    margin-bottom: 30px;
     position: relative;
 }
 
@@ -69,6 +68,10 @@ footer a {
     font-size: 10px;
     color: silver;
     top: 5px;
+}
+
+.box-spacer {
+    height: 30px;
 }
 
 /* Content */
@@ -103,6 +106,7 @@ a:hover {
     top: 0;
     left: 0;
     border: none;
+    width: 100%;
 }
 
 iframe.vimeo {
