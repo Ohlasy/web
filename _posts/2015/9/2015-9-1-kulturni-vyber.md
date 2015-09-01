@@ -32,7 +32,7 @@ V sobotu 5. září na molech v Drnovicích proběhne repríza komedie Marie Ebn
 
 ### Výstavy
 
-V úterý 1. září v 17 hodin bude na zámku v Lysicích zahájena výstava chorvatské výtvarnice Igeii Cervo-Pater s názvem Pohled mým kaleidoskopem. V pátek 4. září v 17.30 se v letovické galerii Domino koná vernisáž prodejní výstavy obrazů Malíři 19. a 20. století, v kulturním programu zahrají na flétny a fagot Jana Kouřilová, Kateřina Suchnová a Vladimír Pečinka. V sobotu 5. září ve 14 hodin ve sklepě boskovického muzea bude v zámeckém skleníku zahájena výstava Historické fotografie Boskovic a v neděli 20. září proběhne vernisáž výstavy Tvář krajiny, člověka a jeho duše Liby Baďurové a Pepy Budiše.
+V úterý 1. září v 17 hodin bude na zámku v Lysicích zahájena výstava chorvatské výtvarnice Igeii Cervo-Pater s názvem Pohled mým kaleidoskopem. V pátek 4. září v 17.30 se v letovické galerii Domino koná vernisáž prodejní výstavy obrazů Malíři 19. a 20. století, v kulturním programu zahrají na flétny a fagot Jana Kouřilová, Kateřina Suchnová a Vladimír Pečinka. V sobotu 5. září ve 14 hodin bude ve sklepě boskovického muzea zahájena výstava Historické fotografie Boskovic a v neděli 20. září proběhne v zámeckém skleníku vernisáž výstavy Tvář krajiny, člověka a jeho duše Liby Baďurové a Pepy Budiše.
 
 ### Přednášky, besedy
 
