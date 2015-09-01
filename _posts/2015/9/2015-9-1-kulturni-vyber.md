@@ -14,7 +14,7 @@ V pondělí 7. září se v zámeckém skleníku koná první koncert z cyklu J
 
 Příznivci folku se mohou těšit na pátek 4. září na akci v Panském dvoře s názvem Nechte se unést hudbou, kde vystoupí Veka, Jakub Exler a kapela Od ucha k uchu. O den později, tedy v sobotu 5. září,  na stejném místě zahrají kapely Karlovy hračky, Družina prince Mrakomora a Kiks. K folku se vrátíme 30. září v zámeckém skleníku, kde se bude konat Open Mic vol. 13. Jako hosté vystoupí folková kapela Dunibuch z Dlouhé Loučky, boskovické alternativně folkové trio Veka a kapela Aladin ze Znojma, hrající acoustic blues.
 
-Na pátek 25. září připadly dvě výrazně rozdílné klubové akce. V hudebním klubu Sklepy zahrají písničkáři Vojtaano a Dan Vertígo, na Turbíně se bude konat drum'nBassový večírek s názvem Neurology.
+Na pátek 25. září připadly dvě výrazně rozdílné klubové akce. V hudebním klubu Sklepy zahrají písničkáři Vojtaano a Dan Vertígo, na Turbíně se bude konat drum'n'bassový večírek s názvem Neurology.
 
 Kromě již zmíněného koncertu Barokního tria Michaely Koudelkové se konají i další koncerty tzv. vážné hudby. V sobotu 19. září si v kostele sv. Jakuba staršího můžeme v podání souboru Vernum 2013 Ensemble vychutnat dvě verze textu Stabat Mater, a to sborové skladby Francise Poulenca a Karola Szymanowského. V neděli 20. září v Galerii Otakara Kubína zahrají kytaristé Martin Křehnáč a Jan Janda, který i zpívá. V repertoáru mají jak renesanční a barokní skladby, tak i skladby 20 stol. a současné.
 
