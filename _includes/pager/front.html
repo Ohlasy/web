@@ -1,4 +1,5 @@
 <main class="container">
+
     {% for post in paginator.posts | limit: 1 %}
     <div class="row">
         {% include article/preview.html class="col-md-8" featured=true %}
@@ -14,6 +15,7 @@
         </div>
     </div>
     {% endfor %}
+
     <hr>
     {% for post in paginator.posts | offset: 1 | limit: 1 %}
     <div class="row">
@@ -30,10 +32,25 @@
         </div>
     </div>
     {% endfor %}
+
     <hr>
+    <h2 class="row-header">Další články z posledních dní</h2>
     <div class="row">
         {% for post in paginator.posts | offset: 2 %}
         {% include article/preview-small.html class="col-md-4 col-sm-6" %}
         {% endfor %}
     </div>
+
+    <hr>
+    <h2 class="row-header">Nejčtenější za posledních třicet dní</h2>
+    <div class="row">
+        {% for mostReadPost in site.data.nejctenejsi | limit: 6 %}
+            {% for post in site.posts %}
+                {% if mostReadPost.url == post.url %}
+                    {% include article/preview-small.html class="col-md-4 col-sm-6" %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+
 </main>
