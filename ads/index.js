@@ -39,6 +39,6 @@
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
         "url": "/inzerce.html",
-        "priority": 500
+        "priority": 800
     }
 ]
