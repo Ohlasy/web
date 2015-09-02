@@ -12,6 +12,10 @@ header {
     font-style: italic;
 }
 
+.article-preview {
+    margin-bottom: 30px;
+}
+
 .article-preview a, .article-preview a:hover {
     display: block;
     text-decoration: none;
@@ -21,6 +25,7 @@ header {
 
 .article-preview-small h2 {
     margin-top: .8ex;
+    margin-bottom: 0;
     font-size: 130%;
 }
 
@@ -31,7 +36,6 @@ hr {
 
 .row-header {
     margin-bottom: 30px;
-    margin-top: 40px;
     border-bottom: 1px solid #ddd;
     font-family: 'PT Serif', serif;
     font-size: 19px;

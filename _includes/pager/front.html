@@ -3,12 +3,10 @@
     {% for post in paginator.posts | limit: 1 %}
     <div class="row">
         {% include article/preview.html class="col-md-8" featured=true %}
-        <div class="box-spacer hidden-lg hidden-md hidden-xs"></div>
         <div class="col-md-4 hidden-xs">
             <div class="row">
                 <div class="col-md-12 col-sm-6">
                     <div class="box"></div>
-                    <div class="box-spacer hidden-sm"></div>
                 </div>
                 <div class="col-md-12 col-sm-6"><div class="box"></div></div>
             </div>
@@ -16,16 +14,13 @@
     </div>
     {% endfor %}
 
-    <div class="box-spacer"></div>
     {% for post in paginator.posts | offset: 1 | limit: 1 %}
     <div class="row">
         {% include article/preview.html class="col-md-8 col-md-push-4" featured=true %}
-        <div class="box-spacer hidden-lg hidden-md hidden-xs"></div>
         <div class="col-md-4 col-md-pull-8 hidden-xs">
             <div class="row">
                 <div class="col-md-12 col-sm-6">
                     <div class="box"></div>
-                    <div class="box-spacer hidden-sm"></div>
                 </div>
                 <div class="col-md-12 col-sm-6"><div class="box"></div></div>
             </div>
@@ -33,7 +28,6 @@
     </div>
     {% endfor %}
 
-    <div class="box-spacer hidden-lg hidden-md hidden-xs"></div>
     <h2 class="row-header"><span>Další aktuální články</span></h2>
     <div class="row">
         {% for post in paginator.posts | offset: 2 | limit: 2 %}
@@ -43,14 +37,11 @@
             </div>
         {% endif %}
         {% include article/preview-small.html class="col-sm-4" %}
-        <div class="box-spacer hidden-lg hidden-md hidden-sm"></div>
         {% endfor %}
     </div>
-    <div class="box-spacer hidden-sm hidden-xs"></div>
     <div class="row">
         {% for post in paginator.posts | offset: 4 | limit: 3 %}
         {% include article/preview-small.html class="col-sm-4" %}
-        <div class="box-spacer hidden-lg hidden-md hidden-sm"></div>
         {% endfor %}
     </div>
 
@@ -65,18 +56,15 @@
             {% for post in site.posts %}
                 {% if mostReadPost.url == post.url %}
                     {% include article/preview-small.html class="col-sm-4" %}
-                    <div class="box-spacer hidden-lg hidden-md hidden-sm"></div>
                 {% endif %}
             {% endfor %}
         {% endfor %}
     </div>
-    <div class="box-spacer hidden-sm hidden-xs"></div>
     <div class="row">
         {% for mostReadPost in site.data.nejctenejsi | offset: 2 | limit: 3 %}
             {% for post in site.posts %}
                 {% if mostReadPost.url == post.url %}
                     {% include article/preview-small.html class="col-sm-4" %}
-                    <div class="box-spacer hidden-lg hidden-md hidden-sm"></div>
                 {% endif %}
             {% endfor %}
         {% endfor %}
