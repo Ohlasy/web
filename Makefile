@@ -1,5 +1,5 @@
-all: serve
-serve:
+all: server
+server:
 	bundle exec jekyll serve --future
 analytics:
 	runhaskell -i_lib _bin/top-articles.hs > _data/nejctenejsi.yml
