@@ -19,13 +19,9 @@ header {
     border: none;
 }
 
-.article-preview-small {
-    margin-bottom: 10px;
-}
-
 .article-preview-small h2 {
-    font-size: 150%;
-    min-height: 6em;
+    margin-top: .8ex;
+    font-size: 130%;
 }
 
 hr {
@@ -34,13 +30,14 @@ hr {
 }
 
 .row-header {
-    margin-bottom: 40px;
-    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-top: 40px;
     border-bottom: 1px solid #ddd;
     font-family: 'PT Serif', serif;
     font-size: 19px;
     text-transform: uppercase;
     line-height: 0;
+    color: gray;
 }
 
 .row-header span {

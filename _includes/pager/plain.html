@@ -1,12 +1,38 @@
 <main class="container">
+
+    <h2 class="row-header"><span>Starší články</span></h2>
     <div class="row">
-        {% for post in paginator.posts %}
+        {% for post in paginator.posts | limit: 2 %}
         {% if forloop.index == 2 %}
-            <div class="col-md-4 col-sm-6">
+            <div class="col-sm-4 hidden-xs">
                 <div class="box"></div>
             </div>
         {% endif %}
-        {% include article/preview-small.html class="col-md-4 col-sm-6" %}
+        {% include article/preview-small.html class="col-sm-4" %}
+        <div class="box-spacer hidden-lg hidden-md hidden-sm"></div>
         {% endfor %}
     </div>
+
+    <div class="box-spacer hidden-xs"></div>
+    <div class="row">
+        {% for post in paginator.posts | offset: 2 | limit: 3 %}
+        {% include article/preview-small.html class="col-sm-4" %}
+        <div class="box-spacer hidden-lg hidden-md hidden-sm"></div>
+        {% endfor %}
+    </div>
+
+    <div class="box-spacer hidden-xs"></div>
+    <div class="row">
+        {% for post in paginator.posts | offset: 5 %}
+        {% if forloop.index == 2 %}
+            <div class="col-sm-4 hidden-xs">
+                <div class="box"></div>
+            </div>
+        {% endif %}
+        {% include article/preview-small.html class="col-sm-4" %}
+        <div class="box-spacer hidden-lg hidden-md hidden-sm"></div>
+        {% endfor %}
+    </div>
+
+    <div class="box-spacer hidden-xs"></div>
 </main>

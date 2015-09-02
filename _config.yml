@@ -6,7 +6,7 @@ url: 'http://ohlasy.info'
 
 permalink: '/clanky/:year/:month/:title.html'
 paginate_path: "/clanky/strana/:num"
-paginate: 8
+paginate: 7
 
 defaults:
   -
