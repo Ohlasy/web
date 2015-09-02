@@ -61,13 +61,17 @@ footer a {
 .box:after {
     content: "reklama";
     position: absolute;
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-    right: -24px;
+    -webkit-transform: rotate(90deg) translateX(100%) translateY(-100%);
+    -webkit-transform-origin: top right;
+    -ms-transform: rotate(90deg) translateX(100%) translateY(-100%);
+    -ms-transform-origin: top right;
+    transform: rotate(90deg) translateX(100%) translateY(-100%);
+    transform-origin: top right;
+    right: 0px;
+    top: 0px;
     font-size: 10px;
+    line-height: 10px;
     color: silver;
-    top: 5px;
 }
 
 .box-spacer {
@@ -93,6 +97,8 @@ a:hover {
     color: rgb(148, 82, 0);
     padding-bottom: -3px;
 }
+
+/* Images & Video */
 
 .force-hd-aspect {
     width: 100%;

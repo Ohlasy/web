@@ -24,7 +24,7 @@ Muzeum Boskovicka oznámilo, že do Boskovic [přijede dcera posledního rabína
 
 Boskovičtí občané projevili zájem o kompostéry, ale [nakonec je nedostanou, protože s dotací na jejich podporu se letos nepočítá](http://zrcadlo.net/clanky/Kompostery-pro-boskovicke-domacnosti-letos-nejspis-nebudou-2027/).
 
-<img src="http://i.imgur.com/GV0QFK8.jpg" alt="pietní akt" class="img-responsive">
+<img src="http://i.imgur.com/GV0QFK8.jpg" alt="pietní akt" class="img-responsive" data-author="Anna Dudková">
 
 V Hodoníně u Kunštátu se konal [Pietní akt, který připomenul 72 let od transportu Romů do Osvětimi](http://www.romea.cz/cz/zpravodajstvi/domaci/v-hodonine-u-kunstatu-si-lide-pripomneli-72-let-od-transportu-romu-do-vyhlazovaciho-tabora-v-osvetimi). „Zajistit každému důstojné místo v naší společnost a nenechat se strhnout k nenávisti“ – takový apel zde zazněl z úst ministra pro lidská práva Jiřího Dienstbiera.
 
