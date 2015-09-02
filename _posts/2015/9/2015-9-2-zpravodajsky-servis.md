@@ -26,7 +26,7 @@ Boskovičtí občané projevili zájem o kompostéry, ale [nakonec je nedostanou
 
 <img src="http://i.imgur.com/GV0QFK8.jpg" alt="pietní akt" class="img-responsive" data-author="Anna Dudková">
 
-V Hodoníně u Kunštátu se konal [Pietní akt, který připomenul 72 let od transportu Romů do Osvětimi](http://www.romea.cz/cz/zpravodajstvi/domaci/v-hodonine-u-kunstatu-si-lide-pripomneli-72-let-od-transportu-romu-do-vyhlazovaciho-tabora-v-osvetimi). „Zajistit každému důstojné místo v naší společnost a nenechat se strhnout k nenávisti“ – takový apel zde zazněl z úst ministra pro lidská práva Jiřího Dienstbiera.
+V Hodoníně u Kunštátu se konal [Pietní akt, který připomenul 72 let od transportu Romů do Osvětimi](http://www.romea.cz/cz/zpravodajstvi/domaci/v-hodonine-u-kunstatu-si-lide-pripomneli-72-let-od-transportu-romu-do-vyhlazovaciho-tabora-v-osvetimi). „Zajistit každému důstojné místo v naší společnosti a nenechat se strhnout k nenávisti“ – takový apel zde zazněl z úst ministra pro lidská práva Jiřího Dienstbiera.
 
 Ze dne na den odvolali ředitelku Senior centra v Blansku. [Je to politická hra](http://blanensky.denik.cz/zpravy_region/moje-odvolani-politicka-hra-tvrdi-byvala-reditelka-senior-centra-20150815.html)?
 
