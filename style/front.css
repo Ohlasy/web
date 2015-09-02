@@ -34,5 +34,16 @@ hr {
 }
 
 .row-header {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    border-bottom: 1px solid #ddd;
+    font-family: 'PT Serif', serif;
+    font-size: 19px;
+    text-transform: uppercase;
+    line-height: 0;
+}
+
+.row-header span {
+    background: white;
+    padding-right: 1ex;
 }

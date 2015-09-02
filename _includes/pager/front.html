@@ -33,16 +33,14 @@
     </div>
     {% endfor %}
 
-    <hr>
-    <h2 class="row-header">Další články z posledních dní</h2>
+    <h2 class="row-header"><span>Další aktuální články</span></h2>
     <div class="row">
         {% for post in paginator.posts | offset: 2 %}
         {% include article/preview-small.html class="col-md-4 col-sm-6" %}
         {% endfor %}
     </div>
 
-    <hr>
-    <h2 class="row-header">Nejčtenější za posledních třicet dní</h2>
+    <h2 class="row-header"><span>Nejčtenější za posledních třicet dní</span></h2>
     <div class="row">
         {% for mostReadPost in site.data.nejctenejsi | limit: 6 %}
             {% for post in site.posts %}
