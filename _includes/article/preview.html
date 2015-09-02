@@ -9,6 +9,10 @@
         </div>
         <h2>{{ post.title }}</h2>
         <p class="article-perex">{{ post.excerpt | strip_html }}</p>
-        <p class="text-muted">{{ post.author }}, {{ post.date | date: "%-d. %-m. %Y" }}</p>
+        <p class="text-muted article-meta">
+            {{ post.author }} / {{ post.date | date: "%-d." }}
+            {% assign month = post.date | date: "%-m" %}
+            {% include czech-month-name.html month = month %}
+        </p>
     </a>
 </div>

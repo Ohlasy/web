@@ -30,6 +30,11 @@ header {
     color: #444;
 }
 
+.article-meta {
+    font-family: 'Dosis';
+    text-transform: uppercase;
+}
+
 hr {
     margin-top: 30px;
     margin-bottom: 30px;
