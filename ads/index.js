@@ -32,7 +32,7 @@
         "image": "/ads/jarmark.jpg",
         "alt": "23. kunštátský jarmark",
         "url": "http://www.kunstat-mesto.cz/hnrcirsky-jarmark/hrncirsky-jarmark-2015/",
-        "priority": 1000
+        "priority": 800
     },
     {
         "name": "Inzerujte u nás",
