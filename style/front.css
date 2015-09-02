@@ -26,7 +26,8 @@ header {
 .article-preview-small h2 {
     margin-top: .8ex;
     margin-bottom: 0;
-    font-size: 130%;
+    font-size: 120%;
+    color: #444;
 }
 
 hr {
@@ -37,11 +38,9 @@ hr {
 .row-header {
     margin-bottom: 30px;
     border-bottom: 1px solid #ddd;
-    font-family: 'PT Serif', serif;
-    font-size: 19px;
-    text-transform: uppercase;
+    font-size: 120%;
     line-height: 0;
-    color: gray;
+    color: #444;
 }
 
 .row-header span {

@@ -1,5 +1,5 @@
-@import url(/fonts/stylesheet.css);
 @import url(http://fonts.googleapis.com/css?family=PT+Serif:400,400italic&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Dosis:400,600&subset=latin,latin-ext);
 
 body {
     font-family: 'PT Serif', serif;
@@ -9,8 +9,8 @@ body {
 }
 
 h1 {
-    font-family: 'Ladislav Semibold';
-    font-weight: normal;
+    font-family: 'Dosis';
+    font-weight: 600;
     text-transform: uppercase;
     color: rgb(148, 82, 0);
     font-size: 250%;
@@ -18,8 +18,7 @@ h1 {
 }
 
 h1 small {
-    font-family: 'Ladislav Regular';
-    font-weight: normal;
+    font-weight: 400;
     font-size: inherit;
     color: silver;
 }
@@ -29,9 +28,11 @@ h1 a:hover {
 }
 
 h2, h3 {
-    font-family: 'Ladislav';
-    font-weight: normal;
+    font-family: 'Dosis';
+    font-weight: 400;
     font-size: 200%;
+    text-transform: uppercase;
+    line-height: 1.4em;
 }
 
 /* Footer */
@@ -80,12 +81,6 @@ footer a {
 }
 
 /* Content */
-
-h2 {
-    font-family: 'Ladislav Regular';
-    font-weight: normal;
-    line-height: 1.3em;
-}
 
 a {
     text-decoration: none;
