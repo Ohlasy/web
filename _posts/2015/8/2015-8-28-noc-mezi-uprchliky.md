@@ -1,5 +1,5 @@
 ---
-title: Boskovičtí cestovatelé nocovali v Budapešti mezi uprchlíky
+title: Boskovičtí cestovatelé nocovali v Budapešti mezi uprchlíky
 cover-photo: http://i.imgur.com/wjoZCiN.jpg
 author: Tomáš Trumpeš
 ---
