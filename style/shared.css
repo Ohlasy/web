@@ -48,6 +48,10 @@ footer a {
     color: rgba(148, 82, 0, 0.7);
 }
 
+.nobreak {
+    white-space: nowrap;
+}
+
 /* Boxes */
 
 .box {
