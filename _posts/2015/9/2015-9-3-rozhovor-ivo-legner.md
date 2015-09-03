@@ -68,7 +68,7 @@ Já vlastně nevím, jak je velký. O tohle se stará spíš paní ekonomka s ř
 
 **Takže nepřipravuješ dramaturgii s tím, že si můžeš dovolit určitý schodek, podle dotace na programy?**
 
-Tak to není. Snažím se plánovat na nulu. Z rozpočtu vyplývá vždy jen částka na činnost v daném roce. Z této částky je ovšem nutné čerpat peníze na energie, údržbu a ostatní služby. A jelikož před danou sezónou nevíme, o jakou výši těchto nákladů půjde, nevíme tedy, kolik nám zůstane na samotné programy. V roce 2013 činila částka na programy asi 8 tisíc korun, v roce 2014 pak 33 tisíc. Letos zatím počítáme po navýšení rozpočtu organizace o 5 procent s částkou výrazně vyšší. Ale jako dramaturg musím operovat pouze přímo s rozpočtem jednotlivých akcí a cyklů a dostat se u nich pokud možno alespoň na nulu.
+Tak to není. Snažím se plánovat na nulu. Z rozpočtu vyplývá vždy jen částka na činnost v daném roce. Z této částky je ovšem nutné čerpat peníze na energie, údržbu a ostatní služby. A jelikož před danou sezónou nevíme, o jakou výši těchto nákladů půjde, nevíme tedy, kolik nám zůstane na samotné programy. V roce 2013 činila tato částka asi 8 tisíc korun, v roce 2014 pak 33 tisíc. Letos zatím počítáme po navýšení rozpočtu organizace o 5 procent s částkou výrazně vyšší. Ale jako dramaturg musím operovat pouze přímo s rozpočtem jednotlivých akcí a cyklů a dostat se u nich pokud možno alespoň na nulu.
 
 **Do jaké míry vychází dramaturgie z tvé vlastní zkušenosti a zveš věci, které jsi viděl nebo slyšel, a do jaké míry zveš účinkující na základě zprostředkované zkušenosti?**
 
