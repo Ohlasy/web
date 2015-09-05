@@ -18,9 +18,9 @@ Hlavní důvod je ten, že agentuře musíte za dramaturgii platit. Když si ji 
 
 **A jakých změn cyklus dostál pro letošní sezónu?**
 
-Přibylo víc míst, kde se koncerty odehrají. Nebude to omezeno jen na zámecký skleník, koncerty budou na zámku, v synagoze a ještě přemýšlíme o místě pro závěrečný koncert. Přišlo nám vhodné opustit pro nezvučené koncerty akusticky problematický prostor zámeckého skleníku a využít dalších zajímavých míst, které Boskovice nabízejí. Druhá věc je, že přibylo více koncertů souborů – tria, kvarteta a podobě. Na můj vkus dosavadní program stavěl až příliš na sólistech.
+Přibylo víc míst, kde se koncerty odehrají. Nebude to omezeno jen na zámecký skleník, koncerty budou na zámku, v synagoze a ještě přemýšlíme o místě pro závěrečný koncert. Přišlo nám vhodné opustit pro nezvučené koncerty akusticky problematický prostor zámeckého skleníku a využít dalších zajímavých míst, která Boskovice nabízejí. Druhá věc je, že přibylo více koncertů souborů – tria, kvarteta a podobě. Na můj vkus dosavadní program stavěl až příliš na sólistech.
 
-**Ale netáhnou právě sólisté publikum? Nebudou chybět opravdu velká jména, jaké sem v minulosti agentura přivážela – Demeterová, Ardašev, Svěcený? Může to takto dlouhodobě fungovat?**
+**Ale netáhnou právě sólisté publikum? Nebudou chybět opravdu velká jména, jaká sem v minulosti agentura přivážela – Demeterová, Ardašev, Svěcený? Může to takto dlouhodobě fungovat?**
 
 Letos máme jako hvězdu Štěpána Raka a počítáme s tím, že každý rok jednoho či dva takzvané taháky přivezeme. 
 
@@ -68,9 +68,9 @@ Já vlastně nevím, jak je velký. O tohle se stará spíš paní ekonomka s ř
 
 **Takže nepřipravuješ dramaturgii s tím, že si můžeš dovolit určitý schodek, podle dotace na programy?**
 
-Tak to není. Snažím se plánovat na nulu. Z rozpočtu vyplývá vždy jen částka na činnost v daném roce. Z této částky je ovšem nutné čerpat peníze na energie, údržbu a ostatní služby. A jelikož před danou sezónou nevíme, o jakou výši těchto nákladů půjde, nevíme tedy, kolik nám zůstane na samotné programy. V roce 2013 činila částka na programy asi 8 tisíc korun, v roce 2014 pak 33 tisíc. Letos zatím počítáme po navýšení rozpočtu organizace o 5 procent s částkou výrazně vyšší. Ale jako dramaturg musím operovat pouze přímo s rozpočtem jednotlivých akcí a cyklů a dostat se u nich pokud možno alespoň na nulu.
+Tak to není. Snažím se plánovat na nulu. Z rozpočtu vyplývá vždy jen částka na činnost v daném roce. Z této částky je ovšem nutné čerpat peníze na energie, údržbu a ostatní služby. A jelikož před danou sezónou nevíme, o jakou výši těchto nákladů půjde, nevíme tedy, kolik nám zůstane na samotné programy. V roce 2013 činila tato částka asi 8 tisíc korun, v roce 2014 pak 33 tisíc. Letos zatím počítáme po navýšení rozpočtu organizace o 5 procent s částkou výrazně vyšší. Ale jako dramaturg musím operovat pouze přímo s rozpočtem jednotlivých akcí a cyklů a dostat se u nich pokud možno alespoň na nulu.
 
-**Do jaké míry vychází dramaturgie z tvé vlastní zkušenosti, a zveš věci, které jsi viděl nebo slyšel, a do jaké míry zveš účinkující na základě zprostředkované zkušenosti?**
+**Do jaké míry vychází dramaturgie z tvé vlastní zkušenosti a zveš věci, které jsi viděl nebo slyšel, a do jaké míry zveš účinkující na základě zprostředkované zkušenosti?**
 
 Snažím se vycházet z akcí, které jsem sám navštívil, ale je to problém. Samozřejmě bych si to ideálně takto představoval, ale bohužel to tak nefunguje, nejsem jen dramaturg, ale dělám kompletní produkci. Na to by se u nás uživil další člověk a mně by zbyla spousta času na to, abych víc akcí navštívil osobně. Většinu akcí, které jsem využil pro dramaturgii, jsem navštívil ve volném čase. U ostatních akcí vycházím z webu, z nahrávek, z videí. Vybírám i tímto způsobem. To, co přijde dramaturgovi jako nabídka do e-mailu, je v drtivé většině něco, co se špatně prodává. 
 
@@ -110,6 +110,6 @@ Přesně tak. Netýká se to jen koncertů, ale i divadel. U těch je ještě pr
 
 Myslím, že bychom byli rádi. Kdyby se sokolovna dostala do slušného stavu, rádi bychom ji využívali více. Dnes to není dostatečně reprezentativní prostor pro kulturní akce.
 
-**Nedávno jsme při [Besedě za rohem řešili](/clanky/2015/05/beseda-kultura.html), jestli je zájem o akce v Boskovicích dostatečný a odpovídající? Jak jsi ty spokojen s odezvou na svou práci?**
+**Nedávno jsme při [Besedě za rohem řešili](/clanky/2015/05/beseda-kultura.html), jestli je zájem o akce v Boskovicích dostatečný a odpovídající. Jak jsi ty spokojen s odezvou na svou práci?**
 
 Kdybych byl spokojen úplně, nebyl bych samozřejmě člověk na svém místě, chtěl bych, aby akce byly navštívené ještě více. Vždycky říkám, že lidí není nikdy dost. Ale obecně spokojený jsem.
