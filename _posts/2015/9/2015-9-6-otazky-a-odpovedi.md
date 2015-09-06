@@ -1,5 +1,5 @@
 ---
-title: "Ptejte se nás, na co chcete. Na co chceme, odpovíme."
+title: "Ptejte se nás, na co chcete. Na co chceme, odpovíme"
 cover-photo: http://i.imgur.com/Ql8N8gm.jpg
 author: Tomáš Znamenáček
 ---
