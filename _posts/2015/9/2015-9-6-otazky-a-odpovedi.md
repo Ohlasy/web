@@ -1,5 +1,5 @@
 ---
-title: "Ptejte se nás, na co chcete. Na co chceme, odpovíme"
+title: "Tomáš Znamenáček: Ptejte se nás, na co chcete. Na co chceme, odpovíme"
 cover-photo: http://i.imgur.com/Ql8N8gm.jpg
 author: Tomáš Znamenáček
 ---
@@ -12,4 +12,4 @@ Zvolená varianta získala prakticky jednohlasou podporu v radě města i jeho r
 
 Otevřená diskuze by samozřejmě měla větší provozní nároky, například na nezbytné moderování příspěvků. Zároveň by ale měla nesrovnatelně větší potenciál. U zvoleného formátu otázek a odpovědí hrozí, že se stane dalším informačním kanálem, kterým nás radnice informuje, že to dělá dobře – místo aby to v otevřené diskuzi doložila argumenty nebo dokonce na základě cizích argumentů změnila názor.
 
-Když už jsem ale před okamžikem zmínil registr smluv, mám tu i pozitivní správu: vedení města splnilo svůj předvolební slib a začalo zveřejňovat prakticky veškeré [majetkoprávní smlouvy](http://boskovice.cz/majetkopravni-smlouvy/ds-1455), takže se každý může podívat, komu a za jakých podmínek platíme. To je jednoznačný krok kupředu a k dokonalosti tu chybí jen jediné – zveřejňovat smlouvy ve strojově zpracovatelné podobě, například v [celostátním registru smluv](https://portal.gov.cz/portal/rejstriky/data/10013/). Není to o mnoho složitější než současné publikování skenovaných dokumentů, a data půjdou výrazně lépe zpracovat. Až se na webu města do konce září objeví nová sekce otázek a odpovědí, můžeme to navrhnout.
+Když už jsem ale před okamžikem zmínil registr smluv, mám tu i pozitivní zprávu: vedení města splnilo svůj předvolební slib a začalo zveřejňovat prakticky veškeré [majetkoprávní smlouvy](http://boskovice.cz/majetkopravni-smlouvy/ds-1455), takže se každý může podívat, komu a za jakých podmínek platíme. To je jednoznačný krok kupředu a k dokonalosti tu chybí jen jediné – zveřejňovat smlouvy ve strojově zpracovatelné podobě, například v [celostátním registru smluv](https://portal.gov.cz/portal/rejstriky/data/10013/). Není to o mnoho složitější než současné publikování skenovaných dokumentů, a data půjdou výrazně lépe zpracovat. Až se na webu města do konce září objeví nová sekce otázek a odpovědí, můžeme to navrhnout.
