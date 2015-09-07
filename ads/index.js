@@ -15,7 +15,7 @@
     },
     {
         "name": "Muzeum",
-        "image": "/ads/prohlidka.jpg",
+        "image": "http://i.imgur.com/9GkeuGV.jpg",
         "alt": "aktivní prohlídka židovské čtvrti, 8. září",
         "url": "http://muzeum.boskovice.cz/",
         "priority": 1000
@@ -29,7 +29,7 @@
     },
     {
         "name": "Kunštátský jarmark 2015",
-        "image": "/ads/jarmark.jpg",
+        "image": "http://i.imgur.com/9R9LRWw.jpg",
         "alt": "23. kunštátský jarmark",
         "url": "http://www.kunstat-mesto.cz/hnrcirsky-jarmark/hrncirsky-jarmark-2015/",
         "priority": 900
@@ -43,7 +43,7 @@
     },
     {
         "name": "Inzerujte u nás",
-        "image": "/ads/inzerujte.png",
+        "image": "http://i.imgur.com/TYzRjZP.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
         "url": "/inzerce.html",
         "priority": 800
