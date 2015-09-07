@@ -35,6 +35,13 @@
         "priority": 800
     },
     {
+        "name": "Stabat mater 19/9",
+        "image": "http://i.imgur.com/EXTKyve.png",
+        "alt": "Stabat mater, 19. září Boskovice, kostel sv. Jakuba",
+        "url": "http://vernum.cz/",
+        "priority": 800
+    },
+    {
         "name": "Inzerujte u nás",
         "image": "/ads/inzerujte.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
