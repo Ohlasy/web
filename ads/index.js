@@ -15,9 +15,9 @@
     },
     {
         "name": "Muzeum",
-        "image": "http://i.imgur.com/9GkeuGV.jpg",
-        "alt": "aktivní prohlídka židovské čtvrti, 8. září",
-        "url": "http://muzeum.boskovice.cz/",
+        "image": "http://i.imgur.com/nm2N4fC.jpg",
+        "alt": "setkání s paní Evou Morris, dcerou posledního boskovického rabína",
+        "url": "http://muzeum.boskovice.cz/setkani%2Ds%2Dpani%2Devou%2Dmorris/a-1075/p1=1098",
         "priority": 1000
     },
     {
