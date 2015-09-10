@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/38HBcn2.jpg
 author: Tomáš Trumpeš
 ---
 
-*Ondřej Houška řečený Oswego žije a stará se o koně na ranči ve Svitávce. Před několika lety se začal zajímat o královskou disciplínu westernového ježdění working cow horse, která se postupně začala prosazovat v Evropě. Letos s novým koněm This Cats Light uspěl nejprve na polském mistrovství, což mu dodalo odvahu jet i na evropský šampionát. A tam ve své disciplíně zvítězil. Už jako evropský šampion jel i na další mezinárodní soutěž Americana v Augsburgu, kde rovněž dosáhl významných úspěchů.*
+*Ondřej Houška řečený Oswego žije a stará se o koně na ranči ve Svitávce. Před několika lety se začal zajímat o královskou disciplínu westernového ježdění working cow horse, která se postupně začala prosazovat v Evropě. Letos s novým koněm This Cats Light, sedmiletým hřebcem v majetku Silver Stone Ranche, uspěl nejprve na polském mistrovství, což mu dodalo odvahu jet i na evropský šampionát. A tam ve své disciplíně zvítězil. Už jako evropský šampion jel i na další mezinárodní soutěž Americana v Augsburgu, kde rovněž dosáhl významných úspěchů.*
 
 <img src="http://i.imgur.com/38HBcn2.jpg" alt="Ondřej Houška na koni" class="img-responsive">
 
