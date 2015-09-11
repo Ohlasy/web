@@ -56,7 +56,7 @@ V poválečném období se město dále rozrůstalo severovýchodním směrem od
 
 <img src="http://i.imgur.com/OGVE8me.jpg" alt="plán Boskovic" data-author="Muzeum Boskovicka" class="img-responsive">
 
-Komunistická „budovatelská“ éra zanechala v Boskovicích bizarní jména ulic jako Kosmonautů nebo Gagarinova. Po roce 1989 byly přejmenovány některé názvy ulic na návrh MěNV. Jednalo se o ty nejkřiklavější: náměstí Obránců míru na Masarykovo, ulice Vítězného února na Sušilovu, Gottwaldova na Sokolskou, Lidových milicí na Štefánikovu, Leninova na Mánesovu, Zápotockého na Bílkovu, Fučíkova na 17. listopadu. Situaci zachycuje je plánek ze 70. let, původním majitelem fixou ručně „kolorovaný“:
+Komunistická „budovatelská“ éra zanechala v Boskovicích bizarní jména ulic jako Kosmonautů nebo Gagarinova. Po roce 1989 byly přejmenovány některé názvy ulic na návrh MěNV. Jednalo se o ty nejkřiklavější: náměstí Obránců míru na Masarykovo, ulice Vítězného února na Sušilovu, Gottwaldova na Sokolskou, Lidových milicí na Štefánikovu, Leninova na Mánesovu, Zápotockého na Bílkovu, Fučíkova na 17. listopadu. Situaci zachycuje plánek ze 70. let, původním majitelem fixou ručně „kolorovaný“:
 
 <img src="http://i.imgur.com/0nR1Nzp.jpg" alt="plán Boskovic" data-author="Muzeum Boskovicka" class="img-responsive">
 
