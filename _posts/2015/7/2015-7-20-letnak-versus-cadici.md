@@ -1,5 +1,6 @@
 ---
-title: "Radek Pernica: Digitální letňák vs. potulní Čadíci"
+title: Digitální letňák vs. potulní Čadíci
+category: commentary
 cover-photo: http://i.imgur.com/XlocBuml.jpg
 author: Radek Pernica
 ---

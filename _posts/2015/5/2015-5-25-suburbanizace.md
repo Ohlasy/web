@@ -1,5 +1,6 @@
 ---
-title: "Hynek Skořepa: Úskalí suburbanizace"
+title: Úskalí suburbanizace
+category: commentary
 cover-photo: http://i.imgur.com/KZ8hEuXl.jpg
 author: Hynek Skořepa
 ---

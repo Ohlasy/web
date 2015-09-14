@@ -1,5 +1,6 @@
 ---
-title: "Petr Vítámvás: Podstatou není výkon, ale formulář"
+title: Podstatou není výkon, ale formulář
+category: commentary
 cover-photo: http://i.imgur.com/9qhrhspl.jpg
 author: Petr Vítámvás
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Jan Bařinka: Proč je Michal David za hranicí toho, čemu by se KZMB měla věnovat"
+title: Proč je Michal David za hranicí toho, čemu by se KZMB měla věnovat
+category: commentary
 author: Jan Bařinka
 cover-photo: http://i.imgur.com/hQ5vw14.jpg
 ---

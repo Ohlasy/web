@@ -7,6 +7,13 @@
             <img src="/img/generic.png" class='img-responsive' alt="logo Ohlasů">
             {% endif %}
         </div>
-        <h2>{{ post.title }} <small class="text-muted"> {{ post.date | date: "%-d. %-m." }}</small></h2>
+        {% capture title %}
+        {% if post.category == 'commentary' %}
+            {{ post.author }}: {{ post.title }}
+        {% else %}
+            {{ post.title }}
+        {% endif %}
+        {% endcapture %}
+        <h2>{{ title }} <small class="text-muted"> {{ post.date | date: "%-d. %-m." }}</small></h2>
     </a>
 </div>

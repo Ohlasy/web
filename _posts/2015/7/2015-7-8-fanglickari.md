@@ -1,5 +1,6 @@
 ---
-title: "Petr Vítámvás: O Moravě a moravismu"
+title: O Moravě a moravismu
+category: commentary
 cover-photo: http://i.imgur.com/19je4UCl.jpg
 author: Petr Vítámvás
 ---

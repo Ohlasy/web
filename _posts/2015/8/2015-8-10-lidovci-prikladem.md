@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Dobrým příkladem mohou být lidovci"
+title: Dobrým příkladem mohou být lidovci
+category: commentary
 cover-photo: http://i.imgur.com/x6guxTTl.jpg
 author: Tomáš Trumpeš
 ---

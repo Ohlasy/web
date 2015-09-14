@@ -1,5 +1,6 @@
 ---
-title: "Marek Osouch: Skalice je hlavním nádražím Boskovic"
+title: Skalice je hlavním nádražím Boskovic
+category: commentary
 cover-photo: http://i.imgur.com/J9bT8ba.png
 author: Marek Osouch
 ---

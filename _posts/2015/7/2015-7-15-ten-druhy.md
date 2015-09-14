@@ -1,5 +1,6 @@
 ---
-title: "Jiří Bureš: Ten druhý z K."
+title: Ten druhý z K.
+category: commentary
 cover-photo: http://i.imgur.com/wtexrr7.jpg
 author: Jiří Bureš
 ---

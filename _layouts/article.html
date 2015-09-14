@@ -2,7 +2,7 @@
 <html lang="cs">
 <head>
     {% include headers.html %}
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} | Ohlasy</title>
     {% include open-graph-meta.html %}
     <link href="/style/article.css" rel="stylesheet">
 </head>
@@ -15,7 +15,11 @@
     <main class="container">
         <div class="row">
             <article class="col-md-8">
-                <h2>{{ page.title }}</h2>
+                {% if page.category == 'commentary' %}
+                    <h2>{{ page.author }}: {{ page.title }}</h2>
+                {% else %}
+                    <h2>{{ page.title }}</h2>
+                {% endif %}
                 {{ content }}
                 <div class="article-info">
                     {% assign author_photo = site.data.autori[page.author].profilovka %}

@@ -1,5 +1,6 @@
 ---
-title: "Marek Osouch: Komunikace ve světě byrokracie"
+title: Komunikace ve světě byrokracie
+category: commentary
 cover-photo: http://i.imgur.com/CmyZCBIl.jpg
 author: Marek Osouch
 ---

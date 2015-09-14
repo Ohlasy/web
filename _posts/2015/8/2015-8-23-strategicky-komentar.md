@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Jaké nedostatky a hrozby vám chybí ve strategickém plánu?"
+title: Jaké nedostatky a hrozby vám chybí ve strategickém plánu?
+category: commentary
 cover-photo: http://i.imgur.com/VRYrUd1.jpg
 author: Tomáš Trumpeš
 ---

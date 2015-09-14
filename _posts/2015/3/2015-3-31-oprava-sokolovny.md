@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Sokolovna? Komplexní rekonstrukce, nebo raději nic"
+title: Sokolovna? Komplexní rekonstrukce, nebo raději nic
+category: commentary
 cover-photo: http://i.imgur.com/VnQa3Djl.jpg
 author: Tomáš Trumpeš
 ---

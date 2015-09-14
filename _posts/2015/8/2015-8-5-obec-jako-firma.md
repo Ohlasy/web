@@ -1,5 +1,6 @@
 ---
-title: "Marek Osouch: Obec jako firma"
+title: Obec jako firma
+category: commentary
 cover-photo: http://i.imgur.com/m2Dv8fql.jpg
 author: Marek Osouch 
 ---

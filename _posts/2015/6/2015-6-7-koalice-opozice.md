@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Znamenáček: Ode zdi ke zdi"
+title: Ode zdi ke zdi
+category: commentary
 cover-photo: http://i.imgur.com/4TXHlmjl.jpg
 author: Tomáš Znamenáček
 ---

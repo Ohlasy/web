@@ -1,5 +1,6 @@
 ---
-title: "Jiří Bureš: Rozšířit hlasování"
+title: Rozšířit hlasování
+category: commentary
 cover-photo: http://i.imgur.com/FlE5w20.jpg
 author: Jiří Bureš
 ---

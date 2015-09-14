@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Nacismus jako estrádní show"
+title: Nacismus jako estrádní show
+category: commentary
 cover-photo: http://i.imgur.com/Vj12ru7l.jpg
 author: Tomáš Trumpeš
 ---

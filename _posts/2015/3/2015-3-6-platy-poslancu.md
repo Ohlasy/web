@@ -1,5 +1,6 @@
 ---
-title: "Petr Vítámvás: Ať poslanci pracují méně"
+title: Ať poslanci pracují méně
+category: commentary
 cover-photo: http://i.imgur.com/F6MW3qpl.jpg
 author: Petr Vítámvás
 ---

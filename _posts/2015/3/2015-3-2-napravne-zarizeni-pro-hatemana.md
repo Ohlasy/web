@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Nápravné zařízení pro hatemana"
+title: Nápravné zařízení pro hatemana
+category: commentary
 cover-photo: http://i.imgur.com/sXlPE5Al.jpg
 author: Tomáš Trumpeš
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Bez peticí a referend to zatím neumíme"
+title: Bez peticí a referend to zatím neumíme
+category: commentary
 cover-photo: http://i.imgur.com/bK0zkvC.jpg
 author: Tomáš Trumpeš
 ---

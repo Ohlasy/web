@@ -7,7 +7,11 @@
             <img src="/img/generic.png" class='img-responsive' alt="logo Ohlasů">
             {% endif %}
         </div>
-        <h2>{{ post.title }}</h2>
+        {% if post.category == 'commentary' %}
+            <h2>{{ post.author }}: {{ post.title }}</h2>
+        {% else %}
+            <h2>{{ post.title }}</h2>
+        {% endif %}
         <p class="article-perex">{{ post.excerpt | strip_html }}</p>
         <p class="text-muted article-meta">
             {{ post.author }} / {{ post.date | date: "%-d." }}

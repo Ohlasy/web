@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Hlavně nepřiznat chybu"
+title: Hlavně nepřiznat chybu
+category: commentary
 cover-photo: http://i.imgur.com/ttn7WD9.jpg
 author: Tomáš Trumpeš
 ---

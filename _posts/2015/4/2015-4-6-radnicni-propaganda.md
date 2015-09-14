@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Trumpeš: Propaganda v radničních médiích"
+title: Propaganda v radničních médiích
+category: commentary
 cover-photo: http://i.imgur.com/dS3l7Egl.jpg
 author: Tomáš Trumpeš
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Marek Osouch: Stále bez výsledku" 
+title: Stále bez výsledku
+category: commentary
 cover-photo: http://i.imgur.com/8ZNN3fn.jpg
 author: Marek Osouch
 ---
