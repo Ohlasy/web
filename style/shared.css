@@ -35,6 +35,55 @@ h2, h3 {
     line-height: 1.4em;
 }
 
+/* Article Previews */
+
+.article-perex {
+    font-style: italic;
+}
+
+.article-preview {
+    margin-bottom: 30px;
+}
+
+.article-preview a, .article-preview a:hover {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border: none;
+}
+
+.article-preview-small h2 {
+    font-family: 'PT Serif', serif;
+    text-transform: none;
+    font-size: 100%;
+    margin-top: 1ex;
+    margin-bottom: 0;
+    color: #444;
+}
+
+.article-meta {
+    font-family: 'Dosis';
+    text-transform: uppercase;
+}
+
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.row-header {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+    font-size: 120%;
+    line-height: 0;
+    color: #444;
+}
+
+.row-header span {
+    background: white;
+    padding-right: 1ex;
+}
+
 /* Footer */
 
 footer {
