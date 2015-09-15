@@ -1,5 +1,6 @@
 ---
 title: Výpovědní lhůta vypršela. Panely dál stojí na poli
+category: zpravodajství
 cover-photo: http://i.imgur.com/cR2Eawvl.jpg
 author: Marek Osouch
 ---

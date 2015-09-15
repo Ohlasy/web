@@ -1,5 +1,6 @@
 ---
 title: Krajiny Boskovicka
+category: seriály
 cover-photo: http://i.imgur.com/XLpCSRKl.jpg
 author: Hynek Skořepa
 ---

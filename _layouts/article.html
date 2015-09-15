@@ -41,9 +41,9 @@
     {% if page.category %}
     <div class="container">
         {% assign current_category = page.category %}
-        {% assign category_name = site.data.rubriky[current_category] %}
         {% assign related_articles = site.categories[current_category] %}
-        {% include pager/nest.html items=related_articles caption=category_name %}
+        {% capture caption %}další {{ current_category }}{% endcapture %}
+        {% include pager/nest.html items=related_articles caption=caption %}
     </div>
     {% endif %}
 

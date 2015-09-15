@@ -1,6 +1,6 @@
 ---
 title: Stále bez výsledku
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/8ZNN3fn.jpg
 author: Marek Osouch
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kuřáci versus nekuřáci
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/kEQqONWl.jpg
 author: Hynek Skořepa
 ---

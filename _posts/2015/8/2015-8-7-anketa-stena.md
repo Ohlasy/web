@@ -1,5 +1,6 @@
 ---
 title: "Anketa: Chcete lezeckou stěnu na letním kině?"
+category: ankety
 cover-photo: http://i.imgur.com/FnXSulol.jpg
 author: Tomáš Trumpeš
 ---

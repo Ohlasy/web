@@ -1,5 +1,6 @@
 ---
 title: Knihovna tam nejspíš nebude. Do bývalého Telecomu se stěhují skauti
+category: zpravodajství
 cover-photo: http://i.imgur.com/Dk506Ifl.jpg
 author: Marek Osouch
 ---

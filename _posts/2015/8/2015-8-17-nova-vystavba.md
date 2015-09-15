@@ -1,5 +1,6 @@
 ---
 title: Na Rovné a Pod Střelnicí se rozjela výstavba osmdesáti rodinných domů
+category: zpravodajství
 cover-photo: http://i.imgur.com/3wZPnUVl.jpg
 author: Marek Osouch
 ---

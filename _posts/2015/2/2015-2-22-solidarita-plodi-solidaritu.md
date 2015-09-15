@@ -1,7 +1,7 @@
 ---
 title: I pouhé gesto má svůj hluboký smysl
 cover-photo: http://i.imgur.com/tpSybPDl.png
-category: commentary
+category: názory a komentáře
 author: Tomáš Trumpeš
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Policisté zaznamenávají nárůst drogové problematiky, jinak řeší hlavně majetkové a dopravní přestupky
+category: zpravodajství
 author: Tomáš Trumpeš
 ---
 

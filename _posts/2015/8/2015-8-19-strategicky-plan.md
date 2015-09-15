@@ -1,5 +1,6 @@
 ---
 title: Město Boskovice představilo první část Strategického plánu
+category: zpravodajství
 cover-photo: http://i.imgur.com/HqcuTZQ.jpg
 author: Tomáš Trumpeš
 ---

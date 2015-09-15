@@ -1,5 +1,6 @@
 ---
 title: Vedení města má na stole řadu variant, co místo haly na Slovákově
+category: zpravodajství
 cover-photo: http://i.imgur.com/5WF82ki.jpg
 author: Marek Osouch
 ---

@@ -1,6 +1,6 @@
 ---
 title: „S koněm si musíš rozumět, nejede jako stroj,“ říká evropský šampion ve westernovém ježdění Ondřej Houška
-category: interview
+category: rozhovory
 cover-photo: http://i.imgur.com/38HBcn2.jpg
 author: Tomáš Trumpeš
 ---

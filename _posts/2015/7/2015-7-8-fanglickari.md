@@ -1,6 +1,6 @@
 ---
 title: O Moravě a moravismu
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/19je4UCl.jpg
 author: Petr Vítámvás
 ---

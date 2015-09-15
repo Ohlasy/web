@@ -1,5 +1,6 @@
 ---
 title: Velkoopatovická borovice Julinka soutěží o titul Evropský strom roku
+category: zpravodajství
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/5u78caUl.jpg
 ---

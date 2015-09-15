@@ -1,6 +1,7 @@
 ---
 title: Parčík u autobusového nádraží čeká obnova
 cover-photo: http://i.imgur.com/6z8bFJul.jpg
+category: zpravodajství
 author: Tomáš Trumpeš
 ---
 

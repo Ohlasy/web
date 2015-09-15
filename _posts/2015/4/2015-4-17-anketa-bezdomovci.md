@@ -1,6 +1,7 @@
 ---
 title: "Anketa: Bezdomovci v Boskovicích"
 cover-photo: http://i.imgur.com/oDas2l4l.jpg
+category: ankety
 author: Tomáš Trumpeš
 ---
 

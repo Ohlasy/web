@@ -1,6 +1,6 @@
 ---
 title: Hudební soutěže často nadělají víc škody než užitku
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/Ud7Pn5y.jpg
 author: Kristýna Znamenáčková
 ---

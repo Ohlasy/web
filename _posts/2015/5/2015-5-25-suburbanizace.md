@@ -1,6 +1,6 @@
 ---
 title: Úskalí suburbanizace
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/KZ8hEuXl.jpg
 author: Hynek Skořepa
 ---

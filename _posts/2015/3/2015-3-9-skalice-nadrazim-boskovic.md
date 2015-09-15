@@ -1,6 +1,6 @@
 ---
 title: Skalice je hlavním nádražím Boskovic
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/J9bT8ba.png
 author: Marek Osouch
 ---

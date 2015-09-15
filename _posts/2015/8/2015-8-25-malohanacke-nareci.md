@@ -1,5 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Nářečí malohanácké, horácké a horské"
+category: seriály
 cover-photo: http://i.imgur.com/iLxL9NT.png
 serial: jazyk
 author: Vít Boček

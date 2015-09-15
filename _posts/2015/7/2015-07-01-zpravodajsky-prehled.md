@@ -1,5 +1,6 @@
 ---
 title: "Zpravodajský přehled: červen"
+category: zpravodajství
 cover-photo: http://i.imgur.com/2ovD0hc.jpg
 author: Tomáš Trumpeš
 ---

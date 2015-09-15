@@ -1,5 +1,6 @@
 ---
 title: Černohorští stále nevědí, odkud budou mít vodu. Pivovar ji chce jedině od Vodárenské
+category: zpravodajství
 cover-photo: http://i.imgur.com/Efz3dszl.jpg
 author: Marek Osouch
 ---

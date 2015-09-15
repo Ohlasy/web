@@ -1,5 +1,6 @@
 ---
 title: Radní neudělili výjimku a koncert legendárních Silverů v Boskovicích nebude
+category: zpravodajství
 cover-photo: http://i.imgur.com/Mz8vccMl.jpg
 author: Tomáš Trumpeš
 ---

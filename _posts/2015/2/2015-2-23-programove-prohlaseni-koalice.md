@@ -1,5 +1,6 @@
 ---
 title: Městská rada představila programové prohlášení. Co na něj říká opozice?
+category: zpravodajství
 author: Tomáš Trumpeš
 ---
 

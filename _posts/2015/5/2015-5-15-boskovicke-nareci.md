@@ -1,6 +1,7 @@
 ---
 title: "Rendez-vous s jazykem: Boskovické nářečí"
 cover-photo: http://i.imgur.com/hE8V6Rj.jpg
+category: seriály
 serial: jazyk
 author: Vít Boček
 ---

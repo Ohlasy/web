@@ -1,6 +1,6 @@
 ---
 title: „Bylo pro mě důležité, že se festival odehrává v židovském městě 70 let po konci války,“ říká dramaturg divadelního programu Jiří Honzírek
-category: interview
+category: rozhovory
 cover-photo: http://i.imgur.com/Ynd02aJ.jpg
 author: Tomáš Trumpeš
 ---

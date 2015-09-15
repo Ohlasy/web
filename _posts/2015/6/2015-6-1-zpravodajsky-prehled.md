@@ -1,5 +1,6 @@
 ---
 title: "Zpravodajský přehled: květen"
+category: zpravodajství
 cover-photo: http://i.imgur.com/zsfFyp8l.jpg
 author: Tomáš Trumpeš
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Online ze zastupitelstva: Definitivně rozhodnuto, hala na Slovákově nebude"
+category: zpravodajství
 cover-photo: http://i.imgur.com/K7bkHLF.jpg
 author: Tomáš Trumpeš
 ---

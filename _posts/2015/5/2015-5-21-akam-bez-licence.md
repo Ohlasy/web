@@ -1,5 +1,6 @@
 ---
 title: "Krajský soud zrušil boskovické elektrárně licenci"
+category: zpravodajství
 cover-photo: http://i.imgur.com/g6zThhQl.jpg
 author: Marek Osouch
 ---

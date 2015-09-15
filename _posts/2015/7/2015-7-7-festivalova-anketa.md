@@ -1,5 +1,6 @@
 ---
 title: "Anketa: Festival Boskovice 2015 je za dveřmi. Na co zajít?"
+category: ankety
 cover-photo: http://i.imgur.com/npBP8dc.jpg
 author: Tomáš Trumpeš
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rozšířit hlasování
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/FlE5w20.jpg
 author: Jiří Bureš
 ---

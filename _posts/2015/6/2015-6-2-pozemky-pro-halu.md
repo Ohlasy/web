@@ -1,5 +1,6 @@
 ---
 title: Radnice mapuje místa pro sportovní halu. Kde by mohla být?
+category: zpravodajství
 cover-photo: http://i.imgur.com/IC8D3vtl.jpg
 author: Marek Osouch
 ---

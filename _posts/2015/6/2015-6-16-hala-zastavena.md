@@ -1,5 +1,6 @@
 ---
 title: Konec haly na Slovákově. Rada doporučuje zastupitelstvu stavbu ukončit
+category: zpravodajství
 cover-photo: http://i.imgur.com/RwkeMe4l.jpg
 author: Marek Osouch
 ---

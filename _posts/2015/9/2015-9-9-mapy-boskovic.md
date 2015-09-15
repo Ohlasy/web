@@ -1,6 +1,7 @@
 ---
 title: "Z muzejních depozitářů: Mapy a plány Boskovic"
 cover-photo: http://i.imgur.com/EIcVG9F.jpg
+category: seriály
 serial: depozitar
 author: Petr Vítámvás
 ---

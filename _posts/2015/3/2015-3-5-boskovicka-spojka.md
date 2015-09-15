@@ -1,5 +1,6 @@
 ---
 title: Boskovická spojka má nadále u vedení města podporu
+category: zpravodajství
 cover-photo: http://i.imgur.com/KXWSQJY.jpg
 author: Marek Osouch
 ---

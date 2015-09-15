@@ -1,6 +1,6 @@
 ---
 title: "Gymnazisté dokážou vzdělávání uchopit jako celoživotní proces, říká ředitelka boskovického gymnázia Alena Svanovská"
-category: interview
+category: rozhovory
 cover-photo: http://i.imgur.com/UA1oCeRl.jpg
 author: Marek Osouch
 ---

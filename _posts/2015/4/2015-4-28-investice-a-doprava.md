@@ -1,5 +1,6 @@
 ---
 title: Radnice představila plány v oblasti investic a dopravy
+category: zpravodajství
 cover-photo: http://i.imgur.com/Q2Uxkwb.jpg
 author: Tomáš Trumpeš
 ---

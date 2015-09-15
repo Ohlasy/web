@@ -1,6 +1,6 @@
 ---
 title: Dobrým příkladem mohou být lidovci
-category: commentary
+category: názory a komentáře
 cover-photo: http://i.imgur.com/x6guxTTl.jpg
 author: Tomáš Trumpeš
 ---

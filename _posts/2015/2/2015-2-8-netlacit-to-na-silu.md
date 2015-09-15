@@ -1,6 +1,6 @@
 ---
 title: Při plánování nové boskovické knihovny se musíme poučit ze sportovní haly
-category: commentary
+category: názory a komentáře
 author: Tomáš Trumpeš
 ---
 

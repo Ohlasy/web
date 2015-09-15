@@ -1,5 +1,6 @@
 ---
 title: Zprůjezdnění Štefánikovy ulice je znovu na stole
+category: zpravodajství
 cover-photo: http://i.imgur.com/xFEY9ap.jpg
 author: Marek Osouch
 ---

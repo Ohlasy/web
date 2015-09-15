@@ -1,5 +1,6 @@
 ---
 title: Město chce pozemky pro halu v Červené zahradě
+category: zpravodajství
 cover-photo: http://i.imgur.com/r92iBpc.jpg
 author: Marek Osouch
 ---

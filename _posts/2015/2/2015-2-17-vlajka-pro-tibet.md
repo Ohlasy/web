@@ -1,5 +1,6 @@
 ---
 title: Na boskovické radnici zavlaje tibetská vlajka
+category: zpravodajství
 cover-photo: http://i.imgur.com/B9EakBHl.jpg
 author: Tomáš Trumpeš
 ---

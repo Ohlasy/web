@@ -1,6 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Malá Haná"
 serial: krajiny
+category: seriály
 cover-photo: http://i.imgur.com/aiEqissl.jpg
 author: Hynek Skořepa
 ---
