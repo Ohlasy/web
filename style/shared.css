@@ -143,6 +143,10 @@ a:hover {
     padding-bottom: -3px;
 }
 
+a.fancybox-close {
+    border: none;
+}
+
 /* Images & Video */
 
 .force-hd-aspect {

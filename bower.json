@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3"
+    "bootstrap": "~3.3",
+    "fancybox": "~2.1"
   }
 }
