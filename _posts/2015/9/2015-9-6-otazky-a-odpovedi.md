@@ -1,7 +1,6 @@
 ---
 title: Ptejte se nás, na co chcete. Na co chceme, odpovíme
 category: commentary
-layout: commentary
 cover-photo: http://i.imgur.com/Ql8N8gm.jpg
 author: Tomáš Znamenáček
 ---

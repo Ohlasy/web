@@ -1,7 +1,6 @@
 ---
 title: Obec jako firma
 category: commentary
-layout: commentary
 cover-photo: http://i.imgur.com/m2Dv8fql.jpg
 author: Marek Osouch 
 ---

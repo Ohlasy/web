@@ -1,7 +1,6 @@
 ---
 title: Sociální problémy těžko vyřešíme útlakem
 category: commentary
-layout: commentary
 cover-photo: http://i.imgur.com/oDas2l4l.jpg
 author: Tomáš Trumpeš
 ---

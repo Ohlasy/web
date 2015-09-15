@@ -1,7 +1,6 @@
 ---
 title: Ten druhý z K.
 category: commentary
-layout: commentary
 cover-photo: http://i.imgur.com/wtexrr7.jpg
 author: Jiří Bureš
 ---

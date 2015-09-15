@@ -1,7 +1,6 @@
 ---
 title: Komunikace ve světě byrokracie
 category: commentary
-layout: commentary
 cover-photo: http://i.imgur.com/CmyZCBIl.jpg
 author: Marek Osouch
 ---

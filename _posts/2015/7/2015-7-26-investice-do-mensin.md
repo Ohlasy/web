@@ -1,7 +1,6 @@
 ---
 title: Efektivní investice do menšin
 category: commentary
-layout: commentary
 cover-photo: http://i.imgur.com/KCzPYfel.jpg
 author: Tomáš Trumpeš
 ---
