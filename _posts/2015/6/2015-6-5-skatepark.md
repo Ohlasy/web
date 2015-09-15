@@ -1,5 +1,6 @@
 ---
 title: Po skateparku se volá už přes deset let. Stále marně
+category: zpravodajství
 cover-photo: http://i.imgur.com/HmaRcxWl.jpg
 author: Tomáš Trumpeš
 ---

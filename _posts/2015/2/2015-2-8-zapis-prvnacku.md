@@ -1,5 +1,6 @@
 ---
 title: Počet zapsaných prvňáčků loňský rok nepřekonal, do školní lavice v září usedne i několik pětiletých
+category: zpravodajství
 author: Andrea Šrámková
 ---
 

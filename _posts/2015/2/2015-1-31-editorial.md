@@ -1,5 +1,6 @@
 ---
 title: "Editorial: Startujeme"
+category: názory a komentáře
 author: Tomáš Trumpeš
 ---
 

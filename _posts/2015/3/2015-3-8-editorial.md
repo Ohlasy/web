@@ -1,5 +1,6 @@
 ---
 title: "Editorial: Měsíc v neznámých vodách"
+category: názory a komentáře
 author: Tomáš Trumpeš
 ---
 

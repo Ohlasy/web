@@ -1,5 +1,6 @@
 ---
 title: Zdravotnice Katka Opálková se jako členka českého traumatýmu zúčastnila záchranářských prací po zemětřesení v Nepálu
+category: zpravodajství
 cover-photo: http://i.imgur.com/BoKu2ej.jpg
 author: Tomáš Trumpeš
 ---

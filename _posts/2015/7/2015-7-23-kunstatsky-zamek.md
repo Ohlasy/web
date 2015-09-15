@@ -1,5 +1,6 @@
 ---
 title: "Významné objevy na Kunštátě: Pod pláštěm zámku se ukrývá takřka kompletní gotický hrad"
+category: zpravodajství
 cover-photo: http://i.imgur.com/taUK3xrl.jpg
 author: Tomáš Trumpeš
 ---

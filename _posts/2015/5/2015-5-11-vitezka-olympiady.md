@@ -1,5 +1,6 @@
 ---
 title: Gymnazistka Kateřina Látalová zvítězila v celostátním kole olympiády ve francouzštině
+category: zpravodajství
 cover-photo: http://i.imgur.com/JkSh1nil.jpg
 author: Tomáš Trumpeš
 ---

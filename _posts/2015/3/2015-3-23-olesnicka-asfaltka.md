@@ -1,5 +1,6 @@
 ---
 title: Plánovaná asfaltka ke ski-areálu rozděluje Olešnické
+category: zpravodajství
 excerpt: "Součástí obsáhlých pozemkových úprav, které si připravují v Olešnici, má být i čtyřmetrová asfaltka vedoucí od hřbitova ke ski-areálu a dále k rovečínské silnici. Záměr vyvolal v Olešnici bouřlivou diskusi, někteří ho označují za krajinářský zločin a za cílené zvýhodňování zájmů provozovatele vleku."
 cover-photo: http://i.imgur.com/i1J7Sb5l.jpg
 author: Žaneta Ondroušková

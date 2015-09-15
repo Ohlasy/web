@@ -1,5 +1,6 @@
 ---
 title: "Další informace o elektrárně AKAM Bosko: Soud řeší oprávněnost licence"
+category: zpravodajství
 cover-photo: http://i.imgur.com/9cNI7l0l.jpg
 author: Marek Osouch
 ---

@@ -1,5 +1,6 @@
 ---
 title: Boskovická bible vznikala v okolí Jana Husa, souvislost s Boskovicemi je však nejistá
+category: zpravodajství
 cover-photo: http://i.imgur.com/qtc0T6H.jpg
 author: Tomáš Trumpeš
 ---

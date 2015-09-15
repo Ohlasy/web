@@ -1,5 +1,6 @@
 ---
 title: Radní Přichystalová se ve střetu zájmů kvůli soudnímu sporu s nemocnicí necítí
+category: zpravodajství
 cover-photo: http://i.imgur.com/u6Q6NYv.jpg
 author: Marek Osouch
 ---

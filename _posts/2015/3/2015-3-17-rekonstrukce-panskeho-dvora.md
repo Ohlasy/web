@@ -1,5 +1,6 @@
 ---
 title: V Panském dvoře by po rekonstrukci mělo vzniknout rehabilitační centrum
+category: zpravodajství
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/uO1XLnt.jpg
 ---
