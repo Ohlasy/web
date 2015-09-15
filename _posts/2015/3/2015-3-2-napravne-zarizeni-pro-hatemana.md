@@ -1,6 +1,7 @@
 ---
 title: Nápravné zařízení pro hatemana
 category: commentary
+layout: commentary
 cover-photo: http://i.imgur.com/sXlPE5Al.jpg
 author: Tomáš Trumpeš
 ---

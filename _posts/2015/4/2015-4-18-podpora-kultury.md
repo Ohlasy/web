@@ -1,6 +1,7 @@
 ---
 title: Kultura si na sebe vydělat nemusí
 category: commentary
+layout: commentary
 cover-photo: http://i.imgur.com/CZszx2W.jpg
 author: Tomáš Znamenáček
 ---

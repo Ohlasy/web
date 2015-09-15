@@ -1,6 +1,7 @@
 ---
 title: Kuřáci versus nekuřáci
 category: commentary
+layout: commentary
 cover-photo: http://i.imgur.com/kEQqONWl.jpg
 author: Hynek Skořepa
 ---

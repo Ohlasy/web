@@ -1,6 +1,7 @@
 ---
 title: Nelze vládnout pomocí anket
 category: commentary
+layout: commentary
 cover-photo: http://i.imgur.com/GIpLAiHl.jpg
 author: Tomáš Trumpeš
 ---

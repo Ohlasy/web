@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    {% include headers.html %}
+    <title>{{ page.title }} | Ohlasy</title>
+    {% include open-graph-meta.html %}
+    <link href="/style/article.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <h1><a href="/">Ohlasy <small>dění na Boskovicku</small></a></h1>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div class="row">
+            <article class="col-md-8">
+                <h2>{{ page.author }}: {{ page.title }}</h2>
+                {{ content }}
+                <div class="article-info">
+                    {% assign author_photo = site.data.autori[page.author].profilovka %}
+                    {% assign author_email = site.data.autori[page.author].mail %}
+                    <img src="/img/profiles/{{ author_photo }}"
+                        alt="Fotografie autora článku"
+                        class="profile-picture">
+                    <ul class="list-unstyled">
+                        <li>{{ page.author }}
+                        <li><a href="mailto:{{ author_email }}">{{ author_email }}</a>
+                        <li>vyšlo {{ page.date | date: "%-d. %-m. %Y" }}
+                    </ul>
+                </div>
+            </article>
+            <aside class="col-md-4 hidden-sm hidden-xs">
+                <div class="box"></div>
+                <div class="box"></div>
+            </aside>
+        </div>
+    </main>
+
+    <div class="container">
+        <h2 class="row-header"><span>Názory a komentáře</span></h2>
+        <div class="row">
+            {% for article in site.categories.commentary | limit: 6 %}
+                {% assign post = article %}
+                {% include article/preview-small.html class="col-md-4" %}
+            {% endfor %}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/lib/local/popup-images.js"></script>
+    <script defer src="/lib/local/ad-rotate.js"></script>
+</body>
+</html>
+

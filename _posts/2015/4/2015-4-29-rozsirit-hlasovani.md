@@ -1,6 +1,7 @@
 ---
 title: Rozšířit hlasování
 category: commentary
+layout: commentary
 cover-photo: http://i.imgur.com/FlE5w20.jpg
 author: Jiří Bureš
 ---

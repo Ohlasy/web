@@ -1,6 +1,7 @@
 ---
 title: Bez peticí a referend to zatím neumíme
 category: commentary
+layout: commentary
 cover-photo: http://i.imgur.com/bK0zkvC.jpg
 author: Tomáš Trumpeš
 ---
