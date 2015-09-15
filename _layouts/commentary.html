@@ -18,18 +18,7 @@
             <article class="col-md-8">
                 <h2>{{ page.author }}: {{ page.title }}</h2>
                 {{ content }}
-                <div class="article-info">
-                    {% assign author_photo = site.data.autori[page.author].profilovka %}
-                    {% assign author_email = site.data.autori[page.author].mail %}
-                    <img src="/img/profiles/{{ author_photo }}"
-                        alt="Fotografie autora článku"
-                        class="profile-picture">
-                    <ul class="list-unstyled">
-                        <li>{{ page.author }}
-                        <li><a href="mailto:{{ author_email }}">{{ author_email }}</a>
-                        <li>vyšlo {{ page.date | date: "%-d. %-m. %Y" }}
-                    </ul>
-                </div>
+                {% include article/info.html article=page %}
             </article>
             <aside class="col-md-4 hidden-sm hidden-xs">
                 <div class="box"></div>

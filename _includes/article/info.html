@@ -1,0 +1,13 @@
+{% assign article = include.article %}
+<div class="article-info">
+    {% assign author_photo = site.data.autori[article.author].profilovka %}
+    {% assign author_email = site.data.autori[article.author].mail %}
+    <img src="/img/profiles/{{ author_photo }}"
+        alt="Fotografie autora článku"
+        class="profile-picture">
+    <ul class="list-unstyled">
+        <li>{{ article.author }}
+        <li><a href="mailto:{{ author_email }}">{{ author_email }}</a>
+        <li>vyšlo {{ article.date | date: "%-d. %-m. %Y" }}
+    </ul>
+</div>
