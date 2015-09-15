@@ -17,4 +17,4 @@ defaults:
       layout: 'article'
 
 future: false
-exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor']
+exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'bower.json']

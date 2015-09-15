@@ -1,0 +1,21 @@
+{
+  "name": "Ohlasy",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Ohlasy/ohlasy",
+  "authors": [
+    "Tomáš Znamenáček <tomas.znamenacek@gmail.com>"
+  ],
+  "description": "A regional website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3"
+  }
+}
