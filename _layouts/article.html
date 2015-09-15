@@ -38,6 +38,17 @@
         </div>
     </main>
 
+    {% if page.category %}
+    <div class="container">
+        <div class="row">
+            {% assign current_category = page.category %}
+            {% assign category_name = site.data.rubriky[current_category] %}
+            {% assign related_articles = site.categories[current_category] %}
+            {% include pager/nest.html items=related_articles caption=category_name %}
+        </div>
+    </div>
+    {% endif %}
+
     {% include footer.html %}
 
     <script src="/lib/jquery/dist/jquery.min.js"></script>

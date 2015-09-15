@@ -1,0 +1,19 @@
+{% assign items = include.items %}
+<h2 class="row-header"><span>{{ include.caption }}</span></h2>
+<div class="row">
+    {% for item in items | limit: 2 %}
+        {% if forloop.index == 2 %}
+            <div class="col-sm-4 hidden-xs">
+                <div class="box"></div>
+            </div>
+        {% endif %}
+        {% assign post = item %}
+        {% include article/preview-small.html class="col-sm-4" %}
+    {% endfor %}
+</div>
+<div class="row">
+    {% for item in items | offset: 2 | limit: 3 %}
+        {% assign post = item %}
+        {% include article/preview-small.html class="col-sm-4" %}
+    {% endfor %}
+</div>
