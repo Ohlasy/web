@@ -1,5 +1,5 @@
 ---
-title: Zprůjezdnění Štefánikovy ulice je znovu na stole
+title: Zprůjezdnění Štefánikovy ulice je znovu na stole
 cover-photo: http://i.imgur.com/rluPJ18l.jpg
 author: Marek Osouch
 ---
