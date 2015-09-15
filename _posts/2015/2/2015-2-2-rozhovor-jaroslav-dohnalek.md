@@ -1,5 +1,6 @@
 ---
 title: Každé ráno plivnout do zrcadla snad nemusím, říká Jaroslav Dohnálek
+category: interview
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/Ymm5PXpl.jpg
 ---

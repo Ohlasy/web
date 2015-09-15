@@ -1,5 +1,6 @@
 ---
 title: Boskovičtí cestovatelé nocovali v Budapešti mezi uprchlíky
+category: interview
 cover-photo: http://i.imgur.com/wjoZCiN.jpg
 author: Tomáš Trumpeš
 ---
