@@ -1,19 +1,20 @@
+{% assign article = include.article %}
 <div class="article-preview article-preview-small {{ include.class }}">
-    <a href="{{ post.url }}">
+    <a href="{{ article.url }}">
         <div class="force-hd-aspect">
-            {% if post.cover-photo %}
-            <img src="{{ post.cover-photo }}" class='img-responsive' alt="titulní fotka článku">
+            {% if article.cover-photo %}
+            <img src="{{ article.cover-photo }}" class='img-responsive' alt="titulní fotka článku">
             {% else %}
             <img src="/img/generic.png" class='img-responsive' alt="logo Ohlasů">
             {% endif %}
         </div>
         {% capture title %}
-        {% if post.category == 'commentary' %}
-            {{ post.author }}: {{ post.title }}
+        {% if article.category == 'commentary' %}
+            {{ article.author }}: {{ article.title }}
         {% else %}
-            {{ post.title }}
+            {{ article.title }}
         {% endif %}
         {% endcapture %}
-        <h2>{{ title }} <small class="text-muted"> {{ post.date | date: "%-d. %-m." }}</small></h2>
+        <h2>{{ title }} <small class="text-muted"> {{ article.date | date: "%-d. %-m." }}</small></h2>
     </a>
 </div>

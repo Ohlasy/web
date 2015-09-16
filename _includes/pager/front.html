@@ -2,7 +2,7 @@
 
     {% for post in paginator.posts | limit: 1 %}
     <div class="row">
-        {% include article/preview.html class="col-md-8" featured=true %}
+        {% include article/preview.html article=post class="col-md-8" featured=true %}
         <div class="col-md-4 hidden-xs">
             <div class="row">
                 <div class="col-md-12 col-sm-6">
@@ -16,7 +16,7 @@
 
     {% for post in paginator.posts | offset: 1 | limit: 1 %}
     <div class="row">
-        {% include article/preview.html class="col-md-8 col-md-push-4" featured=true %}
+        {% include article/preview.html article=post class="col-md-8 col-md-push-4" featured=true %}
         <div class="col-md-4 col-md-pull-8 hidden-xs">
             <div class="row">
                 <div class="col-md-12 col-sm-6">
@@ -41,7 +41,7 @@
             {% endif %}
             {% for post in site.posts %}
                 {% if mostReadPost.url == post.url %}
-                    {% include article/preview-small.html class="col-sm-4" %}
+                    {% include article/preview-small.html article=post class="col-sm-4" %}
                 {% endif %}
             {% endfor %}
         {% endfor %}
@@ -50,7 +50,7 @@
         {% for mostReadPost in site.data.nejctenejsi | offset: 2 | limit: 3 %}
             {% for post in site.posts %}
                 {% if mostReadPost.url == post.url %}
-                    {% include article/preview-small.html class="col-sm-4" %}
+                    {% include article/preview-small.html article=post class="col-sm-4" %}
                 {% endif %}
             {% endfor %}
         {% endfor %}

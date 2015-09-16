@@ -8,13 +8,13 @@
                 <div class="box"></div>
             </div>
         {% endif %}
-        {% include article/preview-small.html class="col-sm-4" %}
+        {% include article/preview-small.html article=post class="col-sm-4" %}
         {% endfor %}
     </div>
 
     <div class="row">
         {% for post in paginator.posts | offset: 2 | limit: 3 %}
-        {% include article/preview-small.html class="col-sm-4" %}
+        {% include article/preview-small.html article=post class="col-sm-4" %}
         {% endfor %}
     </div>
 
@@ -25,7 +25,7 @@
                 <div class="box"></div>
             </div>
         {% endif %}
-        {% include article/preview-small.html class="col-sm-4" %}
+        {% include article/preview-small.html article=post class="col-sm-4" %}
         {% endfor %}
     </div>
 

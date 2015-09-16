@@ -1,21 +1,22 @@
+{% assign article = include.article %}
 <div class="article-preview {{ include.class }}">
-    <a href="{{ post.url }}">
+    <a href="{{ article.url }}">
         <div class="force-hd-aspect">
-            {% if post.cover-photo %}
-            <img src="{{ post.cover-photo }}" class='img-responsive' alt="titulní fotka článku">
+            {% if article.cover-photo %}
+            <img src="{{ article.cover-photo }}" class='img-responsive' alt="titulní fotka článku">
             {% else %}
             <img src="/img/generic.png" class='img-responsive' alt="logo Ohlasů">
             {% endif %}
         </div>
-        {% if post.category == 'commentary' %}
-            <h2>{{ post.author }}: {{ post.title }}</h2>
+        {% if article.category == 'commentary' %}
+            <h2>{{ article.author }}: {{ article.title }}</h2>
         {% else %}
-            <h2>{{ post.title }}</h2>
+            <h2>{{ article.title }}</h2>
         {% endif %}
-        <p class="article-perex">{{ post.excerpt | strip_html }}</p>
+        <p class="article-perex">{{ article.excerpt | strip_html }}</p>
         <p class="text-muted article-meta">
-            {{ post.author }} / {{ post.date | date: "%-d." }}
-            {% assign month = post.date | date: "%-m" %}
+            {{ article.author }} / {{ article.date | date: "%-d." }}
+            {% assign month = article.date | date: "%-m" %}
             {% include czech-month-name.html month = month %}
         </p>
     </a>

@@ -7,13 +7,11 @@
                 <div class="box"></div>
             </div>
         {% endif %}
-        {% assign post = item %}
-        {% include article/preview-small.html class="col-sm-4" %}
+        {% include article/preview-small.html class="col-sm-4" article=item %}
     {% endfor %}
 </div>
 <div class="row">
     {% for item in items | offset: 2 | limit: 3 %}
-        {% assign post = item %}
-        {% include article/preview-small.html class="col-sm-4" %}
+        {% include article/preview-small.html class="col-sm-4" article=item %}
     {% endfor %}
 </div>
