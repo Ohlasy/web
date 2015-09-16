@@ -18,3 +18,6 @@ defaults:
 
 future: false
 exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'bower.json']
+
+# https://talk.jekyllrb.com/t/324
+array: []
