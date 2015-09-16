@@ -17,7 +17,7 @@ defaults:
       layout: 'article'
 
 future: false
-exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'bower.json']
+exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'bower.json', 'Makefile']
 
 # https://talk.jekyllrb.com/t/324
 array: []
