@@ -15,9 +15,9 @@
     },
     {
         "name": "Muzeum",
-        "image": "http://i.imgur.com/8lRrnXI.jpg",
-        "alt": "navštivte Muzeum Boskovicka",
-        "url": "http://muzeum.boskovice.cz/",
+        "image": "http://i.imgur.com/FDLeGuW.png",
+        "alt": "Fenomén Merkur, výstava",
+        "url": "http://muzeum.boskovice.cz/fenomen%2Dmerkur/a-1078/p1=1098",
         "priority": 1000
     },
     {
