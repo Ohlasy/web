@@ -28,18 +28,11 @@
         "priority": 1000
     },
     {
-        "name": "Kunštátský jarmark 2015",
-        "image": "http://i.imgur.com/9R9LRWw.jpg",
-        "alt": "23. kunštátský jarmark",
-        "url": "http://www.kunstat-mesto.cz/hnrcirsky-jarmark/hrncirsky-jarmark-2015/",
-        "priority": 900
-    },
-    {
-        "name": "Stabat mater 19/9",
-        "image": "http://i.imgur.com/EXTKyve.png",
-        "alt": "Stabat mater, 19. září Boskovice, kostel sv. Jakuba",
+        "name": "Kaprálová Boskovice",
+        "image": "http://i.imgur.com/1B92ror.jpg",
+        "alt": "Písně Vítězslavy Kaprálové v Galerii OK",
         "url": "http://vernum.cz/",
-        "priority": 800
+        "priority": 900
     },
     {
         "name": "Inzerujte u nás",
