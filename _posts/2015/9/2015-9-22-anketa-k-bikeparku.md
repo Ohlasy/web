@@ -4,15 +4,15 @@ cover-photo: http://i.imgur.com/PmJfQN4.jpg
 author: Tomáš Trumpeš
 ---
 
-*Boskovická radnice představila záměr vybudovat v lokalitě Doubrav bikepark. V anketě jsme proto několika lidem, kterých se problematika dotýká, položili následující čtyři otázky:
+*Boskovická radnice představila záměr vybudovat v lokalitě Doubrav bikepark. V anketě jsme proto několika lidem, kterých se problematika dotýká, položili následující čtyři otázky:*
 
-1/ Jak se vám líbí záměr vybudovat v Doubravách bikepark? 
+*1/ Jak se vám líbí záměr vybudovat v Doubravách bikepark?* 
 
-2/ Jak hodnotíte projekt, který počítá s 10 km singltrekových tratí a zázemím?
+*2/ Jak hodnotíte projekt, který počítá s 10 km singltrekových tratí a zázemím?*
 
-3/ Souhlasíte s výběrem lokality? 
+*3/ Souhlasíte s výběrem lokality?* 
 
-4/ Provází podle vás záměr dostatečná míra projednání s veřejností?*
+*4/ Provází podle vás záměr dostatečná míra projednání s veřejností?*
 
 <img src="http://i.imgur.com/PmJfQN4.jpg" alt="sigltreky" class="img-responsive">
 
