@@ -8,7 +8,7 @@ author: Tomáš Znamenáček
 
 <img src="http://i.imgur.com/XCAq3Nd.jpg" alt="zástup uprchlíků čeká před branou" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
-„My“ znamená tři medici Petra, Linda a Martin; Katka, koordinátorka slovenské neziskovky Magna, a já, nekvalifikovaný podržtažka, v tomhle případě spíš podejnáplast. Máme za sebou noční vstávání a zhruba osmihodinovou cestu autem přes Slovensko, Maďarsko a Chorvatsko až sem, na hranice se Srbskem. Na sobě máme trička s logem neziskovky, díky kterým patříme mezi vyvolené, co mohou přes hlavní bránu procházet podle libosti, aspoň pokud se k ní skrz davy dostanou. Zbývající snad tři tisíce obyvatel tábora tohle štěstí nemají. Jejich jediná možnost, jak pokračovat ve vysněné cestě na sever, je odjezd oficiálním autobusem. Snad dneska, snad zítra, snad za týden.
+„My“ znamená tři medici Petra, Linda a Martin; Katka, koordinátorka slovenské neziskovky Magna, a já, nekvalifikovaný podržtaška, v tomhle případě spíš podejnáplast. Máme za sebou noční vstávání a zhruba osmihodinovou cestu autem přes Slovensko, Maďarsko a Chorvatsko až sem, na hranice se Srbskem. Na sobě máme trička s logem neziskovky, díky kterým patříme mezi vyvolené, co mohou přes hlavní bránu procházet podle libosti, aspoň pokud se k ní skrz davy dostanou. Zbývající snad tři tisíce obyvatel tábora tohle štěstí nemají. Jejich jediná možnost, jak pokračovat ve vysněné cestě na sever, je odjezd oficiálním autobusem. Snad dneska, snad zítra, snad za týden.
 
 <img src="http://i.imgur.com/XhChpj1.jpg" alt="média před branou" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
