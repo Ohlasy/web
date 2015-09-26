@@ -72,4 +72,4 @@ Tři dny v uprchlickém táboře ze mě nedělají odborníka na migraci, ale je
 
 ### Pozvání na besedu
 
-*Beseda zaměřená na otázku přílivu emigrantů do Evropy z pohledu EU a Čeeské republiky se koná v pátek 16. října v 16.30 v zámeckém skleníku v Boskovicích. Hosty budou předseda právního výboru Evropského parlamentu Pavel Svoboda a senátor a bývalý rektor Univerzity Karlovy Václav Hampl. Pořádají KDU–ČSL Boskovice a firma LD seating s.r.o.*
+*Beseda zaměřená na otázku přílivu emigrantů do Evropy z pohledu EU a České republiky se koná v pátek 16. října v 16.30 v zámeckém skleníku v Boskovicích. Hosty budou předseda právního výboru Evropského parlamentu Pavel Svoboda a senátor a bývalý rektor Univerzity Karlovy Václav Hampl. Pořádají KDU–ČSL Boskovice a firma LD seating s.r.o.*
