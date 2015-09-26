@@ -1,12 +1,13 @@
 ---
 title: „Strategický plán definuje základní problémy, ale neříká, jak se mají řešit,“ vysvětluje tajemník boskovického úřadu David Škvařil
 cover-photo: http://i.imgur.com/HSwqkLD.jpg
+category: rozhovory
 author: Tomáš Trumpeš
 ---
 
 *Když se v zámeckém skleníku konalo veřejné projednání strategického plánu, ukázalo se, že ne všichni přesně rozumíme tomu, co má tento dokument obsahovat a k čemu má sloužit. O rozhovor jsme proto požádali šéfa boskovických úředníků Davida Škvařila, který přípravu strategického plánu fakticky vedl.*
 
-<img src="http://i.imgur.com/HSwqkLD.jpg" alt="tajemník" class="img-responsive">
+<img src="http://i.imgur.com/HSwqkLD.jpg" alt="tajemník" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 **Můžete nejdřív stručně říct, co je Strategický plán města a co od toho dokumentu očekáváme?**
 

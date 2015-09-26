@@ -1,6 +1,7 @@
 ---
 title: "Anketa: Bikepark v Doubravách?"
 cover-photo: http://i.imgur.com/PmJfQN4.jpg
+category: ankety
 author: Tomáš Trumpeš
 ---
 
