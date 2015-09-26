@@ -68,7 +68,7 @@ Pohodlně usazen na cestě zpět do luxusu teplé vody a vlastní postele si v s
 
 Tři dny v uprchlickém táboře ze mě nedělají odborníka na migraci, ale jednu věc vím jistě. Tihle lidé potřebují naši okamžitou pomoc – zcela bez ohledu na to, jestli se později rozhodneme je přijmout do Evropy, nebo poslat kamkoliv zpátky. Diskuze o dlouhodobém, systémovém řešení problémů migrace je potřeba, ale nesmí nám bránit v akutní pomoci těm, kteří jsou v nouzi. Jinak vlastním rozhodnutím přicházíme o hodnoty, které jsme všichni tolik připraveni bránit.
 
-–––
+---
 
 ### Pozvání na besedu
 
