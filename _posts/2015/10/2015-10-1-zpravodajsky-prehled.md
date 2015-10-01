@@ -47,6 +47,6 @@ Letovičtí rybáři neuspěli se svou stížností, ministerstvo posvětilo [no
 
 V Kunštátě [dokončili revitalizaci rybníka](http://zrcadlo.net/clanky/Revitalizace-kunstatskeho-rybniku-skoncila-bahnak-prokoukl-2095/) u základní školy.
 
-Rozvojové dokumenty chystají také v Borotíně a ve Svitávce. 
+Rozvojové dokumenty chystají také [v Borotíně](http://blanensky.denik.cz/zpravy_region/borotinsti-budou-mit-novy-smer-i-diky-rozvojovemu-dokumentu-20150902.html) a [ve Svitávce](http://blanensky.denik.cz/zpravy_region/rozvoj-svitavky-novy-dokument-shrne-investice-na-pristi-roky-20150921.html). 
 
 Debata o uprchlících probíhá jako v celé Evropě také na Boskovicku. [Pomáhat vyrazil do uprchlického tábora](/clanky/2015/09/reportaz-opatovac.html) také náš spolupracovník Tomáš Znamenáček nebo parta letovických dobrovolníků ze sdružení ELIM. Ti o své misi natočili dokumentární film [Uprchlík je člověk](https://www.youtube.com/watch?v=gsbs0jEOtyA). Beseda zaměřená na otázku přílivu emigrantů do Evropy z pohledu EU a České republiky se koná v pátek 16. října v 16.30 v zámeckém skleníku v Boskovicích. Hosty budou předseda právního výboru Evropského parlamentu Pavel Svoboda a senátor a bývalý rektor Univerzity Karlovy Václav Hampl. Pořádají KDU–ČSL Boskovice a firma LD seating s.r.o.
