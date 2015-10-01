@@ -23,7 +23,7 @@ V úterý 13. října přijede do kulturního domu v Letovicích Divadýlko Mrak
 
 ### Výstavy
 
-V Letovicích budou v říjnu zahájeny hned dvě výstavy: v pátek 2. října v Galerii Domino prodejní výstava obrazů Danuše Vítkové a v neděli 4. října v Galerii Pex výstava insitního malíře Dušana Chaloupky „Pohlazení na duchu a na duši“.
+V Galerii Domino v Letovicích bude v pátek 2. října zahájena prodejní výstava Danuše Vítkové, v neděli 4. října na zámku v Lysicích výstava insitního malíře Dušana Chaloupky „Pohlazení na duchu a na duši“.
 
 V Galerii Otakara Kubína v Boskovicích proběhne 31. října vernisáž výstavy kunštátského výtvarníka Víta Ondráčka.
 
