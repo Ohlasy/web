@@ -1,5 +1,5 @@
 ---
-title: Za 14 místo 9 milionů. Město kupuje pozemek o dvě třetiny dráž, než říká posudek
+title: Za 14 místo 9 milionů. Město kupuje pozemek téměř o dvě třetiny dráž, než říká posudek
 cover-photo: http://i.imgur.com/T4F08z8l.jpg
 category: zpravodajství
 author: Marek Osouch
