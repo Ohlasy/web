@@ -39,7 +39,7 @@ Nemám. Projekty takto dopředu neplánuji, vycházím vždy ze situace, která 
 
 **Takže ani v Boskovicích zatím nemáš konkrétní plány?**
 
-Co se týče boskovické školy, provokuje mě nevyužitý potenciál různorodých oborů. Za dveřmi slýchám bubeníky a dětský orchestr, malé tanečnice schovávají balerínky po hodině tance. Vše se dá propojit. Můžeme například udělat části loutek z hlíny, výtvarka kulisy, pohádku vyberou děti z dramatického oddělení, rodiče ušijí kostýmy a všichni se zapojíme do společného dění. Mým takovým osobním cílem je, aby žáci pochopili, že v tvoření je především svoboda, aby se nebáli, že udělají něco špatně a tvořili hlavně s radostí. Budu šťastná, když časem budou vědět, kdo to byl Picasso, Giacometti, Giotto..ale to je nutné předávat po malých krocích. 
+Co se týče boskovické školy, provokuje mě nevyužitý potenciál různorodých oborů. Za dveřmi slýchám bubeníky a dětský orchestr, malé tanečnice schovávají balerínky po hodině tance. Vše se dá propojit. Můžeme například udělat části loutek z hlíny, výtvarka kulisy, pohádku vyberou děti z dramatického oddělení, rodiče ušijí kostýmy a všichni se zapojíme do společného dění. Mým takovým osobním cílem je, aby žáci pochopili, že v tvoření je především svoboda, aby se nebáli, že udělají něco špatně a tvořili hlavně s radostí. Budu šťastná, když časem budou vědět, kdo to byl Picasso, Giacometti, Giotto… ale to je nutné předávat po malých krocích. 
 
 <img src="http://i.imgur.com/pvF9eTK.jpg" alt="Yvona Ferencová" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
