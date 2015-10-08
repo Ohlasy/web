@@ -17,7 +17,7 @@ Nabízí se tedy možnost změny volebního systému v takový, u kterého se sk
 
 Pro názornost jsem přepočítal mandáty na základě počtu získaných hlasů v komunálních volbách 2010 a 2014 v Boskovicích a došel k [následujícím výsledkům](https://docs.google.com/spreadsheets/d/1_z_jPDt5EvxeWb0XOvP6qLcf7NBIPsCsMaJ13rrhiAk/edit?usp=sharing):
 
-<img src="http://i.imgur.com/qJ3nteF.png" alt="graf ukazující rozdělení mandátů v různých volebních systémech" class="img-responsive img-popup" data-author="Ohlasy">
+<img src="http://i.imgur.com/qJ3nteF.png" alt="graf ukazující rozdělení mandátů v různých volebních systémech" class="img-responsive img-popup">
 
 Oběma volbám, jak je vidět, by dominovala ČSSD. V obou případech by vytvořila jednobarevnou radu a měla by zajištěnou pohodlnou podporu v zastupitelstvu. Je vidět, že tento systém by nezaručil v boskovickém zastupitelstvu poměrnost. Otázkou ovšem je, zda by se nechovali jinak samotní voliči.
 
