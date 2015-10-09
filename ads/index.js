@@ -8,8 +8,8 @@
     },
     {
         "name": "KZMB",
-        "image": "http://kulturaboskovice.cz/img/ohlasy.jpg",
-        "alt": "letní kino v provozu",
+        "image": "http://kulturaboskovice.cz/img/ohlasy.jpg?1444374277",
+        "alt": "pozvánka na aktuální kulturní akce v Boskovicích",
         "url": "http://www.kulturaboskovice.cz/",
         "priority": 1000
     },
