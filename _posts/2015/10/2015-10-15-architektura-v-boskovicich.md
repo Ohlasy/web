@@ -23,7 +23,7 @@ Až na hrstku celkem zdařilých soukromých iniciativ nejenže „přítomnost 
 
 <img src="http://i.imgur.com/NxtiIpl.jpg" alt="současná podoba Zelené školy" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
-Samostatnou kapitolu by mohla tvořit rekonstrukce a úprava sportovišť, zde si dovolím jen poznámku –  že sportovní hala nemusí být nevzhledná montovaná krabice, ukazuje příklad z nedalekých Jaroměřic – realizace architekta Zdeňka Fránka, rodáka z Boskovic (!).
+Samostatnou kapitolu by mohla tvořit rekonstrukce a úprava sportovišť, zde si dovolím jen poznámku –  že sportovní hala nemusí být nevzhledná montovaná krabice, ukazuje [příklad z nedalekých Jaroměřic](http://www.franekarchitects.cz/projekt/telocvicna-v-jaromericich/) – realizace architekta Zdeňka Fránka, rodáka z Boskovic (!).
 
 Abych nezapomněl, přece jen přítomnost postavila něco, co dává městu nový charakter – přehršel super- a hypermarketů. Znamení doby?
 
