@@ -1,5 +1,5 @@
 ---
-title: "Tomáš Trumpeš: Pojďme se posunout k debatě o integraci"
+title: "Pojďme se posunout k debatě o integraci"
 cover-photo: http://i.imgur.com/Ex05csQ.jpg
 category: názory a komentáře
 author: Tomáš Trumpeš
