@@ -8,7 +8,7 @@
     },
     {
         "name": "KZMB",
-        "image": "http://i.imgur.com/Ra3mm1M.png",
+        "image": "http://www.kulturaboskovice.cz/img/ohlasy.jpg",
         "alt": "pozvánka na aktuální kulturní akce v Boskovicích",
         "url": "http://www.kulturaboskovice.cz/",
         "priority": 1000
