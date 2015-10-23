@@ -7,7 +7,7 @@ author: Tomáš Trumpeš
 
 *Tomáš Znamenáček se tento týden vrátil ze své druhé dobrovolnické mise v uprchlických táborech na jihu Evropy. Pod hlavičkou neziskové organizace Magna zde pomáhal v týmu poskytujícím migrantům lékařskou pomoc. Kromě oficiálního chorvatského tábora v Opatovaci krátce navštívil také hraniční přechod u Bapské, kde jsou podmínky zřejmě nejkritičtější. Rozhovor jsme vedli o jeho přímých zkušenostech s uprchlíky a jejich situací.*
 
-<img src="http://i.imgur.com/w4zKEuN.jpg" alt="uprchlíci nocující mezi stany" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.imgur.com/K9nKYUQ.jpg" alt="Tomáš Znamenáček zachumlaný v dece" class="img-responsive img-popup" data-author="Petra Vinklerová">
 
 **Uprchlické tábory jsi navštívil už podruhé, s odstupem několika týdnů. Změnilo se během té doby něco zásadně?**
 
