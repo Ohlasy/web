@@ -28,9 +28,9 @@
         "priority": 1000
     },
     {
-        "name": "Kaprálová Boskovice",
-        "image": "http://i.imgur.com/1B92ror.jpg",
-        "alt": "Písně Vítězslavy Kaprálové v Galerii OK",
+        "name": "Stabat mater Vanovice",
+        "image": "http://i.imgur.com/dUigGdq.png",
+        "alt": "Stabat mater ve Vanovicích",
         "url": "http://vernum.cz/",
         "priority": 900
     },
