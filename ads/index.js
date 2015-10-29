@@ -15,7 +15,7 @@
     },
     {
         "name": "Muzeum",
-        "image": "http://i.imgur.com/8lRrnXI.jpg",
+        "image": "http://i.imgur.com/XXsUB03.jpg",
         "alt": "navštivte Muzeum Boskovicka",
         "url": "http://muzeum.boskovice.cz/",
         "priority": 1000
