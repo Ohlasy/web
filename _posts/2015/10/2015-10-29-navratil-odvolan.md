@@ -1,5 +1,5 @@
 ---
-title: Městská rada odvolala jednatele Nemocnice Navrátila
+title: Městská rada odvolala jednatele nemocnice Navrátila
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/tWmAU3Fl.jpg
 category: zpravodajství
