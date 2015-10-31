@@ -28,10 +28,10 @@
         "priority": 1000
     },
     {
-        "name": "Stabat mater Vanovice",
-        "image": "http://i.imgur.com/dUigGdq.png",
-        "alt": "Stabat mater ve Vanovicích",
-        "url": "http://vernum.cz/",
+        "name": "Archiv: Solární elektrárna",
+        "image": "http://i.imgur.com/OV87h0N.png",
+        "alt": "Vybíráme z archivu: Příběh boskovické solární elektrárny",
+        "url": "/clanky/2015/04/solarni-elektrarna.html",
         "priority": 900
     },
     {
@@ -39,6 +39,6 @@
         "image": "http://i.imgur.com/TYzRjZP.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
         "url": "/inzerce.html",
-        "priority": 800
+        "priority": 900
     }
 ]
