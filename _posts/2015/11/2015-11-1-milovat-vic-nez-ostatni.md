@@ -5,8 +5,9 @@ category: názory a komentáře
 cover-photo: http://i.imgur.com/N4rzCT0l.jpg
 ---
 
-*Výstava kunštátského výtvarníka Víta Ondráčka „Malba plamenem, malba štětcem“ byla v sobotu zahájena v Galerii Otakara Kubína a potrvá zde do 29. listopadu. Jako pozvánku na výstavu publikujeme úvodní slovo, které na vernisáži pronesl Tomáš Trumpeš.
-„Musíš milovat víc než ostatní,“ nabádá autor této výstavy. Nabádá především sám sebe, neboť se nepovýšil do role mistra, který by se obklopoval žáky.*
+*Výstava kunštátského výtvarníka Víta Ondráčka „Malba plamenem, malba štětcem“ byla v sobotu zahájena v Galerii Otakara Kubína a potrvá zde do 29. listopadu. Jako pozvánku na výstavu publikujeme úvodní slovo, které na vernisáži pronesl Tomáš Trumpeš.*
+
+„Musíš milovat víc než ostatní,“ nabádá autor této výstavy. Nabádá především sám sebe, neboť se nepovýšil do role mistra, který by se obklopoval žáky.
 
 Malovat a milovat – dvě slova, která si u Vítka nejsou blízká jen podobným seřazením písmen. Vítkovo *umění malovat* stejně jako Frommovo *Umění milovat* není chvilkovým výrazem bezpracného citu, ale plodem trvalého, totiž trvajícího a každodenně se utvářejícího vztahu; láska malíře prochází časem, proměňuje se, v různých dobách nabývá různých podob, ožívá a uskutečňuje se v různém hledání a různém nalézání.
 
