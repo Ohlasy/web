@@ -23,6 +23,8 @@ V sobotu 21. listopadu se v Moravském kartografickém centru ve Velkých Opatov
  
 ### Divadlo
 
+Novou inscenaci komedie Ani za milion! z pera M. Doleželové a R. Vencla připravilo pod režijním vedením Jany Řezníčkové Ochotnické divadlo Boskovice. Premiéra se uskuteční v sobotu 21. listopadu v 18 hodin ve velkém sále boskovické sokolovny, první repríza v pátek 27. listopadu od 19 hodin tamtéž. V hlavních rolích se představí Alice Fialová a Lubomír Slezák.
+
 Ve středu 4. listopadu se v zámeckém skleníku v divadelní komedii agentury Sophia-Art Příběh jednoho hradu představí Ernesto Čekan a Lukáš Langmajer. V neděli 22. listopadu zámecký skleník navštíví pražské Divadlo Krapet s představením Zimní příhody včelích medvídků.
 
 V neděli 8. listopadu se v kulturním domě v Cetkovicích odehraje divadelní představení Spadla do propasti v podání amatérských ochotníků Jásinov.
