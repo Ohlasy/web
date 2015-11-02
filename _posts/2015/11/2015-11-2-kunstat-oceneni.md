@@ -2,7 +2,7 @@
 title: Kunštátská základní škola získala ocenění za anglický projekt
 cover-photo: http://i.imgur.com/PDqJzhr.jpg
 category: zpravodajství
-author: Tomáš Trumpeš
+author: Anna Dudková
 ---
 
 *V dnešní době už výuka jazyků na školách neznamená jen biflování slovíček. Pedagogové mohou žákům nabídnout mnohem zajímavější možnosti, jak cizí jazyky procvičit. Dobrým příkladem je kunštátská základní škola, která se zapojila do projektu Comenius – Hrdina v každém z nás aneb Malými krůčky za lepší svět. Díky němu žáci mohli používat angličtinu při dorozumívání se s partnerskými školami ze Slovenska, Polska a Norska.*
