@@ -28,6 +28,13 @@
         "priority": 1000
     },
     {
+        "name": "Havlovi: Hidden Tracks",
+        "image": "http://i.imgur.com/KAMDhSG.png",
+        "alt": "Manželé Havlovi & Karel Vaněk: Hidden Tracks",
+        "url": "http://www.kulturaboskovice.cz/kultura/akce/hidden-tracks-havlovi-karel-vanek",
+        "priority": 950
+    },
+    {
         "name": "Archiv: Solární elektrárna",
         "image": "http://i.imgur.com/OV87h0N.png",
         "alt": "Vybíráme z archivu: Příběh boskovické solární elektrárny",
