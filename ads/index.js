@@ -29,7 +29,7 @@
     },
     {
         "name": "Havlovi: Hidden Tracks",
-        "image": "http://i.imgur.com/KAMDhSG.png",
+        "image": "http://i.imgur.com/YZErsk9.png",
         "alt": "Manželé Havlovi & Karel Vaněk: Hidden Tracks",
         "url": "http://www.kulturaboskovice.cz/kultura/akce/hidden-tracks-havlovi-karel-vanek",
         "priority": 950
