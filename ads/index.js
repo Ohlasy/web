@@ -15,7 +15,7 @@
     },
     {
         "name": "Muzeum",
-        "image": "http://i.imgur.com/XXsUB03.jpg",
+        "image": "http://i.imgur.com/Blrhbba.png",
         "alt": "navštivte Muzeum Boskovicka",
         "url": "http://muzeum.boskovice.cz/",
         "priority": 1000
@@ -36,7 +36,7 @@
     },
     {
         "name": "Archiv: Solární elektrárna",
-        "image": "http://i.imgur.com/OV87h0N.png",
+        "image": "http://i.imgur.com/tzIBr8H.png",
         "alt": "Vybíráme z archivu: Příběh boskovické solární elektrárny",
         "url": "/clanky/2015/04/solarni-elektrarna.html",
         "priority": 900
