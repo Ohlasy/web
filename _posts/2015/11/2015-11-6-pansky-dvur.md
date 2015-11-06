@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Nesouhlas s plánovanou rekonstrukcí boskovického Panského dvora vyjádřil v červnu letošního roku boskovický úřad, jehož referentka Alena Dvořáková reprezentuje státní památkovou péči. Její kladné vyjádření formou takzvaného závazného stanoviska je nezbytnou podmínkou pro získání stavebního povolení. Majitel objektu, společnost Pražská 5, se proto obrátila na krajský úřad se snahou nesouhlasné rozhodnutí zvrátit. Výsledkem je podobně příkře odmítavé stanovisko krajských památkářů.*
+*Nesouhlas s plánovanou rekonstrukcí boskovického Panského dvora [vyjádřil v červnu letošního roku boskovický úřad](/clanky/2015/07/pansky-dvur-bez-razitka.html), jehož referentka Alena Dvořáková reprezentuje státní památkovou péči. Její kladné vyjádření formou takzvaného závazného stanoviska je nezbytnou podmínkou pro získání stavebního povolení. Majitel objektu, společnost Pražská 5, se proto obrátila na krajský úřad se snahou nesouhlasné rozhodnutí zvrátit. Výsledkem je podobně příkře odmítavé stanovisko krajských památkářů.*
 
 <img src="http://i.imgur.com/OYZx0dB.jpg" alt="panský dvůr" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
