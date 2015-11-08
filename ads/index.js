@@ -28,18 +28,18 @@
         "priority": 1000
     },
     {
-        "name": "Havlovi: Hidden Tracks",
-        "image": "http://i.imgur.com/YZErsk9.png",
-        "alt": "Manželé Havlovi & Karel Vaněk: Hidden Tracks",
-        "url": "http://www.kulturaboskovice.cz/kultura/akce/hidden-tracks-havlovi-karel-vanek",
-        "priority": 950
-    },
-    {
         "name": "Archiv: Solární elektrárna",
-        "image": "http://i.imgur.com/tzIBr8H.png",
+        "image": "http://i.imgur.com/bls0a2w.png",
         "alt": "Vybíráme z archivu: Příběh boskovické solární elektrárny",
         "url": "/clanky/2015/04/solarni-elektrarna.html",
-        "priority": 900
+        "priority": 901
+    },
+    {
+        "name": "Archiv: Olešnice",
+        "image": "http://i.imgur.com/lXCoVxq.png",
+        "alt": "Vybíráme z archivu: Plánovaná asfaltka rozděluje Olešnické",
+        "url": "/clanky/2015/03/olesnicka-asfaltka.html",
+        "priority": 901
     },
     {
         "name": "Inzerujte u nás",
