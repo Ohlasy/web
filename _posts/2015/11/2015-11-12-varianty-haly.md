@@ -9,25 +9,25 @@ author: Marek Osouch
 
 <img src="http://i.imgur.com/0nn6du0.jpg" alt="varianta 1" class="img-responsive img-popup" data-author="AV atelier">
 
-### 1 Na fotbalovém stadionu
+### 1. Na fotbalovém stadionu
 
 V této variantě by se podoba současného sportovního areálu dost změnila. Travnaté fotbalové hřiště by se otočilo o devadesát stupňů a sportovní hala o velikosti 2600 metrů čtverečních by stála hned vedle silnice vedoucí k zimnímu stadionu. Otočením by hřiště samozřejmě zasáhlo i do současných tribun a kabin. Počítá se proto s výstavbou nových mezi oběma fotbalovými hřišti. „Kabiny se dají též navrhnout integrované do sportovní haly a nad těmito využít prostor pro vnitřní tribunu jak do haly, tak na fotbal,“ píše se o variantě na webu města. Zároveň by touto variantou zmizel pozůstatek atletického oválu, a když započítáme současná parkovací místa u zimního stadionu, byly by v areálu téměř tři stovky parkovacích míst, část z nich by vznikla i na odkoupeném pozemku mlýna, a mohla by se tím tak vyřešit nešťastná situace, kdy v létě nemají lidé jedoucí na koupaliště kde parkovat.
 
 <img src="http://i.imgur.com/J1nulLL.jpg" alt="varianta 2" class="img-responsive img-popup" data-author="AV atelier">
 
-### 2 Hala místo fotbalových kabin a tribun
+### 2. Hala místo fotbalových kabin a tribun
 
 Druhá varianta opět počítá se zbouráním současných tribun a kabin pro fotbalisty. Místo nich totiž vyroste sportovní hala, stejně velká jako v první variantě. Jenom tam se ale nevejde, počítá se proto s posunutím celého fotbalového hřiště blíže k řece, opět by tedy zmizel zbytek atletického oválu. „K této hale lze přiřadit kabiny, tribunu i prostor pro lezeckou stěnu,“ stojí na webu města. V této variantě je navrženo o sto parkovacích míst méně než v první. 
 
 <img src="http://i.imgur.com/gbG2ezX.jpg" alt="varianta 3" class="img-responsive img-popup" data-author="AV atelier">
 
-### 3 Zbourat mlýn
+### 3. Zbourat mlýn
 
 Zbourat mlýn a postavit halu na odkoupeném pozemku je další nabízená varianta. Sportovní hala by ovšem byla menší než v předchozích dvou případech, měla by velikost 2460 metrů čtverečních. Nezasahovalo by se ovšem do žádných dalších sportovišť. „Parkování je navrženo podél příjezdové komunikace do areálu a kolem sportovní víceúčelové haly,“ konstatuje se na webu. Celkem je v celém sportovním areálu navrženo 177 parkovacích míst pro osobní automobily, 4 parkovací místa pro handicapované osoby a 3 parkovací místa pro autobusy.  
 
 <img src="http://i.imgur.com/qZ1St8F.jpg" alt="varianta 4" class="img-responsive img-popup" data-author="AV atelier">
 
-### 4 Mlýn nezbouráme
+### 4. Mlýn nezbouráme
 
 Čtvrtá varianta nabízí nejmenší halu – velikost 2300 metrů čtverečních. Vyrůst by totiž měla na odkoupeném pozemku od Jiřího Dvořáčka, přičemž mlýn by zůstal stát. Po úpravách by sloužil jako zázemí a třeba i pro ubytování nebo stravování sportovců. „Víceúčelová sportovní hala je dimenzována pro všechny typy míčových sportů, jako je tenis, volejbal, nohejbal, basketbal, florbal nebo házená,“ uklidňuje radnice možné obavy, že by se tam některé sporty nemohly hrát. 
 
