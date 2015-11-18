@@ -28,18 +28,25 @@
         "priority": 1000
     },
     {
+        "name": "Evangelické adventní koncerty",
+        "image": "http://i.imgur.com/ivwlbz9.png",
+        "alt": "Evangelické adventní koncerty každou neděli do Vánoc",
+        "url": "http://i.imgur.com/DshaCNW.png",
+        "priority": 1000
+    },
+    {
         "name": "Archiv: Solární elektrárna",
         "image": "http://i.imgur.com/bls0a2w.png",
         "alt": "Vybíráme z archivu: Příběh boskovické solární elektrárny",
         "url": "/clanky/2015/04/solarni-elektrarna.html",
-        "priority": 901
+        "priority": 900
     },
     {
         "name": "Archiv: Olešnice",
         "image": "http://i.imgur.com/lXCoVxq.png",
         "alt": "Vybíráme z archivu: Plánovaná asfaltka rozděluje Olešnické",
         "url": "/clanky/2015/03/olesnicka-asfaltka.html",
-        "priority": 901
+        "priority": 900
     },
     {
         "name": "Inzerujte u nás",
