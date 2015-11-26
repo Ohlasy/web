@@ -35,20 +35,6 @@
         "priority": 1000
     },
     {
-        "name": "Archiv: Solární elektrárna",
-        "image": "http://i.imgur.com/bls0a2w.png",
-        "alt": "Vybíráme z archivu: Příběh boskovické solární elektrárny",
-        "url": "/clanky/2015/04/solarni-elektrarna.html",
-        "priority": 900
-    },
-    {
-        "name": "Archiv: Olešnice",
-        "image": "http://i.imgur.com/lXCoVxq.png",
-        "alt": "Vybíráme z archivu: Plánovaná asfaltka rozděluje Olešnické",
-        "url": "/clanky/2015/03/olesnicka-asfaltka.html",
-        "priority": 900
-    },
-    {
         "name": "Inzerujte u nás",
         "image": "http://i.imgur.com/TYzRjZP.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
