@@ -1,5 +1,4 @@
 _site
-Gemfile.lock
 .analytics-*
 .bundle/
 vendor
