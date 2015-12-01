@@ -35,6 +35,13 @@
         "priority": 1000
     },
     {
+        "name": "Hotel Slavia",
+        "image": "http://i.imgur.com/RSnFPAt.jpg",
+        "alt": "Hotel Slavia: polední menu, víkendové speciality, salónky, živá hudba",
+        "url": "http://www.restaurace-boskovice.cz",
+        "priority": 1000
+    },
+    {
         "name": "Inzerujte u nás",
         "image": "http://i.imgur.com/TYzRjZP.png",
         "alt": "Inzerujte u nás! ohlasy@ohlasy.info",
