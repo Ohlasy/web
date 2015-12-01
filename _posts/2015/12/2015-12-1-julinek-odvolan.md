@@ -11,6 +11,8 @@ category: zpravodajství
 
 „Byla to účelová změna organizačního řádu, aby se mě mohli zbavit. Jakmile jsem se vrátil z měsíční dovolené, tak přidali na radu rychle bod a tam to odhlasovali,“ sdělil Tomáš Julínek. Důvod změny se nedozvěděl. „Starostka mi k tomu jen řekla, že tak rozhodla rada,“ dodal.
 
+Podle starostky a jednatelky nemocnice byla pozice ekonomicko-správního náměstka zbytečná. „Po svém nástupu do nemocnice jsem komunikovala přímo s ekonomkou a vedoucím správy budov, takže tato pozice mi přišla nadbytečná. Nemůžu za to, že byl pan Julínek měsíc na dovolené,“ vysvětlila starostka a dodala, že výpověď tedy dostal Tomáš Julínek z nadbytečnosti. „Do konce ledna je ještě pořád zaměstnancem nemocnice a pak dostane tříměsíční odstupné,“ doplnila. 
+
 Podobně jako při [odvolání jednatele nemocnice](/clanky/2015/10/navratil-odvolan.html) se při hlasování zdržel radní Pavel Schwarzer (ANO). „V obou případech jsem cítil, že nemám dostatek informací, abych mohl takovou věc rozhodnout,“ zdůvodnil radní svá hlasování.
 
 Jako jednoznačně účelovou změnu to vnímá bývalý starosta a v současnosti opoziční zastupitel Jaroslav Dohnálek (ODS). „Neumím si představit, že by jednatel byl natolik erudovaný v ekonomické oblasti, že by takového náměstka nepotřeboval. Předpokládám, že po ustavení nového jednatele se tato pozice bude znovu nějak obnovovat, což jen potvrdí tu účelovost,“ okomentoval Jaroslav Dohnálek zrušení pozice ekonomického náměstka.
