@@ -39,6 +39,8 @@ V úterý 8. prosince bude v rámci cyklu Toulky Českou republikou ve videosál
 
 Ve čtvrtek 17. prosince proběhne v Kafe za rohem vernisáž výstavy fotografií Gabriely Kolčavové. Výstava nese název Kamala, což je řeka v jihovýchodním Nepálu, a celý večer se ponese v nepálském duchu.
 
+Ve dnech 26., 27. a 28. prosince proběhnou na boskovickém zámku vánoční kostýmované prohlídky, program připravuje jako každoročně divadelní a šermířská společnost Gonfanon. Na zámku v Lysicích přivítají návštěvníky 25. a 31. prosince na mimořádných prohlídkách vánočně vyzdobených komnat a sálů.
+
 ### Ohlédnutí za listopadem
 
 Jedním z největších listopadových překvapení pro mě byla osobnost MC Vaanta, který vystoupil v rámci akce Suck My Disc na Sklepech. Jakkoli se MC Vaant nevěnuje punkové hudbě, sám se považuje za součást punkové scény. Punk totiž může vypadat i tak, že člověk v tričku The Beatles a s cigaretou v ruce svým zpěvem neuvěřitelně doplňuje složité junglové beaty a říká lidem věci, které dávají smysl.
