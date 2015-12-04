@@ -101,7 +101,7 @@ Myslím si, že ne. Kdybych to dělala častěji, asi bych do toho nedávala vš
 
 ### Není to suchopárný akademický Martinů
 
-**Dozvěděli jste se na soutěži jen výsledek nebo i nějaké konkrétní postřehy k vašemu projevu?**
+**Dozvěděli jste se na soutěži jen výsledek, nebo i nějaké konkrétní postřehy k vašemu projevu?**
 
 Něco nám říkali, hlavně protože se známe, předseda poroty byl Ivan Klánský z HAMU, kde jsem studovala. Mluvila jsem zběžně s ním a s paní Weiser, která mě učí teď na JAMU. Soutěž není zase tak hojně navštívená, tolik se o ní neví, ale říkali, že úroveň byla vysoká, byli spokojení. Potom se vyjadřovali lidé z Nadace, kteří byli na koncertě. To pro mě bylo zajímavé, protože oni mají s hudbou Bohuslava Martinů zkušenost, znají ji. Mluvili konkrétně o mé interpretaci Sonáty, jak se jim líbila, jak jim vyhovovala. Zrovna Sonáta se dá uchopit mnoha způsoby.
 
