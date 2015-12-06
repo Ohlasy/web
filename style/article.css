@@ -18,6 +18,10 @@ p {
     margin-left: 0;
 }
 
+h3 {
+    color: gray;
+}
+
 /* Images */
 
 .profile-picture {
