@@ -25,7 +25,7 @@ Především je potřeba říct, že na projektu se u žádné stavby nevyplatí
 
 Samozřejmě soutěž něco stojí, a to nejen odměny nejlepším soutěžícím a porotcům. Město se musí intenzivně zabývat přípravou, ale jen tak lze docílit kvalitního zadání a následně získat kvalitního projekčního partnera.
 
-Ptát se na přidanou hodnotu kvalitního architektonického díla je jako ptát se na to, co stojí kultura. Stavební kultura je součásti našeho dědictví a vývoje lidstva. Politická reprezentace, která se nesnaží o nejkvalitnější architekturu, nepochopila směřování člověka od jeskyně dál…
+Ptát se na přidanou hodnotu kvalitního architektonického díla je jako ptát se na to, co stojí kultura. Stavební kultura je součástí našeho dědictví a vývoje lidstva. Politická reprezentace, která se nesnaží o nejkvalitnější architekturu, nepochopila směřování člověka od jeskyně dál…
 
 **Je reálné, aby k architektonickým soutěžím přistupovaly i obce velikosti Boskovic u projektů za několik desítek milionů korun?**
 
