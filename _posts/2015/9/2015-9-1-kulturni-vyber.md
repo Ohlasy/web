@@ -1,6 +1,7 @@
 ---
 title: Gianniho kulturní výběr na září
 cover-photo: http://i.imgur.com/k3NJiFnl.jpg
+category: zpravodajství
 author: Jan Bařinka
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Lego je užitečným pomocníkem na programování, říká učitel Tomáš Vybíhal
 cover-photo: http://i.imgur.com/sCa7vI3l.jpg
+category: rozhovory
 author: Marek Osouch
 ---
 

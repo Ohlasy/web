@@ -1,6 +1,7 @@
 ---
 title: Gianniho kulturní výběr na srpen
 cover-photo: http://i.imgur.com/B88Kdifl.jpg
+category: zpravodajství
 author: Jan Bařinka
 ---
 
