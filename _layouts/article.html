@@ -29,7 +29,7 @@
                 <h2>O seriálu</h2>
                 {{ sidebar | markdownify }}
             </aside>
-            {% else %}
+            {% elsif page.disable-ads != true %}
             <aside class="col-md-4 hidden-sm hidden-xs">
                 <div class="box"></div>
                 <div class="box"></div>
@@ -60,4 +60,3 @@
     <script defer src="/lib/local/ad-rotate.js"></script>
 </body>
 </html>
-
