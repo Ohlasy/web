@@ -3,7 +3,6 @@ title: Jak kultura ostrouhala
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/8g3892gl.jpg
 category: názory a komentáře
-dummy: comment
 ---
 
 *Podoba a rozvržení městského rozpočtu odráží nejen ekonomickou realitu městských financí, ale také priority vládnoucí politické reprezentace. Krátký pohled na rozpočtovou kapitolu Kultura ve schváleném rozpočtu Boskovic na rok 2016 způsobí, že se kulturnímu člověku zachvěje půda pod nohama. Boskovická kultura totiž v rozpočtovém plánu pro příští rok takzvaně ostrouhala.*
