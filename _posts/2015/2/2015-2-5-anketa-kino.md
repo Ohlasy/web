@@ -9,7 +9,7 @@ excerpt: "U příležitosti vyhodnocení loňského roku v boskovickém kině j
 
 ---
 
-<img src="http://i.imgur.com/bxLvWqc.jpg" class="profile-picture" alt="David Tosim Čuřík">
+<img src="http://i.ohlasy.info/bxLvWqc.jpg" class="profile-picture" alt="David Tosim Čuřík">
 
 **David Tosim Čuřík, knihovník a aktivní uživatel serveru Česko-slovenské filmové databáze csfd.cz**
 
@@ -19,7 +19,7 @@ V minulém roce mě nejvíc zaujalo monstrum Godzilla, jakožto propojení nové
 
 ---
 
-<img src="http://i.imgur.com/AKFDOFW.jpg" class="profile-picture" alt="Ivet Juřeková">
+<img src="http://i.ohlasy.info/AKFDOFW.jpg" class="profile-picture" alt="Ivet Juřeková">
 
 **Ivet Juřeková, pedagožka a garantka projektu Film a škola na gymnáziu**
 
@@ -29,7 +29,7 @@ Do kina se z časových důvodů nedostanu tak často, jak bych si přála. Vid�
 
 ---
 
-<img src="http://i.imgur.com/hahFYDK.jpg" class="profile-picture" alt="Jan Bařinka">
+<img src="http://i.ohlasy.info/hahFYDK.jpg" class="profile-picture" alt="Jan Bařinka">
 
 **Jan Bařinka, odborný pracovník Ústavu pro jazyk český Akademie věd, estetik**
 
@@ -39,7 +39,7 @@ Za rok 2014 to byl především poslední film Magic in the Moonlight režiséra
 
 ---
 
-<img src="http://i.imgur.com/jquAMqA.jpg" class="profile-picture" alt="Kristýna Synková">
+<img src="http://i.ohlasy.info/jquAMqA.jpg" class="profile-picture" alt="Kristýna Synková">
 
 **Kristýna Synková, studentka gymnázia**
 

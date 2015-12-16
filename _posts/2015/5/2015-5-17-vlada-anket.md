@@ -1,13 +1,13 @@
 ---
 title: Nelze vládnout pomocí anket
 category: názory a komentáře
-cover-photo: http://i.imgur.com/GIpLAiHl.jpg
+cover-photo: http://i.ohlasy.info/GIpLAiHl.jpg
 author: Tomáš Trumpeš
 ---
 
 *Demokracie je složitá, pomalá, náročná a přitom nejlepší forma vládnutí a správy věcí veřejných. Jestli ji něco ohrožuje, pak je to často dojem, že problémy by šly rozhodovat snadno, efektivně, bez zbytečných řečí a bez zbytečné námahy. Cílem demokracie totiž není hledat a nacházet snadná a efektivní řešení, ale řešení moudrá, konsenzuální a také ohleduplná.*
 
-<img src="http://i.imgur.com/GIpLAiH.jpg" alt="fórum projektu Zdravé město" class="img-responsive">
+<img src="http://i.ohlasy.info/GIpLAiH.jpg" alt="fórum projektu Zdravé město" class="img-responsive">
 
 Způsobů, jak se kvalifikovaných řešení dobrat, je rovněž mnoho. A právě proto, že cesta k cíli je tak složitá, lze jí těžko dosáhnout jen pomocí jednoho nástroje. Od politiků proto musíme chtít, aby si tuto pestrost potřeb a ohledů, stejně jako nutnost užití celé škály nástrojů na cestě k dobrým rozhodnutím uvědomovali. Spoléhat se až příliš na jeden z nich je nebezpečné, a to právě proto, že to může vypadat jednoduše a efektivně.
 

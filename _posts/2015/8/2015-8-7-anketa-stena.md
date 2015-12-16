@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Chcete lezeckou stěnu na letním kině?"
 category: ankety
-cover-photo: http://i.imgur.com/FnXSulol.jpg
+cover-photo: http://i.ohlasy.info/FnXSulol.jpg
 author: Tomáš Trumpeš
 ---
 
@@ -10,7 +10,7 @@ Petici na podporu lezecké stěny na zadní stěně letního kina podepsalo celk
 
 ---
 
-<img src="http://i.imgur.com/kcshgHa.jpg" class="profile-picture" alt="Petr Malach">
+<img src="http://i.ohlasy.info/kcshgHa.jpg" class="profile-picture" alt="Petr Malach">
 
 ***Petr Malach, místostarosta Boskovic***
 
@@ -18,7 +18,7 @@ Ano, 300 občanů města Boskovice není málo, ale není to taky moc. Pokud si 
 
 ---
 
-<img src="http://i.imgur.com/GbNAbLa.jpg" class="profile-picture" alt="Jiří Pevný">
+<img src="http://i.ohlasy.info/GbNAbLa.jpg" class="profile-picture" alt="Jiří Pevný">
 
 ***Jiří Pevný, zastupitel za Sportovce***
 
@@ -26,7 +26,7 @@ Jako velmi pozitivní beru skutečnost, kolik lidí svým podpisem zareagovalo n
 
 ---
 
-<img src="http://i.imgur.com/x5AFgXm.jpg" class="profile-picture" alt="Sáša Živná">
+<img src="http://i.ohlasy.info/x5AFgXm.jpg" class="profile-picture" alt="Sáša Živná">
 
 ***Sáša Živná, učitelka TV na gymnáziu, zastupitelka za ANO***
 
@@ -38,7 +38,7 @@ Projekt samozřejmě podporovat budu. Do Boskovic by se nalákalo veliké množs
 
 ---
 
-<img src="http://i.imgur.com/8tELAVA.jpg" class="profile-picture" alt="Oldřich Kovář">
+<img src="http://i.ohlasy.info/8tELAVA.jpg" class="profile-picture" alt="Oldřich Kovář">
 
 ***Oldřich Kovář, ředitel KZMB***
 

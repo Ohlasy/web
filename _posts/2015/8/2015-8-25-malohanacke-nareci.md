@@ -1,7 +1,7 @@
 ---
 title: "Rendez-vous s jazykem: Nářečí malohanácké, horácké a horské"
 category: seriály
-cover-photo: http://i.imgur.com/iLxL9NT.png
+cover-photo: http://i.ohlasy.info/iLxL9NT.png
 serial: jazyk
 author: Vít Boček
 ---
@@ -19,7 +19,7 @@ B: Franta nebo Jozef.*
 
 *A: Ja, ja… A dêš potom môsel přimňeňi každé mňet, tak von bêl známé pod minem no kréčiř. Ôž dêš šêl. Tak to mô zvostalo a dostál v Novičó pocedek. Dêš potom se zakládalê tê pocetkê, tam von jé takê dostál. No bêl tam prosťe ôčedňik, ďefčat prosťe nebêlo. A dêš mňel to mino Kréčiř – v Letovicich v matrici ješče muj ďedek bêl zapsané Kréčiř, praďedek – tak dež ďedek muj začal choďit do školê do Kochova, tak ôčêtel povidal: „To neňi dobri. Tê seš Krejčiř. Bôješ môset mňet to jé.“ A tak jôš ten ďedek se psál potom s tém jé a jôš nám to zvostalo.*
 
-<img src="http://i.imgur.com/iLxL9NT.png" alt="Otýn Břeněk" class="img-responsive">
+<img src="http://i.ohlasy.info/iLxL9NT.png" alt="Otýn Břeněk" class="img-responsive">
 
 Malohanácké nářečí se dostalo také do beletrie, a to zásluhou spisovatele a novináře Otýna Břeňka (1870–1926), rodáka z Vanovic. Ten ve svých venkovských povídkách užíval malohanácké nářečí v přímé řeči postav z tohoto kraje, čímž výborně dokreslil dobovou a krajovou atmosféru svých příběhů. Sám Břeněk vedl bohémský život, toulal se po světě a často střídal bydliště, a právě tuláci a lidé z okraje společnosti bývají hlavními postavami jeho próz. Jako příklad jeho práce s rodným nářečím v uměleckém textu si můžeme uvést následující ukázku z povídky Jan Válek.
 

@@ -1,13 +1,13 @@
 ---
 title: Boskovická opozice volá po dostavbě haly, zaznívá i hrozba žalobou
 category: zpravodajství
-cover-photo: http://i.imgur.com/VHI6ygol.jpg
+cover-photo: http://i.ohlasy.info/VHI6ygol.jpg
 author: Tomáš Trumpeš
 ---
 
 *Boskovická opozice vytáhla do závěrečného boje za dostavbu haly na Slovákově ulici. Finální rozhodnutí, zda se ve stavbě bude pokračovat, má padnout na zastupitelstvu 23. června. Opoziční zastupitelé z řad ODS, TOP 09 a sdružení Sportovců spojili své síly a vydali prohlášení, ve kterém volají po tom, aby zastupitelé posvětili pokračování stavby.*
 
-<img src="http://i.imgur.com/VHI6ygo.jpg" alt="staveniště na Slovákově" class="img-responsive">
+<img src="http://i.ohlasy.info/VHI6ygo.jpg" alt="staveniště na Slovákově" class="img-responsive">
 
 Prohlášení zčásti rekapituluje vývoj celé stavby a shrnuje argumenty, které – podobně jako argumenty stojící proti dostavbě – zazněly už mnohokrát. Výsledky podrobnějšího geologického průzkumu od opozičních politiků čekat asi nemůžeme. A politické argumenty pro dostavbu haly jsou nasnadě, je to především zdržení celého projektu v případě, že by se hala měla stavět jinde, a samozřejmě finanční ztráty spojené s dosavadními náklady a případným ukončením stavby. Vedle toho však strany dnešní opozice, tedy bývalé koalice, která stavbu zahájila, přicházejí s argumentačním arzenálem poněkud těžšího kalibru. „V případě zrušení stavby by mohla být podána žaloba na nehospodárné nakládání s finančními prostředky města,“ píše se v prohlášení opozice.
 

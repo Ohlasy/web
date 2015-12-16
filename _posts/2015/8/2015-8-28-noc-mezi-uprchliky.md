@@ -1,13 +1,13 @@
 ---
 title: Boskovičtí cestovatelé nocovali v Budapešti mezi uprchlíky
 category: rozhovory
-cover-photo: http://i.imgur.com/wjoZCiN.jpg
+cover-photo: http://i.ohlasy.info/wjoZCiN.jpg
 author: Tomáš Trumpeš
 ---
 
 *Skupina šesti mladých lidí z Boskovic, Skalice nad Svitavou a Kunštátu se vydala na prázdninovou cestu do Banátu. Souhrou okolností museli první noc neplánovaně strávit v Budapešti, kde nakonec přespali v parku, ve kterém mají své nocležiště lidé utíkající do Evropy. O této drobné, ale přesto cenné osobní zkušenosti s uprchlíky jsme si povídali s Ludmilou Odehnalovou, Radkem Šamšulou, Petrem Pavlem, Eliškou Toufarovou a Viktorií Odehnalovou, které na cestě doprovázel ještě Vojtěch Pikart.*
 
-<img src="http://i.imgur.com/wjoZCiN.jpg" alt="nádraží s uprchlíky" class="img-responsive">
+<img src="http://i.ohlasy.info/wjoZCiN.jpg" alt="nádraží s uprchlíky" class="img-responsive">
 
 **Jaký byl plán a cíl vaší cesty?**
 

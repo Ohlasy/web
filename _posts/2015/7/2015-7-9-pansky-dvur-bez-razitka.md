@@ -1,19 +1,19 @@
 ---
 title: Úřad neschválil rekonstrukci Panského dvora, přestože památkáři souhlasili
 category: zpravodajství
-cover-photo: http://i.imgur.com/dMaTJJEl.jpg
+cover-photo: http://i.ohlasy.info/dMaTJJEl.jpg
 author: Tomáš Trumpeš
 ---
 
 *Svéhlavé rozhodnutí boskovického úřadu, nebo selhání odborníků z Památkového ústavu? To jsou dva úhly pohledu na velmi neobvyklou situaci, která nastala při schvalování rekonstrukce památkově chráněného Panského dvora na Hradní ulici v Boskovicích. Projekt rekonstrukce, jak jej představil jednatel společnosti Pražská 5, která objekt vlastní, totiž získal podporu brněnských památkářů, ale nezbytné souhlasné stanovisko mu odmítla udělit boskovická referentka památkové péče Alena Dvořáková. Oba úřady postupují obvykle ve shodě, kterou se snaží najít i s investorem. To se nyní nestalo a mezi odborníky naopak padají poměrně ostrá prohlášení.*
 
-<img src="http://i.imgur.com/dMaTJJE.jpg" alt="vnitřní část Panského dvora" class="img-responsive">
+<img src="http://i.ohlasy.info/dMaTJJE.jpg" alt="vnitřní část Panského dvora" class="img-responsive">
 
 Obnova objektu Panský dvůr podle architektonické studie vypracované architektem Jiřím Soukupem ze společnosti [Studio Anarchitekt](http://www.anarchitekt.cz/) je nepřípustná – tak se dá stručně shrnout stanovisko Aleny Dvořákové, odpovědné úřední osoby pro výkon státní správy státní památkové péče MěÚ Boskovice. Bez jejího souhlasného stanoviska ovšem stavební úřad nemůže vydat stavební povolení. Odůvodnění poměrně netradičního rozhodnutí je obsáhlé a vyplývá z něj, že úhelným kamenem negativního stanoviska je především úprava a prosvětlení střech na třech křídlech čtvercové budovy Panského dvora. 
 
 „Z vnitřní strany dvora vznikne pavlač, střecha se na třech křídlech mírně zvedne, a to vytvoří prostor pro okno a vstup denního světla,“ [popsal již před časem pro Ohlasy](/clanky/2015/03/rekonstrukce-panskeho-dvora.html) rekonstrukci jednatel firmy Pražská 5 Luděk Řehoř s tím, že podmínkou památkářů je, aby se zachovalo jedno křídlo střechy ve stávající podobě, a zároveň zůstane zachována výška hřebene a z vnější strany objektu se pohled na střechu prakticky nezmění.
 
-<img src="http://i.imgur.com/EDKgSAf.jpg" alt="vizualizace navrhované podoby Panského dvora" class="img-responsive">
+<img src="http://i.ohlasy.info/EDKgSAf.jpg" alt="vizualizace navrhované podoby Panského dvora" class="img-responsive">
 
 Brněnským památkářům tento výsledek připadal jako vyhovující, pod souhlasným posudkem je podepsán přímo ředitel brněnského Památkového ústavu Zdeněk Vácha. „Na základě vlastních zjištění a po nastudování dostupných podkladů konstatujeme, že navržené změny funkčního uspořádání a architektonické řešení z hlediska zájmů státní památkové péče lze akceptovat,“ píše se ve stanovisku, které rovněž konstatuje, že objekt v posledních letech chátral a jeho revitalizace je vítaná. Stanovisko brněnských památkářů je podkladem právě pro rozhodnutí odpovědné úřední osoby pro výkon státní správy státní památkové péče. 
 
@@ -25,7 +25,7 @@ Právě o názor velké autority památkové péče a doyena brněnské kunsthis
 
 Nesouhlasí ani s věcným postupem a způsobem odůvodnění, tedy odvoláním se na obecnou celorepublikovou metodiku z roku 1990. Památky je podle něj třeba posuzovat individuálně, přemýšlet o jejich dalším využití a umístěním v okolí. „My památky opravujeme po celé republice, přístup je vždy individuální, proto se k tomu zvou odborníci a probíhá diskuse. Té se ovšem paní Dvořáková neúčastnila,“ dodal architekt Jiří Soukup.
 
-<img src="http://i.imgur.com/9w8hfI6.jpg" alt="vizualizace navrhované podoby Panského dvora" class="img-responsive">
+<img src="http://i.ohlasy.info/9w8hfI6.jpg" alt="vizualizace navrhované podoby Panského dvora" class="img-responsive">
 
 Zamítavé rozhodnutí se mimo jiné opírá i o závěry Stavebně historického posouzení, které vypracoval odborník na památky Martin Čihalík. Ten konstatoval, že objekt vyžaduje komplexní stavební rekonstrukci a že jejím zásadním parametrem by mělo být respektování konstrukcí, které tvoří historickou podstatu stavby a jsou jednoznačně spjaty se vznikem objektu. Rozsáhlé prostory krovů podle něj nabízejí moderní využití a rozšíření kapacity celého objektu, avšak provedení je ovšem nutné realizovat v takové formě, která by minimalizovala narušení původních konstrukcí a která by se uplatňovala jen omezeně, například v nádvoří. Návrhem se zabývala také boskovická památková komise, která je však pouze poradním orgánem rady. I ta vyjádřila s projektem svůj nesouhlas.
 

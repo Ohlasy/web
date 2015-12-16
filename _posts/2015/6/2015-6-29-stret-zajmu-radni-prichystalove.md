@@ -1,13 +1,13 @@
 ---
 title: Radní Přichystalová se ve střetu zájmů kvůli soudnímu sporu s nemocnicí necítí
 category: zpravodajství
-cover-photo: http://i.imgur.com/u6Q6NYv.jpg
+cover-photo: http://i.ohlasy.info/u6Q6NYv.jpg
 author: Marek Osouch
 ---
 
 *Od začátku fungování současné koalice provází každé jednání zastupitelstva otázka z řad opozice na možný střet zájmů radní Martiny Přichystalové. Ta se totiž od roku 2011 soudí s nemocnicí pro nerovné odměňování mužů a žen, které podle svých dřívějších slov sama pocítila. Zvolením do městské rady se bývalá primářka dětského oddělení zároveň stala členkou valné hromady, tedy hlavního řídicího orgánu boskovické nemocnice.*
 
-<img src="http://i.imgur.com/u6Q6NYv.jpg" alt="nemocnice" class="img-responsive">
+<img src="http://i.ohlasy.info/u6Q6NYv.jpg" alt="nemocnice" class="img-responsive">
 
 „Tento takzvaný střet zájmů jsem konzultovala se svými právníky ještě před tím, než jsem vůbec šla do rady. Dozvěděla jsem se, že mi kvůli soudu jako radní nebude plynout žádná výhoda ani možnost nějakých osobních benefitů. V žádném střetu zájmů tedy nejsem,“ uvedla Martina Přichystalová, která v komunálních volbách kandidovala za hnutí ANO, jehož celostátní předseda Andrej Babiš musí také neustále čelit výtkám ze střetu zájmů. „Já mám střet zájmů každé ráno hned, když vstanu,“ glosoval několikrát v médiích tuto otázku. Zde se však jedná o trochu jiný střet zájmů, neboť radní je s městskou nemocnicí v soudním sporu, nikoliv v obchodním vztahu.
 

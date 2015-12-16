@@ -1,13 +1,13 @@
 ---
 title: I pouhé gesto má svůj hluboký smysl
-cover-photo: http://i.imgur.com/tpSybPDl.png
+cover-photo: http://i.ohlasy.info/tpSybPDl.png
 category: názory a komentáře
 author: Tomáš Trumpeš
 ---
 
 *Je to už na světě asi tak zařízeno, aby každá radost musela být něčím zkalena. Radost mi udělalo nové boskovické zastupitelstvo, [které se rozhodlo připojit se k mezinárodní akci Vlajka pro Tibet](/clanky/2015/02/vlajka-pro-tibet.html). Kal ode dna se rozvířil během diskuse, která tomuto rozhodnutí předcházela.*
 
-<img src="http://i.imgur.com/tpSybPD.png" alt="tibetská vlajka" class="img-responsive">
+<img src="http://i.ohlasy.info/tpSybPD.png" alt="tibetská vlajka" class="img-responsive">
 
 Vlajka pro Tibet je výrazem naší solidarity, prohlásil stručně místostarosta Petr Malach. A našeho soucitu, dodal bych. Osud tibetské kultury už totiž nejspíš nezměníme. 
 

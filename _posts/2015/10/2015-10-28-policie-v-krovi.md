@@ -1,13 +1,13 @@
 ---
 title: Dopravní policisté popírají, že by číhali v keřích na pokuty
-cover-photo: http://i.imgur.com/GfCZhR3.jpg
+cover-photo: http://i.ohlasy.info/GfCZhR3.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 ---
 
 *Poněkud kontroverzní fotografie dokumentující práci dopravní police se objevily minulý pátek dopoledne na sociální síti Facebook. Jejich autor zachytil policisty v pozici, která podle názoru diskutujících příliš neodpovídá skutečnému poslání policie. Muži v uniformách se na nich u nemocnice skrývají v keři blízko přechodu pro chodce, který je však z důvodu rekonstrukčních prací zakázáno používat. Skrývají se, aby nachytali ty, kteří přechod použijí, místo aby šli o kus dál k přechodu provizornímu. Policisté tento postup ale popírají.*
 
-<img src="http://i.imgur.com/GfCZhR3.jpg" alt="policisté číhající v křoví" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/GfCZhR3.jpg" alt="policisté číhající v křoví" class="img-responsive img-popup">
 
 „Lidé jsou zmatení a neví, kde mají přejít. Místo aby tam policisté stáli a informovali je, že přechod je o kus dál, tak se schovávají do keřů a kasírují,“ zaznělo v diskusi na internetu. Další fotografie zachycuje policisty, kteří se dočkali a zasahují proti přecházející ženě. Paradoxní je na celé věci navíc to, že v pátek žádné práce na místě neprobíhaly.
 
@@ -15,7 +15,7 @@ Diskutující na Facebooku nebyli pochopitelně schopni rozlišit, o jaké polic
 
 Také podle Alice Musilové z oddělení tisku a prevence Policie České republiky kontaktovala firma, která provádí opravy, blanenskou policii s tím, že na místě dochází k situaci, kdy lidé ignorují dopravní značení. Pro větší bezpečnost bylo proto dopravní značení doplněno mobilními zábranami, které však lidé včetně seniorů a maminek s kočárky nadále ignorovali a tyto zábrany překračovali a různě překonávali. „Někteří lidé dle našich informací ignorovali i pracovníky firmy, kteří zde provádí práce a upozorňovali je na zákaz, a masově přelézali zábrany. Docházelo tak k situacím, kdy lidé ignorující dopravní značení směřovali prakticky do výkopu. Určitá pravidla musí dodržovat i chodci, a pokud je někde umístěna dopravní značka zakazující vstup chodců, jde o místa, kde je vstup pro chodce nebezpečný,“ popsala Alice Musilová.
 
-<img src="http://i.imgur.com/Oq7yfid.jpg" alt="dopravní policista na přechodu" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/Oq7yfid.jpg" alt="dopravní policista na přechodu" class="img-responsive img-popup">
 
 Dopravní policisté podle ní prováděli na tento podnět v daném místě kontrolu jak v civilním oblečení, tak v uniformě, kdy upozorňovali chodce na tuto situaci. „Jistě ale chápete, že pokud nestačí domluva, musí nastoupit represe a nelze dokola někoho upozorňovat, proto policisté řešili situaci udělováním pokut. Policisté vykonávali dohled jak u přechodu, tak ve větší vzdálenosti,“ vysvětlila policistka. Podle šéfa boskovických strážníků Davida Krátkého je však místo problematické i tím, že se zde vzhledem k jeho charakteru pohybují neustále noví lidé. Stupňování represe tedy v tomto ohledu nemůže přinést kýžený efekt.
 

@@ -1,13 +1,13 @@
 ---
 title: "Policie uzavřela kauzu ztracených obrazů jako přestupek. Absurdní, hodnotí závěr odbornice"
 category: zpravodajství
-cover-photo: http://i.imgur.com/47aOOSKl.jpg
+cover-photo: http://i.ohlasy.info/47aOOSKl.jpg
 author: Tomáš Trumpeš
 ---
 
 *Ztracené obrazy boskovické rodačky Vlasty Vostřebalové Fischerové se staly nejprve předmětem zájmu kunsthistoriček, které připravovaly malířce výstavu v Brně, posléze se pátrání ujala policie. Ta nakonec případ uzavřela jako přestupek, protože podle odborného posouzení cena obrazů nepřesahuje 5 tisíc korun.*
 
-<img src="http://i.imgur.com/47aOOSK.jpg" alt="obraz Kůň od cirkusu" class="img-responsive">
+<img src="http://i.ohlasy.info/47aOOSK.jpg" alt="obraz Kůň od cirkusu" class="img-responsive">
 
 Jedna z autorek výstavy Vlasty Vostřebalové Fischerové to označuje za absurdní, hodnota jednotlivých obrazů je podle ní v řádu statisíců korun, jiné olejomalby malířky jsou ceněny až na milionové částky. Boskovické obrazy koupila v osmdesátých letech Galerie Sdruženého klubu pracujících, ztratily se pravděpodobně již před 16 lety při vzniku Kulturních zařízení města Boskovice a stěhování kulturního střediska ze sokolovny. Až do nedávna je však nikdo nepostrádal.
 

@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Jarní louky Drahanské vrchoviny"
-cover-photo: http://i.imgur.com/xnKyfFCl.jpg
+cover-photo: http://i.ohlasy.info/xnKyfFCl.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa
@@ -8,7 +8,7 @@ author: Hynek Skořepa
 
 *Dlouho jsem marně přemýšlel, kterému kousku krajiny mám věnovat své povídání chystané na konec května. Vždyť květen patří k nejkrásnějším měsícům roku a otevírá cestu dlouhým putováním. Jak se dny prodlužují, chladu a tmy ubývá, vše kolem zve člověka k jarním cestám. Jen některé podzimní dny se těm květnovým vyrovnají. Tehdy je však již cítit studený dech blížící se zimy a v barevných podzimních lesích padá na poutníka úzkost, úzkost z chladu, zmaru a smrti.*
 
-<img src="http://i.imgur.com/xnKyfFC.jpg" alt="louka" class="img-responsive">
+<img src="http://i.ohlasy.info/xnKyfFC.jpg" alt="louka" class="img-responsive">
 
 Zato v květnových dnech přepadají člověka jarní touhy. Všeho nechat, rozběhnout se do kopců, letět s ptáky do oblak. Ne nadarmo začíná Miloslav Nevrlý svoji Knihu o Jizerských horách právě měsícem květnem, který je pro něj „měsícem probuzení“. Mimo jiné píše:
 
@@ -20,13 +20,13 @@ Louky ve střední Evropě vznikly jako „náhradní vegetace“ (tento botanic
 
 Kolektivizace a intenzifikace zemědělství po druhé světové válce však loukám nepřály a příliš jim nepřeje ani doba dnešní. Za socialismu byly louky rozorávány a měnily se v pole, dnes mnohé z nich, nekoseny, zarůstají stařinou a křovím, v některých případech jsou uměle zalesňovány.
 
-<img src="http://i.imgur.com/5afuv7P.jpg" alt="prstnatec májový" class="img-responsive">
+<img src="http://i.ohlasy.info/5afuv7P.jpg" alt="prstnatec májový" class="img-responsive">
 
 I když mají své nejlepší časy dávno za sebou, pořád zbývá v našem kraji ještě hodně krásných luk. Nedokážu vybrat jednu lokalitu, budu proto psát o všech takových loukách v okolí Němčic, Žďárné, Protivanova, Bukové či Horního Štěpánova. Když během května pomalu mizí pryskyřníková žluť, kterou narušuje kvetoucí bledě modrá řeřišnice luční a fialová barva prstnatců májových – lučních vstavačů s typicky skvrnitými listy, nabírají vlhké louky červenofialový nádech kohoutků, doplňovaných tmavě fialovými hlavičkami chráněných zvonečníků hlavatých. Na střídavě vlhkých loukách s kolísající hladinou spodní vody se začátkem prázdnin objeví štíhlé mečíky střechovité, doprovázené rdesnem hadím kořenem a bělavým svízelem severním. Do toho jsou pak po celou dobu namíchány různé trávy krásných jmen – tomka vonná, psárka, kostřava, třeslice či bojínek. Když trávy kvetou, správně metají, vznáší se nad loukami mračna pylu.
 
 V té době však by už měly být louky pomalu sečeny. Pořekadlo starých zkušených hospodářů přece znělo: „Louku seč, když je ti jí nejvíc líto.“ Seno z příliš pozdě sečených luk už nemá tu správnou výživovou hodnotu. Po více let nesečené louky pak ve středoevropských podmínkách zarůstají dřevinami a mění se posléze v les.
 
-<img src="http://i.imgur.com/rweJU0l.jpg" alt="upolín nejvyšší" class="img-responsive">
+<img src="http://i.ohlasy.info/rweJU0l.jpg" alt="upolín nejvyšší" class="img-responsive">
 
 Na vlhkých loukách a ve světlejších mokřadních lesích roste také jedna zajímavá rostlina, připomínající svými listy mohutnou trávu – skřípina lesní.  Vysoká, ale pozornosti často unikající skřípina, však trávou není. Botanici podobným rostlinám (například ostřicím), které se svým vzhledem za trávy schovávají, říkají „rostliny trávovitého vzhledu“. Když slavný švédský botanik Carl Linné v 18. století vymýšlel pro živé organismy všeobecně srozumitelné (tedy jednotné) názvosloví, přiřadil každé jemu známé rostlině či každému zvířeti dvojslovný název, skládající se ze jména rodového a druhového. Během svého plodného života popsal a pojmenoval několik tisíc druhů rostlin a zvířat. Od té doby přírodovědci používají tzv. binomické (dvouslovné) názvosloví, vzniklé kombinací řečtiny a latiny. Díky tomu se mezi sebou domluví odborníci z různých koutů světa. Před tím, než Linné vymyslel základy třídění organismů, nejen v každé zemi, ale dokonce i v každém regionu, používali lidé pro zvířata a rostliny místní lidové názvy. Ty se od sebe kraj od kraje často velmi lišily. Leckdy tak nejsou k použití několik staletí staré bylináře se svými léčebnými recepty, protože se mnohdy vlastně neví, kterou rostlinu měli dávní léčitelé na mysli.
 
@@ -34,7 +34,7 @@ U nás na Moravě se pak lidové názvy rostlin, nejenom těch lučních, udrže
 
 Koncem srpna nastává na loukách čas druhé seče – tzv. otav. V té době bývalo za starých časů možné na loukách spatřit bekasinu, otavní sluku. To je však už dávno. Jen jednou se mi ji před lety podařilo zahlédnout u Horního Štěpánova. Nádherný pták s dlouhým zobákem mi vyletěl zpod nohou. Druhého jsem už, aspoň zatím, nikdy nespatřil.
 
-<img src="http://i.imgur.com/EaMIlC3.jpg" alt="zvonečník hlavatý" class="img-responsive">
+<img src="http://i.ohlasy.info/EaMIlC3.jpg" alt="zvonečník hlavatý" class="img-responsive">
 
 A za všechnu tu nádheru, nepřeberné množství zvířat a hlavně rostlin (těch na loukách roste mnohem víc než v lesích), vděčíme tomu, že naši předkové kdysi vyklučili les. Většinou proto, aby na jeho místě mohli obdělat svá malá políčka. Někde však nechali přírodě volnou ruku a ta „namíchala“ druhově bohaté louky. Některé lidské zásahy tedy v minulosti přispěly k rozhojnění druhového bohatství naší přírody. Dnes to bohatství už většinou jen ztrácíme, někdy jím přímo mrháme. Až přijdou horší časy a mnozí z nás nejspíš budou třít bídu s nouzí, jak to dělali naši dědové a pradědové, možná si zase začneme luk víc vážit. Jen aby nám do té doby ještě nějaké vydržely. Proto svoje vyprávění zakončím slovy, kterými jsem před pár lety uzavíral jednu z kapitol své knížky Přírodní skvosty Prostějovska: 
 

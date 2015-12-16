@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Bezdomovci v Boskovicích"
-cover-photo: http://i.imgur.com/oDas2l4l.jpg
+cover-photo: http://i.ohlasy.info/oDas2l4l.jpg
 category: ankety
 author: Tomáš Trumpeš
 ---
@@ -9,7 +9,7 @@ author: Tomáš Trumpeš
 
 ---
 
-<img src="http://i.imgur.com/ot0sGjI.jpg" class="profile-picture" alt="Hana Nedomová">
+<img src="http://i.ohlasy.info/ot0sGjI.jpg" class="profile-picture" alt="Hana Nedomová">
 
 **Hana Nedomová, starostka Boskovic**
 
@@ -19,7 +19,7 @@ V současné době spolupráce výše uvedených subjektů funguje, představuje
 
 ---
 
-<img src="http://i.imgur.com/zsabqIe.jpg" class="profile-picture" alt="Kamila Kavanová">
+<img src="http://i.ohlasy.info/zsabqIe.jpg" class="profile-picture" alt="Kamila Kavanová">
 
 **Kamila Kavanová, sociální kurátorka pro bezdomovce v Brně, žije v Boskovicích**
 
@@ -30,7 +30,7 @@ Zda bezdomovcům pomoci, či je represivně umravnit? To je otázka pro mě jasn
 
 ---
 
-<img src="http://i.imgur.com/2wBDOdN.jpg" class="profile-picture" alt="František Kratochvil">
+<img src="http://i.ohlasy.info/2wBDOdN.jpg" class="profile-picture" alt="František Kratochvil">
 
 **František Kratochvil, vedoucího Nízkoprahového denního centra v Blansku**
 
@@ -39,7 +39,7 @@ Represivní opatření problematiku neřeší, na místě jsou spíše preventiv
 
 ---
 
-<img src="http://i.imgur.com/hw8Op39.jpg" class="profile-picture" alt="David Krátký">
+<img src="http://i.ohlasy.info/hw8Op39.jpg" class="profile-picture" alt="David Krátký">
 
 **David Krátký, ředitel Městské police v Boskovicích**
 

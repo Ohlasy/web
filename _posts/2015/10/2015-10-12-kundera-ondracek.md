@@ -1,13 +1,13 @@
 ---
 title: „Laskavý přítel, který byl výborný ve všem, co začal,“ vzpomíná na Ludvíka Kunderu výtvarník Vít Ondráček
-cover-photo: http://i.imgur.com/gPymNoml.jpg
+cover-photo: http://i.ohlasy.info/gPymNoml.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 ---
 
 *Kunštátský výtvarník Vít Ondráček byl v posledních letech života mnohostranného literáta Ludvíka Kundery jeho blízkým přítelem. V Kunštátě bydleli kousek od sebe a spojovalo je mnohé. U příležitosti výročí 95 let od narození této významné osobnosti české kultury jsme proto s Vítkem mluvili právě o jeho vzpomínkách na pana Ludvíka. Připomenutí Ludvíka Kundery, s Kunštátem a s Františkem Halasem neodmyslitelně spjatého, je věnován i letošní Halasův Kunštát. Právě Vít Ondráček připravil dramatický text, který zde provede v rámci večerního kulturního programu divadlo NABOSO.*
 
-<img src="http://i.imgur.com/xb4wTRO.jpg" alt="Ludvík Kundera s Janou a Vítkem Ondráčkovými na jejich svatbě" class="img-responsive img-popup" data-author="Bohdan Holomíček">
+<img src="http://i.ohlasy.info/xb4wTRO.jpg" alt="Ludvík Kundera s Janou a Vítkem Ondráčkovými na jejich svatbě" class="img-responsive img-popup" data-author="Bohdan Holomíček">
 
 **Vítku, vzpomeneš si, kdys poprvé uslyšel jméno Ludvík Kundera a v jaké souvislosti?**
 
@@ -53,7 +53,7 @@ Nevím, jestli to bral jako satisfakci, to slovo by se mu asi nelíbilo. Ale rad
 
 Laskavý. A ačkoliv o sobě prohlašoval, že neumí vyprávět, měl skvělý smysl pro humor a nesmál se svým vtipům. 
 
-<img src="http://i.imgur.com/vZUfPxk.jpg" alt="Kundera s Ondráčkem na Řípu" class="img-responsive img-popup img-framed" data-author="Jana Ondráčková">
+<img src="http://i.ohlasy.info/vZUfPxk.jpg" alt="Kundera s Ondráčkem na Řípu" class="img-responsive img-popup img-framed" data-author="Jana Ondráčková">
 
 **Co ti ho dnes nejvíc přibližuje a připomíná?**
 

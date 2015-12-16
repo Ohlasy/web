@@ -1,12 +1,12 @@
 ---
 title: "70 let od osvobození: Němci chtěli v Boskovicích postupujícím sovětským jednotkám odolávat, ale nakonec před nimi prchali na západ"
-cover-photo: http://i.imgur.com/TQN4SnA.jpg
+cover-photo: http://i.ohlasy.info/TQN4SnA.jpg
 author: Marek Osouch
 ---
 
 *Okupované Boskovice byly pod nadvládou Němců až do samého konce války. Němci vybudovali z Boskovic protiletadlovou základnu, navozili do Boskovic munici a zatarasili silnice. Za pár měsíců ale vše odváželi a sami před sovětskými jednotkami prchali na západ. Z posledních dnů války se dochovaly fotografie, které jsou součástí sbírek Muzea Boskovicka a doprovází i tento článek. Zachycují ústup německé a příchod ruské armády.*
 
-<img src="http://i.imgur.com/TQN4SnA.jpg" alt="ruští vojáci na boskovickém náměstí" class="img-responsive">
+<img src="http://i.ohlasy.info/TQN4SnA.jpg" alt="ruští vojáci na boskovickém náměstí" class="img-responsive">
 
 „Tento rok začínal novými radostnějšími nadějemi, že bude učiněn konec německé násilnické nadvládě a že budou spojenci vyhnáni samozvaní krvelační naši ochránci,“ začíná zápis v boskovické kronice z roku 1945. Němci ale hned z Boskovic neustupovali. Naopak začali dovážet do Boskovic munici, kterou ukládali podél silnice do Hrádkova. Do Pilského údolí navozili sudy s benzinem. Na silnicích se stavěly obranné zátarasy.
 
@@ -14,7 +14,7 @@ V únoru do Boskovic začali od východu přijíždět Němci ze Slezska. Brzy n
 
 Od druhé poloviny března se začaly množit nálety sovětských letadel. „Sirény ohlašovaly několikrát za den nepřátelské nálety, často bylo slyšet dunivé rány v dálce dopadajících bomb,“ píše se v kronice. Druhého dubna letadla shodila bomby na železniční nádraží ve Skalici. Koncem dubna ohlásila siréna další letecký nálet. „Bomby dopadly na starý hřbitov a poškodily několik pomníků. Jiné bomby poškodily domy v Havlíčkově ulici. Dva dny poté shodila letadla pumy v okolí okresního úřadu, kde největší z nich vytvořila v nedaleké zahradě kráter 1,5 m hluboký a vyrvala dva stromy. Okna v budově okresního úřadu i v domech u evangelického kostela byla rozbita. K dalšímu náletu došlo 30. dubna před polednem, kdy se dvě pumy zaryly do zahrady v Komenského ulici, ale nevybuchly. Byl zde umístěn výstražný nápis. K jejich zneškodnění došlo až po válce,“ uvádí bývalý historik Muzea Boskovicka Jiří Řezníček.
 
-<img src="http://i.imgur.com/4pkiFUW.jpg" alt="ruští vojáci na boskovickém náměstí" class="img-responsive">
+<img src="http://i.ohlasy.info/4pkiFUW.jpg" alt="ruští vojáci na boskovickém náměstí" class="img-responsive">
 
 Nejhorší nálet zažily Boskovice 5. května po deváté hodině, kdy ruská letadla shodila pumy před rezidencí v uličce z náměstí do Sušilovy ulice.  „Bylo tam plno lidí, neboť v sobotu chodívají obyčejně obstarávat nákupy,“ stojí v kronice. Nálet byl náhlý, neohlášený. Nespustily se ani sirény. O život přišlo devět lidí, řada lidí byla zraněna. „Dříve bývaly cizí nálety vyhlašovány městskou a továrními sirénami, toho dne už ale nešel proud,“ vysvětluje kronikář.
 
@@ -22,7 +22,7 @@ Nejhorší nálet zažily Boskovice 5. května po deváté hodině, kdy ruská l
 
 8\. května měli Němci Boskovice stále pod správou. Nechtěli nic slyšet o předání moci revolučnímu národnímu výboru. Tolerovali ale vyvěšování československých vlajek a trikolor.  Když se ale začala k československým barvám přidávat rudá sovětská vlajka a na náměstí se začali srocovat lidé pro rudé odznáčky, přišel rozkaz k okamžitému vyklizení náměstí. Lidé v několika vteřinách zmizeli v domech.
 
-<img src="http://i.imgur.com/zjdSpmf.jpg" alt="ruští vojáci na boskovickém náměstí" class="img-responsive">
+<img src="http://i.ohlasy.info/zjdSpmf.jpg" alt="ruští vojáci na boskovickém náměstí" class="img-responsive">
 
 Ústup Němců pokračoval ještě 9. května. Po osvobozeneckých vojskách stále nebylo v Boskovicích žádné stopy. Zprávy o jejich postupu blíže k Boskovicím se šířily, což v hlavách Němců šířilo čím dál větší paniku. Kolem poledne zajali místní odbojáři skupinu tisícovky unavených vojáků. „Po zvážení situace vyhlásil po 14. hodině revoluční národní výbor rozhlasem, že sovětská armáda postupuje od Skalice nad Svitavou na Boskovice a aby se na radnici dostavili občané znalí ruštinu coby tlumočníci. Tím měli být ustupující Němci donuceni k vyklizení Boskovic,“ dodává Jiří Řezníček. Kolem 16. hodiny se rozšířila zpráva, že na Rovné byly spatřeny sovětské jednotky. Němců se zmocnil panický strach.
 

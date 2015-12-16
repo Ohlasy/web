@@ -1,13 +1,13 @@
 ---
 title: Zprůjezdnění Štefánikovy ulice je znovu na stole
 category: zpravodajství
-cover-photo: http://i.imgur.com/xFEY9ap.jpg
+cover-photo: http://i.ohlasy.info/xFEY9ap.jpg
 author: Marek Osouch
 ---
 
 *Dva roky se o Štefánikově ulici v Boskovicích moc nemluvilo. Nyní městská rada znovu projednává otázku jejího možného zprůjezdnění. Obyvatelé ulice se bojí nárůstu dopravy, která by se podle nich s otevřením ulice přesunula ze Sokolské právě k nim. Neuspokojil je ani slib města, že se na začátek ulice umístí značka zakazující vjezd vozidlům nad 3,5 tuny. Za žádnou cenu ulici zprůjezdnit nechtějí.*
 
-<img src="http://i.imgur.com/xG1Pufx.png" alt="ulice Štefánikova na mapě Boskovic" class="img-responsive img-popup" data-author="Mapy.cz">
+<img src="http://i.ohlasy.info/xG1Pufx.png" alt="ulice Štefánikova na mapě Boskovic" class="img-responsive img-popup" data-author="Mapy.cz">
 
 K možnosti zprůjezdnění měla starostka Boskovic Hana Nedomová s obyvateli ulice setkání. Podle obyvatelky ulice Jarmily Winklerové jich přišlo na radnici diskutovat se starostkou jedenačtyřicet, z každého domu nejméně jeden zástupce. „Seznámili nás se studií, která řeší zprůjezdnění ulice,“ uvedla Jarmila Winklerová, která před dvěma roky vysbírala od obyvatel ulice 69 podpisů pod petici proti zprůjezdnění.
 

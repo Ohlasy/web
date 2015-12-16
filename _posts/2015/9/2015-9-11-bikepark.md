@@ -1,13 +1,13 @@
 ---
 title: Bikeparku v Doubravách se otevírá cesta
 category: zpravodajství
-cover-photo: http://i.imgur.com/ma3KIzRl.jpg
+cover-photo: http://i.ohlasy.info/ma3KIzRl.jpg
 author: Tomáš Trumpeš
 ---
 
 *Přibližně 10 kilometrů takzvaných singltrekových tras, plus zázemí pro cyklisty – to vše by podle projektu, který představila veřejnosti boskovická radnice, mohlo vzniknout v příštích letech v lokalitě v Doubravách. Tedy v místě, jehož využití pro jiný účel než zachování klidného lesa spojeného s procházkami, vyvolalo pře několika lety v Boskovicích hotové pozdvižení. Tentokrát se zdá, že myšlenka cyklistického parku vlnu negativních reakcí nezvedá a bikeparku za přibližně 10 milionů korun se tak otevírá cesta.*
 
-<img src="http://i.imgur.com/ma3KIzR.jpg" alt="ukázka cyklotrasy v lese" class="img-responsive" data-author="ze studie proveditelnosti">
+<img src="http://i.ohlasy.info/ma3KIzR.jpg" alt="ukázka cyklotrasy v lese" class="img-responsive" data-author="ze studie proveditelnosti">
 
 Singltrekové trasy využívají stávající cesty, v určitých místech zpevněné, a určené jsou především pro cyklisty. V první etapě projekt navrhuje vybudování šesti tras o celkové délce okolo 10 kilometrů, to vše na pozemcích, které dnes patří městu Boskovice. Už dnes se ale uvažuje i o rozšíření celého areálu do další části Doubrav. „Další rozvoj je možný na sousedních lesních pozemcích, které nejsou ve vlastnictví města Boskovice na východ od posuzovaného pozemku, přičemž je doporučeno v budoucnu započít legalizaci páteřního okruhu, který je nyní nelegálně využíván. Jeho užívání nemá negativní vliv na biologické podmínky v lokalitě a jeho legalizace v délce 18 km by dodala celému areálu nadregionální význam,“ [uvádí ve studii](http://data.ohlasy.info/bikepark+studie.pdf) její zpracovatel Roman Kalabus.
 

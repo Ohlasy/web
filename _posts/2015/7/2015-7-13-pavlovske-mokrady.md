@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Pavlovské mokřady"
-cover-photo: http://i.imgur.com/VWwjlyRl.jpg
+cover-photo: http://i.ohlasy.info/VWwjlyRl.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa
@@ -8,7 +8,7 @@ author: Hynek Skořepa
 
 *Pavlovské mokřady jsou bezesporu jedním z nejcennějších chráněných území nejen Boskovicka, ale celé přilehlé části Moravy. Z dříve poměrně častých rašelinných luk Drahanské vrchoviny se po „melioracích“ ve druhé polovině 20. století dochovaly pouze dvě významnější lokality, Pavlovské mokřady u Benešova–Pavlova a nedaleká Uhliska u Horního Štěpánova. Obě zřejmě alespoň částečně zachránilo to, že ležely při samé hranici okresů Blansko a Prostějov (Pavlovské mokřady na blanenské a Uhliska na prostějovské straně). Obě území byla sice nevhodnými zásahy dosti poškozena, obě si však dosud uchovávají svoji krásu a značné přírodovědné hodnoty. Byla proto koncem 80. let (tedy ještě za socialismu) vyhlášena za chráněná území.*
 
-<img src="http://i.imgur.com/VWwjlyR.jpg" alt="mokřad" class="img-responsive">
+<img src="http://i.ohlasy.info/VWwjlyR.jpg" alt="mokřad" class="img-responsive">
 
 Úzký pruh lesa mezi oběma rezervacemi tvoří sice převážně kulturní smrčiny, v podmáčeném, místy až rašelinném lese měl však smrk zřejmě ještě před začátkem systematického lesního hospodaření významnější zastoupení. Můj předčasně tragicky zemřelý přítel, prostějovský botanik RNDr. Petr Albrecht, nosil v hlavě myšlenku, že při vhodném způsobu lesnického hospodaření by mohl les mezi Uhlisky a Pavlovskými mokřady směřovat k přírodě blízkému lesu a následně by obě rezervace mohly být propojeny v jedno rozsáhlé území. To by pak snad mohlo být zařazeno do kategorie národní přírodní rezervace (získalo by tak nejpřísnější stupeň ochrany mimo národní park). Mokřady Drahanské vrchoviny by si podobnou rezervaci zasloužily a prostor mezi Pavlovem a Horním Štěpánovem je zřejmě jediným územím, kde by se tak mohlo stát. V blízké době je to ale nereálné, snad někdy v daleké budoucnosti, až si lidé začnou posledních zbytků přírody více vážit.
 
@@ -20,7 +20,7 @@ V roce 1996 byly Pavlovské mokřady rozšířeny a přehlášeny novou vyhláš
 
 Bohužel výskyt řady pozoruhodných druhů rostlin a živočichů je dnes již na Pavlovských mokřadech minulostí. Zmizel rozchodník huňatý či nenápadná kapradinka hadilka čili jazyk hadí (poslední pozorování v obou případech roku 1972). Některé druhy, považované za vyhynulé, se v posledních letech podařilo znovu potvrdit (klikva žoravina, rosnatka okrouhlolistá). Přežívají zde však pouze na menších plochách.
 
-<img src="http://i.imgur.com/GqKqiDI.jpg" alt="rosnatka okrouhlolistá" class="img-responsive">
+<img src="http://i.ohlasy.info/GqKqiDI.jpg" alt="rosnatka okrouhlolistá" class="img-responsive">
 
 Dalším význačným druhem, který je ve vrchovištní části Pavlovských mokřadů dosud hojný (a vzácně se vyskytuje i na Uhliskách), je suchopýr pochvatý. Jedná se o horský druh, jenž má na Drahanské vrchovině izolovaný výskyt. Na přelomu června a července, když rostlinky suchopýrů plodí, bělá se rašeliniště jejich pápěřím (chmýřím). Podle něj dostaly suchopýry také svoje jméno, v suchu totiž rozhodně nerostou. Kromě suchopýru pochvatého (s jednoklasým vrcholovým květenstvím) se lze na Pavlovských mokřadech setkat také se suchopýrem úzkolistým (s víceklasým květenstvím). Suchopýr úzkolistý roste na většině vlhkých luk Drahanské vrchoviny.
 
@@ -30,7 +30,7 @@ Jedinečné na Pavlovských mokřadech však nejsou louky, ale zbytek rašelini�
 
 Rašeliništím dal jméno zvláštní mech rašeliník, který nemá na rozdíl od ostatních mechů žádné „kořínky“ (správně botanicky příchytná vlákna), odspodu postupně odumírá a naopak nahoře pořád přirůstá. Odumřelé části lodyh rašeliníků se nemohou v rašeliništi rozložit (nedostává se k nim vzduch) a jejich stlačováním vzniká rašelina, jakýsi předstupeň uhlí. Středoevropská rašeliniště se vytvářela od konce poslední doby ledové, během přibližně 10 000 let.
 
-<img src="http://i.imgur.com/OLcmyqP.jpg" alt="mokřad" class="img-responsive">
+<img src="http://i.ohlasy.info/OLcmyqP.jpg" alt="mokřad" class="img-responsive">
 
 V horách se nacházejí rašeliniště zásobované výhradně srážkovou vodou (srážek je v horách hodně). Ta neobsahuje téměř žádné minerální látky (blíží se svým charakterem vodě destilované), rostliny v rašeliništích trpí nedostatkem živin, zejména ve vodě snadno rozpustného dusíku. Některé z nich si proto občas přilepšují chytáním živin v podobě drobného hmyzu. Třeba známá rosnatka okrouhlolistá. Chloupky na listech jsou pokryty jakoby kapičkami rosy, ve skutečnosti se jedná o trávicí enzym. Hmyz se tedy na kapku „přilepí“ a je pomocí ní i stráven.
 

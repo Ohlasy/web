@@ -1,7 +1,7 @@
 ---
 title: Peníze máme
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/1TbgkPEl.jpg
+cover-photo: http://i.ohlasy.info/1TbgkPEl.jpg
 category: názory a komentáře
 ---
 

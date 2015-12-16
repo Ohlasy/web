@@ -2,13 +2,13 @@
 title: "Krajiny Boskovicka: Malá Haná"
 serial: krajiny
 category: seriály
-cover-photo: http://i.imgur.com/aiEqissl.jpg
+cover-photo: http://i.ohlasy.info/aiEqissl.jpg
 author: Hynek Skořepa
 ---
 
 *Malou Hanou jsem v dětství a mládí spíš opomíjel. Ač rodák z Boskovic, města, které dalo jméno celé Boskovické brázdě, jíž je Malá Haná součástí, za svůj rodný kraj jsem dlouho považoval především Drahanskou vrchovinu. Inu proč ne, vždyť příkré zlomové svahy této vrchoviny se zdvíhají hned za posledními domy mého rodného města. Jak léta mládí mizela, ubývalo chuti a sil trmácet se do kopců (i když stále do nich sem tam rád zajdu). Nastal čas Malé Hané, té „kapesní roviny“. Teprve za svého učitelování na jevíčském gymnáziu jsem jí však přišel jaksepatří na chuť.*
 
-<img src="http://i.imgur.com/ZsAWXjf.jpg" alt="Malá Haná" class="img-responsive">
+<img src="http://i.ohlasy.info/ZsAWXjf.jpg" alt="Malá Haná" class="img-responsive">
 
 Možná k tomu přispěl i krásný text jevíčského učitele, spisovatele a znalce zdejšího kraje Františka Továrka, který napsal v roce 1971 do vlastivědného sborníku zvaného právě Malá Haná, vydávaného ve Velkých Opatovicích:
 
@@ -22,7 +22,7 @@ Malá Haná je součástí Boskovické brázdy, což je protáhlá úzká sníž
 
 Geologická stavba a geomorfologie (tvary zemského povrchu) Malé Hané si však zaslouží více pozornosti, nechám si je proto na jindy.
 
-<img src="http://i.imgur.com/cjoIjCW.jpg" alt="Malá Haná" class="img-responsive">
+<img src="http://i.ohlasy.info/cjoIjCW.jpg" alt="Malá Haná" class="img-responsive">
 
 Teď něco o lidech. Kraj Malé Hané je odjakživa přitahoval. Nejstarší osídlení je doloženo z paleolitu (starší doby kamenné). Zdejší obyvatelé se tenkrát živili lovem a sběrem. Kromě dřevěných a kostěných nástrojů při získávání a zpracovávání potravy využívali i nástroje kamenné, nejčastěji vyráběné z místního rohovce (křemičité horniny). Ten se vyskytuje v křídových (druhohorních) usazeninách. Na Malé Hané se tento kámen zpracovával na řadě míst k výrobě štípaných nástrojů (jakýchsi čepelek), nejvýznamnější „pravěká dílna“ se nacházela na vrchu Horky u Bořitova. Když tenkrát mistři „kamenného řemesla“ ustali v práci, aby si odpočinuli, museli mít z návrší Horek nádherný výhled po širokém okolí. Nu, proto si ho nakonec vybrali. Vidět a nebýt viděn bylo tenkrát pro přežití důležitější než dnes.
 
@@ -36,7 +36,7 @@ Již z dřívější doby, od neolitu (mladší doba kamenná), utvářelo zdej�
 
 Celá tisíciletí se čas líně vlekl, koňská spřežení a lidské nohy byly pomalé, až na začátku dvacátého století přišla železná dráha. Nejprve proklínaná a odmítaná, brzy však podmínka pokroku. Na trati ze Skalice nad Svitavou do Velkých Opatovic byl zahájen provoz 18. května 1908, z Chornic do Opatovic jezdil vlak již od roku 1889. Trať byla budována nejen pro osobní dopravu, hlavním důvodem byla přeprava nákladu. Také proto se na Malé Hané lokálka umně vyhýbá vesnicím. Hlavně že bylo blízko k polím, vždyť velkou část nákladu tvořila cukrová řepa. A k pokroku železnice skutečně přispívala, nejen v zemědělství a průmyslu, ale taky k tomu vědeckému. Při její stavbě byl severně od Boskovic objeven depot (hromadný nález) bronzových předmětů, který vedl nadšence z boskovického Muzejního spolku MUDr. Karla Snětinu, magistra farmacie Františka Lipku, učitele Františka Tichého a jejich spolupracovníky i následovníky k dalšímu rozvíjení archeologických bádání.
 
-<img src="http://i.imgur.com/aiEqiss.jpg" alt="Malá Haná" class="img-responsive">
+<img src="http://i.ohlasy.info/aiEqiss.jpg" alt="Malá Haná" class="img-responsive">
 
 Ale raději dost kamenů, cest, železnic a archeologie. Je na čase zmínit se taky o živé přírodě Malé Hané. Proč jsem si vlastně Malou Hanou vybral k srpnovému povídání? No přece proto, že je především krajem polí. A při slově pole si nejdříve vybavím ta rozpálená, z vrcholu léta, krátce přede žněmi. Srpen je druhým nejteplejším měsícem roku, někdy může být vůbec nejteplejší a předstihnout dokonce červenec (letos si srpnových veder bohatě užíváme). Přesto v průběhu srpna teplota postupně klesá. Především je však srpen obvykle méně deštivý než červen a červenec. Přesto v srpnu přichází ještě jedna, poslední, vlna medardovských dešťů – tzv. petrské deště. Ty v dobách minulých často komplikovaly vrcholící žně. Žním pak udělá konec až sv. Vavřinec (10. 8.), který „posílá pro dožínkový věnec“ (což však platí jen v teplejších oblastech). Srpen tedy klade na stůl nový chléb (přesněji chléb z nové mouky), což se taky musí během dožínek řádně oslavit.
 

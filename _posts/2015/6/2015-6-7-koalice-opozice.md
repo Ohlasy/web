@@ -1,7 +1,7 @@
 ---
 title: Ode zdi ke zdi
 category: názory a komentáře
-cover-photo: http://i.imgur.com/4TXHlmjl.jpg
+cover-photo: http://i.ohlasy.info/4TXHlmjl.jpg
 author: Tomáš Znamenáček
 ---
 

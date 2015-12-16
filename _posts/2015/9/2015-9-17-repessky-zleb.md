@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Repešský žleb"
-cover-photo: http://i.imgur.com/YMfnOUyl.jpg
+cover-photo: http://i.ohlasy.info/YMfnOUyl.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa
@@ -8,11 +8,11 @@ author: Hynek Skořepa
 
 *Východní okraj Drahanské vrchoviny je rozbrázděný výraznými údolími, zvanými zde obvykle žleby. Ty jsou ukryty v hlubokých lesích, které již asi osmdesát let využívá k výcviku armáda. Nejvýraznější jsou tři z nich, rozkládající se severně od silnice z Drahan do Plumlova – Žbánovský, Bousínský a Repešský. Všechny jsou svým způsobem krásné, i když se v posledních letech hodně mění.*
 
-<img src="http://i.imgur.com/yqtyWA6.png" alt="Repešský žleb na mapě" class="img-responsive img-popup" data-author="Mapy.cz">
+<img src="http://i.ohlasy.info/yqtyWA6.png" alt="Repešský žleb na mapě" class="img-responsive img-popup" data-author="Mapy.cz">
 
 Staré bučiny ve vojenských lesích jsou postupně káceny. Mohutné stromy mizí, přibývá pasek. U srdce je z toho smutno. Ale příroda žije dál. Kamarád, zabývající se ornitologickým průzkumem vojenských lesů, mi vyprávěl, že z porostů rozčleněných pasekami se začíná čím dál častěji ozývat kulíšek nejmenší, malá sovička velikosti vrabce. Střídající se lesy a paseky jí vyhovují, všechno zlé je tedy (aspoň většinou) taky k něčemu dobré.
 
-<img src="http://i.imgur.com/YMfnOUy.jpg" alt="Repešský žleb" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/YMfnOUy.jpg" alt="Repešský žleb" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Žbánovský a Bousínský žleb leží uvnitř vojenského prostoru, ke vstupu do nich je třeba složitě zařizovat povolení, nechce-li se člověk vystavovat postihu ze strany vojenské policie. Zato nejsevernějším Repešským žlebem vede cyklostezka a túru po lesní asfaltce údolím můžete podniknout bez obav, že se dopouštíte přestupku. Budu proto psát právě o Repešském žlebu. A nejen proto. Repechy dřív patřily k boskovskému panství a až do reformy územně-správního členění v roce 1960 taky do politického okresu Boskovice. Málokdo to dnes už ví.
 
@@ -22,7 +22,7 @@ To na polích mezi Repechami a Bousínem bývalo pusto. Jen pár světýlek v Re
 
 Nejvhodnější čas k pozorování jelení říje je kolem 20. září. Čím chladnější jsou v tom čase rána, tím lépe. Jelení samci hlídají svá stáda laní a brouzdají se při tom často až po břicho v přízemní mlze. Říje se sice může protáhnout až do prvních říjnových dnů, název devátého měsíce však jakoby není moc vhodný. Naši předkové ovšem nebyli hloupí. Ve starém kalendáři byl nejprve říjen a teprve až po něm září (zařuj). Když se později oba měsíce v kalendáři vyměnily, vznikl z toho lehký zmatek.
 
-<img src="http://i.imgur.com/OQ7rwhg.jpg" alt="Repešský žleb" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/OQ7rwhg.jpg" alt="Repešský žleb" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 
 Již jen nemnoho pamětníků zůstalo z dob, kdy byly za druhé světové války Repechy a okolní obce vystěhovány kvůli rozšíření vojenského prostoru. Vojenský újezd na východním okraji Drahanské vrchoviny zřídila již předválečná československá armáda, Němci však nedlouho po okupaci začali připravovat jeho zvětšení. Pátého září 1940 schválila protektorátní vláda na pokyn německých úřadů vystěhování obcí na Drahansku. Úřady vydaly kruté nařízení o tom, že vystěhovaní občané se nesmí stěhovat do okolních nezabraných obcí a dokonce ani do okresů Prostějov, Slavkov a Vyškov. Jen některým se podařilo získat výjimku, například pokud byli nezbytní pro zajištění fungování německého hospodářství. Život ze zdejších vesnic tak na několik let zmizel. Fotografie rozstřílených domů, nadepsané Křížová cesta obcí na Drahansku, které byly otištěny v knize Prostějovsko za války, mluví za vše.
@@ -43,10 +43,10 @@ Ani po válce nebyl život snadný. Lidé se vrátili zpět do rozbité dědiny.
 
 Raději se vraťme od lidí zpátky k lesům. Vydáte-li se na podzim do Repešského žlebu, snad tam ještě zastihnete pár starých jedlí, jejichž tmavé koruny budou ostře kontrastovat s barevným listím buků. Ne nadarmo se v minulých staletích označovaly jehličnaté lesy se smrkem a jedlí jako „lesy černé“ (Schwarzwald). Až budete tedy číst dětem pohádku, ve které bude muset hrdina překonat černý les, tak vězte, že onen černý les není jen nějaký takový pohádkový výmysl.
 
-<img src="http://i.imgur.com/uB03uel.jpg" alt="mlok v Repešském žlebu" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/uB03uel.jpg" alt="mlok v Repešském žlebu" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Bude-li zrovna po dešti, můžete ještě v pozdním podzimu zastihnout v bukové opadance mloka skvrnitého. Nápadné žluté skvrny na jeho těle varují ostatní živočichy: Pozor, nedotýkej se mne. Jsem jedovatý!
 
-<img src="http://i.imgur.com/Hby49Ua.jpg" alt="mezník v Repešském žlebu" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/Hby49Ua.jpg" alt="mezník v Repešském žlebu" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 O kus dál se třeba ze závějí bukového listí vyloupne mezník s písmeny FL. Takovéto kameny ohraničovaly majetek knížete Lichtenštejna (Fürst Liechtenstein). Ale kde jsou ty časy.

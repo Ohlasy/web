@@ -1,13 +1,13 @@
 ---
 title: Za 14 místo 9 milionů. Město kupuje pozemek téměř o dvě třetiny dráž, než říká posudek
-cover-photo: http://i.imgur.com/T4F08z8l.jpg
+cover-photo: http://i.ohlasy.info/T4F08z8l.jpg
 category: zpravodajství
 author: Marek Osouch
 ---
 
 *Znalec ocenil pozemek s mlýnem Jiřího Dvořáčka v Červené zahradě na 8,7 milionu, město ale nakonec přistoupilo na cenu čtrnáct milionů navrženou majitelem. Odchylka od ceny stanovené znalcem je podle města akceptovatelná a zdůvodnitelná „převyšujícími zájmy města na dalším rozvoji sportovních a zájmových aktivit“. Nejvíce je s tamní lokalitou spojována výstavba sportovní haly. Jestli tam skutečně vyroste ale vedení Boskovic stále neřeklo. Pro důstojný sportovní stánek s víceúčelovým využitím by plocha nestačila a musely by se přikoupit i další pozemky.*
 
-<img src="http://i.imgur.com/T4F08z8.jpg" alt="budova mlýna" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/T4F08z8.jpg" alt="budova mlýna" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Je to nehospodárné plýtvání, nestoudná cena, dáváme jasný signál dalším majitelům, za kolik vykupujeme. Taková slova padala z úst opozičních stran na adresu vedení města na zářijovém zasedání zastupitelstva téměř hodinu. „Víme, co kupujeme? Víme, jaké ty pozemky jsou? Jste si jisti, že pozemky jsou kvalitní?“ ptal se opoziční zastupitel za sdružení Sportovců Boskovice Jiří Pevný, který zároveň jako znalec pro město vyhotovil posudek na daný pozemek s cenou 8,7 milionu korun.
 

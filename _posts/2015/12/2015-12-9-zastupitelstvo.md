@@ -1,13 +1,13 @@
 ---
 title: "Ze zastupitelstva: Sportpark v Doubravách, hala na Července, rozpočet. A mlčení k nemocnici"
 author: Marek Osouch
-cover-photo: http://i.imgur.com/M3NH0Shl.jpg
+cover-photo: http://i.ohlasy.info/M3NH0Shl.jpg
 category: zpravodajství
 ---
 
 *Velmi dlouhou a na důležitá rozhodnutí poměrně bohatou schůzi absolvovalo boskovické zastupitelstvo. Rozhodlo o rozpočtu na příští rok, ale také o bikeparku v Doubravách, o sportovní hale a strategickém plánu, diskutovalo se i o odkupu pozemků v Červené zahradě a o odvolání jednatele nemocnice. Přinášíme stručný výběr toho nejpodstatnějšího, co podle Ohlasů na zastupitelstvu zaznělo, a především bylo rozhodnuto.*
 
-<img src="http://i.imgur.com/M3NH0Sh.jpg" alt="zasedání boskovického zastupitelstva" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/M3NH0Sh.jpg" alt="zasedání boskovického zastupitelstva" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 ### Sportpark v Doubravách chceme
 

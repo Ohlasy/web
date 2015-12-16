@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na říjen
-cover-photo: http://i.imgur.com/TMUxSGil.jpg
+cover-photo: http://i.ohlasy.info/TMUxSGil.jpg
 category: zpravodajství
 author: Jan Bařinka
 ---

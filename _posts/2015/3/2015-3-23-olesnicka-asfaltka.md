@@ -2,13 +2,13 @@
 title: Plánovaná asfaltka ke ski-areálu rozděluje Olešnické
 category: zpravodajství
 excerpt: "Součástí obsáhlých pozemkových úprav, které si připravují v Olešnici, má být i čtyřmetrová asfaltka vedoucí od hřbitova ke ski-areálu a dále k rovečínské silnici. Záměr vyvolal v Olešnici bouřlivou diskusi, někteří ho označují za krajinářský zločin a za cílené zvýhodňování zájmů provozovatele vleku."
-cover-photo: http://i.imgur.com/i1J7Sb5l.jpg
+cover-photo: http://i.ohlasy.info/i1J7Sb5l.jpg
 author: Žaneta Ondroušková
 ---
 
 *Na okraji přírodního parku Svratecká hornatina, v západní části katastru Olešnice na Moravě, se za humny v polích rozkládá cesta. Navazuje na asfaltku vedoucí kolem tamního hřbitova směrem do kopce, vedle domků lidí na straně města směrem ke Křtěnovu. Za nimi se z asfaltky vyděluje polňačka, po pravé straně městečko o sedmnácti stech obyvatelích, po levé kopcovitá mozaika lesů a pastvin Závrší. K zatím jen kratší cestě v polích a úvozům sloužícím pěším a traktorům možná brzy přibyde páteřní asfaltka čtyři metry široká, která spojí hřbitov s tamním ski-areálem, obkrouží část lesa a naváže na rovečínskou silnici poblíž zámečku Lamberk.*
 
-<img src="http://i.imgur.com/i1J7Sb5.jpg" alt="pole za Olešnicí" class="img-responsive">
+<img src="http://i.ohlasy.info/i1J7Sb5.jpg" alt="pole za Olešnicí" class="img-responsive">
 
 Plánovaná cesta se v posledních pár měsících stala předmětem živé diskuze Olešnických a symbolem obsáhlých pozemkových úprav, jejichž je součástí. Přestože není jedinou chystanou změnou v okolní krajině, rozhodně se na ni upírá největší pozornost.  Vlastníky půdy i řadové občany rozdělila na dva tábory. Jedni ji vítají, druzí odmítají. Prý jde proti přírodě a na ruku ski-areálu, který je kvůli hluku a náporu aut už teď trnem v oku mnohých Olešnických.
 
@@ -24,7 +24,7 @@ A jejich jednání má už konkrétní výsledky. Na konci února se pět z dev�
 
 Co však kritikům vadí především, je to, že v podstatě oficiálně nemají žádný hlas. Nesouhlasící vlastníky pozemků, kteří nejsou součástí sboru, nikdo neposlouchá. Jednou si zvolili svoje zástupce, a ti svůj názor vyjádřili jasně. Cesta bude a bude takováto. 
 
-<img src="http://i.imgur.com/wPC3HNR.jpg" alt="návrh cesty odsouhlasený sborem v lednu 2015" class="img-responsive">
+<img src="http://i.ohlasy.info/wPC3HNR.jpg" alt="návrh cesty odsouhlasený sborem v lednu 2015" class="img-responsive">
 
 ### Opoziční zastupitelé: chceme konkrétní informace
 
@@ -62,7 +62,7 @@ Co se týče případného odvolání sboru zástupců vlastníků, to zákon ne
 
 Argumentace starosty a sboru vlastníků je podle Petra Pazdery Payna plná demagogie. Ve skutečnosti půjde nová silnice na ruku provozovateli ski-areálu Lubomíru Rekovi, který s ní pro svoje návštěvníky získá další přístupovou cestu.
 
-<img src="http://i.imgur.com/EWxK8lk.jpg" alt="pohled ze sjezdovky na Olešnici" class="img-responsive">
+<img src="http://i.ohlasy.info/EWxK8lk.jpg" alt="pohled ze sjezdovky na Olešnici" class="img-responsive">
 
 ### Jakou roli tu má ski-areál
 

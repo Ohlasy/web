@@ -1,13 +1,13 @@
 ---
 title: „Politická reprezentace, která se nesnaží o nejkvalitnější architekturu, nepochopila směřování člověka od jeskyně dál.“
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/tMDgRI6.jpg
+cover-photo: http://i.ohlasy.info/tMDgRI6.jpg
 category: rozhovory
 ---
 
 *Rozhovor s architektem Mirko Levem, absolventem boskovického gymnázia, jsme zaměřili na architektonické soutěže. V Boskovicích se o nich mluví v souvislosti se sportovní halou a s [areálem Červená zahrada](/clanky/2015/11/varianty-haly.html), v dlouhodobějším horizontu také ve vztahu k nové knihovně. Mirko Lev vysvětluje, jak soutěže probíhají, proč je dobré k nim zejména u veřejných budov přistupovat a jakou hodnotu přinášejí.*
 
-<img src="http://i.imgur.com/uhDBvfM.jpg" alt="Mirko Lev" class="img-responsive" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/uhDBvfM.jpg" alt="Mirko Lev" class="img-responsive" data-author="Tomáš Znamenáček">
 
 **Můžeme na začátek stručně vysvětlit, co to vlastně je architektonická soutěž a jak probíhá?**
 

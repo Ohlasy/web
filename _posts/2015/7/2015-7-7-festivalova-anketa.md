@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Festival Boskovice 2015 je za dveřmi. Na co zajít?"
 category: ankety
-cover-photo: http://i.imgur.com/npBP8dc.jpg
+cover-photo: http://i.ohlasy.info/npBP8dc.jpg
 author: Tomáš Trumpeš
 ---
 
@@ -9,7 +9,7 @@ author: Tomáš Trumpeš
 
 ---
 
-<img src="http://i.imgur.com/tjxtwVY.jpg" class="profile-picture" alt="Dagmar Hamalová">
+<img src="http://i.ohlasy.info/tjxtwVY.jpg" class="profile-picture" alt="Dagmar Hamalová">
 
 ***Dagmar Hamalová, ředitelka Muzea Boskovicka a členka městské rady***
 
@@ -23,7 +23,7 @@ Mám pocit, že jsme jako návštěvníci festivalu tak trochu rozmazlení, je t
 
 ---
 
-<img src="http://i.imgur.com/NaivBwB.jpg" class="profile-picture" alt="Ivo Legner">
+<img src="http://i.ohlasy.info/NaivBwB.jpg" class="profile-picture" alt="Ivo Legner">
 
 ***Ivo Legner, dramaturg KZMB***
 
@@ -39,7 +39,7 @@ A mnoho doporučení jsem slyšel na představení Svět podle Fagi Divadla Dno,
 
 ---
 
-<img src="http://i.imgur.com/oaever4.jpg" class="profile-picture" alt="Gabriela Kolčavová">
+<img src="http://i.ohlasy.info/oaever4.jpg" class="profile-picture" alt="Gabriela Kolčavová">
 
 ***Gabriela Kolčavová, fotografka a jazzová zpěvačka***
 
@@ -53,7 +53,7 @@ Z divadelních vystoupení jsem zvědavá na vystoupení boskovického divadla N
 
 ---
 
-<img src="http://i.imgur.com/9fklu2z.jpg" class="profile-picture" alt="Lukáš Koudelka">
+<img src="http://i.ohlasy.info/9fklu2z.jpg" class="profile-picture" alt="Lukáš Koudelka">
 
 ***Lukáš Koudelka, hudebník a barman***
 

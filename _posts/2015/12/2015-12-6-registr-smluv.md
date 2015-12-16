@@ -1,7 +1,7 @@
 ---
 title: Registr smluv je potřebný krok na cestě k demokracii
 author: Tomáš Znamenáček
-cover-photo: http://i.imgur.com/9qhrhspl.jpg
+cover-photo: http://i.ohlasy.info/9qhrhspl.jpg
 category: názory a komentáře
 ---
 

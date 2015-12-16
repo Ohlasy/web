@@ -1,13 +1,13 @@
 ---
 title: „Bylo pro mě důležité, že se festival odehrává v židovském městě 70 let po konci války,“ říká dramaturg divadelního programu Jiří Honzírek
 category: rozhovory
-cover-photo: http://i.imgur.com/Ynd02aJ.jpg
+cover-photo: http://i.ohlasy.info/Ynd02aJ.jpg
 author: Tomáš Trumpeš
 ---
 
 *Novým dramaturgem divadelní části festivalu Boskovice 2015 se stal brněnský režisér a principál divadla Feste Jiří Honzírek. Na letošní dramaturgii je zřetelně znát, že ji připravoval divadelník, který o sobě říká, že tíhne k divadlu se sociálním a politickým přesahem. A k experimentům. Jiří se nemohl účastnit festivalu hned od začátku, takže náš rozhovor probíhal přes internet.*
 
-<img src="http://i.imgur.com/Ynd02aJ.jpg" alt="Jiří Honzírek" class="img-responsive">
+<img src="http://i.ohlasy.info/Ynd02aJ.jpg" alt="Jiří Honzírek" class="img-responsive">
 
 **Jiří, jaký máš vztah k Boskovicím a boskovickému festivalu? Jezdil jsi sem v minulosti jako návštěvník?**
 

@@ -1,6 +1,6 @@
 ---
 title: "Anketa k hale: Jak pokračovat a proč mlčí sportovci?"
-cover-photo: http://i.imgur.com/l9ubvOkl.jpg
+cover-photo: http://i.ohlasy.info/l9ubvOkl.jpg
 category: ankety
 author: Tomáš Trumpeš
 ---
@@ -11,7 +11,7 @@ author: Tomáš Trumpeš
 
 ---
 
-<img src="http://i.imgur.com/ZZauYW3.jpg" class="profile-picture" alt="Vladimír Petrů">
+<img src="http://i.ohlasy.info/ZZauYW3.jpg" class="profile-picture" alt="Vladimír Petrů">
 
 **Vladimír Petrů, člen komise pro tělovýchovu sport a volnočasové aktivity**
 
@@ -21,7 +21,7 @@ Myslím si, že sportovci se nyní nemají, co se týká haly, v čem moc angaž
 
 ---
 
-<img src="http://i.imgur.com/keoOAsK.jpg" class="profile-picture" alt="Lubomír Slezák">
+<img src="http://i.ohlasy.info/keoOAsK.jpg" class="profile-picture" alt="Lubomír Slezák">
 
 **Lubomír Slezák, sportovní redaktor týdeníku Zrcadlo**
 
@@ -31,7 +31,7 @@ Je smutné, že hráči především halových sportů nemají patřičné záze
 
 ---
 
-<img src="http://i.imgur.com/zdrLmU4.jpg" class="profile-picture" alt="Adam Kožoušek">
+<img src="http://i.ohlasy.info/zdrLmU4.jpg" class="profile-picture" alt="Adam Kožoušek">
 
 **Adam Kožoušek, florbalista**
 
@@ -41,7 +41,7 @@ Je to možná zvláštní, ale i v malém městě, jako jsou Boskovice, nejsou k
 
 ---
 
-<img src="http://i.imgur.com/NrpbpsO.jpg" class="profile-picture" alt="Nikol Halamásková">
+<img src="http://i.ohlasy.info/NrpbpsO.jpg" class="profile-picture" alt="Nikol Halamásková">
 
 **Nikol Halamásková, volejbalistka**
 

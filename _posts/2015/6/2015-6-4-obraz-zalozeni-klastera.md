@@ -1,14 +1,14 @@
 ---
 title: "Z muzejního depozitáře: Obraz „Založení dominikánského kláštera v Boskovicích posledními Zástřizlovci“"
 category: seriály
-cover-photo: http://i.imgur.com/YyDqEWul.jpg
+cover-photo: http://i.ohlasy.info/YyDqEWul.jpg
 serial: depozitar
 author: Petr Vítámvás
 ---
 
 *Bezpochyby mezi nejzajímavější sbírkové předměty muzea v Boskovicích, a pomineme-li archeologickou sbírku i mezi nejstarší, patří nevelký (40×48 cm) obraz z konce 17. století „Založení dominikánského kláštera v Boskovicích“; autor není uveden, mohl jím být pravděpodobně Jiří František Jurnej zvaný Tříska, „malíř vznešené paní ze Zástřizl“.*
 
-<img src="http://i.imgur.com/W3ycSKt.jpg" alt="Založení dominikánského kláštera v Boskovicích" class="img-responsive">
+<img src="http://i.ohlasy.info/W3ycSKt.jpg" alt="Založení dominikánského kláštera v Boskovicích" class="img-responsive">
 
 V popředí obrazu vlevo předkládá řeholník zakladatelům plány kláštera, v pravé části je zobrazen boskovický hrad a pod ním stavba budovy konventu a kostela (kostel byl ve skutečnosti postaven později než konvent, jedná se tedy o ideální vyobrazení, rozestavěná budova konventu je asi zachycena vcelku reálně); v centru je zřejmě zobrazen vzorový klášter, nahoře uprostřed na vše shlíží ozářen z nebes zakladatel řádu sv. Dominik. Je zde vyobrazen s několika atributy: se zářící hvězdou na čele – odkaz na legendu, podle které se hvězda objevila na čele při jeho křtu, někteří světci ji ale na jeho čele viděli i v dospělosti; dále se psem s planoucí pochodní – odkazuje na sen Dominikovy matky, které se před jeho narozením zdálo, že porodila psa, který pochodní zapálil celý svět, což mělo být obrazem roznícení křesťanství upadajícího tehdy do řady různých herezí (tradice o snu patrně souvisí se slovní hříčkou týkající se jména řádu dominikánů – Domini canis znamená v latině „pes Páně“). Andílek přináší v toulci sv. Dominikovi šípy s hroty z heraldických lilií, jiný andílek umisťuje erb s lilií na průčelí kostela – lilie je jako symbol čistoty dalším atributem sv. Dominika, zároveň však je i erbovním znamením Zástřizlů.
 
@@ -18,7 +18,7 @@ Do českých zemí přišli dominikáni nedlouho po založení řádu a dobou je
 
 Ještě před vlastním zakládacím aktem manželé zjišťovali vhodné místo pro stavbu, jak o tom svědčí zápis v boskovické městské knize: „Paměť, kterak někteří sousedi boskovští Attestati povolující na založení kláštera nad městečkem pánům frátrům dominikánům pod fortelem vydali. L. P. 1681 dne 30. měsíce Julii u přítomnosti p. hejtmana panství boskovského, pana štalmistra, purkmistra, rychtáře, též třech ouřadních osob, totiž Jana Kučery, Václava Slováka a Václava Valíčka, městečka Bozkovic, i zhlédnouce to místo na Kopci, kde J. M. Páni naši milostivě mínění bejti ráčí klášter dáti stavěti, zjistili, že to místo nepatří k žádnému domu ani k chalupě k osadě městečka Bozkovic, nýbrž ten Kopec a trávník tak od starodávna pamatujem, a aby které chalupě týž místo patřilo, památka se nenachází. Potvrzeno pečetí městskou.“
 
-<img src="http://i.imgur.com/7G4ckAO.jpg" alt="detail boskovického hradu z obrazu" class="img-responsive">
+<img src="http://i.ohlasy.info/7G4ckAO.jpg" alt="detail boskovického hradu z obrazu" class="img-responsive">
 
 Zakládácí listina byla vydána na boskovickém hradě 4. 10. 1682, v ní byl řeholníkům poukázán základní kapitál 10 000 zlatých, nadto se Zuzana Kateřina Liborie zavázala poskytnout podporu dvěma kněžím, „mezi kterýmiž dvoumi duchovními jeden dobrý baumistr býti musí, který by stavení dobře rozuměl a pořádně jak dirigírovati věděl“. Fundaci potvrdil císař Leopold I. listinou vydanou 2. 3. 1684. V pondělí svatého týdne 16. 4. 1685 se začaly hloubit základy budovy konventu a o rok později (17. 4. 1686) základy kostela.
 
@@ -30,7 +30,7 @@ Vraťme se ještě k osobám zakladatelů kláštera – Jan Václav Bohuš Mork
 
 Jan Bohuš se roku 1657 oženil se Zuzanou Kateřinou Liborií Prakšickou ze Zástřizl, vzdálenou příbuznou z jiné větve zástřizlovského rodu. Jejich manželství bylo patrně šťastné, ovšem bezdětné. Jan Bohuš zemřel v noci z 25. na 26. července 1687 a vdova Zuzana Kateřina Liborie se provdala, již ve vyšším věku, za mladého Waltra Františka Xavera z Dietrichsteina; sňatek byl bezpochyby účelový a měl zajistit převod Zástřizlovského majetku Dietrichsteinům. Zuzana Kateřina Liborie zemřela 8. dubna 1691, a stejně jako její muž Jan Bohuš Václav byla pochována nejprve ve farním kostele sv. Jakuba v Boskovicích, neboť klášterní kostel nebyl tehdy ještě dostavěn. Dne 7. listopadu 1794 se v dokončeném kostele sv. Dominka slavila první mše, a následujícího dne byly ve slavnostním procesí přeneseny tělesné ostatky obou manželů, zakladatelů kláštera, do nově zbudované hrobky pod hlavním oltářem v klášterním kostele (po zrušení kláštera v roce 1784 byly jejich ostatky přeneseny zpět do kostela sv. Jakuba 28. listopadu 1788).
 
-<img src="http://i.imgur.com/9TdosGo.jpg" alt="záznam v boskovické matrice zemřelých" class="img-responsive">
+<img src="http://i.ohlasy.info/9TdosGo.jpg" alt="záznam v boskovické matrice zemřelých" class="img-responsive">
 
 Jak již bylo shora uvedeno, autor obrazu není znám, lze však předpokládat, že jím byl Jiřík Tříska Jurnej a že jej namaloval někdy v letech 1685–1687, tedy v době, kdy se začalo se stavbou kláštera a než zemřel Jan Bohuš Morkovský ze Zástřizl, jenž je na obraze se svou manželkou zobrazen. O malíři jinak mnoho zpráv nemáme, víme jen, že byl autorem oltářního obrazu pro filiální kostel Všech svatých. Zásadní je pak záznam v boskovické matrice zemřelých, kde se zmiňuje, že byl malířem paní ze Zástřizl: „1689 Ex arce Boskovicensi. 6 Marti mortuus est Georgius Franciscus Jurnej alias Trziska, pictor Ill/ustrisi/mae D/omi/nae Zastrzizlianae, aetati suae sexaginta annorum, munitis Sacramento poenitentiae, et sepultus ad S. Jacobum in coemeteris. – 1689, z boskovického hradu. 6. března zemřel Jiří František Jurnej zvaný Tříska, malíř vznešené paní ze Zástřizl, věku svého 60 let, přijav svátost smíření, a pohřben jest na hřbitově u sv. Jakuba.“
 

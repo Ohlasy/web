@@ -1,13 +1,13 @@
 ---
 title: „Provozně město na nemocnici nedoplácí ani náhodou,“ říká jednatel boskovické nemocnice Dan Navrátil
-cover-photo: http://i.imgur.com/BVlc9PSl.jpg
+cover-photo: http://i.ohlasy.info/BVlc9PSl.jpg
 category: rozhovory
 author: Marek Osouch
 ---
 
 *Dan Navrátil je jednatelem boskovické nemocnice od dubna 2013. Nastupoval v době, kdy na tom nebyla nemocnice zrovna nejlépe, hospodaření se propadalo každým měsícem. Od té doby se mnohé změnilo. Nemocnice je v plusu a zaměstnanci mají vyšší mzdy. Změny pocítili i pacienti, v pokojích jsou nová lůžka a v přízemí nové klientské centrum. Stále se však ozývají hlasy zpochybňující dobré fungování nemocnice, proto jsme s Danem Navrátilem mluvili nejen o krizi v předminulém roce, ale i o aktuální situaci a plánech do budoucna.*
 
-<img src="http://i.imgur.com/BVlc9PS.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/BVlc9PS.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 **Do nemocnice jste nastoupil v dubnu 2013, kdy nemocnice nebyla v dobré finanční kondici. Vy jste nastavil krizové řízení. Považujete se i po dvou a půl letech za krizového manažera?**
 
@@ -29,7 +29,7 @@ Letos čekám, že skončíme s podobným ziskem jako loni. A to jsme prováděl
 
 Je to pravda, o snížení mezd jsme uvažovali, ale jen o několik málo procent. V té době jsme hledali každou korunu. Po snižování mezd sahala řada nemocnic. My jsme to nakonec ustáli i bez toho a jsem za to rád. Není nic příjemného snižovat lidem platy.
 
-<img src="http://i.imgur.com/PczCFDL.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/PczCFDL.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 ### Úhradová vyhláška by měla být kontinuální
 
@@ -71,7 +71,7 @@ Nepřicházíme o nic. Dosáhneme na stejné úhrady, možná na vyšší.
 
 Určitě je to efektivní. 
 
-<img src="http://i.imgur.com/SdowAfp.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/SdowAfp.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 ### Dáváme peníze do komfortu
 
@@ -117,7 +117,7 @@ Vedou se totiž diskuze, jestli JIP mají být sloučené. My ovšem máme vizi 
 
 S Blanskem kooperujeme běžným způsobem jako dvě nemocnice ve spádové oblasti. Boskovická nemocnice je komplexnější, v Blansku jsou ovšem některé obory, které my nemáme, například neurologie. Spolupracujeme na nesmluvní bázi, ale myslím si, že dobře. Pacienty si dokážeme vzájemně přeposlat. Podobně to funguje v Letovicích, kde je jen následná péče. Naše vztahy jsou tam báječné. My tam posíláme pacienty, kteří potřebují následnou péči, oni je k nám naopak posílají na vyšetření nebo když potřebují akutní péči.
 
-<img src="http://i.imgur.com/dR59lL7.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/dR59lL7.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 ### Sehnat zkušeného lékaře je problém
 

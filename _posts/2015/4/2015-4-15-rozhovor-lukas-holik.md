@@ -1,13 +1,13 @@
 ---
 title: Politiku musíš milovat, jinak bys ji dělat nemohl, říká nový šéf boskovického ANO Lukáš Holík
 category: rozhovory
-cover-photo: http://i.imgur.com/lL46hlVl.jpg
+cover-photo: http://i.ohlasy.info/lL46hlVl.jpg
 author: Tomáš Trumpeš
 ---
 
 *Lukáš Holík vystudoval manažerskou informatiku a ekonomiku podniku na brněnském VUT, pracuje v mezinárodní energetické společnosti, kde má na starosti finanční administrativu. Je aktivní florbalista a basketbalista, zabývá se životním prostředím a organizuje úklidové akce. Před třicítkou vstoupil do politiky, vybral si hnutí ANO a po odstoupení Luďka Řehoře se asi před měsícem stal předsedou hnutí v Boskovicích. Proto nás zajímalo, co ho do politiky přivedlo a jaké má plány a názory.*
 
-<img src="http://i.imgur.com/lL46hlV.jpg" alt="Lukáš Holík" class="img-responsive">
+<img src="http://i.ohlasy.info/lL46hlV.jpg" alt="Lukáš Holík" class="img-responsive">
 
 **Lukáši, jsi nespokojený občan?**
 
@@ -49,7 +49,7 @@ Já jsem hrozný idealista.
 
 Příští rok bude sněm, který se bude přímo tímto zabývat, priority a cíle se ukotví. Můj hlavní cíl je transparentnost a snaha pomoci lidem. Názory určitě nemáme levicové. Podporujeme podnikatele a nechceme zvyšovat daně. Ideologii strany cítím středopravicově. 
 
-<img src="http://i.imgur.com/uUITVlE.jpg" alt="Lukáš Holík" class="img-responsive">
+<img src="http://i.ohlasy.info/uUITVlE.jpg" alt="Lukáš Holík" class="img-responsive">
 
 **Pojďme do Boskovic. Jaké si jako nový předseda boskovického hnutí ANO kladeš hlavní cíle?**
 
@@ -91,7 +91,7 @@ Já si osobně myslím, že programové prohlášení odráží náš program, j
 
 Není. Ale pro mě je to záležitost, u které bych chtěl, aby se už konečně vyřešila.
 
-<img src="http://i.imgur.com/V28dVo4.jpg" alt="Lukáš Holík" class="img-responsive">
+<img src="http://i.ohlasy.info/V28dVo4.jpg" alt="Lukáš Holík" class="img-responsive">
 
 **A jak by se mělo pokračovat?**
 

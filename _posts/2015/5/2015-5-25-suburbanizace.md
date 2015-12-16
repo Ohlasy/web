@@ -1,13 +1,13 @@
 ---
 title: Úskalí suburbanizace
 category: názory a komentáře
-cover-photo: http://i.imgur.com/KZ8hEuXl.jpg
+cover-photo: http://i.ohlasy.info/KZ8hEuXl.jpg
 author: Hynek Skořepa
 ---
 
 *Když jsem nedávno přijel z Čech, kde pracuji, na víkend domů na Moravu, do Letovic, čekaly mne ve schránce místní „okresní“ noviny Zrcadlo. V nich jsem se dočetl o [záměru výstavby rodinných domů a bytovek v Letovicích](http://www.zrcadlo.net/clanky/Letovice-se-rozrostou-studie-pocita-s-desitkami-novych-bytu-a-domu-1650/) v návaznosti na Komenského ulici (do polí směrem k letišti). Z informací v článku jsem se dozvěděl (s vlastní studií jsem bohužel neměl příležitost se seznámit), že tato studie, kterou by mělo na konci května projednávat letovické zastupitelstvo, tam počítá s výstavbou více než třiceti rodinných domů a dvaceti tří bytovek.*
 
-<img src="http://i.imgur.com/KZ8hEuX.jpg" alt="staveniště na volném prostoru" class="img-responsive">
+<img src="http://i.ohlasy.info/KZ8hEuX.jpg" alt="staveniště na volném prostoru" class="img-responsive">
 
 Musím přiznat, že mne to trochu vyděsilo. Jistě, rozumím tomu, že se město potřebuje rozvíjet. Není to však přece jen pro Letovice příliš velké sousto? Opravdu se najde těch studií předpokládaných 500 až 700 obyvatel? Jako geografovi mi v té chvíli proletělo hlavou slovo suburbanizace. Ano, suburbanizace, velký problém současnosti.
 

@@ -1,13 +1,13 @@
 ---
 title: „Tvoření je především svoboda,“ říká bývalá kurátorka Moravské galerie a nová pedagožka ZUŠ Yvona Ferencová
-cover-photo: http://i.imgur.com/qVRhE97l.jpg
+cover-photo: http://i.ohlasy.info/qVRhE97l.jpg
 category: rozhovory
 author: Martina Vašková
 ---
 
 *Osmnáct let působila Yvona Ferencová v Moravské galerii v Brně. Nejprve pracovala s dětmi, později vedla autorské projekty i přejaté výstavy. Připravovala výstavu pro československý pavilon na Bienále v Benátkách, dlouhodobě spolupracovala se současnými umělci, její publikace ke kolekci uměleckých děl pro nevidomé a slabozraké získala titul Nejkrásnější česká kniha 2001. Od letošního září se s Yvonou Ferencovou můžete potkávat i v Boskovicích.*
 
-<img src="http://i.imgur.com/qVRhE97.jpg" alt="Yvona Ferencová" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/qVRhE97.jpg" alt="Yvona Ferencová" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 **Jak se stane, že se kurátorka moderního a současného umění Moravské galerie v Brně ocitne v ZUŠ Boskovice?**
 
@@ -41,7 +41,7 @@ Nemám. Projekty takto dopředu neplánuji, vycházím vždy ze situace, která 
 
 Co se týče boskovické školy, provokuje mě nevyužitý potenciál různorodých oborů. Za dveřmi slýchám bubeníky a dětský orchestr, malé tanečnice schovávají balerínky po hodině tance. Vše se dá propojit. Můžeme například udělat části loutek z hlíny, výtvarka kulisy, pohádku vyberou děti z dramatického oddělení, rodiče ušijí kostýmy a všichni se zapojíme do společného dění. Mým takovým osobním cílem je, aby žáci pochopili, že v tvoření je především svoboda, aby se nebáli, že udělají něco špatně a tvořili hlavně s radostí. Budu šťastná, když časem budou vědět, kdo to byl Picasso, Giacometti, Giotto… ale to je nutné předávat po malých krocích. 
 
-<img src="http://i.imgur.com/pvF9eTK.jpg" alt="Yvona Ferencová" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/pvF9eTK.jpg" alt="Yvona Ferencová" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 **Je pro tebe reálné zapojit do dění v ZUŠ i umělce a autory, které znáš z galerie?**
 

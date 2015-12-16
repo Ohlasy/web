@@ -1,13 +1,13 @@
 ---
 title: Městská rada odvolala jednatele nemocnice Navrátila
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/tWmAU3Fl.jpg
+cover-photo: http://i.ohlasy.info/tWmAU3Fl.jpg
 category: zpravodajství
 ---
 
 *Jednatele boskovické nemocnice Dana Navrátila odvolala na svém úterním zasedání městská rada, která je zároveň valnou hromadou nemocnice. Podle starostky Hany Nedomové rada využila svého práva a podle obchodního zákoníku ředitele odvolala bez udání důvodu. Starostka pouze uvedla, že jednatel Navrátil ztratil u vedení města důvěru. „Víc vám k tomu neřeknu,“ sdělila na pravidelné tiskové konferenci.*
 
-<img src="http://i.imgur.com/tWmAU3F.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/tWmAU3F.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Řízením nemocnice je pověřena právě starostka Hana Nedomová, která ji má převzít již tento pátek ráno. Výběrové řízení na nového jednatele bude vypsáno v nejbližší době.
 

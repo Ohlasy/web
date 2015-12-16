@@ -1,13 +1,13 @@
 ---
 title: Obec jako firma
 category: názory a komentáře
-cover-photo: http://i.imgur.com/m2Dv8fql.jpg
+cover-photo: http://i.ohlasy.info/m2Dv8fql.jpg
 author: Marek Osouch 
 ---
 
 *Demokracie začíná v obci, jak už je známo ze starověkých Athén. Od řeckého slova polis také vznikl pojem politika, tedy správa obce, v té době městského státu. V České republice je struktura obcí naprosto unikátní a nemá v Evropě obdoby. Existuje zde více než šest tisíc obcí, kterým nikdo z centra nemůže nařídit, že mají peníze dát spíše na opravu chodníku než na výstavbu hřiště.*
 
-<img src="http://i.imgur.com/m2Dv8fq.jpg" alt="Blansko" class="img-responsive">
+<img src="http://i.ohlasy.info/m2Dv8fq.jpg" alt="Blansko" class="img-responsive">
 
 Před volbami do poslanecké sněmovny hlásal jeden nejmenovaný politik jednoho nejmenovaného hnutí, že chce stát řídit jako firmu. Všechno mělo být podle Andreje Babiše z hnutí ANO efektivní a centrální. Nakonec ale přišel na to, že to nejde. Naštěstí. Centralizace moci je něco, co jde proti samotné podstatě demokratického systému. Jedním z pilířů demokratického zřízení je totiž samospráva, tedy v českém případě kraje a obzvlášť obce. Každá má svého starostu, své zastupitelstvo, které volí lidé v komunálních volbách. Tato obec si sama hospodaří, sama schvaluje svůj rozpočet, své vyhlášky, poplatky za svoz odpadu. Nikdo jí nemůže z centra nakázat, jak se svými penězi naloží.
 

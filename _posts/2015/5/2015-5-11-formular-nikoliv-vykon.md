@@ -1,13 +1,13 @@
 ---
 title: Podstatou není výkon, ale formulář
 category: názory a komentáře
-cover-photo: http://i.imgur.com/9qhrhspl.jpg
+cover-photo: http://i.ohlasy.info/9qhrhspl.jpg
 author: Petr Vítámvás
 ---
 
 *„Mechanická, šablonovitá práce, puntičkářství, formalismus, hovění zastaralým zvykům, přílišné poručníkování, pohodlnost, libovůle, protahování záležitostí, vyřizování dle mrtvé litery zákonů, indolence vůči spravovaným, netečnost a odpor proti novotám.“ Takovýto soupis úřednických prohřešků přináší Ottův slovník naučný z roku 1891. Zdá se, že v tomto ohledu se v práci úřadů mnoho nezměnilo.*
 
-<img src="http://i.imgur.com/9qhrhsp.jpg" alt="kupa formulářů" class="img-responsive">
+<img src="http://i.ohlasy.info/9qhrhsp.jpg" alt="kupa formulářů" class="img-responsive">
 
 Vedle shora uvedených nešvarů má ovšem byrokracie vlastnost s mnohem závažnějšími důsledky. Vlastní rozpínavost. Historicky se úřadování vyvíjelo pozvolna, zpočátku se úřadovalo jen příležitostně, a také výstupy ve formě úředních dokumentů byly vydávány spíše ojediněle, postupem času se úřadování zdokonalovalo, s nástupem Habsburků se úřednický aparát rozrůstal a profesionalizoval, pověstnou se stala byrokracie rakousko-uherská (osobně si nejsem jist, zda by se jejím tehdejším kritikům nejevila ve srovnání se současnou mašinerií jako vstřícná a přátelská).
 

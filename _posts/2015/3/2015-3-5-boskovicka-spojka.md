@@ -1,13 +1,13 @@
 ---
 title: Boskovická spojka má nadále u vedení města podporu
 category: zpravodajství
-cover-photo: http://i.imgur.com/KXWSQJY.jpg
+cover-photo: http://i.ohlasy.info/KXWSQJY.jpg
 author: Marek Osouch
 ---
 
 *Vlakem z Boskovic do Brna? Až na výjimky jedině s přestupem ve Skalici nad Svitavou. Více než deset let si už ale místní i krajští politici hrají s myšlenkou propojit obě města přímým železničním spojením nazývaným boskovická spojka. Bývalé vedení Boskovic v čele s ODS spojku do Brna podporovalo. Nynější koalice pokračuje ve stejné politice.*
 
-<img src="http://i.imgur.com/KXWSQJY.jpg" alt="cestující přestupují ve Skalici nad Svitavou" class="img-responsive">
+<img src="http://i.ohlasy.info/KXWSQJY.jpg" alt="cestující přestupují ve Skalici nad Svitavou" class="img-responsive">
 
 Našla celkem osm výhod, které z vybudování spojky budou cestující a Boskovice mít. Od zvýšení pohodlí pro cestující, lepší dopravu pro turisty, přes kratší jízdu až po elektrifikaci a odhlučnění trati. „Jedná se o stavbu velkého významu. Jejím účelem je přímé a kvalitní spojení do Brna,“ prohlásila starostka Boskovic Hana Nedomová. Investorem více než miliardového projektu by však nebyly Boskovice, nýbrž stát.
 

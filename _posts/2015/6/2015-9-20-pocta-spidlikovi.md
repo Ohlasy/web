@@ -1,13 +1,13 @@
 ---
 title: Pocta kardinálu Špidlíkovi? Do třetice by to mohlo vyjít
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/5zsBQh9l.jpg
+cover-photo: http://i.ohlasy.info/5zsBQh9l.jpg
 category: názory a komentáře
 ---
 
 *Cenu Jihomoravského kraje udělilo minulý týden krajské zastupitelstvo in memoriam boskovickému rodákovi, kardinálu Tomáši Špidlíkovi. Za normálních okolností by to člověka mohlo naplnit radostí a uspokojením. Okolnosti však bohužel normální nejsou. Kardinál Špidlík totiž dostává ocenění od instituce, kterou reprezentuje na nejvyšší pozici člověk, který neúnavně a vehementně nejen v posledních dnech, ale dlouhodobě pošlapává přesně ty hodnoty, které jsou se jménem laskavého a moudrého kardinála spjaty.*
 
-<img src="http://i.imgur.com/5zsBQh9.jpg" alt="pamětní deska kardinála Špidlíka na boskovickém gymnáziu" class="img-responsive" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/5zsBQh9.jpg" alt="pamětní deska kardinála Špidlíka na boskovickém gymnáziu" class="img-responsive" data-author="Tomáš Trumpeš">
 
 Hejtman Michal Hašek, který se v minulosti projevil jako nestoudný lhář a intrikář, dnes naskakuje na vlnu xenofobie, malosti a nenávisti. Ani to však u něj není novinka, již dříve se takto prezentoval kupříkladu ve vztahu k brněnskému Roku smíření. Jméno kardinála Špidlíka je přitom spjato právě s tématy tolerance, mezináboženského a mezikulturního dialogu, smíření a odpouštění. 
 
@@ -15,7 +15,7 @@ Je pochopitelné, že se křesťanskodemokratická strana snaží pečovat o odk
 
 Tato hořkost by však neměla překrýt vědomí, že ani Boskovicím se doposud příliš nepovedlo se s odkazem významného rodáka vyrovnat. Některé osobnosti, které se v Boskovicích vehementně připomínají, přitom neměly, ruku na srdce, význam zdaleka takový jako on. O kardinálu Špidlíkovi nebudiž v tomto ohledu nejmenších pochyb. Podobné osobnosti se světovým dosahem vzešly z Boskovic v posledních desetiletích snad jen dvě, přičemž je poněkud ostudné, že [v předvolebním kvízu Blanenského deníku](http://g.denik.cz/50/53/1008-boskovice.jpg) se ukázalo, že fotografa Josefa Koudelku nezná z lídrů politických stran, jež nakonec ve městě uspěly, ani jeden. Josef Koudelka se ovšem v Boskovicích narodil řekněme pouze řízením osudu, sláva jeho původu správně náleží Valchovu. A je stále v plné službě svému poslání.
 
-<img src="http://i.imgur.com/MUstOgs.jpg" alt="fotografie Tomáše Špidlíka s věnováním Boskovicím" class="img-responsive img-framed" data-author="boskovice.cz">
+<img src="http://i.ohlasy.info/MUstOgs.jpg" alt="fotografie Tomáše Špidlíka s věnováním Boskovicím" class="img-responsive img-framed" data-author="boskovice.cz">
 
 Kardinál Tomáš Špidlík SJ zemřel před pěti lety a na skutečně významné připomenutí v Boskovicích stále čeká. V minulosti se objevily dva pokusy o jeho trvalejší připomínku ve městě – návrh, aby jeho jméno neslo místní gymnázium, a návrh pojmenovat po něm jednu z nových ulic pod hřbitovem. Ani jeden z těchto návrhů se však nesetkal s dostatečnou podporou. Ten první přišel možná příliš rychle a působil trochu neuváženě, proti tomu druhému se postavili obyvatelé dnešní Lipové ulice. Musím říct, že ani mně se ten návrh moc nelíbil, odbýt kardinála pojmenováním periferní ulice mi vlastně přišlo nedostatečné. Na gymnáziu je dnes alespoň pamětní deska a moc pěkná je i skutečnost, že na náměstí bylo nedávno otevřeno sympatické [Knihkupectví Tomáše Špidlíka](https://www.facebook.com/KnihkupectviTomaseSpidlika).
 
