@@ -17,7 +17,7 @@ Smutný stav investic do kultury dokládá i následující srovnání s penězi
 
 <img src="http://i.imgur.com/IUIqORA.png" alt="srovnání investic do kultury, Boskovice versus průměr ČR" class="img-responsive img-framed img-popup" data-author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz">
 
-Jak vidíme, poslední podstatnou investicí v tomto směru byla rekonstrukce zámeckého skleníku v roce 2002; od té doby Boskovice investují do kultury spíše podprůměrně. Částka navržená pro kulturu v roce 2016 je v absolutních číslech nejnižší za posledních patnáct let:
+Jak vidíme, poslední podstatnou investicí v tomto směru byla rekonstrukce zámeckého skleníku v roce 2002; od té doby Boskovice investují do kultury spíše podprůměrně. Částka navržená pro kulturu v roce 2016 je v absolutních číslech nejnižší za posledních patnáct let (viz též [zdrojová data grafů](https://goo.gl/8W2mLY)):
 
 <img src="http://i.imgur.com/9BwP8Ou.png" alt="vývoj boskovických investic do kultury od roku 2000" class="img-responsive img-framed img-popup" data-author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz">
 
