@@ -18,11 +18,6 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Evangelické adventní koncerty
-  image: http://i.ohlasy.info/ivwlbz9.png
-  alt: Evangelické adventní koncerty každou neděli do Vánoc
-  url: http://i.ohlasy.info/DshaCNW.png
-  priority: 1000
 - name: Hotel Slavia
   image: http://i.ohlasy.info/RSnFPAt.jpg
   alt: "Hotel Slavia: polední menu, víkendové speciality, salónky, živá hudba"
