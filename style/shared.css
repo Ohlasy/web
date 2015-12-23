@@ -45,6 +45,10 @@ h2, h3 {
     margin-bottom: 30px;
 }
 
+.article-preview h2 {
+    color: rgb(148, 82, 0);
+}
+
 .article-preview a, .article-preview a:hover {
     display: block;
     text-decoration: none;
