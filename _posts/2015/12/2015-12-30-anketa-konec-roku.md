@@ -1,5 +1,5 @@
 ---
-title: "Anketa: Jakou dobrou a důležitou zkušenost jste v roce 2015 udělali?"
+title: "Anketa: Zkušenost roku 2015"
 cover-photo: http://i.imgur.com/rSb3y2el.jpg
 author: Tomáš Trumpeš
 category: ankety
