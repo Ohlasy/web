@@ -5,7 +5,7 @@ cover-photo: http://i.imgur.com/PTzsip7.jpg
 
 ---
 
-*Řešit netradičním způsobem nedostatek parkovacích míst ve městě se v příštím roce pravděpodobně pokusí boskovická radnice. Podle informace Ohlasů se na příští jednání rady připravuje materiál, který počítá s vyhlášením veřejné soutěže, v rámci které by občané aktivně vyhledávali a upozorňovali vedení města na zbytné lokality městské zeleně, místo kterých by mohla vniknout právě nová parkovací místa. Kdo tímto způsobem ohlásí a zajistí nejvyšší počet parkovacích stání, bude odměněn.*
+*Řešit netradičním způsobem nedostatek parkovacích míst ve městě se v příštím roce pravděpodobně pokusí boskovická radnice. Podle informace Ohlasů se na příští jednání rady připravuje materiál, který počítá s vyhlášením veřejné soutěže, v rámci které by občané aktivně vyhledávali a upozorňovali vedení města na zbytné lokality městské zeleně, místo kterých by mohla vzniknout právě nová parkovací místa. Kdo tímto způsobem ohlásí a zajistí nejvyšší počet parkovacích stání, bude odměněn.*
 
 <img src="http://i.imgur.com/PTzsip7.jpg" alt="auta" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
