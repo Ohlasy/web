@@ -18,10 +18,10 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Hotel Slavia
-  image: http://i.ohlasy.info/RSnFPAt.jpg
-  alt: "Hotel Slavia: polední menu, víkendové speciality, salónky, živá hudba"
-  url: http://www.restaurace-boskovice.cz
+- name: Galerie OK
+  image: http://i.imgur.com/VqZLMrU.png
+  alt: "Galerie Otakara Kubína"
+  url: http://www.galerie-ok.cz/
   priority: 1000
 - name: Inzerujte u nás
   image: http://i.ohlasy.info/TYzRjZP.png
