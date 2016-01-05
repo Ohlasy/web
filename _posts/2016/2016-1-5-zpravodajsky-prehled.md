@@ -34,7 +34,7 @@ V Letovicích tak trochu [nečekaně schválili na návrh opozice zákaz hazardu
 
 Pomalu se ujasňuje, [kdo půjde do boje o senát](http://blanensky.denik.cz/zpravy_region/boj-o-senat-regec-jeste-nezna-vsechny-soupere-20151218.html). Za ČSSD by to měl být blanenský starosta Ivo Polák, za KDU-ČSL ohlásila kandidaturu boskovická místostarostka Jaromíra Vítková. Znovu chce kandidovat i stávající senátor Josef Regec, ovšem nikoliv za ČSSD, za kterou byl zvolen v minulých volbách, aby pak přeběhl do Strany práv občanů. 
 
-O kandidaturu za ODS se [pro senátní volby uchází primář Jan Machač](http://blanensky.denik.cz/zpravy_region/boj-o-senat-regec-jeste-nezna-vsechny-soupere-20151218.html), který se vzdal zastupitelského mandátu, získaného prozměnu za KDU-ČSL. Boskovice tak mají nového zastupitele – Tomáše Pléhu.
+O kandidaturu za ODS se [pro senátní volby uchází primář Jan Machač](http://blanensky.denik.cz/zpravy_region/boj-o-senat-regec-jeste-nezna-vsechny-soupere-20151218.html), který se vzdal zastupitelského mandátu, získaného pro změnu za KDU-ČSL. Boskovice tak mají nového zastupitele – Tomáše Pléhu.
 
 Pokročily [přípravy na vybudování nové silnice mezi Boskovicemi a Blanskem](http://blanensky.denik.cz/zpravy_region/vykupuji-pozemky-nova-silnice-mezi-blanskem-a-boskovicemi-je-o-krok-bliz-20151220.html).
 
