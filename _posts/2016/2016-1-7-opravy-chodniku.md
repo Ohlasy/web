@@ -11,8 +11,6 @@ category: zpravodajství
 
 Pro letošek ale krajské investice Boskovice neminou. Začne se budovat dlouho plánované parkoviště v Hybešově ulici na pozemku Vyšší odborné školy, na něž Boskovice ze svého rozpočtu přispějí 2,7 milionu korun, kraj zaplatí 1,6 milionu a Svazek vodovodů a kanalizací zhruba 1,4 milionu. Celkem by tedy měla výstavba 40 parkovacích míst přijít na téměř 6 milionů. Pokračovat se bude také v opravě krajské silnice v Pilském údolí, která bude uzavřená až do konce května.
 
-<img src="http://i.imgur.com/0lqu2TI.jpg" alt="oprava silnice v Pilském údolí" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
-
 Na Dukelskou by mohlo dojít ovšem až v roce 2017. Jednat s krajem o opravě silnice dostala za úkol místostarostka Jaromíra Vítková (KDU-ČSL), která je zároveň krajskou zastupitelkou a svůj post hodlá letos na podzim v krajských volbách obhajovat.
 
 Rekonstrukce má být celková, tedy včetně kanalizací nebo chodníků. „V rámci opravy ulice je nezbytné zrekonstruovat kanalizaci od Betany po most, dále osmdesát let starý vodovod od mostu po splav a šedesát let starý vodovod od hotelu Moravia dál v úseku zhruba 450 metrů,“ stojí v zápisu z rady. Jen rekonstrukce kanalizací a vodovodů by měla vyjít Svazek vodovodů a kanalizací na zhruba osm milionů, pak by přišel na řadu kraj a město. Kraj by zrekonstruoval silnici, město veřejné osvětlení a chodník od Betany až po most, což by vyšlo na tři čtvrtě milionu korun.
