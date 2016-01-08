@@ -1,5 +1,5 @@
 ---
-title: "Z muzejních depozitářů: Mapy a plány Boskovic"
+title: "Z muzejního depozitáře: Mapy a plány Boskovic"
 cover-photo: http://i.ohlasy.info/EIcVG9F.jpg
 category: seriály
 serial: depozitar
