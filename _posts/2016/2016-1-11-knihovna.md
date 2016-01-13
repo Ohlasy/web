@@ -123,7 +123,7 @@ OLDŘICH KOVÁŘ: Je to dávno i povahou a skladbou lidí, kteří do knihovny c
 
 MIROSLAVA JURDIČOVÁ: To je určitě důležité, tohle je právě také knihovnický standard, knihovna má být dostupná. Já jsem hodně na dětském oddělení a vidím, jak pro děti ze Zelené je to šílená výhoda. Než odjedou autobusy na venkov, je knihovna plná. Knihovna určitě musí být ve středu města.
 
-OLDŘICH KOVÁŘ: To byla snad jedna z mála výhod přemístění z ulice Hradní. Ač jsme tam měli luxusních více než tisíc čtverečních metrů, dostupnost po přesunu sehrála svou roli a trochu kompenzovala chybějící metry. Ono se sem chodí jednak půjčovat, ale některé děti sem chodí třeba každý den, zastaví se tady při cestě ze školy. A senioři, když zapršelo nebo namrzlo, už nahoru do kopce na Hradní nepřišli. Tady to mají u nosu. Já i z tohoto důvodu pořád preferuji tu původní ideu knihovny v ZZN. To je pro nás úplně ideální místo.
+OLDŘICH KOVÁŘ: To byla snad jedna z mála výhod přemístění z ulice Hradní. Ač jsme tam měli luxusních více než tisíc čtverečních metrů, dostupnost po přesunu sehrála svou roli a trochu kompenzovala chybějící metry. Ono se sem chodí jednak půjčovat, ale některé děti sem chodí třeba každý den, zastaví se tady při cestě ze školy. A senioři, když zapršelo nebo namrzlo, už nahoru do kopce na Hradní nepřišli. Tady to mají u nosu. Já i z tohoto důvodu pořád preferuji tu původní ideu knihovny v [ZZN](https://mapy.cz/s/pixF). To je pro nás úplně ideální místo.
 
 **Je pro vás důležitější být v centru než mít možnost většího parkoviště okolo budovy? Máte vypozorované, jestli k vám většina čtenářů chodí či jezdí?**
 
