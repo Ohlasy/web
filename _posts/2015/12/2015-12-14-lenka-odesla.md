@@ -1,5 +1,5 @@
 ---
-title: Hlas, který bude chybět (Za Lenkou Bařinkovou)
+title: Hlas, který bude chybět (Za Lenkou Bařinkovou)
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/ieQVTWal.jpg
 disable-ads: true
