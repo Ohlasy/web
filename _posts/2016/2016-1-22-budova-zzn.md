@@ -5,7 +5,7 @@ category: zpravodajství
 author: Tomáš Trumpeš
 ---
 
-*Budova bývalého ZZN na ulici kapitána Jaroše, dnes sídlo Mountfieldu a prodejny nábytku Idyla, je stále asi nejzvažovanější variantou pro řešení nových prostor pro boskovickou knihovnu. Ta sídlí už devatenáct let v provizoriu – v přízemí budovy takzvaného okresňáku, tedy dříve okresního, nyní městského úřadu. Hlavní výhody budovy ZZN jsou v dostatečném metru potřebných čtverečních metrů a kýžené poloze v centru města.*
+*Budova bývalého ZZN na ulici kapitána Jaroše, dnes sídlo Mountfieldu a prodejny nábytku Idyla, je stále asi nejzvažovanější variantou pro řešení nových prostor pro boskovickou knihovnu. Ta sídlí už devatenáct let v provizoriu – v přízemí budovy takzvaného okresňáku, tedy dříve okresního, nyní městského úřadu. Hlavní výhody budovy ZZN jsou v dostatečném počtu potřebných čtverečních metrů a kýžené poloze v centru města.*
 
 <img src="http://i.imgur.com/BznGzf7.jpg" alt="budova ZZN" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
