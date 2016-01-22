@@ -21,6 +21,8 @@ K největším výhodám budovy ZZN tedy patří dobrá poloha, potřebná ploch
 
 <img src="http://i.imgur.com/Ttm2JL2.jpg" alt="mapa městských pozemků" class="img-responsive img-popup" data-author="ČÚZK">
 
+*Pozemky v okolí ZZN; červeně vyznačené patří městu Boskovice.*
+
 Podobné přestavby podle Radka Pernicy nefungují dobře a působí problémy i v dalších případech. Pro Boskovice jsou totiž, zdá se, obvyklým způsobem řešení. „Kino se nastěhovalo do tanečního sálu, kulturní sál se nastěhoval do bývalé oranžerie a nic z toho nefunguje, tak jak má, a to potvrdí lidé, kteří tyto provozy obsluhují. Nemůžu si tedy myslet, že když knihovnu nastěhujeme do obchodu, že to bude do budoucna dobré,“ říká Radek Pernica a se skutečností, že pro novou budovu není jinde v centru města místo, se vyrovnává razantním návrhem: „Tak pojďme ZZN zbourat, jako v Blansku zbourali Duklu, a máme královský pozemek pro stavbu nové reprezentační knihovny pro několik generací.“
 
 Místostarosta Petr Malach, který má kulturu na starosti, uvedl, že město dnes sbírá všechny dosud vzniklé studie a potřebné informace. „Do konce února chceme mít všechno pohromadě, pak řekneme, jak v diskusi o knihovně pokračovat dál,“ vyjádřil se místostarosta. Podle dostupných informací je zřejmé, že budova ZZN se pro knihovnu jeví jako nejpravděpodobnější. Respektive buď budova, nebo pozemek po ní.
