@@ -1,7 +1,7 @@
 ---
-title: "Město – životní prostor s důrazem na dopravu"
+title: "Město – životní prostor s důrazem na dopravu"
 cover-photo: http://i.imgur.com/EkJWkh1l.jpg
-cathegory: názory a komentáře
+category: názory a komentáře
 author: Jiří Klimek
 ---
 
