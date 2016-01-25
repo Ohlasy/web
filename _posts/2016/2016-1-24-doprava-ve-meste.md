@@ -49,4 +49,4 @@ Kodaň se již na konci šedesátých let vydala opačným směrem, než jaký b
 
 Podobně se experiment v New Yorku stal trvalým řešením: v létě 2008 bylo sedm bloků slavné ulice Broadway v New Yorku zúženo ze čtyř pruhů na dva. V květnu 2009 byly části Broadwaye, mezi nimi i Times Square, [na zkoušku uzavřeny pro auta](http://www.auto-mat.cz/2012/05/jak-se-zmenil-times-square-v-pesi-zonu/). Prostor se zaplnil stoly, lavičkami, květináči a hlavně lidmi. Byl to nepřehlédnutelný úspěch. Po půl roce už bylo jasné, že experiment zůstane natrvalo. Zajímavým ukazatelem je, že uzavření Times Square pro auta dokonce zkrátilo dojezdové časy taxíků a MHD v okolí…
 
-Když to jde v New Yorku, musí to jít kdekoli, a já věřím, že i v naší republice a v našem městě najdeme taková řešení, která budou vytvářet životní prostor určený určený především pro lidi.
+Když to jde v New Yorku, musí to jít kdekoli, a já věřím, že i v naší republice a v našem městě najdeme taková řešení, která budou vytvářet životní prostor určený především pro lidi.
