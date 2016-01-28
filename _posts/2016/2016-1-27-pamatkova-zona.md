@@ -5,7 +5,7 @@ category: zpravodajství
 author: Tomáš Trumpeš
 ---
 
-*Vstřícný krok vůči vlastníkům nemovitostí v Městské památkové zóně (MPZ) připravily od letošního roku Boskovice. Konkrétně se jedná o nový dotační program, který je určen majitelům těch nemovitostí, které jsou součástí MPZ, ale samostatně nemají status kulturní památky. Majitelé těchto domů musejí při rekonstrukcích dodržovat pravidla daná regulačním plánem MPZ, doteď však neměli žádnou příležitost dosáhnout na příspěvky, které by jim pomohly finančně nákladnější opravy hradit.*
+*Vstřícný krok vůči vlastníkům nemovitostí v Městské památkové zóně (MPZ) připravily od letošního roku Boskovice. Konkrétně se jedná o nový dotační program, který je určen majitelům těch nemovitostí, které jsou součástí MPZ, ale samostatně nemají status kulturní památky. Majitelé těchto domů musejí při rekonstrukcích dodržovat pravidla daná [regulačním plánem MPZ](http://www.boskovice.cz/VismoOnline_ActionScripts/File.ashx?id_org=832&id_dokumenty=27409), doteď však neměli žádnou příležitost dosáhnout na příspěvky, které by jim pomohly finančně nákladnější opravy hradit.*
 
 <img src="http://i.imgur.com/DDM4oqQ.jpg" alt="městská památková zóna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
