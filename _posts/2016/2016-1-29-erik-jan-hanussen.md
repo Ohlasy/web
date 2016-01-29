@@ -1,6 +1,7 @@
 ---
 title: Hitlerův ezoterik Hanussen chodil do boskovické židovské školy
 cover-photo: http://i.imgur.com/c2XO66S.jpg
+category: seriály
 author: Helena Janíková
 ---
 
