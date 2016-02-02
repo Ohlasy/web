@@ -4,6 +4,8 @@ name: Ohlasy
 description: 'Internetové noviny pro Boskovice a okolí'
 url: 'http://ohlasy.info'
 
+gems: ['jekyll-paginate']
+
 permalink: '/clanky/:year/:month/:title.html'
 paginate_path: "/clanky/strana/:num"
 paginate: 7
