@@ -53,6 +53,6 @@ Ve výsledku si ale nejsem jistý, jestli by případná rekonstrukce vycházej�
 
 <img src="http://i.imgur.com/iePyoeG.jpg" class="profile-picture" alt="Petr Zouhar">
 
-**Petr Zouhar, vedoucí odboru investic MěÚ Boskovice**
+**Petr Zouhar, vedoucí odboru rozvoje města a investic MěÚ Boskovice**
 
 Prostor v centru města na místě bývalé prodejny má pro umístění knihovny podle mne celou řadu předpokladů. Pokud stavebně technický stav a statika železobetonového skeletu radikální přestavbu umožní, dovedu si představit, jak na základě promyšleného kvalitního architektonického návrhu vznikne budova, která se stávající „normalizační“ podobou nebude mít nic společného a současně vyhoví všem nárokům na současnou moderní knihovnu. 
