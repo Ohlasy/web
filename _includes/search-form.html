@@ -1,0 +1,15 @@
+<script>
+function decorateSearch() {
+    var q = $('#search-form .query').val();
+    $('input[name="q"]').val(q + " site:ohlasy.info")
+}
+</script>
+<form id="search-form" action="http://www.google.cz/search" onsubmit="decorateSearch()">
+    <div class="input-group input-group-lg">
+        <input type="hidden" name="q">
+        <input type="text" class="query form-control" name="original-query" placeholder="klid duše" size="31">
+        <span class="input-group-btn">
+            <input type="submit" class="btn btn-primary" name="sa" value="Hledej">
+        </span>
+    </div>
+</form>
