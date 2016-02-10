@@ -41,7 +41,7 @@ Jako projektant se rád věnuji rekonstrukcím v případech popsaných v první
 
 <img src="http://i.imgur.com/wO4wXRi.jpg" class="profile-picture" alt="Petr Ondráček">
 
-**Petr Ondráček, [A Plus Brno](http://www.aplus.cz/)**
+**Petr Ondráček, [AiD Team](http://www.aid.as.cz/)**
 
 Rád bych na tuto jasně položenou otázku dal jasnou odpověď, ale myslím, že zaškrtnout jednoduše variantu novostavba nebo rekonstrukce by nebylo profesionální.
 
