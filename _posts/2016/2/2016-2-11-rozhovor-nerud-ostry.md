@@ -123,7 +123,8 @@ MARTIN NERUD: Ono to funguje fantasticky, zažili jsme to třeba teď u Rybovky.
 FRANTIŠEK OSTRÝ: Já bych to taky ocenil, i když hlavně má sbor zpívat sám. Jinak to má za následek, že sboristé spoléhají na to, že orchestr bude ladit a oni se nějak přiladí. Pro sbor je dobré, když zpívá acapellově, a pak je úžasné, když si občas může zazpívat s orchestrem. Stejně tak orchestr by měl hrát sám a dobře se sehrát.
 
 MARTIN NERUD: Ideální je, aby fungoval každý samostatně a jen občas se to spojilo, to je dramaturgicky velmi vděčné. 
-A je tady na postavení takového orchestru dost muzikantů?
+
+**A je tady na postavení takového orchestru dost muzikantů?**
 
 MARTIN NERUD: Katastrofální je nedostatek smyčců. Dechů je dost.
 
