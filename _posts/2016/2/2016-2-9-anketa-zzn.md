@@ -29,7 +29,7 @@ Je zbytečné budovu bourat. Je to mrhání penězi. Dá se bez problému přest
 
 <img src="http://i.imgur.com/SkICOkT.jpg" class="profile-picture" alt="Mirko Lev">
 
-**Miro Lev, [RadaArchitekti](http://www.radaarchitekti.cz), [starchitects](http://starchitects.cz/)**
+**Mirko Lev, [starchitects](http://starchitects.cz/)**
 
 Rekonstrukci bych volil, pokud se jedná o budovu památkově chráněnou nebo budovu s nespornými architektonickými kvalitami převyšujícími obvyklou výstavbu; budovu, která bude po přestavbě využita k účelu blízkému původnímu, která silně ovlivňuje vzhled souboru staveb, která vytvořila identitu místa, na kterou se vážou vzpomínky a zážitky generací, nebo která disponuje neobvyklými prostorovými kvalitami.
 
