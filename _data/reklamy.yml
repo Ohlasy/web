@@ -9,9 +9,9 @@
   url: http://www.naturehome.cz/
   priority: 1000
 - name: KZMB
-  image: http://i.imgur.com/vcTlruh.png
+  image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
-  url: http://www.kulturaboskovice.cz/kino/akce/william-shakespeare-hamlet
+  url: http://www.kulturaboskovice.cz/
   priority: 1000
 - name: Muzeum
   image: http://i.imgur.com/PWNALC5.png
