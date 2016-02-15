@@ -26,7 +26,7 @@ A co nás čeká v následujících letech? Každý rok nejméně jedny volby.
 * 2026 Komunální volby a senátní volby 
 * 2027 ŽÁDNÉ VOLBY (konečně)
 
-Člověku se z toho výčtu voleb může až zatočit hlava. Přitom jde jen o hodinku, kterou zabere cesta do volební místnosti, vyplnění volebního lístku, jeho vhození do runy a cesta zpět. Ani tuto hodinku ale mnozí nevěnují tomu, čeho jsme dosáhli v roce 1990 – svobodným volbám.
+Člověku se z toho výčtu voleb může až zatočit hlava. Přitom jde jen o hodinku, kterou zabere cesta do volební místnosti, vyplnění volebního lístku, jeho vhození do urny a cesta zpět. Ani tuto hodinku ale mnozí nevěnují tomu, čeho jsme dosáhli v roce 1990 – svobodným volbám.
 
 Samozřejmě seznam termínů voleb bude platit, jen když se nám nerozpustí sněmovna nebo se z nějakých důvodů neuvolní úřad prezidenta. První případ není vzhledem ke stabilitě vlád v posledních dvou desetiletích vůbec nepravděpodobný, spíše naopak. V druhém případě bychom se k podobným případům museli vrátit až do dob komunistického režimu, kdy byl kupříkladu v roce 1968 reformním proudem uvnitř KSČ donucen k rezignaci prezident Antonín Novotný, kterého následně nahradil Ludvík Svoboda. Stát se však může cokoliv i v současnosti.
 
