@@ -3,7 +3,7 @@ title: „První věcí bude letní kino. Sportovní hala se v tomto období sta
 cover-photo: http://i.imgur.com/osw6uDSl.jpg
 category: rozhovory
 author: Tomáš Trumpeš
-date: 2016-02-16 18:00:45
+date: 2016-02-16 10:00:45
 tags: politika, volby, sportovní hala, knihovna, letní kino, lezecká stěna, sokolovna, Červená zahrada
 names: Petr Malach, Michal Hašek, Bohuslav Sobotka
 ---
