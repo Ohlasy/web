@@ -23,11 +23,6 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Gymnázium
-  image: http://i.imgur.com/bAn7o3L.jpg
-  alt: den otevřených dveří na Gymnáziu Boskovice
-  url: http://gymbos.cz/
-  priority: 1000
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
