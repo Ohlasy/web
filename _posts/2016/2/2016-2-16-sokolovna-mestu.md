@@ -6,7 +6,7 @@ category: zpravodajství
 tags: sokolovna
 ---
 
-Zanedbaný interiér boskovické sokolovny člověka odrazuje hned po vstupu. Budovu vlastní Česká obec sokolská, pro kterou je ale její provoz v poslední době ekonomicky téměř neudržitelný. O nutných opravách interiérů není možné mluvit už vůbec. Podle jednatele boskovických sokolů Karla Malacha je jediným východiskem převod budovy na město.
+*Zanedbaný interiér boskovické sokolovny člověka odrazuje hned po vstupu. Budovu vlastní Česká obec sokolská, pro kterou je ale její provoz v poslední době ekonomicky téměř neudržitelný. O nutných opravách interiérů není možné mluvit už vůbec. Podle jednatele boskovických sokolů Karla Malacha je jediným východiskem převod budovy na město.*
 
 <img src="http://i.imgur.com/pR9rXn3.jpg" alt="interiér sokolovny" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
