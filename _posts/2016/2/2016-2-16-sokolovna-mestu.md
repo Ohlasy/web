@@ -3,6 +3,7 @@ title: Sokolovnu nejspíš převezme město
 cover-photo: http://i.imgur.com/pR9rXn3l.jpg
 author: Marek Osouch
 category: zpravodajství
+date: 2016-02-16 09:40:45
 tags: sokolovna
 names: Karel Malach
 ---
