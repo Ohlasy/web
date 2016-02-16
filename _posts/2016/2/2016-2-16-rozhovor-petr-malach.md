@@ -52,7 +52,7 @@ Dnes máme dvě budovy ve vlastnictví města: bývalý ZZN market a O2. Pokud b
 
 **Máš pocit, že panuje shoda na budově ZZN, nebo očekáváš ještě diskusi na toto téma a zvažování dalších variant?**
 
-10\. března je veřejná diskuse s občany ve skleníku, bude dobré, když se tam tato otázka bude probírat. Ať občané řeknou, jaký na to mají názor. Já se v Boskovicích samozřejmě potkávám s různými lidmi, někteří řeknou, že je to dobré místo, jiní řeknou, že je to budova v komunistickém stylu, to jsou hlavně ti mladší. Ale ta budova by měla staticky vyhovovat, pokud by se knihovna umístila tam, myslím, že by to byla krásná budova ve středu města s lehkou dostupností. Plánovala se tam původně knihovna, depozitář pro muzeum a zázemí pro klub důchodců. To je dnes také nedostačující.
+10\. března je veřejná diskuse s občany ve skleníku, bude dobré, když se tam tato otázka bude probírat. Ať občané řeknou, jaký na to mají názor. Já se v Boskovicích samozřejmě potkávám s různými lidmi, někteří řeknou, že je to dobré místo, jiní řeknou, že je to budova v komunistickém stylu, to jsou hlavně ti mladší. Ale ta budova by měla staticky vyhovovat, pokud by se knihovna umístila tam, myslím, že by to byla krásná knihovna ve středu města s lehkou dostupností. Plánovala se tam původně knihovna, depozitář pro muzeum a zázemí pro klub důchodců. To je dnes také nedostačující.
 
 **Budete prosazovat cestu architektonické soutěže? Vnímá dnes vedení města, že je třeba nejen fyzicky řešit prostory pro knihovnu, ale je to taky šance město obohatit o kvalitní architekturu? To se vlastně týká i haly.**
 
@@ -96,11 +96,11 @@ Centrum se bude usazovat do svahu, bylo by tam asi devět metrů.
 
 Nejdříve ke skleníku a KZMB: rekonstrukce katolického domu a skleníku už taky proběhla před nějakým časem, všechno má svou životnost a sami vidíme, že to stárne. Pozitivní krok je, že budeme skleník klimatizovat, v dubnu či květnu by mělo začít ukládání klimatizace.
 
-Podle informací, které mám, nejsou dnes Sokolové v dobré finanční kondici a mělo by se jednat o převodu pod město. Paní starostka byla na jednání, kde byla i starostka Sokola z Prahy. Za sebe můžu říct, že jsem sokolovnu vždycky bral jako takový domov kultury v Boskovicích, rekonstrukci by si zasloužila. A pokud bude možnost vzít ji pod město, bude to jenom dobře.
+Podle informací, které mám, nejsou dnes sokolové v dobré finanční kondici a mělo by se jednat o převodu pod město. Paní starostka byla na jednání, kde byla i starostka Sokola z Prahy. Za sebe můžu říct, že jsem sokolovnu vždycky bral jako takový domov kultury v Boskovicích, rekonstrukci by si zasloužila. A pokud bude možnost vzít ji pod město, bude to jenom dobře.
 
 **Dokázalo by se dnes město sokolovny ujmout? A zajistit rekonstrukci tak, aby ten sál mohl důstojně fungovat?**
 
-Myslím si, že určitě. Myslím, že my jako vedení města, rada, zastupitelstvo, ale i občané všichni musíme vnímat, že sokolovna je velkým kulturním stánkem a je to opravdu trochu ostuda – ne města, ale Sokolů – jak dneska vypadá. Když se na to podíváme celkově – dveře, bar, toalety – je potřeba vzít to do rukou. Otázka je, jestli by to braly Služby, nebo KZMB.
+Myslím si, že určitě. Myslím, že my jako vedení města, rada, zastupitelstvo, ale i občané všichni musíme vnímat, že sokolovna je velkým kulturním stánkem a je to opravdu trochu ostuda – ne města, ale sokolů – jak dneska vypadá. Když se na to podíváme celkově – dveře, bar, toalety – je potřeba vzít to do rukou. Otázka je, jestli by to braly Služby, nebo KZMB.
 
 **Mluvili jsme o tom, že těch zajíců je hodně. Nová sportovní hala, nová knihovna, zrekonstruovaný letňák, reprezentativní kulturní sál v sokolovně. Kdyby sis měl tipnout – kde se bude jako první „stříhat páska“?**
 
