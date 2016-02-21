@@ -1,5 +1,5 @@
 ---
-title: Nejdřív dialog, potom investice
+title: Nejdřív dialog, potom investice do lepších Boskovic
 cover-photo: http://i.imgur.com/RC7quF5.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
