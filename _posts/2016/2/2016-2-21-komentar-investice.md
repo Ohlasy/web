@@ -16,7 +16,7 @@ Jednu důležitou rozbitou věc jsme ale za čtvrt století svobody neopravili: 
 
 Jednu stranu této debaty tvoří občané, kteří byli na dlouhá léta po převratu zmrzačeni pocitem, že veřejná správa je cosi temného a nebezpečného. Teprve postupně se mnozí osmělili přejít do následující úrovně. Tou se ale bohužel nestala fáze sebevědomého voliče, který se chce konstruktivně podílet na správě města, nýbrž fáze voliče, který už se nebojí veřejně plivnout nebo hodit pomyslnou dlažební kostku, aby těm nahoře ukázal, že už se jich nebojí. Dál jsme se my voliči zatím vesměs nedostali.
 
-O mnoho lépe na tom nejsou ani naši volení zástupci, kteří se příchodem na boskovickou radnici dostávají do temného světa hrozeb, intrik a kostlivců ve skříních, jakési paranoidní šachové partie. Ta sice neexistuje a do velké míry se odehrává pouze v jejich hlavách, ale která jim přesto bere schopnost chovat se jednoduše, otevřeně a efektivně. Nepřítel naslouchá.
+O mnoho lépe na tom nejsou ani naši volení zástupci, kteří se příchodem na boskovickou radnici dostávají do temného světa hrozeb, intrik a kostlivců ve skříních, jakési paranoidní šachové partie. Ta sice neexistuje a do velké míry se odehrává pouze v jejich hlavách, ale přesto jim bere schopnost chovat se jednoduše, otevřeně a efektivně. Nepřítel naslouchá.
 
 Tím se očekávaným obloukem dostáváme zpět k seznamu městských investic. Na ty umíme sehnat peníze, ale neumíme o nich spolu otevřeně mluvit a neumíme na nich spolupracovat. Zásadní otázka nezní, jestli je rozumné investovat například do nové knihovny deset miliónů, nebo raději čtyřicet. Zásadní otázka zní, jestli ji dokážeme společně naplánovat tak, aby splnila naše potřeby. Pokud ne, bude i zadarmo drahá.
 
