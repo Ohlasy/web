@@ -2,6 +2,7 @@
 title: První rok Ohlasů. Události na Boskovicku pohledem čtenářského zájmu
 cover-photo: http://i.imgur.com/mIDijbWl.jpg
 author: Tomáš Trumpeš
+tags: Ohlasy
 ---
 
 *Uplynul právě rok od chvíle, kdy jsme na doméně ohlasy.info publikovali první články a internetové noviny Ohlasy dění na Boskovicku tak započaly svou existenci. Za první rok jsme publikovali celkem 232 článků, které pro vás připravilo 18 autorů. Naše noviny jsme spustili na začátku února, první výročí tedy sice nekopíruje vstup do nového roku kalendářního, i tak snad může být dobrou příležitostí k ohlédnutí – převážně za rokem 2015, ale také za prvním měsícem roku letošního.*

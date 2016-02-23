@@ -3,6 +3,7 @@ title: Vedení Boskovic chce scelit Červenku, státní kurty ale nikdo zatím n
 cover-photo: http://i.imgur.com/LcozfMJl.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: Červená zahrada, investice, sport
 ---
 
 *Šest tenisových kurtů, které se nachází uprostřed Červené zahrady a zabírají její významnou část, nejsou na rozdíl od ostatních sportovišť v majetku města. Zatímco se minulý rok jednalo o odkupech pozemků v blízkém okolí, osud kurtů nikdo neřešil. Stávající koalice se ovšem bude muset s tímto problémem nějak vyrovnat. Nájemní smlouva tenistům totiž končí už za dva roky.*

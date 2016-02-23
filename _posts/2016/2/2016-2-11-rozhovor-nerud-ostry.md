@@ -3,6 +3,7 @@ title: „Práce ve sboru musí být dlouhodobá a poctivá. Není to instantn�
 cover-photo: http://i.imgur.com/kVMJYt5l.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+tags: kultura
 ---
 
 *Rozhovor se sbormistry Martinem Nerudem a Františkem Ostrým. Sbory, které vedou, v letošním roce slaví kulatá jubilea. Nota byla na gymnáziu založena před třiceti lety, Janáček slaví sedmdesátku. Kromě samotného fungování sborů jsme si povídali i o sborovém zpívání obecně, o jeho budoucnosti, o tom, proč děti dnes zpívají hůř než dříve a co se díky sborovému zpěvu mohou lidé naučit. Martin Nerud působí jako pedagog na gymnáziu, František Ostrý studuje v doktorandském programu na pedagogické fakultě Masarykovy univerzity.*

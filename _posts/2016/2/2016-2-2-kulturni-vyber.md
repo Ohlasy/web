@@ -3,6 +3,7 @@ title: Gianniho kulturní výběr na únor
 cover-photo: http://i.imgur.com/e1f9BZv.jpg
 category: zpravodajství
 author: Jan Bařinka
+tags: kultura
 ---
 
 *Divadelní představení s Ivou Janžurovou v hlavní roli, kapely Blue Effect a Zrní, klubové akce, besedy nebo například záznam londýnského provedení Shakespearova Hamleta – z toho všeho si můžou zájemci o kulturní dění v našem regionu v únoru vybírat. Gianniho kulturní výběr přináší přehled akcí, které by bylo škoda v nadcházejícím měsíci minout.*
