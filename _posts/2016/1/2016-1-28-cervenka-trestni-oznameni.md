@@ -3,6 +3,7 @@ title: Boskovická radnice čelí trestnímu oznámení kvůli nákupu pozemku v
 cover-photo: http://i.imgur.com/2qEBIUTl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
+tags: Červená zahrada, investice, politika
 ---
 
 *Anonymní trestní oznámení obdržela Policie České republiky. Jeho autor v něm viní neznámého pachatele z maření úkolu úřední osoby při nákupu pozemku a takzvaného Dvořáčkova mlýna v Červené zahradě. Oznámení tak směřuje proti vedení města a boskovickému zastupitelstvu, které [nákup za 14 milionů korun schválilo](/clanky/2015/10/dvorackuv-mlyn.html). Případ vyšetřuje kriminální policie, její závěry by mohly být známy asi za měsíc.*

@@ -4,6 +4,7 @@ cover-photo: http://i.imgur.com/Wl7Onxfl.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
+tags: historie
 ---
 
 *Boskovické muzeum ve svých sbírkách uchovává tři exempláře Bible české z dílny českého tiskaře a renesančního vzdělance Jiřího Melantricha z Aventýna. I když je na nich patrné, že přečkaly bezmála již půl tisíciletí – všechny nesou známky své dlouhověkosti –, patří k nejcennějším starým tiskům uchovávaným v muzeu. V roce 2011 byly veřejnosti představeny na výstavě k předpokládanému 500. výročí narození Jiřího Melantricha.*

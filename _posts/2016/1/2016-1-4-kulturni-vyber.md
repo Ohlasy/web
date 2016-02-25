@@ -3,6 +3,7 @@ title: Gianniho kulturní výběr na leden
 author: Jan Bařinka
 cover-photo: http://i.imgur.com/LfKX5rP.jpg
 category: zpravodajství
+tags: kultura
 ---
 
 *Novoroční a tříkrálové koncerty, improvizační divadelní představení, klubové koncerty jazzového i tvrdšího charakteru, filmové novinky i klasika – z toho všeho si můžou zájemci o kulturní dění v našem regionu v lednu vybírat. Gianniho kulturní výběr přináší přehled akcí, které by bylo škoda v nadcházejícím měsíci minout.*

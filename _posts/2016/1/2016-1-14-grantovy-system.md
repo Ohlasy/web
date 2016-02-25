@@ -3,6 +3,7 @@ title: Grantový systém se letos otevírá i jednotlivcům
 cover-photo: http://i.imgur.com/9qhrhspl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags: kultura
 ---
 
 *Systém podpory neziskových organizací konajících svou činnost v Boskovicích, nazvaný Grantový systém města Boskovice, dostál pro letošní rok několika významnějších změn. Vyvíjí a mění se ovšem po celou dobu svého více než desetiletého fungování. Letos v něm radnice rozdělí 850 tisíc korun, a poprvé to nebude jen neziskovkám – na pořádání akcí totiž mohou nově žádat i fyzické osoby.*

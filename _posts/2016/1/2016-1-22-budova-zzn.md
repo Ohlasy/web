@@ -3,6 +3,7 @@ title: Budova ZZN má pro knihovnu řadu předpokladů, ale mohla by se i zboura
 cover-photo: http://i.imgur.com/BznGzf7l.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
+tags: knihovna, architektura & urbanismus, investice
 ---
 
 *Budova bývalého ZZN na ulici kapitána Jaroše, dnes sídlo Mountfieldu a prodejny nábytku Idyla, je stále asi nejzvažovanější variantou pro řešení nových prostor pro boskovickou knihovnu. Ta sídlí už devatenáct let v provizoriu – v přízemí budovy takzvaného okresňáku, tedy dříve okresního, nyní městského úřadu. Hlavní výhody budovy ZZN jsou v dostatečném počtu potřebných čtverečních metrů a kýžené poloze v centru města.*

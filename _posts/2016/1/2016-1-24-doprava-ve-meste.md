@@ -3,6 +3,7 @@ title: "Město – životní prostor s důrazem na dopravu"
 cover-photo: http://i.imgur.com/EkJWkh1l.jpg
 category: názory a komentáře
 author: Jiří Klimek
+tags: doprava, architektura & urbanismus
 ---
 
 *Položme si jednoduchou otázku: Jaké město chceme obývat? Pro koho plánujeme město? Chceme město plné aut, nebo dáme přednost ulicím plným lidí, kteří se potkávají, zdraví, povídají si – zkrátka žijí? Aniž bychom si to uvědomovali, jsou naše zvyky a způsob života značně ovlivněny prostředím, ve kterém se pohybujeme. Původně to prostředí vznikalo podle našich zvyků, ale dnes už většinou nepoznáme, co je ten určující faktor, zda zvyky, nebo prostředí.*

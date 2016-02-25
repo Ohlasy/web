@@ -3,6 +3,7 @@ title: Boskovice posílají AKAM do úpadku. Peníze ale nejspíš nezískají
 author: Marek Osouch
 cover-photo: http://i.imgur.com/9cNI7l0l.jpg
 category: zpravodajství
+tags: solární elektrárna
 ---
 
 *Osud boskovické solární elektrárny se posunul opět o kousek dál. Po vypovězení smlouvy kvůli neplacení nájmu a [nevyklizení městských pozemků](/clanky/2015/08/solary-po-vypovedi.html) rozhodla městská rada, že podá ke krajskému soudu v Brně insolvenční návrh, tedy řekne, že majitel boskovické elektrárny firma AKAM Bosko není schopna platit dluhy a je nutné prodejem majetku společnosti alespoň část dluhu splatit. Návrh doputoval na soud 13. ledna.*

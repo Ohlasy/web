@@ -4,6 +4,7 @@ cover-photo: http://i.imgur.com/VY4CIll.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa
+tags: krajina
 ---
 
 *Když píšu tento text, za okny mrzne, skoro jako když praští. Však se taky blíží 20. leden a kolem 20. ledna přichází třeskutá zima, zima fabiánská. Na svatého Fabiána „zima zalézala za nehty i otužilému cikánovi“ (aspoň to říká lidová pranostika). Dělo se tak ovšem v dobách, kdy si Romové ještě sami říkali cikáni, kočovali a tábořili i v zimě pod širým nebem a zimy byly mnohem tužšími, než na jaké jsme zvyklí dnes.*
