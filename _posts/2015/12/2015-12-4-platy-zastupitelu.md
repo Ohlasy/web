@@ -3,6 +3,7 @@ title: Na odměny zastupitelům jdou z rozpočtu téměř dva miliony
 author: Marek Osouch
 cover-photo: http://i.ohlasy.info/1TbgkPEl.jpg
 category: zpravodajství
+tags: politika
 ---
 
 *Jaký plat má starostka nebo kolik peněz má za svůj mandát zastupitel? Politici jsou placení z veřejných peněz, z rozklikávacího rozpočtu města Boskovice lze ovšem pouze vyčíst, že na odměny zastupitelů jdou v letošním roce necelé dva miliony korun. Kolik mají jednotliví zastupitelé, z něj už nikdo nevyčte. Redakce Ohlasů se proto rozhodla zapátrat a najít na tyto otázky odpověď.*

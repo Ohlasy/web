@@ -3,6 +3,7 @@ title: "Nemocnice má nového jednatele: bývalého senátora a šéfa brněnsk�
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/EeundaMl.jpg
 category: zpravodajství
+tags: nemocnice
 ---
 
 *Vedení boskovické nemocnice se ujme Prof. MUDr. Miloš Janeček, CSc., který zvítězil ve výběrovém řízení. Pětašedesátiletý Miloš Janeček působí od roku 1992 v Úrazové nemocnici v Brně, v letech 1997–2003 byl přednostou oddělení ortopedie. V roce 2005 se stal v Úrazové nemocnici ředitelem. Z tohoto postu ho však po necelých dvou letech odvolal tehdejší ministr zdravotnictví, kterým nebyl nikdo jiný než Tomáš Julínek. Tedy právě ten, s kým si dnes Miloš Janeček symbolicky podává dveře v Boskovicích, byť Tomáš Julínek působil v Boskovicích nikoliv jako jednatel, ale jako ekonomický náměstek.*

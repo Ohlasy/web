@@ -2,7 +2,7 @@
 title: Radnice chce řešit nedostatek parkovacích míst hledáním zbytečné zeleně
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/PTzsip7l.jpg
-
+tags: doprava
 ---
 
 *Řešit netradičním způsobem nedostatek parkovacích míst ve městě se v příštím roce pravděpodobně pokusí boskovická radnice. Podle informace Ohlasů se na příští jednání rady připravuje materiál, který počítá s vyhlášením veřejné soutěže, v rámci které by občané aktivně vyhledávali a upozorňovali vedení města na zbytné lokality městské zeleně, místo kterých by mohla vzniknout právě nová parkovací místa. Kdo tímto způsobem ohlásí a zajistí nejvyšší počet parkovacích stání, bude odměněn.*

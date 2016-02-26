@@ -5,6 +5,7 @@ cover-photo: http://i.imgur.com/1PofjaJl.jpg
 excerpt: "Rozhovor s PhDr. Libuší Valentovou, CSc., rodačkou z Knínic, která většinu svého života zasvětila studiu rumunské kultury a její propagaci v naší zemi. Libuše Valentová se věnuje především rumunské literatuře, vedle vlastní vědecké práce v oboru literární historie a kritiky se zabývá rovněž překlady z díla vybraných rumunských (a také francouzských) autorů."
 category: seriály
 serial: jazyk
+tags: kultura
 ---
 
 *Rozhovor s PhDr. Libuší Valentovou, CSc., rodačkou z Knínic, která většinu svého života zasvětila studiu rumunské kultury a její propagaci v naší zemi. Libuše Valentová se věnuje především rumunské literatuře, vedle vlastní vědecké práce v oboru literární historie a kritiky se zabývá rovněž překlady z díla vybraných rumunských (a také francouzských) autorů. Za zásluhy o popularizaci rumunské kultury v zahraničí obdržela řadu ocenění, zejména řád Za věrné služby (v hodnosti velkodůstojník), který jí v roce 2002 udělil rumunský prezident.*

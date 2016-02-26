@@ -3,6 +3,7 @@ title: Gianniho kulturní výběr na prosinec
 author: Jan Bařinka
 cover-photo: http://i.ohlasy.info/TBpimXVl.jpg
 category: zpravodajství
+tags: kultura
 ---
 
 *Množství adventních a vánočních koncertů, kapely Hradišťan, Javory nebo Znouzectnost, elektronické taneční párty, ale také několik divadel, výstav a besed – z toho všeho si můžou zájemci o kulturní dění v našem regionu v prosinci vybírat. Gianniho kulturní výběr přináší přehled akcí, které by bylo škoda v nadcházejícím měsíci minout, a opět se ohlíží i za měsícem uplynulým.*
