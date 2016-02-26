@@ -124,6 +124,7 @@ Pokud se bavíme o šestnácti lidech, tak si myslím, že peníze jsou adekvát
 Všechno je to odvislé od toho, jaká bude vůle vedení města, co budou chtít řešit. Pak jsem schopen jim říct, jestli zajistíme jejich požadavky ve stávajícím počtu, nebo ne. Když se řešilo před lety zmiňované rušení nočního klidu, přijali se dva noví strážníci, a od té doby jsou dvě dvoučlenné hlídky v terénu. Nebyli jsme schopni daný problém vyřešit s tehdejším počtem, tak se počet strážníků navýšil.
 
 **Z toho tedy vyplývá, že vše stíháte řešit a není tady nic takového, co by už bylo pro vás nemožné zajistit.**
+
 To jsem přímo neřekl. Když si vezmete, že v Boskovicích je 90 ulic, tak jedna dvoučlenná hlídka, která bude stát na Masarykově náměstí, nemůže být zároveň i v dalších ulicích, kde se v tu chvíli může něco stát.
 
 Dám příklad: policie řeší tisícovku přestupků v dopravě, nicméně v Boskovicích jich je ve skutečnosti šest tisíc. Policie je však kapacitně schopna řešit jen tisícovku. Kdyby byly dvě hlídky, tak jsou schopni řešit třeba tři tisíce. Otázkou je, jestli je třeba, aby tady byl policista na každou ulici, abychom měli policejní město. Každý by měl respektovat zákony bez ohledu na to, jestli tady policie je, nebo není. 
