@@ -3,6 +3,7 @@ title: "Sportovní hala bude na Července, ve hře jsou čtyři varianty"
 cover-photo: http://i.ohlasy.info/mRpyIcw.jpg
 category: zpravodajství
 author: Marek Osouch
+tags: Červená zahrada, sport, sportovní hala
 ---
 
 *Po dlouhých měsících, kdy se mluvilo o [různých variantách v různých částech Boskovic](/clanky/2015/06/pozemky-pro-halu.html), je jasno. Hala bude ve sportovním areálu Červená zahrada. Otázkou zůstává, kde přesně. Rada předložila veřejnosti a odborným komisím k posouzení čtyři varianty, zatím bez možné ceny. Ani na jednu z nich už podle starostky nebude třeba dokupovat další pozemky od soukromníků. Která varianta nakonec bude tou konečnou, tedy kde by se mělo do konce volebního období začít stavět, rozhodnou zastupitelé na zasedání 8. prosince.*

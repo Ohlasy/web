@@ -3,6 +3,7 @@ title: Milovat víc než ostatní
 author: Tomáš Trumpeš
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/N4rzCT0l.jpg
+tags: kultura
 ---
 
 *Výstava kunštátského výtvarníka Víta Ondráčka „Malba plamenem, malba štětcem“ byla v sobotu zahájena v Galerii Otakara Kubína a potrvá zde do 29. listopadu. Jako pozvánku na výstavu publikujeme úvodní slovo, které na vernisáži pronesl Tomáš Trumpeš.*

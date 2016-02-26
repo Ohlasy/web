@@ -3,6 +3,7 @@ title: „Muzea začínají hrát významnou společenskou roli,“ říká Ond�
 author: Tomáš Trumpeš
 category: rozhovory
 cover-photo: http://i.ohlasy.info/sPdnOuYl.jpg
+tags: historie
 ---
 
 *Ondřej Dostál vystudoval geologii se zaměřením na paleontologii, nejprve vedl Muzeum Boskovicka, poté se stal šéfem Mendelova muzea Masarykovy univerzity v Brně. Před třemi lety se stal druhým místopředsedou Asociace muzeí a galerií České republiky, minulý týden byl zvolen do čela této instituce, což je pouze čestná, leč významná pozice.*

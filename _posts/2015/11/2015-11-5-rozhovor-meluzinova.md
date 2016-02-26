@@ -3,6 +3,7 @@ title: „Tance dávných tradic do Boskovic patří,“ říká Daniela Meluzí
 author: Martina Vašková
 cover-photo: http://i.ohlasy.info/A4DuAZ8.jpg
 category: rozhovory
+tags: kultura
 ---
 
 *Setkání s Danielou Meluzínovou působí jako balzám na duši. Je to velmi aktivní a vitální dáma, která má energie na rozdávání. Mnoho let cvičí jógu, věnuje se zdravotnímu a aktivačnímu cvičení pro seniory a v poslední době si díky ní boskovičtí zájemci už několikrát vyzkoušeli Tance dávných tradic.*

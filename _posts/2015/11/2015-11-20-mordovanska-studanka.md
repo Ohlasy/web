@@ -4,6 +4,7 @@ category: seriály
 cover-photo: http://i.ohlasy.info/QFmjJHNl.jpg
 author: Hynek Skořepa
 serial: krajiny
+tags: krajina
 ---
 
 *[V úvodu seriálu o krajinách Boskovicka](/clanky/2015/03/krajiny-boskovicka.html) jsem psal o tom, že mnoho zajímavých míst a příběhů, které se k nim váží, postupně mizí v zapomnění. Krajina se mění, z vysokého lesa se stane paseka a neobhospodařovanou louku naopak třeba zcela pohltí les. Když nás pak opustí pamětníci starých časů, ztrácí se i paměť krajiny. Alespoň zpomalit tento nevratný proces zapomínání se snažily a snaží generace amatérských vlastivědných badatelů. A mělo by to být i smyslem usilování pracovníků existujících oficiálních institucí, především muzeí. Těm však bohužel na podobnou činnost většinou zbývá v záplavě jiných úkolů a byrokracie jen málo času.*

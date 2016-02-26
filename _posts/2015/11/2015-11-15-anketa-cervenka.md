@@ -4,6 +4,7 @@ cover-photo: http://i.ohlasy.info/LiaCzTGl.jpg
 author: Tomáš Trumpeš
 excerpt: "Vedení Boskovic zveřejnilo čtyři varianty návrhu na umístění sportovní haly. Jak se vám návrhy líbí a který považujete za nejlepší? Odpovídají Jiří Klimek, Vladimír Petrů, Jiří Pevný a Petr Ondráček."
 category: ankety
+tags: sport, Červená zahrada, investice, sportovní hala
 ---
 
 *Vedení Boskovic zveřejnilo [čtyři varianty návrhu na umístění sportovní haly](/clanky/2015/11/varianty-haly.html). Jak se vám návrhy líbí a který považujete za nejlepší?*
