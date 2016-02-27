@@ -23,10 +23,10 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Galerie OK
-  image: http://i.imgur.com/jhq75kc.png
-  alt: "Galerie Otakara Kubína"
-  url: http://www.galerie-ok.cz/
+- name: Galerie OK: Xylografie
+  image: http://i.imgur.com/hLraugh.png
+  alt: Xylografie Pavla Macka v Galerii Otakara Kubína
+  url: https://www.facebook.com/events/1115644845114480/
   priority: 900
 - name: Inzerujte u nás
   image: http://i.imgur.com/g2ZmCN1.png
