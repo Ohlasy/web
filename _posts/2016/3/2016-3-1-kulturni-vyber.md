@@ -34,7 +34,7 @@ Ve čtvrtek 3. března se v kulturním domě v Letovicích bude konat divadelní
 
 V pátek 11. března se v obecním domě ve Skalici nad Svitavou se svým improzápasem představí boskovický improvizační tým Lísky, v sobotu 12. března se v kině ve Velkých Opatovicích odehraje představení Rodina je základ státu v podání DS teaTrum Velké Opatovice.
 
-V úterý 29. března budeme mít v boskovickém zámeckém skleníku příležitost ve formě populárního scénického čtení Lukáše Hejlíka a Alana Novotného seznámit s bestsellerem Tomáše Sedláčka Ekonomie dobra a zla.
+V úterý 29. března v boskovickém zámeckém skleníku budeme mít příležitost se ve formě populárního scénického čtení Lukáše Hejlíka a Alana Novotného seznámit s bestsellerem Tomáše Sedláčka Ekonomie dobra a zla.
  
 ### Přednášky, besedy, setkání
 
