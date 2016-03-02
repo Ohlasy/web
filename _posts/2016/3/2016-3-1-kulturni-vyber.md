@@ -16,7 +16,7 @@ Ve středu 2. března se v boskovickém zámeckém skleníku představí polsko-
 
 Ve středu 9. března se můžeme ve skleníku těšit na Sedláčkovo kvarteto, které přednese skladby Vladimíra Franze, Bohuslava Martinů a Wolfganga Amadea Mozarta. Ve středu 16. března v kulturním domě v Letovicích vystoupí komorní soubor Camerata Brunae s hostem tenor-barytonistou Martino Hammerle-Bortolottim.
 
-V hudebním klubu Sklepy se 5. března odehraje rockový koncert kapel Rantle Bucket, Blafl Merkury a The Complication, 12. března zde vystoupí písničkář Pokáč a lokální dívčí folkové trio Veka, v pátek 18. března pak na Sklepy přijede kapela Vladivojsko v čele se svébytnou zpěvačkou a umělkyní jménem Vladivojna La Chia.
+V hudebním klubu Sklepy se 5. března odehraje rockový koncert kapel Rantle Bucket, Black Mercury a The Complication, 12. března zde vystoupí písničkář Pokáč a lokální dívčí folkové trio Veka, v pátek 18. března pak na Sklepy přijede kapela Vladivojsko v čele se svébytnou zpěvačkou a umělkyní jménem Vladivojna La Chia.
 
 V sobotu 12. března budeme v zámeckém skleníku svědky zajímavého spojení hudby manželů Havlových a výrazového tance a pantomimy švýcarského tanečníka Thomase Mettlera v představení s názvem Jako motýl ve tvé dlani. Ve folkovém duchu se na stejném místě ve středu 23. března odehraje tradiční akce s názvem Open Mic. Kulturní dům v Letovicích bude v pátek 11. března hostit koncert stálice české hudební scény Petry Janů se skupinou Amsterdam.
 
@@ -34,11 +34,11 @@ Ve čtvrtek 3. března se v kulturním domě v Letovicích bude konat divadelní
 
 V pátek 11. března se v obecním domě ve Skalici nad Svitavou se svým improzápasem představí boskovický improvizační tým Lísky, v sobotu 12. března se v kině ve Velkých Opatovicích odehraje představení Rodina je základ státu v podání DS teaTrum Velké Opatovice.
 
-V úterý 29. března budeme mít v boskovickém zámeckém skleníku příležitost ve formě populárního scénického čtení Lukáše Hejlíka a Alana Novotného seznámit s bestsellerem Tomáše Sedláčka Ekonomie dobra a zla.
+V úterý 29. března v boskovickém zámeckém skleníku budeme mít příležitost se ve formě populárního scénického čtení Lukáše Hejlíka a Alana Novotného seznámit s bestsellerem Tomáše Sedláčka Ekonomie dobra a zla.
  
 ### Přednášky, besedy, setkání
 
-Ve středu 9. března si v Muzeu Boskovicka vyslechneme přednášku ke 100. výročí úmrtí spisovatelky Marie Ebner-Eschenbach, přednášet bud PhDr. Eleonora Jeřábková. V pátek 11. března se v Galerii Otakara Kubína opět dočkáme tradičního Setkání s Milošem Štědroněm a hudbou, v úterý 15. března se v kulturním domě v Letovicích můžeme setkat se spisovatelem Vlastimilem Vondruškou.
+Ve středu 9. března si v Muzeu Boskovicka vyslechneme přednášku ke 100. výročí úmrtí spisovatelky Marie Ebner-Eschenbach, přednášet bude PhDr. Eleonora Jeřábková. V pátek 11. března se v Galerii Otakara Kubína opět dočkáme tradičního Setkání s Milošem Štědroněm a hudbou, v úterý 15. března se v kulturním domě v Letovicích můžeme setkat se spisovatelem Vlastimilem Vondruškou.
 
 Ve středu 16. března se v sále kulturního domu v Letovicích bude křtít publikace Letovice 1936–2016, ve čtvrtek 17. března se v zámeckém sále ve Velkých Opatovicích bude konat beseda s Karlem Kocůrkem na téma Indiáni prérií a národní parky USA.
 
