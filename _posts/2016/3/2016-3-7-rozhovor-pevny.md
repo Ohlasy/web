@@ -6,7 +6,7 @@ category: rozhovory
 tags: politika, investice, Červená zahrada, sportovní hala
 ---
 
-*Rozhovor s Jiřím Pevným, opozičním zastupitelem a znalcem, který vypracoval posudek na pozemek a budovy Dvořáčkova mlýna. Jako opoziční zastupitel za Sportovce pak proti koupi ostře vystupoval a zpochybňoval i vhodnost lokality pro stavební záměry. Radní následně podali podnět ke krajskému soudu, jestli tím neporušil zákon o znalcích. Celá kauza dále vyhrotila vztahy mezi boskovickou koalicí a opozicí.*
+*Rozhovor s Jiřím Pevným, opozičním zastupitelem a znalcem, který vypracoval posudek na pozemek a budovy Dvořáčkova mlýna. Jako opoziční zastupitel za Sportovce pak proti koupi ostře vystupoval a zpochybňoval i vhodnost lokality pro stavební záměry. Radní následně podali podnět ke krajskému soudu, jestli tím neporušil zákon o znalcích. Celá kauza dále [vyhrotila vztahy mezi boskovickou koalicí a opozicí](/clanky/2016/02/zastupitelstvo.html).*
 
 <img src="http://i.imgur.com/zlb1mKH.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
