@@ -72,7 +72,7 @@ Ne.
 
 **Přijímáte to?**
 
-Přijímám. Ztotožňuji se s tím, zákon je opravdu takto je nastavený. I když můžu říct, že to v tomto případě nemá logiku, zadavatel mě znal a ví, že jsem zastupitel. Dohodli se na mně prodávající i kupující, já jsem si u nich nevymodlil, že ten posudek chci dělat. 
+Přijímám. Ztotožňuji se s tím, zákon je opravdu takto nastavený. I když můžu říct, že to v tomto případě nemá logiku, zadavatel mě znal a ví, že jsem zastupitel. Dohodli se na mně prodávající i kupující, já jsem si u nich nevymodlil, že ten posudek chci dělat. 
 
 ### Cena administrativní, cena obvyklá
 
@@ -122,7 +122,7 @@ Jak se na mě naštval pan doktor Kolínský? Ale to je pravda. Já bych vám mo
 
 **Otázka ale zněla, jak z toho ven.**
 
-Pro mě toto skočilo. Říct jsem to musel a neříkalo se mi to snadno. Pak mi lidi říkali, že jsem normálně suverén a tam se mi třepal hlas. Jasně, cítil jsem to na sobě, klepal jsem se a říkal si, že se snad ještě rozpláču. Nedělalo mi to žádnou radost. Ale říct jsem to musel. Protože jestliže vám někdo zatelefonuje, něco vám sdělí…
+Pro mě toto skončilo. Říct jsem to musel a neříkalo se mi to snadno. Pak mi lidi říkali, že jsem normálně suverén a tam se mi třepal hlas. Jasně, cítil jsem to na sobě, klepal jsem se a říkal si, že se snad ještě rozpláču. Nedělalo mi to žádnou radost. Ale říct jsem to musel. Protože jestliže vám někdo zatelefonuje, něco vám sdělí…
 
 **Ten telefonát asi opravdu zůstane mezi vámi, ale jakou tedy vidíte cestu ven? Je možné komunikovat normálně dál a nedělat věci, které přispějí k další eskalaci napětí?**
 
