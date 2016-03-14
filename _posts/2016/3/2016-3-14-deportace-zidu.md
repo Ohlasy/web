@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Vzpomínková modlitba zazněla v neděli navečer v boskovické synagoze u příležitosti 74. výročí deportace místních židovských obyvatel do nacistických koncentračních táborů. Modlitbu pronášel kantor brněnské židovské obce – mladý muž, který ji předčítal u čtecího pultíku ze svého chytrého telefonu. Pak zazpíval několik písní a setkání uzavřel s tím, že smutek by se měl změnit v optimismus. Život pokračuje dál, i když v celé republice dnes žije jen asi tři tisíce Židů.*
+*Vzpomínková modlitba zazněla v neděli navečer v boskovické synagoze u příležitosti 74. výročí deportace místních židovských obyvatel do nacistických koncentračních táborů. Modlitbu pronášel kantor brněnské židovské obce – mladý muž, který ji předčítal u čtecího pultíku ze svého chytrého telefonu. Pak zazpíval několik písní a setkání uzavřel s tím, že smutek by se měl změnit v optimismus. Život pokračuje dál, i když v celé republice dnes Federace židovských obcí registruje jen asi tři tisíce členů.*
 
 <img src="http://i.imgur.com/kR19kdV.jpg" alt="deportace-židů" class="img-responsive" data-author="sbírky Muzea regionu Boskovicka">
 
