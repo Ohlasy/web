@@ -1,7 +1,7 @@
-- name: Nature Home
-  image: http://i.ohlasy.info/GTILy2W.png
-  alt: Nature Home, interiér pro váš domov i kancelář
-  url: http://www.naturehome.cz/
+- name: Panský dvůr
+  image: http://i.imgur.com/flYxEmb.jpg
+  alt: Zajímá vás budoucnost Panského dvora?
+  url: http://www.boskovice-panskydvur.cz/
   priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
