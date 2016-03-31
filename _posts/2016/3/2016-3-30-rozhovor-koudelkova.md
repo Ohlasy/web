@@ -20,7 +20,7 @@ Ano, přijela samozřejmě rodina, přijela i moje první paní učitelka ze ZU�
 
 **Takže jsi tam nehrála sama?**
 
-Jen na začátku koncertu. To jsem zahrála moderní skladbu pro sopraninovou flétnu s elektronickou nahrávkou. Pak následovala středověká Istampita za doprovodu bubeníka. To bylo trochu zapeklité, protože bubeník, který mě měl doprovázet, den před absolvákem zavolal, že onemocněl a nebude schopen vystoupit. Ještě večer před koncertem jsem nacvičovala s novým bubeníkem. Ale nakonec to dobře dopadlo. Jako další v pořadí jsem za doprovodu cembala a gamby zahrála Hotteterrovu suitu, Bachovu sonátu s cembalem, zazněla i Telemanova kantáta a na závěr Vivaldiho koncert pro zobcovou flétnu a barokní orchestr.
+Jen na začátku koncertu. To jsem zahrála moderní skladbu pro sopraninovou flétnu s elektronickou nahrávkou. Pak následovala středověká Istampita za doprovodu bubeníka. To bylo trochu zapeklité, protože bubeník, který mě měl doprovázet, den před absolvákem zavolal, že onemocněl a nebude schopen vystoupit. Ještě večer před koncertem jsem nacvičovala s novým bubeníkem. Ale nakonec to dobře dopadlo. Jako další v pořadí jsem za doprovodu cembala a gamby zahrála Hotteterrovu suitu, Bachovu sonátu s cembalem, zazněla i Telemannova kantáta a na závěr Vivaldiho koncert pro zobcovou flétnu a barokní orchestr.
 
 **Repertoár sis mohla určovat sama, nebo ses musela něčemu podřídit?**
 
@@ -78,7 +78,7 @@ Snažím se kombinovat všechno – hrát sólové recitály, hrát s orchestrem
 
 **Působíš i v nějakém stabilním souboru?**
 
-V poslední době nejčastěji hraji s cembalistou Andrzejem Zawiszou. Založila jsem taky dva komorní soubory – Ensemble Musica Armonia a Il Giorno Felice, se kterými příležitostně vystupujeme. Působím v Czech Ensemble Baroque, jako host spolupracuji také s wroclawskou Orkiestrou Barokowou a dalšími.
+V poslední době nejčastěji hraji s cembalistou Andrzejem Zawiszou. Založila jsem taky dva komorní soubory – Ensemble Musica Armonia a Il Giorno Felice, se kterými příležitostně vystupujeme. Působím v Czech Ensemble Baroque, jako host spolupracuji také s Wroclawskou Orkiestrou Barokowou a dalšími.
 
 **Co je důležité u spoluhráčů, abyste si vyhovovali? Jde jen o techniku, nebo si musíte i rozumět?**
 
@@ -98,7 +98,7 @@ Líbí se mi, že je sice něco zapsané v notách, ale nemusím to úplně dodr
 
 **Vnímají to tak i posluchači? Je tady pořád dost velká skupina lidí, které to zajímá?**
 
-Doufám, že ano. A čím dál větší zájem je i mezi interprety, kteří se snaží ctít přání autora, respektovat v jakém prostředí skladu psal a pro jaké nástroje. Myslím, že tohle je dobrá cesta, jak tyto skladby interpretovat.
+Doufám, že ano. A čím dál větší zájem je i mezi interprety, kteří se snaží ctít přání autora, respektovat v jakém prostředí skladbu psal a pro jaké nástroje. Myslím, že tohle je dobrá cesta, jak tyto skladby interpretovat.
 
 <img src="http://i.imgur.com/gSo2tHY.jpg" alt="Michaela Koudelková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
