@@ -23,7 +23,7 @@ Nakonec pár z nich je ochotno strávit víkend tady v Boskovicích, kde se o to
 
 **A nelepší se to?**
 
-Ne. Teď se to podle mě zhoršuje, ukazují to i všechny průzkumy. Já z toho ale neviním ty lidi, viním z toho politickou reprezentaci, která o tom systematicky špatně informuje. Říkám tomu Pohádka o zlém Bruselu a hodné Strakově akademii – to v našem případě, ale stejně tak to může platit o vládě na Slovensku nebo v Maďarsku, někdy dokonce i ve starých zemích Unie, kdy ty země svalují na Evropskou unii, že něco udělala nebo jí vyčítají, že něco neudělala.
+Ne. Teď se to podle mě zhoršuje, ukazují to i všechny průzkumy. Já z toho ale neviním ty lidi, viním z toho politickou reprezentaci, která o tom systematicky špatně informuje. Říkám tomu Pohádka o zlém Bruselu a hodné Strakově akademii – to v našem případě, ale stejně tak to může platit o vládě na Slovensku nebo v Maďarsku, někdy dokonce i ve starých zemích Unie, kdy ty země svalují na Evropskou unii, že něco udělala, nebo jí vyčítají, že něco neudělala.
 
 Přitom před lidmi systematicky tají, že Evropská unie není nic jiného než vůle členských zemí. Jsou to rozhodnutí Evropského parlamentu, která činí konkrétní zvolení poslanci jako já, a rozhodnutí premiérů nebo poslanců, kteří sedí v Radě. To nejsou žádní abstraktní byrokrati, kteří by o něčem rozhodovali, rozhodnutí činí konkrétní zástupci členských zemí. A velmi často se stane, že český politik kritizuje něco, co předtím on nebo nějaký jeho kolega v Evropské radě schválil.
 

@@ -16,7 +16,7 @@ Hned v první dubnový den můžeme volit mezi dvěma koncerty. V boskovickém z
 
 Jazzoví posluchači, kteří si v březnu nechali ujít letovické vystoupení kapely Voila!, mají další možnost ve středu 13. dubna v boskovickém zámeckém skleníku. Na stejném místě o týden později, tedy ve středu 20. dubna, zahraje původem slovinský zpěvák a kytarista Paul Batto, od kterého můžeme kromě jazzu čekat i blues nebo gospel.
 
-Vyznavači tvrdší rockové hudby s prvky metalu nebo hardcoru mají možnost v pátek 15. dubna v hudebním klubu Sklepy navštívit koncert valašskomeziříčských kapel Secrets of Separation a Artificial Life. Příznivci elektronické taneční hudby si určitě nenechají ujít tradiční Suck My Disc, taktéž na Sklepech, a to v pátek 22. dubna.
+Vyznavači tvrdší rockové hudby s prvky metalu nebo hardcoru mají možnost v pátek 15. dubna v hudebním klubu Sklepy navštívit koncert valašskomeziříčských kapel Secrets of Separation a Artificial Life. Příznivci elektronické taneční hudby si určitě nenechají ujít tradiční Suck My Disc, taktéž na Sklepech, a to v pátek 29. dubna.
 
 Pro posluchače, kteří mají raději hudbu klasickou, se v dubnu také najde hned několik příležitostí, kam zajít. V úterý 5. dubna se v sále boskovické ZUŠ odehraje koncert žáků brněnské konzervatoře, v pátek 8. dubna na stejném místě představí svůj recitál houslistka Natálie Kulina. V kulturním domě v Letovicích se ve středu 20. dubna dočkáme recitálu klavírního, vystoupí zde totiž ruská klavíristka Olga Punko. Jejím hostem bude vítěz klavírní soutěže Amadeus Radek Bagár.
 
