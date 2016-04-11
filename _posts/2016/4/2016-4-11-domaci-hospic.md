@@ -12,11 +12,11 @@ tags: sociální služby
 
 **Co si vlastně představit pod pojmem domácí hospic?**
 
-Domácí hospicová péče je komplex služeb, nejen zdravotních, ale i sociálních a psychologických, které se soustřeďují na klienty, kteří jsou podle určitých kritérií v konečné fázi života. Tato služba je poskytována všem, bez rozdílu diagnózy a věku, kteří na základě předchozí léčby a pod lékařským dozorem dospějí do fáze, ve které už nemá smysl pokračovat v klasické léčbě a je zjevné, že se blíží okamžik odchodu. Specifikem domácího hospicu je možnost umírat doma, v přirozeném prostředí, které je člověku známé a příjemné, které zná a na které je zvyklý. 
+Domácí hospicová péče je komplex služeb, nejen zdravotních, ale i sociálních a psychologických, které se soustřeďují na klienty, kteří jsou podle určitých kritérií v konečné fázi života. Tato služba je poskytována všem, bez rozdílu diagnózy a věku, kteří na základě předchozí léčby a pod lékařským dozorem dospějí do fáze, ve které už nemá smysl pokračovat v klasické léčbě a je zjevné, že se blíží okamžik odchodu. Specifikem domácího hospice je možnost umírat doma, v přirozeném prostředí, které je člověku známé a příjemné, které zná a na které je zvyklý. 
 
-**Jak se kromě místa pobytu nemocného liší domácí hospic od hospicu kamenného?**
+**Jak se kromě místa pobytu nemocného liší domácí hospic od hospice kamenného?**
 
-Zásadní je, že v domácí hospicové péči se o umírajícího starají zejména jeho rodinní příslušníci, zatímco v ostatních zařízeních je péče převážně v rukou personálu. My jako personál domácího hospicu v domácnosti umírajícího člověka pomáháme, s čímkoliv je třeba, záleží vždy na přáních rodiny. Rodina třeba může trávit všechen čas se svým příbuzným a my jim usnadňujeme péči o domácnost, ale převážně tedy pomáháme s lékařskými úkony a v oblastech, kde si běžně člověk sám neporadí. Naše péče není směřována jen na umírajícího člověka, ale i na jeho rodinu, snažíme se pomoc poskytovat komplexně. 
+Zásadní je, že v domácí hospicové péči se o umírajícího starají zejména jeho rodinní příslušníci, zatímco v ostatních zařízeních je péče převážně v rukou personálu. My jako personál domácího hospice v domácnosti umírajícího člověka pomáháme, s čímkoliv je třeba, záleží vždy na přáních rodiny. Rodina třeba může trávit všechen čas se svým příbuzným a my jim usnadňujeme péči o domácnost, ale převážně tedy pomáháme s lékařskými úkony a v oblastech, kde si běžně člověk sám neporadí. Naše péče není směřována jen na umírajícího člověka, ale i na jeho rodinu, snažíme se pomoc poskytovat komplexně. 
 
 **Jak klienti přijímají doporučení obrátit se na hospicové zařízení, tedy okamžik, který pro mnohé může vyznít jako rezignace na snahu o vyléčení?**
 
