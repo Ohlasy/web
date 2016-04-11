@@ -54,7 +54,7 @@ Je to služba, která není nijak zakotvená v zákoně a neexistuje pro ni dosu
 
 **Dalo by se nějak zobecnit, co přesně byste potřebovali od státu, aby systém domácího hospice mohl fungovat lépe?**
 
-Právní zakotvení. My nejsme ani zdravotní, ani sociální služba. Pojišťovna má momentálně pilotní projekt, aby paliativní domácí péče byla zdravotní služba pojišťovnou financovaná. Ale záleží to na vyhodnocení toho pilotního projektu. Zjednodušilo by se tím nejen financování, ale i dostupnost léčebných přípravků. Teď musíme o všechno žádat obvodního lékaře. Lékařka na kontrolách musí předcházet situacím a předvídat je, musí mít zásobu léků pro různé situace. Kdyby byla povolená paliativní ambulance, bude si moct sama předepsat lék a nebudou tam časové prodlevy. Někdy těžké se dostat k receptu v okamžiku, kdy je akutně potřeba.
+Právní zakotvení. My nejsme ani zdravotní, ani sociální služba. Pojišťovna má momentálně pilotní projekt, aby paliativní domácí péče byla zdravotní služba pojišťovnou financovaná. Ale záleží to na vyhodnocení toho pilotního projektu. Zjednodušilo by se tím nejen financování, ale i dostupnost léčebných přípravků. Teď musíme o všechno žádat obvodního lékaře. Lékařka na kontrolách musí předcházet situacím a předvídat je, musí mít zásobu léků pro různé situace. Kdyby byla povolená paliativní ambulance, bude si moct sama předepsat lék a nebudou tam časové prodlevy. Někdy je těžké se dostat k receptu v okamžiku, kdy je akutně potřeba.
 
 <img src="http://i.imgur.com/bdxqVQ4.jpg" alt="Radka Kuncová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
