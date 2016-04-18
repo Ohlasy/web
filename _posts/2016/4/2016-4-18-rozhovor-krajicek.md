@@ -113,8 +113,8 @@ Nepřemlouval, je potřeba si vybrat sám. Nepřemlouval bych nikoho.
 Mandolína je obvykle takovým osvěžením. Není natolik zabydlená v žádném z žánrů, u nás možná nejvíc v bluegrassu,  takže pro všechny hudební projekty, které dělám, je mandolína vlastně trošku cizí. Je to zpestření a pro mě to znamená určitou svobodnou volbu, jak se v těch různých žánrech vyjadřovat. Není úplně jasné, jak mám hrát třeba klezmer, určitě musím držet nějakou stylovost, ale jinak cítím velkou svobodu. Nejsem nástrojem nijak svázaný, ono se vlastně neví, jak tam ten nástroj má znít. Můžu si znít jako Krajíček. Kdybych hrál na kytaru, tak bych v rockové muzice hrál, jak se tam má hrát kytara, podobně v bluegrassu. Pro mandolínu tohle neexistuje, tam si můžu vyjadřovat sám sebe.
 
 **Jak na to reagují spoluhráči? Jsou tomu také takto otevření**?
-On
-o tady zase není tolik mandolinistů, co by se tomu věnovali. Takže za těch dvacet let, co se na hudební scéně pohybuji, se to ode mě spíš očekává. Abych hrál tak, jak hraju. 
+
+Ono tady zase není tolik mandolinistů, co by se tomu věnovali. Takže za těch dvacet let, co se na hudební scéně pohybuji, se to ode mě spíš očekává. Abych hrál tak, jak hraju. 
 
 **A mění se nějak zájem o mandolínu za těch dvacet let? Nemyslím jen v Boskovicích, kde také učíš, takže je to asi trochu specifické**.
 
