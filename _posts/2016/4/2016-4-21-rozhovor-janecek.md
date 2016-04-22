@@ -68,12 +68,13 @@ Chyba je, že se tady každé dva roky mění vedení, každý do toho dá troch
 
 Mám, ale to bych řešil, i kdybych ho neměl. Protože když někam nastoupím, tak chci vědět, kam se ta společnost bude ubírat. Nejdříve musíte dát dohromady lidi, kteří tomu rozumí. Každý vám dokáže něco namalovat, ale naše představa je, že to bude firma, co má zkušenosti z jiných nemocnic. 
 
-Teď nám vznikne prostor po ARO, až se přestěhuje, máme tady prostory po prádelně, tak co s nimi? Na to by to měl generel odpovědět. Jsou i další prostory, jsou tady promíchané ambulance soukromých lékařů s nemocničními, i tyto drobnosti bychom chtěli nějak zcentralizovat.  
+Teď nám vznikne prostor po ARO, až se přestěhuje, máme tady prostory po prádelně, tak co s nimi? Na to by měl generel odpovědět. Jsou i další prostory, jsou tady promíchané ambulance soukromých lékařů s nemocničními, i tyto drobnosti bychom chtěli nějak zcentralizovat.  
 
 **Vy sám máte představu, co by mělo po odstěhování ARO nebo na místě bývalé prádelny vzniknout?**
 
 Varianty jsou, ale musíme je ještě promyslet. Osobně si myslím, že by v boskovické nemocnici bylo potřeba více operačních sálů. Letos bylo díky mírné zimě méně úrazů, ale když je hodně sněhu, přivezou tři zlomeniny a do toho máte naplánované operace, tak se to těžko dává dohromady. Ten dolní prostor by podle mě byl vhodný i pro magnetickou rezonanci, ale tu si tu teď vybojovalo Blansko.
-Blansko má celé neurologické oddělení, tak je logické, že bude tam.
+
+**Blansko má celé neurologické oddělení, tak je logické, že bude tam.**
 
 Magnetická rezonance ale neslouží jenom neurologii. Máme teď jednání v Blansku, protože jedním z úkolů je zlepšit spolupráci s blanenskou nemocnicí. Uvidíme, jestli se mi to povede, protože všichni mi říkají, že to tady trvá dvacet let a nikomu se to ještě nepovedlo. Rád bych, aby se ty vztahy zklidnily a nemocnice spolupracovaly. Tedy aby se řeklo, vy máte neurologii, tak máte magnetickou rezonanci, ale zase naopak máte jednodenní chirurgii, my máme celodenní servis v tom a tom, takže pacienta pošlete k nám. Máme ty věci sepsané, nachystané. 
 
