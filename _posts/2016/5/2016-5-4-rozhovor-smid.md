@@ -6,7 +6,7 @@ category: rozhovory
 tags: kultura
 ---
 
-*Rozhovor s fotografem Pavlem Šmídem, který bude od soboty 7. do neděle 29. května vystavovat v Galerii Otakara Kubína v Boskovicích soubor s názvem Buenos días, Sr. Presidente; Bom dia, Sr. Presidente. Pavel Šmíd absolvoval několik samostatných a společných výstav v České republice i v zahraničí, včetně newyorské Leica Gallery. V současnosti pracuje na volné noze a jako příležitostný kurátor Galerie města Pardubic, žije ve vesničce Česká Rybná na Českomoravské vrchovině.*
+*Rozhovor s fotografem Pavlem Šmídem, který bude od soboty 7. do neděle 29. května vystavovat v Galerii Otakara Kubína v Boskovicích soubor s názvem Buenos días, Sr. Presidente; Bom dia, Sr. Presidente. Pavel Šmíd absolvoval několik samostatných a společných výstav v České republice i v zahraničí, včetně newyorské Leica Gallery. V současnosti pracuje na volné noze a jako příležitostný kurátor Galerie města Pardubic, žije ve vesničce Česká Rybná na Českomoravské vrchovině.*
 
 <img src="http://i.imgur.com/0WkFv9K.jpg" alt="Václav Havel na cestách" class="img-responsive img-popup" data-author="Pavel Šmíd">
 
