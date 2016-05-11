@@ -150,7 +150,7 @@ Nemůžu si vzpomenout na nic konkrétního, což je asi dobré znamení. Určit
 
 ### Klub je na dobré cestě
 
-**Na závěr otázka na volnočasový klub, který chce ELIM otevřít v Boskovicích. Jak jste s tím daleko**?
+**Na závěr otázka na volnočasový klub, [který chce ELIM otevřít v Boskovicích](/clanky/2016/04/elim-boskovice.html). Jak jste s tím daleko**?
 
 Je to na dobré cestě. Sehnali jsme prostory za dobré peníze, měl by to být nájem. Město žádné vhodné prostory v současné chvíli nemá. Bude pro nás velmi náročné sehnat peníze na to, abychom ten nájem utáhli. Byli bychom moc rádi, kdyby se našla částka, která by nám pomohla nájem pokrývat.
 
