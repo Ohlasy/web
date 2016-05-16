@@ -1,6 +1,6 @@
 ---
 title: Letovický ELIM chce otevřít volnočasový klub i v Boskovicích
-cover-photo: http://i.imgur.com/6pubKCF.jpg
+cover-photo: http://i.ohlasy.info/6pubKCF.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: sociální služby
@@ -8,7 +8,7 @@ tags: sociální služby
 
 *Letovický ELIM je obecně prospěšná společnost, která se zaměřuje zejména na práci s dětmi a mladými lidmi. V Letovicích provozuje volnočasový klub Plán B, přednáší na školách primární prevenci nebo pořádá multižánrový festival LetFest. ELIM deklaruje, že stojí na křesťanských hodnotách, sídlí v budově letovického sboru Církve bratrské, má tři zaměstnance a na jeho činnosti se podílí řada dobrovolníků, nejen místních, ale i ze zahraničí. Aktuálně tato letovická neziskovka usiluje o rozšíření svých aktivit do Boskovic, kde něco jako volnočasový klub pro mladé dlouhodobě chybí.*
 
-<img src="http://i.imgur.com/6pubKCF.jpg" alt="" class="img-responsive img-popup" data-author="ELIM">
+<img src="http://i.ohlasy.info/6pubKCF.jpg" alt="" class="img-responsive img-popup" data-author="ELIM">
 
 Boskovický klub by mohl zpočátku fungovat jeden či možná dva dny v týdnu a měl by navazovat na aktivity letovického Plánu B. Tento volnočasový klub je určen pro děti a mladé lidi ve věku 7–20 let a chce poskytovat přátelské a bezpečné prostředí. Klub není kroužek a nezaměřuje se jen na jeden druh činnosti, program upřednostňuje zejména ty aktivity, které jeho členové sami vymyslí. „Plán B je tu pro všechny, kteří už nechtějí sedět sami doma u počítače, nebo se jen tak poflakovat po městě. Chceme se nejenom bavit, ale i nabídnout pomocnou ruku, když to bude zapotřebí. Chceme účastníky klubu motivovat, povzbuzovat a učit nové věci,“ popisují členové letovické neziskovky ELIM.
 

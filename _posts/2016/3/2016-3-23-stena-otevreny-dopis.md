@@ -1,6 +1,6 @@
 ---
 title: "Lezecká stěna je skvělé oživení města, statický posudek není na překážku"
-cover-photo: http://i.imgur.com/Ux0wSM4l.jpg
+cover-photo: http://i.ohlasy.info/Ux0wSM4l.jpg
 author: Adam Kožoušek
 category: názory a komentáře
 tags: lezecká stěna, investice
@@ -8,7 +8,7 @@ tags: lezecká stěna, investice
 
 *Sportovec a stavební inženýr Adam Kožoušek se obrátil na vedení města a příslušné komise s otevřeným dopisem ve věci lezecké stěny na boskovickém letním kině a zejména ve věci statického posudku, který má být důvodem k upuštění od celého záměru. Posudek je podle něj mylně interpretován a záměr stále vidí jako reálný a přínosný. Otevřený dopis publikujeme v plném znění.*
 
-<img src="http://i.imgur.com/Ux0wSM4.jpg" alt="konstrukce plátna letního kina" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/Ux0wSM4.jpg" alt="konstrukce plátna letního kina" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Přečtení novinových článků k projektu lezecké stěny v letním kině Boskovice mne vyprovokovalo k sepsání několika myšlenek.
 

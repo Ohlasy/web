@@ -2,7 +2,7 @@
 title: Připravme se na volební maraton
 author: Marek Osouch
 category: názory a komentáře
-cover-photo: http://i.imgur.com/M6H8VX6l.jpg
+cover-photo: http://i.ohlasy.info/M6H8VX6l.jpg
 tags: volby, politika
 ---
 

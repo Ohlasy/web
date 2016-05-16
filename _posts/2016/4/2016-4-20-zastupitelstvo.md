@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Dotace na akce, nové auto, městské pohledávky, nemocnice a lezecká stěna"
-cover-photo: http://i.imgur.com/OILuzvjl.jpg
+cover-photo: http://i.ohlasy.info/OILuzvjl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

@@ -1,14 +1,14 @@
 ---
 title: "„Říkal jsem si: Holt si otvíráš pusu, tak tady máš přes ni.“"
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/zlb1mKHl.jpg
+cover-photo: http://i.ohlasy.info/zlb1mKHl.jpg
 category: rozhovory
 tags: politika, investice, Červená zahrada, sportovní hala
 ---
 
 *Rozhovor s Jiřím Pevným, opozičním zastupitelem a znalcem, který vypracoval posudek na pozemek a budovy Dvořáčkova mlýna. Jako opoziční zastupitel za Sportovce pak proti koupi ostře vystupoval a zpochybňoval i vhodnost lokality pro stavební záměry. Radní následně podali podnět ke krajskému soudu, jestli tím neporušil zákon o znalcích. Celá kauza dále [vyhrotila vztahy mezi boskovickou koalicí a opozicí](/clanky/2016/02/zastupitelstvo.html).*
 
-<img src="http://i.imgur.com/zlb1mKH.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/zlb1mKH.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Pane Pevný, je ten pozemek okolo Dvořáčkova mlýna standardní stavební pozemek, nebo bažina?**
 
@@ -128,7 +128,7 @@ Pro mě toto skončilo. Říct jsem to musel a neříkalo se mi to snadno. Pak m
 
 Já nemám důvod něco eskalovat. Toto je pro mě ukončené, rozhodnutí pana předsedy soudu akceptuji. A jedeme dál. Pozemek je koupený. Nevím, jak bude pokračovat vyšetřování policie, ale to jde mimo mě. S tím nemám nic společného. Taky jsem se dozvěděl, že jsem to prý mohl být já, kdo to podal. Ale na to odpovídám: Tak to mě asi mnozí málo znají. Já když chci něco říct, tak se pod to taky podepíšu.
 
-<img src="http://i.imgur.com/XZ8KcM3.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/XZ8KcM3.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Kdo hrotil situaci?
 
@@ -196,7 +196,7 @@ A jsme zase u takové věci: schvalujeme koupi pozemku a nevíme, proč ho kupuj
 
 Ale to se budeme točit v začarovaném kruhu. Protože pokud to vnímám dobře, tak z jednání s panem Paroulkem, jednatelem Severky B, vyplynulo, že on tam má taky nějaký záměr a chce vidět záměr města, pak se eventuelně bude bavit o tom, jestli pozemky prodá nebo neprodá. A bude město dělat studii na celý areál i s těmito pozemky pana Paroulka, nebo ne?
 
-<img src="http://i.imgur.com/kWqolnU.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/kWqolnU.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Haly se nedočkám
 

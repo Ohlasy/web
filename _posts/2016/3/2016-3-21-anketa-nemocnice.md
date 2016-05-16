@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Jak vidí lékaři budoucnost nemocnice?"
-cover-photo: http://i.imgur.com/qvziuSjl.jpg
+cover-photo: http://i.ohlasy.info/qvziuSjl.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: nemocnice
@@ -10,7 +10,7 @@ tags: nemocnice
 
 ---
 
-<img src="http://i.imgur.com/Ekp9X2H.jpg" class="profile-picture" alt="Jan Vlach">
+<img src="http://i.ohlasy.info/Ekp9X2H.jpg" class="profile-picture" alt="Jan Vlach">
 
 **Jan Vlach, emeritní primář chirurgie, bývalý zastupitel**
 
@@ -20,7 +20,7 @@ Jinak je nemocnice složitý organismus, a jsem rád, že díky novému vedení 
 
 ---
 
-<img src="http://i.imgur.com/hEZbkQ2.jpg" class="profile-picture" alt="Martina Přichystalová">
+<img src="http://i.ohlasy.info/hEZbkQ2.jpg" class="profile-picture" alt="Martina Přichystalová">
 
 **Martina Přichystalová, dětská lékařka, bývalá primářka dětského oddělení, radní za hnutí ANO, členka valné hromady Nemocnice Boskovice s.r.o.**
 
@@ -44,7 +44,7 @@ Nemocnice by měla mít jasnou a pragmatickou strategii, reflektující potřebn
 
 ---
 
-<img src="http://i.imgur.com/ZlKSIIu.jpg" class="profile-picture" alt="Miroslav Klíma">
+<img src="http://i.ohlasy.info/ZlKSIIu.jpg" class="profile-picture" alt="Miroslav Klíma">
 
 **Miroslav Klíma, dětský lékař, zastupitel za ODS, člen dozorčí rady Nemocnice Boskovice s.r.o.**
 

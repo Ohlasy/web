@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Nový zastupitel, úpravy investičních plánů a vyostřující se vztahy koalice a opozice"
-cover-photo: http://i.imgur.com/RZhaCs0l.jpg
+cover-photo: http://i.ohlasy.info/RZhaCs0l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika, investice
@@ -8,7 +8,7 @@ tags: politika, investice
 
 *Osmé zasedání boskovického zastupitelstva se konalo v úterý 23. února od 16 hodin ve skleníku. Zastupitelé tentokrát nerozhodovali o příliš mnoha klíčových otázkách, v průběhu zastupitelstva se však ukázalo, že vztahy mezi koalicí a opozicí se stále vyostřují. Přímý přenos ze zastupitelstva trápily výpadky vysílání, ke zhlédnutí by však měl být kompletní záznam.*
 
-<img src="http://i.imgur.com/5duFPr5.jpg" alt="Tomáš Pléha" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/5duFPr5.jpg" alt="Tomáš Pléha" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Nový zastupitel
 
@@ -36,7 +36,7 @@ Více peněz také půjde na [odměny neuvolněným zastupitelům](/clanky/2015/
 
 Větší rozpor a ventilaci napětí mezi koalicí a opozicí přinesla především diskuse v bodě Dotazy a připomínky zastupitelů. Zastupitel Jiří Pevný (Sportovci pro Boskovice) informoval zastupitele o tom, že členové rady města podali podnět ke krajskému soudu v Brně kvůli tomu, že nepostupoval nestranně, když v rámci své profese zpracovával znalecký posudek při prodeji Dvořáčkova mlýna a současně se k celé věci vyjadřoval kriticky jako zastupitel. Jiří Pevný přiznal určitá formální pochybení, ale odmítá, že by záměrně někoho uváděl v omyl nebo byl posudek nějak ovlivněn. „Na mně jako na znalci se dohodly obě strany,“ zdůraznil Jiří Pevný. Naopak postup vedení města označil za mstu a nátlak, aby se kriticky nevyjadřoval v diskusích. Podání stížnosti podle něj předcházel telefonát zastupitele za ČSSD Milana Kolínského, který mu jeho chování vyčítal. Jiří Pevný už dnes má vyjádření krajského soudu, radní je však ještě neobdrželi.
 
-<img src="http://i.imgur.com/eqSCuwP.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/eqSCuwP.jpg" alt="Jiří Pevný" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Poměrně silnými slovy kolegu podpořil i zastupitel Radek Mazáč, který postup vedení města přirovnal k praktikám 50. let. Vedení města v diskusi k tomuto tématu nejprve nereagovalo. Nakonec se vyjádřil radní Milan Kolínský. „Nechci nikoho přesvědčovat o své pravdě. Podnět je začátek určitého procesu, ve kterém má orgán zaujmout stanovisko. Vy se pozastavujete nad tím, že se podal podnět, ale proč se nepozastavujete nad tím, že pan Pevný se odvolává na historický dokument, nazýval pozemek bažinou a nebyla to pravda. Byl to právě on, kdo přispěl k rozpoutání mediální kampaně, které vedlo až k podání trestního oznámení kvůli nákupu pozemku Dvořáčkova mlýna,“ vysvětlil Milan Kolínský s tím, že zákon o soudních znalcích říká, že znalec má svou činnost konat nestranně. „Postupoval nestranně, když v posudku uvedl, že je to bezproblémový stavební pozemek, a pak na zastupitelstvu říkal, že je to bažina? Odstranit tyto pochybnosti může jen dozorující krajský soud,“ uvedl Milan Kolínský s tím, že na podání podle něj tudíž není nic špatného.
 

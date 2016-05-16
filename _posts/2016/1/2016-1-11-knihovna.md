@@ -1,6 +1,6 @@
 ---
 title: „Knihovna má být obývákem města.“
-cover-photo: http://i.imgur.com/HJY2fgul.jpg
+cover-photo: http://i.ohlasy.info/HJY2fgul.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 tags: knihovna, investice
@@ -8,7 +8,7 @@ tags: knihovna, investice
 
 *Rozhovor s vedoucí knihovny Miroslavou Jurdičovou a ředitelem Kulturních zařízení Oldřichem Kovářem. Boskovická knihovna setrvává v provizoriu takzvaného Okresňáku už 19 let a zatím to příliš nevypadá, že by se brzy mohla dočkat důstojného zázemí. Ptali jsme se, jak knihovna funguje, co by přesně potřebovala a co by se dalo pro novou knihovnu udělat ještě v tomto volebním období.*
 
-<img src="http://i.imgur.com/HJY2fgu.jpg" alt="Miroslava Jurdičová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/HJY2fgu.jpg" alt="Miroslava Jurdičová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **V jedné internetové diskusi se objevil názor, že než Boskovice postaví novou knihovnu, nebude už nikdo číst. Přestává se číst? Respektive – ubývá vám nějak dramaticky čtenářů?**
 
@@ -56,7 +56,7 @@ OLDŘICH KOVÁŘ: Uzpůsobili jsme tomu i výpůjční dobu, studenti se ve čtv
 
 MIROSLAVA JURDIČOVÁ: Je takový trend, že knihovna má být obývákem města. A to by měla být zejména studovna, v dětském oddělení nějaká ta čítárnička.
 
-<img src="http://i.imgur.com/Lmm8r5p.jpg" alt="studovna" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/Lmm8r5p.jpg" alt="studovna" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 **A to vám chybí?**
 
@@ -100,7 +100,7 @@ OLDŘICH KOVÁŘ: Pokud jsem se dobře díval, za rok 2015 je to 1 380 nových t
 
 MIROSLAVA JURDIČOVÁ: Pro nákup české literatury existuje projekt Česká knihovna, toho využíváme. Tak jsme měli letos knížky za 14 tisíc, je to hodnotná česká literatura, dětská i pro dospělé. Na nákup knih je také knihovnický standard.
 
-<img src="http://i.imgur.com/RGhCC5q.jpg" alt="Miroslava Jurdovičová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/RGhCC5q.jpg" alt="Miroslava Jurdovičová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **A ten splňujete?**
 
@@ -138,7 +138,7 @@ OLDŘICH KOVÁŘ: To by byl krok zpátky. Museli bychom se jednak zbavit hluku z
 
 My jsme jeden čas, když to bylo žhavější téma než teď, jezdili po knihovnách se dívat. Je tam spousta nápadů, doporučují nám kanceláře, které to umějí namalovat podle standardů, znají to. Aby byly patřičné výšky, vzdálenosti regálů a podobně. U nás když se dnes podíváte, tak mezi regály neprojede ani vozíček s knihami, nebo projede s bídou. Takže se nechceme dostat do situace, že nás tam šoupnou, aby se nás zbavili.
 
-<img src="http://i.imgur.com/pwMad2L.jpg" alt="Oldřich Kovář" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/pwMad2L.jpg" alt="Oldřich Kovář" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Takže to nemáte jako sportovci, kteří o hale říkali: Lepší něco než nic?**
 

@@ -1,7 +1,7 @@
 ---
 title: Selhání Novinek a útok na rozhlas. Svobodná média musíme kritizovat i chránit
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/JuGNKZ3l.jpg
+cover-photo: http://i.ohlasy.info/JuGNKZ3l.jpg
 category: názory a komentáře
 ---
 

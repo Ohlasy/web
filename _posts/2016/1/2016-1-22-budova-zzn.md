@@ -1,6 +1,6 @@
 ---
 title: Budova ZZN má pro knihovnu řadu předpokladů, ale mohla by se i zbourat
-cover-photo: http://i.imgur.com/BznGzf7l.jpg
+cover-photo: http://i.ohlasy.info/BznGzf7l.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: knihovna, architektura & urbanismus, investice
@@ -8,7 +8,7 @@ tags: knihovna, architektura & urbanismus, investice
 
 *Budova bývalého ZZN na ulici kapitána Jaroše, dnes sídlo Mountfieldu a prodejny nábytku Idyla, je stále asi nejzvažovanější variantou pro řešení nových prostor pro boskovickou knihovnu. Ta sídlí už devatenáct let v provizoriu – v přízemí budovy takzvaného okresňáku, tedy dříve okresního, nyní městského úřadu. Hlavní výhody budovy ZZN jsou v dostatečném počtu potřebných čtverečních metrů a kýžené poloze v centru města.*
 
-<img src="http://i.imgur.com/BznGzf7.jpg" alt="budova ZZN" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/BznGzf7.jpg" alt="budova ZZN" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 „Je to pro nás ideální místo,“ [komentoval přesun do ZZN ředitel KZMB Oldřich Kovář](/clanky/2016/01/knihovna.html) s tím, že tuto variantu stále preferuje. Podobně se vyjadřovala už v roce 2010, kdy odcházela do důchodu, bývalá vedoucí knihovny Jitka Moráňová. „Nejvíc lituju budovy ZZN, která se pro knihovnu koupila za starosty Josefa Dohnálka. Tato budova se nám zdála vhodná, viděla jsem knihovny v podobných prostorách, myslím, že architekt by ty dva velké prostory dokázal vhodně vyřešit,“ [uvedla tehdy pro regionální noviny Boskovicko](http://stare.boskovicko.cz/cislo.phtml?iss_id=401#art_13617).
 
@@ -20,7 +20,7 @@ Budova ZZN se postavila na začátku 80. let jako prodejna domácích potřeb. V
 
 K největším výhodám budovy ZZN tedy patří dobrá poloha, potřebná plocha i dostatek místa pro parkování. Dále pak dostatečně silná konstrukce, která by měla bez problémů zvládnout potřebné zatížení. Ozývají se však také hlasy, kterým se řešení problému knihovny přesunem do ZZN nelíbí. Kupříkladu bývalý šéf boskovického kina Radek Pernica. „Už jsme knihovnu nastěhovali do hospodářského dvora, potom do kuchyně, jídelny, společenského sálu a podia, a teď ji nastěhujeme do budovy normalizační prodejny? To jsme v Boskovicích tak neschopní, že neumíme postavit knihovnu? Zřejmě ano a to není dobrá zpráva. Anebo to není o neschopnosti, ale o odvaze udělat něco riskantního, velkého a nového,“ vyjádřil se v diskusi o knihovně dnešní ředitel univerzitního kina Scala.
 
-<img src="http://i.imgur.com/Ttm2JL2.jpg" alt="mapa městských pozemků" class="img-responsive img-popup" data-author="ČÚZK">
+<img src="http://i.ohlasy.info/Ttm2JL2.jpg" alt="mapa městských pozemků" class="img-responsive img-popup" data-author="ČÚZK">
 
 *Pozemky v okolí ZZN; červeně vyznačené patří městu Boskovice.*
 

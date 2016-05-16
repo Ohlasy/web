@@ -1,7 +1,7 @@
 ---
 title: Jak kultura ostrouhala
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/8g3892gl.jpg
+cover-photo: http://i.ohlasy.info/8g3892gl.jpg
 category: názory a komentáře
 tags: kultura, investice
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na duben
-cover-photo: http://i.imgur.com/yGvWZaYl.jpg
+cover-photo: http://i.ohlasy.info/yGvWZaYl.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Růže pro Algernon v hlavní roli s Janem Potměšilem, koncerty věnované Zuzaně Navarové nebo Suchému a Šlitrovi, přehlídka westernových filmů, spousta dalších koncertů, divadel, výstav a besed – z toho všeho si můžou zájemci o kulturní dění v našem regionu v dubnu vybírat. Gianniho kulturní výběr přináší přehled akcí, které by bylo škoda v nadcházejícím měsíci minout, a ohlíží se i za měsícem uplynulým.*
 
-<img src="http://i.imgur.com/yGvWZaY.jpg" alt="Martin Krajíček a Juraj Valenčík" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/yGvWZaY.jpg" alt="Martin Krajíček a Juraj Valenčík" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Hudba
 

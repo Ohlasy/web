@@ -1,13 +1,13 @@
 ---
 title: První rok Ohlasů. Události na Boskovicku pohledem čtenářského zájmu
-cover-photo: http://i.imgur.com/mIDijbWl.jpg
+cover-photo: http://i.ohlasy.info/mIDijbWl.jpg
 author: Tomáš Trumpeš
 tags: Ohlasy
 ---
 
 *Uplynul právě rok od chvíle, kdy jsme na doméně ohlasy.info publikovali první články a internetové noviny Ohlasy dění na Boskovicku tak započaly svou existenci. Za první rok jsme publikovali celkem 232 článků, které pro vás připravilo 18 autorů. Naše noviny jsme spustili na začátku února, první výročí tedy sice nekopíruje vstup do nového roku kalendářního, i tak snad může být dobrou příležitostí k ohlédnutí – převážně za rokem 2015, ale také za prvním měsícem roku letošního.*
 
-<img src="http://i.imgur.com/mIDijbW.jpg" alt="redakce Ohlasů" class="img-responsive img-popup" data-author="Igor Láník">
+<img src="http://i.ohlasy.info/mIDijbW.jpg" alt="redakce Ohlasů" class="img-responsive img-popup" data-author="Igor Láník">
 
 Internetová žurnalistika je pro nás novináře – a věřím, že může být i pro vás čtenáře – zdrojem zajímavých dat a faktů. Na rozdíl od tisku totiž vidíme poměrně přesně, co a jak vás jako čtenáře zajímá. Podstatné je také to, že kromě drobných nepravidelných výkyvů způsobených ojedinělými událostmi se dá říct, že čtenářský zájem o Ohlasy postupem času narůstal.
 
@@ -56,7 +56,7 @@ Velmi nás těší zájem čtenářů o regionálně zaměřené seriály, kter�
 
 Opomenut by asi neměl zůstat ani náš [facebookový profil](https://www.facebook.com/ohlasy/), který je důležitým místem, kde se ve virtuálním prostoru společně setkáváme. Během prvního roku jsme zde nasbírali více než tisícovku příznivců. Kromě sdílení článků jsou také prostorem diskusí, které jsou pro nás velmi přínosné, a nejednou jsme z nich načerpali nejen podněty k přemýšlení, ale i faktické postřehy vztahující se k tématům, o kterých jsme psali. Nepominutelnou součástí našeho facebookového společenství jsou také fotografie – nemá cenu se tajit tím, že především pod vydařenými a zajímavý obsah nesoucími fotkami bedlivě sledujeme a počítáme přibývající lajky. Celkovým vítězem této kategorie se stal boskovický slon, kterého nám zaslal Oto Matal, za což mu vřele děkujeme. Na slona sice v závěru roku ještě mocně dotahovala vítězka soutěže Bohuslava Martinů Kristýna Znamenáčková, moudré a zdánlivě těžkopádné zvíře si však ve finiši svůj náskok uhájilo.
 
-<img src="http://i.imgur.com/Qh3YSah.jpg" alt="slon na panoramatu Boskovic" class="img-responsive img-popup" data-author="Oto Matal">
+<img src="http://i.ohlasy.info/Qh3YSah.jpg" alt="slon na panoramatu Boskovic" class="img-responsive img-popup" data-author="Oto Matal">
 
 ### Poděkování
 

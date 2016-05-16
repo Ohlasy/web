@@ -2,11 +2,11 @@
 title: Zpravodajský přehled za prosinec
 category: zpravodajství
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/M97I7Mhl.jpg
+cover-photo: http://i.ohlasy.info/M97I7Mhl.jpg
 excerpt: "Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v prosinci na Boskovicku událo."
 ---
 
-<img src="http://i.imgur.com/M97I7Mh.jpg" alt="polévka pro chudé i bohaté" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="http://i.ohlasy.info/M97I7Mh.jpg" alt="polévka pro chudé i bohaté" class="img-responsive img-popup" data-author="Marek Osouch">
 
 V Boskovické nemocnici [skončil po jednateli Danu Navrátilovi také ekonomický náměstek, bývalý ministr zdravotnictví Tomáš Julínek](/clanky/2015/12/julinek-odvolan.html). Novým jednatelem se stal bývalý šéf brněnské úrazovky a bývalý senátor za ČSSD [Miloš Janeček](/clanky/2015/12/novy-jednatel-nemocnice.html).
 

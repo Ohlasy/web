@@ -1,6 +1,6 @@
 ---
 title: Grantový systém se letos otevírá i jednotlivcům
-cover-photo: http://i.imgur.com/9qhrhspl.jpg
+cover-photo: http://i.ohlasy.info/9qhrhspl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura

@@ -1,6 +1,6 @@
 ---
 title: „Z tancování budou žáci vždy šikovnější než z běhání po hřišti.“
-cover-photo: http://i.imgur.com/MAcMhIDl.jpg
+cover-photo: http://i.ohlasy.info/MAcMhIDl.jpg
 author: Martina Vašková
 category: rozhovory
 tags: kultura, vzdělávání
@@ -8,7 +8,7 @@ tags: kultura, vzdělávání
 
 *Rozhovor s Petrem Palasem, který vede třetím rokem taneční obor v ZUŠ Boskovice. Než se dostal do Boskovic, působil jako sólista baletu v Českých Budějovicích a Liberci. V Boskovicích se mu zatím daří – což dokládá dvakrát vyprodané představení Sněhová královna, kde tančilo všech téměř osmdesát žáků tanečního oboru. V těchto dnech už chystají nové představení, tentokrát žáci zatančí v zahradě boskovického zámku.*
 
-<img src="http://i.imgur.com/MAcMhID.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/MAcMhID.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Petře, proč jste se rozhodl věnovat se tanci?**
 
@@ -36,7 +36,7 @@ Přesně tak. Mám rád, když z tance vycházejí emoce – ať už pohybové n
 
 U těch malých je to paradoxně jednodušší, na ně nejvíc platí vtip, hravost a zlehčení. Ze začátku to ale bylo složitější se všemi. Nedůvěra asi byla velká. Chtěl jsem po nich jiné věci, než byli zvyklí, takže jsem jim vysvětloval, proč to tak chci a jak to mají udělat. Starší už dnes sami tuší, kam chci představení dostat. Ale to víte, když žáci opakují stejnou chybu po několikáté, nervy nevydrží, zvýším hlas, a to pak funguje stoprocentně. Snažím se je seznámit i s tím, co není běžné, ale může se jim hodit. Chci, aby si uvědomili, že divadlo má určitá pravidla. Například, že na jevišti ani v sále se nejí, protože máme mít úctu k tomu potu, co tam člověk vydře. Nebo že piškoty se nedávají na stůl, protože to obvykle končí úrazem, či že jedna tanečnice se nemá smát té druhé, protože jednou přijde doba, kdy jí to také nepůjde. A můžu říct, že během našeho představení občas došlo na má slova.
 
-<img src="http://i.imgur.com/PKQm3jc.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/PKQm3jc.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Po Sněhurce Fantastická symfonie
 
@@ -56,7 +56,7 @@ Reprízu zatím neplánuji. Pouze pokud bychom dostali nějakou nabídku na záj
 
 Ano, plány na nové představení už mám. Chtěl bych uvést ve spolupráci s tanečníky z Poličky Fantastickou symfonii od Hectora Berlioze. Tančili bychom v Boskovicích v zámeckém parku na otevřené scéně. Byl jsem zde se svými dětmi na jedné akci, a během pěti minut jsem věděl, kdo odkud půjde a co bude hrát. Termíny s vedením zámku sice ještě nemáme přesně domluvené, ale už s druhým stupněm zkoušíme. Máme na to tři měsíce a špatně z toho spím už teď.
 
-<img src="http://i.imgur.com/GEBTLhA.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/GEBTLhA.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Deset procent talent, zbytek dřina
 
@@ -80,7 +80,7 @@ Podle počtu přihlášených žaček můžu říct, že ano. Dnes je velká nab
 
 Jsem přesvědčen, že to, co se při tanci naučí, využijí v budoucím životě mnohokrát. I když se nebude jednat jen o tanec. Při představeních musí často spolupracovat, což se hodí, protože budou zvyklí pracovat v týmu. Vědí, že je nutné pracovat pořádně, protože to ostatním jinak kazí. A jistě je tanec připraví pro budoucí život i v tom, že když zjistí, že něco nejde, musí to zkoušet a nesmí se nechat rychle odradit. A z pružnosti svého těla budou čerpat ještě dlouho. Je jasné, že z tancování totiž budou vždy šikovnější než z běhání po hřišti. 
 
-<img src="http://i.imgur.com/wE79n0E.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/wE79n0E.jpg" alt="Petr Palas" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Může se naučit tančit každý? Je při tanci důležitější píle, nebo talent?**
 

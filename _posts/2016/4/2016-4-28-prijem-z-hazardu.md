@@ -1,6 +1,6 @@
 ---
 title: Z Boskovic mizí hrací automaty. Peněz z nich je ale více
-cover-photo: http://i.imgur.com/s1xmxdtl.jpg
+cover-photo: http://i.ohlasy.info/s1xmxdtl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: hazard
@@ -8,7 +8,7 @@ tags: hazard
 
 *Od začátku letošního roku platí v Boskovicích zákaz hazardu. Týká se to především hracích automatů a videoloterijních terminálů, kterých finanční odbor městského úřadu ke konci loňského roku napočítal ve městě zhruba 150. Loni přinesly do městského rozpočtu více než 10 milionů korun.*
 
-<img src="http://i.imgur.com/s1xmxdt.jpg" alt="hrací automat" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/s1xmxdt.jpg" alt="hrací automat" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 S účinností vyhlášky však všechny hrací přístroje z města okamžitě nezmizely. Letos skončí dvanáct hracích automatů, které povolovalo město. Zbytek tvoří videoloterijní terminály, o jejichž zrušení rozhoduje ministerstvo financí. „Podle informací zveřejněných na stránkách ministerstva financí bylo k datu 31. března na území města Boskovice evidováno 111 kusů jiných technických herních zařízení. Jejich počet se však každým měsícem snižuje,“ uvedla Dana Baláčová z městského úřadu.
 

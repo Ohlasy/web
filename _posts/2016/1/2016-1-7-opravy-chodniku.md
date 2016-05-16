@@ -1,14 +1,14 @@
 ---
 title: Do oprav chodníků a silnic půjde letos více peněz
 author: Marek Osouch
-cover-photo: http://i.imgur.com/EYRgKXCl.jpg
+cover-photo: http://i.ohlasy.info/EYRgKXCl.jpg
 category: zpravodajství
 tags: doprava, investice
 ---
 
 *O šest milionů více zařadilo vedení Boskovic v rozpočtu na letošní rok do kapitoly doprava. Chystá také více celkových oprav silnic, ne pouze nejnutnějších oprav. Na krajském úřadě začne město vyjednávat také o možnostech opravy Dukelské, která je jako ostatní hlavní silnice vedoucí z města ve vlastnictví Jihomoravského kraje.*
 
-<img src="http://i.imgur.com/EYRgKXC.jpg" alt="oprava chodníku" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="http://i.ohlasy.info/EYRgKXC.jpg" alt="oprava chodníku" class="img-responsive img-popup" data-author="Marek Osouch">
 
 Pro letošek ale krajské investice Boskovice neminou. Začne se budovat dlouho plánované parkoviště v Hybešově ulici na pozemku Vyšší odborné školy, na něž Boskovice ze svého rozpočtu přispějí 2,7 milionu korun, kraj zaplatí 1,6 milionu a Svazek vodovodů a kanalizací zhruba 1,4 milionu. Celkem by tedy měla výstavba 40 parkovacích míst přijít na téměř 6 milionů. Pokračovat se bude také v opravě krajské silnice v Pilském údolí, která bude uzavřená až do konce května.
 

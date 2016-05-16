@@ -1,14 +1,14 @@
 ---
 title: Boskovice posílají AKAM do úpadku. Peníze ale nejspíš nezískají
 author: Marek Osouch
-cover-photo: http://i.imgur.com/9cNI7l0l.jpg
+cover-photo: http://i.ohlasy.info/9cNI7l0l.jpg
 category: zpravodajství
 tags: solární elektrárna
 ---
 
 *Osud boskovické solární elektrárny se posunul opět o kousek dál. Po vypovězení smlouvy kvůli neplacení nájmu a [nevyklizení městských pozemků](/clanky/2015/08/solary-po-vypovedi.html) rozhodla městská rada, že podá ke krajskému soudu v Brně insolvenční návrh, tedy řekne, že majitel boskovické elektrárny firma AKAM Bosko není schopna platit dluhy a je nutné prodejem majetku společnosti alespoň část dluhu splatit. Návrh doputoval na soud 13. ledna.*
 
-<img src="http://i.imgur.com/9cNI7l0.jpg" alt="boskovická solární elektrárna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/9cNI7l0.jpg" alt="boskovická solární elektrárna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 „Navrhovatel se domnívá, že uvedené skutečnosti osvědčují jeho oprávnění podat tento insolvenční návrh, neboť má vůči dlužníkovi splatnou pohledávku (v nezanedbatelné výši) a nařízená exekuce na majetek dlužníka, značná výše pohledávky UNIBON za dlužníkem a momentální dlužníkova neoprávněnost podnikat ve své hlavní podnikatelské činnosti výrazným způsobem ohrožují navrhovatelova práva, přičemž je výrazně nepravděpodobné, že bez rozhodnutí o dlužníkově úpadku a jeho řešení by mohlo dojít k alespoň částečnému uspokojení všech jeho věřitelů. Právě naopak, pokud nebudou dlužníkovy majetkové vztahy uspořádány, nebude patrně možné uspokojit navrhovatele či případné další dlužníkovy věřitele, a to ani v částečné výši,“ stojí v insolvenčním návrhu, který pro město vypracovala advokátní kancelář KVB a podepsala starostka Boskovic Hana Nedomová.
 

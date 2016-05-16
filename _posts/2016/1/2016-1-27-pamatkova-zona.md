@@ -1,6 +1,6 @@
 ---
 title: Vlastníci domů v městské památkové zóně mohou žádat o nové dotace
-cover-photo: http://i.imgur.com/DDM4oqQl.jpg
+cover-photo: http://i.ohlasy.info/DDM4oqQl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: památková zóna, architektura & urbanismus, investice
@@ -8,7 +8,7 @@ tags: památková zóna, architektura & urbanismus, investice
 
 *Vstřícný krok vůči vlastníkům nemovitostí v Městské památkové zóně (MPZ) připravily od letošního roku Boskovice. Konkrétně se jedná o nový dotační program, který je určen majitelům těch nemovitostí, které jsou součástí MPZ, ale samostatně nemají status kulturní památky. Majitelé těchto domů musejí při rekonstrukcích dodržovat pravidla daná [regulačním plánem MPZ](http://www.boskovice.cz/VismoOnline_ActionScripts/File.ashx?id_org=832&id_dokumenty=27409), doteď však neměli žádnou příležitost dosáhnout na příspěvky, které by jim pomohly finančně nákladnější opravy hradit.*
 
-<img src="http://i.imgur.com/DDM4oqQ.jpg" alt="městská památková zóna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/DDM4oqQ.jpg" alt="městská památková zóna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Městská památková zóna nezahrnuje jen bývalé židovské ghetto, ale celé historické jádro Boskovic včetně náměstí a památkových budov na hradním kopci. „Nepřípustné je užití konstrukcí z plastů,“ stojí kupříkladu stručně v části regulačního plánu týkajícího se oken a dveří. Majitelé jsou tak nuceni zvolit dřevěné, nákladnější varianty řešení. Další omezení se týkají kupříkladu fasád domů: „Pro fasády objektů v řešeném území jsou přípustné omítky hladké a štukové, opatřené barevným nátěrem, nebo omítky probarvené ve hmotě. Barevnost bude vycházet z historicky doložené barevnosti objektu, případně bude vycházet z daného slohu a architektonického řešení.“ A podobných omezení je samozřejmě více.
 

@@ -1,6 +1,6 @@
 ---
 title: Sokolovnu nejspíš převezme město
-cover-photo: http://i.imgur.com/pR9rXn3l.jpg
+cover-photo: http://i.ohlasy.info/pR9rXn3l.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2016-02-16 09:40:45
@@ -9,7 +9,7 @@ tags: sokolovna, investice
 
 *Zanedbaný interiér boskovické sokolovny člověka odrazuje hned po vstupu. Budovu vlastní Česká obec sokolská, pro kterou je ale její provoz v poslední době ekonomicky téměř neudržitelný. O nutných opravách interiérů není možné mluvit už vůbec. Podle jednatele boskovických sokolů Karla Malacha je jediným východiskem převod budovy na město.*
 
-<img src="http://i.imgur.com/pR9rXn3.jpg" alt="interiér sokolovny" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/pR9rXn3.jpg" alt="interiér sokolovny" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 „Jsme jakž takž schopni udržet provoz, ale nejsme schopni investovat,“ uvedl jednatel Sokolu Boskovice Karel Malach. Roční náklady boskovické sokolovny dosahují 1,25 milionu korun, což zhruba pokryjí příjmy z nájmů. Milionové investice do vnitřních prostor sokolovny nemají sokoli kde vzít. Pomoci jim nemůže ani celostátní Česká obec sokolská. „Po pádu Sazky už nemá prostředky, aby financovala větší opravy kdekoliv v Česku,“ doplnil Malach.
 

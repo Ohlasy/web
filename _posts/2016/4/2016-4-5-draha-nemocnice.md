@@ -1,6 +1,6 @@
 ---
 title: Naše drahá nemocnice
-cover-photo: http://i.imgur.com/C71LUF2l.jpg
+cover-photo: http://i.ohlasy.info/C71LUF2l.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: nemocnice, investice

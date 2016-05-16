@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Hitlerův ezoterik Hanussen chodil do boskovické židovské školy"
-cover-photo: http://i.imgur.com/c2XO66S.jpg
+cover-photo: http://i.ohlasy.info/c2XO66S.jpg
 category: seriály
 serial: ghetto
 author: Helena Janíková
@@ -9,7 +9,7 @@ tags: historie
 
 *Pro dům v bývalé boskovické židovské čtvrti na ulici Bílkova číslo 7 převládá hlavně mezi staršími občany název židovská škola. Není divu, ta zde přetrvala až do období první republiky a určitě ji navštěvovala spousta později zajímavých osobností, snad za všechny to byl boskovický rodák, posléze spisovatel Hermann Ungar. A pouze jeden rok navštěvoval tuto školu také Herschel Chaim Steinschneider. Ten se ovšem později proslavil pod jiným jménem – jako Erik Jan Hanussen, ezoterik, který se stal osobním jasnovidcem Adolfa Hitlera.*
 
-<img src="http://i.imgur.com/TKQDyZW.jpg" alt="Erik Jan Hanussen" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/TKQDyZW.jpg" alt="Erik Jan Hanussen" class="img-responsive img-popup">
 
 Narodil se 2. června 1889 ve Vídni, jeho otcem byl kočovný herec, původem z Prostějova. Malý Bubi, jak se mu říkalo, přišel s rodiči z Vídně do Boskovic někdy počátkem 20. století. Rodina údajně bydlela na Plačkově ulici, v domě, kde je dnes oblíbená hospůdka U Rudyho. Bylo mu asi 12 let a už tenkrát se vyznačoval dobrodružnou letorou. Jedenkráte si v Boskovicích hrál se svými kamarády na římského císaře Nerona. V této roli potřeboval zapálit Řím, jak jinak, to dá rozum, ovšem Řím nebyl právě při ruce. Tak se spokojil s tím, že zapálil jeden z boskovických mlýnů na říčce Bělé. Když přiběhli vyděšení obyvatelé Boskovic se podívat, co se děje, proč hoří mlýn, měl Bubi okamžitou odpověď. Mlýn prý musel zapálit, protože dole ve sklepě se skrývá proslulý lupič Grasel, kterého chtěl ohněm vypudit. Inu, historka pěkná, ovšem zcela smyšlená, protože Grasel, jehož jméno nám zůstalo zachováno v nepříliš lichotivé asociaci, byl v té době už asi 80 let po smrti, neboť byl za své nešlechetné skutky potrestán na hrdle.
 

@@ -1,6 +1,6 @@
 ---
 title: Nad odsunem se zamýšlel i Pavel Švanda, student spjatý s Boskovicemi a zavražděný StB
-cover-photo: http://i.imgur.com/xGstEpXl.jpg
+cover-photo: http://i.ohlasy.info/xGstEpXl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: historie
@@ -8,7 +8,7 @@ tags: historie
 
 *Květnové dny jsou neodmyslitelně spojeny s připomínkou jara 1945, kdy v Evropě skončila druhá světová dálka. Oslavy Dne vítězství se v posledních letech neobejdou také bez sporů o interpretaci událostí, které do značné míry spoluutváří identitu našeho životního prostoru a nás samotných. Debata nemůže končit a nekončí prvními květnovými dny, ale pokračuje také k tomu, co následovalo bezprostředně po válce a čemu se říká divoký odsun.*
 
-<img src="http://i.imgur.com/CtOwKZz.jpg" alt="přebal knihy Pavla Švandy" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/CtOwKZz.jpg" alt="přebal knihy Pavla Švandy" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Nedlouho po oslavách Dne vítězství zamíří do Brna účastníci [Pouti smíření](http://blanensky.denik.cz/z-regionu/sjezd-sudetskych-nemcu-poslapani-odkazu-predku-protestuji-bojovnici-za-svobodu-20160509-u7il.html). Mezi nimi budou i sudetští Němci, proti čemuž se ohradili členové brněnského výboru Českého svazu bojovníků za svobodu (ČSBS). A připojila se k nim i boskovická pobočka Svazu. Také tento spolek sdružující bojovníky druhé světové války a pozůstalé po nich jako by si 71 let po válce hledal novou identitu, kvůli ztrátě důvěry ve vedení ho kupříkladu [opustil válečný veterán, bojovník od Tobruku a dosavadní místopředseda Pavel Vranský](http://zpravy.aktualne.cz/domaci/veteran-od-tobruku-opustil-bojovniky-za-svobodu-neveri-veden/r~f430c34a137211e69966002590604f2e/). A na protest proti vstupu Dominika Duky, Jany Bobošíkové a Jiřího Ovčáčka do ČSBS z něj nedávno odešly i poslední dvě žijící lidické ženy. 
 

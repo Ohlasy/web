@@ -1,6 +1,6 @@
 ---
 title: Vedení Boskovic chce scelit Červenku, státní kurty ale nikdo zatím neřeší
-cover-photo: http://i.imgur.com/LcozfMJl.jpg
+cover-photo: http://i.ohlasy.info/LcozfMJl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: Červená zahrada, investice, sport
@@ -8,7 +8,7 @@ tags: Červená zahrada, investice, sport
 
 *Šest tenisových kurtů, které se nachází uprostřed Červené zahrady a zabírají její významnou část, nejsou na rozdíl od ostatních sportovišť v majetku města. Zatímco se minulý rok jednalo o odkupech pozemků v blízkém okolí, osud kurtů nikdo neřešil. Stávající koalice se ovšem bude muset s tímto problémem nějak vyrovnat. Nájemní smlouva tenistům totiž končí už za dva roky.*
 
-<img src="http://i.imgur.com/LcozfMJ.jpg" alt="tenisové kurty na Července" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="http://i.ohlasy.info/LcozfMJ.jpg" alt="tenisové kurty na Července" class="img-responsive img-popup" data-author="Marek Osouch">
 
 Dvě tenisová hřiště vlastní přímo tenisový klub, další čtyři patří státu, konkrétně jsou pod správou Úřadu pro zastupování státu ve věcech majetkových (ÚZSVM), se kterým mají tenisté do roku 2018 podepsanou nájemní smlouvu. „Byl bych rád, kdyby se to už začalo nějak řešit a začali jsme kolem toho komunikovat. Mělo by být zájmem vedení města, aby se Červenka scelila,“ uvedl předseda tenisového klubu Jiří Nárožný. Podle něj jsou tenisté jednoznačně pro to, aby pozemky přešly pod město a aby údržbu a správu měly na starosti Služby Boskovice jako u ostatních sportovišť.
 

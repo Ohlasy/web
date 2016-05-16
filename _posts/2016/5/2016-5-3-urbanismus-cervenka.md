@@ -1,6 +1,6 @@
 ---
 title: Návrhy na areál Červené zahrady budou zpracovávat studenti
-cover-photo: http://i.imgur.com/Bo5et0Ol.jpg
+cover-photo: http://i.ohlasy.info/Bo5et0Ol.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: Červená zahrada, investice, architektura
@@ -8,7 +8,7 @@ tags: Červená zahrada, investice, architektura
 
 *Jak bude sportovní areál v Červené zahradě vypadat, jak by se měl rozvíjet a kam by bylo možné umístit sportovní halu? Na tyto otázky by měla odpovědět urbanistická studie. Než ovšem vznikne, své návrhy mají vedení města představit studenti architektury z Liberce. Smlouva o spolupráci mezi městem a školou ale zatím neexistuje.*
 
-<img src="http://i.imgur.com/Bo5et0O.jpg" alt="Červená zahrada" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/Bo5et0O.jpg" alt="Červená zahrada" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
  „V současné době čekáme na návrh smlouvy o spolupráci se školou. Až ji budeme mít, tak se jí budeme zabývat,“ uvedla starostka Boskovic Hana Nedomová (ČSSD). Podle děkana Fakulty umění a architektury v Liberci a boskovického rodáka Zdeňka Fránka, jehož studenti budou návrhy na Červenou zahradu zpracovávat, začali podobu smlouvy vyjednávat zhruba před třemi týdny.
 
@@ -30,6 +30,6 @@ Jiří Klimek by však sám uvítal na celý areál vyhlásit konkrétně takzva
 
 Otázku sportovní haly chce řešit také opoziční sdružení zastupitelů Sportovci Boskovice. Nevidí, že by se kolem ní něco dělo. Předseda sdružení Radek Mazáč proto oznámil na minulém jednání zastupitelstva svolat schůzku lídrů zastupitelských klubů. Podle něj není žádná jasná cesta, ani termíny, které by vedení města zavazovaly ke konkrétním krokům. Vedení města se podle jeho slov jen schovává za studie.
 
-<img src="http://i.imgur.com/qvzhuEL.jpg" alt="urbanistická studie z roku 2006" class="img-responsive img-popup" data-author="Město Boskovice">
+<img src="http://i.ohlasy.info/qvzhuEL.jpg" alt="urbanistická studie z roku 2006" class="img-responsive img-popup" data-author="Město Boskovice">
 
 Boskovice se tak obloukem vrací do roku 2005, kdy tehdejší vedení města pojalo takřka identický záměr: nechat si zpracovat [studii rozvoje sportovního areálu Červená zahrada](http://data.ohlasy.info/2016/studie-cervenka.zip), zapracovat do ní úpravy stávajících sportovišť a zařadit do ní také vybudování dalších sportovišť a doplňkových služeb. „Uvidíme, zda naše přání lze do areálu vůbec umístit a co by to obnášelo. Netýká se to jen samotného areálu Červené zahrady, ale i nejbližšího okolí,“ [uvedl tehdy pro Boskovicko Jaroslav Dohnálek](http://stare.boskovicko.cz/cislo.phtml?iss_id=91#art_3016), v té době ředitel Služeb Boskovice s.r.o.

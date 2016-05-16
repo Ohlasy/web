@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na únor
-cover-photo: http://i.imgur.com/e1f9BZv.jpg
+cover-photo: http://i.ohlasy.info/e1f9BZv.jpg
 category: zpravodajství
 author: Jan Bařinka
 tags: kultura

@@ -1,7 +1,7 @@
 ---
 title: Gianniho kulturní výběr na leden
 author: Jan Bařinka
-cover-photo: http://i.imgur.com/LfKX5rP.jpg
+cover-photo: http://i.ohlasy.info/LfKX5rP.jpg
 category: zpravodajství
 tags: kultura
 ---
@@ -22,7 +22,7 @@ Jeden metalový a jeden punkový koncert se v lednu odehraje v Hudebním klubu S
 
 Ve středu 13. ledna si boskovičtí diváci můžou zajít do zámeckého skleníku na divadelní představení s názvem Milostný trojúhelník, kde vystoupí Pavel Liška, Josef Polášek a Martin Brožek bez předem daného scénáře.
 
-<img src="http://i.imgur.com/LfKX5rP.jpg" alt="Pavel Liška, Martin Brožek a Josef Polášek" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/LfKX5rP.jpg" alt="Pavel Liška, Martin Brožek a Josef Polášek" class="img-responsive img-popup">
 
 V pondělí 18. ledna se v boskovickém kině představí cestovatel Pavel Svoboda s besedou o Ománu, současně bude zahájena i výstava jeho fotografií.
 

@@ -1,6 +1,6 @@
 ---
 title: „Šikana je všude tam, kde není nikdo, kdo by jí zabránil.“ 
-cover-photo: http://i.imgur.com/CpqOSWXl.jpg
+cover-photo: http://i.ohlasy.info/CpqOSWXl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: vzdělávání
@@ -8,7 +8,7 @@ tags: vzdělávání
 
 *Rozhovor s Pavlem Kotoučkem, lektorem projektu Zdravá mládež, v rámci kterého přednáší na základních školách mimo jiné o šikaně. A právě na tu jsme zaměřili i naše povídání. Pavel pracuje v letovické obecně prospěšné společnosti ELIM, která usiluje o otevření volnočasového klubu pro mládež v Boskovicích. Klub by měl fungovat v prostorách bývalé diskotéky Maják, podobné zařízení už ELIM provozuje v Letovicích.*
 
-<img src="http://i.imgur.com/CpqOSWX.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/CpqOSWX.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Pavle, co je to vlastně šikana? Dá se nějak definovat**?
 
@@ -78,7 +78,7 @@ Tohle všechno jsou skvělá opatření. Jsou připraveny postupy, které funguj
 
 Přesně to si myslím. Pak už nepomůže říct: „Nebij ho. Zákaz!“ To je samozřejmě možné a nutné, ale já věřím hlavně na prevenci. Proto ji taky dělám.
 
-<img src="http://i.imgur.com/dnybXWL.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/dnybXWL.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Před kyberšikanou neutečeš
 
@@ -118,7 +118,7 @@ Je to začarovaný kruh. Rodiče už často nemají sílu ani energii čelit pro
 
 Šikana je všude. Není jen ve škole, ale i v kroužcích a samozřejmě venku, kde u toho nejsou žádní učitelé a nikdo, kdo by na to měl dohlížet. Je to častý jev. Aspoň trochu optimisticky říkám, že šikana se děje všude tam, kde není nikdo, kdo by jí zabránil. Což znamená, že pořád ještě jsou lidé, kteří můžou pomoct.
 
-<img src="http://i.imgur.com/bnfunjl.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/bnfunjl.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Zavolat pomoc není bonzování
 
@@ -146,7 +146,7 @@ Nebývají. Často je to někdo, kdo je třeba hlučný a ostatním to není př
 
 Nemůžu si vzpomenout na nic konkrétního, což je asi dobré znamení. Určitě jsem viděl situace, které hraničily, poznal jsem to, i když bych to tehdy jako šikanu neoznačil. Naštěstí jsem nezažil nic, z čeho bych si odnášel nějaké následky. Samozřejmě jsem zažil nepříjemné situace, ale ty byly jednorázové a pak už to bylo pryč.
 
-<img src="http://i.imgur.com/0YvfaJz.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/0YvfaJz.jpg" alt="Pavel Kotouček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Klub je na dobré cestě
 

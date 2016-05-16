@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Holštejn"
-cover-photo: http://i.imgur.com/VY4CIll.jpg
+cover-photo: http://i.ohlasy.info/VY4CIll.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa
@@ -9,7 +9,7 @@ tags: krajina
 
 *Když píšu tento text, za okny mrzne, skoro jako když praští. Však se taky blíží 20. leden a kolem 20. ledna přichází třeskutá zima, zima fabiánská. Na svatého Fabiána „zima zalézala za nehty i otužilému cikánovi“ (aspoň to říká lidová pranostika). Dělo se tak ovšem v dobách, kdy si Romové ještě sami říkali cikáni, kočovali a tábořili i v zimě pod širým nebem a zimy byly mnohem tužšími, než na jaké jsme zvyklí dnes.*
 
-<img src="http://i.imgur.com/KPwGf6q.jpg" alt="Holštejn" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/KPwGf6q.jpg" alt="Holštejn" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Přesto může lednový mráz dodnes řádně štípat do tváří a není nic krásnějšího, než se po vycházce mrazivou krajinou vrátit pěkně do tepla domova. I když už nám v současnosti doma většinou nehoří polínka v kamnech a neslyšíme jejich slastné praskání, jak se odebírají na věčnost, vědoma si svého užitku, skutečné či příslovečné (našimi blízkými vytvářené) teplo domova zůstává nezpochybnitelnou hodnotou. Hodnotou, na které nic nemění ani „odpřírodnění“ a „odlidštění“ postmoderního dvacátého prvního století.
 
@@ -17,7 +17,7 @@ Tuhá zima je vhodnou dobou, kdy se i v přírodě hodí aspoň na chvíli se oh
 
 Za jeskyněmi je nejlepší se vydat se do Moravského krasu. Ten je naší nejvýznamnější krasovou oblastí, ve které se skrývá více než tisíc jeskyní – od těch rozsáhlých, majících mnoho kilometrů, až po malé „díry“, do kterých se sotva vejde speleolog. Ne že by v nejbližším okolí Boskovic žádné jeskyně nebyly, nechejme si je však na později. Byť Moravský kras již není přímo součástí Boskovicka, Boskováci ho znají (alespoň jeho severní část). Boskovice pak s Moravským krasem spojuje osobnost Karla Absolona (1877–1960), jednoho z nejvýznamnějších krasových badatelů, který kdy v Moravském krasu působil. A nejen v Moravském krasu. Jak si můžete přečíst na pamětní desce, umístěné na boskovické Rezidenci (Muzeu Boskovicka), kde se Absolon narodil, svůj odborný zájem věnoval nejen dalším krasovým oblastem Evropy (především balkánskému Dinárskému krasu), ale také archeologickým výzkumům, zejména v Dolních Věstonicích.
 
-<img src="http://i.imgur.com/H82na2i.jpg" alt="Holštejn" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/H82na2i.jpg" alt="Holštejn" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Proto se nyní podívejme do Holštejna, na severovýchodní okraj Moravského krasu. Já osobně mám Holštejn z celého Moravského krasu nejraději. Hlavně proto, že je tak trochu stranou a nebývá tam tak mnoho turistů. Do Holštejna totiž jezdí především horolezci, a to horolezci zkušení, zdejší vápencové skály patří k těm lezecky nejobtížnějším. Holštejn je také jedním z klíčů k podzemí Moravského krasu, což si uvědomoval již zmíněný Karel Absolon. Než však podzemní Bílá voda odhalila svoje tajemství, uplynulo od Absolonových výzkumů ještě mnoho času a souboj s přírodou zde svedlo mnoho (většinou amatérských) speleologů.
 
@@ -27,7 +27,7 @@ Slovo _kras_ pochází ze slovinštiny, písemně je doloženo již ze 12. stole
 
 Moravský kras je jediným krasem u nás, který má vyvinutou úplnou škálu krasových jevů. Najdeme zde ponory (propadání), ve kterých povrchové vody mizí v podzemí. Na druhé straně krasu se pak nacházejí vývěry, kde se krasové vody opět dostávají na povrch. Nejvýznamnějšími podzemními krasovými jevy jsou jeskyně a propasti, z povrchových krasových jevů jsou nejnápadnější závrty a škrapy.
 
-<img src="http://i.imgur.com/2mxNFRu.jpg" alt="jeskyně Lidomorna" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/2mxNFRu.jpg" alt="jeskyně Lidomorna" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Holštejn je typickou ponorovou oblastí. Bílá voda, která pramení v lesích jihozápadně od Protivanova a klikatí se planinami Drahanské vrchoviny přes Nivu, Rozstání a Baldovec, se propadá do podzemí pod Holštejnem v propadání Nové Rasovny. Většina jeskyní v okolí Holštejna jsou pak staré, dnes již nefunkční ponory dávného vodního toku, předchůdce dnešní Bílé vody. Od nejznámější, volně přístupné Lidomorny (Hladomorny) pod zříceninou hradu Holštejna až po kdysi mohutnou jeskyni Holštejnskou.
 
@@ -43,13 +43,13 @@ Musím se totiž ještě zmínit o jedné jeskyni. Vlastně šlo původně o jes
 
 Po válce, v roce 1966, se podařilo jeskyňářům z blízkého závrtu proniknout do jeskyně Holštejnské. Až roku 1983 se zjistilo, že jeskyně Holštejnská a Nezaměstnaných jsou vzájemně propojeny. Obě představují jeden z největších paleoponorů (starých, dnes již nefunkčních ponorů) Bílé vody a současně jeden z nejvýznamnějších profilů kvarterními (čtvrtohorními) usazeninami. Mohutná, téměř v celém průběhu zasedimentovaná chodba Holštejnské jeskyně je široká až 56 metrů (průběh hlavní chodby kontrolován bočními rozrážkami – průkopy sedimenty až ke skalní stěně). Díky nezměrnému úsilí amatérských jeskyňářů zde vznikl patrně jeden z nejdelších souvislých profilů jeskynními sedimenty na světě. Tyto sedimenty byly datovány pomocí radioaktivních izotopů a byly v nich také nalezeny pozůstatky mamuta, soba (parohy), nosorožce, zubra, vlka, hyeny, medvěda a dokonce zub bobra. Pro odborníky jsou zajímavé také kostřičky drobných obratlovců, třeba hrabošů.
 
-<img src="http://i.imgur.com/7EJlTxi.jpg" alt="krápníková brčka" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/7EJlTxi.jpg" alt="krápníková brčka" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Chodba Holštejnské jeskyně je téměř až po strop ucpaná fluviálními (říčními) sedimenty. Zdejší hlína je mazlavá, jeskyňáři si občas zašpásují a modelují si z ní jako z plastelíny různé plastické reliéfy. Ty však nejsou tím nejzajímavějším, co lze v Holštejnské jeskyni vidět. V síni J. Šlechty ve starší části Holštejnské jeskyně se nacházejí volné prostory, které vznikly odsednutím sedimentů od stropu jeskyně. Povrch jeskynních hlín pak pokrývá sintrová deska se stalagnáty asi 30 cm dlouhými. Ze stropu visí spousty brček, drobných dutých krápníčků. Prostě nádhera. Vchod do jeskyně je před vandaly chráněn uzávěrou. Pokud ji chcete navštívit, musíte se dohodnout s místní jeskyňářskou skupinou (většinou za nějakou drobnou pomoc v podobě vynášení kbelíků s hlínou) či se Správou CHKO Moravský kras, která bdí nad ochranou jeskyně.
 
 Dávná Bílá voda spolu s bahnem do jeskyně přinesla kde co, mimo jiné kosti pravěkých zvířat. Sám jsem tak v Holštejnské viděl kus mamutího klu. Občas jsem tam taky vídal zimující netopýry, i když těch v jeskyni nikdy nebývá mnoho. Když už se zmiňuji o netopýrech, bude vhodné vysvětlit rozdíl mezi netopýrem a vrápencem. Ty od sebe snadno pozná i poučený laik. Rozlišování více než dvaceti jednotlivých druhů našich netopýrů přenechme odborníkům. Netopýři i vrápenci spolu s tropickými plodožravými kaloni patří do řádu letounů. Ne nadarmo se netopýrům v některých jazycích říká létající myši, jsou to vlastně jediní skutečně létající savci. Všichni naši netopýrovití zimují zavěšení hlavou dolů. V zimě totiž omezí své tělesné pochody na minimum, jsou to takzvaní praví zimní spáči, kteří téměř bez přerušení prospí většinu zimy. Jejich mozek musí i v této době zůstat dostatečně prokrvený a zásobovaný kyslíkem.
 
-<img src="http://i.imgur.com/XozsGWq.jpg" alt="vrápenci na stropu jeskyně" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/XozsGWq.jpg" alt="vrápenci na stropu jeskyně" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Ale jak tedy poznat netopýra od vrápence? Vrápenec malý (jiný u nás téměř nepřipadá v úvahu) visí v zimě ze stropu na nožičkách, pěkně zabalený ve svých blanitých křídlech. Vypadá při tom jako báňka na vánočním stromečku. Netopýr, například netopýr velký, visí sice ze stropu taky hlavou dolů, křídla však má složená podél těla a je mu dobře vidět „kožíšek“. Netopýři a vrápenci se od sebe liší i jinak, například tvarem nosu. U vrápence je zvláštně tvarovaný a slouží k vydávání echolokačních signálů, kdežto netopýr vydává zvuky otevřenou tlamičkou. Konec konců na to, že se netopýrovití neřídí zrakem, ale sluchem (analyzují zvuk odražený od překážky či kořisti) přišel již v 18. století italský přírodovědec Lazzaro Spallanzani. Při výzkumu tenkrát používal metody značně drastické. Vypichoval netopýrům oči a oni kupodivu přesto do skal nenaráželi. Když jim však zalil uši voskem, bylo s nimi zle.
 

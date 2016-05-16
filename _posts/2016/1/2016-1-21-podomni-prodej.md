@@ -1,13 +1,13 @@
 ---
 title: Kde všude je zakázaný podomní prodej? Polovinu obyvatel Boskovicka před ním chrání vyhláška
-cover-photo: http://i.imgur.com/cxvoklYl.jpg
+cover-photo: http://i.ohlasy.info/cxvoklYl.jpg
 category: zpravodajství
 author: Marek Osouch
 ---
 
 *Chodit od domu k domu, zvonit na zvonky a snažit se vnutit lidem svoje zboží, které nemusí být pokaždé skutečně výhodné. Tak také může vypadat podomní prodej. Proti nekalým praktikám prodejců a na ochranu svých obyvatel začaly před třemi lety přijímat obce a města vyhlášky, přesněji tržní řády, které podomní a pochůzkový prodej na území obce zakazují. Od roku 2013 takovou vyhlášku přijalo na Boskovicku 24 obcí, z nichž velká část tak učinila v loňském roce. Byly mezi nimi i Boskovice.*
 
-<img src="http://i.imgur.com/cxvoklY.jpg" alt="cedulka zákazu podomního prodeje v Lysicích" class="img-responsive img-popup" data-author="Martin Strachoň">
+<img src="http://i.ohlasy.info/cxvoklY.jpg" alt="cedulka zákazu podomního prodeje v Lysicích" class="img-responsive img-popup" data-author="Martin Strachoň">
 
 V Boskovicích začal zákaz podomního prodeje platit s prvním lednem letošního roku [podle nařízení 7/2015](http://data.ohlasy.info/trzni-rad.pdf). Hlavní důvodem zákazu je ochránit především starší občany, kteří mohou nátlakům ze strany prodejců snadněji podlehnout. Do konce března ještě mají být na všech příjezdech do města cedule oznamující, že je ve městě podomní a pochůzkový prodej zakázán. Každý by tak měl být podle starostky Hany Nedomové o zákazu informován. Jestli nařízení bude mít skutečně dobré výsledky, se teprve ukáže. Podomní prodejci často totiž můžou z města zmizet dříve, než k nim přijede městská policie.
 
