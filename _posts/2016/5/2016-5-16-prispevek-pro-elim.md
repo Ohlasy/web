@@ -1,5 +1,6 @@
 ---
 title: Pětitisícová podpora volnočasovému klubu je ostuda politiky
+date: 2016-05-16 10:00:45
 cover-photo: http://i.ohlasy.info/Yu4jQ6ll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
