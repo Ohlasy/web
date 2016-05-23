@@ -92,7 +92,7 @@ Myslím, že všichni, kteří se kolem ghetta motali, tak ho v sobě nesou, vzp
 
 **Pokud tedy nebudeme mluvit jen o hmotných památkách, ale o odkazu židovské kultury – je o něj dnes ve společnosti zájem?**
 
-My nejsme xenofobové, ale jsme cizoplaší. A potom kreténi, to je rozdíl, kretén se bojí všeho. Nejsme ani necitliví na Židy, ale jsme židoplaší. Byly i doby, kdy byla velká židovská móděnka, Muk měl kapelu Šalom a každá kočena nosila Davidovu hvězdu na krásných ňadérkách, to byla dobrá móda. Ale už je pryč. 
+My nejsme xenofobové, ale jsme cizoplaší. A potom kreténi, to je rozdíl, kretén se bojí všeho. Nejsme ani necitliví na Židy, ale jsme židoplaší. Byly i doby, kdy byla velká židovská móděnka, Muk měl kapelu Shalom a každá kočena nosila Davidovu hvězdu na krásných ňadérkách, to byla dobrá móda. Ale už je pryč. 
 
 Myslím si, že poznávání židovského živlu je v téhle republice dobré, anitisemitismus je nulový, protože když někdo začne křičet, tak tři roky křičí tak, a pak se pustí do muslimů. To je vidět na Konvičkovi a předtím na modrookém doktoru Sládkovi, ten nedal cigošům ani halíř a najednou na ně zapomněl a bude tady bubnovat. To neřeším, tyhlety projevy. Ta židoplachost ukazuje, jako bychom cítili, že je to něco nepatřičného, že došlo k vyhlazování. Tak se o to lidi ne moc rádi zajímají a ti, kteří do toho jdou vědecky, to žerou hrozně moc, ale pižlají si to na svých židokonferencích. Ono to jde těžko dát i do lidí, aby si běžná majoritní společnost uvědomila, že to byli úplně normální lidi, akorát šli třeba trošku jinou cestou svých zvyklostí. 
 
