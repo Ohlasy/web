@@ -2,6 +2,7 @@
 title: „Jazz a fotka mi na studijním pobytu v Americe převrátily život,“ říká fotografka a zpěvačka Gabriela Kolčavová
 category: rozhovory
 cover-photo: http://i.ohlasy.info/hFeQdz0l.jpg
+tags: kultura fotografie
 author: Tomáš Trumpeš
 ---
 

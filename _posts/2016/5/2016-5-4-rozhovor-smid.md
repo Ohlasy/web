@@ -3,7 +3,7 @@ title: „Všichni žijeme jeden příběh.“
 cover-photo: http://i.ohlasy.info/0WkFv9Kl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura
+tags: kultura fotografie
 ---
 
 *Rozhovor s fotografem Pavlem Šmídem, který bude od soboty 7. do neděle 29. května vystavovat v Galerii Otakara Kubína v Boskovicích soubor s názvem Buenos días, Sr. Presidente; Bom dia, Sr. Presidente. Pavel Šmíd absolvoval několik samostatných a společných výstav v České republice i v zahraničí, včetně newyorské Leica Gallery. V současnosti pracuje na volné noze a jako příležitostný kurátor Galerie města Pardubic, žije ve vesničce Česká Rybná na Českomoravské vrchovině.*
