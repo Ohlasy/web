@@ -21,7 +21,7 @@ Bývalí starostové Boskovic Jaroslav Dohnálek nebo František Sivera se tak o
 
 ### KSČM
 
-Komunisté skončili v roce 2012 druzí, což jim vyneslo zisk 16 mandátů. Do krajských voleb je tentokrát povede poslanec Ivo Pojezný z Kyjova. Hned v závěsu za ním kandiduje blanenský zastupitel Stanislav Navrkal a do první dvacítky se z Blanenska probojoval ještě předseda blanenských komunistů a zastupitel v Blansku Emil Pernica, který obsadil 9. místo. Známá jsou i další místa kandidátky: 21. místo připadlo letovické zastupitelce Jaroslavě Konůpkové, o dvě místa za ní je blanenská zastupitelka Natálie Novotná. Třicátou pozici na kandidátce má boskovický radní Vladimír Farský, 37. černohorská zastupitelka Naděžda Šabrňáková, 43. Radek Boháček ze Křtin, 50. zastupitel Velký Opatovic Alois Kaderka, 57. Ivana Bojdová z Blanka a poslední za okres je na 64. místě Hedvika Švecová z Blanska.
+Komunisté skončili v roce 2012 druzí, což jim vyneslo zisk 16 mandátů. Do krajských voleb je tentokrát povede poslanec Ivo Pojezný z Kyjova. Hned v závěsu za ním kandiduje blanenský zastupitel Stanislav Navrkal a do první dvacítky se z Blanenska probojoval ještě předseda blanenských komunistů a zastupitel v Blansku Emil Pernica, který obsadil 9. místo. Známá jsou i další místa kandidátky: 21. místo připadlo letovické zastupitelce Jaroslavě Konůpkové, o dvě místa za ní je blanenská zastupitelka Natálie Novotná. Třicátou pozici na kandidátce má boskovický radní Vladimír Farský, 37. černohorská zastupitelka Naděžda Šabrňáková, 43. Radek Boháček ze Křtin, 50. zastupitel Velký Opatovic Alois Kaderka, 57. Ivana Bojdová z Blanska a poslední za okres je na 64. místě Hedvika Švecová z Blanska.
 
 ### ANO
 
@@ -34,7 +34,8 @@ Lidovce do voleb povede nová tvář v podobě Romana Celého místo bývalého 
 ### TOP 09
 
 Strana TOP 09 se před čtyřmi roky účastnila krajských voleb poprvé a hned se ziskem. Dokázala těsně překonat pětiprocentní hranici, což jí vyneslo pět mandátů. Letos na podzim se pokusí opět v čele s Janem Vitulou do krajského zastupitelstva proniknout. Za okres Blansko se v zatím schválené první dvacítce kandidátů bude o mandát ucházet na 12. místě starosta Drnovic Petr Ducháček a na 20. místě letovický zastupitel Petr Novotný.
-Zelení a Piráti
+
+### Zelení a Piráti
 
 Společnou kandidátku Strany zelených a Pirátů povede brněnský podnikatel Jiří Hlavenka. Zveřejněných je zatím prvních devatenáct míst, kde však Blanensko vyšlo naprázdno. Zelení už mají na rozdíl od Pirátů s krajskou politikou zkušenosti. V roce 2004 kandidovali pod názvem Zelená pro Moravu společně s dnes už zaniklým politickým uskupením Liberálové.CZ a dokázali získat tři mandáty. Mezi nimi byla kupříkladu bývalá předsedkyně Strany Zelených Jana Drápalová.
 
@@ -46,4 +47,4 @@ Do společné volební koalice se spojí také Okamurova Svoboda a přímá demo
 
 Koalici do krajských voleb vytvořili také Svobodní a Strana soukromníků. Zda mezi nimi budou i zástupci z Boskovicka nebo Blanenska zatím není jasné.
 
-[Před čtyřmi lety](http://volby.cz/pls/kz2012/kz21?xjazyk=CZ&xdatum=20121012&xkraj=10) kandidovalo celkem 24 politických stran a uskupení. Do krajského zastupitelstva se však dokázalo dostat jen pět z nich, čímž propadla více než pětina hlasů pro neúspěšné strany. Volební účast tenkrát nedosáhla ani 40 procent.
+[Před čtyřmi lety](http://volby.cz/pls/kz2012/kz21?xjazyk=CZ&xdatum=20121012&xkraj=10) kandidovalo celkem 23 politických stran a uskupení. Do krajského zastupitelstva se však dokázalo dostat jen pět z nich, čímž propadla více než pětina hlasů pro neúspěšné strany. Volební účast tenkrát nedosáhla ani 40 procent.
