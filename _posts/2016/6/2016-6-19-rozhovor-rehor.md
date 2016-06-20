@@ -20,7 +20,7 @@ Udělal jsem to jako majitel nemovitosti Panského dvora, protože tuto variantu
 
 **A co se dělo dál?**
 
-Zaznělo to tam, ale poté jsem neměl pocit, že to někoho zajímá. Takže jsem dal informaci na webové stránky Panského dvora, kde informuji o dění okolo tohoto objektu. Poté jsem viděl, že reakce města žádná není.
+Zaznělo to tam, ale poté jsem neměl pocit, že to někoho zajímá. Takže jsem dal informaci na [webové stránky Panského dvora](http://www.boskovice-panskydvur.cz), kde informuji o dění okolo tohoto objektu. Poté jsem viděl, že reakce města žádná není.
 
 **Nikdo se neozval?**
 
