@@ -78,7 +78,7 @@ Vypovězení pronájmu ale neudělá vlastník, který tam knihovnu kvůli náv�
 
 **Ale sejít z toho může z jakéhokoliv důvodu.**
 
-Nájemní smlouva může být různě dlouhá, dovedu si představit smlouvu na dvacet let. A i v případě změny vlastníka přechází nájemné ze zákona. Nájemné je vážný vztah. A pokud je na dobu určitou, případně ještě z obcí, tak není možnost to rozvázat.
+Nájemní smlouva může být různě dlouhá, dovedu si představit smlouvu na dvacet let. A i v případě změny vlastníka přechází nájemné ze zákona. Nájemné je vážný vztah. A pokud je na dobu určitou, případně ještě s opcí, tak není možnost to rozvázat.
 
 **Čili bys to nepokládal za nestabilní řešení?**
 
@@ -132,7 +132,7 @@ Ano, o spolupráci má smysl se bavit i bez knihovny. U knihovny by mi to bylo t
 
 **Jak dlouho by trvalo knihovnu v Panském dvoře připravit, vzhledem k současnému stavu objektu?**
 
-Vzhledem k tomu, že město je jakýmsi partnerem Jihomoravského kraje, který ovládá památkovou péči, tak by dokázalo urychlit jednání s památkáři. A to stejné platí pro stavební úřad. Řadu formalit máme za sebou a máme je připravené, stavební řízení nemusí trvat ani třiměsíce, možná čtyři nebo pět.
+Vzhledem k tomu, že město je jakýmsi partnerem Jihomoravského kraje, který ovládá památkovou péči, tak by dokázalo urychlit jednání s památkáři. A to stejné platí pro stavební úřad. Řadu formalit máme za sebou a máme je připravené, stavební řízení nemusí trvat ani tři měsíce, možná čtyři nebo pět.
 
 **A pak by musela proběhnout rekonstrukce východního křídla, kde by knihovna měla být?**
 
