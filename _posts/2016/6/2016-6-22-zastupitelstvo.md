@@ -40,7 +40,7 @@ Auditor, který kontroluje hospodaření města, dále prohlásil, že Boskovice
 
 V plusu skončily podle předběžných zpráv zveřejněných na úřední desce také obě firmy zřizované městem. Služby Boskovice vykázaly zisk necelý jeden milion, Nemocnice Boskovice dokonce skončila v zisku více než deset milionů, což je druhý nejlepší výsledek za [deset let, během kterých město nemocnici provozuje](/clanky/2016/03/hospodareni-nemocnice.html).
 
-Zastupitelé závěrečný účet formálně schválili, hlasování o hospodaření městských firem není v jejich kompetenci.
+Zastupitelé závěrečný účet schválili, hlasování o hospodaření městských firem není v jejich kompetenci.
 
 ### Třetí rozpočtové opatření
 
