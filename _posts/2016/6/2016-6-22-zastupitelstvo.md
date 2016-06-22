@@ -52,7 +52,7 @@ Menší rozruch však způsobilo snížení peněz na opravu letního kina, kter
 
 Podle zastupitele Jaroslava Dohnálka se nemusely peníze na rekonstrukci letního kina krátit, protože v rozpočtu je rezerva v podobě letos stále nerealizované přístavby mateřské školy, na kterou město [nezískalo dotaci](/clanky/2016/04/dotace-na-skolku.html). O jednu dotaci ještě vedení města žádá, ale výsledky se dozví až na podzim. „I kdybychom dotaci získali na podzim, tak plnění v prosinci bude velmi malé, pokud ne nulové. Ty peníze tedy v rozpočtu jsou a nemusíme brát z peněz na letní kino,“ míní zastupitel. 
 
-Jiný opoziční zastupitel Dominik Božek (TOP 09) chtěl vědět, zda snížením peněz na letní kino se nezmenší také množství původně plánovaných oprav. Vedoucí odboru rozvoje města a investic Petr Zouhar reagoval slovy, že dva miliony budou letos na stačit. „Předpokládáme, že proinvestujeme do konce roku méně peněz. Převážně půjdou na bourací a sanační práce,“ uvedl. Další peníze mají být v rozpočtu na příští rok. Nové hlediště, které je v plánu, by měli dělníci dokončit příští rok v květnu před začátkem sezóny. 
+Jiný opoziční zastupitel Dominik Božek (TOP 09) chtěl vědět, zda snížením peněz na letní kino se nezmenší také množství původně plánovaných oprav. Vedoucí odboru rozvoje města a investic Petr Zouhar reagoval slovy, že dva miliony budou letos stačit. „Předpokládáme, že proinvestujeme do konce roku méně peněz. Převážně půjdou na bourací a sanační práce,“ uvedl. Další peníze mají být v rozpočtu na příští rok. Nové hlediště, které je v plánu, by měli dělníci dokončit příští rok v květnu před začátkem sezóny. 
 
 Zastupitelé po debatě rozpočtové opatření schválili. Letošní rozpočet stále počítá se schodkem zhruba šestadvacet milionů.   
 
