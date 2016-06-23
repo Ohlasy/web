@@ -9,29 +9,29 @@ author: Tomáš Trumpeš
 
 <img src="http://i.ohlasy.info/61snCas.jpg" alt="červenka-výkup" class="img-responsive">
 
-###K čemu jsou komise?
+### K čemu jsou komise?
 
 Hned v úvodu zastupitelstva se na radní města obrátil s dotazem člen sportovní komise Vladimír Petrů. Jeho otázka směřovala právě ke smyslu a k fungování komisí, které jsou poradními orgány rady. Vladimírovi Petrů se nelíbilo především to, že ve sportovní komisi nebyly projednány klíčové materiály, které se týkají oblasti sportu: bikepark v Doubravách, nákup pozemků v Červené zahradě a také Strategický plán. „Já sedím ve sportovní komisi 17 let. Vy jste mluvili o tom, že budete otevřenější ve vztahu k občanům, ale mně připadá, že je to právě naopak. Nemáte zájem s námi komunikovat, náš názor vás nezajímá a do komise nám všechno dáte, až to bude hotové a naplánované. Takto to na mě teď působí,“ shrnul své výhrady Vladimír Petrů.
 
-###Lezecká stěna
+### Lezecká stěna
 
 Zastupitelstvo dále projednávalo i petici na podporu lezecké stěny na letním kině. Podle vedení města není za současného stavu zřejmé, zda bude pro další existenci letního kina a potřebu rozvíjení jeho dalšího zázemí zbudování lezecké stěny zrovna v této lokalitě optimálně zvolenou variantou. Návrh označuje za zajímavý a zařazuje ho do návrhu strategického plánu, „což umožní jeho zachování v zásobníku projektů, jejichž realizace bude v budoucnu uvažována“. V tomto duchu byla koncipována i odpověď petentům, kterou opoziční zastupitel Radek Mazáč označil jako tristní. „Odpovědět někomu, že se to dostane do zásobníku projektů, je podle mě jenom slušná forma neslušného odmítnutí. Po dlouhé době tady máme možnost vybudovat něco, o co mají lidé opravdu zájem, a my je tímto odmítáme, “ vyjádřil se Radek Mazáč. Ten dále navrhoval, aby byla o záměr vybudování lezecké stěny alespoň doplněna projektová dokumentace na rekonstrukci letního kina. Tento návrh však zůstal nevyslyšen.
 
-###Zákaz hazardu
+### Zákaz hazardu
 
-<img src="http://i.ohlasy.info/38Mzhl2.jpg.jpg" alt="hlasování-hazard" class="img-responsive">
+<img src="http://i.ohlasy.info/38Mzhl2.jpg" alt="hlasování-hazard" class="img-responsive">
 
 Takzvanou nulovou toleranci hracích automatů schválilo na návrh rady zastupitelstvo v podobě vyhlášky, jejíž podstatou je zákaz provozování loterií a výherních hracích automatů na území města. Vyhláška začne platit od 1. ledna roku 2016, automaty budou ale mizet postupně až po odebírání licencí ministerstvem financí, což může trvat i rok až dva. Zastupitelé se zabývali v diskusi především tím, čím bude nahrazen výpadek příjmů ve výši více než 10 milionů korun, které město aktuálně z hazardu inkasuje. Zastupitel Milan Kolínský z ČSSD uvedl, že město v příštím roce splatí skoro všechny úvěry, a tím se mu uvolní částka přibližně ve stejné výši. Sportovní kluby, ke kterým zejména peníze z hazardu směřovaly, se tedy o své příspěvky bát nemusí.
 
-###Muzeum pod kraj
+### Muzeum pod kraj
 
 Muzeum Boskovicka směřuje pod křídla Jihomoravského kraje. Ten schválil na svém zastupitelstvu dohodu o spolupráci při převodu této organizace, nyní ji posvětilo i boskovické zastupitelstvo, které zároveň muzeum zruší jako svou příspěvkovou organizaci.
 
-###Územní plán
+### Územní plán
 
 Boskovice mají nový územní plán. Na jeho přípravě se pracovalo několik let a zastupitelstvo jej schválilo takřka v úplné shodě. Drobné výhrady měl především zastupitel za Sportovce Jiří Pevný. Bývalý starosta Jaroslav Dohnálek překládanou podobu územního plánu podpořil. „Předchozí vedení města práce na novém územním plánu spouštělo. Územní plán město potřebuje a je dobře, že je hotový. Budu hlasovat pro, i když o některých věcech by mohla být vedena polemika,“ uvedl dnes již opoziční zastupitel Jaroslav Dohnálek. Ten si pouze posteskl, že město Boskovice už má tak málo vlastních ploch, že pro realizaci svých záměrů bude muset pozemky kupovat či směňovat. „Je škoda, že se nepodařilo nalézt více ploch pro rozvoj výroby a podnikání, ale to narazilo na nové právní předpisy v oblasti ochrany půdy,“ dodal bývalý starosta.
 
-###Pozemek v Červené zahradě za 14 milionů
+### Pozemek v Červené zahradě za 14 milionů
 
 <img src="http://i.ohlasy.info/61snCas.jpg" alt="červenka-výkup" class="img-responsive">
 
