@@ -4,7 +4,6 @@ cover-photo: http://i.imgur.com/MGR7gQLl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: sport
-published: false
 ---
 
 *Rozhovor s Jiřím Vorlickým, fotbalovým trenérem, osobním koučem, bývalým profesionálním fotbalistou a snad se dá říci i bývalým občanským aktivistou, které zastavil výstavbu dinoparku v Doubravách. Povídali jsme si hlavně o fotbale, od probíhajícího Eura až po nové metody výchovy mladých fotbalistů. Ale také o Doubravách, farmě a nemocné společnosti.*
