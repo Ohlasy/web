@@ -8,7 +8,7 @@ tags: sport
 
 *Rozhovor s Jiřím Vorlickým, fotbalovým trenérem, osobním koučem, bývalým profesionálním fotbalistou a snad se dá říci i bývalým občanským aktivistou, které zastavil výstavbu dinoparku v Doubravách. Povídali jsme si hlavně o fotbale, od probíhajícího Eura až po nové metody výchovy mladých fotbalistů. Ale také o Doubravách, farmě a nemocné společnosti.*
 
-<img src="http://i.imgur.com/MGR7gQL.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.imgur.com/6vnAkvR.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Jirko, jak moc sleduješ Euro a jak se ti líbí fotbal, který se tam hraje?**
 
@@ -42,7 +42,7 @@ Není. A zadruhé se vrátím k té výchovné složce: tam je pro každého hr�
 
 Od 8 do 12 let je první fáze. A pak to pokračuje dál.
 
-<img src="http://i.imgur.com/pxMiruP.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.imgur.com/Q3UCTZy.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Byli jsme stroje
 
@@ -96,7 +96,7 @@ Podotknul bych, že od roku 2010 se vzdělávací systém trenérů a hráčů v
 
 Ano. Málokdo, koho potkám, dělá trenéra, málokdo se o sebe dokáže postarat v normálním životě. Bavím se o opravdu vrcholových hráčích, kteří měli od 18 do 35 let smlouvu, najednou skončili s fotbalem a neví, co dělat.
 
-<img src="http://i.imgur.com/6pDjev7.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.imgur.com/Q3UCTZy.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Žít hrou, ne výsledkem
 
@@ -146,7 +146,7 @@ Jak kde, ale obecně je fotbal stále sport číslo jedna. Zaprvé je velice lev
 
 Řekl bych, že holek přibývá, ale že bych toho byl nějakým velkým zastáncem, to ne. I když samozřejmě pokud chtějí hrát, ať hrají. Je to taky jenom sport.
 
-<img src="http://i.imgur.com/2NFjalE.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.imgur.com/xhCRj5H.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Systém běží jen za pomoci síly
 
