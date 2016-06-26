@@ -3,6 +3,7 @@ title: „Společnost se mění k lepšímu. Takže i fotbal, ale bude to straš
 cover-photo: http://i.imgur.com/MGR7gQLl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+tags: sport
 published: false
 ---
 
@@ -42,17 +43,17 @@ Není. A zadruhé se vrátím k té výchovné složce: tam je pro každého hr�
 
 Od 8 do 12 let je první fáze. A pak to pokračuje dál.
 
-<img src="http://i.imgur.com/pxMiruP.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.imgur.com/pxMiruP.jpg" alt="Jiří Vorlický" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Byli jsme stroje
 
 **Jak ty ses dostal k fotbalu?**
 
-K fotbalu jsem se dostal tak, že jsem začal hrát hokej...
+K fotbalu jsem se dostal tak, že jsem začal hrát hokej…
 
 **To je zajímavá cesta.**
 
-...a po půl roce mně řekl Miroslav Moskal, velmi uznávaný boskovický hokejový i fotbalový trenér, ať jdu hrát i fotbal.
+…a po půl roce mně řekl Miroslav Moskal, velmi uznávaný boskovický hokejový i fotbalový trenér, ať jdu hrát i fotbal.
 
 **Rozpoznal, že proto máš dispozice?**
 
