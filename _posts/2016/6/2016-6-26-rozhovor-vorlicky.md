@@ -54,7 +54,7 @@ K fotbalu jsem se dostal tak, že jsem začal hrát hokej…
 
 …a po půl roce mně řekl Miroslav Moskal, velmi uznávaný boskovický hokejový i fotbalový trenér, ať jdu hrát i fotbal.
 
-**Rozpoznal, že proto máš dispozice?**
+**Rozpoznal, že pro to máš dispozice?**
 
 Asi ano, určitě si toho všiml. Byl jsem všestranný sportovec, jako většina mých vrstevníků, my jsme uměli hrát všechno. Přišel jsem to zkusit a hned v prvním utkání jsem dal asi šest gólů.
 
@@ -82,7 +82,7 @@ Jenže přišla zranění, nebyl jsem na tom zdravotně úplně dobře, takže j
 
 **Takže plán stát se trenérem vznikl v době, kdy jsi ještě hrál?**
 
-Tenkrát mě ještě nic jiného nenapadlo, protože jsem byl vtažen do fotbalového prostředí. Přemýšlel jsem, co dělat, když kluci trénují a já nemůžu. Něco jsem dělat musel. Byl jsem zvyklý trénovat ráno, odpoledne i večer, obětoval jsem fotbalu i vzdělání, studoval jsem dálkově na učebním oboru. V té době nikoho nezajímalo, jestli někdo půjde na střední školu s maturitou nebo na vysokou, fotbalisté byli naopak tlačeni k tomu, aby měli co nejméně školy a co nejvíce sportu. Tímto procesem jsem si prošel. V tom prostředí jsem byl, ale chtěl jsem nezahálet, takže jsem začal trénovat malé děti. S tréniky jsem pomáhal všude tam, kde jsem hrál, přicházel jsem tomu víc a víc na chuť, a když jsem pak nemohl hrát, trávil jsem čas s dětmi.
+Tenkrát mě ještě nic jiného nenapadlo, protože jsem byl vtažen do fotbalového prostředí. Přemýšlel jsem, co dělat, když kluci trénují a já nemůžu. Něco jsem dělat musel. Byl jsem zvyklý trénovat ráno, odpoledne i večer, obětoval jsem fotbalu i vzdělání, studoval jsem dálkově na učebním oboru. V té době nikoho nezajímalo, jestli někdo půjde na střední školu s maturitou nebo na vysokou, fotbalisté byli naopak tlačeni k tomu, aby měli co nejméně školy a co nejvíce sportu. Tímto procesem jsem si prošel. V tom prostředí jsem byl, ale chtěl jsem nezahálet, takže jsem začal trénovat malé děti. S tréninky jsem pomáhal všude tam, kde jsem hrál, přicházel jsem tomu víc a víc na chuť, a když jsem pak nemohl hrát, trávil jsem čas s dětmi.
 
 **A po skončení hráčské kariéry jsi dostal možnost profesionálně trénovat?**
 
@@ -90,7 +90,7 @@ Hrál jsem do šestadvaceti a budoval si nějaké základy, aby nějaký zájem 
 
 **Mluvíš o ne úplně dobrém systému výchovy mladých fotbalistů. Pozoruješ to i na sobě? Byl jsi také v něčem oběť tohoto systému?**
 
-Podotknul bych, že od roku 2010 se vzdělávací systém trenérů a hráčů v České republice hodně změnil. Ale dnes je teprve rok 2016, takže je to v plenkách. Dnes je nastavená cesta, za deset patnáct let to budu vidět určitě pozitivněji než teď. Současná realita má historický podtext. To, co bylo do roku 2010, samozřejmě ovlivnilo nejen mě, ale všechny spoluhráče, se kterými jsem hrával. Ale jde i o charakter jedince a rodinu, kde vyrůstal. Já jsem měl výhodu, že jsem měl vždycky dobré zázemí. To mi pomohlo, i když jsem byl negativně ovlivněn fotbalovým prostředím, což říkám narovinu – tam se k výchově vůbec nesměřovalo, důraz byl kladen na výkon a aktuální formu, nikdo se nezajímal, jak se člověk cítí nebo jaké má vzdělání. Prostě jsme byli stroje. Daří se ti – hraješ, nedaří se ti – něco se sebou dělej. A to po psychické i fyzické stránce, když bylo nějaké zranění, nebyly takové možnosti jako dnes. Když to sečtu, o vzdělání, psychický stav a fyzickou stránku se dřív nikdy nikdo nestaral. Proto jsou dnes dvě třetiny mých bývalých spoluhráčů na alkoholu, automatech a tak dále.
+Podotknul bych, že od roku 2010 se vzdělávací systém trenérů a hráčů v České republice hodně změnil. Ale dnes je teprve rok 2016, takže je to v plenkách. Dnes je nastavená cesta, za deset patnáct let to budu vidět určitě pozitivněji než teď. Současná realita má historický podtext. To, co bylo do roku 2010, samozřejmě ovlivnilo nejen mě, ale všechny spoluhráče, se kterými jsem hrával. Ale jde i o charakter jedince a rodinu, kde vyrůstal. Já jsem měl výhodu, že jsem měl vždycky dobré zázemí. To mi pomohlo, i když jsem byl negativně ovlivněn fotbalovým prostředím, což říkám na rovinu – tam se k výchově vůbec nesměřovalo, důraz byl kladen na výkon a aktuální formu, nikdo se nezajímal, jak se člověk cítí nebo jaké má vzdělání. Prostě jsme byli stroje. Daří se ti – hraješ, nedaří se ti – něco se sebou dělej. A to po psychické i fyzické stránce, když bylo nějaké zranění, nebyly takové možnosti jako dnes. Když to sečtu, o vzdělání, psychický stav a fyzickou stránku se dřív nikdy nikdo nestaral. Proto jsou dnes dvě třetiny mých bývalých spoluhráčů na alkoholu, automatech a tak dále.
 
 **Opravdu je to až tak drsné?**
 
@@ -106,7 +106,7 @@ Neživí mě jenom fotbal, ale je pro mě pořád primární. Dělám profesion�
 
 **Můžeš nějak popsat, jak se snažíte s hráči pracovat, aby to nebyla právě jen ta orientace na výkon?**
 
-Záleží na věku děti. Uvedu příklady. Na začátku chce dát rodič dítě na nějaký sport a rozmyslí se třeba pro fotbal. To dítě má většinou pět a půl až šest let, v tomhle období rodiče obvykle začnou chtít, aby dítě něco dělalo.
+Záleží na věku dětí. Uvedu příklady. Na začátku chce dát rodič dítě na nějaký sport a rozmyslí se třeba pro fotbal. To dítě má většinou pět a půl až šest let, v tomhle období rodiče obvykle začnou chtít, aby dítě něco dělalo.
 
 **A to je v pořádku – je to příhodný věk?**
 
@@ -122,7 +122,7 @@ To už může být trénink trochu víc zaměřen na fotbal. Ale ke kompenzaci p
 
 **A kdy přijde na řadu soutěživost?**
 
-Ta tam může být už od těch pěti šesti let, ale jde o to jaká soutěživost. Třeba vyhrát závod na deset metrů v běhu. Soutěživost je nutné chápat tak, aby děti nebyly zaměřeny na výhru, ale na to, jakým způsobem vyhraju. Fotbal s dětmi do osmi let třeba ještě vůbec nemusíme hrát na výsledky, na dvě branky proti sobě, a kdo ze dvou týmů dá víc gólů, vyhraje. Dá se hrát bez brankářů, na více branek – ať dá gól každý, kdo se míče dotkne. Z toho má dítě radost, nepočítá, jestli vyhrává, nebo prohrává, ale žije hrou, pohybuje se, střílí, dává góly a není zaměřené na výsledek. 
+Ta tam může být už od těch pěti šesti let, ale jde o to,s jaká soutěživost. Třeba vyhrát závod na deset metrů v běhu. Soutěživost je nutné chápat tak, aby děti nebyly zaměřeny na výhru, ale na to, jakým způsobem vyhraju. Fotbal s dětmi do osmi let třeba ještě vůbec nemusíme hrát na výsledky, na dvě branky proti sobě, a kdo ze dvou týmů dá víc gólů, vyhraje. Dá se hrát bez brankářů, na více branek – ať dá gól každý, kdo se míče dotkne. Z toho má dítě radost, nepočítá, jestli vyhrává, nebo prohrává, ale žije hrou, pohybuje se, střílí, dává góly a není zaměřené na výsledek. 
 
 Když je dítě naopak zaměřené na výsledek, obvykle si moc neuvědomuje, co na hřišti dělá. Neví, kdy má obejít hráče, kdy má přihrát, jak má zpracovat míč. Když děti zaměřím na výkon a výsledek, tak je tohle všechno nemůžu naučit, protože jejich pozornost je v brance. Když bude na hřišti stát překážka, je dítě schopno do ní narazit. Chce dát gól, ale nevnímá souvislosti, které vedou k tomu, jak gólů dosahovat. Je to složitý proces.
 
@@ -130,7 +130,7 @@ Když je dítě naopak zaměřené na výsledek, obvykle si moc neuvědomuje, co
 
 Záleží v jaké kategorii. Když vezmeme zájmovou činnost, jako třeba v Boskovicích a okolí, kde děti hrají okresní a krajské soutěže, tak do dvanácti let by se měly fotbalem opravdu hlavně bavit a rozvíjet svoje dovednosti, být zaměřené na to, co a jak dělají. Od dvanácti se může ten, kdo je na tom dobře, posunout do výkonnostní soutěže, tam už je to specifické. A v patnácti se ti, kteří projdou sítem, dostanou do těch nejlepších klubů a hrají na vrcholové bázi. A ti, co to dělají zájmově, by měli mít celou dobu vedení, které respektuje, že to dělají pro radost.
 
-**Jak rychle jako trenér poznáš na dítěti, jestli má na to tím sítem projít a hrát na vrcholové úrovni?**
+**Jak rychle jako trenér poznáš na dítěti, jestli má na to, tím sítem projít a hrát na vrcholové úrovni?**
 
 Bohužel se to často děje, ale ve skutečnosti se to nedá úplně odhadnout. Ze začátku je nejdůležitějším faktorem pohybová kultura, takže není ani tak důležité, co dítě umí, ale jak rychle běhá, jak je obratné, koordinačně zdatné. Dále jestli má v sobě vítězného ducha. To znamená, že i když prohrává – třeba ten závod v běhu – tak chce vyhrát, chce to zkusit znovu. To jsou první známky toho, že má cenu s ním pokračovat. Má chuť a chce na sobě pracovat. Ale talent se poznat nedá, protože zhruba až do patnácti let mají výhodu akcelerovaní hráči, kteří narostli a jsou rychlí. Mají výhodu před těmi, kteří ještě nenarostli, a trenéři je často staví právě kvůli výsledku. K ostatním akcelerace přijde třeba až v patnácti letech s nárůstem svalové hmoty, do té doby jsou opomíjeni a nehrají. Proto bych do patnácti let vůbec nevybíral. Z vrcholového hlediska se samozřejmě dá něco odhadnout už ve dvanácti letech, ale to jsou první náznaky. Úplně je to možné až s dorovnáním biologického věku, mezi hráči stejného ročníku je biologický rozdíl čtyř až pět let, takže se tím nemůžeme řídit.
 
@@ -152,7 +152,7 @@ Jak kde, ale obecně je fotbal stále sport číslo jedna. Zaprvé je velice lev
 
 **Nezmínili jsme ještě jednu věc, která  českému fotbalu patří – a to je to, že není příliš důvěryhodný. Ani letošní konec nejvyšší soutěže tomu nepřispěl, minimálně vyvolával pochybnosti. Jak moc to fotbal ovlivňuje?**
 
-Tyto otázky si kladu dvacet let. Od doby, co jsem začal trénovat a ještě jsem hrál. Zažil jsem doby, kdy mezi nás přišla nějaká osoba řekla: tenhleten zápas dopadne tak a tak. 
+Tyto otázky si kladu dvacet let. Od doby, co jsem začal trénovat a ještě jsem hrál. Zažil jsem doby, kdy mezi nás přišla nějaká osoba a řekla: tenhleten zápas dopadne tak a tak. 
 
 **To jsi zažil?**
 
