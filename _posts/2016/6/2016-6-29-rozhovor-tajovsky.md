@@ -1,7 +1,7 @@
 ---
 title: „Dirigování není jen synchronizované mávání rukama.“
 cover-photo: http://i.imgur.com/KNsy2Qgl.jpg
-author: Tomáš Trumpeš
+author: Kristýna Znamenáčková
 category: rozhovory
 tags: kultura
 ---
