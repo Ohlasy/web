@@ -4,7 +4,6 @@ cover-photo: http://i.imgur.com/KNsy2Qgl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura
-published: false
 ---
 
 *Rozhovor s Ondřejem Tajovským, dirigentem a zakladatelem Vernum 2013 Ensemble, iniciátorem a dramaturgem hudebních událostí nejen na Boskovicku. Rozhovor je zároveň pozvánkou na minifestival [Malý noční Mozart](https://www.zamek-kunstat.cz/cs/zpravy/10698-maly-nocni-mozart-na-kunstate), jehož první koncert se odehraje už v pátek 1. července v zahradě kunštátského zámku. Zazní na něm operní árie W. A. Mozarta v podání Karolíny Žmolíkové, Anety Petrasové a Heleny Hozové za klavírního doprovodu Ondreje Olose.*
