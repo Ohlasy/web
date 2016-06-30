@@ -4,7 +4,6 @@ cover-photo: http://i.imgur.com/OnZmqmcl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura, vzdělávání
-published: false
 ---
 
 *Rozhovor s Martinem Krajíčkem, který odchází po jednadvaceti z boskovické základní umělecké školy. Po rozhovoru s ředitelkou školy Stanislavou Matuškovou jsme oslovili také jeho, aby svůj odchod vysvětlil a přiblížil svůj pohled na situaci ve škole.*
