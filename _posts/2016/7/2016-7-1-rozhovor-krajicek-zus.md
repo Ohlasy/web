@@ -6,7 +6,7 @@ category: rozhovory
 tags: kultura, vzdělávání
 ---
 
-*Rozhovor s Martinem Krajíčkem, který odchází po jednadvaceti z boskovické základní umělecké školy. Po rozhovoru s ředitelkou školy Stanislavou Matuškovou jsme oslovili také jeho, aby svůj odchod vysvětlil a přiblížil svůj pohled na situaci ve škole.*
+*Rozhovor s Martinem Krajíčkem, který odchází po jednadvaceti letech z boskovické základní umělecké školy. Po rozhovoru s ředitelkou školy Stanislavou Matuškovou jsme oslovili také jeho, aby svůj odchod vysvětlil a přiblížil svůj pohled na situaci ve škole.*
 
 <img src="http://i.imgur.com/OnZmqmc.jpg" alt="Martin Krajíček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
