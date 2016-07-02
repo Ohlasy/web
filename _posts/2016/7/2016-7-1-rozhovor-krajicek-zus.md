@@ -100,7 +100,7 @@ Protože mají strach. Včera jsme se o tom bavili. Na základní umělecké šk
 
 **Zaznělo to od [paní Keršnerové](http://blanensky.denik.cz/zpravy_region/reditelka-skoly-nas-chce-vyhodit-napsala-ucitelka-ministrovi-20140701.html).**
 
-Od paní Keršnerové a od Magdy Markové u soudu. Přesně tohle.
+Od paní Keršnerové a [od Magdy Markové u soudu](http://ohlasy.info/clanky/2015/11/soud-zus.html). Přesně tohle.
 
 <img src="http://i.imgur.com/W3kf736.jpg" alt="Martin Krajíček" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
