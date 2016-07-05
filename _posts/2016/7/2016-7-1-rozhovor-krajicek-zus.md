@@ -18,7 +18,7 @@ Ze dvou důvodů. První byl ten, že jsem dostal nabídku nového místa, takž
 
 Ten byl podmínkou pro tuto věc. Tušil jsem, že žáci, na kterých mi záleží, půjdou se mnou. Kdybych měl opustit úplně všechny žáky, tak bych to možná nedělal.
 
-**Ale to obojí je vlastně až druhá polovina rozhodnutí – předpokládám, že kdybys byl spokojený v Boskovicích, tak bys toto vůbec neřešil. Co tě vlastně vedlo  tomu, žes začal uvažovat o změně místa?**
+**Ale to obojí je vlastně až druhá polovina rozhodnutí – předpokládám, že kdybys byl spokojený v Boskovicích, tak bys toto vůbec neřešil. Co tě vlastně vedlo k tomu, žes začal uvažovat o změně místa?**
 
 Ta věc je složitá, těžko se říká nahlas, obzvlášť tady na maloměstě. Ale musel jsem k tomu rozhodnutí dojít a musím to i říct. Odešel jsem od intrik a pomluv a jdu na pracoviště, kde si myslím, že se mi bude opět svobodně tvořit a učit, tak jak to ke svému povolání prostě potřebuji.
 
@@ -96,7 +96,7 @@ Ano, to říká.
 
 **A zároveň říká, že toho nikdo nevyužívá.**
 
-Protože mají strach. Včera jsme se o tom bavili. Na základní umělecké škole není dobrá atmosféra, není tam klid. Lidé jsou opravdu vystresovaní. A myslím si že až na pár jedinců, kteří jí dnes dělají pravé ruky, jsou to úplně všichni. A nejsem první, kdo to říká veřejně.
+Protože mají strach. Včera jsme se o tom bavili. Na základní umělecké škole není dobrá atmosféra, není tam klid. Lidé jsou opravdu vystresovaní. A myslím si, že až na pár jedinců, kteří jí dnes dělají pravé ruky, jsou to úplně všichni. A nejsem první, kdo to říká veřejně.
 
 **Zaznělo to od [paní Keršnerové](http://blanensky.denik.cz/zpravy_region/reditelka-skoly-nas-chce-vyhodit-napsala-ucitelka-ministrovi-20140701.html).**
 
@@ -136,9 +136,9 @@ Ošklivé věci se děly už předtím. Paní učitelka Keršnerová nás vyzýv
 
 Mých hranic určitě. Já jsem docela citlivý, překročení hranic už to bylo od začátku, jakkoliv byla Stáňa moje kamarádka.
 
-**Takže to nebyla ani na začátku zkrátka tak, že přišlo nové vedení a dělá změny, ne všem se to líbí a někteří třeba odejdou, což je do značné míry normální?**
+**Takže to nebylo ani na začátku zkrátka tak, že přišlo nové vedení a dělá změny, ne všem se to líbí a někteří třeba odejdou, což je do značné míry normální?**
 
-Mě se to na začátku týkalo také. Já nemám aprobaci, studoval jsem hudební vědu, ale to mi k ničemu není. Mám udělenou výjimku na základě toho, s jakými orchestry jsem hrál. Možná jsem se cítil na začátku taky trochu zahnaný do kouta, takže jsem na ty věci přistoupil, s tím že mám práci. Já mám sice ještě svůj profesionální hudební život, ale učení na ZUŠ je pro nás hudebníky, kteří nehrajeme úplně populární žánry nebo nejsme úplně úspěšní, dobrá jistota. Máme to rádi a navíc nás to baví, aspoň mě ohromně, to snad nemusím dokazovat.
+Mě se to na začátku týkalo také. Já nemám aprobaci, studoval jsem hudební vědu, ale to mi k ničemu není. Mám udělenou výjimku na základě toho, s jakými orchestry jsem hrál. Možná jsem se cítil na začátku taky trochu zahnaný do kouta, takže jsem na ty věci přistoupil – s tím, že mám práci. Já mám sice ještě svůj profesionální hudební život, ale učení na ZUŠ je pro nás hudebníky, kteří nehrajeme úplně populární žánry nebo nejsme úplně úspěšní, dobrá jistota. Máme to rádi a navíc nás to baví, aspoň mě ohromně, to snad nemusím dokazovat.
 
 **Směřuji k tomu, že určitá míra zlé krve je při takové výměně vedení běžná. Tady se ale podle tebe pohybujeme daleko za touto hranicí? Někdo by mohl říct: přijde nová ředitelka, vymění se pár lidí, ono si to časem sedne.**
 
