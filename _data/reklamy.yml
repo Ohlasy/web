@@ -18,10 +18,10 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Festival
-  image: http://i.imgur.com/6GrXwh3.png
+- name: Festiválek
+  image: http://i.imgur.com/WepnA5s.png
   alt: festival Boskovice 2016
-  url: http://boskovice-festival.cz
+  url: http://festivalekbezbojuavalek.cz
   priority: 1000
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
