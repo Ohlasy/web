@@ -30,7 +30,7 @@ V mnoha ohledech. Například v tom, že se jedná o první svobodný posttotali
 
 **A kolik lidí ročně centrum navštíví? Jedná se spíš o místní, nebo turisty?**
 
-Za rok je to 4500 až 5000 lidí, počítáno i s návštěvníky akcí, které zde pořádáme. Není to moc, protože toto místo je zcela specifické. Rodiny na výlet k nám opravdu moc nejezdí. Cestu si k nám najdou spíše ti, co pracují v oboru, nebo studenti a školy či zájezdy Klubu českých turistů. Další skupinu návštěvníků tvoří ti, kteří o kartografickém centru třeba ani nikdy neslyšeli, ale projíždějí přes Opatovice od Letovic, a protože ta stavba je tak výrazná, nemůžou nezastavit. A když mají štěstí a je otevřeno, bývají nadšeni. Samozřejmě má kartografické centrum své přívržence i odpůrce, asi jako všechno. Místním se moc nelíbí, většina by uvítala dostavbu zámku v klasicistně barokním duchu, ve kterém byl před vyhořením.   
+Za rok je to 4 500 až 5 000 lidí, počítáno i s návštěvníky akcí, které zde pořádáme. Není to moc, protože toto místo je zcela specifické. Rodiny na výlet k nám opravdu moc nejezdí. Cestu si k nám najdou spíše ti, co pracují v oboru, nebo studenti a školy či zájezdy Klubu českých turistů. Další skupinu návštěvníků tvoří ti, kteří o kartografickém centru třeba ani nikdy neslyšeli, ale projíždějí přes Opatovice od Letovic, a protože ta stavba je tak výrazná, nemůžou nezastavit. A když mají štěstí a je otevřeno, bývají nadšeni. Samozřejmě má kartografické centrum své přívržence i odpůrce, asi jako všechno. Místním se moc nelíbí, většina by uvítala dostavbu zámku v klasicistně barokním duchu, ve kterém byl před vyhořením.   
 
 **A co myslíš, že by mohlo pomoct větší návštěvnosti? Lepší propagace, víc akcí?**
 
