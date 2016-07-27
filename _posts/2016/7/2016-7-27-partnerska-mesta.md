@@ -12,6 +12,7 @@ category: zpravodajství
 Myšlenka mít partnerské město sahá v Boskovicích ještě dál než deset let do minulosti. Boskovičtí se snažili získat partnera už před rokem 2006, ale neúspěšně. Přitom nedaleké Blansko má svá partnerská města z mnohem dřívější doby. V roce 2005, kdy Boskovice ještě neměly žádné takové město, podepisovali Blanenští už čtvrtou smlouvu o spolupráci. „Už si přesně nepamatuji, proč jsme byli tenkrát neúspěšní. Partnerské město jsme ale chtěli kvůli možnostem dotačních titulů na různé projekty,“ říká dnes místostarostka Boskovic Jaromíra Vítková (KDU-ČSL).
 
 Podle Jaroslava Parmy z boskovického úřadu, který má od začátku partnerská města na starosti, neoslovovala partnery prvně boskovická radnice, ale naopak Boskovice byly osloveny a nabídku přijaly. „Já jsem přišel na úřad v roce 2003 a nepamatuji si, že by v té době byla nějaká velká iniciativa mít nějaké partnerské město,“ vzpomíná Parma. 
+
 Partnerská spolupráce má podle Svazu měst a obcí veliký význam pro výměnu zkušeností v nejrůznějších oblastech týkajících se života města. „Ať už se jedná o rozvoj měst, sociální oblast, školství, životní prostředí, cestovní ruch nebo fungování samosprávy,“ obhajuje Svaz měst a obcí význam partnerství. 
 
 ### RAWA MAZOWIECKA
@@ -50,7 +51,7 @@ K letošní oficiální politické delegaci mířící do Belgie se přidala pop
 
 Dvanáctitisícový Prnjavor je čtvrtým a zatím posledním partnerským městem Boskovic. Leží v Bosně a Hecegovině a partnerem Boskovic se stal teprve v roce 2013. „Už když jsme o této partnerské spolupráci dříve hovořili, počítali jsme s tím, že v tomto případě půjde zejména o účinnou pomoc od nás. Očekávají od nás rady, jak postupovat v rámci dotačních titulů a předvstupních rozhovorů do Evropské unie. Počítá se také s výměnou kulturních a uměleckých souborů nebo třeba s výměnnými pobyty sportovců,“ [nastínil v roce 2013 spolupráci pro Boskovicko](http://stare.boskovicko.cz/cislo.phtml?iss_id=477#art_16296) tehdejší starosta Boskovic Jaroslav Dohnálek.
 
-Partnerství s Prnjavorem zatím ovšem probíhá pouze v podobě politických delegací, kdy se zástupci radnic vzájemně navštěvují a ukazují krásy a svých měst. Boskovice se zatím v Prnjavoru představily vyjma politických delegací vystoupením folklorního souboru Velen a dětským souborem Borověnka. Prnjavor v Boskovicích zatím ničím.
+Partnerství s Prnjavorem zatím ovšem probíhá pouze v podobě politických delegací, kdy se zástupci radnic vzájemně navštěvují a ukazují krásy svých měst. Boskovice se zatím v Prnjavoru představily vyjma politických delegací vystoupením folklorního souboru Velen a dětským souborem Borověnka. Prnjavor v Boskovicích zatím ničím.
 
 Letos boskovická starostka se svými kolegy navštívila bosenské město při příležitosti oslav Dne opštiny Prnjavor. Boskovičtí politici si město prohlédli, setkali se se zástupci české menšiny a zúčastnili se slavnostního zasedání zastupitelstva. „S Prnjavorem je to složité. Bohužel kulturní soubor tam žádný nemají, fotbalisty také ne, takže zatím je to hlavně o těch oficiálních návštěvách,“ přiznal Jaroslav Parma.
 
