@@ -18,11 +18,16 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Festiválek
+- name: Hrnčířský jarmark v Kunštátě
+  image: http://i.imgur.com/ODAwoXB.png
+  alt:  Hrnčířský jarmark v Kunštátě 2016
+  url: http://kunstat-mesto.cz/hrncirsky-jarmark/hrncirsky-jarmark-2016
+  priority: 1000  
+- name: Festiválek bez bojů a válek
   image: http://i.imgur.com/WepnA5s.png
   alt: Festiválek bez bojů a válek 2016
   url: http://festivalekbezbojuavalek.cz
-  priority: 1000
+  priority: 900
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
