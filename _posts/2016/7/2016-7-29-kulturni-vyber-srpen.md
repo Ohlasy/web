@@ -10,7 +10,7 @@ tags: kultura
 
 ### Hudba
 
-Srpnový kulturní program se v našem regionu nese v podobném duchu jako ten červencový. Festivalová sezóna v Boskovicích pokračuje ve dnech 5.–7. srpna, kdy se koná Festiválek bez bojů a válek. V rámci něj v pátek 5. srpna v Kafe za rohem vystoupí místní folkové dívčí trio Veka, brněnský indie-folkový zpěvák a kytarista Ondřej Soldán a ruský hudebník Alex Kelman, v sobotu 6. srpna pak za boskovickým muzeem například písničkářka Lucie Redlová z Valašského Meziříčí, mezinárodní kapela Mr. Loco, vycházející mimo jiné z balkánského folklóru, brněnská legendární kapela Ty Syčáci v čele s Petrem Vášou, černošicko-balkánské uskupení Timudej, country-pop-rocková brněnská skupina 4 psi nebo oblíbená místní blues-rocková kapela Karlovy hračky.
+Srpnový kulturní program se v našem regionu nese v podobném duchu jako ten červencový. Festivalová sezóna v Boskovicích pokračuje ve dnech 5.–7. srpna, kdy se koná Festiválek bez bojů a válek. V rámci něj v pátek 5. srpna v Kafe za rohem vystoupí místní folkové dívčí trio Veka, brněnský indie-folkový zpěvák a kytarista Ondřej Soldán a ruský hudebník Alex Kelman, v sobotu 6. srpna pak za boskovickým muzeem například písničkářka Lucie Redlová z Valašského Meziříčí, mezinárodní kapela Mr. Loco, vycházející mimo jiné z balkánského folklóru, brněnská legendární kapela Ty Syčáci v čele s Petrem Vášou, černošicko-balkánské uskupení Timudej, skupina 4DOGS nebo oblíbená místní blues-rocková kapela Karlovy hračky.
 
 Minifestival s názvem Ahoj, léto! – rozloučení s prázdninami se koná v sobotu 27. srpna v Letovicích. Ve zdejší hasičské zbrojnici se představí například trio Jitky Šuranské, Vladimír Hron s Lucií Černíkovou nebo Dalibor Janda s Jiřinou Annou Jandovou.
 
