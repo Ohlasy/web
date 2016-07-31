@@ -11,7 +11,7 @@ category: zpravodajství
 
 Proběhl [24. ročník festivalu Boskovice](http://ohlasy.info/clanky/2016/07/festivalovy-zapisnik.html), který je věnován [místní židovské čtvrti](http://ohlasy.info/clanky/2016/07/anketa-zidovska-ctvrt.html). Do 21. srpna jsou ještě ke zhlédnutí festivalové výstavy, třeba [Pomník Bruno Zwickera od Pavla Karouse](http://ohlasy.info/clanky/2016/07/rozhovor-karous.html).
 
-Na náměstí v Blansku našli [mrtvého primáře boskovické nemocnice](http://zpravy.aktualne.cz/regiony/jihomoravsky/na-namesti-v-blansku-nasli-mrtveho-primare-boskovicke-nemocn/r~8f608faa4f3a11e69d46002590604f2e/) Miroslava Kalu. Případ vyšetřuje policie.
+Na náměstí v Blansku našli [mrtvého primáře boskovické nemocnice](http://zpravy.aktualne.cz/regiony/jihomoravsky/na-namesti-v-blansku-nasli-mrtveho-primare-boskovicke-nemocn/r~8f608faa4f3a11e69d46002590604f2e/). Případ vyšetřuje policie.
 
 Policie [odložila trestní oznámení](http://ohlasy.info/clanky/2016/07/vysetrovani-cervenka.html), kterému čelila boskovická radnice v souvislosti s odkupem Dvořáčkova mlýna. K trestnému činu podle policie nedošlo.
 
