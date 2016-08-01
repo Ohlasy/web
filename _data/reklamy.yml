@@ -1,8 +1,3 @@
-- name: Panský dvůr
-  image: http://i.imgur.com/flYxEmb.jpg
-  alt: Zajímá vás budoucnost Panského dvora?
-  url: http://www.boskovice-panskydvur.cz/
-  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
