@@ -41,7 +41,7 @@ Včelaři hlásí, že [medu bude dost](http://blanensky.denik.cz/zpravy_region/
 
 Politici a úředníci podali [čestné prohlášení o příjmech a získaném majetku](http://blanensky.denik.cz/zpravy_region/majetek-politiku-a-uredniku-domy-cenne-papiry-i-dluhy-20160722.html).
 
-Junák a Orel připravují [památník na počest Kardinála Špidlíka](http://blanensky.denik.cz/zpravy_region/boskovicti-postavi-pamatnik-na-pocest-kardinala-spidlika-20160713.html).
+Junák a Orel připravují [památník na počest kardinála Špidlíka](http://blanensky.denik.cz/zpravy_region/boskovicti-postavi-pamatnik-na-pocest-kardinala-spidlika-20160713.html).
 
 Město ve spolupráci s oddílem Vatra [opravilo lavičky Pod Oborou](http://blanensky.denik.cz/zpravy_region/do-opravy-lavicek-v-boskovicich-se-zapojily-take-deti-20160708.html).
 
