@@ -204,7 +204,7 @@ Jistě víte, že v okrese Blansko je potřeba zlepšit mnoho a mnoho věcí vč
 
 ---
 
-<img src="http://i.imgur.com/oJF7aGl.jpg" alt="Jiří Šoltys" class="profile-picture">
+<img src="http://i.imgur.com/nEQyHWr.jpg" alt="Jiří Šoltys" class="profile-picture">
 
 **Jiří Šoltys**
 
