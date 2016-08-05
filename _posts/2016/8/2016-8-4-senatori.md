@@ -204,6 +204,20 @@ Jistě víte, že v okrese Blansko je potřeba zlepšit mnoho a mnoho věcí vč
 
 ---
 
+<img src="http://i.imgur.com/nEQyHWr.jpg" alt="Jiří Šoltys" class="profile-picture">
+
 **Jiří Šoltys**
 
-Je devátým a zároveň posledním kandidátem do Senátu v okrese Blansko. Kandiduje za politickou stranu Národ sobě. Na zaslané otázky, proč se rozhodl kandidovat a jaké věci chce v Senátu prosadit, zatím nereagoval. Jakmile obdržíme jeho odpovědi, budeme vás informovat.
+**Věk:** 47 let
+
+**Politická strana:** Kandidát za stranu Národ sobě. Tato strana svého senátora nemohla na Blanensku mít. Vznikla až po posledních senátních volbách v roce 2010.
+
+**Politické zkušenosti:** Zatím žádné. Před dvěma lety neúspěšně kandidoval do Senátu v brněnském obvodu za politickou stranu Občané České republiky. Pokoušel se také sbírat podpisy do klání o post prezidenta v roce 2013.
+
+**Proč jste se rozhodl kandidovat do Senátu?**
+
+Víte, jaký je nápis nad oponou Národního divadla? Je tam zlatým písmem napsáno Národ Sobě. A víte, co tento nápis znamená? Je to o lidech, o lásce ke své zemi a k rodnému kraji. Je to také o tom, že by si každý člověk měl uvědomit, že svůj život drží v rukou právě on. Mohl bych tedy říct desítky nebo stovky důvodů, proč jsem se rozhodl kandidovat do Senátu. Ale hlavní, který všechny tyto důvody spojuje, je jeden – mám rád naši zemi a kraj. Mám rád, když se lidé k sobě chovají jako lidé. Když vím, že za poctivou práci budu poctivě odměněn, že když já pomůžu tobě, ty pomůžeš mně. Mám rád, když spolu lidé mluví, když se nebojí vyjádřit svůj názor a když mají sny a tužby, za kterými jdou a mohou žít bez obav, co přinese zítřek. To je pak snadná cesta ke štěstí, kterou můžeme jít všichni. Nebavme se však o jednotlivých problémech, které zná většina z nás, ale řekněme si, jak z těchto problémů ven.
+
+**Jaké věci s ohledem na okres Blansko, za který kandidujete, se jako případný senátor budete snažit prosadit?**
+
+Odpověď na tuto otázku najdete přímo v mém volebním programu i v programu celé politické strany Národ Sobě, za kterou kandiduji. V první řadě chci prosadit zavedení nepodmíněného příjmu, tím způsobem získá celý okres Blansko potřebné prostředky pro růst a rozvoj svůj i svých občanů. Je třeba si uvědomit, že místo, ve kterém žijí spokojení a bohatí lidé, je také spokojené a bohaté. Mimo jiné chci prosadit zrušení letního času, který již v dnešní době nemá původní opodstatnění a zbytečně nám tak narušuje přirozené biorytmy. Samozřejmostí je pak podpora a ochrana kulturního a historického odkazu, zlepšení dopravní obslužnosti i přímá komunikace s občany a dostupnost práva pro každého.
