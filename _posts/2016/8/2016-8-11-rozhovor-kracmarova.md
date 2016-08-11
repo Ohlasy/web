@@ -30,7 +30,7 @@ Většina zastupitelů bohužel měla jiný názor. Nezapomeň také na složen�
 
 No, smířeni není to správné slovo. Ono se to nakonec semlelo tak, že se na tuto variantu dokonce těšíme… Hned druhý den po rozhodnutí zastupitelstva jsem oslovila svou kamarádku, zahradní architektku Hanu Matějkovou, aby nám vymyslela, jak by se prostor dal upravit. Aby vzniklo opravdu důstojné a hlavně živé místo, kam by lidé rádi chodili a kde by trávili svůj volný čas. Hanka pak připravila tak kvalitní projekt, že přesvědčil i členy rady města. Všechno špatné je tedy pro něco dobré – odsunutí Václava Havla z náměstí nakonec vedlo k vytvoření úplně nového prostoru, který přímo vybízí k trávení času.
 
-<img src="http://i.imgur.com/SEjoqOI.jpg" alt="Tyršova ulice" class="img-responsive img-popup">
+<img src="http://i.imgur.com/SEjoqOI.jpg" alt="Tyršova ulice" class="img-responsive img-popup" data-author="Jaroslav Chloupek">
 
 **Nepůjde tedy jen o umístění busty, ale o úpravu celého prostoru? Jak bude vypadat?**
 
