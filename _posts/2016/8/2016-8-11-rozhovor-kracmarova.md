@@ -60,7 +60,7 @@ Vlnu odporu jsme zaznamenali pouze prostřednictvím anonymní ankety na stránk
 
 **Autora busty jsi měla vymyšleného od samého začátku? Můžeš ho trochu představit?**
 
-Akademický sochař Kryštof Hošek je výrazným umělcem a také osobností. Ve své tvorbě se nebojí vyjadřovat své politické postoje. Má spoustu realizací nejen v České republice. Kryštof pochází v významné umělecké a intelektuální rodiny. Jeho dědeček Zdeněk Edel patří mezi naše nejvýznamnější architekty. Oba rodiče jsou výtvarníci, otec navíc sochař.
+Akademický sochař Kryštof Hošek je výrazným umělcem a také osobností. Ve své tvorbě se nebojí vyjadřovat své politické postoje. Má spoustu realizací nejen v České republice. Kryštof pochází z významné umělecké a intelektuální rodiny. Jeho dědeček Zdeněk Edel patří mezi naše nejvýznamnější architekty. Oba rodiče jsou výtvarníci, otec navíc sochař.
 
 **Jak reagoval, když jsi ho oslovila?**
 
@@ -86,7 +86,7 @@ Jako každá silná a výrazná osobnost má Havel své zaryté podporovatele i 
 
 S panem prezidentem jsem se bohužel nikdy nesetkala. Mám ale na něj osobní památku. Jako doktorandka jsem učila kurzy českého jazyka pro dospělé, kteří si z nějakého důvodu museli doplnit vysokou školu. Jednou jsem učila skupinu policistů, z nichž jeden měl dyslexii, vzhledem k jeho věku ale nebylo možné, aby bylo provedeno řádné vyšetření, na základě kterého bych mu upravila studijní povinnosti. Velmi jsem se mu tedy věnovala, abych ho připravila na zápočtový test. Když pak test napsal, měl obrovskou radost. Jako výraz poděkování mi poslal osobně podepsanou fotografii Václava Havla i s věnováním. Zjistila jsem pak, že byl jeho osobním řidičem.
 
-**Není tajemstvím, že hlavní strážci Havlova odkazu jsou dnes mírně řečeno opatrní – řešili jste nebo řešíte ještě nějaká další nutná povolení k vytvoření bustu? Musí ji schválit rodina?**
+**Není tajemstvím, že hlavní strážci Havlova odkazu jsou dnes mírně řečeno opatrní – řešili jste nebo řešíte ještě nějaká další nutná povolení k vytvoření busty? Musí ji schválit rodina?**
 
 Ano, přes Vizi 97 jsme oslovili paní Dagmar, která je správcem dědictví. Nápad na bustu se jí líbil a udělila nám svolení. Jiný souhlas nepotřebujeme. V tomto směru se plně spoléhám na svou sestru Marcelu, která je advokátka. Ta také zajistila potřebný souhlas.
 
