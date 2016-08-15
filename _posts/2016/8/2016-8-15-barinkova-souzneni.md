@@ -14,7 +14,7 @@ Původ básnické sbírky, kterou vydal v polovině 70. let minulého století K
 
 I přestože v době, kdy sbírka vznikla, bylo Lence Bařinkové pouhých devatenáct let (byla studentkou 4. ročníku gymnázia), básně vykazují nadprůměrnou vyspělost. Tematicky se věnují různým osobnostem hudební skladby; již tehdy nedokázala Lenka Bařinková zapřít svou lásku k hudbě. Že v básních bude hrát hudba důležitou roli, koneckonců naznačuje již samotný název sbírky.
 
-Básnickou sbírku Souznění tvoří šest básní, každá z nich se věnuje tématu, které nějakým způsobem souvisí s životy slavných hudebních skladatelů. K tematickému ladění básní, korespondujícím s životem daného skladatele, Lenka Bařinková přistupuje poměrně nápaditě, jako tomu je například v básni Lašská písnička: 
+Básnickou sbírku Souznění tvoří šest básní, každá z nich se věnuje tématu, které nějakým způsobem souvisí s životy slavných hudebních skladatelů. K tematickému ladění básní, korespondujícímu s životem daného skladatele, Lenka Bařinková přistupuje poměrně nápaditě, jako tomu je například v básni Lašská písnička: 
 
 *Nemíval cestu vyšlapanou.  
 Šel po zarostlém chodníčku,  
