@@ -12,7 +12,7 @@ tags: cestování
 
 **V boskovickém kině se bude promítat váš film. Můžete ho trochu představit?**
 
-Moje maminka pocházela [odtud z Kochova](https://mapy.cz/s/YEuv) a já jsem se po značné době z Brna do Kochova přestěhoval a teď tam bydlím. A cestuju. Cestuju hodně dlouho a jedna z mých oblíbených destinací, v poslední době snad jediná velká, je Madagaskar. Všude, kde cestuju, dělám filmy. Na Madagaskaru jsem byl šestkrát a vznikl film, který snad stojí za zmínku a já se ho snažím ukázat i zde – v kraji, kde mám kořeny. Přes známé jsem se domluvil, že by se promítal v Boskovicích, bude to přímo premiéra filmu Madagaskar, který má podtitul *Film, který málem nebyl*.
+Moje maminka pocházela [odsud z Kochova](https://mapy.cz/s/YEuv) a já jsem se po značné době z Brna do Kochova přestěhoval a teď tam bydlím. A cestuju. Cestuju hodně dlouho a jedna z mých oblíbených destinací, v poslední době snad jediná velká, je Madagaskar. Všude, kde cestuju, dělám filmy. Na Madagaskaru jsem byl šestkrát a vznikl film, který snad stojí za zmínku a já se ho snažím ukázat i zde – v kraji, kde mám kořeny. Přes známé jsem se domluvil, že by se promítal v Boskovicích, bude to přímo premiéra filmu Madagaskar, který má podtitul *Film, který málem nebyl*.
 
 **Proč?**
 
@@ -82,7 +82,7 @@ Rád bych ho udělal tady, abych tam nemusel znovu jet, tehdy už jsem měl znov
 
 **A na co jste se tedy při filmovém putování zaměřili?**
 
-Krajiny jsou ve filmu taky, města skoro vůbec, protože města se mi nelíbí. Ale líbí se mi lidé a jejich zvyky. Pohřby, svatby, obřízka, fady – což jsou různé zákazy. Pěstování rýže, na které jsou velmi závislí, to je na Madagaskaru plodina číslo jedna. Odile říká i ve filmu, že když nemají jeden den rýži, cítí se nesví. To já se nesvůj necítím, i když ji nemám měsíc, a to mi rýže chutná. Tady jí rýže nechutná, ani Basmati, jí tu jasmínovou. Jinak si zde ale dělá špatné návyky, chutná jí pizza a uzeniny, z dobrého jídla přešla na tohle. Další jídlo na Madagaskaru je zebu – takové ražničí z hovězího, to je velmi dobré. Ale maso si mohou dovolit jen tak jednou týdně a ještě je to kuře, které mi připadá vyběhané a vůbec mi nechutná. Odile mi tvrdí, že je to proto, že mi prodávají kuře pro turisty a oni mají lepší, ale moc jí nevěřím, nikde jsem ho tam neviděl.
+Krajiny jsou ve filmu taky, města skoro vůbec, protože města se mi nelíbí. Ale líbí se mi lidé a jejich zvyky. Pohřby, svatby, obřízka, *fady* – což jsou různé zákazy. Pěstování rýže, na které jsou velmi závislí, to je na Madagaskaru plodina číslo jedna. Odile říká i ve filmu, že když nemají jeden den rýži, cítí se nesví. To já se nesvůj necítím, i když ji nemám měsíc, a to mi rýže chutná. Tady jí rýže nechutná, ani Basmati, jí tu jasmínovou. Jinak si zde ale dělá špatné návyky, chutná jí pizza a uzeniny, z dobrého jídla přešla na tohle. Další jídlo na Madagaskaru je zebu – takové ražničí z hovězího, to je velmi dobré. Ale maso si mohou dovolit jen tak jednou týdně a ještě je to kuře, které mi připadá vyběhané a vůbec mi nechutná. Odile mi tvrdí, že je to proto, že mi prodávají kuře pro turisty a oni mají lepší, ale moc jí nevěřím, nikde jsem ho tam neviděl.
 
 <img src="http://i.imgur.com/fgt3ttX.jpg" alt="vlak obložený cestujícími" class="img-responsive img-popup" data-author="Miloš Brunner">
 
