@@ -14,7 +14,7 @@ Původ básnické sbírky, kterou vydal v polovině 70. let minulého století K
 
 I přestože v době, kdy sbírka vznikla, bylo Lence Bařinkové pouhých devatenáct let (byla studentkou 4. ročníku gymnázia), básně vykazují nadprůměrnou vyspělost. Tematicky se věnují různým osobnostem hudební skladby; již tehdy nedokázala Lenka Bařinková zapřít svou lásku k hudbě. Že v básních bude hrát hudba důležitou roli, koneckonců naznačuje již samotný název sbírky.
 
-Básnickou sbírku Souznění tvoří šest básní, každá z nich se věnuje tématu, které nějakým způsobem souvisí s životy slavných hudebních skladatelů. K tematickému ladění básní, korespondujícím s životem daného skladatele, Lenka Bařinková přistupuje poměrně nápaditě, jako tomu je například v básni Lašská písnička: 
+Básnickou sbírku Souznění tvoří šest básní, každá z nich se věnuje tématu, které nějakým způsobem souvisí s životy slavných hudebních skladatelů. K tematickému ladění básní, korespondujícímu s životem daného skladatele, Lenka Bařinková přistupuje poměrně nápaditě, jako tomu je například v básni Lašská písnička: 
 
 *Nemíval cestu vyšlapanou.  
 Šel po zarostlém chodníčku,  
@@ -35,7 +35,7 @@ divokou lašskou písničku.*
 
 Zastoupeni jsou jak čeští (Bedřich Smetana, Leoš Janáček), tak zahraniční velikáni hudby (J. S. Bach, W. A. Mozart, E. H. Grieg) napříč epochami. Z básní lze odhadovat nejen to, které věhlasné osobnosti Lenka Bařinková obdivovala v hudbě, ale i v literatuře. Prostřednictvím stylistiky a formy veršů lze vysledovat inspiraci básněmi ruchovců a lumírovců, možná přímo samotným Jaroslavem Vrchlickým.
 
-Verše pečlivě pracují se zvukomalbou, jež se objevuje přesně v místech, kde chce autorka akusticky (zvukově) podtrhnout obsahovou stránku básně. Ačkoliv rytmická schémata nejsou vždy zcela precizní, básním nelze upřít jistý stupeň hudebnosti. Zvukovost básní také pomáhá těsněji provázat význam a formu; díky tomu jsou básně neobyčejně celistvé.
+Verše pečlivě pracují se zvukomalbou, jež se objevuje přesně v místech, kde chce autorka akusticky (zvukově) podtrhnout obsahovou stránku básně. Ačkoliv rytmická schémata nejsou vždy zcela precizní, básním nelze upřít jistou míru hudebnosti. Zvukovost básní také pomáhá těsněji provázat význam a formu; díky tomu jsou básně neobyčejně celistvé.
 
 Mimořádnost básnické sbírky Souznění, a pravděpodobně i obecně poezie Lenky Bařinkové, nespočívá tolik ve formě, jako spíše v obsahu; formálně se autorka skutečně drží více méně jednotného konceptu, pravidelného metrického schématu. Neobvyklá je však její umělecká citlivost při zpracování jednotlivých témat; je to způsob, jakým básně podivuhodně balancují mezi lyričností a epičností; jakkoliv se v nich neodvíjí žádné vyprávění, přesto verše vytvářejí jakési „mikropříběhy“. Tyto mikropříběhy nejsou sledem událostí, ale vykreslují určité emoce. Fragmenty děje slouží k dotváření emocionálního ladění básně. Příkladem tohoto způsobu kompozice je báseň Mí Pražané mi rozumějí:
 
