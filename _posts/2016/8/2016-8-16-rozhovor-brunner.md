@@ -140,17 +140,17 @@ MILOŠ: Cestoval jsem zrovna na obrovský festival. Vůbec nevím, že by u nás
 
 **Během natáčení filmu Odile tedy fungovala jako průvodce?**
 
-MILOŠ: Ano, ale problém byl třeba v tom, že se bála některých zvířat, dokonce i těch neškodných. Vysvětloval jsem jí, že třeba chameleona se bát nemusí, ale Odil mi říkala, že chameleon může změnit tvůj život. Byla to naše spolupráce, i když ve filmu to vypadá, že Odile ví všechno. Ale pátrali jsme a cestovali společně, dva dny jsme jeli na kárce tažené volem, to byla krásná cesta. Odile je emotivní, myslím, že je to moc pěkné, jak ve filmu vystupuje.
+MILOŠ: Ano, ale problém byl třeba v tom, že se bála některých zvířat, dokonce i těch neškodných. Vysvětloval jsem jí, že třeba chameleona se bát nemusí, ale Odile mi říkala, že chameleon může změnit tvůj život. Byla to naše spolupráce, i když ve filmu to vypadá, že Odile ví všechno. Ale pátrali jsme a cestovali společně, dva dny jsme jeli na kárce tažené volem, to byla krásná cesta. Odile je emotivní, myslím, že je to moc pěkné, jak ve filmu vystupuje.
 
 **A jak se vám teď žije tady v České republice?**
 
 ODILE: Teď je to dobré, líbí se mi tady. Ale od listopadu do února to bylo špatné.
 
-MILOŠ: Možná by to bylo lepší, kdyby bylo víc sněhu. Když byla pár dní trochu sněhu, zkoušela lyžovat, a to se jí moc líbilo. 
+MILOŠ: Možná by to bylo lepší, kdyby bylo víc sněhu. Když bylo pár dní trochu sněhu, zkoušela lyžovat, a to se jí moc líbilo. 
 
 **A teď se plánujete vrátit na Madagaskar?**
 
-MILOŠ: Uvidíme. Já pojedu na dva a půl měsíce pracovně do Karibiku, Odile se vrátí domů, ale na jaře budeme možná zase tady v Evropě.Teď už má Odile český pas, takže nemáme žádný problém. 
+MILOŠ: Uvidíme. Já pojedu na dva a půl měsíce pracovně do Karibiku, Odile se vrátí domů, ale na jaře budeme možná zase tady v Evropě. Teď už má Odile český pas, takže nemáme žádný problém. 
 
 <img src="http://i.imgur.com/y4dH9iI.jpg" alt="Odile Velomana" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
