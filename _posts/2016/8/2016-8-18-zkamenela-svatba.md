@@ -22,7 +22,7 @@ Zajímavé skály v lese u Svárova podněcovaly lidskou fantazii. Lidová pově
 
 Mezi Vanovicemi a Svárovem je v lese řada balvanů, podobajících se zkamenělým kočárům. Mezi lidmi se povídá, že to kdysi byly kočáry opravdické. To prý se jednou vracela svatba z Vanovic z kostela zpátky do Svárova. Jak tak jedou, těší se na hostinu, vesele na sebe pokřikují, jsou samý žert a šprým. Vozkové práskají biči, koně řehtají a podkovy zvoní…  
 A tu, zrovna v půli cesty, stojí jakýsi vousatý děda a volá:  
-„Lidé dobří, svezte mě aspoň kousek, hrozně mě bolí nohy“.  
+„Lidé dobří, svezte mě aspoň kousek, hrozně mě bolí nohy.“  
 První vozka však jenom koně popohnal a švihl stařečka bičem přes hlavu.  
 To ale neměl dělat. Stařec napřáhl ruku za vozy a zvolal hlubokým hlasem:  
 „Běda vám, za vaši bezcitnost vás proklínám!“  
