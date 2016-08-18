@@ -20,14 +20,11 @@ Ještě je třeba se zastavit u samotného názvu voštiny. Tyto jamky pokrývaj
 
 Zajímavé skály v lese u Svárova podněcovaly lidskou fantazii. Lidová pověst, zaznamenaná v knize Františka Továrka Zašlými stezkami (Pověsti a zkazky z Malé Hané), která vyšla roku 1972 v Jevíčku, o původu názvu Zkamenělé svatby říká přibližně toto:
 
-Mezi Vanovicemi a Svárovem je v lese řada balvanů, podobajících se zkamenělým kočárům. Mezi lidmi se povídá, že to kdysi byly kočáry opravdické. To prý se jednou vracela svatba z Vanovic z kostela zpátky do Svárova. Jak tak jedou, těší se na hostinu, vesele na sebe pokřikují, jsou samý žert a šprým. Vozkové práskají biči, koně řehtají a podkovy zvoní…  
-A tu, zrovna v půli cesty, stojí jakýsi vousatý děda a volá:  
-„Lidé dobří, svezte mě aspoň kousek, hrozně mě bolí nohy.“  
-První vozka však jenom koně popohnal a švihl stařečka bičem přes hlavu.  
-To ale neměl dělat. Stařec napřáhl ruku za vozy a zvolal hlubokým hlasem:  
-„Běda vám, za vaši bezcitnost vás proklínám!“  
-V tom okamžiku koně strnuli, kola kočárů se přestala točit, biče ztuhly nad hlavami vozků…  
-A od těch dob ční v lese na půl cestě mezi Vanovicemi a Svárovem tiché kameny, připomínající koně, kočáry a lidi. Říká se tam U zkamenělé svatby a o půl noci bývá prý slyšet v těch místech řehtání koní, práskání bičů i veselý smích svatebčanů…
+*Mezi Vanovicemi a Svárovem je v lese řada balvanů, podobajících se zkamenělým kočárům. Mezi lidmi se povídá, že to kdysi byly kočáry opravdické. To prý se jednou vracela svatba z Vanovic z kostela zpátky do Svárova. Jak tak jedou, těší se na hostinu, vesele na sebe pokřikují, jsou samý žert a šprým. Vozkové práskají biči, koně řehtají a podkovy zvoní…*
+
+*A tu, zrovna v půli cesty, stojí jakýsi vousatý děda a volá: „Lidé dobří, svezte mě aspoň kousek, hrozně mě bolí nohy.“ První vozka však jenom koně popohnal a švihl stařečka bičem přes hlavu. To ale neměl dělat. Stařec napřáhl ruku za vozy a zvolal hlubokým hlasem: „Běda vám, za vaši bezcitnost vás proklínám!“ V tom okamžiku koně strnuli, kola kočárů se přestala točit, biče ztuhly nad hlavami vozků…*
+
+*A od těch dob ční v lese na půl cestě mezi Vanovicemi a Svárovem tiché kameny, připomínající koně, kočáry a lidi. Říká se tam U zkamenělé svatby a o půl noci bývá prý slyšet v těch místech řehtání koní, práskání bičů i veselý smích svatebčanů.*
 
 <img src="http://i.imgur.com/4YEl8NX.jpg" alt="Zkamenělá svatba u Svárova" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
