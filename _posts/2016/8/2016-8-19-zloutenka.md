@@ -5,11 +5,11 @@ author: Marek Osouch
 category: zpravodajství
 ---
 
-*Žloutenka typu A neboli nemoc špinavých rukou se šíří po jižní Moravě dál. Jen na Blanensku hygienici evidují osmnáct případů, což je zhruba tolik, kolik se jich loni za stejné období nakazilo v celém Jihomoravském kraji. Zde jich letos k polovině srpna bylo už přes 150. Kdy celokrajská epidemie skončí, hygienici netuší.*
+*Žloutenka typu A neboli nemoc špinavých rukou se šíří po jižní Moravě dál. Jen na Blanensku hygienici evidují osmnáct případů, což je zhruba tolik, kolik se jich loni za stejné období nakazilo v celém Jihomoravském kraji. Zde jich letos k polovině srpna bylo už přes 170. Kdy celokrajská epidemie skončí, hygienici netuší.*
 
 <img src="http://i.imgur.com/RlJYLvM.jpg" alt="muž si umývá ruce v omyvadle" class="img-responsive img-popup" data-author="Bill Branson">
 
-Žloutenka po Brně citelněji zasáhla také okres Blansko. Osmnáct případů, které zde letos hygienici zaznamenali, tvoří zhruba dvanáct procent všech krajských případů. „První případy jsme zaznamenali v dubnu. Tito lidé se nakazili kontaktem s nemocnými osobami v Brně,“ uvedla ředitelka protiepidemického odboru krajské hygienické stanice Renata Ciupek. Podle ní se jednalo především o bezdomovce a drogově závislé ve věku mezi 25 a 34 lety.
+Žloutenka po Brně citelněji zasáhla také okres Blansko. Osmnáct případů, které zde letos hygienici zaznamenali, tvoří zhruba jedenáct procent všech krajských případů. „První případy jsme zaznamenali v dubnu. Tito lidé se nakazili kontaktem s nemocnými osobami v Brně,“ uvedla ředitelka protiepidemického odboru krajské hygienické stanice Renata Ciupek. Podle ní se jednalo především o bezdomovce a drogově závislé ve věku mezi 25 a 34 lety. 
 
 Další případy zaznamenali hygienici v červnu, kdy se nákaza postupně rozšířila případ od případu, případně si ji někdo dovezl ze zahraničí. Nákazu žloutenkou na sobě člověk nemusí hned poznat. Inkubační doba je až padesát dní, přičemž přenašečem nemoci je člověk od chvíle nakažení. „Ve spolupráci s praktickými lékaři se nám podařilo včasně zachytit několik případů a včas je izolovat a léčit, a tak zabránit dalšímu šíření,“ doplnila hygienička.
 
