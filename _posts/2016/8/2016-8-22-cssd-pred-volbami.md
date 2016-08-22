@@ -17,33 +17,33 @@ To se však změnilo v roce 2008, kdy vládla naopak ODS a kdy opoziční ČSSD 
 
 Českem tehdy projela oranžová vlna tsunami a sociální demokraté se ve všech krajích chopili vlády. Na jižní Moravě vystřídal Michal Hašek na pozici hejtmana Stanislava Juránka z KDU-ČSL. V roce 2012 už byla ale situace jiná, i když vládla pravice. [ČSSD si tehdy výrazně pohoršila](http://ohlasy.info/clanky/2016/08/hasek-milovany.html) – kam se (nejen) Haškovy hlasy ztratily, když vládl nenáviděný Kalousek?
 
-1)    Část voličů zůstala doma – Téma jako poplatky nebylo a v krajích už ČSSD vládla. Vše tedy bylo pro levicové voliče celkem v pohodě.
+1. Část voličů zůstala doma – Téma jako poplatky nebylo a v krajích už ČSSD vládla. Vše tedy bylo pro levicové voliče celkem v pohodě.
 
-2)    Kandidovali zemanovci – Část z více než osmi tisíc voličů dokázala přetáhnout Zemanova Strana práv občanů Zemanovci.
+2. Kandidovali zemanovci – Část z více než osmi tisíc voličů dokázala přetáhnout Zemanova Strana práv občanů Zemanovci.
 
-3)    Posílení komunistů – Ať už jako protestní hlas, nebo z přesvědčení dokázala KSČM získat o deset tisíc hlasů více.
+3. Posílení komunistů – Ať už jako protestní hlas, nebo z přesvědčení dokázala KSČM získat o deset tisíc hlasů více.
 
-4)    Hlas nestraníkům a nezávislým – Spoustu hlasů v minulých volbách spolykalo také Sdružení nestraníků, Nezávislí nebo Moravané. Dohromady téměř třicet tisíc.
+4. Hlas nestraníkům a nezávislým – Spoustu hlasů v minulých volbách spolykalo také Sdružení nestraníků, Nezávislí nebo Moravané. Dohromady téměř třicet tisíc.
 
-5)    Brnu se nechtělo jít volit – Při porovnání voleb 2008 a 2012 je vidět velký propad počtu hlasů v jihomoravské metropoli, ostatní okresy mají čísla přibližně vyrovnaná.
+5. Brnu se nechtělo jít volit – Při porovnání voleb 2008 a 2012 je vidět velký propad počtu hlasů v jihomoravské metropoli, ostatní okresy mají čísla přibližně vyrovnaná.
 
 Kdyby však ztratil jen Hašek, neseděl by teď nejspíš v hejtmanském křesle. Ztrácela totiž také KDU-ČSL nebo ODS. Lze jen těžko soudit, kam se ztratily tisíce hlasů lidovců. Je možné, že jejich voliči také zůstali doma. Část voličů lidovců však určitě přešla k premiérově kandidující TOP 09, pro kterou hlasovali také někteří dřívější voliči ODS. Občanské demokraty o hlasy připravili navíc i Svobodní, kteří v roce 2012 také poprvé kandidovali. A osm tisíc hlasů posbírali nově kandidující Piráti.
 
 Jaké věci hrají proti Haškovi letos?
 
-1)      Hnutí ANO. Hnutí ANO je koaliční partnerem ČSSD ve vládě, je ovšem také hlavním rivalem v letošních krajských volbách. Zatímco ČSSD nemůže vytýkat nic nikomu, ANO naopak bude útočit na netransparentnost a korupci v krajích, skomírající zdravotnictví nebo nedokončené dálnice, ať už je to pravda, nebo ne.
+1. Hnutí ANO. Hnutí ANO je koaliční partnerem ČSSD ve vládě, je ovšem také hlavním rivalem v letošních krajských volbách. Zatímco ČSSD nemůže vytýkat nic nikomu, ANO naopak bude útočit na netransparentnost a korupci v krajích, skomírající zdravotnictví nebo nedokončené dálnice, ať už je to pravda, nebo ne.
 
-2)      ČSSD nemůže útočit, jen mít vize. Vždy je lehčí útočit, že někdo něco dělá špatně, než lidem říkat vize, že „naše“ sociálnědemokratická krajská vláda už vše napravila a že teď je to možné zlepšit.
+2. ČSSD nemůže útočit, jen mít vize. Vždy je lehčí útočit, že někdo něco dělá špatně, než lidem říkat vize, že „naše“ sociálnědemokratická krajská vláda už vše napravila a že teď je to možné zlepšit.
 
-3)      ČSSD vládne. ČSSD je u vlády, ekonomice se daří, lidé jsou spokojeni, je velmi nízká nezaměstnanost, inflace je minimální, takže se nic nezdražuje. Voliči nemají důvod jít volit, zvlášť voliči sociální demokracie. Dá se tedy očekávat, že bude pro ČSSD hlasovat opět méně lidí než v roce 2012.
+3. ČSSD vládne. ČSSD je u vlády, ekonomice se daří, lidé jsou spokojeni, je velmi nízká nezaměstnanost, inflace je minimální, takže se nic nezdražuje. Voliči nemají důvod jít volit, zvlášť voliči sociální demokracie. Dá se tedy očekávat, že bude pro ČSSD hlasovat opět méně lidí než v roce 2012.
 
-4)      Migrace. Ani téma migrace, ke kterému se Hašek staví v rámci ČSSD velmi razantně, nemusí využít ve svůj prospěch. Podobně jako on totiž argumentuje také hlavní rival, hnutí ANO. Navíc s uprchlíky jako nosným tématem kandiduje v krajských volbách na jižní Moravě nejméně sedm stran. Od Dělnické strany sociální spravedlnosti přes Národní demokracii, Republikány až po uskupení s názvem „Ne ilegální migraci – Peníze raději pro naše lidi.“
+4. Migrace. Ani téma migrace, ke kterému se Hašek staví v rámci ČSSD velmi razantně, nemusí využít ve svůj prospěch. Podobně jako on totiž argumentuje také hlavní rival, hnutí ANO. Navíc s uprchlíky jako nosným tématem kandiduje v krajských volbách na jižní Moravě nejméně sedm stran. Od Dělnické strany sociální spravedlnosti přes Národní demokracii, Republikány až po uskupení s názvem „Ne ilegální migraci – Peníze raději pro naše lidi.“
 
-5)      Nestraníky nezíská. Otázkou je, komu vhodí svůj hlas lidé, kteří před čtyřmi lety volili nestraníky nebo nezávislé. Letos tato uskupení totiž nekandidují. Část voličů nejspíš tedy zůstane doma, část ale můžou získat samostatně kandidující Starostové pro jižní Moravu nebo také protiuprchlické strany. Michal Hašek moc šancí u těchto voličů nemá.
+5. Nestraníky nezíská. Otázkou je, komu vhodí svůj hlas lidé, kteří před čtyřmi lety volili nestraníky nebo nezávislé. Letos tato uskupení totiž nekandidují. Část voličů nejspíš tedy zůstane doma, část ale můžou získat samostatně kandidující Starostové pro jižní Moravu nebo také protiuprchlické strany. Michal Hašek moc šancí u těchto voličů nemá.
 
-6)      Ani zemanovce nezíská. V roce 2012 zemanovci sebrali část voličů ČSSD. Po neúspěchu v předčasných parlamentních volbách v roce 2013 by se dalo očekávat, že se vrátí zpět k sociálním demokratům. Spíše však voliče SPO zaujme jejich spojenec do voleb v podobě strany Svoboda a přímá demokracie a populistické sliby jejího lídra Tomia Okamury.
+6. Ani zemanovce nezíská. V roce 2012 zemanovci sebrali část voličů ČSSD. Po neúspěchu v předčasných parlamentních volbách v roce 2013 by se dalo očekávat, že se vrátí zpět k sociálním demokratům. Spíše však voliče SPO zaujme jejich spojenec do voleb v podobě strany Svoboda a přímá demokracie a populistické sliby jejího lídra Tomia Okamury.
 
-7)      Haškovy skandály. Michal Hašek si za poslední čtyři roky dokázal nahromadit kupu skandálů. [Od lhaní v přímém přenosu](https://www.youtube.com/watch?v=54u0xUPXNmI), kauzu s [brněnským letištěm](http://brno.idnes.cz/hasek-ukazal-audit-letiste-d0r-/brno-zpravy.aspx?c=A160701_2257241_brno-zpravy_krut) nebo [lhaní kolem mluvčí Lucie Proutníkové](http://zpravy.idnes.cz/hasek-ma-neexistujici-mluvci-proutnikova-mrencova-f8s-/domaci.aspx?c=A160718_211337_domaci_fka) alias lobbistky Jany Mrencové. Svými přešlapy nabíjí opozici, ať už se jedná o koalici TOP 09 a Žít Brno nebo koalici Zelených a Pirátů, která Haška vybízela k rezignaci a vzdání se kandidatury, nebo přímo hnutí ANO, které je ochotno usednout po volbách za jednací stůl s ČSSD, nikoli ale s Haškem. Vše směřuje k tomu, že na jižní Moravě bude kampaň mezi ČSSD a ANO nejvyhrocenější ze všech krajů v Česku.
+7. Haškovy skandály. Michal Hašek si za poslední čtyři roky dokázal nahromadit kupu skandálů. [Od lhaní v přímém přenosu](https://www.youtube.com/watch?v=54u0xUPXNmI), kauzu s [brněnským letištěm](http://brno.idnes.cz/hasek-ukazal-audit-letiste-d0r-/brno-zpravy.aspx?c=A160701_2257241_brno-zpravy_krut) nebo [lhaní kolem mluvčí Lucie Proutníkové](http://zpravy.idnes.cz/hasek-ma-neexistujici-mluvci-proutnikova-mrencova-f8s-/domaci.aspx?c=A160718_211337_domaci_fka) alias lobbistky Jany Mrencové. Svými přešlapy nabíjí opozici, ať už se jedná o koalici TOP 09 a Žít Brno nebo koalici Zelených a Pirátů, která Haška vybízela k rezignaci a vzdání se kandidatury, nebo přímo hnutí ANO, které je ochotno usednout po volbách za jednací stůl s ČSSD, nikoli ale s Haškem. Vše směřuje k tomu, že na jižní Moravě bude kampaň mezi ČSSD a ANO nejvyhrocenější ze všech krajů v Česku.
 
 Pro Haška kromě toho, že vše označil za spiknutí ze strany šéfa hnutí ANO Andreje Babiše a Mladé fronty DNES, která spadá pod Babišův Agrofert, zatím hrají pouze příznivé výzkumy agentury SANEP. SANEP však mívá jedny z nejhorších odhadů výsledků voleb – pro názornost [necelý měsíc před předčasnými volbami do Poslanecké sněmovny průzkum SANEP](http://www.blesk.cz/galerie/zpravy-politika/304253/pruzkum-sanep-ods-dal-ztraci-dech-komuniste-nabiraji-na-sile-a-co-nove-strany?foto), který přisoudil ANO jen zhruba šest procent. Krátce před volbami provedla agentura SANEP ještě jeden výzkum, jeho výsledky byly ale také velmi nepřesné a [ze sedmi agentur skončila v přesnosti odhadu na posledním místě](http://zpravy.idnes.cz/jak-se-trefily-pruzkumy-0wa-/domaci.aspx?c=A131027_120534_domaci_jw). 
 
