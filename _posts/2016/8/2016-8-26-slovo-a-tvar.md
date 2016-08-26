@@ -3,7 +3,6 @@ title: Slovo a tvar Jana M. Tomeše
 cover-photo: http://i.imgur.com/ENn0BDDl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-published: false
 ---
 
 *Na významné osobnosti bývá zvykem vzpomínat v souvislosti s nejrůznějšími výročími, ale můžeme tak učinit kdykoli, když nám cestu zkříží hluboká stopa, kterou zde zanechaly. Zejména pokud je to stopa stále živého díla, jež moudře a srozumitelně oslovuje i naši přítomnost. Takové stopy tu zanechal básník a kunsthistorik, celoživotně spjatý s Kunštátem, Jan M. Tomeš (1913–2010) a jedno z jeho děl, sbírka úvah a statí s přiléhavým názvem Slovo a tvar.*
