@@ -16,7 +16,7 @@ Hned dvakrát můžou v září za kulturou vyrazit příznivci folku. V sobotu 
 
 V neděli 11. září se můžeme naladit na hudbu duchovní: v evangelickém kostele v Boskovicích se na charitativním koncertě, jehož výtěžek bude věnován Emanuelu Boskovice, představí komorní orchestr Musica Nova s orchestrální verzí skladby Sedm slov vykupitelových od Josepha Haydna. Nejen rodiče s dětmi můžou v sobotu 17. září navštívit boskovický zámek, kde v rámci Bejbypankového hemžení vystoupí divadelně hudební skupina Kašpárek v rohlíku.
 
-Nepominutelný hudební program má jako vždy také kunštátský Hrnčířský jarmark, který se koná 17. a 18. září. V sobotu zde vystoupí Kunštátská dechovka, Jazzbanda z Mikulova, kapela Poletíme?, Peter Lipa Band, Spirituál Kvintent a jako vždy i Rock & Roll Band Marcela Woodmana. V neděli zahrají Zrní, O5 a Radeček, Jitka Šuranská Triop a Nebe.
+Nepominutelný hudební program má jako vždy také kunštátský Hrnčířský jarmark, který se koná 17. a 18. září. V sobotu zde vystoupí Kunštátská dechovka, Jazzbanda z Mikulova, kapela Poletíme?, Peter Lipa Band, Spirituál Kvintet a jako vždy i Rock & Roll Band Marcela Woodmana. V neděli zahrají Zrní, O5 a Radeček, Jitka Šuranská Trio a Nebe.
 
 Ve dnech 22.–24. září se v Letovicích koná mezinárodní setkání s názvem All About Europe, v rámci kterého ve čtvrtek 22. září v letovickém kulturním domě zazpívá legenda světové opery Gabriela Beňačková.
 
