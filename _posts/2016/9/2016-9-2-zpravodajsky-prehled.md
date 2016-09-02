@@ -17,7 +17,7 @@ Město získalo čtyřmilionovou dotaci na [opravu letního kina](http://ohlasy.
 
 Primář boskovické nemocnice, který byl v červenci nalezen mrtvý na náměstí v Blansku, podle vyšetřovatelů [nezemřel cizím zaviněním](http://brno.idnes.cz/mrtvy-primar-blansko-vysetrovani-drh-/brno-zpravy.aspx?c=A160830_155429_brno-zpravy_krut). Smrti však předcházela fyzická šarvátka a je pravděpodobné, že primáře následně postihla srdeční příhoda.
 
-Na jižní Moravě se rozšířila žloutenka. Citelněji [zasáhla i okres Blansko](http://ohlasy.info/clanky/2016/08/zloutenka.html).
+Na jižní Moravě se rozšířila žloutenka. Citelněji [zasáhla i okres Blansko](http://ohlasy.info/clanky/2016/08/zloutenka.html). K 2. září evidují krajší hygienici 215 případů, tedy desetinásobek oproti předchozím rokům.
 
 Ministerstvo dopravy naplánovalo [zrušení zastávky ve Skalici nad Svitavou](http://ohlasy.info/clanky/2016/08/zmeny-jizdnich-radu.html) pro první ranní expres. Do Prahy se tak cestují z Boskovic ráno dostanou nikoliv po sedmé, ale až po osmé hodině.
 
