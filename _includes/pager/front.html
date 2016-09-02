@@ -14,6 +14,16 @@
     </div>
     {% endfor %}
 
+    {% comment %}
+    <div class="row hidden-sm">
+        <div class="col-md-12">
+            <div class="box-wide">
+                <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=B:1170×150&amp;w=1170&amp;h=150" class="img-responsive">
+            </div>
+        </div>
+    </div>
+    {% endcomment %}
+
     {% for post in paginator.posts | offset: 1 | limit: 1 %}
     <div class="row">
         {% include article/preview.html article=post class="col-md-8 col-md-push-4" featured=true %}
