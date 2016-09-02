@@ -23,7 +23,7 @@ Ministerstvo dopravy naplánovalo [zrušení zastávky ve Skalici nad Svitavou](
 
 Jihomoravský kraj [neprodloužil smlouvu s Českými drahami](http://blanensky.denik.cz/z-regionu/kraj-uvazuje-o-soukromych-vlacich-smlouvu-s-ceskymi-drahami-neprodlouzi-20160815.html), je možné, že vlakovou dopravu bude zajišťovat jiný dopravce. Kraj zvažuje i nákup vlastních vlaků.
 
-Byla dokončena oprava ulic [Polní a Příční](http://boskovice.cz/ulice-polni-a-pricni-hotovo/d-29025/p1=1019).
+Byla zkouladována oprava ulic [Polní a Příční](http://boskovice.cz/ulice-polni-a-pricni-hotovo/d-29025/p1=1019). Hotovo měli dělníci už před prázdninami.
 
 Městská rada jmenovala novou vedoucí odboru tvorby a ochrany životního prostředí. Stala se jí Leona Fialová, která nahradila Vladimíra Henka, jenž odešel do starobního důchodu.
 
@@ -38,3 +38,5 @@ V Lysicích se dočkali [opravy Horního náměstí](http://blanensky.denik.cz/z
 Ve Žďárné [opravili sokolovnu](http://zrcadlo.net/clanky/Ve-Zdarne-v-sobotu-otevrou-opravenou-sokolovnu-3146/) za více než 10 milionů korun.
 
 V Olešnici mají [novou křížovou cestu](http://zrcadlo.net/clanky/Od-olesnickeho-hrbitova-k-rozhledne-vede-nova-krizova-cesta-3114/), která má připomínat okamžiky místních dějin.
+
+Bídnou sezónu zažili provozovatelé koupališť. [Dorazila jen polovina návštěvníků ve srovnání s loňským rokem](http://blanensky.denik.cz/zpravy_region/sezona-byla-bidna-hlasi-koupaliste-na-blanensku-20160901.html). 
