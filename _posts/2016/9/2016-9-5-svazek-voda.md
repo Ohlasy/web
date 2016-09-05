@@ -1,6 +1,6 @@
 ---
 title: Jak se hospodaří s vodou aneb Být, či nebýt ve Svazku
-cover-photo: http://i.imgur.com/y4PQlMDl.jpg
+cover-photo: http://i.imgur.com/YIN8cBhl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: voda
