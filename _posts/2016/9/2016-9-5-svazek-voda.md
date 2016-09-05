@@ -39,7 +39,7 @@ Výsledné toky peněz jsou velmi komplikované:
 3. Zisk, který Vodárenská jako celek i s ostatními divizemi získá, se převádí v posledních letech z velké části na účty vlastníka, kterým je SVKMO.
 4. Ze SVKMO se zpět poměrně dostává do jednotlivých svazků.
 
-Historicky vlastnili Vodárenskou různí akcionáři vzešlí z kupónové privatizace a podíl měli i zahraniční vlastníci. Zhruba třetinu akcií například až do roku 2011 vlastnila francouzská firma SUEZ Environment. Vydělané peníze však nekončili nikde na zahraničních účtech, ale zůstávaly v položce nerozdělený zisk nebo šly do sociálního fondu. (Podle výroční zprávy za rok 2015 činil nerozdělený zisk na účtech Vodárenské zhruba 200 milionů korun.) SVKMO ale postupně všechny akcie vykoupil, takže je dnes už stoprocentním vlastníkem Vodárenské, vybírá z ní v posledních letech zisk a vyplácí jej zpět do jednotlivých svazků.
+Historicky vlastnili Vodárenskou různí akcionáři vzešlí z kupónové privatizace a podíl měli i zahraniční vlastníci. Zhruba třetinu akcií například až do roku 2011 vlastnila francouzská firma SUEZ Environment. Vydělané peníze však nekončily nikde na zahraničních účtech, ale zůstávaly v položce nerozdělený zisk nebo šly do sociálního fondu. (Podle výroční zprávy za rok 2015 činil nerozdělený zisk na účtech Vodárenské zhruba 200 milionů korun.) SVKMO ale postupně všechny akcie vykoupil, takže je dnes už stoprocentním vlastníkem Vodárenské, vybírá z ní v posledních letech zisk a vyplácí jej zpět do jednotlivých svazků.
 
 ### Ne všichni chtějí být ve Svazku
 
