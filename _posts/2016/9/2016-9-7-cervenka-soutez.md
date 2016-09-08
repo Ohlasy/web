@@ -18,7 +18,7 @@ Zajímá nás tedy fungování areálu ve větším měřítku, jeho zasazení d
 
 My nestavíme areál od nuly, takže si s ohledem na náklady nemůžeme dovolit teoretické ideální řešení. Můžeme ale z areálu dostat maximum toho, co nám podmínky dovolí. Můžeme při každé další investici směřovat k ideálnímu tvaru, místo abychom areál postupně dusili nekoncepčními zásahy.
 
-Jak můžeme tuto důležitou urbanistickou studii získat? Tradiční cestou je oslovit několik firem a vybrat tu nejlevnější. Takový postup je vcelku bezproblémový u jasně formulovaných zakázek, dejme tomu dláždění chodníků. U jakékoliv tvůrčí práce ale výběrem nejlevnější nabídky kupujeme zajíce v pytli. Vlastně hůř: aktivně tlačíme cenu dolů bez ohledu na kvalitu.
+Jak můžeme tuto důležitou urbanistickou studii získat? Tradiční cestou je oslovit několik firem a vybrat předem tu nejlevnější. Takový postup je vcelku bezproblémový u jasně formulovaných zakázek, dejme tomu dláždění chodníků. U jakékoliv tvůrčí práce ale výběrem nejlevnější nabídky kupujeme zajíce v pytli. Vlastně hůř: aktivně tlačíme cenu dolů bez ohledu na kvalitu.
 
 Výrazně lepší řešení nabízí [architektonická soutěž](http://ohlasy.info/clanky/2015/12/rozhovor-lev.html), ve které se situace otočí – projekční ateliéry nejdříve navrhnou, jak by si areál představovaly, a my pak za pomoci odborníků z návrhů vybereme ten nejzdařilejší. Tento způsob je sám o sobě dražší než předchozí, ale máme v něm větší šanci získat kvalitní výsledek. Tím spíš, že vyhlášení soutěže obvykle předchází veřejná debata o tom, co přesně bychom od areálu chtěli, a co tedy má stát v zadání soutěže.
 
