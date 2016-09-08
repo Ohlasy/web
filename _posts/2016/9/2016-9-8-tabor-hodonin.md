@@ -1,5 +1,5 @@
 ---
-title: Na místě bývalého cikánského lágru v Hodoníně u Kunštátu vznikl po několika letech přestavby památník romského holokaustu
+title: Na místě bývalého cikánského lágru v Hodoníně u Kunštátu vznikl památník romského holokaustu
 cover-photo: http://i.imgur.com/eBoJf23l.jpg
 author: Anna Dudková
 category: zpravodajství
@@ -8,7 +8,7 @@ tags: historie, kultura
 
 *Jen málo míst vystřídalo tolik různých podob a využití jako areál bývalého cikánského tábora v Hodoníně u Kunštátu. Jeho historie zahrnuje věznění různých nepohodlných skupin obyvatel, výcvikové středisko, rekreační areál a konečně i pietní místo a vzdělávací centrum k připomenutí těch, kteří internaci na tomto místě nepřežili.*
 
-<img src="http://i.imgur.com/z6Yn8EM.jpg" alt="Baráky v táboře Hodonín u Kunštátu" class="img-responsive img-popup" data-author="archiv Muzea romské kultury">
+<img src="http://i.imgur.com/ySmA8ic.jpg" alt="Baráky v táboře Hodonín u Kunštátu" class="img-responsive img-popup" data-author="archiv Muzea romské kultury">
 
 Po svém zbudování v roce 1940 sloužil areál k umístění vězňů Kárného pracovního tábora pro ty, kteří neprokázali legální zdroj obživy. V té době jen asi 5–10 % z jeho nucených obyvatel tvořili Romové. Tak tomu bylo až do srpna roku 1942, kdy se z areálu stal cikánský tábor a byly sem soustřeďovány romské osoby před deportací do koncentračního tábora v Osvětimi. Tato nejznámější etapa provozu areálu trvala až do prosince 1943. Po deportaci Romů sem byli v roce 1944 umístěni vězni Pracovně výchovného tábora, v zimě a na jaře 1945 se v areálu cvičili příslušníci wehrmachtu, v květnu a červnu sloužil tábor pro ubytování příslušníků jednotek rumunské armády, v létě 1945 jako lazaret Rudé armády.
 
@@ -24,7 +24,7 @@ Vězni v hodonínském cikánském lágru byli „převychováváni“ prací. N
 
 Ty, kteří přežili špatné podmínky, čekaly transporty do Osvětimi. První vyjel už v prosinci 1942; z jednadevadesáti lidí, které odvezl, přežila jen hrstka. Nejpočetnější transport se odehrál 21. srpna 1943. Jím bylo odvezeno téměř sedm set padesát osob, v lednu pak ještě odjelo posledních třicet jedna lidí. Z těchto osmi stovek přežili jen ti, kteří šli z Osvětimi dál do jiných táborů. Z celkem 5 500 Romů deportovaných z českých zemí do Osvětimi se jich vrátilo jen 583.
 
-<img src="http://i.imgur.com/eBoJf23.jpg" alt="Tábor Hodonín u Kunštátu" class="img-responsive img-popup" data-author="archiv Muzea romské kultury">
+<img src="http://i.imgur.com/1DtmJM0.jpg" alt="Tábor Hodonín u Kunštátu" class="img-responsive img-popup" data-author="archiv Muzea romské kultury">
 
 Drobnou perličkou je, že v hodonínském táboře žil i jediný člověk, který byl u nás za romský holokaust odsouzen – Blažej Dydy. Dydy byl jedním z Romů umístěných do Hodonína, brzy se tam stal jakýmsi kápem, pomocníkem dozorců. Pro své schopnosti byl pak poslán jako pomocník i do Osvětimi. V roce 1947 byl odsouzen na doživotí, už v roce 1961 byl ale podmínečně propuštěn.
 
