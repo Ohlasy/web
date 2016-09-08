@@ -1,6 +1,6 @@
 ---
 title: Na místě bývalého cikánského lágru v Hodoníně u Kunštátu vznikl památník romského holokaustu
-cover-photo: http://i.imgur.com/eBoJf23l.jpg
+cover-photo: http://i.imgur.com/OfwBwxI.jpg
 author: Anna Dudková
 category: zpravodajství
 tags: historie, kultura
