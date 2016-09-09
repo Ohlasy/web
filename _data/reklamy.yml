@@ -18,6 +18,11 @@
   alt:  Hrnčířský jarmark v Kunštátě 2016
   url: http://kunstat-mesto.cz/hrncirsky-jarmark/hrncirsky-jarmark-2016
   priority: 1000  
+- name: KSČM, senátní volby
+  image: http://i.imgur.com/orrqCRY.png
+  alt: Podpořte Máriu Koudelovou, kandidátku KSČM do senátu
+  url: http://www.kscmblansko.estranky.cz/
+  priority: 1000
 - name: Optik Lukáš
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
