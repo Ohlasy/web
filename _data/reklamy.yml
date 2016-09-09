@@ -23,6 +23,11 @@
   alt: Podpořte Máriu Koudelovou, kandidátku KSČM do senátu
   url: http://www.kscmblansko.estranky.cz/
   priority: 1000
+- name: KDU, senátní volby
+  image: http://i.imgur.com/rWgWoA5.jpg
+  alt: Podpořte Jaromíru Vítkovou, kandidátku KDU-ČSL do senátu
+  url: http://jaromiravitkova.cz
+  priority: 1000
 - name: Optik Lukáš
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
