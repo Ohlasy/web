@@ -67,9 +67,3 @@ Pohodlně usazen na cestě zpět do luxusu teplé vody a vlastní postele si v s
 <img src="http://i.ohlasy.info/Rxnf4Lp.jpg" alt="děti „sáňkují“ na travnatém svahu" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Tři dny v uprchlickém táboře ze mě nedělají odborníka na migraci, ale jednu věc vím jistě. Tihle lidé potřebují naši okamžitou pomoc – zcela bez ohledu na to, jestli se později rozhodneme je přijmout do Evropy, nebo poslat kamkoliv zpátky. Diskuze o dlouhodobém, systémovém řešení problémů migrace je potřeba, ale nesmí nám bránit v akutní pomoci těm, kteří jsou v nouzi. Jinak vlastním rozhodnutím přicházíme o hodnoty, které jsme všichni tolik připraveni bránit.
-
----
-
-### Pozvání na besedu
-
-*Beseda zaměřená na otázku přílivu emigrantů do Evropy z pohledu EU a České republiky se koná v pátek 16. října v 16.30 v zámeckém skleníku v Boskovicích. Hosty budou předseda právního výboru Evropského parlamentu Pavel Svoboda a senátor a bývalý rektor Univerzity Karlovy Václav Hampl. Pořádají KDU–ČSL Boskovice a firma LD seating s.r.o.*
