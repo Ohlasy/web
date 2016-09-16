@@ -3,11 +3,6 @@
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: http://www.kulturaboskovice.cz/
   priority: 1000
-- name: Muzeum
-  image: http://i.imgur.com/8lRrnXI.jpg
-  alt: navštivte Muzeum Boskovicka
-  url: http://muzeum.boskovice.cz/
-  priority: 1000
 - name: Anatis
   image: http://anatis.cz/reklama/anatis-ohlasy.png
   alt: reklama na podlahy Anatis
@@ -22,6 +17,11 @@
   image: http://i.imgur.com/orrqCRY.png
   alt: Podpořte Máriu Koudelovou, kandidátku KSČM do senátu
   url: http://www.kscmblansko.estranky.cz/
+  priority: 1000
+- name: ČSSD, senátní volby
+  image: http://i.imgur.com/KxAS24P.png
+  alt: Podpořte Ivo Poláka, kandidáta ČSSD do senátu
+  url: http://ivopolak.cz/
   priority: 1000
 - name: KDU, senátní volby
   image: http://i.imgur.com/rWgWoA5.jpg
