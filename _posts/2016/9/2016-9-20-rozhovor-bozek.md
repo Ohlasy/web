@@ -1,6 +1,6 @@
 ---
 title: „Hrad budeme provozovat sami.“
-cover-photo: http://i.imgur.com/O1IJqgO.jpg
+cover-photo: http://i.imgur.com/O1IJqgOl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura, památky
