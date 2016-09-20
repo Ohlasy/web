@@ -6,7 +6,7 @@ category: rozhovory
 tags: kultura, památky
 ---
 
-*Rozhovor s Dominikem Božkem, ředitelem společnosti MP Holding, která spravuje majetek rodiny Mensdorff-Pouilly, mimo jiné i boskovický hrad. Ten po více než třech desítkách let opouští kastelán Jiří Mazal, který v posledních takřka dvaceti letech hrad provozoval jako soukromý nájemce. Majitelé hradu se rozhodli tuto spolupráci ukončit. Dominika Božka jsme se proto zeptali na důvody, a také na další plány s touto unikátní památkou tyčící se nad Boskovicemi.*
+*Rozhovor s Dominikem Božkem, ředitelem společnosti MP Holding, která spravuje majetek rodiny Mensdorff-Pouilly, mimo jiné i boskovický hrad. Ten po více než třech desítkách let opouští kastelán Jiří Mazal, který v posledních takřka dvaceti letech hrad provozoval jako soukromý nájemce. Majitelé hradu se rozhodli tuto spolupráci ukončit. Dominika Božka jsme se proto zeptali na důvody a také na další plány s touto unikátní památkou tyčící se nad Boskovicemi.*
 
 <img src="http://i.imgur.com/O1IJqgO.jpg" alt="Dominik Božek" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
@@ -16,7 +16,7 @@ Na hradě působil skutečně velmi dlouho a to byl důvod, proč jsme se mu sna
 
 **Zkrátka je to vaše.**
 
-Je to jakoby někdo volal policii na majitele bytu, kde ale bydlíte v nájmu vy a děláte tam hluk. Měl velmi nízký nájem, klidně to řeknu na rovinu – platil 10 tisíc korun měsíčně. Na hradě bydlel a podnikal tam. Kdo takové podmínky má? Vzhledem k tomu, že do hradu dáváme mraky peněz ročně, jsem nájem zvedl. Ano, to je pravda, zdvouapůlnásobil jsem nájem na 25 tisíc měsíčně.
+Je to jako by někdo volal policii na majitele bytu, kde ale bydlíte v nájmu vy a děláte tam hluk. Měl velmi nízký nájem, klidně to řeknu na rovinu – platil 10 tisíc korun měsíčně. Na hradě bydlel a podnikal tam. Kdo takové podmínky má? Vzhledem k tomu, že do hradu dáváme mraky peněz ročně, jsem nájem zvedl. Ano, to je pravda, zdvouapůlnásobil jsem nájem na 25 tisíc měsíčně.
 
 Uznávám, že to bydlení není nic moc, je to spartánské. Stejně tak je pravda, že spoustu věcí opravil. Udělal na hradě opravdu hodně práce, ale jeho chování vůči veřejnosti i nám se během posledních dvou let vyhrotilo do té míry, že už jsem toho měl dost a řekl jsem, že už takto nebudeme pokračovat dál. Dal jsem také nějaké platební podmínky, aby to bylo skousnutelné, a dal jsem mu na výběr, společně jsme našli nějakou cestu, kterou akceptoval. Totiž že bude nájem platit kvartálně a má 90 dnů splatnosti, za první čtvrtletí platí až v polovině roku. Vím, že na hradě jsou hluchá období, proto je to posunuté. To nefungovalo, nesplnil to. Dva týdny předtím jsme měli sezení, upozorňoval jsem, že splatnost se blíží. A týden po splatnosti jsem zjistil, že nezaplatil. Musel jsem mu volat, aby zaplatil. A to byla ta poslední věc, kterou to skončilo.
 
@@ -30,7 +30,7 @@ Ne. Nechci, aby se znovu stalo to, co se stalo teď. Že bude někdo provozovat 
 
 **Takže vaše představa je, že zaměstnáte nějakého kastelána?**
 
-Přesně tak. Budeme pečlivě vybírat. Spolupracuji teď s bývalým zaměstnancem Památkového ústavu, byl tam vysoce postavený a tyto věci dobře zná. Beru ho jako konzultanta a společně se budeme starat o byznysplán a manuál, jak se bude s hradem zacházet, co se týká oprav, údržby. Musíme ten šperk vyleštit, aby vynikl, aby lidé viděli, co jaký ten hrad vlastně je. Samozřejmě tam budou i šermíři a komerční akce, to musí být. Na to se bude pronajímat, jinak by hrad dost nevydělával. Chod toho byznysu bude de facto stejný, ale my budeme dbát o to, jak bude hrad vypadat – zvenku i zevnitř. Budeme dbát o to, jak se bude zacházet se zákazníky, kteří zde budou chtít uspořádat akce. To je to gró. Hrad chceme víc otevřít a prodávat jeho historii, ta je velice zajímavá, na tom to musíme založit.
+Přesně tak. Budeme pečlivě vybírat. Spolupracuji teď s bývalým zaměstnancem Památkového ústavu, byl tam vysoce postavený a tyto věci dobře zná. Beru ho jako konzultanta a společně se budeme starat o byznysplán a manuál, jak se bude s hradem zacházet, co se týká oprav, údržby. Musíme ten šperk vyleštit, aby vynikl, aby lidé viděli, jaký ten hrad vlastně je. Samozřejmě tam budou i šermíři a komerční akce, to musí být. Na to se bude pronajímat, jinak by hrad dost nevydělával. Chod toho byznysu bude de facto stejný, ale my budeme dbát o to, jak bude hrad vypadat – zvenku i zevnitř. Budeme dbát o to, jak se bude zacházet se zákazníky, kteří zde budou chtít uspořádat akce. To je to gró. Hrad chceme víc otevřít a prodávat jeho historii, ta je velice zajímavá, na tom to musíme založit.
 
 **Plánujete výběrové řízení na místo kastelána?**
 
@@ -42,7 +42,7 @@ Výpověď měl do konce srpna. Žádal mě o prodloužení, asi aby mohl splnit
 
 **Je důležité, aby na hradě někdo nastálo bydlel?**
 
-Myslím, že životně důležité to není. Ale vzhledem k tom, že člověk k tomu místu musí mít vztah, tak je to nejlepší. Hrad je pevnost, když ho zavřeme, nikdo se tam neprobourá, z hlediska bezpečnosti je to v pořádku, ale ti noví lidé, kteří tam budou, musí mít pocit, že je to jejich, i když budou zaměstnanci. Proto je důležité, aby tam byli neustále, aby tím žili.
+Myslím, že životně důležité to není. Ale vzhledem k tomu, že člověk k tomu místu musí mít vztah, tak je to nejlepší. Hrad je pevnost, když ho zavřeme, nikdo se tam neprobourá, z hlediska bezpečnosti je to v pořádku, ale ti noví lidé, kteří tam budou, musí mít pocit, že je to jejich, i když budou zaměstnanci. Proto je důležité, aby tam byli neustále, aby tím žili.
 
 **Jaká je návštěvnost hradu?**
 
@@ -76,7 +76,7 @@ Myslím, že ano. Vzhledem k tomu, že jsme právnická osoba – akciová spole
 
 Postupně ano. Nebude to hned, ale hrajeme si s určitými nápady. Například na vnitřním palouku je věžička, která je úplně zasypaná, byl tam vchod do věže, která strážila tu stráň. Máme nápady, že uděláme nějaké vykopávky, abychom otevřeli bránu do původního hradu. Díval jsem se na fotky, že to bývalo otevřené. Teď je to zamaskované, ale to tak nebylo, to někdo zazdil před šedesáti nebo osmdesáti lety. Nevím proč. Chceme pozvat statika, dělat archeologické průzkumy. A pak ukázat veřejnosti, co tam je. Válí se tam po zemi kameny, které byly původní součástí hradu, to je hrozná škoda. Informování musí být lepší, dnes už je to jednoduché, každý má chytrý telefon, když tam dáte QR kód, může si stáhnout informace.
 
-Chceme představit původní, středověký život na hradě. Jestli tam byla kuchyně, tak ať lidé cítí, co se v té době peklo a ochutnají třeba chleba. Nebo kovář a podobně. A také ty šermířské hry a podobně. Ty budou možná na palouku, původně se neodehrávaly přímo na hradě, spíš na náměstí, kde se mohla sejít veřejnost. Chceme to uchopit podobně, samozřejmě ne na náměstí, ale venku na palouku. Jako loni, na palouku bylo hrozně moc lidí, to bylo super. A do hradu chceme vrátit ten správný život hradu. Taková je vize, bude to dlouhý proces, nebude to hned zítra. Nejdřív asi budou vidět vzhledové změny – vyčistíme okolí hradu.
+Chceme představit původní, středověký život na hradě. Jestli tam byla kuchyně, tak ať lidé cítí, co se v té době peklo, a ochutnají třeba chleba. Nebo kovář a podobně. A také ty šermířské hry a podobně. Ty budou možná na palouku, původně se neodehrávaly přímo na hradě, spíš na náměstí, kde se mohla sejít veřejnost. Chceme to uchopit podobně, samozřejmě ne na náměstí, ale venku na palouku. Jako loni, na palouku bylo hrozně moc lidí, to bylo super. A do hradu chceme vrátit ten správný život hradu. Taková je vize, bude to dlouhý proces, nebude to hned zítra. Nejdřív asi budou vidět vzhledové změny – vyčistíme okolí hradu.
 
 **Už do příští sezóny?**
 
