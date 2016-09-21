@@ -24,21 +24,21 @@ JENDA: Improvizační zápas je zjednodušeně řečeno spojení divadla a hokej
 
 JENDA: Improvizační zápasy mohou mít různou podobu – improshow, longforma nebo improvizační zápasy. A tyto zápasy my právě hrajeme nejčastěji, protože jsou divácky nejatraktivnější. Lidé v Boskovicích improvizační představení moc neznali, chtěli jsme jim je proto přiblížit tou nejpopulárnější formou. V zápase vystupují dva týmy – lidé buď ze stejné skupiny, nebo třeba i ti, co se předtím nikdy neviděli, a to je pak mnohem zajímavější – dále moderátor a rozhodčí. Diváci u vstupu vyfasují ponožky, kterými mohou vyjadřovat svůj nesouhlas s děním na jevišti. Pak napíší dvouslovné téma, které by rádi viděli v našem podání na jevišti, a dostanou dvě barevné kartičky. Těmi pak hlasují pro tým, který se jim více líbil. 
 
-MÍŠA: Celým divadlem provází moderátor, což je spolu s rozhodčím nejdůležitější osoba. Moderátor musí umět dobře mluvit a vysvětlit všechny kategorie. Potom začne veřejná rozcvička, společná oběma týmům, všichni hráči ještě mají černá trika, takže není poznat kdo je kdo. Musí se zkusit rozhýbat, nastartovat se a začít myslet jinak, než jsou zvyklí z běžného života. Pak se jdou týmy převléct do červených a modrých triček, moderátor vysvětlí divákům, co je čeká, a rozhodčí už volí jednu z kategorií a zápas začíná. Po každé odehrané kategorii diváci hodnotí zvednutím kartičky, který tým u nich lépe zabodoval. Hrají se témata napsaná od diváků, kategorie určuje rozhodčí a hráči předem nemají připraveného nic. Pokud se týmy před zápasem vidí poprvé, řeší se pouze to, které kategorie oba týmy znají. Za jeden zápas se odehraje průměrně osm kategorií. 
+MÍŠA: Celým divadlem provází moderátor, což je spolu s rozhodčím nejdůležitější osoba. Moderátor musí umět dobře mluvit a vysvětlit všechny kategorie. Potom začne veřejná rozcvička, společná oběma týmům, všichni hráči ještě mají černá trika, takže není poznat, kdo je kdo. Musí se zkusit rozhýbat, nastartovat se a začít myslet jinak, než jsou zvyklí z běžného života. Pak se jdou týmy převléct do červených a modrých triček, moderátor vysvětlí divákům, co je čeká, a rozhodčí už volí jednu z kategorií a zápas začíná. Po každé odehrané kategorii diváci hodnotí zvednutím kartičky, který tým u nich lépe zabodoval. Hrají se témata napsaná od diváků, kategorie určuje rozhodčí a hráči předem nemají připraveného nic. Pokud se týmy před zápasem vidí poprvé, řeší se pouze to, které kategorie oba týmy znají. Za jeden zápas se odehraje průměrně osm kategorií. 
 
 JENDA: Hodně důležitá při zápasech je i hudba, také improvizovaná. Tu nám teď zajišťuje Martin Nerud nebo Vlastimil Staněk alias Švanca. 
 
 **Hráči tedy své improvizační dovednosti představují prostřednictvím jednotlivých kategorií. Můžete nějakou z nich popsat?**
 
-JENDA: Je jich okolo čtyřiceti, stále vznikají nové a některé popisují se těžko. Ale například pro představu kategorie Změna: Dva hráči hrají téma od diváků, a ve chvíli, kdy se zakřičí ZMĚNA, hráč, který říkal poslední větu, musí tuto větu úplně změnit. 
+JENDA: Je jich okolo čtyřiceti, stále vznikají nové a některé popisují se těžko. Ale například pro představu kategorie Změna: Dva hráči hrají téma od diváků a ve chvíli, kdy se zakřičí ZMĚNA, hráč, který říkal poslední větu, musí tuto větu úplně změnit. 
 
 MÍŠA: Existují kategorie pro trojice, dvojice, jednotlivce… jako například Prskavka, což je krátká improvizace na jednoslovné téma od diváků. Hráči stojí zády k publiku a divák si vyvolí jednoho z nich, zadá mu téma a on musí zadané téma do půl minuty nějak zpracovat a beze slov odehrát.
 
 **Hrajete stále kategorie, se kterými jste zde začínali?**
 
-JENDA: Je jich mnoho a my se často inspirujeme, a kategorie doplňujeme od ostatních týmů, kteří k nám jezdí na zápasy. 
+JENDA: Je jich mnoho a my se často inspirujeme a kategorie doplňujeme od ostatních týmů, kteří k nám jezdí na zápasy. 
 
-MÍŠA: Ale pravidla se nemění, ty jsou jasně daná už od počátku. Jediné, co se obměňuje, jsou členové skupiny. Když jsem v Boskovicích zakládala impro, přemýšlela jsem, koho vlastně pro tuto formu divadla oslovit. Děti z dramaťáku byly tehdy ještě moc malé a protože můj syn chodil do skautu, domluvila jsem se s kluky ze skautského divadla a oni do toho se mnou šli. Původně se tedy jednalo o chlapecké impro, postupně rozšířené o pár dalších děvčat ze skautu. A úplně na začátku jsme zkoušeli na faře, což se také pořád obměňovalo. Tenkrát jsme vlastně patřili k průkopníkům impra u nás, těch týmů moc nebylo, na Moravě jsme byli jediní. 
+MÍŠA: Ale pravidla se nemění, ty jsou jasně daná už od počátku. Jediné, co se obměňuje, jsou členové skupiny. Když jsem v Boskovicích zakládala impro, přemýšlela jsem, koho vlastně pro tuto formu divadla oslovit. Děti z dramaťáku byly tehdy ještě moc malé, a protože můj syn chodil do skautu, domluvila jsem se s kluky ze skautského divadla a oni do toho se mnou šli. Původně se tedy jednalo o chlapecké impro, postupně rozšířené o pár dalších děvčat ze skautu. A úplně na začátku jsme zkoušeli na faře, což se také pořád obměňovalo. Tenkrát jsme vlastně patřili k průkopníkům impra u nás, těch týmů moc nebylo, na Moravě jsme byli jediní. 
 
 JENDA: Sice jsem ještě nebyl členem, ale pamatuju si, že Míša jezdila i na zápasy do Prahy, což byly vlastně i úplné začátky Improligy v Česku. 
 
@@ -54,7 +54,7 @@ JENDA: Dříve jsme hrávali s týmy, jejichž hráči přehrávali tak, až to 
 
 JENDA: Konkrétně v naší formě improvizace je důležité naučit se kategorie a principy jejich fungování a pak už jen trénovat postřeh. Nemůže to být tak, že ti minule něco fungovalo, a ty se rozhodneš, že to příští týden zahraješ stejně, to vůbec ne. Důležité je cvičit postřeh a rozvíjení improvizace. 
 
-MÍŠA: Hlavní je se nebát. Ono už vás něco v průběhu hry napadne, nebo vám druzí pomohou. Ale pokud se bojíte nebo do toho jdete s pocitem trapnosti, nikdy to nemůže být úspěšné. A i když nějaká improvizace nevyjde, divák to přijme. 
+MÍŠA: Hlavní je se nebát. Ono už vás něco v průběhu hry napadne nebo vám druzí pomohou. Ale pokud se bojíte nebo do toho jdete s pocitem trapnosti, nikdy to nemůže být úspěšné. A i když nějaká improvizace nevyjde, divák to přijme. 
 
 JENDA: Člověk se musí naučit přijímat a rozvíjet témata – s tím se trápíme už dlouho. Ve chvíli, kdy člověk zareaguje na nějakou repliku slovem „Ne“, děj se zastaví a zneguje celou situaci. Ne že by v improvizaci nemohl říct „Ne“, ale mnohem důležitější je myslet na to, že chci posunout děj dál.
 
@@ -68,7 +68,7 @@ JENDA: Ale těch zápasů bývalo jen pár a hrávali jsme proti sobě. Bývaly 
 
 **Kdo na vás chodí a kde se vám nejlépe hraje?**
 
-JENDA: Chodí široké spektrum lidí, od dětí až po seniory. A nejlépe se nám hraje před plným sálem. Zpočátku jsme neměli žádné příjemné místo, kde hrát. Boskovicím prostě chybí menší, vybavený sál. Hrát před prázdným hledištěm na skleníku bylo děsné, improvizace je založená na interakci s publikem, a když je sál moc prostorný, nebo bez lidí, je to vlastně skoro zbytečná akce. Nehledě na to, že jsme si nevydělali na nájem. Pak jsme dostali nabídku přejít pod Kulturní zařízení města Boskovice, čímž se naše problémy vyřešily. Také začalo chodit více lidí a my si domluvili, že si zajistíme občerstvení na skleníku sami, takže teď jsme spokojení zde. 
+JENDA: Chodí široké spektrum lidí, od dětí až po seniory. A nejlépe se nám hraje před plným sálem. Zpočátku jsme neměli žádné příjemné místo, kde hrát. Boskovicím prostě chybí menší, vybavený sál. Hrát před prázdným hledištěm na skleníku bylo děsné, improvizace je založená na interakci s publikem, a když je sál moc prostorný nebo bez lidí, je to vlastně skoro zbytečná akce. Nehledě na to, že jsme si nevydělali na nájem. Pak jsme dostali nabídku přejít pod Kulturní zařízení města Boskovice, čímž se naše problémy vyřešily. Také začalo chodit více lidí a my si domluvili, že si zajistíme občerstvení na skleníku sami, takže teď jsme spokojení zde. 
 
 MÍŠA: Aby se týmu hrálo dobře, musí se jednat o uzavřený prostor. Například venku se vůbec nedá hrát. Maximálně ještě ve farské zahradě nebo na uzavřeném nádvoří. Při zápase je důležité, aby se lidé soustředili na hru, protože to jsou oni, kdo ji tvoří. A pokud to neberou vážně nebo jen tak brouzdají kolem, nemá to smysl. 
 
