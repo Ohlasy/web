@@ -1,5 +1,5 @@
 {
-  "name": "Ohlasy",
+  "name": "ohlasy",
   "version": "1.0.0",
   "homepage": "https://github.com/Ohlasy/ohlasy",
   "authors": [
@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3",
-    "fancybox": "~2.1"
+    "bootstrap": "~3",
+    "fancybox": "~2"
   }
 }
