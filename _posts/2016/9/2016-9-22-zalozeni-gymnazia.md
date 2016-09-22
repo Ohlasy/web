@@ -37,7 +37,7 @@ Jednou z podmínek založení gymnázia bylo postavení nové školní budovy. U
 
 ### Maturita
 
-Ze 78 žáků, kteří započali studium v roce 1900, jich k maturitě došlo 35, tedy méně než polovina. Věkové rozpětí studentů u maturity bylo na dnešní poměry poněkud větší, bylo jim 18–23 let. Co se týče vyznání, 34 žáků bylo katolického náboženství a jeden evangelicko-reformního helvétského vyznání. 
+Ze 78 žáků, kteří započali studium v roce 1900, [jich k maturitě došlo 35](http://i.imgur.com/q3DyRrv.jpg), tedy méně než polovina. Věkové rozpětí studentů u maturity bylo na dnešní poměry poněkud větší, bylo jim 18–23 let. Co se týče vyznání, 34 žáků bylo katolického náboženství a jeden evangelicko-reformního helvétského vyznání. 
 
 V posledním ročníku studenty učili tito učitelé: ředitel Pavel Krippner (latina), třídní učitel Rudolf Tereba (matematika a fyzika), P. František Chramosta (náboženství), Josef Mach (řečtina a filosofie), Richard Wolf (čeština a němčina), Václav Linda (dějepis a zeměpis). [Jejich podobenky jsou na tablu](http://i.imgur.com/xiglVlS.jpg), ředitel s třídním učitelem a pod nimi ostatní čtyři. Identifikovat by je uměl bezpochyby dr. Bránský nebo ing. Šmétka, bývalí profesoři gymnázia, kteří se věnovali jeho historii.
 
