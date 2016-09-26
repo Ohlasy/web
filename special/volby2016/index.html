@@ -43,12 +43,8 @@ why: not
                 </div>
             </div>
         </div>
-        <h2 class="row-header"><span>Další volební články</span></h2>
-        <div class="row">
-            {% for article in site.tags.volby %}
-            {% include article/preview-small.html article=article class="col-sm-4" %}
-            {% endfor %}
-        </div>
+        {% assign items = site.tags.volby | limit: 5 %}
+        {% include pager/nest.html items=items caption="Další volební články" %}
     </div>
 
     {% include footer.html %}
