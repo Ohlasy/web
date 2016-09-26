@@ -1,0 +1,53 @@
+---
+why: not
+---
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    {% include html/headers.html title="Ohlasy: Volební speciál 2016" %}
+    <link href="/style/front.css" rel="stylesheet">
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="RSS">
+</head>
+<body>
+    <header class="navbar navbar-default">
+        <div class="container">
+            <h1><a href="/">Ohlasy <small>volby 2016</small></a></h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <p>V termínu 7. a 8. října se konají krajské a senátní volby.
+                Po šesti letech vybíráme senátora také v našem volebním obvodu,
+                formou speciálního dotazníku proto představujeme všech devět
+                kandidátů, kterým jsme položili stejných 21 otázek. Pokud některý
+                z kandidátů na senátora nezíská nadpoloviční většinu hlasů a nerozhodne
+                tak senátní volby již v prvním kole, bude se o týden později, tedy
+                14. a 15. října, konat ještě druhé kolo senátních voleb, do kterého
+                postoupí dva nejúspěšnější kandidáti z kola prvního.</p>
+            </div>
+        </div>
+        <h2 class="row-header"><span>Senátorský dotazník</span></h2>
+        <div class="row">
+            {% assign interviews = site.special | where: "feature", "volby2016" %}
+            {% for interview in interviews %}
+            {% include article/preview-small.html article=interview class="col-sm-4" %}
+            {% endfor %}
+        </div>
+        <h2 class="row-header"><span>Další volební články</span></h2>
+        <div class="row">
+            {% for article in site.tags.volby %}
+            {% include article/preview-small.html article=article class="col-sm-4" %}
+            {% endfor %}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script defer src="/lib/ad-rotate.js"></script>
+</body>
+</html>
