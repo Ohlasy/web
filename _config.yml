@@ -27,7 +27,7 @@ defaults:
       path: ''
       type: special
     values:
-      layout: 'article'
+      layout: 'volby2016'
 
 future: false
 exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'bower.json', 'Makefile']

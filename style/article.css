@@ -22,6 +22,10 @@ h3 {
     color: gray;
 }
 
+h2.indented {
+    margin-bottom: 25px;
+}
+
 /* Images */
 
 .profile-picture {
