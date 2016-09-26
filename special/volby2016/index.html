@@ -12,7 +12,7 @@ why: not
 <body>
     <header class="navbar navbar-default">
         <div class="container">
-            <h1><a href="/">Ohlasy <small>volby 2016</small></a></h1>
+            <h1><a href="/">Ohlasy <small>Volební speciál 2016</small></a></h1>
         </div>
     </header>
 
@@ -35,6 +35,13 @@ why: not
             {% for interview in interviews %}
             {% include article/preview-small.html article=interview class="col-sm-4" %}
             {% endfor %}
+        </div>
+        <div class="row hidden-sm">
+            <div class="col-md-12">
+                <div class="box-wide">
+                    <a href="http://predplatne.ohlasy.info/?utm_source=voting_banner"><img src="http://i.imgur.com/CpVSL59.png" class="img-responsive"></a>
+                </div>
+            </div>
         </div>
         <h2 class="row-header"><span>Další volební články</span></h2>
         <div class="row">
