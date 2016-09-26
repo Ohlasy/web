@@ -32,7 +32,7 @@
   image: http://i.imgur.com/50pS4xy.png
   alt: Chcete kvalitní novinařinu ve svém regionu? Předplaťte si nás!
   url: http://predplatne.ohlasy.info/?utm_source=web_banner
-  priority: 1000
+  priority: 1001
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"

@@ -36,13 +36,6 @@ why: not
             {% include article/preview-small.html article=interview class="col-sm-4" %}
             {% endfor %}
         </div>
-        <div class="row hidden-sm">
-            <div class="col-md-12">
-                <div class="box-wide">
-                    <a href="http://predplatne.ohlasy.info/?utm_source=voting_banner"><img src="http://i.imgur.com/LB3Ecff.png" class="img-responsive"></a>
-                </div>
-            </div>
-        </div>
         {% assign items = site.tags.volby | limit: 5 %}
         {% include pager/nest.html items=items caption="Další volební články" %}
     </div>
