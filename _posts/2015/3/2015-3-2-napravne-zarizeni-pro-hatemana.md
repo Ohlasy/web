@@ -3,6 +3,7 @@ title: Nápravné zařízení pro hatemana
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/sXlPE5Al.jpg
 author: Tomáš Trumpeš
+tags: politika, volby
 ---
 
 *Skutečný demokrat má jednu výhodu – může mít radost, i když prohraje. Může si totiž připomenout, že jedním z pilířů demokratického systému je princip střídání vlád. Princip, který zaručuje, že tady nikdo nepovládne nejen na věčné časy, ale obvykle ani tak dlouho, jak by si sám představoval. Čas mu vyměříme my, voliči. Vítězství politické síly, k níž se kloníme, je jistě příjemné. Ale daleko důležitější je skutečnost, že žijeme ve společnosti, která se může rozhodnout pro změnu.*
