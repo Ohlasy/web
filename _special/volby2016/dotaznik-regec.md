@@ -5,6 +5,8 @@ cover-photo: http://i.imgur.com/3s3gXQ7.jpg
 feature: volby2016
 ---
 
+<img src="http://i.imgur.com/3s3gXQ7.jpg" alt="Jozef Regec" class="img-responsive img-popup">
+
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
 Určitě. Je to nový zákon o financování sportu. Současný zákon je zastaralý. Sice novelizovaný, ale potřebujeme zcela nový.

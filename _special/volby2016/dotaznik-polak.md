@@ -5,6 +5,8 @@ cover-photo: http://i.imgur.com/jAsLEJy.jpg
 feature: volby2016
 ---
 
+<img src="http://i.imgur.com/jAsLEJy.jpg" alt="Ivo Polák" class="img-responsive img-popup">
+
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
 Chtěl bych navrhnout a prosadit Kariérní řád pro pedagogické pracovníky, aby se do školství dostalo více mladých absolventů, kteří by viděli v práci pedagoga vlastní perspektivu. Vždyť kvalitní školství je zárukou prosperující budoucnosti státu. 

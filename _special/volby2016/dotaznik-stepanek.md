@@ -5,9 +5,11 @@ cover-photo: http://i.imgur.com/WhIBQip.jpg
 feature: volby2016
 ---
 
+<img src="http://i.imgur.com/WhIBQip.jpg" alt="Robert Štěpánek" class="img-responsive img-popup">
+
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
-Konkrétní zákon je v tuto chvíli předčasné řešit. Je spousta nařízení nebo zákonů, které běžnému občanovi nijak neulehčují fungování v současné společnosti. A to, že současná vláda neustále slibuje nebo tvrdí, že pomůže a podpoří drobné a střední firmy a stejně tak živnostníky, ani nebudu radši připomínat, protože praxe mně připadá přesně opačná. Stejně jak zákony umožňují občanovi bránit sebe nebo svůj majetek. Podle mého názoru současnou situaci neuklidní ani nespraví jeden zákon.
+Konkrétní zákon je v tuto chvíli předčasné řešit. Je spousta nařízení nebo zákonů, které běžnému občanovi nijak neulehčují fungování v současné společnosti. A to, že současná vláda neustále slibuje nebo tvrdí, že pomůže a podpoří drobné a střední firmy a stejně tak živnostníky, ani nebudu radši připomínat, protože praxe mně připadá přesně opačná. Stejně jako v případě zákonů, které umožňují občanovi bránit sebe nebo svůj majetek. Podle mého názoru současnou situaci neuklidní ani nespraví jeden zákon.
 
 **2. Jaká oblast je vám nejbližší a v jakém senátním výboru byste chtěl pracovat?**
 

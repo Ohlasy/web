@@ -5,6 +5,8 @@ cover-photo: http://i.imgur.com/PvM5lcy.jpg
 feature: volby2016
 ---
 
+<img src="http://i.imgur.com/PvM5lcy.jpg" alt="Jiří Šoltys" class="img-responsive img-popup">
+
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
 Ano, hned několik. Nejzásadnější z nich je zákon o zavedení nepodmíněného příjmu. 

@@ -5,6 +5,8 @@ cover-photo: http://i.imgur.com/uthQ1E9.jpg
 feature: volby2016
 ---
 
+<img src="http://i.imgur.com/uthQ1E9.jpg" alt="Drago Sukalovský" class="img-responsive img-popup">
+
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
 Zákon, který chci prosadit, spočívá ve zjednodušení podmínek pro přípravu staveb dálnic. Bez takovéhoto zákona můžeme na stavbu D43 zapomenout nejméně dalších dvacet let, spíše však na ještě déle. 

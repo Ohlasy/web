@@ -5,6 +5,8 @@ cover-photo: http://i.imgur.com/aSDpYZU.jpg
 feature: volby2016
 ---
 
+<img src="http://i.imgur.com/aSDpYZU.jpg" alt="Jaromíra Vítková" class="img-responsive img-popup">
+
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěla navrhnout a prosadit?**
 
 Za stěžejní považuji fungující zákon o sociálních službách. Aktuálně: uvést do praxe novelu tohoto zákona. Tato novela do značné míry ovlivní, jaká pomoc se dostane lidem, kteří se ocitnou v obtížných životních situacích – ať už kvůli pokročilému věku, vážné nemoci nebo péči o člena rodiny. Již 4 roky probíhá optimalizace sociálních služeb a jak pro poskytovatele, tak pro občany není vždy příznivá, ke zlepšení může přispět právě uvedený zákon a jeho novela. 
