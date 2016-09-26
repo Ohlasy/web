@@ -18,7 +18,7 @@
                 {{ content }}
                 {% include article/info.html article=page %}
             </article>
-            <aside class="col-md-4">
+            <aside class="col-md-4 hidden-sm">
                 <h2 class="text-muted indented">Senátní volby 2016:<br>Protikandidáti</h2>
                 <div class="row">
                     {% assign interviews = site.special | where: "feature", "volby2016" %}
