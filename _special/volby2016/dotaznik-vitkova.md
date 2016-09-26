@@ -1,5 +1,5 @@
 ---
-title: Jaromíra Vítková, KDU-ČSL
+title: Jaromíra Vítková, KDU‑ČSL
 author: Tomáš Trumpeš
 cover-photo: http://i.imgur.com/aSDpYZU.jpg
 feature: volby2016
