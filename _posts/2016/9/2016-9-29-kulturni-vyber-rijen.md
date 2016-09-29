@@ -16,7 +16,7 @@ Velkou událostí letošního října je nepochybně znovuotevření zrekonstruo
 
 Hned třikrát si v říjnu přijdou na své milovníci jazzu. V pátek 7. října v sále letovické ZUŠ zahraje Vít Křišťan Trio, ve středu 12. října v boskovickém zámeckém skleníku italsko-české MUH Trio ve složení Magris-Uhlíř-Helešic a v neděli 16. října v Galerii Otakara Kubína klavírista Martin Kratochvíl s americkým kytaristou Tonym Ackermanem. 
 
-Kdo dává před jazzem přednost klasické komroní hudbě barokní, má příležitost v neděli 2. října v evangelickém kostele ve Vanovicích, kde zazní skladby W. A. Mozarta, G. F. Händela a dalších.  V úterý 11. října se také koná žákovský koncert v sále boskovické ZUŠ.
+Kdo dává před jazzem přednost klasické komorní hudbě, má příležitost v neděli 2. října v evangelickém kostele ve Vanovicích, kde zazní skladby W. A. Mozarta, G. F. Händela a dalších.  V úterý 11. října se také koná žákovský koncert v sále boskovické ZUŠ.
 
 U příležitosti odhalení busty Václava Havla a představení nově vzniklého parku na Tyršově ulici v Letovicích v sobotu 8. října vystoupí písničkářka Dagmar Voňková. S další písničkářkou se můžeme v Letovicích setkat ve středu 19. října, kdy místní kulturní dům se svým koncertem navštíví Radůza.
 
@@ -46,10 +46,10 @@ Hned dvě říjnové akce budou mít tentokrát cestovatelskou tématiku. Bude t
 
 V pozadí ovšem nezůstane ani náš vlastní region či kraj. Ve středu 5. října v kulturním domě v Letovicích se již podruhé setkáme s vyprávěním Bohuslava Kudy v rámci cyklu Letovice, náš domov. V neděli 9. října bude v boskovickém zámeckém skleníku představena kniha o slavném boskovickém rodákovi Malíř František Řehořek a v úterý 11. října si můžeme zajít do letovického kulturního domu na audiovizuální pořad Českého rozhlasu Brno Morava, země neznámá.
 
-Hned dva své tituly, Pouta z pavučin a Mrazivé hry, představí ve středu 12. října zámeckém sále ve Velkých Opatovicích spisovatelka Markéta Harasimová. Vyprávění knižního příběhu bude spojeno se scénickým čtením a povídáním o tom, jak žije a pracuje spisovatelka na volné noze. S Markétou Harasimovou se znovu můžeme setkat v úterý 25. října v městské knihovně v Letovicích.
+Hned dva své tituly, Pouta z pavučin a Mrazivé hry, představí ve středu 12. října v zámeckém sále ve Velkých Opatovicích spisovatelka Markéta Harasimová. Vyprávění knižního příběhu bude spojeno se scénickým čtením a povídáním o tom, jak žije a pracuje spisovatelka na volné noze. S Markétou Harasimovou se znovu můžeme setkat v úterý 25. října v městské knihovně v Letovicích.
 
 Přednášku Hany Sar Blochové Magisterium Karlštejna, doplněnou projekcí fotografií a živou hudbou, si můžeme v Boskovicích vychutnat ve čtvrtek 20. října. V říši hudby zůstaneme i v pátek 21. října, kdy se v Galerii Otakara Kubína koná tradiční Setkání s Milošem Štědroněm a hudbou.
 
 ### Halasův Kunštát
 
-V sobotu 29. října proběhne další ročník vzpomínkového setkání Halasův Kunštát. U básníkova hrobu na kunštátském hřbitově promluví odpoledne Jaromír Typlt – spisovatel, esejista, performer, výtvarný kurátor a letošní host Halasova Kunštátu. V 17 hodin se v kulturním domě uskuteční veřejnosti otevřené setkání s finalisty Literární soutěže Františka Halase. Vše vyvrcholí v 19 hodin literárním večerem, který připravil Aleš Kubík. Součástí večera bude i vyhodnocení 44. ročníku Literání souteže Františka Halase spojené s uvedením básnické prvotiny Rhizomy Marka Torčíka.
+V sobotu 29. října proběhne další ročník vzpomínkového setkání Halasův Kunštát. U básníkova hrobu na kunštátském hřbitově promluví odpoledne Jaromír Typlt – spisovatel, esejista, performer, výtvarný kurátor a letošní host Halasova Kunštátu. V 17 hodin se v kulturním domě uskuteční veřejnosti otevřené setkání s finalisty Literární soutěže Františka Halase. Vše vyvrcholí v 19 hodin literárním večerem, který připravil Aleš Kubík. Součástí večera bude i vyhodnocení 44. ročníku Literání souteže Františka Halase spojené s uvedením básnické prvotiny Marka Torčíka Rhizomy.
