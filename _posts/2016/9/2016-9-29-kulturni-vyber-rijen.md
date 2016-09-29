@@ -48,7 +48,7 @@ V pozadí ovšem nezůstane ani náš vlastní region či kraj. Ve středu 5. ř
 
 Hned dva své tituly, Pouta z pavučin a Mrazivé hry, představí ve středu 12. října v zámeckém sále ve Velkých Opatovicích spisovatelka Markéta Harasimová. Vyprávění knižního příběhu bude spojeno se scénickým čtením a povídáním o tom, jak žije a pracuje spisovatelka na volné noze. S Markétou Harasimovou se znovu můžeme setkat v úterý 25. října v městské knihovně v Letovicích.
 
-Přednášku Hany Sar Blochové Magisterium Karlštejna, doplněnou projekcí fotografií a živou hudbou, si můžeme v Boskovicích vychutnat ve čtvrtek 20. října. V říši hudby zůstaneme i v pátek 21. října, kdy se v Galerii Otakara Kubína koná tradiční Setkání s Milošem Štědroněm a hudbou.
+Přednášku Hany Sar Blochové Magisterium Karlštejna, doplněnou projekcí fotografií a živou hudbou, si můžeme v Boskovicích vychutnat ve čtvrtek 20. října. V říši hudby zůstaneme i v pátek 21. října, kdy se v Galerii Otakara Kubína koná tradiční Setkání s Milošem Štědroněm a hudbou. U příležitosti zakončení výstavy Michala Machata Úkazy a Tmelí se koná v neděli 9. října od 18 hodin v Galerii Otakara Kubína setkání s autorem obrazů a autorské čtení spisovatele Petra Pazdery Payna. Představena bude jejich společná kniha Úkazy.
 
 ### Halasův Kunštát
 
