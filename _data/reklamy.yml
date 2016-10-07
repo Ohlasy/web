@@ -28,11 +28,6 @@
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
   priority: 900
-- name: Hrad hledá kastelána
-  image: http://i.imgur.com/9QSMtbO.jpg
-  alt: MP Holding hledá nového kastelána pro boskovický hrad
-  url: https://docs.google.com/document/d/17xEXayA4HxIXJ4fpZgayoY_XgZilYMA06COk0QCxg4Y/edit?usp=sharing
-  priority: 1001
 - name: Předplatné
   image: http://i.imgur.com/50pS4xy.png
   alt: Chcete kvalitní novinařinu ve svém regionu? Předplaťte si nás!
