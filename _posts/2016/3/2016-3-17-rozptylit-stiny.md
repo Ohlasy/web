@@ -3,7 +3,9 @@ title: Alespoň trochu rozptýlit ty temné stíny
 cover-photo: http://i.ohlasy.info/2fQamj3l.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
-tags: historie, městská památková zóna
+tags:
+    - historie
+    - památková zóna
 ---
 
 *„Sedím v hospodě, ve které se kdysi motal chlap a přesvědčoval všechny stoly, že v jednom ze svých minulých životů byl dozorcem v Osvětimi… jako by nevěděl, že tím jsme byli všichni,“ píše v knize Jedna věta básník Petr Hruška, který, snad to mohu prozradit, zanedlouho zavítá do Boskovic. Do města, ze kterého v ne tak dávno minulém životě odvezli 458 lidí do koncentračních a následně vyhlazovacích táborů. Ba právě i do té Osvětimi. Smrt zde čekala na 444 z nich.*

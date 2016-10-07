@@ -3,7 +3,7 @@ title: "Ze zastupitelstva: Nový zastupitel, úpravy investičních plánů a vy
 cover-photo: http://i.ohlasy.info/RZhaCs0l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: politika, investice
+tags: politika investice
 ---
 
 *Osmé zasedání boskovického zastupitelstva se konalo v úterý 23. února od 16 hodin ve skleníku. Zastupitelé tentokrát nerozhodovali o příliš mnoha klíčových otázkách, v průběhu zastupitelstva se však ukázalo, že vztahy mezi koalicí a opozicí se stále vyostřují. Přímý přenos ze zastupitelstva trápily výpadky vysílání, ke zhlédnutí by však měl být kompletní záznam.*

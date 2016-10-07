@@ -3,7 +3,13 @@ title: "Ze zastupitelstva: Sportpark v Doubravách, hala na Července, rozpoče
 author: Marek Osouch
 cover-photo: http://i.ohlasy.info/M3NH0Shl.jpg
 category: zpravodajství
-tags: politika, investice, Červená zahrada, letní kino, knihovna, nemocnice
+tags:
+    - politika
+    - investice
+    - Červená zahrada
+    - letní kino
+    - knihovna
+    - nemocnice
 ---
 
 *Velmi dlouhou a na důležitá rozhodnutí poměrně bohatou schůzi absolvovalo boskovické zastupitelstvo. Rozhodlo o rozpočtu na příští rok, ale také o bikeparku v Doubravách, o sportovní hale a strategickém plánu, diskutovalo se i o odkupu pozemků v Červené zahradě a o odvolání jednatele nemocnice. Přinášíme stručný výběr toho nejpodstatnějšího, co podle Ohlasů na zastupitelstvu zaznělo, a především bylo rozhodnuto.*

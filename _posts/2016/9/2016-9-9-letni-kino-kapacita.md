@@ -3,7 +3,7 @@ title: Letní kino bude mít nakonec kapacitu 1800 míst
 cover-photo: http://i.imgur.com/SrNvlj9l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: investice, kultura
+tags: investice kultura
 ---
 
 *Přibližně za měsíc začne rekonstrukce hlediště v letním kině. Tato etapa celkové obnovy areálu by měla být hotova před příští sezónou, areál po ní bude mít kapacitu 1800 míst k sezení – nikoliv 3000, [jak radnice dříve deklarovala](http://blanensky.denik.cz/zpravy_region/oprava-letniho-kina-v-boskovicich-nove-hlediste-pojme-tri-tisice-divaku-20160706.html). Náklady by měly činit něco přes dvanáct milionů korun, městská rada nyní vyhlásila výběrové řízení na zhotovitele.*

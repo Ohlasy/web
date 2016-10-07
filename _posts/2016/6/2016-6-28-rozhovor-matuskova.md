@@ -3,7 +3,7 @@ title: „Já se snažím o komunikaci, ale nepřichází mi odpověď. Jsem vž
 cover-photo: http://i.imgur.com/eAb1tr9l.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura, vzdělávání
+tags: kultura vzdělávání
 ---
 
 *Rozhovor se Stanislavou Matuškovou, ředitelkou boskovické Základní umělecké školy. Ve funkci je čtyři roky, za tu dobu odešlo několik pedagogů. Dvě výpovědi měly soudní dohru, nyní odchází z vlastní vůle další dva učitelé: dosavadní vedoucí výtvarného oboru Eva Holoušová a Martin Krajíček, který stál rovněž v čele školního orchestru. Proto nás zajímal pohled ředitelky na to, čím je odchod pedagogů způsoben. A také jak škola dnes funguje a jaký je o ni zájem.*

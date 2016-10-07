@@ -3,7 +3,7 @@ title: „Z tancování budou žáci vždy šikovnější než z běhání po h�
 cover-photo: http://i.ohlasy.info/MAcMhIDl.jpg
 author: Martina Vašková
 category: rozhovory
-tags: kultura, vzdělávání
+tags: kultura vzdělávání
 ---
 
 *Rozhovor s Petrem Palasem, který vede třetím rokem taneční obor v ZUŠ Boskovice. Než se dostal do Boskovic, působil jako sólista baletu v Českých Budějovicích a Liberci. V Boskovicích se mu zatím daří – což dokládá dvakrát vyprodané představení Sněhová královna, kde tančilo všech téměř osmdesát žáků tanečního oboru. V těchto dnech už chystají nové představení, tentokrát žáci zatančí v zahradě boskovického zámku.*

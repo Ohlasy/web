@@ -3,7 +3,7 @@ title: Přístavba mateřské školy je v ohrožení. S žádostí o dotaci m
 cover-photo: http://i.ohlasy.info/OGpkoC2l.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: investice, vzdělávání
+tags: investice vzdělávání
 ---
 
 *Přístavba mateřské školy na Bílkově se měla letos v dubnu začít stavět. Zatím se nic neděje, přestože už je známý výsledek výběrového řízení na zhotovitele stavby. Chybí totiž peníze, o které boskovická radnice žádala na ministerstvu školství. Od něj je ale nedostane. Naděje je ještě na jiném ministerstvu.*

@@ -4,7 +4,7 @@ cover-photo: http://i.ohlasy.info/pR9rXn3l.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2016-02-16 09:40:45
-tags: sokolovna, investice
+tags: sokolovna investice
 ---
 
 *Zanedbaný interiér boskovické sokolovny člověka odrazuje hned po vstupu. Budovu vlastní Česká obec sokolská, pro kterou je ale její provoz v poslední době ekonomicky téměř neudržitelný. O nutných opravách interiérů není možné mluvit už vůbec. Podle jednatele boskovických sokolů Karla Malacha je jediným východiskem převod budovy na město.*

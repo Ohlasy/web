@@ -3,7 +3,10 @@ title: České dráhy mění jízdní řád. První  ranní vlak ve Skalici neza
 cover-photo: http://i.imgur.com/q4K55YJl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: doprava, železnice, Boskovická spojka
+tags:
+    - doprava
+    - železnice
+    - Boskovická spojka
 ---
 
 *Cestování vlakem do Prahy bude složitější. Ministerstvo dopravy chce zrušit zastávku ve Skalici nad Svitavou pro první ranní expres, který je v Praze krátce po sedmé hodině. Lidé budou muset do Letovic nebo Blanska, kde vlak bude i nadále zastavovat. Dále se také pracuje na projektu Boskovické spojky. Stavět by se měla začít v roce 2019.*

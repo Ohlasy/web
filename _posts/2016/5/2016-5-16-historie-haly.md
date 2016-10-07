@@ -4,7 +4,9 @@ date: 2016-05-16 11:00:45
 cover-photo: http://i.imgur.com/3PphKLfl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: sportovní hala, investice
+tags:
+    - sportovní hala
+    - investice
 ---
 
 *Letos je to deset let, kdy přestali sportovci využívat Jízdárnu jako sportovní halu, a v červnu nám uplyne rok od okamžiku, kdy zastupitelé rozhodli, že nová sportovní hala na Slovákově nebude. Tímto krokem jsme se vrátili o více než deset let zpátky. Pojďme si připomenout hlavní mezníky vývoje stavby sportovní haly.*

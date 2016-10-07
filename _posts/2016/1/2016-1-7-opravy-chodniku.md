@@ -3,7 +3,7 @@ title: Do oprav chodníků a silnic půjde letos více peněz
 author: Marek Osouch
 cover-photo: http://i.ohlasy.info/EYRgKXCl.jpg
 category: zpravodajství
-tags: doprava, investice
+tags: doprava investice
 ---
 
 *O šest milionů více zařadilo vedení Boskovic v rozpočtu na letošní rok do kapitoly doprava. Chystá také více celkových oprav silnic, ne pouze nejnutnějších oprav. Na krajském úřadě začne město vyjednávat také o možnostech opravy Dukelské, která je jako ostatní hlavní silnice vedoucí z města ve vlastnictví Jihomoravského kraje.*

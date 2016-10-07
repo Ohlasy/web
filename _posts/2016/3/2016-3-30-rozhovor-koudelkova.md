@@ -3,7 +3,7 @@ title: „Líbí se mi, že ve staré hudbě je velký prostor pro vlastní inte
 cover-photo: http://i.ohlasy.info/zlDUgPAl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura, hudba
+tags: kultura hudba
 ---
 
 *Rozhovor s flétnistkou Michaelou Koudelkovou. Jako dítě začala chodit v Boskovicích do Dřevěné píšťalky, dnes má za sebou první a před sebou druhý absolventský koncert na Akademii Muzycznej v polském Krakově, kde studuje zobcovou flétnu. Kromě toho absolvovala řadu mistrovských kurzů a pravidelně koncertuje u nás i v zahraničí.*

@@ -3,7 +3,10 @@ title: „Občané by měli rozhodnout, jestli má být knihovna v ZZN, nebo v P
 cover-photo: http://i.imgur.com/HUxhLVol.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: Panský dvůr, knihovna, investice
+tags:
+    - panský dvůr
+    - knihovna
+    - investice
 ---
 
 *Rozhovor s Luďkem Řehořem, jednatelem společnosti Pražská 5, která vlastní objekt bývalého Panského dvora na Hradní ulici v Boskovicích. Část objektu nabídl vedení radnice pro umístění knihovny, Panský dvůr by byl městu ochoten i prodat. Mluvili jsme i o tom, proč by to bylo pro knihovnu i pro něj dobré řešení a také jak pokračuje projekt na rekonstrukci, [který v minulosti nezískal souhlas památkové péče.](/clanky/2015/07/pansky-dvur-bez-razitka.html)*

@@ -3,7 +3,7 @@ title: Krajina starých sídel v Letovicích
 cover-photo: http://i.imgur.com/MMULK6Il.jpg
 author: Hynek Skořepa
 category: zpravodajství
-tags: kultura, krajina
+tags: kultura krajina
 ---
 
 *Ve čtvrtek 9. června 2016 bude v 18 hodin zahájena vernisáží výstava [Krajina starých sídel](http://www.mks-letovice.cz/mks/akce/krajina-starych-sidel). Výstavu pořádá Městské kulturní středisko Letovice v kulturním domě v Letovicích, průvodní slovo na vernisáži bude mít Mgr. Eva Nečasová, historička a bývalá ředitelka blanenského muzea. Výstava je zapůjčena z Vědecké knihovny v Olomouci a nabídne návštěvníkům více než sedmdesát grafických listů krajiny Moravy a Slezska. Jejich autorem je převážně Friedrich Adolph Kunike (1777–1838), považovaný za „otce rakouské litografie“.*

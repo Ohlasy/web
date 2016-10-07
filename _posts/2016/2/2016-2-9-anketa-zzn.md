@@ -3,7 +3,7 @@ title: "Anketa: Architekti ke knihovně a ZZN. Přestavět, nebo zbourat?"
 cover-photo: http://i.ohlasy.info/ku3vknAl.jpg
 author: Tomáš Trumpeš
 category: ankety
-tags: architektura & urbanismus, investice, knihovna
+tags: architektura investice knihovna
 ---
 
 *Boskovice zvažují přestavět pro knihovnu [budovu bývalé normalizační prodejny domácích potřeb](/clanky/2016/01/budova-zzn.html). Dokázala by podle vás důkladná přestavba vytvořit z tohoto objektu důstojnou, reprezentativní a funkční stavbu? Nebo by bylo lepší budovu zbourat, pokud takovou knihovnu chceme na tomto místě mít?*

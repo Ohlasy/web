@@ -3,7 +3,7 @@ title: "Ze zastupitelstva: Sokolovna městu, méně peněz na letní kino, více
 cover-photo: http://i.imgur.com/eIe8ON8l.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: politika, sokolovna, investice
+tags: politika sokolovna investice
 ---
 
 *Dvaadvacet z celkového počtu sedmadvaceti zastupitelů se sešlo v zámeckém skleníku na svém posledním předprázdninovém zasedání. Vyšší absence zastupitelů měla dokonce za následek, že koalice neměla většinu čtrnácti hlasů, jeden hlas jí chyběl. Pouze při započítání komunistického zastupitele Ladislava Topínky by se dalo hovořit o většině. Zasedání zastupitelů má jeden hlavní závěr: město chce získat budovu sokolovny do svého majetku.*

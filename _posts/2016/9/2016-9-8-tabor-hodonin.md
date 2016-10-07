@@ -3,7 +3,7 @@ title: Na místě bývalého cikánského lágru v Hodoníně u Kunštátu vzn
 cover-photo: http://i.imgur.com/OfwBwxI.jpg
 author: Anna Dudková
 category: zpravodajství
-tags: historie, kultura
+tags: historie kultura
 ---
 
 *Jen málo míst vystřídalo tolik různých podob a využití jako areál bývalého cikánského tábora v Hodoníně u Kunštátu. Jeho historie zahrnuje věznění různých nepohodlných skupin obyvatel, výcvikové středisko, rekreační areál a konečně i pietní místo a vzdělávací centrum k připomenutí těch, kteří internaci na tomto místě nepřežili.*

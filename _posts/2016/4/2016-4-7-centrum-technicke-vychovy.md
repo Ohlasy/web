@@ -3,7 +3,7 @@ title: Centrum polytechnické výchovy na Slovákově dostává jasnější podo
 cover-photo: http://i.ohlasy.info/YD6OISy.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: investice, vzdělávání
+tags: investice vzdělávání
 ---
 
 *Boskovická radnice nechala vypracovat [architektonickou studii na budovu a okolí Centra polytechnického vzdělávání](http://data.ohlasy.info/2016/studie-centrum-technicke-vychovy.pdf). To by v případě získání dotace mělo vzniknout v jámě po zrušené stavbě sportovní haly na rohu ulic Bílkovy a Slovákovy. Centrum by bylo součástí areálu základní školy, náklady na jeho vybudování se zatím pouze odhadují na desítky milionů korun. Studie je prvním krokem ke zpracování žádosti o dotaci, kterou by mělo ministerstvo pro místní rozvoj vypsat někdy v letních měsících.*

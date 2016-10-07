@@ -3,7 +3,7 @@ title: Nejdřív dialog, potom investice do lepších Boskovic
 cover-photo: http://i.ohlasy.info/RC7quF5l.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
-tags: politika, investice
+tags: politika investice
 ---
 
 *Při pohledu na aktuální seznam chystaných boskovických investic se až tají dech: sportovní hala a celý sportovní areál Červená zahrada, letní kino, nová knihovna, bikepark, dům polytechnického vzdělávání, brzy možná oprava sokolovny. Nabízí se otázka, kde na to všechno vzít peníze – a jestli si Boskovice vůbec takové investice mohou dovolit. Když se podíváme na zimní stadion, krytý bazén, koupaliště, zámecký skleník nebo nemocnici, je evidentní, že Boskovice peníze najít umí. Podstatnější otázka ale zní, jestli je umí utratit.*

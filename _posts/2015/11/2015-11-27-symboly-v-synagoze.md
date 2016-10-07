@@ -4,7 +4,9 @@ author: Petr Vítámvás
 cover-photo: http://i.ohlasy.info/pGc1Puxl.jpg
 category: seriály
 serial: historie
-tags: historie, památková zóna
+tags:
+    - historie
+    - památková zóna
 ---
 
 *V 60. letech 17. století se ze Svaté země po celém židovstvu rozšířila zpráva o příchodu mesiáše.  I když veřejné působení Šabtaje Cvi jako mesiáše nepřesáhlo o mnoho jeden rok, ovlivnilo život mnoha židovských komunit zásadním způsobem. Šabatiánské hnutí vneslo nesvár mezi učence i prosté Židy, přineslo proměnu náboženského života a do řady komunit i hospodářský rozvrat. Je dost pravděpodobné, že ohlas tohoto hnutí dosáhl i do Boskovic.*

@@ -3,7 +3,7 @@ title: Přístavba školky na Bílkově by měla vyřešit problém s nedostatk
 cover-photo: http://i.ohlasy.info/0f6DtYSl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: vzdělávání, investice
+tags: vzdělávání investice
 ---
 
 *Přibližně za rok by se měla otevírat nová přístavba mateřské školy na Bílkově ulici. V té by měly najít zázemí nové dvě třídy, které pojmou čtyřicet osm dětí. Vybudování přístavby přijde na necelých 23 milionů korun, přičemž více než 80 procent nákladu by měla pokrýt dotace, na jejíž schválení se čeká. Studie nákladného projektu, který spolkne přes 4 miliony korun z městského rozpočtu, existuje, ale vedení města ji před projednáním v radě nezveřejní.*

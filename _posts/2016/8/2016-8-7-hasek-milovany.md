@@ -3,7 +3,7 @@ title: Hejtman svým krajem milovaný? Čísla mluví jinak
 cover-photo: http://i.imgur.com/YV5rLoKl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
-tags: politika, volby
+tags: politika volby
 ---
 
 *Jihomoravský hejtman Michal Hašek dokáže dlouhodobě kromě kumulace nejrůznějších funkcí kumulovat také kauzy, které by jinému politikovi možná dávno zlomily vaz. Ta poslední se týká neexistující mluvčí, či spíše existující lobbistky, jež nejspíš inkasovala od kraje statisíce, aniž by kdo přesně věděl za co. V nejrůznějších diskusích se v této souvislosti stále objevuje tvrzení, že Haškova pozice je bez ohledu na jakékoliv kauzy neotřesitelná a že je svými voliči zde na jižní Moravě stále milován. Je tomu ale skutečně tak?*

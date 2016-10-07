@@ -3,7 +3,7 @@ title: Vládne nám skutečně koalice změny?
 cover-photo: http://i.ohlasy.info/A1W3l06l.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
-tags: politika, investice
+tags: politika investice
 ---
 
 *Velmi zajímavou optiku pro dělení politického spektra nedávno [nabídl brněnský náměstek Matěj Hollan](http://zpravy.aktualne.cz/regiony/jihomoravsky/brnenska-vlada-nefunguje-lidovci-ji-destabilizuji-ale-koalic/r~f89a564a018811e698e60025900fea04/), když komentoval probíhající politickou krizi na brněnském magistrátu. Jednotlivá uskupení rozdělil na progresivní a konzervativní. Tedy nikoliv konzervativní ve smyslu hodnot, které zastávají, ale v přeneseném smyslu, který znamená nechuť k jakýmkoliv změnám. Tohle dělení politického spektra mi připadá v poslední době důležitější než dělení na pravici a levici, případně konzervativce a liberály. Nejinak je tomu i v Boskovicích, kde člověk v poslední době marně hledá skutečný obsah toho, co bylo po komunálních volbách nazýváno jako koalice změny.*

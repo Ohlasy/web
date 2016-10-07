@@ -3,7 +3,9 @@ title: Radnice musela odtajnit zápisy z jednání s majiteli pozemků v Čer
 cover-photo: http://i.ohlasy.info/EG4sdcml.jpg
 category: zpravodajství
 author: Marek Osouch
-tags: Červená zahrada, investice
+tags:
+    - Červená zahrada
+    - investice
 ---
 
 *Červená zahrada byla spolu se sportovní halou v loňském roce pro boskovickou radnici priorita číslo jedna. S tím jsou spojená i [vyjednávání a odkupy pozemků v Červené zahradě](/clanky/2015/11/cervenka-odkup.html), o kterých toho do prosincového zastupitelstva s výjimkou koaličních zastupitelů nikdo moc nevěděl. Boskovická radnice se totiž bránila zveřejnění zápisů ze schůzek s majiteli pozemků. K odtajnění zápisů ji nakonec donutil až krajský úřad, který konstatoval, že radnice nesdělila zákonný důvod k nezveřejnění zápisů. Redakce Ohlasů si proto o zápisy zažádala a má je nyní k dispozici.*

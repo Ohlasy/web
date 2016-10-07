@@ -3,7 +3,9 @@ title: Odkup pozemků v Červené zahradě se zasekl
 author: Marek Osouch
 cover-photo: http://i.ohlasy.info/vlytdGVl.jpg
 category: zpravodajství
-tags: Červená zahrada, investice
+tags:
+    - Červená zahrada
+    - investice
 ---
 
 *Čtrnáct milionů na nákup pozemků Jiřího Dvořáčka zastupitelé schválili na zářijovém zasedání. S odkupy dalších se i přes varianty umístění haly na pozemcích města stále počítá. Zatím jsou ale v nedohlednu. Zaseklo se dokonce i jednání o vcelku jistém odkupu pozemků společnosti MP Holding, přestože šéf této společnosti a zároveň opoziční zastupitel Dominik Božek (TOP 09) několikrát vzkázal, že s prodejem nemá problém a že pozemky prodá za cenu stanovenou znaleckým posudkem.*

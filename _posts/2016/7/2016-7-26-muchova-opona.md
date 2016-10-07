@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/OtOAm6Dl.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
-tags: historie, kultura
+tags: historie kultura
 ---
 
 *I když muzejní evidence má svá přesná pravidla, nikdy nelze vyloučit, že se muzejník setká například s případem, kdy najde v depozitáři předmět, ke kterému není záznam v evidenci, a nemá žádné informace. V boskovickém muzeu byla po generace uskladněná divadelní opona, o jejímž původu nebylo nic známo. K rozřešení záhady divadelní opony nakonec pomohla náhoda.*

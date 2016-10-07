@@ -3,7 +3,9 @@ title: "Pozemek po lihovaru a jeho divoké porevoluční dějiny: sedm majitelů
 cover-photo: http://i.imgur.com/awFvk87l.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: investice, Červená zahrada
+tags:
+    - investice
+    - Červená zahrada
 ---
 
 *Jak to bylo s pozemkem po lihovaru vedle hotelu Velen v blízkosti sportovního areálu? Měly Boskovice možnost tento pozemek odkoupit? Loni se o to současné vedení Boskovic snažilo. Redakce Ohlasů zapátrala až do začátku 90. let a má nyní k dispozici seznam majitelů, kteří pozemky po lihovaru od dob privatizace postupně vlastnili.*

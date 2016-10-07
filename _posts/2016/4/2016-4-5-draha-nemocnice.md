@@ -3,7 +3,7 @@ title: Naše drahá nemocnice
 cover-photo: http://i.ohlasy.info/C71LUF2l.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
-tags: nemocnice, investice
+tags: nemocnice investice
 ---
 
 *V teorii filmu existuje jev nazvaný [Kulešovův efekt](https://www.youtube.com/watch?v=_gGl3LJ7vHc), který spočívá v tom, že tentýž záběr máme tendenci vnímat úplně odlišně podle kontextu, do kterého je vstřižen. Analogie tohoto efektu platí i pro novinové titulky: po vydání článku se běžně stává, že se nám ozývají čtenáři a vyčítají autorovi zároveň přílišnou zdrženlivost i přílišné přehánění. Ukázkovým příkladem je náš nedávný článek o [hospodaření boskovické nemocnice](/clanky/2016/03/hospodareni-nemocnice.html), která za posledních deset let stála městský rozpočet v průměru zhruba pět miliónů korun ročně. Je to hodně, nebo málo?*

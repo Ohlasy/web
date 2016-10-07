@@ -3,7 +3,7 @@ title: „Boskovicím chybí vize. A ta nespočívá v tom, že na tohle jsou pe
 cover-photo: http://i.ohlasy.info/VD3KoZBl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: vzdělávání, investice
+tags: vzdělávání investice
 ---
 
 *Rozhovor s Ivo Provazníkem, profesorem působícím na brněnském VUT. Vede Ústav biomedicínského inženýrství na elektrotechnické fakultě, stál u řady zajímavých patentů, z nichž některé dosáhly světové úrovně. Špičkový vědec, ale také pedagog a manažer žije v Boskovicích. V posledních komunálních volbách kandidoval do zastupitelstva za TOP 09.*

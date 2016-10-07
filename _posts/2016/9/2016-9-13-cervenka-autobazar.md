@@ -3,7 +3,9 @@ title: Radnice chce koupit další pozemek v Červené zahradě. Připravuje sm
 cover-photo: http://i.imgur.com/aGdxsOBl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: investice, Červená zahrada
+tags:
+    - investice
+    - Červená zahrada
 ---
 
 *Další pozemek u sportovního areálu v Červené zahradě doporučili radní zastupitelům k výkupu. Město by za něj mělo zaplatit 5,5 milionu korun. Oba posudky objednané městem přitom navrhují cenu o více než milion nižší, posudek majitele pozemku naopak o milion vyšší.*

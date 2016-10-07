@@ -3,7 +3,10 @@ title: Návrhy na areál Červené zahrady budou zpracovávat studenti
 cover-photo: http://i.ohlasy.info/Bo5et0Ol.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: Červená zahrada, investice, architektura
+tags:
+    - Červená zahrada
+    - investice
+    - architektura
 ---
 
 *Jak bude sportovní areál v Červené zahradě vypadat, jak by se měl rozvíjet a kam by bylo možné umístit sportovní halu? Na tyto otázky by měla odpovědět urbanistická studie. Než ovšem vznikne, své návrhy mají vedení města představit studenti architektury z Liberce. Smlouva o spolupráci mezi městem a školou ale zatím neexistuje.*

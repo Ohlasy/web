@@ -2,8 +2,11 @@
 title: „V opozici vidím potenciál, ale s ohledem na některé osoby bude domluva těžká.“
 cover-photo: http://i.ohlasy.info/Xk6fcZMl.jpg
 author: Tomáš Trumpeš
-tags: politika, investice, Červená zahrada
 category: rozhovory
+tags:
+    - politika
+    - investice
+    - Červená zahrada
 ---
 
 *Rozhovor s radním za ČSSD Milanem Kolínským. Významný člen boskovické sociální demokracie se obvykle drží spíše zpátky, i rozhovor pro Ohlasy nejprve odmítal. Vzhledem k aktuálnímu napětí mezi koalicí a opozicí nakonec souhlasil. Výsledkem je obsáhlý rozhovor o podnětu na Jiřího Pevného, o vztazích koalice a opozice, o otevřenosti radnice a také o odvolání jednatele nemocnice.*

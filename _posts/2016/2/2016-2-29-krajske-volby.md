@@ -3,7 +3,7 @@ title: Čekají nás krajské volby. Michal Hašek bude znovu obhajovat křeslo 
 cover-photo: http://i.ohlasy.info/twP2P6ml.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: politika, volby
+tags: politika volby
 ---
 
 *Letos na podzim nás čekají po čtyřech letech krajské volby, již páté od vzniku samosprávného krajského uspořádání. Osm let stojí v čele Jihomoravského kraje hejtman Michal Hašek z ČSSD a vést by ho chtěl i další čtyři roky. Největším soupeřem jako v ostatních krajích mu bude zřejmě nevyzpytatelné hnutí ANO, které si jako lídra zvolilo šéfa brněnských strážníků Bohumila Šimka. Ambice mají také na jižní Moravě tradičně silní lidovci.*

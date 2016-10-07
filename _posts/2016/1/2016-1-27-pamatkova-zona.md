@@ -3,7 +3,10 @@ title: Vlastníci domů v městské památkové zóně mohou žádat o nové d
 cover-photo: http://i.ohlasy.info/DDM4oqQl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
-tags: památková zóna, architektura & urbanismus, investice
+tags:
+    - památková zóna
+    - architektura
+    - investice
 ---
 
 *Vstřícný krok vůči vlastníkům nemovitostí v Městské památkové zóně (MPZ) připravily od letošního roku Boskovice. Konkrétně se jedná o nový dotační program, který je určen majitelům těch nemovitostí, které jsou součástí MPZ, ale samostatně nemají status kulturní památky. Majitelé těchto domů musejí při rekonstrukcích dodržovat pravidla daná [regulačním plánem MPZ](http://www.boskovice.cz/VismoOnline_ActionScripts/File.ashx?id_org=832&id_dokumenty=27409), doteď však neměli žádnou příležitost dosáhnout na příspěvky, které by jim pomohly finančně nákladnější opravy hradit.*

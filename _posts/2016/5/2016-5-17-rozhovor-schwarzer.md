@@ -3,7 +3,7 @@ title: „Pracovní skupiny se mi nedaří prosadit. Nevím proč.“
 cover-photo: http://i.imgur.com/ivKp3b4l.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: politika, podnikání, investice
+tags: politika podnikání investice
 ---
 
 *Rozhovor s Pavlem Schwarzerem, podnikatelem a radním za hnutí ANO. Z budovy bývalé fabriky Kras vytváří obchodní centrum, vede firmu EKO-DOMOV, jako bezpartijní byl za hnutí ANO zvolen do zastupitelstva a stal se také radním. S Pavlem Schwarzerem jsme mluvili o podnikání a politice v Boskovicích.*

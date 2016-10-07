@@ -3,7 +3,7 @@ title: "ANKETA: Má město převzít sokolovnu, nebo hledat alternativy?"
 cover-photo: http://i.imgur.com/fd5IPLgl.jpg
 author: Tomáš Trumpeš
 category: ankety
-tags: sokolovna, investice, kultura
+tags: sokolovna investice kultura
 ---
 
 *Boskovicím dlouhodobě chybí reprezentativní kulturní sál, sokolové městu nabízejí zdarma budovu sokolovny. Je podle vás takové řešení optimální, nebo by stálo za to alespoň zvážit či hledat i jiné varianty?*

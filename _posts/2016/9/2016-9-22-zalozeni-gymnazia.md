@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/odURngAl.jpg
 author: Petr Vítámvás
 category: seriály
 serial: historie
-tags: historie, gymnázium
+tags: historie gymnázium
 ---
 
 *Více než sto let je boskovické gymnázium nejvýznamnější vzdělávací institucí v regionu. Založeno bylo v roce 1900 po půlstoletí trvajících snahách o jeho zřízení. První maturanti opouštěli gymnázium v Boskovicích v létě roku 1908. Z téměř 80 studentů dospěla k maturitě necelá polovina. Jaké byly začátky školy a kdo byli první absolventi?*

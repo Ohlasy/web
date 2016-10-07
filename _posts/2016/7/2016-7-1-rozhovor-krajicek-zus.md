@@ -3,7 +3,7 @@ title: „Prostředí na škole není čisté, nedá se tam dýchat.“
 cover-photo: http://i.imgur.com/OnZmqmcl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura, vzdělávání
+tags: kultura vzdělávání
 ---
 
 *Rozhovor s Martinem Krajíčkem, který odchází po jednadvaceti letech z boskovické základní umělecké školy. Po rozhovoru s ředitelkou školy Stanislavou Matuškovou jsme oslovili také jeho, aby svůj odchod vysvětlil a přiblížil svůj pohled na situaci ve škole.*

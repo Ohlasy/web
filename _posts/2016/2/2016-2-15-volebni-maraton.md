@@ -3,7 +3,7 @@ title: Připravme se na volební maraton
 author: Marek Osouch
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/M6H8VX6l.jpg
-tags: volby, politika
+tags: volby politika
 ---
 
 *Pokud jste loňský rok vnímali podobně jako předchozí a zatím nevidíte rozdíl ani proti letošnímu, jeden velký tady je, minimálně v politickém životě. Rok 2015 byl na dlouhou dobu posledním rokem bez jakýchkoliv voleb, kterých máme v Česku požehnaně.*

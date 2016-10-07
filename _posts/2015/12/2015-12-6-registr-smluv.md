@@ -3,7 +3,7 @@ title: Registr smluv je potřebný krok na cestě k demokracii
 author: Tomáš Znamenáček
 cover-photo: http://i.ohlasy.info/9qhrhspl.jpg
 category: názory a komentáře
-tags: politika, investice
+tags: politika investice
 ---
 
 *Koncem listopadu poslanecká sněmovna na své 36. schůzi přijala nový zákon. Nestálo by to dvakrát za zmínku, kdyby to nebyl „zákon o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv“, zkráceně „zákon o registru smluv“. Ten naopak stojí za zmínku hned třikrát: kvůli své stručnosti, svému dosahu a své trnité cestě legislativním procesem.*

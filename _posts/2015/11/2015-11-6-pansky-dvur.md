@@ -3,7 +3,10 @@ title: Krajský úřad potvrdil nesouhlas s rekonstrukcí Panského dvora
 cover-photo: http://i.ohlasy.info/vl3W73a.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: památková zóna, panský dvůr, architektura & urbanismus
+tags:
+    - památková zóna
+    - panský dvůr
+    - architektura
 ---
 
 *Nesouhlas s plánovanou rekonstrukcí boskovického Panského dvora [vyjádřil v červnu letošního roku boskovický úřad](/clanky/2015/07/pansky-dvur-bez-razitka.html), jehož referentka Alena Dvořáková reprezentuje státní památkovou péči. Její kladné vyjádření formou takzvaného závazného stanoviska je nezbytnou podmínkou pro získání stavebního povolení. Majitel objektu, společnost Pražská 5, se proto obrátila na krajský úřad se snahou nesouhlasné rozhodnutí zvrátit. Výsledkem je podobně příkře odmítavé stanovisko krajských památkářů.*

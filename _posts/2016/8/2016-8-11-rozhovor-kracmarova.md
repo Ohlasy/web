@@ -3,7 +3,7 @@ title: „Havel je pro mě životní inspirací, vybízí k nelhostejnosti, akt
 cover-photo: http://i.imgur.com/4aJqfcZl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: architektura, Letovice
+tags: architektura Letovice
 ---
 
 *Rozhovor s Drahoslavou Kráčmarovou, iniciátorkou záměru umístit v Letovicích na veřejném místě bustu prezidenta Václava Havla. Povídali jsme si o tom, jak celý nápad vznikl, jak by měla celá věc ve výsledku vypadat a co pro ni osobně Václav Havel znamená. Drahoslava Kráčmarová žije v Praze, ale do rodných Letovic se často vrací, angažuje se zde ve spolku Paleta, jako pořadatelka BiGy Festu a také jako zpěvačka.*

@@ -3,7 +3,7 @@ title: „Hrad budeme provozovat sami.“
 cover-photo: http://i.imgur.com/O1IJqgOl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura, památky
+tags: kultura památky
 ---
 
 *Rozhovor s Dominikem Božkem, ředitelem společnosti MP Holding, která spravuje majetek rodiny Mensdorff-Pouilly, mimo jiné i boskovický hrad. Ten po více než třech desítkách let opouští kastelán Jiří Mazal, který v posledních takřka dvaceti letech hrad provozoval jako soukromý nájemce. Majitelé hradu se rozhodli tuto spolupráci ukončit. Dominika Božka jsme se proto zeptali na důvody a také na další plány s touto unikátní památkou tyčící se nad Boskovicemi.*

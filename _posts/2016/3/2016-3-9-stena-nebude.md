@@ -3,7 +3,11 @@ title: Lezecká stěna v letním kině s největší pravděpodobností nebude
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/IEhO7eWl.jpg
 category: zpravodajství
-tags: investice, letní kino, lezecká stěna, sport
+tags:
+    - investice
+    - letní kino
+    - lezecká stěna
+    - sport
 ---
 
 *Výsledek [statického posudku](http://data.ohlasy.info/statika-stena.pdf), který si město nechalo zpracovat, znamená s nejvyšší pravděpodobností konec myšlenky vybudovat na zadní straně projekční stěny boskovického letního kina lezeckou stěnu. Posudek říká, že stěnu by musela nést samostatná konstrukce. Její vybudování by přišlo na více než 3 miliony a navíc by zkomplikovalo aktuální projekt, který v prostoru za plátnem počítá s výstavbou zázemí pro kulturní akce.*

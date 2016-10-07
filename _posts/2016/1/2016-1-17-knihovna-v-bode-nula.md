@@ -3,7 +3,7 @@ title: Knihovna v bodě nula
 cover-photo: http://i.ohlasy.info/cAd0HDfl.jpg
 category: názory a komentáře
 author: Tomáš Trumpeš
-tags: knihovna, architektura & urbanismus, investice
+tags: knihovna architektura investice
 ---
 
 *Boskovická knihovna pobývá v provizoriu už dlouhých devatenáct let. Za tu dobu se vynořilo několik variant řešení, za které se utratilo několik milionů korun, ale skutečnost je taková, že se nic nikam neposunulo ani o píď. Je to strašlivé, ale zároveň to lze uchopit i jako výhodu. Z bodu nula se pořád ještě dá vykročit dobrým směrem. A možná je to svým způsobem snazší než se kus cesty vracet nebo vehementně pokračovat slepou uličkou.*

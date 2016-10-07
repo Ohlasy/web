@@ -3,7 +3,7 @@ title: „Člověk dokáže i trapno využít ve svůj prospěch.“
 cover-photo: http://i.imgur.com/eYUFoYtl.jpg
 author: Martina Vašková
 category: rozhovory
-tags: kultura, divadlo
+tags: kultura divadlo
 ---
 
 *Rozhovor s Michaelou Vymazalovou a Jendou Nádvorníkem o pravidlech a podstatě improvizačního divadla, které si nejen v Boskovicích získává stále větší oblibu. Boskovickou improvizační skupinu Lísky (Liga boskovické improvizace) založila Míša v roce 2009, Jenda skupinu téměř od začátku navštěvoval a v roce 2014 převzal. Jejich veřejné improvizační zápasy se konají každý měsíc, ten nejbližší bude v pátek 17. června.*

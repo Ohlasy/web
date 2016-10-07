@@ -3,7 +3,7 @@ title: „Mandolína mi dává možnost svobodně vyjádřit sám sebe.“
 cover-photo: http://i.ohlasy.info/43ZeIfvl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura, hudba
+tags: kultura hudba
 ---
 
 *Rozhovor s mandolinistou Martinem Krajíčkem. Hraje hned v několika hudebních uskupeních, působí jako pedagog na základní umělecké škole, pořádá mandolinové workshopy. Ve středu 27. dubna bude mít koncert v Boskovicích, kde se představí se svými novými spoluhráči. Právě triu s Jurajem Valenčíkem a Jurajem Stierankou chce do budoucna věnovat svou hlavní autorskou energii, v Boskovicích se takto společně představí úplně poprvé. Zásadní muzikantské setkání s kontrabasistou Jurajem Valenčíkem zachycují také nahrávky, které k rozhovoru přikládáme.*

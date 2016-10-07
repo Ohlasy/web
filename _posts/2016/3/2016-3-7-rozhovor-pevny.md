@@ -3,7 +3,11 @@ title: "„Říkal jsem si: Holt si otvíráš pusu, tak tady máš přes ni.“
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/zlb1mKHl.jpg
 category: rozhovory
-tags: politika, investice, Červená zahrada, sportovní hala
+tags:
+    - politika
+    - investice
+    - Červená zahrada
+    - sportovní hala
 ---
 
 *Rozhovor s Jiřím Pevným, opozičním zastupitelem a znalcem, který vypracoval posudek na pozemek a budovy Dvořáčkova mlýna. Jako opoziční zastupitel za Sportovce pak proti koupi ostře vystupoval a zpochybňoval i vhodnost lokality pro stavební záměry. Radní následně podali podnět ke krajskému soudu, jestli tím neporušil zákon o znalcích. Celá kauza dále [vyhrotila vztahy mezi boskovickou koalicí a opozicí](/clanky/2016/02/zastupitelstvo.html).*

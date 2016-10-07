@@ -3,7 +3,9 @@ title: "Nákup Dvořáčkova mlýna nebyl podle policie trestným činem"
 cover-photo: http://i.imgur.com/gi2lCKHl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: Červená zahrada, investice
+tags:
+    - Červená zahrada
+    - investice
 ---
 
 *Se závěrem, že se nestal žádný trestný čin, policisté odložili zhruba půlroční vyšetřování odkupu takzvaného Dvořáčkova mlýna v Červené zahradě. V lednu na město totiž kvůli jeho koupi někdo neznámý [podal trestní oznámení](http://ohlasy.info/clanky/2016/01/cervenka-trestni-oznameni.html).*

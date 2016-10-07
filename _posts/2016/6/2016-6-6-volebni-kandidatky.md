@@ -3,7 +3,7 @@ title: O krajská křesla budou bojovat také politici z Blanenska a Boskovicka
 cover-photo: http://i.imgur.com/5D1UVu3.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: politika, volby
+tags: politika volby
 ---
 
 *Na podzim se budou opět po čtyřech letech konat krajské volby. Svůj post hejtmana chce napotřetí obhájit dosavadní hejtman Michal Hašek (ČSSD), [o čemž jsme psali už dříve](/clanky/2016/02/krajske-volby.html). O křesla v krajském zastupitelstvu se však chtějí poprat i politici z okresu Blansko. Nabízíme přehled prozatím známých jmen.*
