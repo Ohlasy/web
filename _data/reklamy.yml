@@ -8,16 +8,6 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: KSČM, senátní volby
-  image: http://i.imgur.com/orrqCRY.png
-  alt: Podpořte Máriu Koudelovou, kandidátku KSČM do senátu
-  url: http://www.kscmblansko.estranky.cz/
-  priority: 1000
-- name: ČSSD, senátní volby
-  image: http://i.imgur.com/KxAS24P.png
-  alt: Podpořte Ivo Poláka, kandidáta ČSSD do senátu
-  url: http://ivopolak.cz/
-  priority: 1000
 - name: KDU, senátní volby
   image: http://i.imgur.com/rWgWoA5.jpg
   alt: Podpořte Jaromíru Vítkovou, kandidátku KDU-ČSL do senátu
