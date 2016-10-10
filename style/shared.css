@@ -186,6 +186,27 @@ footer a {
     white-space: nowrap;
 }
 
+/* Promotion Ribbon */
+
+.promo-ribbon {
+    font-family: 'Dosis';
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 130%;
+    display: block;
+    width: 100%;
+    background-color: #4b607b;
+    color: white;
+    padding: 1em;
+}
+
+.promo-ribbon:hover {
+    background-color: #a94442;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+
 /* Boxes */
 
 .box {

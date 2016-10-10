@@ -43,13 +43,9 @@ why: A dummy header to make Jekyll process this file.
         <h2 class="row-header">nejnovější články</h2>
         {% include grid/nine.html items=site.posts %}
 
-        <div class="row">
-            <div class="col-md-12">
-                <div class="box-wide">
-                    <a href="/special/volby2016/"><img src="http://i.imgur.com/gteEYJS.png" alt="Volební speciál: Krajské a senátní volby 2016" class="img-responsive"></a>
-                </div>
-            </div>
-        </div>
+        <a href="/special/volby2016/" class="promo-ribbon">
+            Volební speciál: Krajské a senátní volby 2016 <span class="visible-lg-inline">/ Kandidáti, rozhovory, komentáře</span>
+        </a>
 
         <h2 class="row-header">názory a komentáře</h2>
         {% include grid/nine.html items=opinions ad-position='left' %}
