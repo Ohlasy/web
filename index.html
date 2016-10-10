@@ -40,10 +40,10 @@ why: A dummy header to make Jekyll process this file.
     {% endfor %}
 
     <div class="container">
-        <h2>nejnovější články</h2>
+        <h2 class="row-header">nejnovější články</h2>
         {% include grid/nine.html items=site.posts %}
 
-        <div class="row hidden-sm">
+        <div class="row">
             <div class="col-md-12">
                 <div class="box-wide">
                     <a href="/special/volby2016/"><img src="http://i.imgur.com/gteEYJS.png" alt="Volební speciál: Krajské a senátní volby 2016" class="img-responsive"></a>
@@ -51,19 +51,19 @@ why: A dummy header to make Jekyll process this file.
             </div>
         </div>
 
-        <h2>názory a komentáře</h2>
+        <h2 class="row-header">názory a komentáře</h2>
         {% include grid/nine.html items=opinions ad-position='left' %}
 
-        <h2>rozhovory</h2>
+        <h2 class="row-header">rozhovory</h2>
         {% include grid/five.html items=interviews %}
 
-        <h2>seriály</h2>
+        <h2 class="row-header">seriály</h2>
         {% include grid/nine.html items=serials ad-position='left' %}
 
-        <h2>investice</h2>
+        <h2 class="row-header">investice</h2>
         {% include grid/nine.html items=investments %}
 
-        <h2>politika</h2>
+        <h2 class="row-header">politika</h2>
         {% include grid/nine.html items=politics %}
     </div>
 
