@@ -29,15 +29,17 @@ why: not
                 Jan Machač</a>. S oběma chystáme samostatný rozhovor.</p>
             </div>
         </div>
-        <h2 class="row-header"><span>Senátorský dotazník</span></h2>
-        <div class="row">
+
+        <h2 class="row-header">Senátorský dotazník</h2>
+        <div class="row row-indented">
             {% assign interviews = site.special | where: "feature", "volby2016" %}
             {% for interview in interviews %}
-            {% include article/preview-small.html article=interview class="col-sm-4" %}
+            {% include article/preview.html article=interview class="col-sm-4 article-preview-noborder" %}
             {% endfor %}
         </div>
-        {% assign items = site.tags.volby | limit: 5 %}
-        {% include pager/nest.html items=items caption="Další volební články" %}
+
+        <h2 class="row-header">Další články o politice</h2>
+        {% include grid/nine.html items=site.tags.politika %}
     </div>
 
     {% include footer.html %}

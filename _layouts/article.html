@@ -47,8 +47,8 @@
                 {% assign related_articles = related_articles | push: candidate %}
             {% endif %}
         {% endfor %}
-        {% capture caption %}další {{ current_category }}{% endcapture %}
-        {% include pager/nest.html items=related_articles caption=caption %}
+        <h2 class="row-header">další {{ current_category }}</h2>
+        {% include grid/nine.html items=related_articles %}
     </div>
     {% endif %}
 
