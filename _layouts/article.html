@@ -15,9 +15,9 @@
         <div class="row">
             <article class="col-md-8">
                 {% if page.category == 'názory a komentáře' %}
-                    <h2>{{ page.author }}: {{ page.title }}</h2>
+                    <h2 class="main-header">{{ page.author }}: {{ page.title }}</h2>
                 {% else %}
-                    <h2>{{ page.title }}</h2>
+                    <h2 class="main-header">{{ page.title }}</h2>
                 {% endif %}
                 {{ content }}
                 {% include article/info.html article=page %}
@@ -26,7 +26,7 @@
             {% capture serial_id %}serials/{{ page.serial}}.md{% endcapture %}
             {% capture sidebar %}{% include {{serial_id}} %}{% endcapture %}
             <aside class="col-md-4 text-muted">
-                <h2>O seriálu</h2>
+                <h2 class="sidebar-header">O seriálu</h2>
                 {{ sidebar | markdownify }}
             </aside>
             {% elsif page.disable-ads != true %}

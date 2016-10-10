@@ -14,12 +14,12 @@
     <main class="container">
         <div class="row">
             <article class="col-md-8">
-                <h2>Senátorský dotazník: <br>{{ page.title }}</h2>
+                <h2 class="main-header">Senátorský dotazník: <br>{{ page.title }}</h2>
                 {{ content }}
                 {% include article/info.html article=page %}
             </article>
             <aside class="col-md-4 hidden-sm">
-                <h2 class="text-muted indented">Senátní volby 2016:<br>Protikandidáti</h2>
+                <h2 class="sidebar-header header-indented">Senátní volby 2016:<br>Protikandidáti</h2>
                 <div class="row">
                     {% assign interviews = site.special | where: "feature", "volby2016" %}
                     {% for interview in interviews %}

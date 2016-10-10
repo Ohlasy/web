@@ -2,6 +2,33 @@ p {
     margin-bottom: 15px;
 }
 
+/* Headers */
+
+h2 {
+    font-size: 200%;
+    line-height: 1.3em;
+}
+
+h3 {
+    font-size: 150%;
+    text-transform: uppercase;
+}
+
+.header-indented {
+    margin-bottom: 25px;
+}
+
+.main-header, .sidebar-header {
+    margin-top: 0;
+}
+
+.sidebar-header {
+    font-weight: normal;
+    color: gray;
+}
+
+/* Article Infobox */
+
 .article-info {
     padding: 20px;
     background: rgb(240, 240, 240);
@@ -16,14 +43,6 @@ p {
 
 .article-info .profile-picture {
     margin-left: 0;
-}
-
-h3 {
-    color: gray;
-}
-
-h2.indented {
-    margin-bottom: 25px;
 }
 
 /* Images */
