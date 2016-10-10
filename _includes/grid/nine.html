@@ -20,33 +20,29 @@
         {% endif %}
     </div>
     <div class="row">
-        <div class="col-xs-12">
-            <div class="row">
-                <div class="col-md-3 col-sm-12">
-                    {% assign article = items[1] %}
-                    {% include article/preview.html article=article class='fullheight' %}
-                </div>
-                <div class="col-md-3 col-sm-12">
-                    {% assign article = items[2] %}
-                    {% include article/preview.html article=article class='fullheight' %}
-                </div>
-                <div class="col-md-3 col-sm-12">
-                    {% assign article = items[3] %}
-                    {% include article/preview-small.html article=article %}
-                    {% assign article = items[4] %}
-                    {% include article/preview-small.html article=article %}
-                    {% assign article = items[5] %}
-                    {% include article/preview-small.html article=article %}
-                </div>
-                <div class="col-md-3 col-sm-12">
-                    {% assign article = items[6] %}
-                    {% include article/preview-small.html article=article %}
-                    {% assign article = items[7] %}
-                    {% include article/preview-small.html article=article %}
-                    {% assign article = items[8] %}
-                    {% include article/preview-small.html article=article %}
-                </div>
-            </div>
+        <div class="col-md-3 col-sm-12">
+            {% assign article = items[1] %}
+            {% include article/preview.html article=article class='fullheight' %}
+        </div>
+        <div class="col-md-3 col-sm-12">
+            {% assign article = items[2] %}
+            {% include article/preview.html article=article class='fullheight' %}
+        </div>
+        <div class="col-md-3 col-sm-12">
+            {% assign article = items[3] %}
+            {% include article/preview-small.html article=article %}
+            {% assign article = items[4] %}
+            {% include article/preview-small.html article=article %}
+            {% assign article = items[5] %}
+            {% include article/preview-small.html article=article %}
+        </div>
+        <div class="col-md-3 col-sm-12">
+            {% assign article = items[6] %}
+            {% include article/preview-small.html article=article %}
+            {% assign article = items[7] %}
+            {% include article/preview-small.html article=article %}
+            {% assign article = items[8] %}
+            {% include article/preview-small.html article=article %}
         </div>
     </div>
 </div>
