@@ -6,6 +6,7 @@ body {
     font-size: 19px;
     line-height: 1.5em;
     color: #444;
+    counter-reset: most-read;
 }
 
 h1 {
@@ -52,7 +53,7 @@ h2, h3 {
 }
 
 .article-preview {
-    border-top: 1px solid rgba(148, 82, 0, 0.5);
+    border-top: 1px solid #e2922e;
     position: relative;
     overflow: hidden;
 }
@@ -204,6 +205,52 @@ footer a {
     background-color: #a94442;
     text-decoration: none;
     color: white;
+    border: none;
+}
+
+/* Most Read Articles */
+
+ol.most-read {
+    font-size: 90%;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.most-read li {
+    counter-increment: most-read;
+    position: relative;
+    border-top: 1px solid #e2922e;
+    margin-left: 0;
+}
+
+.most-read li:hover {
+    background-color: #eee;
+}
+
+.most-read li:before {
+    content: counter(most-read);
+    position: absolute;
+    left: -20px;
+    top: 10px;
+    width: 50px;
+    text-align: right;
+    font-size: 200%;
+    color: silver;
+}
+
+.most-read a {
+    display: block;
+    height: 5.6em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 50px;
+    padding-top: 5px;
+    color: black;
+}
+
+.most-read a:hover {
+    color: black;
     border: none;
 }
 
