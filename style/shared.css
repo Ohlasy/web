@@ -91,6 +91,7 @@ hr {
 /* Footer */
 
 footer {
+    font-size: 90%;
     background: rgb(248, 248, 248);
     border-top: 1px solid #ddd;
     padding-bottom: 50px;
