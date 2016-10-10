@@ -12,8 +12,6 @@ collections:
 gems: ['jekyll-paginate']
 
 permalink: '/clanky/:year/:month/:title.html'
-paginate_path: "/clanky/strana/:num"
-paginate: 7
 
 defaults:
   -

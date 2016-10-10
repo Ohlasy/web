@@ -15,16 +15,56 @@ why: A dummy header to make Jekyll process this file.
         </div>
     </header>
 
-    {% if paginator.previous_page %}
-        {% include pager/plain.html %}
-    {% else %}
-        {% include pager/front.html %}
-    {% endif %}
+    {% assign interviews = site.array %}
+    {% assign opinions = site.array %}
+    {% assign serials = site.array %}
+    {% assign investments = site.array %}
+    {% assign politics = site.array %}
+
+    {% for post in site.posts | offset: 1 %}
+        {% if post.category == 'rozhovory' %}
+            {% assign interviews = interviews | push: post %}
+        {% endif %}
+        {% if post.category == 'názory a komentáře' %}
+            {% assign opinions = opinions | push: post %}
+        {% endif %}
+        {% if post.category == 'seriály' %}
+            {% assign serials = serials | push: post %}
+        {% endif %}
+        {% if post.tags contains 'investice' %}
+            {% assign investments = investments | push: post %}
+        {% endif %}
+        {% if post.tags contains 'politika' %}
+            {% assign politics = politics | push: post %}
+        {% endif %}
+    {% endfor %}
 
     <div class="container">
-        <div class="row">
-            {% include pager/links.html %}
+        <h2>nejnovější články</h2>
+        {% include grid/nine.html items=site.posts %}
+
+        <div class="row hidden-sm">
+            <div class="col-md-12">
+                <div class="box-wide">
+                    <a href="/special/volby2016/"><img src="http://i.imgur.com/gteEYJS.png" alt="Volební speciál: Krajské a senátní volby 2016" class="img-responsive"></a>
+                </div>
+            </div>
         </div>
+
+        <h2>názory a komentáře</h2>
+        {% include grid/nine.html items=opinions ad-position='left' %}
+
+        <h2>rozhovory</h2>
+        {% include grid/five.html items=interviews %}
+
+        <h2>seriály</h2>
+        {% include grid/nine.html items=serials ad-position='left' %}
+
+        <h2>investice</h2>
+        {% include grid/nine.html items=investments %}
+
+        <h2>politika</h2>
+        {% include grid/nine.html items=politics %}
     </div>
 
     {% include footer.html %}

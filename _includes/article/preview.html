@@ -1,5 +1,5 @@
 {% assign article = include.article %}
-<div class="article-preview {{ include.class }}">
+<div class="article-preview fullheight">
     <a href="{{ article.url }}">
         <div class="force-hd-aspect">
             {% if article.cover-photo %}
@@ -9,15 +9,9 @@
             {% endif %}
         </div>
         {% if article.category == 'názory a komentáře' %}
-            <h2>{{ article.author }}: {{ article.title }}</h2>
+            <h2>{{ article.title }}<br><span class="text-danger">{{ article.author }}</span></h2>
         {% else %}
             <h2>{{ article.title }}</h2>
         {% endif %}
-        <p class="article-perex">{{ article.excerpt | strip_html }}</p>
-        <p class="text-muted article-meta">
-            {{ article.author }} / {{ article.date | date: "%-d." }}
-            {% assign month = article.date | date: "%-m" %}
-            {% include czech-month-name.html month = month %}
-        </p>
     </a>
 </div>
