@@ -9,6 +9,8 @@ body {
     counter-reset: most-read;
 }
 
+/* Site Header */
+
 h1 {
     font-family: 'Dosis';
     font-weight: 600;
@@ -25,6 +27,12 @@ h1 small {
     white-space: nowrap;
 }
 
+@media (max-width: 640px) {
+    h1 small {
+        font-size: 50%;
+    }
+}
+
 h1 a:hover {
     border: none;
 }
@@ -34,6 +42,8 @@ h2, h3 {
     line-height: 1.4em;
     font-weight: bold;
 }
+
+/* Navigation */
 
 .navbar {
     margin-bottom: 30px;
