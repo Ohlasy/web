@@ -1,5 +1,5 @@
 ---
-title: „Od začátku roku jsem cítil, že už se nedomluvíme.“
+title: „Od začátku roku jsem cítil, že už se nedomluvíme“
 cover-photo: http://i.imgur.com/JVpqrPJl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
