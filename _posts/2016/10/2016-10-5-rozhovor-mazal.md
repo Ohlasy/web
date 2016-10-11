@@ -151,7 +151,7 @@ Možná bych to neměl tak prezentovat, ale od nového roku mi přišlo, že ty 
 
 **S jakými pocity hrad nakonec opouštíš?**
 
-Jakej pocit? Co si budeme vykládat, hlavně nasranej. Ale to se netýká jen té aktuální situace. Vem si, kolik let tady strávil AMOHiP (*Asociace mladých orchránců historických památek, sdružení, které na hradě brigádnicky působilo v 90. letech*), co se tady vybudovalo. Nebo když se pak jezdili Brontosauři. Několik let sem jezdili brigádníci z celé republiky, pracovali jen za přespání. Bez těch všech by ten objekt nebyl zdaleka v takovém stavu. Nebo by to stálo takové investice, které v té době nikdo nebyl schopen dát dohromady. 
+Jakej pocit? Co si budeme vykládat, hlavně nasranej. Ale to se netýká jen té aktuální situace. Vem si, kolik let tady strávil AMOHiP (*Asociace mladých ochránců historických památek, sdružení, které na hradě brigádnicky působilo v 90. letech*), co se tady vybudovalo. Nebo když sem pak jezdili Brontosauři. Několik let sem jezdili brigádníci z celé republiky, pracovali jen za přespání. Bez těch všech by ten objekt nebyl zdaleka v takovém stavu. Nebo by to stálo takové investice, které v té době nikdo nebyl schopen dát dohromady. 
 
 Mě to tehdy netížilo, vždycky se něco našlo a do hradu se investovalo. Když se podíváme tady na kuchyň: kromě oken a střechy jsem to kompletně udělal já, to samé koroptvárna. Pokud bych fungoval tak, jak to fungovat mělo, tak by ty baráky byly ruiny. K tomu všemu mám fotodokumentaci. Už jenom výklesty kolem hradu, nedovedu si představit, jak by to vypadalo, kdyby to brigádníci nedělali.
 
