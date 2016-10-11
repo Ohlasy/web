@@ -1,38 +1,35 @@
 {% assign items = include.items %}
 <div class="article-grid">
     <div class="row">
-        {% if include.ad-position == 'left' %}
-        <div class="col-md-4">
+        <div class="col-md-8 hidden-xs">
+            {% assign article = items[0] %}
+            {% include article/preview-big.html article=article class='fullheight' %}
+        </div>
+        <div class="col-md-8 visible-xs">
+            {% assign article = items[0] %}
+            {% include article/preview.html article=article %}
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-6">
             <div class="box"></div>
         </div>
-        <div class="col-md-8">
-            {% assign article = items[0] %}
-            {% include article/preview-big.html article=article %}
-        </div>
-        {% else %}
-        <div class="col-md-8">
-            {% assign article = items[0] %}
-            {% include article/preview-big.html article=article %}
-        </div>
-        <div class="col-md-4">
+        <div class="visible-xs visible-sm col-sm-6 col-xs-6">
             <div class="box"></div>
         </div>
-        {% endif %}
     </div>
     <div class="row">
-        <div class="col-md-3 col-sm-12">
+        <div class="col-md-3">
             {% assign article = items[1] %}
             {% include article/preview.html article=article class='fullheight' %}
         </div>
-        <div class="col-md-3 col-sm-12">
+        <div class="col-md-3">
             {% assign article = items[2] %}
             {% include article/preview.html article=article class='fullheight' %}
         </div>
-        <div class="col-md-3 col-sm-12">
+        <div class="col-md-3 hidden-sm hidden-xs">
             {% assign article = items[3] %}
             {% include article/preview.html article=article class='fullheight' %}
         </div>
-        <div class="col-md-3 col-sm-12">
+        <div class="col-md-3 hidden-sm hidden-xs">
             {% assign article = items[4] %}
             {% include article/preview.html article=article class='fullheight' %}
         </div>
