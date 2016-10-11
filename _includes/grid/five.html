@@ -1,28 +1,28 @@
 {% assign items = include.items %}
 <div class="article-grid">
     <div class="row">
-        <div class="col-md-8 hidden-xs">
+        <div class="col-sm-8 hidden-xs">
             {% assign article = items[0] %}
             {% include article/preview-big.html article=article class='fullheight' %}
         </div>
-        <div class="col-md-8 visible-xs">
+        <div class="col-sm-8 visible-xs">
             {% assign article = items[0] %}
             {% include article/preview.html article=article %}
         </div>
-        <div class="col-md-4 hidden-sm hidden-xs">
+        <div class="col-sm-4 hidden-xs">
             <div class="box"></div>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-3 col-sm-4">
             {% assign article = items[1] %}
             {% include article/preview.html article=article class='fullheight' %}
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 col-sm-4">
             {% assign article = items[2] %}
             {% include article/preview.html article=article class='fullheight' %}
         </div>
-        <div class="col-md-3 hidden-sm hidden-xs">
+        <div class="col-md-3 col-sm-4 hidden-xs">
             {% assign article = items[3] %}
             {% include article/preview.html article=article class='fullheight' %}
         </div>
