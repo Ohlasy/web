@@ -10,8 +10,8 @@
                         <h2>{{ article.title }}</h2>
                     {% endif %}
                     <p class="article-perex hidden-md hidden-sm">
-                        {% if article.subtitle %}
-                            {{ article.subtitle | strip_html }}
+                        {% if article.perex %}
+                            {{ article.perex | strip_html }}
                         {% else %}
                             {{ article.excerpt | strip_html }}
                         {% endif %}
