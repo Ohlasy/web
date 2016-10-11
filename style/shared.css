@@ -224,10 +224,6 @@ ol.most-read {
     margin-left: 0;
 }
 
-.most-read li:hover {
-    background-color: #eee;
-}
-
 .most-read li:before {
     content: counter(most-read);
     position: absolute;
