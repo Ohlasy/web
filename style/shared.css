@@ -22,6 +22,7 @@ h1 small {
     font-weight: 400;
     font-size: inherit;
     color: silver;
+    white-space: nowrap;
 }
 
 h1 a:hover {
