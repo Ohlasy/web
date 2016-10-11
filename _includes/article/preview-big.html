@@ -1,28 +1,27 @@
 {% assign article = include.article %}
-<div class="row article-preview article-preview-big">
-    <a href="{{ article.url }}">
-        <div class="col-sm-4 article-preview-title fullheight">
-            {% if article.category == 'názory a komentáře' %}
-                <h2>{{ article.title }}<br><span class="text-danger">{{ article.author }}</span></h2>
-            {% else %}
-                <h2>{{ article.title }}</h2>
-            {% endif %}
-            <p class="article-perex hidden-md hidden-sm">
-                {% if article.subtitle %}
-                    {{ article.subtitle | strip_html }}
-                {% else %}
-                    {{ article.excerpt | strip_html }}
-                {% endif %}
-            </p>
-        </div>
-        <div class="col-sm-8 article-preview-image">
-            <div class="force-feature-aspect">
-                {% if article.cover-photo %}
-                <img src="{{ article.cover-photo }}" alt="titulní fotka článku">
-                {% else %}
-                <img src="/img/generic.png" alt="logo Ohlasů">
-                {% endif %}
+<div class="article-preview article-preview-big">
+    <div class="row">
+        <a href="{{ article.url }}">
+            <div class="col-sm-4">
+                <div class="article-preview-text">
+                    {% if article.category == 'názory a komentáře' %}
+                        <h2>{{ article.title }}<br><span class="text-danger">{{ article.author }}</span></h2>
+                    {% else %}
+                        <h2>{{ article.title }}</h2>
+                    {% endif %}
+                    <p class="article-perex hidden-md hidden-sm">
+                        {% if article.subtitle %}
+                            {{ article.subtitle | strip_html }}
+                        {% else %}
+                            {{ article.excerpt | strip_html }}
+                        {% endif %}
+                    </p>
+                </div>
             </div>
-        </div>
-    </a>
+            <div class="col-sm-8">
+                <!-- This is a slight hack required by the imperfect browser support for the object-fit CSS property. -->
+                <div class="force-feature-aspect" style="background-image: url({{ article.cover-photo }});"></div>
+            </div>
+        </a>
+    </div>
 </div>

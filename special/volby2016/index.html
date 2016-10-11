@@ -34,7 +34,7 @@ why: not
         <div class="row row-indented">
             {% assign interviews = site.special | where: "feature", "volby2016" %}
             {% for interview in interviews %}
-            {% include article/preview.html article=interview class="col-sm-4 article-preview-noborder" %}
+            {% include article/preview.html article=interview class="col-sm-4" %}
             {% endfor %}
         </div>
 
