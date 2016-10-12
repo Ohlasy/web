@@ -2,3 +2,4 @@ _site
 .analytics-*
 .bundle/
 vendor
+.jekyll-metadata
