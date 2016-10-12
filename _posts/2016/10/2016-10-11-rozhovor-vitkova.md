@@ -67,7 +67,7 @@ Já si nemyslím, že moji kolegové v radě mlčeli.
 
 Nechci, aby to vypadalo, že se z toho vyvlékám, ale jako zastupitel jsem spoustu věcí ani nevěděla, co se tam konkrétně děje.
 
-**Ale této kauzy byla plá média. A na kraji to vypadalo, že si Michal Hašek může dělat, co chce.**
+**Ale této kauzy byla plná média. A na kraji to vypadalo, že si Michal Hašek může dělat, co chce.**
 
 Podívejte, já jsem třeba tady v Boskovicích měla docela velký problém s tím, když se vytvořila tato nová koalice. Zvládala jsem to těžce, na jedné straně jsem slýchala, že jdeme s každým, na druhé straně jsem si říkala, že jestli do toho nepůjdeme, tak lidová strana tady úplně vymizí. Na celém okrese není nikdo na vyšším místě než já. A kdybych to nedělala a vrátila se do práce na inspekci, těžko bych co mohla pro stranu udělat.
 
