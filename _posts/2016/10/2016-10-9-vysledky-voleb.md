@@ -1,5 +1,6 @@
 ---
 title: Několik poznámek k výsledkům krajských a senátních voleb
+perex: V pátek a v sobotu proběhly krajské volby a první kolo voleb senátních. Oboje volby přinesly značná překvapení, přečtěte si několik poznámek a postřehů k výsledkům.
 cover-photo: http://i.imgur.com/CtRfl2Kl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
