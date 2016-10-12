@@ -82,7 +82,8 @@ Bezesporu. V nemocnici mi lidé říkali: „Já tě volit nebudu, ty bys odeše
 
 Ne. Znám mnoho senátorů, kteří pracují. Myslím si, že se to dá zvládnout.
 
-Do druhého kola senátních voleb trochu nečekaně postoupili na Blanensku dva kandidáti tradičních, konzervativních stran. Ostatně ještě nedávno jste společně seděli v boskovickém zastupitelstvu za KDU-ČSL. Co vás od vaší protikandidátky odlišuje a proč by se měli lidé rozhodnout spíš pro vás?
+**Do druhého kola senátních voleb trochu nečekaně postoupili na Blanensku dva kandidáti tradičních, konzervativních stran. Ostatně ještě nedávno jste společně seděli v boskovickém zastupitelstvu za KDU-ČSL. Co vás od vaší protikandidátky odlišuje a proč by se měli lidé rozhodnout spíš pro vás?**
+
 Velice těžká otázka. Dejme tomu to, že nejsem zatížen politikou. Nejsem profesionální politik a nikdy jsem nebyl.
 
 **Cítíte to jako výhodu?**
