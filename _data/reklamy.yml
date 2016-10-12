@@ -21,7 +21,7 @@
 - name: Předplatné
   image: http://i.imgur.com/50pS4xy.png
   alt: Chcete kvalitní novinařinu ve svém regionu? Předplaťte si nás!
-  url: http://predplatne.ohlasy.info/?utm_source=web_banner
+  url: http://predplatne.ohlasy.info/?utm_source=web&utm_medium=banner&utm_campaign=titles
   priority: 1000
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
