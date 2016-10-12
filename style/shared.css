@@ -28,7 +28,12 @@ h1 small {
 }
 
 @media (max-width: 640px) {
+    h1 {
+        margin-top: 10px;
+    }
     h1 small {
+        padding-top: 5px;
+        display: block;
         font-size: 50%;
     }
 }
