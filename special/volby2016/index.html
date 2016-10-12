@@ -18,23 +18,32 @@ why: not
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
+                <h2>Krajské a senátní volby 2016</h2>
                 <p>Podrobné výsledky krajských a senátních voleb si můžete
                 přečíst <a href="http://ohlasy.info/clanky/2016/10/vysledky-voleb.html">
                 v samostatném článku</a>. Stručně řečeno: v Jihomoravském kraji
                 vyhrálo ANO, na druhém místě se co do počtu mandátů umístila
                 ČSSD společně s KDU-ČSL. Do druhého kola senátních voleb, které
                 se bude konat v pátek 14. a sobotu 15. října, postupují
-                <a href="http://ohlasy.info/special/volby2016/dotaznik-vitkova.html">
+                <a href="http://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html">
                 Jaromíra Vítková</a> a <a href="http://ohlasy.info/special/volby2016/dotaznik-machac.html">
-                Jan Machač</a>. S oběma chystáme samostatný rozhovor.</p>
+                Jan Machač</a>.</p>
             </div>
+        </div>
+
+        <h2 class="row-header">senátorské rozhovory</h2>
+        <div class="row row-indented">
+            {% assign interviews = site.tags['senátorské rozhovory 2016'] %}
+            {% for interview in interviews %}
+            {% include article/preview.html article=interview class="col-sm-4 noborder" %}
+            {% endfor %}
         </div>
 
         <h2 class="row-header">Senátorský dotazník</h2>
         <div class="row row-indented">
             {% assign interviews = site.special | where: "feature", "volby2016" %}
             {% for interview in interviews %}
-            {% include article/preview.html article=interview class="col-sm-4" %}
+            {% include article/preview.html article=interview class="col-sm-4 noborder" %}
             {% endfor %}
         </div>
 
