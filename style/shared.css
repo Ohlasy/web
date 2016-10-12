@@ -70,10 +70,6 @@ h2, h3 {
     color: #444;
 }
 
-.row-header-indented {
-    padding-left: 10px;
-}
-
 .article-preview {
     border-top: 1px solid #a3bddf;
     position: relative;
