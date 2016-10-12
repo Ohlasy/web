@@ -63,7 +63,7 @@ Vede mě k tomu i další věc: aby děti neztrácely manuální zručnost. A ab
 
 Já si nemyslím, že moji kolegové v radě mlčeli.
 
-**Já jsem nic nezaznamenal. Hašek tehdy řekl, že odejde z vedení strany, odešel z parlamentu, aby hejtmanský post si nechá. A nikdo na kraji k tomu nic neřekl.**
+**Já jsem nic nezaznamenal. Hašek tehdy řekl, že odejde z vedení strany, odešel z parlamentu, ale hejtmanský post si nechal. A nikdo na kraji k tomu nic neřekl.**
 
 Nechci, aby to vypadalo, že se z toho vyvlékám, ale jako zastupitel jsem spoustu věcí ani nevěděla, co se tam konkrétně děje.
 
@@ -73,7 +73,8 @@ Podívejte, já jsem třeba tady v Boskovicích měla docela velký problém s t
 
 Když sem přijel pan hejtman a na Facebooku byla fotka, jak ho vítáme a podáváme si ruce, hned jsem to schytala. Ale jako místostarostka města má určité povinnosti a musím návštěvu přivítat.
 
-To chápu, ale jako krajští zastupitelé jste přece mohli protestovat. Co všechno by musel koaliční partner udělat, abyste se ozvali? Tady byl člověk, který otevřeně lhal, a křesťanská strana s ním sedí u stolu a neřekne nic. Není to zvláštní?
+**To chápu, ale jako krajští zastupitelé jste přece mohli protestovat. Co všechno by musel koaliční partner udělat, abyste se ozvali? Tady byl člověk, který otevřeně lhal, a křesťanská strana s ním sedí u stolu a neřekne nic. Není to zvláštní?**
+
 Já jsem to sledovala zpovzdálí. Nevím, jak se k tomu mám vyjádřit. Nechci teď dělat hrdinu, taky v kontextu politického dění, které aktuálně probíhá (*sestavování koalice na kraji, pozn. red.*). Nebylo to jednoduché, možná to bylo dáno i tím, že hlavní slovo v naší skupině ve vedení kraje neměli ti mladí.
 
 **Ti by byli přísnější?**
