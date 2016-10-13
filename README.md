@@ -14,4 +14,4 @@
 
 * Pokud se web přeloží dobře, Travis nakonec spustí skript [s3_website](https://github.com/laurilehmijoki/s3_website), který vygenerované soubory nahraje do [Amazon S3](https://aws.amazon.com/s3/). Související soubory: [s3_website.yml](https://github.com/Ohlasy/web/blob/gh-pages/s3_website.yml).
 
-Momentálně web nakonec jede přes čisté GitHub Pages, takže se obsah v S3 vůbec nepoužívá, ale během pár dní bych chtěl přehodit na S3 (viz #18).
+Momentálně web nakonec jede přes čisté GitHub Pages, takže se obsah v S3 vůbec nepoužívá, ale během pár dní bych chtěl přehodit na S3 (viz [#18](https://github.com/Ohlasy/web/issues/18)).
