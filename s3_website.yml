@@ -1,3 +1,3 @@
-3_id: <%= ENV['S3_ACCESS_KEY'] %>
+s3_id: <%= ENV['S3_ACCESS_KEY'] %>
 s3_secret: <%= ENV['S3_ACCESS_SECRET'] %>
 s3_bucket: www.ohlasy.info
