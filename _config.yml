@@ -28,7 +28,7 @@ defaults:
       layout: 'volby2016'
 
 future: false
-exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'bower.json', 'Makefile']
+exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'package.json', 'Makefile', 's3_website.yml']
 
 # https://talk.jekyllrb.com/t/324
 array: []
