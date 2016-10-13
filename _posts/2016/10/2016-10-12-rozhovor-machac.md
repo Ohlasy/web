@@ -22,7 +22,7 @@ Bylo to dramatické a přiznávám, že byly okamžiky, kdy už jsem nevěřil, 
 
 Ne, taktika to nebyla. Nevím, jestli patřím, nebo nepatřím mezi elity, o tom by se dalo s úspěchem pochybovat. Trošku mě štve, že se neustále mluví o selhávání elit. Bohužel musím konstatovat, že elity selhávají na evropské úrovni, a to, že jsem se vymezoval proti Evropské unii, neznamená, že jsem absolutní euroskeptik. V žádném případě si nemyslím, že by se Evropa měla znovu rozdrobit na desítky malých států. Už jen z toho důvodu, že veškerá dezintegrace Evropy nahrává samozřejmě Rusku.
 
-Nevítal jsem ani Brexit, protože mám dceru, která žije v Anglii a která tím byla velice nemile překvapená. Ale považoval bych to za takový vztyčený ukazovák, varování Evropské unii: jestli nezačnete fungovat jinak, jestli nepřestanete byrokratizovat Evropu, jestli nepřestanete státům, které Evropu tvoří, věci, které jsou zbytečné a které si mohou řídit samy, tak to může špatně dopadnout. Před rozpadem Evropy spíš varuji, nejsem euroskeptik, takového ražení jako třeba Klaus. To v žádném případě.
+Nevítal jsem ani Brexit, protože mám dceru, která žije v Anglii a která tím byla velice nemile překvapená. Ale považoval bych to za takový vztyčený ukazovák, varování Evropské unii: jestli nezačnete fungovat jinak, jestli nepřestanete byrokratizovat Evropu, jestli nepřestanete státům, které Evropu tvoří, nařizovat věci, které jsou zbytečné a které si mohou řídit samy, tak to může špatně dopadnout. Před rozpadem Evropy spíš varuji, nejsem euroskeptik, takového ražení jako třeba Klaus. To v žádném případě.
 
 **Ale vaše kampaň tak byla dost postavená, nemáte strach, že můžete v lidech přiživovat nedůvěru ke společnému evropskému projektu?**
 
