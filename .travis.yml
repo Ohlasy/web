@@ -4,3 +4,6 @@ rvm:
 script: bundle exec jekyll build
 install: bundle install
 after_success: bundle exec s3_website push --headless
+branches:
+  only:
+    - gh-pages
