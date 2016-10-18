@@ -6,4 +6,4 @@ install: bundle install
 after_success: bundle exec s3_website push
 branches:
   only:
-    - gh-pages
+    - master
