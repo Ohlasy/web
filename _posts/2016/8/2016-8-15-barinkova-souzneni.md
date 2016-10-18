@@ -1,6 +1,6 @@
 ---
 title: "Lenka Bařinková, básnířka ve službách hudby"
-cover-photo: http://i.imgur.com/e5H7snYl.jpg
+cover-photo: http://i.ohlasy.info/e5H7snYl.jpg
 author: Adéla Rozbořilová
 category: názory a komentáře
 tags: kultura poezie
@@ -8,7 +8,7 @@ tags: kultura poezie
 
 *Velmi vzácný objev se vynořil z pozůstalosti před časem zemřelého evangelického faráře Miroslava Rozbořila, který dlouhý čas sloužil i v Boskovicích. V jeho rozsáhlé knihovně byl nalezen kratičký spisek básní nadepsaný Souznění. Autorem této sbírky není nikdo jiný než dlouholetá pedagožka boskovického gymnázia, sbormistryně a velká osobnost boskovického kulturního života, Lenka Bařinková, která [nedávno bohužel předčasně zemřela](http://ohlasy.info/clanky/2015/12/lenka-odesla.html).*
 
-<img src="http://i.imgur.com/e5H7snY.jpg" alt="ukázka z knihy" class="img-responsive img-popup" data-author="Adéla Rozbořilová">
+<img src="http://i.ohlasy.info/e5H7snY.jpg" alt="ukázka z knihy" class="img-responsive img-popup" data-author="Adéla Rozbořilová">
 
 Původ básnické sbírky, kterou vydal v polovině 70. let minulého století Kruh přátel hudby SKP Boskovice, je pozoruhodný. Juvenilie Lenky Bařinkové, publikovaná ještě pod jejím dívčím jménem Kysilková, vznikla patrně v reakci na její velký úspěch v literární soutěži Marušky Kudeříkové v roce 1974. Již v té době drobně publikovala některé básně v Mladé frontě a deníku Rovnost. Unikátnost básnické sbírky podtrhuje i její knižní zpracování; básně, ručně psané na volných listech, doplňují kresby významného blanenského výtvarníka Luboše Stříbrckého.
 

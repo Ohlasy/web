@@ -1,11 +1,11 @@
 ---
 title: Robert Štěpánek, Úsvit
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/WhIBQip.jpg
+cover-photo: http://i.ohlasy.info/WhIBQip.jpg
 feature: volby2016
 ---
 
-<img src="http://i.imgur.com/WhIBQip.jpg" alt="Robert Štěpánek" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/WhIBQip.jpg" alt="Robert Štěpánek" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

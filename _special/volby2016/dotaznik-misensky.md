@@ -1,11 +1,11 @@
 ---
 title: Jiří Míšenský, ANO
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/xuln7qh.jpg
+cover-photo: http://i.ohlasy.info/xuln7qh.jpg
 feature: volby2016
 ---
 
-<img src="http://i.imgur.com/xuln7qh.jpg" alt="Jiří Míšenský" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/xuln7qh.jpg" alt="Jiří Míšenský" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

@@ -1,6 +1,6 @@
 ---
 title: „Občané by měli rozhodnout, jestli má být knihovna v ZZN, nebo v Panském dvoře.“
-cover-photo: http://i.imgur.com/HUxhLVol.jpg
+cover-photo: http://i.ohlasy.info/HUxhLVol.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Rozhovor s Luďkem Řehořem, jednatelem společnosti Pražská 5, která vlastní objekt bývalého Panského dvora na Hradní ulici v Boskovicích. Část objektu nabídl vedení radnice pro umístění knihovny, Panský dvůr by byl městu ochoten i prodat. Mluvili jsme i o tom, proč by to bylo pro knihovnu i pro něj dobré řešení a také jak pokračuje projekt na rekonstrukci, [který v minulosti nezískal souhlas památkové péče.](/clanky/2015/07/pansky-dvur-bez-razitka.html)*
 
-<img src="http://i.imgur.com/HUxhLVo.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/HUxhLVo.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Na veřejném jednání o knihovně jsi vznesl k vedení města nabídku, aby se otevřela také možnost umístění knihovny v Panském dvoře. Jak na to radnice reagovala?**
 
@@ -31,7 +31,7 @@ Nikdo se neozval a nikdo nic neřešil. Říkal jsem si, že je to zvláštní, 
 
 Na radnici se s námi sešla paní starostka, místostarostka, místostarosta a pan Kovář z KZMB. Jednání probíhalo tak, že jsme my asi 20 minut prezentovali náš projekt a hovořili jsme o tom, proč to tam vidíme a proč to nabízíme. Měl jsem z toho víceméně pocit, že si nás chtějí poslechnout, ale mnoho zájmu neprojevili. Odpověď paní starostky zněla, že město se musí řídit programovým prohlášením, které zcela jasně říká, že se můžou bavit pouze o objektech v majetku města. A že za tím musí stát. Toto se už pak jen v jiných větách opakovalo.
 
-<img src="http://i.imgur.com/GE8Zrge.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/GE8Zrge.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Oddělování městských a soukromých aktivit mi vadí
 
@@ -63,7 +63,7 @@ Určitě to možné je.
 
 Panský dvůr se dá koupit kýmkoliv. Není to nijak vázáno.
 
-<img src="http://i.imgur.com/3rAaEr5.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/3rAaEr5.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Zájem města je velmi malý
 
@@ -145,7 +145,7 @@ A to je tak půl roku. Já to vidím v tomto křídle, kde jsou dnes Koberce Bl�
 
 Přesně na tohle jsem se byl zeptat na stavebním úřadě, protože si nechci vymýšlet, co by se dalo a nedalo. Ptal jsem se šéfa stavebního úřadu, jestli je možné Panský dvůr rozčlenit třeba mezi čtyři vlastníky čtyř křídel. Vysvětlil mi, že to jde zcela jednoduchou formou, pokud vlastník provede takzvané prohlášení vlastníka. Tedy úkon, který se dělá běžně když se postaví bytový dům a jeho majitel si pak třeba nechá několik bytů a jiné byty prodá. A potom vznikne společenství vlastníků. Takže by to šlo, ale musí být vůle jednat. Ta zatím ze strany města nepřichází.
 
-<img src="http://i.imgur.com/obMlAGg.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/obMlAGg.jpg" alt="Luděk Řehoř" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Věřím, že upravená varianta projde
 

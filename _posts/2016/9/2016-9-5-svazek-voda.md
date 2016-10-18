@@ -1,6 +1,6 @@
 ---
 title: Jak se hospodaří s vodou aneb Být, či nebýt ve Svazku
-cover-photo: http://i.imgur.com/YIN8cBhl.jpg
+cover-photo: http://i.ohlasy.info/YIN8cBhl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: voda
@@ -8,7 +8,7 @@ tags: voda
 
 *Šestasedmdesát obcí sdružuje Svazek vodovodů a kanalizací okresu Blansko. Je často kritizovaný za svou cenovou politiku, svazková voda je totiž v porovnání s jinými dražší. K dalšímu zdražení mohlo v příštích letech dojít kvůli tomu, že Ministerstvo životního prostředí plánovalo zvýšit poplatky za odběr podzemní vody. Od plánu však kvůli nesouhlasu ČSSD prozatím ustoupilo.*
 
-<img src="http://i.imgur.com/y4PQlMD.jpg" alt="vodárenské zařízení v Boskovicích" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="http://i.ohlasy.info/y4PQlMD.jpg" alt="vodárenské zařízení v Boskovicích" class="img-responsive img-popup" data-author="Marek Osouch">
 
 Svazek vodovodů a kanalizací měst a obcí Blanenska vznikl už v roce 1993, tedy se vznikem České republiky, a jeho hlavním heslem, kterým se zaštiťuje, je solidarita. Solidarita velkých odběratelů s malými, tedy velkých měst, jako jsou Boskovice, Blansko nebo Letovice, s malými obcemi s několika stovkami obyvatel.
 

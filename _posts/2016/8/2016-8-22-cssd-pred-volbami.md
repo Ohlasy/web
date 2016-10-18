@@ -1,6 +1,6 @@
 ---
 title: ČSSD má do voleb složitější pozici než minule
-cover-photo: http://i.imgur.com/8YtfFlDl.jpg
+cover-photo: http://i.ohlasy.info/8YtfFlDl.jpg
 author: Marek Osouch
 category: názory a komentáře
 tags: politika volby
@@ -8,7 +8,7 @@ tags: politika volby
 
 *Letošní krajské volby budou v několika pohledech unikátní a ani jedna věc nehraje pro sociální demokraty, kteří budou obhajovat pozici nejsilnější strany a usilovat o třetí hejtmanský mandát v řadě pro Michala Haška. ČSSD se totiž nemůže proti nikomu vymezovat. Osm let vládne v krajích, oporu má i ve vládě. Opoziční ODS ani TOP 09 pro ni nejsou strany, které by musely v kampani nějak zmiňovat jako soupeře, hlavním rivalem je paradoxně koaliční hnutí ANO.*
 
-<img src="http://i.imgur.com/8YtfFlD.jpg" alt="předvolební mítink ČSSD" class="img-responsive img-popup" data-author="Wikimedia Commons">
+<img src="http://i.ohlasy.info/8YtfFlD.jpg" alt="předvolební mítink ČSSD" class="img-responsive img-popup" data-author="Wikimedia Commons">
 
 Vzpomeneme-li si na první volby do krajů v roce 2000, vyhrála na jižní Moravě tehdy celorepublikově populární Čtyřkoalice pod vedením lidovců, která se vymezovala jako třetí pól vůči tehdejšímu spojenectví ČSSD a ODS v takzvané opoziční smlouvě.  
 Sociální demokraté byli u vlády také o čtyři roky později, což byla pro opoziční ODS opět šance vytěžit v krajské kampani kritiku vlády. V květnových evropských volbách ČSSD propadla a stejně tak i na podzim v krajských volbách, kdy téměř všechny kraje ovládli občanští demokraté. Na jižní Moravě tehdy vyhrála KDU-ČSL.

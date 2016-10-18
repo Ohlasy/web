@@ -1,6 +1,6 @@
 ---
 title: „My nejsme xenofobové, ale jsme cizoplaší.“
-cover-photo: http://i.imgur.com/TljUE7nl.jpg
+cover-photo: http://i.ohlasy.info/TljUE7nl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: historie
@@ -8,7 +8,7 @@ tags: historie
 
 *Rozhovor s Jaroslavem Achabem Haidlerem. Herec ústeckého Činoherního studia dokumentuje židovské hřbitovy a v Boskovicích na pozvání Unijazzu uspořádal komentovanou prohlídku místního hřbitova. Návštěvníkům se dostalo strhujícího výkladu nejen o náhrobcích, ale o židovské kultuře a významu židovských zvyků a tradic. O tom všem a o Achabově pohledu na vývoj boskovické čtvrti i hřbitova jsme vedli po prohlídce rozhovor, který se stočil i na obecné téma soužití odlišných kultur.*
 
-<img src="http://i.imgur.com/TljUE7n.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/TljUE7n.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Jak důležitá je v židovství kultura pohřbívání?**
 
@@ -34,7 +34,7 @@ To jsou tradiční slavné hroby cadiků. Tam se dává léta letoucí takzvaný
 
 Ne ne, svatí neexistují. Někdo je svatější, někdo je prostřední a někdo je úplný průšvihář. Lidstvo se skládá ze všech. Svatý sám není k ničemu, na jeho hrob se chodí za Bohem, protože se věří, že tento člověk byl od Pánaboha poslaný a je významný, takže tady možná budou přímluvy slyšet líp.
 
-<img src="http://i.imgur.com/agH4Pn1.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/agH4Pn1.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Big Boss říká, že to je tvůj úkol
 
@@ -52,7 +52,7 @@ Sehnal jsem kamaráda, který dokázal udělat střeva [databáze](http://chewra
 
 To vím přesně. Na výletě před rokem 2002, a pak v tom roce 2002 jsme s boskovickým gymnáziem dělali projekt, kterému říkali Naděje – Hoffnung, to bylo po převratu takové moderní. Pak jsme tomu všichni začali říkat [Machcid ha-Šekel](http://ohlasy.info/clanky/2016/08/machcit-ha-sekel.html). Bylo to německé gymnázium, toto gymnázium a byla to krásná práce. Akorát kdo sem přijde tak vidí, jak je to nepřehledné. Pokud není mapa, tak po dvou třech měsících už jsme nevěděli, který je který. Tím, že nejsem Boskovák a přijet sem je pro mě pět šest hodin vlakem, tak se toho dost poztrácelo a bude se to muset dělat znovu. Hodně toho mám, ale každý sokl je důležitý, protože kdyby náhodou místo baráku (*márnice, pozn. red.*) postavili náhrobky, tak se ještě mnoho dozvíme. Takže mám takové výčitky svědomí, že ty Boskovice… že zasedací pořádek této třídy nemám hotový!
 
-<img src="http://i.imgur.com/j80ykqv.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/j80ykqv.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Cit jako by chyběl
 
@@ -98,7 +98,7 @@ Myslím si, že poznávání židovského živlu je v téhle republice dobré, a
 
 Proto strašně miluju ten příběh o židovce Zuzaně, která se u Vážné studny jako docela normální ženská pohádala se sousedkou, vykasala si sukni a ukázala holou. Pak se dostala k soudu a dostala za to pokutu 14 krejcarů. To jsou ty věci, které by měly být. Neidealizovat si Židy jako oběti, i když jsou to děsné oběti. Ale taky se jich nebát. Ale to je způsobeno oběma komunitami, majoritní i tou menší. Židi moc nechtějí, aby se jim vidělo do kuchyně, protože se sami trochu hledají. A ta velká společnost to buď obdivuje, nebo je filosemitská, nebo je trošku latentně antisemitská, protože Židi vždycky hrabali, jak si lidi myslí. Takže to chvíli potrvá. Hlavně se to musí žít na plné koule, pak to půjde.
 
-<img src="http://i.imgur.com/tpVrKuG.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/tpVrKuG.jpg" alt="Jaroslav Achab Haidler" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Do vesmíru se vejdem
 

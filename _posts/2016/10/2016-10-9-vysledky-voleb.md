@@ -1,7 +1,7 @@
 ---
 title: Několik poznámek k výsledkům krajských a senátních voleb
 perex: V pátek a v sobotu proběhly krajské volby a první kolo voleb senátních. Oboje volby přinesly značná překvapení, přečtěte si několik poznámek a postřehů k výsledkům.
-cover-photo: http://i.imgur.com/CtRfl2Kl.jpg
+cover-photo: http://i.ohlasy.info/CtRfl2Kl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika volby
@@ -9,7 +9,7 @@ tags: politika volby
 
 *V pátek a v sobotu proběhly krajské volby a první kolo voleb senátních. Oboje volby přinesly značná překvapení, přečtěte si několik poznámek a postřehů k výsledkům. Druhé kolo senátních voleb se koná v pátek 14. a sobotu 15. října.*
 
-<img src="http://i.imgur.com/CtRfl2K.jpg" alt="oranžová růže v boskovické kašně" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/CtRfl2K.jpg" alt="oranžová růže v boskovické kašně" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Obecně k volbám
 

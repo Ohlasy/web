@@ -1,7 +1,7 @@
 ---
 title: "Jak šel čas se sportovní halou: sportovci čekají už 10 let"
 date: 2016-05-16 11:00:45
-cover-photo: http://i.imgur.com/3PphKLfl.jpg
+cover-photo: http://i.ohlasy.info/3PphKLfl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Letos je to deset let, kdy přestali sportovci využívat Jízdárnu jako sportovní halu, a v červnu nám uplyne rok od okamžiku, kdy zastupitelé rozhodli, že nová sportovní hala na Slovákově nebude. Tímto krokem jsme se vrátili o více než deset let zpátky. Pojďme si připomenout hlavní mezníky vývoje stavby sportovní haly.*
 
-<img src="http://i.imgur.com/3PphKLf.jpg" alt="stavební jáma na Slovákově" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/3PphKLf.jpg" alt="stavební jáma na Slovákově" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 *Rok 1995*: Budova sportovní haly v Jízdárně se přesouvá v restituci do majetku rodiny Mensdorff-Pouilly. Sportovci v ní můžou být i nadále.
 
@@ -19,7 +19,7 @@ tags:
 
 *Rok 2003*: Sportovní hala v prostorách Jízdárny je nevyhovující. „Již v roce 2003 bylo při zpracování Koncepce rozvoje tělovýchovy a sportu v Boskovicích konstatováno, že sportovní hala Jízdárna je v naprosto nevyhovujícím technickém stavu. Všechny oddíly se shodly na vybudování nové víceúčelové haly,“ stojí v [prohlášení města](http://www.boskovice.cz/tiskova-konference/d-20592), na které se v pozdějších letech vedení Boskovic mimo jiné odkazuje.
 
-<img src="http://i.imgur.com/I5IFipt.jpg" alt="Jízdárna" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/I5IFipt.jpg" alt="Jízdárna" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 *Rok 2005*: Vedení Boskovic hledá místo pro novou sportovní halu. Jako nejvhodnější nakonec radní [vybírají lokalitu na ulici Slovákova](http://stare.boskovicko.cz/cislo.phtml?iss_id=113#art_3649) vedle základní školy. Umístění ve sportovním areálu Červená zahrada vnímají jako nevhodné a neefektivní bez možnosti využívání školami v dopoledních hodinách a také kvůli nutnosti vykupovat pozemky. Zastupitelé o lokalitě nehlasovali.
 

@@ -1,6 +1,6 @@
 ---
 title: Štítivý odstup politiku nezmění
-cover-photo: http://i.imgur.com/CFyMP1Wl.jpg
+cover-photo: http://i.ohlasy.info/CFyMP1Wl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Při sledování politiky, celostátní i komunální, mě občas napadá, že všichni jako bychom pořád jaksi toužebně čekali, že se politika nějak zlepší. Sama od sebe. Je to ale možné? Naše nespokojenost je mnohdy jistě oprávněná, je ale patřičné rozčilovat se, že zlepšení nenastane bez naší aktivní spoluúčasti?*
 
-<img src="http://i.imgur.com/CFyMP1W.jpg" alt="zastupitelstvo" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/CFyMP1W.jpg" alt="zastupitelstvo" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Existují dva různé pohledy na úroveň politiky: ten první říká, že politici jsou zkrátka věrným odrazem společnosti, a tudíž logicky reprezentují i její ne zrovna poctivou či inteligentní část. A dokud se nezlepší celá společnost, nezlepší se ani její politická garnitura. Ten druhý, optimističtější pohled říká (možná spíše doufá), že politici by měli představovat to nejlepší z nás, že demokratické volby by měly být výběrovým řízením, ve kterém uspějí ti nejschopnější a pro vedení společnosti nejvhodnější.
 

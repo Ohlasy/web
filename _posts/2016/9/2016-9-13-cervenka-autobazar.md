@@ -1,6 +1,6 @@
 ---
 title: Radnice chce koupit další pozemek v Červené zahradě. Připravuje smlouvu s majitelem autobazaru
-cover-photo: http://i.imgur.com/aGdxsOBl.jpg
+cover-photo: http://i.ohlasy.info/aGdxsOBl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Další pozemek u sportovního areálu v Červené zahradě doporučili radní zastupitelům k výkupu. Město by za něj mělo zaplatit 5,5 milionu korun. Oba posudky objednané městem přitom navrhují cenu o více než milion nižší, posudek majitele pozemku naopak o milion vyšší.*
 
-<img src="http://i.imgur.com/aGdxsOB.jpg" alt="pozemek autobazaru" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/aGdxsOB.jpg" alt="pozemek autobazaru" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Jen dva měsíce uplynuly od okamžiku, kdy [policisté odložili vyšetřování](http://ohlasy.info/clanky/2016/07/vysetrovani-cervenka.html) nákupu pozemku Dvořáčkova mlýna, a na stole radních ležel návrh smlouvy na výkup dalšího pozemku v Červené zahradě. Tentokrát se boskovická radnice domluvila s majitelem autobazaru Zdeňkem Zemanem.    
 

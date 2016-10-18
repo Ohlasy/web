@@ -1,6 +1,6 @@
 ---
 title: Proč nemám chuť usednout ke kulatému stolu
-cover-photo: http://i.imgur.com/5Psxj4Gl.jpg
+cover-photo: http://i.ohlasy.info/5Psxj4Gl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Po posledním setkání boskovické radnice s veřejností jsem měl nutkavou chuť napsat na svůj facebookový profil: „Nechoďte na podobná setkání, nemá to cenu.“ A před diskusí u kulatých stolů nad městským rozpočtem se mi ta nutkavá chuť zase vrací na patro. Údajně klíčová chvíle ve vztazích veřejnosti a radnice se uskuteční v úterý 13. září v 15 hodin odpoledne. Čest a sláva všem, kteří vyrazí ke kulatým stolům usednout. Já jsem momentálně víru ve smysluplnost takového počínání zde v Boskovicích poněkud ztratil.*
 
-<img src="http://i.imgur.com/5Psxj4G.jpg" alt="debata ve skleníku" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/5Psxj4G.jpg" alt="debata ve skleníku" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Pro novináře je to samozřejmě problém, protože k naší práci přirozeně patří určitá starost o to, aby se veřejnost zajímala o věci veřejné. Nemusíme snad být přímo agitátoři, ani se pasovat do role bojovníků proti lhostejnosti, ale pokud máme fungovat jako média – tedy prostředníci mezi politiky a veřejností – je jasné, že nám záleží na tom, aby komunikace proudila v obou směrech. Aby politici před veřejností nezatahovali neprostupnou oponu, ale spíše otevírali dveře. A samozřejmě také na tom, aby veřejnost měla chuť těmi dveřmi vcházet, nebo aspoň nahlížet. Pořád si ale myslím, že míč je hlavně na straně politiků. Lkát nad lhostejnou veřejností můžete až v momentě, kdy zboříte všechny bariéry a dveře na radnici skutečně otevřete. A to se v Boskovicích, jakkoli u aktuálního vedení města stále tušíme jakýsi upřímný zájem to učinit, zatím nestalo ani v nejmenším.
 

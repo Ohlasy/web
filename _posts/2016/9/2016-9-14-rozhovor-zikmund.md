@@ -1,13 +1,13 @@
 ---
 title: „Pro další život církve bude nutné osvojit si jinou mentalitu, nahradit tu udržovací za misijní.“
-cover-photo: http://i.imgur.com/DhooW2gl.jpg
+cover-photo: http://i.ohlasy.info/DhooW2gl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Bývalý boskovický evangelický farář Marek Zikmund působí už tři roky v Přerově a nedávno se ujal funkce seniora moravskoslezského seniorátu, tedy hlavního krajského představitele Českobratrské církve evangelické. Pro boskovický časopis Na rozcestí vznikl rozhovor o tom, jaké jsou jeho aktuální pracovní zkušenosti, jak vidí roli církve v současné společnosti, a také jak se vede jeho rodině.*
 
-<img src="http://i.imgur.com/H0XdaD1.jpg" alt="Marek Zikmund s rodinou" class="img-responsive img-popup" data-author="archiv rodiny Zikmundovy">
+<img src="http://i.ohlasy.info/H0XdaD1.jpg" alt="Marek Zikmund s rodinou" class="img-responsive img-popup" data-author="archiv rodiny Zikmundovy">
 
 **Marku, jak se ti daří v novém působišti? Je farářská práce v Přerově odlišná od Boskovic? V čem se sbory liší a co z toho pro tebe vyplývá?**
 

@@ -1,11 +1,11 @@
 ---
 title: Ivo Polák, ČSSD
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/jAsLEJy.jpg
+cover-photo: http://i.ohlasy.info/jAsLEJy.jpg
 feature: volby2016
 ---
 
-<img src="http://i.imgur.com/jAsLEJy.jpg" alt="Ivo Polák" class="img-responsive img-popup img-framed">
+<img src="http://i.ohlasy.info/jAsLEJy.jpg" alt="Ivo Polák" class="img-responsive img-popup img-framed">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

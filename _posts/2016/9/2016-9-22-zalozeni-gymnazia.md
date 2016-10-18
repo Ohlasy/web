@@ -1,6 +1,6 @@
 ---
 title: "Pohledy do historie: Tablo prvních absolventů C. k. státního gymnasia v Boskovicích"
-cover-photo: http://i.imgur.com/odURngAl.jpg
+cover-photo: http://i.ohlasy.info/odURngAl.jpg
 author: Petr Vítámvás
 category: seriály
 serial: historie
@@ -9,7 +9,7 @@ tags: historie gymnázium
 
 *Více než sto let je boskovické gymnázium nejvýznamnější vzdělávací institucí v regionu. Založeno bylo v roce 1900 po půlstoletí trvajících snahách o jeho zřízení. První maturanti opouštěli gymnázium v Boskovicích v létě roku 1908. Z téměř 80 studentů dospěla k maturitě necelá polovina. Jaké byly začátky školy a kdo byli první absolventi?*
 
-<img src="http://i.imgur.com/odURngA.jpg" alt="průčelí boskovického gymnázia" class="img-responsive img-popup" data-author="archiv Muzea regionu Boskovicka">
+<img src="http://i.ohlasy.info/odURngA.jpg" alt="průčelí boskovického gymnázia" class="img-responsive img-popup" data-author="archiv Muzea regionu Boskovicka">
 
 ### Založení gymnázia
 
@@ -37,11 +37,11 @@ Jednou z podmínek založení gymnázia bylo postavení nové školní budovy. U
 
 ### Maturita
 
-Ze 78 žáků, kteří započali studium v roce 1900, [jich k maturitě došlo 35](http://i.imgur.com/q3DyRrv.jpg), tedy méně než polovina. Věkové rozpětí studentů u maturity bylo na dnešní poměry poněkud větší, bylo jim 18–23 let. Co se týče vyznání, 34 žáků bylo katolického náboženství a jeden evangelicko-reformního helvétského vyznání. 
+Ze 78 žáků, kteří započali studium v roce 1900, [jich k maturitě došlo 35](http://i.ohlasy.info/q3DyRrv.jpg), tedy méně než polovina. Věkové rozpětí studentů u maturity bylo na dnešní poměry poněkud větší, bylo jim 18–23 let. Co se týče vyznání, 34 žáků bylo katolického náboženství a jeden evangelicko-reformního helvétského vyznání. 
 
-V posledním ročníku studenty učili tito učitelé: ředitel Pavel Krippner (latina), třídní učitel Rudolf Tereba (matematika a fyzika), P. František Chramosta (náboženství), Josef Mach (řečtina a filosofie), Richard Wolf (čeština a němčina), Václav Linda (dějepis a zeměpis). [Jejich podobenky jsou na tablu](http://i.imgur.com/xiglVlS.jpg), ředitel s třídním učitelem a pod nimi ostatní čtyři. Identifikovat by je uměl bezpochyby dr. Bránský nebo ing. Šmétka, bývalí profesoři gymnázia, kteří se věnovali jeho historii.
+V posledním ročníku studenty učili tito učitelé: ředitel Pavel Krippner (latina), třídní učitel Rudolf Tereba (matematika a fyzika), P. František Chramosta (náboženství), Josef Mach (řečtina a filosofie), Richard Wolf (čeština a němčina), Václav Linda (dějepis a zeměpis). [Jejich podobenky jsou na tablu](http://i.ohlasy.info/xiglVlS.jpg), ředitel s třídním učitelem a pod nimi ostatní čtyři. Identifikovat by je uměl bezpochyby dr. Bránský nebo ing. Šmétka, bývalí profesoři gymnázia, kteří se věnovali jeho historii.
 
-<img src="http://i.imgur.com/fPHelXP.jpg" alt="portrétky učitelů" class="img-responsive img-popup" data-author="archiv Muzea regionu Boskovicka">
+<img src="http://i.ohlasy.info/fPHelXP.jpg" alt="portrétky učitelů" class="img-responsive img-popup" data-author="archiv Muzea regionu Boskovicka">
 
 Písemné maturitní zkoušky se konaly ve dnech 1.–3. června z českého jazyka, latiny a řečtiny. V českém jazyce měli studenti na výběr tato témata: 1) Význam a nutnost mocného státu dunajského pro střední Evropu – pojednání, 2) „Nejednou věru děje vlasti právě nás stezkou povinnosti vedly k slávě“ (A. Tennyson) – úvaha, 3) „Dvě věci naplňují ducha novým vždy a rostoucím obdivem a úctou, čím častěji a vytrvaleji myšlenka jimi se obírá: hvězdné nebe nade mnou a mravní zákon ve mně“ (Kant) – rozjímání. V jazyce latinském znělo zadání *Cicero De finibus bonorum et malorum*, v řečtině *Demosthenes Peri tes parapresbeias*.
 
@@ -51,7 +51,7 @@ Písemné maturitní zkoušky se konaly ve dnech 1.–3. června z českého jaz
 
 Mnozí po absolvování gymnázia jistě pokračovali v dalším studiu, a právě když patrně končili, vypukla světová válka. Tři z prvních absolventů boskovického gymnázia v ní bojovali v řadách československých legií: Josef Fiala z Olešnice (v legiích 1. 11. 1916 – 14. 2. 1922), Metoděj Fiala z Valchova (v legiích 15. 4. 1917 – 28. 2. 1921) a Ladislav Rutar z Voděrad. První dva byli v legii ruské, poslední měl osudy spletitější. Postupně bojoval v legii srbské, francouzské a italské a po světové válce zůstal v řadách československé armády, kde od roku 1922 působil u Nejvyššího vojenského soudu. Za okupace se zapojil do protinacistického odboje v organizaci Obrana národa, byl vězněn na Pankráci, v Dachau a v Buchenwaldu. Po válce opět působil u Nejvyššího vojenského soudu, roku 1945 byl povýšen na generála justiční služby. Zemřel roku 1962 v Praze.
 
-<img src="http://i.imgur.com/qujLUJu.jpg" alt="absolventi Vojtěch a Treu" class="img-responsive img-popup" data-author="archiv Muzea regionu Boskovicka">
+<img src="http://i.ohlasy.info/qujLUJu.jpg" alt="absolventi Vojtěch a Treu" class="img-responsive img-popup" data-author="archiv Muzea regionu Boskovicka">
 
 Nejméně dva vystudovali na lékaře – Otakar Richenbach ze Štěpánova pracoval jako lékař v zemské nemocnici v Brně a Raimund Treu zůstal v Boskovicích jako obvodní lékař.
 

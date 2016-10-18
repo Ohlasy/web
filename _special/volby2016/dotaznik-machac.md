@@ -1,11 +1,11 @@
 ---
 title: Jan Machač, ODS
-cover-photo: http://i.imgur.com/h6D4aty.jpg
+cover-photo: http://i.ohlasy.info/h6D4aty.jpg
 author: Tomáš Trumpeš
 feature: volby2016
 ---
 
-<img src="http://i.imgur.com/h6D4aty.jpg" alt="Jan Machač" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/h6D4aty.jpg" alt="Jan Machač" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

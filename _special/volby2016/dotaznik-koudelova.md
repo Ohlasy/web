@@ -1,11 +1,11 @@
 ---
 title: Mária Koudelová, KSČM
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/q4zXyae.jpg
+cover-photo: http://i.ohlasy.info/q4zXyae.jpg
 feature: volby2016
 ---
 
-<img src="http://i.imgur.com/q4zXyae.jpg" alt="Mária Koudelová" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/q4zXyae.jpg" alt="Mária Koudelová" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěla navrhnout a prosadit?**
 

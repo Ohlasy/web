@@ -1,6 +1,6 @@
 ---
 title: "Pozemek po lihovaru a jeho divoké porevoluční dějiny: sedm majitelů, zástavní právo i zrušená dražba"
-cover-photo: http://i.imgur.com/awFvk87l.jpg
+cover-photo: http://i.ohlasy.info/awFvk87l.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

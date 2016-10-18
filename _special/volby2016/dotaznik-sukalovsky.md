@@ -1,11 +1,11 @@
 ---
 title: Drago Sukalovský, STAN
 author: Tomáš Trumpeš
-cover-photo: http://i.imgur.com/uthQ1E9.jpg
+cover-photo: http://i.ohlasy.info/uthQ1E9.jpg
 feature: volby2016
 ---
 
-<img src="http://i.imgur.com/uthQ1E9.jpg" alt="Drago Sukalovský" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/uthQ1E9.jpg" alt="Drago Sukalovský" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

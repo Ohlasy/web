@@ -1,6 +1,6 @@
 ---
 title: "Politické poměry se můžou zhoršit, volit je proto důležité"
-cover-photo: http://i.imgur.com/gbF63Hll.jpg
+cover-photo: http://i.ohlasy.info/gbF63Hll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na říjen
-cover-photo: http://i.imgur.com/CEMTSacl.jpg
+cover-photo: http://i.ohlasy.info/CEMTSacl.jpg
 category: zpravodajství
 author: Jan Bařinka
 tags: kultura

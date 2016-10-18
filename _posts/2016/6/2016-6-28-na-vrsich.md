@@ -3,12 +3,12 @@ title: "Krajiny Boskovicka: Na vrších"
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
-cover-photo: http://i.imgur.com/trqOUNSl.jpg
+cover-photo: http://i.ohlasy.info/trqOUNSl.jpg
 ---
 
 *Vydáte-li se z letovického náměstí směrem k přehradě Křetínce, projdete viaduktem pod železniční tratí a pokračujete ulicí Českou. Když pak po několika stovkách metrů, za zchátralou továrnou na výrobu vatelínu, zabočíte vpravo uličkou stoupající prudce do kopce (příznačně zvanou Na Kopečku), dostanete se cestou mezi zahradami a zpustlými sady na hřbet, nazývaný místními Na vrších či Vrše.*
 
-<img src="http://i.imgur.com/iT6nYn6.jpg" alt="krajina s vyhlídkou na letovický zámek" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/iT6nYn6.jpg" alt="krajina s vyhlídkou na letovický zámek" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 V závěru stoupání za posledními zahradami prochází cesta okrajem starého višňového sadu. Rád jsem tudy chodil v horkých letních dnech a zaháněl žízeň nakyslou chutí přezrálých višní. Vždy jsem si přitom vzpomněl na slavnou Čechovovu divadelní hru Višňový sad. A nebyla to vzpomínka nemístná. Čechov v ní popisuje zánik starého světa. Hlavní hrdinka Ljubov Andrejevna Raněvská se vrací z Paříže do Ruska na své venkovské sídlo. Na život v cizině už nemá prostředky, panství je před krachem. Její rozpačitý nápadník doporučuje jako jedinou možnost záchrany jeho prodej zájemcům o pozemky pro stavbu letních bytů. Představa, že by tím zanikl starý višňový sad, symbol rodinné minulosti, je však pro Ljubov nepředstavitelná. Prostředky na zaplacení dluhů se nepodaří získat a panství koupí bývalý poddaný, představitel nastupující majetné vrstvy, které je minulost lhostejná. 
 
@@ -18,19 +18,19 @@ Před čtvrtstoletím, v časech mého dětství, byly sady Na vrších ještě 
 
 *Vůně letních mezí je nezapomenutelná. Kdykoliv jsem byl v nějaké cizokrajné přírodě, vzpomínka na tuto vůni mne popoháněla domů, jako ta vůně pelyňkového proutku, který poslala matka svému synovi v cizině, aby ho přilákala domů, podle jedné tádžické pohádky. Cvrčení cikád v dalmatském šibljaku* [porostu trnitých křovin na místě vykácených lesů], *hukot mořského příboje jsou pro nás vnitrozemce také nezapomenutelné, ale naše bývalé české meze, které voněly mateřídouškou, nenajdete nikde na světě…*
 
-<img src="http://i.imgur.com/zYK5OXb.jpg" alt="vlčí mák na louce" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/zYK5OXb.jpg" alt="vlčí mák na louce" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Možná, že Josef Dostál trochu přeháněl. V teplých a suchých krajích jižní Evropy přece rostou mnohem mohutnější a voňavější druhy mateřídoušky než u nás. Slunné stráně tam ale voní jinak. Spolu s mateřídouškou tam přece kvete třeba levandule a další voňavé jižní rostliny. Možná jsou ty naše české a moravské meze opravdu jedinečné. O to větší škoda je, že nám mizí před očima. Kolektivizace zemědělství a socialistická velkovýroba krajině nepřály. Dnes však situace není lepší. Na polích dominují intenzivně hnojené a chemicky ošetřované obilniny spolu s řepkou. Většina hůře přístupných pozemků naopak zůstává opuštěna a postupně zarůstá, pokud není přímo cíleně zalesňována.
 
 Na Vrších u Letovic lze ještě zbytky mezí najít. Kromě mateřídoušky, jejíž čas přijde až o něco později, zde teď v červnu nelze přehlédnout třeba modřenec chocholatý. Rostlina původní v teplejších oblastech se do středních poloh, tedy zřejmě i na Letovicko, dostala jako archeofytní plevel v minulých staletích. Archeofyty jsou rostliny, které se šířily vlivem zemědělské činnosti ještě před objevením Ameriky. Jedná se většinou o rostliny menšího vzrůstu, konkurenčně nepříliš zdatné. Od konce 15. století se v souvislosti se zámořskými objevy naopak začaly rozšiřovat mnohem agresivnější neofyty. Od druhé poloviny 20. století jsou v souvislosti s intenzifikací zemědělství a změnou agrotechnických postupů archeofyty na ústupu. Některé z nich zmizely téměř úplně, třeba již v Bibli zmiňovaný koukol polní. Jiné (vlčí mák, chrpa, ostrožka stračka) dodnes přežívají na okrajích polí. Modřenec se z polí odstěhoval na meze a úhory. Na Vrších ho lze dosud najít třeba v tzv. Kraváčkově žlebu (severozápadně od vysílačů mobilních operátorů).
 
-<img src="http://i.imgur.com/EMJ56M6.jpg" alt="modřenec" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/EMJ56M6.jpg" alt="modřenec" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Kousek za Kraváčkovým žlebem, tam, kde stráně Vršů prudce spadají do údolí Křetínky, jsou patrné skalní výchozy tmavých amfibolitů letovického krystalinika. Tato záhadná geologická jednotka si někdy později zaslouží samostatnou kapitolu. Na okraji borového lesa zde rostou např. tolita lékařská či divizna rakouská (přesněji divizna jižní rakouská). Nezapomenu na poučku starších kolegů botaniků, kterou nám mladším vštěpovali, abychom si nepletli diviznu rakouskou a černou. Botanické průpovídky z totalitních časů byly někdy „politicky“ škodolibé. Třeba zrovna tato: „Černí soudruzi jsou našim srdcím bližší než rakouští imperialisté.“ Ona průpovídka vznikla v dobách, kdy v socialistickém Československu studovalo hodně černochů z afrických rozvojových zemí. Má nám při určování připomenout, že báze listů divizny černé má na rozdíl od divizny rakouské srdčitý tvar.
 
 Při svých procházkách se psem po Vrších jsem zažil také řadu zajímavých setkání se zvířaty. Jednoho mlžného jarního rána jsem se kousek za posledními zahradami téměř srazil s liškou. Kmotřička se po prvním leknutí bleskurychle otočila a pelášila pryč, jen za ní ohon vlál. Jiné jaro jsem Na vrších zase několikrát potkal mladého srnečka. Zjevně s ním něco nebylo v pořádku, protože mne k sobě nechal přiblížit na několik kroků, pak trhavým krokem poodběhl a zůstal zase stát. Díky tomu jsem mohl pořídit jeho fotografii, i když nevlastním teleobjektiv. Po pár dnech srneček zmizel. Nevím, zda ho ulovili místní myslivci, nebo někde v křoví pošel.
 
-<img src="http://i.imgur.com/gt0RJeF.jpg" alt="malé srnče v trávě" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/gt0RJeF.jpg" alt="malé srnče v trávě" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Teď v červnu je čas mláďat, třeba právě srnčat. Konec konců ne nadarmo býval červen označován za „měsíc myslivosti“, tak jako třeba březen býval „měsícem knihy“. Myslivost je však v tomto případě chápána jako péče o zvěř, nejen její lov. Budete-li mít štěstí, můžete na svých toulkách zaslechnout pískání srnčátka, které volá maminku. Přišlo na svět teprve nedávno, srnčí zvěř klade mláďata na přelomu května a června. Najdete-li takové srnče v trávě, nedotýkejte se ho, prosím. Srna bývá obvykle nedaleko a vrátí se k němu. Pokud byste se jej dotkli, ulpěl by na jeho těle pach člověka, vůně, která znejistí všechny divoce žijící savce. Matka by mládě pak nejspíš opravdu opustila. Lesníci či záchranné stanice pro handicapovaná zvířata takto každoročně nechtě získají nové „chovance“. Srny mohou pak sice žít v blízkosti člověka, srnci však musejí být většinou utraceni. Zvířata totiž ztratí svou plachost a v době říje mohou být nebezpečná lidem, srnčí parůžky se mohou stát zbraní.
 

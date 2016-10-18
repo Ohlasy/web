@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za květen
-cover-photo: http://i.imgur.com/HlzSL2Xl.jpg
+cover-photo: http://i.ohlasy.info/HlzSL2Xl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v květnu na Boskovicku událo.*
 
-<img src="http://i.imgur.com/HlzSL2X.jpg" alt="vandalem poškozená vrata kostela" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/HlzSL2X.jpg" alt="vandalem poškozená vrata kostela" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Urbanistická studie by měla odpovědět na otázky, jak bude vypadat sportovní areál v Červené zahradě, jak by se měl rozvíjet a kam by bylo možné umístit sportovní halu. Než studie vznikne, [své návrhy mají vedení města představit studenti](/clanky/2016/05/urbanismus-cervenka.html) architektury z Liberce. Studenti se budou zabývat také návrhy na využití budovy bývalého ZZN pro knihovnu a komunitní centrum. Celkem bude jejich práce stát 160 tisíc korun.
 

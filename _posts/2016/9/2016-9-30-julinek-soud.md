@@ -1,6 +1,6 @@
 ---
 title: Soud začal projednávat propuštění Tomáše Julínka z boskovické nemocnice
-cover-photo: http://i.imgur.com/2ULwWgJl.jpg
+cover-photo: http://i.ohlasy.info/2ULwWgJl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice
@@ -8,7 +8,7 @@ tags: nemocnice
 
 *Na program jednání blanenského soudu se na konci září dostala žaloba Tomáše Julínka kvůli jeho propuštění z boskovické nemocnice. Považuje je za diskriminační a účelové. Zároveň také město zvažuje podání žalob kvůli výsledkům auditu v nemocnici. Kvůli čemu konkrétně, zatím není jasné.*
 
-<img src="http://i.imgur.com/Zctc0l2.jpg" alt="" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/Zctc0l2.jpg" alt="" class="img-responsive img-popup">
 
 [Tomáš Julínek dostal výpověď](http://ohlasy.info/clanky/2015/12/julinek-odvolan.html) v nemocnici loni na konci listopadu poté, co dočasná jednatelka a starostka Boskovic Hana Nedomová (ČSSD) zrušila v organizačním řádu pozici ekonomicko-správního náměstka, kterou Julínek zastával.
 

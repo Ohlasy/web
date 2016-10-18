@@ -1,6 +1,6 @@
 ---
 title: „Až hamburgerová kultura dosáhne vrcholu, skončí i čarodějové na Madagaskaru.“
-cover-photo: http://i.imgur.com/CTCje5dl.jpg
+cover-photo: http://i.ohlasy.info/CTCje5dl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: cestování
@@ -8,7 +8,7 @@ tags: cestování
 
 *Rozhovor s cestovatelem a filmařem Milošem Brunnerem. Ten představí 15. září v boskovickém kině Panorama v premiéře svůj film Madagaskar. Největší africký ostrov navštívil celkem šestkrát, mluvili jsme tedy o cestování, o filmování a hlavně o Madagaskaru, odkud pochází i Milošova manželka Odile, která se přes jazykovou bariéru do našeho rozhovoru občas zapojila.*
 
-<img src="http://i.imgur.com/CTCje5d.jpg" alt="Miloš Brunner" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/CTCje5d.jpg" alt="Miloš Brunner" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **V boskovickém kině se bude promítat váš film. Můžete ho trochu představit?**
 
@@ -34,7 +34,7 @@ Cestovní kancelář Montana Club. Při tom jsem začal fotit a dlouhou dobu jse
 
 To určitě, nemusíte s sebou tahat tak obrovské množství materiálu. Míval jsem pytel diapozitivů, pak jsem musel řešit, kam to dát vyvolat, aby to nezničili. Hrozné dilema. Dnes buď jednička, nebo nula – a je to.
 
-<img src="http://i.imgur.com/7MSXRpl.jpg" alt="Miloš Brunner a Odile Velomana" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/7MSXRpl.jpg" alt="Miloš Brunner a Odile Velomana" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Filmů o přírodě je moc
 
@@ -50,7 +50,7 @@ Pokud se bavíme o zahraničí, protože se rád vracím i domů, tak se mi líb
 
 Asi v lidech. Ve Spojených státech se lidem moc nevěnuju. Není to země třetího světa. Mexiko už tam asi taky asi nespadá, ale je to Latinská Amerika, a to je divočina. Je to krásné a lidi jsou tam zajímaví. V některých oblastech jsou městečka, kde je většina obyvatel indiánského původu, a to se mi líbí.
 
-<img src="http://i.imgur.com/S8cazun.jpg" alt="malgašská žena s dítětem" class="img-responsive img-popup" data-author="Miloš Brunner">
+<img src="http://i.ohlasy.info/S8cazun.jpg" alt="malgašská žena s dítětem" class="img-responsive img-popup" data-author="Miloš Brunner">
 
 **Takže necestujete třeba hlavně za přírodou, ale jsou pro vás důležití lidé a poznávání jejich kultury?**
 
@@ -68,7 +68,7 @@ Jeli jsme takovou loďkou, úplně opuštěnou krajinou. Nikdo tam nebyl, jen ti
 
 Nakonec jsem ho natočil, i když s hroznými problémy, protože jsem neměl GoPro, neměl audiotechniku, tudíž se mi těžko dělaly rozhovory. Bylo to splácané. I tak jsem si říkal, že to snad projde. Ale po dalších návštěvách Madagaskaru jsem si říkal, že tenhle film nemá smysl dělat. A když jsem ještě poznal Odile, tak jsme začali dělat film, jehož idea je daleko lepší: Malgašan mně ukazuje to, co si myslí, že je na Madagaskaru zajímavé.
 
-<img src="http://i.imgur.com/uu9tUxq.jpg" alt="náklaďák s mrtvou drůběží a cestujícími" class="img-responsive img-popup" data-author="Miloš Brunner">
+<img src="http://i.ohlasy.info/uu9tUxq.jpg" alt="náklaďák s mrtvou drůběží a cestujícími" class="img-responsive img-popup" data-author="Miloš Brunner">
 
 ### Ve městech se mi nelíbí
 
@@ -84,7 +84,7 @@ Rád bych ho udělal tady, abych tam nemusel znovu jet, tehdy už jsem měl znov
 
 Krajiny jsou ve filmu taky, města skoro vůbec, protože města se mi nelíbí. Ale líbí se mi lidé a jejich zvyky. Pohřby, svatby, obřízka, *fady* – což jsou různé zákazy. Pěstování rýže, na které jsou velmi závislí, to je na Madagaskaru plodina číslo jedna. Odile říká i ve filmu, že když nemají jeden den rýži, cítí se nesví. To já se nesvůj necítím, i když ji nemám měsíc, a to mi rýže chutná. Tady jí rýže nechutná, ani Basmati, jí tu jasmínovou. Jinak si zde ale dělá špatné návyky, chutná jí pizza a uzeniny, z dobrého jídla přešla na tohle. Další jídlo na Madagaskaru je zebu – takové ražničí z hovězího, to je velmi dobré. Ale maso si mohou dovolit jen tak jednou týdně a ještě je to kuře, které mi připadá vyběhané a vůbec mi nechutná. Odile mi tvrdí, že je to proto, že mi prodávají kuře pro turisty a oni mají lepší, ale moc jí nevěřím, nikde jsem ho tam neviděl.
 
-<img src="http://i.imgur.com/fgt3ttX.jpg" alt="vlak obložený cestujícími" class="img-responsive img-popup" data-author="Miloš Brunner">
+<img src="http://i.ohlasy.info/fgt3ttX.jpg" alt="vlak obložený cestujícími" class="img-responsive img-popup" data-author="Miloš Brunner">
 
 Odile byla při natáčení velká opora. Když něco nevěděla, mohla se zeptat místních. Na Madagaskaru je špatná infrastruktura a lidé moc necestují. Jen když mají svatby, pohřby nebo rituál, během kterého po pěti nebo sedmi letech po pohřbu vyndávají kosti zemřelých předků a tančí s nimi. To jsou zvláštnosti, které neznáme. Přitom jsou to křesťané. Muslimů je tam málo, asi pět procent, pak určité procento hinduistů. Křesťané jsou většinou protestanti. Tatínek Odile třeba přešel z jedné křesťanské církve do druhé a mamince rozbil sošku Panenky Marie, takže když jsme teď byli v Mexiku, chtěla Odile přivézt mamince dárek a koupili jsme Pannu Marii Guadalupskou, což je svatá patronka celého Maxika. Přes Skype to ukazovala mamince, ta byla strašně šťastná.
 
@@ -102,7 +102,7 @@ Myslím, že velmi špatné. Každá změna je k horšímu, to tam platí přede
 
 Nejsem znalcem politických poměrů, ale nynější prezident – má strašně dlouhé jméno, ale křestní je Hery, tak mu tak říkejme – ten měl být údajně hrozbou pro demokracii, ale před rokem mi lidé říkali, že se to samozřejmě zase horší, ale že se aspoň snaží zamezit ilegálnímu prodeji dřeva a dalších komodit. Jsou tam ještě drahé kameny a možná ještě nějaké nerosty, ropná pole zatím nemají. Prý se to snaží dostat na lepší koleje, ale vládní špičky mu jdou tak po šlapkách, že se to velmi těžko daří.
 
-<img src="http://i.imgur.com/6nRt06w.jpg" alt="kárka s kukuřicí" class="img-responsive img-popup" data-author="Miloš Brunner">
+<img src="http://i.ohlasy.info/6nRt06w.jpg" alt="kárka s kukuřicí" class="img-responsive img-popup" data-author="Miloš Brunner">
 
 ### Madagaskar je hrozně barevný
 
@@ -124,7 +124,7 @@ Horší se to, určitě. Ve velkých městech se to mění rychle, to je sdělov
 
 Tím se vracíme k tomu, jaký asi byl Madagaskar a jaký je a bude. Horší se to rok od roku, Odile to taky říká. Lidé srovnávají západní způsob života, ke kterému se dostanou díky internetu a díky pár turistům, kteří se tam dostanou, začínají si závidět, zvyšuje se kriminalita. To určitě není správné. A jsme to my, kdo to tam zavádí. Ale oni nemají moc velkou invenci a nejsou iniciativní. Je to moje teorie, ale možná na ní něco pravdy je, že kolem rovníku lidé nic moc nemuseli vymýšlet – vždycky měli co jíst, bylo tam teplo, nemuseli se připravovat na zimu. To se podepisuje na charakteru, oni jsou spokojení s tím, co mají, a nepřemýšlejí moc dopředu.
 
-<img src="http://i.imgur.com/9WfbKeE.jpg" alt="malgašská žena v pestrobarevném oblečení" class="img-responsive img-popup" data-author="Miloš Brunner">
+<img src="http://i.ohlasy.info/9WfbKeE.jpg" alt="malgašská žena v pestrobarevném oblečení" class="img-responsive img-popup" data-author="Miloš Brunner">
 
 ### Chameleon může změnit tvůj život
 
@@ -152,7 +152,7 @@ MILOŠ: Možná by to bylo lepší, kdyby bylo víc sněhu. Když bylo pár dní
 
 MILOŠ: Uvidíme. Já pojedu na dva a půl měsíce pracovně do Karibiku, Odile se vrátí domů, ale na jaře budeme možná zase tady v Evropě. Teď už má Odile český pas, takže nemáme žádný problém. 
 
-<img src="http://i.imgur.com/y4dH9iI.jpg" alt="Odile Velomana" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/y4dH9iI.jpg" alt="Odile Velomana" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Film je moje dítě
 

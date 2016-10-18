@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Potřebují Boskovice volnočasový klub pro mládež?"
-cover-photo: http://i.imgur.com/eH7KVDjl.jpg
+cover-photo: http://i.ohlasy.info/eH7KVDjl.jpg
 author: Tomáš Trumpeš
 category: ankety
 ---
@@ -9,7 +9,7 @@ category: ankety
 
 ---
 
-<img src="http://i.imgur.com/ENenyZb.jpg" class="profile-picture" alt="Daniela Sedláková">
+<img src="http://i.ohlasy.info/ENenyZb.jpg" class="profile-picture" alt="Daniela Sedláková">
 
 **Daniela Sedláková, pedagožka SPgŠ**
 
@@ -17,7 +17,7 @@ Domnívám se, že velmi nutně. Dětí nejrůznějšího věku, které jsou po 
 
 ---
 
-<img src="http://i.imgur.com/hn8bGI1.jpg" class="profile-picture" alt="Robert Hořava">
+<img src="http://i.ohlasy.info/hn8bGI1.jpg" class="profile-picture" alt="Robert Hořava">
 
 **Robert Hořava, vedoucí NZDM v Blansku**
 
@@ -30,7 +30,7 @@ Ve městě Boskovice jsme v rámci terénní práce s dětmi a mládeží proved
 
 ---
 
-<img src="http://i.imgur.com/k0YGVYC.jpg" class="profile-picture" alt="http://i.imgur.com/k0YGVYC.jpg">
+<img src="http://i.ohlasy.info/k0YGVYC.jpg" class="profile-picture" alt="http://i.ohlasy.info/k0YGVYC.jpg">
 
 **Lenka Ošlejšková, psycholožka, Gymnázium Boskovice**
 
@@ -40,7 +40,7 @@ V průběhu své praxe ve školství jsem se setkala se studenty, kteří se nez
 
 ---
 
-<img src="http://i.imgur.com/fvEK0G6.jpg" class="profile-picture" alt="Miroslav Dušil">
+<img src="http://i.ohlasy.info/fvEK0G6.jpg" class="profile-picture" alt="Miroslav Dušil">
 
 **Miroslav Dušil, Vatra Boskovice**
 
