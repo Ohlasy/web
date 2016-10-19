@@ -98,6 +98,13 @@ h2, h3 {
     border: none;
 }
 
+@media (max-width: 640px) {
+    .article-preview {
+        margin-bottom: 1ex;
+        padding-bottom: 0;
+    }
+}
+
 /* Article Preview, Big */
 
 .article-preview-big {
@@ -141,6 +148,10 @@ h2, h3 {
 }
 
 /* Article Preview, Middle */
+
+.article-preview-middle {
+    background: #eee;
+}
 
 .article-preview-middle h2 {
     font-weight: normal;
