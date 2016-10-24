@@ -6,7 +6,7 @@ body {
     font-size: 19px;
     line-height: 1.5em;
     color: #444;
-    counter-reset: most-read;
+    counter-reset: article-counter;
 }
 
 /* Site Header */
@@ -223,24 +223,49 @@ footer a {
     border: none;
 }
 
-/* Most Read Articles */
+/* Article Lists */
 
-ol.most-read {
+.article-list {
     font-size: 90%;
     list-style: none;
     margin-left: 0;
     padding-left: 0;
 }
 
-.most-read li {
-    counter-increment: most-read;
+.article-list li {
     position: relative;
     border-top: 1px solid #a3bddf;
     margin-left: 0;
 }
 
-.most-read li:before {
-    content: counter(most-read);
+.article-list a {
+    display: block;
+    height: 5.6em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-top: 5px;
+    color: black;
+}
+
+.article-list-dense a {
+    height: 3em;
+}
+
+.article-list a:hover {
+    color: black;
+    border: none;
+}
+
+ol.article-list li {
+    counter-increment: article-counter;
+}
+
+ol.article-list a {
+    padding-left: 50px;
+}
+
+ol.article-list li:before {
+    content: counter(article-counter);
     position: absolute;
     left: -20px;
     top: 10px;
@@ -248,21 +273,6 @@ ol.most-read {
     text-align: right;
     font-size: 200%;
     color: silver;
-}
-
-.most-read a {
-    display: block;
-    height: 5.6em;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    padding-left: 50px;
-    padding-top: 5px;
-    color: black;
-}
-
-.most-read a:hover {
-    color: black;
-    border: none;
 }
 
 /* Boxes */

@@ -49,14 +49,14 @@ why: A dummy header to make Jekyll process this file.
         <h2 class="row-header">nejčtenější články</h2>
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <ol class="most-read">
+                <ol class="article-list">
                 {% for mostReadPost in site.data.nejctenejsi | limit: 5 %}
                     <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
                 {% endfor %}
                 </ol>
             </div>
             <div class="col-md-4 col-sm-6">
-                <ol class="most-read" start="5">
+                <ol class="article-list" start="5">
                 {% for mostReadPost in site.data.nejctenejsi | offset: 5 %}
                     <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
                 {% endfor %}
