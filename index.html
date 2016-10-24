@@ -18,7 +18,7 @@ why: A dummy header to make Jekyll process this file.
     {% assign interviews = site.array %}
     {% assign opinions = site.array %}
     {% assign serials = site.array %}
-    {% assign investments = site.array %}
+    {% assign culture = site.array %}
     {% assign politics = site.array %}
 
     {% for post in site.posts | offset: 1 %}
@@ -30,9 +30,6 @@ why: A dummy header to make Jekyll process this file.
         {% endif %}
         {% if post.category == 'seriály' %}
             {% assign serials = serials | push: post %}
-        {% endif %}
-        {% if post.tags contains 'investice' %}
-            {% assign investments = investments | push: post %}
         {% endif %}
         {% if post.tags contains 'politika' %}
             {% assign politics = politics | push: post %}
@@ -73,10 +70,7 @@ why: A dummy header to make Jekyll process this file.
         <h2 class="row-header">seriály</h2>
         {% include grid/nine.html items=serials %}
 
-        <h2 class="row-header">investice</h2>
-        {% include grid/nine.html items=investments %}
-
-        <h2 class="row-header">politika</h2>
+        <h2 class="row-header">politika / <a href="/special/obcan/">průvodce aktivního občana</a></h2>
         {% include grid/nine.html items=politics %}
     </div>
 
