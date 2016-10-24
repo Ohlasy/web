@@ -2,7 +2,8 @@
 title: Jozef Regec, Soukromníci
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/hm682JG.jpg
-feature: volby2016
+tags:
+    - volby 2016
 ---
 
 <img src="http://i.ohlasy.info/hm682JG.jpg" alt="Jozef Regec" class="img-responsive img-popup">
@@ -25,7 +26,7 @@ Odmítám tuhle možnost.
 
 **5. Podporujete zahraniční mise naší armády a podpořil byste jejich pokračování či rozšíření, například v Afgánistánu či Iráku?**
 
-Naše speciální jednotky jsou uznávané a jsem pro, aby se i nadále podílely na vojenských operacích v zahraničí. 
+Naše speciální jednotky jsou uznávané a jsem pro, aby se i nadále podílely na vojenských operacích v zahraničí.
 
 **6. Měly by mít supermarkety zavřeno o svátcích, případně každou neděli?**
 
@@ -37,7 +38,7 @@ Složitá otázka. Kdo na to doplatí? Státní zaměstnanci, nebo podnikatelé?
 
 **8. Pokládáte Annu Šabatovou za dobrou ombudsmanku, nebo byste ve funkci viděl raději někoho jiného?**
 
-Myslím si, že paní Šabatová není objektivní a uměl bych si na jejím místě představit jiného člověka. 
+Myslím si, že paní Šabatová není objektivní a uměl bych si na jejím místě představit jiného člověka.
 
 **9. Souhlasíte se zastropováním věku odchodu do důchodu? V jaké výši?**
 
@@ -72,7 +73,7 @@ Myslím, že ano, na druhé straně bych byl rád, aby se do těchto „hlasová
 Odmítám. Jednoznačně.
 
 **17. Podporujete jadernou energetiku, nebo by se měla Česká republika zaměřit na jiné zdroje elektrické energie?**
- 
+
 Podporuji. V budoucnu se ukáže, že je to správná volba.
 
 **18. Senátoři mohou navrhovat prezidentského kandidáta. Kdo by podle vás byl dobrým příštím prezidentem a jaké vlastnosti pokládáte pro tuto funkci za důležité?**

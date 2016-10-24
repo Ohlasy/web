@@ -2,14 +2,15 @@
 title: Jiří Šoltys, Národ sobě
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/PvM5lcy.jpg
-feature: volby2016
+tags:
+    - volby 2016
 ---
 
 <img src="http://i.ohlasy.info/PvM5lcy.jpg" alt="Jiří Šoltys" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
-Ano, hned několik. Nejzásadnější z nich je zákon o zavedení nepodmíněného příjmu. 
+Ano, hned několik. Nejzásadnější z nich je zákon o zavedení nepodmíněného příjmu.
 
 **2. Jaká oblast je vám nejbližší a v jakém senátním výboru byste chtěl pracovat?**
 

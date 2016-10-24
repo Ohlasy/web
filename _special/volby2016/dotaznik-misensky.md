@@ -2,7 +2,8 @@
 title: Jiří Míšenský, ANO
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/xuln7qh.jpg
-feature: volby2016
+tags:
+    - volby 2016
 ---
 
 <img src="http://i.ohlasy.info/xuln7qh.jpg" alt="Jiří Míšenský" class="img-responsive img-popup">
@@ -21,7 +22,7 @@ Ne, je to účelový zákon proti jednomu člověku a odporuje svobodě podniká
 
 **4. Měla by se Česká republika podílet na společném evropském řešení uprchlické krize, včetně ochoty se alespoň o část uprchlíků putujících do Evropy postarat a pokusit se je integrovat na našem území?**
 
-Žádné společné evropské řešení není a integrace neevropských uprchlíků a multikultura  není možná. Islamizace naší země je nepřípustná. Podporuji pomoc v místě, kde problém je a kde žijí. 
+Žádné společné evropské řešení není a integrace neevropských uprchlíků a multikultura  není možná. Islamizace naší země je nepřípustná. Podporuji pomoc v místě, kde problém je a kde žijí.
 
 **5. Podporujete zahraniční mise naší armády a podpořil byste jejich pokračování či rozšíření, například v Afganistánu či Iráku?**
 
@@ -33,7 +34,7 @@ Ano, rodiče by se konečně věnovali dětem a rodině a netrávili volné dny 
 
 **7. Měla by se obnovit výplata nemocenské v prvních třech dnech nemoci?**
 
-Ne, výrazně by se opět zvýšila nemocnost a každý s rýmečkou by zůstal doma. A co podnikatelé ve firmách, když jim pořád někdo chybí a stát to platí? Co znamenalo zrušení regulačního poplatku u lékaře? 25% nárůstu návštěv pacientů u lékařů. 
+Ne, výrazně by se opět zvýšila nemocnost a každý s rýmečkou by zůstal doma. A co podnikatelé ve firmách, když jim pořád někdo chybí a stát to platí? Co znamenalo zrušení regulačního poplatku u lékaře? 25% nárůstu návštěv pacientů u lékařů.
 
 **8. Pokládáte Annu Šabatovou za dobrou ombudsmanku, nebo byste ve funkci viděl raději někoho jiného?**
 
@@ -73,7 +74,7 @@ Ne, myšlenka inkluze je zcestná, stojí nesmírně moc prostředků a je to za
 
 **17. Podporujete jadernou energetiku, nebo by se měla Česká republika zaměřit na jiné zdroje elektrické energie?**
 
-Podporuji jadernou energetiku, zdroje pro klasickou energetiku budou brzo vyčerpány a stejně nic jiného nezbude. A solární energetika v pojetí současném je tunel, který je ukázkou, jak lze vysávat stát v hodnotách stovek miliard. 
+Podporuji jadernou energetiku, zdroje pro klasickou energetiku budou brzo vyčerpány a stejně nic jiného nezbude. A solární energetika v pojetí současném je tunel, který je ukázkou, jak lze vysávat stát v hodnotách stovek miliard.
 
 **18. Senátoři mohou navrhovat prezidentského kandidáta. Kdo by podle vás byl dobrým příštím prezidentem a jaké vlastnosti pokládáte pro tuto funkci za důležité?**
 

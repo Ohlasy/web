@@ -2,7 +2,8 @@
 title: Mária Koudelová, KSČM
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/q4zXyae.jpg
-feature: volby2016
+tags:
+    - volby 2016
 ---
 
 <img src="http://i.ohlasy.info/q4zXyae.jpg" alt="Mária Koudelová" class="img-responsive img-popup">
