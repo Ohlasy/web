@@ -1,64 +1,44 @@
 ---
-why: A dummy header to make Jekyll process this file.
+title: "Ohlasy: Volební speciál 2016"
+subtitle: Volební speciál 2016
+excerpt: Všechny informace o krajských a senátních volbách 2016 na jednom místě.
+cover-photo: http://i.imgur.com/oYwOCP5.jpg
+layout: special
 ---
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-    {% include html/headers.html title="Ohlasy: Volební speciál 2016" %}
-    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="RSS">
-    <meta property="og:image" content="http://i.imgur.com/oYwOCP5.jpg">
-</head>
-<body>
-    <header class="navbar navbar-default">
-        <div class="container">
-            <h1><a href="/">Ohlasy <small>Volební speciál 2016</small></a></h1>
-        </div>
-    </header>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2>Krajské a senátní volby 2016</h2>
-                <p>Podrobné výsledky krajských a senátních voleb si můžete
-                přečíst <a href="http://ohlasy.info/clanky/2016/10/vysledky-voleb.html">
-                v samostatném článku</a>. Stručně řečeno: v Jihomoravském kraji
-                vyhrálo ANO, na druhém místě se co do počtu mandátů umístila
-                ČSSD společně s KDU-ČSL. Koalici nakonec utvořily strany ANO,
-                ČSSD, STAN, TOP 09 a Žít Brno.</p>
-                <p>V druhém kole senátních voleb, které
-                se konalo v pátek 14. a sobotu 15. října, zvítězila nad
-                <a href="http://ohlasy.info/clanky/2016/10/rozhovor-machac.html">
-                Janem Machačem</a> dosavadní boskovická místostarostka
-                <a href="http://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html">
-                Jaromíra Vítková</a>. Jak potvrdila v předvolebním rozhovoru,
-                post místostarostky opustí a velmi pravděpodobně se jej ujme
-                její stranická kolegyně Dagmar Hamalová, dosavadní ředitelka
-                Muzea regionu Boskovicka.</p>
-            </div>
-        </div>
-
-        <h2 class="row-header">senátorské rozhovory</h2>
-        <div class="row row-indented">
-            {% assign interviews = site.tags['senátorské rozhovory 2016'] %}
-            {% for interview in interviews %}
-            {% include article/preview.html article=interview class="col-sm-4 noborder" %}
-            {% endfor %}
-        </div>
-
-        <h2 class="row-header">Senátorský dotazník</h2>
-        <div class="row row-indented">
-            {% assign interviews = site.special | where: "feature", "volby2016" %}
-            {% for interview in interviews %}
-            {% include article/preview.html article=interview class="col-sm-4 noborder" %}
-            {% endfor %}
-        </div>
-
+<div class="row">
+    <div class="col-lg-12">
+        <h2>Krajské a senátní volby 2016</h2>
+        <p>Podrobné výsledky krajských a senátních voleb si můžete
+        přečíst <a href="http://ohlasy.info/clanky/2016/10/vysledky-voleb.html">
+        v samostatném článku</a>. Stručně řečeno: v Jihomoravském kraji
+        vyhrálo ANO, na druhém místě se co do počtu mandátů umístila
+        ČSSD společně s KDU-ČSL. Koalici nakonec utvořily strany ANO,
+        ČSSD, STAN, TOP 09 a Žít Brno.</p>
+        <p>V druhém kole senátních voleb, které
+        se konalo v pátek 14. a sobotu 15. října, zvítězila nad
+        <a href="http://ohlasy.info/clanky/2016/10/rozhovor-machac.html">
+        Janem Machačem</a> dosavadní boskovická místostarostka
+        <a href="http://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html">
+        Jaromíra Vítková</a>. Jak potvrdila v předvolebním rozhovoru,
+        post místostarostky opustí a velmi pravděpodobně se jej ujme
+        její stranická kolegyně Dagmar Hamalová, dosavadní ředitelka
+        Muzea regionu Boskovicka.</p>
     </div>
+</div>
 
-    {% include footer.html %}
+<h2 class="row-header">senátorské rozhovory</h2>
+<div class="row row-indented">
+    {% assign interviews = site.tags['senátorské rozhovory 2016'] %}
+    {% for interview in interviews %}
+    {% include article/preview.html article=interview class="col-sm-4 noborder" %}
+    {% endfor %}
+</div>
 
-    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script defer src="/lib/ad-rotate.js"></script>
-</body>
-</html>
+<h2 class="row-header">senátorský dotazník</h2>
+<div class="row row-indented">
+    {% assign interviews = site.special | where: "feature", "volby2016" %}
+    {% for interview in interviews %}
+    {% include article/preview.html article=interview class="col-sm-4 noborder" %}
+    {% endfor %}
+</div>

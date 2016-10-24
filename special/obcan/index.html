@@ -1,59 +1,40 @@
 ---
-why: A dummy header to make Jekyll process this file.
+title: "Ohlasy: Průvodce aktivního občana"
+cover-photo: http://i.imgur.com/RC7quF5.jpg
+excerpt: Články o boskovické politice a investicích na jednom místě.
+subtitle: Aktivní občan
+layout: special
 ---
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-    {% include html/headers.html title="Ohlasy: Průvodce aktivního občana" %}
-    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="RSS">
-    <meta property="og:image" content="http://i.imgur.com/RC7quF5.jpg">
-</head>
-<body>
-    <header class="navbar navbar-default">
-        <div class="container">
-            <h1><a href="/">Ohlasy <small>Aktivní občan</small></a></h1>
-        </div>
-    </header>
 
-    <div class="container">
-        <h2 class="row-header">politika</h2>
-        {% include grid/five.html items=site.tags.politika %}
+<h2 class="row-header">politika</h2>
+{% include grid/five.html items=site.tags.politika %}
 
-        <h2 class="row-header">praktické odkazy</h2>
-        <div class="row">
-            <div class="col-md-4 col-sm-6">
-                <ul class="article-list article-list-dense">
-                    <li><a href="https://www.hlidacsmluv.cz/Hledat?Q=ico%3A00279978&order=1">Městské smlouvy v Registru smluv</a></li>
-                    <li><a href="http://monitor.statnipokladna.cz/2015/obce/detail/00279978">Hospodaření obce v Monitoru státní pokladny</a></li>
-                    <li><a href="http://rozpocet.boskovice.cz/greportviewer/">Interaktivní rozpočet na webu města</a></li>
-                    <li><a href="http://www.vsechnyzakazky.cz/buyer/detail/139513/Mesto-Boskovice">Přehled veřejných zakázek</a></li>
-                    <li><a href="http://www.boskovice.cz/diskuze/index.asp?">Městské diskuzní fórum</a></li>
-                </ul>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <ul class="article-list article-list-dense">
-                    <li><a href="http://www.mapasamospravy.cz/#18/49.48751/16.65998">Pozemky dotčené úředními dokumenty</a></li>
-                    <li><a href="http://ohlasy.info/special/volby2016/">Speciál ke krajským a senátním volbám 2016</a></li>
-                    <li><a href="http://boskovice.cz/zapisy%2Dz%2Djednani%2Dzm/ds-1267/p1=1180">Zápisy ze zastupitelstva</a></li>
-                    <li><a href="http://boskovice.cz/zapisy%2Dz%2Djednani%2Drm/ds-1266/p1=1183">Zápisy z jednání rady města</a>
-                </ul>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <div class="box"></div>
-            </div>
-        </div>
-
-        <h2 class="row-header">investice</h2>
-        {% include grid/five.html items=site.tags.investice %}
-
-        <h2 class="row-header">volby</h2>
-        {% include grid/five.html items=site.tags.volby %}
+<h2 class="row-header">praktické odkazy</h2>
+<div class="row">
+    <div class="col-md-4 col-sm-6">
+        <ul class="article-list article-list-dense">
+            <li><a href="https://www.hlidacsmluv.cz/Hledat?Q=ico%3A00279978&order=1">Městské smlouvy v Registru smluv</a></li>
+            <li><a href="http://monitor.statnipokladna.cz/2015/obce/detail/00279978">Hospodaření obce v Monitoru státní pokladny</a></li>
+            <li><a href="http://rozpocet.boskovice.cz/greportviewer/">Interaktivní rozpočet na webu města</a></li>
+            <li><a href="http://www.vsechnyzakazky.cz/buyer/detail/139513/Mesto-Boskovice">Přehled veřejných zakázek</a></li>
+            <li><a href="http://www.boskovice.cz/diskuze/index.asp?">Městské diskuzní fórum</a></li>
+        </ul>
     </div>
+    <div class="col-md-4 col-sm-6">
+        <ul class="article-list article-list-dense">
+            <li><a href="http://www.mapasamospravy.cz/#18/49.48751/16.65998">Pozemky dotčené úředními dokumenty</a></li>
+            <li><a href="http://ohlasy.info/special/volby2016/">Speciál ke krajským a senátním volbám 2016</a></li>
+            <li><a href="http://boskovice.cz/zapisy%2Dz%2Djednani%2Dzm/ds-1267/p1=1180">Zápisy ze zastupitelstva</a></li>
+            <li><a href="http://boskovice.cz/zapisy%2Dz%2Djednani%2Drm/ds-1266/p1=1183">Zápisy z jednání rady města</a>
+        </ul>
+    </div>
+    <div class="col-md-4 hidden-sm hidden-xs">
+        <div class="box"></div>
+    </div>
+</div>
 
-    {% include footer.html %}
+<h2 class="row-header">investice</h2>
+{% include grid/five.html items=site.tags.investice %}
 
-    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script defer src="/lib/ad-rotate.js"></script>
-</body>
-</html>
+<h2 class="row-header">volby</h2>
+{% include grid/five.html items=site.tags.volby %}
