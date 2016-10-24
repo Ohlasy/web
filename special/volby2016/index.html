@@ -47,7 +47,7 @@ why: A dummy header to make Jekyll process this file.
 
         <h2 class="row-header">Senátorský dotazník</h2>
         <div class="row row-indented">
-            {% assign interviews = site.tags['volby 2016'] %}
+            {% assign interviews = site.special | where: "feature", "volby2016" %}
             {% for interview in interviews %}
             {% include article/preview.html article=interview class="col-sm-4 noborder" %}
             {% endfor %}

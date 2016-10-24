@@ -2,8 +2,7 @@
 title: Robert Štěpánek, Úsvit
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/WhIBQip.jpg
-tags:
-    - volby 2016
+feature: volby2016
 ---
 
 <img src="http://i.ohlasy.info/WhIBQip.jpg" alt="Robert Štěpánek" class="img-responsive img-popup">
@@ -34,7 +33,7 @@ Ano. Nevidím v tom problém.
 
 **7. Měla by se obnovit výplata nemocenské v prvních třech dnech nemoci?**
 
-Řekl bych, že první tři dny při nachlazení nebo chřipkách, jaké v současné době probíhají, jsou zásadní pro uzdravení člověka. Takže ano.
+Řekl bych, že první tři dny při nachlazení nebo chřipkách, jaké v současné době probíhají, jsou zásadní pro uzdravení člověka. Takže ano. 
 
 **8. Pokládáte Annu Šabatovou za dobrou ombudsmanku, nebo byste ve funkci viděl raději někoho jiného?**
 
@@ -50,11 +49,11 @@ Kdo by nesouhlasil s tím, že by dostal přidané, ale při dnešním daňovém
 
 **11. Jaký je váš názor na legalizaci marihuany, případně větší toleranci takzvaně lehkých drog?**
 
-Je jenom rozdíl, k jakému účelu ji člověk používá – pokud je to ke zdravotním účelům, nevidím v tom problém. Mastičky můžou člověku pomoct. Ale pokud někdo spáchá trestný čin pod vlivem omamných látek, nelze toto považovat za polehčující skutečnost nebo omluvu jeho chování. Takže pokud si někdo pěstuje jednu rostlinku na čaj nebo mast, prokazatelně tím nic a nikoho neohrožuje, tak bych toto neviděl jako něco, proč by měl být trestán.
+Je jenom rozdíl, k jakému účelu ji člověk používá – pokud je to ke zdravotním účelům, nevidím v tom problém. Mastičky můžou člověku pomoct. Ale pokud někdo spáchá trestný čin pod vlivem omamných látek, nelze toto považovat za polehčující skutečnost nebo omluvu jeho chování. Takže pokud si někdo pěstuje jednu rostlinku na čaj nebo mast, prokazatelně tím nic a nikoho neohrožuje, tak bych toto neviděl jako něco, proč by měl být trestán. 
 
 **12. Jak se díváte na možnost adopce stejnopohlavními páry?**
 
-Pokud se jedná o prokazatelně bezproblémové a nekonfliktní partnery, nevidím důvod, proč by nebyli schopni vychovávat děti stejně jako jiný pár.
+Pokud se jedná o prokazatelně bezproblémové a nekonfliktní partnery, nevidím důvod, proč by nebyli schopni vychovávat děti stejně jako jiný pár. 
 
 **13. Souhlasil byste s tím, aby byly střelné zbraně dostupnější, nebo byste podmínky pro jejich držení naopak zpřísnil, nebo vám vyhovuje aktuální stav?**
 
@@ -66,7 +65,7 @@ Pokud se jedná o prokazatelně bezproblémové a nekonfliktní partnery, nevid�
 
 **15. Je podle vás dobře nastavena hranice platnosti místního referenda?**
 
-Její platnost bych rozšířil, občané by měli mít právo odvolat jakéhokoliv politika po dobu jeho působení.
+Její platnost bych rozšířil, občané by měli mít právo odvolat jakéhokoliv politika po dobu jeho působení. 
 
 **16. Líbí se vám myšlenka inkluzivního školství, které vzdělává děti společně bez ohledu na jejich sociální situaci, vyznání, rodinnou konstelaci, postižení, rasu a příslušnost k menšině a vzdělává je individuálně podle jejich potřeb?**
 
@@ -86,7 +85,7 @@ V této chvíli mě nikdo nenapadá.
 
 **20. Jste připraven se kvůli senátorskému postu zcela vzdát svého dosavadního povolání?**
 
-Ano, dělat práci napůl je zcela zbytečné.
+Ano, dělat práci napůl je zcela zbytečné. 
 
 **21. Jaký je rozpočet vaší kampaně, z jakých zdrojů je financována a kolik do ní investujete z vlastních prostředků?**
 

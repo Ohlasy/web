@@ -2,15 +2,14 @@
 title: Jan Machač, ODS
 cover-photo: http://i.ohlasy.info/h6D4aty.jpg
 author: Tomáš Trumpeš
-tags:
-    - volby 2016
+feature: volby2016
 ---
 
 <img src="http://i.ohlasy.info/h6D4aty.jpg" alt="Jan Machač" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
-Ano, určitě chci připravit novelu vzdělávání lékařů, sester a zdravotnického personálu.
+Ano, určitě chci připravit novelu vzdělávání lékařů, sester a zdravotnického personálu. 
 
 **2. Jaká oblast je vám nejbližší a v jakém senátním výboru byste chtěl pracovat?**
 

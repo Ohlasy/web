@@ -2,15 +2,14 @@
 title: Drago Sukalovský, STAN
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/uthQ1E9.jpg
-tags:
-    - volby 2016
+feature: volby2016
 ---
 
 <img src="http://i.ohlasy.info/uthQ1E9.jpg" alt="Drago Sukalovský" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
-Zákon, který chci prosadit, spočívá ve zjednodušení podmínek pro přípravu staveb dálnic. Bez takovéhoto zákona můžeme na stavbu D43 zapomenout nejméně dalších dvacet let, spíše však na ještě déle.
+Zákon, který chci prosadit, spočívá ve zjednodušení podmínek pro přípravu staveb dálnic. Bez takovéhoto zákona můžeme na stavbu D43 zapomenout nejméně dalších dvacet let, spíše však na ještě déle. 
 
 **2. Jaká oblast je vám nejbližší a v jakém senátním výboru byste chtěl pracovat?**
 
@@ -26,23 +25,23 @@ Složitá otázka. Pomáhejme opravdu potřebným v případě, že se dokáží
 
 **5. Podporujete zahraniční mise naší armády a podpořil byste jejich pokračování či rozšíření, například v Afgánistánu či Iráku?**
 
-Další složitá otázka, kde je mnoho pro i proti. Momentálně nevím.
+Další složitá otázka, kde je mnoho pro i proti. Momentálně nevím. 
 
 **6. Měly by mít supermarkety zavřeno o svátcích, případně každou neděli?**
 
-Po rozhovorech se svými známými, kteří, nebo spíše které, protože jde většinou o ženy, pracují jako prodavačky v supermarketech, se spíše kloním k názoru, že by měla být praxe taková, jako dnes většinou je. Jinak řečeno – neděle otevřeno, První, případně Druhý svátek vánoční, Nový rok a Velikonoční pondělí zavřeno. Ostatní svátky otevřeno.
+Po rozhovorech se svými známými, kteří, nebo spíše které, protože jde většinou o ženy, pracují jako prodavačky v supermarketech, se spíše kloním k názoru, že by měla být praxe taková, jako dnes většinou je. Jinak řečeno – neděle otevřeno, První, případně Druhý svátek vánoční, Nový rok a Velikonoční pondělí zavřeno. Ostatní svátky otevřeno. 
 
 **7. Měla by se obnovit výplata nemocenské v prvních třech dnech nemoci?**
 
-Ne.
+Ne. 
 
 **8. Pokládáte Annu Šabatovou za dobrou ombudsmanku, nebo byste ve funkci viděl raději někoho jiného?**
 
-Úřad ombudsmana pokládám za nesystémový a špatný sám o sobě, za úřad, který má být zrušen nebo zásadně změněn. Nynější ombudsmanku pokládám za zcela nekompetentní, vyznávající nebezpečnou ideologii, často nadržující darebákům.
+Úřad ombudsmana pokládám za nesystémový a špatný sám o sobě, za úřad, který má být zrušen nebo zásadně změněn. Nynější ombudsmanku pokládám za zcela nekompetentní, vyznávající nebezpečnou ideologii, často nadržující darebákům. 
 
 **9. Souhlasíte se zastropováním věku odchodu do důchodu? V jaké výši?**
 
-Dle mého názoru je přiměřený věk odchodu do důchodu nejvýše v 65 letech. Obnovil bych pravidla, podle kterých by se ženám, které vychovaly děti, věk odchodu mohl přiměřeně snížit.
+Dle mého názoru je přiměřený věk odchodu do důchodu nejvýše v 65 letech. Obnovil bych pravidla, podle kterých by se ženám, které vychovaly děti, věk odchodu mohl přiměřeně snížit. 
 
 **10. Souhlasil byste s dalším navyšováním minimální mzdy?**
 
@@ -62,7 +61,7 @@ Myslím, že stávající zákon je vcelku vyhovující. Rozhodně nezpřísňov
 
 **14. Podporujete zavedení elektronické evidence tržeb, jak ji prosadila vláda? Nebo byste uvítal výjimky pro některé živnostníky, případně zrušení celého systému?**
 
-Výjimku pro provozovny s obratem například do milionu korun ročně (typicky vesnická hospoda, stánkaři) jsou nezbytné. Větší podniky by principiálně neměly mít s EET problém.
+Výjimku pro provozovny s obratem například do milionu korun ročně (typicky vesnická hospoda, stánkaři) jsou nezbytné. Větší podniky by principiálně neměly mít s EET problém. 
 
 **15. Je podle vás dobře nastavena hranice platnosti místního referenda?**
 
@@ -78,7 +77,7 @@ Jaderné energii, i přes všechny problémy, říkám ano. Diverzifikace zdroj�
 
 **18. Senátoři mohou navrhovat prezidentského kandidáta. Kdo by podle vás byl dobrým příštím prezidentem a jaké vlastnosti pokládáte pro tuto funkci za důležité?**
 
-S hodnocením počkám, až bude volba prezidenta aktuální.
+S hodnocením počkám, až bude volba prezidenta aktuální. 
 
 **19. Jaké osobnosti byste jako senátor navrhoval na vyznamenání?**
 
