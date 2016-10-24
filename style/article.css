@@ -10,7 +10,6 @@ p {
 
 h2 {
     font-size: 200%;
-    line-height: 1.2em;
 }
 
 h3 {
@@ -24,6 +23,7 @@ h3 {
 
 .main-header, .sidebar-header {
     margin-top: 0;
+    line-height: 1.2em;
 }
 
 .sidebar-header {
