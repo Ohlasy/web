@@ -1,5 +1,6 @@
 ---
-title: Radnice chce koupit další pozemek v Červené zahradě. Připravuje smlouvu s majitelem autobazaru
+title: Radnice chce koupit další pozemek v Červené zahradě
+perex: Tentokrát jde o pozemek pod bývalým autobazarem, za který by město mělo zaplatit 5,5 milionu korun.
 cover-photo: http://i.ohlasy.info/aGdxsOBl.jpg
 author: Marek Osouch
 category: zpravodajství
