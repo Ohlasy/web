@@ -76,7 +76,7 @@ h2, h3 {
 }
 
 .article-preview {
-    border-top: 1px solid #a3bddf;
+    border-top: 1px solid silver;
     position: relative;
     overflow: hidden;
 }
@@ -108,7 +108,7 @@ h2, h3 {
 /* Article Preview, Big */
 
 .article-preview-big {
-    border-top: 1px solid #a3bddf;
+    border-top: 1px solid silver;
     background: #eee;
     margin-bottom: 30px;
 }
@@ -278,7 +278,7 @@ footer a {
 
 .article-list li {
     position: relative;
-    border-top: 1px solid #a3bddf;
+    border-top: 1px solid silver;
     margin-left: 0;
 }
 
