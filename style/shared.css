@@ -191,8 +191,28 @@ h2, h3 {
     font-size: 90%;
 }
 
+.block-intro:not(:first-of-type) {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
 .block-intro h2 {
     font-size: 200%;
+    break-after: column;
+    margin-top: -3px;
+    line-height: 1.2em;
+}
+
+.block-intro h2 span {
+    white-space: nowrap;
+}
+
+.block-intro p {
+    margin-bottom: 0;
+}
+
+.block-intro p:not(:first-of-type) {
+    text-indent: 1em;
 }
 
 .block-columned {
