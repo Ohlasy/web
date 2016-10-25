@@ -1,0 +1,31 @@
+---
+title: "Ohlasy: Seriály"
+cover-photo: http://i.imgur.com/7ZKP9Bp.jpg
+excerpt: Seriály o krajině, historii a lidech Boskovicka a okolí.
+subtitle: Seriály
+layout: special
+---
+
+<h2 class="row-header">krajiny boskovicka</h2>
+{% assign articles = site.posts | where: "serial", "krajiny" %}
+{% include grid/nine.html items=articles %}
+
+<h2 class="row-header">rendez-vous s jazykem</h2>
+{% assign articles = site.posts | where: "serial", "jazyk" %}
+{% include grid/nine.html items=articles %}
+
+<h2 class="row-header">z muzejního depozitáře</h2>
+{% assign articles = site.posts | where: "serial", "depozitar" %}
+{% include grid/five.html items=articles %}
+
+<h2 class="row-header">život pod stromy</h2>
+{% assign articles = site.posts | where: "serial", "stromy" %}
+{% include grid/nine.html items=articles %}
+
+<h2 class="row-header">příběhy z ghetta</h2>
+{% assign articles = site.posts | where: "serial", "ghetto" %}
+{% include grid/five.html items=articles %}
+
+<h2 class="row-header">pohledy do historie</h2>
+{% assign articles = site.posts | where: "serial", "historie" %}
+{% include grid/five.html items=articles %}
