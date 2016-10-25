@@ -198,9 +198,12 @@ h2, h3 {
 
 .block-intro h2 {
     font-size: 200%;
-    break-after: column;
     margin-top: -3px;
     line-height: 1.2em;
+}
+
+.block-intro .break {
+    break-after: column;
 }
 
 .block-intro h2 span {
