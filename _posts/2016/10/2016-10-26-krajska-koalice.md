@@ -7,7 +7,7 @@ category: zpravodajství
 tags: politika
 ---
 
-*Hnutí ANO, ČSSD, TOP 09 s Žít Brno a Starostové pro jižní Moravu se dnes definitivně zavázali, že budou další čtyři roky vládnout na jižní Moravě. Podepsali koaliční smlouvu.*
+*Hnutí ANO, ČSSD, TOP 09 s Žít Brno a Starostové pro jižní Moravu se dnes definitivně zavázali, že budou další čtyři roky vládnout na jižní Moravě. Podepsali koaliční smlouvu. Definitivní změny na kraji nastanou až po zvolení nových radních na ustavujícím zastupitelstvu.*
 
 <img src="http://i.imgur.com/UNZMEcH.jpg" alt="Michal Hašek" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
