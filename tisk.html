@@ -1,0 +1,68 @@
+---
+excerpt: Od podzimu 2016 vychází Ohlasy i na papíru. Podívejte se, kde všude je můžete koupit.
+cover-photo: http://i.imgur.com/8Ie8KJs.jpg
+title: Papírové vydání Ohlasů
+---
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    {% include html/headers.html title="Ohlasy na papíru" %}
+    {% include html/open-graph.html %}
+    <link rel="stylesheet" href="/node_modules/leaflet/dist/leaflet.css">
+    <style>
+    #map {
+        height: 400px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    </style>
+</head>
+<body>
+    <header class="navbar navbar-default">
+        <div class="container">
+            <h1><a href="/">Ohlasy <small>dění na Boskovicku</small></a></h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <h2>Papírové vydání</h2>
+                <p>Od listopadu 2016 si můžete Ohlasy přečíst kromě webu
+                i na papíru. Papírové vydání vychází vždy začátkem měsíce
+                a obsahuje výběr z článků, které vyšly na webu v uplynulém
+                měsíci. Pokud o něj máte zájem, nejjednodušší a nejlevnější
+                je <a href="http://predplatne.ohlasy.info">pořídit si
+                předplatné</a>, díky kterému vám Ohlasy každý měsíc přistanou
+                samovolně ve schránce. Pokud vám předplatné z libovolného
+                důvodu nevyhovuje, můžete si Ohlasy koupit jednotlivě na
+                následujících místech:</p>
+                <div id="map"></div>
+                <p>Kdybyste chtěli Ohlasy prodávat ve svém obchodu,
+                <a href="mailto:distribuce@ohlasy.info">napište nám</a>,
+                jistě se domluvíme.</p>
+            </div>
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/node_modules/leaflet/dist/leaflet.js"></script>
+    <script defer src="/lib/ad-rotate.js"></script>
+    <script defer>
+    var map = L.map('map').setView([49.4880, 16.6600], 16);
+    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    L.marker([49.48676, 16.66002]).addTo(map).bindPopup('Kafe za rohem');
+    L.marker([49.48734, 16.65897]).addTo(map).bindPopup('KaKaBu');
+    L.marker([49.48937, 16.65740]).addTo(map).bindPopup('Zdravá výživa Na cestě');
+    L.marker([49.48779, 16.66078]).addTo(map).bindPopup('Knihkupectví Tomáše Špidlíka');
+    L.marker([49.48717, 16.66058]).addTo(map).bindPopup('trafika na náměstí');
+    L.marker([49.48717, 16.66518]).addTo(map).bindPopup('trafika u ZUŠ');
+    L.marker([49.48691, 16.66144]).addTo(map).bindPopup('Galerie Otakara Kubína');
+    </script>
+</body>
+</html>
