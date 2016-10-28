@@ -27,7 +27,7 @@ layout: special
     </div>
 </div>
 
-<h2 class="row-header">senátorské rozhovory</h2>
+<h2>senátorské rozhovory</h2>
 <div class="row row-indented">
     {% assign interviews = site.tags['senátorské rozhovory 2016'] %}
     {% for interview in interviews %}
@@ -35,7 +35,7 @@ layout: special
     {% endfor %}
 </div>
 
-<h2 class="row-header">senátorský dotazník</h2>
+<h2>senátorský dotazník</h2>
 <div class="row row-indented">
     {% assign interviews = site.special | where: "feature", "volby2016" %}
     {% for interview in interviews %}

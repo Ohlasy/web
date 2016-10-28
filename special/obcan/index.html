@@ -6,10 +6,10 @@ subtitle: Aktivní občan
 layout: special
 ---
 
-<h2 class="row-header">aktuální články o boskovické politice</h2>
+<h2>aktuální články</h2>
 {% include grid/five.html items=site.tags.politika %}
 
-<h2 class="row-header">praktické odkazy</h2>
+<h2>praktické odkazy</h2>
 <div class="row">
     <div class="col-md-4 col-sm-6">
         <ul class="article-list article-list-dense">
@@ -33,7 +33,7 @@ layout: special
     </div>
 </div>
 
-<h2 class="row-header">politické komentáře</h2>
+<h2>politické komentáře</h2>
 {% assign opinions = site.array %}
 {% for post in site.tags.politika %}
     {% if post.category == 'názory a komentáře' %}
@@ -42,5 +42,5 @@ layout: special
 {% endfor %}
 {% include grid/nine.html items=opinions %}
 
-<h2 class="row-header">investice</h2>
+<h2>investice</h2>
 {% include grid/five.html items=site.tags.investice %}

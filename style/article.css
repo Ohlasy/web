@@ -8,15 +8,6 @@ p {
 
 /* Headers */
 
-h2 {
-    font-size: 200%;
-}
-
-h3 {
-    font-size: 150%;
-    text-transform: uppercase;
-}
-
 .header-indented {
     margin-bottom: 25px;
 }

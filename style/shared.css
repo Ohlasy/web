@@ -43,9 +43,20 @@ h1 a:hover {
 }
 
 h2, h3 {
-    font-size: 130%;
-    line-height: 1.4em;
     font-weight: bold;
+    line-height: 1.4em;
+    color: #444;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 150%;
+    text-transform: uppercase;
 }
 
 /* Navigation */
@@ -66,13 +77,6 @@ h2, h3 {
 
 .article-grid {
     margin-bottom: 30px;
-}
-
-.row-header {
-    text-transform: lowercase;
-    margin-bottom: 10px;
-    font-size: 120%;
-    color: #444;
 }
 
 .article-preview {
@@ -192,7 +196,7 @@ h2, h3 {
 }
 
 .block-intro:not(:first-of-type) {
-    border-top: 1px solid #ddd;
+    border-top: 1px solid silver;
     padding-top: 20px;
 }
 

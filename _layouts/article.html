@@ -47,7 +47,7 @@
                 {% assign related_articles = related_articles | push: candidate %}
             {% endif %}
         {% endfor %}
-        <h2 class="row-header">další {{ current_category }}</h2>
+        <h2>další {{ current_category }}</h2>
         {% include grid/nine.html items=related_articles %}
     </div>
     {% endif %}
