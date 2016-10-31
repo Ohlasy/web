@@ -1,5 +1,5 @@
 ---
-title: „Celá Evropa mě přesvědčila, že dobro je tak velké, že ta trocha zla ho nemůže přemoct.“
+title: „Celá Evropa mě přesvědčila, že dobro je tak velké, že ta trocha zla to nemůže přemoct.“
 perex: Rozhovor s Karlem Dvořáčkem, který vykonal pouť do Santiaga de Compostela pěšky z Boskovic.
 cover-photo: http://i.imgur.com/CM6OAmKl.jpg
 author: Tomáš Trumpeš
