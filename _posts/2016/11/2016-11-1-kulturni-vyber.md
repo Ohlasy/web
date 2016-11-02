@@ -31,7 +31,7 @@ Na 27. listopad letos připadá první adventní neděle, na prvním z adventní
 
 ### Divadlo
 
-V pátek a v sobotu 4. listopadu kunštátští a drnovští divadelníci v kunštátském kulturním domě představí komedii Antonína Procházky Klíče na neděli. V podání ochotnického souboru ze Štítiny u Opavy uvidíme 5. listopadu na malé scéně stálého kina ve Velkých Opatovicích inscenaci s názvem Upokojenkyně.
+V pátek 4. a v sobotu 5. listopadu kunštátští a drnovští divadelníci v kunštátském kulturním domě představí komedii Antonína Procházky Klíče na neděli. V podání ochotnického souboru ze Štítiny u Opavy uvidíme 5. listopadu na malé scéně stálého kina ve Velkých Opatovicích inscenaci s názvem Upokojenkyně.
 
 V pátek 11. listopadu se dočkáme dalšího improvizačního zápasu místního týmu Lísky, jejich protivníkem tentokrát bude brněnský tým Panda.
 
@@ -53,4 +53,4 @@ Výstava krajináře Jana Odvárky bude zahájena v sobotu 12. listopadu v bosko
 
 V pátek 4. listopadu se v kulturním domě v Letovicích koná beseda s cestovatelem Jiřím Kolbabou Sedm divů Islandu. Ve středu 16. listopadu se svou cestovatelskou one man show Pěšky mezi buddhisty a komunisty v sále boskovického kina vystoupí cestovatel, spisovatel, novinář a především bavič Ladislav Zibura.
 
-Ve stejný den se v kulturním domě v Letovicích již potřetí setkáme s vyprávěním Bohuslava Kudy na téma Letovice, nás domov. Tradiční Setkání s Milošem Štědroněm a hudbou se koná v Galerii Otakara Kubína v pátek 18. listopadu.
+Ve stejný den se v kulturním domě v Letovicích již potřetí setkáme s vyprávěním Bohuslava Kudy na téma Letovice, náš domov. Tradiční Setkání s Milošem Štědroněm a hudbou se koná v Galerii Otakara Kubína v pátek 18. listopadu.
