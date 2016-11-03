@@ -1,12 +1,12 @@
-- name: Předplatné
-  image: http://i.imgur.com/50pS4xy.png
-  alt: Chcete kvalitní novinařinu ve svém regionu? Předplaťte si nás!
-  url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=titles
-  priority: 1000
 - name: Předplatné na papíru
   image: http://i.imgur.com/ONtMljo.png
   alt: Čtete radši na papíru? Předplaťte si nás!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=printed_version
+  priority: 1000
+- name: Svatohubertské slavnosti
+  image: http://i.imgur.com/fDMGFub.png
+  alt: Svatohubertské slavnosti na Zámku Boskovice
+  url: http://www.zamekboskovice.cz/Default.aspx?lang=cs
   priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
@@ -32,4 +32,9 @@
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
   url: http://www.galerie-ok.cz/
+  priority: 800
+- name: Předplatné
+  image: http://i.imgur.com/50pS4xy.png
+  alt: Chcete kvalitní novinařinu ve svém regionu? Předplaťte si nás!
+  url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=titles
   priority: 800
