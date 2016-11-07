@@ -3,11 +3,6 @@
   alt: Čtete radši na papíru? Předplaťte si nás!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=printed_version
   priority: 1000
-- name: Svatohubertské slavnosti
-  image: http://i.imgur.com/fDMGFub.png
-  alt: Svatohubertské slavnosti na Zámku Boskovice
-  url: http://www.zamekboskovice.cz/Default.aspx?lang=cs
-  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
