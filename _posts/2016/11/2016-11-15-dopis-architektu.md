@@ -17,7 +17,7 @@ Není nám lhostejné, jakým způsobem probíhá plánování významných arch
 
 Při rozvoji města jako celku postrádáme racionálně pojatou koncepci jeho urbanistického a architektonického rozvoje, postrádáme jasně a srozumitelně definované cíle a priority města v krátkodobém i dlouhodobém horizontu. Mělo by být jasné, jakými cestami a prostředky toho bude v širších vazbách a v dlouhodobějším horizontu dosaženo, v jakém pořadí a návaznostech.
 
-V úvahách o budoucích veřejných stavbách nám pak schází od počátku jasně definovaná náplň či stavební program. Na něj by měla být upřena pozornost především – v dalších fázích by se o něj pak dalo opřít. Na základě tohoto kroku by pak celé snažení dostalo jasnější kontury. Domníváme se, že zpracování kvalitního zadání ze strany investora/města je nejdůlěžitějším krokem k úspěšné realizaci stavby.
+V úvahách o budoucích veřejných stavbách nám pak schází od počátku jasně definovaná náplň či stavební program. Na něj by měla být upřena pozornost především – v dalších fázích by se o něj pak dalo opřít. Na základě tohoto kroku by pak celé snažení dostalo jasnější kontury. Domníváme se, že zpracování kvalitního zadání ze strany investora/města je nejdůležitějším krokem k úspěšné realizaci stavby.
 
 Jsme sice menší město, ale myslíme si, že by nebylo úplně od věci zamyslet se například nad institutem hlavního architekta – jako nezávislého odborníka, který by měl dostatečné pravomoci a odbornou autoritu k dlouhodobější práci při prosazování urbanistické koncepce či organizování stavebních záměrů města. Institut hlavního architekta se po určité době vrací do stále většího počtu měst v ČR.
 
