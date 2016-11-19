@@ -13,15 +13,15 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
+- name: Advent v kostele
+  image: http://i.imgur.com/CyrqwIy.png
+  alt: adventní koncerty v evangelickém kostele
+  url: http://i.imgur.com/Esbq2fG.png
+  priority: 1000
 - name: Muzeum
   image: http://i.imgur.com/8lRrnXI.jpg
   alt: navštivte Muzeum Boskovicka
   url: http://muzeum.boskovice.cz/
-  priority: 800
-- name: Optik Lukáš
-  image: http://i.imgur.com/k661T6f.png
-  alt: Optik Lukáš
-  url: http://www.optik-lukas.cz
   priority: 800
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
@@ -33,3 +33,8 @@
   alt: Chcete kvalitní novinařinu ve svém regionu? Předplaťte si nás!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=titles
   priority: 800
+- name: Optik Lukáš
+  image: http://i.imgur.com/k661T6f.png
+  alt: Optik Lukáš
+  url: http://www.optik-lukas.cz
+  priority: 700
