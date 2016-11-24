@@ -1,0 +1,23 @@
+---
+title: Živá kultura na menších městech potřebuje hlavně zázemí
+perex: Plány na vznik stálého divadla ve zcela nových prostorách v Blansku vzaly zasvé. S potopením každého dalšího záměru stvrzujeme, že podpora živé kultury je tristní.
+cover-photo: http://i.imgur.com/A0XZF3hl.jpg
+category: názory a komentáře
+author: Tomáš Trumpeš
+tags: kultura divadlo
+---
+
+*Plány na vznik stálého divadla ve zcela nových prostorách v Blansku [vzaly zasvé](http://www.blansko.cz/clanky/2016/11/rada-mesta-nedoporucila-vystavbu-divadla-na-nam-republiky). Neznám podrobnosti návrhu a sama tato myšlenka se opravdu může jevit jako přemrštěná. I tak se však společně s ní opět vynořila otázka, co vlastně jako společnost děláme pro podporu takzvané živé kultury. Odpověď zní, že ta podpora je takřka nulová. S potopením každého dalšího záměru tuto nulu znovu stvrzujeme. A to je samo o sobě tristní.*
+
+<img src="http://i.imgur.com/A0XZF3h.jpg" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+
+Pokládám dlouhodobě za nešťastné, když se proti sobě staví a do jakéhosi konkurenčního boje se pouští oblasti, které si zaslouží podporu stejně nezpochybnitelně. Kupříkladu sport a kultura. Ještě bizarnější je vytvářet takový konflikt uvnitř kultury samotné, přesto se toho dopustím. Živá kultura je na tom totiž oproti té, která pečuje o kulturní dědictví, ještě o poznání hůře. To je ale velmi krátkozraké, kultura je neustálý a proměnlivý proces, a pokud neposkytneme životní prostor tomu, co chce dnes vyrůstat, neudržíme ani to, co jsme zdědili – ztratíme kulturnost jako takovou, ztratíme cit i schopnost ji rozeznávat a vnímat. A navíc by nás kulturní dědictví mělo zavazovat k tomu, abychom ho rozvíjeli.
+
+Jen díky úsilí předchozích generací máme v Boskovicích i v Blansku kupříkladu fungující muzea – tedy samostatné instituce pečující o regionální kulturní odkaz. Mají své zázemí, své budovy, své rozpočty a své odborné zaměstnance. A to je samozřejmě dobře.
+
+Živá kultura ovšem podobné zázemí nemá. Kulturní zařízení či střediska ve městech samozřejmě fungují, ale péče o místní živou kulturu tvoří jen určitou část jejich činnosti. Troufnu si říct, že spíše marginální. A co je nejdůležitější, nemohou samy o sobě nabídnout to, co živá kultura potřebuje jako podporu nejvíce, pokud se má rozvíjet: totiž právě samostatné a kvalitní zázemí. 
+Odtud z Boskovic může fungování blanenského divadla Kolárka vypadat paradoxně dost idylicky. O podobně aktivní jednotce s vlastními prostory a fungujícím divadelním festivalem si mohou Boskovice nechat jen zdát. My, boskovičtí divadelníci, působíme už léta ve zdevastované sokolovně a zkoušíme v nevytopených prostorách navlečení do zimních bund. Nicméně právě proto, že Blansko má takto aktivní a fungující společenství kulturních lidí, je asi logické, že usiluje i o nové, kvalitní a samostatné zázemí. Zní to možná velkolepě, ale stálé divadlo může být i komorní, nemusí se zde konat zdaleka jen divadelní představení a může fungovat na poloprofesionální bázi s rozumným rozpočtem a využitím dobrovolnické energie svých členů. A podobný, tedy komorní a čistě kulturní prostor chybí v obou městech a chybí přímo fatálně. Myslím, že je to právě divadlo, které může být velmi dobrým základem pro vznik skutečně živoucího kulturního prostoru na menším městě. Z tohoto pohledu celá myšlenka logiku dává, protože v Kolárce má Blansko opravdu velkou příležitost, která se nemusí hned tak opakovat. Naopak je pravděpodobné, že pokud se vytvoří dobré zázemí, může se podobný kulturní fenomén dařit udržet dlouhodobě, případně se bude objevovat častěji.
+
+V Boskovicích volání po samostatném kulturním prostoru, vytvářejícím primárně zázemí pro místní kulturní kvas, prakticky utichlo. Možná by stálo za to myšlenku oživit ve vztahu k plánování úprav a využití sokolovny, ale hlavně by stálo za to zamyslet se nad tím, jestli je dobré nechávat místní živou kulturu bez podpory. A tím nemyslím přímé finanční subvence, protože kde není živoucí kulturní zázemí, tam žádné granty nepomůžou. Ohledně nejrůznějších dotací do živé kultury jsem dlouhodobě spíše skeptikem, ale bez galerií, klubů, koncertních sálů a také divadel se obejdeme jen těžko. Možná právě zde je smysluplnější úkol také pro města velikosti Blanska a Boskovic. Vytvářet podobné prostory – a pak už to nechat růst.
+
+Kdyby v Boskovicích v minulosti nepostavili letní kino, těžko bychom dnes měli kupříkladu festival Boskovice. Kdyby nevznikla sokolovna, asi bychom neměli kde zkoušet ani v těch zimních bundách. Myšlenky na vybudování monstrózního letního kina či sokolovny, neřkuli na založení muzea, ve své době možná také nejdřív zněly jako přemrštěné. A přesto se musíme ptát: Co podobného jsme dokázali udělat my?
