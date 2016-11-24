@@ -13,7 +13,7 @@ tags: kultura
 
 **Proč jste se rozhodl vydat knihu právě o Františku Řehořkovi?**
 
-S historikem boskovického muzea Petrem Vítámvásem se často bavíme o všem, co nás zajímá, častým námětem jsou samozřejmě knihy. Vzpomínali jsme na zdařilou výstavu obrazů Františka Řehořka v Muzeu Boskovicka, což už bylo nějakých devět let zpátky. Shodli jsme se, že by si František Řehořek zasloužil nějakou knížku – stejně jako má další z boskovických rodáků umělec Otakar Kubín – klidně i malou s několika obrázky a vzpomínkami. A to bylo před dvěma lety, kdy jsme se rozhodli, že se pokusíme knihu vydat. Mně se do toho popravdě moc nechtělo, ale když jsme postupně začali shánět podklady pro knihu, kniha najednou dostávala úplně jiné obrysy. Jako vydavatel mohu říct, že že příprava a vydání této knihy nás všechny stálo mnoho energie. 
+S historikem boskovického muzea Petrem Vítámvásem se často bavíme o všem, co nás zajímá, častým námětem jsou samozřejmě knihy. Vzpomínali jsme na zdařilou výstavu obrazů Františka Řehořka v Muzeu Boskovicka, což už bylo nějakých devět let zpátky. Shodli jsme se, že by si František Řehořek zasloužil nějakou knížku – stejně jako má další z boskovických rodáků umělec Otakar Kubín – klidně i malou s několika obrázky a vzpomínkami. A to bylo před dvěma lety, kdy jsme se rozhodli, že se pokusíme knihu vydat. Mně se do toho popravdě moc nechtělo, ale když jsme postupně začali shánět podklady pro knihu, kniha najednou dostávala úplně jiné obrysy. Jako vydavatel mohu říct, že příprava a vydání této knihy nás všechny stálo mnoho energie. 
 
 **Bylo to hlavně kvůli tomu, že se moc neví, kde všude Řehořkovy obrazy vlastně visí?**
 
