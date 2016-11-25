@@ -4,7 +4,7 @@ cover-photo: http://i.imgur.com/B5LhH9Il.jpg
 perex: Rozpočet na příští rok míří do zastupitelstva. Počítá s příjmy zhruba 293 milionů a výdaji 358 milionů; schodek tak spolkne všechny peníze naspořené na sportovní halu. 
 author: Marek Osouch
 category: zpravodajství
-tags: investice
+tags: investice politika
 ---
 
 *Rozpočet na příští rok míří do zastupitelstva, které zasedá v úterý 6. prosince. V současné podobě počítá s příjmy zhruba 293 milionů a výdaji 358 milionů. Rozdíl má být uhrazen z úspor na bankovních účtech města, tedy i penězi naspořenými na sportovní halu. Do čeho chce město investovat a co bude příští rok pro ně prioritou?*
