@@ -73,6 +73,6 @@ U kapitoly státní správa a samospráva jsou tři věci, které stojí za pozo
 
 ### Přidružené obce
 
-Peníze poputují také do přidružených obcí, které spadají pod Boskovice. Na Hrádkově vyrostou už zmíněné chodníky, celkově za 500 tisíc, a za dalších 100 tisíc opraví zvoničku. Za 100 tisíc také oplotí sportovní hřiště na nedalekém Vratíkově, kde se také počítá s chodníky a vedení města proto plánuje pro jejich výstavbu vytvořit projektovou dokumentaci, jak je zmíněno dříve. Půl milionu investuje boskovická radnice také do Bačova. Za částku 250 tisíc chce opravit svodník a za zbývajících 250 tisíc fasádu. Nejméně peněz poputuje do Mladkova – pouze 50 tisíc na opravu fasády hasičské zbrojnice.
+Peníze poputují také do přidružených obcí, které spadají pod Boskovice. Na Hrádkově vyrostou už zmíněné chodníky, celkově za 500 tisíc, a za dalších 100 tisíc opraví zvoničku. Za 100 tisíc také oplotí sportovní hřiště na nedalekém Vratíkově, kde se také počítá s chodníky a vedení města proto plánuje pro jejich výstavbu vytvořit projektovou dokumentaci, jak je zmíněno dříve. Půl milionu investuje boskovická radnice také do Bačova. Za částku 250 tisíc chce opravit svodník a za zbývajících 250 tisíc fasádu. Nejméně peněz poputuje do Mladkova – pouze 50 tisíc na opravu fasády hasičské zbrojnice. Dohromady si všechny čtyři osadní výbory rozdělí na opravy ještě 300 tisíc, dalších 300 tisíc dostanou na energie a 20 tisíc na vodu.
 
 *Aktualizace: Článek jsme doplnili o kapitolu věnující se přidruženým obcím.* 
