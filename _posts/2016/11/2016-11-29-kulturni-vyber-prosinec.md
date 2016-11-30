@@ -49,7 +49,7 @@ Stejně jako loni i letos boskovičtí evangelíci ve spolupráci s Gymnáziem B
 
 *Státní zámek Kunštát, 4., 11. a 18. prosince 15:00*
 
-Cyklus adventních koncertů připravili také na zámku v Kunštátě. V neděli 4. prosince vystoupí violloncellistky Natálie Ardaševová a Petra Machková Čadová, v neděli 11. prosince se s hudbou mistrů baroka a klasicismu představí flétnistka Mariia Mikhaillova, hobojistka Yelyzaveta Sukhyna a kytaristé Miloš Pernica a Libor Janeček. V neděli 18. prosince vystoupí mistr starých nástrojů Karel Fleischlinger společně se zpěvačkou Monikou Dopitovou.
+Cyklus adventních koncertů připravili také na zámku v Kunštátě. V neděli 4. prosince vystoupí violoncellistky Natálie Ardaševová a Petra Machková Čadová, v neděli 11. prosince se s hudbou mistrů baroka a klasicismu představí flétnistka Mariia Mikhaillova, hobojistka Yelyzaveta Sukhyna a kytaristé Miloš Pernica a Libor Janeček. V neděli 18. prosince vystoupí mistr starých nástrojů Karel Fleischlinger společně se zpěvačkou Monikou Dopitovou.
 
 ### Michael V.: Viktory Show Live
 
