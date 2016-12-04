@@ -23,6 +23,6 @@ Blanenská radnice [odmítla myšlenku vybudovat na místě bývalého hotelu Du
 
 Radnice ve Svitávce vyhrála letošní ročník celostátní [soutěže o nejkrásnější obecní úřad](http://blanensky.denik.cz/zpravy_region/ve-svitavce-maji-nejkrasnejsi-radnici-shodli-se-na-tom-laici-i-odbornici-20161128.html). Sídlo úřadu je v Löw-Beerově vile.
 
-[Ocenění za celoživotní práci s dětmi](http://blanensky.denik.cz/zpravy_region/ve-svitavce-maji-nejkrasnejsi-radnici-shodli-se-na-tom-laici-i-odbornici-20161128.html) dostal od České rady dětí a mládeže boskovický radní Vladimír Farský.
+[Ocenění za celoživotní práci s dětmi](http://blanensky.denik.cz/zpravy_region/farsky-dostal-oceneni-za-praci-s-detmi-20161129.html) dostal od České rady dětí a mládeže boskovický radní Vladimír Farský.
 
 Na budově brněnské Fakulty architektury byla 17. listopadu [odhalena pamětní deska Pavlu Švandovi](http://www.ceskatelevize.cz/ct24/regiony/jihomoravsky-kraj/1960316-pametni-deska-pro-pavla-svandu-mela-statni-bezpecnost-podil-na), který byl v roce 1981 nalezen mrtvý v propasti Macocha. Jeho smrt nebyla dosud objasněna, ale je připisována komunistické Státní bezpečnosti. Rodina studenta architektury a talentovaného literáta Pavla Švandy žila a dosud žije v Boskovicích, mladý muž byl synovcem kardinála Tomáše Špidlíka.
