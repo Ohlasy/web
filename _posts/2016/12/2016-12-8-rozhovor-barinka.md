@@ -118,7 +118,7 @@ Je to slabší. Galerie už zdaleka není tak produktivní, jak bývala, to je j
 
 **A další generace nejeví o galerii takový zájem?**
 
-Je to obtížné. Dříve sem více chodili i z gymnázia, v rámci výtvarné výchovy. Teď tu byli po mnoha letech podívat se právě na Odvárku. Domlouval jsem se s nimi, že by té možnosti mohli zase využívat častěji. Myslím, že je zde kvalitní umění, ať je to autodidakt nebo akademik, tady si vkus nezkazí. Vystavovali zde opravdu významní umělci jako Oldřich Kulhánek, který navrhoval bankovky, Jaroslav Šerých, jeden z nejvýznamnějších malířů své doby. Oba už nežijí, ale vernisáží tady se ještě účastnili a byl to velký zážitek. To byli okamžiky, kdy jsme museli vernisáže přesunout tady do vestibulu a ten vestibul se naplnil. Byli zde i výstavy významných nežijících umělců, jako třeba Bohdana Laciny.
+Je to obtížné. Dříve sem více chodili i z gymnázia, v rámci výtvarné výchovy. Teď tu byli po mnoha letech podívat se právě na Odvárku. Domlouval jsem se s nimi, že by té možnosti mohli zase využívat častěji. Myslím, že je zde kvalitní umění, ať je to autodidakt nebo akademik, tady si vkus nezkazí. Vystavovali zde opravdu významní umělci jako Oldřich Kulhánek, který navrhoval bankovky, Jaroslav Šerých, jeden z nejvýznamnějších malířů své doby. Oba už nežijí, ale vernisáží tady se ještě účastnili a byl to velký zážitek. To byly okamžiky, kdy jsme museli vernisáže přesunout tady do vestibulu a ten vestibul se naplnil. Byly zde i výstavy významných nežijících umělců, jako třeba Bohdana Laciny.
 
 **Ale tys nikdy nechtěl dělat galerii vysloveně pro ekonomický zisk, je to tak?**
 
