@@ -7,7 +7,7 @@ category: zpravodajství
 tags: politika
 ---
 
-*Report z posledního letošního jednání boskovického zastupitelstva. Byla zvolena nová místostarostka, město rozhodlo o převzetí sokolovny, řešila se proluka na Plačkově, areál Červená zahrada, poplatky za odpad, 65 milionů schodku v rozpočtu na příští rok i platy zaměstanců v nemocnici.*
+*Report z posledního letošního jednání boskovického zastupitelstva. Byla zvolena nová místostarostka, město rozhodlo o převzetí sokolovny, řešila se proluka na Plačkově, areál Červená zahrada, poplatky za odpad, 65 milionů schodku v rozpočtu na příští rok i platy zaměstnanců v nemocnici.*
 
 ### Nová místostarostka, nová radní
 
