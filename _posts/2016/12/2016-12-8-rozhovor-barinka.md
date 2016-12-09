@@ -110,7 +110,7 @@ Jsou. Je to zvlášť [Odvárka](http://www.ohlasy.info/clanky/2016/11/vystava-o
 
 **Přístup návštěvníků se během let změnil?**
 
-Já vlastně nevím, i když nad tím přemýšlím samozřejmě dost často. Odvárku třeba lidé znají, mají ho rádi, je velmi přístupný. Takže zaujme víc než třeba nějaká moderna, která přitáhne jen jedince, kteří to buď dokážou lépe strávit nebo si na to hrají. Odvárka zaujme i starší lidi, zejména ty, kdo na Vysočinu jezdí, protože tamní krajina skutečně odpovídá tomu, co on prezentuje.
+Já vlastně nevím, i když nad tím přemýšlím samozřejmě dost často. Odvárku třeba lidé znají, mají ho rádi, je velmi přístupný. Takže zaujme víc než třeba nějaká moderna, která přitáhne jen jedince, kteří to buď dokážou lépe strávit, nebo si na to hrají. Odvárka zaujme i starší lidi, zejména ty, kdo na Vysočinu jezdí, protože tamní krajina skutečně odpovídá tomu, co on prezentuje.
 
 **A kupují se obrazy méně, nebo stejně?**
 
