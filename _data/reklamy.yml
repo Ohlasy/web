@@ -18,11 +18,6 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Advent v kostele
-  image: http://i.imgur.com/CyrqwIy.png
-  alt: adventní koncerty v evangelickém kostele
-  url: http://i.imgur.com/Esbq2fG.png
-  priority: 1000
 - name: Předplatné na papíru
   image: http://i.imgur.com/ONtMljo.png
   alt: Čtete radši na papíru? Předplaťte si nás!
