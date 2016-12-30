@@ -33,7 +33,7 @@ V neděli 8. ledna budeme mít v boskovickém kině Panorama možnost vidět dok
 
 *Kino Panorama Boskovice, 12. ledna 19:00*
 
-V letošním roce byly digitálně restaurovány dvě filmové adaptace děl Karla Čapka – Bílá nemoc a Krakatit. Krakatit je původně román s prvky sci-fi, napsaný Karlem Čapkem v roce 1922 a vyjadřující obavy z války a obsahující humanistické poselství, týkající se možnosti zneužití moderních technických vynálezů. Filmovou verzi, kterou budeme mít možnost zhlédnout 12. ledna v boskovickém kině Panorama, natočil režisér Otakar Vávra v roce 1948 a nechal se inspirovat nedávnými atomovými útoky na Hirošimu a Nagasaki. Projekce bude doplněna přednáškou čapkovského badatele bosenského původu Hasana Zahiroviće. Jeho výzkum je s naším regionem spojen o to víc, že v Mikšově mlýně ve Skalici nad Svitavou žila Čapkova tajná láska Věra Hrůzová, která byla předobrazem právě Princezny z Krakatitu.
+V letošním roce byly digitálně restaurovány dvě filmové adaptace děl Karla Čapka – Bílá nemoc a Krakatit. Krakatit je původně román s prvky sci-fi, dopsaný Karlem Čapkem v roce 1924 a vyjadřující obavy z války a obsahující humanistické poselství, týkající se možnosti zneužití moderních technických vynálezů. Filmovou verzi, kterou budeme mít možnost zhlédnout 12. ledna v boskovickém kině Panorama, natočil režisér Otakar Vávra v roce 1948 a nechal se inspirovat nedávnými atomovými útoky na Hirošimu a Nagasaki. Projekce bude doplněna přednáškou čapkovského badatele bosenského původu Hasana Zahiroviće. Jeho výzkum je s naším regionem spojen o to víc, že v Mikšově mlýně ve Skalici nad Svitavou žila Čapkova tajná láska Věra Hrůzová, která byla předobrazem právě Princezny z Krakatitu.
 
 ### Masaya + Ve Vlastní Šťávě
 
