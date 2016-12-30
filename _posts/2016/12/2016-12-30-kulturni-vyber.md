@@ -59,7 +59,7 @@ Udílení cen města Boskovice za kulturu je naprostou novinkou, slavnostní vyh
 
 Jim Jarmusch je jedním z nejvýznamnějších současných amerických nezávislých filmových režisérů, filmoví fanoušci budou nejspíš znát například jeho filmy Kafe a cigára, Noc na zemi, Zlomené květiny nebo Ghost Dog: Cesta samuraje. Paterson je jeho nejnovějším režijním počinem, podle informací distributora je příběhem vítězství a porážek všedního dne a krásy, která se skrývá i v těch nejmenších detailech. V rámci připomenutí Jarmuschovy tvorby boskovické kino 26. ledna uvede i jeho starší film Mrtvý muž v hlavní roli s Johnny Deppem.
 
-### Got a Wolf, Kruhy
+### Got a Wolf, Kruhy, Rutka Laskier
 
 *Hudební klub Sklepy, 20. ledna 21:00*
 
