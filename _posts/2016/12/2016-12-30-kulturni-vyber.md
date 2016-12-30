@@ -49,7 +49,7 @@ Dalším titulem z již zaběhlého cyklu Listování je scénické čtení jedn
 
 ### Slavnostní vyhlášení cen města Boskovice za kulturu
 
-*Zámecký skleník Boskovice, 19. ledna*
+*Zámecký skleník Boskovice, 19. ledna 19:00*
 
 Udílení cen města Boskovice za kulturu je naprostou novinkou, slavnostní vyhlášení s kulturním programem proběhne v zámeckém skleníku. Ceny budou udíleny ve dvou kategoriích: za celoživotní přínos v oblasti kultury jsou nominováni středoškolský profesor, překladatel a autor několika publikací Jaroslav Bránský, bývalý dlouholetý ředitel boskovického kina Karel Kovář, předseda sdružení Unijazz a dramaturg a koordinátor festivalu Boskovice Čestmír Huňát a zakladatelé Galerie Otakara Kubína Lenka a Josef Bařinkovi, za výjimečný počin uplynulého období v oblasti kultury potom sbormistr sboru Janáček František Ostrý, provozovatel Galerie Otakara Kubína Josef Bařinka. V kulturním programu vystoupí Cimbálová muzika SPgŠ Boskovice, studenti ZUŠ Boskovice a Pěvecký sbor Janáček.
 
