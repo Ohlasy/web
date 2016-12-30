@@ -63,7 +63,7 @@ Jim Jarmusch je jedním z nejvýznamnějších současných amerických nezávis
 
 *Hudební klub Sklepy, 20. ledna 21:00*
 
-Velkou událostí bude koncert, který se odehraje na Sklepech v pátek 20. ledna. Kapela Got a Wolf, hrající chaotický hardcore ve stylu Converge nebo Norma Jean, se vrací na pódia po rok a půl dlouhé pauze a s vesměs novým repertoárem, pro boskovické posluchače je zajímavá i tím, že za bicími uslyší Vojtěcha Sedláka, který je v poslední době v širším okolí známý především pořádáním drum’n’bassových akcí pod hlavičkou produkční skupiny Mindicted. Dalším vystupujícím bude brněnská kapela Kruhy, navazující na emocorovou tradici například amerických La Dispute, můžeme tedy čekat velmi emocionální a atmosférický hudební zážitek. Vrcholem programu by měla být kapela Rutka Laskier, jeden z nějvětších obejvů české hardcorové scény roku 2016.
+Velkou událostí bude koncert, který se odehraje na Sklepech v pátek 20. ledna. Kapela Got a Wolf, hrající chaotický hardcore ve stylu Converge nebo Norma Jean, se vrací na pódia po rok a půl dlouhé pauze a s vesměs novým repertoárem, pro boskovické posluchače je zajímavá i tím, že za bicími uslyší Vojtěcha Sedláka, který je v poslední době v širším okolí známý především pořádáním drum’n’bassových akcí pod hlavičkou produkční skupiny Mindicted. Dalším vystupujícím bude brněnská kapela Kruhy, navazující na emocorovou tradici například amerických La Dispute, můžeme tedy čekat velmi emocionální a atmosférický hudební zážitek. Vrcholem programu by měla být kapela Rutka Laskier, jeden z nějvětších objevů české hardcorové scény roku 2016.
 
 ### Milostný trojúhelník – Liška, Zbrožek, Polášek
 
