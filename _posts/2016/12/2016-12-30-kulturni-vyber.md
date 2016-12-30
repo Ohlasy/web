@@ -15,13 +15,13 @@ tags: kultura
 *Zámecký skleník Boskovice, 1. ledna 19:00*  
 *Kulturní dům Letovice, 11 ledna 18:30*  
 
-Začátek roku se nese tradičně ve znamení koncertů klasické hudby. V Boskovicích se v první den roku v zámeckém skleníku představí flétnistka Hana Budišová Colombo, rodačka z Boskovic, spolu s kytaristou Milošem Pernicou. Tento koncert přináší oproti minulým rokům, kdy jsme byli zvyklí na Moravské klavírní trio se zahraničními hudebními hosty, určitou změnu, těšit se tentokrát můžeme na hudbu z Latinské Ameriky a Španělska. Komu by přece jen Moravské klavírní trio letos chybělo, má možnost jejich koncert navštívit 11. ledna v kulturním domě v Letovicích. 1. ledna novoroční koncert s přípitkem koná také v kulturním domě v Kunštátě, kde vystoupí Dechová hudba Kunštát.
+Začátek roku se nese tradičně ve znamení koncertů klasické hudby. V Boskovicích se v první den roku v zámeckém skleníku představí flétnistka Hana Budišová Colombo, rodačka z Boskovic, spolu s kytaristou Milošem Pernicou. Tento koncert přináší oproti minulým rokům, kdy jsme byli zvyklí na Moravské klavírní trio se zahraničními pěveckými hosty, určitou změnu, těšit se tentokrát můžeme na hudbu z Latinské Ameriky a Španělska. Komu by přece jen Moravské klavírní trio letos chybělo, má možnost jejich koncert navštívit 11. ledna v kulturním domě v Letovicích. 1. ledna novoroční koncert s přípitkem koná také v kulturním domě v Kunštátě, kde vystoupí Dechová hudba Kunštát.
 
 ### Na obou březích
 
 *Hudební klub Sklepy, 6. ledna 21:00*
 
-V roce 2016 opustilo náš svět nebývalé množství hudebních osobností, především jim tedy bude 6. ledna věnován poslechový večer na Sklepech. Název pořadu odkazuje k básni Šílenství J.H. Krchovského, mimo jiné zhudebněné Mejlou Hlavsou, a naznačuje, že večer bude laděn především undergroundově, znamená ale i propojení obou břehů Atlantiku či právě světa živých a světa mrtvých. Vzpomínat se bude nejen na Davida Bowieho či Leonarda Cohena, ale také například na českého legendárního kytaristu Radima Hladíka.
+V roce 2016 opustilo náš svět nebývalé množství hudebních osobností, především jim tedy bude 6. ledna věnován poslechový večer na Sklepech. Název pořadu odkazuje k básni Šílenství J. H. Krchovského, mimo jiné zhudebněné Mejlou Hlavsou, a naznačuje, že večer bude laděn především undergroundově, znamená ale i propojení obou břehů Atlantiku či právě světa živých a světa mrtvých. Vzpomínat se bude nejen na Davida Bowieho či Leonarda Cohena, ale také například na českého legendárního kytaristu Radima Hladíka.
 
 ### Koudelka fotografuje Svatou zemi
 
@@ -39,7 +39,7 @@ V letošním roce byly digitálně restaurovány dvě filmové adaptace děl Kar
 
 *Hudební klub Sklepy, 14. ledna 21:00*
 
-Po více než osmi měsících se na Sklepy vrací boskovická kapela Masaya jejíž výborné vystoupení jsme měli možnost zažít v prosinci v blanenském Muzikografu. Její členové, jmenovitě Václav Stoupal, Radim Handala, Ivoš Rozehnal a Juanita Cruz, jsou zkušení hudebníci zabývající se různými žánry, o to zajímavější výsledek vzniká, když se všichni spojí v jeden celek. Výsledný styl kapela sama označuje jako hardstyle volcano. V rámci večera vystoupí také černohorská kapela Ve Vlastní Šťávě, vedená Michalem Tůmou. Toto uskupení jsme sice měli možnost na Sklepech slyšet už mnohokrát, nicméně jejich styl se neustále proměňuje, můžeme být tedy zvědaví, co od nich čekat tentokrát.
+Po více než osmi měsících se na Sklepy vrací boskovická kapela Masaya, jejíž výborné vystoupení jsme měli možnost zažít v prosinci v blanenském Muzikografu. Její členové, jmenovitě Václav Stoupal, Radim Handala, Ivoš Rozehnal a Juanita Cruz, jsou zkušení hudebníci zabývající se různými žánry, o to zajímavější výsledek vzniká, když se všichni spojí v jeden celek. Výsledný styl kapela sama označuje jako hardstyle volcano. V rámci večera vystoupí také černohorská kapela Ve Vlastní Šťávě, vedená Michalem Tůmou. Toto uskupení jsme sice měli možnost na Sklepech slyšet už mnohokrát, nicméně jejich styl se neustále proměňuje, můžeme být tedy zvědaví, co od nich čekat tentokrát.
 
 ### Listování: Láska a tělo
 
@@ -63,7 +63,7 @@ Jim Jarmusch je jedním z nejvýznamnějších současných amerických nezávis
 
 *Hudební klub Sklepy, 20. ledna 21:00*
 
-Velkou událostí bude koncert, který se odehraje na Sklepech v pátek 20. ledna. Kapela Got a Wolf, hrající chaotický hardcore ve stylu Converge nebo Norma Jean, se vrací na pódia po rok a půl dlouhé pauze a s vesměs novým repertoárem, pro boskovické posluchače je zajímavá i tím, že za bicími uslyší Vojtěcha Sedláka, který je v poslední době v širším okolí známý především pořádáním drum’n’bassových akcí pod hlavičkou produkční skupiny Mindicted. Dalším vystupujícím bude brněnská kapela Kruhy, navazující na emocorovou tradici například amerických La Dispute, můžeme tedy čekat velmi emocionální a atmosférický hudební zážitek. Vrcholem programu by měla být kapela Rutka Laskier, jeden z nějvětších objevů české hardcorové scény roku 2016.
+Velkou událostí bude koncert, který se odehraje na Sklepech v pátek 20. ledna. Kapela Got a Wolf, hrající chaotický hardcore ve stylu Converge nebo Norma Jean, se vrací na pódia po rok a půl dlouhé pauze a s vesměs novým repertoárem, pro boskovické posluchače je zajímavá i tím, že za bicími uslyší Vojtěcha Sedláka, který je v poslední době v širším okolí známý především pořádáním drum’n’bassových akcí pod hlavičkou produkční skupiny Mindicted. Dalším vystupujícím bude brněnská kapela Kruhy, navazující na emocorovou tradici například amerických La Dispute, můžeme tedy čekat velmi emocionální a atmosférický hudební zážitek. Vrcholem programu by měla být kapela Rutka Laskier, jeden z největších objevů české hardcorové scény roku 2016.
 
 ### Milostný trojúhelník – Liška, Zbrožek, Polášek
 
