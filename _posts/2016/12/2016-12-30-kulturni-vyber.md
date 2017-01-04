@@ -43,7 +43,7 @@ Po více než osmi měsících se na Sklepy vrací boskovická kapela Masaya, je
 
 ### Listování: Láska a tělo
 
-*Kino Panorama Boskovice, 15. ledna 15:30*
+*Kino Panorama Boskovice, 15. ledna 19:30*
 
 Dalším titulem z již zaběhlého cyklu Listování je scénické čtení jedné z posledních knih Arnošta Lustiga Láska a tělo. Arnošt Lustig patří k nejvýznamnějším českým spisovatelům 20. století, kvůli svému židovskému původu prožil několik let v Terezíně, Osvětimi a Buchenwaldu. Téma holocaustu se výrazně promítlo i do jeho díla a ani Láska a tělo není výjimkou – hlavní postavy románu prožívají  milostný příběh právě v terezínském ghettu. Ve scénickém čtení budou účinkovat Bára Jánová, Lukáš Hejlík a Zdeněk Černín nebo Alan Novotný.
 
