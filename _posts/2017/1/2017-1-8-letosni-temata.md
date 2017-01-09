@@ -42,7 +42,7 @@ Otázka přesto zní: Podaří se alespoň částečně uklidnit situaci v nemoc
 
 Téma, které přitahuje hodně pozornosti, je doprava. A zdaleka nejde jen o plánovaný obchvat Boskovic a stavbu silnice D43, o níž už naopak nejspíš nelze hovořit jako o plánované. I podle vyjádření našich politiků dnes totiž ministerstvo dopravy narovinu říká, že s výstavbou D43 nepočítá. Kromě toho bude klíčový přístup k dopravní problematice i ve městě samotném, třeba při plánování nových staveb nebo areálu Červená zahrada.
 
-Otázek se proto nabízí hned několik: Posunu se debata o D43 z mrtvého bodu jakýmkoli směrem? Jak se vyvine [debata o obchvatu](http://www.ohlasy.info/clanky/2016/11/obchvat.html) a jaký postoj k němu zaujme Jihomoravský kraj? A bude se obecně i v Boskovicích prosazovat koncepnější a realističtější přístup k dopravní problematice, než že se pokusíme postavit co nejvíc nových silnic a co nejvíc nových parkovacích míst?
+Otázek se proto nabízí hned několik: Posune se debata o D43 z mrtvého bodu jakýmkoli směrem? Jak se vyvine [debata o obchvatu](http://www.ohlasy.info/clanky/2016/11/obchvat.html) a jaký postoj k němu zaujme Jihomoravský kraj? A bude se obecně i v Boskovicích prosazovat koncepnější a realističtější přístup k dopravní problematice, než že se pokusíme postavit co nejvíc nových silnic a co nejvíc nových parkovacích míst?
 
 ### 7\. Volby 2017
 
