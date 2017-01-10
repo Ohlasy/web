@@ -12,7 +12,7 @@ category: zpravodajství
 
 Investičních akcí mají Boskovice rozpracováno požehnaně. V roce 2017 z nich bude pravděpodobně vyčnívat [Centrum polytechnického vzdělání](http://www.ohlasy.info/clanky/2016/04/centrum-technicke-vychovy.html) v jámě po stavbě haly na Bílkově ulici, vedle základní školy Slovákova. Odhady na stavbu centra, které by mělo škole přinést několik nových učeben, se vyšplhaly z původně uváděných 35 na 75 milionů korun. Město už má hotový projekt a v únoru zažádá o dotaci. I v případě jejího obdržení by do stavby, nad jejímiž přínosy panují velké otazníky, investovalo z vlastního rozpočtu 9–14 milionů korun.
 
-Otázky vyvolává především potřebnost celé stavby, přiměřenost 75 milionové investice a také náklady na její další provoz.
+Otázky vyvolává především potřebnost celé stavby, přiměřenost 75milionové investice a také náklady na její další provoz.
 
 ### 2\. První rok místostarostky Dagmar Hamalové
 
@@ -34,19 +34,19 @@ Otázka nad plány v Červené zahradě: Dočkáme se opravdu profesionálního 
 
 ### 5\. Situace v nemocnici
 
-Nemocnice je pro Boskovické dlouhodobě silné, bolestné a logicky velmi citlivé téma. Bohužel však nic nenasvědčuje tomu, že se by se situace zde mohla zklidnit, ať už se o to současné vedení bude snažit jakkoliv. Politicky se jedná stále o téma rozdělující a výbušné, jakkoliv se ozývají hlasy, že právě to může nemocnici škodit i po stránce odborné. Důvěra je ve zdravotnictví ještě křehčí hodnota než v politice, ale ve světle soudních sporů, auditů a vyhrožování žalobami se klidu dočkáme jen velmi těžko. Stejně tak nelze v takové atmosféře doufat ve věcnou diskusi o budoucnosti nemocnice.
+Nemocnice je pro Boskovické dlouhodobě silné, bolestné a logicky velmi citlivé téma. Bohužel však nic nenasvědčuje tomu, že by se situace zde mohla zklidnit, ať už se o to současné vedení bude snažit jakkoliv. Politicky se jedná stále o téma rozdělující a výbušné, jakkoliv se ozývají hlasy, že právě to může nemocnici škodit i po stránce odborné. Důvěra je ve zdravotnictví ještě křehčí hodnota než v politice, ale ve světle soudních sporů, auditů a vyhrožování žalobami se klidu dočkáme jen velmi těžko. Stejně tak nelze v takové atmosféře doufat ve věcnou diskusi o budoucnosti nemocnice.
 
 Otázka přesto zní: Podaří se alespoň částečně uklidnit situaci v nemocnici a narovnat vztahy mezi vedením města, opozicí, vedením nemocnice, zaměstnanci a zejména veřejností? A ještě zcela věcně: Jaký bude postoj nového vedení kraje k budoucnosti nemocnice, včetně případného převodu pod kraj?
 
 ### 6\. Doprava
 
-Téma, které přitahuje hodně pozornosti, je doprava. A zdaleka nejde jen o plánovaný obchvat Boskovic a stavbu silnice D43, o níž už naopak nejspíš nelze hovořit jako o plánované. I podle vyjádření našich politiků dnes totiž ministerstvo dopravy narovinu říká, že s výstavbou D43 nepočítá. Kromě toho bude klíčový přístup k dopravní problematice i ve městě samotném, třeba při plánování nových staveb nebo areálu Červená zahrada.
+Téma, které přitahuje hodně pozornosti, je doprava. A zdaleka nejde jen o plánovaný obchvat Boskovic a stavbu silnice D43, o níž už naopak nejspíš nelze hovořit jako o plánované. I podle vyjádření našich politiků dnes totiž ministerstvo dopravy na rovinu říká, že s výstavbou D43 nepočítá. Kromě toho bude klíčový přístup k dopravní problematice i ve městě samotném, třeba při plánování nových staveb nebo areálu Červená zahrada.
 
-Otázek se proto nabízí hned několik: Posunu se debata o D43 z mrtvého bodu jakýmkoli směrem? Jak se vyvine [debata o obchvatu](http://www.ohlasy.info/clanky/2016/11/obchvat.html) a jaký postoj k němu zaujme Jihomoravský kraj? A bude se obecně i v Boskovicích prosazovat koncepnější a realističtější přístup k dopravní problematice, než že se pokusíme postavit co nejvíc nových silnic a co nejvíc nových parkovacích míst?
+Otázek se proto nabízí hned několik: Posune se debata o D43 z mrtvého bodu jakýmkoli směrem? Jak se vyvine [debata o obchvatu](http://www.ohlasy.info/clanky/2016/11/obchvat.html) a jaký postoj k němu zaujme Jihomoravský kraj? A bude se obecně i v Boskovicích prosazovat koncepnější a realističtější přístup k dopravní problematice, než že se pokusíme postavit co nejvíc nových silnic a co nejvíc nových parkovacích míst?
 
 ### 7\. Volby 2017
 
-Z hlediska celostátní politiky bude konec letošního roku opravdu výživný. Na podzim nás čekají parlamentní volby, které pak volně přejdou do kampaně před prezidentskou volbou, která se uskuteční na začátku roku 2018. Nejpozději od konce prázdnin se tedy země ocitne v dlouhé intenzivní politické kampani. A jaký to bude mít vliv na Boskovicko? Nálady z celostátní politiky se jednak přenášejí i na regionální úroveň a také se bude hrát o to, jestli bude mít region své zastoupení v poslanecké sněmovně. V tomto volebním období tomu tak není.
+Z hlediska celostátní politiky bude konec letošního roku opravdu výživný. Na podzim nás čekají parlamentní volby, které pak volně přejdou do kampaně před prezidentskou volbou, která se uskuteční na začátku roku 2018. Nejpozději od konce prázdnin se tedy země ocitne v dlouhé intenzivní politické kampani. A jaký to bude mít vliv na Boskovicko? Nálady z celostátní politiky se jednak přenášejí i na regionální úroveň a také se bude hrát o to, jestli bude mít region své zastoupení v Poslanecké sněmovně. V tomto volebním období tomu tak není.
 
 Takže otázky zní: Jakou zprávu o své přízni vyšlou voliči v regionu stranám rok před komunálními volbami? Bude mít někdo z místních politiků ambici a schopnost prosadit se na kandidátce své strany na volitelnou pozici?
 
@@ -54,7 +54,7 @@ Takže otázky zní: Jakou zprávu o své přízni vyšlou voliči v regionu str
 
 Oprava letního kina se po prvotním váhání stala první větší stavební akcí, do které se aktuální vedení města pustilo. Projekt na další etapu rekonstrukce, která má zahrnovat především opravu hlediště, provázely na počátku nejasnosti týkající se především výsledné kapacity míst k sezení. Pozdržel se i začátek prací po Husích slavnostech, logicky tak vzniká obava, jestli bude kino včas připraveno na novou sezónu. A co bude po ní? Aktuálně schválený rozpočet s další etapou prací po letošní letní sezóně nepočítá. Ale to nepočítal ani ten minulý a nakonec se situace změnila.
 
-Proto se nabízejí otázky: Stihne se naplánovaná část rekonstrukce letního kino včas, aby se zde v červnu mohly konat plánované akce? A naváže hned po sezóně další pokračování oprav?
+Proto se nabízejí otázky: Stihne se naplánovaná část rekonstrukce letního kina včas, aby se zde v červnu mohly konat plánované akce? A naváže hned po sezóně další pokračování oprav?
 
 ### 9\. Hrad Boskovice
 
