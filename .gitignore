@@ -1,7 +1,4 @@
 _site
-.analytics-*
 .bundle/
 vendor
 .jekyll-metadata
-.cabal*
-cabal*
