@@ -43,6 +43,7 @@ why: A dummy header to make Jekyll process this file.
         <h2>názory &amp; komentáře</h2>
         {% include grid/nine.html items=opinions %}
 
+        {% if site.data.nejctenejsi.size > 0 %}
         <h2>nejčtenější články</h2>
         <div class="row">
             <div class="col-md-4 col-sm-6">
@@ -63,6 +64,7 @@ why: A dummy header to make Jekyll process this file.
                 <div class="box"></div>
             </div>
         </div>
+        {% endif %}
 
         <h2>rozhovory</h2>
         {% include grid/five.html items=interviews %}
