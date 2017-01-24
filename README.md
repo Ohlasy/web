@@ -14,3 +14,6 @@
 
 * Pokud se web přeloží dobře, Travis nakonec spustí skript [s3_website](https://github.com/laurilehmijoki/s3_website), který vygenerované soubory nahraje do [Amazon S3](https://aws.amazon.com/s3/). Související soubory: [s3_website.yml](https://github.com/Ohlasy/web/blob/gh-pages/s3_website.yml).
 
+### Licencování
+
+Kód je uvolněn pod [licencí MIT](https://opensource.org/licenses/MIT). Na texty článků se vztahuje licence [Creative Commons BY–NC–ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) – stručně řečeno je můžete volně šířit, ale pouze pokud odkážete na jejich zdroj, nebudete je nijak měnit a nebudete je využívat komerčně.
