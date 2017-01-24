@@ -1,7 +1,7 @@
 markdown: kramdown
 
 name: Ohlasy
-description: 'Internetové noviny pro Boskovice a okolí'
+description: 'Noviny pro Boskovice a okolí'
 url: 'http://ohlasy.info'
 
 collections:
@@ -9,13 +9,11 @@ collections:
     output: true
     permalink: /:collection/:path.html
 
-gems: ['jekyll-paginate']
-
 permalink: '/clanky/:year/:month/:title.html'
 
 jekyll_get:
-    data: nejctenejsi
-    json: 'https://ohlasy.github.io/analytics/top-articles.json'
+  data: nejctenejsi
+  json: 'https://ohlasy.github.io/analytics/top-articles.json'
 
 defaults:
   -
