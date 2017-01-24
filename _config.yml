@@ -13,7 +13,7 @@ permalink: '/clanky/:year/:month/:title.html'
 
 jekyll_get:
   data: nejctenejsi
-  json: 'https://ohlasy.github.io/analytics/top-articles.json'
+  json: 'http://data.ohlasy.info/top-articles.json'
 
 defaults:
   -
