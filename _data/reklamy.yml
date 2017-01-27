@@ -8,6 +8,11 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
+- name: Kamélie
+  image: http://i.imgur.com/Rp6NnkD.png
+  alt: Výstava kamélií na Zámku Rájec
+  url: https://www.zamekrajec.cz/cs/akce/19458-krehka-krasa-kamelie-a-sklo
+  priority: 1000
 - name: Gymnázium
   image: http://i.imgur.com/CsSHXre.jpg
   alt: Otevřený den na Gymnáziu Boskovice
@@ -17,7 +22,7 @@
   image: http://i.imgur.com/ONtMljo.png
   alt: Čtete radši na papíru? Předplaťte si nás!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=printed_version
-  priority: 900
+  priority: 1000
 - name: Muzeum
   image: http://i.imgur.com/8lRrnXI.jpg
   alt: navštivte Muzeum Boskovicka
@@ -32,4 +37,4 @@
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
-  priority: 700
+  priority: 800
