@@ -1,15 +1,20 @@
 ---
-title: Jiří Šoltys, Národ sobě
+title: "Senátorský dotazník: Jiří Šoltys, Národ sobě"
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/PvM5lcy.jpg
-feature: volby2016
+category: rozhovory
+tags:
+    - senátní volby 2016
+    - politika
 ---
+
+*Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jiří Šoltys, který do senátu kandiduje za stranu Národ sobě.*
 
 <img src="http://i.ohlasy.info/PvM5lcy.jpg" alt="Jiří Šoltys" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
-Ano, hned několik. Nejzásadnější z nich je zákon o zavedení nepodmíněného příjmu. 
+Ano, hned několik. Nejzásadnější z nich je zákon o zavedení nepodmíněného příjmu.
 
 **2. Jaká oblast je vám nejbližší a v jakém senátním výboru byste chtěl pracovat?**
 

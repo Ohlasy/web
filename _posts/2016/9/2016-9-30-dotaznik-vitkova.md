@@ -1,17 +1,22 @@
 ---
-title: Jaromíra Vítková, KDU‑ČSL
+title: "Senátorský dotazník: Jaromíra Vítková, KDU‑ČSL"
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/aSDpYZU.jpg
-feature: volby2016
+category: rozhovory
+tags:
+    - senátní volby 2016
+    - politika
 ---
+
+*Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jaromíra Vítková, místostarostka Boskovic kandidující do senátu za stranu KDU-ČSL.*
 
 <img src="http://i.ohlasy.info/aSDpYZU.jpg" alt="Jaromíra Vítková" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěla navrhnout a prosadit?**
 
-Za stěžejní považuji fungující zákon o sociálních službách. Aktuálně: uvést do praxe novelu tohoto zákona. Tato novela do značné míry ovlivní, jaká pomoc se dostane lidem, kteří se ocitnou v obtížných životních situacích – ať už kvůli pokročilému věku, vážné nemoci nebo péči o člena rodiny. Již 4 roky probíhá optimalizace sociálních služeb a jak pro poskytovatele, tak pro občany není vždy příznivá, ke zlepšení může přispět právě uvedený zákon a jeho novela. 
+Za stěžejní považuji fungující zákon o sociálních službách. Aktuálně: uvést do praxe novelu tohoto zákona. Tato novela do značné míry ovlivní, jaká pomoc se dostane lidem, kteří se ocitnou v obtížných životních situacích – ať už kvůli pokročilému věku, vážné nemoci nebo péči o člena rodiny. Již 4 roky probíhá optimalizace sociálních služeb a jak pro poskytovatele, tak pro občany není vždy příznivá, ke zlepšení může přispět právě uvedený zákon a jeho novela.
 
-Druhou oblastí legislativy, které bych se chtěla věnovat, je přerozdělování daňových příjmů obcím. Obcím a městům přibývají činnosti, řada úkonů se na obce přenáší ze strany státu i krajů. Proto je důležité posílit daňové příjmy obcí a měst. 
+Druhou oblastí legislativy, které bych se chtěla věnovat, je přerozdělování daňových příjmů obcím. Obcím a městům přibývají činnosti, řada úkonů se na obce přenáší ze strany státu i krajů. Proto je důležité posílit daňové příjmy obcí a měst.
 
 **2. Jaká oblast je vám nejbližší a v jakém senátním výboru byste chtěla pracovat?**
 
@@ -23,7 +28,7 @@ Ano, souhlasím s ním.
 
 **4. Měla by se Česká republika podílet na společném evropském řešení uprchlické krize, včetně ochoty se alespoň o část uprchlíků putujících do Evropy postarat a pokusit se je integrovat na našem území?**
 
-Ve věci uprchlické krize je třeba jednat rychle a současně připravovat dlouhodobější opatření, která zabrání velkým migračním vlnám v budoucnosti. Je třeba změnit azylový zákon, zefektivnit vrácení osob bez nároku na azyl, ale současně se věnovat vzdělávání a rekvalifikaci legálních uprchlíků. Dále udělovat uprchlíkům z válečných zón povolení k pobytu jen do doby, než se budou moci vrátit. 
+Ve věci uprchlické krize je třeba jednat rychle a současně připravovat dlouhodobější opatření, která zabrání velkým migračním vlnám v budoucnosti. Je třeba změnit azylový zákon, zefektivnit vrácení osob bez nároku na azyl, ale současně se věnovat vzdělávání a rekvalifikaci legálních uprchlíků. Dále udělovat uprchlíkům z válečných zón povolení k pobytu jen do doby, než se budou moci vrátit.
 
 **5. Podporujete zahraniční mise naší armády a podpořila byste jejich pokračování či rozšíření, například v Afgánistánu či Iráku?**
 
@@ -67,7 +72,7 @@ Od povinnosti zavedení elektronické evidence tržeb bych osvobodila některé 
 
 **15. Je podle vás dobře nastavena hranice platnosti místního referenda?**
 
-S ohledem na praktické zkušenosti se domnívám, že tento zákon je třeba upravit s přihlédnutím na politickou tradici, zvyklosti a zájem občanů vyjadřovat svůj názor prostřednictvím nástrojů přímé demokracie. 
+S ohledem na praktické zkušenosti se domnívám, že tento zákon je třeba upravit s přihlédnutím na politickou tradici, zvyklosti a zájem občanů vyjadřovat svůj názor prostřednictvím nástrojů přímé demokracie.
 
 **16. Líbí se vám myšlenka inkluzivního školství, které vzdělává děti společně bez ohledu na jejich sociální situaci, vyznání, rodinnou konstelaci, postižení, rasu a příslušnost k menšině a vzdělává je individuálně podle jejich potřeb?**
 

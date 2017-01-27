@@ -4,11 +4,6 @@ name: Ohlasy
 description: 'Noviny pro Boskovice a okolí'
 url: 'http://ohlasy.info'
 
-collections:
-  special:
-    output: true
-    permalink: /:collection/:path.html
-
 permalink: '/clanky/:year/:month/:title.html'
 
 jekyll_get:
@@ -22,12 +17,6 @@ defaults:
       type: posts
     values:
       layout: 'article'
-  -
-    scope:
-      path: ''
-      type: special
-    values:
-      layout: 'volby2016'
 
 future: false
 exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'package.json', 'Makefile', 's3_website.yml']

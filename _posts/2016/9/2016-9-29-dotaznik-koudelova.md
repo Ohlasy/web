@@ -1,9 +1,14 @@
 ---
-title: Mária Koudelová, KSČM
+title: "Senátorský dotazník: Mária Koudelová, KSČM"
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/q4zXyae.jpg
-feature: volby2016
+category: rozhovory
+tags:
+    - senátní volby 2016
+    - politika
 ---
+
+*Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Mária Koudelová, která do senátu kandiduje za stranu KSČM.*
 
 <img src="http://i.ohlasy.info/q4zXyae.jpg" alt="Mária Koudelová" class="img-responsive img-popup">
 

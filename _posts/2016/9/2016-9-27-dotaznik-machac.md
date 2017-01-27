@@ -1,15 +1,20 @@
 ---
-title: Jan Machač, ODS
+title: "Senátorský dotazník: Jan Machač, ODS"
 cover-photo: http://i.ohlasy.info/h6D4aty.jpg
 author: Tomáš Trumpeš
-feature: volby2016
+category: rozhovory
+tags:
+    - senátní volby 2016
+    - politika
 ---
+
+*Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jan Machač, který do senátu kandiduje za stranu ODS.*
 
 <img src="http://i.ohlasy.info/h6D4aty.jpg" alt="Jan Machač" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 
-Ano, určitě chci připravit novelu vzdělávání lékařů, sester a zdravotnického personálu. 
+Ano, určitě chci připravit novelu vzdělávání lékařů, sester a zdravotnického personálu.
 
 **2. Jaká oblast je vám nejbližší a v jakém senátním výboru byste chtěl pracovat?**
 
