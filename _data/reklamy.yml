@@ -8,11 +8,6 @@
   alt: reklama na podlahy Anatis
   url: http://anatis.cz/
   priority: 1000
-- name: Kamélie
-  image: http://i.imgur.com/Rp6NnkD.png
-  alt: Výstava kamélií na Zámku Rájec
-  url: https://www.zamekrajec.cz/cs/akce/19458-krehka-krasa-kamelie-a-sklo
-  priority: 1000
 - name: Gymnázium
   image: http://i.imgur.com/CsSHXre.jpg
   alt: Otevřený den na Gymnáziu Boskovice
