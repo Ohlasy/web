@@ -15,7 +15,7 @@ tags: kultura hudba
  
 **Void.Sec:** Začalo to tak, že jsme se s Davidem znali docela dlouho z gymplu, já jsem v té době hrál v kapele, David neměl žádné hudební aktivity, ale pak jsme v jednom momentu zjistili, že nás oba baví podobná elektronická hudba…
 
-**Dejfunk:** Víš, kdo to způsobil? Byl to Sejby, který si tehdy koupil kontrolér a díky tomu…
+**Dejfunk:** Víš, kdo to způsobil? Byl to Sejby, který si tehdy koupil kontrolér, a díky tomu…
 
 **Void.sec:** To je pravda. Sejby je teď už spíš náš čestný člen, ale byl jedním z lidí, co stáli u zrodu Mindicted. Koupil si první DJský kontrolér a nám to přišlo cool, tak jsme si od něho ten kontrolér půjčili a začali jsem si hrát nějakej hip-hop, nějakej dubstep, drum’n’bass spíš okrajově. A protože nás to bavilo, tak jsme se s Davidem domluvili, že uděláme spolu akci na Sklepech. Jmenovalo se to Music of Mass Destruction – a to bylo úplně první, dá se to považovat za zrod Mindicted, protože den potom jsme si napsali, že bychom to chtěli dělat častěji, že si myslíme, že v tom můžeme být dobří. Domluvili jsme se, že drum’n’bass nás z toho baví nejvíc. Dlouho trvalo, než jsme vymysleli název. Pak jsme přišli s názvem Mindicted Crew a udělali jsme první akci na Sklepech, a to byl Bassment, který vlastně děláme občas doteď.
  
@@ -59,7 +59,7 @@ tags: kultura hudba
 
 **Void.Sec:** A pak ještě Igor, s tím jsme se zkontaktovali přes internet, zašli jsme s ním na kafe…
 
-**Dejfunk:** Na pivo.Tehdy vlastně ještě se Sejbym.
+**Dejfunk:** Na pivo. Tehdy vlastně ještě se Sejbym.
 
 **Void.Sec:** Jo, na pivo. A říkali jsme si, že by to mohla být oboustranně výhodná spolupráce.
 
@@ -89,7 +89,7 @@ tags: kultura hudba
 
 **Dejfunk:** Pro mě je drum’n’bass taky to, že na akci přijdou lidi, kteří tu hudbu mají rádi stejně jako my, zajímá je a dokážou ocenit, co děláme.
 
-**Void.Sec:** Mně se líbí, že to není, jako když typický návštěvník přijde na diskotéku, je mu vesměs jedno, co tam hraje za hudbu, nezajímají ho producenti, nezajímá ho ta subkultura. Lidi se tam přijdou jenom pobavit. Kdežto lidi, co chodí na naše akce, sledují, co hrajeme, jsou v tom žánru dost poučení. Sledujou, co vychází, jak hrajeme a podobně.
+**Void.Sec:** Mně se líbí, že to není, jako když typický návštěvník přijde na diskotéku, je mu vesměs jedno, co tam hraje za hudbu, nezajímají ho producenti, nezajímá ho ta subkultura. Lidi se tam přijdou jenom pobavit. Kdežto lidi, co chodí na naše akce, sledujou, co hrajeme, jsou v tom žánru dost poučení. Sledujou, co vychází, jak hrajeme a podobně.
 
 **Dejfunk:** Když to vezmeš v poměru k jiným žánrům, tak určitě. Jsou to lidi, kteří přišli kvůli té hudbě.
  
@@ -99,7 +99,7 @@ tags: kultura hudba
  
 **Co všechno kromě samotného hraní obnáší práce v crew? Máte práci nějak rozdělenou?**
  
-**Dejfunk:** Jo, každý má svoje úkoly. Já a Vojta máme té práce asi nejvíc, Vojta tedy určitě nejvíc. Jeho se týká rozdělování úkolů, co potom dělají ti další. Moje hlavní úloha je to, že bookuju umělce na naše akce, zařizuju komunikaci s agentem, starám se o pohodlí interpreta, o dopravu na akci, z akce, z letiště, do hotelu a podobně, taky zařizuju ubytování. Pak samozřejmě úplně všichni dělají to, že tlačí ostatní do toho, aby něco dělali. Když už má někdo úkol, tak všichni řeší, aby ten člověk na něm dělal.
+**Dejfunk:** Jo, každý má svoje úkoly. Já a Vojta máme té práce asi nejvíc, Vojta tedy určitě nejvíc. Jeho se týká rozdělování úkolů, co potom dělají ti další. Moje hlavní úloha je to, že bookuju umělce na naše akce, zařizuju komunikaci s agentem, starám se o pohodlí interpretů, o dopravu na akci, z akce, z letiště, do hotelu a podobně, taky zařizuju ubytování. Pak samozřejmě úplně všichni dělají to, že tlačí ostatní do toho, aby něco dělali. Když už má někdo úkol, tak všichni řeší, aby ten člověk na něm dělal.
 
 **Void.Sec:** Prostě se vzájemně motivujeme.
  
@@ -109,7 +109,7 @@ tags: kultura hudba
 
 **Dejfunk:** Já bych ještě dodal to, že my dva, já a Vojta, se asi nejvíc podílíme na propagaci akcí.
 
-**Void.Sec:** Každá akce představuje hodně produkční práce. Psaní tiskovek, rozhovorů, textů eventů… To mám na starosti já, ale všichni máme například přístup k naší facebookové stránce, všichni můžeme sdílet nějaké odkazy a tím se podílet na komunikaci s lidmi, kteří nás sledují.
+**Void.Sec:** Každá akce představuje hodně produkční práce. Psaní tiskovek, rozhovorů, textů eventů… To mám na starosti já, ale všichni máme například přístup k naší facebookové stránce, všichni můžeme sdílet nějaké odkazy a tím se podílet na komunikaci s lidmi, kteří nás sledujou.
  
 **Takže pořádání akcí je hlavní činnost? Jak často něco pořádáte?**
  
