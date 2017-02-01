@@ -103,7 +103,7 @@ V každém případě si myslím, že je hlavně potřeba tam začít něco děl
 
 Těch věcí, které by tam podle projektu měly být, je docela dost. Není to tak, že tam někdo postaví čtyři zdi a bude to stát sedmdesát milionů. Se vším, co je okolo, včetně parkoviště, klidové zóny a dalších věcí okolo, co jsem viděl v projektu, mi to přijde odpovídající.
 
-Tím se dostáváme k tomu, že jsi ekonom. Jak ses díval na rozhodnutí vedení města utratit naspořené úspory? To možná je jeden z rozdílů mezi bývalou a současnou radnicí, [pan starosta Dohnálek říkal](http://www.ohlasy.info/clanky/2015/02/rozhovor-jaroslav-dohnalek.html), že má rád, když jsou nějaké peníze naspořené v šuplíčku. Tahle koalice se rozhodla je utratit, navíc je nepoužila na nějakou významnější investici, ale [rozptýlila je v rozpočtu](http://www.ohlasy.info/clanky/2016/11/novy-rozpocet.html).
+**Tím se dostáváme k tomu, že jsi ekonom. Jak ses díval na rozhodnutí vedení města utratit naspořené úspory? To možná je jeden z rozdílů mezi bývalou a současnou radnicí, [pan starosta Dohnálek říkal](http://www.ohlasy.info/clanky/2015/02/rozhovor-jaroslav-dohnalek.html), že má rád, když jsou nějaké peníze naspořené v šuplíčku. Tahle koalice se rozhodla je utratit, navíc je nepoužila na nějakou významnější investici, ale [rozptýlila je v rozpočtu](http://www.ohlasy.info/clanky/2016/11/novy-rozpocet.html).**
 
 Můj ekonomický pohled je ten, že v dobách růstu a prosperity by se mělo myslet i na horší časy.
 
