@@ -17,7 +17,7 @@ Do kin byl uveden film o nejspíš nejvěhlasnější osobnosti pocházející z
 
 V Boskovicích je připraveno [více než 80 parcel k výstavbě rodinných domů](http://www.ohlasy.info/clanky/2017/01/realitni-boom.html).
 
-Za rok platnosti vyhlášky zakazující hazard zmizely z Boskovic téměř všechny videoloterijní terminály. Ze 140 evidovaných Ministerstvem financí k 31. prosinci roku 2015 jich v Boskovicích zbylo už jen šest v motobaru U Draka. Licence jim postupně končí v letošním a příštím roce. Další automaty ale člověk stále vidí i při vstupu do restaurace Záložna.
+Za rok platnosti vyhlášky zakazující hazard zmizely z Boskovic téměř všechny videoloterijní terminály. Ze 140 evidovaných Ministerstvem financí k 31. prosinci roku 2015 jich v Boskovicích zbylo už jen šest v motobaru U Draka. Licence jim postupně končí v letošním a příštím roce. Další automaty ale člověk stále vidí i při vstupu do restaurace Záložna, jsou však vypojené ze sítě.
 
 Boskovická radnice zavádí novou formu komunikace s občany – takzvaný [Mobilní rozhlas](http://boskovice.cz/mobilni-rozhlas-je-vam-kdispozici/d-30088/p1=1019). Jedná se o komunikační bránu, díky které je možné občanům poslat hromadné SMS zprávy, hlasové zprávy, e-maily i zprávy do mobilní aplikace a současně od nich získat i zpětnou vazbu. Pro občany je jedinou podmínkou k využívání tohoto systému bezplatné zaregistrování. K využívání služeb není třeba mít smartphone, stačí i tlačítkový mobilní telefon nebo počítač s připojením na internet. Do Mobilního rozhlasu je také integrována aplikace ZMAPUJ TO, pomocí které mohou občané nahlásit na úřad věci, které se jim nelíbí. Danou věc vyfotí, doplní popisem a kontaktem a odešlou.
 
