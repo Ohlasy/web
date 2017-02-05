@@ -1,10 +1,7 @@
 language: ruby
 rvm:
   - 2.0
-cache:
-    directories:
-        - vendor
-        - $HOME/.rvm
+cache: bundler
 script: bundle exec jekyll build
 install: bundle install
 after_success: bundle exec s3_website push
