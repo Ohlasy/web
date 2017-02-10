@@ -13,11 +13,6 @@
   alt: Výstava kamélií na Zámku Rájec
   url: https://www.zamekrajec.cz/cs/akce/19458-krehka-krasa-kamelie-a-sklo
   priority: 1000
-- name: Gymnázium
-  image: http://i.imgur.com/2wWr8ej.jpg
-  alt: Otevřený den na Gymnáziu Boskovice
-  url: https://www.gymbos.cz/prijimaci-rizeni/
-  priority: 1000
 - name: Předplatné na papíru
   image: http://i.imgur.com/ONtMljo.png
   alt: Čtete radši na papíru? Předplaťte si nás!
