@@ -18,6 +18,11 @@
   alt: Čtete radši na papíru? Předplaťte si nás!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=printed_version
   priority: 1000
+- name: Ložiska
+  image: http://i.imgur.com/4nJ0dNw.png
+  alt: Ložiska, klínové řemeny, gufera v Boskovicích
+  url: http://www.loziska-boskovice.cz
+  priority: 900
 - name: Muzeum
   image: http://i.imgur.com/8lRrnXI.jpg
   alt: navštivte Muzeum Boskovicka
