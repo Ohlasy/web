@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Kniha barokních kázání B. J. Bílovského"
 perex: Svým způsobem klenotem mezi starými tisky je sbírka barokních svátečních kázání od Bohumíra Josefa Bílovského, kněze a kazatele, který svého času působil jako farář v Letovicích.
-cover-photo: http://i.imgur.com/dt9Q67Ll.jpg
+cover-photo: http://i.ohlasy.info/dt9Q67Ll.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
@@ -10,7 +10,7 @@ tags: historie
 
 *Svým způsobem klenotem mezi starými tisky je sbírka barokních svátečních kázání od Bohumíra Josefa Bílovského, kněze a kazatele, který svého času působil jako farář v Letovicích a o němž literární historik Josef Vašica napsal: „Řekl bych, že právě lidé, jejichž vkus klade nejvyšší požadavky na literární dílo, najdou u Bílovského ukojení, jako zřídka kde jinde.“*
 
-<img src="http://i.imgur.com/dt9Q67L.jpg" alt="letovický kostel" class="img-responsive img-popup" data-author="Petr Vítámvás">
+<img src="http://i.ohlasy.info/dt9Q67L.jpg" alt="letovický kostel" class="img-responsive img-popup" data-author="Petr Vítámvás">
 
 Kniha není zachována v úplnosti, chybí jí desky, což ji z hlediska antikvárního snižuje hodnotu. Jinak ovšem nechybí žádný list, a tak to, čím je kniha nejcennější – totiž svým obsahem – je dochováno v úplnosti. Celý její český titul zní: *Nebe svatosvaté, aneb Kázání sváteční ke cti a slávě nejsvětější rodičky Boží Marie Panny a všech milých vyvolených Božích, kterých svátky svatá církev světí…*
 
@@ -18,7 +18,7 @@ Trochu neobvyklým způsobem je titul datován – Léta kterého BeneDICt za pa
 
 Bohumír Josef Bílovský, někdy se též psal Gottfryd Jozef či Bohumír Hynek Bílovský, se narodil pravděpodobně v říjnu roku 1658 v Hlučíně, v roce 1677 vstoupil do jezuitského řádu, noviciát absolvoval v brněnské koleji, a dále studoval na filosofických fakultách v Olomouci a v Praze, v roce 1690 ukončil studia, z řádu vystoupil a působil jako kněz ve farnostech pražské arcidiecéze.  V letech 1691–1694 působil jako farář v Choustníku v jižních Čechách a od roku 1695 byl děkanem v Písku. V létě roku 1695 jej pozvali jezuité z Březnice (u Příbrami), aby proslovil slavnostní kázání na svátek sv. Ignáce z Loyoly, zakladatele jezuitského řádu, což svědčí o tom, že se s jezuitským řádem nerozešel ve zlém a také o tom, že již tehdy byl považován za výmluvného kazatele. Jeho mladší současník a písecký rodák de Waldt o něm podal svědectví, že byl vynikající teolog a filosof, „vzácný básník, neporovnatelný řečník a kazatel, úžasný komik, dvořan a politik, ve styku s lidmi velmi oblíbený, muž konečně zcela výjimečný“.
 
-<img src="http://i.imgur.com/5v2eOdF.jpg" alt="snímek z knihy" class="img-responsive img-popup" data-author="Petr Vítámvás">
+<img src="http://i.ohlasy.info/5v2eOdF.jpg" alt="snímek z knihy" class="img-responsive img-popup" data-author="Petr Vítámvás">
 
 O Bílovského březnické kázání byl takový zájem, že lidé, kteří se do kostela nedostali, si zvenku přistavovali k oknům žebříky a lavice, aby mohli aspoň takto naslouchat. A to tamější jezuitský kostel není z nejmenších. Nicméně Bílovský si svým proslovem popudil řadu lidí. Postupem času se jeho spory s farním klérem i s píseckými měšťany stupňovaly a vedly v roce 1701 k jeho odchodu na Moravu. Nejprve přišel do Vrahovic u Prostějova jako administrátor (1701–1703), v letech 1703–1708 byl farářem v Letovicích a od srpna 1708 až do své smrti 9. prosince 1724 působil jako farář ve Velkých Slatěnicích.
 

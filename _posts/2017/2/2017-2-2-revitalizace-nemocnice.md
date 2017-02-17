@@ -1,7 +1,7 @@
 ---
 title: "Boskovická nemocnice se má za 36 milionů změnit k nepoznání"
 perex: Z vnějšku vypadá nemocnice moderně, po vstupu už se ale každý pacient vrátí o několik desítek let zpátky v čase. Právě veškeré chodby a čekárny chce město letos začít opravovat.
-cover-photo: http://i.imgur.com/NzBYfD0.jpg
+cover-photo: http://i.ohlasy.info/NzBYfD0.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice nemocnice
@@ -9,7 +9,7 @@ tags: investice nemocnice
 
 *Z vnějšku vypadá nemocnice moderně, po vstupu už se ale každý pacient vrátí o několik desítek let zpátky v čase. Právě veškeré chodby a čekárny chce město letos začít opravovat. O peníze žádá na Ministerstvu zdravotnictví.*
 
-<img src="http://i.imgur.com/6cKFPT6.jpg" alt="současný interiér nemocnice" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/6cKFPT6.jpg" alt="současný interiér nemocnice" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 „V mých očích má nemocnice nedostatky v tom, že se někde člověk ocitne v 70. letech minulého století. Některé věci by v dnešní době už být neměly. Když sedíte v čekárně, kde je každá židle jiná, je to špatně,“ řekl jednatel boskovické nemocnice Miloš Janeček v [loňském rozhovoru pro Ohlasy](http://www.ohlasy.info/clanky/2016/04/rozhovor-janecek.html) po 100 dnech v křesle jednatele. Už tehdy se v jeho hlavě zrodil zásadní úkol pro letošní rok: modernizace vnitřních prostor nemocnice, aby odpovídaly 21. století a vše mezi sebou designově ladilo.
 
@@ -17,7 +17,7 @@ Vedení nemocnice proto v součinnosti s boskovickou radnicí nechalo loni zprac
 
 Architekti nemocnici při popisu současného stavu vůbec nešetřili: „Návštěvníci jsou ve většině veřejně přístupných prostor konfrontováni s téměř šedesát let starými interiéry a v některých prostorách jen o něco mladším mobiliářem,“ stojí ve zpracované studii. Mobiliář je navíc podle nich mnohdy silně poškozený. Část externích lékařů, kteří mají od nemocnice pronajaté ordinace, sice pořídila do čekáren nový nábytek, ale v nejednotném designu a různých barvách. Problémem nejsou jen židle, ale celkově i výmalba, osvětlení nebo nejednotné či chybějící značení a informace u jednotlivých ambulancí. Pacient je tak zmatený, na které straně dveří nebo zda přímo na nich má hledat ordinační dobu a další informace od lékaře.
 
-<img src="http://i.imgur.com/NzBYfD0.jpg" alt="vizualizace interiéru po rekonstrukci" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/NzBYfD0.jpg" alt="vizualizace interiéru po rekonstrukci" class="img-responsive img-popup">
 
 Všechny tyto problémy vnitřku nemocnice řeší právě zmíněná studie. Z podlah by měla zmizet mozaiková keramická dlažba, která je na mnoha místech poškozená. Nahradit by ji měla vinylová krytina. „Dveře do oddělení budou postupně měněny za nové ve stejném materiálovém a barevném řešení. Všechny ostatní dveře v ocelových zárubních budou repasovány nebo vyměněny, čalouněné dveře budou nahrazeny akusticky izolačními v případě skutečné potřeby,“ napsali architekti.
 

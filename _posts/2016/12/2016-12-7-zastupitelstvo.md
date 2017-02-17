@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Od volby místostarostky po platy v nemocnici"
 perex: "Nová místostarostka, převzetí sokolovny, Červená zahrada, poplatky za odpad, 65 milionů schodku v rozpočtu, platy lékařů v nemocnici a další."
-cover-photo: http://i.imgur.com/D55eLDGl.jpg
+cover-photo: http://i.ohlasy.info/D55eLDGl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

@@ -1,6 +1,6 @@
 ---
 title: „K hendikepovaným je důležité nepřistupovat s lítostí.“
-cover-photo: http://i.imgur.com/NBhtT3Yl.jpg
+cover-photo: http://i.ohlasy.info/NBhtT3Yl.jpg
 perex: Rozhovor s Davidem Zachovalem, který je od července letošního roku novým vedoucím Útvaru sociálních služeb Betany Boskovice.
 author: Martina Vašková
 category: rozhovory
@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Davidem Zachovalem, který je od července letošního roku novým vedoucím Útvaru sociálních služeb Betany Boskovice. Povídali jsme si o cílech, provozu a financování zařízení pro osoby s mentálním postižením lehkého a středního stupně a pro lidi s kombinovaným postižením. Betany v Boskovicích funguje už dvaadvacet let.*
 
-<img src="http://i.imgur.com/NBhtT3Y.jpg" alt="David Zachoval" class="img-responsive img-popup" data-author="Martina Vašková">
+<img src="http://i.ohlasy.info/NBhtT3Y.jpg" alt="David Zachoval" class="img-responsive img-popup" data-author="Martina Vašková">
 
 **Betany Boskovice vedete několik měsíců, kde jste působil předtím a proč jste se rozhodl právě pro toto zařízení?**
 

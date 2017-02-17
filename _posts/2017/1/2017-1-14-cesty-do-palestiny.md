@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Cesty boskovických Židů do Palestiny"
-cover-photo: http://i.imgur.com/9uQeis2l.jpg
+cover-photo: http://i.ohlasy.info/9uQeis2l.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -15,7 +15,7 @@ Samotný název sionismus je odvozen od pahorku Sijon, který se nachází ve St
 
 V Boskovicích se myšlenky tohoto hnutí patrně uchytily dosti značnou měrou – svědčí o tom například existence spolku Zion-Verein, o jehož činnosti se však bližší informace nedochovaly. Zato jsou dosti dobře zdokumentovány sionistické aktivity příslušníků některých rodin, konkrétně šlo o rodiny Ungarů a Ticho, jejichž osudy zpracoval ve svých knihách Jaroslav Bránský.
 
-<img src="http://i.imgur.com/2dRKYpZ.jpg" alt="rodný dům Hermanna Ungara" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/2dRKYpZ.jpg" alt="rodný dům Hermanna Ungara" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Ve Zborovské ulici v domě číslo 11 žil a podnikal nám dobře známý Emil Ungar, likérník a provozovatel hostince, který svého času zastával funkci židovského starosty. Své životní dráhy se sionismem spojily všechny jeho tři děti, i když v případě nejstaršího syna Hermanna to bylo pouze dočasně. Hermann (narozen 1893), pozdější spisovatel, se stal přesvědčeným sionistou v době svých studií v Berlíně. V letech 1911 a 1912 zde studoval hebrejštinu a arabistiku a byl členem místního sionistického spolku Hasmonäa. Následná studia práv však přerušila 1. světová válka, které se Hermann zúčastnil jako jednoroční dobrovolník a dokonce obdržel medaili za statečnost. Po úrazu nohy byl seznán neschopným další frontové služby a byl z armády propuštěn. Pokračoval pak v Praze ve studiu práv, která dokončil v roce 1918 doktorátem. Válečné zkušenosti ovšem velmi změnily jeho sionistické smýšlení. Vyjádřil své pochybnosti o mravní podstatě sionismu, protože prý s ním přišel na svět nový, intolerantní a agresivní nacionalismus. Hermannovo změněné politické smýšlení se projevilo i jeho příklonem k čechoslovakismu a ideám masarykovské demokratické republiky, kterým zůstal věrný až do své smrti v roce 1929.
 
@@ -29,7 +29,7 @@ Aaron vystudoval zemědělství na vysoké škole ve Vídni, poté v roce 1914 o
 
 Aaronův starší bratr Abraham vystudoval medicínu ve Vídni, odkud byl frankfurtskou organizací „Lemá an Zion“ vyslán do Jeruzaléma, aby zde založil oční kliniku. Zakrátko sem za ním přijela jeho sestřenice Anna, malířka, která se stala Abrahamovou manželkou a zároveň celoživotní asistentkou. Za 1. světové války sloužil MUDr. Ticho jako vojenský lékař, získal celou řadu vyznamenání. V roce 1919 založil v Jeruzalémě soukromou oční nemocnici a současně vedl řadu let oftalmologické oddělení Rothschildovy kliniky. Zaměřil se především na boj proti trachomu, nebezpečnému infekčnímu onemocnění oka.
 
-<img src="http://i.imgur.com/9uQeis2.jpg" alt="manželé Ticho" class="img-responsive img-popup">
+<img src="http://i.ohlasy.info/9uQeis2.jpg" alt="manželé Ticho" class="img-responsive img-popup">
 
 V roce 1924 manželé Ticho koupili dům arabského hodnostáře, zvaný palác Hagy Rašída, v jehož přízemí zřídili oční kliniku, v poschodí byl byt a Annin ateliér. Častými hosty zde byli významní činitelé, umělci a intelektuálové, například náboženský filozof, spisovatel, sionista Martin Buber. Za 40 let své lékařské praxe léčil MUDr. Ticho asi 140 tisíc židovských i arabských pacientů, provedl přes 40 tisíc operací, nerozděloval pacienty na bohaté a chudé, ortodoxní či nevěřící, židy a muslimy. Operoval na své klinice až do poloviny 50. let, kdy onemocněl a byl upoután na lůžko. Až do jeho smrti v roce 1960 se o něj pečlivě starala manželka Anna. Tato rodačka z Brna projevovala od dětství mimořádný výtvarný talent, umění studovala nějaký čas ve Vídni. Svůj život v Jeruzalémě obětovala z větší části práci po boku svého manžela v nemocnici, volné chvíle však trávila kresbou či malbou, v plenéru anebo v ateliéru. Hlavním tématem se jí stala krajina v okolí Jeruzaléma, tyto její obrazy jsou považovány za nejkrásnější. Vystavovala v mnoha zemích světa, obdržela řadu ocenění, mj. v roce 1980 krátce před svou smrtí Cenu Izraele. Anna Ticho je označována za vůbec největší izraelskou malířku.
 

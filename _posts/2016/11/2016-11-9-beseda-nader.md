@@ -1,6 +1,6 @@
 ---
 title: "Syrský uprchlík besedoval v Boskovicích o odchodu z vlasti i přijetí v Německu"
-cover-photo: http://i.imgur.com/9RQG63ol.jpg
+cover-photo: http://i.ohlasy.info/9RQG63ol.jpg
 perex: Proč se rozhodl Sýrii opustit, jak vidí tamní válečnou situaci, a jak si zvyká na nový život v Německu?
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: migrace
 
 *Syrský uprchlík Nader Alkhaddour navštívil v říjnu Boskovice společně s výpravou německých evangelíků ze Saalu nad Dunajem a Kehlheimu, kde sídlí partnerský sbor boskovických evangelíků. Při návštěvě vyprávěl o tom, proč se rozhodl Sýrii opustit, jak vidí tamní válečnou situaci, a také jak si zvyká na nový život v Německu, kde žije už 10 měsíců.*
 
-<img src="http://i.imgur.com/9RQG63o.jpg" alt="Nader Alkhaddour" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/9RQG63o.jpg" alt="Nader Alkhaddour" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 „Nejprve bych chtěl říct něco o tom, jaká byla Sýrie před tím, než tato válka začala,“ začal své vyprávění Nader. Do roku 2010 podle něj byla Sýrie naprosto moderní země. Nebyla jednolitá, ale existovalo zde hodně různých náboženských a etnických prostředí. Největší byla a je část muslimská, ale už ta existuje v Sýrii v mnoha různých odstínech – jednak jsou to sunnité i šíité, ale také mnoho dalších a méně známých odnoží islámu. Křesťané tvoří asi 20 procent populace, většina z nich jsou pravoslavní a žijí zejména na venkově v okolí Homsu a Damašku. V Sýrii je také mnoho Kurdů a Jezídů. „Sýrie je velká směs různých náboženských skupin, které žily až do roku 2010 vedle sebe zcela samozřejmě a jeden přijímal druhého. Já jsem se už jako dítě v Sýrii naučil respektovat kohokoliv. Nemám problém s lidmi žádného náboženství, a nemám dokonce ani problém s těmi, kdo říkají, že nevěří v Boha. Problém mám s těmi, kdo sahají k zabíjení, ať už jsou z jakéhokoliv prostředí.“
 
@@ -23,7 +23,7 @@ Začátek Arabského jara byl zvláštní zejména tím, že najednou bylo v Sý
 
 Tato situace se podle Nadera stále zhoršovala a začali se do ní zapojovat i příslušníci okolních států, kteří přicházeli z Turecka, Íránu, ze Saudské Arábie. Někteří Syřané se začali připojovat ke gangům, jiní ke státní armádě. Zemi velkou asi jako polovina Německa armáda přestala mít pod kontrolou. Prezident Assad měl dlouhodobě dobré vztahy s Ruskem, takže požádal o pomoc ruskou armádu. Do té doby žádní ruští vojáci v Sýrii nebyli, ale Sýrie nakupovala od Ruska zbraně a vojenskou techniku. „Ale Rusko zde mělo svůj zájem a snažilo se zde uplatnit, aby tvořilo opoziční sílu proti NATO. Hlavně proto, že NATO je silné v Turecku,“ vysvětloval Nader. V tu chvíli se podle něj vložily do situace i Spojené státy americké, aby potlačily ruský vliv. A přidalo se i Turecko, které se snaží potlačit Kurdy usilující o vlastní stát. A další země z oblasti Perského zálivu chtěly sesadit Assada, takže se do situace vložily také. „To, co se děje v Sýrii, není občanská válka, je to válka nejrůznějších politických zájmů jiných států.“
 
-<img src="http://i.imgur.com/TnhT4TC.jpg" alt="Nader Alkhaddour" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/TnhT4TC.jpg" alt="Nader Alkhaddour" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 ### Útěk před válkou
 

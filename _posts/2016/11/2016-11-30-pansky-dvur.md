@@ -1,7 +1,7 @@
 ---
 title: Upravený projekt na rekonstrukci Panského dvora opět neprošel
 perex: Ani další pokus získat kladné stanovisko Státní památkové péče pro rekonstrukci významné boskovické památky Panský dvůr na Hradní ulici se majiteli nevydařil.
-cover-photo: http://i.imgur.com/hgUxyDil.jpg
+cover-photo: http://i.ohlasy.info/hgUxyDil.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Další pokus získat kladné stanovisko Státní památkové péče pro rekonstrukci významné boskovické památky Panský dvůr na Hradní ulici se majiteli nevydařil. Vyjádření k upravenému projektu zní stejně, totiž že naplánovaná rekonstrukce je nepřípustná. A opět nepomohlo ani kladné vyjádření Národního památkového ústavu.*
 
-<img src="http://i.imgur.com/hgUxyDi.jpg" alt="panský dvůr" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/hgUxyDi.jpg" alt="panský dvůr" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Majitelem objektu je společnost Pražská 5, kterou zastupuje jednatel Luděk Řehoř. Ten říká, že negativní stanovisko očekával, i když upravená verze projektu by podle něj už projít mohla. A poukazuje právě na opakovaný rozpor ve stanoviscích brněnských památkářů a boskovického úřadu. „Jsem obětí rozdílného názoru mezi Národním památkovým ústavem a Státní památkovou péčí,“ říká Luděk Řehoř. Do soudního sporu pro újmu a poškození, způsobené těmito rozdílnými náhledy státních institucí, však jít nechce, aby objekt nezatěžoval dalším problémem. Místo toho je odhodlaný hledat nové řešení.
 

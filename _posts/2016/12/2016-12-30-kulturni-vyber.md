@@ -2,7 +2,7 @@
 title: Gianniho kulturní výběr na leden
 perex: Nová podoba kulturní rubriky přináší několik tipů na zajímavé akce v regionu, které by bylo škoda minout.
 author: Jan Bařinka
-cover-photo: http://i.imgur.com/msCqWoIl.jpg
+cover-photo: http://i.ohlasy.info/msCqWoIl.jpg
 category: zpravodajství
 tags: kultura
 ---

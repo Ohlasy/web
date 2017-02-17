@@ -1,7 +1,7 @@
 ---
 title: Otevřený dopis architektů boskovickým radním
 perex: Trojice architektů pocházejících z Boskovic se obrátila na vedení města s otevřeným dopisem, ve kterém volají po koncepčnějším a profesionálnějším řešení při plánování, přípravě a realizaci významných městských staveb.
-cover-photo: http://i.imgur.com/Xp2QSURl.jpg
+cover-photo: http://i.ohlasy.info/Xp2QSURl.jpg
 author: Petr Ondráček
 category: zpravodajství
 tags: architektura

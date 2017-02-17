@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Vlčí skála"
 perex: Pořádná mrazivá zima s bohatou sněhovou nadílkou, která po několika letech opět zavítala do střední Evropy, je jako stvořená k vyprávění o vlcích a starých časech. A není snad k tomu vhodnějšího místa, než je Vlčí skála.
-cover-photo: http://i.imgur.com/dv76Cfel.jpg
+cover-photo: http://i.ohlasy.info/dv76Cfel.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
@@ -10,7 +10,7 @@ tags: krajina
 
 *Pořádná mrazivá zima s bohatou sněhovou nadílkou, která po několika letech opět zavítala do střední Evropy, je jako stvořená k vyprávění o vlcích a starých časech. A není snad k tomu vhodnějšího místa, než je Vlčí skála. Pravda, Vlčí skála leží už na katastru Sloupu, tedy mimo administrativně vymezené vlastní Boskovicko, do žďárenských lesů je to odtud však pouhých několik stovek metrů. A mezi krajinami Boskovicka, jak je postupně popisuji, Vlčí skála rozhodně nemůže chybět.*
 
-<img src="http://i.imgur.com/Pw2HsDf.jpg" alt="Vlčí skála" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/Pw2HsDf.jpg" alt="Vlčí skála" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 O Vlčí skále jsem psal již před více než deseti lety v knížce *Přírodní skvosty Prostějovska*. Ta skála totiž leží na pomezí několika regionů. A protože bych to líp už zřejmě znovu nenapsal, dovolím si zde z ní ocitovat několik pasáží: 
 
@@ -18,7 +18,7 @@ O Vlčí skále jsem psal již před více než deseti lety v knížce *Přírod
 
 *Vlčí skála se jmenuje i sousední výrazný hřbítek, vybíhající od potoka Luhy vzhůru k modrému nebi. Mrazem a větrem zde praskají koruny starých buků, které ještě nestačili lidé pokácet. Smutný zbytek zašlé slávy starých listnatých lesů. Mladé houštiny jsou dnes téměř beze zbytku smrkové a z temných smrčin na mne padá smutek.*
 
-<img src="http://i.imgur.com/dv76Cfe.jpg" alt="Pod Vlčí skálou" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/dv76Cfe.jpg" alt="Pod Vlčí skálou" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Mnoho z toho, co jsem tenkrát napsal, však už dnes neplatí. Údolím, které bylo od jara do podzimu více méně opuštěné, vede už několik let ze Sloupu k Vlčí skále zpevněná místní komunikace. Slouží nejen zemědělcům a lesníkům, ale také cyklistům a mládeži, prohánějící se zde na kolečkových bruslích. Také popsaný zbytek staré bučiny už zmizel. Nejdřív, před pár lety, na severním svahu. Když jsem byl nedávno fotit Vlčí skálu pro tento článek, zjistil jsem, že mohutné věkovité buky zmizely v okolí Vlčí skály docela. I jižní strana hřbítku je holá, jako němý svědek zde trčí pouze napůl ztrouchnivělý pahýl staletého buku. Ale mohlo by být i hůř. Bukové mlází postupně sílí a než se naděju, bude zde odrůstající bučina.
 
@@ -26,7 +26,7 @@ Největší „šok“ při návštěvě Vlčí skály jsem pak zažil ještě v
 
 *Kdysi jsem se tudy brouzdal podzimním lesem a obcházel právě ty zbytky bučin, které jsou mému srdci nejbližší. Najednou ze suchého bukového listí vzlétl tmavě zbarvený pták se zvláštní siluetou, lehce do boku nachýlenou hlavu zdobil dlouhý úzký zobák. S hlasitým pleskáním křídly zmizel v nejbližším bukovém houští. Tak jsem poprvé v životě spatřil sluku. Bylo to velmi pozdě na podzim, snad někdy v listopadu. Jak mi pak řekl jeden starý hajný, tato sluka se musela na svém tahu do teplých krajin velmi opozdit. Stává se to však a staří myslivci říkávali o těchto ptácích, že jsou „zamrzlí“. Nějak se nemohou odpoutat od svého domova.*
 
-<img src="http://i.imgur.com/8Kn1f6q.jpg" alt="Vlčí skála" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/8Kn1f6q.jpg" alt="Vlčí skála" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Od té doby jsem viděl sluku lesní ještě mnohokrát, nikdy to však už nebylo na Boskovicku. A taky šlo o jinou roční dobu, čas jarního slučího tahu. Tehdy dochází k toku (námluvám) sluk. Slučí kohoutci létají nad lesními pasekami a hledají samičky, skryté v trávě na zemi. Kohoutci se přitom ozývají vrčivým hrdelním hlasem, kterému myslivci říkají kvorkání. Slepičky je k sobě lákají tichým hvízdáním. Pozorování slučího tahu patří pro milovníky přírody k nejkrásnějším zážitkům. Ve chvíli, kdy se na tmavnoucí obloze objeví první hvězda (vlastně spíš planeta Venuše – Večernice), začnou kohoutci přelétávat podél okrajů starých porostů. Proti obloze mají charakteristický obrys s přikrčenými křídly a nachýlenou hlavičkou, dlouhý zobák je skloněný na stranu. Onen typický zobák, v myslivecké hantýrce zvaný píchák, slouží k vybírání hmyzích larev z rozměklé lesní půdy. Při zaboření do bláta sluky rozevírají jen jeho špičku.
 
@@ -40,7 +40,7 @@ No a jak je to s těmi vlky? Ti z českých a moravských lesů zmizeli před n�
 
 *Ráno šel hajný do lesa na obchůzku, a co to slyší? Jako by někdo v dálce brnkal na housle. Jde po hlase a vidí sedět v jámě starého Šiftráka a proti němu velkého vlka. Hajný vlka zastřelil a strécovi pomohl z jámy ven.*
 
-<img src="http://i.imgur.com/vd4nmFm.jpg" alt="Vlčí skála" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="http://i.ohlasy.info/vd4nmFm.jpg" alt="Vlčí skála" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 *Jiná pověst (doložená třeba na Kořenci) vypráví, jak v zimě vozka vezl na saních z města pytel chleba. Najednou kůň strnul a začal se třást. Rozhlédne se kolem a vidí, jak se k saním plíží vlci. Honem práskl bičem a začala divoká jízda. Smečka ho brzy počala dohánět, tak jim shodil vak s chlebem ze saní. Zdrželo je to však pouze na chvíli a už se zase blížili. Vozka pochopil, že se saněmi jim neujede. Tak vyskočil na koně a přeřízl postraňky. Když dojel celý bledý na Kořenec, ke svému zděšení zjistil, že kůň má na ocase zakouslého vlka.*
 

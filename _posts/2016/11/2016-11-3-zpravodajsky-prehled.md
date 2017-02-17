@@ -1,7 +1,7 @@
 ---
 title: Zpravodajský přehled za říjen
 perex: Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v říjnu na Boskovicku událo.
-cover-photo: http://i.imgur.com/vpvVIjRl.jpg
+cover-photo: http://i.ohlasy.info/vpvVIjRl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

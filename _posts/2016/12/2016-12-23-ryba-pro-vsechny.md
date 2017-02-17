@@ -1,7 +1,7 @@
 ---
 title: Ryba pro všechny
 perex: Nerezignujme na zpívání u stromečku, i když to třeba dokonale neumíme.
-cover-photo: http://i.imgur.com/2kbaeHBl.jpg
+cover-photo: http://i.ohlasy.info/2kbaeHBl.jpg
 author: Kristýna Znamenáčková
 category: názory a komentáře
 ---

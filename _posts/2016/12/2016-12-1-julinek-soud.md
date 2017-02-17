@@ -1,6 +1,6 @@
 ---
 title: "Pokračování soudu s Julínkem: svědci vypovídali v jeho prospěch"
-cover-photo: http://i.imgur.com/HZYX7lxl.jpg
+cover-photo: http://i.ohlasy.info/HZYX7lxl.jpg
 perex: Druhé stání absolvoval u blanenského okresního soudu Tomáš Julínek, který považuje svůj vyhazov z boskovické nemocnice za účelový.
 author: Marek Osouch
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: nemocnice politika
 
 *Druhé stání absolvoval u blanenského okresního soudu Tomáš Julínek, který považuje svůj vyhazov z boskovické nemocnice za účelový kvůli své politické minulosti v barvách ODS. Starostka Boskovic Hana Nedomová (ČSSD), která ho z nemocnice jako dočasná jednatelka propustila, něco takového od začátku popírá.*
 
-<img src="http://i.imgur.com/HZYX7lx.jpg" alt="záběr ze soudní síně" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="http://i.ohlasy.info/HZYX7lx.jpg" alt="záběr ze soudní síně" class="img-responsive img-popup" data-author="Marek Osouch">
 
 Na soud k projednávání případu propuštění Tomáše Julínka z boskovické nemocnice dorazili na začátku prosince další svědkové, které si vyžádal Tomáš Julínek se svým advokátem Ludvíkem Juřičkou, aby před soudem řekli, jak skutečně proběhalo zrušení pozice ekonomického náměstka, kterou Julínek před rokem opouštěl.
 

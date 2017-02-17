@@ -1,7 +1,7 @@
 ---
 title: Hašek končí. Hejtmanem bude Bohumil Šimek
 perex: Vítězné hnutí ANO v čele s Bohumilem Šimkem dnes podepsalo koaliční smlouvu s ČSSD, TOP 09 s Žít Brno a Starosty. Součástí dohody je rozdělení postů v krajské radě.
-cover-photo: http://i.imgur.com/UNZMEcHl.jpg
+cover-photo: http://i.ohlasy.info/UNZMEcHl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Hnutí ANO, ČSSD, TOP 09 s Žít Brno a Starostové pro jižní Moravu se dnes definitivně zavázali, že budou další čtyři roky vládnout na jižní Moravě. Podepsali koaliční smlouvu. Definitivní změny na kraji nastanou až po zvolení nových radních na ustavujícím zastupitelstvu.*
 
-<img src="http://i.imgur.com/UNZMEcH.jpg" alt="Michal Hašek" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/UNZMEcH.jpg" alt="Michal Hašek" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Volby v Jihomoravském kraji sice vyhrálo hnutí ANO, bylo to ale velmi slabé vítězství. Do zastupitelstva se totiž dostalo celkem devět politických uskupení, mnohé ještě ve společných koalicích, a tak místo šesti stran jako dosud jich bude v zastupitelstvu třináct. Už od začátku tak bylo zřejmé, že v krajské radě usedne více než dvě politické strany, jak bylo doposud zvykem.
 

@@ -1,13 +1,13 @@
 ---
 title: "ANKETA: Co vám udělalo radost?"
-cover-photo: http://i.imgur.com/alkoMELl.jpg
+cover-photo: http://i.ohlasy.info/alkoMELl.jpg
 author: Tomáš Trumpeš
 category: ankety
 ---
 
 *Jaká událost vám v končícím roce 2016 udělala radost a co byste naší společnosti popřáli do roku 2017?*
 
-<img src="http://i.imgur.com/alkoMEL.jpg" alt="boskovický hrad" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/alkoMEL.jpg" alt="boskovický hrad" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### [Milan Kolínský](http://ohlasy.info/clanky/2016/03/rozhovor-kolinsky.html), radní
 
