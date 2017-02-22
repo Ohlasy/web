@@ -37,7 +37,7 @@ V dalších čtyřech letech ale žádná podobná akce neproběhla. Hlavním ta
 * 2015: Zateplení nemocnice II. etapa – 25 milionů
 * 2016: Nové ARO v nemocnici – 31 milionů
 
-Pro letošek je nejvyšší položkou v rozpočtu přístavba mateřské školy na Bílkově za 31 milionů. Dalších 10 milionů spolyká rekonstrukce hlediště letního kina a 13 milionů vyhradilo vedení Boskovic na revitalizace městských bytovek na Wolkerově, Jiráskově a u nemocnice. Polytechnické centrum, na které chce město získat dotaci, má začít vznikat až v roce 2018. Jeho plánovaná cena se prozatím vyšplhala na 74 milionů.
+Pro letošek je nejvyšší položkou v rozpočtu přístavba mateřské školy na Bílkově za 26,7 milionů. Dalších 10 milionů spolyká rekonstrukce hlediště letního kina a 13 milionů vyhradilo vedení Boskovic na revitalizace městských bytovek na Wolkerově, Jiráskově a u nemocnice. Polytechnické centrum, na které chce město získat dotaci, má začít vznikat až v roce 2018. Jeho plánovaná cena se prozatím vyšplhala na 74 milionů.
 
 <img src="http://i.imgur.com/mMgLZdO.png" alt="vývoj a složení příjmů" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček, Marek Osouch">
 
