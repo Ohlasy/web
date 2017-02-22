@@ -41,7 +41,7 @@ Pro letošek je nejvyšší položkou v rozpočtu přístavba mateřské školy 
 
 <img src="http://i.imgur.com/mMgLZdO.png" alt="vývoj a složení příjmů" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček, Marek Osouch">
 
-Z rozpočtového hlediska je podstatné, že zdvojnásobení kapitálových výdajů v posledních dvou letech nešlo na úkor rozpočtových schodků. Při porovnání roků 2014 a 2015 nebyly výrazně vyšší ani daňové příjmy, to až loni, kdy narostly o 18 milionů ve srovnání s rokem 2014. Pokles investic v roce 2013 a 2014 a následný nárůst je tak hodně ovlivněn dotacemi, které ve zmiňovaných letech činily přibližně 60 milionů, zatímco loni už přesáhly 100 milionů. Podobné výše dotací však dosáhly Boskovice i za minulé koalice v roce 2011, poté ale byly až do změny vedení mnohem nižší.
+Z rozpočtového hlediska je podstatné, že zdvojnásobení kapitálových výdajů v posledních dvou letech nešlo na úkor rozpočtových schodků. Při porovnání roků 2014 a 2015 nebyly výrazně vyšší ani daňové příjmy, to až loni, kdy narostly o 17 milionů ve srovnání s rokem 2014. Pokles investic v roce 2013 a 2014 a následný nárůst je tak hodně ovlivněn dotacemi, které ve zmiňovaných letech činily přibližně 60 milionů, zatímco loni už přesáhly 100 milionů. Podobné výše dotací však dosáhly Boskovice i za minulé koalice v roce 2011, poté ale byly až do změny vedení mnohem nižší.
 
 Výrazným pozitivem pro město je růst daňových příjmů, na což však nemá vliv vedení radnice, ale jen dobrý vývoj ekonomiky a zákonem stanovené rozpočtové určení daní.
 
