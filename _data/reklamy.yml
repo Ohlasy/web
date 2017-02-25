@@ -1,3 +1,8 @@
+- name: Real Spektrum
+  image: http://i.imgur.com/GttRnN4.png
+  alt: Real Spektrum Boskovice
+  url: http://www.rsboskovice.cz
+  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
