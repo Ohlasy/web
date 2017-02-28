@@ -18,7 +18,7 @@ V pátek 3. března navštíví boskovické kino Ladislav Zibura. Jeho pořady j
 
 *Hudební klub Sklepy, 3. března 21:00*
 
-První vydání nové akce s názvem Vibez připravila DJská a promotérská skupina [Mindicted](http://www.ohlasy.info/clanky/2017/01/rozhovor-mindicted.html). Tentokrát nepůjde o drum’n’bass, ale především o grime, trsp, electro a bassline. Hlavní hvězdou bude tentokrát boskovický hiphoppový beatmaker a producent Inphy z labelu Ty Nikdy. Do jeho beatů v minulosti nahráli své tracky rappeři jako Idea, Paulie Garand, Boy WOnder a další. Kromě Inhpyho zahrají například Void.Sec a Gon z Mindicted, Nubian z 142 BPM, Eski a Karpa.
+První vydání nové akce s názvem Vibez připravila DJská a promotérská skupina [Mindicted](http://www.ohlasy.info/clanky/2017/01/rozhovor-mindicted.html). Tentokrát nepůjde o drum’n’bass, ale především o grime, trsp, electro a bassline. Hlavní hvězdou bude boskovický hiphoppový beatmaker a producent Inphy z labelu Ty Nikdy. Do jeho beatů v minulosti nahráli své tracky rappeři jako Idea, Paulie Garand, Boy Wonder a další. Kromě Inhpyho zahrají například Void.Sec a Gon z Mindicted, Nubian z 142 BPM, Eski a Karpa.
 
 ### Dan Bárta & Robert Balzar Trio
 
