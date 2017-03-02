@@ -3,6 +3,11 @@
   alt: Real Spektrum Boskovice
   url: http://www.rsboskovice.cz
   priority: 1000
+- name: MSSS
+  image: http://i.imgur.com/l86s8c2.png
+  alt: Městská správa sociálních služeb hledá účetní
+  url: http://msssboskovice.cz/?page_id=1328
+  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
