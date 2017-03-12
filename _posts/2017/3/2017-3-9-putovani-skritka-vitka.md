@@ -6,7 +6,7 @@ category: zpravodajství
 tags: knihy
 ---
 
-*Kolik toho musí malý skřítek nachodit v tajemném lese, než dojde ke štěstí? Kolik naděje je potřeba ke splnění snu? Tyto otázky pokládá knížka Putování skřítka Vítka, která bude mít křest v sobotu 11. března o půl třetí odpoledne v Kafe za rohem.*
+*Kolik toho musí malý skřítek nachodit v tajemném lese, než dojde ke štěstí? Kolik naděje je potřeba ke splnění snu? Tyto otázky pokládá knížka Putování skřítka Vítka, která byla pokřtěna v sobotu 11. března v Kafe za rohem.*
 
 <img src="http://i.imgur.com/xTTThFv.jpg" alt="kniha Putování skřítka Vítka" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
