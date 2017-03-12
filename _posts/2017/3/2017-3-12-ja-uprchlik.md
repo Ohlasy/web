@@ -17,7 +17,7 @@ Jak píše [ve svých esejích Susan Sontag](http://www.susansontag.com/SusanSon
 
 Na uprchlické krizi je bolestně patrná anesteziologická schopnost fotografie: Zatímco první, třetí, pátý snímek uprchlíků nám nedají spát, sebelepší stý první snímek na totéž téma podvědomě odkládáme jen jako cosi, co už jsme viděli.
 
-V osobě dobrovolnice-fotografky je dobře vystižen základní konflikt každého reportážního fotografa: kdo fotografuje, ten v daném okamžiku nemůže pomáhat. A naopak: kdo pomáhá, nemůže fotografovat. Nakolik tedy fotograf na lidském trápení jednoduše parazituje?
+V osobě dobrovolnice-fotografky je také dobře vystižen základní konflikt každého reportážního fotografa: kdo fotografuje, ten v daném okamžiku nemůže pomáhat. A naopak: kdo pomáhá, nemůže fotografovat. Nakolik tedy fotograf na lidském trápení jednoduše parazituje?
 
 Po teoretické stránce se těmto otázkám dá věnovat léta. Po praktické stránce máme jejich rozřešení v rukou my, kdo si fotografie prohlížíme. Pokud se přitom nesnížíme na pouhé šmíráky, pokud z nich neuděláme laciný adrenalin na nedělní odpoledne, pokud budeme mít na paměti, že systémové řešení zobrazených problémů je naší odpovědností, pak tyto fotografie nevznikly zbytečně a nikdy nemohou být odsouzeny jako pornografie utrpení.
 
