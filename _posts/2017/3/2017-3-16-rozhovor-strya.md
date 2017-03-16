@@ -67,7 +67,7 @@ Investici by si určitě zasloužil fotbalový stadion. O tom dlouho diskutujeme
 
 Nijak složitě jsem je nepitval. Říkal jsem si, že by to bylo krásné. Nebudu ale teď řešit studie, které vznikly. Napadlo mě vybudovat třeba vedle Velenu směrem k mlýnu atletický ovál a uprostřed něj sportovní halu. Nevím, jestli se to tam vejde, nijak jsem to neměřil. Ovál se za stávajících podmínek ale do Červené zahrady bez velkých investic nedostane. Musela by se velká část rozkopat. Ty varianty ve studiích jsou podle mě moc nákladné a je to daleká hudba budoucnosti.
 
-**Kromě haly chce radnice v Červené zahradě také skatepark, lezeckou stěnu nebo se uvažuje i o atletickém oválu. Je to všechno skutečně reálné?**
+**Kromě haly chce radnice v Červené zahradě také skatepark, lezeckou stěnu nebo se uvažuje právě i o atletickém oválu. Je to všechno skutečně reálné?**
 
 Reálné to je. Podle studií se to tam vejde. Otázkou jsou peníze.
 
