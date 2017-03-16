@@ -34,7 +34,6 @@ Sáhneme si na daleko více věcí. Například o některé dotace bychom jako p
 **Takže i v roce 2017 se radní ptají?**
 
 Nevím, jestli i teď, ale ty otázky padají. Když přijdou třeba noví radní, tak je ta otázka logicky napadne, jako napadla vás. 
-Největší ztráty jsou na stadionu a v lázních
 
 **Co je vlastně pro Služby Boskovice ziskové a co naopak ztrátové? A proč tomu tak je?**
 
