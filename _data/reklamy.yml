@@ -16,7 +16,7 @@
 - name: Anatis
   image: http://anatis.cz/reklama/anatis-ohlasy.png
   alt: reklama na podlahy Anatis
-  url: http://anatis.cz/
+  url: http://www.inpodlahy.cz/
   priority: 1000
 - name: Předplatné na papíru
   image: http://i.imgur.com/ONtMljo.png
