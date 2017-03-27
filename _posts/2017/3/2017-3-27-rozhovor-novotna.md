@@ -20,7 +20,7 @@ Ano. Většinou od psychiatrů. Někdy to doporučí obvodní lékař, ale vět�
 
 **Lékaři tělesných neduhů říkají, jak je důležité, aby lidé přišli s problémem včas. Jak je to u psychologů?**
 
-Je těžké říct, co je to včas, ale asi je to tak ve všech medicínských i nemedicínských oborech, že lidé nechávají problém dojít dál. Dost časté je takové to: „Ještě to vydržím, ještě to zvládnu.“ A pořád pořád ještě přetrvává pocit, že někdo, kdo jde k psychologovi, je možná už trochu blázen. Nevím, jestli to označit přímo jako stigma. Ale setkávám se s tím. Hlavně u střední a starší generace, u teenagerů už tolik ne.
+Je těžké říct, co je to včas, ale asi je to tak ve všech medicínských i nemedicínských oborech, že lidé nechávají problém dojít dál. Dost časté je takové to: „Ještě to vydržím, ještě to zvládnu.“ A pořád ještě přetrvává pocit, že někdo, kdo jde k psychologovi, je možná už trochu blázen. Nevím, jestli to označit přímo jako stigma. Ale setkávám se s tím. Hlavně u střední a starší generace, u teenagerů už tolik ne.
 
 **Říkáš si někdy u klienta, že kdyby přišel dřív, mohlo to být jednodušší?**
 
