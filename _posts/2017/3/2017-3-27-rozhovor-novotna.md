@@ -66,7 +66,7 @@ Obojí je pravda a zase to hodně záleží na typu klientů. Určitě dáváme 
 
 **Dá se říct, s čím za tebou lidé hlavně přicházejí? Nebo je to příliš pestré?**
 
-Skupina je to určitě pestrá, ale jako největší vnímám téma úzkosti. Strach, obavy, úzkosti. Myslím, že je to i proto, že těch obav, úzkostí a strachů je v životě hodně a často to soouvisí s tlakem na to všechno zvládnout, být dobrý, vydržet. To je celkový společenský tlak. A taky je to proto, že o tom se mluví jako o něčem, co psycholog může pomoci vyřešit. Nebo v tom být minimálně podporou. 
+Skupina je to určitě pestrá, ale jako největší vnímám téma úzkosti. Strach, obavy, úzkosti. Myslím, že je to i proto, že těch obav, úzkostí a strachů je v životě hodně a často to souvisí s tlakem na to všechno zvládnout, být dobrý, vydržet. To je celkový společenský tlak. A taky je to proto, že o tom se mluví jako o něčem, co psycholog může pomoci vyřešit. Nebo v tom být minimálně podporou. 
 
 A pak je to kategorie, kterou hlavně posílají psychiatři, a to jsou lidé s depresí. Psychiatři vědí, že jim dají nějaká antidepresiva, aby překonali ty nejhorší krizovky, ale potřebujeme, aby fungovali dlouhodobě dál. A tam je dobrá psychoterapeutická podpora. 
 
@@ -116,7 +116,7 @@ Nechci mluvit úplně za psychology, i když bychom taky určitě vygooglili ně
 
 **Jsou zvyklí si klást tyto otázky?**
 
-Vůbec. pro duševní zdraví je to ale dobrý začátek – zastavit se a zeptat se, jak se mám. Opravdu reálně, ne konverzačně jako s někým dalším. Nedávat odpovědi typu: Jo, dobrý… Ale opravdu se zeptat, jak se mám, zjistit, jestli to vůbec vím. A co vlastně potřebuji.
+Vůbec. Pro duševní zdraví je to ale dobrý začátek – zastavit se a zeptat se, jak se mám. Opravdu reálně, ne konverzačně jako s někým dalším. Nedávat odpovědi typu: Jo, dobrý… Ale opravdu se zeptat, jak se mám, zjistit, jestli to vůbec vím. A co vlastně potřebuji.
 
 **Při práci s lidmi řešíš situace, které jsou pro lidi asi velmi křehké a důležité. Jak těžké je vzít na sebe zodpovědnost a dát jim konkrétní radu?**
 
