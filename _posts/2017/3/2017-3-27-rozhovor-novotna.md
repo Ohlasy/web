@@ -15,6 +15,7 @@ category: rozhovory
 Hodně to záleží, jestli přišli sami a spontánně, nebo jestli sem byli odeslaní.
 
 **To se také stává?**
+
 Ano. Většinou od psychiatrů. Někdy to doporučí obvodní lékař, ale většinou je to psychiatr, kdo řekne: „Bylo by fajn, kdybyste k těm lékům dělal ještě něco, třeba si chodil s někým povídat.“ A podle toho se i liší, jak lidé reagují na první konzultaci.
 
 **Lékaři tělesných neduhů říkají, jak je důležité, aby lidé přišli s problémem včas. Jak je to u psychologů?**
@@ -26,6 +27,7 @@ Je těžké říct, co je to včas, ale asi je to tak ve všech medicínských i
 Spíš že se mohl vyhnout některým zklamáním v životě. Nějaké bolesti, která už mohla být za ním.
 
 **Podle čeho má člověk poznat, u sebe nebo i u lidí z okolí, že končí běžný problém a už je to za hranicí toho, kdy je lepší vyhledat pomoc?**
+
 Tu hranici máme každý trochu někde jinde. Bavím se o tom s klienty třeba když řešíme, jestli nezvážit také medikaci. Protože ne vždy je ta linie nejdřív psychiatr a pak já, někdy je to naopak. A někdy lidé přichází ve stavu, kdy je dobré je na nějakou dobu medikačně podpořit. Kolegové to mají různě, ale já toho nejsem úplný odpůrce. Klientům vždycky říkám, že pro mě je ten citlivý bod ve chvíli, kdy přestávají fungovat v běžném životě. Narušuje jim to pracovní nebo studijní život, že v tom nejsou schopni fungovat. Nebo soukromý život. Když začíná být narušené běžné fungování života, je to signál, že je potřeba něco dělat jinak.
 
 **Překvapilo mě, že psychiatři posílají lidi k psychologovi, myslel jsem si, že je to opačně: že když vy zjistíte, že je nějaký případ těžký, postoupíte ho psychiatrům.**
