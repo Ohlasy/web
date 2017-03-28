@@ -36,7 +36,7 @@ Většinou si lidi v péči nechávám. Doporučím jim, že je dobré léčbu p
 
 **A na to psychiatři nemají čas? Teď to působí tak, že oni jen předepisují léky, ale bavíte se s klienty jen vy.**
 
-Působí to tak, možná to vzbudí i kritiku, ale ale já to tak vnímám. Tak to opravdu je. V ambulancích psychiatrů je takové kvantum lidí, že je pochopitelné, že na to nemají čas. Musí obsloužit velkou klientelu, máme hodně lidí na psychofarmacích, to je dnes už trend. 
+Působí to tak, možná to vzbudí i kritiku, ale já to tak vnímám. Tak to opravdu je. V ambulancích psychiatrů je takové kvantum lidí, že je pochopitelné, že na to nemají čas. Musí obsloužit velkou klientelu, máme hodně lidí na psychofarmacích, to je dnes už trend. 
 
 **Ale psychiatři si to uvědomují a jsou ochotní lidi posílat za vámi?**
 
@@ -86,7 +86,7 @@ Opět je to možná tím, že pracuji s dětmi, které chodí dobrovolně a samy
 
 **Takže z lepších škol?**
 
-Ano. Nevím, jak by to bylo třeba u učňů, úzkostné učně tady nemám. Mám úzkostné děti ze škol jako je gymnázium nebo pedagogická škola, kde je předpoklad, že půjdou dál na vysokou. Tam je větší tlak na výkon.
+Ano. Nevím, jak by to bylo třeba u učňů, úzkostné učně tady nemám. Mám úzkostné děti ze škol, jako je gymnázium nebo pedagogická škola, kde je předpoklad, že půjdou dál na vysokou. Tam je větší tlak na výkon.
 
 **Jak se to u nich projevuje? Má to nějaká specifika?**
 
