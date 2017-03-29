@@ -55,7 +55,7 @@ Se zakládajícími členy promotérské a DJské skupiny Mindicted Crew jsme [n
 
 *Evangelický kostel Boskovice, 20. dubna 19:00*
 
-V evangelickém kostele nás čeká slavnostní uvedení nového koncertního piana, na které se vybraly peníze během adventních koncertů v minulém roce. Piano má sloužit jak evangelickému sboru, tak boskovické veřejnosti při koncertech a festivalech. Slavnostní koncert proběhne ve čtvrtek 20. dubna v 19 hodin. Na úvod zazpívá pěvecký sbor Nota, vlastní program koncertu obstarají pianisté [Kristýna Znamenáčková](http://www.ohlasy.info/clanky/2015/12/rozhovor-znamenackova.html) a Jiří Hrubý.
+V evangelickém kostele nás čeká slavnostní uvedení nového koncertního piana, na které se vybraly peníze během adventních koncertů v minulém roce. Piano má sloužit jak evangelickému sboru, tak boskovické veřejnosti při koncertech a festivalech. Inaugurační koncert proběhne ve čtvrtek 20. dubna v 19 hodin. Na úvod zazpívá pěvecký sbor Nota, vlastní program koncertu obstarají pianisté [Kristýna Znamenáčková](http://www.ohlasy.info/clanky/2015/12/rozhovor-znamenackova.html) a Jiří Hrubý.
 
 ### Viento Marero Duo
 
