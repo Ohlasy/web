@@ -23,6 +23,11 @@
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
+- name: Kvíz
+  image: http://i.imgur.com/DF3QiDM.png
+  alt: Hospodský kvíz na Sklepech
+  url: http://www.hospodskykviz.cz
+  priority: 900
 - name: Šifrovatračka
   image: http://i.imgur.com/wh5hQyV.png
   alt: Šifrovatračka, šifrovací hra pro děti
@@ -37,4 +42,4 @@
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
-  priority: 800
+  priority: 700
