@@ -368,6 +368,20 @@ a.fancybox-close {
     border: none;
 }
 
+/* Image Captions */
+
+.img-meta {
+    display: block;
+    margin-top: -20px;
+    font-size: 90%;
+    color: gray;
+}
+
+.img-author {
+    text-transform: uppercase;
+    font-size: 80%;
+}
+
 /* Images & Video */
 
 .profile-picture {
