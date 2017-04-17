@@ -23,10 +23,10 @@
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
-- name: Kvíz
-  image: http://i.imgur.com/DF3QiDM.png
-  alt: Hospodský kvíz na Sklepech
-  url: http://www.hospodskykviz.cz
+- name: Lísky
+  image: http://i.imgur.com/nzs4TCQ.png
+  alt: Improzápas Lísky
+  url: http://www.improlisky.cz/
   priority: 900
 - name: Šifrovatračka
   image: http://i.imgur.com/wh5hQyV.png
