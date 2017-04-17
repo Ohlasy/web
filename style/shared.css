@@ -374,6 +374,7 @@ a.fancybox-close {
     display: block;
     margin-top: -20px;
     font-size: 90%;
+    line-height: 1.4em;
     color: gray;
 }
 
