@@ -10,7 +10,7 @@ category: zpravodajství
 
 {% photo src="http://i.imgur.com/A3cariE.jpg" caption="Kamila Kamila" author="Miroslav Hrnčíř" %}
 
-Iniciátorkou večera byla studentka boskovického gymnázia, hudebnice a textařka skupiny Veka – no a poměrně čerstvě také slamerka Kamila Hrnčířová alias Kamila Kamila. Ta se stala poprávu také vítězkou boskovického klání, neboť slam probíhá soutěžní formou, čímž se tento jinak obtížně definovatelný fenomén přibližuje nejstarší poetické tradici, kdy starověcí básníci soutěžili v deklamaci svých veršů.
+Iniciátorkou večera byla studentka boskovického gymnázia, hudebnice a textařka skupiny Veka – no a poměrně čerstvě také slamerka Kamila Hrnčířová alias Kamila Kamila. Ta se stala po právu také vítězkou boskovického klání, neboť slam probíhá soutěžní formou, čímž se tento jinak obtížně definovatelný fenomén přibližuje nejstarší poetické tradici, kdy starověcí básníci soutěžili v deklamaci svých veršů.
 
 Novověcí slameři ovšem přesně neví, jestli sami sebe považovat za básníky, jestli je jejich projev nutně poezií. Některé z nich literatura ani nezajímá, slam je pro ně daleko víc příležitost se předvést a získat si přízeň publika. Na takové bychom však jistě narazili i mezi tradičními veršotepci.
 
