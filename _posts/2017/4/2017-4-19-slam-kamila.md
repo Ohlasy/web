@@ -41,7 +41,7 @@ Literární přesah a vůbec zájem o literaturu v Kamilině případě dokument
 ### Kamila Kamila: Vrcholná poezie
 
 *Je považováno za neplechu  
-dyž neplánovaně za poslechu   
+Když neplánovaně za poslechu   
 Tvejch audio skečů   
 Samovolně teču?*
 
