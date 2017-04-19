@@ -30,13 +30,13 @@ V České republice funguje i celostátní přehlídka nazvaná Finále. Do té 
 
 Spojitost s literaturou a s poezií někteří slameři odmítají, jiní se cítí jako určitá součást literárního proudu. Někteří nechtějí být označování za básníky, jiní své slamové texty vydávají jako básnické sbírky. Kamila psala nejprve básně a písňové texty a zase tak velký posun při přípravě textu na slamové vystoupení nevnímá. Básně jsou obvykle intimnější a osobnější; pokud v tématu cítí možnost širšího sdělení, začne přemýšlet o tom, jestli by z ní nemohla být píseň nebo slam. Slamové vystoupení také potřebuje spíše příběh. „Ale zas takový rozdíl to není. V okamžiku tvorby je důležité, že něco přijde – jestli z toho bude báseň, píseň nebo slam, se uvidí potom.“ A právě to, co se děje potom, je pro Kamilu na slamu to důležité – totiž možnost oslovit přímo čtenáře, či spíše posluchače a diváky. „Nechci psát jenom do šuplíku a živá forma vystoupení při slamu je mnohem lepší, než když text sdílím jen na svůj blog.“ Kamilu baví i soutěžní rozměr akce, ne snad kvůli soutěživosti, ale hlavně kvůli bezprostřední zpětné vazbě a možnosti konfrontovat svoje názory na úroveň ostatních slamerů i tu vlastní s názorem publika. „Obvykle se to rozchází,“ dodává se smíchem. A přiznává, že porota často hodnotí hlavně vtipnost a osobitost výstupů, už ne tolik to, jestli nesou nějaký hlubší obsah.
 
+{% photo src="http://i.imgur.com/d86iyfh.jpg" caption="Kamila Kamila" author="Miroslav Hrnčíř" %}
+
 „Já se o nějaké větší sdělení zoufale snažím, ale zrovna teď mám pocit, že mi to vůbec nejde. Slam taky často odráží bezprostřední situaci, ve které se nacházíš, je to takový rychlý text,“ popisuje Kamila Kamila. Některé slamy proto vznikají na poslední chvíli, čímž získávají na bezprostřednosti, ale vystupující se tím zase okrádá o možnost dobře si své vystoupení připravit a nacvičit – v podstatě jako divadelní roli. 
 
 Literární přesah a vůbec zájem o literaturu v Kamilině případě dokumentuje i text jejího druhého boskovického vystoupení. Ten totiž reflektuje její vztah k básníkům, kteří už jsou pevnou součástí školních osnov. Zrovna v tomto případě se jednalo o báseň, která se rozvinula do slamu. 
 
 „Je to jiný druh poezie, taková špinavá poezie,“ říká o slamu Kamila Kamila. Samostatně podle ní může text slamového vystoupení fungovat především pro člověka, který slam zná a dokáže si alespoň zčásti jeho produkci představit. S publikováním svého slamu Vrcholná poezie na závěr našeho článku ale souhlasí. Zde tedy text vystoupení, které bylo jednoznačným vrcholem prvního slamového večera v Boskovicích. Další produkce by mohla proběhnout už v létě v rámci boskovického festivalu.
-
-{% photo src="http://i.imgur.com/d86iyfh.jpg" caption="Kamila Kamila" author="Miroslav Hrnčíř" %}
 
 ### Kamila Kamila: Vrcholná poezie
 
