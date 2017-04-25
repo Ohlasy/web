@@ -13,7 +13,7 @@ tags: politika
 
 **Zdá se mi to, nebo jste jako TOP 09 na současné vedení města méně přísní než ODS a Sportovci?**
 
-Opticky to tak vypadá, když se na to při diskusích a hlasováních na zastupitelstvu podíváš z pozice člověka, který sedí tam vzadu. Jenže je třeba si uvědomit, do čeho šije Radek Mazáč, John Pevný, Jarda Dohnálek – a tím bych skončil, protože i ostatní členové těchto politických stran jsou umírnění. Je to bezmála spor Kolínský versus tito tři.
+Opticky to tak vypadá, když se na to při diskusích a hlasováních na zastupitelstvu podíváš z pozice člověka, který sedí tam vzadu. Jenže je třeba si uvědomit, do čeho šije Radek Mazáč, John Pevný, Jarda Dohnálek – a tím bych skončil, protože i ostatní členové těchto politických stran jsou umírnění. Z pozice nezúčastněného diváka to vyznívá bezmála jako spor Kolínský versus tito tři.
 
 **Takže to vnímáte víc personálně než věcně?**
 
