@@ -8,11 +8,6 @@
   alt: reklama na podlahy Anatis
   url: http://www.inpodlahy.cz/
   priority: 1000
-- name: Muzeum
-  image: http://i.imgur.com/ArA3BCj.png
-  alt: Kašpárci z celého světa, Muzeum regionu Boskovicka
-  url: http://www.muzeum-boskovicka.cz/vismo/kalendar-akci.asp?hledani=1&p1=1098&kdy=5
-  priority: 1000
 - name: Předplatné na papíru
   image: http://i.imgur.com/ONtMljo.png
   alt: Čtete radši na papíru? Předplaťte si nás!
@@ -42,4 +37,9 @@
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
+  priority: 700
+- name: Muzeum
+  image: http://i.imgur.com/8lRrnXI.jpg
+  alt: navštivte Muzeum Boskovicka
+  url: http://muzeum.boskovice.cz/
   priority: 700
