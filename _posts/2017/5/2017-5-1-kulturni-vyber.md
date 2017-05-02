@@ -10,6 +10,12 @@ tags: kultura
 
 {% photo src="http://i.imgur.com/4XGRFtd.jpg" caption="Jaroslav „Achab“ Haidler na loňské prohlídce židovského hřbitova" author="Tomáš Znamenáček" %}
 
+###  Katie Bradley Band
+
+*Zámecký skleník Boskovice, 2. května 19:00*
+
+Dalším koncertem z cyklu Jazz and Blues 2016/17 bude vystoupení britské bluesové písničkářky a hráčky na harmoniku Katie Bradley, v roce 2015 nominované na British Blues Award. Do záře reflektorů vstoupila v roce 2012 s melodií bluesového hitu I Hear the River, který byl téhož roku nominován za nejlepší původní píseň v britských Blues Awards. Ve své relativně krátké kariéře již spolupracovala s vysoce uznávanými celosvětovými umělci, jako jsou Luther Allison nebo Suzanne Vega. Na koncertě v boskovickém zámeckém skleníku ji doprovodí Antonín Dlapa na kytaru, Matěj Černý na baskytaru a Tomáš Hobzek na bicí.
+
 ### Depeche Mode: Live in Berlin
 
 *Kino Panorama Boskovice, 4. května 20:00*
@@ -32,7 +38,7 @@ Po úspěšné březnové akci s názvem Haze, zaměřené na různorodé odnož
 
 *Galerie Otakara Kubína, 13. května 15:00*
 
-Výstava s názvem Střípky post-atomové renesance bude po třinácti letech druhou výstavou Václava Macha-Koláčného. Václav Mach-Koláčný dle svých vlastních slov vnáší do svých kompozic vnáší svět pocitů, iluzorních invencí a barevných fantazií a takto osobitým stylem vytváří „krajiny duše“ a „duše krajin“. Ty první představují figurální tvorbu na různá témata, druhé zase krajinu inspirovanou Vysočinou nebo jižní Moravou. Na vernisáži v sobotu 13. května k vystavenému dílu promluví Ivan Koláčný z Brna, kulturní vložku tentokráte obstará sám autor, a to mírně neklasickým hudebním přednesem na klasickou kytaru. Výstava potrvá do 4. června.
+Výstava s názvem Střípky post-atomové renesance bude po třinácti letech druhou výstavou Václava Macha-Koláčného. Václav Mach-Koláčný dle svých vlastních slov vnáší do svých kompozic svět pocitů, iluzorních invencí a barevných fantazií a takto osobitým stylem vytváří „krajiny duše“ a „duše krajin“. Ty první představují figurální tvorbu na různá témata, druhé zase krajinu inspirovanou Vysočinou nebo jižní Moravou. Na vernisáži v sobotu 13. května k vystavenému dílu promluví Ivan Koláčný z Brna, kulturní vložku tentokráte obstará sám autor, a to mírně neklasickým hudebním přednesem na klasickou kytaru. Výstava potrvá do 4. června.
 
 ### Uloupené umění
 
