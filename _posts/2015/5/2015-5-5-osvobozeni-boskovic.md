@@ -1,5 +1,5 @@
 ---
-title: "70 let od osvobození: Němci chtěli v Boskovicích postupujícím sovětským jednotkám odolávat, ale nakonec před nimi prchali na západ"
+title: "Němci chtěli v Boskovicích postupujícím sovětským jednotkám odolávat, ale nakonec před nimi prchali na západ"
 cover-photo: http://i.ohlasy.info/TQN4SnA.jpg
 author: Marek Osouch
 ---
