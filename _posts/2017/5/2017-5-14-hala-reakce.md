@@ -13,7 +13,7 @@ tags:
 
 {% photo src="http://i.imgur.com/6vXCA7m.jpg" caption="Jízdárna a tělocvična u ZŠ Sušilova" author="Tomáš Trumpeš" %}
 
-Boskovická starostka Hana Nedomová a také další zastupitelé upozorňují na to, že aktuálně platí usnesení zastupitelstva, že hala se má stavět v Červené zahradě. Toto usnesení ovšem může samo zastupitelstvo revokovat. Respektive musí, pokud se město rozhodne pro novou variantu.
+Boskovická starostka Hana Nedomová (ČSSD) a také další zastupitelé upozorňují na to, že aktuálně platí usnesení zastupitelstva, že hala se má stavět v Červené zahradě. Toto usnesení ovšem může samo zastupitelstvo revokovat. Respektive musí, pokud se město rozhodne pro novou variantu.
 
 „Nyní se připravuje objemová studie, abychom věděli, jestli se tam ta větší tělocvična vůbec vejde,“ říká boskovická starostka a upozorňuje tak na to, že už dnes je jasné, že by na Sušilově nevznikla hala těch rozměrů, jak se plánovalo na Slovákově a posléze v Červené zahradě. Musela by být o něco menší. Také proto město samo tuto variantu zavrhlo, když se snažilo lokalitu pro halu po zrušení stavby na Slovákově hledat. [Vytipovávání lokalit](http://www.ohlasy.info/clanky/2015/06/pozemky-pro-halu.html) tehdy probíhalo na základě půdorysu, který měla plánovaná hala na Slovákově. A ten se na Sušilovu nevešel. Sportovci, kteří návrh podporují, však dnes na těchto rozměrech netrvají a v kombinaci s jízdárnou pokládají novou variantu za dobré řešení. „Pro vedení města to bylo překvapení, dosud na všech jednáních všichni trvali na tom, že to má být tak velké jako na Slovákově,“ dodala starostka.
 
