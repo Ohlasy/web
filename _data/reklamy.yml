@@ -23,11 +23,6 @@
   alt: Hospodský kvíz na Sklepech
   url: http://www.hospodskykviz.cz
   priority: 900
-- name: Šifrovatračka
-  image: http://i.imgur.com/wh5hQyV.png
-  alt: Šifrovatračka, šifrovací hra pro děti
-  url: http://www.vatra-boskovice.cz/sifrovatracka
-  priority: 900
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
