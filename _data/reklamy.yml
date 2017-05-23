@@ -8,6 +8,11 @@
   alt: reklama na podlahy Anatis
   url: http://www.inpodlahy.cz/
   priority: 1000
+- name: BiGyFest
+  image: http://imgur.com/H7QU17L
+  alt: reklama BiGyFest Letovice
+  url: http://www.bigyfestletovice.cz/
+  priority: 1000
 - name: Předplatné na papíru
   image: http://i.imgur.com/ONtMljo.png
   alt: Čtete radši na papíru? Předplaťte si nás!
