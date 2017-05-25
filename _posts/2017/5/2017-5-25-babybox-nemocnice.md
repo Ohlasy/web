@@ -10,7 +10,7 @@ tags:
 
 *Na průčelí boskovické nemocnice přibude babybox – tedy zařízení pro odložené děti. Blanensko je poslední okres Jihomoravského kraje, kde dosud není. O 80 milionů žádá také nemocnice na ministerstvu na nákup přístrojů, kterým postupně končí životnost. Ty nejnutnější nakupuje už dnes.*
 
-{% photo src="http://i.imgur.com/IXp6DrI.jpg" caption="Vizualizace umístění babyboxu na budově nemocnice" author="Tomáš Trumpeš" %}
+{% photo src="http://i.imgur.com/IXp6DrI.jpg" caption="Vizualizace umístění babyboxu na budově nemocnice" author="Město Boskovice" %}
 
 „Zřizování babyboxů je současný trend, který je celospolečensky chápán jako jistá forma pomoci v tíživé životní situaci osobám, které se z různých důvodů nemohou postarat o narozené dítě,“ vysvětluje radnice, která jako vlastník nemocnice udělila se zřízením babyboxu souhlas. 
 
