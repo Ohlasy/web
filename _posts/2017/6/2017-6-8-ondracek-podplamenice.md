@@ -33,7 +33,7 @@ Svět literatury mě vždycky přitahoval. Vždycky jsem se kamarádil s lidmi p
 
 To je těžké zodpovědět, protože je otázka, jestli surrealismus nevyvanul. Jestli to není směr, který řekl, co říct měl, a dnes by měl už mlčet. Takže nevím, jestli surrealistou, ale určité východisko tam zůstává. Nějaký divous ve mně. Surrealisté jsou divousi a kruťáci. Něco takového ve mně taky je.
 
-**Padlo tady slovo technika – ty jsi na jednu stranu výtvarný vynálezce, experimentátor, technik. Na druhou stranu je znát tvá nedůvěra k běžně užívané technice a technologiím. Jakou roli tohle hraje v experiemntálních cestách, na které se vydáváš?**
+**Padlo tady slovo technika – ty jsi na jednu stranu výtvarný vynálezce, experimentátor, technik. Na druhou stranu je znát tvá nedůvěra k běžně užívané technice a technologiím. Jakou roli tohle hraje v experimentálních cestách, na které se vydáváš?**
 
 Výtvarná technika a technologie – to je něco jiného. Například když ilustruji knížky, tak dělám každou jinou technikou, která odpovídá obsahu. Takže mi pomáhá techniky znát a vynalézat. Třeba u těchto maleb plamenem svíčky mi připadalo zvláštní vytvořit obrazy bez dotyku lidské ruky. Není to jako bezdotykový sex nebo něco podobného, ale já se zkrátka těch obrázků nedotknu, a přesto vzniknou. Kdybych se jich dotkl před zafixováním, je to něco jako motýlí pel – ta čerň se okamžitě setře. Takže to musím fixativem rozprášeným na té kresbě upevnit.
 
