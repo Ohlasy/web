@@ -1,6 +1,6 @@
 ---
 title: Podplamenice. Výstava Víta Ondráčka otevřela novou galerii Kunst
-perex: Nová galerie Kunst byla 3. června slavnostně otevřena v Kunštátě, první autorská výstava představuje kunštátského výtvarníka Víta Ondráčka a nese název Podplamenice.
+perex: Nová galerie Kunšt byla 3. června slavnostně otevřena v Kunštátě, první autorská výstava představuje kunštátského výtvarníka Víta Ondráčka a nese název Podplamenice.
 cover-photo: http://i.imgur.com/rk8IGHFl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
