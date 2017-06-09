@@ -7,7 +7,7 @@ category: zpravodajství
 tags: kultura
 ---
 
-*Nová galerie Kunst byla v sobotu 3. června slavnostně otevřena v Kunštátě. Galerie sídlí přímo na náměstí, první autorská výstava představuje kunštátského výtvarníka [Víta Ondráčka](http://vitondracek.cz/) a nese název Podplamenice. Úvodní slovo o malbách plamenem na vernisáži pronesl Tomáš Trumpeš, který kromě toho vedl i krátký rozhovor s autorem. Obě tyto části vernisáže přinášíme jako pozvánku na výstavu, která potrvá do 24. září.*
+*Nová galerie Kunšt byla v sobotu 3. června slavnostně otevřena v Kunštátě. Galerie sídlí přímo na náměstí, první autorská výstava představuje kunštátského výtvarníka [Víta Ondráčka](http://vitondracek.cz/) a nese název Podplamenice. Úvodní slovo o malbách plamenem na vernisáži pronesl Tomáš Trumpeš, který kromě toho vedl i krátký rozhovor s autorem. Obě tyto části vernisáže přinášíme jako pozvánku na výstavu, která potrvá do 24. září.*
 
 {% photo src="http://i.imgur.com/T9jnEzO.jpg" caption="Vít Ondráček s galeristkou Kateřinou Krejčířovou" author="Tomáš Znamenáček" %}
 
