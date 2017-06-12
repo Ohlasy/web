@@ -6,7 +6,7 @@ category: rozhovory
 tags: nemocnice
 ---
 
-*Medicína a zdravotnictví jsou důležité především na okresní úrovni. Velká centra to nemůžou nahradit a nemusí být kolikrát v kvalitě péče lepší, říká v rozhovoru Jan Machač, primář boskovické nemocnice a předseda okresního sdružení České lékařské komory.*
+*Medicína a zdravotnictví jsou důležité především na okresní úrovni. Velká centra to nemůžou nahradit a často nemusí být v kvalitě péče lepší, říká v rozhovoru Jan Machač, primář boskovické nemocnice a předseda okresního sdružení České lékařské komory.*
 
 {% photo src="http://i.imgur.com/TBeeuxb.jpg" author="Tomáš Znamenáček" %}
 
