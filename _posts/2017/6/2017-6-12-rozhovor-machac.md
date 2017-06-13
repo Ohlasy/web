@@ -97,6 +97,7 @@ Přesně tak. My jsme se dostali ve výkonnosti ekonomiky na 70 procent Německa
 Spoluúčast to dnes nevyřeší. Nemůžete chtít po lidech, aby platili tisíc korun za den hospitalizace v nemocnici.
 
 **Už sto korun bylo napadnuto u Ústavního soudu.**
+
 Právě, ale i ten nejchudší důchodce tu stovku denně utratí. Projí, prosvítí, protopí. Když je v nemocnici, tak se o něj stará sestra a dostává se mu hotelových služeb. V Česku jsou také běžné návštěvy několika specialistů, což by se dalo řešit poplatkem. Sociální demokraté ale vždycky budou proti tomu.
 
 ### Pojišťovny si mají konkurovat, a to se neděje
