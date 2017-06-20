@@ -8,11 +8,6 @@
   alt: reklama na podlahy Anatis
   url: http://www.inpodlahy.cz/
   priority: 1000
-- name: BiGyFest
-  image: http://i.imgur.com/QQ9EUbe.png
-  alt: BiGyFest Letovice
-  url: http://www.bigyfestletovice.cz/
-  priority: 1000
 - name: Festival Boskovice
   image: http://i.imgur.com/h0cNkFn.jpg
   alt: Festival Boskovice
