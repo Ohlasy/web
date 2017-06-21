@@ -12,7 +12,7 @@ category: zpravodajství
 
 Úvod zastupitelstva jako v poslední době obvykle provázelo mlčení v bodu Dotazy a připomínky občanů. Diskutovat se zvolenými zástupci nepřišel nikdo z obyvatel.
 
-Obvykle pouze formální akt projednání zprávy o činnosti kontrolního výboru byl tentokrát obohacen o jednu zajímavou skutečnost – kontrolní výbor vznesl návrh, aby jeho se jeho členové mohli účastnit komisí pro výběrová řízení podle zákona o zadávání veřejných zakázek. Zastupitelstvo souhlasilo, byť návrh nepodpořila většina ČSSD ani místostarostka Dagmar Hamalová (KDU-ČSL).
+Obvykle pouze formální akt projednání zprávy o činnosti kontrolního výboru byl tentokrát obohacen o jednu zajímavou skutečnost – kontrolní výbor vznesl návrh, aby se jeho členové mohli účastnit komisí pro výběrová řízení podle zákona o zadávání veřejných zakázek. Zastupitelstvo souhlasilo, byť návrh nepodpořila většina ČSSD ani místostarostka Dagmar Hamalová (KDU-ČSL).
 Z finančního výboru odstoupil Luděk Řehoř, hnutí ANO 2011 na jeho místo nominovalo Michala Sychru a zastupitelé ho ve funkci potvrdili.
 
 ### DOTACE NA SPORTPARK, ZDRAVOTNICKÉ PŘÍSTROJE A SERIÁLY
@@ -60,7 +60,7 @@ Rozpočet stále počítá se schodkem zhruba 68 milionů korun. Od minulých ú
 
 V závěrečné debatě nad dotazy a připomínkami zastupitelů se opět vrátilo téma Boskovické spojky. Opoziční zastupitel Jiří Pevný (Sportovci) požádal, aby zastupitelé dostali na příštím jednání k projektu aktuální informace. Místostarostka Dagmar Hamalová (KDU-ČSL) uvedla, že na základě informací z jednání s firmou SUDOP, která projekt připravuje, vyplývá, že dojde ke zpoždění a se stavbou Boskovické spojky se nezačne v roce 2019, jak bylo dříve deklarováno. Přesný časový harmonogram ale stanoven nebyl.
 
-Jiřího Pevného také zajímalo, jestli má vedení města variantu B pro případ, že neobdrží dotaci na stavbu polytechnického centra. Starostka Hana Nedomová (ČSSD) uvedla, že město očekává na výsledky dotačního řízení, které by měly být známy v září. Jinými variantami se rada nezabývala.
+Jiřího Pevného také zajímalo, jestli má vedení města variantu B pro případ, že neobdrží dotaci na stavbu polytechnického centra. Starostka Hana Nedomová (ČSSD) uvedla, že město čeká na výsledky dotačního řízení, které by měly být známy v září. Jinými variantami se rada nezabývala.
 
 K tématu nemocnice se vrátil Jaroslav Dohnálek, kterého zajímalo především hospodaření nemocnice. Jednatel Miloš Janeček však rozporoval jeho informace o tom, že klesá výkonnost nemocnice, ale neklesá nákladovost. Dále uvedl, že nemocnice má problém s obnovou přístrojů a také se vzrůstajícími personálními náklady. „Platy ukrajují nemocnici stále větší částku z toho, co je schopna vyprodukovat. Pokud to bude tímto způsobem pokračovat, může se nemocnice dostat do situace, že nebude schopná plnit to, co stát slibuje zaměstnancům,“ dodal Miloš Janeček. Bývalý starosta Jaroslav Dohnálek se pozastavil také nad tím, jestli je nutné nyní investovat do nemocničních interiérů. Jednatel vysvětlil, že peníze na revitalizaci jdou z rozpočtu ministerstva, které ale peníze na přístroje nedá. Jaroslav Dohnálek pak vyjádřil přání, aby se zastupitelé nad tématem nemocnice dokázali sejít k samostatnému informačnímu jednání, podobně jako to udělali kvůli sportovní hale. S tím souhlasil i jednatel nemocnice.
 
