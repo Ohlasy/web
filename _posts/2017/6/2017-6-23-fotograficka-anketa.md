@@ -1,7 +1,7 @@
 ---
 title: "FOTOGRAFICKÁ ANKETA: Snímek loňského léta"
 perex: Odpovídají fotografové Pavel Šmíd, Gabriela Kolčavová a Tomáš Znamenáček.
-cover-photo: http://i.imgur.com/y2e6fd0l.jpg
+cover-photo: http://i.imgur.com/u2H9FsBl.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: kultura
@@ -15,6 +15,9 @@ tags: kultura
 
 **Pavel Šmíd**
 
+  
+  
+  
 Amadis Jamyn (1540–1593)
 Ryby ve vzduchu
  
@@ -35,7 +38,7 @@ Fotka nebo vlastně fotky, které mně udělaly loni v létě největší radost
 
 Navzdory tomu, že stereofotografie byla velmi oblíbená v druhé polovině 19. století, můj dobrý texaský sedmdesátiletý kamarád Randy ji vždycky miloval. Je velký fanda do fotografie obecně, ale za roky života nafotil spoustu především těchto černobílých i barevných stereofotografií své rodiny a zážitků z dovolených. Když jsem se s ním viděla loni na jaře, vykládala jsem mu, jak jsem ráda, že jsem konečně sehnala stereoskop. Historických stereofotografií, které ukazuji studentům během výuky historie fotografie, pár vlastním. Ale bez možnosti podívat se na ně stereoskopem to nikdy není ono. Jakmile jsme začali tuto debatu, úplně se rozzářil a netrvalo víc než půl den a objednal mi k narozeninám tento krásný americký stereofotoaparát z padesátých let minulého století. Před létem se mi vynořil v poště a my jsme ho tak měli možnost s dětmi opět oživit!
 
-{% photo src="http://i.imgur.com/y2e6fd0.jpg" caption="Stereofotografie" author="Gabriela Kolčavová" %}
+{% photo src="http://i.imgur.com/u2H9FsB.jpg" caption="Stereofotografie" author="Gabriela Kolčavová" %}
 
 <img src="http://i.imgur.com/viK25Am.jpg" class="profile-picture" alt="Tomáš Zanmenáček">
 
