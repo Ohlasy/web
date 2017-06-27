@@ -33,7 +33,7 @@ Zastupitel Vladimír Farský byl nespokojený s formulací v materiálu, kde se 
 
 ### PRODEJE A VÝMĚNY POZEMKŮ
 
-Na ulici Dukelská pokračuje majetkové vypořádání bývalého mlýnského náhonu. Ten totiž oficiálně patří městu, lidé si ho ale často i bez odkupu zabrali, a tak si prodloužili svou zahradu. Zastupitelé schválili záměr prodeje těchto pozemků několika majitelům, nebo již přímo kupní či směnné smlouvy.
+Na ulici Dukelská pokračuje majetkové vypořádání bývalého pozemků mlýnského náhonu. Zastupitelé schválili záměr jejich prodeje několika majitelům, nebo již přímo kupní či směnné smlouvy.
 
 Za účelem sjednocení pozemků a vybudování garáží za takzvanými Kopřivami požádal o odkup pozemků podnikatel Luděk Řehoř. Zastupitelé mu vyhověli.
 
