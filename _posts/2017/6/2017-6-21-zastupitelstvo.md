@@ -41,7 +41,7 @@ S pozemky souvisí i další bod, který zastupitelé projednávali – na zákl
 
 ### PŘEVOD BYTŮ NA MÁNESOVĚ
 
-Do osobního vlastnictví získají byty obyvatelé domu číslo popisné 2202 na Mánesově ulici. Dům byl postaven v roce 1996 díky dotacím a částečně i díky půjčkám, které budoucí majitelé na jeho vybudování poskytli. Po uplynutí dvacetileté lhůty tak město splnilo svůj závazek a umožnilo majitelům byty získat.
+Do osobního vlastnictví získají byty obyvatelé domu číslo popisné 2205 na Mánesově ulici. Dům byl postaven v roce 1996 díky dotacím a částečně i díky půjčkám, které budoucí majitelé na jeho vybudování poskytli. Po uplynutí dvacetileté lhůty tak město splnilo svůj závazek a umožnilo majitelům byty získat.
 
 ### SPORTOVNÍ HALA A ČERVENÁ ZAHRADA
 
