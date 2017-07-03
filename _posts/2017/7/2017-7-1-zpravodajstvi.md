@@ -23,9 +23,12 @@ Město udělilo dotaci 8 milionů korun nemocnici na nákup zdravotnických př�
 
 Místostarostka Dagmar Hamalová (KDU-ČSL) informovala, že z jednání s firmou SUDOP, která připravuje projekt Boskovické spojky, vyplývá, že dojde ke zpoždění a se stavbou se nezačne v roce 2019, jak bylo dříve deklarováno. Přesný časový harmonogram ale stanoven nebyl.
 
+Boskovice hostily finále [Středoškolské odborné činnosti](http://boskovice.cz/boskovice-hosti-finale-soc/d-31054/p1=1019). 
+
 Učitelka tělocviku Sáša Živná po 31 letech odchází z boskovického gymnázia. Ředitelka Alena Svanovská jí nabídla odchod formou dohody o ukončení pracovní činnosti. Sáša Živná dohodu podepsala, zpětně však tvrdí, že pod nátlakem. Celá věc pravděpodobně skončí u soudu. Proti odchodu pedagožky vznikla i petice, kterou dosud podepsalo přes 350 lidí, především současných a bývalých studentů školy. Petice však mylně uvádí, že Sáša Živná odchází na základě obdržené výpovědi.
 
 Do osobního vlastnictví získají byty obyvatelé domu číslo popisné 2205 na Mánesově ulici. Dům byl postaven v roce 1996 díky dotacím a částečně i díky půjčkám, které budoucí majitelé na jeho vybudování poskytli. Po uplynutí dvacetileté lhůty tak město splnilo svůj závazek a umožnilo majitelům byty získat.
+
 Politické strany sestavují své kandidátky do podzimních sněmovních voleb, a tak už je jasné, jací politici se probojovali na listině nejvýše, a tak mají nejvyšší šanci reprezentovat při případném úspěchu okres Blansko. Za hnutí ANO je na čtvrtém místě blanenská zastupitelka Lenka Dražilová, ČSSD vysílá do sněmovny na osmém místě boskovickou starostku Hanu Nedomovou a v koalici KDU-ČSL a STAN je na sedmém místě také místostarostka Boskovic Dagmar Hamalová. Občanští demokraté mají na čtvrtém místě Libora Hoppe z Lipůvky, komunisti blanenského zastupitele Emila Pernicu poté na pátém a dvanácté místo u TOP 09 obsadil zastupitel Letovic Petr Novotný. Jako lídr vede SPD na jižní Moravě Jan Hrnčíř z Blanska, který je za stejnou stranu i krajským zastupitelem. Zelené doplňuje na patnáctém místě Michal Staněk z Boskovic. Na kandidátce Pirátů do patnáctého místa nikdo z Blanenska nefiguruje.
 
 Boskovice navštívil a s voliči besedoval prezidentský kandidát a bývalý šéf Akademie věd [Jiří Drahoš](http://www.ohlasy.info/clanky/2017/06/drahos.html).
