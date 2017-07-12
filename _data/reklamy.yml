@@ -1,3 +1,8 @@
+- name: "Muzeum: Blažková"
+  image: http://i.imgur.com/yKQaAv8.png
+  alt: navštivte Muzeum Boskovicka
+  url: http://muzeum.boskovice.cz/
+  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
@@ -42,9 +47,4 @@
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
-  priority: 700
-- name: Muzeum
-  image: http://i.imgur.com/8lRrnXI.jpg
-  alt: navštivte Muzeum Boskovicka
-  url: http://muzeum.boskovice.cz/
   priority: 700
