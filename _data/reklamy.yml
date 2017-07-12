@@ -13,11 +13,6 @@
   alt: reklama na podlahy Anatis
   url: http://www.inpodlahy.cz/
   priority: 1000
-- name: Festival Boskovice
-  image: http://i.imgur.com/h0cNkFn.jpg
-  alt: Festival Boskovice
-  url: http://boskovice-festival.cz
-  priority: 1000  
 - name: Předplatné na papíru
   image: http://i.imgur.com/ONtMljo.png
   alt: Čtete radši na papíru? Předplaťte si nás!
