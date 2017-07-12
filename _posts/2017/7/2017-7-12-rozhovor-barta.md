@@ -20,7 +20,7 @@ Vymyslel jsem, že to budou cedulky se jmény, jakési vizitky nebo zvonky.  A t
 
 **To ale asi bylo možné jen zčásti, protože ne všechny ty domy stojí, ne?**
 
-U těch domů, které nestojí, jsem nechal vyrobit železné sloupky s mírným ohnutím na konci, kam je přilepená právě ta cedulka se jmény obyvatel. Zároveň jsem chtěl udělat průvodce touto židovskou čtvrtí, takže jsem podle starší mapky Jaroslava Klenovského, který ji překresloval ze starých mapek, vytvořil aktualizovaný plánek. Mezitím totiž došlo k přestavbám a novostavbám, některé domy byly naopak zbořeny. Třeba nad bývalou restaurací Makkabi, jak byla zahrádka, tam stál dům. Plánek byl vytištěn a návštěvníci mají možnost si ho vzít; na druhé straně jsou seznamy všech lidí, kteří v jednotlivých domech bydleli.
+U těch domů, které nestojí, jsem nechal vyrobit železné sloupky s mírným ohnutím na konci, kam je přilepená právě ta cedulka se jmény obyvatel. Zároveň jsem chtěl udělat průvodce touto židovskou čtvrtí, takže jsem podle starší mapky Jaroslava Klenovského, který ji překresloval ze starých mapek, [vytvořil aktualizovaný plánek](http://data.ohlasy.info/2017/spoluobcane.pdf). Mezitím totiž došlo k přestavbám a novostavbám, některé domy byly naopak zbořeny. Třeba nad bývalou restaurací Makkabi, jak byla zahrádka, tam stál dům. Plánek byl vytištěn a návštěvníci mají možnost si ho vzít; na druhé straně jsou seznamy všech lidí, kteří v jednotlivých domech bydleli.
 
 **Jak jste ty seznamy získal?**
 
