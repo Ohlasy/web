@@ -64,7 +64,7 @@ Takto jsem si malinko interpretoval tu negativní odezvu – že nevidí důvod 
 
 A když si řekneme, že se jedná dnes z valné většiny o ateistickou společnost, tak tam chybí i nějaký princip, ať už křesťanský nebo jiný, který by nebyl dávaný státem, ale přicházel by shůry skrze víru. Ta většinou klade postuláty, které vytváří normativ nějakého etického chování.
 
-{% photo src="http://i.imgur.com/qFG9U6S.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.imgur.com/18R38CC.jpg" author="Tomáš Znamenáček" %}
 
 **Takže si dnes spíš prohlížíme stavby, než že bychom opravdu přemýšleli nad odkazem židovské kultury?**
 
