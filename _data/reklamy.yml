@@ -32,14 +32,14 @@
   image: http://i.imgur.com/DF3QiDM.png
   alt: Hospodský kvíz na Sklepech
   url: http://www.hospodskykviz.cz
-  priority: 900
+  priority: 800
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
   url: http://www.galerie-ok.cz/
-  priority: 800
+  priority: 700
 - name: Optik Lukáš
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
-  priority: 700
+  priority: 600
