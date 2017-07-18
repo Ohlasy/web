@@ -6,7 +6,7 @@ author: Marek Osouch
 category: zpravodajství
 ---
 
-*Redakce Ohlasů [před měsícem upozornila](http://www.ohlasy.info/clanky/2017/06/kolinsky-parkovani.html), že boskovický radní za ČSSD Milan Kolínský má před svým domem za peníze z rozpočtu města nové pohodlné parkovací stání bez výtluků, zatímco sousedé i přes úpravy v tamní lokalitě parkují jen na štěrku. Po zveřejnění článku však bylo místo upraveno i u domu souseda. *
+*Redakce Ohlasů [před měsícem upozornila](http://www.ohlasy.info/clanky/2017/06/kolinsky-parkovani.html), že boskovický radní za ČSSD Milan Kolínský má před svým domem za peníze z rozpočtu města nové pohodlné parkovací stání bez výtluků, zatímco sousedé i přes úpravy v tamní lokalitě parkují jen na štěrku. Po zveřejnění článku však bylo místo upraveno i u domu souseda.*
 
 {% photo src="http://i.imgur.com/fJ88Lr9.jpg" caption="Dvě různé opravy parkovacích stání" author="Tomáš Trumpeš" %}
 
