@@ -1,5 +1,5 @@
-- name: "Muzeum: Blažková"
-  image: http://i.imgur.com/yKQaAv8.png
+- name: "Muzeum: Bolf"
+  image: http://i.imgur.com/v0yJSwt.png
   alt: navštivte Muzeum Boskovicka
   url: http://muzeum.boskovice.cz/
   priority: 1000
