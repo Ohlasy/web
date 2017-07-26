@@ -30,7 +30,7 @@ Budoucností Boskovické televize se zatím městská ani redakční rada příl
 
 ### Rozsah skoro stejný
 
-Z hlediska rozsahu k žádnému omezení takřka nedojde, i když o tom se podle Vladimíra Farské ještě povede debata na příštím srpnovém jednání městské rady. Dosavadní radniční listy měly čtyři strany A4, Zpravodaj vycházel ve formátu A5 a i s obálkou měl 36 stran. Celkem tedy obě média čítala 22 stran A4. Podle aktuálního návrhu budou Boskovice svým občanům nabízet téměř to stejné – 20 stran, avšak kompletně zadarmo a s distribucí do schránek. Zvažovaná je i varianta 16 stran, což by se samozřejmě projevilo i v nižší ceně za tisk.
+Z hlediska rozsahu k žádnému omezení takřka nedojde, i když o tom se podle Vladimíra Farského ještě povede debata na příštím srpnovém jednání městské rady. Dosavadní radniční listy měly čtyři strany A4, Zpravodaj vycházel ve formátu A5 a i s obálkou měl 36 stran. Celkem tedy obě média čítala 22 stran A4. Podle aktuálního návrhu budou Boskovice svým občanům nabízet téměř to stejné – 20 stran, avšak kompletně zadarmo a s distribucí do schránek. Zvažovaná je i varianta 16 stran, což by se samozřejmě projevilo i v nižší ceně za tisk.
 
 Odpadne tedy přímá finanční účast těch, kdo si Zpravodaj kupovali, celkově však daňoví poplatníci zaplatí za takřka stejný rozsah radničního čtení třikrát víc. Obálka a další čtyři strany nového Zpravodaje by měly být v barvě, zbylých dvanáct stran černobílých. „Celková úroveň půjde výrazně nahoru, a to není zadarmo. To je hlavní důvod, chceme se posunout dál, co se týče kvality. Bude se o tom ještě diskutovat a poslední slovo bude mít samozřejmě zastupitelstvo při schvalování rozpočtu,“ vysvětluje Vladimír Farský.
 
