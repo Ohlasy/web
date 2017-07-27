@@ -41,11 +41,11 @@ Na prvním srpnovém promenádním koncertě u zámeckého skleníku se nám př
 
 K folkové hudbě se vrátíme ještě jednou, na boskovickém zámku totiž v pátek 11. srpna zahraje kapela Pozdní sběr, která do své hudby kromě folku a country zařazuje i prvky rocku, jazzu, blues nebo funky. Koncert se koná v rámci turné s názvem Castle Tour 2017, při němž kapela objíždí různé památky naší republiky, čímž by mělo dle jejich frontmana Jirky Pařeza docházet k propojení vizuálních a sluchových vjemů.
 
-### FS Velen, Symfonický orchestr města Boskovice
+### FS Velen, Cimbálová muzika a Jazz kvartet při SPgŠ
 
 *Park u zámeckého skleníku, 13. srpna 15:00*
 
-K zajímavému setkání dvou souborů dojde na promenádním koncertě v neděli 13. srpna. Počátky folklórního tanečního souboru Velen, který prezentuje hudební písňový a taneční folklór z boskovické oblasti Drahanské vrchoviny, Malé Hané a Horácka, sahají až do padesátých let minulého století, naopak Symfonický orchestr města Boskovice pod vedením Tomáše Pléhy a Dominika Pernici je záležitostí zatím poměrně čerstvou, jejich první koncert se konal 1. června tohoto roku.
+K zajímavému setkání tří souborů dojde na promenádním koncertě v neděli 13. srpna. Počátky folklórního tanečního souboru Velen, který prezentuje hudební písňový a taneční folklór z boskovické oblasti Drahanské vrchoviny, Malé Hané a Horácka, sahají až do padesátých let minulého století. Po změně programu ho nakonec u skleníku místo Symfonického orchestru Boskovice doplní Cimbálová muzika a Jazz kvartet při SPgŠ.
 
 ### Holóbkova mozeka
 
