@@ -18,11 +18,6 @@
   alt: Čtete radši na papíru? Předplaťte si nás!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=printed_version
   priority: 1000
-- name: "Festival 3+1"
-  image: http://i.imgur.com/VhteS6T.png
-  alt: Festival 3+1
-  url: http://triplusjednaletovice.cz/
-  priority: 1000
 - name: Ložiska
   image: http://i.imgur.com/4nJ0dNw.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
