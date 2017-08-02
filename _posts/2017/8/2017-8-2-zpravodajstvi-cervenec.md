@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v červenci na Boskovicku událo.*
 
-{% photo src="http://i.imgur.com/P5Jm0ed.jpg" caption="Pumptracková dráha ve Sportparku" author="Marek Osouch" %}
+{% photo src="http://i.imgur.com/N5axiIv.jpg" caption="Pumptracková dráha ve Sportparku" author="Marek Osouch" %}
 
 
 Konal se [25. ročník festivalu pro židovskou čtvrť Boskovice 2017](https://www.facebook.com/pg/ohlasy/photos/?tab=album&album_id=1367298696657575). Akci navštívily téměř 4 tisíce lidí. [Fotograf Jaroslav Bárta](http://www.ohlasy.info/clanky/2017/07/rozhovor-barta.html) rozmístil ve čtvrti cedulky se jmény těch, kteří odtud byli deportování transportem Ac v roce 1942 do Terezína.
