@@ -3,6 +3,11 @@
   alt: navštivte Muzeum Boskovicka
   url: http://muzeum.boskovice.cz/
   priority: 1000
+- name: "Kunštátský jarmark"
+  image: http://i.imgur.com/zmx0CXG.png
+  alt: Hrnčířský jarmark v Kunštátě
+  url: http://www.kunstat-mesto.cz/hrncirsky-jarmark/hrncirsky-jarmark-2017/
+  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
