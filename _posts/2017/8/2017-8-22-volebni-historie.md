@@ -4,6 +4,7 @@ perex: Jak se v minulosti volilo na okrese Blansko a přímo v Boskovicích a 
 cover-photo: http://i.imgur.com/n8PJWGll.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags: politika
 ---
 
 *Volby do Poslanecké sněmovny se rychle blíží a dění na politické scéně je poměrně turbulentní. Kromě sledování celostátního aktuálního dění je snad zajímavé podívat se i do minulosti, tedy na výchozí pozici stran a hnutí v našem volebním obvodu – Jihomoravském kraji. Kromě krajského pohledu nabízíme také malou sondu do toho, jak se v minulosti volilo na okrese Blansko a přímo v Boskovicích.*
