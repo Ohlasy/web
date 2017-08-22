@@ -1,8 +1,3 @@
-- name: "Muzeum: Bolf"
-  image: http://i.imgur.com/v0yJSwt.png
-  alt: navštivte Muzeum Boskovicka
-  url: http://muzeum.boskovice.cz/
-  priority: 1000
 - name: "Kunštátský jarmark"
   image: http://i.imgur.com/zmx0CXG.png
   alt: Hrnčířský jarmark v Kunštátě
