@@ -4,7 +4,6 @@ cover-photo: http://i.imgur.com/kKSizhRl.jpg
 perex: Rozhovor s Luďkem Řehořem, majitelem Panského dvora, o dalším pokusu prosadit rekonstrukci barokní památky.
 author: Tomáš Trumpeš
 category: rozhovory
-published: false
 ---
 
 *Rozhovor s Luďkem Řehořem, majitelem Panského dvora – významné barokní památky v centru Boskovic. V minulosti se několikrát snažil prosadit její rekonstrukci, pokaždé však [narazil na nesouhlas státní památkové péče](http://www.ohlasy.info/clanky/2016/11/pansky-dvur.html). Nyní učinil další pokus, o kterém jsme mluvili, stejně jako o předpokládaném harmonogramu rekonstrukce a představách o dalším využití Panského dvora.*
