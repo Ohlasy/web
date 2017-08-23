@@ -1,5 +1,5 @@
 ---
-title: "„Souhlas památkové péče máme, rekonstrukce Panského dvora by mohla začít příští rok v červnu.“"
+title: „Souhlas památkové péče máme, rekonstrukce Panského dvora by mohla začít v červnu.“
 cover-photo: http://i.imgur.com/kKSizhRl.jpg
 perex: Rozhovor s Luďkem Řehořem, majitelem Panského dvora, o dalším pokusu prosadit rekonstrukci barokní památky.
 author: Tomáš Trumpeš
