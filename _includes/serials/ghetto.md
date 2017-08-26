@@ -1,12 +1,3 @@
-S boskovickou židovskou čtvrtí je spojena celá řada příběhů a zajímavých
-lidských osudů, často velmi pohnutých. A právě tyto příběhy bych vám v seriálu
-Příběhy z ghetta ráda vyprávěla. Mnohé z nich odkrývá ve svých publikacích
-PhDr. Jaroslav Bránský, největší odborník na historii Židů v Boskovicích.
-S jeho vědomím a laskavým souhlasem si dovoluji použít některé informace a údaje,
-jež jsem načerpala právě z jeho knih. Činím tak dnes a bude mi velkým potěšením
-činit tak i nadále, neboť věřte, že nad mnohými z příběhů boskovického ghetta
-se doslova tají dech. Nechť je tento seriál připomínkou lidí, kteří zde v
-časech dávno uplynulých prožívali své životy, své osudy, a já se o ně s vámi
-velmi ráda podělím.
+S boskovickou židovskou čtvrtí je spojena řada příběhů a zajímavých lidských osudů, často velmi pohnutých. A právě něco z historie židovského městečka a jeho obyvatel bych vám v seriálu Příběhy z ghetta ráda vyprávěla. Mnohé z těchto příběhů odkrývá ve svých knihách PhDr. Jaroslav Bránský, největší odborník na tématiku Židů v Boskovicích. Bohužel nás tento v mnoha ohledech nenahraditelný člověk navždy opustil. Zůstaly zde však jeho publikace, ze kterých mohu pro náš cyklus i nadále čerpat cenné informace a údaje. Činím tak dnes a bude mi velkým potěšením činit tak i nadále, neboť věřte, že nad mnohými z příběhů boskovického ghetta se doslova tají dech. A dovolte mi, abych tak činila také na památku Jaroslava Bránského, po kterém v Boskovicích zůstalo prázdné místo. Nechť je tento seriál připomínkou lidí, kteří zde v časech dávno uplynulých prožívali své životy a své osudy.
 
 *Helena Janíková*
