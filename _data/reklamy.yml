@@ -1,3 +1,8 @@
+- name: Muzeum
+  image: http://i.imgur.com/9SxYimz.png
+  alt: Šlechtický rod Morkovských ze Zástřizl
+  url: http://www.muzeum-boskovicka.cz/slechticky%2Drod%2Dmorkovskych%2Dze%2Dzastrizl%2Dna%2Dboskovicich/a-1138/p1=1098
+  priority: 1000
 - name: "Kunštátský jarmark"
   image: http://i.imgur.com/zmx0CXG.png
   alt: Hrnčířský jarmark v Kunštátě
