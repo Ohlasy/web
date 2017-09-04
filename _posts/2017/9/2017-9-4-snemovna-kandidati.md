@@ -69,6 +69,7 @@ Strana, za kterou kandiduje: ČSSD
 Pozice na kandidátce: 8. místo
 
 Lídr v Jihomoravském kraji: Bohuslav Sobotka – předseda vlády
+
 Výsledek v minulých volbách na jižní Moravě: 22,94 procent hlasů a 6 mandátů
 
 Zkušenosti s politikou: Hana Nedomová je od roku 2014 starostkou Boskovic, předtím čtyři roky seděla v opozici v zastupitelstvu a pracovala na blanenském a posléze krajském  úřadu. Také ona pro Ohlasy prohlásila, že pokud by ve sněmovních volbách uspěla, vzdá se křesla starostky a nebude dvě funkce kumulovat.
@@ -146,6 +147,7 @@ Strana, za kterou kandiduje: Svobodní
 Pozice na kandidátce: 12. místo
 
 Lídr v Jihomoravském kraji: Petr Pořízek – podnikatel
+
 Výsledek v minulých volbách na jižní Moravě: 2,59 procent hlasů a žádný mandát
 
 Zkušenosti s politikou: Michal Sýkora působí v Šebrově-Kateřině od roku 2014 jako zastupitel, loni neúspěšně kandidoval v krajských volbách.
