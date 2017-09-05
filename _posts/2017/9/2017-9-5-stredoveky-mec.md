@@ -10,7 +10,7 @@ tags: historie
 
 *Záhy po svém nastoupení na český trůn byl Jan Lucemburský nucen vytáhnout na Moravu, aby zpacifikoval odbojné šlechtice. Jeho vojska dobyla hrady Ungersberk, Boskovice a Račice. Patrně z této válečné epizody může pocházet středověký meč, nalezený v Boskovicích pod hradním kopcem v prostoru dnešních lázní.*
 
-<img src="https://i.imgur.com/cfUfzC2.jpg" alt="středověký meč" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
+{% photo src="https://i.imgur.com/cfUfzC2.jpg" caption="středověký meč" author="Muzeum regionu Boskovicka" %}
 
 Meč o délce 1060 mm a váze 1442 g byl nalezen pod Hradním kopcem v místech dnešních lázní. Čepel tohoto typu (široká, zvolna se zužující směrem k nevýraznému hrotu, s širokým a hlubokým žlábkem od řapu až k poslední čtvrti délky) byla rozšířena ve střední Evropě od konce 12. století do poloviny 14. století; masívní hlavice kruhového tvaru byla obvyklá v průběhu 13. století až první poloviny 15. století. Meč lze tedy celkově zařadit do období konce 13. až počátku 14. století.
 
@@ -30,7 +30,7 @@ Zmírá, povýšen takto, ten člověk, když provaz ho sevřel.
 Zároveň stínají meče i ostatní čeládku hradní.“*  
 (Zbraslavská kronika)
 
-<img src="https://i.imgur.com/NRKX1dI.jpg" alt="Boskovický hrad" class="img-responsive img-popup" data-author="Kristýna Znamenáčková">
+{% photo src="https://i.imgur.com/NRKX1dI.jpg" caption="Boskovický hrad" author="Kristýna Znamenáčková" %}
 
 Zbraslavský kronikář popisuje i dobytí hradu Račice Fridricha z Línavy, při kterém pomáhali horníci, kteří během několika dní podkopali hradby, které se pak zřítily. O dobývání boskovického hradu se však přímo nezmiňuje. O něm se zmiňuje až listina z 5. května 1313, v níž na přímluvu předních českých a moravských pánů vzal král Jan odbojníky na milost a vrátil jim zabavený majetek.
 
