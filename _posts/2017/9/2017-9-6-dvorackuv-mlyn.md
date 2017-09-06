@@ -1,6 +1,6 @@
 ---
 title: "Dvořáčkův mlýn má jít k zemi. Ozývají se protesty"
-cover-photo: https://i.imgur.com/TsxZcbA.jpg
+cover-photo: https://i.imgur.com/TsxZcbAl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
