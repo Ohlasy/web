@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Šestnácté jednání boskovického zastupitelstva se tentokrát protáhlo. Zastupitelé jednali čtyři hodiny, hlavními body debaty byla debata o budoucnosti nemocnice a také bourání Dvořáčkova mlýna.*
+*Šestnácté jednání boskovického zastupitelstva se protáhlo. Zastupitelé jednali čtyři hodiny, hlavními body byla debata o budoucnosti nemocnice a také bourání Dvořáčkova mlýna.*
 
 {% photo src="https://i.imgur.com/Sys0pjY.jpg" caption="Miloš Pachl" author="Tomáš Znamenáček" %}
 
