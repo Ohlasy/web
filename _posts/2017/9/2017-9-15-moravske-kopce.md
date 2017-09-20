@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Moravské kopce a černýš český"
 perex: Ke konci léta o moravských kopcích, Olešnicích českých i moravských, a černýši se žlutými květy.
-cover-photo: https://i.imgur.com/GRRoAYel.jpg
+cover-photo: https://i.imgur.com/cn8RuBOl.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
