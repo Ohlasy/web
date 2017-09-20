@@ -1,5 +1,5 @@
 ---
-title: "Zastupitelstvo: bourání mlýna, sportovní hala a budoucnost nemocnice"
+title: "Ze zastupitelstva: bourání mlýna, hala a budoucnost nemocnice"
 cover-photo: https://i.imgur.com/V48obt6l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
