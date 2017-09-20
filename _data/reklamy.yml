@@ -8,11 +8,6 @@
   alt: Šlechtický rod Morkovských ze Zástřizl
   url: http://www.muzeum-boskovicka.cz/slechticky%2Drod%2Dmorkovskych%2Dze%2Dzastrizl%2Dna%2Dboskovicich/a-1138/p1=1098
   priority: 1000
-- name: "Kunštátský jarmark"
-  image: http://i.imgur.com/zmx0CXG.png
-  alt: Hrnčířský jarmark v Kunštátě
-  url: http://www.kunstat-mesto.cz/hrncirsky-jarmark/hrncirsky-jarmark-2017/
-  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
@@ -23,11 +18,6 @@
   alt: reklama na podlahy Anatis
   url: http://www.inpodlahy.cz/
   priority: 1000
-- name: Předplatné na papíru
-  image: http://i.imgur.com/ONtMljo.png
-  alt: Čtete radši na papíru? Předplaťte si nás!
-  url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=printed_version
-  priority: 600
 - name: Ložiska
   image: http://i.imgur.com/4nJ0dNw.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
@@ -47,4 +37,9 @@
   image: http://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
+  priority: 600
+- name: Předplatné na papíru
+  image: http://i.imgur.com/ONtMljo.png
+  alt: Čtete radši na papíru? Předplaťte si nás!
+  url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=predplatne&utm_medium=banner&utm_content=printed_version
   priority: 600
