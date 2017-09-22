@@ -4,6 +4,7 @@ cover-photo: http://i.ohlasy.info/TljUE7nl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: historie
+featured: true
 ---
 
 *Rozhovor s Jaroslavem Achabem Haidlerem. Herec ústeckého Činoherního studia dokumentuje židovské hřbitovy a v Boskovicích na pozvání Unijazzu uspořádal komentovanou prohlídku místního hřbitova. Návštěvníkům se dostalo strhujícího výkladu nejen o náhrobcích, ale o židovské kultuře a významu židovských zvyků a tradic. O tom všem a o Achabově pohledu na vývoj boskovické čtvrti i hřbitova jsme vedli po prohlídce rozhovor, který se stočil i na obecné téma soužití odlišných kultur.*

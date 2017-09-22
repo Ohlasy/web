@@ -4,6 +4,7 @@ author: Marek Osouch
 cover-photo: http://i.ohlasy.info/Q7YxUuKl.jpg
 category: zpravodajství
 tags: nemocnice
+featured: true
 ---
 
 *Deset let uplyne v dubnu od doby, kdy boskovická nemocnice začala fungovat pod městem jako společnost s ručením omezeným. Každý rok odvádí městu nájem, protože nemocniční budovu nevlastní městská firma, ale přímo město. V poslední době je to téměř sedm milionů. Naopak z městského rozpočtu šly na opravu budovy desítky milionů. Po celou dobu se vedou diskuse, nakolik nemocnice město zatěžuje. Proto jsme zkusili čísla příjmů a výdajů porovnat.*

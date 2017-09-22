@@ -4,6 +4,7 @@ serial: krajiny
 category: seriály
 cover-photo: http://i.ohlasy.info/aiEqissl.jpg
 author: Hynek Skořepa
+featured: true
 ---
 
 *Malou Hanou jsem v dětství a mládí spíš opomíjel. Ač rodák z Boskovic, města, které dalo jméno celé Boskovické brázdě, jíž je Malá Haná součástí, za svůj rodný kraj jsem dlouho považoval především Drahanskou vrchovinu. Inu proč ne, vždyť příkré zlomové svahy této vrchoviny se zdvíhají hned za posledními domy mého rodného města. Jak léta mládí mizela, ubývalo chuti a sil trmácet se do kopců (i když stále do nich sem tam rád zajdu). Nastal čas Malé Hané, té „kapesní roviny“. Teprve za svého učitelování na jevíčském gymnáziu jsem jí však přišel jaksepatří na chuť.*

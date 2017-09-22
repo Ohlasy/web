@@ -2,6 +2,7 @@
 title: Základní důvod pro veganství by měl být etický, říká veganka Jitka Urbanová
 category: rozhovory
 cover-photo: http://i.ohlasy.info/ab4hYtNl.jpg
+featured: true
 author: Tomáš Trumpeš
 ---
 

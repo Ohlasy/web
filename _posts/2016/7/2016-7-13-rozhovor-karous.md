@@ -4,6 +4,7 @@ cover-photo: http://i.ohlasy.info/ReyZ2hsl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura
+featured: true
 ---
 
 *Rozhovor s výtvarníkem Pavlem Karousem, autorem instalace Pomník Bruno Zwickera, kterou vytvořil pro letošní ročník festivalu Boskovice 2016 a která bude v Panském dvoře vystavena do 21. srpna. Vedle vlastní výtvarné tvorby se Pavel Karous věnuje také mapování, ochraně a podpoře výtvarného umění ve veřejném prostoru, je kupříkladu iniciátorem projektu [Vetřelci a volavky](http://www.vetrelciavolavky.cz/). Kromě jeho boskovické práce a životního příběhu Bruno Zwickera jsme se tedy v rozhovoru věnovali právě dnešnímu přístupu k výtvarným dílům ve veřejném prostoru.*

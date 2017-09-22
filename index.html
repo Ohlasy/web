@@ -20,6 +20,7 @@ why: A dummy header to make Jekyll process this file.
     {% assign serials = site.array %}
     {% assign culture = site.array %}
     {% assign politics = site.array %}
+    {% assign featured = site.array %}
 
     {% for post in site.posts | offset: 1 %}
         {% if post.category == 'rozhovory' %}
@@ -33,6 +34,9 @@ why: A dummy header to make Jekyll process this file.
         {% endif %}
         {% if post.tags contains 'politika' %}
             {% assign politics = politics | push: post %}
+        {% endif %}
+        {% if post.featured %}
+            {% assign featured = featured | push: post %}
         {% endif %}
     {% endfor %}
 
@@ -74,6 +78,10 @@ why: A dummy header to make Jekyll process this file.
 
         <h2>politika</h2>
         {% include grid/nine.html items=politics %}
+
+        <h2>vybíráme z archivu</h2>
+        {% assign random_featured = featured | shuffle %}
+        {% include grid/five.html items=random_featured %}
     </div>
 
     {% include footer.html %}

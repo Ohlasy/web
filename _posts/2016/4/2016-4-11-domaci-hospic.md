@@ -4,6 +4,7 @@ cover-photo: http://i.ohlasy.info/drcQTE2l.jpg
 author: Kristýna Znamenáčková
 category: rozhovory
 tags: sociální služby
+featured: true
 ---
 
 *Rozhovor s Radkou Kuncovou, vedoucí domácí hospicové péče, kterou na našem okrese poskytuje Oblastní charita Blansko. Na Boskovicku a Blanensku se jedná o jediné zařízení svého druhu. Je určeno umírajícím pacientům, kterým umožňuje strávit poslední dny a týdny života doma.*

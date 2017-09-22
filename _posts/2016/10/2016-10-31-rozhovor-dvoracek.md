@@ -5,6 +5,7 @@ cover-photo: http://i.ohlasy.info/CM6OAmKl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: cestování
+featured: true
 ---
 
 *Rozhovor s Karlem Dvořáčkem, který vykonal pouť do Santiaga de Compostela pěšky z Boskovic. Cesta dlouhá asi tři tisíce kilometrů mu trvala tři měsíce a jak říká, změnila mu život.*
