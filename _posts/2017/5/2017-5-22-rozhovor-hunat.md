@@ -4,6 +4,7 @@ cover-photo: http://i.imgur.com/WTDzzC7l.jpg
 perex: Rozhovor s Čestmírem Huňátem, předsedou Unijazzu a hlavním pořadatelem festivalu Boskovice.
 author: Tomáš Trumpeš
 category: rozhovory
+featured: true
 ---
 
 *Rozhovor s Čestmírem Huňátem, předsedou Unijazzu a hlavním pořadatelem festivalu Boskovice. Festival letos oslaví čtvrt století; s jeho šéfem jsme si povídali nejen o této akci na podporu boskovické židovské čtvrti, ale i o jeho osobní životní cestě kulturním světem. Čestmír Huňát byl aktivní už od sedmdesátých let v Jazzové sekci, za což byl odsouzen a vězněn. V roce 2009 obdržel Cenu Revolver revue za „náročnou, nevděčnou a do značné míry anonymní práci iniciátora a organizátora projektů, které dávají prostor druhým“.*

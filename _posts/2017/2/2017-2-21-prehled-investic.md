@@ -6,6 +6,7 @@ cover-photo: http://i.imgur.com/hVcl7WWl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice politika
+featured: true
 ---
 
 *Boskovická radnice chce letos investovat celkově více než 130 milionů korun, příští rok by měly být investice díky polytechnickému centru ještě vyšší. Jak moc současná koalice pod vedením ČSSD investuje ve srovnání s minulou koalicí pod vedením ODS?*

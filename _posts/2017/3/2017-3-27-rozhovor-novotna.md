@@ -4,6 +4,7 @@ perex: Rozhovor s psycholožkou Veronikou Novotnou, která provozuje v Boskovi
 cover-photo: http://i.imgur.com/qbmfcp6l.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+featured: true
 ---
 
 *Rozhovor s psycholožkou Veronikou Novotnou, která provozuje v Boskovicích psychoterapeutickou poradnu. Psychologii vystudovala na Univerzitě Palackého v Olomouci, kromě soukromé praxe pracuje jako psycholožka také v dětské léčebně ve Křetíně.*
