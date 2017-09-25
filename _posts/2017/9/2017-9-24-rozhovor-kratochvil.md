@@ -78,7 +78,7 @@ Dnes je to tak, že nám z týmu trochu vypadává [Payoch](http://www.ohlasy.in
 
 Byla. Navíc nás některé děti ukecávají: hele, otevřte to v úterý, já mám ve středu kroužek nebo doučování. Myslím si, že kdyby byl klub tři dny v týdnu, byly by děti, které by chodily všechny tři dny. A našli by se jiní. Pro tři dny v týdnu je tady větší potenciál než v Letovicích. Letos to určitě nebude, ale chceme k tomu směřovat.
 
-**Dá se nějak pojemenovat, jaký typ dětí k vám chodí? Třeba podle sociálního klíče nebo jinak.**
+**Dá se nějak pojmenovat, jaký typ dětí k vám chodí? Třeba podle sociálního klíče nebo jinak.**
 
 Dnes se sociální zázemí dětí dost těžko rozeznává. To nevidíš na první pohled a děti dělají hodně pro to, aby to nebylo poznat. Nechtějí být v kolektivu kamarádů méněcenní. Musíš znát děti opravdu dobře nebo se seznámit i s rodiči, což v Boskovicích ještě tolik neznáme. Spíš jen přes mejl, když mi třeba děkovali, že sem děti mohou chodit.
 
