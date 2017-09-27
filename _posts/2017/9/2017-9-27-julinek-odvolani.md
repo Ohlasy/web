@@ -22,4 +22,4 @@ Julínek tak může podat novou žalobu, a to skutečně nevyloučil. „To bude
 
 Zrekapitulujme si tedy vývoj: Julínek skončil v Boskovicích koncem listopadu 2015. Následovala dvouměsíční výpovědní lhůta do konce ledna a poté tříměsíční odstupné ve výši asi 289 tisíc. Jsme tak na začátku května 2016 a od dubna 2017 nastoupil Tomáš Julínek jako šéf tří nemocnic v Pardubickém kraji. V prosinci 2016 ještě říkal, že je víceméně na volné noze.
 
-Pokud tedy budeme počítat květen 2016 až duben 2017, vychází ušlá mzda na více jeden milion korun. Pokud by ale případný soud počítal ušlou mzdu už od data neplatné výpovědi až do pravomocného nabytí rozsudku teď na konci září, může konečná částka vyšplhat až na částku 2,1 milionu korun.
+Pokud tedy budeme počítat květen 2016 až duben 2017, vychází ušlá mzda na více než jeden milion korun. Pokud by ale případný soud počítal ušlou mzdu už od data neplatné výpovědi až do pravomocného nabytí rozsudku teď na konci září, může konečná částka vyšplhat až na částku 2,1 milionu korun.
