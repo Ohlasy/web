@@ -23,6 +23,11 @@
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
+- name: Kvíz
+  image: https://i.imgur.com/64L6ocT.png
+  alt: Hospodský kvíz u Rudyho
+  url: http://www.hospodskykviz.cz
+  priority: 800
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
