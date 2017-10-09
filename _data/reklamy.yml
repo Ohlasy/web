@@ -1,8 +1,3 @@
-- name: Kuchař
-  image: http://i.imgur.com/kP6TuoX.png
-  alt: Restaurace Pod Zámkem hledá kuchaře
-  url: "mailto:lenka.hotarova@hotelpodzamkem.com"
-  priority: 1000
 - name: Muzeum
   image: http://i.imgur.com/9SxYimz.png
   alt: Šlechtický rod Morkovských ze Zástřizl
