@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady 17. října. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
+*Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady 17. října. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
 ### Polytechnické centrum stále nic
 
