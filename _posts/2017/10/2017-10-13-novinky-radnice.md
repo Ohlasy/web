@@ -35,7 +35,7 @@ Boskovice získaly dotaci na modernizaci infrastruktury technologického centra 
 
 Boskovická městská rada se zabývala dluhem, který vůči KZMB vnikl na straně boskovických sokolů. Ti městu sice převedli budovu sokolovny, ale dále v ní zčásti působí, za což měli městu hradit příspěvek na provoz. To se ale nedělo a během roku 2017 už dluh narostl na něco přes 70 tisíc korun. Město se při převodu sokolovny zavázalo, že od sokolů odkoupí část vnitřního vybavení, hlavně technické zařízení jako osvětlovací techniku a rampy. Ocenění provedla firma Disk a dospěla k částce rovněž přes 70 tisíc korun. Dluh TJ Sokol bude proto umořen právě tímto majetkem.
 
-Prostory v sokolovně ovšem sokolové dál využívají a jejich další působení se proto bude muset řešit, zejména pokud by opět docházelo k neplacení nájemného. „My jsme splnili všechny závazky, které vyplývaly ze smlouvy o převodu, a teď je na sokolech, aby předložili nějaký návrh, jak to bude do budoucna pokračovat. Nyní probíhají jednání,“ uvedl místostarostka Petr Malach.
+Prostory v sokolovně ovšem sokolové dál využívají a jejich další působení se proto bude muset řešit, zejména pokud by opět docházelo k neplacení nájemného. „My jsme splnili všechny závazky, které vyplývaly ze smlouvy o převodu, a teď je na sokolech, aby předložili nějaký návrh, jak to bude do budoucna pokračovat. Nyní probíhají jednání,“ uvedl místostarosta Petr Malach.
 
 Zároveň probíhá [částečná rekonstrukce sokolovny](http://www.ohlasy.info/clanky/2017/08/oprava-sokolovny.html), která by měla začít fungovat v režii KZMB od roku 2018. V současné době se řeší obvyklý problém vzdutých parket, jinak rekonstrukce probíhá podle místostarosty Petra Malacha dobře.
 
