@@ -5,6 +5,7 @@ cover-photo: https://i.imgur.com/a4yOILUl.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2017-10-13 12:00:45
+tags: politika
 ---
 
 *Boskovická nemocnice nadále zůstane pod městem. Zamítavé stanovisko k jejímu převzetí odeslal kraj do Boskovic v minulých dnech. V [dopise, který dříve poslalo vedení města na kraj](http://data.ohlasy.info/2017/prevod-nemocnice.pdf), se přitom píše, že se nemocnice dostává do finančních potíží, a dokonce může hrozit i její uzavření.*
