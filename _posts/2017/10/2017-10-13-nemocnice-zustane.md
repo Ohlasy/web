@@ -15,7 +15,7 @@ date: 2017-10-13 12:00:45
 
 K žádným změnám ve vlastnictví boskovické nemocnice tak nejspíš v blízké době nedojde. Starostka Boskovic Hana Nedomová (ČSSD) nezvedala telefon a v reakci na otázky zaslané v sms zprávě odpověděla: „Vím, že je v poště dopis, ale neznám jeho znění. Do pondělí čerpám řádnou dovolenou.“
 
-Náměstkyně Jihomoravského hejtmana Taťána Malá (ANO), která má na starosti majetek, zamítnutí možného převodu vysvětluje stejnými argumenty, které použilo vedení Boskovic pro zdůvodnění převodu: chybějícími penězi. „Nemáme dostatek finančních prostředků. Navíc stále řešíme nemocnici v Hustopečích, kde dosud nebyly uhrazeny dluhy z minulosti,“ řekla náměstkyně.
+Náměstkyně jihomoravského hejtmana Taťána Malá (ANO), která má na starosti majetek, zamítnutí možného převodu vysvětluje stejnými argumenty, které použilo vedení Boskovic pro zdůvodnění převodu: chybějícími penězi. „Nemáme dostatek finančních prostředků. Navíc stále řešíme nemocnici v Hustopečích, kde dosud nebyly uhrazeny dluhy z minulosti,“ řekla náměstkyně.
 
 Krajský radní pro zdravotnictví Igor Chlup (ČSSD) doplňuje, že provozovat další nemocnici není v silách kraje. „Teď máme devět nemocnic, pět léčeben a záchrannou službu, to už je velký kolos. Je potřeba si také uvědomit, že kraj není garantem zdravotní péče, to jsou pojišťovny,“ prohlásil.
 
@@ -23,4 +23,4 @@ Boskovická nemocnice se přitom podle slov v dopisu podepsaném vedením města
 
 Mzdy navíc nejsou jediné potíže boskovické nemocnice. Dlouhodobě se totiž málo investovalo do přístrojů, většina je tak dnes starší více než deset let a sama nemocnice na jejich obnovu za desítky milionů nemá. V letošním roce dostala necelých 10 milionů jako injekci od města a 3,5 milionu od Jihomoravského kraje. „Nemocnice se tak postupně dostává do spirály, která vede k propadu, a reálně hrozí postupné uzavírání, či zavření nemocnice úplně,“ stojí v závěru dopisu.
 
-Podle krajského náměstka Igora Chlupa se boskovická nemocnice nepotýká s jinými problémy než ty krajské. Chce ji ale stejně jako blanenskou, která je také městská, nadále finančně podporovat. Dnes má krajská podpora formu individuálních dotací, to by chtěl ale radní změnit. „Budu navrhovat, aby pro obě nemocnice byla od začátku příprav rozpočtu na příští rok určená částka. Aby věděly, s kolika penězi můžou počítat,“ dodal.
+Podle krajského radního Igora Chlupa se boskovická nemocnice nepotýká s jinými problémy než ty krajské. Chce ji ale stejně jako blanenskou, která je také městská, nadále finančně podporovat. Dnes má krajská podpora formu individuálních dotací, to by chtěl ale radní změnit. „Budu navrhovat, aby pro obě nemocnice byla od začátku příprav rozpočtu na příští rok určená částka. Aby věděly, s kolika penězi můžou počítat,“ dodal.
