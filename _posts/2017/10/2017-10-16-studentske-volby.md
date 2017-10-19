@@ -4,6 +4,7 @@ cover-photo: https://i.imgur.com/2UXg82Kl.jpg
 perex: Také na boskovickém gymnáziu proběhly studentské volby, které organizuje Člověk v tísni v rámci svého vzdělávacího programu Jeden svět na školách. Komentář k výsledkům napsal jeden z nich – student čtvrtého ročníku Martin Staněk.
 author: Martin Staněk
 category: názory a komentáře
+tags: politika
 ---
 
 *Také na boskovickém gymnáziu proběhly studentské volby, které organizuje Člověk v tísni v rámci svého vzdělávacího programu Jeden svět na školách. V přiloženém grafu se můžete seznámit s celostátními výsledky a s tím, jak volili místní gymnazisté. Komentář napsal jeden z nich – student čtvrtého ročníku Martin Staněk.*
