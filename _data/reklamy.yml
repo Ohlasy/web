@@ -18,19 +18,14 @@
   alt: reklama na podlahy Anatis
   url: http://www.inpodlahy.cz/
   priority: 1000
-- name: Halasův Kunštát
-  image: https://i.imgur.com/fetHtR8.png
-  alt: Halasův Kunštát 2017
-  url: http://www.kunstat-mesto.cz/obcan/udalosti-ve-meste/kam-za-kulturou/?ftshow=33#ka33
-  priority: 1000
 - name: Ložiska
   image: http://i.imgur.com/4nJ0dNw.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
 - name: Lísky
-  image: https://i.imgur.com/79cdUzk.png
-  alt: "Improzápas: Lísky vs. Frmol"
+  image: https://i.imgur.com/cF7aMX1.png
+  alt: "Improzápas: Lísky vs. Allimp"
   url: http://www.improlisky.cz
   priority: 800
 - name: Galerie OK
