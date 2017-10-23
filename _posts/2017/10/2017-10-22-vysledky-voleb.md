@@ -77,7 +77,7 @@ Na Blanensku získali Piráti 8,9 hlasů, přímo v Boskovicích 10,22.
 
 Debakl neutrpěla ve volbách jen ČSSD, ale celá levice, tedy i komunisté. Jejich letošní celostátní výsledek činí pouhých 7,76 procent hlasů, oproti 14,91 procentům hlasů z minulých voleb. Ve sněmovně tak zasedne 15 komunistů.
 
-Na jižní Moravě obdržela KSČM 8,04 procent hlasů a za náš obvod tak zasednou ve sněmovně dva komunističtí poslanci: lídr kandidátky Stanislav Grospič a bývalý předseda strany Stanislav Grebeníček.
+Na jižní Moravě obdržela KSČM 8,04 procent hlasů a za náš obvod tak zasednou ve sněmovně dva komunističtí poslanci: lídr kandidátky Stanislav Grospič a bývalý předseda strany Miroslav Grebeníček.
 
 Na okrese Blansko byli komunisté silnější a získali 9,99 procent hlasů. Přímo v Boskovicích 8,84 procent.
 
