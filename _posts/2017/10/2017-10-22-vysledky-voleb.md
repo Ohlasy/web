@@ -37,7 +37,7 @@ Na okrese Blansko získalo ANO 27,53 procent hlasů a přímo v Boskovicích je�
 
 ### Debakl ČSSD
 
-Totální propadák zažil v letošních volbách vítěz minulých voleb – Česká strana sociálně demokratická. Na celorepublikové úrovni poklesla z 20,45 procenta v roce 2013 na letošních 7,27 procenta. V počtu hlasů to znamená, že se od sociální demokracie odvrátilo více než 600 tisíc lidí. ČSSD tak získala pouze 15 mandátů. Na jižní Moravě pouze dva: pro dosavadního premiéra Bohuslava Sobotu a bývalého brněnského primátora Romana Onderku, kterého voliči vykroužkovali ze šestého místa. Procentuální výsledek je pro tradiční levicovou partaj v jihomoravském volebním obvodu rovněž katastrofální – pouhých 8,44 procent.
+Totální propadák zažil v letošních volbách vítěz minulých voleb – Česká strana sociálně demokratická. Na celorepublikové úrovni poklesla z 20,45 procenta v roce 2013 na letošních 7,27 procenta. V počtu hlasů to znamená, že se od sociální demokracie odvrátilo více než 600 tisíc lidí. ČSSD tak získala pouze 15 mandátů. Na jižní Moravě pouze dva: pro dosavadního premiéra Bohuslava Sobotku a bývalého brněnského primátora Romana Onderku, kterého voliči vykroužkovali ze šestého místa. Procentuální výsledek je pro tradiční levicovou partaj v jihomoravském volebním obvodu rovněž katastrofální – pouhých 8,44 procent.
 
 Na okrese Blansko byli sociální demokraté jen kosmeticky silnější se ziskem 9,71 procent a přímo v Boskovicích překročili desetiprocentní hranici a dostali 10,65 procent hlasů. Bývalý suverén voleb skončil ve městě až čtvrtý za ANO, ODS a SPD a jen těsně před pátými Piráty.
 
