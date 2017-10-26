@@ -4,6 +4,7 @@ perex: Město už nemocnici nechce provozovat, a dokonce se bojí, že by se po
 cover-photo: https://i.imgur.com/8Ly0U4el.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: politika
 ---
 
 *Dopis s jasnou nabídkou přišel před několika týdny na Jihomoravský kraj. Vedení Boskovic v něm nabízí kraji ke zvážení převod boskovické nemocnice právě na něj. Město už ji nechce provozovat, a dokonce se bojí, že by se pod ním mohla zavřít.*

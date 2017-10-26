@@ -4,6 +4,7 @@ cover-photo: https://i.imgur.com/gFhIMxql.jpg
 perex: Vedení města otevřelo otázku možného převodu boskovické nemocnice pod Jihomoravský kraj. Co si o něm myslí zastupitelé?
 author: Marek Osouch
 category: ankety
+tags: politika
 ---
 
 *Vedení města [otevřelo otázku možného převodu boskovické nemocnice pod Jihomoravský kraj](http://www.ohlasy.info/clanky/2017/10/prevod-nemocnice.html). Oslovili jsme proto zastupitele za jednotlivá politická uskupení v boskovickém zastupitelstvu, s výjimkou ČSSD a KDU-ČSL, jejichž představitelé dopis odeslaný na Jihomoravský kraj podepsali. Otázka zněla: Jste pro převod boskovické nemocnice pod kraj a proč? A jak se díváte na formu, jakou vedení města oslovilo Jihomoravský kraj?*
