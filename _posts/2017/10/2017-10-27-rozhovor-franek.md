@@ -38,7 +38,7 @@ Uvedu konkrétní příklady. Znamená to třeba ukázat na něco, co je špatn�
 
 Já nejsem žádný odborník na restaurování, ale když vidím práci některých svých kolegů, kteří se restaurování věnují, tak ten rozdíl je nebetyčný – oproti tomu, když se jen opraví a natře fasáda, jak se to tady u některých staveb dělá. Takže já třeba přinesu na radnici kastlové okno, eurookno, které je ještě docela dobře napodobuje, a potom plastové okno, které tam nemá co dělat. Aby ti lidé viděli, že toto udělat mohou, toto třeba v určité oblasti také a to poslední vůbec ne. Takže jít konkrétními příklady. Vzít domy na náměstí a všechny je překreslit, aby ti lidé věděli, jak je mají opravit. Majitelům je to často jedno, zadají to jakémukoli stavaři a pak mu cokoli odsouhlasí. Proto je dobré mít to předchystané. Z mé strany jde vyloženě o tuto metodickou práci.
 
-{% photo src="https://i.imgur.com/C75sR8H.jpg" caption="„Dům s arkýřem“ naproti synagoze" author="Tomáš Znamenáček" %}
+{% photo src="https://i.imgur.com/C75sR8H.jpg" caption="Dům naproti synagoze" author="Tomáš Znamenáček" %}
 
 **Když se zastavíme nejprve u městských investic – v Boskovicích máme s přípravou projektů dlouhodobý problém a tím, jak by měly městské stavby vypadat, jsme se v minulosti vlastně nezabývali. Měla se stavět hala za desítky milionů, nikdo nevěděl, jak má vypadat. U přístavby mateřské školy to bylo stejné, už za nového vedení – o stavbě bylo rozhodnuto a my jsme se dožadovali nějaké vizualizace. Jak by to mělo z vašeho pohledu vypadat?**
 
