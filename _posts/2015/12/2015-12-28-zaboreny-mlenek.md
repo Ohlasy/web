@@ -5,6 +5,7 @@ cover-photo: http://i.ohlasy.info/UMvzLEyl.jpg
 serial: krajiny
 author: Hynek Skořepa
 tags: krajina
+featured: true
 ---
 
 *K dlouhým nocím kolem zimního slunovratu se hodí nějaké tajemné místo. V každém kraji taková místa jsou, i na Boskovicku. Třeba tam, kde se říká „U zabořenýho mlénka“. Ten les je temný i za letních dnů a skrývá malý rybníček. Pokud to v okolí neznáte, nenajdete ho snadno. Půjdete-li však po „staré valchovské silnici“ z Boskovic k Valchovu, dojdete asi tak v polovině kopce „Valchováku“ na rozcestí. Vpravo vede cesta k hájovně na Ledkové Huti, ale o té budu psát až někdy jindy. Když se však vydáte vlevo směrem k Hrádkovu, budete po chvíli procházet kolem mokřiny s několika olšemi. Cesta zde tvoří jakousi hráz a ta mokřina bývá obvykle plná vody. Ne nadarmo se těmto místům říká U třech kanálů. Z mokřiny vytéká téměř neznatelný potůček tekoucí dolů k Boskovicím. Budete-li ho sledovat a proderete-li se houštím, narazíte po několika stovkách metrů na zmíněný rybníček.*

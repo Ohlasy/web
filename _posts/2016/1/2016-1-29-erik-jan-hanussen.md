@@ -5,6 +5,7 @@ category: seriály
 serial: ghetto
 author: Helena Janíková
 tags: historie
+featured: true
 ---
 
 *Pro dům v bývalé boskovické židovské čtvrti na ulici Bílkova číslo 7 převládá hlavně mezi staršími občany název židovská škola. Není divu, ta zde přetrvala až do období první republiky a určitě ji navštěvovala spousta později zajímavých osobností, snad za všechny to byl boskovický rodák, posléze spisovatel Hermann Ungar. A pouze jeden rok navštěvoval tuto školu také Herschel Chaim Steinschneider. Ten se ovšem později proslavil pod jiným jménem – jako Erik Jan Hanussen, ezoterik, který se stal osobním jasnovidcem Adolfa Hitlera.*

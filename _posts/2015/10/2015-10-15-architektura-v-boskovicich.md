@@ -3,6 +3,7 @@ title: Za feudalismu se v Boskovicích stavělo lépe než dnes
 cover-photo: http://i.ohlasy.info/NxtiIpll.jpg
 author: Petr Vítámvás
 category: názory a komentáře
+featured: true
 ---
 
 *„Oproti řadě zajímavých a cenných objektů z minula nepostavila přítomnost kromě několika škol nic většího a vůbec nic pozoruhodnějšího,“ povzdechl si před sto lety ing. Ivo Beneš, autor regulačního plánu Boskovic. Jeho povzdechnutí nám může dnes připadat nemístné, neboť výčet veřejných budov postavených od konce 19. století do roku 1912, tedy do vydání jeho úvahy nad regulačním plánem Boskovic, není nepatrný: obecná škola chlapecká (dnes VSŠ) a měšťanka (dnes pedagogická škola) na Komenského ulici, dívčí škola na Bezručově ulici, gymnázium, dívčí vychovatelna, sokolovna.*

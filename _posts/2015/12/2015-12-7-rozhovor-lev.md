@@ -4,6 +4,7 @@ author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/tMDgRI6.jpg
 category: rozhovory
 tags: architektura investice
+featured: true
 ---
 
 *Rozhovor s architektem Mirko Levem, absolventem boskovického gymnázia, jsme zaměřili na architektonické soutěže. V Boskovicích se o nich mluví v souvislosti se sportovní halou a s [areálem Červená zahrada](/clanky/2015/11/varianty-haly.html), v dlouhodobějším horizontu také ve vztahu k nové knihovně. Mirko Lev vysvětluje, jak soutěže probíhají, proč je dobré k nim zejména u veřejných budov přistupovat a jakou hodnotu přinášejí.*

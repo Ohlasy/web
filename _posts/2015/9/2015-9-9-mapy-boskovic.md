@@ -4,6 +4,7 @@ cover-photo: http://i.ohlasy.info/EIcVG9F.jpg
 category: seriály
 serial: depozitar
 author: Petr Vítámvás
+featured: true
 ---
 
 *Nedocenitelným pramenem k poznání územního vývoje Boskovic jsou staré plány a mapy. Zároveň nás informují o změnách názvů ulic, i ty jsou významným svědectvím doby. Ovšem informace, které nám přinášejí, je třeba doplnit o další studium archivních pramenů a pokud lze, i o informace získané archeologickým výzkumem.*

@@ -4,6 +4,7 @@ category: rozhovory
 cover-photo: http://i.ohlasy.info/hFeQdz0l.jpg
 tags: kultura fotografie
 author: Tomáš Trumpeš
+featured: true
 ---
 
 *Boskovická rodačka a absolventka zdejšího gymnázia Gabriela Kolčavová vystudovala nejprve angličtinu a výtvarnou výchovu na brněnské pedagogické fakultě, a poté uměleckou fotografii v americkém Texasu, kde působila celkem 6 let. Věnuje se také hudbě, zpívá ve vlastním jazzovém triu. Dnes je na volné noze a kromě focení a koncertování působí i jako lektorka ve fotografických a výtvarných dílnách. Proslavila se fotografiemi pořízenými na starý deskový fotoaparát.*
