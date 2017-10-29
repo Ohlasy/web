@@ -19,7 +19,7 @@ O těchto peripetiích, které s sebou tato stavba nesla, občan často ani netu
 
 O získání všech pozemků pro stavbu chodníku informovalo město letos v polovině srpna. Následovalo vyřízení stavebního povolení, dále výběr stavební firmy a podepsání smlouvy, a to hned den po jednání rady, kdy ji radní schválili, konkrétně 6. září. Bylo to tedy skutečně bleskurychlé, jak potřebná povolení, tak výběr firmy. Jindy radní dávají na podepsání smlouvy klidně měsíc, tady ale mělo vedení města naspěch.
 
-Přímo ve smlouvě je stanoveno, že firma začne se stavbou nejpozději 14. září a bude mít na její dokončení 65 dní. Nakonec to zvládla rychleji, a tak už v pátek 27. října byl na novém chodníku za jeden milion korun [zapózovat boskovický showman Petr Malach](https://www.facebook.com/mestoboskovice/photos/rpp.120045718078067/1490163967732895/?type=3&theater).
+Přímo ve smlouvě je stanoveno, že firma začne se stavbou nejpozději 14. září a bude mít na její dokončení 65 dní. Nakonec to zvládla rychleji, a tak už v pátek 27. října byl na novém chodníku za jeden milion korun [zapózovat boskovický showman Petr Malach](https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/22829262_1490163967732895_6649176816798019982_o.jpg?oh=f84f4dc595a4c3b2508e411d50b3f992&oe=5AAD1163).
 
 Pro mě až neuvěřitelný čas, za který se firmě podařilo postavit úplně nový chodník o celkové délce přibližně 400 metrů. Tlak od města, aby vše bylo hotové na dva dušičkové víkendy, je pochopitelný. Tyto dny totiž na hřbitov zamíří největší množství lidí, kteří budou moci nový chodník nejen vidět, ale i vyzkoušet. Příští rok by navíc už bylo pozdě, to už touto dobou bude po komunálních volbách, a body ve volební kampani by tak nový chodník stávajícímu vedení už nepřinesl.
 
