@@ -253,7 +253,11 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 **Pavel Schwarzer, radní za ANO 2011**
 
-*Kvůli časovému zaneprázdnění se podle svých slov za celý týden od odeslání dotazů k sepsání odpovědí nedostal.*
+1\. Myslím, že se povedlo pokročit s rekonstrukcí letního kina, které významnou měrou vždy přispívalo k vysoké úrovni kultury v Boskovicích. Věřím, že se podaří v blízké době dobudovat i tolik potřebné zázemí.
+
+2\. Za neúspěch považuji, že se dlouhodobě nedaří stabilizovat situaci kolem nemocnice. Boskovická nemocnice byla, je a vždycky bude jednou ze základních potřeb pro obyvatele celého regionu. Prozatím se nepodařilo žádnému vedení města a ani naší současné koalici uspokojivě vyřešit problémy spojené s provozováním nemocnice.
+
+3\. Na tuto otázku nejsem schopný odpovědět, protože sestavení kandidátních listin je záležitostí stran, hnutí, nebo různých uskupení a nelze předjímat, koho si vyberou za své kandidáty. 
 
 ---
 
