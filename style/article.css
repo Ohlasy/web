@@ -6,6 +6,10 @@ p {
     margin-bottom: 30px;
 }
 
+.article-row {
+    overflow: visible;
+}
+
 /* Headers */
 
 .header-indented {
