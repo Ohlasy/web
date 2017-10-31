@@ -227,6 +227,8 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
+<img class="profile-picture" src="https://i.imgur.com/xqWRb3i.jpg" alt="" />
+
 **Tomáš Pléha, zastupitel za KDU-ČSL**
 
 1\. Za sebe bych zvolil přístavbu Mateřské školy, protože jakékoliv investice do mladé generace jsou nejlepšími investicemi vůbec. 
