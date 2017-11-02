@@ -39,6 +39,13 @@ V sobotu 11. listopadu se v boskovickém zámeckém skleníku představí hudebn
 
 V rozmezí od 6. do 11. listopadu bude v Muzeu regionu Boskovicka přístupná výstava s názvem Rozkulačeno: půlstoletí perzekuce selského stavu, zabývající se významem sedláků pro českou společnost, otázkou, proč a jak nacistická a komunistická diktatura usilovaly o jejich zničení a co z jejich světa přežilo dodnes. Ve čtvrtek 16. listopadu v 16 hodin se k této výstavě koná speciální beseda, jejímiž hosty budou autor výstavy Jaroslav Rokoský a ředitel Ústavu pro studium totalitních režimů Zdeněk Hazdra.
 
+### Vzpomínka na 17. listopad
+
+*Parčík u busty Václava Havla a ZUŠ Letovice, 17. listopadu 18:00*
+
+Speciální program k výročí pádu komunistického režimu připravilo občanské sdružení Paleta Letovice. Po pietním aktu a zapálení svíček u busty Václava Havla v Tyršově ulici se program přesune do sálu ZUŠ, kde proběhne projece filmu Mlynáři od Babic, zabývajícího se represáliemi, které rozpoutal komunistický režim v okolí Babic na Třebíčsku na začátku padesátých let. Následovat bude diskuse s autory stejnojmenné knihy – Miroslavem Kasáčkem, jehož rodina byla komunistickými perzekucemi zasažena, a publicistou a historikem specializujícím se na zločiny komunismu a nacismu Luďkem Navarou. Po skončení programu je naplánováno společné jamování.
+
+
 ### Libuše Voldánová: Podoby léta
 
 *Galerie Otakara Kubína, 18. listopadu 15:00*
