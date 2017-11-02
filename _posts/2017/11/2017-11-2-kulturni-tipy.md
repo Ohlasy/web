@@ -1,5 +1,5 @@
 ---
-title: Gianniho kulturní výběr na říjen
+title: Gianniho kulturní výběr na listopad
 cover-photo: https://i.imgur.com/dWFFVwYl.jpg
 author: Jan Bařinka
 category: zpravodajství
