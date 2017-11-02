@@ -59,12 +59,12 @@ Městské divadlo Zlín se rozhodlo navázat na své úspěšné představení O
 
 ### Bex Marshall
 
-*Zámecký skleník Boskovice, 19:00*
+*Zámecký skleník Boskovice, 21. listopadu 19:00*
 
 V rámci cyklu Jazz and Blues Boskovice se v listopadu můžeme těšit na zahraniční hvězdu, nositelku ocenění British Blues Awards Bex Marshall. Tato britská kytaristka kombinuje bluesovou hudbu s gospelem, bluegrassem a twistem, na koncertě v zámeckém skleníku ji doprovodí český baskytarista Lukáš Kytnar, žijící v Kanadě, a britský bubeník Alexei Gittens.
 
 ### Olga Lounová
 
-*Kulturní dům Letovice, 19:00*
+*Kulturní dům Letovice, 30. listopadu 19:00*
 
 Ve čtvrtek 30. listopadu se v kulturním domě v Letovicích představí populární česká zpěvačka, skladatelka a herečka Olga Lounová. Mezi její dosud největší hity patří Láska v housce s Xindlem X a autorské skladby K výškám a Brány svaté, aktuálně se věnuje hlavně vystupování s kapelou a herectví v českých muzikálech a televizních seriálech. Olga Lounová hraje na klavír, kytaru a flétnu, na české hudební scéně se pohybuje už od roku 2001, v červenci 2010 dokonce vystoupila jako předkapela americké zpěvačky Pink.
