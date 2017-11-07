@@ -1,5 +1,5 @@
 ---
-title: Nemocnici čeká další soud s Julínkem. Chce více než milion za ušlou mzdu
+title: Nemocnici čeká další soud s Julínkem. Ten chce více než milion za ušlou mzdu
 perex: Kauza vyhazovu Tomáše Julínka z boskovické nemocnice neskončila pravomocným rozsudkem o neplatné výpovědi. Exministr zdravotnictví za ODS chce po nemocnici ušlou mzdu.
 cover-photo: https://i.imgur.com/PbHcDR7l.jpg
 author: Marek Osouch
