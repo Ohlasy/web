@@ -1,13 +1,13 @@
 ---
 title: „Halu chci v Červené zahradě, ale musí na tom být politická shoda.“
 cover-photo: https://i.imgur.com/hq1HpYRl.jpg
-perex: Rozhovor s místostarostou Petrem Malachem. Před klíčovým jednáním rady jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.
+perex: Rozhovor s místostarostou Petrem Malachem. Večer před klíčovým jednáním rady jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika
 ---
 
-*Rozhovor s místostarostou Petrem Malachem, který má na starosti boskovický sport. Před klíčovým jednáním rady o sportovní hale jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.*
+*Rozhovor s místostarostou Petrem Malachem, který má na starosti boskovický sport. Večer před klíčovým jednáním rady o sportovní hale jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.*
 
 {% photo src="https://i.imgur.com/hq1HpYR.jpg" author="Tomáš Znamenáček" %}
 
