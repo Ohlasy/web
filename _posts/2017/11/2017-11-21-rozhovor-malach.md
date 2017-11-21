@@ -83,7 +83,7 @@ Buď je zde varianta zbourat Dvořáčkův mlýn a postavit místo něj halu, al
 
 **Čímž cena poskočí o pár desítek milionů.**
 
-Přesně tak. Ze sportovní koncepce, kterou bych měl měl mít podle nařízení Ministerstva školství, mládeže a tělovýchovy hotovou do konce roku, už dnes vyplývá, že pokud chceme ovál, měli bychom řešit také kladivo, oštěp, doskočiště. A to v projektu není, protože už by se to tam nevešlo.
+Přesně tak. Ze sportovní koncepce, kterou bych měl mít podle nařízení Ministerstva školství, mládeže a tělovýchovy hotovou do konce roku, už dnes vyplývá, že pokud chceme ovál, měli bychom řešit také kladivo, oštěp, doskočiště. A to v projektu není, protože už by se to tam nevešlo.
 
 **Takže bychom měli jen ovál, ale ne zázemí pro atletiku obecně.**
 
