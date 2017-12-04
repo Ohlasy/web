@@ -8,11 +8,6 @@
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: http://www.kulturaboskovice.cz/
   priority: 1000
-- name: Anatis
-  image: http://anatis.cz/reklama/anatis-ohlasy.png
-  alt: reklama na podlahy Anatis
-  url: http://www.inpodlahy.cz/
-  priority: 1000
 - name: Advent
   image: https://i.imgur.com/0YNdXBz.png
   alt: Adventní koncerty v evangelickém kostele
