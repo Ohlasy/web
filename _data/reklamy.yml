@@ -3,11 +3,6 @@
   alt: Kupte svým blízkým k Vánocům rok dobrého čtení!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=vanoce&utm_medium=banner
   priority: 1000
-- name: KZMB
-  image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
-  alt: pozvánka na aktuální kulturní akce v Boskovicích
-  url: http://www.kulturaboskovice.cz/
-  priority: 1000
 - name: Advent
   image: https://i.imgur.com/0YNdXBz.png
   alt: Adventní koncerty v evangelickém kostele
