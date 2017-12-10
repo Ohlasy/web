@@ -10,7 +10,7 @@ tags: politika
 
 {% photo src="https://i.imgur.com/JyDOyWU.jpg" author="Tomáš Znamenáček" %}
 
-Ohlasy v poslední době čelily několika ne zrovna příjemným situacím, kterým nás vystavili politici z části boskovické ČSSD. Starostka Hana Nedomová nám dlouhodobě odmítá bez udání důvodu poskytnout rozhovor, který měl mimo jiné být součástí prosincového tištěného vydání. Významný člen ČSSD Milan Kolínský s námi nekomunikuje vůbec a zastupitelé Martin Charvát a Oldřich Grulich nám nejenže neodpověděli do zastupitelské ankety, ale ještě nás obvinili z překrucování faktů, polopravd a útoků na stávající koalici.
+Ohlasy v poslední době čelily několika ne zrovna příjemným situacím, kterým nás vystavili politici z části boskovické ČSSD. Starostka Hana Nedomová nám dlouhodobě odmítá bez udání důvodu poskytnout rozhovor, který měl mimo jiné být součástí prosincového tištěného vydání. Významný člen ČSSD Milan Kolínský s námi nekomunikuje vůbec a zastupitelé Martin Charvát a Oldřich Grulich nám nejenže neodpověděli do [zastupitelské ankety](http://www.ohlasy.info/clanky/2017/10/anketa-zastupitele.html), ale ještě nás obvinili z překrucování faktů, polopravd a útoků na stávající koalici.
 
 Vztah mezi novináři a politiky bývá logicky napjatý. Mrzí nás, že ani přes naše urgence a snahu si věci vysvětlit nikdo z politiků nedoložil konkrétní příklady z našich článků, kde mělo dojít k významovým posunům. Případné chyby nemůžeme vyloučit, ale pokud kritiku nedoprovází snaha o vysvětlení a otevřenou debatu, působí tato obvinění nedůvěryhodně. My podobné diskusi otevřeni jsme.
 
