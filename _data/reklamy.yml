@@ -3,21 +3,11 @@
   alt: Kupte svým blízkým k Vánocům rok dobrého čtení!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=vanoce&utm_medium=banner
   priority: 1000
-- name: Advent
-  image: https://i.imgur.com/0YNdXBz.png
-  alt: Adventní koncerty v evangelickém kostele
-  url: http://data.ohlasy.info/2017/advent.pdf
-  priority: 900
 - name: Ložiska
   image: http://i.imgur.com/4nJ0dNw.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
-- name: Lísky
-  image: https://i.imgur.com/5QV4lJP.png
-  alt: "Improzápas: Lísky vs. Meandry"
-  url: http://www.improlisky.cz
-  priority: 800
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
