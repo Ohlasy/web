@@ -3,6 +3,11 @@
   alt: Kupte svým blízkým k Vánocům rok dobrého čtení!
   url: http://predplatne.ohlasy.info/?utm_source=web&utm_campaign=vanoce&utm_medium=banner
   priority: 1000
+- name: KZMB
+  image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
+  alt: pozvánka na aktuální kulturní akce v Boskovicích
+  url: http://www.kulturaboskovice.cz/
+  priority: 1000
 - name: Ložiska
   image: http://i.imgur.com/4nJ0dNw.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
