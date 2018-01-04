@@ -33,7 +33,7 @@ V Boskovicích jsou nejznámější modříny podél cesty k lázním od křižo
 
 ### Modříny v Jihomoravském kraji
 
-Jeden z nejzajímavějších a nejmohutnějších modřínů roste v CHKO Moravský Kras mezi Habrůvkou a Olomučany. Je zajímavě roztrojen, a proto získal jméno Troják. Věk tohoto jediného památného modřínu v našem kraji se odhaduje přes dvě stě let. V okolní zeleni ho nemůžete přehlédnout, zdaleka ji převyšuje. A protože se mohou modříny dožívat půl tisíciletí, má ještě mnohé před sebou. 
+Jeden z nejzajímavějších a nejmohutnějších modřínů roste v CHKO Moravský kras mezi Habrůvkou a Olomučany. Je zajímavě roztrojen, a proto získal jméno Troják. Věk tohoto jediného památného modřínu v našem kraji se odhaduje přes dvě stě let. V okolní zeleni ho nemůžete přehlédnout, zdaleka ji převyšuje. A protože se mohou modříny dožívat půl tisíciletí, má ještě mnohé před sebou. 
 
 Mohutný modřín najdeme v zámeckém parku ve Velkých Opatovicích a velice zajímavá je alej mohutných modřínů ve Valticích na Břeclavsku.
 
