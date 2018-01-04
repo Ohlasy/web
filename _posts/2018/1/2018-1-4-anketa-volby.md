@@ -1,5 +1,5 @@
 ---
-title: "ANKETA: Téma boskovických voleb 2018"
+title: "Anketa: Téma boskovických voleb 2018"
 cover-photo: https://i.imgur.com/DAL59Til.jpg
 author: Tomáš Trumpeš
 category: ankety
