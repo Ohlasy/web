@@ -15,9 +15,9 @@ Modříny si vytvořily mimořádnou schopnost obnovovat své jehlice, přiblí�
 
 ### Je modřín modrý?
 
-Na první pohled není na modřínu nic modrého. Jeho jméno vzniklo poměrně nedávno, asi tak v 15. století. Modřín nebyl ostatně ani v Čechách příliš znám. Na našem území rostl v Jeseníkách, na Českomoravské vysočině a na jihozápadní Moravě. Srovnejme, co se píše ještě v roce 1596 v Mathioliho herbáři o modřínu: „U nás v Čechách nejvíce žlaby z něho dělají a do Prahy i jinam od Bruntálu, z hor pomezí moravského a slezského, je vozí.“ Do Čech byl modřín zaveden až koncem 18. století.  Slovo modřín bylo pravděpodobně zkráceno z polštiny převzatého pojmenování stromu s modrým dřevem.
+Na první pohled není na modřínu nic modrého. Jeho jméno vzniklo poměrně nedávno, asi tak v 15. století. Modřín nebyl ostatně ani v Čechách příliš znám. Na našem území rostl původně jen v podhůří Jeseníků. Srovnejme, co se píše ještě v roce 1596 v Mathioliho herbáři o modřínu: „U nás v Čechách nejvíce žlaby z něho dělají a do Prahy i jinam od Bruntálu, z hor pomezí moravského a slezského, je vozí.“ Do Čech byl modřín zaveden až koncem 18. století.  Slovo modřín bylo pravděpodobně zkráceno z polštiny převzatého pojmenování stromu s modrým dřevem.
 
-Když se nechá modřínové dřevo delší dobu bez ošetření ležet, začne mírně modrat, zvláště pokud je napadené nějakou dřevokaznou houbou. Zcela jiné pojmenování získal modřín ve východoslovanských jazycích, a to *lístvennica*, *lístva*, *listá*, *lístverí* a podobně. Tato slova označují modřín evropský původní oblasti Karpat, zejména modřín sibiřský. Název je to průhledný. Jsme opět u opadavých jehlic, které jsou v tomto případě přirovnávány k listům.
+Když se nechá modřínové dřevo delší dobu bez ošetření ležet, začne mírně modrat, zvláště pokud je napadené nějakou dřevokaznou houbou. Zcela jiné pojmenování získal modřín ve východoslovanských jazycích, a to *lístvennica*, *lístva*, *listá*, *lístverí* a podobně. Název je to průhledný. Jsme opět u opadavých jehlic, které jsou v tomto případě přirovnávány k listům.
 
 ### Modříny na Boskovicku
 
