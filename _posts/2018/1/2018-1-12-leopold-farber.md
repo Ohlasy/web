@@ -1,0 +1,32 @@
+---
+title: "Příběhy z ghetta: Leopold Färber, řečený Hurvínek"
+perex: Románový příběh Leopolda Färbera. Jako chlapec působil v protinacistickém odboji, pokračoval v protikomunistickém a při náhodném výbuchu přišel o oko. Nakonec dostal řád T.G.M.
+cover-photo: https://i.imgur.com/blxenEn.jpg
+author: Helena Janíková
+category: seriály
+serial: ghetto
+---
+
+*Život Leopolda Färbra by vystačil na román. Tento zapálený skaut, nadšený divadelník, vtipný a veselý společník, hlavně ovšem hrdina 2. i 3. odboje a politický vězeň, dostal už v chlapeckém věku přezdívku Hurvínek, která jej pak provázela po celý život. V žilách tohoto pozoruhodného člověka se mísila krev židovských i křesťanských předků.*
+
+{% photo src="https://i.imgur.com/YaZQCcA.jpg" %}
+
+Dědeček Salomon Färber, který se živil hubením potkanů a krys v židovském městě, se oženil s křesťankou Julií Žáčkovou, dcerou boskovického pekaře, a měli spolu tři děti: Ignáce (narozen 10. června 1903), Helenu (narozena 23. března 1906, později provdanou za obchodníka jízdními koly Tomáška) a Josefa (narozen 23. listopadu 1907). Po Salomonově smrti (údajně zemřel jako dobrovolný hasič při jednom z [boskovických požárů v Židech](http://www.ohlasy.info/clanky/2017/08/pozar-ghetta.html)) se vdova Julie provdala za pokřtěného Žida Leopolda Baderleho a celá rodina se hlásila ke katolické víře.
+
+Nejstarší z dětí Ignác se vyučil krejčím. Po návratu ze zkušené ve Vídni nějaký čas pobýval na Slovensku, kde se oženil po krátké známosti s křesťankou Františkou Ondrisovou, dcerou mlynáře z Mašové, který ovšem zprvu tomuto sňatku nepřál. Na cestě však bylo již dítě, a tedy ač nerad, se mlynář s danou skutečností musel smířit. A tak na Slovensku ve Staré Haliči dne 31. října 1928 spatřil poprvé světlo světa malý Leopold. Rodina se však záhy přestěhovala do otcova rodiště, do Boskovic. Otec Ignác se vedle krejčoviny věnoval i jiným činnostem, pracoval například jako pomocník kůžkaře Hochwalda, zednický nádeník či jako výběrčí poplatků od trhovců pro městský úřad. My jsme jej poznali v našem [vyprávění o Minigalerii Zwicker](http://www.ohlasy.info/clanky/2017/12/galerie-zwicker.html) jako náruživého fotografa-amatéra, jehož snímky pro nás dnes mají významnou dokumentární hodnotu.
+
+K fotografování vedl i syna Leopolda, který po otci zřejmě zdědil stejného koníčka i extrovertní veselou povahu. Zapojoval se do řady aktivit zejména ve skautském hnutí, zúčastňoval se výletů a letních skautských táborů, hrál ochotnické divadlo. Tuto prvorepublikovou idylu přervaly události druhé světové války a holocaustu, jehož tragických důsledků pro židovskou komunitu zůstala rodina Färbrova vzhledem k Ignácovu smíšenému manželství nakonec ušetřena. Sen stát se profesionálním fotografem se Leopoldovi ovšem nesplnil. Začal se učit stolařem u Josefa Hampla, který rovněž vedl pohřební ústav a vyráběl rakve. V rakvích pak tajně převážel potraviny Němcům přímo před nosem pro partyzánské skupiny v okolí, což jeho učně, k němuž měl mistr Hampl naprostou důvěru, zcela fascinovalo.  Mladičký Leopold se taktéž zapojil do odboje, a sice jako spojka působící mezi menšími odbojovými skupinami ve Valchově, Vratíkově, Lipové i jinde.
+
+Tento statečný kluk na kole předával různé důležité kódované zprávy a několika lidem tak zachránil život. Tajně se staral o dva uprchlé ruské zajatce z nedalekého tábora, které objevil na boskovickém židovském hřbitově (zde byla jedna z „mrtvých schránek“ pro odbojovou činnost), získával peníze pro partyzánské jednotky v kraji, díky němu byla objevena na jedné zahradě ukrytá bedna s německými zbraněmi.
+
+Válka skončila, Leopold vystudoval textilní školu a začal pracovat v textilní továrně. To už však nastoupila běsnící komunistická totalita, kterou Leopold považoval za stejné zlo jako nacismus. Bez váhání vstoupil s režimem do boje, spolu s bratry Markovými měl v plánu tisknout letáky, provádět sabotáže, škodit trhavinami. Jednou Josef Marek přinesl dávku třaskavin, kterou ukryl v kachlových kamnech skautské klubovny. Nic netušící Leopold rozdělal v kamnech oheň, došlo k výbuchu, při kterém Leopold přišel o levé oko a měl proraženy oba ušní bubínky. Ani tato událost jej však v protikomunistických aktivitách nezastavila. Jako vedoucí ilegálního skautského oddílu v Jeseníku svým vyprávěním o rozšiřování protifašistických letáků za války inspiroval mladší členy k výrobě letáků s nápisem „Smrt komunismu!“. Připravovaná akce však byla příslušníky StB odhalena a stopy snadno vedly k Leopoldu Färbrovi i bratrům Markovým.
+
+Všichni byli tvrdě potrestáni, nejvíce Leopold, který byl zatčen 8. května 1950 a po několika měsících odsouzen k 16 letům vězení. Z těchto si v nesmírně krutých podmínkách odseděl na Borech, v Jáchymově a v Leopoldově plnou polovinu. V roce 1958 byl podmínečně propuštěn, dlouho se pak živil u staveb silnic, později se uchytil jako aranžér výloh. Již ve vězení a zejména pak po propuštění zaznamenával osudy a vzpomínky spoluvězňů, odbojářů a pamětníků; shromáždil tak nesmírně cenný archív zápisků, nahrávek, fotografií i dalších dokumentů.
+
+Boskovičtí pamětníci si možná vzpomenou, že v 70. letech se Leopold Färber vrátil ke své další zálibě, totiž ochotnickému divadlu. Přidal se ke skupině mladých divadelníků, která se tehdy v Boskovicích formovala pod vedením Mirka Konečného, a stal se platným členem souboru nejen jako příležitostný herec, ale především jako nadaný a originální scénograf. Dlouhá léta žil v obci Konice na Prostějovsku, zatímco jeho manželka a dva synové se vrátili zpět do Boskovic.
+
+Po roce 1989 se angažoval v Konfederaci politických vězňů a podílel se na mnoha publikacích s odbojovou tématikou. Jeho činnost byla oceněna řadou skautských a orelských vyznamenání, je mimo jiné laureátem Ceny města Prostějova, nositelem Ceny Paměti národa, 28. října 2012 mu byl prezidentem Václavem Klausem propůjčen Řád T. G. Masaryka III. třídy.
+
+Závěrem bych ráda připomněla, že Leopold Färber figuruje nejen v řadě publikací, ale stal se též hrdinou komiksového příběhu Hurvínkovy příhody a několikrát mu věnovala pozornost i Česká televize. Za všechny uvádím zhruba půlhodinový pořád s názvem [Za skauting do kriminálu](http://www.ceskatelevize.cz/porady/10204458965-neznami-hrdinove/209452801390007-neznami-hrdinove-pohnute-osudy/) z cyklu Neznámí hrdinové, který byl natočen v roce 2009, a v němž Leopold vzpomíná na stěžejní okamžiky svého nelehkého života, který plně zasvětil boji proti zlu a bezpráví.
+
+Leopold Färber zemřel v olomoucké nemocnici 27. října 2015 ve věku 86 let.
