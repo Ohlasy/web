@@ -56,7 +56,7 @@ Nastane do konce volebního období přece jen posun ve věci výstavby sociáln
 
 Způsob komunikace vedení města s veřejností je v Boskovicích dlouhodobě problematický a byl jedním z témat před volbami v roce 2013. Nová koalice radnice bezesporu více otevřela, začala poskytovat více informací a zařídila i přenosy z jednání zastupitelstva. Od letošního roku pak přistoupila k poměrně zásadnímu kroku – [razantně navýšila prostředky na vydávání městského tištěného Zpravodaje](http://www.ohlasy.info/clanky/2017/07/novy-zpravodaj.html), který ve dvacetistránkovém rozsahu doručuje zdarma do více než pěti tisíc místních domácností. Zejména v předvolebním roce se tak zvyšuje [pochybnost](http://www.ohlasy.info/clanky/2017/08/komentar-zpravodaj.html), jestli spíše než k věcnému informování veřejnosti nebude tento dosti nákladný počin sloužit k zajištění dobrého PR vládnoucí politické garnitury. Kromě toho samozřejmě vyvstává i pochybnost nad tím, jestli je v roce 2018 navýšení o statisíce zrovna do tištěného média smysluplné.
 
-Jak bude vypadat informování veřejnosti v novém Zpravodaji? Bude poskytovat vyvážené informace a ne jako jednostranné PR vládnoucí koalice?
+Jak bude vypadat informování veřejnosti v novém Zpravodaji? Bude poskytovat vyvážené informace, a ne sloužit jako jednostranné PR vládnoucí koalice?
 
 ### 9. Knihovna
 
