@@ -18,7 +18,7 @@ První otázkou voleb bude, jestli si celostátně pošramocená ČSSD udrží s
 
 ### 2. Nemocnice
 
-Závažné a veřejností logicky velmi citlivé téma. Během loňského roku se odehrálo několik věcí, které tuto citlivost spíše rozjitřily, a to jednak prohraný soud s Tomášem Julínkem a především velmi zneklidňující formulace vedení města v [dopise směřovaném na kraj](http://www.ohlasy.info/clanky/2017/10/prevod-nemocnice.html). Do toho se o provoz nemocnice začínají zajímat [podnikatelé ve zdravotnictví](http://www.ohlasy.info/clanky/2017/12/nemocnice-agel.html). Jasné záruky o budoucím provozu nemocnice nemáme, stejně jako zřetelnou představu o tom, jak velkou finanční zátěž by pro město mohla v dalších letech představovat.
+Závažné a veřejností logicky velmi citlivě vnímané téma. Během loňského roku se odehrálo několik věcí, které tuto citlivost spíše rozjitřily, a to jednak prohraný soud s Tomášem Julínkem a především velmi zneklidňující formulace vedení města v [dopise směřovaném na kraj](http://www.ohlasy.info/clanky/2017/10/prevod-nemocnice.html). Do toho se o provoz nemocnice začínají zajímat [podnikatelé ve zdravotnictví](http://www.ohlasy.info/clanky/2017/12/nemocnice-agel.html). Jasné záruky o budoucím provozu nemocnice nemáme, stejně jako zřetelnou představu o tom, jak velkou finanční zátěž by pro město mohla v dalších letech představovat.
 
 Zůstane v Boskovicích jasně převládající názor, že nemocnici není dobré privatizovat? Jak náročné se pro město ukáže táhnout její provoz?
 
