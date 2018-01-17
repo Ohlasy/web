@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *V úterý 16. ledna se boskovickému publiku podruhé představil [městský symfonický orchestr](http://www.ohlasy.info/clanky/2017/05/novy-orchestr.html). Po mnoha letech se tak obnovila tradice společného symfonického hraní s těžištěm v klasické hudbě a zároveň s maximálním zapojením místních hudebníků, žáků a učitelů hudebních a středních škol.*
 
-{% photo src="https://i.imgur.com/cXFOB5n.jpg" author="Jaroslav Parma" %}
+{% photo src="https://i.imgur.com/cXFOB5n.jpg" author="Vladimír Friš" %}
 
 Hned na úvod tedy se patří vyzdvihnout rozhodnutí a skutek zakladatele a dirigenta většiny úterního programu, Tomáše Pléhy. Sáhnout při zakládání amatérského uměleckého tělesa mezi studenty a muzikanty, kteří se v běžném životě hraním neživí, vyžaduje odhodlání a určitou míru ochoty ke kompromisu. Slovo „amatérské“ je zde přitom možná lehce zavádějící, jsme zvyklí je vnímat jako hanlivé označení věcí roztomilých, ale nekvalitních. Primárně je to však slovo označující člověka, který se určité činnosti věnuje z lásky, ale nepředstavuje pro něj zdroj výdělku. Proto je vlastně v některých ohledech náročnější být amatérem než profesionálem, tedy člověkem, kterého hudba neživí a přesto se jí rozhodne čistě z lásky věnovat netriviální množství času a energie. 
 
