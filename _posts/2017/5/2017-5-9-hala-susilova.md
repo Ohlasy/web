@@ -1,7 +1,7 @@
 ---
 title: "Nová varianta sportovní haly: místo tělocvičen na ZŠ Sušilova"
 perex: "Zcela nový návrh na umístění sportovní haly přednesl na setkání radnice se sportovci volejbalový trenér František Učeň: Navrhuje zbourat dvě tělocvičny u ZŠ Sušilova a halu postavit na jejich místě."
-cover-photo: http://i.imgur.com/BYlrVenl.jpg
+cover-photo: http://i.ohlasy.info/BYlrVenl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -10,13 +10,13 @@ tags:
 
 *Zcela nový návrh na umístění sportovní haly přednesl na setkání radnice se sportovci volejbalový trenér František Učeň. Navrhuje zbourat dvě tělocvičny u ZŠ Sušilova a halu postavit na jejich místě. Zároveň by město mělo odkoupit jízdárnu, kde by vzniklo další menší kryté sportoviště. Celý komplex by podle něj mohl vzniknout do dvou let.*
 
-{% photo src="http://i.imgur.com/PTMK7yo.png" alt="Navrhované umístění sportovní haly, zhruba naproti krytým lázním" caption="Navrhované umístění sportovní haly" author="OpenStreetMap" %}
+{% photo src="http://i.ohlasy.info/PTMK7yo.png" alt="Navrhované umístění sportovní haly, zhruba naproti krytým lázním" caption="Navrhované umístění sportovní haly" author="OpenStreetMap" %}
 
 Minulý týden se na radnici sešlo asi padesát lidí, převážně z řad politiků a zástupců sportovních klubů, aby zde společně řešili jednotlivé varianty studie, kterou město nechalo vypracovat na kompletní řešení areálu Červená zahrada. Ve všech těchto variantách se ovšem počítalo s tím, že by v Červené zahradě měla stát i sportovní hala. Poté, co radnice jednotlivé varianty představila, překvapil všechny volejbalový trenér František Učeň zcela novým návrhem: totiž aby se hala nestavěla v Červené zahradě, ale u základní školy Sušilova, na místě jejích dnešních dvou tělocvičen.
 
 „Přišel jsem s myšlenkou, abychom řešili Červenou zahradu jako letní sportoviště,“ říká František Učeň s tím, že podobný model je podle něj daleko výhodnější a je také běžný v různých městech. Návrh stavět halu v areálu daleko od centra naopak označuje jako nesmysl. „Takto to nikde nefunguje. Všude jsou městské sportovní haly ve městě a letní sportovní areály někde úplně jinde,“ vysvětluje František Učeň. Jako příklad dává mimo jiné Chodov, kde se prý do sportu hodně investuje a boskovické volejbalistky zde hrály kvalifikaci o extraligu. „Sportovní hala je na sídlišti u školy, dvě minuty od náměstí. A areál pro letní sporty tři kilometry daleko na okraji,“ popisuje volejbalový trenér a vyjmenovává další města, kde zvolili podobné řešení, jako třeba Svitavy.
 
-{% photo src="http://i.imgur.com/BYlrVen.jpg" caption="Tělocvična ZŠ Sušilova" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/BYlrVen.jpg" caption="Tělocvična ZŠ Sušilova" author="Tomáš Trumpeš" %}
 
 ### Ovál a hala se nevejdou
 
@@ -48,7 +48,7 @@ Náklady na větší halu na místě dnešních tělocvičen odhaduje František
 
 František Učeň připravuje na další jednání i hmotovou studii celé stavby. Kromě toho má představu o řešení parkování u nové haly, což bylo předmětem mnoha diskusí u zamýšlené, rozestavěné a nakonec zrušené haly na Slovákově.
 
-{% photo src="http://i.imgur.com/kuEbtLG.jpg" caption="Potenciální parkování u školičky" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/kuEbtLG.jpg" caption="Potenciální parkování u školičky" author="Tomáš Trumpeš" %}
 
 Zachováno by zůstalo parkoviště u dnešní tělocvičny, a to přestože by se nová budova musela kvůli rozměru stavba rozšířit právě směrem k tomuto parkovišti. František Učeň ale navrhuje, aby se tribuny vybudovaly způsobem, který by umožňoval, aby pod nimi mohl zůstat zachován prostor pro auta. Další parkovací místa by mohla vzniknout u takzvané školičky, na místě zpustlého volejbalového hřiště, které volejbalisté kdysi získali náhradou za kurty v Červené zahradě. Hřiště však nikdy pořádně nevyhovovalo. „Je to paskvil, kde je jen stín a vlhko,“ popisuje trenér toto hřiště s tím, že kapacita parkoviště na jeho místě by byla minimálně dvacet míst.
 

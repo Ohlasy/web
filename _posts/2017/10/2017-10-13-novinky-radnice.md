@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Kapacita školky, chodník do Piláku a dluh TJ Sokol"
-cover-photo: https://i.imgur.com/5xlMktll.jpg
+cover-photo: http://i.ohlasy.info/5xlMktll.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

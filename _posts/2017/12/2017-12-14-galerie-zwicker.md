@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Pozvánka do Minigalerie Zwicker"
 perex: Až budete procházet boskovickou židovskou čtvrtí, nezapomeňte se zastavit na Plačkově ulici u domu číslo 6, neboť právě zde si mohou milovníci historie přijít na své. Dům je totiž zajímavý hned z několika důvodů.
-cover-photo: https://i.imgur.com/N4mvj76l.jpg
+cover-photo: http://i.ohlasy.info/N4mvj76l.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *Až budete procházet boskovickou židovskou čtvrtí, nezapomeňte se zastavit na Plačkově ulici u domu číslo 6, neboť právě zde si mohou milovníci regionálních dějin a historických památek přijít na své. Dům je totiž zajímavý hned z několika důvodů.*
 
-{% photo src="https://i.imgur.com/hCvhWOC.jpg" caption="Mezuza" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/hCvhWOC.jpg" caption="Mezuza" author="Tomáš Znamenáček" %}
 
 Patří k těm několika v Boskovicích, kde je zachován pozůstatek mezuzy – typického a kdysi povinného označování židovských příbytků. Jedná se o malou schránku, která je umístěna na veřejích venkovních dveří (samotné hebrejské slovo *mezuza* znamená *veřeje*) a do níž se vkládala ručně psaná modlitba na pergamenu. Jedná se o výňatek z Páté knihy Mojžíšovy (Deutoronomium) a modlitba se nazývá Šema Jisra'el – Slyš, Izraeli. Kdykoliv zbožní Židé opouštěli svůj dům, anebo naopak se vraceli domů, vždy se dvěma prsty pravé ruky mezuzy dotkli a prsty políbili. Dávali tak najevo svou příslušnost k víře svých předků, k judaismu. Po válce židovská čtvrť osiřela, původní židovští obyvatelé se vrátili jen v nepatrném počtu. Tehdy se začali do opuštěných domů stěhovat obyvatelé noví, židovských zvyklostí neznalí, kteří mezuzy z veřejí svých domů vytrhávali a ničili. A tak je pro nás každá takováto uchráněná památka věcí vzácnou a historicky cennou.
 
@@ -19,7 +19,7 @@ Prvním známým majitelem domu byl roku 1788 David Barcheles, poté jeho potomc
 
 Posledním židovským majitelem domu byl Alfréd Zwicker, obchodník textilem (narozen 5. května 1881 v Boskovicích), který zde žil se svojí ženou Fanny (narozena jako Ländlerová 31. ledna 1885 v Přibyslavicích) a svými dětmi Gertrudou (narozena 30. prosince 1914 v Boskovicích) a Ernstem (narozen 1. června 1916 v Boskovicích). Všichni byli odvlečeni transportem Ac z Brna do Terezína, posléze do Sobiboru. Nikdo z rodiny nepřežil. Dům v době války jako židovský majetek dostal do správy takzvaný Treuhänder (německý správce), v roce 1945 pak přešel do vlastnictví Vystěhovaleckého fondu pro Čechy a Moravu. V srpnu roku 1948 nabyla vlastnictví jedné poloviny domu po zemřelé Fanny Zwickerové její neteř Alice Ländlerová, provdaná Mazalová, od ní si tuto část domu odkoupilo město Boskovice a stalo se tak jediným vlastníkem celého domu. Později bylo v přízemí zřízeno malé židovské muzeum, které bylo v roce 2002 přestěhováno do renovované synagogy maior. Přízemí domu bylo dále využíváno ke klubovým činnostem, v prvním patře žila rodina Krajíčkova, která celý dům posléze zakoupila.
 
-{% photo src="https://i.imgur.com/cNldExB.jpg" caption="Minigalerie Zwicker" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/cNldExB.jpg" caption="Minigalerie Zwicker" author="Tomáš Znamenáček" %}
 
 Od roku 2008 dům vlastní Miloš Pachl, stavební inženýr původem z Litomyšle, který se v Boskovicích projevil jako podnikavý člověk s velkým zájmem o historii a zejména pak o architektonické památky. Jedním z jeho nápadů bylo zřízení stálé výstavky fotografií ze „starých Židů“, a to právě v domě na Plačkově ulici. Pro realizaci svého snu musel vyvinout nemalé úsilí, na jehož konci stálo vytvoření kolekce více než 60 černobílých fotografií bývalého boskovického ghetta, které ukazují jednak stavební objekty, jednak z menší části i lidi, kteří zde žili. Fotografie získal Miloš Pachl dílem vlastní sběratelskou činností, dílem od občanů města Boskovice i od obyvatelů židovské čtvrti či jejich potomků, podstatnou část souboru tvoří pak fotografie ze sbírek Muzea Boskovicka, z archivu fotoateliéru Drápal či soukromé sbírky Jaroslava Bránského. Miloš Pachl poté získané fotografie vlastnoručně upevnil na smaltové destičky (náhodná „kořist“ z kovošrotu pana Henzla) a vznikla tak působivá stálá expozice v autentickém prostředí, která návštěvníkům dokáže evokovat dobu ne tak dávnou: fotografie vznikaly v průběhu 30. až 60. let 20. století a velmi dobře dokumentují tehdejší neradostný stav boskovické židovské čtvrti. Autory fotografií se nepodařilo vždy identifikovat, dokonce určit některé fotografované objekty či dobu pořízení snímků bylo leckdy velmi obtížné.
 

@@ -1,14 +1,14 @@
 ---
 title: Starostka vyhodila Julínka z nemocnice neprávem, rozhodl soud
 perex: Organizační změna, na základě které dostal Julínek z nemocnice výpověď, byla podle názoru soudu čistě účelová.
-cover-photo: http://i.imgur.com/iU3CmkPl.jpg
+cover-photo: http://i.ohlasy.info/iU3CmkPl.jpg
 category: zpravodajství
 author: Marek Osouch
 ---
 
 *Exministr zdravotnictví za ODS Tomáš Julínek, který v boskovické nemocnici do prosince roku 2015 působil ve funkci náměstka pro ekonomiku a správu, dostal podle rozhodnutí blanenského soudu od boskovické starostky Hany Nedomové (ČSSD) v roli jednatelky neplatnou výpověď. Rozsudek ve sporu Tomáše Julínka s nemocnicí zatím není pravomocný.*
 
-{% photo src="http://i.imgur.com/iU3CmkP.jpg" author="Marek Osouch" %}
+{% photo src="http://i.ohlasy.info/iU3CmkP.jpg" author="Marek Osouch" %}
 
 „Soud má za to, že šlo o fiktivní rozhodnutí o organizační změně. Jednalo se pouze o nástroj, jak se zbavit žalobce,“ konstatovala soudkyně Petra Burešová. Tuto změnu provedla v listopadu 2015 boskovická starostka Hana Nedomová jakožto dočasná jednatelka po náhlém odvolání tehdejšího jednatele nemocnice Dana Navrátila.
 

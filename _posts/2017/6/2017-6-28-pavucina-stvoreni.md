@@ -1,13 +1,13 @@
 ---
 title: Pavučina stvoření
-cover-photo: http://i.imgur.com/TDfjQ0Wl.jpg
+cover-photo: http://i.ohlasy.info/TDfjQ0Wl.jpg
 author: Jiří Bureš
 category: názory a komentáře
 ---
 
 *Stvoření jako pavučina, v níž je tvorstvo navzájem provázáno. Zamyšlení evangelického faráře Jiřího Bureše se tentokrát dotýká tématu ekologie a rozvíjí jej z křesťanské perspektivy.*
 
-{% photo src="http://i.imgur.com/TDfjQ0W.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/TDfjQ0W.jpg" author="Tomáš Znamenáček" %}
 
 Když jsme se před dvěma lety chystali se skupinou mladých na vodu, provázely přípravy těžké pochybnosti. V Česku celé léto nezapršelo, země byla vyprahlá na troud a naprostá většina řek nesplavná. Na poslední chvíli nás zachránil liják, který nám doslova spadnul na hlavu, když jsme nasedali do lodí. O rok později se suchá krize opakovala na dětském táboře – v parném létě došla v obci voda a my byli bez funkčních toalet.
 

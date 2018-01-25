@@ -1,13 +1,13 @@
 ---
 title: Končí přímé autobusové spojení Boskovic s Olomoucí
-cover-photo: https://i.imgur.com/2Fni45cl.jpg
+cover-photo: http://i.ohlasy.info/2Fni45cl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Dostat se do Olomouce bez přestupu bude po novém roce téměř nemožné. Autobusy, které doposud jezdily až do největšího města sousedního kraje, totiž už nepojedou. Cestující čeká přestupování v Prostějově.*
 
-{% photo src="https://i.imgur.com/2Fni45c.jpg" caption="Autobusové nádraží Boskovice" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/2Fni45c.jpg" caption="Autobusové nádraží Boskovice" author="Tomáš Trumpeš" %}
 
 Tradiční dopravce Vydosbus, který ještě před několika lety jezdil na Boskovicku, z regionu definitivně odchází. S koncem roku 2012 ho na regionálních linkách vystřídaly společnosti ČAD Blansko, Dopaz a Zdar. Nově přišel Vydosbus i o linky z Boskovic do Olomouce.
 

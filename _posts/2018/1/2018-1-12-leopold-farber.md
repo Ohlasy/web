@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Leopold Färber, řečený Hurvínek"
 perex: Románový příběh Leopolda Färbera. Jako chlapec působil v protinacistickém odboji, pokračoval v protikomunistickém a při náhodném výbuchu přišel o oko. Nakonec dostal řád T.G.M.
-cover-photo: https://i.imgur.com/blxenEn.jpg
+cover-photo: http://i.ohlasy.info/blxenEn.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *Život Leopolda Färbra by vystačil na román. Tento zapálený skaut, nadšený divadelník, vtipný a veselý společník, hlavně ovšem hrdina 2. i 3. odboje a politický vězeň, dostal už v chlapeckém věku přezdívku Hurvínek, která jej pak provázela po celý život. V žilách tohoto pozoruhodného člověka se mísila krev židovských i křesťanských předků.*
 
-{% photo src="https://i.imgur.com/YaZQCcA.jpg" %}
+{% photo src="http://i.ohlasy.info/YaZQCcA.jpg" %}
 
 Dědeček Salomon Färber, který se živil hubením potkanů a krys v židovském městě, se oženil s křesťankou Julií Žáčkovou, dcerou boskovického pekaře, a měli spolu tři děti: Ignáce (narozen 10. června 1903), Helenu (narozena 23. března 1906, později provdanou za obchodníka jízdními koly Tomáška) a Josefa (narozen 23. listopadu 1907). Po Salomonově smrti (údajně zemřel jako dobrovolný hasič při jednom z [boskovických požárů v Židech](http://www.ohlasy.info/clanky/2017/08/pozar-ghetta.html)) se vdova Julie provdala za pokřtěného Žida Leopolda Baderleho a celá rodina se hlásila ke katolické víře.
 

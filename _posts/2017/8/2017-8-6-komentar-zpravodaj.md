@@ -1,14 +1,14 @@
 ---
 title: Navýšení výdajů na tištěná média může ospravedlnit pouze zkvalitnění obsahu
 perex: Město Boskovice chce vydávat nový a lepší zpravodaj. V čem je tento krok problematický?
-cover-photo: http://i.imgur.com/GhMfxlpl.jpg
+cover-photo: http://i.ohlasy.info/GhMfxlpl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
 *Komentovat záměr boskovické radnice vytvořit novou podobu městského zpravodaje není pro novináře úplně snadné. Na jednu stranu je to téma, ke kterému máme profesně nejblíže, na druhou stranu se nutně dostáváme do jakéhosi střetu zájmů. Přesto se o to pokusím. Ostatně – jeden z hlavních problémů celé věci tkví právě v tom, jestli to není naopak a do střetu zájmů nevstupuje spíše z druhé strany město.*
 
-{% photo src="http://i.imgur.com/GhMfxlp.jpg" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/GhMfxlp.jpg" author="Tomáš Trumpeš" %}
 
 Výrazně pravicověji či naopak anarchističteji smýšlející publicisté by přesně v tomto případě mohli křičet okřídlené heslo Méně státu! a poukazovat na to, že samospráva zcela nepatřičně vstupuje tam, kde má fungovat trh a přirozená lidská činorodost. Radnice má informace v maximální možné míře uveřejňovat, být otevřená, nebránit nikomu je získávat, ale ne nosit je na stříbrném podnose každému až k ústům a konkurovat tím za peníze daňových poplatníků soukromým médiím.
 

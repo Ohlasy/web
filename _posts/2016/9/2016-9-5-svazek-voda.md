@@ -45,7 +45,7 @@ Historicky vlastnili Vodárenskou různí akcionáři vzešlí z kupónové priv
 
 Členy Svazku ale nejsou všechny obce Blanenska a Boskovicka. V současnosti jich je 76 ze 116. Mezi obce, které ve Svazku chybí, patří například Voděrady: „Máme vlastní zdroj vody, vlastní vodovod a sami si stanovujeme cenu vody. Vodárenská se nám o naši infastrukturu pouze stará,“ vysvětlil starosta Voděrad Lubomír Lepka.
 
-<img src="http://i.imgur.com/TBLk58f.png" alt="graf vývoje cen vody" class="img-responsive img-popup img-framed" data-author="Marek Osouch, Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/TBLk58f.png" alt="graf vývoje cen vody" class="img-responsive img-popup img-framed" data-author="Marek Osouch, Tomáš Znamenáček">
 
 Kritika Svazku se strhává v naprosté většině případů na výši ceny vody (viz graf výše a [jeho zdrojová data](https://docs.google.com/spreadsheets/d/1SLyB6MmaF6L2lGdoCPkX_O8XpHaHSjlYKorJRxeBJSI/edit?usp=sharing)). Kvůli ní například opustila Svazek s letošním rokem Černá Hora. Smlouvy o vystoupení ale zatím ani po dvou letech neexistují, a tak Černohorští platí stejnou cenu jako obyvatelé obcí, které jsou součástí Svazku. Přitom argumentem bylo právě snížení ceny vody o deset korun za kubík, ale jen za předpokladu, že Svazek vydá Černé Hoře zdroj vody Zelený kříž. Ten však nechce. Rozpor nastal také mezi vedením městyse a pivovarem, [který chce zůstat ve Svazku](http://ohlasy.info/clanky/2015/07/cerna-hora-vystupuje-ze-svazku.html).
 

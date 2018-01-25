@@ -1,14 +1,14 @@
 ---
 title: Nemocnice se ve sporu s Julínkem neodvolala. Výpověď tak definitivně neplatí
 perex: Uběhla odvolací lhůta a nemocnice svého práva na odvolání nevyužila, rozsudek je pravomocný.
-cover-photo: https://i.imgur.com/PbHcDR7l.jpg
+cover-photo: http://i.ohlasy.info/PbHcDR7l.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Výpověď pro exministra zdravotnictví za ODS Tomáše Julínka z boskovické nemocnice neplatí, ode dneška už pravomocně. Uběhla totiž odvolací lhůta a nemocnice svého práva na odvolání nevyužila.*
 
-{% photo src="https://i.imgur.com/PbHcDR7.jpg" caption="Tomáš Julínek u soudu" author="Marek Osouch" %}
+{% photo src="http://i.ohlasy.info/PbHcDR7.jpg" caption="Tomáš Julínek u soudu" author="Marek Osouch" %}
 
 „Nemocnice se rozhodla neodvolat na doporučení právníků. Více v tuto chvíli není co dodat,“ sdělil jednatel boskovické nemocnice Miloš Janeček. Ten už přitom přišel do nemocnice, když byla bez Tomáše Julínka, který z nemocnice musel odejít v době zhruba dvouměsíčního angažmá boskovické starostky Hany Nedomové (ČSSD) v roli jednatelky. Zrušením jeho místa chtěla podle svého vysvětlení Hana Nedomová zeefektivnit chod nemocnice. Podle soudu to ale bylo jinak. „Soud má za to, že šlo o fiktivní rozhodnutí o organizační změně. Jednalo se pouze o nástroj, jak se zbavit žalobce,“ [konstatovala v srpnu při rozsudku soudkyně Petra Burešová](http://www.ohlasy.info/clanky/2017/08/julinek-vyhozen-nepravem.html).
 

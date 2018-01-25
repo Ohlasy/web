@@ -1,7 +1,7 @@
 ---
 title: Podplamenice. Výstava Víta Ondráčka otevřela novou galerii Kunšt
 perex: Nová galerie Kunšt byla 3. června slavnostně otevřena v Kunštátě, první autorská výstava představuje kunštátského výtvarníka Víta Ondráčka a nese název Podplamenice.
-cover-photo: http://i.imgur.com/rk8IGHFl.jpg
+cover-photo: http://i.ohlasy.info/rk8IGHFl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura
@@ -9,7 +9,7 @@ tags: kultura
 
 *Nová galerie Kunšt byla v sobotu 3. června slavnostně otevřena v Kunštátě. Galerie sídlí přímo na náměstí, první autorská výstava představuje kunštátského výtvarníka [Víta Ondráčka](http://vitondracek.cz/) a nese název Podplamenice. Úvodní slovo o malbách plamenem na vernisáži pronesl Tomáš Trumpeš, který kromě toho vedl i krátký rozhovor s autorem. Obě tyto části vernisáže přinášíme jako pozvánku na výstavu, která potrvá do 24. září.*
 
-{% photo src="http://i.imgur.com/T9jnEzO.jpg" caption="Vít Ondráček s galeristkou Kateřinou Krejčířovou" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/T9jnEzO.jpg" caption="Vít Ondráček s galeristkou Kateřinou Krejčířovou" author="Tomáš Znamenáček" %}
 
 ### Podplamenice
 
@@ -21,7 +21,7 @@ Důležitá ovšem není jen odvaha přiblížit se k plameni; vždyť pouze tou
 
 Proto i Vítkovy obrazy nejen vábí naši pozornost, ale rovněž sálají horkostí nesnadno objevitelných vzkazů. Také ony jsou trochu tajemné tím, co by mělo být samozřejmé a dnes se to přitom zdá být zapomenuté: umění je zde stále ještě tím, kde je nutné něco umět. Možná i proto vznikají také Vítkovy Podplamenice na okraji; a jistě proto jsou i ony zachránkyněmi něčeho, co by nemělo přijít nazmar.
 
-{% photo src="http://i.imgur.com/WjjQm9l.jpg" caption="Malba plamenem" author="Vít Ondráček" %}
+{% photo src="http://i.ohlasy.info/WjjQm9l.jpg" caption="Malba plamenem" author="Vít Ondráček" %}
 
 ### „Kunštátská krajina zásadně překopala to, co dělám“
 

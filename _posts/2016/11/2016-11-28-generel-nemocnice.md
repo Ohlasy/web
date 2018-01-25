@@ -25,7 +25,7 @@ V očích zpracovatelů však budoucnost nemocnice není zrovna růžová, pokud
 
 Jednatel boskovické nemocnice Miloš Janeček se ke generelu nevyjádřil, pouze odkázal na analytika nemocnice Dana Štěpánského. „Zpracovaný generel je koncepčním strategickým dokumentem střednědobého rozvoje areálu nemocnice. Generel neřeší současný provozní chod nemocnice,“ řekl analytik.
 
-<img src="http://i.imgur.com/CtwjLYa.png" class="img-responsive img-popup img-framed" alt="umístění nové budovy">
+<img src="http://i.ohlasy.info/CtwjLYa.png" class="img-responsive img-popup img-framed" alt="umístění nové budovy">
 
 ### Nová budova na místě záchranky a mikrobiologie
 

@@ -20,7 +20,7 @@ OLDŘICH KOVÁŘ: Pětina občanů Boskovic je registrovaná v knihovně.
 
 MIROSLAVA JURDIČOVÁ: Pořádáme besedy pro děti, spolupracujeme se školami všech typů z Boskovic i okolí. Jezdí sem rádi a po besedách, když se děti nadchnou a vyměňují si poznatky, bývá davové přihlašování. Sem tam pozveme na besedu i nějakého spisovatele, aby měly děti také nějakou změnu, jinak dělám besedy já.
 
-<img src="http://i.imgur.com/p7YNlgO.png" alt="návštěvníci knihovny podle věku, graf" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček podle dat Knihovny Boskovice">
+<img src="http://i.ohlasy.info/p7YNlgO.png" alt="návštěvníci knihovny podle věku, graf" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček podle dat Knihovny Boskovice">
 
 **Do kdy jim to nadšení vydrží? Zaznamenáváte odliv třeba po ukončení základní či střední školy?**
 
@@ -34,7 +34,7 @@ MIROSLAVA JURDIČOVÁ: Je to tak. Muži tvoří asi 30 procent čtenářů, žen
 
 MIROSLAVA JURDIČOVÁ: To ne, děti do 15 let tvoří zhruba čtvrtinu, lidé od 60 let nahoru asi 14 procent. To zase není tak moc.
 
-<img src="http://i.imgur.com/Ub7Vggf.png" alt="návštěvníci knihovny podle povolání, graf" class="img-responsive img-popup  img-framed" data-author="Tomáš Znamenáček podle dat Knihovny Boskovice">
+<img src="http://i.ohlasy.info/Ub7Vggf.png" alt="návštěvníci knihovny podle povolání, graf" class="img-responsive img-popup  img-framed" data-author="Tomáš Znamenáček podle dat Knihovny Boskovice">
 
 ### Není to půjčovna knih, je to skladiště
 

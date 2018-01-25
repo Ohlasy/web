@@ -16,7 +16,7 @@ Budova byla skutečně pro knihovnu na začátku století kupována, s tímto z�
 
 Budova ZZN se postavila na začátku 80. let jako prodejna domácích potřeb. V obou patrech je celkem 1 391 metrů čtverečních užitné plochy. Pro srovnání: dnes má knihovna k dispozici 550 metrů čtverečních. Podle vedoucího odboru investic boskovické radnice Petra Zouhara nesměřovaly v posledních letech do budovy větší investice. Vážné technické problémy zde nejsou, problémem je především vysoká energetická náročnost objektu, především vysoké náklady na topení.
 
-<img src="http://i.imgur.com/dvc7wtf.png" alt="umístění budovy v rámci Boskovic" class="img-responsive img-framed img-popup" data-author="Mapy.cz">
+<img src="http://i.ohlasy.info/dvc7wtf.png" alt="umístění budovy v rámci Boskovic" class="img-responsive img-framed img-popup" data-author="Mapy.cz">
 
 K největším výhodám budovy ZZN tedy patří dobrá poloha, potřebná plocha i dostatek místa pro parkování. Dále pak dostatečně silná konstrukce, která by měla bez problémů zvládnout potřebné zatížení. Ozývají se však také hlasy, kterým se řešení problému knihovny přesunem do ZZN nelíbí. Kupříkladu bývalý šéf boskovického kina Radek Pernica. „Už jsme knihovnu nastěhovali do hospodářského dvora, potom do kuchyně, jídelny, společenského sálu a podia, a teď ji nastěhujeme do budovy normalizační prodejny? To jsme v Boskovicích tak neschopní, že neumíme postavit knihovnu? Zřejmě ano a to není dobrá zpráva. Anebo to není o neschopnosti, ale o odvaze udělat něco riskantního, velkého a nového,“ vyjádřil se v diskusi o knihovně dnešní ředitel univerzitního kina Scala.
 

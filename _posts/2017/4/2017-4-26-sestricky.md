@@ -1,14 +1,14 @@
 ---
 title: Nemocnice chce lákat zdravotní sestry i na ubytování
 perex: Boskovická nemocnice musela před časem kvůli nedostatku sester omezit provoz na jednotce intenzivní péče. Uchazečkám o pozici zdravotní sestry chce kromě náborového příspěvku do budoucna nabízet také byt.
-cover-photo: http://i.imgur.com/xi6jTetl.jpg
+cover-photo: http://i.ohlasy.info/xi6jTetl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Boskovická nemocnice musela před časem kvůli nedostatku sester omezit provoz na jednotce intenzivní péče. Uchazečkám o pozici zdravotní sestry chce kromě náborového příspěvku do budoucna nabízet také byt v bytovém domě sousedícím s nemocnicí. Pokračuje i tlak na zvyšování mezd.*
 
-{% photo src="http://i.imgur.com/xi6jTet.jpg" caption="Nemocniční „svobodárna“" author="Marek Osouch" %}
+{% photo src="http://i.ohlasy.info/xi6jTet.jpg" caption="Nemocniční „svobodárna“" author="Marek Osouch" %}
 
 Nedostatek zdravotních sester a dalšího středního zdravotního personálu se nevyhýbá ani nemocnici v Boskovicích. Už několik měsíců na webových stránkách stále visí nabídka volné pozice zdravotní sestry na dětské oddělení, ARO nebo JIP. Tam všude sestry chybí. Nástup je možný ihned. Podobně jsou v nabídce volná místa i pro zdravotnické asistenty nebo sanitáře.
 

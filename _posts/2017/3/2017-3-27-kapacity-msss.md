@@ -1,14 +1,14 @@
 ---
 title: Kapacita domů pro seniory se mírně sníží. Kvůli lepším podmínkám
 perex: Obě boskovická pobytová zařízení pro seniory v příštích dvou letech částečně sníží svou kapacitu. Důvodem snižování jsou především vyšší nároky na kvalitu ubytování a zajištění potřebné péče.
-cover-photo: http://i.imgur.com/kLzfOFzl.jpg
+cover-photo: http://i.ohlasy.info/kLzfOFzl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Obě boskovická pobytová zařízení pro seniory v příštích dvou letech částečně sníží svou kapacitu. Aktuálně poskytuje boskovická Městská správa sociálních služeb v Domově pro seniory a v Domově se zvláštním režimem dohromady 162 lůžek, po postupném snížení to bude o devět méně. Důvodem snižování jsou především vyšší nároky na kvalitu ubytování a zajištění potřebné péče.*
 
-<img src="http://i.imgur.com/kLzfOFz.jpg" alt="budova domu se zvláštním režimem" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/kLzfOFz.jpg" alt="budova domu se zvláštním režimem" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Podle ředitelky Městské správy sociálních služeb (MSSS) Marie Sáňkové si změny vynucuje mimo jiné to, že zatímco před lety přicházeli do takzvaného domova důchodců strávit své stáří lidé v ještě relativně dobré kondici, dnes je situace jiná. Do pobytových zařízení sociální péče jsou dnes přijímány pouze osoby ve vyšším stupni závislosti, která je zpravidla způsobená ztrátou soběstačnosti z důvodu imobility a výrazného zhoršení zdravotního stavu, což s sebou přináší i nutnost většího prostorového zázemí. „Dříve bylo bezproblémové umístit i dva lidi do pokoje menšího než patnáct metrů čtverečních, dnes je situace jiná.  Péče o klienty, kteří potřebují soustavnou zdravotní a sociální péči s sebou přináší zvýšené nároky na obslužnost. Personál potřebujeme mít dostatečný prostor pro přístup k lůžku a manipulaci s klientem, místo pro kompenzační pomůcky, chodítka, hygienická křesla, zvedáky a další pomůcky,“ vysvětluje ředitelka Marie Sáňková.
 

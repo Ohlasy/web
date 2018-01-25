@@ -1,6 +1,6 @@
 ---
 title: "Část ČSSD s námi nechce komunikovat. Bez vysvětlení"
-cover-photo: https://i.imgur.com/JyDOyWUl.jpg
+cover-photo: http://i.ohlasy.info/JyDOyWUl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *V prosincovém editorialu se snažíme vysvětlit zvláštní situaci, do které jsme se dostali při komunikaci s částí boskovické ČSSD.*
 
-{% photo src="https://i.imgur.com/JyDOyWU.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/JyDOyWU.jpg" author="Tomáš Znamenáček" %}
 
 Ohlasy v poslední době čelily několika ne zrovna příjemným situacím, kterým nás vystavili politici z části boskovické ČSSD. Starostka Hana Nedomová nám dlouhodobě odmítá bez udání důvodu poskytnout rozhovor, který měl mimo jiné být součástí prosincového tištěného vydání. Významný člen ČSSD Milan Kolínský s námi nekomunikuje vůbec a zastupitelé Martin Charvát a Oldřich Grulich nám nejenže neodpověděli do [zastupitelské ankety](http://www.ohlasy.info/clanky/2017/10/anketa-zastupitele.html), ale ještě nás obvinili z překrucování faktů, polopravd a útoků na stávající koalici.
 

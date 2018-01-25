@@ -1,6 +1,6 @@
 ---
 title: Vedení boskovické nemocnice vyzývá k jejímu převodu na kraj
-cover-photo: http://i.imgur.com/92115cal.jpg
+cover-photo: http://i.ohlasy.info/92115cal.jpg
 perex: Léta diskutované téma převodu nemocnice z města do rukou Jihomoravského kraje znovu silněji ožívá.
 author: Marek Osouch
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Léta diskutované téma převodu nemocnice z města do rukou Jihomoravského kraje znovu silněji ožívá. V poslední době převod podpořil přímo šéf boskovické nemocnice Miloš Janeček a v [rozhovoru pro Ohlasy](http://www.ohlasy.info/clanky/2017/06/rozhovor-machac.html) také známý lékař Jan Machač.*
 
-{% photo src="http://i.imgur.com/92115ca.jpg" caption="Interiér nemocnice" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/92115ca.jpg" caption="Interiér nemocnice" author="Tomáš Trumpeš" %}
 
 „Pokud vedení kraje argumentuje tím, že boskovická nemocnice je páteřní a na severu kraje tou hlavní, pak by se podle mého názoru mělo uvažovat o zařazení této nemocnice jako příspěvkové organizace kraje, aby dostávala z krajského rozpočtu pravidelné finanční injekce na zařízení, na obnovu, na rozvoj tak, jako ostatní krajské nemocnice. Myslím si, že Nemocnice Boskovice jako městská společnost s ručením omezeným se dostává na hranice svých možností,“ prohlásil před časem šéf boskovické nemocnice Miloš Janeček [v Radničních listech](http://www.boskovice.cz/assets/File.ashx?id_org=832&id_dokumenty=31010).
 

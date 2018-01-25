@@ -16,7 +16,7 @@ Na Dukelskou by mohlo dojít ovšem až v roce 2017. Jednat s krajem o opravě s
 
 Rekonstrukce má být celková, tedy včetně kanalizací nebo chodníků. „V rámci opravy ulice je nezbytné zrekonstruovat kanalizaci od Betany po most, dále osmdesát let starý vodovod od mostu po splav a šedesát let starý vodovod od hotelu Moravia dál v úseku zhruba 450 metrů,“ stojí v zápisu z rady. Jen rekonstrukce kanalizací a vodovodů by měla vyjít Svazek vodovodů a kanalizací na zhruba osm milionů, pak by přišel na řadu kraj a město. Kraj by zrekonstruoval silnici, město veřejné osvětlení a chodník od Betany až po most, což by vyšlo na tři čtvrtě milionu korun.
 
-<img src="http://i.imgur.com/sWBOczT.png" alt="mapa chodníků" class="img-responsive img-popup" data-author="Mapy.cz a Marek Osouch">
+<img src="http://i.ohlasy.info/sWBOczT.png" alt="mapa chodníků" class="img-responsive img-popup" data-author="Mapy.cz a Marek Osouch">
 
 *Aktuální stav boskovických chodníků: zelené chodníky mají výhradně zámkovou dlažbu, modré chodníky mají zámkovou dlažbu aspoň na jedné straně ulice a na červených chodnících není zámková dlažba vůbec.*
 

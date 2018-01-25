@@ -1,14 +1,14 @@
 ---
 title: Už nejde o přírodu, ale o přežití člověka. Lukáš Pokorný zve na besedu o klimatu
 perex: Občanská neposlušnost, klima a energetika. Úterý 6. června od 19 hodin, klub Sklepy.
-cover-photo: http://i.imgur.com/BUWK2RSl.jpg
+cover-photo: http://i.ohlasy.info/BUWK2RSl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Právě v době, kdy se v médiích opět intenzivně diskutuje o změnách klimatu, protože americký prezident Donald Trump odstoupil od Pařížské dohody, proběhne v Boskovicích beseda na velmi blízké téma. Setkání nese název Občanská neposlušnost, klima a energetika a proběhne v úterý 6. června se od 19 hodin v klubu Sklepy. Besedovat přijede Radek Kubala z hnutí Limity jsme my; promítnut bude film Disobedience (Neposlušnost).*
 
-{% photo src="http://i.imgur.com/BUWK2RS.jpg" caption="Lukáš Pokorný" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/BUWK2RS.jpg" caption="Lukáš Pokorný" author="Tomáš Znamenáček" %}
 
 Akci pořádá Lukáš Pokorný, student environmentalistiky na brněnské Fakultě sociálních studií. Besedovat se bude mimo jiné na následující otázky: Jaký je ale vůbec reálný dopad Pařížské dohody? O co v ní jde a jak může zabránit oteplování o více než 2 stupně, což je hranice, která je kritická, pokud má lidstvo na planetě přežít? A může vůbec změna přijít shora od politiků?
 

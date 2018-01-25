@@ -1,7 +1,7 @@
 ---
 title: Sportovní kluby stagnují a hala je v nedohlednu
 perex: Na sportovní halu musí sportovci stále čekat. Zatím je rok a půl jasné, že místo u školy na Slovákově vyroste v areálu Červené zahrady. Sportovní kluby ale zatím musí jezdit na zápasy do okolních měst a jejich činnost se nerozvíjí.
-cover-photo: http://i.imgur.com/fYNX1oul.jpg
+cover-photo: http://i.ohlasy.info/fYNX1oul.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: sport investice
@@ -9,7 +9,7 @@ tags: sport investice
 
 *Na sportovní halu musí sportovci stále čekat. Zatím je rok a půl jasné, že místo u školy na Slovákově vyroste v areálu Červené zahrady. Nikdo ale netuší, kdy se tak stane. Sportovní kluby tak stále musí jezdit na zápasy do okolních měst a jejich činnost se nerozvíjí.*
 
-<img src="http://i.imgur.com/fYNX1ou.jpg" alt="jízdárna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/fYNX1ou.jpg" alt="jízdárna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Basketbalisté zanikli, florbalisté jsou v úpadku, talentovaní volejbalisté odešli. Tak jde popsat situaci v boskovických sportovních oddílech, které potřebují ke sportování halu. Obsazují provizorně, ale už vlastně tradičně, tělocvičny základních a středních škol. Ty jim však rozměrově ani časově nestačí.
 
@@ -29,7 +29,7 @@ Florbalisté ani volejbalisté ale nevidí Jízdárnu jako vhodnou halu, a to an
 
 Proti případnému odkupu a zprovoznění jsou i basketbalisté, kteří se loni i kvůli nedostatku nových hráčů rozpadli a dnes už žádný jejich klub v Boskovicích neexistuje. „Vzhledem ke stavebním úpravám, které zlikvidovaly zázemí haly, jsem proti,“ řekl bývalý basketbalista Daniel Slámka. Podobně hovoří i jiný bývalý basketbalista a současný místostarosta Boskovic Petr Malach (ČSSD). „Už za mého působení byla v hale vlhkost, nefungovalo topení, světelná tabule a další drobnosti. Další otázkou je pro mě řešení šaten, protože šatnová část byla prodána soukromníkovi. Jak by to bylo řešeno?“ ptá se. „To je pravda. Je tam ale prostor pro dostavbu zázemí,“ sdělil Martin Pavlica, makléř, který Jízdárnu městu nabízel. Zároveň také říká, že chápe rozhodnutí města stavět velkou halu. „Nicméně si nemyslím, že sama bude stačit pro všechny sportovce. Jízdárna by mohla sloužit pro tréninky,“ doplnil.
 
-<img src="http://i.imgur.com/gT7a2Xq.jpg" alt="atletická dráha v Červené zahradě" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/gT7a2Xq.jpg" alt="atletická dráha v Červené zahradě" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Hala mimo diskuzi. Řeší se atletická dráha
 
@@ -41,7 +41,7 @@ Pozemek zmíněného Jana Paroulka, který je potřeba na atletický ovál, je p
 
 Navíc říká, že mu radnice slíbila zaslat studie, aby s nimi mohl pracovat, dodnes se tak ale podle jeho slov nestalo. Možná i proto, že radnice stále nemá jasno, zda jeho pozemek skutečně odkoupí. Sám Paroulek ale ustoupil z jedné věci. Předloni v létě ještě nechtěl nic slyšet o možném prodeji části pozemku po bývalém lihovaru, jak uvažovalo vedení města. Dnes už tuto možnost připouští, protože počítá s tím, že část pozemku kolem Velenu, který také vlastní, použije v budoucnu na výstavbu parkoviště.
 
-<img src="http://i.imgur.com/e9BOagJ.jpg" alt="Červená zahrada" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="http://i.ohlasy.info/e9BOagJ.jpg" alt="Červená zahrada" class="img-responsive img-popup" data-author="Marek Osouch">
 
 ### Ovál by byl jen pro okresní soutěže
 

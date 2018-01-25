@@ -1,14 +1,14 @@
 ---
 title: Vyjednávání o jízdárně se neposunula. Vše směřuje k hale v Červené zahradě
 perex: O osudu haly se má rozhodnout na prosincovém zastupitelstvu. Zatím nic nenasvědčuje tomu, že by poslední zvažovaná varianta u ZŠ Sušilova mohla zvítězit.
-cover-photo: https://i.imgur.com/6vXCA7ml.jpg
+cover-photo: http://i.ohlasy.info/6vXCA7ml.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Zastupitelé v září uložili starostce Boskovic Haně Nedomové (ČSSD), aby dál jednala o ceně za možný odkup jízdárny. Za dva měsíce se ale konalo pouze jedno jednání a vlastně bez konkrétního výsledku. Do prosincového zastupitelstva, kdy se má rozhodnout, už ani další nebude. Zdá se tak, že vedení města variantu výstavbu haly na Sušilově zcela opustilo.*
 
-{% photo src="https://i.imgur.com/6vXCA7m.jpg" caption="Jízdárna" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/6vXCA7m.jpg" caption="Jízdárna" author="Tomáš Trumpeš" %}
 
 Kde bude v Boskovicích sportovní hala? Od nástupu současné boskovické koalice je to otázka, která se stále nevyřešila. Před dvěma lety sice zastupitelé přijali usnesení, že má být hala v Červené zahradě, letos se ale i přes toto prohlášení začala prověřovat [lokalita u základní školy Sušilova](http://www.ohlasy.info/clanky/2017/05/hala-susilova.html), kde by hala měla vzniknout za cenu zbourání dvou stávajících školních tělocvičen.
 

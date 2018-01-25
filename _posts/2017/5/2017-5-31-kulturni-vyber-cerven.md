@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na červen
-cover-photo: http://i.imgur.com/WaCklHWl.jpg
+cover-photo: http://i.ohlasy.info/WaCklHWl.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="http://i.imgur.com/WaCklHW.jpg" caption="Laco Déczi v pražské Lucerně v roce 1982" author="Gampe, Wikimedia Commons" %}
+{% photo src="http://i.ohlasy.info/WaCklHW.jpg" caption="Laco Déczi v pražské Lucerně v roce 1982" author="Gampe, Wikimedia Commons" %}
 
 ### Koncert Symfonického orchestru města Boskovice
 

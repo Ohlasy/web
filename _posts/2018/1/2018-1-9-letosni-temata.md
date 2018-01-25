@@ -1,14 +1,14 @@
 ---
 title: Očekávaná témata roku 2018
 perex: Jsou témata, u kterých předem očekáváme, že bude důležité je v následujícím roce sledovat, a lze předpokládat, že budou i nadále budit zájem nás novinářů i vás čtenářů. Která témata to jsou a jaké otázky u nich vyvstávají?
-cover-photo: https://i.imgur.com/llLEzgol.jpg
+cover-photo: http://i.ohlasy.info/llLEzgol.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Při ohlížení za uplynulým rokem nezbývá v novinách stejně jako v životě než konstatovat, že řadu témat a událostí bychom předem nedokázali či nemohli předpokládat. Jsou však také témata, u kterých předem očekáváme, že bude důležité je v následujícím roce sledovat, a lze předpokládat, že budou i nadále budit zájem nás novinářů i vás čtenářů. Která témata to jsou a jaké otázky u nich vyvstávají?*
 
-{% photo src="https://i.imgur.com/llLEzgo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/llLEzgo.jpg" author="Tomáš Znamenáček" %}
 
 ### 1. Komunální volby
 

@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Edmund Eysler – Vídeňák s boskovickými kořeny"
 perex: Helena Janíková píše o další zajímavé osobnosti, jejíž rodové kořeny vedou do boskovického ghetta. Tentokrát je to proslulý vídeňský bonviván a především talentovaný skladatel Edmund Eysler.
-cover-photo: https://i.imgur.com/6kYMNCsl.jpg
+cover-photo: http://i.ohlasy.info/6kYMNCsl.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *Když jsem před časem provázela po boskovické židovské čtvrti skupinu vídeňských seniorů, jednoznačně největší úspěch v celém mém povídání sklidila zmínka o Edmundu Eyslerovi. Při vyslovení jeho jména se milí Vídeňáci doslova rozzářili a horlivě začali fotit dům č. 12 na Plačkově ulici, kde se Edmund, žel, ani nenarodil, ani zde nežil, dokonce ani neumřel (to vše absolvoval ve své milované Vídni), ale měl v tomto domě své domovské právo. Aspoň že tak.*
 
-{% photo src="https://i.imgur.com/6kYMNCs.jpg" caption="Edmund Eysler" %}
+{% photo src="http://i.ohlasy.info/6kYMNCs.jpg" caption="Edmund Eysler" %}
 
 Veskrze pozitivní reakce rakouských návštěvníků mne přesvědčila o tom, že Edmund Eysler, tento kdysi proslulý vídeňský bonviván a veliký hýřil, především ovšem znamenitý muzikant a talentovaný skladatel, se v hlavním městě Rakouska těší stále značné oblibě. Ostatně svědčí o tom například pamětní deska na jeho rodném domě na Thelemangasse či busta v parku Schönborn anebo také náhrobek na místě posledního odpočinku Edmunda Eyslera na Centrálním hřbitově ve Vídni.
 

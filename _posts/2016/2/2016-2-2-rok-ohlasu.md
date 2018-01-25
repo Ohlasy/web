@@ -15,7 +15,7 @@ V prvním roce Ohlasů vás ze všeho nejvíc zaujaly dva texty, které se znač
 
 Druhým textem, který se setkal s nebývalým čtenářským ohlasem, byl [rozhovor s vegankou Jitkou Urbanovou](/clanky/2015/02/rozhovor-jitka-urbanova.html). Důležité to pro nás bylo i proto, že to byl jeden z prvních publikovaných textů, takže nás jeho úspěch povzbudil do další práce v době, kdy jsme ještě zdaleka netušili, jestli o působení našich novin bude vůbec dostatečný zájem.
 
-<img src="http://i.imgur.com/xGxH5SH.png" alt="návštěvnost webu, graf" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/xGxH5SH.png" alt="návštěvnost webu, graf" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček">
 
 Žebříček deseti nejčtenějších článků vypadá po roce fungování Ohlasů takto:
 
@@ -40,7 +40,7 @@ V záři nejvíce zaujala [reportáž Tomáše Znamenáčka](/clanky/2015/09/rep
 
 Prosincové zastupitelstvo odstartovalo také diskusi, která se stala dominantním tématem prvního měsíce roku 2016: a to je [boskovická knihovna](/clanky/2016/01/knihovna.html) a její možné [umístění do budovy bývalého ZZN](/clanky/2016/01/budova-zzn.html), kde nyní sídlí Mountfiled a Idyla. Zaujalo vás ovšem i téma dopravy ve městě, které jsme nejprve využili pro [humorný mystifikační silvestrovský článek](/clanky/2015/12/silvestrovske-reseni-parkovacich-mist.html), avšak poté i k [seriózní úvaze](/clanky/2016/01/doprava-ve-meste.html).
 
-<img src="http://i.imgur.com/nd78pJZ.png" alt="čas strávený nad články, graf" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/nd78pJZ.png" alt="čas strávený nad články, graf" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček">
 
 ### Rozhovory, komentáře a seriály
 

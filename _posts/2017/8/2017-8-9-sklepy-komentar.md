@@ -1,14 +1,14 @@
 ---
 title: Další provoz klubu Sklepy by mělo aktivně podpořit město
 perex: Konec hudebního klubu Sklepy představuje pro boskovickou kulturní scénu velmi podstatnou ztrátu. Nezasloužily by si tedy Sklepy aktivnější podporu ze strany města?
-cover-photo: http://i.imgur.com/o39Rx9Ll.jpg
+cover-photo: http://i.ohlasy.info/o39Rx9Ll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
 *Konec hudebního klubu Sklepy představuje pro boskovickou kulturní scénu velmi podstatnou ztrátu. Neformální místo pro živé koncerty, zázemí pro studentský filmový klub a také živelné prostředí pro přirozený kulturní kvas – to vše bere nenahraditelně za své. Tedy pokud se nenajde někdo, kdo štafetu převezme. Pokud se najde, měl by se dočkat také podpory města.*
 
-{% photo src="http://i.imgur.com/o39Rx9L.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/o39Rx9L.jpg" author="Tomáš Znamenáček" %}
 
 Udržet klub ve městě velikosti Boskovic je záměr mírně řečeno obtížný. V dnešní době možná ještě o něco obtížnější než v časech, kdy Sklepy zažívaly svou největší slávu. Provozovatelů už by se za těch pár desetiletí napočítalo hodně, každý z nich si jistě zažil spoustu strastí a nejistoty, proto jim všem patří společně s [poslední bojovnicí Lenkou Pětovou](http://www.ohlasy.info/clanky/2017/07/konec-sklepu.html) poděkování a respekt.
 

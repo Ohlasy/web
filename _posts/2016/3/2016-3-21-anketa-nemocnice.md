@@ -32,7 +32,7 @@ Neblahá situace postihující celé české zdravotnictví v podobě nedostatku
 
 ---
 
-<img src="http://i.imgur.com/jRb7aEt.png" class="profile-picture" alt="František Jimramovský">
+<img src="http://i.ohlasy.info/jRb7aEt.png" class="profile-picture" alt="František Jimramovský">
 
 **František Jimramovský, zastupitel za Sportovce, bývalý primář dětského oddělení nemocnice a bývalý generální ředitel IN Boskovice**
 

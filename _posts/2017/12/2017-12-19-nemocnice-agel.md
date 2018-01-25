@@ -1,14 +1,14 @@
 ---
 title: Firma Agel chce provozovat boskovickou nemocnici
 perex: Zájem o provoz Nemocnice Boskovice projevila firma Agel, jedna z největších společností, která podniká ve zdravotnictví nejen v Česku, ale v celé střední Evropě. Zastupitelé si její nabídku vyslechnou nejspíš už v únoru.
-cover-photo: https://i.imgur.com/jgEa7dil.jpg
+cover-photo: http://i.ohlasy.info/jgEa7dil.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Zájem o provoz Nemocnice Boskovice projevila firma Agel miliardáře Tomáše Chrenka; jedna z největších společností, která podniká ve zdravotnictví nejen v Česku, ale v celé střední Evropě. Zastupitelé si její nabídku vyslechnou nejspíš už v únoru.*
 
-{% photo src="https://i.imgur.com/jgEa7di.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/jgEa7di.jpg" author="Tomáš Znamenáček" %}
 
 Místo Jihomoravského kraje soukromá firma? [Odmítnutí převodu městské nemocnice v Boskovicích](http://www.ohlasy.info/clanky/2017/10/nemocnice-zustane.html) pod Jihomoravský kraj právě ze strany kraje využila soukromá firma Agel. Boskovickým zastupitelům poslala začátkem prosince dopis s tím, že by se jim ráda představila.
 

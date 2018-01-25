@@ -1,14 +1,14 @@
 ---
 title: Vyhláška o nočním klidu je v Boskovicích podle úředníků zbytečná
 perex: Kdy v Boskovicích platí noční klid, kdy musí pořadatelé veřejných akcí žádat o povolení a jak se věci mění s poslední novelou zákona o přestupcích?
-cover-photo: http://i.imgur.com/dLl9O5Zl.jpg
+cover-photo: http://i.ohlasy.info/dLl9O5Zl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Města a obce po celém Česku přijímají postupně vyhlášky, které vymezují, které konkrétní dny bude zrušen noční klid kvůli různým společenským akcím. V Boskovicích, které každý rok žijí řadou kulturních akcí včetně festivalu i v pozdních nočních hodinách, se ale nic podobného nepřipravuje.*
 
-{% photo src="http://i.imgur.com/dLl9O5Z.jpg" caption="Noční provoz na ulici Hradní o festivalu" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/dLl9O5Z.jpg" caption="Noční provoz na ulici Hradní o festivalu" author="Tomáš Znamenáček" %}
 
 Je to pět let, co se bývalé vedení města rozhodlo přijmout vyhlášku o omezení provozu boskovických restaurací a nočních klubů. Důvodem byly opakované stížnosti na hluk a rušení nočního klidu, především kolem občerstvení Brutus v ulici Antonína Trapla. Vyhlášku, která strhla proti městu jak provozovatele restaurací, tak část obyvatel, nakonec zastupitelé brzy zrušili.
 

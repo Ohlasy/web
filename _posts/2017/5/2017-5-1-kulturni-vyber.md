@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na květen
-cover-photo: http://i.imgur.com/4XGRFtdl.jpg
+cover-photo: http://i.ohlasy.info/4XGRFtdl.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="http://i.imgur.com/4XGRFtd.jpg" caption="Jaroslav „Achab“ Haidler na loňské prohlídce židovského hřbitova" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/4XGRFtd.jpg" caption="Jaroslav „Achab“ Haidler na loňské prohlídce židovského hřbitova" author="Tomáš Znamenáček" %}
 
 ###  Katie Bradley Band
 

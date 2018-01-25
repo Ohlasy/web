@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Portrét šlechtice"
 perex: Jan Křtitel Leopold z Dietrichsteina (1703–1773), majitel boskovického panství v letech 1738–1773, byl po celý život spíše ve stínu svého staršího bratra, přesto rozhodně nebyl méně zajímavý. Jeho fyzickou podobu nám přibližuje olejomalba ve sbírce Muzea regionu Boskovicka.
-cover-photo: http://i.imgur.com/lhlKNeUl.jpg
+cover-photo: http://i.ohlasy.info/lhlKNeUl.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
@@ -16,7 +16,7 @@ Janu Leopoldovi se dostalo stejného vzdělání jako jeho staršímu bratru Kar
 
 Dva roky strávili na univerzitě v Salzburgu – o náročnosti jejich programu svědčí tento denní rozvrh: 6.00 – budíček; 7.00 – opakování kanonického práva; 8.00 – tělesná cvičení, šerm, jízda; 9.00 – mše; 10.00 – přednášky; 11.00 – oběd; 13.00 – studium; 15.00 – opakování civilního práva; 17.00 – hudební cvičení; 18.00 – studium; 19.00 – večeře; 21.00 – spánek.  Dále pobývali v Leidenu, Lovani navštívili Brusel a Paříž, v Remeši se účastnili korunovace Ludvíka XV. v říjnu 1722. Rok pobyli v Lotrinsku, navštívili Lyon a přes Alpy a Apeninský poloostrov – Turín, Miláno, Janov Benátky, Bolognu a Řím – se vrátili do Mikulova. Kavalírská cesta obou bratrů byla dosti nákladná záležitost, za stejnou sumu se dal pořídit dům ve Vídni. Byla však nezbytná pro další jejich kariéru.
 
-<img src="http://i.imgur.com/nIbr3wN.jpg" alt="Portrét Jana křititele Leopolda z Diestrichsteina" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
+<img src="http://i.ohlasy.info/nIbr3wN.jpg" alt="Portrét Jana křititele Leopolda z Diestrichsteina" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
 
 Po smrti jejich otce Waltera Xavera (zemřel 3. listopadu 1738) byl rodový majetek rozdělen na primogeniturní, kterého se ujal starší z bratrů Karel Maxmilián, a sekundogeniturní, který připadl mladšímu Janu Leopoldovi; sem náležela panství Boskovice, Malé Hradisko, Sokolnice, Lysice a Drnovice, menší palác v Brně a další dva domy ve městě. Z rodiny žily ještě dvě jejich sestry Marie Josefa Antonie provdaná za hraběte Kinského a Marie Aloisie provdaná za hraběte Althana.
 

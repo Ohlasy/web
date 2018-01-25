@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Sport, kino a nemocnice"
 perex: Na únorovém zastupitelstvu se probírala zejména rekonstrukce letního kina, sportpark, demolice Dvořáčkova mlýna a personální situace v boskovické nemocnici.
-cover-photo: http://i.imgur.com/svvbHi2l.jpg
+cover-photo: http://i.ohlasy.info/svvbHi2l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Třináctá schůze boskovického zastupitelstva se konala v úterý posledního února. Úvod zasedání se obešel bez jakýchkoliv dotazů a připomínek občanů. Zastupitelská diskuse postupně gradovala, zejména kvůli dalším nákladům spojenými s rekonstrukcí letního kina, výstavbou sportparku a demolicí mlýna v Červené zahradě. Poněkud bizarně se pak zastupitelstvem vinulo téma pověření zastupitelů pro vykonávání pravomoci oddávajícího.*
 
-<img src="http://i.imgur.com/svvbHi2.jpg" alt="zasedání zastupitelstva Boskovic" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="http://i.ohlasy.info/svvbHi2.jpg" alt="zasedání zastupitelstva Boskovic" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 ### Rozdělení peněz pro sportovce
 

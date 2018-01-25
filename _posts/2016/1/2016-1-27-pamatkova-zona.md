@@ -29,6 +29,6 @@ Městská památková zóna by ovšem potřebovala investice za další desítky
 
 Za Městskou památkovou zónu bylo historické jádro Boskovic včetně náměstí, zámku, rezidence, bývalého kláštera, skleníku, hradu a torza židovského ghetta se synagogou prohlášeno v listopadu 1990. MPZ zahrnuje téměř 40 nemovitostí vedených v Ústředním seznamu kulturních památek.
 
-<img src="http://i.imgur.com/IDiQs12.png" alt="mapa městské památkové zóny" class="img-responsive img-popup" data-author="Mapy.cz">
+<img src="http://i.ohlasy.info/IDiQs12.png" alt="mapa městské památkové zóny" class="img-responsive img-popup" data-author="Mapy.cz">
 
 Městská památková zóna je vymezena od západu ulicí Antonína Trapla, horní částí ulice Komenského, náměstím Dr. Snětiny, ulicí kpt. Jaroše a ul. Sušilovou. Dále hranice vede východně od rezidence po budovu panského dvora včetně jízdárny, kopíruje linii zámeckého parku až k silnici v Pilském údolí. Dále vede po této silnici až k mostu, odtud přímo na sever lesem k hradu. Od hradu po hřebenu kopce a Oborou na úroveň konce zámeckého parku. Dále hranici tvoří zeď zámeckého parku až po ulici Pod Klášterem, odtud na západ ulicemi Pod Klášterem, Velenova, Joštova. Západní hranici tvoří pozemky následujících domů (včetně): Bílkova 17, 26, U Koupadel 8, které navazují na ulici Antonína Trapla.

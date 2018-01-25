@@ -1,7 +1,7 @@
 ---
 title: Nemocnice řeší nákup přístrojů a zřídí babybox
 perex: Na průčelí boskovické nemocnice přibude babybox. O 80 milionů žádá nemocnice na ministerstvu na nákup přístrojů, kterým postupně končí životnost.
-cover-photo: http://i.imgur.com/IXp6DrIl.jpg
+cover-photo: http://i.ohlasy.info/IXp6DrIl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Na průčelí boskovické nemocnice přibude babybox – tedy zařízení pro odložené děti. Blanensko je poslední okres Jihomoravského kraje, kde dosud není. O 80 milionů žádá také nemocnice na ministerstvu na nákup přístrojů, kterým postupně končí životnost. Ty nejnutnější nakupuje už dnes.*
 
-{% photo src="http://i.imgur.com/IXp6DrI.jpg" caption="Vizualizace umístění babyboxu na budově nemocnice" author="Město Boskovice" %}
+{% photo src="http://i.ohlasy.info/IXp6DrI.jpg" caption="Vizualizace umístění babyboxu na budově nemocnice" author="Město Boskovice" %}
 
 „Zřizování babyboxů je současný trend, který je celospolečensky chápán jako jistá forma pomoci v tíživé životní situaci osobám, které se z různých důvodů nemohou postarat o narozené dítě,“ vysvětluje radnice, která jako vlastník nemocnice udělila se zřízením babyboxu souhlas. 
 

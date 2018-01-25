@@ -1,13 +1,13 @@
 ---
 title: "Pokud budeme bourat stavby jako Dvořáčkův mlýn, co nám zbude?"
-cover-photo: https://i.imgur.com/y8Wb2ijl.jpg
+cover-photo: http://i.ohlasy.info/y8Wb2ijl.jpg
 author: Ondřej Fiala
 category: názory a komentáře
 ---
 
 *Svůj pohled na plán zbourat Dvořáčkův mlýn nabízí náš čtenář Ondřej Fiala. Pokud zastupitelé rozhodnou o stavbě haly v Červené zahradě, bourání mlýna bude znovu aktuální.*
 
-{% photo src="https://i.imgur.com/y8Wb2ij.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/y8Wb2ij.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" %}
 
 Ať přemýšlím, jak přemýšlím, stále mi uniká důvod, proč by měl být Dvořáčkův mlýn zbourán. 
 

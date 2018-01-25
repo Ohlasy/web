@@ -1,14 +1,14 @@
 ---
 title: „Řešit dnes v sedmnácti letech nějakou prevenci nejde, už jenom hasíš.“
 perex: Rozhovor s Pavlem Kratochvilem, ředitelem letovické obecně prospěšné společnosti ELIM, která před rokem otevřela v boskovickém Majáku volnočasový klub pro děti.
-cover-photo: https://i.imgur.com/sQvMKMvl.jpg
+cover-photo: http://i.ohlasy.info/sQvMKMvl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor s Pavlem Kratochvilem, ředitelem letovické obecně prospěšné společnosti ELIM, která před rokem otevřela v boskovickém Majáku volnočasový klub pro děti. V Letovicích už podobný klub provozuje přes pět let v prostorách Církve bratrské, ze které ELIM vzešel.*
 
-{% photo src="https://i.imgur.com/sQvMKMv.jpg" caption="Pavel Kratochvil" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/sQvMKMv.jpg" caption="Pavel Kratochvil" author="Tomáš Trumpeš" %}
 
 **Oslavili jste první rok fungování boskovického klubu. Jak ten rok hodnotíte?**
 
@@ -40,7 +40,7 @@ První rok byl i v tomhle trochu zkušební, i pan majitel Mazáč si musel zvyk
 
 Pro nás by bylo samozřejmě nejsnazší, kdyby zde měly děti zájem být jen tak. To je sen každého sociálního pracovníka, že dělá jen takový dohled. Ale děti, možná kupodivu, chtějí mít věci hodně organizované. Přijdou sem a jsou hrozně rádi, když je nachystaný třeba nějaký turnaj. Nebo se sejde skupina od 12 do 16 let, holky a kluci z různých škol, kteří by se spolu normálně ani nebavili, ale tady jsou schopni se domluvit, že chtějí třeba hrát schovku potmě. Prostor je tady velký a členitý, takže pozhasínáme a hraje se. Nebo hrajeme městečko Palermo a podobně. Vnímám, že mají moc rádi, když je nějaká společná organizovaná hra či aktivita.
 
-{% photo src="https://i.imgur.com/w4RhT0p.jpg" caption="Zahajovací párty Plánu B v srpnu 2016" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/w4RhT0p.jpg" caption="Zahajovací párty Plánu B v srpnu 2016" author="Tomáš Znamenáček" %}
 
 **Takže ta představa, že děti dnes chtějí jen sedět na gauči a ťukat do mobilu, je mylná?**
 
@@ -110,7 +110,7 @@ Přesně tak. Musíš být velmi opatrný a nesmíš útočit. Když to řeknu n
 
 Předevčírem oslavil osmnáctiny klučina, který je dnes náš nejvytíženější polovedoucí, dobrovolník. Jezdí nám pomáhat i sem do Boskovic. Studuje střední školu. Je to kluk ze sociálně velmi problematické rodiny a před pěti lety, když jsme začínali v Letovicích, tak nám vykradl kancelář. Vzali nám s bráchou i hodně peněz, řešila to policie, našli je. Nezlomili jsme nad ním ale hůl. Byly různé výkyvy, třeba půl roku jsme o něm nevěděli, snažili jsme se ho ale kontaktovat, mluvit s ním o těch věcech, byl to náš kámoš. Dnes je to jeden z našich nejspolehlivějších dobrovolníků. Tohle je asi největší posun, ale není to jediný případ. Chce to zkrátka čas.
 
-{% photo src="https://i.imgur.com/8Q8BYHJ.jpg" caption="Zahajovací párty Plánu B v srpnu 2016" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/8Q8BYHJ.jpg" caption="Zahajovací párty Plánu B v srpnu 2016" author="Tomáš Znamenáček" %}
 
 **Zapojujete tedy děti i do práce klubu?**
 

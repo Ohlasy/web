@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Boskovický rodák Max Breda a historie jedné kulturní památky"
 perex: Věděli jste, že známý opavský obchodní dům Breda, mimořádné architektonické dílo, se jmenuje podle židovského obchodníka Maxe Bredy, původem z Boskovic?
-cover-photo: http://i.imgur.com/HtBBhvC.png
+cover-photo: http://i.ohlasy.info/HtBBhvC.png
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *Moje dnešní vyprávění se bude od těch předchozích poněkud lišit. Nechám protentokrát stranou knihy Jaroslava Bránského a zaměřím svou pozornost na člověka, který se sice v Boskovicích narodil, hlubší stopu zde však nezanechal. Značnou část svého života prožil ve městě, které je mně osobně obzvláště drahé a blízké, je to má rodná bílá Opava. Ve svém dětství a raném mládí jsem jméno Breda používala zcela běžně a samozřejmě, stejně jako všichni Opavané, aniž bych ovšem tušila, kdo tento Breda vlastně byl.*
 
-{% photo src="http://i.imgur.com/HtBBhvC.png" caption="Obchodní dům Breda v Opavě" author="archiv autorky" %}
+{% photo src="http://i.ohlasy.info/HtBBhvC.png" caption="Obchodní dům Breda v Opavě" author="archiv autorky" %}
 
 Abych v tom udělala jasno – v Opavě se odjakživa chodilo nakupovat „do Bredy“, tedy do velkého obchodního domu, který mne jako dítě fascinoval svou monumentálností a úchvatnou kopulí, před Vánocemi pak bezkonkurenčně velkolepým vánočním stromem. Kdo tedy byl onen Breda, jehož jméno je s opavským obchodním domem tak neodmyslitelně spjato?
 
@@ -17,11 +17,11 @@ Max Breda se narodil 22. 9. 1863 v Boskovicích v rodině židovského obchodní
 
 V manželství se narodilo celkem 5 dětí: Erich (1897), Irena (1899), Leo (1900), Paul (1902) a Jan (1904). Teprve po narození posledního dítěte získal Max Breda v Opavě domovské právo. Všichni Bredovi synové studovali, Erich se stal inženýrem, Paul pracoval v rodinné firmě, o dalších dětech se zprávy nezachovaly. Navzdory hmotnému zajištění rodině nebylo dopřáno štěstí. Max i Olga byli dosti vážně nemocní, Olga trpěla chronickým zánětem srdečního svalu a Max arteriosklerózou. Olga zemřela 30. 6. 1906 ve věku 33 let a Max se pak staral o svých pět nezaopatřených dětí se svou ovdovělou sestrou Terezou. Po osmi letech umírá také Max na srdeční infarkt ve věku 51 let, pohřben byl 27. října 1914 v židovském sektoru opavského městského hřbitova, rodinná hrobka zde stojí dodnes.
 
-{% photo src="http://i.imgur.com/gE6f4am.jpg" caption="Obchodní dům Breda v roce 2007" author="Wikimedia Commons" %}
+{% photo src="http://i.ohlasy.info/gE6f4am.jpg" caption="Obchodní dům Breda v roce 2007" author="Wikimedia Commons" %}
 
 Za svého života Max Breda v Opavě proslul jako úspěšný obchodník. Vrcholu svých podnikatelských aktivit dosáhl ve spolupráci se svým židovským souvěrcem Davidem Weinsteinem, se kterým založil k 1. 1. 1898 veřejnou obchodní společnost Breda et Weinstein za účelem provozování obchodu se střižním, pleteným a galanterním zbožím se sídlem v Opavě. Postupně zřídili další filiálky v Adelsdorfu, Vídni, Kravařích a Solingenu. Nutno poznamenat, že Max Breda k 31. 12. 1910 odstoupil z podnikání pro nemoc, ale vymínil si zachování názvu firmy a podíl pro své syny. Jeho společník David Weinstein, který ovšem v této dvojici byl vždy ten zámožnější a výraznější, se tak stal jediným majitelem firmy. Velkou část bohatství přinesla Davidovi jeho žena Irma, s níž měl jediného syna Roberta. Na podzim roku 1938 rodina opustila Opavu a přestěhovala se do Prahy. Víru v možnost dalšího důstojného života ztratili manželé Weinsteinovi po nacistické okupaci v březnu roku 1939 a v srpnu téhož roku pak zvolili dobrovolný odchod ze světa. Robertovi se podařilo uprchnout do Norska, zde byl nacisty zatčen a uvržen do koncentračního tábora v Osvětimi, kde zahynul. Tak smutně se uzavřel životní příběh dvou opavských židovských podnikatelských rodin, jejich jména však rozhodně nezůstala zapomenuta.
 
-{% photo src="http://i.imgur.com/drOZbPF.jpg" caption="Max Breda a David Weinstein" author="archiv autorky" %}
+{% photo src="http://i.ohlasy.info/drOZbPF.jpg" caption="Max Breda a David Weinstein" author="archiv autorky" %}
 
 V Opavě svou nesmazatelnou stopu zanechal David Weinstein především výstavbou obchodního domu Breda et Weinstein, který nechal vybudovat v letech 1928–1929 vídeňským architektem Leopoldem Bauerem. Tento krnovský rodák se nechal inspirovat zejména americkou moderní architekturou, kterou organicky kombinoval s vhodně zvolenými prvky historismu, s důrazem na gotiku. V Opavě tak vzniklo zcela mimořádné architektonické dílo, které ve své době nemělo v Československu obdoby. Se svými osmi podlažími (k prodeji ovšem sloužila jen tři) a více než 1500 metry čtverečnými zastavěné plochy to byl tehdy největší československý obchodní dům; své prvenství si zachoval až do 60. let minulého století.
 

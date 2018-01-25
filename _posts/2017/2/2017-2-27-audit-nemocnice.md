@@ -1,6 +1,6 @@
 ---
 title: Rok od auditu v nemocnici jsou jeho výsledky stále utajené
-cover-photo: http://i.imgur.com/IHq218Rl.jpg
+cover-photo: http://i.ohlasy.info/IHq218Rl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice politika
@@ -8,7 +8,7 @@ tags: nemocnice politika
 
 *Před rokem zadala dozorčí rada boskovické nemocnice zpracovat audit finančního hospodaření nemocnice. Od té doby ale nikdo nezveřejnil žádné výsledky, i když už dávno existují.*
 
-<img src="http://i.imgur.com/IHq218R.jpg" alt="Nemocnice Boskovice" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="http://i.ohlasy.info/IHq218R.jpg" alt="Nemocnice Boskovice" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Jak se tedy celý audit vyvíjel a budou někdy známé jeho výsledky, [když audit dokonce prověřuje policie](http://www.ohlasy.info/clanky/2016/12/dalsi-trestni-oznameni.html)?
 

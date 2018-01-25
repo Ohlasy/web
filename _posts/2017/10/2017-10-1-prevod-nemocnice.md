@@ -1,7 +1,7 @@
 ---
 title: Vedení města chce převést nemocnici na Jihomoravský kraj
 perex: Město už nemocnici nechce provozovat, a dokonce se bojí, že by se pod ním mohla zavřít.
-cover-photo: https://i.imgur.com/8Ly0U4el.jpg
+cover-photo: http://i.ohlasy.info/8Ly0U4el.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Dopis s jasnou nabídkou přišel před několika týdny na Jihomoravský kraj. Vedení Boskovic v něm nabízí kraji ke zvážení převod boskovické nemocnice právě na něj. Město už ji nechce provozovat, a dokonce se bojí, že by se pod ním mohla zavřít.*
 
-{% photo src="https://i.imgur.com/8Ly0U4e.jpg" caption="Nemocnice Boskovice" author="Marek Osouch" %}
+{% photo src="http://i.ohlasy.info/8Ly0U4e.jpg" caption="Nemocnice Boskovice" author="Marek Osouch" %}
 
 „Nechtěli byste provozovat boskovickou nemocnici?“ I tak by se dal shrnout dopis, který vedení Boskovic v nedávné době poslalo do sídla Jihomoravského kraje. „V současné době proběhlo pět jednání na Jihomoravském kraji. Jednoho se zúčastnili zástupci jednotlivých koaličních partnerů. Proběhlo i jednání zástupců kraje v nemocnici. Seznamovali jsme je se situací a chceme vědět, zda je kraj ochoten jednat o možnostech převodu,“ přiblížila starostka Boskovic Hana Nedomová (ČSSD), která má ve své gesci právě zdravotnictví. Připravenost jednat o převodu nemocnice má boskovická koalice také ve svém programovém prohlášení.
 

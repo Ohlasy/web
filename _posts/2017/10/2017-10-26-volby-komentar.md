@@ -1,7 +1,7 @@
 ---
 title: Voličská revoluce se za rok může projevit i v komunálních volbách
 perex: Do jaké míry se nová politická mapa České republiky za rok promítne do komunálních voleb?
-cover-photo: https://i.imgur.com/llLEzgol.jpg
+cover-photo: http://i.ohlasy.info/llLEzgol.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Volby do Poslanecké sněmovny překreslily politickou mapu České republiky, jak zní jedna z hojně užívaných novinářských floskulí. Ano, změna je zřetelná a nespokojenost s dosavadní politikou vyjádřili voliči jasně. Do jaké míry má tato nespokojenost obecnější charakter a jak se promítne do komunálních voleb, uvidíme přesně za rok.*
 
-{% photo src="https://i.imgur.com/llLEzgo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/llLEzgo.jpg" author="Tomáš Znamenáček" %}
 
 Celostátní nálady se do komunální politiky přelévají různě, vždycky se ale přelévají. Ostatně ne nadarmo nám aktuálně v Boskovicích vládne koalice kopírující tu celostátní. Co udělá s místní politikou tak razantní zemětřesení, jakého jsme byli svědky (a strůjci) o minulém volebním víkendu, je těžké odhadovat. Otázek se ale nabízí hned několik:
 

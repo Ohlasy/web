@@ -10,7 +10,7 @@ tags:
 
 *Jak to bylo s pozemkem po lihovaru vedle hotelu Velen v blízkosti sportovního areálu? Měly Boskovice možnost tento pozemek odkoupit? Loni se o to současné vedení Boskovic snažilo. Redakce Ohlasů zapátrala až do začátku 90. let a má nyní k dispozici seznam majitelů, kteří pozemky po lihovaru od dob privatizace postupně vlastnili.*
 
-<img src="http://i.imgur.com/US3eOKR.png" alt="mapa pozemků" class="img-responsive img-popup" data-author="Mapy.cz">
+<img src="http://i.ohlasy.info/US3eOKR.png" alt="mapa pozemků" class="img-responsive img-popup" data-author="Mapy.cz">
 
 ### Rok 1994
 

@@ -1,7 +1,7 @@
 ---
 title: „Po dvou a půl letech už by vedení města mohlo vědět, co chce.“
 perex: Rozhovor s Pavlem Vlachem, předsedou boskovické TOP 09, opozičním zastupitelem a ředitelem VOŠ ekonomické a zdravotnické a SŠ.
-cover-photo: http://i.imgur.com/vQtanKal.jpg
+cover-photo: http://i.ohlasy.info/vQtanKal.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s Pavlem Vlachem, předsedou boskovické TOP 09 a opozičním zastupitelem. Se současným ředitelem VOŠ ekonomické a zdravotnické a SŠ, který dříve pracoval devět let jako tajemník boskovické radnice, jsme si povídali hlavně o jeho opozičním pohledu na současné vedení města a konkrétní záležitosti, které radnice dělá a připravuje.*
 
-{% photo src="http://i.imgur.com/vQtanKa.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/vQtanKa.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
 
 **Zdá se mi to, nebo jste jako TOP 09 na současné vedení města méně přísní než ODS a Sportovci?**
 
@@ -87,7 +87,7 @@ Ano, myslím si to. Dokonce mám informaci ze sociální demokracie – samozře
 
 Řeší. A to vidím jako velikánské plus. Byť projekt vznikl na začátku první vlády Jardy Dohnálka, ale nikdy nenašel peníze na to, aby odkanalizoval celou zadní část Boskovic. A teprve oni našli potřebných snad 18 milionů, aby to udělali a vyřešili asi třetinu Boskovic – z hlediska území, z hlediska počtu obyvatel to tolik nebude. Pokud byl ten projekt dobře spočítán, tak všechny ty průšvihy z kanalizací na území od ulice Kosmonautů dozadu, by se neměly nikdy opakovat. Ano, tohle je obrovský přínos. Ale ta zanedbanost je v řádu ne desítek, ale stovek milionů, musí se v tom pokračovat dál.
 
-{% photo src="http://i.imgur.com/Or2ioAK.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/Or2ioAK.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
 
 ### Tělocvična místo haly
 
@@ -115,7 +115,7 @@ Jako ředitel tenhle pocit tolik nemám. Ale jako kantorovi, který učil na Zel
 
 Nejen já. Bavil jsem se o tom i se sportovci. I oni říkají, že když už to dopadlo takhle, mohla by se tam postavit aspoň tělocvična, ať aspoň ty děti mají kde cvičit. Prostoru pro ně je tady objektivně málo.
 
-{% photo src="http://i.imgur.com/KdrGN0U.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/KdrGN0U.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
 
 ### Zklidnění vztahů v nemocnici
 
@@ -189,7 +189,7 @@ Chceme-li udělat halu, která bude velká a se zázemím, aby se aspoň trochu 
 
 Průšvih je, že se Dvořáčkův mlýn koupil za tyto peníze. Samotný nákup neodsuzuju, já jsem vždycky říkal, že pozemky na Červené zahradě je potřeba skoupit, aby se dal udělat ucelený sportovní areál. Možná před lety se to dalo koupit za tisícovku, dnes už to za takové peníze nikdo neprodá. Otázka je, jestli vyvinuli dostatečné úsilí, aby stlačili cenu. To nevím, u toho jsem nebyl, nikomu nepředhazuju, že to nezkoušel. Nicméně precedens tady je, nastavila se cena a velcí vlčáci už nikdy nepůjdou níž.
 
-{% photo src="http://i.imgur.com/siZN99r.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/siZN99r.jpg" alt="Pavel Vlach" author="Tomáš Znamenáček" %}
 
 ### Ukecávají mě, abych to zkusil
 

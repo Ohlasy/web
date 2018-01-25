@@ -1,14 +1,14 @@
 ---
 title: Městským architektem se stal Zdeněk Fránek
 perex: Boskovice mají nového městského architekta. Stal se jím místní rodák a renomovaný architekt Zdeněk Fránek.
-cover-photo: http://i.imgur.com/fTSUhrPl.jpg
+cover-photo: http://i.ohlasy.info/fTSUhrPl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Boskovice mají nového městského architekta. Stal se jím místní rodák a renomovaný architekt Zdeněk Fránek. Funkce se ujme v nejbližší době. Na svém prvním červnovém zasedání ho schválila městská rada.*
 
-{% photo src="http://i.imgur.com/fTSUhrP.jpg" caption="Architekt Zdeněk Fránek" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/fTSUhrP.jpg" caption="Architekt Zdeněk Fránek" author="Tomáš Znamenáček" %}
 
 „Předpokládáme, že smlouva bude podepsána v co nejkratší době a budeme s novým městským architektem spolupracovat již na všech investičních záměrech v oblastech, které nás trápí – jako je sportovní hala, knihovna nebo sokolovna,“ uvedla boskovická starostka Hana Nedomová (ČSSD).  Funkce městského architekta bude v Boskovicích externí.
 
@@ -32,7 +32,7 @@ Dnes už Zdeněk Fránek mluví o tom, že se podařila první a nejdůležitěj
 
 Výhodou je, že některé zásahy jsou vratné. Nevhodná okna se dají opět vyměnit, zateplení se dá oloupat. Celkově se však jedná o běh na dlouhou trať, náprava a proměna města bude trvat desítky let. Přesto má smysl se touto cestou vydat. Je to také věc neustálé veřejné diskuze. „Důležité je mít představu a jednotlivé lokality zpracovat. Když pak někdo přijde s požadavkem něco postavit, ukázat mu, jak to má vypadat. Všechno to bude trvat padesát let, ale co to je padesát let v dějinách města? Nachystat takto celé město, to je jediná možnost.“ 
 
-{% photo src="http://i.imgur.com/JeF3oKa.jpg" caption="Architekt Zdeněk Fránek na besedě v muzeu" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/JeF3oKa.jpg" caption="Architekt Zdeněk Fránek na besedě v muzeu" author="Tomáš Znamenáček" %}
 
 ### Příprava investic
 
