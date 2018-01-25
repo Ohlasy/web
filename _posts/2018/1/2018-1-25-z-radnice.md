@@ -7,6 +7,8 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedené města oznámilo po prvním letošním zasedání městské rady. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
+{% photo src="https://i.imgur.com/2WpwVLF.jpg" author="Tomáš Trumpeš" %}
+
 ### Výsledek hospodaření města za rok 2017
 
 Boskovice uzavřely své loňské hospodaření s ještě o něco lepším výsledkem, než se v závěru loňského roku předpokládalo. Konečný schodek za rok 2017 činí něco přes 14 milionů korun, přičemž úplně původně byl plánován na 65,5 milionů. V průběhu roku se ale odkládaly některé plánované investiční akce a také se navýšily příjmy města. Proto to vypadalo na dvacetimilionový schodek, nakonec je výsledek ještě o dalších 6 milionů příznivější. Je to však poprvé za současné koalice, kdy neskončilo hospodaření v plusu. Rada tak bude podle starostky Hany Nedomové (ČSSD) jednat o možném posílení některých položek v rozpočtu na rok 2018.
@@ -34,6 +36,8 @@ Také v letošním roce budou pokračovat farmářské trhy na náměstí. prob�
 ### Depozitáře na Havlíčkově ulici
 
 Jihomoravský kraj ustoupil od svého záměru vybudovat v budově bývalého oděvního učiliště na Havlíčkově ulici dům pro [komunitní bydlení seniorů a mladých rodin](http://www.ohlasy.info/clanky/2015/10/komunitni-dum-havlickova.html). Nyní kraj plánuje budovu rekonstruovat pro potřebu svých příspěvkových organizací, které sídlí na území města. Především by se mělo jednat o depozitáře pro boskovické muzeum, prostory by mohly využívat i střední školy. Městská rada tento záměr podpořila. „Využití objektu tímto způsobem je daleko lepší, než kdyby se objekt dostal do veřejné dražby,“ uvedla boskovická starostka.
+
+{% photo src="https://i.imgur.com/oixzJ0M.jpg" caption="Vizualizace rekonstruovaného parku u skleníku" %}
 
 ### Rekonstrukce parku u skleníku
 
