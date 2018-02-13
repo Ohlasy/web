@@ -22,7 +22,7 @@ why: A dummy header to make Jekyll process this file.
     {% assign politics = site.array %}
     {% assign featured = site.array %}
 
-    {% for post in site.posts | offset: 1 %}
+    {% for post in site.posts offset: 1 %}
         {% if post.category == 'rozhovory' %}
             {% assign interviews = interviews | push: post %}
         {% endif %}
@@ -52,14 +52,14 @@ why: A dummy header to make Jekyll process this file.
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <ol class="article-list">
-                {% for mostReadPost in site.data.nejctenejsi | limit: 5 %}
+                {% for mostReadPost in site.data.nejctenejsi limit: 5 %}
                     <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
                 {% endfor %}
                 </ol>
             </div>
             <div class="col-md-4 col-sm-6">
                 <ol class="article-list" start="5">
-                {% for mostReadPost in site.data.nejctenejsi | offset: 5 %}
+                {% for mostReadPost in site.data.nejctenejsi offset: 5 %}
                     <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
                 {% endfor %}
                 </ol>
