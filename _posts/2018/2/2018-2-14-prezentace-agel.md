@@ -1,6 +1,6 @@
 ---
 title: "Zastupitelé se seznámili s prezentací Agelu"
-perex: Ohlasy na neveřejné jednání zastupitelů a rozhovor se zástupcem Agelu
+perex: Ohlasy na neveřejné jednání zastupitelů a rozhovor s předsedou představenstva Agelu
 cover-photo: https://i.imgur.com/jgEa7dil.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
