@@ -19,6 +19,8 @@ Severní směr nelze zkrátit vůbec, protože mezi Kořencem a Boskovicemi se r
 
 „Je velice obtížné zkoordinovat stavební práce s provozem na této silnici. Město Boskovice se snaží v rámci jednání udělat maximum pro to, aby toto omezení zasáhlo do života města co nejméně. Ale ztížení dopravní dostupnosti, z důvodu nutnosti opravy této komunikace, nelze zabránit,“ uvedla boskovická místostarostka Dagmar Hamalová (KDU-ČSL).
 
+{% photo src="https://i.imgur.com/p1hBdPA.gif" caption="Teoretické možnosti objížďky v Boskovicích" author="Mapy.cz" %}
+
 V úvahu teoreticky přichází ještě dvě možnosti, jak si zkrátit objížďku kvůli zavřené Dukelské: jet přes menší most z žulových kostek na Bělskou ulici, mezi domy odbočit na polní cestu k ohradě s koňmi za Novibrou a zde se vydat po opravené cestě nahoru na Gagarinovu. Podobně se lze ke koním dostat i z druhé strany po polní cestě od Šmelcovny. O těchto možných cestách ví i na boskovické radnici a počítají, že po nich zřejmě budou lidi auty jezdit. „Sami jejich využití zvažujeme,“ řekla Dagmar Hamalová. Plánují proto výspravu polních cest a nejspíš i semafory na řízení provozu. Tato zkratka oproti oficiálním objízdným trasám by pomohla zejména obyvatelům Hrádkova a Vratíkova nebo i Valchova.
 
 Dukelská se bude opravovat od křižovatky u stacionáře Betany přes most až po splav na Bělé. Snadnou cestu ke svým domům tak nebudou mít ani lidé ze sousední Bělské ulice. „Pro místní občany a podnikatele bude dostupná na základě povolení k vjezdu, průjezdná bude také pro linkové autobusy,“ přiblížila místostarostka s tím, že povolenku dostane zhruba 170 domácností. Budou to obyvatelé Dukelské, Bělské, Podlesí a Milánov.
