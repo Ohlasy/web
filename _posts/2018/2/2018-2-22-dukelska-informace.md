@@ -16,12 +16,12 @@ tags: doprava
 
 ### Průjezd na povolenky
 
-* Oprava bude probíhat tak, aby ulice byla vždy na své jedné polovině průjezdná.
+* Oprava bude probíhat tak, aby ulice byla vždy na své jedné polovině průjezdná (s výjimkou jednoho víkendu).
 * Tento průjezd bude řízen semafory, využít ho budou moci autobusy veřejné dopravy a lidé, kteří obdrží povolenky.
 * Na povolenku budou mít nárok občané bydlící na ulicích Dukelská, Bělská, Podlesí, Milánovy a Na Hrázi.
 * Tito občané dostanou dvě povolenky na jednu domácnost (povolenka bude vázána na SPZ).
 * Povolenky nakonec budou dostávat i obyvatelé Hrádkova a Vratíkova, i ti získají dvě povolenky na domácnost.
-* S obyvateli Valchova a Ludíkova se teprve jedná.
+* Se starosty Valchova a Ludíkova se teprve jedná.
 * Chataři budou povolenky dostávat na základě listu vlastnictví (doporučuje se přijít pro povolenku s vytištěným listem vlastnictví), na jeden list dostanou povolenku pro jedno auto.
 * Při žádosti o povolenku je třeba se prokázat občanským průkazem, kde je uvedeno trvalé bydliště, případně nájemní smlouvou, a malým technickým průkazem.
 * V případě, že nemovitost v lokalitě lidé pouze vlastní, ale nemají zde trvalé bydliště, bude toto při vydávání povolenky dohledáno v katastru.
@@ -35,7 +35,7 @@ tags: doprava
 * Na povolenku dosáhnou hosté ubytovaní v hotelu Lasákův mlýn, běžní návštěvníci ale budou muset využít objízdné trasy.
 * Tranzitní dopravě nebude průjezd stavbou umožněn.
 * Autobusová zastávka u kapličky nebude po dobu stavby funkční, cestující musejí využívat zastávku na Podlesí, a to obousměrně.
-* O posílení veřejné dopravy město uvažuje, v případě potřeby o ni kraj požádá.
+* O posílení veřejné dopravy město uvažuje, v případě potřeby o ni provozovatele požádá.
 * Specifické potřeby obyvatel lokality je třeba řešit individuálně; to se týká kupříkladu zákazníků drobných podnikatelů v lokalitě nebo dodavatelů na domluvené opravy domů a podobně.
 
 {% photo src="https://i.imgur.com/YKDYAb2.png" caption="Neoficiální objížďka přes ulici Ludvíka Vojtěcha a Kamenici" author="Město Boskovice" %}
