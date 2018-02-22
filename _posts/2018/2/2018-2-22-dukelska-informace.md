@@ -42,7 +42,7 @@ tags: doprava
 
 ### Objízdné trasy
 
-* Kromě oficiálních objízdných tras připravilo městu ještě jednu neoficiální – ta vede od ulic Gagarinova a Ludvíka Vojtěcha z Čížovek po polní cestě na Kamenici a dále na Šmelcovnu.
+* Kromě oficiálních objízdných tras připravilo městu ještě jednu neoficiální – ta vede od ulic Gagarinova a Ludvíka Vojtěcha z Čížovek po polní cestě na Kamenici a dále na Šmelcovnu. (Viz obrázek výše a případně [vyšší rozlišení v PDF](http://data.ohlasy.info/2018/objizdka-dukelska.pdf).)
 * Tato cesta byla proto v posledních dnech zpevněna, upravovat se bude i v průběhu.
 * Tato trasa bude určena pouze pro automobily do 3,5 tuny.
 * Úsek bude řízen semaforem, protože musí být pouze jednosměrný.
