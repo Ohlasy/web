@@ -58,3 +58,5 @@ tags: doprava
 * Most přes Bělou nebude rekonstruován, což vedení města nedokázalo nijak ovlivnit, oprava je totiž stejně jako u silnice na Jihomoravském kraji; zcela nová bude lávka pro pěší.
 * S výměnou veřejného osvětlení se nepočítá.
 * Přes Bělou projíždí asi 6 tisíc aut denně, tranzitní doprava z toho činí méně než pětinu.
+
+Tento článek se budeme snažit průběžně aktualizovat, [historii jeho úprav najdete zde](https://github.com/Ohlasy/web/commits/master/_posts/2018/2/2018-2-22-dukelska-informace.md).
