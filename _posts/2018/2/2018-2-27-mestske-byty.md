@@ -42,7 +42,7 @@ Podobně jako bytovka na Wolkerově, i tato na Jiráskově nezáří zrovna čis
 
 ### Masarykovo náměstí 28
 
-{% photo src="https://i.imgur.com/ulHrHzS.jpg" author="Marek Osouch" %}
+{% photo src="https://i.imgur.com/w0TTq4Q.jpg" author="Marek Osouch" %}
 
 Částečných oprav na čelní straně do náměstí se dočkal dům, v jehož přízemí se nachází obchod s potravinami. V jeho druhém patře se však nachází také tři městské byty, jejichž nájemníci ještě před pár lety museli žít se starými okny a škaredou fasádou. Ani tady není volný byt pro případné zájemce. Radnice se podle jedné z nájemnic, kterou redakce oslovila, stará o byty dobře. Nikdy nebyl problém, který by město dlouho neřešilo.
 V horní části náměstí, kde je v přízemí domu lékárna a květinářství, vlastní město ještě jeden byt. „Finanční situace nájemkyně neumožnila koupi tohoto bytu. Současně v tomto bytovém domě město Boskovice vlastní i nebytové prostory, tudíž vlastnictví bytové jednotky nečiní městu problém,“ sdělil mluvčí boskovické radnice. Celkově je tak obsazených 109 ze 110 městských bytů. Kolik v nich ale bydlí lidí, to na radnici nevědí.
