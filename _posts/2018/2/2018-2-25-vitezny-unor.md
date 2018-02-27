@@ -4,6 +4,7 @@ perex: Na tyto dny připadá 70. výročí od komunistického puče v únoru 19
 cover-photo: https://i.imgur.com/tcDEvpA.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: politika
 ---
 
 *Na tyto dny připadá 70. výročí od komunistického puče v únoru 1948. Známé jsou především celostátní události, tedy rezignace nekomunistických ministrů a jejich doplnění podle návrhů Klementa Gottwalda, jakým způsobem ale probíhalo přebírání moci v Boskovicích?*
