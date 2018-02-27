@@ -6,7 +6,7 @@ category: zpravodajství
 tags: doprava
 ---
 
-*Ve středu odpoledne se na boskovické radnici konalo setkání s občany nad tématem rekonstrukce ulice Dukelská. Z besedy přinášíme soupis informací, které jinde buď nejsou, nebo jsou jen obtížně k dohledání.*
+*Ve středu 21. února se na boskovické radnici konalo setkání s občany nad tématem rekonstrukce ulice Dukelská. Z besedy přinášíme soupis informací, které jinde buď nejsou, nebo jsou jen obtížně k dohledání.*
 
 {% photo src="https://i.imgur.com/Wle3uhH.gif" caption="Hlavní objížďky: na severu přes Šebetov, na jihu přes Rájec-Jestřebí" author="Mapy.cz" %}
 
