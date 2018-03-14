@@ -138,8 +138,6 @@ Ty určitě ano, protože v nemocnici nemůžou pracovat s přístroji, které j
 
 To je relativní. Vždycky je všechno o těch lidech, kteří v nemocnici pracují a kteří ji vedou. I městská nemocnice si může na provoz vydělat, může mít dobrou vyjednávací pozici s pojišťovnami, může mít dobrý personál i dobře placený.
 
-{% photo src="https://i.imgur.com/ZL7emdz.jpg" author="Tomáš Znamenáček" %}
-
 ### Jen stoprocentní vlastnictví je jistota
 
 **Sama jste řekla, že město má dalších plno starostí a k tomu ještě nemocnici, což se používá i jako argument proti městskému provozování. Máte za sebou jednání s firmou Agel, která provozuje řadu nemocnic. Co si o její nabídce na provoz boskovické nemocnice myslíte? Měly by Boskovice nemocnici dále provozovat samy?**
@@ -234,7 +232,7 @@ Pan jednatel, ať se k tomu rada vyjádří.
 
 Tak tomu nerozumíme oba a možná to je ten důvod, proč já se toho nehodlala zúčastnit.
 
-{% photo src="https://i.imgur.com/x0LPVpU.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.imgur.com/Ndfkkph.jpg" author="Tomáš Znamenáček" %}
 
 ### Lékaři jdou za pověstí 
 
@@ -293,8 +291,6 @@ Myslím si, že je pozitivní, že se zefektivnilo vykazování pro pojišťovny
 **Tam vidíte rezervy?**
 
 O nich jsem přesvědčená.
-
-{% photo src="https://i.imgur.com/Ndfkkph.jpg" author="Tomáš Znamenáček" %}
 
 ### Tah na branku
 
