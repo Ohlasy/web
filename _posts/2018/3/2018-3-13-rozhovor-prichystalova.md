@@ -4,6 +4,7 @@ perex: Lékařka a v minulosti primářka boskovické nemocnice Martina Přichys
 cover-photo: https://i.imgur.com/tp76v61l.jpg
 author: Marek Osouch
 category: rozhovory
+tags: politika
 ---
 
 *Lékařka a v minulosti primářka boskovické nemocnice Martina Přichystalová je od roku 2014 za hnutí ANO boskovickou radní, ale ne zrovna viditelnou. Přiznává, že sama se příliš neprezentuje. V rozhovoru jsme se jí proto zeptali na roli hnutí ANO v koalici, nemocnici a zdravotnictví, v němž se denně pohybuje.*
