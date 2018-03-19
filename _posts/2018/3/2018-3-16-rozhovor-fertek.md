@@ -6,7 +6,7 @@ author: Tomáš Trumpeš
 category: rozhovory
 ---
 
-*Rozhovor s Tomášem Feřtekem, odborným konzultantem obecně prospěšné společnosti společnosti EDUin, která si klade za cíl, aby veřejnost měla více informací a dokázala lépe přemýšlet o vzdělávání a podporovat jeho proměnu. Do Boskovic přijel s přednáškou nazvanou Co změnilo svět vzdělávání?*
+*Rozhovor s Tomášem Feřtekem, odborným konzultantem obecně prospěšné společnosti EDUin, která si klade za cíl, aby veřejnost měla více informací a dokázala lépe přemýšlet o vzdělávání a podporovat jeho proměnu. Do Boskovic přijel s přednáškou nazvanou Co změnilo svět vzdělávání?*
 
 {% photo src="https://i.imgur.com/rWHFwNg.jpg" author="Tomáš Znamenáček" %}
 
