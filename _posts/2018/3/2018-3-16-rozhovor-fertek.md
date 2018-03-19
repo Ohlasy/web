@@ -1,6 +1,6 @@
 ---
 title: „Tradiční model vyučování se nedá udržet.“
-perex: Rozhovor s Tomášem Feřtekem, odborným konzultantem obecně prospěšné společnosti společnosti EDUin. Do Boskovic přijel s přednáškou nazvanou Co změnilo svět vzdělávání?
+perex: Rozhovor s Tomášem Feřtekem, odborným konzultantem obecně prospěšné společnosti EDUin. Do Boskovic přijel s přednáškou nazvanou Co změnilo svět vzdělávání?
 cover-photo: https://i.imgur.com/rWHFwNgl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
