@@ -1,8 +1,3 @@
-- name: Objížďka Dukelská
-  image: https://i.imgur.com/1kTJCSZ.png
-  alt: podrobné informace o uzavírce ulice Dukelská
-  url: http://www.ohlasy.info/clanky/2018/02/dukelska-informace.html
-  priority: 2000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg
   alt: pozvánka na aktuální kulturní akce v Boskovicích
