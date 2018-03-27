@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.imgur.com/iEJNfC5.jpg" caption="Z filmu Nico 1988" %}
+{% photo src="https://i.imgur.com/iEJNfC5.jpg" caption="Z filmu Nico, 1988" %}
 
 ### Osudové roky české státnosti
 
@@ -63,7 +63,7 @@ Hostem dalšího koncertu cyklu Jazz and Blues Boskovice tentokrát bude kytaris
 
 Ve středu 25. dubna se koná také další koncert cyklu Kruh přátel hudby. Vzhledem k tomu, že se jedná o židovskou hudbu zvanou klezmer, je koncert umístěn do budovy synagogy maior v boskovické židovské čtvrti. Na koncertě vystoupí violoncellistka Dominika Weiss Hošková, která se nedávno vrátila ze zahraničního studia v Jeruzalémě, spolu se svým otcem, violloncellictou a varhaníkem Jiřím Hoškem. Součástí večera budou úryvky z knihy Helgy Weissové Deník 1938–1945, které přednesou studentky boskovického gymnázia Johana Fialová, Andrea Šrámková a Veronika Šejbová.
 
-### Nico
+### Nico, 1988
 
 *Sokolovna Boskovice, 25. dubna 19:30*
 
