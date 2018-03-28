@@ -1,6 +1,6 @@
 ---
 title: Situace okolo sportovní haly je ostudou koalice
-perex: Pokud má vládnoucí koalice černé svědomí, že po zrušení výstavby haly na Slovákově ulici nedokázala nastalou situaci vyřešit a přijít s funkčním záměrem, má je zcela zcela oprávněně.
+perex: Pokud má vládnoucí koalice černé svědomí, že po zrušení výstavby haly na Slovákově ulici nedokázala nastalou situaci vyřešit a přijít s funkčním záměrem, má je zcela oprávněně.
 cover-photo: https://i.imgur.com/gArZpPIl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
