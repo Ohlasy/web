@@ -14,7 +14,7 @@ Městská rada Ochmanského ve funkci na další roky nepotvrdila a naopak už p
 
 Za pokračování ředitele Ochmanského na nejvyšším postu se postavilo 116 zaměstnanců, přičemž ve škole podle výroční zprávy za minulý školní rok pracovalo 143 lidí. Podporu tak má od velké většiny pedagogů a dalších pracovníků školy. „Vladimír Ochmanský vykonává svoji funkci řádně, svědomitě a svým počínáním jedná v zájmu žáků a jejich rodičů, pedagogů i Vás, zřizovatele. Pod jeho vedením škola vykazuje ekonomické výsledky a vysokou úroveň vzdělání. Plně podporujeme jeho potvrzení ve funkci ředitele školy na další šestileté funkční období,“ stojí v dopise, který pedagogové zaslali na radnici. Vyhlášení konkurzu ale dopis neodvrátil.
 
-Boskovičtí radní už najmenovali jednotlivé členy konkurzních komisí, jedné pro výběr ředitele základní, druhé pro výběr ředitele mateřské školy. Redakce Ohlasů se pokusila zjistit, jak jsou v konkurzu na ředitele základní školy rozloženy síly, popřípadě jestli mají členové komise nějaké politické vazby.
+Boskovičtí radní už najmenovali jednotlivé členy konkurzních komisí, jedné pro výběr ředitele základní, druhé pro výběr ředitele mateřské školy. Redakce Ohlasů se pokusila zjistit, jak jsou v konkurzu na ředitele základní školy rozloženy síly, popřípadě jestli mají členové komise nějaké politické vazby. Vzhledem k zaslanému dopisu od pedagogů se zdá být na škole situace více napjatá než ve školce.
 
 ### Pozice města
 
