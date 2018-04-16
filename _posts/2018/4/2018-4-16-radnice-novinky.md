@@ -88,8 +88,9 @@ Místostarostka města Dagmar Hamalová (KDU-ČSL) vydala aktuální prohlášen
 
 *Stavba probíhá dle schváleného časového harmonogramu. Rozsah pracovní doby na stavbě bude v měsíci dubnu a květnu jako dosud. Po osazení spojovací šachty u kapličky bude počet pracovníků navýšen, bude možné začít souběžně pracovat na 2 stavebních úsecích.*
 
-*Dopravní omezení a dopravní řešení nepřineslo výraznější potíže.  
-Omezení rychlosti na L. Vojtěcha a Gagarinova či jiná možnost zpomalení dopravy není z hlediska dopravních předpisů možné.
+*Dopravní omezení a dopravní řešení nepřineslo výraznější potíže.*
+
+*Omezení rychlosti na L. Vojtěcha a Gagarinova či jiná možnost zpomalení dopravy není z hlediska dopravních předpisů možné.
 Možnost průjezdu stavbou v době, kdy stavební práce neprobíhají, například o víkendech, není z hlediska dopravních předpisů možné.*
 
 *Připravují se úplné uzávěry ulice Dukelská, mělo by se jednat o 3 víkendy, kdy bude nutné při pokládání kanalizace a kanalizačních přípojek pracovat v celé šířce vozovky.*
