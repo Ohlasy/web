@@ -90,13 +90,16 @@ Místostarostka města Dagmar Hamalová (KDU-ČSL) vydala aktuální prohlášen
 
 *Dopravní omezení a dopravní řešení nepřineslo výraznější potíže.*
 
-*Omezení rychlosti na L. Vojtěcha a Gagarinova či jiná možnost zpomalení dopravy není z hlediska dopravních předpisů možné.
-Možnost průjezdu stavbou v době, kdy stavební práce neprobíhají, například o víkendech, není z hlediska dopravních předpisů možné.*
+*Omezení rychlosti na L. Vojtěcha a Gagarinova či jiná možnost zpomalení dopravy není z hlediska dopravních předpisů možné.*
+
+*Možnost průjezdu stavbou v době, kdy stavební práce neprobíhají, například o víkendech, není z hlediska dopravních předpisů možné.*
 
 *Připravují se úplné uzávěry ulice Dukelská, mělo by se jednat o 3 víkendy, kdy bude nutné při pokládání kanalizace a kanalizačních přípojek pracovat v celé šířce vozovky.*
 
-*Bude pokračovat činnost Městské policie a Policie ČR v místě ulice Dukelská, bude posílena činnost policie v objízdné trase Šmelcovna – L. Vojtěcha. Důvodem je neukázněnost řidičů, nedodržování rychlosti, nedodržování zákazu vjezdu vozidel nad 3,5 t.
-Objízdná trasa Šmelcovna – L. Vojtěcha bude v rámci finančních možností rozpočtu města udržována.  
-Město Boskovice v souladu s dopravními předpisy nemůže povolit do místa zákazu vjezdu na ulici Dukelská vjezd zákazníkům firem a prodejen bez platných povolení k vjezdu. Pro zákazníky je vyhrazeno parkoviště u Betany.*
+*Bude pokračovat činnost Městské policie a Policie ČR v místě ulice Dukelská, bude posílena činnost policie v objízdné trase Šmelcovna – L. Vojtěcha. Důvodem je neukázněnost řidičů, nedodržování rychlosti, nedodržování zákazu vjezdu vozidel nad 3,5 t.*
+
+*Objízdná trasa Šmelcovna – L. Vojtěcha bude v rámci finančních možností rozpočtu města udržována.*
+
+*Město Boskovice v souladu s dopravními předpisy nemůže povolit do místa zákazu vjezdu na ulici Dukelská vjezd zákazníkům firem a prodejen bez platných povolení k vjezdu. Pro zákazníky je vyhrazeno parkoviště u Betany.*
 
 *Poznámka: Se svými dotazy a žádostmi se můžete obracet na místostarostku města Dagmar Hamalovou: dagmar.hamalova@boskovice.cz*
