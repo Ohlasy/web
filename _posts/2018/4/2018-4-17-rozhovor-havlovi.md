@@ -85,7 +85,8 @@ Museli vy jste taky čekat na správné hudební motivy?
 IRENA: Ne, nám to šlo rychle. Když si lidi rozumí, prostor se otevře. Když to nikdo neblokuje, pracuje se dobře.
 
 VOJTĚCH: Oceňovali jsme, že režisér měl jasnou představu, ale zároveň byl otevřený. Byla to stálá diskuse. A výhoda byla, že jsme měli volno, takže jsme v tom byli úplně ponoření. Na základě naší hudby pak režisér přece jen trochu přestříhal některé obrazy.
-To je pro hudebníka režisér snů, ne?
+
+**To je pro hudebníka režisér snů, ne?**
 
 VOJTĚCH: Přesně. To se hned tak nepodaří.
 
