@@ -63,7 +63,8 @@ VOJTĚCH: Je to pouť a zároveň vnitřní cesta v čase našich životů.
 IRENA: Naše hudba teče jako řeka a také to celé spojuje. To jsou hlavně ty smyčce. Symbol jezdce na koni, symbol času, který je nám tu dán jako život.
 
 VOJTĚCH: Harmonium a zpěv jsou zase hlavní téma chlapce a spolu s ním se objevuje. Chlapec představuje symbol čistoty dětství.
-Také jste pro film upravili jednu píseň?
+
+**Také jste pro film upravili jednu píseň?**
 
 VOJTĚCH: Když jsme film dostali, byl celý tichý, kromě písně uprostřed. Režisér Václav Kadrnka točil před čtyřmi lety film Osmdesát dopisů, kde hrála hlavní roli Zuzana Lapčíková. Spřátelili se a on ji oslovil, aby pro Křižáčka udělala tuto písničku. Ale když ta píseň zůstala nahá, najednou to s tou naší hudbou nešlo dohromady. Potřebovali jsme ji trochu „ušpinit“, zabarvit – takže nás napadlo dotočit k ní další zpěv a cello. Vznikla z toho taková zvláštní koláž.
 
@@ -80,7 +81,8 @@ VOJTĚCH: Když psal režisér scénář, společně s Jiřím Soukupem a Vojtě
 IRENA: Itálii si vybrali kvůli světlu. Na jihu Itálie hodně svítí slunce a při natáčení se čekalo na to správné světlo. Pak do toho třeba přišel mrak, začalo pršet a museli čekat znovu.
 
 VOJTĚCH: Nepoužívali umělé nasvícení, snažili se, aby film byl co nejvíce naturální, bez dalších efektů. Žádné dobarvování v počítači.
-Museli vy jste taky čekat na správné hudební motivy?
+
+**Museli vy jste taky čekat na správné hudební motivy?**
 
 IRENA: Ne, nám to šlo rychle. Když si lidi rozumí, prostor se otevře. Když to nikdo neblokuje, pracuje se dobře.
 
@@ -99,7 +101,8 @@ VOJTĚCH: Přesně. To se hned tak nepodaří.
 IRENA: Ano, my nemáme rádi emoce v hudbě, ale právě když hudba vytváří prostor. Někdy tomu říkáme rezonanční hudba nebo frekvenční hudba. Víc se to podobá třeba východu slunce, je to celé vibrační prostor, který se do obrazu a do děje napojuje nenápadně. Je to nejlepší i pro spojení mluveného slova a hudby. Hudba vzejde ze slova pozvolna, nevytváří emoci, jen barvu.
 
 VOJTĚCH: Snažili jsme se, aby všechno bylo propojené – obraz a zvuk. A právě to nám umožňovala ta „vyprázdněnost“ filmu od emocí. V tom jsme si porozuměli, i když jsme si potom s Vaškem Kadrnkou povídali. Jsme na stejné vlně, vnímáme podobně, proč vůbec umění dělat.
-Pokud jsme mluvili o motivu vnitřní cesty, tak cílem té vaší, hudební cesty tedy nejsou emoce?
+
+**Pokud jsme mluvili o motivu vnitřní cesty, tak cílem té vaší, hudební cesty tedy nejsou emoce?**
 
 IRENA: Máme kamarádku, která je výborná výtvarnice a o filmu řekla, že ji zaujalo právě to, že tam nejsou emoce. Když je tam toto prázdno, může člověk víc vnímat jemnosti: hezké slovo, herecké výkony, krásnou kameru, pečlivě udělaný zvuk.
 
