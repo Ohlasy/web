@@ -1,0 +1,36 @@
+---
+title: "Příběhy z ghetta: Sionismus, cesta k židovskému státu"
+perex: Stát Izrael slaví letos 70 let. Cesta k němu byla dlouhá a strastiplná, v dalším dílu Příběhů z ghetta ji připomíná Helena Janíková. Sionisumus měl řadu přívrženců i v Boskovicích.
+cover-photo: https://i.imgur.com/DDgks7Sl.jpg
+author: Helena Janíková
+category: seriály
+serial: ghetto
+---
+
+*Dne 14. května 1948 vyhlásil v sále telavivského muzea David Ben Gurion samostatný stát Izrael a stal se jeho prvním premiérem. Za státní znak byla zvolena menora, sedmiramenný svícen, státní vlajka dostala barvy modlitebního šálu, talitu, modrou a bílou s Davidovou hvězdou uprostřed. Sen mnoha generací Židů byl splněn. Cesta k němu byla dlouhá a strastiplná.*
+
+{% photo src="https://i.imgur.com/DDgks7S.jpg" caption="David Ben Gurion čte Deklaraci nezávislosti Státu Izrael, 14. května 1948" author="Rudi Weissenstein" %}
+
+Svou byť v té době už jen formální samostatnost ztratila římská provincie Judea po prohrané Židovské válce v letech 66–70 n.l., kdy se nejednotní, početně slabí a nedostatečně vyzbrojení Židé pokoušeli zvítězit nad mocným Římem, pod jehož faktickou nadvládou již delší dobu žili. Válka skončila prohrou Židů, zničením jeruzalémského chrámu v roce 70 n.l. a postupným odcházením Židů do takzvané diaspory čili vyhnanství do nejrůznějších částí světa. Římané usilovali o úplné zapomenutí na Judeu a začali toto území nazývat Palestina, jako připomínku tehdy již dávno neexistujícího národa Pelištejců, kdysi úhlavních nepřátel Židů.
+
+Život v diaspoře byl pro Židy těžký. Nevítáni, nenáviděni, obviňováni z rituálních vražd či jiných zločinů, mučeni i vražděni, často násilím přinucováni ke konverzím, trpěni zhusta jen pro ekonomický zisk, který s sebou přinášeli. Sílu čerpali z víry svých předků, ze své píle a inteligence i vrozené schopnosti přizpůsobovat se novým podmínkám.
+
+Od 18. století se začíná judaismus štěpit, vedle ortodoxního židovství se objevují i nové směry, které usilují o větší asimilaci ve většinové společnosti. Někdy se Židé upřímně snažili ztotožnit se s prostředím a jazykem země, kde právě žili. Tyto snahy se prohlubují dále ve století 19., ne vždy jsou přijímány s pochopením. Tak například pražský židovský lékař a literát Siegfried Kapper (mimochodem jako první přeložil Máchův Máj do němčiny) psal české básně, v nichž se vroucně vyznává ze svého češství, byť nepopírá své židovství, na což reagoval velmi podrážděně Karel Havlíček Borovský. Odmítal příslušnost Židů k českému národu a doporučoval jim, aby se raději odebrali do své vlasti. Někdy Židé volili cestu konverze, tak třeba velký německý básník Heinrich Heine přistoupil k protestantství, aby posléze na smrtelném loži, ochrnutý a bezmocný, se k judaismu pokorně vrátil.
+
+Druhá polovina 19. století přinesla Židům v rozhodující části Evropy vesměs úplné zrovnoprávnění, získali volební právo, mohli se volně stěhovat, věnovat se jakémukoliv podnikání, uzavírat sňatky s křesťany a tak dále.
+
+Paradoxně však tato doba přináší celou řadu nových antisemitských útoků. Východní Evropa se zmítá pod údery pogromů, Francií otřásá Dreyfusova aféra, Čechami zase hilsneriáda. A tak se v závěru 19. století objevuje mezi čelními představiteli Židů trpké poznání, že úplná asimilace a pokojné soužití s majoritní většinou patrně možné není, že jedinou záchranou pro Židovstvo je vznik židovského státu.  
+
+Tento myšlenkový směr dostal název *sionismus* podle hory Sion v Jeruzalémě. Za hlavního (byť ne prvního) autora sionismu je považován Theodor Herzl (1860–1904), původně novinář z Budapeště, charismatický muž orientálního vzhledu, který pocházel  z rodiny bankéře a oženil se výhodně s dcerou zámožného ropného magnáta. Herzl napsal knihu Židovský stát, která je považována dodnes považována za stěžejní dílo sionismu. Začal organizovat sionistické kongresy a jednal s vysoce postavenými muži své doby – britským ministrem zahraničí, lordem Rotschildem, německým císařem, tureckým sultánem a podobně. Cílem bylo vytvoření židovského státu v Palestině, která byla tehdy součástí osmanské říše.  
+
+Hrozilo však nebezpečí konfliktů mezi židovským a nežidovským (zejména arabským) obyvatelstvem, a tak se hledala jiná řešení. Ve hře byla například neosídlená území Argentiny, Dálný Východ či Kypr. Již vyčerpaný Herzl nakonec souhlasil s takzvaným Ugandským plánem. Uganda byla britským mandátním územím a byla takřka liduprázdná. Na 6. sionistickém kongresu v Basileji v roce 1903 byl tento plán představen a vzbudil okamžitý odpor všech přítomných. Jedna studentka vyskočila a zavěšenou mapu Afriky s vyznačenou Ugandou strhla ze zdi a rozšlapala. Pak téměř všichni účastníci na znamení protestu kongres opustili. Židé nechtěli do Ugandy, nechtěli nikam jinam než do své Erec Jisra’el – Země Izraelské.
+
+Herzl práci pro sionismus obětoval skutečně vše. Své zdraví (zemřel ve 44 letech), své manželství (manželka Julie se s ním rozvedla a přežila jej jen o tři roky) a veškeré peníze své i své ženy. Tragický byl osud všech jeho dětí. Dcera Pauline zemřela na ulici jako heroinová narkomanka, syn Hans, který se léčil u Sigmunda Freuda, se zastřelil, dcera Trude zahynula za války v koncentračním táboře, její jediný syn Stephan spáchal v roce 1946 sebevraždu. Naplnění Herzlova snu se nedožil nikdo z rodiny.
+
+Sionismus žil však dál, těšil se i přízni československého prezidenta Masaryka, v ČSR proběhlo několik sionistických kongresů. Rovněž v Boskovicích bychom našli řadu jeho přívrženců. Byli to především členové rodin Ungarovy a Ticho, [o jejichž aktivitách v tomto směru jsem již psala](http://www.ohlasy.info/clanky/2017/01/cesty-do-palestiny.html).
+
+Po první světové válce se Palestina stala britským mandátním územím. Snahou Britů bylo uspokojovat znesvářené strany, ministr zahraničí Balfour se však přikláněl na stranu Židů a již v roce 1917 přislíbil vznik židovské domoviny v Palestině. Později se však Británie začala přílivu židovských osadníků bránit, neboť nechtěla ztratit své pozice v arabském světě.
+
+Navzdory opatrnické politice Velké Británie proudili židovští přistěhovalci do Palestiny v několika takzvaných alijách čili vzestupech, zvláště v období formujícího se nacistického nebezpečí. Mohlo se jich zachránit daleko více, ale bohužel snaha Britů příliš si nepálit prsty v tomto problému sehrála značně negativní roli. A tak bylo zapotřebí děsivé dějinné zkušenosti v podobě holocaustu, aby se otázka židovského státu konečně začala řešit brzy po druhé světové válce na půdě OSN. Vznik státu Izrael přinesl nové skutečnosti, na které svět reagoval různým způsobem, často přímo nepřátelským. Sedmdesátiletá historie státu Izrael je tak historií válek a bojů. Je to smutné, ale není míru pod olivami. A asi hned tak nebude.
+
+Jak se vyvíjely vzájemné československo-izraelské vztahy od roku 1948 až po 90. léta minulého století se můžete, milí čtenáři, dozvědět na výstavě [Hvězda pod tíhou hvězdy](http://www.muzeum-boskovicka.cz/hvezda%2Dpod%2Dtihou%2Dhvezdy/a-1170/p1=1098), kterou připravilo Muzeum regionu Boskovicka v Židovském obecním domě na Bílkově ulici 7. Výstava je přístupná od úterý do pátku od 10 do 17 hodin, v sobotu a v neděli od 13 do 17 hodin, a to až do 24. června 2018.
