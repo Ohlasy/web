@@ -12,7 +12,7 @@ category: názory a komentáře
 
 Problém je samozřejmě nejen lidský. Můžeme se jen přít, jestli ke generační obměně nedochází, protože mladí nemají zájem, nebo protože je staří matadoři mezi sebe nepustí. Navíc to rozhodně neplatí paušálně, v některých stranách se pestřejší věkové prostředí a kandidátky vytvářet daří.
 
-Ve druhé, podstatnější rovině je zde věcný, obsahový konflikt. Do tradičních stan mohou zamířit ti mladí političtí nadšenci, kteří jim věří, souzní nejen s jejich stylem politiky, ale především s obsahem, který tyto strany nabízejí. Pokud je tedy do politiky nepřivádí jen osobní ambice a strany neberou prostě jako struktury, které jim vzestup mají umožnit. 
+Ve druhé, podstatnější rovině je zde věcný, obsahový konflikt. Do tradičních stran mohou zamířit ti mladí političtí nadšenci, kteří jim věří, souzní nejen s jejich stylem politiky, ale především s obsahem, který tyto strany nabízejí. Pokud je tedy do politiky nepřivádí jen osobní ambice a strany neberou prostě jako struktury, které jim vzestup mají umožnit. 
 
 Ve společnosti je ovšem evidentně také sílící proud voličů a snad i potenciálních politiků, pro které je tato nabídka nedostatečná. Nechtějí měnit pouze styl, ale přinášejí také nový obsah, nová témata. Stane se tohle i v boskovické komunální politice?
 
