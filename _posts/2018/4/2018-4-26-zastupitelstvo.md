@@ -24,7 +24,7 @@ Dotaci 400 tisíc korun schválili zastupitelé na obnovu objektů, které nejso
 
 Doplňující dotační program vyhlásí město pro kulturní a volnočasové aktivity. Schválena byla částka 200 tisíc korun. V původním programu byl letos značný převis žádostí a značný počet žadatelů nebyl vzhledem k přísnému hodnocení komise vůbec uspokojen. „Ukazuje se, že neziskových organizací a organizátorů společenského a kulturního života v Boskovicích přibývá, takže určitě stojí za to tyto aktivity podpořit,“ vyjádřila se místostarostka Dagmar Hamalová (KDU-ČSL). 
 
-Svůj nesouhlas naopak vyjádřil opoziční zastupitel Jaroslav Dohnálek (ODS). Tomu se nelíbilo, že se finance navyšují kvůli projektům, které nezískaly ani nejmenší nutný počet osmi bodů při hodnocení v prvním kole. „Pokud někdo nezískal osm bodů, tak buď podal špatně žádost nebo ta akce nebyla zas tak dobrá. Ta pravidla jsou nějaký jízdní řád,“ vysvětlil Jaroslav Dohnálek své důvody s podotknutím, že řešení je nesystémové, a proto návrh nepodpoří. Místostarostka Dagmar Hamalová uvedla, že bude třeba připravit nová pravidla, ale to už bude úkolem nového vedení města.
+Svůj nesouhlas naopak vyjádřil opoziční zastupitel Jaroslav Dohnálek (ODS). Tomu se nelíbilo, že se finance navyšují kvůli projektům, které nezískaly ani nejmenší nutný počet osmi bodů při hodnocení v prvním kole. „Pokud někdo nezískal osm bodů, tak buď podal špatně žádost, nebo ta akce nebyla zas tak dobrá. Ta pravidla jsou nějaký jízdní řád,“ vysvětlil Jaroslav Dohnálek své důvody s podotknutím, že řešení je nesystémové, a proto návrh nepodpoří. Místostarostka Dagmar Hamalová uvedla, že bude třeba připravit nová pravidla, ale to už bude úkolem nového vedení města.
 
 ### Změny územního plánu
 
