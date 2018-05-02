@@ -68,7 +68,7 @@ FILIP (SPORTOVCI): V tomhle má Martin naprostou pravdu. Tady je to souboj osobn
 
 **Jak z toho ven?**
 
-FILIP (SPORTOVCI): Myslím, že velkou pomocí by mohl být příval nové energie. Ať už ze strany Martina, mojí, nebo například paní Znamenáčkové. To by mohl být pro boskovickou politiku obrovský přínos. A mohlo by se to někam posunout.
+FILIP (SPORTOVCI): Myslím, že velkou pomocí by mohl být příval nové energie. Ať už ze strany Martina, mojí, nebo například [paní Znamenáčkové](http://www.ohlasy.info/clanky/2018/04/rozhovor-znamenackova.html). To by mohl být pro boskovickou politiku obrovský přínos. A mohlo by se to někam posunout.
 
 MARTIN (ODS): Nechci se nějak holedbat, ale nové tváře jako my nejsou zatíženy minulostí.Tady se spousta věcí řeší v osobní rovině – navrhl to tento člověk, proto jsem principiálně proti. Toho my jsme zproštěni a nezatěžuje nás to.
 
