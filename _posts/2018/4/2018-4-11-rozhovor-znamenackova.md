@@ -4,6 +4,7 @@ perex: Rozhovor s Kristýnou Znamenáčkovou, která čeká na přijetí mezi č
 cover-photo: https://i.imgur.com/Vn9DcAql.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+tags: politika
 ---
 
 *Rozhovor s Kristýnou Znamenáčkovou, která aktuálně čeká na přijetí mezi členy Pirátské strany a zvažuje vytvoření kandidátky v Boskovicích. Možná pirátské, možná nezávislé. Mluvili jsme o tom, v jaké fázi příprav záměr je a co by měl do boskovické politiky vnést.*
