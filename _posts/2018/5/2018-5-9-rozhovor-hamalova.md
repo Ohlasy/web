@@ -281,7 +281,7 @@ Baví mě to, i když je to v mém případě na omezenou dobu. Líbí se mi, ž
 
 Myslím, že více než na jednotlivosti, jako je Dukelská, bychom se měli dívat dopředu. Pokud se podíváme do strategie města, tak vidíme, na čem koalice pracuje, že řešíme dopravu koncepčně. V tomto vidím, že můžeme být jako KDU-ČSL přínosem.
 
-**Ani jsem ale neslyšel, že by vás u Dukelské podpořili veřejným prohlášení koaliční partneři, že je to zkrátka komplikace, ale jinak to nejde.**
+**Ani jsem ale neslyšel, že by vás u Dukelské podpořili veřejným prohlášením koaliční partneři, že je to zkrátka komplikace, ale jinak to nejde.**
 
 Koaliční partneři to berou tak, že mou silnou stránkou je komunikace s veřejností. Nejenom koaliční partnery, ale i úředníky překvapilo to, že jsme se k Dukelské s občany a podnikateli sešli a že komunikace je permanentní.
 
