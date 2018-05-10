@@ -100,7 +100,9 @@ Ano, jsme to zčásti i my.
 **Takže kdybychom tam chtěli něco prosadit, tak nemáme větší páky? Máme tam přece i prvního místopředsedu, kterým je radní za ČSSD Milan Kolínský.**
 
 Já to chápu, ale řeší se to v rámci jejich investičních postupů, neřešili jsme to prostřednictvím volených orgánů Svazku.
-Nemluvila jste tedy osobně o tom s panem radním Kolínským?
+
+**Nemluvila jste tedy osobně o tom s panem radním Kolínským?**
+
 Všechny informace jdou do rady a jsou hodně důkladné.
 
 **Moje otázka ale zněla jinak, jestli jste osobně o tom mluvila s prvním místopředsedou Svazku a radním za ČSSD Milanem Kolínským.**
