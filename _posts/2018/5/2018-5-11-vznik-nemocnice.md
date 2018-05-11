@@ -37,7 +37,7 @@ Nová nemocnice měla stát v místě dnešní obalovny. V roce 1947 se začalo 
 
 Vypjatá atmosféra vyvolala neobvyklou aktivitu obcí, které neváhaly apelovat nejen u okresního národního výboru, ale formou rezoluce i na ministerstvu zdravotnictví, ministerstvu techniky a samozřejmě i na zemském úřadě. „Čím více a intenzivněji krajský úřad chápal nutnost a potřebnost zdravotnického zařízení, tím častěji vznikaly nové a nové komise se stále se měnícími předsedy a členy, tím dále a dále se termín výstavby odsunoval,“ píše se o historii nemocnice na jejím webu.
 
-{% photo src="https://i.imgur.com/r0ana2m.jpg" caption="Poklepání základního kamene, 2. května 1945. S kladívkem Rudolf Barák, ministr vnitra, vedle něj Rudolf Musil, předseda ONV Boskovice." author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.imgur.com/r0ana2m.jpg" caption="Poklepání základního kamene, 2. května 1954. S kladívkem Rudolf Barák, ministr vnitra, vedle něj Rudolf Musil, předseda ONV Boskovice." author="Muzeum regionu Boskovicka" %}
 
 ### Nemocnice u hlavní silnice
 
