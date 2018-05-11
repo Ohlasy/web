@@ -3,7 +3,8 @@ title: "Únor 1948: Jak komunisti převzali moc v Boskovicích"
 perex: Na tyto dny připadá 70. výročí od komunistického puče v únoru 1948. Známé jsou především celostátní události, jakým způsobem ale probíhalo přebírání moci v Boskovicích?
 cover-photo: https://i.imgur.com/tcDEvpA.jpg
 author: Marek Osouch
-category: zpravodajství
+category: seriály
+serial: osmicky
 tags: politika
 ---
 
