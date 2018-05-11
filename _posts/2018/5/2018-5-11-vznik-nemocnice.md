@@ -1,6 +1,6 @@
 ---
 title: "Rok 1958: Mohla stát na Čížovkách, nakonec ale nemocnice vznikla u hlavní silnice"
-cover-photo: https://i.imgur.com/XtpVrcWl.jpg
+cover-photo: https://i.imgur.com/paqYai8l.jpg
 perex: Boskovická nemocnice si letos připomíná kulaté výročí od svého vzniku.
 author: Marek Osouch
 category: seriály
@@ -9,7 +9,7 @@ serial: osmicky
 
 *Boskovická nemocnice si letos připomíná kulaté výročí od svého vzniku. V roce 1958 se po desetiletích plánů, jednáních a následné stavbě dočkala slavnostního otevření. Na počátku přitom ani nebylo jasné, kde vůbec vznikne. Tímto textem pokračujeme v seriálu o osmičkových výročích v Boskovicích.*
 
-{% photo src="https://i.imgur.com/XtpVrcW.jpg" caption="Otevření okresní nemocnice" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.imgur.com/paqYai8.jpg" caption="Otevření okresní nemocnice" author="Muzeum regionu Boskovicka" %}
 
 Zatímco teď v květnu se nemocnice dočká slavnostního zprovoznění babyboxu neboli schránky na odložené děti, před 60 lety se na místě procházeli dělníci a dokončovali na tehdejší dobu velkou investici. Obyvatelé Boskovic chodili právě v květnu 1958 na prohlídky rostoucí nemocnice, protože o slibech její stavby slyšeli roky, ale dlouhá léta se stále nic nedělo.
 
