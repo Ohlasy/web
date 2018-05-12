@@ -13,6 +13,11 @@
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
+- name: Šifrovatračka
+  image: https://i.imgur.com/L6pHJOc.png
+  alt: Šifrovatračka, šifrovací hra pro děti
+  url: http://www.vatra-boskovice.cz/sifrovatracka
+  priority: 900
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
