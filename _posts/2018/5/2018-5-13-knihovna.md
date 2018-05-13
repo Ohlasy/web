@@ -1,0 +1,27 @@
+---
+title: Pro zpochybňování Fránkovy knihovny chybí argumenty
+perex: Na zastupitelstvu zaznělo zpochybňování stavby Fránkovy knihovny. Podle Tomáše Trumpeše už máme debatu o knihovně za sebou. Teď chceme slyšet, kdy se konečně postaví.
+cover-photo: https://i.imgur.com/vW8HolOl.jpg
+author: Tomáš Trumpeš
+category: názory a komentáře
+---
+
+*[Poslední jednání boskovického zastupitelstva](http://www.ohlasy.info/clanky/2018/04/zastupitelstvo.html) vneslo mimo jiné neklid mezi příznivce stavby nové boskovické knihovny. V debatě o prodeji budovy O2 na ulici Kapitána Jaroše totiž ze strany některých opozičních zastupitelů zaznívalo zpochybňování stavby knihovny o kus výše na téže ulici, [jak ji připravuje současné vedení města](http://www.ohlasy.info/clanky/2017/03/knihovna-zzn.html) podle návrhu [architekta Zdeňka Fránka](http://www.ohlasy.info/clanky/2017/10/rozhovor-franek.html).*
+
+{% photo src="https://i.imgur.com/vW8HolO.jpg" caption="Návrh nové knihovny od Zdeňka Fránka" author="Fránek Architects" %}
+
+Část opozice dala jasně najevo, že záměr nepokládá za finální a v případě vítězství v podzimních volbách hodlá debatu o hledání nové lokality znovu otevřít – a dost možná prosazovat jinou variantu. Tím bychom se ovšem jednak vrátili o několik let zpět, a zejména bychom opustili připravený projekt mimořádné architektonické kvality. Knihovnu bychom měli později a horší.
+
+Pro zpochybňování stavby Fránkovy knihovny neexistuje relevantní argument. A to zejména ze tří důvodů: 1. Máme návrh, o kterém se už dnes píše jako o stavbě, která by mohla [dostat Boskovice na mapu architektonického světa](https://ego.ihned.cz/c1-66134420-pro-ctivo-do-kotelny-prodejny-potravin-nebo-hradu-knihovny-patri-v-cesku-k-tomu-nejzajimavejsimu-co-se-v-architekture-objevuje). 2. Budova Mountfieldu a Idyly, kterou zastupitelstvo pro tento účel koupilo a jejíž přestavbou má knihovna vzniknout, vyhovuje pro knihovnu prostorově i technicky, což není nijak samozřejmé. 3. S projektem souhlasí boskovičtí knihovníci.
+
+Současné vedení města již zadalo vyhotovení projektové dokumentace a přibližně na jaře příštího roku tak bude stavba kompletně připravena. Pro zastavení projektu v této fázi by musely existovat nesmírně silné argumenty. Chápu, že opozice je dodnes rozčarovaná zastavením stavby sportovní haly na Slovákově a [vyčítám nynějšímu vedení města](http://www.ohlasy.info/clanky/2018/03/ostudna-hala.html), že po takto razantním zásahu opozici při přípravě nového řešení haly víc nevtáhla do hry. Pokud by ovšem opozice chtěla na oplátku po vítězných volbách zastavovat záměr Fránkovy knihovny, bylo by to jednak dětinské oplácení a především by se, pokud má paralela sedět, muselo nejprve v podloží budovy Mountfieldu najít uhlí a musel by zde existovat netriviální společenský odpor proti stavbě.
+
+Přípravu projektu jsme [mnohokrát i v Ohlasech kritizovali](http://www.ohlasy.info/clanky/2018/04/jak-stavet.html). Nutno však přiznat, že město nakonec došlo špatnou cestou k dobrému cíli. Výsledný projekt je vynikající, i když napříště můžeme těžko očekávat, že nám někdo jen tak věnuje mimořádnou studii. A už vůbec nemůžeme souhlasit s tím, že o ní vlastně nikdo v transparentním procesu nerozhodne a že nebude možné vybírat z více návrhů. Tohle je ovšem poučení pro příště. Bojkotovat kvůli tomu zpětně dobrý výsledek je nezodpovědné.
+
+Argumentovat tím, že město by mělo knihovnu postavit jinde, protože budova Mountfieldu je výhodná pro pronájmy, neobstojí. Primárním úkolem radnice není podnikat v nemovitostech, ale zajišťovat občanům služby, které potřebují, a to v co nejlepší kvalitě. [Počet čtenářů a uživatelů knihovny je obrovský](http://www.ohlasy.info/clanky/2016/01/knihovna.html), knihovnu si zaslouží, aktuální podmínky jsou nedůstojné a investice je zcela na místě. Knihovna je jedinečnou příležitostí pro velkorysý projekt, který potřebuje dostatečně reprezentativní řešení – a to logicky znamená i komerčně zajímavou lokalitu. Podobně důležitý záměr nemůžeme plánovat podle toho, jakou městskou budovu či parcelu se nám zrovna nedaří udat. 
+
+Čistě ekonomický, či spíše přízemně účetnický pohled na věc by nás v důsledku mohl přivést k myšlence, jestli by nebylo výhodnější pronajmout komerčně radnici – třeba by o kancelářské prostory v centru města byl zájem a přinášelo by to značný profit! A úřad by mohl sídlit v nějakých špeluňkách na periferii. Absurdní? Samozřejmě že ano. Podobně jako aplikovat tento typ přemýšlení na knihovnu.
+
+Boskovická politika je dlouhodobě [v jakémsi klinči](http://www.ohlasy.info/clanky/2016/02/komentar-investice.html). Ať už dopadnou podzimní volby jakkoli, je zřejmé, že tento klinč skončí jedině díky tomu, že jedna strana sevření povolí, nikoliv že povalí tu druhou. Tuto odpovědnost a schopnost nabídnout smír bychom měli chtít především od vítězů. Takže pokud chce někdo volby vyhrát, měl by spíše deklarovat, že hodlá vládnout konstruktivně a je připraven dotáhnout projekty, které město dlouhodobě potřebuje a které jsou rozpracované do té fáze, jako knihovna.
+
+Mohu-li se vyjádřit jako čtenář: po dlouhých letech čekání nechci od politiků slyšet, jestli a kde se má knihovna stavět, ale jak zajistí financování a v jaké nejkratším termínu ji jsou schopni postavit. Náznaky čehokoliv jiného jsou politikařením nejhoršího druhu. Debatu o tom, kde a jaká knihovna by měla vzniknout, už máme za sebou. Pokud se nám tato debata nelíbila, zkusme to lépe u příští stavby.
