@@ -13,8 +13,9 @@ V prvním kole občané vybírali jeden ze tří návrhů streetartového výtva
 {% photo src="https://i.imgur.com/GrZUJjN.jpg" caption="Návrh číslo 1, vítěz prvního kola" %}
 {% photo src="https://i.imgur.com/O1x1a7I.jpg" caption="Návrh číslo 2" %}
 {% photo src="https://i.imgur.com/3adLyYI.jpg" caption="Návrh číslo 3" %}
-{% photo src="https://i.imgur.com/36mr5re.jpg" caption="Návrh číslo 4" %}
-{% photo src="https://i.imgur.com/bMsU0lR.jpg" caption="Návrh číslo 5" %}
+{% photo src="https://i.imgur.com/bMsU0lR.jpg" caption="Návrh číslo 4" %}
+{% photo src="https://i.imgur.com/36mr5re.jpg" caption="Návrh číslo 5" %}
+
 
 Do druhého kola postoupil vítězný návrh Pavla Lišky z prvního kola a je doplněn novými návrhy. Hlasování probíhá [na webu](http://www.mojeanketa.cz/pruzkum/264776482/) a [na Facebooku](https://www.facebook.com/mestoboskovice/posts/1697953603620596) do 15. června 2018. Hlasovat je možné také formou SMS ve tvaru: „TRAFO navrh cislo X“, odeslané na číslo 777 254 232 nebo odesláním čísla vašeho návrhu na <jaroslav.parma@boskovice.cz>, a to rovněž do 15. června.
 
