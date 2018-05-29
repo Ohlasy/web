@@ -1,12 +1,12 @@
 ---
 title: Anketa k výzdobě trafostanice
 cover-photo: https://i.imgur.com/O1x1a7Il.jpg
-perex: Město Boskovice vyhlásilo druhé kolo ankety, která má určit návrh, jenž vyzdobí trafostanici za finančním úřadem. O názor na záměr vyzdobit trafostanici i jednotlivé návrhy jsme pořádali několik lidí, kteří se výtvarným uměním zabývají.
+perex: Město Boskovice vyhlásilo druhé kolo ankety, která má určit návrh, jenž vyzdobí trafostanici za finančním úřadem. O názor na jednotlivé návrhy i celý záměr jsme pořádali několik lidí, kteří se výtvarným uměním zabývají.
 author: Tomáš Trumpeš
 category: ankety
 ---
 
-*Město Boskovice vyhlásilo druhé kolo ankety, která má určit návrh, jenž vyzdobí trafostanici za finančním úřadem. Ve druhém kole je pět návrhů od pěti různých autorů. O názor na záměr vyzdobit trafostanici i jednotlivé návrhy jsme pořádali několik lidí, kteří se výtvarným uměním zabývají. Položili jsme jim tuto otázku: Jak se vám líbí záměr vyzdobit trafostanici? Který návrh pokládáte za nejlepší a proč?*
+*Město Boskovice [vyhlásilo druhé kolo ankety](http://www.ohlasy.info/clanky/2018/05/vyzdoba-trafa.html), která má určit návrh, jenž vyzdobí trafostanici za finančním úřadem. Ve druhém kole je pět návrhů od pěti různých autorů. O názor na záměr vyzdobit trafostanici i jednotlivé návrhy jsme pořádali několik lidí, kteří se výtvarným uměním zabývají. Položili jsme jim tuto otázku: Jak se vám líbí záměr vyzdobit trafostanici? Který návrh pokládáte za nejlepší a proč?*
 
 ---
 
@@ -46,7 +46,7 @@ Proti záměru vyzdobit trafostanici graffiti nic nemám. Dokonce jsem ráda, ž
 
 <img class="profile-picture" src="https://i.imgur.com/tT55qrl.jpg" alt="" />
 
-**Luboš Valčík, grafik**
+**Luboš Valčik, grafik**
 
 Jsem rád, že se ledy prolamují a město Boskovice se v otázce street artu dostává do 21. století. Návrh číslo 1 dle mého názoru nevyužívá tvaru celého objektu, je nepřehledný, chaotický, nedávající spočinutí ve vizuálním „smogu“ města. Číslo 2 má příjemnou barevnost, ale působí trochu jako výzdoba mateřské školky. Číslo 3 je celistvé, jednoduché, snově-poetické, s příběhem i dovětkem. Číslo 4 je nevýrazné, na ploše se ztrácí, nehraje si s možnostmi rozložení a kompozice. Číslo 5 je svěží, ale vypadá jako streetartová reklama na psychedelické sojové mléko. Za mě tedy jednoznačný vítěz číslo 3.
 
