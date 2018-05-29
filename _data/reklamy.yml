@@ -8,6 +8,11 @@
   alt: Festival Boskovice 2018
   url: http://boskovice-festival.cz/cs
   priority: 1000
+- name: BiGy Fest
+  image: https://i.imgur.com/eg271oH.png
+  alt: BiGy Fest Letovice 2018
+  url: http://www.bigyfestletovice.cz/
+  priority: 1000  
 - name: Ložiska
   image: http://i.imgur.com/5oCkCr9.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
