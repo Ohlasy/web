@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Konkurzy na ředitele boskovických škol nepřinesly žádnou změnu. Ve své práci bude pokračovat ředitelka mateřské školy Dagmar Burianová i ředitel základní školy Vladimír Ochmanský. Na posledním květnovém jednání je ve funkcích potvrdila městská rada.*
 
-{% photo src="http://i.ohlasy.info/2AThyCM.jpg" caption="Vladimír Ochmanský" %}
+{% photo src="http://i.ohlasy.info/2AThyCM.jpg" caption="Vladimír Ochmanský" author="Tomáš Znamenáček" %}
 
 Zejména v případě mateřské školy se nejedná o žádné překvapení, neboť Dagmar Burianová neměla v konkurzním řízení žádného vyzyvatele. O post ředitele základní školy projevili zájem tři uchazeči, ale podle místostarostky Dagmar Hamalové (KDU-ČSL) bylo i v tomto případě doporučení výběrové komise jednoznačné. Rada doporučení respektovala. Kdo byli další dva zájemci, vedení města neodtajnilo.
 
