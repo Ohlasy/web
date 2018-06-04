@@ -54,7 +54,7 @@ Ať už ale vyhraje kdokoli, přeji mu pevné nervy ve vyjednávání s městem 
 
 {% photo src="https://i.imgur.com/36mr5re.jpg" caption="Návrh číslo 5" %}
 
-<img class="profile-picture" src="https://i.imgur.com/51tqdSk.png" alt="" />
+<img class="profile-picture" src="https://i.imgur.com/5VaER7Z.jpg" alt="" />
 
 **Michaela Jančíková, pedagožka výtvarné výchovy, Gymnázium Boskovice**
 
