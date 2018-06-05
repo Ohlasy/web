@@ -1,6 +1,6 @@
 ---
 title: Umělcům nedáváme milostivou příležitost
-cover-photo: https://i.imgur.com/5wE5Zrhl.jpg
+cover-photo: https://i.imgur.com/PebP7dRl.jpg
 perex: Street art na stěnách trafostanice je dobrý nápad, který by si zasloužil lepší organizaci.
 author: Tomáš Znamenáček
 category: názory a komentáře
@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Výběr [návrhu na grafickou výzdobu trafostanice](http://www.ohlasy.info/clanky/2018/05/vyzdoba-trafa.html) provázejí nejasnosti a zmatky. Po prvním kole ankety bylo vyhlášeno druhé, s autory není jasně domluvená odměna za jejich nápady a práci. Záměr i provedení celé akce komentuje Tomáš Znamenáček.*
 
-{% photo src="https://i.imgur.com/5wE5Zrh.jpg" caption="Jeden ze soutěžních návrhů na výzdobu trafostanice" author="TIMO" %}
+{% photo src="https://i.imgur.com/PebP7dR.jpg" caption="Jeden ze soutěžních návrhů na výzdobu trafostanice" author="TIMO" %}
 
 Potřebuje vůbec fasáda trafostanice nějak zlepšovat? Transformátory by se pochopitelně smířily i s obyčejnou bílou omítkou, ale ve městě se kromě transformátorů vyskytují též lidé, kteří mají přirozenou potřebu obklopovat se pěknými věcmi. A pokud se pěknými věcmi obklopujeme doma ve svém bytě, logicky se nabízí se jimi obklopovat i doma ve svém městě.
 
