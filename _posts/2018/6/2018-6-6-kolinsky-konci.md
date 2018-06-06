@@ -1,5 +1,6 @@
 ---
 title: Výrazná osoba boskovické politiky končí. Radní Kolínský už nebude kandidovat
+perex: Radní za ČSSD Milan Kolínský se rozhodl, že z osobních důvodů nebude na podzim v komunálních volbách kandidovat ani se dál podílet na politice.
 cover-photo: https://i.imgur.com/PsKKksXl.jpg
 author: Marek Osouch
 category: zpravodajství
@@ -17,7 +18,7 @@ A jak ho hodnotí koaliční partneři? Přestože nejsou ve vyjádřeních tak 
 
 Taková hodnocení nezaznívají jen z opozice nebo od koaličních partnerů, ale i přímo z řad sociálních demokratů. „Nazval bych ho politickým despotou. Nesnese jiný názor a prosadí si, co chce,“ tvrdí Josef Bašný, který letos krátce dělal předsedu místní organizace ČSSD, byl však odvolán. Jeho slova potvrzuje i další člen boskovické ČSSD, který se byl ochoten pod podmínkou anonymity vyjádřit k roli Milana Kolínského v boskovické politice. „Je to rozhodně významný hráč. Než se odstěhoval z Boskovic, pohyboval se na radnici velmi často,“ uvedl s tím, že úředníci jen čekali u oken, než Milan Kolínský odjede, starostka si je pozve a začne jim říkat, co dělají špatně a musí předělat. K tvrzením o tom, zda je šedá eminence nebo despota, se radní Kolínský nechtěl vyjadřovat.
 
-## Do zastupitelstva z pozice náhradníka
+### Do zastupitelstva z pozice náhradníka
 
 I bez těchto prohlášení si však člověk zajímající se o politiku mohl všimnout aktivity končícího radního. Na jednání zastupitelstva, kde většina koalice při připomínkách opozice mlčí, odpovídá kromě starostky často právě její stranický kolega Milan Kolínský. Ani na jednom jednání nechyběl, z dvaceti schůzí zastupitelů se jen na pěti z nich v diskuzi nevyjádřil, po starostce je tak z ČSSD vůbec nejvýřečnější. Čili je dokonce aktivnější než úřadující místostarosta Petr Malach. Kolínský také z pozice předsedy zastupitelského klubu sociálních demokratů starostku žádá o přerušení jednání zastupitelů na poradu klubu, což však obvykle znamená, že se radí celá koalice.
 
@@ -27,7 +28,7 @@ Na post lídra do voleb v roce 2014 se ale Milan Kolínský nepostavil, z pozice
 
 Po minulých volbách se navíc stáhl i z pozice předsedy místní ČSSD, ve které byl od roku 2008. Vystřídala ho Hana Nedomová jako starostka města, nikdo jiný se proti ní nepostavil a vydržela v této pozici až do počátku letošního roku, kdy ji nakrátko vystřídal už zmíněný Josef Bašný a následně post předsedy sociálních demokratů převzal místostarosta Boskovic Petr Malach. „Milan Kolínský je jen členem výboru z pozice předsedy zastupitelského klubu,“ sdělil k postavení radního v rámci boskovické buňky ČSSD.
 
-## Vyjednával o koupi Dvořáčkova mlýna
+### Vyjednával o koupi Dvořáčkova mlýna
 
 Aktivita radního Milana Kolínského byla velmi viditelná zejména kolem výkupu Dvořáčkova mlýna v Červené zahradě, kdy se účastnil vyjednávání vedle starostky a radního za hnutí ANO Pavla Schwarzera, na rozdíl od místostarosty Petra Malacha, který má ve své gesci sport, tedy téma související s Červenou zahradou. [Po anonymním trestním oznámení](http://www.ohlasy.info/clanky/2016/01/cervenka-trestni-oznameni.html) na vysokou cenu, za kterou město mlýn koupilo, se však z těchto vyjednávání oficiálně stáhl.
 
@@ -35,7 +36,7 @@ Kolem Dvořáčkova mlýna však hrál roli ještě v jedné další věci. Poda
 
 Soud dal Pevnému pokutu, nicméně jen za to, že neřekl zadavateli, tedy městu, že může být ve střetu zájmů, když je zároveň zastupitelem. „Zákon je opravdu takto nastavený, i když můžu říct, že to v tomto případě nemá logiku. Zadavatel mě znal a ví, že jsem zastupitel. Dohodli se na mně prodávající i kupující, já jsem si u nich nevymodlil, že ten posudek chci dělat,“ vysvětloval [v rozhovoru](http://www.ohlasy.info/clanky/2016/03/rozhovor-pevny.html) Pevný s tím, že samotný posudek soud nezkoumal a slova o bažině byla míněna v nadsázce.
 
-## Neúspěch se stavbou haly
+### Neúspěch se stavbou haly
 
 Milan Kolínský hrál důležitou roli i při přípravě větších investičních akcí. Loni na podzim na setkání u kulatých stolů vytáhli společně se stranickým kolegou Oldřichem Grulichem a Hanou Nedomovou svými hlasy Centrum polytechnické výchovy na „čtvrtou nejvyšší prioritu občanů“. Za pár měsíců v prosinci zažil naopak neúspěch kvůli jiné investici, když koalice neprohlasovala vybudování sportovní haly v jedné z navrhovaných variant.
 
@@ -45,7 +46,7 @@ Koaliční strany si tehdy prostřednictvím radního sice vzaly po vleklé disk
 
 Na jednání rady však alespoň částečně uspěl s tím, že se město začalo zabývat možností vybudování nafukovací haly na Sušilově. Tento návrh chtěl předložit už na schůzi zastupitelů, nakonec se o něm vůbec nehlasovalo. Jeho případné zamítnutí zastupiteli by totiž zablokovalo možnost zahájit přípravu nafukovací haly jen přes rozhodnutí rady, jak se také stalo.
 
-## Zmizí ostrý boj s pravicí?
+### Zmizí ostrý boj s pravicí?
 
 Odchod Milana Kolínského z politiky může znamenat ještě jednu věc, než jen konec výrazné figury. Už před volbami v roce 2010 se mezi ČSSD a boskovickou pravicí vykopaly hluboké příkopy. Změnu směřování ČSSD asi nejlépe dokumentuje to, že strana tehdy obměnila všechny své zastupitele. Sociální demokraté vedení Pavlem Grenarem a právě Milanem Kolínským sice volby vyhráli, ale skončili v opozici. Hloubení příkopů tak pokračovalo a o čtyři roky později už se vymezovací strategie vyplatila natolik, že se stali hlavní vládnoucí politickou silou ve městě. Jen na pozici lídra Pavla Grenara nahradila Hana Nedomová.
 
