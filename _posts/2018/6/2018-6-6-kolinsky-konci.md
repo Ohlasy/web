@@ -4,6 +4,7 @@ perex: Radní za ČSSD Milan Kolínský se rozhodl, že z osobních důvodů ne
 cover-photo: https://i.imgur.com/PsKKksXl.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: politika
 ---
 
 *Radní za ČSSD Milan Kolínský se rozhodl, že z osobních důvodů nebude na podzim v komunálních volbách kandidovat ani se dál podílet na politice. Dům na Havlíčkově, kde bydlel, prodává a údajně už nějakou dobu do Boskovic dojíždí z Jeseníků.*
