@@ -70,6 +70,6 @@ RADEK MAZÁČ (SPORTOVCI): Tuto studii hodnotíme jako zdařilou. Budeme ji podp
 
 JAROSLAV DOHNÁLEK (ODS): Dle mého dobře nezvládlo.
 
-PAVEL VLACH (TOP 09): S ohledem na zvolenou technologii (jsem asi jeden z mála, kdo si to nastudoval a šel se tam několikrát podívat) je těžké firmu kritizovat – mohla sice nějaký čas ušetřit, ale podle mne tak dva týdny. Takže – nebylo v jejich silách to zásadně ovlivnit. Snad jen – dělat obstrukce a kanál by nebyl. Ale je tom řešení?
+PAVEL VLACH (TOP 09): S ohledem na zvolenou technologii (jsem asi jeden z mála, kdo si to nastudoval a šel se tam několikrát podívat) je těžké firmu kritizovat – mohla sice nějaký čas ušetřit, ale podle mne tak dva týdny. Takže – nebylo v jejich silách to zásadně ovlivnit. Snad jen – dělat obstrukce a kanál by nebyl. Ale je to řešení?
 
 RADEK MAZÁČ (SPORTOVCI): Určitě ne. Velkým nedostatkem byla informovanost občanů o připravované akci. Rovněž selhala realizace a organizace opatření vyplývající z rekonstrukce Dukelské ulice.
