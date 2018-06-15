@@ -1,5 +1,5 @@
 ---
-title: "Ze zastupitelstva: konec nafuko&shy;vačky, peníze pro nemocnici a konflikt zastupitelů"
+title: "Ze zastupitelstva: konec nafuko­vačky, peníze pro nemocnici a konflikt zastupitelů"
 cover-photo: https://i.imgur.com/gJkUV4yl.jpg
 perex: Nejvýznamnějším rozhodnutím, které zastupitelé učinili, bylo ukončení snah o pořízení přetlakové sportovní haly.
 author: Tomáš Trumpeš
