@@ -227,7 +227,9 @@ Teď bych byl nerad, aby to vypadalo, že popírám sám sebe. Myslím, že co s
 Myslím, že ano. To by byl dobrý kompromis mezi estetickou podobou, funkčností a zkvalitněním prostředí. Pokud bychom sem dali něco staršího, jako bylo dříve na náměstí, tak by to neprošlo přes všemožné normy a dámy na podpatcích by umíraly.
 
 Takže žulová kostka, možná nějaký štípaný kámen… Ale teď vlastně dělám to, co nemám rád a k čemu jsem při výkonu památkové péče často nucen – improvizuji a něco ad hoc vymýšlím. Správně bych měl odpovědět, že tato hexagonální litá betonová dlažba není vhodná, ale není zodpovědné vysypat tady a teď z rukávu řešení. Na to by se měl zapracovat důkladný projekt, kterému bude zodpovědně věnován čas, projektant si zajistí historické podklady, finanční možnosti, vytipuje materiály a možnosti a bude to iks hodin zpracovávat do všech detailů.
-Šlo nám hlavně o to říct, jestli je stávající stav dobrý.
+
+**Šlo nám hlavně o to říct, jestli je stávající stav dobrý.**
+
 Dá se zlepšit. I když zde taky mohla být ta nejklasičtější zámkovka íčkového tvaru… Mohlo to být ještě horší.
 
 {% photo src="https://i.imgur.com/ottug2h.jpg" author="Tomáš Znamenáček" %}
