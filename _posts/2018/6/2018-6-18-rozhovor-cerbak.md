@@ -154,13 +154,13 @@ Klasická obyčejná fajnová omítka se dělala a pořád dělá třeba 0,3 mil
 
 {% photo src="https://i.imgur.com/oGfeIjE.jpg" caption="Fasáda domu pod synagogou" author="Tomáš Trumpeš" %}
 
-**Pod synagogou je dům s prazvláštní modrou omítkou a plastovými okny. To je věc, která mě v památkové zóně opravdu překvapila.**
+**Pod synagogou je dům s prazvláštní modrou omítkou a plastovými okny (EDIT: Jedná se o bílá okna z lepených dřevěných profilů, tzv. eurookna). To je věc, která mě v památkové zóně opravdu překvapila.**
 
 Ano, tam je špatně úplně všechno.
 
 **A opět: jak je tohle možné?**
 
-Rád bych ti na to nějak uspokojivě odpověděl, ale tu odpověď neznám. Sokl je špatně, omítka je špatně, okna jsou špatně. Hezké by to nebylo ani na poli za městem. Ale je to dobrý příklad dnešního nejčastějšího přístupu. Marmolitový sokl, probarvená omítka ještě navíc s nějakým efektem rýhování a bílá plastová okna. Esence dnešního stavění.
+Rád bych ti na to nějak uspokojivě odpověděl, ale tu odpověď neznám. Sokl je špatně, omítka je nevhodná, okna jsou špatně. Hezké by to nebylo ani na poli za městem. Ale je to dobrý příklad dnešního nejčastějšího přístupu. Marmolitový sokl, probarvená omítka ještě navíc s nějakým efektem rýhování a bílá okna. Esence dnešního stavění.
 
 U nás moc nefunguje to, čemu by se asi dalo říct *společenská exkomunikace*. Vlastnické vztahy byly opravdu brutálně přerušené čtyřiceti lety totality. Přerušilo se pouto a zájem o veřejné věci. Nechci si to idealizovat, ale myslím si, že kdyby v nějaké staré italské nebo francouzské vesničce přišel někdo s fialovým barákem s plastovými okny, sousedi by ho ukousali. A on by s tím asi ani nepřišel. Nebo jen jednou. Chybí nám obecná kultivovanost a ta samozřejmost, se kterou si najmeš architekta. To je povolání, na jehož potírání se čtyřicet let pracovalo, jeho svobodný výkon byl zakázán. Mnoho lidí si vlastníma rukama postavilo barák nebo aspoň garáž. A tak si dnes řeknou: „K čemu mi ten architekt bude? Vždyť to zvládnu sám.“ A pak to končí všelijak.
 
