@@ -170,7 +170,7 @@ U nás moc nefunguje to, čemu by se asi dalo říct *společenská exkomunikace
 
 To se děje, ten program běží myslím druhý rok. A je to logické. Lidé, kteří mají kulturní památku, jsou nějakým způsobem omezeni na výkonu vlastnického práva. Společnost se dohodla, že jejich dům je natolik významný, že budou omezeni. A to jim společnost kompenzuje formou dotací. Můžeme samozřejmě diskutovat, zda jsou opravdu všechny domy natolik významné nebo zda je kompenzace dostatečná, ale tak to je nastaveno. Nespravedlnost vznikala právě v těch případech, kdy měl někdo objekt v památkové zóně, byl omezený, ale na dotace nedosáhl. Proto vznikl tento program.
 
-Používá se termín, který nemám rád, a to *kulturní nadhodnota*. Zní to jako z let minulých, že až budeme mít pětiletku splněnou, můžeme se tím zabývat. Ale tento program se rozjíždí, aby se zamezilo těm největším přešlapům a lidem se pomohlo. Dřív byla kastlová okna samozřejmost, ale dnes se z toho stává luxusní a nedostupné zboží.
+Používá se termín, který nemám rád, a to *památková nadhodnota*. Zní to jako z let minulých, že až budeme mít pětiletku splněnou, můžeme se tím zabývat. Ale tento program se rozjíždí, aby se zamezilo těm největším přešlapům a lidem se pomohlo. Dřív byla kastlová okna samozřejmost, ale dnes se z toho stává luxusní a nedostupné zboží.
 
 **Pokud jsme k vývoji památkové zóny kritičtí, tak tímto ale říkáme, že zčásti za to mohou vlastníci, ale zčásti také město, které s touto podporou přišlo až teď.**
 
