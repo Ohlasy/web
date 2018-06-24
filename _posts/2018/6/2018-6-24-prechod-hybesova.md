@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Přejít Hybešovu ulici po přechodu je možné jen na jejím úplném začátku, ještě pod poštou. Od evangelického kostela až k takzvané národohospodářské škole žádný přechod není. Občané se  domáhají jeho zřízení.*
 
-{% photo src="https://i.imgur.com/og9k773.jpg" caption="Křižovatka ulic Havlíčkova a Svatopluka Čecha" author="Tomáš Trumpeš" %}
+{% photo src="https://i.imgur.com/og9k773.jpg" caption="Křižovatka ulic Hybešova a Svatopluka Čecha" author="Tomáš Trumpeš" %}
 
 Hybešova ulice odděluje část města, ve které v posledních letech významně přibylo obyvatel – nové ulice Na Chmelnici a Lipová, nové bytové domy Na Výsluní a samozřejmě obyvatelé všech ostatních domů v celé lokalitě potřebují při pěší cestě do města Hybešovu ulici přejít. A týká se to samozřejmě také značného počtu dětí, které míří do škol na náměstí 9. května nebo na Sušilově.
 
