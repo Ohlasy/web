@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Přejít Hybešovu ulici po přechodu je možné jen na jejím úplném začátku, ještě pod poštou. Od evangelického kostela až k takzvané národohospodářské škole žádný přechod není. Občané se  domáhají jeho zřízení.*
+*Přejít Hybešovu ulici po přechodu je možné jen na jejím úplném začátku, ještě pod poštou. Od evangelického kostela až po konec ulice a její změnu v ulici Ludvíka Vojtěcha žádný přechod není. Občané se  domáhají jeho zřízení.*
 
 {% photo src="https://i.imgur.com/og9k773.jpg" caption="Křižovatka ulic Hybešova a Svatopluka Čecha" author="Tomáš Trumpeš" %}
 
