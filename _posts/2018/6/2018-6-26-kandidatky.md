@@ -1,5 +1,6 @@
 ---
 title: Boskovické strany připravují kandidátky do komunálních voleb
+perex: Do komunálních voleb zbývají tři měsíce. Boskovické strany připravují program, kampaň a také kandidátky, které musejí odevzdat do konce července.
 cover-photo: https://i.imgur.com/WeAj2ACl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
