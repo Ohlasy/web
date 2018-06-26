@@ -14,7 +14,7 @@ category: zpravodajství
 
 Před největší výzvou bude na podzim ve volbách stát boskovická ČSSD. V roce 2014 vyhrála s 26,6 procenty hlasů opravdu drtivě a získala dvojnásobek zastupitelů, co v pořadí druzí lidovci. Strana obhajuje nejen vysoký počet 8 mandátů a post starostky, ale také post neuvolněného místostarosty, který zastává současný předseda místní organizace [Petr Malach](http://www.ohlasy.info/clanky/2016/02/rozhovor-petr-malach.html). 
 
-Jako lídryně se do čela kandidátky znovu postaví současná starostka [Hana Nedomová](http://www.ohlasy.info/clanky/2015/02/rozhovor-hana-nedomova.html). Další místa na kandidátce obsadí Karel Ošlejšek, Petr Malach, Marek Ležák a Jaroslava Látalová.
+Jako lídryně se do čela kandidátky znovu postaví současná starostka [Hana Nedomová](http://www.ohlasy.info/clanky/2015/02/rozhovor-hana-nedomova.html). Další místa na kandidátce obsadí Karel Ošlejšek, Petr Malach, Marek Ležák a Martin Budiš.
 
 ## ANO
 
