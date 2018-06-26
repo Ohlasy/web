@@ -3,7 +3,6 @@ title: Boskovické strany připravují kandidátky do komunálních voleb
 cover-photo: https://i.imgur.com/WeAj2ACl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-published: false
 ---
 
 *Do komunálních voleb zbývají tři měsíce. Boskovické strany připravují program, kampaň a také kandidátky, které musejí odevzdat do konce července. Zatím to vypadá, že kandidátek bude určitě víc než [v roce 2014](https://www.volby.cz/pls/kv2014/kv1111?xjazyk=CZ&xid=1&xdz=2&xnumnuts=6201&xobec=581372&xstat=0&xvyber=0), ačkoliv některé projekty jsou zatím nejasné. Naopak se už vyjasňují jména lídrů.*
