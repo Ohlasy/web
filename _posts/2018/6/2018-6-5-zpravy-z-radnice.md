@@ -55,7 +55,7 @@ Pořadatelé ze společnosti Orbis Pictures se rozhodli zrušit letošní ročn�
 
 ### Byty pro seniory na Hybešově
 
-Na místě bývalé Slámovy pily by mělo dojít k výstavbě domu seniorů. Připravuje ho soukromá brněnská společnost Dům seniorů U Lípy, kapacita by měla být 84 sob. „Je to developerský projekt. Původně zde měly stát dvojdomky, původní majitel prodal celé území novému majiteli,“ popsala starostka Hana Nedomová (ČSSD). Rada města stavbu projednávala v souvislosti s jejím napojením na inženýrské sítě.
+Na místě bývalé Slámovy pily by mělo dojít k výstavbě domu seniorů. Připravuje ho soukromá brněnská společnost Dům seniorů U Lípy, kapacita by měla být 84 osob. „Je to developerský projekt. Původně zde měly stát dvojdomky, původní majitel prodal celé území novému majiteli,“ popsala starostka Hana Nedomová (ČSSD). Rada města stavbu projednávala v souvislosti s jejím napojením na inženýrské sítě.
 
 ### Záměr změny územního plánu na Července
 
