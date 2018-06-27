@@ -39,6 +39,12 @@ Promenádní koncerty mají svou tradici nejen v Boskovicích, ale například i
 
 Již podruhé se v letním kině odehraje akce s názvem Retro, tentokrát, co se týče účinkujích, s daleko většími ambicemi, než tomu bylo v roce 2016. Do letního kina se tentokrát chystají největší hvězdy historie československého popu, konkrétně Petra Janů, Peter Nagy, Jitka Zelenková nebo Petr Spálený s Miluší Voborníkovou. Hlavní hvězdou celého večera by měl být Karel Gott, který prý už na červnovém koncertě v pražské O2 aréně prohlásil, že se do Boskovic těší.
 
+### Festival 3+1 Letovice 2018
+
+*Letovice, 23.–29. července*
+
+Devatenáctý ročník multižánrového festivalu 3+1 se letos koná v Letovicích. Těšit se můžeme na filmové večery, vernisáž výstavy Klubu moravských fotografů, jazzový koncert i divadlo, hlavním festivalovým dnem pak bude sobota 28. července, kdy vystoupí mimo jiné kapely Mucha, Poletíme? nebo Vložte kočku.
+
 ### Kastelánská prohlídka: Zámek Kunštát – kolébka sjednocené Evropy
 
 *Zámek Kunštát, 25. července 21:00*
