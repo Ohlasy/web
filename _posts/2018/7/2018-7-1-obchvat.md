@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Ulevit dopravě ve městě přesměrováním projíždějících vozidel ve směru na Jevíčko pomocí obchvatu nevypadá jako příliš reálný projekt. Radnice sice vybrala jednu variantu, kraj však záměr nepodporuje a samo město ho prakticky nemůže ufinancovat. Zaznělo to na setkání s veřejností, které se konalo koncem června na boskovické radnici.*
 
-{% photo src="https://i.imgur.com/dkWcRMK.png" caption="Druhá varianta obchvatu" author="Mapy.cz, Tomáš Znamenáček" %}
+{% photo src="https://i.imgur.com/dkWcRMK.png" caption="Druhá varianta obchvatu" author="OpenStreetMap, Tomáš Znamenáček" %}
 
 Pro řešení obchvatu na Jevíčko si boskovická radnice v minulosti nechala vypracovat [tři varianty řešení](http://www.ohlasy.info/clanky/2016/11/obchvat.html). Nakonec byla jako nejvhodnější vybrána varianta číslo 2, tedy ta nejdražší – odklonit tranzitní dopravu na kruhovém objezdu u nemocnice směrem do průmyslové zóny a odtud pokračovat podél železniční trati na severovýchod, kde by se obchvat napojil na stávající silnici vedoucí ve směru na Jevíčko.
 
