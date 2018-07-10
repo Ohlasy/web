@@ -3,11 +3,6 @@
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: http://www.kulturaboskovice.cz/
   priority: 1000
-- name: Unijazz
-  image: https://i.imgur.com/a2Hk1me.png
-  alt: Festival Boskovice 2018
-  url: http://boskovice-festival.cz/cs
-  priority: 1000
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/7O06ZsD.jpg
   alt: Festivalové výstavy v muzeu
