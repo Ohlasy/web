@@ -47,9 +47,9 @@ Devatenáctý ročník multižánrového festivalu 3+1 se letos koná v Letovic�
 
 ### Kastelánská prohlídka: Zámek Kunštát – kolébka sjednocené Evropy
 
-*Zámek Kunštát, 25. července 21:00*
+*Zámek Kunštát, 27. července 21:00*
 
-Mimořádná kastelánská prohlídka kunštátského zámku, zaměřená na období renesance, se bude konat ve středu 25. července. V tomto období proběhla přestavba gotického hradu na renesanční zámek po roce 1530 za Černčických z Kácova i pozdně renesanční úpravy zámku a nejbližšího okolí. Prohlídka má omezenou kapacitu, zájemci o tento mimořádný okruh by si tedy měli rezervovat místa na prohlídce předem.
+Noční kastelánská prohlídka kunštátského zámku vznikla v rámci projektu Národního památkového ústavu Po stopách šlechtických rodů, kdy rok 2018 je věnován tématu Šlechta českých zemí v evropské diplomacii. Dvě mimořádné prohlídky jsou tematicky koncipovány s akcentem na osobnost Jiřího z Kunštátu a Poděbrad a jeho diplomatické aktivity a dále pak na diplomatické aktivity členů rodu říšských hrabat  Coudenhove. Prohlídka má omezenou kapacitu, zájemci o tento mimořádný okruh by si tedy měli rezervovat místa na prohlídce předem.
 
 ### Ve znamení tří deklarací
 
