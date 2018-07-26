@@ -1,6 +1,6 @@
 ---
 title: "Boskovický zpravodaj? Nehorázná propaganda za peníze voličů"
-perex: Radnice nejspíš nepřekračuje zákon, ale pohybuje se na jeho hraně. Hranici novinářské a politické etiky však překračuje o koňské délky.
+perex: Radnice nejspíš nepřekračuje zákon, ale pohybuje se na jeho hraně. Hranici novinářské a politické etiky však překračuje o koňské délky.
 cover-photo: https://i.imgur.com/rZ5DCRll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
