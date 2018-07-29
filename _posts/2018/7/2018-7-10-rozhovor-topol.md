@@ -142,7 +142,7 @@ Ano, já v podstatě věřím v mladou generaci. Myslím, že každá mladá gen
 
 S údivem jsem shledal, že jsem vlastně optimista. Fakt. Pamatuju si dějinné přemety, pamatuju si národ mlčící a z určité části udávající každého, kdo měl třeba dlouhé vlasy. A pak si pamatuju to obrovské spadnutí železné krusty strachu a devadesáté roky jako výbuch svobody a aktivity. Teď vidím, že nějaké ANO má 30 procent, což mi připadá neuvěřitelné a nechápu to. Myslím, že může, dřív než se nadějeme, dojít k další změně. Opravdu jedny pitomé volby, kdy tolik hlupáků zvolilo Zemana, to takhle podělaly. Fakt si myslím, že kdyby byl zvolený jiný prezident, bylo to jinak. A že to zas bude, že to nastane. Fakt jsem optimista.
 
-Jsem čtenář Orwella a když O’Brian mučí Winstona Smithe, tak ten na mučidlech říká: „Stejně vás něco dostane.“ Příroda, něco, prostě si to myslím. Život totalitu rozbije.
+Jsem čtenář Orwella a když O’Brien mučí Winstona Smithe, tak ten na mučidlech říká: „Stejně vás něco dostane.“ Příroda, něco, prostě si to myslím. Život totalitu rozbije.
 
 A navíc teď žádná totalita není, je úplná svoboda. Když si vzpomenu na spoustu zavražděných a zavřených spisovatelů, tak se bojím, aby mi neuhnil jazyk, ale já na druhou stranu nevím, jestli to není ještě strašidelnější. V Rusku byli lidi zabíjeni za knihy a chodili do vězení za vlastnění knih. U nás v padesátých letech taky. A ještě já s kamarády jsme se mohli ocitnout na dva roky v kriminále kvůli nějakým básničkám. Tak dneska je tohle svobodné. Mocné to nezajímá, nějaké romány.
 
