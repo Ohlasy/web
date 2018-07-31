@@ -3,14 +3,15 @@ title: Zpravodajský přehled za červenec
 cover-photo: https://i.imgur.com/mlQGwGxl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-published: false
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v červenci na Boskovicku událo.*
 
 {% photo src="https://i.imgur.com/mlQGwGx.jpg" caption="Nová náves v Mladkově" author="Jaroslav Parma" %}
 
-V Boskovicích bude v říjnových komunálních volbách kandidovat celkem X politických uskupení. Konkrétní podoba kandidátek bude oficiálně zveřejněna až za dva tři týdny, nyní mají strany ještě možnost dělat změny a opravit případné chyby, na které je upozorní úřad.
+V Boskovicích bude v říjnových komunálních volbách kandidovat celkem 10 politických uskupení. Konkrétní podoba kandidátek bude oficiálně zveřejněna až za dva tři týdny, nyní mají strany ještě možnost dělat změny a opravit případné chyby, na které je upozorní úřad.
+
+Podle informací Ohlasů by se tedy voleb měly zúčastnit následující subjekty: ČSSD s lídryní Hanou Nedomovou, ANO s lídrem Lukášem Holíkem, KDU-ČSL s lídryní Dagmar Hamalovou, ODS s lídrem Jaroslavem Dohnálkem, Volba pro Boskovice s podporou TOP 09 s lídrem Pavlem Vlachem, STAN a Sportovci s lídrem Radkem Mazáčem, KSČM s lídrem Vladimírem Farským, Piráti s lídrem Radkem Šamšulou, Boskováci s lídrem Michalem Staňkem a Nestraníci s lídrem Vladimírem Jakubcem.
 
 Předvolební kampaň odstartovala v [Boskovickém zpravodaji](http://www.ohlasy.info/clanky/2018/07/zpravodaj.html).
 
