@@ -1,5 +1,5 @@
 ---
-title: Gianniho kulturní výběr na červenec
+title: Gianniho kulturní výběr na srpen
 cover-photo: https://i.imgur.com/YY3FAiTl.jpg
 author: Jan Bařinka
 category: zpravodajství
