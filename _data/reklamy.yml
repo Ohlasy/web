@@ -18,6 +18,11 @@
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
+- name: Festiválek
+  image: https://i.imgur.com/cvcPOfn.png
+  alt: Festiválek bez bojů a válek
+  url: http://www.festivalekbezbojuavalek.cz
+  priority: 800  
 - name: Impro
   image: https://i.imgur.com/A1NUsMW.png
   alt: Improzápas Lísky
