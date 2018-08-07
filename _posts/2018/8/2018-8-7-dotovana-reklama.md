@@ -12,7 +12,7 @@ category: názory a komentáře
 
 Přitom právě tohle hledisko je především pro politiky často klíčové. Jedná se přece o komerční reklamu, která je součástí zpravodaje, zaplatit si ji mohl každý, tak kde je problém? Pokusme se to tedy ještě jednou vysvětlit, a to právě z finančního hlediska. Ve skutečnosti se totiž o žádnou komerční reklamu nejedná. A spekulativní je i to, jestli si ji mohl pořídit každý.
 
-Celkový příjem z reklamy v Boskovickém zpravodaji činil za diskutované srpnové číslo 6 250 korun. Politické strany ČSSD a KDU-ČSL zaplatily každá za svůj inzerát 2 250 korun. Z podrobnějšího rozboru je zřejmé, že ve srovnatelném komerčním médiu by si za takovou reklamu musely výrazně připlatit. Ve zpravodaji to za ně udělají daňoví poplatníci.
+Celkový příjem z reklamy v Boskovickém zpravodaji činil za diskutované srpnové číslo 6 250 korun. Politické strany ČSSD a KDU-ČSL zaplatily každá za svůj inzerát 2 250 korun. Z podrobnějšího rozboru je zřejmé, že ve srovnatelném komerčním médiu by si za takovou reklamu musely výrazně připlatit. Ve zpravodaji to za ně udělají daňoví poplatníci.
 
 Boskovický zpravodaj nemá kromě reklamy žádný jiný finanční příjem. Distribuuje se zdarma do všech schránek ve městě, náklad činí 5 tisíc kusů. Pokud by stejný časopis chtěl vydávat soukromý subjekt – ve stejném nákladu, se stejným počtem stran, na stejném papíře, zdarma a se shodnou distribuční sítí – musela by být cena za reklamu několikanásobně vyšší. Nebo si myslíte, že by se někomu podařilo vydávat takové médium s hrubým měsíčním příjmem něco přes 6 tisíc korun? Náklady na to, aby jedno číslo vyšlo, se pohybují v desetitisících. Jen si to vezměte – grafika, tisk, distribuce, ale především zaplacení lidské práce na vytvoření obsahu a na zorganizování celé věci.
 
