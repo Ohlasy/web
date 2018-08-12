@@ -4,6 +4,7 @@ perex: Komentář o zneužívání radničních médií vyvolal silnou reakci. P
 cover-photo: https://i.imgur.com/P7EoAYjl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags: politika
 ---
 
 *[Komentář o zneužívání radničních médií](http://www.ohlasy.info/clanky/2018/07/zpravodaj.html) vyvolal poměrně silnou reakci. Zájem čtenářů, diskuse, soukromé zprávy, rozhovory – to vše nás samozřejmě těší. Téma pokládáme za důležité. Zčásti se ale ukazuje, že jádro problému se nám stále nedaří dobře vysvětlit, a to především u placené reklamy politických stran.*
