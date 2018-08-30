@@ -1,6 +1,6 @@
 ---
 title: Kolik je v Boskovicích straníků? Počty členů jsou nízké a stále klesají.
-cover-photo: https://i.imgur.com/T5nxphMl.jpg
+cover-photo: http://i.ohlasy.info/T5nxphMl.jpg
 perex: Do komunálních voleb zbývá půl roku. Většina stran už zvolila své lídry a řeší další místa na kandidátkách. Kolik lidí se podílí na stranickém životě v Boskovicích a jak velké jsou jednotlivé strany?
 author: Tomáš Trumpeš
 category: zpravodajství

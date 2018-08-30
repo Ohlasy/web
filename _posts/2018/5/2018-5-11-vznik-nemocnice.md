@@ -1,6 +1,6 @@
 ---
 title: "Rok 1958: Mohla stát na Čížovkách, nakonec ale nemocnice vznikla u hlavní silnice"
-cover-photo: https://i.imgur.com/paqYai8l.jpg
+cover-photo: http://i.ohlasy.info/paqYai8l.jpg
 perex: Boskovická nemocnice si letos připomíná kulaté výročí od svého vzniku.
 author: Marek Osouch
 category: seriály

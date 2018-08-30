@@ -1,7 +1,7 @@
 ---
 title: „Jestli je v tom naděje, tak proč ne.“
 perex: Rozhovor s výtvarníkem Vítem Ondráčkem o jeho grafickém cyklu Křížová cesta a také o zvláštní technice, kterou vyvíjí celý život.
-cover-photo: https://i.imgur.com/6TWkhDul.jpg
+cover-photo: http://i.ohlasy.info/6TWkhDul.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

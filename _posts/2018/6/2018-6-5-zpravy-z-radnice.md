@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: rozpočtové opatření, noví ředitelé, místa ve školkách"
-cover-photo: https://i.imgur.com/UVAghUFl.jpg
+cover-photo: http://i.ohlasy.info/UVAghUFl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
