@@ -1,13 +1,13 @@
 ---
 title: Na festival přijedou američtí Dälek či Jan P. Muchow
-cover-photo: https://i.imgur.com/OiQtAvL.jpg
+cover-photo: http://i.ohlasy.info/OiQtAvL.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Od čtvrtka 5. do neděle 8. července proběhne letos 26. ročník multižánrového festivalu Boskovice 2018. S blížícím se termínem pořadatelé z pořádajícího Unijazzu představili základní podobu festivalového programu.*
 
-{% photo src="https://i.imgur.com/OiQtAvL.jpg" caption="Dälek" %}
+{% photo src="http://i.ohlasy.info/OiQtAvL.jpg" caption="Dälek" %}
 
 K již dříve potvrzeným interpretům, jako jsou například hiphopeři Prago Union nebo americký baskytarista Fernando Saunders, nyní přibývají další dvě hvězdná jména. Hlavním headlinerem letošního ročníku bude legendární kapela Dälek z Ameriky. Seznam českých umělců rozšíří producent Jan P. Muchow s kapelou The Antagonists. „Američani Dälek budou bezesporu jedním z hlavních hudebních lákadel letošního ročníku. Tahle parta, která se vymyká všem zažitým žánrovým škatulkám, vznikla v roce 1998 v New Jersey. Hudební publicisté o nich často s nadsázkou říkají, že se jejich hudba nachází na pomezí My Bloody Valentine, Public Enemy, Einstürzende Neubauten či Death Grips,“ popsala Adéla Vojáčková z Unijazzu kapelu, která vystoupí v pátek večer v letním kině.
 

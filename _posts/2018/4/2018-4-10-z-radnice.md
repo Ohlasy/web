@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: zdravá strava ve školce a novinky z rady"
-cover-photo: https://i.imgur.com/xXkO8Gvl.jpg
+cover-photo: http://i.ohlasy.info/xXkO8Gvl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady na konci března. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.imgur.com/xXkO8Gv.jpg" caption="Štefánikova ulice" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/xXkO8Gv.jpg" caption="Štefánikova ulice" author="Tomáš Trumpeš" %}
 
 ### Zdravá strava ve školce
 

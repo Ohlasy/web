@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na srpen
-cover-photo: https://i.imgur.com/YY3FAiTl.jpg
+cover-photo: http://i.ohlasy.info/YY3FAiTl.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.imgur.com/YY3FAiT.jpg" caption="Acoustic Fields vystoupí 18. srpna na Festiválku bez bojů a válek" %}
+{% photo src="http://i.ohlasy.info/YY3FAiT.jpg" caption="Acoustic Fields vystoupí 18. srpna na Festiválku bez bojů a válek" %}
 
 ### BOSKOfest
 

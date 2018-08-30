@@ -1,14 +1,14 @@
 ---
 title: Konkurzy na ředitele by měly být samozřejmostí
 perex: Pokud chceme mít dynamicky se rozvíjející moderní instituce, měli by jejich šéfové jednou za několik let představit své vize a obhájit je v otevřené soutěži s dalšími zájemci.
-cover-photo: https://i.imgur.com/sOfAvmol.jpg
+cover-photo: http://i.ohlasy.info/sOfAvmol.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
 *Zdá se, že záměr vedení města vyhlásit výběrová řízení na ředitele základní i mateřské školy vyvolal silnou nesouhlasnou reakci. Podobný postup by přitom měl být spíše samozřejmostí, a to nikoliv pouze ve školství. Pokud chceme mít dynamicky se rozvíjející moderní instituce, měli by jejich šéfové jednou za několik let představit své vize a obhájit je v otevřené soutěži s dalšími zájemci.*
 
-{% photo src="https://i.imgur.com/sOfAvmo.jpg" caption="ZŠ Sušilova" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/sOfAvmo.jpg" caption="ZŠ Sušilova" author="Tomáš Znamenáček" %}
 
 Člověk ucházející se o vedoucí funkci ve veřejné instituci by se s podobným požadavkem měl umět vyrovnat. V soukromé sféře hrozí vedoucím pracovníkům od akcionářů nebo majitele odvolání prakticky kdykoli, takže obhajovat svou práci jednou za šest let je ještě docela střídmý požadavek. Šestileté období je naopak dost dlouhá doba na to, aby ředitel své schopnosti a kvalitu své vítězné představy o směřování školy prokázal. Pravidelné nebo alespoň častější konkurzy na ředitele škol zavedl v minulosti Jihomoravský kraj, a pokud se město Boskovice rozhodlo jít stejnou cestou, je to jedině dobře. Prostředí, ve kterém sedí ředitelé ve svých křeslech třeba i desítky let, a nejsou vystaveni žádnému tlaku na vypracování a veřejné obhájení nových strategií, je nezdravé. Mění se doba, mění se potřeby a požadavky společnosti, mění se představy o fungování škol i dalších institucí.
 

@@ -1,7 +1,7 @@
 ---
 title: „Je špatně, že nemáme člověka v úzkém vedení města“
 perex: Lékařka a v minulosti primářka boskovické nemocnice Martina Přichystalová je od roku 2014 za hnutí ANO boskovickou radní. V rozhovoru jsme se jí zeptali na roli hnutí ANO v koalici, nemocnici a zdravotnictví, v němž se denně pohybuje.
-cover-photo: https://i.imgur.com/tp76v61l.jpg
+cover-photo: http://i.ohlasy.info/tp76v61l.jpg
 author: Marek Osouch
 category: rozhovory
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Lékařka a v minulosti primářka boskovické nemocnice Martina Přichystalová je od roku 2014 za hnutí ANO boskovickou radní, ale ne zrovna viditelnou. Přiznává, že sama se příliš neprezentuje. V rozhovoru jsme se jí proto zeptali na roli hnutí ANO v koalici, nemocnici a zdravotnictví, v němž se denně pohybuje.*
 
-{% photo src="https://i.imgur.com/tp76v61.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/tp76v61.jpg" author="Tomáš Znamenáček" %}
 
 **Čtyři roky jste byla v opozici za Věci veřejné, v roce 2014 jste se za hnutí ANO stala součástí současné koalice. Jaká byla vaše cesta do rady?**
 
@@ -75,7 +75,7 @@ Možná je to mojí pasivitou nebo i pana Schwarzera, to je otázka do diskuze. 
 
 Vnímám to od samého začátku jako náš handicap.
 
-{% photo src="https://i.imgur.com/J4Dy8OA.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/J4Dy8OA.jpg" author="Tomáš Znamenáček" %}
 
 ### Na provoz si nemocnice musí vydělat
 
@@ -233,7 +233,7 @@ Pan jednatel, ať se k tomu rada vyjádří.
 
 Tak tomu nerozumíme oba a možná to je ten důvod, proč já se toho nehodlala zúčastnit.
 
-{% photo src="https://i.imgur.com/Ndfkkph.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/Ndfkkph.jpg" author="Tomáš Znamenáček" %}
 
 ### Lékaři jdou za pověstí 
 

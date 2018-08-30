@@ -1,12 +1,12 @@
 ---
 title: Komunální volby v dalších městech a obcích regionu
-cover-photo: https://i.imgur.com/O71djydl.jpg
+cover-photo: http://i.ohlasy.info/O71djydl.jpg
 author: Marek Osouch
 ---
 
 *Volby do zastupitelstev se netýkají samozřejmě jen Boskovic. Redakce Ohlasů se proto podívala i do dalších měst a obcí v regionu, jaké strany tam kandidují a jak se kandidátky proměnily oproti situaci před čtyřmi lety.*
 
-{% photo src="https://i.imgur.com/O71djyd.jpg" caption="Kunštát" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/O71djyd.jpg" caption="Kunštát" author="Tomáš Znamenáček" %}
 
 ### Kunštát
 

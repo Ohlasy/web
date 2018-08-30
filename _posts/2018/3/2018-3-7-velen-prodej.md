@@ -1,13 +1,13 @@
 ---
 title: Městu se otevřela možnost koupit kromě parcely po lihovaru i Velen
-cover-photo: https://i.imgur.com/vGUgswql.jpg
+cover-photo: http://i.ohlasy.info/vGUgswql.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Vyjednávání kolem pozemků v Červené zahradě v Boskovicích stále neutichla. Boskovická radnice v nich stále pokračuje, a dokonce poprvé za dobu tří let, co se schůzky s majiteli konají, má možnost koupit pozemky s ruinou bývalého hotelu Velen.*
 
-{% photo src="https://i.imgur.com/vGUgswq.jpg" author="Marek Osouch" %}
+{% photo src="http://i.ohlasy.info/vGUgswq.jpg" author="Marek Osouch" %}
 
 Ani po třech letech nekončí vyjednávání kolem pozemků blanenského advokáta Jana Paroulka v Boskovicích u sportovního areálu. Jen o nich radnice nemluví jako na začátku. Navíc se neustále objevují nové možnosti a nabídky. Jan Paroulek tak zřejmě zkouší různé varianty a sleduje, jak na ně zareaguje vedení města.
 

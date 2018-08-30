@@ -9,7 +9,7 @@ tags: politika
 
 *Do komunálních voleb zbývá půl roku. Většina stran už zvolila své lídry a řeší další místa na kandidátkách. Kolik lidí se podílí na stranickém životě v Boskovicích a jak velké jsou jednotlivé strany? A jak se počty členů proměnily za posledních pět let?*
 
-{% photo src="https://i.imgur.com/T5nxphM.jpg" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/T5nxphM.jpg" author="Tomáš Trumpeš" %}
 
 Počet lidí, kteří se budou ucházet o zastupitelský mandát, se může vyšplhat až ke třem stům, záležet bude především na počtech kandidujících stran a uskupení. Před čtyřmi lety jich šlo do voleb osm, což je na boskovické poměry poměrně málo. V minulosti jich bylo třeba i jedenáct. Mezi kandidujícími je však jen určité procento straníků.
 

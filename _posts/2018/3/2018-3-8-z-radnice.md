@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: práce policie, hospodaření nemocnice, výstavba za nemocnicí"
-cover-photo: https://i.imgur.com/wQWyEQ1l.jpg
+cover-photo: http://i.ohlasy.info/wQWyEQ1l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady na konci února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.
 
-{% photo src="https://i.imgur.com/wQWyEQ1.jpg" caption="Městská policie" author="Město Boskovice" %}
+{% photo src="http://i.ohlasy.info/wQWyEQ1.jpg" caption="Městská policie" author="Město Boskovice" %}
 
 ### Méně kriminality, více násilí
 

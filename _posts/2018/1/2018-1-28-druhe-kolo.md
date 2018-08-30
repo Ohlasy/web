@@ -1,7 +1,7 @@
 ---
 title: Jak jsme volili ve druhém kole
 perex: "Celostátní výsledky prezidentských voleb hovoří jasně: Miloš Zeman svůj mandát obhájil se ziskem 51,36 procent, poražený Jiří Drahoš obdržel 48,63 procent voličských hlasů. Volební účast se vyšplhala na 66,6 procent. A jak volily Boskovice, přilehlý region a Jihomoravský kraj?"
-cover-photo: https://i.imgur.com/vyl2cYl.png
+cover-photo: http://i.ohlasy.info/vyl2cYl.png
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Celostátní výsledky prezidentských voleb hovoří jasně: Miloš Zeman svůj mandát obhájil se ziskem 51,36 procent, poražený Jiří Drahoš obdržel 48,63 procent voličských hlasů. V prvním případě to znamenalo podporu 2 853 390 voličů, ve druhém 2 701 206. Volební účast se vyšplhala na 66,6 procent, tedy takřka o pět procent více než v prvním kole. A jak volily Boskovice, přilehlý region a Jihomoravský kraj?*
 
-{% photo src="https://i.imgur.com/vyl2cYl.png" caption="Mapa volebních výsledků. Červeně Miloš Zeman, fialově Jiří Drahoš" author="irozhlas.cz" %}
+{% photo src="http://i.ohlasy.info/vyl2cYl.png" caption="Mapa volebních výsledků. Červeně Miloš Zeman, fialově Jiří Drahoš" author="irozhlas.cz" %}
 
 Přímo v Boskovicích získal Miloš Zeman 53,54 procent hlasů, Jiří Drahoš 46,45 procent. Konkrétně to představuje 3 493 lidí hlasujících pro Miloše Zemana a 3 030 lidí pro Jiřího Drahoše. Pokud by nás výsledek zajímal pro porovnání s menšími obcemi, měli bychom zahrnout ještě skutečnost, že v celkovém hlasování v Boskovicích jsou zahrnuty i přidružené obce, tedy Mladkov, Vratíkov a Bačov. A zatímco ve Vratíkově jasně vyhrál Miloš Zeman, v Mladkově a na Bačově zvítězil Jiří Drahoš. Volební účast ve druhém kole dosáhla v Boskovicích téměř 70 procent, chybělo pouhých sedm setin procenta.
 

@@ -1,7 +1,7 @@
 ---
 title: Politická reklama ve zpravodaji je dotovaná, nikoliv komerční
 perex: Komentář o zneužívání radničních médií vyvolal silnou reakci. Politický inzerát je přece běžná reklama, kterou si mohl koupit každý – kde je problém?
-cover-photo: https://i.imgur.com/P7EoAYjl.jpg
+cover-photo: http://i.ohlasy.info/P7EoAYjl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *[Komentář o zneužívání radničních médií](http://www.ohlasy.info/clanky/2018/07/zpravodaj.html) vyvolal poměrně silnou reakci. Zájem čtenářů, diskuse, soukromé zprávy, rozhovory – to vše nás samozřejmě těší. Téma pokládáme za důležité. Zčásti se ale ukazuje, že jádro problému se nám stále nedaří dobře vysvětlit, a to především u placené reklamy politických stran.*
 
-{% photo src="https://i.imgur.com/P7EoAYj.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/P7EoAYj.jpg" author="Tomáš Znamenáček" %}
 
 Přitom právě tohle hledisko je především pro politiky často klíčové. Jedná se přece o komerční reklamu, která je součástí zpravodaje, zaplatit si ji mohl každý, tak kde je problém? Pokusme se to tedy ještě jednou vysvětlit, a to právě z finančního hlediska. Ve skutečnosti se totiž o žádnou komerční reklamu nejedná. A spekulativní je i to, jestli si ji mohl pořídit každý.
 

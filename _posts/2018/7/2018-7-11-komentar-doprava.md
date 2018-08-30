@@ -1,14 +1,14 @@
 ---
 title: Dopravu nevyřešíme jedním drahým trikem
 perex: Nedávné setkání vedení města s veřejností oživilo debatu o dopravě ve městě, zejména o obchvatu Boskovic na Jevíčko a nedostatku parkovacích míst.
-cover-photo: https://i.imgur.com/Qta4KNZl.jpg
+cover-photo: http://i.ohlasy.info/Qta4KNZl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
 *Nedávné setkání vedení města s veřejností oživilo debatu o dopravě ve městě, zejména o obchvatu Boskovic na Jevíčko a nedostatku parkovacích míst. Oba zmíněné problémy mají společný jmenovatel, kterým je rostoucí intenzita osobní automobilové dopravy.*
 
-{% photo src="https://i.imgur.com/Qta4KNZ.jpg" caption="Křižovatka u hotelu Slávie" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/Qta4KNZ.jpg" caption="Křižovatka u hotelu Slávie" author="Tomáš Trumpeš" %}
 
 Auta jsou v naší kultuře nedotknutelnou svatou krávou, a tak je zvlášť před komunálními volbami nepravděpodobné, že bychom od kandidujících stran slyšeli to, co bychom slyšet potřebovali: *Řešit problém osobní automobilové dopravy zvyšováním počtu parkovacích míst je jako řešit problém nadváhy posouváním knoflíku na kalhotách*. Místo abychom problém zmenšili, jen na čas zakryjeme fakt, že roste.
 

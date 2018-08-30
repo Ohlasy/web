@@ -1,13 +1,13 @@
 ---
 title: „V některých oblastech do tří let zmizí lesy.“
-cover-photo: https://i.imgur.com/CJ0NZXrl.jpg
+cover-photo: http://i.ohlasy.info/CJ0NZXrl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor s Tomášem Minxem, ředitelem společnosti MP Lesy. Ta se stará nejen o lesy patřící rodině Mensdorff-Pouilly, ale také o boskovické městské lesy. Mluvili jsme o kalamitě v českých lesích, o jejích příčinách i následcích a o možnostech, jak jí čelit.*
 
-{% photo src="https://i.imgur.com/CJ0NZXr.jpg" caption="Tomáš Minx" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/CJ0NZXr.jpg" caption="Tomáš Minx" author="Tomáš Znamenáček" %}
 
 **Co se děje v českých lesích? Zaznívá, že zažíváme největší kalamitu za posledních 200 let. Jak se na to díváš ty?**
 
@@ -25,7 +25,7 @@ Celý model fungování Lesů ČR je tak nepružný, že nedokázal na kalamitu 
 
 Tři týdny. Nemá to řešení. Za celou dobu, kdy téma v širším okruhu odborné veřejnosti diskutujeme, se bavíme o tom, že všichni chodí až za kůrovcem. A ne tam, kde ten brouk dneska je. Potřebujeme najít stromy, ve kterých se brouk aktivně vyvíjí, ty stromy skácet, chemicky ošetřit, odvézt z lesa – cokoliv, co zamezí, aby se zakuklil a vyvinula se nová generace, která bude vesele poletovat po lese a žrát další stromy.
 
-{% photo src="https://i.imgur.com/XUSyWvW.png" caption="Ohrožení lesů kůrovcem" author="Ministerstvo zemědělství" %}
+{% photo src="http://i.ohlasy.info/XUSyWvW.png" caption="Ohrožení lesů kůrovcem" author="Ministerstvo zemědělství" %}
 
 ### Kde smrk není doma
 
@@ -75,7 +75,7 @@ Minulý týden přišla bouřka do Tater. Byla silná, ale nebyla nijak výjime�
 
 Přesně tak. Určitě to sledujete a slyšíte, kůrovec teď je politické téma, sešli se páni poslanci a rokovali. Já se přímo i nepřímo snažím jednání účastnit. Dnes máme spoustu dřeva a firmy tak tak přežívají, protože ruku v ruce s tím jde problém, kam s tím dřevem. Ale to všechno je krátkodobý pohled, my se musíme bavit dál. Hospodářská škoda je vztažená ke dnešku, ale to je jen zlomek toho, co přijde v budoucnu. A to se bavím jen o tom, kam já vidím – náklady na znovuobnovení lesních ekosystémů, zadržování vody v krajině, retenční nádrže a tak dál. To jsou věci, které musí přijít.
 
-{% photo src="https://i.imgur.com/fvi8zAh.png" caption="Hladina vody v mělkých vrtech, květen 2018" author="ČHMÚ" %}
+{% photo src="http://i.ohlasy.info/fvi8zAh.png" caption="Hladina vody v mělkých vrtech, květen 2018" author="ČHMÚ" %}
 
 **Do jaké míry lesnictví zaspalo? Někteří ekologové říkají, že mluví o tom, že tato situace nastane, už 20 let – a stát nereagoval. Pořád se sázely smrky a těžilo stejným způsobem, a teď jsme narazili do zdi.**
 
@@ -128,7 +128,7 @@ Se změnou dřevinné skladby za posledních 250 let se výrazně změnil a spec
 
 Ještě před rokem jsem se smál vizi jedné firmy, která přišla s tím, že bude stavět krovy z bukového dřeva. A dnes už je to realita, znám asi tři firmy, které přešly ze smrku na buk. Funguje to, dokonce bych řekl, že lépe než u toho jehličí. To je jedna z možných cest, ale zatím je to kapička v moři. V Rakousku, v Rumunsku, v Itálii stojí obrovské fabriky, které polykají miliony kubíků jehličnatého dříví.
 
-{% photo src="https://i.imgur.com/bM7I50y.png" caption="Vývoj druhové skladby lesa na Boskovicku" author="Data ÚHÚL, graf Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/bM7I50y.png" caption="Vývoj druhové skladby lesa na Boskovicku" author="Data ÚHÚL, graf Tomáš Znamenáček" %}
 
 ### Žádná úmyslná těžba
 
@@ -182,7 +182,7 @@ Samozřejmě. Stopa, kterou to zanechává za sebou v podobě spotřebované naf
 
 Zapomněli jsme na tradiční řemesla, která po staletí v regionu fungovala a ekonomicky ho pozvedala. Dnes, když si budeš chtít postavit dům ze dřeva, ve dvou třetinách případů narazíš na firmy, které o tom neví vůbec nic. A to nechci nikoho pomlouvat. To je ten problém. Všechno balíme do plastů, ale proč nepodpořit papírenský průmysl? Samozřejmě, papírenství je také zátěž a zanechává za sebou určitou stopu, ale dnes už jsou technologie, které dokážou papír zpracovat velice šetrně, a je mnohem lepší dávat rohlíky do papírového sáčku než do plastu.
 
-{% photo src="https://i.imgur.com/kzMZFLP.png" caption="Současná druhová skladba lesů na Boskovicku" author="Data ÚHÚL, graf Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/kzMZFLP.png" caption="Současná druhová skladba lesů na Boskovicku" author="Data ÚHÚL, graf Tomáš Znamenáček" %}
 
 **Nutí vás ekonomický tlak, abyste netěžili úplně šetrným způsobem?**
 
@@ -224,7 +224,7 @@ A ta druhá část souvisí s tím, co jsem říkal. Smrk potřebujeme a potřeb
 
 Máš naprostou pravdu. Mou úvahu je potřeba rozvinout ještě dál. Bavili jsme se tady o půdoochranné a vodoochranné funkci lesa. Dnes je priorita zabránit masivnímu rozpadu lesních komplexů. I za cenu toho, že musíme sázet něco, o čem dnes víme, že to není úplně optimální. V reálu je pro mě pořád lepší zalesnit letos kůrovcovou kalamitní holinu smrkem, s jistou mírou předvídaného rizika, že se zde ten smrk stejně nedožije sta let. Ale já vím, že se do budoucna bude stejně redukovat – suchem, broukem a tak dál. Tím zalesněním získávám čas na přípravu té plochy. Jestliže mně dvacet, třicet, padesát procent smrku odumře, mám čas nasbírat si bukové osivo, vypěstovat sazenice a za tři, za pět, za deset let do těch mezernatých porostů začít sázet a vnášet další dřeviny. Smrk působí v těchto případech jako pionýrská dřevina. V klimaxovém stádiu takto funguje třeba v severských zemích. Někde je nahrazovaný břízou, někde jeřábem. Když se člověk vypraví do Skandinávie, krásně to vidí. Někde spadne les, první dřeviny, které tam nalétají, jsou bříza, jeřáb, smrk. A teprve potom se do mezer vtlačují ostatní dřeviny, které tam patří, a vlivem sukcese se tam dostanou. My tu sukcesi dnes musíme nahradit, ale nemáme dostatek optimálního sadebního materiálu.
 
-{% photo src="https://i.imgur.com/cMVm8FV.jpg" caption="Tomáš Minx" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/cMVm8FV.jpg" caption="Tomáš Minx" author="Tomáš Znamenáček" %}
 
 ### Odpovědnost člověka vůči krajině
 

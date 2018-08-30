@@ -1,6 +1,6 @@
 ---
 title: Deset deka demokracie
-cover-photo: https://i.imgur.com/gMMUdjcl.jpg
+cover-photo: http://i.ohlasy.info/gMMUdjcl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *V posledních senátních volbách někteří čtenáři těžce nesli, že se v našich novinách objevila placená reklama na KSČM. Jak jsme se rozhodli naložit s reklamou politických stran v nadcházejících komunálních volbách? Radikálně.*
 
-{% photo src="https://i.imgur.com/gMMUdjc.jpg" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/gMMUdjc.jpg" author="Tomáš Trumpeš" %}
 
 Zbývá právě půl roku do komunálních voleb, což mimo jiné znamená, že nás v regionálních médiích čeká příliv předvolební inzerce. Tato pravidelná záplava je užitečná především pro média, kterým umožňuje vyspravit chátrající rozpočty, a politiky, kterým umožňuje vyspravit chátrající pověst.
 

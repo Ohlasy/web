@@ -1,14 +1,14 @@
 ---
 title: Festival Boskovice si zaslouží větší podporu města 
 perex: Ohlížet se za dalším proběhlým ročníkem festivalu Boskovice je jistě možné z mnoha hledisek. Ponechejme tentokrát stranou kulturní význam a přínos akce a pojďme se bavit o penězích.
-cover-photo: https://i.imgur.com/SbhPk6El.jpg
+cover-photo: http://i.ohlasy.info/SbhPk6El.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
 *Ohlížet se za dalším proběhlým ročníkem festivalu Boskovice je jistě možné z mnoha hledisek. Ponechejme tentokrát stranou kulturní význam a přínos akce, o kterých již snad ani není nutné diskutovat. Ano, můžeme kriticky rozprávět nad jednotlivostmi a jistě to má smysl, kvalita festivalu jako celku a kulturní a společenský přesah daleko za rámec běžné festivalové zábavy jsou nezpochybnitelné. Pochyby naopak stále vyvolává vyvolává přístup města k této jedinečné akci. Pojďme se proto tentokrát bavit o penězích. Může se to jevit jako přízemní, ale pro existenci a rozvoj festivalu je to samozřejmě nutné.*
 
-{% photo src="https://i.imgur.com/SbhPk6E.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/SbhPk6E.jpg" author="Tomáš Znamenáček" %}
 
 Přímá finanční podpora města pořadatelům festivalu činila letos 100 tisíc korun. Ekonomická podpora města zajímavým způsobem odráží vývoj vztahu, který radnice k festivalu má. Ještě v letech 2010 a 2011 město festivalu přispívalo pouze 35 tisíc korun. V roce 2012 se konal 20. ročník festivalu a město dar Unijazzu zvýšilo na 100 tisíc korun. Tato částka se loni se u příležitosti 25. ročníku zvýšila na 155 tisíc korun, aby letos opět poklesla na předešlých 100 tisíc korun.
 

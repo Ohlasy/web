@@ -1,14 +1,14 @@
 ---
 title: „Křižáček byl film jako nachystaný pro naši hudbu.“
 perex: Rozhovor s Irenou a Vojtěchem Havlovými, kteří letos obdrželi Českého lva za hudbu k historickému filmu Křižáček. O práci na filmu a o jejich specifickém přístupu k vlastní hudební tvorbě.
-cover-photo: https://i.imgur.com/FU4LyWAl.jpg
+cover-photo: http://i.ohlasy.info/FU4LyWAl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor s Irenou a Vojtěchem Havlovými, kteří letos obdrželi Českého lva za hudbu k historickému filmu Křižáček. Režisér Václav Kadrnka ho natočil na motivy básně Jaroslava Vrchlického Svojanovský křižáček. S Havlovými jsme si povídali hlavně o práci na filmu, který se svým stylem vymyká z běžné domácí produkce, ale i o jejich specifickém přístupu k vlastní hudební tvorbě.*
 
-{% photo src="https://i.imgur.com/FU4LyWA.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/FU4LyWA.jpg" author="Tomáš Znamenáček" %}
 
 **Na předávání Českého lva jste uvedli, že film Křižáček byl pro vás takový zázrak. Jak k tomu zázraku došlo? Zavolal vám jednoho dne režisér?**
 
@@ -92,7 +92,7 @@ VOJTĚCH: Oceňovali jsme, že režisér měl jasnou představu, ale zároveň b
 
 VOJTĚCH: Přesně. To se hned tak nepodaří.
 
-{% photo src="https://i.imgur.com/lb9fxhz.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/lb9fxhz.jpg" author="Tomáš Znamenáček" %}
 
 ### Emoce v hudbě nemáme rádi ###
 
@@ -196,7 +196,7 @@ IRENA: Máme. Nezachová. Ale nedá se nic dělat. Tady neexistuje řešení, mu
 
 VOJTĚCH: Starou metodou jsme natáčeli několik filmů, třeba Cestu pustým lesem, ale tady u Křižáčka jsme byli nakonec překvapení, že se nám zvuk zdá opravdu hezký. Byli jsme spokojení, ty pro nás podstatné věci se podařilo zachovat.
 
-{% photo src="https://i.imgur.com/gfi6KHB.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/gfi6KHB.jpg" author="Tomáš Znamenáček" %}
 
 ### Jedna energie ###
 
