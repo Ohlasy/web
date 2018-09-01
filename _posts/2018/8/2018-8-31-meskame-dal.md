@@ -15,7 +15,7 @@ Považuji za kulturu nejen odhalování pamětních desek a jednorázové událo
 
 1. Neumíme postavit knihovnu
 2. Neumíme postavit sportovní halu
-3. Nevíme, co dělat ze Sokolovnou
+3. Nevíme, co dělat se sokolovnou
 4. Neumíme se dopravně napojit
 5. Nevíme, co si máme myslet o polytechnickém centru
 6. Nevíme, co s obchvatem města
