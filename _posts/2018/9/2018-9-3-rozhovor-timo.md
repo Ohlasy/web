@@ -26,7 +26,7 @@ Ale tohle se mi vrstvilo jako skříň plná jednotlivých předmětů. A to mi 
 
 **A pořád z té skříně něco padá?**
 
-A potkávám předměty. Maloval jsem tady v Boskovicích a najednou vidím psa s tím plastovým průsvitným límcem kolem krku a říkám si – to tím obrazem může proběhnout taky! Může se to tam objevit. Zvířata mi přijdou taky dobrá. Jako když něco fotíš a vlétne ti tam komár. Nebo malé děti ve školce, když se fotí, přijde mi skvělé, že jsou vždcky neučesané – není možné postavit třicet děcek do lajny, každý se nějak šklebí. Fotky ze školky jsou boží. A zvířata jsou podobná, vlétnou do záběru a dělají si co chcou.
+A potkávám předměty. Maloval jsem tady v Boskovicích a najednou vidím psa s tím plastovým průsvitným límcem kolem krku a říkám si – to tím obrazem může proběhnout taky! Může se to tam objevit. Zvířata mi přijdou taky dobrá. Jako když něco fotíš a vlétne ti tam komár. Nebo malé děti ve školce, když se fotí, přijde mi skvělé, že jsou vždcky neučesané – není možné postavit třicet děcek do lajny, každý se nějak šklebí. Fotky ze školky jsou boží. A zvířata jsou podobná, vlétnou do záběru a dělají si, co chcou.
 
 **A co potápěči? Ten nám zatím pořád nějak nepřiplaval.**
 
