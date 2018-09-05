@@ -4,6 +4,7 @@ perex: Boskovická politika nové impulzy potřebuje. Musí se ale najít někdo
 cover-photo: http://i.ohlasy.info/fqcrBbAl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags: politika volby2018
 ---
 
 *S blížícími se komunálními volbami se i v Boskovicích objevuje volání po nových tvářích. A nových stranách. Je to logické – tradiční strany obecně ve společnosti ztrácejí podporu a do značné míry zanedbaly generační obměnu. Pro mladé aktivní občany nejsou moc atraktivní, a ti mají tudíž větší tendenci sdružovat se v nových uskupeních.*

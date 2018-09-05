@@ -3,7 +3,7 @@ title: Deset deka demokracie
 cover-photo: http://i.ohlasy.info/gMMUdjcl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
-tags: politika
+tags: politika volby2018
 ---
 
 *V posledních senátních volbách někteří čtenáři těžce nesli, že se v našich novinách objevila placená reklama na KSČM. Jak jsme se rozhodli naložit s reklamou politických stran v nadcházejících komunálních volbách? Radikálně.*

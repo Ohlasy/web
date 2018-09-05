@@ -4,7 +4,7 @@ perex: Radnice nejspíš nepřekračuje zákon, ale pohybuje se na jeho hraně. 
 cover-photo: http://i.ohlasy.info/rZ5DCRll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
-tags: politika
+tags: politika volby2018
 ---
 
 *Nový boskovický zpravodaj jsme v Ohlasech [kritizovali už ve fázi záměru](http://www.ohlasy.info/clanky/2017/08/komentar-zpravodaj.html) a jeho konkrétní podoba naplnila naše pesimistické předpoklady. Zneužívání městského média, které platí všichni voliči, pro jednostrannou propagaci vedení města ovšem před volbami nabralo zcela nehorázných rozměrů. Radnice nejspíš nepřekračuje zákon, který je v tomto ohledu poměrně slabý, ale pohybuje se na jeho hraně. Hranici novinářské a politické etiky však překračuje o koňské délky.*

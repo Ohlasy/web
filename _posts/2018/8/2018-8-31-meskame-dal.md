@@ -3,6 +3,7 @@ title: Nikdo nepřichází s vizí. Meškáme dál
 cover-photo: http://i.ohlasy.info/oocohY0rl.jpg
 author: Radek Pernica
 category: názory a komentáře
+tags: politika volby2018
 ---
 
 *Své předvolební pocity shrnul v komentáři pro Ohlasy bývalý šéf boskovického kina Radek Pernica, který dnes vede brněnské kino Scala. Žije v Mladkově a boskovické dění stále pozorně sleduje.*
