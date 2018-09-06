@@ -1,0 +1,12 @@
+{% assign video = include.video %}
+<div class="col-md-3 col-sm-4">
+  <div class="article-preview article-preview-middle">
+      <a href="{{ video.url }}">
+          <div class="force-hd-aspect">
+              <img src="{{ video.thumb }}" class='img-responsive' alt="">
+          </div>
+          <h2>{{ video.name }}</h2>
+          <p class="article-perex hidden-md hidden-sm">„{{ video.blurb }}“</p>
+      </a>
+  </div>
+</div>
