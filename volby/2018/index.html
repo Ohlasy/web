@@ -1,10 +1,37 @@
+---
+why: A dummy header to make Jekyll process this file.
+---
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-    <meta charset="utf-8">
-    <title>Volby 2018</title>
+    {% include html/headers.html title="Komunální volby 2018" %}
 </head>
 <body>
-    <p>Všechno bude.</p>
+
+  <header class="navbar navbar-default">
+      <div class="container">
+          <h1><a href="/">Ohlasy <small>dění na Boskovicku</small></a></h1>
+      </div>
+  </header>
+
+  {% assign articles = site.array %}
+
+  {% for post in site.posts %}
+      {% if post.tags contains 'volby2018' %}
+          {% assign articles = articles | push: post %}
+      {% endif %}
+  {% endfor %}
+
+  <div class="container">
+      <h2>předvolební čtení</h2>
+      {% include grid/nine.html items=articles %}
+  </div>
+
+  {% include footer.html %}
+
+  <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script defer src="/lib/ad-rotate.js"></script>
+
 </body>
 </html>
