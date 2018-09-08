@@ -19,7 +19,7 @@ Také průměrný věk v první pětce kandidátů mají nejníže Piráti – n
 
 Kdyby nás zajímalo, jak je vedení jednotlivých kandidátek věkově pestré, vyšli by pravděpodobně vítězně Sportovci – ti mají na prvních třech místech jednoho čtyřicátníka, jednoho dvacátníka a jednoho šedesátníka.
 
-Kdo přináší nejvíce mladších uchazečů a politické angažmá prozradí i následující pořadí stran podle počtu kandidátů do 40 let: Piráti – 18, ANO – 15, KDU-ČSL – 14, TOP 09 – 9, Sdružení nestraníků – 8, Sportovci – 6, ČSSD – 5, ODS – 4, KSČM – 2, Boskováci – 2. Jak je vidět, z takzvaných tradičních stran se v Boskovicích daří generační obměna pouze lidovcům.
+Kdo přináší nejvíce mladších uchazečů o politické angažmá, prozradí i následující pořadí stran podle počtu kandidátů do 40 let: Piráti – 18, ANO – 15, KDU-ČSL – 14, TOP 09 – 9, Sdružení nestraníků – 8, Sportovci – 6, ČSSD – 5, ODS – 4, KSČM – 2, Boskováci – 2. Jak je vidět, z takzvaných tradičních stran se v Boskovicích daří generační obměna pouze lidovcům.
 
 Pro srovnání – v roce 2014 jsme si zvolili zastupitelstvo s věkovým průměrem necelých 53 let. Neusedl v něm nikdo pod 30 let a jediný třicátník Petr Malach z ČSSD.
 
