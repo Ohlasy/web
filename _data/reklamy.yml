@@ -8,6 +8,11 @@
   alt: Festivalové výstavy v muzeu
   url: http://www.muzeum-boskovicka.cz/vismo/kalendar-akci.asp?hledani=1&p1=1098&kdy=5
   priority: 1000
+- name: MSSS inzerát
+  image: https://i.imgur.com/DNNqyAQ.png
+  alt: Městská správa sociálních služeb hledá zaměstnance
+  url: http://msssboskovice.cz/
+  priority: 1000
 - name: Hrnčířský jarmark
   image: https://i.imgur.com/yBm8TRC.jpg
   alt: pozvánka kunštátský Hrnčířský jarmark
