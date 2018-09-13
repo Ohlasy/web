@@ -5,7 +5,6 @@ perex: Anketa s kandidáty jednotlivých stran a hnutí kandidujících v boskov
 author: Tomáš Trumpeš
 category: ankety
 tags: politika volby2018
-published: false
 ---
 
 *Co očekáváte od vedení města v následujícím volebním období v oblasti sportu? Jaké jsou zde hlavní úkoly a jaká řešení budete navrhovat?*
