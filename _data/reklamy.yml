@@ -4,9 +4,9 @@
   url: http://www.kulturaboskovice.cz/
   priority: 1000
 - name: Muzeum regionu Boskovicka
-  image: https://i.imgur.com/7O06ZsD.jpg
-  alt: Festivalové výstavy v muzeu
-  url: http://www.muzeum-boskovicka.cz/vismo/kalendar-akci.asp?hledani=1&p1=1098&kdy=5
+  image: https://i.imgur.com/tyeFQcb.jpg
+  alt: Výstava Vzhůru, máme svůj vlastní stát v muzeu
+  url: http://www.muzeum-boskovicka.cz/vzhuru-mame-svuj-vlastni-stat-43-projekce-dokumentu-po-vernisazi-za-muzeem/a-1201/p1=1098
   priority: 1000
 - name: MSSS inzerát
   image: https://i.imgur.com/EvSkfEL.png
