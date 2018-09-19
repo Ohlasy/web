@@ -78,7 +78,7 @@ Dá se nastavit například výšková úroveň, což regulační plán obsahuje
 
 **Takže to není principiální problém?**
 
-Nevnímám to tak. Měl bych problém, kdyby měl vedle synagogy vyrůst osmipatrový dům. Ale když se to takto zvedne o patro… Abych řekl pravdu, už nějakou dobu tady chodím, a že bych si zrovna tohoto všiml a považoval to za problém, tak to ne. A nějakou citlivost už za ty roky snad vypěstovanou mám a tohle mě do oka nekoplo. Samozřejmě, když na to upozorníš, synagoga je zakrytá a ten dům není žádné architektonické terno, ale ani ten příklad Špitálku ani tohle nepovažuji za problém. Spíš mi přijde líto, že dům u synagogy působí lacině a ošizeně – jak myšlenkově, tak materiálově.
+Nevnímám to tak. Měl bych problém, kdyby měl vedle synagogy vyrůst osmipatrový dům. Ale když se to takto zvedne o patro… Abych řekl pravdu, už nějakou dobu tady chodím, a že bych si zrovna tohoto všiml a považoval to za problém, tak to ne. A nějakou citlivost už za ty roky snad vypěstovanou mám a tohle mě do oka nekoplo. Samozřejmě, když na to upozorníš, synagoga je zakrytá a ten dům není žádné architektonické terno, ale ani ten příklad Špitálku, ani tohle nepovažuji za problém. Spíš mi přijde líto, že dům u synagogy působí lacině a ošizeně – jak myšlenkově, tak materiálově.
 
 **A jak je to s vnitřními dispozicemi domů?**
 
