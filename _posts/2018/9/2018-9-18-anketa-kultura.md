@@ -76,7 +76,7 @@ Chceme zahájit jednání s majiteli historických budov v centru města o odkou
 Město Boskovice je kulturním centrem širšího významu a chceme podporovat smysluplné projekty zaměřené na další rozvoj tohoto odvětví. Budeme podporovat činnost organizace Kulturní zařízení města Boskovice, které plní ve městě Boskovice roli hlavního provozovatele kultury. Na tomto úseku se chceme podílet zejména na řešení: 
 
 * V rámci našeho volebního programu navrhujeme zvýhodněné ceny vstupného na akcích pořádaných městem pro občany města Boskovic. Boskováci podporují kulturní akce.
-* Dokončení rekonstrukce prostoru letního kina a skleníku. Podpoříme udržení tradičních akcí, festivalů a dalších společenských akcií, které mají nadregionální význam.  
+* Dokončení rekonstrukce prostoru letního kina a skleníku. Podpoříme udržení tradičních akcí, festivalů a dalších společenských akcí, které mají nadregionální význam.  
 * Soustředíme se na dořešení umístění knihovny, která má regionální a okresní význam. Máme připraveno několik variant umístění a budeme prověřovat možnosti řešení. 
 * Podpoříme kulturní akce v příměstských částech Mladkov, Hrádkov, Bačov a Vratíkov.
 * Plánujeme podporu i volnočasových tradičních aktivit jako je soubor Velen, rybaření, myslivost či SDH.
