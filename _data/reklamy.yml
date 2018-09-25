@@ -13,11 +13,6 @@
   alt: Městská správa sociálních služeb hledá zaměstnance
   url: http://msssboskovice.cz/
   priority: 1000
-- name: Hrnčířský jarmark
-  image: https://i.imgur.com/yBm8TRC.jpg
-  alt: pozvánka kunštátský Hrnčířský jarmark
-  url: https://www.kunstat-mesto.cz/hrncirsky-jarmark-1/pruvodni-slovo/
-  priority: 1000
 - name: Ložiska
   image: http://i.imgur.com/5oCkCr9.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
