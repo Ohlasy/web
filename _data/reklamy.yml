@@ -13,6 +13,11 @@
   alt: Městská správa sociálních služeb hledá zaměstnance
   url: http://msssboskovice.cz/
   priority: 1000
+- name: Halasův Kunštát
+  image: https://i.imgur.com/8gwDA9t.jpg
+  alt: pozvánka na Halasův Kunštát
+  url: https://www.kunstat-mesto.cz/obcan/udalosti-ve-meste/kam-za-kulturou/?ftshow=97#ka97
+  priority: 1000
 - name: Ložiska
   image: http://i.imgur.com/5oCkCr9.png
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
