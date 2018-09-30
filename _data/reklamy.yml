@@ -1,8 +1,3 @@
-- name: KZMB
-  image: http://www.kulturaboskovice.cz/img/ohlasy.jpg?1
-  alt: pozvánka na aktuální kulturní akce v Boskovicích
-  url: http://www.husi-slavnosti.cz/
-  priority: 1000
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/tyeFQcb.jpg
   alt: Výstava Vzhůru, máme svůj vlastní stát v muzeu
