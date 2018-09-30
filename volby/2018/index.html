@@ -14,14 +14,6 @@ why: A dummy header to make Jekyll process this file.
       </div>
   </header>
 
-  {% assign articles = site.array %}
-
-  {% for post in site.posts %}
-      {% if post.tags contains 'volby2018' %}
-          {% assign articles = articles | push: post %}
-      {% endif %}
-  {% endfor %}
-
   <div class="container">
 
       <h2>komunální volby 2018</h2>
@@ -64,8 +56,27 @@ why: A dummy header to make Jekyll process this file.
       volit.</i></p>
   </div>
 
+  {% assign articles = site.array %}
+  {% assign surveys = site.array %}
+
+  {% for post in site.posts %}
+      {% if post.tags contains 'volby2018' %}
+          {% if post.category == "ankety" %}
+            {% assign surveys = surveys | push: post %}
+          {% else %}
+            {% assign articles = articles | push: post %}
+          {% endif %}
+      {% endif %}
+  {% endfor %}
+
   <div class="container">
-      <h2>předvolební čtení</h2>
+      <h2>předvolební ankety</h2>
+      {% assign surveys_randomized = surveys | sample:5 %}
+      {% include grid/five.html items=surveys_randomized %}
+  </div>
+
+  <div class="container">
+      <h2>další čtení</h2>
       {% include grid/nine.html items=articles %}
   </div>
 
