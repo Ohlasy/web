@@ -1,3 +1,8 @@
+- name: Volby
+  image: https://i.imgur.com/qItnSlS.png
+  alt: Volební speciál. Rozhovory, ankety, komentáře, analýzy. Vše, co potřebujete ke správné volbě.
+  url: /volby/2018/
+  priority: 2000
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/tyeFQcb.jpg
   alt: Výstava Vzhůru, máme svůj vlastní stát v muzeu
