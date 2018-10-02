@@ -18,7 +18,7 @@ Za největší filmovou událost v říjnu ale považuji promítání digitáln�
 
 Režisér Hirokazu Koreeda, mistr komorních sociálních dramat, ve svém nejnovějším snímku zachycuje chudou rodinu, přežívající díky drobným krádežím. Ač mají problém postarat se sami o sebe, přijmou do rodiny opuštěnou holčičku. Film není jen sondou mezi lidi na okraji společnosti, otevírá i otázku, zda rodinu definuje pokrevní spojení, nebo je někdy důležitější bezpodmínečná láska a přijetí.
 
-Koreeda volí uměřený filmový styl a největší důraz klade na autentické herectví a naprosto přesvědčivé dialogy. Ve svých starších filmech propojoval dokumentární postupy s hraného filmu a i v případě filmu Zloděj získáte dojem, že sledujete skutečné lidi a jejich vztahy.
+Koreeda volí uměřený filmový styl a největší důraz klade na autentické herectví a naprosto přesvědčivé dialogy. Ve své rané tvorbě kombinoval postupy dokumentu s hraným filmem a i v případě Zlodějů získáte dojem, že sledujete skutečné lidi a jejich vztahy.
 
 Režisér nezneužívá téma chudoby pro vytvoření melancholického kýče, u nějž se divák pouze dojme, ale učí nás solidaritě a empatii s nejchudšími. A přitom nenuceně, bez velkých gest. A v tom je jeho největší síla.
 
