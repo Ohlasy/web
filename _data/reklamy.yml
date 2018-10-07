@@ -1,8 +1,8 @@
 - name: Volby
-  image: https://i.imgur.com/qItnSlS.png
-  alt: Volební speciál. Rozhovory, ankety, komentáře, analýzy. Vše, co potřebujete ke správné volbě.
-  url: /volby/2018/
-  priority: 2000
+  image: https://i.imgur.com/jM01TAi.png
+  alt: Co říkáte na výsledky voleb? Navštivte naše nové diskuzní fórum!
+  url: https://forum.ohlasy.info/
+  priority: 1000
 - name: KZMB
   image: http://www.kulturaboskovice.cz/img/ohlasy.jpg?2
   alt: pozvánka na aktuální kulturní akce v Boskovicích
