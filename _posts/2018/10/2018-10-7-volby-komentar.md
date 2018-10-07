@@ -15,7 +15,7 @@ Co tohle všechno znamená pro další podobu vedení a hlavně směřování m�
 
 Na politicích už bude, jestli tento hlas vyslyší. Ve zdravé demokratické společnosti by i vítězové měli umět naslouchat celé společnosti, ne se jen spokojit s vlastním vítězstvím a co možno nejpohodlnějším způsobem se dopočítat potřebné většiny v zastupitelstvu. Opravdový respekt k výsledkům voleb vyžaduje snahu o hlubší pochopení a širší pohled na věc. Ve velké politice se tím definuje rozdíl mezi politikem a opravdovým státníkem. Na naší úrovni můžeme mluvit o tom, zda politik upřednostní svůj politický zisk, nebo se pokusí najít nejlepší variantu pro celé město.
 
-Voliči totiž jistým způsobem nerozhodují jen o vítězí, ale minimálně naznačují i to, jaké celkové uspořádání si na radnici přejí a jakým směrem by se město mělo ubírat. Co tedy vlastně znamenají výsledky voleb? Pokusím se nabídnout interpretaci.
+Voliči totiž jistým způsobem nerozhodují jen o vítězi, ale minimálně naznačují i to, jaké celkové uspořádání si na radnici přejí a jakým směrem by se město mělo ubírat. Co tedy vlastně znamenají výsledky voleb? Pokusím se nabídnout interpretaci.
 
 ### ODS
 
