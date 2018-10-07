@@ -25,7 +25,7 @@ K výsledku určitě přispěla i masivní kampaň. Podle toho, co uvedli lídř
 
 Na druhou stranu 6 mandátů není úplně drtivé vítězství a vzhledem k roztříštěnosti zastupitelstva čeká ODS nelehká práce, pokud chce vyjednat dobrou koalici. Tedy dobrou nejen ve smyslu pohodlnou, ale především sestavit funkční a pracovitý tým, který město posune dál.
 
-Teoreticky hrozí ODS i to, že by ji další strany obešly a ona zůstala v opozici. Čistě matematicky to dokonce vypadá velmi snadno – stávající koalice ČSSD + ANO + KDU-ČSL má sice jen 11 mandátů, ale kdyby přizvala do vedení města Piráty, získá potřebnou většinu 4 hlasů. A v záloze by stále měla ještě 2 hlasy komunistů. To už je velmi slušná většina 16 mandátů, této sestavě můžeme říkat třeba *koalice pro knihovnu*, případně rovnou *koalice pro městského architekta a progresivní vývoj Boskovic*. Přestože to vypadá snadno, není tato varianta zrovna pravděpodobná – zejména ČSSD a ANO jsou společným vládnutím docela unavené a těžko budou tvořit soudržný pakt. 
+Teoreticky hrozí ODS i to, že by ji další strany obešly a ona zůstala v opozici. Čistě matematicky to dokonce vypadá velmi snadno – stávající koalice ČSSD + ANO + KDU-ČSL má sice jen 11 mandátů, ale kdyby přizvala do vedení města Piráty, získá potřebnou většinu 14 hlasů. A v záloze by stále měla ještě 2 hlasy komunistů. To už je velmi slušná většina 16 mandátů, této sestavě můžeme říkat třeba *koalice pro knihovnu*, případně rovnou *koalice pro městského architekta a progresivní vývoj Boskovic*. Přestože to vypadá snadno, není tato varianta zrovna pravděpodobná – zejména ČSSD a ANO jsou společným vládnutím docela unavené a těžko budou tvořit soudržný pakt. 
 
 Proto je dále spíše přínosné se zamýšlet nad tím, kdo by byl pro ODS nejvhodnějším koaličním partnerem a s kým by mohla vytvořit nejlepší koalici.
 
@@ -58,6 +58,7 @@ Pokus vnést do boskovické politiky nový vítr a trendy moderní politiky, jak
 ### STAN a Sportovci a Volba pro Boskovice s podporou TOP 09
 
 Jednoznačnou prohrou skončily volby také pro dvě ambiciózní a dosud opoziční uskupení – pro Sportovce a boskovickou TOP 09. Namísto očekávaného posílení se propadly a získaly po dvou mandátech. Jejich případný podíl na vedení města není samozřejmě vyloučený, ale pozvání do rady města by ze strany ODS bylo spíš projevem velkorysosti vítěze a jistého pochopitelného parťáctví z dosavadní opozice. Navíc především Sportovci reprezentují téma, které je pro město důležité, a v obou uskupeních jsou lidé, jejichž zapojení do týmu by bylo přínosem.
+
 Kdyby se měli Sportovci či TOP 09 stát pilíři příští koalice a nárokovat si uvolněné funkce, opět by to spíše než státnické řešení pro Boskovice připomínalo chladnokrevnou snahu co nejméně se dělit o moc, nesnažit se o konsenzuální politiku a namísto respektu k přání voličů zobchodovat pragmatické řešení.
 
 ### KSČM
