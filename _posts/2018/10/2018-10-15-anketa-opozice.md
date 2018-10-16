@@ -4,6 +4,7 @@ perex: Jak hodnotíte vznik a uspořádání nové koalice a jaká jsou podle 
 cover-photo: https://i.imgur.com/vW8HolOl.jpg
 author: Tomáš Trumpeš
 category: ankety
+tags: politika volby2018
 ---
 
 *Komunální volby v Boskovicích vyhrála ODS, jejíž lídr Jaroslav Dohnálek po několika dnech [oznámil](https://forum.ohlasy.info/t/koalice-pro-volebni-obdobi-2018-22/34), že uzavřel koalici s hnutím ANO, STAN a Sportovci Boskovice, Volbou pro Boskovice s podporou TOP 09 a Boskováky. Lídrům stran, které končí v opozici, jsme položili otázku: Jak hodnotíte vznik a uspořádání nové koalice a jaká jsou podle vás hlavní rizika jejího vedení Boskovic v příštích čtyřech letech?*
