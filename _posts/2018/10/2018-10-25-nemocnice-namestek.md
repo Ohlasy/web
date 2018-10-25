@@ -1,6 +1,6 @@
 ---
 title: Boskovická nemocnice obnoví zrušenou pozici náměstka
-perex: Nemocnice v Boskovicích posiluje svůj management. Poté, co se stal ekonomický analytik Dan Štěpánský statutárním zástupcem jednatele, se obnovuje také pozice náměstka technické správy. Vedení nemocnice tak bude nově pětičlenné.
+perex: Nemocnice v Boskovicích posiluje management. Poté, co se stal ekonomický analytik Dan Štěpánský statutárním zástupcem jednatele, se obnovuje také pozice náměstka technické správy. Vedení nemocnice tak bude pětičlenné.
 cover-photo: https://i.imgur.com/i8xDw0Ll.jpg
 author: Marek Osouch
 category: zpravodajství
