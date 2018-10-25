@@ -1,6 +1,6 @@
 ---
 title: Boskovická nemocnice obnoví zrušenou pozici náměstka
-perex: V Kuřimi čekali na sportovní halu od 50. let minulého století, ve Svitávce ji dokázali postavit během posledních dvou let. Rozdíl je také v částce, kterou obce za stavbu haly zaplatily. Jedno je ale spojuje – sportovní haly Kuřim i Svitávka v těchto dnech otevírají.
+perex: Nemocnice v Boskovicích posiluje svůj management. Poté, co se stal ekonomický analytik Dan Štěpánský statutárním zástupcem jednatele, se obnovuje také pozice náměstka technické správy. Vedení nemocnice tak bude nově pětičlenné.
 cover-photo: https://i.imgur.com/i8xDw0Ll.jpg
 author: Marek Osouch
 category: zpravodajství
