@@ -1,7 +1,7 @@
 ---
-title: "Z muzejního depozitáře: Obraz Pavla Bačovského T. G. Masaryk v Boskovicích"
+title: "Z muzejního depozitáře: Obraz Pavla Bačovského T. G. Masaryk v Boskovicích"
 cover-photo: https://i.imgur.com/QEk8Z11.jpg
-perex: V roce 1929 navštívil Boskovice prezident Masaryk. Událost zachytil boskovický malíř Pavel Bačovský na rozměrném obraze, který je k vidění v boskoivckém muzeu.
+perex: V roce 1929 navštívil Boskovice prezident Masaryk. Událost zachytil boskovický malíř Pavel Bačovský na rozměrném obraze, který je k vidění v boskovickém muzeu.
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
