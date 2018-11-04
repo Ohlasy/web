@@ -38,19 +38,19 @@ excerpt: "Volební speciál: Rozhovory, ankety, komentáře, analýzy. Vše, co 
       <div class="article-grid">
           {% assign videos = site.data.volby2018 | sample:10 %}
           <div class="row">
-              {% for video in videos | limit:4 %}
+              {% for video in videos limit:4 %}
               {% include video-preview.html video=video %}
               {% endfor %}
           </div>
           <br>
           <div class="row">
-              {% for video in videos | offset:4 | limit:4 %}
+              {% for video in videos offset:4 limit:4 %}
               {% include video-preview.html video=video %}
               {% endfor %}
           </div>
           <br>
           <div class="row">
-              {% for video in videos | offset:8 %}
+              {% for video in videos offset:8 %}
               {% include video-preview.html video=video %}
               {% endfor %}
           </div>
