@@ -197,7 +197,7 @@ Vím, že vnímání občanů je takové, že jim architektura není až tolik b
 
 Co se týká veřejných architektonických soutěží, necítím tam takovou podporu, jak bych očekával, aby to prošlo úplně hladce.
 
-A [vyzvaných soutěží](https://forum.ohlasy.info/t/architektonicke-souteze-z-pohledu-zakona/90)?
+**A [vyzvaných soutěží](https://forum.ohlasy.info/t/architektonicke-souteze-z-pohledu-zakona/90)?**
 
 Já chci, aby v materiálech bylo, jak by se mělo v diskusi s panem Fránkem postupovat.
 
