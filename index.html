@@ -47,42 +47,6 @@ why: A dummy header to make Jekyll process this file.
         <h2>názory &amp; komentáře</h2>
         {% include grid/nine.html items=opinions %}
 
-        {% if site.data.nejctenejsi.size > 0 %}
-        <h2>nejčtenější články</h2>
-        <div class="row">
-            <div class="col-md-4 col-sm-6">
-                <ol class="article-list">
-                {% for mostReadPost in site.data.nejctenejsi limit: 5 %}
-                    <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
-                {% endfor %}
-                </ol>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <ol class="article-list" start="5">
-                {% for mostReadPost in site.data.nejctenejsi offset: 5 %}
-                    <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
-                {% endfor %}
-                </ol>
-            </div>
-            <div class="col-md-4 hidden-sm hidden-xs">
-                <div class="box"></div>
-            </div>
-        </div>
-        {% endif %}
-
-        <h2>rozhovory</h2>
-        {% include grid/five.html items=interviews %}
-
-        <h2>seriály</h2>
-        {% include grid/nine.html items=serials %}
-
-        <h2>politika</h2>
-        {% include grid/nine.html items=politics %}
-
-        <h2>vybíráme z archivu</h2>
-        {% assign random_featured = featured | shuffle %}
-        {% include grid/five.html items=random_featured %}
-
         {% if site.data.forum.size > 0 %}
         <h2>aktuální témata na fóru</h2>
         <ul class="forum-topic-list list-unstyled">
@@ -107,6 +71,42 @@ why: A dummy header to make Jekyll process this file.
           {% endfor %}
         </ul>
         {% endif %}
+
+        <h2>rozhovory</h2>
+        {% include grid/five.html items=interviews %}
+
+        {% if site.data.nejctenejsi.size > 0 %}
+        <h2>nejčtenější články</h2>
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <ol class="article-list">
+                {% for mostReadPost in site.data.nejctenejsi limit: 5 %}
+                    <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
+                {% endfor %}
+                </ol>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <ol class="article-list" start="5">
+                {% for mostReadPost in site.data.nejctenejsi offset: 5 %}
+                    <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
+                {% endfor %}
+                </ol>
+            </div>
+            <div class="col-md-4 hidden-sm hidden-xs">
+                <div class="box"></div>
+            </div>
+        </div>
+        {% endif %}
+
+        <h2>seriály</h2>
+        {% include grid/nine.html items=serials %}
+
+        <h2>politika</h2>
+        {% include grid/nine.html items=politics %}
+
+        <h2>vybíráme z archivu</h2>
+        {% assign random_featured = featured | shuffle %}
+        {% include grid/five.html items=random_featured %}
     </div>
 
     {% include footer.html %}
