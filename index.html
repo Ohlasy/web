@@ -48,28 +48,31 @@ why: A dummy header to make Jekyll process this file.
         {% include grid/nine.html items=opinions %}
 
         {% if site.data.forum.size > 0 %}
-        <h2>aktuální témata na fóru</h2>
-        <ul class="forum-topic-list list-unstyled">
-          {% for topic in site.data.forum.topic_list.topics limit: 10 %}
-          {% if topic.id != 8 %}
-          <li>
-              {% assign names = site.array %}
-              {% for poster in topic.posters %}
-                {% for user in site.data.forum.users %}
-                  {% if user.id == poster.user_id and user.id != -1 %}
-                    {% assign names = names | push: user.name %}
-                  {% endif %}
+            <h2>aktuální témata na fóru</h2>
+            <div class="forum-topic-list">
+                {% for topic in site.data.forum.topic_list.topics limit: 10 %}
+                    {% if topic.id != 8 %}
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <a href="https://forum.ohlasy.info/t/{{ topic.id }}">{{ topic.title }}</a>
+                            </div>
+                            <div class="col-sm-6">
+                                {% for poster in topic.posters %}
+                                  {% for user in site.data.forum.users %}
+                                    {% if user.id == poster.user_id and user.id != -1 %}
+                                      {% assign avatar_path = user.avatar_template | replace: "{size}", "50" %}
+                                      <img
+                                        src="https://forum.ohlasy.info/{{ avatar_path }}"
+                                        title="{{ user.name }}"
+                                        class="discourse-avatar" >
+                                    {% endif %}
+                                  {% endfor %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% endif %}
                 {% endfor %}
-              {% endfor %}
-              — <a href="https://forum.ohlasy.info/t/{{ topic.id }}">{{ topic.title }}</a>
-              <span class="hidden-md hidden-sm hidden-xs">
-                //
-                <small class="text-muted">{{ names | join: ", " }}</small>
-              </span>
-          </li>
-          {% endif %}
-          {% endfor %}
-        </ul>
+            </div>
         {% endif %}
 
         <h2>rozhovory</h2>
