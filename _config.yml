@@ -7,8 +7,10 @@ url: 'http://ohlasy.info'
 permalink: '/clanky/:year/:month/:title.html'
 
 jekyll_get:
-  data: nejctenejsi
-  json: 'http://data.ohlasy.info/top-articles.json'
+  - data: nejctenejsi
+    json: 'http://data.ohlasy.info/top-articles.json'
+  - data: forum
+    json: 'https://forum.ohlasy.info/latest.json'
 
 defaults:
   -
