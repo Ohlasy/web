@@ -13,6 +13,11 @@
   alt: Ložiska, klínové řemeny, gufera v Boskovicích
   url: http://www.loziska-boskovice.cz
   priority: 900
+- name: Evangelický advent
+  image: https://i.imgur.com/hhYK74R.png
+  alt: Adventní koncerty v evangelickém kostele
+  url: https://www.facebook.com/adventboskovice/
+  priority: 900
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
