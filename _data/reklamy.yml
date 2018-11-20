@@ -3,6 +3,11 @@
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: https://www.kulturaboskovice.cz
   priority: 1000
+- name: MSSS
+  image: https://i.imgur.com/KYQ19Z3.jpg
+  alt: Pracovní inzerát MSSS
+  url: https://www.msssboskovice.cz 
+  priority: 1000
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/tyeFQcb.jpg
   alt: Výstava Vzhůru, máme svůj vlastní stát v muzeu
