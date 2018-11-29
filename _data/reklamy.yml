@@ -8,11 +8,6 @@
   alt: Pracovní inzerát MSSS
   url: https://www.msssboskovice.cz 
   priority: 1000
-- name: Muzeum regionu Boskovicka
-  image: https://i.imgur.com/tyeFQcb.jpg
-  alt: Výstava Vzhůru, máme svůj vlastní stát v muzeu
-  url: http://www.muzeum-boskovicka.cz/vzhuru-mame-svuj-vlastni-stat-43-projekce-dokumentu-po-vernisazi-za-muzeem/a-1201/p1=1098
-  priority: 1000
 - name: Victory Show
   image: https://i.imgur.com/6aG3xTg.png
   alt: Victory Show, svět podle Michaela Live
