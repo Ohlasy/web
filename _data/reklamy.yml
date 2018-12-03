@@ -23,6 +23,11 @@
   alt: Adventní koncerty v evangelickém kostele
   url: https://www.facebook.com/adventboskovice/
   priority: 900
+- name: Impro
+  image: https://i.imgur.com/D8EnHsm.png
+  alt: "Improzápas: Lísky vs. Lísky"
+  url: http://www.improlisky.cz
+  priority: 600
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
