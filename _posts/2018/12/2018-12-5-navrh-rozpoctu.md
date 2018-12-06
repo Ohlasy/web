@@ -63,7 +63,7 @@ Výrazného navýšení po mnoha letech se dočkají městští strážníci. Na
 
 ### Dobrovolní hasiči
 
-Oba boskovické sbory dobrovolných hasičů se mohou v příštím roce těšit na příspěvek od města ve výši 680 tisíc, minulé vedení jim však chtělo dát na běžný výdaje ještě o sto tisíc více.
+Oba boskovické sbory dobrovolných hasičů se se společně s jednotkami Mladkov, Bačov a Vratíkov mohou v příštím roce těšit na příspěvek od města ve výši 680 tisíc, minulé vedení jim však chtělo dát na běžný výdaje ještě o sto tisíc více.
 
 ### Provoz úřadu
 
