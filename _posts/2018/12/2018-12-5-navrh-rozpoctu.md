@@ -59,7 +59,7 @@ S nárůstem výdajů na sociální služby kvůli zvyšování platů musí mě
 
 ### Městská policie
 
-Výrazného navýšení po mnoha letech se dočkají městští strážníci. Na provoz letos získali 620 tisíc, příští rok to bude rovný milion, s čímž bývalé vedení nepočítalo. Podle odůvodnění v návrhu se k navýšení přistoupilo z důvodu dlouhodobě neudržitelného stavu, jinými slovy nedostatku peněz na výstroj, výzbroj a další náklady včetně pohonných hmot. Už v roce 2009 byl rozpočet policie na provoz zhruba 548 tisíc a od té doby se zvyšoval až do letoška jen po malých částkách a v souhrnu nečiní desetiletý nárůst ani 100 tisíc. Více peněz dostanou příští rok rok strážníci i na platy. Vedení města plánuje dále za 750 tisíc zmodernizovat městský kamerový systém.
+Výrazného navýšení po mnoha letech se dočkají městští strážníci. Na provoz letos získali 620 tisíc, příští rok to bude rovný milion, s čímž bývalé vedení nepočítalo. Podle odůvodnění v návrhu se k navýšení přistoupilo z důvodu dlouhodobě neudržitelného stavu, jinými slovy nedostatku peněz na výstroj, výzbroj a další náklady včetně pohonných hmot. Už v roce 2009 byl rozpočet policie na provoz zhruba 548 tisíc a od té doby se zvyšoval až do letoška jen po malých částkách a v souhrnu nečiní desetiletý nárůst ani 100 tisíc. Více peněz dostanou příští rok rok strážníci i na platy, konkrétně o 1,6 milionu, minulé vedení plánovalo jen třetinovou částku. Vedení města plánuje dále za 750 tisíc zmodernizovat městský kamerový systém.
 
 ### Dobrovolní hasiči
 
