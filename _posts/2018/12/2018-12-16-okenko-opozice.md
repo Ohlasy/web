@@ -3,6 +3,7 @@ title: Jak to vidí opozice
 cover-photo: http://i.ohlasy.info/2Fni45cl.jpg
 author: Tomáš Trumpeš
 category: ankety
+tags: politika
 ---
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ČSSD, Pirátů, KDU-ČSL a KSČM.*

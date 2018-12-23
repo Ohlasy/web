@@ -3,6 +3,7 @@ title: "Ze zastupitelstva: Rozpočet na rok 2019, doprava seniorů i majáles"
 cover-photo: https://i.imgur.com/26wDQEVl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags: politika
 ---
 
 *Na prosincovém jednání se sešlo nové boskovické zastupitelstvo. Nejdůležitějším úkolem bylo jako obvykle v tuto dobu schválit rozpočet na příští rok, ale diskutovala se i jiná důležitá témata.*
