@@ -3,6 +3,11 @@
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: https://www.kulturaboskovice.cz
   priority: 1000
+- name: Kino
+  image: https://i.imgur.com/EEzWUbX.jpg
+  alt: Záznam představení londýnského National Theatre 
+  url: https://www.kulturaboskovice.cz/kino/akce/frankenstein
+  priority: 1000
 - name: Muzeum
   image: https://i.imgur.com/Vbn8jO8.png
   alt: Navštivte Muzeum regionu Boskovicka
