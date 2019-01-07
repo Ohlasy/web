@@ -1,6 +1,6 @@
 ---
 title: Opuštěné kočičí tlapky jsou i v Boskovicích
-author: Anna Dudková
+author: Anna Dušilová
 perex: Když narazíte na toulavého psa, zavoláte nejspíš městskou policii, která psa odveze do útulku. Když ale potkáte toulavou kočku, zavoláte Radce Pospíšilové z organizace Opuštěné kočičí tlapky a donesete kočku do jejího domácího kočičího depozitu.
 cover-photo: https://i.imgur.com/olKkTyTl.jpg
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Když narazíte na toulavého psa, zavoláte nejspíš městskou policii, která psa odchytí a odveze do místního útulku. Když ale v Boskovicích potkáte toulavou kočku, zavoláte Radce Pospíšilové z organizace Opuštěné kočičí tlapky a donesete kočku do jejího domácího kočičího depozitu. Tam se nalezenec přidá k dalším asi třiceti kočkám, které zde čekají na nový domov.*
 
-{% photo src="https://i.imgur.com/olKkTyT.jpg" caption="Kočičí depozit" author="Anna Dudková" %}
+{% photo src="https://i.imgur.com/olKkTyT.jpg" caption="Kočičí depozit" author="Anna Dušilová" %}
 
 Ze zákona má jakákoli obec povinnost postarat se o zvířata nalezená na jejím území. Často se péče omezuje na psy, protože u nich panují obavy, že by mohli někoho napadnout nebo nakazit vzteklinou. Proto je útulek pro psy běžnou součástí mnoha měst. O kočky jeví obce zájem menší. Z toho důvodu v mnoha případech nastupují dobrovolníci, kteří péči o nalezené kočky berou do svých rukou. V Boskovicích se nachází jeden z depozitů pro nalezené kočky zřízený pod hlavičkou organizace [Opuštěné kočičí tlapky](http://www.kocicitlapky.cz), kterou vede Anežka Štelclová.
 
