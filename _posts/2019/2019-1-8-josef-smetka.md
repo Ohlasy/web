@@ -26,7 +26,7 @@ Jožka Šmétka dokázal uplatnit svůj obrovský přehled nejen v přírodověd
 
 Vyhledával chlapskou společnost, aby si mohl zahrát své oblíbené karetní hry mariáš či taroky. Tradice pokračuje, vždyť na gymnáziu hrajeme taroky úspěšně až do dnešní doby.
 
-Jožka se na školu velmi rád vracel. Objevoval se tam při různých příležitostech v ruce s hnědou plátěnou taškou s tajemným obsahem. Gymnázium po něho bylo druhým domovem.
+Jožka se na školu velmi rád vracel. Objevoval se tam při různých příležitostech v ruce s hnědou plátěnou taškou s tajemným obsahem. Gymnázium pro něho bylo druhým domovem.
 
 Vážení přítomní, chtěl bych v této chvíli zakončit své kolegiální vzpomínání dvojverším Karla Havlíčka Borovského: „Moje barva červená a bílá, dědictví mé poctivost a síla.“ Takový byl i Ing. Josef Šmétka, svérázná osobnost, dnes už legenda.
 
