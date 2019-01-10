@@ -1,5 +1,5 @@
 ---
-title: Vůči seniorům máme v plánování města a dopravy dluh
+title: Vůči seniorům máme v plánování města a dopravy dluh
 perex: Loňský systém podpory seniorů vzal za své. Dluh, který vůči seniorům v oblasti plánování dopravy a vůbec rozvoje města máme, tady ale zůstává.
 cover-photo: https://i.imgur.com/lCfb8pQl.jpg
 author: Tomáš Trumpeš
