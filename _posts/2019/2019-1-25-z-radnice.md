@@ -46,6 +46,14 @@ Programové prohlášení nové městské rady, které by mělo jasně pojmenova
 
 Rada schválila obsazení jednotlivých komisí. Zde je jejich složení:
 
+Komise pro bytové záležitosti: Daniel Pavloň (ODS), Martin Staněk (ODS), Radek Sušil (STAN a Sportovci), Kamil Hejl (TOP 09), Lukáš Fiala (Boskováci), Martin Budiš (ČSSD), Lucie Pavelová (KDU-ČSL) 
+
+Komise pro dopravu: Milan Huzlík (ODS), Lukáš Holík (ANO), Vladimír Petrů (STAN a Sportovci), Karel Hloušek (TOP 09), Michal Staněk (Boskováci), Michal Knödl (KDU-ČSL), Marek Ležák (ČSSD), Jiří Klimek (Piráti), Vladimír Farský (KSČM), Jiří Tesař (DI PČR), Iveta Skotáková (MěÚ – Odbor DOP)
+
+Komise pro MPZ:  Josef Vašíček  (ODS), Veronika Katzmairová (ANO), Vladimír Ryšávka (STAN a Sportovci), Dominik Božek (TOP 09), Luděk Řehoř (Boskováci), Jaromíra Vítková (KDU-ČSL), Jiří Klimek (Piráti), Roman Čerbák (Národní památkový ústav Brno), Jaroslav Klenovský (Židovská obec), Alena Dvořáková (MěÚ Boskovice, státní památková péče), Leoš Vašek (JMK, Odbor památkové péče)
+
+Komise pro regionální rozvoj a cestovní ruch: Jaroslav Oldřich (Boskováci), Svatava Dvořáková (TOP 09), Barbora Palánová (KDU-ČSL), František Mlateček (ČSSD), Anna Trávníková (Piráti) 
+
 Komise pro tělovýchovu, sport a volnočasové aktivity: Radek Stříž (ODS), Martin Pospíšil (ODS), David Šafář (ANO), Filip Jimramovský (STAN a Sportovci), František Učeň (TOP 09), Erik Řezník (Boskováci), Jaroslav Vítek (KDU-ČSL), Petr Malach (ČSSD), Radek Šamšula (Piráti), Vladimír Farský (KSČM)
 
 Komise pro výstavbu a územní plánování: Čestmír Sekanina nejml. (ODS), Pavel Schwarzer (ANO), Jiří Pevný (STAN a Sportovci), Josef Bártek (Boskováci), Vladimír Klement (TOP 09), Dušan Fiala (KDU-ČSL), Hana Nedomová (ČSSD), Adam Kožoušek (Piráti), Josef Opatřil (KSČM), Petr Ondráček
