@@ -13,11 +13,6 @@
   alt: Navštivte Muzeum regionu Boskovicka
   url: http://www.muzeum-boskovicka.cz/vismo/kalendar-akci.asp?hledani=1&p1=1098&kdy=5
   priority: 1000
-- name: Ložiska
-  image: http://i.imgur.com/4nJ0dNw.png
-  alt: Ložiska, klínové řemeny, gufera v Boskovicích
-  url: http://www.loziska-boskovice.cz
-  priority: 900
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
