@@ -8,6 +8,11 @@
   alt: Navštivte Muzeum regionu Boskovicka
   url: http://www.muzeum-boskovicka.cz/vismo/kalendar-akci.asp?hledani=1&p1=1098&kdy=5
   priority: 1000
+- name: Impro
+  image: https://i.imgur.com/CbqZaTF.png
+  alt: Improzápas, Lísky vs. All Imp
+  url: http://www.improlisky.cz
+  priority: 900
 - name: Galerie OK
   image: http://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
