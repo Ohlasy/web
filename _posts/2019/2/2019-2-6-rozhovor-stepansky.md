@@ -5,7 +5,6 @@ perex: "Rozhovor s Danem Štěpánským, pravou rukou jednatele boskovické nemo
 author: Marek Osouch
 category: rozhovory
 tags: nemocnice
-published: false
 ---
 
 *Pravou rukou jednatele boskovické nemocnice je více než dva roky Dan Štěpánský, který zdědil kancelář po někdejším ekonomicko-správním náměstkovi a exministrovi zdravotnictví za ODS Tomáši Julínkovi. V rozhovoru jsme se ho ptali na to, jak si nemocnice stojí zejména v dostatku zaměstnanců a také ve mzdách.*
@@ -64,7 +63,7 @@ Mírně pokulháváme v kategorii mladých lékařů ve srovnání s tabulkami u
 
 **Očekáváte, že tabulkové požadavky v nejbližších letech doženete?**
 
-Zaostávání je historický jev, který vznikl v minulém desetiletí pravděpodobně z důvodů provozování nemocnice městem. Rozhodně nedošlo k tomu, že by se to zaostávání zvýšilo, spíše naopak se snažíme přiblížit tabulkám.
+Zaostávání je historický jev, který vznikl v minulém desetiletí pravděpodobně z důvodů provozování nemocnice soukromým subjektem. Rozhodně nedošlo k tomu, že by se to zaostávání zvýšilo, spíše naopak se snažíme přiblížit tabulkám.
 
 **U těch skupin, kde překračujete tabulky, dá se říct o kolik?**
 
@@ -84,7 +83,7 @@ Například pro kategorie mladých lékařů, z nichž velká část do Boskovic
 
 **Kolektivní vyjednávání v nemocnici jste ukončili až v lednu, probíhalo dlouho, jaké byly na začátku požadavky odborářů a jaké vaše?**
 
-První vyjednávání se týkalo navýšení mezd. Požadavky lékařů odpovídaly slibům ministerstva, ale ne výši, která byla stanovena v úhradové vyhlášce. Nicméně Nemocnice Boskovice navýšila mzdy více, než bylo doporučené úhradovou vyhláškou. Jak již bylo řečeno: všem přidáváme bez rozdělení o sedm procent od prvního ledna a dále o tři procenta lékařům od července, což odpovídá tomu, na co se odvolávaly odborové organizace.
+První vyjednávání se týkalo navýšení mezd. Požadavky lékařů odpovídaly slibům exekutivy, ale ne výši, která byla stanovena v úhradové vyhlášce. Nicméně Nemocnice Boskovice navýšila mzdy více, než bylo doporučené úhradovou vyhláškou. Jak již bylo řečeno: všem přidáváme bez rozdělení o sedm procent od prvního ledna a dále o tři procenta lékařům od července, což odpovídá tomu, na co se odvolávaly odborové organizace.
 
 **Tedy prohlášení ministerstva o navýšení o deset procent.**
 
@@ -151,7 +150,7 @@ Ta jednání jsou směřována k možnému dotačnímu financování těch věc�
 
 **To je vlastně podobná částka, kterou dnes díky dohodě o technickém zhodnocení majetku neplatíte v nájmu městu. Technické zhodnocení je věc účetnictví, nicméně fakticky ty peníze z účtu nemocnice do městské kasy neodchází.**
 
-Ano, v hotovostním toku skutečně v letošním roce neplatíme žádný nájem vzhledem k zápočtu o provedení technického zhodnocení, o němž jste hovořil. Ovšem jen shodou okolností výše požadované investice odpovídá i výši toho nájmu.
+Ano, v hotovostním toku skutečně v letošním roce neplatíme žádný nájem vzhledem k zápočtu vyúčtování technického zhodnocení, o němž jste hovořil. Ovšem jen shodou okolností výše požadované investice odpovídá i výši toho nájmu.
 
 **Tyto prostředky, které teď dva roky díky neplacení nájmu máte, tak využíváte také na investice?**
 
