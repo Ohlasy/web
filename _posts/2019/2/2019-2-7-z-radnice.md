@@ -1,5 +1,5 @@
 ---
-title: "Z radnice: Problémy s CPV, mobily ve škole, odpady"
+title: "Z radnice: Problémy s polytechnickým centrem, mobily ve škole, odpady"
 cover-photo: https://i.imgur.com/2F2vJcwl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
