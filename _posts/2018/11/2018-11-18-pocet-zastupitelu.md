@@ -1,7 +1,7 @@
 ---
 title: Nadměrný počet zastupitelů diskusi spíše ochromuje
 perex: Vstoupili jsme do nového volebního období, proběhlo první jednání zvoleného zastupitelstva, svou práci zahajuje nová městská rada. Není těch politiků v Boskovicích ale zbytečně moc?
-cover-photo: https://i.imgur.com/h3jDLy7l.jpg
+cover-photo: http://i.ohlasy.info/h3jDLy7l.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Vstoupili jsme do nového volebního období, proběhlo první jednání zvoleného zastupitelstva, svou práci zahajuje nová městská rada. Při pohledu na nově zvolené orgány vyvstává otázka, kterou jsme nedávno [otevřeli na našem diskusním fóru](https://forum.ohlasy.info/t/velikost-zastupitelstva/48) – není těch politiků v Boskoviích zbytečně moc?*
 
-{% photo src="https://i.imgur.com/h99LlQG.png" caption="Počty zastupitelů podle počtu voličů ve všech obcích ČR" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/h99LlQG.png" caption="Počty zastupitelů podle počtu voličů ve všech obcích ČR" author="Tomáš Znamenáček" %}
 
 Kolega Tomáš Znamenáček [si dal tu práci](https://forum.ohlasy.info/t/velikost-zastupitelstva/48?u=tomas_t) a spočítal, nakolik je 27 boskovických zastupitelů a 9 radních pro město naší velikosti běžný stav. A došel k pozoruhodnému zjištění – Boskovice mají největší zastupitelstvo ze všech srovnatelně velkých obcí v České republice. A ze všech obcí v celé republice, které mají 27 zastupitelů, mají právě Boskovice nejméně obyvatel. Obce zhruba naší velikosti mají většinou 21 zastupitelů.
 

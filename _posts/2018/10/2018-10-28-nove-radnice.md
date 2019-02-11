@@ -1,14 +1,14 @@
 ---
 title: Nové vlády v městech a obcích regionu
 perex: O novém vedení města či obce už mají jasno nejen Boskovice. Redakce Ohlasů  zjišťovala, jak výsledky komunálních voleb promění po tomto týdnu vedení radnic v regionu.
-cover-photo: https://i.imgur.com/2u4cPNxl.jpg
+cover-photo: http://i.ohlasy.info/2u4cPNxl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *O novém vedení města či obce už mají jasno nejen Boskovice. Ustavující zastupitelstva, kde se nová vláda nad obcí potvrdí, plánují v tomto týdnu kromě Boskovic i další města. Redakce Ohlasů proto zjišťovala, jak výsledky komunálních voleb promění po tomto týdnu vedení radnic v regionu.*
 
-{% photo src="https://i.imgur.com/2u4cPNx.jpgg" caption="Kunštát" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/2u4cPNx.jpgg" caption="Kunštát" author="Tomáš Znamenáček" %}
 
 ### Blansko
 

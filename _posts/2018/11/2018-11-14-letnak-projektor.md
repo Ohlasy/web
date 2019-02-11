@@ -1,14 +1,14 @@
 ---
 title: "Letní kino skvěle, ale bez vlastního projektoru to dál nepůjde"
 perex: Letní kino Boskovice zaznamenalo v roce 2018 nejvíce návštěvníků v celé ČR, ale projektor si musíme stále půjčovat. Změňme to!
-cover-photo: https://i.imgur.com/16nEibNl.jpg
+cover-photo: http://i.ohlasy.info/16nEibNl.jpg
 author: Radek Pernica
 category: názory a komentáře
 ---
 
 *Boskovické letní kino zveřejnilo na své facebookové stránce strohá čísla návštěvnosti za rok 2018. Návštěvnost ještě nezanedbatelně vzroste při silvestrovském promítání, ale to není pro tento komentář podstatné, stejně jako další kvanta lidí, kteří navštívili areál v rámci koncertů, festivalů a podobně. Chci se soustředit čistě na klasické filmové projekce, na které si divák kupuje standardní vstupenku.*
 
-{% photo src="https://i.imgur.com/16nEibN.jpg" caption="Projekce v letním kině" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/16nEibN.jpg" caption="Projekce v letním kině" author="Tomáš Znamenáček" %}
 
 A v případě těchto projekcí zde máme v žebříčku s ostatními letními kiny následující výsledek: Letní kino Boskovice zaznamenalo v roce 2018 nejvíce návštěvníků v celé České republice! Celkem podle Unie filmových distributorů přišlo 10 992 diváků a kino zaznamenalo druhé nejvyšší hrubé tržby ve výši přes milion korun.
 

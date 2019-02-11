@@ -1,6 +1,6 @@
 ---
 title: Jaké řešení by v Boskovicích nejlépe ctilo výsledek voleb?
-cover-photo: https://i.imgur.com/5TCxKvtl.jpg
+cover-photo: http://i.ohlasy.info/5TCxKvtl.jpg
 perex: Co znamenají výsledky voleb pro další podobu vedení i města a jaké varianty připadají v úvahu?
 author: Tomáš Trumpeš
 category: názory a komentáře
@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *Pohled na [volební výsledky v Boskovicích](http://www.ohlasy.info/clanky/2018/10/volby-vysledky.html) vyvolává samozřejmě řadu otazníků. Možná o to víc, že v zastupitelstvu usedne celkem 9 politických subjektů a podoba příští koalice není tentokrát hned zřejmá. Zvítězila ODS, ale oslabili její přirození partneři. Strany dosavadní koalice dopadly různě a máme zde dva nové subjekty.*
 
-{% photo src="https://i.imgur.com/5TCxKvt.jpg" caption="Boskovická radnice" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/5TCxKvt.jpg" caption="Boskovická radnice" author="Tomáš Znamenáček" %}
 
 Co tohle všechno znamená pro další podobu vedení a hlavně směřování města? To teprve uvidíme, klíč k řešení bude třímat v rukou především ODS jako vítěz voleb. I tak se můžeme blíže zamyslet nad výsledky jednotlivých stran, nad možnostmi dalšího uspořádání a hlavně nad tím, jaký vzkaz boskovičtí voliči o prvním říjnovém víkendu politikům vlastně vyslali.
 

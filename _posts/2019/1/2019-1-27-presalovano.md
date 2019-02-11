@@ -1,14 +1,14 @@
 ---
 title: Boskovice kulturně obézní
 perex: Mají Boskovice nedostatek prostorů pro kulturu, nebo je v nich, jak v poslední době několikrát zaznělo, „přesálováno“?
-cover-photo: https://i.imgur.com/ItALA43l.jpg
+cover-photo: http://i.ohlasy.info/ItALA43l.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
 *V textech o výživě se občas objevuje kombinace obezity a podvýživy v jednom pacientovi. Zdánlivě paradoxní spojení dává smysl – pokud je někdo živ převážně hranolkami s colou, jeho tělo kyne, ale zároveň se mu nedostává nezbytných živin, jako jsou například bílkoviny nebo vitamíny.*
 
-{% photo src="https://i.imgur.com/ItALA43.jpg" caption="Modrý salónek sokolovny" author="Město Boskovice" %}
+{% photo src="http://i.ohlasy.info/ItALA43.jpg" caption="Modrý salónek sokolovny" author="Město Boskovice" %}
 
 V poslední době si na tento obraz často vzpomenu, když v debatách o sokolovně nebo knihovně zazní, že je u nás ve městě *přesálováno*. Ano, naše město kyne kulturními prostory, ale z velké části jde o „prázdné kalorie“. U kulturních prostorů totiž, podobně jako u výživy, nezáleží ani tak na kvantitě, jako spíš na kvalitě, technické i estetické. A v té naše prostory pro kulturu nijak nevynikají:
 

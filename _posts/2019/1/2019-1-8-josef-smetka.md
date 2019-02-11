@@ -1,14 +1,14 @@
 ---
 title: Vzpomínka na Josefa Šmétku
 perex: Minulý týden proběhlo rozloučení s bývalým pedagogem gymnázia Josefem Šmétkou, který zemřel o Vánocích. Na pohřbu promluvil jeho kolega Josef Pros, jehož vzpomínku na legendárního pedagoga, který gymnáziu zasvětil dlouhá léta svého života, publikujeme.
-cover-photo: https://i.imgur.com/1XitwfPl.jpg
+cover-photo: http://i.ohlasy.info/1XitwfPl.jpg
 author: Josef Pros
 category: názory a komentáře
 ---
 
 *Minulý týden proběhlo smuteční rozloučení s bývalým pedagogem boskovického gymnázia Josefem Šmétkou, který zemřel o Vánocích. Na pohřbu promluvil jeho kolega Josef Pros, jehož řeč publikujeme jako vzpomínku na legendárního pedagoga, který gymnáziu zasvětil dlouhá léta svého života.*
 
-{% photo src="https://i.imgur.com/1XitwfP.jpg" caption="Josef Šmétka" author="Luboš Sušil" %}
+{% photo src="http://i.ohlasy.info/1XitwfP.jpg" caption="Josef Šmétka" author="Luboš Sušil" %}
 
 Vážení přítomní, dovolte mi proslovit několik vzpomínek na svého milého kolegu Ing. Josefa Šmétku.
 

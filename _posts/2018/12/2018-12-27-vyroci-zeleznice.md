@@ -1,7 +1,7 @@
 ---
 title: "Rok 1908: Před 110 lety přijel do Boskovic první vlak"
 perex: Trať mezi Skalicí a Velkými Opatovicemi vyrostla ještě za dob Rakouska-Uherska a letos slaví rovných 110 let. Tímto článkem končíme seriál o osmičkových výročích spojených s Boskovicemi.
-cover-photo: https://i.imgur.com/WTE84pQl.jpg
+cover-photo: http://i.ohlasy.info/WTE84pQl.jpg
 author: Marek Osouch
 category: seriály
 serial: osmicky
@@ -9,7 +9,7 @@ serial: osmicky
 
 *Deset let už jezdily vlaky mezi Skalicí nad Svitavou a Boskovicemi, když vzniklo Československo. Trať mezi Skalicí a Velkými Opatovicemi tak vyrostla ještě za dob Rakouska-Uherska a letos slaví rovných 110 let. Tímto článkem zároveň končíme seriál o osmičkových výročích spojených s Boskovicemi.*
 
-{% photo src="https://i.imgur.com/WTE84pQ.jpg" caption="Historický vlak" author="Archiv Marka Říhy" %}
+{% photo src="http://i.ohlasy.info/WTE84pQ.jpg" caption="Historický vlak" author="Archiv Marka Říhy" %}
 
 Psal se rok 1850, Boskovice se staly okresním městem a ve městě se začal rozvíjet průmysl a také služby. Jenže chybělo rychlé dopravní spojení. Železnice, která v té době zažívala obrovský rozmach díky první průmyslové revoluci, do Boskovic nevedla. Trať z Brna na Českou Třebovou sice už rok fungovala, ale Boskovice míjela a procházela pět kilometrů vzdálenou Skalicí nad Svitavou.
 

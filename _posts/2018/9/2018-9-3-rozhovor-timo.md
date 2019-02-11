@@ -1,6 +1,6 @@
 ---
 title: „Graffiti jsem vnímal jako Rychlé šípy, dobrodružství velkoměsta.“
-cover-photo: https://i.imgur.com/Xlm1ujfl.jpg
+cover-photo: http://i.ohlasy.info/Xlm1ujfl.jpg
 perex: Rozhovor s výtvarníkem, který je známý jako TIMO, nejen o jeho práci na boskovické trafačce, kterou vyzdobil Nočním potápěčem.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s výtvarníkem, který je známý jako TIMO. Zůstává v anonymitě, takže rozhovor doprovázejí fotky z jeho práce na boskovické trafačce, kterou vyzdobil Nočním potápěčem. Jazykově útlocitné čtenáře upozorňujeme, že jsme v rozhovoru ponechali v plném znění i slova, pro která TIMO nešel příliš daleko.*
 
-{% photo src="https://i.imgur.com/d69qclw.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/d69qclw.jpg" author="Tomáš Znamenáček" %}
 
 **Proč potápěč? Jak ten nápad vznikl?**
 
@@ -50,7 +50,7 @@ Takže to byla předmalovaná věc, která mi přišla, že sem sedne. Ta trafa�
 
 Asi kdyby mě k tomu napadlo něco fakt dobrého, tak jo, ale nechtěl jsem to za každou cenu. Přijde mi, že když se to zadá a je to na sílu, vypadne něco didaktického a nějak hloupého. Naopak mi přijde dobré, že ta věc je autonomní. Nemám rád, když se řekne Brno a začne se malovat krokodýl a kolářské kolo a kometa. Nebo hodiny na Svoboďáku. Všichni víme, že to tam je a furt se to recituje… Mně se líbí, že je to nová věc, která funguje sama o sobě. Nemám pocit, že by nerespektovala ten objekt. Z mého pohledu je trochu jedno, jestli je uvnitř elektřina, nebo třeba voda, stejně tam nikdo nevidí. Je to jakýsi blackbox, ufo uprostřed zástavby.
 
-{% photo src="https://i.imgur.com/j4VtFP1.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/j4VtFP1.jpg" author="Tomáš Znamenáček" %}
 
 ### Introvertní provokatér
 
@@ -104,7 +104,7 @@ Ano, mně graffiti přišlo svobodné v tom, že je to jakási energie, která o
 
 Jojo. Tenhle maluje deset let, tak je to king, a tenhle dělá kraviny. Je tam stejná macha. Ale počáteční energie mi přijde inspirativní. Normální výtvarné umění funguje tak, že je to esence reality přenesená do nějakého rámečku, do vymezeného prostoru. Odráží svět do nějakého formátu. Graffiti je zajímavé v tom, že maluje přímo na ten svět, hned ho mění. Člověk bere barvu, plácne ji na něco a zůstane tam otisk. Ten moment, ta pravěká animální energie je strašně silná. Ten otisk do světa. A hlavně jsem měl pocit, že v tom pravoúhlém sídlišti, kde je všechno takzvaně funkční, ale jinak tam není nic, tak v momentě, kdy na to člověk začne něco klást, zanechávat stopy – to jsem si zapsal: *Zanechávám stopu, kolem sebe kopu* – tak tam člověk začíná mít místo.
 
-{% photo src="https://i.imgur.com/9TTd55u.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/9TTd55u.jpg" author="Tomáš Znamenáček" %}
 
 ### Zvažuji, kam tu energii pustím
 
@@ -144,7 +144,7 @@ Když byl ten řidič Smetana s tykadly a ODS byla pořád ještě top a zaslou�
 
 Nějak ne. A přitom to mi přišlo super, že je to takové lidové, udělat taková dvě tykadla umí každý. Laciná věc, která by mohla zlidovět jako trenky.
 
-{% photo src="https://i.imgur.com/P9GnKt7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/P9GnKt7.jpg" author="Tomáš Znamenáček" %}
 
 ### Odpověď na tlak města
 
@@ -190,7 +190,7 @@ To určitě. Jen tam pro sebe vnímám takové ale, protože vnímám jakousi st
 
 Ano.
 
-{% photo src="https://i.imgur.com/Aaad5on.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/Aaad5on.jpg" author="Tomáš Znamenáček" %}
 
 ### Galerie je posvátný prostor
 
@@ -212,7 +212,7 @@ Vnímám problémy galerie, všichni o nich ví, ale je to pro mě stejné, jako
 
 Dělal jsem výstavy, kdy mi říkali: Můžeš si tady dělat, co chceš, provokativního. Mně to přijde zbytečné, dělat tam nějaké výkřiky na zdi. Pak se to bude muset celé zatírat. Zbytečná stopa. Spíš mám tendenci si tam od ulice odpočnout a potichu a cudně tam navěsit tiché, intimní obrázky. Samozřejmě s výkyvy, někdy tam jebnu takové ty postpubertální věci. Teď jsem měl ale výstavu tady v Lomnici u Tišnova v synagoze a myslím, že spousta lidí byla zklamaných z toho, že tam nejsou tyto cheeky výkřiky, *messages*.
 
-{% photo src="https://i.imgur.com/Xlm1ujf.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/Xlm1ujf.jpg" author="Tomáš Znamenáček" %}
 
 ### Kategorie pro psychiatrii
 

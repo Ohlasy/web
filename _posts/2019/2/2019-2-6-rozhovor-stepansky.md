@@ -1,6 +1,6 @@
 ---
 title: „Hospodaření nemocnice závisí na růstu osobních nákladů.“
-cover-photo: https://i.imgur.com/mNiRDK7l.jpg
+cover-photo: http://i.ohlasy.info/mNiRDK7l.jpg
 perex: "Rozhovor s Danem Štěpánským, pravou rukou jednatele boskovické nemocnice. Ptali jsme se, jak si nemocnice stojí zejména v dostatku zaměstnanců a také ve mzdách."
 author: Marek Osouch
 category: rozhovory
@@ -9,7 +9,7 @@ tags: nemocnice
 
 *Pravou rukou jednatele boskovické nemocnice je více než dva roky Dan Štěpánský, který zdědil kancelář po někdejším ekonomicko-správním náměstkovi a exministrovi zdravotnictví za ODS Tomáši Julínkovi. V rozhovoru jsme se ho ptali na to, jak si nemocnice stojí zejména v dostatku zaměstnanců a také ve mzdách.*
 
-{% photo src="https://i.imgur.com/mNiRDK7.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/mNiRDK7.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
 
 **Víte, že ve své kanceláři pracujete už delší dobu než její bývalý „nájemník“ Tomáš Julínek?**
 
@@ -53,7 +53,7 @@ Alfou a omegou je udržení růstu osobních nákladů. Vzhledem k tomu, že oso
 
 Veškerá jednání o kolektivní smlouvě s odborovými organizacemi lékařů i mimo kolektivní vyjednávání byla vždy vedena tak, aby vedení nemocnice neslibovalo anebo nezavazovalo nemocnici k takovým výdajům, které by mohly ohrozit vyrovnané hospodaření. Proto jsme se vždy snažili velice otevřeně všem zástupcům odborových organizací rozumně ukázat, jaké možnosti máme pro navýšení odměn z hlediska očekávaných výnosů spojených s úhradovou vyhláškou. Jednání byla vždy vedena s cílem udržet vyrovnané hospodaření a zachovat objem péče.
 
-{% photo src="https://i.imgur.com/RPfT4Wy.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/RPfT4Wy.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
 
 ### Přidáváme o 10 procent
 
@@ -119,7 +119,7 @@ Vzhledem k trendům zvyšování objemu peněz proudících do nemocnic lze oče
 
 To nikdo neví, ale lze s vysokou pravděpodobností očekávat, že to tak bude.
 
-{% photo src="https://i.imgur.com/IrKQZ3L.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/IrKQZ3L.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
 
 ### Přístroje za 50 milionů
 
@@ -194,7 +194,7 @@ Já jsem tady v té době nebyl, ale předpokládám, že ano.
 
 K tomu nemám žádný komentář, protože rozhodnutí o organizační změně mně nepřísluší. Svou roli vidím v tom, že se snažím naplnit požadavky jednatele a vedení města.
 
-{% photo src="https://i.imgur.com/imt6ZlD.jpg" caption="Rozhovor s Danem Štěpánským" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/imt6ZlD.jpg" caption="Rozhovor s Danem Štěpánským" author="Tomáš Znamenáček" %}
 
 ### Kvalifikovaní lékaři před důchodem
 

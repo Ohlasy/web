@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Isidor Reich – poslední boskovický rabín"
 perex: Boskovická židovská obec získala na samém sklonku své existence do čela svého duchovního života mimořádnou osobnost, kterou byl rabín Isidor Reich.
-cover-photo: https://i.imgur.com/L46KhjCl.jpg
+cover-photo: http://i.ohlasy.info/L46KhjCl.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *Boskovická židovská obec získala na samém sklonku své existence do čela svého duchovního života mimořádnou osobnost, kterou byl rabín Isidor Reich. Tento příslušník významné maďarsko-rakouské rabínské rodiny se narodil 1. dubna 1893 v malé vesničce Bártokesy, dnes obec Krajná Bystrá v okrese Svidník v Prešovském kraji. Pro pamětníky bude zajímavá informace, že v téže obci se narodil i nechvalně proslulý komunistický politik Vasil Biľak. Isidor přišel na svět jako první syn po dvou dcerách a od počátku byl připravován na dráhu rabína.*
 
-{% photo src="https://i.imgur.com/L46KhjC.jpg" caption="Eva Morris Reichová, dcera posledního boskovického rabína, se svou vnučkou" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/L46KhjC.jpg" caption="Eva Morris Reichová, dcera posledního boskovického rabína, se svou vnučkou" author="Tomáš Znamenáček" %}
 
 Podle vyprávění jeho dcery Evy Morris Reichové bylo tatínkovou nejstarší vzpomínkou, kterak jako asi dvouletý stál na dvorku na židli a kázal udiveným kuřatům a husám. Po několika letech vzdělávání u otce byl Isidor poslán ke svému dědečkovi Kopplu Reichovi do Budapeště, kde získal vzácnou kombinaci tradičního ortodoxního židovského myšlení a soudobé evropské civilizace. Koppl Reich se stal Isidorovi velkým vzorem, neboť tento vážený muž zastával vysoké funkce nejen náboženské, ale byl respektovanou osobností i v kruzích nejvyšší politiky. V roce 1902 se stal hlavním ortodoxním rabínem v Budapešti, později byl členem poradního sboru císaře Františka Josefa I. a roku 1929 byl zvolen za člena maďarské Horní sněmovny.
 

@@ -1,14 +1,14 @@
 ---
 title: „Progresivní divadlo nenechává diváka v komfortu.“
 perex: Rozhovor s Janem Doleželem, režisérem blanenského divadla Kolárka. Studuje divadelní vědu na Filozofické fakultě Masarykovy univerzity a v Kolárce letos uvedl dvě premiéry.
-cover-photo: https://i.imgur.com/d2YbN7il.jpg
+cover-photo: http://i.ohlasy.info/d2YbN7il.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor s Janem Doleželem, režisérem blanenského divadla Kolárka. Studuje divadelní vědu na Filozofické fakultě Masarykovy univerzity a v Kolárce letos uvedl dvě premiéry. V obou případech se jednalo o výrazné a odvážné inscenace a obě jsme nyní krátce po sobě mohli vidět v Boskovicích. Před představením Jako šílenci jsme si s Honzou o divadle povídali.*
 
-{% photo src="https://i.imgur.com/d2YbN7i.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/d2YbN7i.jpg" author="Tomáš Znamenáček" %}
 
 **Působíš jako režisér v divadle Kolárka. Přišel jsi sem už jako režisér, nebo jsi odchovanec kolárkovského dramaťáku?**
 
@@ -46,7 +46,7 @@ To, co přijde jako první, je to sdělení. To je na začátku každé práce. 
 
 Baví, to mám hrozně rád. Jsem rád v divadle, radši sedím na zkušebně než doma u stolu.
 
-{% photo src="https://i.imgur.com/1CHwbtk.jpg" caption="Jako šílenci" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/1CHwbtk.jpg" caption="Jako šílenci" author="Tomáš Znamenáček" %}
 
 ### V realistické formě už nereagujeme
 
@@ -90,7 +90,7 @@ Vždycky to rezonuje.
 
 Myslím, že ta otázka stojí ve vztahu k té formě. Je to stále šokující na úrovni imaginace a toho, že si to připustíme. Připustíme si, že někdo zastřelí psa nebo že je někdo znásilněný nebo otázky pedofilie. A podobné věci. V realistické formě už na to nereagujeme, protože je to všude. Pornografie na vás vyskočí z kdejaké stránky. Funguje to jen na základě vizuality, ale už to nejde dál, do hloubky, že si odpovíte na to, co vidíte. Proto to pořád vytahuju a nedělám to tím realistickým způsobem – vůči tomu jsme se už stali imunními, protože to vidíme každý den ve zprávách, jak je někomu podřezávaný krk a jak někdo někoho znásilnil.
 
-{% photo src="https://i.imgur.com/VOYAQHS.jpg" caption="Jako šílenci" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/VOYAQHS.jpg" caption="Jako šílenci" author="Tomáš Znamenáček" %}
 
 ### Chci to sledovat, nebo nechci?
 
@@ -130,7 +130,7 @@ Myslím si, že nenechává diváka v komfortu. A to především ve smyslu toho
 
 To mě inspiruje.
 
-{% photo src="https://i.imgur.com/9URh00Y.jpg" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/9URh00Y.jpg" author="Tomáš Znamenáček" %}
 
 **Mluvili jsme trochu u tvé generaci, u které se hodně řeší taky vliv technologií. Divadlo s nimi samozřejmě pracuje taky, ale pořád je to živá forma umění, velmi pomíjivá, děje se chvíli, je opřené do okamžiku, a pak končí. Je to pro lidi kolem tebe ještě zajímavé? Existuje tam nějaké napětí?**
 

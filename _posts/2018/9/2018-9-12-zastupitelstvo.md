@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Poslední jednání proběhlo v poklidném duchu"
-cover-photo: https://i.imgur.com/12wh2mYl.jpg
+cover-photo: http://i.ohlasy.info/12wh2mYl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Boskovičtí zastupitelé ukončili ve středu své čtyřleté působení bez konfliktů a bez vážnějších debat. Dali jméno nové ulici, upravili rozpočet a rozešli se se starostčiným přáním úspěchu v blížících se komunálních volbách.*
 
-{% photo src="https://i.imgur.com/12wh2mY.jpg" caption="Končí poslední zastupitelstvo" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/12wh2mY.jpg" caption="Končí poslední zastupitelstvo" author="Tomáš Trumpeš" %}
 
 Klidný průběh zastupitelstva předznamenal už úvodní bod dotazů a připomínek občanů – na zastupitele se totiž nikdo neobrátil. Poté zastupitelé opět bez diskusí schválili smlouvu, na základě které město poskytne nemocnici investiční dotaci ve výši 8 milionů korun. Částku schválili zastupitelé už na minulém jednání, nyní tedy už jen posvětili smlouvu, na základě které nemocnice obdrží peníze na nákup konkrétního přístrojového vybavení.
 

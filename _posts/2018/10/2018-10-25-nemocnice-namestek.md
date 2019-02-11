@@ -1,14 +1,14 @@
 ---
 title: Boskovická nemocnice obnoví zrušenou pozici náměstka
 perex: Nemocnice v Boskovicích posiluje management. Poté, co se stal ekonomický analytik Dan Štěpánský statutárním zástupcem jednatele, se obnovuje také pozice náměstka technické správy. Vedení nemocnice tak bude pětičlenné.
-cover-photo: https://i.imgur.com/i8xDw0Ll.jpg
+cover-photo: http://i.ohlasy.info/i8xDw0Ll.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Nemocnice v Boskovicích posiluje svůj management. Poté, co se stal ekonomický analytik Dan Štěpánský statutárním zástupcem jednatele, se obnovuje také pozice náměstka technické správy. Vedení nemocnice tak bude nově pětičlenné.*
 
-{% photo src="https://i.imgur.com/i8xDw0L.jpg" caption="Nemocnice Boskovice" author="Tomáš Znamenáček" %}
+{% photo src="http://i.ohlasy.info/i8xDw0L.jpg" caption="Nemocnice Boskovice" author="Tomáš Znamenáček" %}
 
 Když na podzim roku 2015 boskovická starostka Hana Nedomová (ČSSD) v roli jednatelky nemocnice zrušila místo náměstka pro ekonomiku a správu a [neprávem z něj vyhodila exministra zdravotnictví za ODS Tomáše Julínka](http://www.ohlasy.info/clanky/2017/08/julinek-vyhozen-nepravem.html), zůstali v nemocnici jen tři členové managementu. Podle slov starostky byl náměstkovský post nadbytečný.
 
