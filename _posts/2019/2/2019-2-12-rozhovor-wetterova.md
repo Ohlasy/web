@@ -76,7 +76,7 @@ Už máme chráněné bydlení v Opatovicích na sídlišti, kde máme dva byty 
 
 **Ve stejném režimu? Klienti tam bydlí a střídá se tam služba?**
 
-Ano, v každém bytě bydlí čtyři klienti. Další projekt by se měl realizovat od roku 2020 v Boskovicích, kam by mělo jít dalších osm klientů. Domy ve Svitávce jsou od počátky koncipovány pro dvanáct klientů. Ale protože je to jediný investiční projekt, má trochu delší přípravnou cestu. Žádalo se o peníze z evropských fondů. Když jdeme poptávat nemovitost na pronájem, je to otázka půl nebo tři čtvrtě roku, než vhodnou nemovitost najdeme. Pouze ve Svitávce jdeme tou cestou, že postavíme úplně nové domky.
+Ano, v každém bytě bydlí čtyři klienti. Další projekt by se měl realizovat od roku 2020 v Boskovicích, kam by mělo jít dalších osm klientů. Domy ve Svitávce jsou od počátku koncipovány pro dvanáct klientů. Ale protože je to jediný investiční projekt, má trochu delší přípravnou cestu. Žádalo se o peníze z evropských fondů. Když jdeme poptávat nemovitost na pronájem, je to otázka půl nebo tři čtvrtě roku, než vhodnou nemovitost najdeme. Pouze ve Svitávce jdeme tou cestou, že postavíme úplně nové domky.
 
 **Čili to, co ve Svitávce chystáte, už funguje ve Velkých Opatovicích formou bytů. Problémy tam nejsou?**
 
