@@ -4,6 +4,7 @@ perex: Po více než sto dnech od voleb jsou Boskovice se zkušeným prvním mu�
 cover-photo: https://i.imgur.com/LEX8yEDl.jpg
 author: Marek Osouch
 category: názory a komentáře
+tags: politika
 ---
 
 *Více než sto dnů už je na boskovické radnici nové vedení. Na konci října se po čtyřletém působení ČSSD v čele města vrátila na výsluní ODS. Poprvé od roku 1989, jehož výročí si letos připomínáme, se na post starosty vrátil někdo, kdo už tuto funkci zastával a má s ní i největší zkušenosti – Jaroslav Dohnálek.*
