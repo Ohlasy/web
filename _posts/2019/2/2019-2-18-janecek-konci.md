@@ -18,7 +18,7 @@ Městská rada je valnou hromadou společnosti s ručením omezením Nemocnice B
 
 Konec Miloše Janečka není první výměnou jednatele nemocnice po nástupu nového vedení města. Rok po předchozích volbách, v říjnu 2015, odvolala minulá rada ČSSD, KDU-ČSL, ANO doplněná o Vladimíra Farského (za KSČM) bez udání důvodu tehdejšího šéfa Dana Navrátila. Současné vedení radnice tedy výměnu stihne ještě o pár měsíců rychleji.
 
-Více než tříleté šéfování Miloše Janečka Nemocnici Boskovice je paradoxně druhým nejdelším od roku 2006, kdy nemocnici začalo provozovat město. Předchozí šéf Dan Navrátil skončil zhruba po dvou letech, jeho předchůdce Rostislav Verner vydržel jen o rok déle.
+Více než tříleté šéfování Miloše Janečka Nemocnici Boskovice je paradoxně druhým nejdelším od roku 2006, kdy nemocnici začalo provozovat město. Předchozí šéf Dan Navrátil skončil zhruba po dvou a půl letech letech, jeho předchůdce Rostislav Verner vydržel jen o půl roku déle.
 
 Nejdéle, tři a půl roku, tak v nemocnici vydržel první jednatel Jaroslav Černý, který však začal mít krátce po svém nástupu problém se soudy. V roce 2007 byl odsouzen brněnským krajským soudem za zneužití informací v obchodním styku, kterého se měl dopustit, když šéfoval nemocnici sv. Zdislavy v Mostištích. Podle rozhodnutí soudu se při budování jednotky intenzivní péče v tamní nemocnici nezákonně obohatil nejméně o jeden milion korun prostřednictvím své soukromé firmy, která nemocnici zprostředkovala financování a částečně plnila i roli dodavatele. Soud potvrdil verdikt opakovaně i v dalších letech, Černý ale v boskovické nemocnici zůstal až do roku 2010, kdy ho nakonec radní odvolali.
 
