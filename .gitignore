@@ -1,4 +1,4 @@
 _site
-.bundle/
-vendor
+.gems
 .jekyll-metadata
+.DS_Store
