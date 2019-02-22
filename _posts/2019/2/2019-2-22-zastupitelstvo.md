@@ -87,7 +87,7 @@ Jaromíra Vítková (KDU-ČSL) pozvala zastupitele i občany na besedu k D43 v p
 
 Na dotaz Hany Nedomové odmítl starosta Jaroslav Dohnálek říct bližší informace o [odchodu jednatele nemocnice Miloše Janečka](http://www.ohlasy.info/clanky/2019/02/janecek-konci.html) s tím, že chce nejprve se situací seznámit městskou radu, která jakožto valná hromada nemocnice nese za řízení odpovědnost. O problematice proto bude informovat až po jednání rady.
 
-Z publika přispěl do debaty k centru polytechnickému výchavy dotazem Dušan Sušil. Zajímala ho především další náplň a fungování centra. Zastupitel za ODS a ředitel základní školy Vladimír Ochmanský odpověděl, že vůbec nemá strach o využití učeben z hlediska boskovické základní školy. Obavy má z udržitelnosti z hlediska spolupráce s jinými školami. Ty sice zájem podepsaly, ale základní škola na ně nemá žádnou páku.
+Z publika přispěl do debaty k centru polytechnickému výchovy dotazem Dušan Sušil. Zajímala ho především další náplň a fungování centra. Zastupitel za ODS a ředitel základní školy Vladimír Ochmanský odpověděl, že vůbec nemá strach o využití učeben z hlediska boskovické základní školy. Obavy má z udržitelnosti z hlediska spolupráce s jinými školami. Ty sice zájem podepsaly, ale základní škola na ně nemá žádnou páku.
 
 Petr Malach připomněl, že ministr školství aktuálně deklaruje zavedení povinného předmětu polytechnické práce a technika.
 
