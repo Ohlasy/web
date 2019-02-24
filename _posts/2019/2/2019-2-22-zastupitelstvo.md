@@ -73,13 +73,13 @@ Příjmy se zvedly hlavně na základě převodu transferů o více než 17 mili
 
 ### Tibetská vlajka
 
-Asi nejnapínavější hlasování na zastupitelstvu přineslo každoroční rozhodování o tom, jestli na radnici zavlaje Vlajka pro Tibet. Během minulého volebního období vyvěšení vlaky zastupitelé třikrát schválili, pouze v roce 2017 ke schválení především kvůli nepřítomnosti zastupitelů za ANO chyběl jeden hlas. Letos nové zastupitelstvo vyvěšení tibetské vlajky 10. března schválilo hlasy ANO, KDU-ČSL, Pirátů, TOP 09, Vladimíra Farského za KSČM, Karla Tlamky z ODS a ČSSD kromě Hany Nedomové, která se zdržela. Boskovická koalice pro Tibet tak získala 16 hlasů, potřebovala jich 14.
+Asi nejnapínavější hlasování na zastupitelstvu přineslo každoroční rozhodování o tom, jestli na radnici zavlaje Vlajka pro Tibet. Během minulého volebního období vyvěšení vlajky zastupitelé třikrát schválili, pouze v roce 2017 ke schválení především kvůli nepřítomnosti zastupitelů za ANO chyběl jeden hlas. Letos nové zastupitelstvo vyvěšení tibetské vlajky 10. března schválilo hlasy ANO, KDU-ČSL, Pirátů, TOP 09, Vladimíra Farského za KSČM, Karla Tlamky z ODS a ČSSD kromě Hany Nedomové, která se zdržela. Boskovická koalice pro Tibet tak získala 16 hlasů, potřebovala jich 14.
 
 ### Dotazy a připomínky zastupitelů
 
 V závěrečném bloku dotazů a připomínek zastupitelů se jako první přihlásil o slovo sociální demokrat Petr Malach. Upozornil na špatný stav chodníku na ulici Bílkova za Popelkou, dále poprosil o úklid překladiště SUEZ a úklid psích exkrementů. Zároveň uvedl, že by bylo dobré po městě přidat koše na exkrementy.
 
-Zastupitel za ČSSD Karel Ošlejšek, které je ředitelem Střední školy André Citroëna, popsal zastupitelům svou zkušenost s čerpáním dotačních prostředků z IROP. Škola aktuálně dokončila projekt Centra výuky strojírenských a elektrotechnických oborů za více než 50 milionů korun. „Ta situace není jednoduchá a určitá zdržení tam nastávají,“ uvedl Karel Ošlejšek. A popsal, jak se také jím vedená škola potýká se zpožděním dotací a musí situaci řešit úvěrem.
+Zastupitel za ČSSD Karel Ošlejšek, který je ředitelem Střední školy André Citroëna, popsal zastupitelům svou zkušenost s čerpáním dotačních prostředků z IROP. Škola aktuálně dokončila projekt Centra výuky strojírenských a elektrotechnických oborů za více než 50 milionů korun. „Ta situace není jednoduchá a určitá zdržení tam nastávají,“ uvedl Karel Ošlejšek. A popsal, jak se také jím vedená škola potýká se zpožděním dotací a musí situaci řešit úvěrem.
 
 Zastupitel za KSČM Josef Opatřil upozornil na komunikaci mezi ulicemi Na Hrázi a Dva dvory, která během opravy Dukelské sloužila jako objížďka. Nyní je zde doprava bez omezení. „Je to dobrá zkratka, ale doporučoval bych, aby nákladní automobily byly z toho provozu vyřazeny,“ vyjádřil se Josef Opatřil. Podle Dagmar Hamalové o to usilovalo už minulé vedení města, ale věc záleží na rozhodnutí dopravní policie, nikoliv města. Doporučila dát podnět do dopravní komise, která může vyloučení nákladní dopravy alespoň doporučit.
 
