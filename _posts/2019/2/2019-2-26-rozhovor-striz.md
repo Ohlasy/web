@@ -30,7 +30,7 @@ Určitě, může přijít kdokoliv. Jediná překážka by byla, kdyby měl trž
 
 **Snažíte se vaši nabídku i nějak obohacovat novým zbožím, nebo prodáváte vesměs to samé?**
 
-Zaměřujeme se na sezónní věci, takže nic moc nového nenabízíme, ale sem tam se objeví i novinky, jako například sušené houby, směsi koření, zavařeniny; jedna paní z Vlachova nám vozí perfektní domácí sirupy. Z celé naší nabídky prodáváme asi dvě třetiny výpěstků a zbylá třetina jsou zahrádkářské potřeby.
+Zaměřujeme se na sezónní věci, takže nic moc nového nenabízíme, ale sem tam se objeví i novinky, jako například sušené houby, směsi koření, zavařeniny; jedna paní z Valchova nám vozí perfektní domácí sirupy. Z celé naší nabídky prodáváme asi dvě třetiny výpěstků a zbylá třetina jsou zahrádkářské potřeby.
 
 **Které zboží nejrychleji zmizí z pultů?**
 
