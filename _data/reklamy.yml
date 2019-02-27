@@ -3,6 +3,11 @@
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: https://www.kulturaboskovice.cz
   priority: 1000
+- name: Jeden svět
+  image: https://i.imgur.com/KfIPqw2.jpg
+  alt: pozvánka na festival Jeden svět v Boskovicích
+  url: https://www.jedensvet.cz/2019/boskovice
+  priority: 1000
 - name: Setkání/Encounter
   image: https://i.imgur.com/TKbrgOd.png
   alt: pozvánka na festival Setkání/Encounter
