@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Současný šéf Nemocnice Boskovice Miloš Janeček skončí ve své funkci ke konci března. Otěže přebere přinejmenším na tři měsíce jeho ekonomicko-správní náměstek Dan Štěpánský, než vzejde nový jednatel z výběrového řízení. Právě Štěpánský zvažuje, že se do něj přihlásí.*
 
-{% photo src="http://i.ohlasy.info/YEvm8LW.jpg" caption="Dan Štěpánský a Miloš Janeček na jednání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="http://i.ohlasy.info/YEvm8LW.jpg" caption="Dan Štěpánský (vlevo) a Miloš Janeček na jednání zastupitelstva" author="Tomáš Trumpeš" %}
 
 Už před týdnem Ohlasy informovaly o tom, že [Miloš Janeček nebude dál pokračovat](http://www.ohlasy.info/clanky/2019/02/janecek-konci.html) jako šéf boskovické nemocnice. Bývalého senátora za ČSSD a někdejšího ředitele brněnské Úrazové nemocnice dosadila do čela zdravotnického zařízení v prosinci 2015 minulá rada pod vedením boskovické ČSSD.
 
@@ -28,7 +28,7 @@ Naopak zájem vést nemocnici déle než tři měsíce má Dan Štěpánský. �
 
 U starosty i místostarosty Lukáše Holíka (ANO) si vybudoval důvěru a respekt tím, jak zvládl vyřešit kolektivní vyjednávání, která se v nemocnici vlekla až do počátku letošního roku. „Strůjcem řešení byl právě pan Štěpánský,“ poznamenal starosta. „U vyjednávání s lékařskými odbory byl za vedení nemocnice pan Štěpánský a on je také vedl,“ doplnil místostarosta Holík. Oba si umí představit, že by šéfoval nemocnici dál, když uspěje před komisí.
 
-Jaké složení bude tato komise mít zatím není jasné. O tom se radní ještě nebavili. Už při minulém výběrovém řízení, z něhož vzešel jako jednatel Miloš Janeček, však byla na stole varianta, zda by nebylo dobré nominovat do výběrové komise nejen zástupce koalice, ale také opozičních stran v zastupitelstvu. V roce 2015 tak vysvětloval své zdržení při hlasování o podobě komise, kde opozice nakonec nebyla zastoupena, tehdejší radní Karel Ošlejšek (ČSSD). 
+Jaké složení bude tato komise mít, zatím není jasné. O tom se radní ještě nebavili. Už při minulém výběrovém řízení, z něhož vzešel jako jednatel Miloš Janeček, však byla na stole varianta, zda by nebylo dobré nominovat do výběrové komise nejen zástupce koalice, ale také opozičních stran v zastupitelstvu. V roce 2015 tak vysvětloval své zdržení při hlasování o podobě komise, kde opozice nakonec nebyla zastoupena, tehdejší radní Karel Ošlejšek (ČSSD).
 
 „Navrhoval jsem rozšířit komisi o zastupitele opozičních stran, aby se mohlo dosáhnout při výběru jednatele širšího konsenzu, a eliminovalo se tak do budoucna riziko personálních změn při případné obměně valné hromady, například po příštích komunálních volbách,“ prohlásil tehdy radní.
 
