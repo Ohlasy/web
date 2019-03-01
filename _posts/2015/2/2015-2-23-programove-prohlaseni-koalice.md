@@ -4,7 +4,7 @@ category: zpravodajství
 author: Tomáš Trumpeš
 ---
 
-*Boskovická městská rada, která se po podzimních komunálních volbách ujala vedení radnice, představila na konci ledna [programové prohlášení](http://www.boskovice.cz/programove%2Dprohlaseni%2Drm/d-21861/p1=1182). V něm deklaruje, jaké plány a závazky si stanovila pro své funkční období do příštích voleb, tedy do roku 2018. Vládnoucí koalici tvoří ČSSD, KDU-ČSL a hnutí ANO 2011. Pod programovým prohlášením jsou podepsáni všichni členové městské rady, včetně Vladimíra Farského zvoleného na kandidátce KSČM.*
+*Boskovická městská rada, která se po podzimních komunálních volbách ujala vedení radnice, představila na konci ledna [programové prohlášení](http://data.ohlasy.info/2015/programove-prohlaseni.pdf). V něm deklaruje, jaké plány a závazky si stanovila pro své funkční období do příštích voleb, tedy do roku 2018. Vládnoucí koalici tvoří ČSSD, KDU-ČSL a hnutí ANO 2011. Pod programovým prohlášením jsou podepsáni všichni členové městské rady, včetně Vladimíra Farského zvoleného na kandidátce KSČM.*
 
 Základní programové cíle jsou definovány v pěti oblastech: 1. Rozvoj města a činnost úřadu, 2. Zdravotnictví, sociální péče a rodinná politika, 3. Školství, 4. Kultura, sport, volnočasové aktivity a cestovní ruch a 5. Bezpečnost, doprava, dopravní infrastruktura, bydlení a životní prostředí.
 
