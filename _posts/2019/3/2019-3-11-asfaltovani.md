@@ -6,7 +6,7 @@ author: Anna Dušilová
 category: názory a komentáře
 ---
 
-Ráda chodím na vycházky a mrzí mě, jak okolo Boskovic ubývá míst, kam se dá pěšky vyrazit a nepotkat cestou žádná auta. Většina přístupových cest do lesů, luk a strání je dnes asfaltovaná či autům zpřístupněná – auta nás provázejí na cestách do Doubrav, autům se nevyhneme během vycházek zahrádkami kolem „Kojálu“, auta hrčí na Kamenici.
+*Ráda chodím na vycházky a mrzí mě, jak okolo Boskovic ubývá míst, kam se dá pěšky vyrazit a nepotkat cestou žádná auta. Většina přístupových cest do lesů, luk a strání je dnes asfaltovaná či autům zpřístupněná – auta nás provázejí na cestách do Doubrav, autům se nevyhneme během vycházek zahrádkami kolem „Kojálu“, auta hrčí na Kamenici.*
 
 {% photo src="https://i.imgur.com/qruKrlH.jpg" caption="Křížek na konci ulice K Lipníkům" author="Tomáš Trumpeš" %}
 
