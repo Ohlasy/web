@@ -6,7 +6,7 @@ author: Marek Osouch
 category: zpravodajství
 ---
 
-*Více než pět miliard korun výnosů měly boskovické průmyslové podniky v uplynulém roce. Firmy se tak neustále rozšiřují, což se odráží i v průmyslové zóně, kde většina z nich sídlí. V blízké době tam nebudou už téměř žádné volné parcely pro další možný rozvoj.*
+*Téměř šest miliard korun výnosů měly oslovené boskovické průmyslové podniky v uplynulém roce. Firmy se tak neustále rozšiřují, což se odráží i v průmyslové zóně, kde většina z nich sídlí. V blízké době tam nebudou už téměř žádné volné parcely pro další možný rozvoj.*
 
 {% photo src="https://i.imgur.com/EZFsYvv.jpg" caption="Rozestavěná hala firmy LANIK" author="Tomáš Trumpeš" %}
 
