@@ -59,3 +59,24 @@ hr {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+/* Tables */
+
+table {
+    border-collapse: collapse;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+td, th {
+    border-bottom: 1px solid #ddd;
+    padding: 0.5ex 1ex 0.5ex 1ex;
+}
+
+th {
+    border-bottom: 2px solid #ddd;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #eee;
+}
