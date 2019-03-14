@@ -1,5 +1,5 @@
 ---
-title: "Velký přehled boskovický firem: rostou jim tržby a zastavují poslední volné parcely v průmyslové zóně"
+title: "Velký přehled boskovických firem: rostou jim tržby a zastavují poslední volné parcely v průmyslové zóně"
 perex: Jaký mají velké boskovické firmy obrat, v jakém oboru podnikají, kolik lidí zaměstnávají, kolik jim platí a jak se jim daří?
 cover-photo: https://i.imgur.com/EZFsYvvl.jpg
 author: Marek Osouch
