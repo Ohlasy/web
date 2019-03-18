@@ -8,10 +8,15 @@
         class="profile-picture">
     <ul class="list-unstyled">
         <li>{{ article.author }}
+        {% if author_email != nil %}
         <li><a href="mailto:{{ author_email }}">{{ author_email }}</a>
+        {% endif %}
         {% if author_bio != nil %}
         <li class="text-muted">{{ author_bio }}</li>
         {% endif %}
         <li>vyšlo {{ article.date | date: "%-d. %-m. %Y" }}
+        {% if author_email == nil %}
+        <li> </li>
+        {% endif %}
     </ul>
 </div>
