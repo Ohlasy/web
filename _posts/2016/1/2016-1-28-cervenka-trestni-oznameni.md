@@ -4,7 +4,7 @@ cover-photo: http://i.ohlasy.info/2qEBIUTl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags:
-    - Červená zahrada
+    - červená zahrada
     - investice
     - politika
 ---

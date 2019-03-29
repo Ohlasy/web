@@ -3,6 +3,7 @@ title: Kde všude je zakázaný podomní prodej? Polovinu obyvatel Boskovicka p�
 cover-photo: http://i.ohlasy.info/cxvoklYl.jpg
 category: zpravodajství
 author: Marek Osouch
+tags: podnikání
 ---
 
 *Chodit od domu k domu, zvonit na zvonky a snažit se vnutit lidem svoje zboží, které nemusí být pokaždé skutečně výhodné. Tak také může vypadat podomní prodej. Proti nekalým praktikám prodejců a na ochranu svých obyvatel začaly před třemi lety přijímat obce a města vyhlášky, přesněji tržní řády, které podomní a pochůzkový prodej na území obce zakazují. Od roku 2013 takovou vyhlášku přijalo na Boskovicku 24 obcí, z nichž velká část tak učinila v loňském roce. Byly mezi nimi i Boskovice.*

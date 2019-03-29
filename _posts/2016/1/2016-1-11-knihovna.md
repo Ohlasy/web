@@ -3,7 +3,7 @@ title: „Knihovna má být obývákem města.“
 cover-photo: http://i.ohlasy.info/HJY2fgul.jpg
 category: rozhovory
 author: Tomáš Trumpeš
-tags: knihovna investice
+tags: knihovna investice kultura
 ---
 
 *Rozhovor s vedoucí knihovny Miroslavou Jurdičovou a ředitelem Kulturních zařízení Oldřichem Kovářem. Boskovická knihovna setrvává v provizoriu takzvaného Okresňáku už 19 let a zatím to příliš nevypadá, že by se brzy mohla dočkat důstojného zázemí. Ptali jsme se, jak knihovna funguje, co by přesně potřebovala a co by se dalo pro novou knihovnu udělat ještě v tomto volebním období.*

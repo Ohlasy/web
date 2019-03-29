@@ -3,7 +3,7 @@ title: „Práce ve sboru musí být dlouhodobá a poctivá. Není to instantn�
 cover-photo: http://i.ohlasy.info/kVMJYt5l.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura vzdělávání
+tags: kultura vzdělávání hudba
 featured: true
 ---
 
