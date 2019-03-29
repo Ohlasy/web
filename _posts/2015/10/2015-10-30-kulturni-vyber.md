@@ -3,6 +3,7 @@ title: Gianniho kulturní výběr na listopad
 cover-photo: http://i.ohlasy.info/PTYueOl.jpg
 author: Jan Bařinka
 category: zpravodajství
+tags: kultura
 ---
 
 *Vzpomínání na 17. listopad, množství klubových akcí a koncertů, přednášky a besedy nebo například bondovský večírek v boskovickém kině – z toho všeho si můžou zájemci o kulturní dění v našem regionu v listopadu vybírat. Gianniho kulturní výběr přináší přehled akcí, které by bylo škoda v nadcházejícím měsíci minout, a opět se ohlíží i za měsícem uplynulým.*

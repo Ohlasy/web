@@ -3,6 +3,7 @@ title: „Kdyby víc lidí přemýšlelo, co Evropská unie je a co pro nás zna
 cover-photo: http://i.ohlasy.info/hOSYJStl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+tags: politika
 ---
 
 *Setkání věnované evropské politice svolal na minulý víkend do Boskovic poslanec Evropského parlamentu Luděk Niedermayer. Bývalý viceguvernér České národní banky byl do evropských poslaneckých lavic zvolen na kandidátce TOP 09, která je členem největšího poslaneckého klubu – Evropské lidové strany. Rozhovor jsme vedli o evropské politice, převládajícím českém postoji k ní, o aktuální krizi a o spolupráci českých euproposlanců.*

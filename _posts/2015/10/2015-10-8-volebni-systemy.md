@@ -3,6 +3,7 @@ title: Nevolíme osobnosti, ale strany
 cover-photo: http://i.ohlasy.info/DSJnkKhl.jpg
 category: názory a komentáře
 author: Marek Osouch
+tags: politika volby
 ---
 
 *Máme za sebou téměř rok od komunálních voleb. Kdo si ale ještě dnes pamatuje, jak v nich má volit? Kroužkuje se, nebo křížkuje? A kolika kandidátům můžu dát hlas? Volební systém v komunálních volbách je nejsložitější, který u nás máme. Většina lidí si pravidla upřesní vždy krátce před volbami a po nich je opět úspěšně zapomene.*

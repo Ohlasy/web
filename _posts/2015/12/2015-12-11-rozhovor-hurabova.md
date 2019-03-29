@@ -3,6 +3,7 @@ title: „Řemeslo a ruční práci nenahradí nikdo a kdo to bude umět, bude 
 author: Martina Vašková
 cover-photo: http://i.ohlasy.info/YnpunvNl.jpg
 category: rozhovory
+tags: podnikání
 ---
 
 *Rozhovor s Jitkou Hurábovou, která už dvaadvacet let vede v Boskovicích rodinnou firmu LD seating. Letošní rok byl pro tohoto výrobce kancelářského nábytku opravdu úspěšný – dokazují to nejen vzrůstající počty zaměstnanců a výše ročního obratu, ale i to, že Jitka Hurábová byla prestižním magazínem Forbes zařazena mezi 75 nejvlivnějších žen Česka.*

@@ -4,6 +4,7 @@ author: Vít Boček
 cover-photo: http://i.ohlasy.info/EWFNQ2jl.jpg
 serial: jazyk
 category: seriály
+tags: historie
 ---
 
 *V poslední době se v Ohlasech objevila zamyšlení nad boskovickými urbanonymy, tedy názvy veřejných městských prostranství, jako jsou zejména ulice a náměstí. Tak Petr Vítámvás se ve svém [přehledu map a plánů Boskovic](/clanky/2015/09/mapy-boskovic.html) dotkl i historického vývoje názvů boskovických ulic a náměstí. V souvislosti s tím pak Tomáš Trumpeš připomněl [nelichotivý stav kauzy (ne)uctění památky kardinála Špidlíka](/clanky/2015/09/pocta-spidlikovi.html) (ne)pojmenováním budovy či ulice po této osobnosti. Podívejme se proto na ožehavou otázku pojmenovávání ulic a jiných veřejných prostranství z lingvistického hlediska.*

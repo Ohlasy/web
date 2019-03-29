@@ -3,6 +3,7 @@ title: „Laskavý přítel, který byl výborný ve všem, co začal,“ vzpom�
 cover-photo: http://i.ohlasy.info/gPymNoml.jpg
 category: rozhovory
 author: Tomáš Trumpeš
+tags: kultura
 ---
 
 *Kunštátský výtvarník Vít Ondráček byl v posledních letech života mnohostranného literáta Ludvíka Kundery jeho blízkým přítelem. V Kunštátě bydleli kousek od sebe a spojovalo je mnohé. U příležitosti výročí 95 let od narození této významné osobnosti české kultury jsme proto s Vítkem mluvili právě o jeho vzpomínkách na pana Ludvíka. Připomenutí Ludvíka Kundery, s Kunštátem a s Františkem Halasem neodmyslitelně spjatého, je věnován i letošní Halasův Kunštát. Právě Vít Ondráček připravil dramatický text, který zde provede v rámci večerního kulturního programu divadlo NABOSO.*

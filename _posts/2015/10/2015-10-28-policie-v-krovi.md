@@ -3,6 +3,7 @@ title: Dopravní policisté popírají, že by číhali v keřích na pokuty
 cover-photo: http://i.ohlasy.info/GfCZhR3.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
+tags: doprava
 ---
 
 *Poněkud kontroverzní fotografie dokumentující práci dopravní police se objevily minulý pátek dopoledne na sociální síti Facebook. Jejich autor zachytil policisty v pozici, která podle názoru diskutujících příliš neodpovídá skutečnému poslání policie. Muži v uniformách se na nich u nemocnice skrývají v keři blízko přechodu pro chodce, který je však z důvodu rekonstrukčních prací zakázáno používat. Skrývají se, aby nachytali ty, kteří přechod použijí, místo aby šli o kus dál k přechodu provizornímu. Policisté tento postup ale popírají.*

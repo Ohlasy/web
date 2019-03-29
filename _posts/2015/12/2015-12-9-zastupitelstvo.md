@@ -6,8 +6,8 @@ category: zpravodajství
 tags:
     - politika
     - investice
-    - Červená zahrada
-    - letní kino
+    - červená zahrada
+    - kino
     - knihovna
     - nemocnice
 ---

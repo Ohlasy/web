@@ -6,4 +6,5 @@ layout: video
 cover-photo: http://i.ohlasy.info/7RM5INQ.jpg
 video-url: https://player.vimeo.com/video/143360540
 author: Tomáš Znamenáček
+tags: migrace politika
 ---

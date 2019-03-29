@@ -3,6 +3,8 @@ title: Z budovy školy na Havlíčkově má vzniknout komunitní dům pro senior
 cover-photo: http://i.ohlasy.info/qUlhUygl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sociální služby
 ---
 
 *Komunitní dům určený především seniorům by měl podle nového záměru Jihomoravského kraje vzniknout v budově bývalé oděvní školy na Havlíčkově ulici v Boskovicích. Objekt je už delší dobu bez využití a náměstek hejtmana Roman Celý (KDU-ČSL) proto představil vedení města studii, na základě které by budova měla být přestavěna. Nový komunitní dům by zahrnoval deset malometrážních bytů s bezbariérovým přístupem a výtahem.*

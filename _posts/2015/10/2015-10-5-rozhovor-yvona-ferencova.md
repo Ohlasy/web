@@ -3,6 +3,7 @@ title: „Tvoření je především svoboda,“ říká bývalá kurátorka Mora
 cover-photo: http://i.ohlasy.info/qVRhE97l.jpg
 category: rozhovory
 author: Martina Vašková
+tags: kultura
 ---
 
 *Osmnáct let působila Yvona Ferencová v Moravské galerii v Brně. Nejprve pracovala s dětmi, později vedla autorské projekty i přejaté výstavy. Připravovala výstavu pro československý pavilon na Bienále v Benátkách, dlouhodobě spolupracovala se současnými umělci, její publikace ke kolekci uměleckých děl pro nevidomé a slabozraké získala titul Nejkrásnější česká kniha 2001. Od letošního září se s Yvonou Ferencovou můžete potkávat i v Boskovicích.*

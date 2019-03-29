@@ -5,7 +5,7 @@ author: Petr Ondráček
 category: názory a komentáře
 tags:
     - architektura
-    - Červená zahrada
+    - červená zahrada
     - investice
 ---
 

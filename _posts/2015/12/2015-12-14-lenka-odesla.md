@@ -3,6 +3,7 @@ title: Hlas, který bude chybět (Za Lenkou Bařinkovou)
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/ieQVTWal.jpg
 disable-ads: true
+tags: nekrolog
 ---
 
 *Jakkoli je obtížné tomu uvěřit, v sobotu nad ránem v Praze po krátké těžké nemoci tiše zemřela Lenka Bařinková. Odešla, jako odcházejí velcí hudebníci z pódia, totiž v momentě, kdy máme pocit, že koncert by měl ještě dlouho pokračovat. A navzdory tomuto dojmu pak rychle shledáváme, že intenzita prožitku a míra sděleného byla tak veliká, že je vlastně s podivem, jak se to do jednoho koncertu, tedy do jednoho života mohlo vejít. Lenka Bařinková nám zde předala a zanechala víc, než vůbec lze vyjádřit.*

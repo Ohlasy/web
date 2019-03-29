@@ -3,7 +3,7 @@ title: „Moje hraní by mělo představovat kompromis mezi autorem a mnou. Jsem
 cover-photo: http://i.ohlasy.info/GORcUikl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: kultura
+tags: kultura hudba
 featured: true
 ---
 

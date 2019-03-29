@@ -3,6 +3,7 @@ title: Do sportu jdou v Boskovicích miliony, na činnost klubů i na investice
 cover-photo: http://i.ohlasy.info/wjBrvk2l.jpg
 category: zpravodajství
 author: Marek Osouch
+tags: sport
 ---
 
 *Téměř devatenáct set registrovaných sportovců evidují sportovní kluby a spolky v Boskovicích. Každý rok dostávají od města příspěvek na svou činnost a na úhradu nájemného. Kromě toho každoročně odchází z městského rozpočtu miliony na investice a opravy stávajících sportovišť. Značná část peněz určených pro kluby se ovšem městu vrací formou nájemného.*

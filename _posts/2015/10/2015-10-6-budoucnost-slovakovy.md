@@ -3,6 +3,8 @@ title: V jámě na Slovákově bude nejspíš centrum polytechnického vzděláv
 cover-photo: http://i.ohlasy.info/dlQqebV.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *Asi třicítka lidí se sešla v pondělí ve čtyři hodiny odpoledne v zámeckém skleníku, aby se zúčastnila veřejného projednání záměru na využití stavební jámy, která zbyla po nezdařeném pokusu postavit sportovní halu na rohu ulic Bílkova a Slovákova. Když odpočteme zastupitele, zaměstnance úřadu a novináře, ukáže se, že zájem veřejnosti byl mizivý. Představeny byly tři varianty na využití prostoru staveniště, jasnou prioritu má však evidentně ta poslední – vybudovat na místě centrum polytechnické výchovy a vzdělávání.*

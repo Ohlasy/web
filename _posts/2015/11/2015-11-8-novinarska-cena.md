@@ -3,7 +3,7 @@ title: "Editorial: Redaktoři Ohlasů Marek Osouch a Žaneta Ondroušková zís
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/gY4poJjl.jpg
 category: zpravodajství
-tags: Ohlasy
+tags: ohlasy
 ---
 
 *Vážené čtenářky a vážení čtenáři, v pátek večer se v prostorách Fakulty sociálních studií Masarykovy univerzity v Brně konala konference Lokální politika a lokální média, pořádaná u příležitosti vyhlášení výsledků XIII. regionální novinářské ceny Konrad-Adenauer-Stiftung 2015. Akce se zúčastnila také výprava členů naší redakce, která ze soutěže nevyšla naprázdno.*

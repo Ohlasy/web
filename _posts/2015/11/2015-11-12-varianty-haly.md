@@ -4,7 +4,7 @@ cover-photo: http://i.ohlasy.info/mRpyIcw.jpg
 category: zpravodajství
 author: Marek Osouch
 tags:
-    - Červená zahrada
+    - červená zahrada
     - sport
     - sportovní hala
 ---

@@ -6,7 +6,7 @@ excerpt: "Vedení Boskovic zveřejnilo čtyři varianty návrhu na umístění s
 category: ankety
 tags:
     - sport
-    - Červená zahrada
+    - červená zahrada
     - investice
     - sportovní hala
 ---

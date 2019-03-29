@@ -3,6 +3,7 @@ title: „Je třeba jednat, lidé se ocitají v nedůstojných, nelidských pod
 cover-photo: http://i.ohlasy.info/w4zKEuNl.jpg
 category: rozhovory
 author: Tomáš Trumpeš
+tags: migrace
 ---
 
 *Tomáš Znamenáček se tento týden vrátil ze své druhé dobrovolnické mise v uprchlických táborech na jihu Evropy. Pod hlavičkou neziskové organizace Magna zde pomáhal v týmu poskytujícím migrantům lékařskou pomoc. Kromě oficiálního chorvatského tábora v Opatovaci krátce navštívil také hraniční přechod u Bapské, kde jsou podmínky zřejmě nejkritičtější. Rozhovor jsme vedli o jeho přímých zkušenostech s uprchlíky a jejich situací.*

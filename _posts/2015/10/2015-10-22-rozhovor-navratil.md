@@ -3,6 +3,7 @@ title: „Provozně město na nemocnici nedoplácí ani náhodou,“ říká jed
 cover-photo: http://i.ohlasy.info/BVlc9PSl.jpg
 category: rozhovory
 author: Marek Osouch
+tags: nemocnice
 ---
 
 *Dan Navrátil je jednatelem boskovické nemocnice od dubna 2013. Nastupoval v době, kdy na tom nebyla nemocnice zrovna nejlépe, hospodaření se propadalo každým měsícem. Od té doby se mnohé změnilo. Nemocnice je v plusu a zaměstnanci mají vyšší mzdy. Změny pocítili i pacienti, v pokojích jsou nová lůžka a v přízemí nové klientské centrum. Stále se však ozývají hlasy zpochybňující dobré fungování nemocnice, proto jsme s Danem Navrátilem mluvili nejen o krizi v předminulém roce, ale i o aktuální situaci a plánech do budoucna.*
