@@ -3,6 +3,7 @@ title: "Gymnazisté dokážou vzdělávání uchopit jako celoživotní proces, 
 category: rozhovory
 cover-photo: http://i.ohlasy.info/UA1oCeRl.jpg
 author: Marek Osouch
+tags: vzdělávání
 ---
 
 *Alena Svanovská loni na jaře vyhrála konkurz na ředitelku boskovického gymnázia. Od srpna se postu ujala, a má tak téměř celý školní rok v nové funkci za sebou. Na nezájem studentů o gymnázium si stěžovat rozhodně nemůže. Navíc plánuje nové specializované učebny pro fyziku nebo matematiku. Posílení přírodovědné větve oproti humanitní je jejím cílem už od začátku.*

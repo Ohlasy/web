@@ -3,6 +3,7 @@ title: Konkurence na železnici a školní výlety aneb Postřehy učitele
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/3Svqio4l.jpg
 author: Hynek Skořepa
+tags: železnice doprava vzdělávání
 ---
 
 *Od dubna letošního roku jsme se od Českých drah dočkali ne zrovna příjemných změn týkajících se skupinových jízdenek. Slevy pro skupiny zajímají samozřejmě nejvíc učitele i všechny ostatní, kteří pracují s mládeží, a nevzdali dosud snahu tuto mládež vytáhnout od rozsvícených obrazovek (dnes už především těch počítačových) někam ven.*
@@ -26,4 +27,5 @@ I u nás jsou zvýhodňováni cestující na hlavních tratích, pasažéři jed
 Že by se dala čekat změna k lepšímu, pokud by provoz na regionálních tratích převzali soukromníci, se nezdá. Dobře se pamatuji, jak před pár lety začaly žluté vlaky páně Jančurovy zastavovat v Ústí nad Orlicí (na zastávce Ústí nad Orlicí město, dobře dostupné z centra). Měl to být jeden z pokusů přetrumfnout České dráhy, jejichž expresní vlaky zastavují v nedaleké České Třebové. RegioJet vydržel stavět v Ústí ani ne pár měsíců, rychle se ukázalo, že se to ekonomicky nevyplatí, lepší je být o pár minut dřív v Ostravě. A to jste si ty lístky museli koupit dopředu. Inu, reálný kapitalismus. Oč svobodnější jste se kupodivu mohli cítit v socialistických časech, kdy stačilo přijít na nádraží a tam vám prodali lístek do kterékoliv železniční stanice tehdejšího Československa. A bez počítače! Stačilo nahlédnout do objemné, na stroji psané knihy, kde šlo vyhledat kilometrové vzdálenosti do libovolného místa v síti ČSD, třeba i po různých trasách.
 
 Ale zpět ke školním výletům. České dráhy dlouhodobě čelily výtkám, že jejich vlaky bývají přeplněné a nepohodlné. No jistě, když nebylo dopředu známo, kolik lidí pojede, jak chcete přistavit příslušný počet vagónů. A školní výlety situaci komplikovaly nejvíc, tak se dráhy rozhodly ji řešit. Skupiny mladých, školní či jiné, tak ovšem ztratily část své svobody.
+
 A kdo to vlastně nejvíc odnesl? No přece český (moravský, slezský) učitel. Na něm je, aby vše zařídil. Není proto divu, že mnozí kantoři prohlašují, že se na dráhu můžou vykašlat. Raději si objednají autobus a aspoň během jízdy budou bez starostí. Nebo raději rovnou zůstanou sedět ve škole. Uhlídat děti je stále těžší.

@@ -3,6 +3,7 @@ title: Radní Přichystalová se ve střetu zájmů kvůli soudnímu sporu s nem
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/u6Q6NYv.jpg
 author: Marek Osouch
+tags: politika
 ---
 
 *Od začátku fungování současné koalice provází každé jednání zastupitelstva otázka z řad opozice na možný střet zájmů radní Martiny Přichystalové. Ta se totiž od roku 2011 soudí s nemocnicí pro nerovné odměňování mužů a žen, které podle svých dřívějších slov sama pocítila. Zvolením do městské rady se bývalá primářka dětského oddělení zároveň stala členkou valné hromady, tedy hlavního řídicího orgánu boskovické nemocnice.*

@@ -3,6 +3,9 @@ title: Hlavně nepřiznat chybu
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/ttn7WD9.jpg
 author: Tomáš Trumpeš
+tags:
+    - sportovní hala
+    - politika
 ---
 
 *Chybovati je lidské, praví známé latinské přísloví. Platí to pro všechny obory lidské činnosti, platí to samozřejmě i pro politiku. Na politiky býváme dost přísní a jejich chyby vnímáme velmi nedůtklivě. Často za nimi hned vidíme záměr, zlý úmysl či rovnou mafiánské spiknutí. Navzdory všem spikleneckým teoriím, které jsou samozřejmě přitažlivé, se ale dost často jedná právě o docela obyčejné chyby. A ani v případě chyb není nutné hned házet kamenem – chtělo by se říct, kdyby…*

@@ -3,6 +3,10 @@ title: Stále bez výsledku
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/8ZNN3fn.jpg
 author: Marek Osouch
+tags:
+    - územní plánování
+    - r43
+    - doprava
 ---
 
 *Na krajském úřadě v Brně vlál donedávna plakát s nápisem Patnáct let jsme tu pro vás. Ano, před patnácti lety vznikly dnešní samosprávné kraje. Jihomoravský kraj, kam patří i Boskovice, je však oproti ostatním krajům výjimečný. Bohužel v negativním světle. Za patnáct let existence krajů a devět let platnosti nového stavebního zákona zde totiž neexistují Zásady územního rozvoje neboli krajský územní plán.*

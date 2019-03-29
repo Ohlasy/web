@@ -3,6 +3,8 @@ title: Radnice mapuje místa pro sportovní halu. Kde by mohla být?
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/IC8D3vtl.jpg
 author: Marek Osouch
+tags:
+    - sportovní hala
 ---
 
 *Do zastupitelstva, kde se rozhodne o osudu sportovní haly na Slovákově, zbývá necelý měsíc. Audit, který si nechávalo vedení města zpracovávat, už je hotový. Pro rozhodování zastupitelů však nebude jediným kritériem. K auditu navíc přibudou zpracovávané ekonomické analýzy. Starostka Hana Nedomová tak stále neprozradila, jak sama bude hlasovat. Pro případ, že by zastupitelé nakonec zrušili stavbu haly na Slovákově, si boskovická radnice vytipovává lokality, kde jinde by mohla sportovní, nebo i multifunkční hala stát.*

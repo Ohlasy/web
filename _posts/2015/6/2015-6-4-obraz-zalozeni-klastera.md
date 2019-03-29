@@ -4,6 +4,7 @@ category: seriály
 cover-photo: http://i.ohlasy.info/YyDqEWul.jpg
 serial: depozitar
 author: Petr Vítámvás
+tags: historie
 ---
 
 *Bezpochyby mezi nejzajímavější sbírkové předměty muzea v Boskovicích, a pomineme-li archeologickou sbírku i mezi nejstarší, patří nevelký (40×48 cm) obraz z konce 17. století „Založení dominikánského kláštera v Boskovicích“; autor není uveden, mohl jím být pravděpodobně Jiří František Jurnej zvaný Tříska, „malíř vznešené paní ze Zástřizl“.*

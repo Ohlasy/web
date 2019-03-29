@@ -3,6 +3,7 @@ title: Po skateparku se volá už přes deset let. Stále marně
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/HmaRcxWl.jpg
 author: Tomáš Trumpeš
+tags: skatepark
 ---
 
 *Vybudovat v Boskovicích skatepark je záměr, o kterém se mluví opravdu hodně dlouho. Aktuálně se jeho příznivcům podařilo alespoň na internetu prakticky opanovat anketu Zdravého města Boskovice, v rámci které mohli občané hlasováním vyjádřit, které problémy pokládají ve městě za nejdůležitější. Těžko říct, jestli se anketa stane zlomovým bodem v příběhu, který se táhne už více než 10 let. Své o tom ví Radek Přibyl, který se poprvé vypravil kvůli skateparku na radnici v roce 2002. A chodí tam dodnes.*

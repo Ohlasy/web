@@ -6,6 +6,8 @@ excerpt: "Petice nevzniká v Boskovicích každý den ani každý měsíc. Proto
 layout: video
 video-url: https://player.vimeo.com/video/130414238
 author: Tomáš Trumpeš
+tags:
+    - lezecká stěna
 ---
 
 

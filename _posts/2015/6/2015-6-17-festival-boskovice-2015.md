@@ -3,6 +3,7 @@ title: Iva Bittová, Už jsme doma, Petr Nikl – festival Boskovice představil
 cover-photo: http://i.ohlasy.info/PbsvAKFl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
+tags: kultura
 ---
 
 *Takřka kompletní je program letošního ročníku festivalu pro židovskou čtvrť Boskovice 2015. Formát festivalu zůstává prakticky stejný jako v minulých letech, čtyřdenní akce proběhne od čtvrtka 9. do neděle 12. července. Nového dramaturga má divadelní scéna, rozšířeného hudebního programu se dočká scéna na palouku před hradem. Na hlavní scéně v letním kině vystoupí kupříkladu Iva Bittová nebo Už jsme doma. V muzeu bude vystavovat slavný výtvarník Petr Nikl.*

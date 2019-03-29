@@ -3,6 +3,7 @@ title: Radní neudělili výjimku a koncert legendárních Silverů v Boskovic
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/Mz8vccMl.jpg
 author: Tomáš Trumpeš
+tags: kultura politika
 ---
 
 *Jsou kapely, u kterých přídomek „legendární“ nevyvolává ani stín pochybnosti, že by snad byl použit neoprávněně. Na boskovické či spíše regionální hudební scéně lze jen těžko najít formaci, která si toto označení zaslouží tak jednoznačně, jako takzvaní Silveři neboli S. Band, uskupení okolo kytaristy Pavla „Silvera“ Koudelky. Opravdová legenda, jejíž největší sláva kulminovala na přelomu 80. a 90. let, si na poslední červnový víkend naplánovala vystoupení v boskovickém letním kině. Pro početné fanoušky v posledních letech jen velmi zřídka vystupujících Silverů to měla být významná událost. Rozhodnutí boskovické městské rady neudělit pořadatelům akce výjimku, která by umožnila hrát v letním kině déle než do 23 hodin, nakonec tuto událost zmařilo.*

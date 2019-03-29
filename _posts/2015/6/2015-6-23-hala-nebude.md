@@ -3,6 +3,9 @@ title: "Online ze zastupitelstva: Definitivně rozhodnuto, hala na Slovákově n
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/K7bkHLF.jpg
 author: Tomáš Trumpeš
+tags:
+    - sportovní hala
+    - politika
 ---
 
 *Finální rozhodnutí boskovického zastupitelstva proběhlo dle očekávání: sportovní hala na Slovákově ulici nebude. Zastupitelé potvrdili svým rozhodnutím deklarovaný postoj městské rady a stavbu na Slovákově ukončili.*

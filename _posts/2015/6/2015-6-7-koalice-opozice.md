@@ -3,6 +3,7 @@ title: Ode zdi ke zdi
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/4TXHlmjl.jpg
 author: Tomáš Znamenáček
+tags: politika
 ---
 
 *Známý citát anglického lorda Actona praví, že zatímco moc korumpuje, absolutní moc korumpuje absolutně. Jedním ze základních principů demokracie je proto dělba moci – takzvaný systém brzd a protiváh, ve kterém má každé centrum moci svůj protipól, který je udržuje v rozumných mezích. Výsledkem je dynamická rovnováha ne nepodobná jízdě na kole: chvíli se zdá, že upadneme nalevo, chvíli se nebezpečně nakláníme napravo, ale ve výsledku tento permanentní pád ani nevnímáme a pohybujeme se kupředu.*

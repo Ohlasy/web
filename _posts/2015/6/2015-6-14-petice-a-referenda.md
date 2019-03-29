@@ -3,6 +3,9 @@ title: Bez peticí a referend to zatím neumíme
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/bK0zkvC.jpg
 author: Tomáš Trumpeš
+tags:
+    - politika
+    - lezecká stěna
 ---
 
 *V souvislosti s peticí, která vznikla na podporu vybudování [lezecké stěny v letním kině](http://stenaboskovice.cz), vyvstane člověku před očima, jak moc se některé formální náležitosti a ustanovení vzdalují skutečnému životu. Kupříkladu takový institut trvalého bydliště, který je klíčový nejen pro petice, ale v našem volebním systému i pro naše právo obdařit některé z politiků důvěrou v podobě voličského hlasu. Do jaké míry je však život města skutečně tvořen těmi, kteří mají jeho název uveden v občanském průkazu?*
