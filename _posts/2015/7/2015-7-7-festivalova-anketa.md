@@ -3,6 +3,7 @@ title: "Anketa: Festival Boskovice 2015 je za dveřmi. Na co zajít?"
 category: ankety
 cover-photo: http://i.ohlasy.info/npBP8dc.jpg
 author: Tomáš Trumpeš
+tags: kultura
 ---
 
 *Tento týden začíná festival pro židovskou čtvrť Boskovice 2015. Vybrat si z bohatého programu určitě nebude jednoduché, několik osobností místního kulturního světa jsme proto oslovili s prosbou o doporučení, co jim z programu připadá nejzajímavější. Otázku jsme formulovali takto: Jak se vám líbí letošní program festivalu Boskovice a co byste především doporučili navštívit?*

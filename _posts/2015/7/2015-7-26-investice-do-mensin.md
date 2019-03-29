@@ -3,6 +3,7 @@ title: Efektivní investice do menšin
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/KCzPYfel.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *V pozoruhodném [rozhovoru pro internetovou televizi DVTV vysvětluje filosof Miroslav Petříček](http://video.aktualne.cz/dvtv/petricek-evropa-se-nesmi-roztristit-nemohla-by-celit-svetu/r~a163cfe42c9211e5989d0025900fea04/), co utváří samotnou podstatu demokracie. A mimo jiné varuje před tím, aby byla demokracie chápána jen jako pouhá vláda většiny, neboť kvalita demokracie je do značné míry určována právě ohledem na menšiny, na jejich potřeby a hodnoty. Demokracie není přehlíživá a neměla by být ani bezohledná. Svůj podíl si nezaslouží jen ti, kteří tvoří aktuální většinu.*

@@ -3,6 +3,7 @@ title: Zdravotnice Katka Opálková se jako členka českého traumatýmu zúča
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/BoKu2ej.jpg
 author: Tomáš Trumpeš
+tags: zdravotnictví
 ---
 
 *Rozsáhlé zemětřesení v Nepálu si na konci dubna vyžádalo tisíce obětí na životech, mnoho zraněných a obrovské škody. Katastrofa vyvolala také v České republice velkou vlnu solidarity. Vedle těch, kteří přispěli na pomoc postiženým oblastem finančně, existují také lidé, kteří s odvahou a vědomím potřebnosti akutní pomoci odjeli v rámci své profese pomáhat přímo do Nepálu. Mezi tyto lidi patří i zdravotnice Katka Opálková, která je členkou českého traumatýmu, jehož účast v Nepálu odsouhlasila bezprostředně po katastrofě česká vláda. Autorem fotografií, které článek doprovázejí, je Michal Franta.*

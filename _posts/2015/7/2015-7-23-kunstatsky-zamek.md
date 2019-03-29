@@ -3,6 +3,7 @@ title: "Významné objevy na Kunštátě: Pod pláštěm zámku se ukrývá tak�
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/taUK3xrl.jpg
 author: Tomáš Trumpeš
+tags: historie
 ---
 
 *Významné objevy přinesl prohloubený stavebně-historický průzkum, který probíhal od loňského podzimu do letošního jara na zámku v Kunštátě. Nejpřevratnějším objevem je zjištění, že hmota původního gotického hradu nevzala z podstatné části za své během renesanční přestavby, ale je takřka v kompletním stavu součástí dnešní budovy. Pod modernějšími vrstvami zámku jsou tak postupně odhalována zcela fascinující tajemství. Třeba unikátní gotická výmalba či fragmenty vzácných kamenických prvků. Po letošní sezóně bude výzkum pokračovat.*

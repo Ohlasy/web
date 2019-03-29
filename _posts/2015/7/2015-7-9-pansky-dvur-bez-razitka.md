@@ -3,6 +3,9 @@ title: Úřad neschválil rekonstrukci Panského dvora, přestože památkáři 
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/dMaTJJEl.jpg
 author: Tomáš Trumpeš
+tags:
+    - panský dvůr
+    - architektura
 ---
 
 *Svéhlavé rozhodnutí boskovického úřadu, nebo selhání odborníků z Památkového ústavu? To jsou dva úhly pohledu na velmi neobvyklou situaci, která nastala při schvalování rekonstrukce památkově chráněného Panského dvora na Hradní ulici v Boskovicích. Projekt rekonstrukce, jak jej představil jednatel společnosti Pražská 5, která objekt vlastní, totiž získal podporu brněnských památkářů, ale nezbytné souhlasné stanovisko mu odmítla udělit boskovická referentka památkové péče Alena Dvořáková. Oba úřady postupují obvykle ve shodě, kterou se snaží najít i s investorem. To se nyní nestalo a mezi odborníky naopak padají poměrně ostrá prohlášení.*

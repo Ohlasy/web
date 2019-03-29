@@ -3,6 +3,7 @@ title: Po Jakubcovi i Řehoř. Boskovické hnutí ANO opustil už druhý expřed
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/HdnFDRWl.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Přerod hnutí ANO z protestního uskupení stavícího víceméně jen na svém lídrovi a na puncu novosti ve standardně a celostátně fungující politickou organizaci neprobíhá zcela hladce a beze ztrát. Na celostátní úrovni zmizely některé tváře, které byly s Babišovým hnutím v počátku výrazně spojeny, další mizí postupně. Nejinak je tomu i v regionech a také v Boskovicích. Zde už ANO opustili dokonce dva předsedové. Nejprve Vladimír Jakubec, který zde hnutí zakládal, nyní i Luděk Řehoř, který je vedl do komunálních voleb.*
