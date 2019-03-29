@@ -2,6 +2,7 @@
 title: Počet zapsaných prvňáčků loňský rok nepřekonal, do školní lavice v září usedne i několik pětiletých
 category: zpravodajství
 author: Andrea Šrámková
+tags: vzdělávání
 ---
 
 *Kde je pravá, kde levá strana, jsou správně slyšet všechny hlásky v básničce? Má nakreslená postava i krk, uši, pět prstů? Nejen to bedlivě sledovali učitelé při zápisech dětí do první třídy. Ty se právě chýlí ke svému závěru. Přestože podle zákona mají školy na zápis čas do 15. února, většina letošních předškoláků na Boskovicku už má svůj velký den za sebou. I letos k zápisu zamířily silné populační ročníky, rekordní počty dětí z loňského roku se však neopakovaly.*

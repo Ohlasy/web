@@ -2,6 +2,7 @@
 title: "Editorial: Startujeme"
 category: názory a komentáře
 author: Tomáš Trumpeš
+tags: ohlasy
 ---
 
 Vážené čtenářky a vážení čtenáři, vítejte na stránkách internetových novin, které jsme nazvali Ohlasy, s podtitulem dění na Boskovicku.

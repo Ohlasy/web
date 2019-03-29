@@ -3,6 +3,7 @@ title: Každé ráno plivnout do zrcadla snad nemusím, říká Jaroslav Dohnál
 category: rozhovory
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/Ymm5PXpl.jpg
+tags: politika
 ---
 
 *Jaroslav Dohnálek působí v boskovické komunální politice už 20 let. Nejprve byl od roku 1994 bezpartijním zastupitelem, později vstoupil do ODS a posledních 8 let byl za tuto stranu starostou. S odstupem necelého čtvrtroku jsme mluvili nejen o jeho pohledu na dvě funkční období, která strávil v nejvyšší pozici ve městě, ale také o tom, jak vidí nové vedení města, jak si zvyká na opoziční roli a kam směřují jeho profesní kroky. A také o tom, jak vidí politickou budoucnost svou vlastní a Občanské demokratické strany, do jejíhož čela se v Boskovicích po rezignaci Františka Sivery postavil.*

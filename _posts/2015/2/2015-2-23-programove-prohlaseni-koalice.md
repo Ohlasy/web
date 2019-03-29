@@ -2,6 +2,7 @@
 title: Městská rada představila programové prohlášení. Co na něj říká opozice?
 category: zpravodajství
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Boskovická městská rada, která se po podzimních komunálních volbách ujala vedení radnice, představila na konci ledna [programové prohlášení](http://data.ohlasy.info/2015/programove-prohlaseni.pdf). V něm deklaruje, jaké plány a závazky si stanovila pro své funkční období do příštích voleb, tedy do roku 2018. Vládnoucí koalici tvoří ČSSD, KDU-ČSL a hnutí ANO 2011. Pod programovým prohlášením jsou podepsáni všichni členové městské rady, včetně Vladimíra Farského zvoleného na kandidátce KSČM.*

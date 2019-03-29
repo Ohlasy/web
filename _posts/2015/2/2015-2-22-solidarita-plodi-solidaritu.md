@@ -3,6 +3,7 @@ title: I pouhé gesto má svůj hluboký smysl
 cover-photo: http://i.ohlasy.info/tpSybPDl.png
 category: názory a komentáře
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Je to už na světě asi tak zařízeno, aby každá radost musela být něčím zkalena. Radost mi udělalo nové boskovické zastupitelstvo, [které se rozhodlo připojit se k mezinárodní akci Vlajka pro Tibet](/clanky/2015/02/vlajka-pro-tibet.html). Kal ode dna se rozvířil během diskuse, která tomuto rozhodnutí předcházela.*

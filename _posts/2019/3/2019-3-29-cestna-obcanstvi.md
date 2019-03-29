@@ -5,6 +5,7 @@ cover-photo: https://i.imgur.com/khQRPa9l.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
+tags: historie
 ---
 
 *„Čestné měšťanství neb občanství… udělují obce osobám, jež obzvláště poctíti chtějí, bez všelikých závazků, co právo čestné,“ praví Riegrův Slovník naučný. Boskovice udělují čestné občanství od roku 1863, kdy se jako prvnímu této pocty dostalo boskovickému rodákovi, žijícímu v té době ovšem ve Vídni, Petru Bílkovi.*

@@ -3,6 +3,8 @@ title: Co bude se stavbou haly? Do rozhodnutí se nikomu nechce
 cover-photo: http://i.ohlasy.info/l9ubvOkl.jpg
 category: zpravodajství
 author: Marek Osouch
+tags:
+    - sportovní hala
 ---
 
 *Nález uhlí a problémy s podložím loni na jaře odstartovaly úřednickou mašinérii o povolení změny stavby boskovické sportovní haly. Stavební úřad v polovině července vydal nové povolení. Odpůrci haly v lokalitě na Slovákově ulici se však odvolali ke krajskému úřadu, ten jim v jejich námitkách dal za pravdu a rozhodnutí stavebního úřadu zrušil.*

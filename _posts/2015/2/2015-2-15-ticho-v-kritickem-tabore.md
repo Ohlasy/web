@@ -3,6 +3,9 @@ title: Ticho v kritickém táboře je vždy smrtící
 author: Tomáš Trumpeš
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/10ClofCl.jpg
+tags:
+    - architektura
+    - památková zóna
 ---
 
 *Boskovice opět zvítězily v krajském kole soutěže o nejlepší městskou památkovou zónu. Znamená to jistě pozitivní přísun peněz určených na opravy památek, ale také povzbuzení pro ty, kteří snaze o zvelebování nejen židovské čtvrti, ale celé zóny zahrnující 36 nemovitých památek, věnují nemalé úsilí.*

@@ -2,6 +2,7 @@
 title: Policisté zaznamenávají nárůst drogové problematiky, jinak řeší hlavně majetkové a dopravní přestupky
 category: zpravodajství
 author: Tomáš Trumpeš
+tags: bezpečnost
 ---
 
 *Městští i státní policisté předložili na počátku února zprávy o své činnosti v roce 2014. Celková bezpečnostní situace a stav veřejného pořádku v Boskovicích jsou podle jejich vyjádření stabilizované, největší změny zaznamenali policisté s nárůstem šíření a užívání drog. Hlavním problémem pak zůstává majetková kriminalita a dopravní přestupky.*

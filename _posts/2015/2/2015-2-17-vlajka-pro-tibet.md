@@ -3,6 +3,7 @@ title: Na boskovické radnici zavlaje tibetská vlajka
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/B9EakBHl.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *K mezinárodní kampani Vlajka pro Tibet se letos připojí také boskovická radnice. Tibetská vlajka na ní bude vyvěšena 10. března u příležitosti 56. výročí povstání Tibeťanů proti čínské okupaci. Toto povstání bylo násilně potlačeno čínskou armádou, což stálo život téměř milion Tibeťanů.*

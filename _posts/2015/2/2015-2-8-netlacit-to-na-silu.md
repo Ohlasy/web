@@ -2,6 +2,10 @@
 title: Při plánování nové boskovické knihovny se musíme poučit ze sportovní haly
 category: názory a komentáře
 author: Tomáš Trumpeš
+tags:
+    - knihovna
+    - sportovní hala
+    - politika
 ---
 
 *Stavba sportovní haly na Slovákově ulici byla bezesporu jedním z hlavních témat boskovických komunálních voleb. Více než čtvrt roku po volbách ale stále nemáme jasno v tom, jestli se bude, či nebude ve stavbě pokračovat. Zklamáni mohli být všichni ti, kteří čekali jasné slovo k této věci v programovém prohlášení nové rady. Nic takového v něm totiž není.*

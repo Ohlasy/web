@@ -3,6 +3,7 @@ title: "Boskovická starostka Hana Nedomová: Řada věcí se uskuteční už do
 category: rozhovory
 cover-photo: http://i.ohlasy.info/6OmmMgTl.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Hana Nedomová se na podzim stala první boskovickou starostkou. Od jejího zvolení uplynulo pověstných sto dní, nová městská rada navíc vydala své programové prohlášení. Logicky jsme tedy mluvili o jejích prvních dojmech z úřadu a o konkrétnějších plánech na zbytek volebního období.*
