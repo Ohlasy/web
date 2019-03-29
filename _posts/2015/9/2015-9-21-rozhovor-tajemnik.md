@@ -3,6 +3,7 @@ title: „Strategický plán definuje základní problémy, ale neříká, jak s
 cover-photo: http://i.ohlasy.info/HSwqkLD.jpg
 category: rozhovory
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Když se v zámeckém skleníku konalo veřejné projednání strategického plánu, ukázalo se, že ne všichni přesně rozumíme tomu, co má tento dokument obsahovat a k čemu má sloužit. O rozhovor jsme proto požádali šéfa boskovických úředníků Davida Škvařila, který přípravu strategického plánu fakticky vedl.*

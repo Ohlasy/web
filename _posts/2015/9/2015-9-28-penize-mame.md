@@ -3,6 +3,7 @@ title: Peníze máme
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/1TbgkPEl.jpg
 category: názory a komentáře
+tags: politika
 ---
 
 *„Na to nemáme peníze.“ Nedávno jsme s kolegy v redakci Ohlasů diskutovali o tom, že kdybychom mohli politikům něco zakázat, zakázali bychom tuto větu. Při porušení zákazu by museli psát na tabuli jako Bart Simpson opravné prohlášení: „Rozhodli jsme se dát peníze na něco jiného.“*

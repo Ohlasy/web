@@ -3,6 +3,7 @@ title: Ptejte se nás, na co chcete. Na co chceme, odpovíme
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/Ql8N8gm.jpg
 author: Tomáš Znamenáček
+tags: politika
 ---
 
 *Kdesi jsem četl, jak zvířata vnímají člověka pohybujícího se v lese. Jelikož se příliš nesnaží chovat tiše, chodí neomaleně po dvou a zcela bezmyšlenkovitě odhaluje zranitelné břicho, považují jej za špičkového predátora, který se nemá čeho bát. Tím, že odhaluje svou slabinu, dává okázale najevo svou převahu. Podobně to funguje v diskuzi. Otevřenost k debatě, kritice a cizím argumentům není slabost, ale projev skutečné síly – síly uznat, že diskutujícím nejde o rozdělení na vítěze a poražené, ale o společné hledání nejlepšího řešení.*

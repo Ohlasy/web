@@ -3,6 +3,7 @@ title: „Zoufale nám chybí větší kulturní prostor s lepším zázemím,�
 category: rozhovory
 cover-photo: http://i.ohlasy.info/xU2i85Yl.jpg
 author: Tomáš Trumpeš
+tags: kultura
 ---
 
 *Před třemi lety nastoupil Ivo Legner na místo dramaturga a produkčního boskovických Kulturních zařízení. Na prahu nové kulturní sezóny jsme si povídali o jednotlivých dramaturgických liniích programu, o ekonomickém aspektu jeho práce a také o tom, co by on viděl jako kulturní priotity městských investic pro příští léta.*

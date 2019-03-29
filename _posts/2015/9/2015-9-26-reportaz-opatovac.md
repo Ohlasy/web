@@ -2,6 +2,7 @@
 title: Tři dny v uprchlickém táboře
 cover-photo: http://i.ohlasy.info/FWKvwNFl.jpg
 author: Tomáš Znamenáček
+tags: migrace
 ---
 
 *Pár tisíc metrů čtverečních obehnaných ostnatým drátem, desítky velkých vojenských stanů, šiky chemických záchodů, velké auto pumpující vodu do sprchovacího stanu. Prostor pro čtyři tisíce lidí. Skoro jako přímořské chorvatské kempy, na které si vzpomínám z dětství, všudypřítomné paštiky nevyjímaje. Kempy mého dětství ovšem u východu neměly kordon těžkooděnců a velkou kovovou bránu. Jsme v oficiálním uprchlickém táboře Opatovac.*

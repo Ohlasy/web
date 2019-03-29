@@ -3,6 +3,7 @@ title: Gianniho kulturní výběr na září
 cover-photo: http://i.ohlasy.info/k3NJiFnl.jpg
 category: zpravodajství
 author: Jan Bařinka
+tags: kultura
 ---
 
 *Měsíc září nabízí v Boskovicích a v okolí kulturní akce, které rozhodně stojí za pozornost. Gianniho kulturní výběr opět přináší výčet toho, co by bylo opravdu škoda přehlédnout. K úplným špičkám zářijového programu patří Michaela Koudelková na zámku nebo Lenka Filipová či Marilyn Oliver v zámeckém skleníku, Vltava nebo Žlutý pes na kunštátském Jarmarku, případně The Wall Rogera Waterse či Vetřelci v kině Panorama. Dále nás čeká spousta jazzových, folkových, klubových i klasických koncertů, několik vernisáží, besed a divadelních představení. V září také probíhají tradiční Dny evropského dědictví.*

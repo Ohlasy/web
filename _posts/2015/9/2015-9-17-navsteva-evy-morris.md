@@ -3,6 +3,7 @@ title: Boskovice navštívila Eva Morris, dcera posledního rabína
 cover-photo: http://i.ohlasy.info/ZWyhOoll.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
+tags: historie
 ---
 
 *Významnou návštěvu hostily minulý týden Boskovice. Do města přijela paní Eva Morris, dcera posledního boskovického rabína Isidora Reicha. Doprovázel ji syn Amos Reich a vnučky Abigail a Yael.*

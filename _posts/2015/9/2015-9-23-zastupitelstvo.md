@@ -3,6 +3,9 @@ title: "Ze zastupitelstva: Výkup pozemku na Červené zahradě za 14 milionů, 
 cover-photo: http://i.ohlasy.info/61snCasl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
+tags:
+    - červená zahrada
+    - politika
 ---
 
 *Několik poměrně významných rozhodnutí učinilo na svém úterním zasedání boskovické zastupitelstvo. Patří k nim zákaz hazardu, schválení územního plánu a nákup pozemku v Červené zahradě za 14 milionů korun. Přinášíme proto stručný výběr toho nejpodstatnějšího, co podle Ohlasů na zastupitelstvu zaznělo, a především bylo rozhodnuto.*

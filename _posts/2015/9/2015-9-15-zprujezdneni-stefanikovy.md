@@ -3,6 +3,7 @@ title: Zprůjezdnění Štefánikovy ulice je znovu na stole
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/xFEY9ap.jpg
 author: Marek Osouch
+tags: doprava
 ---
 
 *Dva roky se o Štefánikově ulici v Boskovicích moc nemluvilo. Nyní městská rada znovu projednává otázku jejího možného zprůjezdnění. Obyvatelé ulice se bojí nárůstu dopravy, která by se podle nich s otevřením ulice přesunula ze Sokolské právě k nim. Neuspokojil je ani slib města, že se na začátek ulice umístí značka zakazující vjezd vozidlům nad 3,5 tuny. Za žádnou cenu ulici zprůjezdnit nechtějí.*

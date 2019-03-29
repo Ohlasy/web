@@ -3,6 +3,7 @@ title: Gianniho kulturní výběr na říjen
 cover-photo: http://i.ohlasy.info/TMUxSGil.jpg
 category: zpravodajství
 author: Jan Bařinka
+tags: kultura
 ---
 
 *Vzpomínkové setkání Halasův Kunštát, Bratři Ebenové a Sto zvířat na Husích slavnostech, Hentai Corporation nebo Vložte kočku na Sklepech, výstava Víta Ondráčka v Boskovicích, to vše je pouze zlomek akcí, které se v říjnu v našem regionu konají. Gianniho kulturní výběr opět přináší výčet toho, co by bylo opravdu škoda přehlédnout, a tradičně se ohlíží i za uplynulým měsícem.*

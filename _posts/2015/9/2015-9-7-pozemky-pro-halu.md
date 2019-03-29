@@ -3,6 +3,9 @@ title: Město chce pozemky pro halu v Červené zahradě
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/r92iBpc.jpg
 author: Marek Osouch
+tags:
+    - červená zahrada
+    - sportovní hala
 ---
 
 *Kde bude stát v Boskovicích nová sportovní hala? Po ukončení stavby na Slovákově se začíná jevit jako nejpravděpodobnější varianta lokalita v Červené zahradě. Vedení města je ale k jakýmkoliv stanoviskům opatrné a připomíná, že se jedná i o dalších variantách. Mezi nimi je i výstavba haly u středních škol, které jsou ovšem v majetku kraje.*
