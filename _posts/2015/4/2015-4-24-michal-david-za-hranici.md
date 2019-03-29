@@ -3,6 +3,7 @@ title: Proč je Michal David za hranicí toho, čemu by se KZMB měla věnovat
 category: názory a komentáře
 author: Jan Bařinka
 cover-photo: http://i.ohlasy.info/hQ5vw14.jpg
+tags: kultura
 ---
 
 Kulturní zařízení města Boskovice pořádají v červnu v boskovickém letním kině koncert Michala Davida. Tato skutečnost vyvolala v poslední době diskusi nezvyklých rozměrů, přičemž někteří diskutující vůbec netuší, proč zrovna Michal David spustil takovou vlnu reakcí a proč právě jeho vystoupení je pro některé z nás za hranicí toho, čemu by se KZMB měla věnovat. Rozhodl jsem se tedy na některé komentáře tímto článkem zareagovat a pokusit se přiblížit, co podle mého názoru fenomén Michala Davida v rámci české kultury představuje.

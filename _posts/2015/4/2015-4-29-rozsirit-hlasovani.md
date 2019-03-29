@@ -3,6 +3,7 @@ title: Rozšířit hlasování
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/FlE5w20.jpg
 author: Jiří Bureš
+tags: politika
 ---
 
 *Britského spisovatele Gilberta K. Chestertona u nás známe především jako spisovatele detektivek, které spojuje postava otce Browna.  Méně lidí ví, že byl římským katolíkem a vedle své literární tvorby napsal i vážně míněnou obranu své víry, pod titulem Orthodoxie. Název působí kamenně, ale obsahem je to dílko překvapivě svižné, plné odvážných myšlenek, za které by se nemuseli stydět ani moderní teologové.*

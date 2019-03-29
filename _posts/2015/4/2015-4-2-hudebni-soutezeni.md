@@ -3,6 +3,7 @@ title: Hudební soutěže často nadělají víc škody než užitku
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/Ud7Pn5y.jpg
 author: Kristýna Znamenáčková
+tags: hudba
 ---
 
 *Pracuji jako učitelka klavíru na základní umělecké škole. Moje práce mě baví, cítím hluboký smysl v poslání vést děti k hudbě, naučit je vyjadřovat prostřednictvím hudby pocity a věci, pro které v lidské řeči nemáme slova. Svět hudby je kouzelný, neomezený a naprosto soběstačný prostor, ve kterém si své oblíbené místo může najít úplně každé dítě bez ohledu na míru talentu, pokud má jen trochu chuť si hrát a objevovat. Ve velké místnosti plné nejrůznějších hraček by si každé dítě hrálo s něčím jiným, stejně tak v hudbě každého nadchne jiná aktivita, ve které může vyniknout a cítit naplnění – bez ohledu na to, jak rychle mu běhají prsty.*

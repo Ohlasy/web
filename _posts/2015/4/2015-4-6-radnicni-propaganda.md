@@ -3,6 +3,7 @@ title: Propaganda v radničních médiích
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/dS3l7Egl.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Musím se přiznat k jedné vlastnosti, která možná poněkud špatně zapadá k novinářské práci – strašně nerad čtu oficiální radniční média a dokonce kupříkladu i programy politických stran před volbami. Možná to zčásti je určitý rys novinářské profese, protože marketingové stratégy a PR poradce máme tak trochu za lidi na druhé straně barikády, jakkoliv k přeběhlictví směrem tam a někdy dokonce směrem zpátky docela hojně dochází. Tiskovým mluvčím jejich práci obvykle nezávidíme, někdy je dokonce vysloveně i nevysloveně litujeme. Mají těžkou práci, pokud mají zdravý rozum.*

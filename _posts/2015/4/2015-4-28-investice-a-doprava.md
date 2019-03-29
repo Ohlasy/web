@@ -3,6 +3,7 @@ title: Radnice představila plány v oblasti investic a dopravy
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/Q2Uxkwb.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Boskovická radnice představila minulý týden na setkání ve skleníku podrobněji své letošní plány v oblasti investic a dopravy. Vše se odvíjí od schváleného rozpočtu, který posvětilo prosincové zastupitelstvo. Současně starostka Hana Nedomová společně se svými zástupci předeslala, že další plány by se měly opírat o připravovaný strategický plán a připomínky občanů. To by mělo zajistit, aby měly Boskovice dlouhodobější investiční vizi. Předmětem debaty se stala rovněž rychlostní silnice R43, s jejíž realizací to nevypadá vůbec dobře.*

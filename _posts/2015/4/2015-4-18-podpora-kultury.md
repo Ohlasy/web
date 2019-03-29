@@ -3,6 +3,7 @@ title: Kultura si na sebe vydělat nemusí
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/CZszx2W.jpg
 author: Tomáš Znamenáček
+tags: kultura
 ---
 
 *Koncert normalizační popové hvězdy Michala Davida, který se v Boskovicích chystá na konec června, vzbudil diskuzi na jedno tradiční téma. Pořadatelem koncertu je totiž městská kulturní organizace KZMB, které někteří vyčítají, že za veřejné peníze pořádá koncert čistě komerčního charakteru, bez ohledu na kulturní kvality.*

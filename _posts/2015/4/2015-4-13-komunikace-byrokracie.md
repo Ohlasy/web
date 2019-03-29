@@ -3,6 +3,9 @@ title: Komunikace ve světě byrokracie
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/CmyZCBIl.jpg
 author: Marek Osouch
+tags:
+    - sportovní hala
+    - politika
 ---
 
 *Boskovická sportovní hala není jen ukázkou nepovedeného začátku stavby, ale také úřední mašinérie posílání materiálu z jedné instituce na druhou. Složitost byrokracie projevující se v této kauze je také jedním z důvodů, proč už se kolem haly více než rok nic neděje.*

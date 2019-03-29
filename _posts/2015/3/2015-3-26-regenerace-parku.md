@@ -3,7 +3,7 @@ title: Parčík u autobusového nádraží čeká obnova
 cover-photo: http://i.ohlasy.info/6z8bFJul.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
-tags: architektura
+tags: architektura zeleň
 ---
 
 *Regeneraci parčíku, který se nachází u autobusového nádraží, nebo chcete-li nad Modrou věží a Albertem, plánuje město Boskovice, které si pro tento účel nechalo zpracovat studii od Jitky Vágnerové. Setkání s autorkou a představení studie se konalo počátkem března. Parčík je dlouhá léta víceméně zanedbáván, dnes nepůsobí ani dojmem plochy určené k odpočinku, ani příliš esteticky. Kromě toho přes něj nevedou žádné oficiální cestičky, i když minimálně směrem od křižovatky u Slávie zde jedna taková vznikla, neboť lidé si cestu k Albertu přirozeně zkracují.*

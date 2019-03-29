@@ -3,6 +3,8 @@ title: "Anketa: Bezdomovci v Boskovicích"
 cover-photo: http://i.ohlasy.info/oDas2l4l.jpg
 category: ankety
 author: Tomáš Trumpeš
+tags:
+    - sociální služby
 ---
 
 *Debata okolo úpravy parčíku u autobusového nádraží rozvířila v Boskovicích také otázku přístupu k lidem bez domova, kteří se v této lokalitě scházejí a tráví zde svůj čas. Několika lidí, jejichž profese je spjata také s touto problematikou, jsme se proto zeptali: Mají Boskovice vážnější problém s bezdomovci, popřípadě lidmi, kteří tráví podstatnou část života na ulici? Jak by ho měly řešit? Je na místě nějaká významnější pomoc bezdomovcům, či naopak represivnější opatření?*
@@ -23,7 +25,8 @@ V současné době spolupráce výše uvedených subjektů funguje, představuje
 
 **Kamila Kavanová, sociální kurátorka pro bezdomovce v Brně, žije v Boskovicích**
 
-Mají, nebo nemají? Každý občan Boskovic to jistě nebude vidět stejně. Dle mého názoru vážnější problém nemají. Vzhledem k tomu, že dělám sociálního kurátora v Brně, denně pracuji se spoustou lidí bez domova trávícími podstatnou část života na ulici a znám jejich situaci. Znám ji v Brně, kde problém bezdomovectví je veliký. V Boskovicích často potkávám partičku posedávající na nádraží, další partičku v parku u pošty či Alberta, občas ve městě na lavičce na náměstí, a Olinku. Mně osobně zas tak moc nevadí, a to mám malé děti.  Ano, je pravda, že tu a tam zabírají lavičku či se někde povalují a jsou odstrašujícím příkladem, ostatně, co jiného mají zabírat?  
+Mají, nebo nemají? Každý občan Boskovic to jistě nebude vidět stejně. Dle mého názoru vážnější problém nemají. Vzhledem k tomu, že dělám sociálního kurátora v Brně, denně pracuji se spoustou lidí bez domova trávícími podstatnou část života na ulici a znám jejich situaci. Znám ji v Brně, kde problém bezdomovectví je veliký. V Boskovicích často potkávám partičku posedávající na nádraží, další partičku v parku u pošty či Alberta, občas ve městě na lavičce na náměstí, a Olinku. Mně osobně zas tak moc nevadí, a to mám malé děti.  Ano, je pravda, že tu a tam zabírají lavičku či se někde povalují a jsou odstrašujícím příkladem, ostatně, co jiného mají zabírat?
+
 Boskovice jako malé město nedisponují žádnou noclehárnou či sociální ubytovnou. Tudíž tito lidé zřejmě obývají nějaký byt, dům či hájenku nebo se odklidí do Brna, které pro ně skýtá více možností. Možná se ale jen stulí pod strom či ulehnou právě na lavičku. V každé době ke každému městu patří bezdomovci, žebráci, jde o to, zda je jim nabídnuta pomoc, aspoň nějaké sociální poradentství – a to v případě Boskovic určitě je, viz sociálního kurátora. Co ale nedostanou, je možnost slušného přespání či hygieny, protože město žádné služby pro bezdomovce nemá. Možností by bylo například za určitých podmínek kontroly bydlení v lodním kontejneru, jak nedávno proběhlo médii. Varianty tu jsou, otázka je, zda jsou na to peníze, chuť, ochota a hlavně potřeba. Rozebírat, zda by bezdomovci nemohli pracovat a ne jen „chlastat“ a povalovat se, není součástí otázky, ale často v práci vidím, že je velmi těžké se z ulice dostat zpět. Neodsuzujme proto lidi, kteří jsou na ulici, ne vždy si za „TO“ mohou jen sami.
 
 Zda bezdomovcům pomoci, či je represivně umravnit? To je otázka pro mě jasná. Represivní opatření ukazují, že k ničemu nevedou. Uvědomme si, že mnohdy si tento životní styl tito lidé nezvolili sami, nedostalo se jim zavčas účinné pomoci, anebo třeba časem rezignovali na takovou pomoc, která je v jejich situaci nedostatečná nebo nevyhovující. Pomoc ze strany města určitě ano, nejlépe by bylo dotázat se přímo jich, co by jim pomohlo, co jim chybí, proč tak žijí, a pak se dotázat města, co je pro ně ochotno udělat, nabídnout?

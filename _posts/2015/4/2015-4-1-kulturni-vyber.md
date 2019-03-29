@@ -3,6 +3,7 @@ title: "Gianniho kulturní výběr na duben"
 cover-photo: http://i.ohlasy.info/5k5lzfO.jpg
 category: zpravodajství
 author: Jan Bařinka
+tags: kultura
 ---
 
 *Ve snaze informovat čtenáře co nejlépe o podstatném dění v regionu by rozhodně neměla chybět také vhodná forma přehledu kulturních akcí. Ohlasy se rozhodly oslovit pro pravidelné měsíční zpracovávání výběru zajímavého kulturního dění Jana Bařinku, řečeného Gianni, neboť nejspíš málokdo navštíví tolik kulturních akcí jako on. Gianni je vystudovaný estetik a má navíc široké spektrum divácké i posluchačské pozornosti, takže ho můžete potkat prakticky všude: od klubových párty až po koncerty vážné hudby. Součástí jeho textů bude vždy také malé ohlédnutí za uplynulým měsícem.*

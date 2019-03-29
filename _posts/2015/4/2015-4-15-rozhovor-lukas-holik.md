@@ -3,6 +3,7 @@ title: Politiku musíš milovat, jinak bys ji dělat nemohl, říká nový šéf
 category: rozhovory
 cover-photo: http://i.ohlasy.info/lL46hlVl.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Lukáš Holík vystudoval manažerskou informatiku a ekonomiku podniku na brněnském VUT, pracuje v mezinárodní energetické společnosti, kde má na starosti finanční administrativu. Je aktivní florbalista a basketbalista, zabývá se životním prostředím a organizuje úklidové akce. Před třicítkou vstoupil do politiky, vybral si hnutí ANO a po odstoupení Luďka Řehoře se asi před měsícem stal předsedou hnutí v Boskovicích. Proto nás zajímalo, co ho do politiky přivedlo a jaké má plány a názory.*

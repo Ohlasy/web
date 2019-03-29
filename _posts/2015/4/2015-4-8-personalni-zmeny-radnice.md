@@ -3,6 +3,7 @@ title: První změny na radnici. Končí šéfové odborů Musil a Siverová
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/q4SxZZll.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *První razantnější změny v uspořádání radnice schválila minulý týden boskovická městská rada. Změny jsou koncipovány jako organizační, ale mají především zcela konkrétní personální dopady. Ve svých funkcích končí hned dva šéfové odborů: Pavel Musil jakožto vedoucí odboru majetkového, a vedoucí odboru sociálních věcí, zdravotnictví a školství Eva Siverová.*

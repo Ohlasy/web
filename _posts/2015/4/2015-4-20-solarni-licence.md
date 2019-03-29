@@ -3,6 +3,8 @@ title: "Další informace o elektrárně AKAM Bosko: Soud řeší oprávněnost 
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/9cNI7l0l.jpg
 author: Marek Osouch
+tags:
+    - solární elektrárna
 ---
 
 *Na počátku dubna jsme psali, že boskovická solární elektrárna městu už rok nedává žádné peníze za pronájem pole v Chrudichromské ulici. Firma AKAM Bosko, která elektrárnu provozuje, je zadlužená a čeká na investora, který by ji z dluhů vytáhl. Toho se ale nejspíš jen tak nedočká. Na krajském soudě v Brně totiž leží žaloba na Energetický regulační úřad, který podle žalobce udělil firmě AKAM licenci na provoz elektrárny nezákonně.*

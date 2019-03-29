@@ -5,6 +5,7 @@ cover-photo: http://i.ohlasy.info/QKLcXcxl.jpg
 excerpt: "Prvním článkem otevíráme nový seriál o regionálních dějinách. Nese název Pohledy do historie a připravuje ho historik boskovického muzea Petr Vítámvás, který bude podle své aktuální práce představovat mozaiku různých historických zajímavostí. První díl je věnován popisu boskovického panství, jak jej ve v první polovině 19. století zpracoval historik a topograf, rajhradský benediktin Tomáš Řehoř Volný. Popis přináší řadu pozoruhodných faktických údajů, na základě kterých si můžeme udělat přesnější představu, jak tehdy boskovické panství vypadalo."
 serial: historie
 author: Petr Vítámvás
+tags: historie
 ---
 
 *Boskovice patřily od konce 17. století, kdy je získal sňatkem Walter František Xaver, sekundogenituře – tedy vedlejší větvi rodu Dietrichsteinů. V 1. polovině 19. století Boskovické panství náleželo Františku Xaverovi, hraběti z Dietrichsteina, který zde nechal v letech 1819–1826 vybudovat nový zámek, o němž Řehoř Volný nedlouho po dostavbě obdivně napsal: „…čtyřboká budova, obklopená nanejvýš vkusnými zahradami, patří mezi nejkrásnější v zemi. Interiéry jsou vyzdobeny mezi jiným obrazy z tureckých válek z roku 1683 a byly malovány holandskými mistry na pergamen se zlatým podkladem – vzácnost, kterou vlastní v zemi jen tento zámek.“*

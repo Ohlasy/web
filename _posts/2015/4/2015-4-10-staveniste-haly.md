@@ -3,6 +3,8 @@ title: Debata neustává a staveniště působí problémy. O hale se však roz
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/7Wnnk5Wl.jpg
 author: Marek Osouch
+tags:
+    - sportovní hala
 ---
 
 *Na staveništi sportovní haly na Slovákově ulici v Boskovicích za uplynulý rok nenastal žádný posun. Voda ani v parném létě nezmizela, část hlíny se sesunula. Strany vládnoucí koalice říkají, že halu ve svém programovém prohlášení nemají, a tak se necítí být vázány činit kolem ní rychlé kroky. Po půl roce od voleb už alespoň víme jedno – o osudu haly rozhodne zastupitelstvo na svém zasedání 23. června.*

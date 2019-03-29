@@ -4,6 +4,7 @@ category: rozhovory
 cover-photo: http://i.ohlasy.info/DPdGSrOl.jpg
 author: Kristýna Znamenáčková
 featured: true
+tags: hudba kultura
 ---
 
 *Ve středu 29. dubna vystoupil v boskovickém zámeckém skleníku klavírista Igor Ardašev. Přednesl skladby Ludwiga van Beethovena, Bedřicha Smetany, Sergeje Prokofjeva a Roberta Schumanna. O jedinečnosti každého interpretačního výkonu, nevyčerpatelnosti Bachovy hudby, o Janáčkovi v podání zahraničních interpretů, o tichu a mnohém dalším si s Igorem Ardaševem po koncertě povídala klavíristka a příležitostná přispěvatelka Ohlasů, Kristýna Znamenáčková.*

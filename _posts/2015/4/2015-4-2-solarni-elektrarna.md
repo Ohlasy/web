@@ -3,6 +3,8 @@ title: Boskovice už rok nemají ze solární elektrárny ani korunu. Z 60 milio
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/6BpqQdOl.jpg
 author: Marek Osouch
+tags:
+    - solární elektrárna
 ---
 
 *Boom solárních elektráren se nevyhnul ani Boskovicím. S velkým nadšením v roce 2009 schvalovalo vedení města pronájem pozemku v Chrudichromské ulici společnosti AKAM Bosko, která na něm elektrárnu postavila. Za pětadvacet let provozu měly Boskovice na nájmu získat zhruba šedesát milionů korun. Za tři roky však byla situace jiná a loni přitekla do městské pokladny pouze část nájemného za první čtvrtletí. Z očekávaných šedesáti milionů je zatím něco přes osm a na další příjmy to moc nevypadá.*
