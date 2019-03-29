@@ -3,6 +3,7 @@ title: Město Boskovice představilo první část Strategického plánu
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/HqcuTZQ.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *První verzi klíčového dokumentu, který by měl stanovit priority pro rozvoj města na příštích 10 let, představila boskovická radnice. Ta zároveň vyzývá občany, aby se k návrhu vyjádřili.*

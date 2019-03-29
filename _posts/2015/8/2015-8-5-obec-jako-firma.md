@@ -2,7 +2,8 @@
 title: Obec jako firma
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/m2Dv8fql.jpg
-author: Marek Osouch 
+author: Marek Osouch
+tags: politika
 ---
 
 *Demokracie začíná v obci, jak už je známo ze starověkých Athén. Od řeckého slova polis také vznikl pojem politika, tedy správa obce, v té době městského státu. V České republice je struktura obcí naprosto unikátní a nemá v Evropě obdoby. Existuje zde více než šest tisíc obcí, kterým nikdo z centra nemůže nařídit, že mají peníze dát spíše na opravu chodníku než na výstavbu hřiště.*

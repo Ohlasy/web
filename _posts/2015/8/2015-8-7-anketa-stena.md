@@ -3,6 +3,8 @@ title: "Anketa: Chcete lezeckou stěnu na letním kině?"
 category: ankety
 cover-photo: http://i.ohlasy.info/FnXSulol.jpg
 author: Tomáš Trumpeš
+tags:
+    - lezecká stěna
 ---
 
 *Příznivci lezecké stěny na zadní straně letního kina odevzdali na boskovické radnici petici, která město o její vybudování žádá. V anketě se proto ptáme:

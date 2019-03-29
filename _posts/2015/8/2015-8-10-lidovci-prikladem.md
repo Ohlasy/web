@@ -3,6 +3,7 @@ title: Dobrým příkladem mohou být lidovci
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/x6guxTTl.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Změna uspořádání na boskovické radnici vnesla do řad politiků a také jejich příznivců či odpůrců značnou míru emocí. Logicky. Politické síly se přeskupily, stará partnerství byla ukončena, nové vztahy a nová spojenectví ukazují přirozeně konkrétní lidi i celé strany v novém světle. A dávají jim příležitost chovat se jinak a na některé věci změnit názor. To však samo o sobě není nic špatného.*

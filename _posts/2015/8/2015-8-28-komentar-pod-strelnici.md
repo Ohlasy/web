@@ -3,6 +3,8 @@ title: Výstavba Pod Střelnicí by mohla do Boskovic přinést chybějící sou
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/qBagzv6l.jpg
 author: Petr Ondráček
+tags:
+    - architektura
 ---
 
 *Moje první setkání s developerským záměrem v lokalitě Pod Střelnicí začalo celkem netradičně, a to překvapením při jednom z letošních jarních výběhů ven z města, do přírody. Po proběhnutí kolem boskovického kojálu jsem se těšil na své oblíbené netradiční výhledy na město rámované divoce rostoucí vegetací, ale všechno bylo jinak. Cesta, kterou jsem znal, najednou končila na hraně srázu, po kterém jsem musel opatrně seběhnout dolů. Dnes jsem tudy ještě proběhl, ale věděl jsem, že příště už budu muset volit jinou trasu, protože až romanticky divoká část na severovýchodním kraji Boskovic vzala zasvé a bude se zde něco dít.*

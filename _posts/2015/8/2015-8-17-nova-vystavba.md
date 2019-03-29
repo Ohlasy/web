@@ -3,6 +3,7 @@ title: Na Rovné a Pod Střelnicí se rozjela výstavba osmdesáti rodinných do
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/3wZPnUVl.jpg
 author: Marek Osouch
+tags: architektura
 ---
 
 *Více než osmdesát rodinný domů by mělo během několika let vyrůst v Boskovicích. Šestatřicet v lokalitě na Rovné a dalších šestačtyřicet v místě bývalé střelnice a na dalších pozemcích v kopci nad ulicí Ludvíka Vojtěcha. Pozemky u dokrývače na Čížovkách skupuje blanenská developerská firma REAL AP. Rovnou si vzali na starost developeři z BK INVEST.*

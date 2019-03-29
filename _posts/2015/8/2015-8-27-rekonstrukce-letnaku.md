@@ -3,6 +3,7 @@ title: Sezóna v letním kině byla úspěšná, oprava areálu se ale zadrhla
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/ZYdvkbjl.jpg
 author: Tomáš Trumpeš
+tags: kino kultura
 ---
 
 *„Máte tady moc krásný areál, ani nevím, jestli jsem tady už někdy zpívala,“ rozhlížela se po letním kině během svého koncertu před dvěma lety zpěvačka Věra Špinarová. A po chvíli dodala: „Ale mohli byste si ho trochu opravit.“ Následoval aplaus několika set lidí v publiku. Ti tak nejen ocenili zpěvaččin neotřelý smysl pro humor, ale jistě vyjádřili i svůj souhlas s oběma výroky: areál je krásný a potřebuje opravit. Bohužel to však vypadá, že postup rekonstrukčních prací se zadrhnul.*

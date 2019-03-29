@@ -3,6 +3,7 @@ title: Jaké nedostatky a hrozby vám chybí ve strategickém plánu?
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/VRYrUd1.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *[První verze Strategického plánu](/clanky/2015/08/strategicky-plan.html), jak ji představila boskovická radnice, odráží jeden základní pozitivní efekt demokratického střídání vlád: nové vedení města má větší odvahu, nebo alespoň ochotu, pojmenovávat nedostatky, které město trápí. Je to logické, po 20 letech u moci se těžko upozorňuje na to, co ve městě chybí a co se zanedbalo, když to potom logicky padá takříkajíc na vaši hlavu.*

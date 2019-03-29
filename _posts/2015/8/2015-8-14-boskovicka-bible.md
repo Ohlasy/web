@@ -3,6 +3,7 @@ title: Boskovická bible vznikala v okolí Jana Husa, souvislost s Boskovicemi 
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/qtc0T6H.jpg
 author: Tomáš Trumpeš
+tags: historie
 ---
 
 *Takzvaná Boskovická bible je významnou středověkou památkou. Rukopisná kniha čítá více než tisíc stran a je vyzdobena více než 80 iluminacemi. Originál je uložen ve Vědecké knihovně v Olomouci a letos bychom si mohli v souvislosti s 600. výročím upálení Jana Husa připomínat také vznik této knihy, která pravděpodobně vzešla z jeho okolí. Ovšem pouze symbolicky – přesné datum vyhotovení knihy totiž neznáme. A problematický je také její vztah k Boskovicím. Ty se však přesto k vzácnému rukopisu hlásí a od roku 2012 si návštěvníci muzea mohou prolistovat její maketu.*
