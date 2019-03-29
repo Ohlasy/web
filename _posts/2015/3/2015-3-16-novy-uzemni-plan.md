@@ -3,6 +3,8 @@ title: Boskovice budou mít nový územní plán. Co se změní?
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/HnK6m7Ol.jpg
 author: Marek Osouch
+tags:
+    - územní plánování
 ---
 
 *Kde budou domy, kde jen zeleň, kam se bude moci rozšiřovat průmyslová zóna? Na tyto a další otázky odpovídá nedávno dokončený návrh nového územního plánu Boskovic. Vedení města chce ještě o jeho podobě diskutovat s veřejností. Setkání se bude konat 19. března od 16 hodin ve velké zasedací místnosti na radnici.  V následujícím textu přinášíme přehled největších aktuálně plánovaných změn.*

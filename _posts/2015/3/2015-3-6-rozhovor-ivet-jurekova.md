@@ -3,6 +3,7 @@ title: Mají problém s prokrastinací, ale když se odhodlají, dokážou hodn�
 category: rozhovory
 cover-photo: http://i.ohlasy.info/JaRnkIQl.jpg
 author: Tomáš Trumpeš
+tags: vzdělávání
 ---
 
 *Ivet Juřeková, která učí na boskovickém gymnáziu český jazyk a francouzštinu, se stala garantkou Salonu, a letos tak měla tuto týdenní přehlídku studentské tvořivosti na starosti. Salon vznikl bezprostředně po roce 1989, pořádá ho vždy jedna třída ze třetího ročníku a po jarních prázdninách jím žije celá škola. S Ivet Juřekovou jsme si povídali nejen o Salonu, ale také o tom, co vypovídá o dnešních studentech.*

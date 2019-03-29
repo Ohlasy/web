@@ -3,6 +3,8 @@ title: V Panském dvoře by po rekonstrukci mělo vzniknout rehabilitační cent
 category: zpravodajství
 author: Tomáš Trumpeš
 cover-photo: http://i.ohlasy.info/uO1XLnt.jpg
+tags:
+    - panský dvůr
 ---
 
 *Budova Panského dvora na Hradní ulici v Boskovicích směřuje ke kompletní rekonstrukci. Důstojné podoby by se tak měl dočkat i poslední velký objekt na hlavní komunikaci směřující od náměstí k zámku. Po dokončení by prostory měly sloužit mimo jiné jako rehabilitační centrum, které by vytvořilo další specifickou nabídku pro potenciální návštěvníky Boskovic.*

@@ -3,6 +3,7 @@ title: Sokolovna? Komplexní rekonstrukce, nebo raději nic
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/VnQa3Djl.jpg
 author: Tomáš Trumpeš
+tags: kultura sokolovna
 ---
 
 *Zástupci boskovického Sokola před časem oslovili vedení města s výzvou k jednání o dalším osudu sokolovny, která se pod sokolskou správou dostala během posledních let do značně neutěšeného stavu, který už je prakticky za hranou únosnosti pro jakékoliv využívání ke kulturním a společenským účelům. Nutno dodat, že budova sama ve špatném technickém stavu není, sokolům se podařilo i díky státní a městské pomoci zajistit opravu fasády, střechy a výměnu oken. Katastrofální je však interiér budovy, a to po stránce estetické i funkční.*

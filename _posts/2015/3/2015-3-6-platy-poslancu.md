@@ -3,6 +3,7 @@ title: Ať poslanci pracují méně
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/F6MW3qpl.jpg
 author: Petr Vítámvás
+tags: politika
 ---
 
 *Parlament na konci minulého roku schválil zákon o zvýšení platů ústavních činitelů. Ne, nebudeme se přidávat k hlasům vyčítajícím poslancům výši jejich platů. Chceme jen tuto situaci využít jako – pars pro toto – ukázku práce zákonodárného sboru.*

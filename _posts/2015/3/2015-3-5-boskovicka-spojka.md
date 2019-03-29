@@ -3,6 +3,7 @@ title: Boskovická spojka má nadále u vedení města podporu
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/KXWSQJY.jpg
 author: Marek Osouch
+tags: spojka železnice doprava politika
 ---
 
 *Vlakem z Boskovic do Brna? Až na výjimky jedině s přestupem ve Skalici nad Svitavou. Více než deset let si už ale místní i krajští politici hrají s myšlenkou propojit obě města přímým železničním spojením nazývaným boskovická spojka. Bývalé vedení Boskovic v čele s ODS spojku do Brna podporovalo. Nynější koalice pokračuje ve stejné politice.*

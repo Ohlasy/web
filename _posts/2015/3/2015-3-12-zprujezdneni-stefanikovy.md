@@ -3,6 +3,7 @@ title: Štefánikovu otevřít, ale omezit průjezd tranzitní dopravy
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/wI2BkK1l.jpg
 author: Jiří Klimek
+tags: doprava
 ---
 
 *Názorový příspěvek k aktuálně diskutované otázce, zda zprůjezdnit ulici Štefánikovu a propojit ji s ulicí Nádražní, nám zaslal Jiří Klimek, který vystudoval architekturu a urbanismus na brněnském VUT. Město Boskovice momentálně čeká na výsledky průzkumu, který má ukázat, zda je technicky možné Štefánikovu ulici otevřít daleko větší dopravní zátěži. Obyvatelé ulici proti zprůjezdnění protestovali peticí. Jiří Klimek ve svém textu navrhuje kompromisní variantu.*

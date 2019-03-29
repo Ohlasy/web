@@ -3,6 +3,7 @@ title: Lego je užitečným pomocníkem na programování, říká učitel Tomá
 cover-photo: http://i.ohlasy.info/sCa7vI3l.jpg
 category: rozhovory
 author: Marek Osouch
+tags: vzdělávání
 ---
 
 *Málokdo dokáže Rubikovu kostku poskládat za méně než dvě minuty. Na Střední průmyslové škole v Jedovnicích si na její skládání naprogramovali robota postaveného z Lega. Jak rychle ji poskládá, mohli vidět návštěvníci na výstavě Lego technic show v boskovickém zámeckém skleníku.*

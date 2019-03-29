@@ -3,6 +3,8 @@ title: "Anketa k hale: Jak pokračovat a proč mlčí sportovci?"
 cover-photo: http://i.ohlasy.info/l9ubvOkl.jpg
 category: ankety
 author: Tomáš Trumpeš
+tags:
+    - sportovní hala
 ---
 
 *Zdá se nám, že v diskusi o sportovní hale dlouhodobě není příliš slyšet hlas samotných sportovců, o hale jako by mluvili už jen politici. Proto jsme se několika lidí, kteří se v boskovickém sportu aktivně pohybují, zeptali: Jak vnímáte aktuální dění okolo sportovní haly a jaký další postup vedení města byste uvítali? Proč myslíte, že se sportovci ve věci haly více neangažují?*

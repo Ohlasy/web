@@ -4,6 +4,7 @@ category: zpravodajství
 cover-photo: http://i.ohlasy.info/Cwhf2Yfl.jpg
 author: Andrea Šrámková
 excerpt: "Povinná školní docházka jim v červnu skončí. Nyní stojí před definitivním rozhodnutím, kterou školu vyplní na přihlášku k přijímacím zkouškám, respektive na které škole by rádi získali odborné vzdělání a nasměrovali tak své profesní uplatnění. Řeč je o současných deváťácích."
+tags: vzdělávání
 ---
 
 *Povinná školní docházka jim v červnu skončí. Nyní stojí před definitivním rozhodnutím, kterou školu vyplní na přihlášku k přijímacím zkouškám, respektive na které škole by rádi získali odborné vzdělání a nasměrovali tak své profesní uplatnění. Řeč je o současných deváťácích. Na podání přihlášek ke studiu už mají čas jen do 15. března, přijímací zkoušky je pak čekají od poloviny dubna. Přitom letos naposledy školy s maturitními obory ještě nejsou povinny podrobit uchazeče o studium centrálně zadaným testům. S těmi ministerstvo školství počítá od příštího roku. Přesto se deváťáci s jednotnými přijímačkami už na některých školách, na nichž probíhá takzvané pilotní testování, setkají.*

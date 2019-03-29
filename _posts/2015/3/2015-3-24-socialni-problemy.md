@@ -3,6 +3,9 @@ title: Sociální problémy těžko vyřešíme útlakem
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/oDas2l4l.jpg
 author: Tomáš Trumpeš
+tags:
+    - bezpečnost
+    - sociální služby
 ---
 
 *Od počátku debaty o úpravách parčíku u autobusového nádraží se smutkem v srdci pozoruji, jak se touto debatou vine jako temná nit štítivý odpor k těm, jejichž život se odehrává převážně na ulici, neboť se ocitli bez domova. Při plánech na rekultivaci parku se debatuje o tom, jaké lavičky tam umístit, aby se na nich nedalo ležet, a jakými dalšími prostředky bezdomovcům zabránit, aby se v této lokalitě zdržovali. Aby táhli někam pryč. Ale kam? Zkrátka z očí, dál se nikdo neptá.*

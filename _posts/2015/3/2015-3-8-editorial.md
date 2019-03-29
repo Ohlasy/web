@@ -2,6 +2,7 @@
 title: "Editorial: Měsíc v neznámých vodách"
 category: názory a komentáře
 author: Tomáš Trumpeš
+tags: ohlasy
 ---
 
 *Vážené čtenářky, vážení čtenáři, uplynul první měsíc existence internetových novin Ohlasy dění na Boskovicku. To je především příležitost poděkovat vám za zájem, který nás nejen těší, ale především nám potvrdil, že má smysl o fungování takových to novin usilovat. A tím jsme si na počátku věru nebyli jistí.*
