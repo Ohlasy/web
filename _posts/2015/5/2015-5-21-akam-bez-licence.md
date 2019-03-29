@@ -3,6 +3,8 @@ title: "Krajský soud zrušil boskovické elektrárně licenci"
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/g6zThhQl.jpg
 author: Marek Osouch
+tags:
+    - solární elektrárna
 ---
 
 *Solární elektrárna na kraji Boskovic v Chrudichromské ulici je vážně ohrožena. Krajský soud dnes v Brně zrušil licenci, kterou Energetický regulační úřad (ERÚ) vydal provozovateli panelů společnosti AKAM Bosko v prosinci roku 2010. Rozsudek zatím není pravomocný. Energetický regulační úřad se může proti rozhodnutí odvolat k Nejvyššímu správnímu soudu.*

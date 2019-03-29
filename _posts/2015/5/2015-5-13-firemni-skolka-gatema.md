@@ -3,6 +3,7 @@ title: Gatema buduje firemní školku, možná zbudou i místa pro veřejnost
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/jhZYpgvl.jpg
 author: Anna Dudková
+tags: podnikání
 ---
 
 *Najít dobrou práci a skloubit pracovní život s rodinným není jednoduché. Svým zaměstnancům se s tímto problémem rozhodla pomoci boskovická firma Gatema, která pro jejich děti nyní buduje firemní školku. Školka bude mít jednu třídu pro zhruba patnáct dětí. Pokud se kapacita nenaplní dětmi zaměstnanců, plánuje firma nabídnout místa veřejnosti. Otevřená by mohla být ve školním roce 2016/2017.*

@@ -5,6 +5,7 @@ category: seriály
 serial: jazyk
 author: Vít Boček
 featured: true
+tags: historie
 ---
 
 *V roce 1941 vyšla v Brně publikace s názvem Boskovické nářečí. Je to první a zatím stále jediná monografie, která podrobně popisuje nářečí Boskovicka. Jejím autorem byl rodák ze Lhoty Rapotiny František Svěrák (1906–1976), jazykovědec, který po většinu své profesní dráhy působil na pedagogické fakultě Masarykovy univerzity v Brně.*

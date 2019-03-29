@@ -3,6 +3,7 @@ title: "Policie uzavřela kauzu ztracených obrazů jako přestupek. Absurdní, 
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/47aOOSKl.jpg
 author: Tomáš Trumpeš
+tags: kultura
 ---
 
 *Ztracené obrazy boskovické rodačky Vlasty Vostřebalové Fischerové se staly nejprve předmětem zájmu kunsthistoriček, které připravovaly malířce výstavu v Brně, posléze se pátrání ujala policie. Ta nakonec případ uzavřela jako přestupek, protože podle odborného posouzení cena obrazů nepřesahuje 5 tisíc korun.*

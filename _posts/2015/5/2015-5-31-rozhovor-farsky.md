@@ -3,6 +3,7 @@ title: „Raději říct dvě slova, z nichž jedno nebude to nejlepší, než 
 category: rozhovory
 cover-photo: http://i.ohlasy.info/aSrYBxil.jpg
 author: Tomáš Trumpeš
+tags: politika
 ---
 
 *Vladimír Farský strávil 12 let v opoziční lavici jako nestraník zvolený za KSČM. Po posledních volbách byl koalicí ČSSD + KDU-ČSL + ANO 2011 vyzván k účasti v boskovické městské radě, stal se tedy radním a byl zvolen předsedou redakční rady městských médií. Před blížícím se důležitým jednáním zastupitelstva jsme mluvili o jeho dosavadní zkušenosti s prácí ve vedení města, o jeho vazbě na KSČM, o otevřenosti radnice a samozřejmě také o klíčovém aktuálním tématu, totiž o sportovní hale.*

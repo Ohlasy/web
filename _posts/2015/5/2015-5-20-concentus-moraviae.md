@@ -2,6 +2,7 @@
 title: "20. ročník festivalu Concentus Moraviae má jasné téma: Pojďme slavit!"
 cover-photo: http://i.ohlasy.info/6sO93yfl.jpg
 author: Tomáš Trumpeš
+tags: kultura hudba
 ---
 
 *Mezinárodní hudební festival 13 měst Concentus Moraviae slaví letos jubilejní 20. ročník. Zvolil si k tomu i jasné téma: Pojďme slavit! A slavit se bude jako obvykle také v Boskovicích, v Lysicích a v Rájci-Jestřebí, kam zavítají festivalové koncerty. Během let se festival rozrostl, ale tato tři místa v našem regionu jsou součástí festivalu již pod prvního ročníku v roce 1996.*

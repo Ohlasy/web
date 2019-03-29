@@ -3,6 +3,7 @@ title: Knihovna tam nejspíš nebude. Do bývalého Telecomu se stěhují skauti
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/Dk506Ifl.jpg
 author: Marek Osouch
+tags: knihovna
 ---
 
 *Nová knihovna vedle boskovického kina byla snem minulého vedení Boskovic. Dnes už je nejspíš jasné, že zde knihovna nikdy nebude. Část místností nově obsadí boskovičtí skauti. Vzhledem k problémům s předchozím nájemcem budova městu nepřinášela ani patřičný příjem, natož aby si vydělávala na svou pořizovací cenu. Zbytečná byla zřejmě i studie, která na vybudování knihovny vznikla. Budova O2 už bez náhrady spolkla pět milionů korun, aniž by se s ní cokoliv významného dělo.*

@@ -3,6 +3,7 @@ title: Když zmizí technika, zůstane hudba
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/d7clO88l.jpg
 author: Kristýna Znamenáčková
+tags: hudba kultura
 ---
 
 *V druhé polovině dubna proběhlo ve Varšavě předkolo mezinárodní soutěže Fryderika Chopina. Porotci během deseti soutěžních dnů vyslechli přes 150 vynikajících klavíristů z celého světa a vybrali z nich polovinu uchazečů pro samotnou soutěž, která proběhne na podzim. Já sama jsem klání v přímém přenosu sledovala na YouTube hlavně kvůli tomu, že se ho účastnil (a do hlavní soutěže nakonec postoupil) můj spolužák a skvělý pianista Marek Kozák. Všichni klavíristé, vybraní na základě zaslaných nahrávek, hráli technicky brilantně a suverénně. Často jsem při sledování přenosů myslela na to, jak obtížné musí být vybírat z takhle dobrých muzikantů ty „lepší“, když jsou všichni na tak vysoké úrovni.*

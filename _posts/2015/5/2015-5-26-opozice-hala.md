@@ -3,6 +3,9 @@ title: Boskovická opozice volá po dostavbě haly, zaznívá i hrozba žalobou
 category: zpravodajství
 cover-photo: http://i.ohlasy.info/VHI6ygol.jpg
 author: Tomáš Trumpeš
+tags:
+    - sportovní hala
+    - politika
 ---
 
 *Boskovická opozice vytáhla do závěrečného boje za dostavbu haly na Slovákově ulici. Finální rozhodnutí, zda se ve stavbě bude pokračovat, má padnout na zastupitelstvu 23. června. Opoziční zastupitelé z řad ODS, TOP 09 a sdružení Sportovců spojili své síly a vydali prohlášení, ve kterém volají po tom, aby zastupitelé posvětili pokračování stavby.*

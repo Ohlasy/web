@@ -3,6 +3,7 @@ title: Gianniho kulturní výběr na červen
 cover-photo: http://i.ohlasy.info/rAHJKmVl.jpg
 category: zpravodajství
 author: Jan Bařinka
+tags: kultura
 ---
 
 *Výběr zajímavých kulturních akcí na červen zpracoval pro čtenáře Ohlasů opět Jan Bařinka, řečený Gianni. Gianni je vystudovaný estetik a má široké spektrum divácké i posluchačské pozornosti, takže ho můžete potkat prakticky všude: od klubových párty až po koncerty vážné hudby. Nejspíš málokdo navštíví tolik kulturních akcí jako on. Součástí jeho textu je také malé ohlédnutí za uplynulým měsícem.*

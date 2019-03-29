@@ -3,6 +3,7 @@ title: "Němci chtěli v Boskovicích postupujícím sovětským jednotkám odo
 cover-photo: http://i.ohlasy.info/TQN4SnA.jpg
 author: Marek Osouch
 featured: true
+tags: historie
 ---
 
 *Okupované Boskovice byly pod nadvládou Němců až do samého konce války. Němci vybudovali z Boskovic protiletadlovou základnu, navozili do Boskovic munici a zatarasili silnice. Za pár měsíců ale vše odváželi a sami před sovětskými jednotkami prchali na západ. Z posledních dnů války se dochovaly fotografie, které jsou součástí sbírek Muzea Boskovicka a doprovází i tento článek. Zachycují ústup německé a příchod ruské armády.*
