@@ -4,6 +4,7 @@ perex: Rozhovor se starostou Lhoty Rapotiny Michalem Sedlákem (ODS) o Boskovick
 cover-photo: http://i.ohlasy.info/jTGdavtl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+tags: politika spojka doprava železnice
 ---
 
 *Rozhovor se starostou Lhoty Rapotiny Michalem Sedlákem (ODS). Ve Lhotě Rapotině nedávno proběhlo referendum o Boskovické spojce, ve kterém se lidé postavili proti nové železnici. Tento projekt přímého vlakového spojení Boskovic a Brna se stal hlavním tématem našeho rozhovoru.*

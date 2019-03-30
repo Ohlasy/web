@@ -5,6 +5,7 @@ cover-photo: http://i.ohlasy.info/WTE84pQl.jpg
 author: Marek Osouch
 category: seriály
 serial: osmicky
+tags: železnice historie doprava
 ---
 
 *Deset let už jezdily vlaky mezi Skalicí nad Svitavou a Boskovicemi, když vzniklo Československo. Trať mezi Skalicí a Velkými Opatovicemi tak vyrostla ještě za dob Rakouska-Uherska a letos slaví rovných 110 let. Tímto článkem zároveň končíme seriál o osmičkových výročích spojených s Boskovicemi.*

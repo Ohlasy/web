@@ -4,6 +4,7 @@ perex: Pravidelná schůze boskovického zastupitelstva se nesla v poměrně kli
 cover-photo: http://i.ohlasy.info/CLS88FZl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags: politika
 ---
 
 *Další pravidelná schůze boskovického zastupitelstva se konala v úterý odpoledne v zámeckém skleníku. Hlavním tématem diskusí byla nemocnice, ale jednání se dotklo i dalších pro město důležitých bodů, jako je dopravní situace, rekonstrukce letního kina, Boskovická spojka či sportpark. Celkově se jednání neslo v poměrně klidném a bezkonfliktním duchu.*

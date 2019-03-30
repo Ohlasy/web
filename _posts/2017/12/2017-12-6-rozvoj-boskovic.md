@@ -3,6 +3,8 @@ title: O rozvoj Boskovic je zájem ve všech oblastech trhu
 cover-photo: http://i.ohlasy.info/IpgFfmdl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - územní plánování
 ---
 
 *Mají Boskovice jasnou představu o tom, jak a kam by se měly v příštích letech rozvíjet? Je rozvojových lokalit dostatek a jaký je vlastně o Boskovice zájem, jaká je situace na trhu s nemovitostmi a jak se vyvíjí počet obyvatel?*

@@ -3,6 +3,7 @@ title: "Z radnice: Novinky po prvním letošním jednání městské rady"
 cover-photo: http://i.ohlasy.info/2WpwVLFl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags: politika
 ---
 
 *Novinky z boskovické radnice, které vedené města oznámilo po prvním letošním zasedání městské rady. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
