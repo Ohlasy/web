@@ -4,7 +4,7 @@ perex: "Rozhovor s Ladislavem Čížkem, předsedou hokejového klubu SK Minerva
 cover-photo: http://i.ohlasy.info/YPGSXhbl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: sport hokej
+tags: sport
 ---
 
 *Rozhovor s Ladislavem Čížkem, předsedou hokejového klubu SK Minerva Boskovice, který letos dosáhl velkého úspěchu: vyhrál krajskou ligu. Povídali jsme si o průběhu sezóny, play-off a situaci zdejšího hokeje.*
