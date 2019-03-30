@@ -3,8 +3,10 @@ title: „Šikana je všude tam, kde není nikdo, kdo by jí zabránil.“
 cover-photo: http://i.ohlasy.info/CpqOSWXl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: vzdělávání
 featured: true
+tags:
+    - vzdělávání
+    - sociální služby
 ---
 
 *Rozhovor s Pavlem Kotoučkem, lektorem projektu Zdravá mládež, v rámci kterého přednáší na základních školách mimo jiné o šikaně. A právě na tu jsme zaměřili i naše povídání. Pavel pracuje v letovické obecně prospěšné společnosti ELIM, která usiluje o otevření volnočasového klubu pro mládež v Boskovicích. Klub by měl fungovat v prostorách bývalé diskotéky Maják, podobné zařízení už ELIM provozuje v Letovicích.*

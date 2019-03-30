@@ -3,9 +3,10 @@ title: Máme jen letní kino
 category: názory a komentáře
 cover-photo: http://i.ohlasy.info/C3vbZIdl.jpg
 author: Radek Pernica
+tags: kultura kino
 ---
 
-*Tento nadpis je samozřejmě nadsázkou, ale podívejme se na to optikou města, které má dostatek odvahy nazývat samo sebe kulturním, byť se mně zdá toto označení značně problematické. Mezi kulturu jistě nepočítáme jen koncerty, festivaly, ale například i kulturu urbanismu – a zde Boskovice značně selhávají.  Mohli bychom termín „kulturní město“ analyzovat dále, ale to není předmětem tohoto sloupku.*
+*Tento nadpis je samozřejmě nadsázkou, ale podívejme se na to optikou města, které má dostatek odvahy nazývat samo sebe kulturním, byť se mně zdá toto označení značně problematické. Mezi kulturu jistě nepočítáme jen koncerty, festivaly, ale například i kulturu urbanismu – a zde Boskovice značně selhávají. Mohli bychom termín „kulturní město“ analyzovat dále, ale to není předmětem tohoto sloupku.*
 
 <img src="http://i.ohlasy.info/C3vbZId.jpg" alt="areál letního kina" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 

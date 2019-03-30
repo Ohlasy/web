@@ -3,7 +3,7 @@ title: „Nemocnice potřebuje hodně peněz. Možnosti města jsou ale omezené
 cover-photo: http://i.ohlasy.info/zh1ayEGl.jpg
 author: Marek Osouch
 category: rozhovory
-tags: nemocnice
+tags: nemocnice zdravotnictví
 ---
 
 *Miloš Janeček má za sebou sto dní v křesle jednatele boskovické nemocnice. Jakým směrem se bude boskovická nemocnice ubírat a jaké investice plánuje? A uvažuje o znovuzřízení postu ekonomického náměstka? Na to vše a mnoho dalšího jsme se ho ptali v obsáhlém rozhovoru.*

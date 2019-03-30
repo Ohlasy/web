@@ -3,6 +3,8 @@ title: V Olešnici finišují s pozemkovými úpravami, neshody trvají
 cover-photo: http://i.ohlasy.info/1xpEhldl.jpg
 author: Žaneta Ondroušková
 category: zpravodajství
+tags:
+    - územní plánování
 ---
 
 *Je to už rok a půl, kdy se v Olešnici [strhla diskuze o plánovaných pozemkových úpravách](http://ohlasy.info/clanky/2015/03/olesnicka-asfaltka.html). Odpůrcům tehdejšího návrhu vadila především páteřní asfaltka vedoucí mezi poli v západní části katastru města. „Nectí terén. Jde na ruku ski-areálu,“ ozývalo se. „Starosta Zdeněk Peša s námi nekomunikuje,“ dodávali jiní. Starosta tehdy nekomunikoval ani s redakcí Ohlasů. Prý se k celé věci vyjádří, až bude aktuální pro vedení města. V úterý 27. září zastupitelé schvalují plán společných zařízení. Aktuálnější už to být nemůže.*

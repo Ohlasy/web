@@ -5,6 +5,7 @@ cover-photo: http://i.ohlasy.info/3PphKLfl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
+    - sport
     - sportovní hala
     - investice
 ---

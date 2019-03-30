@@ -4,7 +4,7 @@ perex: Rozhovor s lékařkou Danielou Štarhovou, která před patnácti lety op
 cover-photo: http://i.ohlasy.info/c2JeH2Pl.jpg
 author: Martina Vašková
 category: rozhovory
-tags: medicína
+tags: zdravotnictví
 ---
 
 *Rozhovor s lékařkou Danielou Štarhovou, která před patnácti lety opustila nemocniční prostředí a začala se věnovat celostní medicíně. Své pacienty léčí pomocí západní i východní medicíny, při řešení jejich zdravotních potíží využívá například homeopatii, akupunkturu a další metody tradiční čínské medicíny.*

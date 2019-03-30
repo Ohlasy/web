@@ -3,7 +3,7 @@ title: „My nejsme xenofobové, ale jsme cizoplaší.“
 cover-photo: http://i.ohlasy.info/TljUE7nl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: historie
+tags: historie migrace
 featured: true
 ---
 

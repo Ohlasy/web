@@ -4,7 +4,6 @@ perex: Rozhovor s Karlem Dvořáčkem, který vykonal pouť do Santiaga de Compo
 cover-photo: http://i.ohlasy.info/CM6OAmKl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: cestování
 featured: true
 ---
 

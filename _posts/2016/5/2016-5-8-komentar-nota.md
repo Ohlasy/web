@@ -3,7 +3,7 @@ title: Muzikant je ten, kdo umí poslouchat
 cover-photo: http://i.ohlasy.info/A7bykcsl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
-tags: kultura
+tags: kultura hudba
 ---
 
 *Minulý pátek navečer slavil v aule boskovického gymnázia 30. výročí založení smíšený pěvecký sbor Nota. V koncertním programu Notu doprovodil také letos sedmdesátiletý sbor Janáček a uskupení Vernum 2013 Ensemble, které založil absolvent Noty, dirigent Ondřej Tajovský. Večerem provázeli Ludmila Němcová a Tomáš Znamenáček, jehož úvodní zamyšlení nad obohacením, kterého se gymnazistům v Notě dostává, uveřejňujeme.*

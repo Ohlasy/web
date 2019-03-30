@@ -3,7 +3,8 @@ title: Letovický ELIM chce otevřít volnočasový klub i v Boskovicích
 cover-photo: http://i.ohlasy.info/6pubKCF.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: sociální služby
+tags:
+    - sociální služby
 ---
 
 *Letovický ELIM je obecně prospěšná společnost, která se zaměřuje zejména na práci s dětmi a mladými lidmi. V Letovicích provozuje volnočasový klub Plán B, přednáší na školách primární prevenci nebo pořádá multižánrový festival LetFest. ELIM deklaruje, že stojí na křesťanských hodnotách, sídlí v budově letovického sboru Církve bratrské, má tři zaměstnance a na jeho činnosti se podílí řada dobrovolníků, nejen místních, ale i ze zahraničí. Aktuálně tato letovická neziskovka usiluje o rozšíření svých aktivit do Boskovic, kde něco jako volnočasový klub pro mladé dlouhodobě chybí.*

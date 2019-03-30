@@ -5,7 +5,9 @@ cover-photo: http://i.ohlasy.info/lfW1ynSl.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
-tags: historie
+tags:
+    - historie
+    - židovská čtvrť
 ---
 
 *Zastavme se dnes opět u nám dobře známého domu na Bílkově ulici číslo 7, který na mapě boskovické židovské čtvrti figuruje jako obecní dům. V letech 1850 až 1920 existovala v Boskovicích samostatná politická židovská obec, která užívala název Židovské město Boskovice, v čele stál volený starosta, který řídil zasedání rady a zastupitelstva.*

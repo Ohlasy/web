@@ -3,7 +3,7 @@ title: Silver – největší z rockerů
 cover-photo: http://i.ohlasy.info/uxgWVV8l.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
-tags: kultura
+tags: kultura hudba nekrolog
 ---
 
 *V neděli v poledne zemřel Pavel Koudelka, přezdívaný Silver. Kytarista a hlavní představitel legendární kapely S–band. Jeho odchod oznámila skupina na svých facebookových stránkách.*

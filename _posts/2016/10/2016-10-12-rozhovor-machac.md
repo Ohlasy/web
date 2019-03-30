@@ -8,6 +8,7 @@ tags:
     - volby
     - politika
     - senátorské rozhovory 2016
+    - nemocnice
 ---
 
 *Rozhovor s Janem Machačem, primářem boskovické nemocnice, který postoupil do druhého kola senátních voleb jako kandidát ODS. Názory Jana Machače jsme představili už v [dotazníku](http://ohlasy.info/special/volby2016/dotaznik-machac.html) před prvním kolem voleb. Před druhým kolem jsme se setkali k živému rozhovoru. Rozhodující volba, ve které se Jan Machač střetne s boskovickou místostarostkou [Jaromírou Vítkovou](http://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html) kandidující za KDU-ČSL, se koná v pátek 14. a v sobotu 15. října.*

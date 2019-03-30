@@ -3,7 +3,10 @@ title: "Ze zastupitelstva: Dotace na akce, nové auto, městské pohledávky, ne
 cover-photo: http://i.ohlasy.info/OILuzvjl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - lezecká stěna
+    - nemocnice
 ---
 
 *V poměrně klidném duchu oproti minulému zasedání a bez klíčových rozhodnutí proběhla další schůze boskovického zastupitelstva. Debata zastupitelů se kromě projednávaných bodů dotkla také stabilních boskovických témat: nemocnice a lezecké stěny na letním kině. Nejdůležitější změnou je asi posílení pravomocí jednatele nemocnice, což však učinila už městská rada.*

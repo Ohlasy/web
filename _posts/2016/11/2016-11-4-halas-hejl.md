@@ -5,7 +5,7 @@ perex: " "
 author: Vít Boček
 category: seriály
 serial: jazyk
-tags: Kunštát krajina jazyk
+tags: kultura
 ---
 
 *„To všechno okolo je křižovatkou našich bosých šlépějí.“ Tuto krásnou větu pronesl básník František Halas (1901–1949) nedlouho před svou smrtí, při posledním setkání se svým celoživotním přítelem Theodorem Hejlem, když spolu vzpomínali na společně strávené dětství ve Zboňku, Svitávce a okolí. V těchto dnech je tomu právě 115 let od narození Theodora Hejla (21. 10. 1901, Zboněk – 12. 3. 1978, Brno) a přestože tento překladatel z angličtiny nepatří k významným postavám naší kultury, jeho život a dílo stojí za připomenutí. Jak uvidíme, obě věci, díky nimž je znám – překládání a přátelství s Halasem – spolu celkem úzce souvisejí.*

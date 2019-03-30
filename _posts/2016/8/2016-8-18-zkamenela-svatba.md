@@ -4,6 +4,7 @@ author: Hynek Skořepa
 category: seriály
 serial: krajiny
 cover-photo: http://i.ohlasy.info/CizcS5El.jpg
+tags: krajina
 ---
 
 *Poblíž Svárova, na svahu kopce Na vrších (589 m), se nachází zajímavé skalní útvary. Jižní okraj Malonínské vrchoviny (ta už je z hlediska horopisného členění součástí Podorlické pahorkatiny) se zde stýká s Letovickou kotlinou, která náleží k Boskovické brázdě (Malé Hané). Malonínskou vrchovinu budují usazené horniny svrchní křídy (druhohor) a právě v nich, konkrétně v křemenných pískovcích, vznikly zmiňované skalní útvary.*

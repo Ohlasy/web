@@ -3,7 +3,7 @@ title: "ANKETA: Jak vidí lékaři budoucnost nemocnice?"
 cover-photo: http://i.ohlasy.info/qvziuSjl.jpg
 author: Tomáš Trumpeš
 category: ankety
-tags: nemocnice
+tags: nemocnice zdravotnictví
 ---
 
 *V boskovické nemocnici došlo k výměně vedení. Očekáváte, že se nemocnice začne ubírat trochu jiným směrem? Jaké změny byste konkrétně uvítali, případně jakých se obáváte? Na co je důležité se nyní zaměřit?*

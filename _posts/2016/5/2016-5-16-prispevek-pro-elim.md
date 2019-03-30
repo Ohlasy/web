@@ -4,6 +4,9 @@ date: 2016-05-16 10:00:45
 cover-photo: http://i.ohlasy.info/Yu4jQ6ll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags:
+    - sociální služby
+    - politika
 ---
 
 *Boskovická městská rada [se rozhodla podpořit nově vznikající volnočasový klub pro mládež](http://boskovice.cz/VismoOnline_ActionScripts/File.ashx?id_org=832&id_dokumenty=28393) částkou pět tisíc korun na jeden rok. Vzhledem k rozsahu a potřebnosti této služby ve městě plném středních škol je to nejen samo o sobě ostudné, ale také to poukazuje na hlubší problém, který máme. Stále se nedaří etablovat politiku jako službu veřejnosti, navíc jako službu schopnou citlivě vnímat potřeby společnosti, děje, změny a také rizika, ke kterým v ní neustále dochází.*

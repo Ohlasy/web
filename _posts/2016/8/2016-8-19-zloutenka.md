@@ -3,6 +3,7 @@ title: Žloutenkou se letos nakazila téměř dvacítka lidí z Blanenska
 cover-photo: http://i.ohlasy.info/RlJYLvMl.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: zdravotnictví
 ---
 
 *Žloutenka typu A neboli nemoc špinavých rukou se šíří po jižní Moravě dál. Jen na Blanensku hygienici evidují osmnáct případů, což je zhruba tolik, kolik se jich loni za stejné období nakazilo v celém Jihomoravském kraji. Zde jich letos k polovině srpna bylo už přes 170. Kdy celokrajská epidemie skončí, hygienici netuší.*

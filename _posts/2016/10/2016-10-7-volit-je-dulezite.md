@@ -3,6 +3,7 @@ title: "Politické poměry se můžou zhoršit, volit je proto důležité"
 cover-photo: http://i.ohlasy.info/gbF63Hll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags: politika volby
 ---
 
 *Krajské a senátní volby začínají dnes ve 14 hodin. Oboje volby jsou důležité, i když tak možná nevypadají. Kraje mají zásadní a přímý vliv i na to, co se děje v našich městech, a často podceňovaný Senát má důležitou roli v našem politickém systému. Výsledky těchto voleb navíc vyšlou voličům i politikům důležitý vzkaz o tom, jak si kdo v politickém spektru stojí. A do klíčových parlamentních voleb už zbývá jen rok.*

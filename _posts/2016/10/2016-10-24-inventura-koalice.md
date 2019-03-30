@@ -4,7 +4,7 @@ perex: Před dvěma lety se vedení boskovické radnice ujala nová koalice a kr
 cover-photo: http://i.ohlasy.info/5ctnbW1l.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: politika
+tags: politika volby
 ---
 
 *Jsou to dva roky, co se politické strany v Boskovicích domluvily na koaliční spolupráci. Volby zásadně proměnily osazenstvo vedení města a městské rady. Čtyři členy v radě získala ČSSD a naopak ODS zůstala v opozici. Sociální demokraty v radě doplnila KDU-ČSL, hnutí ANO a Vladimír Farský jako nestranický kandidát za KSČM. Společně sestavili Programové prohlášení. Jak je plní?*

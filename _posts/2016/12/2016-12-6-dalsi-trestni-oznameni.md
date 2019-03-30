@@ -4,6 +4,10 @@ cover-photo: http://i.ohlasy.info/7k5nQxIl.jpg
 perex: První míří na vypracovaný audit v boskovické nemocnici, druhé na smlouvu o spolupráci mezi strážníky a Městskou správou sociálních služeb.
 author: Marek Osouch
 category: zpravodajství
+tags:
+    - politika
+    - nemocnice
+    - sociální služby
 ---
 
 *Dvě trestní oznámení prověřuje policie v Boskovicích. První míří na vypracovaný audit v boskovické nemocnici, druhé na smlouvu zajišťující spolupráci mezi strážníky a Městskou správou sociálních služeb. Policisté tuto fázi prověřování nijak nechtěli komentovat.*

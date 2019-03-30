@@ -3,6 +3,7 @@ title: "Audit městských smluv: ze 150 byly tři neplatné"
 cover-photo: http://i.ohlasy.info/a03JXlnl.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: politika
 ---
 
 *Veškeré platné majetkoprávní smlouvy, tedy většinou nájemní nebo smlouvy o výpůjčce, prověřovali téměř dva poslední roky úředníci boskovické radnice. Výsledkem je odhalení tří neplatných smluv z celkových 150.*

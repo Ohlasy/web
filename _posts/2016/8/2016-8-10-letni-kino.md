@@ -3,7 +3,7 @@ title: "Za dva měsíce začnou dělníci s opravou letního kina"
 cover-photo: http://i.ohlasy.info/f2TJEINl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: investice kultura
+tags: investice kultura kino
 ---
 
 *S blížícím se koncem léta a tradičními Husími slavnostmi se také přibližuje termín, kdy začne zatím nejrozsáhlejší etapa rekonstrukce letního kina. V rozpočtu jsou pro letošní rok připravené dva miliony korun, další čtyři přibydou nově na dotaci z Ministerstva kultury.*

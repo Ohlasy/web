@@ -6,6 +6,7 @@ category: rozhovory
 tags:
     - senátní volby 2016
     - politika
+    - tags: volby
 ---
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jan Machač, který do senátu kandiduje za stranu ODS.*

@@ -3,7 +3,6 @@ title: „Až hamburgerová kultura dosáhne vrcholu, skončí i čarodějové 
 cover-photo: http://i.ohlasy.info/CTCje5dl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: cestování
 ---
 
 *Rozhovor s cestovatelem a filmařem Milošem Brunnerem. Ten představí 15. září v boskovickém kině Panorama v premiéře svůj film Madagaskar. Největší africký ostrov navštívil celkem šestkrát, mluvili jsme tedy o cestování, o filmování a hlavně o Madagaskaru, odkud pochází i Milošova manželka Odile, která se přes jazykovou bariéru do našeho rozhovoru občas zapojila.*

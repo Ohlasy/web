@@ -4,6 +4,7 @@ perex: Nerezignujme na zpívání u stromečku, i když to třeba dokonale neu
 cover-photo: http://i.ohlasy.info/2kbaeHBl.jpg
 author: Kristýna Znamenáčková
 category: názory a komentáře
+tags: kultura hudba
 ---
 
 *Českou mši vánoční Hej, Mistře napsal skladatel a učitel hudby Jakub Jan Ryba roku 1796 v českém jazyce. V té době byla skladba psaná česky mimořádně vstřícným gestem k obyčejným, latinou nevládnoucím posluchačům. Skladba, která vypráví o narození Ježíše Krista tak, aby jí rozuměl každý, prostou pastorální hudební řečí s jednoduchými a snadno zapamatovatelnými nápěvy, patří do dneška k nejznámějším vánočním skladbám, které o vánocích zní nejen na půlnočních mších, ale i z televize, z rádií. Melodie z Rybovky si notuje snad každý, kdo se s nimi někdy setkal.*

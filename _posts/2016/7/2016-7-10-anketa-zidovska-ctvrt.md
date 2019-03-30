@@ -3,7 +3,9 @@ title: "ANKETA: Jaký je stav boskovické židovské čtvrti?"
 cover-photo: http://i.ohlasy.info/8Purk5vl.jpg
 author: Tomáš Trumpeš
 category: ankety
-tags: kultura
+tags:
+    - kultura
+    - židovská čtvrť
 ---
 
 *Jak hodnotíte vývoj boskovické židovské čtvrti po roce 1989 a jak se vám líbí její současný stav?*

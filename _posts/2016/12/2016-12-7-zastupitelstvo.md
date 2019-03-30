@@ -4,7 +4,10 @@ perex: "Nová místostarostka, převzetí sokolovny, Červená zahrada, poplatky
 cover-photo: http://i.ohlasy.info/D55eLDGl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - sokolovna
+    - červená zahrada
 ---
 
 *Report z posledního letošního jednání boskovického zastupitelstva. Byla zvolena nová místostarostka, město rozhodlo o převzetí sokolovny, řešila se proluka na Plačkově, areál Červená zahrada, poplatky za odpad, 65 milionů schodku v rozpočtu na příští rok i platy zaměstnanců v nemocnici.*

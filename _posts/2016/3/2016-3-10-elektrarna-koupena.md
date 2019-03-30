@@ -2,8 +2,9 @@
 title: Velcí čeští solárníci chtějí zprovoznit boskovickou elektrárnu
 cover-photo: http://i.ohlasy.info/VYIykTHl.jpg
 category: zpravodajství
-tags: solární elektrárna
 author: Marek Osouch
+tags:
+    - solární elektrárna
 ---
 
 *Boskovická solární elektrárna má nového majitele. Panely a další zařízení v dražbě odkoupila za osm a půl milionu společnost Solar Global, která vlastní dalších více než deset solárních elektráren v České republice. Panely v Boskovicích chce firma nadále provozovat, čemuž se boskovická radnice nebrání.*

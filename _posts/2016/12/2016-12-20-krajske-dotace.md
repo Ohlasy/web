@@ -4,7 +4,7 @@ perex: Nová krajská koalice zrušila v krajském rozpočtu kapitolu individu�
 cover-photo: http://i.ohlasy.info/a03JXlnl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: investice dotace
+tags: investice dotace politika
 ---
 
 *Nová krajská koalice smetla ze stolu další Haškovo dědictví na krajském úřadu. Zrušila v krajském rozpočtu kapitolu individuálních dotací, ve které bylo zhruba 300 milionů. Boskovice z této částky jen letos získaly 10 milionů.*

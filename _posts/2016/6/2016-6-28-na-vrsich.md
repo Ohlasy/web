@@ -4,6 +4,7 @@ author: Hynek Skořepa
 category: seriály
 serial: krajiny
 cover-photo: http://i.ohlasy.info/trqOUNSl.jpg
+tags: krajina
 ---
 
 *Vydáte-li se z letovického náměstí směrem k přehradě Křetínce, projdete viaduktem pod železniční tratí a pokračujete ulicí Českou. Když pak po několika stovkách metrů, za zchátralou továrnou na výrobu vatelínu, zabočíte vpravo uličkou stoupající prudce do kopce (příznačně zvanou Na Kopečku), dostanete se cestou mezi zahradami a zpustlými sady na hřbet, nazývaný místními Na vrších či Vrše.*

@@ -5,6 +5,7 @@ cover-photo: http://i.ohlasy.info/A1DX6tdl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 featured: true
+tags: ohlasy
 ---
 
 Média prodělala za posledních dvacet let radikální proměnu. Ještě nedávno, v devadesátých letech minulého století, byla masová média bezpečně uzavřena ve vysokých věžích drahého vysílacího a tiskařského vybavení. Kdo chtěl oslovit masy čtenářů, diváků či posluchačů, musel tak učinit prostřednictvím novin, rozhlasu nebo televize. Média měla svým způsobem monopol na šíření informací, takže mohla diktovat pravidla hry.

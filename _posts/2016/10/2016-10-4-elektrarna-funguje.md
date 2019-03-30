@@ -3,7 +3,8 @@ title: Solární elektrárna znovu funguje. Rada schválila novou nájemní smlo
 cover-photo: http://i.ohlasy.info/zJAOTOCl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: solární elektrárna
+tags:
+    - solární elektrárna
 ---
 
 *Solární elektrárna ponese městskému rozpočtu znovu peníze. Město souhlasilo s uzavřením nájemní smlouvy s [novým vlastníkem panelů](http://ohlasy.info/clanky/2016/03/elektrarna-koupena.html), kterým se na jaře stala firma Solar Global. Každý rok z ní přiteče do městské kasy 250 tisíc korun.*

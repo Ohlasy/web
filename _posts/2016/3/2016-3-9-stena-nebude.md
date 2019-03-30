@@ -5,7 +5,6 @@ cover-photo: http://i.ohlasy.info/IEhO7eWl.jpg
 category: zpravodajství
 tags:
     - investice
-    - letní kino
     - lezecká stěna
     - sport
 ---

@@ -3,7 +3,7 @@ title: "Lenka Bařinková, básnířka ve službách hudby"
 cover-photo: http://i.ohlasy.info/e5H7snYl.jpg
 author: Adéla Rozbořilová
 category: názory a komentáře
-tags: kultura poezie
+tags: kultura
 ---
 
 *Velmi vzácný objev se vynořil z pozůstalosti před časem zemřelého evangelického faráře Miroslava Rozbořila, který dlouhý čas sloužil i v Boskovicích. V jeho rozsáhlé knihovně byl nalezen kratičký spisek básní nadepsaný Souznění. Autorem této sbírky není nikdo jiný než dlouholetá pedagožka boskovického gymnázia, sbormistryně a velká osobnost boskovického kulturního života, Lenka Bařinková, která [nedávno bohužel předčasně zemřela](http://ohlasy.info/clanky/2015/12/lenka-odesla.html).*

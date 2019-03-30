@@ -3,6 +3,7 @@ title: "Spolupráce s partnerskými městy sílí, ale základní myšlenka zůs
 cover-photo: http://i.ohlasy.info/KcKF3jtl.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: politika
 ---
 
 *Polsko, Belgie, Slovensko, Bosna. Tam všude mají Boskovice svá partnerská města. Nejdéle je partnerem Boskovic polská Rawa Mazowiecka, se kterou probíhá intenzivní spolupráce už deset let. Častěji byli ale Boskovičtí v partnerských městech než naopak jejich zástupci v Boskovicích. Platí to zejména o uměleckých souborech.*

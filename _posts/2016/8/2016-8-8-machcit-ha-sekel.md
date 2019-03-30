@@ -4,7 +4,9 @@ cover-photo: http://i.ohlasy.info/XlOTFbFl.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
-tags: historie
+tags:
+    - historie
+    - židovská čtvrť
 ---
 
 *V dnešní Traplově ulici, která se dříve jmenovala Školní, stával do 50. let minulého století řadový jednopatrový dům, jehož součástí byla synagoga minor a bylo zde také sídlo židovského školství. Židovské děti zde navštěvovaly školu cheder, kde se v hebrejštině učily zejména základům tóry a judaismu, mladým talentovaným mužům pak byla určena ješiva, náboženská škola, zaměřená na náročné studium talmudu. Proslulost boskovické ješivy byla značná, z mnoha významných mužů, kteří zde studovali či vyučovali, je za nejvýznamnějšího považován učenec a autor náboženských spisů, jehož celé jméno zní Samuel ben Nathan Kell ha-levi.*

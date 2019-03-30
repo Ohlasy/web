@@ -4,7 +4,7 @@ perex: Vítězné hnutí ANO v čele s Bohumilem Šimkem dnes podepsalo koali�
 cover-photo: http://i.ohlasy.info/UNZMEcHl.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: politika
+tags: politika volby
 ---
 
 *Hnutí ANO, ČSSD, TOP 09 s Žít Brno a Starostové pro jižní Moravu se dnes definitivně zavázali, že budou další čtyři roky vládnout na jižní Moravě. Podepsali koaliční smlouvu. Definitivní změny na kraji nastanou až po zvolení nových radních na ustavujícím zastupitelstvu.*

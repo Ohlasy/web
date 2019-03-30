@@ -4,7 +4,7 @@ cover-photo: http://i.ohlasy.info/LOfqUuE.jpg
 author: Petr Vítámvás
 category: seriály
 serial: historie
-tags: historie
+tags: historie železnice
 ---
 
 *V minulých dnech jsme si připomínali události z konce 2. světové války. Zajímavým zdrojem informací k tomuto období i pro náš region jsou například pamětní knihy železničních stanic, které nově zpřístupnil Národní archiv [na svých internetových stránkách](http://www.badatelna.eu/fond/2284/inventar/). O konci války v regionu svědčí dosud málo známé zápisy v železniční kronice stanice Skalice nad Svitavou. Popisují poslední válečné dny a také následnou zastávku prezidenta Edvarda Beneše. Nádraží ve Skalici nad Svitavou, vyzdobené a zaplněné lidmi očekávajícími příjezd prezidenta Beneše, zachycuje fotografie ze sbírky Muzea regionu Boskovicka.*

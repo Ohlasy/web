@@ -7,6 +7,7 @@ category: zpravodajství
 tags:
   - investice
   - panský dvůr
+  - architektura
 ---
 
 *Další pokus získat kladné stanovisko Státní památkové péče pro rekonstrukci významné boskovické památky Panský dvůr na Hradní ulici se majiteli nevydařil. Vyjádření k upravenému projektu zní stejně, totiž že naplánovaná rekonstrukce je nepřípustná. A opět nepomohlo ani kladné vyjádření Národního památkového ústavu.*

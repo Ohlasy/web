@@ -3,7 +3,7 @@ title: „Dirigování není jen synchronizované mávání rukama.“
 cover-photo: http://i.ohlasy.info/KNsy2Qgl.jpg
 author: Kristýna Znamenáčková
 category: rozhovory
-tags: kultura
+tags: kultura hudba
 ---
 
 *Rozhovor s Ondřejem Tajovským, dirigentem a zakladatelem Vernum 2013 Ensemble, iniciátorem a dramaturgem hudebních událostí nejen na Boskovicku. Rozhovor je zároveň pozvánkou na minifestival [Malý noční Mozart](https://www.zamek-kunstat.cz/cs/zpravy/10698-maly-nocni-mozart-na-kunstate), jehož první koncert se odehraje už v pátek 1. července v zahradě kunštátského zámku. Zazní na něm operní árie W. A. Mozarta v podání Karolíny Žmolíkové, Anety Petrasové a Heleny Hozové za klavírního doprovodu Ondreje Olose.*

@@ -3,7 +3,7 @@ title: Téměř rok od odvolání jednatele nemocnice stále nejsou známé dův
 cover-photo: http://i.ohlasy.info/bBoG9tol.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: nemocnice
+tags: nemocnice politika
 ---
 
 *Loni koncem října rozhodla městská rada jakožto valná hromada boskovické nemocnice o odvolání jednatele nemocnice Dana Navrátila. Z úst představitelů vedení města zazněly jen slova, že ztratil důvěru a že tento krok jim umožňuje zákon o obchodních korporacích. Sami ale, jak zjistila redakce Ohlasů, v minulosti jako opoziční zastupitelé také vyžadovali důvody odvolání jednatele nemocnice.*

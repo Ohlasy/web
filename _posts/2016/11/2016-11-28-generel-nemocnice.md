@@ -4,7 +4,7 @@ cover-photo: http://i.ohlasy.info/RyuuBNCl.jpg
 perex: Boskovická nemocnice má svůj generel, tedy plán rozvoje. Hlavním závěrem je návrh výstavby nového nemocničního křídla za více než sto milionů.
 author: Marek Osouch
 category: zpravodajství
-tags: investice nemocnice
+tags: investice nemocnice zdravotnictví
 ---
 
 *O novou budovu za více než sto milionů by se měla rozrůst boskovická nemocnice. Alespoň to předpokládá generel, tedy plán rozvoje. Boskovičtí radní uložili vedení nemocnice zpracovat tento plán už v srpnu 2014. Až letos v listopadu jsou ale jeho výsledky na stole.*
