@@ -7,7 +7,7 @@ category: rozhovory
 tags:
     - volby
     - politika
-    - senátorské rozhovory 2016
+    - senátní volby 2016
     - nemocnice
 ---
 
