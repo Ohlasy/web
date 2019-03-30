@@ -3,7 +3,7 @@ title: Putování skřítka Vítka je knihou o naději
 cover-photo: http://i.ohlasy.info/xTTThFvl.jpg
 author: Anna Dudková
 category: zpravodajství
-tags: knihy
+tags: kultura
 ---
 
 *Kolik toho musí malý skřítek nachodit v tajemném lese, než dojde ke štěstí? Kolik naděje je potřeba ke splnění snu? Tyto otázky pokládá knížka Putování skřítka Vítka, která byla pokřtěna v sobotu 11. března v Kafe za rohem.*

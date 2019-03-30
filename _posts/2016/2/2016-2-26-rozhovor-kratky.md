@@ -3,7 +3,7 @@ title: V Boskovicích není místo, kam by se lidé báli jít, říká ředitel
 cover-photo: http://i.ohlasy.info/9SykWeFl.jpg
 author: Marek Osouch
 category: rozhovory
-tags: policie bezpečnost
+tags: bezpečnost
 ---
 
 *Boskovice jsou městem s bohatou nabídkou kulturních i sportovních akcí. Také v pátek a v sobotu večer se do Boskovic přijíždějí lidé bavit, což má za následek vyšší výskyt některých druhů protiprávního jednání. Jak na tom byly Boskovice v loňském roce s kriminalitou a jaké jsou ve městě největší problémy, jsme se ptali ředitele městské policie Davida Krátkého.*
