@@ -4,7 +4,7 @@ cover-photo: http://i.ohlasy.info/9FRT4rul.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags:
-    - Červená zahrada
+    - červená zahrada
     - investice
     - architektura
 ---

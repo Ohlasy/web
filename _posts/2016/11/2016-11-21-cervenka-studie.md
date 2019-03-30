@@ -6,7 +6,8 @@ author: Tomáš Trumpeš
 category: zpravodajství
 tags:
     - investice
-    - Červená zahrada
+    - červená zahrada
+    - architektura
 ---
 
 *Boskovice mají k dispozici další studii sportovního areálu Červená zahrada rozpracovanou do tří různých variant. Vedení města jednotlivé varianty zveřejnilo včetně odhadovaných nákladů. Každá varianta počítá s jiným využitím pozemků, z nichž některé nejsou ve vlastnictví města. Co bude dál, se přesně neví, odborníci i opozice nad postupem i samotnou studií neskrývají rozpaky.*

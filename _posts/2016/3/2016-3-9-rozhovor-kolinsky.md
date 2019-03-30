@@ -6,7 +6,7 @@ category: rozhovory
 tags:
     - politika
     - investice
-    - Červená zahrada
+    - červená zahrada
 ---
 
 *Rozhovor s radním za ČSSD Milanem Kolínským. Významný člen boskovické sociální demokracie se obvykle drží spíše zpátky, i rozhovor pro Ohlasy nejprve odmítal. Vzhledem k aktuálnímu napětí mezi koalicí a opozicí nakonec souhlasil. Výsledkem je obsáhlý rozhovor o podnětu na Jiřího Pevného, o vztazích koalice a opozice, o otevřenosti radnice a také o odvolání jednatele nemocnice.*

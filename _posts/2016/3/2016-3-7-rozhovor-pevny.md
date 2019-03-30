@@ -6,7 +6,7 @@ category: rozhovory
 tags:
     - politika
     - investice
-    - Červená zahrada
+    - červená zahrada
     - sportovní hala
 ---
 
