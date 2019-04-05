@@ -36,7 +36,7 @@ Vezměte si například Michaela V. Vrtulníka, který tu loni vystupoval na nar
 
 **Která akce u vás byla v poslední době povedená, opravdu „pecka“?**
 
-To nevím. Všechny jsou fajn a příjemné. Rád vzpomínám na karaoke párty, která tu byla druhý den po vystoupení Michaela Vrtulníka. To mě mile překvapilo. Já znám karaoke jen jako takovou nevalnou opileckou zábavu. Tehdy tu byli vesměs gympláci, uvědomil jsem si, že většina z nich prošla Notou a zpívat určitě umí. Nakonec to bylo skvělý, všichni se bavili, a zároveň to celé bylo v takovém klidné rytmu afterparty.
+To nevím. Všechny jsou fajn a příjemné. Rád vzpomínám na karaoke párty, která tu byla druhý den po vystoupení Michaela Vrtulníka. To mě mile překvapilo. Já znám karaoke jen jako takovou nevalnou opileckou zábavu. Tehdy tu byli vesměs gympláci, uvědomil jsem si, že většina z nich prošla Notou a zpívat určitě umí. Nakonec to bylo skvělý, všichni se bavili, a zároveň to celé bylo v takovém klidném rytmu afterparty.
 
 **A kdo sem vlastně chodí? Jací jsou vaši nejčastější návštěvníci?**
 
@@ -46,9 +46,9 @@ Všichni. Mladí, starší, ale nejvíc je mladých.
 
 Jasně. Těch, co Turbínu neznají, bude hodně. Někdy slýchám, že je to doupě neřesti. Ale to vesměs říkají ti, kteří zde nikdy nebyli. Vím, že se každému nezalíbím, ale já o to ani nestojím, proč taky. Uznávám, že jsem rázný a pravdomluvný, ale ne tak, aby to bylo urážlivé, a nejsem mstivý. Ale ti, co to vydýchají, už neodejdou, anebo se vracejí. Když byly prezidentské volby, měli jsme akci, kdy lidé dostávali pivo za volební lístky pro Miloše Zemana. A těchto lístků jsem zde měl třeba šedesát. Ve čtvrtek zde bylo prázdno a v pátek hospodu zaplnili ti, kteří zde mají trvalé bydliště a přijeli volit – starší, mladší a hlavně studenti, kteří Boskovice hojně opouštějí. A to jsem si uvědomil, proč se říká, že je malé město malým – no protože odešli všichni velcí. Oni se třeba na stará kolena do Boskovic vrátí, ale produktivní věk už stráví jinde. Ale teď je tu moc fajn parta kolem místních Pirátů. Jsou to chytří lidé, se kterými se dá velmi dobře a mile souznít.
 
-**Pamatuji si na tematické večírky, jako byla haloween party, electroswig a další, pořádáte je ještě?**
+**Pamatuji si na tematické večírky, jako byla haloween party, electroswing a další, pořádáte je ještě?**
 
-Bývaly zde akce na čarodějnice, MDŽ, na Svatého Patrika nebo třeba na Halloween. To tu byly karnevaly, kdy přišlo sto třicet lidí, z toho polovina v maskách. Ale to už zemřelo na úbytě. Když pořádáte podobnou akci a přijde čtyřicet lidí, šest z toho masce, a ti se cítí trapně, tak už se vám do ničeho podobného nechce. A electro swing byla nuda bez nějakého vývoje, to se omrzí. Ale možná, že se zase nějaké akce obnoví, těžko říct.
+Bývaly zde akce na čarodějnice, MDŽ, na Svatého Patrika nebo třeba na Halloween. To tu byly karnevaly, kdy přišlo sto třicet lidí, z toho polovina v maskách. Ale to už zemřelo na úbytě. Když pořádáte podobnou akci a přijde čtyřicet lidí, šest z toho v masce, a ti se cítí trapně, tak už se vám do ničeho podobného nechce. A electro swing byla nuda bez nějakého vývoje, to se omrzí. Ale možná, že se zase nějaké akce obnoví, těžko říct.
 
 **Mají vlastně Boskovice potenciál mít svůj klub? Dlouhou dobu lidé řešili Sklepy, [zda se mají obnovit](http://www.ohlasy.info/clanky/2017/08/sklepy-komentar.html), či nikoliv. Jak to vnímáte vy?**
 
@@ -60,7 +60,7 @@ Dřív tu bylo otevřeno pořád. Ale teď míváme v pondělí a úterý zavře
 
 **Mají lidé zájem o piva z menších pivovarů?**
 
-Je to spíš takový trend a zvědavost. Začal jsem s těmito ochutnávkami asi před měsícem, a to lidi pili nová piva celý večer. Dnes ochutnají dvě novinky a pak už si zase dají Hron. Zase se vrátí k tomu, na co jsou zvyklí. To je, jako když budu chodit do čínské restaurace, ale nakonec se stejně vrátím ke guláši, protože jsem na něm vyrostl. A tak to je, mám to vyzkoušené sám na sobě. Za mlada jsem vařil jsem z čínských, francouzských, italských kuchařek, protože jsem měl hodně známých, a neměl jsem problém sehnat suroviny, ale vepřo knedlo zelo je prostě nepřekonatelné. To ostatní je jen taková chvilková zábava.
+Je to spíš takový trend a zvědavost. Začal jsem s těmito ochutnávkami asi před měsícem, a to lidi pili nová piva celý večer. Dnes ochutnají dvě novinky a pak už si zase dají Hron. Zase se vrátí k tomu, na co jsou zvyklí. To je, jako když budu chodit do čínské restaurace, ale nakonec se stejně vrátím ke guláši, protože jsem na něm vyrostl. A tak to je, mám to vyzkoušené sám na sobě. Za mlada jsem vařil z čínských, francouzských, italských kuchařek, protože jsem měl hodně známých, a neměl jsem problém sehnat suroviny, ale vepřo knedlo zelo je prostě nepřekonatelné. To ostatní je jen taková chvilková zábava.
 
 **Jak dlouho už jste vlastně v Boskovicích? Jak jste se sem dostal, co vás sem zavedlo?**
 
@@ -94,4 +94,4 @@ Teď už je to slabší. S určitým věkem totiž člověk ztrácí potřebu ob
 
 **Co zajímavého v nejbližší době na Turbíně plánujete?**
 
-Na pátek pátého dubna plánujeme ohromný koncert. Zahrají zde tři kapely, švédští Capitan Jack’s Army, kteří hrají takový keltský punk, podobný irskému šramlu. Prostě irská dupárna ve švédském stylu. Potom vystoupí pražští Arrogrant Twins – kytarista ze Žižkova a anglický bubeník, kteří hrají jen ve dvou a skvěle jim to šlape. A na Turbíně nehrají poprvé. A přidá se k nim místní kapela Kudla v zádech. Švédská a pražská kapela zahrají jeden koncert zde na Turbíně a druhý v Kladně, jinde je slyšet nemůžete. Sami mě oslovili, zda můžou u nás hrát, tak jsem byl poctěn.
+Na pátek pátého dubna plánujeme ohromný koncert. Zahrají zde tři kapely, švédští Capitan Jack’s Army, kteří hrají takový keltský punk, podobný irskému šramlu. Prostě irská dupárna ve švédském stylu. Potom vystoupí pražští Arrogant Twins – kytarista ze Žižkova a anglický bubeník, kteří hrají jen ve dvou a skvěle jim to šlape. A na Turbíně nehrají poprvé. A přidá se k nim místní kapela Kudla v zádech. Švédská a pražská kapela zahrají jeden koncert zde na Turbíně a druhý v Kladně, jinde je slyšet nemůžete. Sami mě oslovili, zda můžou u nás hrát, tak jsem byl poctěn.
