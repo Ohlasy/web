@@ -1,5 +1,5 @@
 - name: KZMB
-  image: http://www.kulturaboskovice.cz/img/ohlasy.jpg?3
+  image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?3
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: https://www.kulturaboskovice.cz
   priority: 1000
@@ -14,12 +14,12 @@
   url: http://www.improlisky.cz
   priority: 800
 - name: Galerie OK
-  image: http://i.imgur.com/jhq75kc.png
+  image: https://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
   url: http://www.galerie-ok.cz/
   priority: 600
 - name: Optik Lukáš
-  image: http://i.imgur.com/k661T6f.png
+  image: https://i.imgur.com/k661T6f.png
   alt: Optik Lukáš
   url: http://www.optik-lukas.cz
   priority: 600
