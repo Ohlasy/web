@@ -22,6 +22,7 @@ defaults:
 
 future: false
 exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'package.json', 'Makefile', 's3_website.yml']
+include: ['_headers']
 
 # https://talk.jekyllrb.com/t/324
 array: []
