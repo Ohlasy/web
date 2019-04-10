@@ -1,6 +1,6 @@
 ---
 title: Vzpomínka na Bedřicha Mensdorff-Pouilly
-cover-photo: http://i.ohlasy.info/aAziHL6l.jpg
+cover-photo: https://i.ohlasy.info/aAziHL6l.jpg
 perex: Osobní vzpomínku na Bedřicha Mensdorff-Pouilly, který zemřel v listopadu loňského roku, pro nás napsala bývalá učitelka francouzštiny na boskovickém gymnáziu Eva Šmétková.
 author: Eva Šmétková
 category: názory a komentáře
@@ -10,7 +10,7 @@ category: názory a komentáře
 
 *Osobní vzpomínku na Bedřicha Mensdorff-Pouilly, který zemřel v listopadu loňského roku, pro nás napsala bývalá učitelka francouzštiny na boskovickém gymnáziu Eva Šmétková, která se s ním setkávala v Boskovicích i při výjezdech studentů do Francie.*
 
-{% photo src="http://i.ohlasy.info/aAziHL6.jpg" caption="Bedřich Mensdorff-Pouilly (vpravo) na oslavě svých 80. narozenin" %}
+{% photo src="https://i.ohlasy.info/aAziHL6.jpg" caption="Bedřich Mensdorff-Pouilly (vpravo) na oslavě svých 80. narozenin" %}
 
 V polovině listopadu jsem se dozvěděla, že zemřel pan Bedřich Mensdorff-Pouilly. Věděla jsem, že je už dlouhou dobu nemocný, ale taková zpráva člověka vždy zarmoutí. Zvlášť když k tomuto člověku máte velkou úctu, obdiv a velice si ho vážíte.
 

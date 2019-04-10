@@ -1,7 +1,7 @@
 ---
 title: Podávání přihlášek na střední školy finišuje
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/Cwhf2Yfl.jpg
+cover-photo: https://i.ohlasy.info/Cwhf2Yfl.jpg
 author: Andrea Šrámková
 excerpt: "Povinná školní docházka jim v červnu skončí. Nyní stojí před definitivním rozhodnutím, kterou školu vyplní na přihlášku k přijímacím zkouškám, respektive na které škole by rádi získali odborné vzdělání a nasměrovali tak své profesní uplatnění. Řeč je o současných deváťácích."
 tags: vzdělávání
@@ -9,7 +9,7 @@ tags: vzdělávání
 
 *Povinná školní docházka jim v červnu skončí. Nyní stojí před definitivním rozhodnutím, kterou školu vyplní na přihlášku k přijímacím zkouškám, respektive na které škole by rádi získali odborné vzdělání a nasměrovali tak své profesní uplatnění. Řeč je o současných deváťácích. Na podání přihlášek ke studiu už mají čas jen do 15. března, přijímací zkoušky je pak čekají od poloviny dubna. Přitom letos naposledy školy s maturitními obory ještě nejsou povinny podrobit uchazeče o studium centrálně zadaným testům. S těmi ministerstvo školství počítá od příštího roku. Přesto se deváťáci s jednotnými přijímačkami už na některých školách, na nichž probíhá takzvané pilotní testování, setkají.*
 
-<img src="http://i.ohlasy.info/Cwhf2Yf.jpg" alt="den otevřených dveří na boskovickém gymnáziu" class="img-responsive">
+<img src="https://i.ohlasy.info/Cwhf2Yf.jpg" alt="den otevřených dveří na boskovickém gymnáziu" class="img-responsive">
 
 „Od příštího školního roku bude pravděpodobně změněn celkový model přijímacího řízení na všechny střední školy s maturitou. Testové úlohy z českého jazyka a matematiky budou zadávány centrálně Ministerstvem školství, mládeže a tělovýchovy. Z tohoto důvodu naše gymnázium využívá již v letošním školním roce příležitost pilotně realizovat nový model přijímacích zkoušek,“ uvádějí například webové stránky boskovického gymnázia, které je jednou z padesáti jihomoravských středních škol zapojených do testování. Tuto možnost však využily převážně brněnské školy, s jednotně zadanými testy se žáci devátých ročníků setkají hned na pětadvaceti z nich, oproti tomu v celém blanenském okrese jen na čtyřech: vedle zmíněného Gymnázia Boskovice ještě na blanenském gymnáziu, boskovické SOŠ a SOU André Citroëna a dále na VOŠ a SŠ v Boskovicích na Hybešově ulici. Připravovat je bude – stejně jako státní maturity – společnost Cermat. Ke zkouškám na tyto pilotní školy zamíří budoucí studenti o týden dříve než do škol do testování nezapojených, pro studium na čtyřletých oborech už ve středu 15. dubna, na šestileté a osmileté obory ve čtvrtek 16. dubna. Na ostatních školách proběhnou první kola přijímaček mezi 22. a 30. dubnem.
 

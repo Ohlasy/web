@@ -1,6 +1,6 @@
 ---
 title: „Člověk dokáže i trapno využít ve svůj prospěch.“
-cover-photo: http://i.ohlasy.info/eYUFoYtl.jpg
+cover-photo: https://i.ohlasy.info/eYUFoYtl.jpg
 author: Martina Vašková
 category: rozhovory
 tags: kultura divadlo
@@ -8,7 +8,7 @@ tags: kultura divadlo
 
 *Rozhovor s Michaelou Vymazalovou a Jendou Nádvorníkem o pravidlech a podstatě improvizačního divadla, které si nejen v Boskovicích získává stále větší oblibu. Boskovickou improvizační skupinu Lísky (Liga boskovické improvizace) založila Míša v roce 2009, Jenda skupinu téměř od začátku navštěvoval a v roce 2014 převzal. Jejich veřejné improvizační zápasy se konají každý měsíc, ten nejbližší bude v pátek 17. června.*
 
-<img src="http://i.ohlasy.info/eYUFoYt.jpg" alt="Jenda Nádvorník, Michaela Vymazalová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/eYUFoYt.jpg" alt="Jenda Nádvorník, Michaela Vymazalová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Míšo, Boskovickou improvizační skupinu jste založila po svých studiích dramatické výchovy na DAMU v Praze. Co se vám na tomto typu divadla zalíbilo natolik, že jste jej chtěla přivést i do Boskovic?**
 
@@ -44,7 +44,7 @@ JENDA: Sice jsem ještě nebyl členem, ale pamatuju si, že Míša jezdila i na
 
 MÍŠA: Ano, to byl první zápas v Praze, kdy si naši hráči zkusili hrát s těmi zkušenými. A už tenkrát nám říkali, že jsme trošku punkoví. Že ty pravidla Improligy ctíme, ale zároveň se jim trochu vymykáme. 
 
-<img src="http://i.ohlasy.info/mVGcCeM.jpg" alt="Jenda Nádvorník, Michaela Vymazalová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/mVGcCeM.jpg" alt="Jenda Nádvorník, Michaela Vymazalová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Jak to mysleli?**
 
@@ -78,7 +78,7 @@ JENDA: Nebývají, jen pomáhají zdárnému průběhu celého zápasu a očeká
 
 MÍŠA: V takovém případě se musí nastavit hranice, aby to divákům nebylo nepříjemné. Krásná je třeba kategorie Milostná píseň, kdy se vybere kluk nebo holka, kteří se v průběhu dvou minut vyzpovídají – co je jejich životním snem, oblíbené jídlo, píseň a podobně. A pak každý z hráčů musí dané dívce nebo chlapci zazpívat milostnou píseň, a oni se pak rozhodnou, kdo by byl jejich vyvolený. 
 
-<img src="http://i.ohlasy.info/Xf7d1cR.jpg" alt="Jenda Nádvorník, Michaela Vymazalová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/Xf7d1cR.jpg" alt="Jenda Nádvorník, Michaela Vymazalová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Míšo, vy jste vedla boskovické Lísky od počátku. Proč jste toho před dvěma lety nechala?**
 

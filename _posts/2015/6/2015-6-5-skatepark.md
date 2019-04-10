@@ -1,14 +1,14 @@
 ---
 title: Po skateparku se volá už přes deset let. Stále marně
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/HmaRcxWl.jpg
+cover-photo: https://i.ohlasy.info/HmaRcxWl.jpg
 author: Tomáš Trumpeš
 tags: sport
 ---
 
 *Vybudovat v Boskovicích skatepark je záměr, o kterém se mluví opravdu hodně dlouho. Aktuálně se jeho příznivcům podařilo alespoň na internetu prakticky opanovat anketu Zdravého města Boskovice, v rámci které mohli občané hlasováním vyjádřit, které problémy pokládají ve městě za nejdůležitější. Těžko říct, jestli se anketa stane zlomovým bodem v příběhu, který se táhne už více než 10 let. Své o tom ví Radek Přibyl, který se poprvé vypravil kvůli skateparku na radnici v roce 2002. A chodí tam dodnes.*
 
-<img src="http://i.ohlasy.info/gidPsy7.jpg" alt="Radek Přibyl" class="img-responsive">
+<img src="https://i.ohlasy.info/gidPsy7.jpg" alt="Radek Přibyl" class="img-responsive">
 
 „Je to už takový můj životní příběh,“ glosuje tento neúnavný prosazovatel skateparku neuvěřitelných 13 let trvající přesvědčování radnice. Nejprve to vypadalo nadějně. V roce 2002 byl starostou Josef Dohnálek, otec pozdějšího starosty Jaroslava Dohnálka. K celé věci stavěl pozitivně a projekt podpořil se slovy „mládeže je hodně, tak ať ji neztratíme“. Navíc se podařilo zajistit finance z dotace na prevenci kriminality. Rozpočet na skatepark tehdy činil necelých 300 tisíc, pro hřiště byla vybrána lokalita na Mánesově ulici. Překážky se vyráběly přímo v Boskovicích. „V té době neexistovaly žádné certifikáty, to nastalo až po vstupu do Evropské unie,“ vysvětluje Radek Přibyl, že hřiště bylo tak trochu místním produktem. O povrch hřiště, na který chyběly peníze, se kupříkladu postarala firma Deas, která práci rozpočítávala do dalších let při opravách chodníků. 
 

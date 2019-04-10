@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Problémy s polytechnickým centrem, mobily ve škole, odpady"
-cover-photo: http://i.ohlasy.info/2F2vJcwl.jpg
+cover-photo: https://i.ohlasy.info/2F2vJcwl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="http://i.ohlasy.info/2F2vJcw.jpg" caption="Stavba polytechnického centra" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/2F2vJcw.jpg" caption="Stavba polytechnického centra" author="Tomáš Trumpeš" %}
 
 ### Problémy s polytechnickým centrem
 

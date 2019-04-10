@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Jak zastupitelé hodnotí svou práci?"
 perex: Už jen necelý rok zbývá do komunálních voleb. Zeptali jsme se tedy všech 27 zastupitelů, jak jsou spokojeni s výsledky současné boskovické koalice ČSSD, KDU-ČSL, ANO 2011 a Vladimíra Farského za KSČM.
-cover-photo: http://i.ohlasy.info/V48obt6l.jpg
+cover-photo: https://i.ohlasy.info/V48obt6l.jpg
 author: Marek Osouch
 category: ankety
 tags: politika
@@ -9,13 +9,13 @@ tags: politika
 
 *Už jen necelý rok zbývá do komunálních voleb. Současná boskovická koalice ve složení ČSSD, KDU-ČSL, ANO 2011 a Vladimíra Farského za KSČM má tak většinu mandátu za sebou. V rozsáhlé anketě jsme se proto na její dosavadní práci zeptali všech 27 zastupitelů.*
 
-{% photo src="http://i.ohlasy.info/V48obt6.jpg" caption="Zasedání zastupitelstva" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/V48obt6.jpg" caption="Zasedání zastupitelstva" author="Tomáš Znamenáček" %}
 
 Otázky byly následující: 1. Co považujete za největší úspěch současné koalice či její nejlepší krok za dosavadní tři roky vládnutí? 2. Co naopak považujete za největší neúspěch či co se současné koalici nepovedlo? 3. Budete v komunálních volbách, které se konají za rok, znovu kandidovat a usilovat o obhajobu mandátu zastupitele?
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/gJVXjZE.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/gJVXjZE.jpg" alt="" />
 
 **Dominik Božek, zastupitel za TOP 09**
 
@@ -27,7 +27,7 @@ Otázky byly následující: 1. Co považujete za největší úspěch současn�
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/w8ZLGXo.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/w8ZLGXo.jpg" alt="" />
 
 **Jaroslav Dohnálek, zastupitel za ODS**
 
@@ -39,7 +39,7 @@ Otázky byly následující: 1. Co považujete za největší úspěch současn�
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/5hZFu14.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/5hZFu14.jpg" alt="" />
 
 **Vladimír Farský, radní za KSČM**
 
@@ -51,7 +51,7 @@ Otázky byly následující: 1. Co považujete za největší úspěch současn�
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/GDgALTD.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/GDgALTD.jpg" alt="" />
 
 **Petr Fiala, zastupitel za TOP 09**
 
@@ -63,7 +63,7 @@ Otázky byly následující: 1. Co považujete za největší úspěch současn�
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/fn2dn9l.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/fn2dn9l.jpg" alt="" />
 
 **Jaromír Formánek, zastupitel za ČSSD**
 
@@ -89,7 +89,7 @@ V rámci požadované argumentace si dovolím několik řečnických otázek. Ja
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/m0ImKv4.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/m0ImKv4.jpg" alt="" />
 
 **Oldřich Grulich, zastupitel za ČSSD**
 
@@ -97,7 +97,7 @@ Nebudu se vám k tomu vyjadřovat. Vy se vždycky na něco zeptáte a pak to ste
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/vuSHbga.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/vuSHbga.jpg" alt="" />
 
 **Dagmar Hamalová, místostarostka za KDU-ČSL**
 
@@ -111,7 +111,7 @@ O vytvoření strategického dokumentu usilovalo vedení města delší dobu ji�
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/LOwzBpa.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/LOwzBpa.jpg" alt="" />
 
 **Martin Charvát, zastupitel za ČSSD**
 
@@ -119,7 +119,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/cfb09vk.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/cfb09vk.jpg" alt="" />
 
 **Miroslav Klíma, zastupitel za ODS**
 
@@ -131,7 +131,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/0Jf6TgA.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/0Jf6TgA.jpg" alt="" />
 
 **Milan Kolínský, radní za ČSSD**
 
@@ -139,7 +139,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/oC86RY5.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/oC86RY5.jpg" alt="" />
 
 **Marek Ležák, zastupitel za ČSSD**
 
@@ -149,7 +149,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/fDjjU7m.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/fDjjU7m.jpg" alt="" />
 
 **Petr Malach, místostarosta za ČSSD**
 
@@ -159,7 +159,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/aYAmxfP.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/aYAmxfP.jpg" alt="" />
 
 **Radek Mazáč, zastupitel za sdružení Sportovci pro Boskovice**
 
@@ -171,7 +171,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/m1MS5yT.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/m1MS5yT.jpg" alt="" />
 
 **Hana Nedomová, starostka za ČSSD**
 
@@ -179,7 +179,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/pDe4bD7.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/pDe4bD7.jpg" alt="" />
 
 **Vladimír Ochmanský, zastupitel za ODS**
 
@@ -191,7 +191,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/YR34sIX.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/YR34sIX.jpg" alt="" />
 
 **Josef Opatřil, zastupitel za KSČM**
 
@@ -203,7 +203,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/B1P4mFO.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/B1P4mFO.jpg" alt="" />
 
 **Karel Ošlejšek, radní za ČSSD**
 
@@ -215,7 +215,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/tRWuXWV.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/tRWuXWV.jpg" alt="" />
 
 **Jiří Pevný, zastupitel za sdružení Sportovci pro Boskovice**
 
@@ -227,7 +227,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/xqWRb3i.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/xqWRb3i.jpg" alt="" />
 
 **Tomáš Pléha, zastupitel za KDU-ČSL**
 
@@ -239,7 +239,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/CES4mYf.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/CES4mYf.jpg" alt="" />
 
 **Martina Přichystalová, radní za ANO 2011**
 
@@ -251,7 +251,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/El4BcPa.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/El4BcPa.jpg" alt="" />
 
 **Pavel Schwarzer, radní za ANO 2011**
 
@@ -263,7 +263,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/AVHmuX1.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/AVHmuX1.jpg" alt="" />
 
 **Ladislav Topinka, zastupitel za KSČM**
 
@@ -275,7 +275,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/X1yJKni.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/X1yJKni.jpg" alt="" />
 
 **Jaromíra Vítková, radní za KDU-ČSL**
 
@@ -287,7 +287,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/V8N6mM3.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/V8N6mM3.jpg" alt="" />
 
 **Pavel Vlach, zastupitel za TOP 09**
 
@@ -299,7 +299,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/WEWFDFh.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/WEWFDFh.jpg" alt="" />
 
 **Marie Zouharová, zastupitelka za KDU-ČSL**
 
@@ -311,7 +311,7 @@ Na vaše otázky nehodlám odpovídat po předchozích špatných zkušenostech 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/nGqfTjk.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/nGqfTjk.jpg" alt="" />
 
 **Sáša Živná, zastupitelka za ANO 2011**
 

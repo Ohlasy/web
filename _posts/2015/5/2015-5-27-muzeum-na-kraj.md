@@ -1,14 +1,14 @@
 ---
 title: Muzeum Boskovicka směřuje k převodu z města do rukou kraje
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/tdWLVCNl.jpg
+cover-photo: https://i.ohlasy.info/tdWLVCNl.jpg
 author: Tomáš Trumpeš
 tags: muzeum
 ---
 
 *Dlouho se o tom mluvilo, ale zdá se, že nakonec s to stane skutečností a město Boskovice převede své muzeum pod správu kraje. Radnice tak bude mít o jednu příspěvkovou organizaci méně a Muzeum Boskovicka se podle politiků snad dočká lepšího ekonomického zázemí. Jednání směřují k tomu, aby kraj muzeum převzal již od 1. ledna 2016. O podobném převodu jedná pro své muzeum i Blansko, navzdory předešlým úvahám by se však obě instituce neměly slučovat, ale měly by si zachovat samostatnou identitu.*
 
-<img src="http://i.ohlasy.info/tdWLVCN.jpg" alt="budova muzea" class="img-responsive">
+<img src="https://i.ohlasy.info/tdWLVCN.jpg" alt="budova muzea" class="img-responsive">
 
 „Problematikou se intenzivně zabýváme, už byly na stole dva návrhy smluv mezi městem a Jihomoravským krajem. Není to jednoduchá záležitost, jedná se o pronájmy našich nemovitostí, o depozitáře, zaměstnance. A také o možnost zajištění kulturních akcí v muzeu, abychom o ty prostory nepřišli úplně. Zasedá komise složená z našich zástupců a ze zástupců kraje,“ popsala aktuální situaci starostka Boskovic Hana Nedomová.
 

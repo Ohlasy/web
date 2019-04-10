@@ -1,7 +1,7 @@
 ---
 title: Výpovědní lhůta vypršela. Panely dál stojí na poli
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/cR2Eawvl.jpg
+cover-photo: https://i.ohlasy.info/cR2Eawvl.jpg
 author: Marek Osouch
 tags:
     - solární elektrárna
@@ -9,7 +9,7 @@ tags:
 
 *Kvůli neplacení nájmu vypověděla boskovická radnice letos v červnu smlouvu společnosti AKAM Bosko, která je majitelem solární elektrárny v Chrudichromské ulici. Výpovědí však příběh neskončil. Nedávno vypršela provozovateli výpovědní lhůta, ale sluneční panely na městských pozemcích stojí dál.*
 
-<img src="http://i.ohlasy.info/cR2Eawv.jpg" alt="boskovická solární elektrárna" class="img-responsive" data-author="Marek Osouch">
+<img src="https://i.ohlasy.info/cR2Eawv.jpg" alt="boskovická solární elektrárna" class="img-responsive" data-author="Marek Osouch">
 
 „To jste si mysleli, že za dva měsíce bude vše pryč?“ divila se boskovická starostka Hana Nedomová (ČSSD) otázce Ohlasů, jaké kroky bude činit město dál, když provozovatel nesplnil další článek smlouvy. V ní se píše, že výpovědní lhůta trvá dva měsíce a že „po skončení nájmu předá nájemce pronajímateli předmět nájmu vyklizený a ve stavu odpovídajícímu přiměřenému způsobu užívání“. Panely tedy dále blokují jakékoliv jiné využití městských pozemků, například pro rozšiřování průmyslové zóny, která je v současnosti téměř zaplněná. 
 

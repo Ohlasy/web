@@ -1,6 +1,6 @@
 ---
 title: O rozvoj Boskovic je zájem ve všech oblastech trhu
-cover-photo: http://i.ohlasy.info/IpgFfmdl.jpg
+cover-photo: https://i.ohlasy.info/IpgFfmdl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -9,7 +9,7 @@ tags:
 
 *Mají Boskovice jasnou představu o tom, jak a kam by se měly v příštích letech rozvíjet? Je rozvojových lokalit dostatek a jaký je vlastně o Boskovice zájem, jaká je situace na trhu s nemovitostmi a jak se vyvíjí počet obyvatel?*
 
-{% photo src="http://i.ohlasy.info/IpgFfmd.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/IpgFfmd.jpg" author="Tomáš Trumpeš" %}
 
 „Současné vedení města nepřipravuje žádný nový rozvojový projekt. Město přitom bude rozvoj v horizontu šesti osmi let nutně potřebovat a dotáhnout jen to, co bylo připraveno dříve, nestačí.“ Tak by se dala stručně shrnout hlavní výtka, kterou [v rozhovoru pro Ohlasy](http://www.ohlasy.info/clanky/2017/04/rozhovor-vlach.html) pronesl na adresu současného vedení města opoziční zastupitel a předseda místní TOP 09 Pavel Vlach, který je rovněž bývalým tajemníkem boskovického úřadu.
 

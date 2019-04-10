@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za červenec
-cover-photo: http://i.ohlasy.info/AtI6qpcl.jpg
+cover-photo: https://i.ohlasy.info/AtI6qpcl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v červenci na Boskovicku událo.*
 
-<img src="http://i.ohlasy.info/AtI6qpc.jpg" alt="průvod na festivalu Boskovice 2016" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/AtI6qpc.jpg" alt="průvod na festivalu Boskovice 2016" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Proběhl [24. ročník festivalu Boskovice](http://ohlasy.info/clanky/2016/07/festivalovy-zapisnik.html), který je věnován [místní židovské čtvrti](http://ohlasy.info/clanky/2016/07/anketa-zidovska-ctvrt.html). Do 21. srpna jsou ještě ke zhlédnutí festivalové výstavy, třeba [Pomník Bruno Zwickera od Pavla Karouse](http://ohlasy.info/clanky/2016/07/rozhovor-karous.html).
 

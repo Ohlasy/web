@@ -1,7 +1,7 @@
 ---
 title: Boskovické strany připravují kandidátky do komunálních voleb
 perex: Do komunálních voleb zbývají tři měsíce. Boskovické strany připravují program, kampaň a také kandidátky, které musejí odevzdat do konce července.
-cover-photo: http://i.ohlasy.info/WeAj2ACl.jpg
+cover-photo: https://i.ohlasy.info/WeAj2ACl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika volby2018
@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *Do komunálních voleb zbývají tři měsíce. Boskovické strany připravují program, kampaň a také kandidátky, které musejí odevzdat do konce července. Zatím to vypadá, že kandidátek bude určitě víc než [v roce 2014](https://www.volby.cz/pls/kv2014/kv1111?xjazyk=CZ&xid=1&xdz=2&xnumnuts=6201&xobec=581372&xstat=0&xvyber=0), ačkoliv některé projekty jsou zatím nejasné. Naopak se už vyjasňují jména lídrů.*
 
-{% photo src="http://i.ohlasy.info/WeAj2AC.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/WeAj2AC.jpg" author="Tomáš Znamenáček" %}
 
 ## ČSSD
 

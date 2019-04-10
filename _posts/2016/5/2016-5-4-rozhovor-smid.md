@@ -1,6 +1,6 @@
 ---
 title: „Všichni žijeme jeden příběh.“
-cover-photo: http://i.ohlasy.info/0WkFv9Kl.jpg
+cover-photo: https://i.ohlasy.info/0WkFv9Kl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura fotografie
@@ -8,7 +8,7 @@ tags: kultura fotografie
 
 *Rozhovor s fotografem Pavlem Šmídem, který bude od soboty 7. do neděle 29. května vystavovat v Galerii Otakara Kubína v Boskovicích soubor s názvem Buenos días, Sr. Presidente; Bom dia, Sr. Presidente. Pavel Šmíd absolvoval několik samostatných a společných výstav v České republice i v zahraničí, včetně newyorské Leica Gallery. V současnosti pracuje na volné noze a jako příležitostný kurátor Galerie města Pardubic, žije ve vesničce Česká Rybná na Českomoravské vrchovině.*
 
-<img src="http://i.ohlasy.info/0WkFv9K.jpg" alt="Václav Havel na cestách" class="img-responsive img-popup" data-author="Pavel Šmíd">
+<img src="https://i.ohlasy.info/0WkFv9K.jpg" alt="Václav Havel na cestách" class="img-responsive img-popup" data-author="Pavel Šmíd">
 
 **Pavle, můžeš představit, jaké fotky budeš v Boskovicích vystavovat**?
 
@@ -38,7 +38,7 @@ Fotografoval jsem asi jako všichni už od doby, kdy se mi fotoaparát dostal do
 
 Fotografie pro mě znamenala hrozně moc v tom smyslu, že jsem se neuměl manuálně výtvarně vyjádřit. Kresba nebo malba – talent tohoto typu mi nebyl dán. Fotografie mě okouzlila právě tím, že jsem byl schopen zachycovat okamžiky, které jsem cítil. I když je to dokument, tak to pro mě byla důležitá výtvarně, naučila mě kompozici, naučila mě hlavně, co je to světlo a stín, což budou všichni fotografové opakovat dokola.
 
-<img src="http://i.ohlasy.info/ihPND8i.jpg" alt="Pavel Šmíd" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/ihPND8i.jpg" alt="Pavel Šmíd" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **To je zajímavé i v návaznosti na soubor fotografií z prezidentské cesty. Když fotíš takovouto reportážní fotku, vzniká nějaké napětí mezi obrazem a situací? Do jaké míry se musíš víc soustředit na to, abys zprostředkoval tu událost, a jak moc se můžeš zaměřit na výtvarnou stránku věci**?
 
@@ -84,7 +84,7 @@ Hned na rakousko-českých hranicích mě otrávilo, že mě vybrakovali a sebra
 
 Určitě. I předtím, i potom. Mě v roce 1976 vyrazili z politických důvodů ze školy, z hradeckého pedáku, a mohl jsem dostudovat až v roce 1990.
 
-<img src="http://i.ohlasy.info/sRbmcuP.jpg" alt="Václav Havel na cestách" class="img-responsive img-popup" data-author="Pavel Šmíd">
+<img src="https://i.ohlasy.info/sRbmcuP.jpg" alt="Václav Havel na cestách" class="img-responsive img-popup" data-author="Pavel Šmíd">
 
 **Jaká témata tě přitahují dneska? Co fotíš**?
 

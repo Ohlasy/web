@@ -1,7 +1,7 @@
 ---
 title: Bez peticí a referend to zatím neumíme
 category: názory a komentáře
-cover-photo: http://i.ohlasy.info/bK0zkvC.jpg
+cover-photo: https://i.ohlasy.info/bK0zkvC.jpg
 author: Tomáš Trumpeš
 tags:
     - politika
@@ -10,7 +10,7 @@ tags:
 
 *V souvislosti s peticí, která vznikla na podporu vybudování [lezecké stěny v letním kině](http://stenaboskovice.cz), vyvstane člověku před očima, jak moc se některé formální náležitosti a ustanovení vzdalují skutečnému životu. Kupříkladu takový institut trvalého bydliště, který je klíčový nejen pro petice, ale v našem volebním systému i pro naše právo obdařit některé z politiků důvěrou v podobě voličského hlasu. Do jaké míry je však život města skutečně tvořen těmi, kteří mají jeho název uveden v občanském průkazu?*
 
-<img src="http://i.ohlasy.info/bK0zkvC.jpg" alt="petiční arch" class="img-responsive">
+<img src="https://i.ohlasy.info/bK0zkvC.jpg" alt="petiční arch" class="img-responsive">
 
 Nemám pro to žádná relevantní data, nicméně je zřejmé, že určitá část lidí, jejichž podpis pod peticí má díky trvalému bydlišti skutečnou váhu, ve městě vůbec nežije a na dění v něm se nijak nepodílí – lidsky, pracovně, ani ekonomicky. A naopak je tu jistě nemalý počet lidí, kteří zde žijí, utrácejí své peníze, pracují, angažují se a vytvářejí pro své okolí a pro celou zdejší společnost mnoho dobrého, ale trvalé bydliště zde z nejrůznějších důvodů nemají. A pak je tu další věc – pokud chtějí být Boskovice tím, čím by ze své podstaty být měly, totiž otevřeným a sebevědomým centrem celého regionu, je logické, že zde musejí i za pouze boskovické peníze vznikat díla a aktivity, které svým významem hranice města přesahují.
 

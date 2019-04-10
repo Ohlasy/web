@@ -1,6 +1,6 @@
 ---
 title: Žloutenkou se letos nakazila téměř dvacítka lidí z Blanenska
-cover-photo: http://i.ohlasy.info/RlJYLvMl.jpg
+cover-photo: https://i.ohlasy.info/RlJYLvMl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: zdravotnictví
@@ -8,7 +8,7 @@ tags: zdravotnictví
 
 *Žloutenka typu A neboli nemoc špinavých rukou se šíří po jižní Moravě dál. Jen na Blanensku hygienici evidují osmnáct případů, což je zhruba tolik, kolik se jich loni za stejné období nakazilo v celém Jihomoravském kraji. Zde jich letos k polovině srpna bylo už přes 170. Kdy celokrajská epidemie skončí, hygienici netuší.*
 
-<img src="http://i.ohlasy.info/RlJYLvM.jpg" alt="muž si umývá ruce v omyvadle" class="img-responsive img-popup" data-author="Bill Branson">
+<img src="https://i.ohlasy.info/RlJYLvM.jpg" alt="muž si umývá ruce v omyvadle" class="img-responsive img-popup" data-author="Bill Branson">
 
 Žloutenka po Brně citelněji zasáhla také okres Blansko. Osmnáct případů, které zde letos hygienici zaznamenali, tvoří zhruba jedenáct procent všech krajských případů. „První případy jsme zaznamenali v dubnu. Tito lidé se nakazili kontaktem s nemocnými osobami v Brně,“ uvedla ředitelka protiepidemického odboru krajské hygienické stanice Renata Ciupek. Podle ní se jednalo především o bezdomovce a drogově závislé ve věku mezi 25 a 34 lety. 
 

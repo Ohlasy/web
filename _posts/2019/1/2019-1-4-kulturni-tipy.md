@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na leden
-cover-photo: http://i.ohlasy.info/FqO78uil.jpg
+cover-photo: https://i.ohlasy.info/FqO78uil.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="http://i.ohlasy.info/FqO78ui.jpg" caption="Kardinál Špidlík" author="archiv Města Boskovice" %}
+{% photo src="https://i.ohlasy.info/FqO78ui.jpg" caption="Kardinál Špidlík" author="archiv Města Boskovice" %}
 
 ### Ochotnické divadlo Boskovice: Vražda sexem
 

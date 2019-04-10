@@ -1,7 +1,7 @@
 ---
 title: Výstavba Pod Střelnicí by mohla do Boskovic přinést chybějící soudobou architekturu
 category: názory a komentáře
-cover-photo: http://i.ohlasy.info/qBagzv6l.jpg
+cover-photo: https://i.ohlasy.info/qBagzv6l.jpg
 author: Petr Ondráček
 tags:
     - architektura
@@ -9,7 +9,7 @@ tags:
 
 *Moje první setkání s developerským záměrem v lokalitě Pod Střelnicí začalo celkem netradičně, a to překvapením při jednom z letošních jarních výběhů ven z města, do přírody. Po proběhnutí kolem boskovického kojálu jsem se těšil na své oblíbené netradiční výhledy na město rámované divoce rostoucí vegetací, ale všechno bylo jinak. Cesta, kterou jsem znal, najednou končila na hraně srázu, po kterém jsem musel opatrně seběhnout dolů. Dnes jsem tudy ještě proběhl, ale věděl jsem, že příště už budu muset volit jinou trasu, protože až romanticky divoká část na severovýchodním kraji Boskovic vzala zasvé a bude se zde něco dít.*
 
-<img src="http://i.ohlasy.info/qBagzv6.jpg" alt="výhled z lokality Pod Střelnicí na boskovický hrad a město" class="img-responsive">
+<img src="https://i.ohlasy.info/qBagzv6.jpg" alt="výhled z lokality Pod Střelnicí na boskovický hrad a město" class="img-responsive">
 
 Hned po návratu z běhu domů jsem vepsal domnělá klíčová slova do vyhledávače, ale tehdy jsem ještě nepochodil a nic bližšího se nedozvěděl. Každopádně mi bylo jasné, že se zde s největší pravděpodobností chystá nová výstavba. Tuto domněnku jsem si poté potvrdil i náhledem do územního plánu města, kde jsem našel červeně rámovanou rozvojovou lokalitu. 
 
@@ -19,7 +19,7 @@ Boskovice jsou podle mě stále velmi zajímavé a pěkné místo, a tak není d
 
 [Záměr výstavby v lokalitě Pod Střelnicí](/clanky/2015/08/nova-vystavba.html) je podle mého názoru v Boskovicích docela výjimečný. Nabízí totiž málo vídanou kombinaci relativní blízkosti centra a zároveň velmi atraktivních výhledů, které může jen obtížně nabídnout kterýkoliv z ostatních projektů na území města a v jeho blízkém okolí. Výhled na hrad a zbytek města je zde jedinečný a míst, odkud je možné tuto část města vidět a zároveň je možné zde uvažovat o stavbě rodinného domu, opravdu víc není. Je skoro až s podivem, že tato lokalita jde na prodej až nyní – zde vidím souvislost s problematickou kanalizací v této části města, která je v řešení až v poslední době.
 
-<img src="http://i.ohlasy.info/QdPfTD7.jpg" alt="plán lokality Pod Střelnicí" class="img-responsive">
+<img src="https://i.ohlasy.info/QdPfTD7.jpg" alt="plán lokality Pod Střelnicí" class="img-responsive">
 
 Uvažovaná výstavba navazuje na kompaktní individuální zástavbu na ulicích Ludvíka Vojtěcha a Pod Střelnicí. Základní páteřní komunikace v nové lokalitě je relativně složitého a na první pohled možná nepochopitelného tvaru, který nemá nic společného se stávající ulicovou zástavbou. To je však dáno terénní modelací a také tvarem stávajících okolních pozemků. Jedinou vadou na kráse podle mne zůstává pouze fakt, že v lokalitě A již byla dříve provedená parcelace pozemků. Bylo zde navrženo jakési náměstíčko uprostřed, na kterém jsou osazeny tři domy a které je jako vystřižené z učebnice amerického urbanismu velkoměstských periferií. Toto řešení je podle mne nešťastné a architektům znemožnilo ve své podstatě jakékoliv jiné, racionálnější dispoziční řešení tvaru komunikace a pozemků kolem ní.
 
@@ -41,7 +41,7 @@ V uvedené lokalitě se stavebníky stala vesměs nastupující generace, která
 
 Dalo by se namítnout, že za svoje peníze si má každý právo postavit, co mu vyhovuje. Pokud ale případnému zájemci žádný z architektem doporučených typů domu nevyhovuje, má na výběr z mnoha dalších developerských projektů na jiných místech, která mu splní každé přání. Tedy skoro každé – z vlastní zkušenosti vím, jaké komplikace může způsobit zmínka o regulativech, podlažnosti a tvaru střechy v územním plánu. V tomto případě by bylo škoda promarnit nabídnutou příležitost a nespojit nové místo s jedinečným geniem loci, nepostavit zde konečně opravdu soudobou a kvalitní architekturu, která v Boskovicích prakticky chybí. (Napočítal bych ji na prstech jedné ruky, a to bych některé z nich ani nepoužil.)
 
-<img src="http://i.ohlasy.info/n4vd1yN.jpg" alt="modelové typy domů" class="img-responsive">
+<img src="https://i.ohlasy.info/n4vd1yN.jpg" alt="modelové typy domů" class="img-responsive">
 
 Kdyby se podařilo naplnit vize urbanistické studie od brněnských architektů z ateliéru Dimense, která je součástí tohoto záměru, je zde šance, že by na severovýchodním okraji Boskovic mohl vzniknout poměrně kvalitní architektonický soubor, byť zatím pouze formou individuální výstavby. Mohlo by se tak započít se stavěním opravdu kvalitních rodinných domů, místo vesměs naprosto tuctových ukázek stavitelské bezradnosti, kterých jsou plné výše uvedené ulice Lipová a Na Chmelnici.
 
@@ -55,7 +55,7 @@ Boskovice v první čtvrtině 20. století patřily mezi města, kde na základ�
 
 Od té doby jako by se kvalitní architekti našemu městu obloukem vyhýbali. Za posledních třicet let v Boskovicích nevznikla prakticky žádná kvalitní nová architektura a myslím si, že je to škoda. Dalo by se namítnout, že v podobné situaci je většina současných měst a obcí. Ovšem ne všechny, zdařilou ukázku máme nedaleko: ve městě, které je svou velikostí a počtem obyvatel podobné Boskovicím, kde moderní architektura žije v symbióze s původní zástavbou. Ve městě, které je většině veřejnosti – podobně jako Boskovice – známé hlavně díky své historické části. Tušíte asi správně, je to Litomyšl.
 
-<img src="http://i.ohlasy.info/U6KdF9F.jpg" alt="plavecký bazén Litomyšl" class="img-responsive">
+<img src="https://i.ohlasy.info/U6KdF9F.jpg" alt="plavecký bazén Litomyšl" class="img-responsive">
 
 ### Fenomén Litomyšl
 

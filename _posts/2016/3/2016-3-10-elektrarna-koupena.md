@@ -1,6 +1,6 @@
 ---
 title: Velcí čeští solárníci chtějí zprovoznit boskovickou elektrárnu
-cover-photo: http://i.ohlasy.info/VYIykTHl.jpg
+cover-photo: https://i.ohlasy.info/VYIykTHl.jpg
 category: zpravodajství
 author: Marek Osouch
 tags:
@@ -9,7 +9,7 @@ tags:
 
 *Boskovická solární elektrárna má nového majitele. Panely a další zařízení v dražbě odkoupila za osm a půl milionu společnost Solar Global, která vlastní dalších více než deset solárních elektráren v České republice. Panely v Boskovicích chce firma nadále provozovat, čemuž se boskovická radnice nebrání.*
 
-<img src="http://i.ohlasy.info/VYIykTH.jpg" alt="boskovická solární elektrárna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/VYIykTH.jpg" alt="boskovická solární elektrárna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 „Vím, že firma Solar Global elektrárnu získala. Oslovila nás a máme předběžně domluvenou první schůzku. Oni si teprve budou zjišťovat, zda jsou všechny podklady k elektrárně v pořádku. Pokud budou, můžeme se bavit o další možnosti pronájmu. Vše je ale ještě daleko,“ uvedla starostka Boskovic Hana Nedomová (ČSSD). Boskovická elektrárna by tak mohla znovu „ožít“ a být zdrojem peněz pro městskou pokladnu. Pokud naopak podle starostky firma všechny potřebné dokumenty k provozu mít nebude, panely z pole zmizí. [Zmizet už přitom měly do poloviny loňského října, nic se ale nestalo](/clanky/2015/08/solary-po-vypovedi.html).
 

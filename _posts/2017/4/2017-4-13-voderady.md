@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Místní jména na Boskovicku – Voděrady"
-cover-photo: http://i.ohlasy.info/SkJUchjl.jpg
+cover-photo: https://i.ohlasy.info/SkJUchjl.jpg
 perex: Putování s Vítem Bočkem po místních názvech obcí nás tentokrát zavede do vsi, kde mají rádi vodu. Kdybychom byli hyperkorektní jako v 15–18 století, vydali bychom se do Oděrad.
 author: Vít Boček
 category: seriály
@@ -9,7 +9,7 @@ serial: jazyk
 
 *U místních názvů převažuje tvoření derivační, tedy pomocí přípon, případně i předpon, které se připojují k slovnímu základu. Méně častá je slovotvorba kompozicí, kdy se spolu spojují dva různé slovní základy. Takové složeniny bývají obtížněji vysvětlitelné, protože není vždy jasné, jaký byl vztah mezi oběma použitými slovními základy. I mezi obcemi na Boskovicku se vyskytuje několik takových složených názvů. [Minule jsme si už pověděli o Touboři](http://www.ohlasy.info/clanky/2017/02/toubor.html), názvu obsahujícím původně v první složce základ zájmenný a v druhé základ slovesný. Dnes se podíváme do Voděrad.*
 
-{% photo src="http://i.ohlasy.info/SkJUchj.jpg" caption="Voděrady" author="Jiří Komárek" %}
+{% photo src="https://i.ohlasy.info/SkJUchj.jpg" caption="Voděrady" author="Jiří Komárek" %}
 
 Voděrady patří k velmi starým obcím, o nichž máme první zmínku už ze 13. století. Název obce je poprvé doložen k roku 1281 v podobě *de Woderat*. Doklady z dalších staletí jsou pak následující: 1350 *in Wodierat*, 1368 *Vodyerad*, 1371 *in Wodihrad*, 1396 *de Wodierad*, 1406 *z Voděrad*, 1407 *de Wodyerad* a *Wadyrad*, 1410 *z Oděrad*, 1463 *v Oděradech*, 1481 *v Odieradech*, 1486 *z Oděrad*, 1594 *ve vsi Wodiehradech*, 1603 *v Woděradech*, 1612 *ve vsi Wodieradech*, 1674 *Wodieradt*, *Wodierad*, 1718 *Wodierad*, *Wodiehradt*, 1729 *ex Wodierad*, 1734 *ex pago Odierad*, 1751 *Wodierad*, 1846 *Wodierad*, 1872 *Wodierad*, *Voděrady*, od roku 1881 už pouze *Voděrady*.
 

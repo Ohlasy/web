@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na únor
-cover-photo: http://i.ohlasy.info/Dp6KEV3.jpg
+cover-photo: https://i.ohlasy.info/Dp6KEV3.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="http://i.ohlasy.info/Dp6KEV3.jpg" caption="Jan Budař na kostýmní zkoušce Švankmajerova Hmyzu" %}
+{% photo src="https://i.ohlasy.info/Dp6KEV3.jpg" caption="Jan Budař na kostýmní zkoušce Švankmajerova Hmyzu" %}
 
 ### Nejstarší dějiny města Letovice
 

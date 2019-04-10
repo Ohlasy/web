@@ -1,7 +1,7 @@
 ---
 title: Z jakých pozic startují strany a hnutí v Jihomoravském kraji a v Boskovicích?
 perex: Jak se v minulosti volilo na okrese Blansko a přímo v Boskovicích a co z toho plyne pro nadcházející parlamentní volby?
-cover-photo: http://i.ohlasy.info/n8PJWGll.jpg
+cover-photo: https://i.ohlasy.info/n8PJWGll.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Volby do Poslanecké sněmovny se rychle blíží a dění na politické scéně je poměrně turbulentní. Kromě sledování celostátního aktuálního dění je snad zajímavé podívat se i do minulosti, tedy na výchozí pozici stran a hnutí v našem volebním obvodu – Jihomoravském kraji. Kromě krajského pohledu nabízíme také malou sondu do toho, jak se v minulosti volilo na okrese Blansko a přímo v Boskovicích.*
 
-{% photo src="http://i.ohlasy.info/n8PJWGl.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/n8PJWGl.jpg" author="Tomáš Znamenáček" %}
 
 Do přehledu jsme zařadili 10 politických uskupení, jejichž preference a minulé výsledky z nich v tuto chvíli dělají relevantní účastníky boje o Sněmovnu. Jsou to: ANO 2011, ČSSD, KDU-ČSL, KSČM, ODS, TOP 09, Starostové a nezávislí, Piráti, Zelení a SPD.
 

@@ -1,14 +1,14 @@
 ---
 title: Sezóna v letním kině byla úspěšná, oprava areálu se ale zadrhla
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/ZYdvkbjl.jpg
+cover-photo: https://i.ohlasy.info/ZYdvkbjl.jpg
 author: Tomáš Trumpeš
 tags: kino kultura
 ---
 
 *„Máte tady moc krásný areál, ani nevím, jestli jsem tady už někdy zpívala,“ rozhlížela se po letním kině během svého koncertu před dvěma lety zpěvačka Věra Špinarová. A po chvíli dodala: „Ale mohli byste si ho trochu opravit.“ Následoval aplaus několika set lidí v publiku. Ti tak nejen ocenili zpěvaččin neotřelý smysl pro humor, ale jistě vyjádřili i svůj souhlas s oběma výroky: areál je krásný a potřebuje opravit. Bohužel to však vypadá, že postup rekonstrukčních prací se zadrhnul.*
 
-<img src="http://i.ohlasy.info/ZYdvkbj.jpg" alt="hlediště letního kina" class="img-responsive">
+<img src="https://i.ohlasy.info/ZYdvkbj.jpg" alt="hlediště letního kina" class="img-responsive">
 
 Ještě před několika lety se s čestnou výjimkou hlavní hudební scény festivalu Boskovice pořádaného pražským sdružením Unijazz a domácí, spíše spontánní akce Happening aneb Konec prázdnin v letňáku nedělo v areálu prakticky nic. A postupně uvadala také návštěvnost filmových projekcí, kterou definitivně zproblematizoval přechod distributorů na nový digitální formát. Kino, které nemůže hrát nové filmy, protože nedisponuje technikou potřebnou k jejich přenosu na plátno, nemá šanci se udržet. Kulturní zařízení města Boskovice (KZMB) dostala někdy v té době úkol, aby se pokusila dostat návštěvníky zpět do areálu. Tím se mělo zároveň prokázat, že investice do rekonstrukce areálu je smysluplná. Dnes lze konstatovat, že tento úkol se podařilo splnit.
 
@@ -34,7 +34,7 @@ V areálu chybí kvalitní zázemí pro personál i vystupující, šatny, pokla
 
 První kroky k rekonstrukci byly učiněny, naděje však poměrně rychle opadly. Na novou podobu areálu [nejprve vznikla studie](http://data.ohlasy.info/letni+kino+studie.pdf), následně i kompletní projekt, podle kterého se má postupovat. Zatím byl ale upraven pouze prostor před jevištěm a areál byl oplocen, což je důležité pro pořadatele akcí, neboť zajišťovat uzavřenost areálu při každé akci samostatně je náročné a nákladné. „První úpravy areálu ve formě nově vybetonované a prostorově rozšířené plochy před plátnem velmi pomohly při realizaci větších koncertů, protože s pozváním větších hvězd rostou i požadavky na velikost pódia,“ vysvětluje Ivo Legner z KZMB.  Nové oplocení ovšem nebylo vytvořeno zcela šťastně – řeší totiž pouze přístup, ale už ne viditelnost do areálu. Při některých akcích tedy musejí pořadatelé bariéru stejně vytvářet o kousek dál.
 
-<img src="http://i.ohlasy.info/WGkkqgo.jpg" alt="vizualizace nové podoby letního kina" class="img-responsive">
+<img src="https://i.ohlasy.info/WGkkqgo.jpg" alt="vizualizace nové podoby letního kina" class="img-responsive">
 
 Podle původního plánu mělo následovat vybudování šaten, rekonstrukce hlediště a další práce na komplexní rekonstrukci. Postup rekonstrukce se však zadrhl a aktuální situace opět připomíná návrat do časů, kdy se v letním kině hasily jen nejnutnější požáry. Areál tím pádem dál chátrá. „V podstatě nevíme, do čeho v současnosti investovat dřív. Určitě bude potřeba udělat nový nátěr zrezavělé ocelové konstrukce plátna a do dvou let budeme muset řešit i nový nátěr promítacího plátna.  Investice do letního kina, které proběhly v minulosti, jako byla oprava toalet či nová střecha na promítací kabině, jsou vždy jen hašení aktuálního problému. Střecha se opraví, až když do ní teče, záchody, až když nefungují. Byli bychom rádi, pokud by město zachovalo strategii oprav letního kina a po vybudování pódia a plotu se začalo budovat nové zázemí a později nová elevace amfiteátru,“ říká Tomáš Marvan.
 

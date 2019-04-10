@@ -1,7 +1,7 @@
 ---
 title: "Život pod stromy: Tajemství cest cizokrajných stromů"
 perex: Martina Lukešová tentokrát o stromech z dalekých krajů, odkud k nám přicestovaly jako exotické artikly.
-cover-photo: http://i.ohlasy.info/tcEeyd2l.jpg
+cover-photo: https://i.ohlasy.info/tcEeyd2l.jpg
 author: Martina Lukešová
 category: seriály
 serial: stromy
@@ -9,7 +9,7 @@ serial: stromy
 
 *Někdo jezdí za zážitky do exotických zemí, někdo vyhledává adrenalinové sporty a někdo touží po pláži a šumění moře. Drobné, ale i překvapivé zážitky lze však zažít za rohem vašeho domu. Možností je mnoho, stačí se dívat a nechat se trochu unést letním kouzlem. Zvláště, když se vám podaří odpoutat se od všedních starostí. V podvečer se usadit pod stromem, který vás něčím přitahuje. Dotýkat se jeho kůry a nechat se osvěžit vánkem, co ve větvích roztančí příběh jen pro vás.*
 
-{% photo src="http://i.ohlasy.info/tcEeyd2.jpg" caption="Jinan u zámeckého skleníku" author="Martina Lukešová" %}
+{% photo src="https://i.ohlasy.info/tcEeyd2.jpg" caption="Jinan u zámeckého skleníku" author="Martina Lukešová" %}
 
 Šumění listí v korunách na sklonku letního dne je víc, než dá se popsat slovy. Přesto se pokusím přiblížit se kouzlu stromů z dalekých krajin, které s námi sdílí domov. Stromů, co k nám přicestovaly jako exotické artikly, ale i jako touha lidí po naplnění snu o krásném prostředí, možná i dokonalosti, nebo jako prostá potřeba se odlišit. Nejsou to však úplní cizinci. Nebýt doby ledové, některé by rostly i v Evropě. Za posledních tři sta let se díky lidem vrátily tam, kde jejich existence před stovkami milionů let začala.
 
@@ -46,7 +46,7 @@ Lidé zde usedají k příjemnému nedělnímu odpolední s hudbou a občerstven
 
 Nahovětvec má jen dva druhy. Ten, co roste v boskovickém parku, pochází ze Severní Ameriky. U nás je pěstován až od poloviny 19. století, první byl vysazen v Botanické zahradě UK v Praze. 
 
-{% photo src="http://i.ohlasy.info/rkLwfBY.jpg" caption="Nahovětvec u zámeckého skleníku" author="Martina Lukešová" %}
+{% photo src="https://i.ohlasy.info/rkLwfBY.jpg" caption="Nahovětvec u zámeckého skleníku" author="Martina Lukešová" %}
 
 ### Liliovník tulipánokvětý (Liriodendron tulipifera)
 
@@ -56,7 +56,7 @@ V Boskovicích rostou na veřejném prostranství dva liliovníky. Starší na n
 
 Pokud byste chtěli vidět dospělé liliovníky, vydejte se do Brna do Lužánek nebo do Tyršova sadu. Velice působivá je alej dvaceti dvou liliovníků na Ústředním hřbitově. Menší, ale velice zajímavý je liliovník v parku na Kolišti u Zemanovy kavárny.
 
-{% photo src="http://i.ohlasy.info/kSRzEqH.jpg" caption="Liliovník u ZŠ Zelená" author="Martina Lukešová" %}
+{% photo src="https://i.ohlasy.info/kSRzEqH.jpg" caption="Liliovník u ZŠ Zelená" author="Martina Lukešová" %}
 
 ### Závěrem
 

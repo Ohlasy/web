@@ -1,14 +1,14 @@
 ---
 title: "Editorial: Redaktoři Ohlasů Marek Osouch a Žaneta Ondroušková získali novinářské ceny"
 author: Tomáš Trumpeš
-cover-photo: http://i.ohlasy.info/gY4poJjl.jpg
+cover-photo: https://i.ohlasy.info/gY4poJjl.jpg
 category: zpravodajství
 tags: ohlasy
 ---
 
 *Vážené čtenářky a vážení čtenáři, v pátek večer se v prostorách Fakulty sociálních studií Masarykovy univerzity v Brně konala konference Lokální politika a lokální média, pořádaná u příležitosti vyhlášení výsledků XIII. regionální novinářské ceny Konrad-Adenauer-Stiftung 2015. Akce se zúčastnila také výprava členů naší redakce, která ze soutěže nevyšla naprázdno.*
 
-<img src="http://i.ohlasy.info/gY4poJj.jpg" alt="Marek Osouch a Žaneta Ondroušková" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/gY4poJj.jpg" alt="Marek Osouch a Žaneta Ondroušková" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Máme velkou radost, že Žaneta Ondroušková a Marek Osouch dosáhli na významná ocenění. Jako vítěze v kategorii tisk určila porota, kterou tvořili renomovaní novináři, Marka Osoucha a jeho text o boskovické solární elektrárně [Boskovice už rok nemají ze solární elektrárny ani korunu. Z 60 milionů bude nejspíš jen osm](/clanky/2015/04/solarni-elektrarna.html).
 

@@ -1,13 +1,13 @@
 ---
 title: "Ze zastupitelstva: bourání mlýna, hala a budoucnost nemocnice"
-cover-photo: http://i.ohlasy.info/V48obt6l.jpg
+cover-photo: https://i.ohlasy.info/V48obt6l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Šestnácté jednání boskovického zastupitelstva se protáhlo. Zastupitelé jednali čtyři hodiny, hlavními body byla debata o budoucnosti nemocnice a také bourání Dvořáčkova mlýna.*
 
-{% photo src="http://i.ohlasy.info/Sys0pjY.jpg" caption="Miloš Pachl" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/Sys0pjY.jpg" caption="Miloš Pachl" author="Tomáš Znamenáček" %}
 
 ### Dvořáčkův mlýn
 

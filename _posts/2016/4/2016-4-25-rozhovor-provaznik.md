@@ -1,6 +1,6 @@
 ---
 title: „Boskovicím chybí vize. A ta nespočívá v tom, že na tohle jsou peníze, tak to budeme dělat.“
-cover-photo: http://i.ohlasy.info/VD3KoZBl.jpg
+cover-photo: https://i.ohlasy.info/VD3KoZBl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: vzdělávání investice
@@ -8,7 +8,7 @@ tags: vzdělávání investice
 
 *Rozhovor s Ivo Provazníkem, profesorem působícím na brněnském VUT. Vede Ústav biomedicínského inženýrství na elektrotechnické fakultě, stál u řady zajímavých patentů, z nichž některé dosáhly světové úrovně. Špičkový vědec, ale také pedagog a manažer žije v Boskovicích. V posledních komunálních volbách kandidoval do zastupitelstva za TOP 09.*
 
-<img src="http://i.ohlasy.info/VD3KoZB.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/VD3KoZB.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Pane profesore, vy působíte na Vysokém učení technickém a na naší facebookové stránce jste [vyjádřil určitou nedůvěru](https://www.facebook.com/ohlasy/posts/986432598077522) k Centru polytechnického vzdělávání. Člověk by možná čekal, že je to spíš voda na váš mlýn. Z čeho ta nedůvěra pramení?**
 
@@ -48,7 +48,7 @@ To zase pravděpodobně vychází z toho, že řemeslníků ubývá a je jich m�
 
 Je tedy možné, že je to legitimní, protože řemeslníků je málo. A když se zase vrátím k záměru, který tady vzniká: povede k řešení této situace, bude tu více řemeslníků? Myslím si, že ne. Je to jen jedna vytržená součást z koncepčního řešení, které tady není a které by nemělo přijít z úrovně města, ale z úrovně ministerstva.
 
-<img src="http://i.ohlasy.info/WdnVyWA.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/WdnVyWA.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Skauti jsou zruční a nestojí to 35 milionů
 
@@ -80,7 +80,7 @@ Když už jsme u té infrastruktury a budování – chceme, aby město bylo ví
 
 Děláme to, na co se objeví peníze a na co se objeví prostor – v tomto případě vykopaná jáma. A jsou to náhodné střípky. A proč to děláme, tam není napsáno.
 
-<img src="http://i.ohlasy.info/NsRfNn9.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/NsRfNn9.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Boskovice nám učarovaly
 
@@ -110,7 +110,7 @@ Možná mi chybí ještě jedna věc, která není tak konkrétní: město málo
 
 Obdobně jsou tady poměrně velké firmy, je tady asi šest firem, které mají nad 250 zaměstnanců. A jak s nimi město spolupracuje? Dnes je u velkých organizací na vzestupu budování firemní kultury, možná by byli ochotni nějakým způsobem spolupracovat, opět teď nemluvím o penězích, ale o spoustě jiných věcí, které by šly dělat. A to mi tady chybí. Přijde mi, že město je hodně uzavřené, mělo by víc spolupracovat. Víc se otevřít.
 
-<img src="http://i.ohlasy.info/KSrlmoZ.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/KSrlmoZ.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Technologie a medicína
 
@@ -140,7 +140,7 @@ Je to tak. Můžete i u nás někam zajít a za čtyřicet tisíc si nechat pře
 
 Ano, tím se zabývám. Dnes musí být většina věcí multidisciplinární, pokud se má posunout někam dál. V tomto případě se musejí potkat dva velice odlišné světy: technologie a medicína. Velice často si ti lidé vůbec nerozumí a musí hledat společnou řeč, protože mají jiný jazyk. Je to ale naprosto nezbytné, bez technologií lékaři nedostanou tu správnou informaci, kterou potřebují.
 
-<img src="http://i.ohlasy.info/YSvcN9r.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/YSvcN9r.jpg" alt="Ivo Provazník" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Nekoncepčnost na všech úrovních
 

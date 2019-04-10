@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Radní o knihovně"
 perex: O tématu knihovny se na tiskových konferencích pravidelně bavíme se starostou Jaroslavem Dohnálkem a místostarostou Lukášem Holíkem. Nyní jsme se zeptali na postoj ke stavbě knihovny také druhého místostarosty a ostatních radních.
-cover-photo: http://i.ohlasy.info/xHgnxFIl.jpg
+cover-photo: https://i.ohlasy.info/xHgnxFIl.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *O tématu knihovny se na tiskových konferencích pravidelně bavíme se starostou Jaroslavem Dohnálkem (ODS) a místostarostou Lukášem Holíkem (ANO). Jejich názory tak pravidelně zprostředkováváme. Nyní jsme se zeptali na postoj ke stavbě knihovny také druhého místostarosty a ostatních radních. Z účasti se omluvil Karel Tlamka (ODS), kterého jsme zastihli esemeskou na dovolené, kde nebyl dostupný na e-mailu. Radní Jaroslav Oldřich (Boskováci) na otázky zaslané e-mailem neodpověděl, nereagoval na sms a nezvedal telefon.*
 
-{% photo src="http://i.ohlasy.info/xHgnxFI.jpg" caption="Aktuální vizualizace nové knihovny v budově ZZN" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/xHgnxFI.jpg" caption="Aktuální vizualizace nové knihovny v budově ZZN" author="Fránek Architects" %}
 
 1. Vidíte stavbu knihovny jako jednu z hlavních investičních priorit v Boskovicích?
 2. Podporujete stavbu knihovny v bývalém ZZN podle návrhu architekta Zdeňka Fránka?
@@ -18,7 +18,7 @@ tags: politika
 
 ---
 
-<img src="http://i.ohlasy.info/aYAmxfP.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/aYAmxfP.jpg" class="profile-picture">
 
 **Radek Mazáč (Sportovci)**
 
@@ -29,7 +29,7 @@ tags: politika
 
 ---
 
-<img src="http://i.ohlasy.info/0L63kfA.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/0L63kfA.jpg" class="profile-picture">
 
 **Petr Axman (ANO 2011)**
 
@@ -42,7 +42,7 @@ tags: politika
 
 ---
 
-<img src="http://i.ohlasy.info/pDe4bD7.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/pDe4bD7.jpg" class="profile-picture">
 
 **Vladimír Ochmanský (ODS)**
 
@@ -53,7 +53,7 @@ tags: politika
 
 ---
 
-<img src="http://i.ohlasy.info/gJVXjZE.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/gJVXjZE.jpg" class="profile-picture">
 
 **Dominik Božek (TOP 09)**
 
@@ -68,7 +68,7 @@ tags: politika
 
 ---
 
-<img src="http://i.ohlasy.info/yntNBxn.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/yntNBxn.jpg" class="profile-picture">
 
 **Miroslav Klíma (ODS)**
 

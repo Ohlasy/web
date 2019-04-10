@@ -1,14 +1,14 @@
 ---
 title: "Gymnazisté dokážou vzdělávání uchopit jako celoživotní proces, říká ředitelka boskovického gymnázia Alena Svanovská"
 category: rozhovory
-cover-photo: http://i.ohlasy.info/UA1oCeRl.jpg
+cover-photo: https://i.ohlasy.info/UA1oCeRl.jpg
 author: Marek Osouch
 tags: vzdělávání
 ---
 
 *Alena Svanovská loni na jaře vyhrála konkurz na ředitelku boskovického gymnázia. Od srpna se postu ujala, a má tak téměř celý školní rok v nové funkci za sebou. Na nezájem studentů o gymnázium si stěžovat rozhodně nemůže. Navíc plánuje nové specializované učebny pro fyziku nebo matematiku. Posílení přírodovědné větve oproti humanitní je jejím cílem už od začátku.*
 
-<img src="http://i.ohlasy.info/UA1oCeR.jpg" alt="Alena Svanovská" class="img-responsive">
+<img src="https://i.ohlasy.info/UA1oCeR.jpg" alt="Alena Svanovská" class="img-responsive">
 
 **Máte takřka za sebou první školní rok ve funkci. Jak se s postem ředitelky sžíváte a jak se vaše práce změnila oproti předchozím rokům? Nechybí vám učení?**
 
@@ -38,7 +38,7 @@ Myslím, že zájem o gymnázium stále trvá. Stále je vnímáno jako jakýsi 
 
 Průběh a celková organizace byly z našeho pohledu v naprostém pořádku. Za vedení školy jsme spokojeni. Nesetkali jsme se žádným zádrhelem. Na testech od Cermatu se mi třeba oproti Sciu líbí více otevřených otázek. Kdybych však měla říct, jestli Cermat, nebo Scio, tak my ty žáky nějakým testem vybrat zkrátka musíme. Musíme zvážit, kterou cestu zvolíme a který typ testování se nám bude více líbit. Rozhodně bych neupouštěla od testování v přijímacích zkouškách, i když samozřejmě do kritérií zařazujeme známky ze základní školy nebo účast v soutěžích.  
 
-<img src="http://i.ohlasy.info/t3ixUGy.jpg" alt="Alena Svanovská" class="img-responsive">
+<img src="https://i.ohlasy.info/t3ixUGy.jpg" alt="Alena Svanovská" class="img-responsive">
 
 **Nápad jednotných přijímaček se zrodil v hlavě ministra Marcela Chládka, který ovšem skončil ve funkci. Jak jeho nápad s jednotnými přijímačkami hodnotíte?**
 
@@ -76,7 +76,7 @@ Teď se zrovna díváme na priority nově nastupujících žáků do prvního ro
 
 Celkově jsou jazyky pro nás oříšek. Týká se to i angličtiny, kdy žáci přichází s různou úrovní a učitelé s nimi musí nějak pracovat a vyrovnat se s tím. Neplatí to jen pro jazyky, ale třeba i matematiku a chemii, kde je různá úroveň.
 
-<img src="http://i.ohlasy.info/jbGVHkY.jpg" alt="Alena Svanovská" class="img-responsive">
+<img src="https://i.ohlasy.info/jbGVHkY.jpg" alt="Alena Svanovská" class="img-responsive">
 
 **Jak úspěšní jsou vaši studenti při přijímacích zkouškách na vysoké školy? A máte přehled i o jejich dalším uplatnění?**
 

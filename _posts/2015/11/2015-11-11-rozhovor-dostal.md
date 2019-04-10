@@ -2,13 +2,13 @@
 title: „Muzea začínají hrát významnou společenskou roli,“ říká Ondřej Dostál, nový předseda Asociace muzeí a galerií ČR
 author: Tomáš Trumpeš
 category: rozhovory
-cover-photo: http://i.ohlasy.info/sPdnOuYl.jpg
+cover-photo: https://i.ohlasy.info/sPdnOuYl.jpg
 tags: historie
 ---
 
 *Ondřej Dostál vystudoval geologii se zaměřením na paleontologii, nejprve vedl Muzeum Boskovicka, poté se stal šéfem Mendelova muzea Masarykovy univerzity v Brně. Před třemi lety se stal druhým místopředsedou Asociace muzeí a galerií České republiky, minulý týden byl zvolen do čela této instituce, což je pouze čestná, leč významná pozice.*
 
-<img src="http://i.ohlasy.info/sPdnOuY.jpg" alt="Ondřej Dostál" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/sPdnOuY.jpg" alt="Ondřej Dostál" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Byl jsi zvolen předsedou Asociace muzeí a galerií ČR. Můžeš instituci představit?**
 
@@ -42,7 +42,7 @@ Kromě toho jsme také hlavním pořadatelem Muzejních nocí a udělujeme spole
 
 Klíčová věc pro nás je, že se má novelizovat zákon o ochraně sbírek muzejní povahy. Zde bude potřeba napnout asi nejvíc sil, abychom ustáli legislativní normu, která ovlivní fungování všech muzeí. A chystá se registr muzeí a muzejní standardy. To jsou všechno velmi zásadní dokumenty, takže se musíme soustředit na to, aby v důsledku nediskriminovaly malá, ale ani velká muzea. To je náročný balanc. Muzea mají různé zřizovatele, různou velikost, různé personální a finanční podmínky, ale základ je vždycky ten předmět, který mají ve sbírkách. A my musíme vybalancovat, aby problém s péčí o sbírky neměla žádná muzea. Jestli bude více či méně peněz třeba na propagaci, moc neovlivníme, ale musíme se postarat o to, aby byl zachován základ muzeí daný zákonem.
 
-<img src="http://i.ohlasy.info/sKkBigj.jpg" alt="Ondřej Dostál" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/sKkBigj.jpg" alt="Ondřej Dostál" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Evropské dotace pomohly
 
@@ -62,7 +62,7 @@ Naše výhoda je, že máme velice dobrý teoretický muzeologický základ. Zby
 
 Myslím, že velmi dobře jsme na tom ve výstavnictví. Máme cit pro objekt a pro to, co v něm vystavujeme. Dokážeme pochopit, kdy se hodí využít technologie, a kdy ne. Navštívil jsem věhlasná muzea, kde jsem se ztratil, protože iPad, na kterém byly veškeré informace, přestal fungovat. Najednou stojíš v muzeu, kde je spousta exponátů, a ty nic nevíš. U nás vidím, že se s technikou pracuje obezřetně. Teď jsem byl třeba v Plasích, kde nová expozice výborně reflektuje prostor starobylého kláštera a bývalého pivovaru. Myslím, že tohle máme v sobě, vnímáme prostor muzea a jeho okolí a umíme to předávat dál.
 
-<img src="http://i.ohlasy.info/aHiG8Jz.jpg" alt="Ondřej Dostál" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/aHiG8Jz.jpg" alt="Ondřej Dostál" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Poskytujeme veřejnou službu
 

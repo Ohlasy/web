@@ -1,6 +1,6 @@
 ---
 title: "Špinavá poezie. Kamila Kamila přivedla do Boskovic slam poetry"
-cover-photo: http://i.ohlasy.info/A3cariEl.jpg
+cover-photo: https://i.ohlasy.info/A3cariEl.jpg
 perex: V klubu Sklepy se odehrála první boskovická exhibice slam poetry. Iniciátorkou večera byla studentka boskovického gymnázia, hudebnice a textařka skupiny Veka, Kamila Hrnčířová alias Kamila Kamila.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *První dubnový pátek se v klubu Sklepy odehrála první boskovická exhibice slam poetry. Klub zaplněný mladými lidmi, kteří přišli kvůli poezii – to je bez ohledu na úroveň některých vystupujících věc, nad kterou by mohly zpozornět a zaplesat i učitelky českého jazyka a literatury. Ostatně některé z nich se klubového večera s autorskou deklamovanou poezií účastnily.*
 
-{% photo src="http://i.ohlasy.info/A3cariE.jpg" caption="Kamila Kamila" author="Miroslav Hrnčíř" %}
+{% photo src="https://i.ohlasy.info/A3cariE.jpg" caption="Kamila Kamila" author="Miroslav Hrnčíř" %}
 
 Iniciátorkou večera byla studentka boskovického gymnázia, hudebnice a textařka skupiny Veka – no a poměrně čerstvě také slamerka Kamila Hrnčířová alias Kamila Kamila. Ta se stala po právu také vítězkou boskovického klání, neboť slam probíhá soutěžní formou, čímž se tento jinak obtížně definovatelný fenomén přibližuje nejstarší poetické tradici, kdy starověcí básníci soutěžili v deklamaci svých veršů.
 
@@ -30,7 +30,7 @@ V České republice funguje i Mistrovství ve slam poetry. Do toho se může př
 
 Spojitost s literaturou a s poezií někteří slameři odmítají, jiní se cítí jako určitá součást literárního proudu. Někteří nechtějí být označování za básníky, jiní své slamové texty vydávají jako básnické sbírky. Kamila psala nejprve básně a písňové texty a zase tak velký posun při přípravě textu na slamové vystoupení nevnímá. Básně jsou obvykle intimnější a osobnější; pokud v tématu cítí možnost širšího sdělení, začne přemýšlet o tom, jestli by z ní nemohla být píseň nebo slam. Slamové vystoupení také potřebuje spíše příběh. „Ale zas takový rozdíl to není. V okamžiku tvorby je důležité, že něco přijde – jestli z toho bude báseň, píseň nebo slam, se uvidí potom.“ A právě to, co se děje potom, je pro Kamilu na slamu to důležité – totiž možnost oslovit přímo čtenáře, či spíše posluchače a diváky. „Nechci psát jenom do šuplíku a živá forma vystoupení při slamu je mnohem lepší, než když text sdílím jen na svůj blog.“ Kamilu baví i soutěžní rozměr akce, ne snad kvůli soutěživosti, ale hlavně kvůli bezprostřední zpětné vazbě a možnosti konfrontovat svoje názory na úroveň ostatních slamerů i tu vlastní s názorem publika. „Obvykle se to rozchází,“ dodává se smíchem. A přiznává, že porota často hodnotí hlavně vtipnost a osobitost výstupů, už ne tolik to, jestli nesou nějaký hlubší obsah.
 
-{% photo src="http://i.ohlasy.info/d86iyfh.jpg" caption="Kamila Kamila" author="Miroslav Hrnčíř" %}
+{% photo src="https://i.ohlasy.info/d86iyfh.jpg" caption="Kamila Kamila" author="Miroslav Hrnčíř" %}
 
 „Já se o nějaké větší sdělení zoufale snažím, ale zrovna teď mám pocit, že mi to vůbec nejde. Slam taky často odráží bezprostřední situaci, ve které se nacházíš, je to takový rychlý text,“ popisuje Kamila Kamila. Některé slamy proto vznikají na poslední chvíli, čímž získávají na bezprostřednosti, ale vystupující se tím zase okrádá o možnost dobře si své vystoupení připravit a nacvičit – v podstatě jako divadelní roli. 
 

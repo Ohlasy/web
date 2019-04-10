@@ -1,12 +1,12 @@
 ---
 title: Ve městě žijí stovky psů. Potřebují hřiště?
-cover-photo: http://i.ohlasy.info/eJsTMD0l.jpg
+cover-photo: https://i.ohlasy.info/eJsTMD0l.jpg
 author: Anna Dudková
 ---
 
 *V Boskovicích se v poslední době rozběhla debata o tom, jestli by bylo dobré vybudovat speciální oplocené hřiště pro psy. Těch ve městě nežije vůbec málo, počítají se na stovky a vedle radostí je s nimi spojeno také několik strastí, jako například neschopnost páníčků po svých psích kamarádech při venčení uklízet. Úklid částečně hradí i město, které na poplatcích za psy vybere ročně několik set tisíc korun. Zvyky pejskařů se v průběhu let mění, pes je čím dál víc pro lidi kamarád, a právě proto dnes vznikají i psí hřiště.*
 
-<img src="http://i.ohlasy.info/eJsTMD0.jpg" alt="cedule Uklízejte po svém pejskovi" class="img-responsive">
+<img src="https://i.ohlasy.info/eJsTMD0.jpg" alt="cedule Uklízejte po svém pejskovi" class="img-responsive">
 
 Pes doprovází člověka už snad 14 tisíc let, tedy od doby kamenné, a podle výzkumů by měl být prvním domestikovaným zvířetem vůbec. Rozšířil se na všechny kontinenty a jeho obliba je zvláště v České republice stále velmi vysoká. Jen v Boskovicích je evidováno více než tisíc poplatníků za psy. Poplatkový systém v Boskovicích je velmi složitý. Nejnižší sazba je sto korun. Tu zaplatí lidé žijící v některé z přidružených obcí v rodinném domě a pobírající důchod. Naopak nejvíc majitel za psa zaplatí, pokud žije v Boskovicích v bytě – pak jej pes stojí tisíc korun ročně. Každý další pes v domácnosti už ale stojí tisíce dva. Na těchto poplatcích Boskovice v loňském roce vybraly 337 400 korun. Tyto prostředky jsou jedním z mnoha příjmů města a nejsou účelově vázány.
 

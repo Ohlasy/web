@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: U zabořenýho mlénka"
 category: seriály
-cover-photo: http://i.ohlasy.info/UMvzLEyl.jpg
+cover-photo: https://i.ohlasy.info/UMvzLEyl.jpg
 serial: krajiny
 author: Hynek Skořepa
 tags: krajina
@@ -10,7 +10,7 @@ featured: true
 
 *K dlouhým nocím kolem zimního slunovratu se hodí nějaké tajemné místo. V každém kraji taková místa jsou, i na Boskovicku. Třeba tam, kde se říká „U zabořenýho mlénka“. Ten les je temný i za letních dnů a skrývá malý rybníček. Pokud to v okolí neznáte, nenajdete ho snadno. Půjdete-li však po „staré valchovské silnici“ z Boskovic k Valchovu, dojdete asi tak v polovině kopce „Valchováku“ na rozcestí. Vpravo vede cesta k hájovně na Ledkové Huti, ale o té budu psát až někdy jindy. Když se však vydáte vlevo směrem k Hrádkovu, budete po chvíli procházet kolem mokřiny s několika olšemi. Cesta zde tvoří jakousi hráz a ta mokřina bývá obvykle plná vody. Ne nadarmo se těmto místům říká U třech kanálů. Z mokřiny vytéká téměř neznatelný potůček tekoucí dolů k Boskovicím. Budete-li ho sledovat a proderete-li se houštím, narazíte po několika stovkách metrů na zmíněný rybníček.*
 
-<img src="http://i.ohlasy.info/rAUQwmA.jpg" alt="rybníček v lesích" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="https://i.ohlasy.info/rAUQwmA.jpg" alt="rybníček v lesích" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Kdysi zde prý stával mlýn, i když se tomu dnes chce jen těžko věřit. Ale kdo ví, vodní poměry v krajině se mohly výrazně změnit. Miroslava Minxová v knížce Ve starých Boskovicích pod loučí v poznámce u pověsti Mstivý pán dokonce uvádí, že ve staré gruntovní knize města Boskovic je zápis z roku 1500, kde se mluví o vratíkovském mlýně. Ale nevím, zápis jsem neviděl, a pokud skutečně existuje, kdo ví, který mlýn měl pisatel na mysli.
 
@@ -18,7 +18,7 @@ Na tom ovšem konec konců tolik nezáleží. Důležitější je tajemná atmos
 
 To raději zajděte do valchovských lesů k Zabořenýmu mlénku. K tomu místu se také váže zajímavý příběh. Tenkrát prý ve mlýně pod Vratíkovem hospodařil starý bělovlasý mlynář. Ženu už neměl. Žil ve mlýně se svou dospívající dcerou. Děvče bylo jako obrázek. Pracovitá a veselá. Když poklízela v mlýnici či zametala před prahem, prozpěvovala si písničku za písničkou. Když se na ni mlynář zadíval, vzpomněl na nebožku – tolik jí byla podobná.
 
-<img src="http://i.ohlasy.info/hD7bMOq.jpg" alt="rybníček v lesích" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="https://i.ohlasy.info/hD7bMOq.jpg" alt="rybníček v lesích" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Tak tady žili na samotě, lidé chodili k nim. Mleči po žních přiváželi do mlýna obilí a odváželi si pytle mouky. Ve mlýně nic nechybělo. Pokud bylo přece jen něčeho třeba, zašla mlynářova dcerka do Boskovic, aby tam nakoupila. V neděli pak chodívala do kostela. Tam se potkala s učitelským mládencem, který hrával na varhany. Mladí lidé v sobě brzy našli zalíbení, a jelikož mlynář nic nenamítal, začali pomaloučku myslet na svatbu.
 
@@ -32,7 +32,7 @@ Walter z Dietrichsteina už nepřestal na krásnou dívku myslet. Vyptával se, 
 
 Uražený Dietrichstein se pomstil nejen učitelskému, ale také mlynáři a jeho dceři. Nechal dole na kraji Boskovic postavit nový panský mlýn a zakázal poddaným vozit mletí do mlýna v lesích. Od té doby začalo být ve mlýně bídné živobytí. Mlít nebylo co. Jednoho dne nalezli lidé mlýn opuštěný. Jen nade dveřmi bylo křídou napsáno: „Jdem po vodě.“ Opuštěný mlýn pak chátral, až zanikl. Nakonec po něm nezbylo ani stopy. Zato panský mlýn dole v Boskovicích dodnes stojí. Prý je to právě ten mlýn, který nechal zhrzený Dietrichstein postavit, aby se pomstil. U odbočky silnice směrem na Vratíkov a Okrouhlou ho nemůžete minout. I tento mlýn je však dnes už v ruinách.
 
-<img src="http://i.ohlasy.info/UMvzLEy.jpg" alt="zbytky panského mlýna" class="img-responsive img-popup" data-author="Hynek Skořepa">
+<img src="https://i.ohlasy.info/UMvzLEy.jpg" alt="zbytky panského mlýna" class="img-responsive img-popup" data-author="Hynek Skořepa">
 
 Poté, co kníže Dietrichstein zdědil boskovické panství (Kateřina ze Zástřizl zemřela asi po třech letech manželství stářím roku 1691), znovu se oženil s krásnou Karolínou Maxmiliánou, hraběnkou z Pruskova, s níž vyženil nejen slezský Pruskov (Proskau, dnes polský Prószków jižně od Opolí) s manufakturou na výrobu fajánse, ale také panství Nové Město na Moravě. Zastával pak různé funkce v zemské správě markrabství moravského a také bojoval ve vojnách s Turky pod slavným vojevůdcem Evženem Savojským. Byl prý šetrný až lakotný, poddaní různých jeho panství s ním proto vedli dlouhé spory o nadměrné roboty, které na nich vyžadoval.
 

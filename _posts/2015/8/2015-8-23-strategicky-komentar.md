@@ -1,14 +1,14 @@
 ---
 title: Jaké nedostatky a hrozby vám chybí ve strategickém plánu?
 category: názory a komentáře
-cover-photo: http://i.ohlasy.info/VRYrUd1.jpg
+cover-photo: https://i.ohlasy.info/VRYrUd1.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---
 
 *[První verze Strategického plánu](/clanky/2015/08/strategicky-plan.html), jak ji představila boskovická radnice, odráží jeden základní pozitivní efekt demokratického střídání vlád: nové vedení města má větší odvahu, nebo alespoň ochotu, pojmenovávat nedostatky, které město trápí. Je to logické, po 20 letech u moci se těžko upozorňuje na to, co ve městě chybí a co se zanedbalo, když to potom logicky padá takříkajíc na vaši hlavu.*
 
-<img src="http://i.ohlasy.info/VRYrUd1.jpg" alt="Kaufland na okraji Boskovic" class="img-responsive">
+<img src="https://i.ohlasy.info/VRYrUd1.jpg" alt="Kaufland na okraji Boskovic" class="img-responsive">
 
 Asi málokdo z nás si přečte kompletní stojedenadevadesátistránkový dokument, kterým radnice tvorbu strategického plánu otevřela. Podrobněji si nejspíš každý projdeme pouze oblasti, které nás zajímají. Pevně doufám, že zájemci o jiné kapitoly mají ze čtení uznalejší pocit, než jsem měl já při četbě oddílu věnovaného kultuře. Ten ze všeho nejvíce působí dojmem, že někdo víceméně bezkoncepčně poskládal metodou Ctrl+C a Ctrl+V několik zcela nesouvisejících materiálů, z nichž byl ve skutečnosti použitelný pouze ten pocházející z muzea.
 

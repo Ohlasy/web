@@ -1,13 +1,13 @@
 ---
 title: Děti jako alibi
-cover-photo: http://i.ohlasy.info/Ov3OFiFl.jpg
+cover-photo: https://i.ohlasy.info/Ov3OFiFl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
 *Městské investice politici často obhajují zájmem dětí. Jde nám skutečně v první řadě o děti, nebo nám děti slouží spíš jako pohodlný rukojmí?*
 
-{% photo src="http://i.ohlasy.info/Ov3OFiF.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/Ov3OFiF.jpg" author="Tomáš Znamenáček" %}
 
 „Hala tady musí být. Když se dnes podíváte okolo bytovek, nikde nejsou žádná děcka, všichni sedí u počítače,“ říká v [rozhovoru o sportovní hale](http://www.ohlasy.info/clanky/2017/11/rozhovor-malach.html) místostarosta Petr Malach. Není sám, kdo takto argumentuje – podobně děti posloužily jako pádný argument při prosazování stavby centra polytechnické výchovy na Slovákově ulici nebo sportparku v Doubravách. Skutečně ale děti k tomu, aby vstaly od počítačů a zlepšily své technické dovednosti, nutně potřebují budovy za desítky miliónů?
 
@@ -17,4 +17,4 @@ Sportpark v Doubravách jistě nějaké mladé sportovce natáhne, ovšem jeho r
 
 Podobným příkladem může být i dokončovaná přístavba mateřské školy na Bílkově ulici. Veřejné rozpočty má přijít na více než 25 miliónů a kapacitu mateřské školy rozšíří asi o 50 míst. Jistě to jsou místa velmi vítaná – ale pokud chceme rozšířit kapacitu mateřské školy a vytáhnout děti od počítačů do přírody, jak stále opakujeme, proč město aspoň administrativně, s prakticky nulovými náklady nepomůže vzniku [tolik poptávané lesní školky](http://www.ohlasy.info/clanky/2016/02/lesni-skolky.html)? (Pokud to jinde zvládnou [neziskovky a dobrovolníci](http://www.ohlasy.info/clanky/2017/06/rozhovor-javorska.html), těžko může město se svým rozpočtem a úřednickým aparátem i nadále tvrdit, že *je to složité*.)
 
-Abychom si rozuměli: cílem tohoto textu není kritizovat zmíněné projekty, ani v nejmenším. I velké a drahé investice mají svůj smysl. Jen se prosím netvařme, že je děláme jen pro děti. Kdyby to tak doopravdy bylo, mohli bychom investovat mnohem účelněji – pro začátek například přestat dětem [zakazovat samostatný vstup na městská hřiště](http://i.ohlasy.info/QJMeKp2.jpg).
+Abychom si rozuměli: cílem tohoto textu není kritizovat zmíněné projekty, ani v nejmenším. I velké a drahé investice mají svůj smysl. Jen se prosím netvařme, že je děláme jen pro děti. Kdyby to tak doopravdy bylo, mohli bychom investovat mnohem účelněji – pro začátek například přestat dětem [zakazovat samostatný vstup na městská hřiště](https://i.ohlasy.info/QJMeKp2.jpg).

@@ -1,6 +1,6 @@
 ---
 title: Jak to vidí opozice
-cover-photo: http://i.ohlasy.info/PH68rRwl.jpg
+cover-photo: https://i.ohlasy.info/PH68rRwl.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci ODS, TOP 09 a sdružení Sportovci pro Boskovice.*
 
-{% photo src="http://i.ohlasy.info/PH68rRw.jpg" caption="Práce na Dukelské ulici" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/PH68rRw.jpg" caption="Práce na Dukelské ulici" author="Marek Osouch" %}
 
 **Podporujete nákup nemovitostí v Červené zahradě, jak je nyní dojednáván – tedy [pozemek po bývalém lihovaru i pozemek s hotelem Velen](http://www.ohlasy.info/clanky/2018/03/velen-prodej.html) za cca 30 milionů korun?**
 

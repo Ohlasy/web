@@ -1,6 +1,6 @@
 ---
 title: „Dítě nikdy nezlobí schválně, ale má nějakou potřebu.“
-cover-photo: http://i.ohlasy.info/zvX30TNl.jpg
+cover-photo: https://i.ohlasy.info/zvX30TNl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: vzdělávání
@@ -8,7 +8,7 @@ tags: vzdělávání
 
 *Rozhovor s Martinou Lukešovou a Katkou Kejíkovou o soukromé firemní mateřské školce. [Školička U tří oveček](http://www.wiboskovice.estranky.cz/) se v prostorách na Havlíčkově ulici otevřela nedávno, ale navazuje na dva roky trvající aktivity malé boskovické školky inspirované především waldorfskou pedagogikou. S Martinou a Katkou jsme si povídali o práci s dětmi, ale také o úskalích provozování soukromé mateřské školy.*
 
-<img src="http://i.ohlasy.info/zvX30TN.jpg" alt="Katka Kejíková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/zvX30TN.jpg" alt="Katka Kejíková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Co nejzajímavějšího jste dnes s dětmi zažily?**
 
@@ -32,7 +32,7 @@ MARTINA: Ano. Nejsme waldorfská školka, ale v tomhle se právě waldorfskými 
 
 KATKA: V pátek je svátek. To je to takový volnější den, kdy je čas na to, abychom třeba oslavili, že měl někdo narozeniny, nebo si děti donesou svou oblíbenou hračku, to je trochu jako v klasické školce – hračkový den. A také jsme co nejvíc venku s odrážedly.
 
-<img src="http://i.ohlasy.info/aHUEqyX.jpg" alt="Martina Lukešová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/aHUEqyX.jpg" alt="Martina Lukešová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Jídlo nikdo nevyčaruje
 
@@ -86,7 +86,7 @@ MARTINA: Zatím se nám ale nestalo, že by někdo dělal problémy. Všichni p�
 
 KATKA: Ačkoliv samozřejmě splňujeme všechny hygienické podmínky, které splňovat musíme, což jsme při kolaudaci museli prokázat.
 
-<img src="http://i.ohlasy.info/PqXeCat.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/PqXeCat.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Od září máme plno
 
@@ -138,7 +138,7 @@ MARTINA: Program zaměstnanost trvá do roku 2020, takže teoreticky bychom do t
 
 KATKA: Podle naší zkušenosti to bez dotace ale půjde těžko. Kdybychom tuto možnost neměli, asi bychom museli školku zavřít. Vybírali jsme dva tisíce a už to bylo hodně, pak jsme to museli zvýšit na tři tisíce, a to už bylo pro rodiče opravdu moc. A to jsme měli zaměstnance na dohody, a nájem a inkaso sponzorovala firma Bambas Elektroodpady. Normativ je čtyři a půl tisíce, soukromé školky vybírají i pět šest tisíc. Na tohle jsou Boskovice příliš malé.
 
-<img src="http://i.ohlasy.info/butl68G.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/butl68G.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Měříme a zapisujeme teplotu jídla
 
@@ -156,7 +156,7 @@ KATKA: Takže musíš mít mezistůl, kam dáváš všechno nádobí. Špinavou 
 
 KATKA: Při výdeji jídla se měří teplota a ta se zapisuje, stejně jako čas příchodu dětí a čas výdeje jídla. Tomu se musí někdo věnovat, stejně jako ráno řešit s dětmi čipování. Když se tohle všechno nasčítá, tak jedna učitelka vlastně nedělá nic jiného. Snažíme se to ale pořád vylaďovat, aby to fungovalo co nejlépe. Máme pravidelná kolegia, kde všechno společně rozebíráme, od organizačních věcí až po ty výchovné.
 
-<img src="http://i.ohlasy.info/kd50P6L.jpg" alt="Katka Kejíková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/kd50P6L.jpg" alt="Katka Kejíková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Na logiku mají čas až ve škole
 

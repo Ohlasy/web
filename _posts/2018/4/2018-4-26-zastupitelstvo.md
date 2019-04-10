@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Nafukovací provizorium a stavba sportovní haly"
-cover-photo: http://i.ohlasy.info/WKDYMfOl.jpg
+cover-photo: https://i.ohlasy.info/WKDYMfOl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Takřka čtyři hodiny jednali v úterý boskovičtí zastupitelé na své 20. schůzi. Jednání přineslo především vyostřenou debatu mezi koalicí a opozicí. Předmětem sporů byla jako obvykle hlavně sportovní hala.*
 
-{% photo src="http://i.ohlasy.info/WKDYMfO.jpg" caption="Hřiště za ZŠ Sušilova" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/WKDYMfO.jpg" caption="Hřiště za ZŠ Sušilova" author="Tomáš Znamenáček" %}
 
 Debatu o sportovní hale předznamenaly už dotazy a připomínky občanů za začátku jednání zastupitelstva. Podnikatel Luděk Řehoř, majitel jízdárny a panského dvora, se zeptal, jestli bude jako soused přizván do procesu povolování stavby nafukovací sportovní haly na hřišti u základní školy na Sušilově ulici. „Nafukovací hala je definována jako výrobek plnící funkci stavby a podléhá režimu umístění. V rámci toho jsou jako v každém jiném řízení definování účastníci. Pokud stavba bude umístěna na parcele, která sousedí s objektem panského dvora, bude jeho vlastník účastníkem řízení,“ vysvětlil vedoucí stavebního odboru Tomáš Měkota.
 
@@ -34,7 +34,7 @@ K nejzajímavější změně došlo u pozemku po lihovaru v Červené zahradě, 
 
 Všemi záměry se ovšem ještě bude zabývat státní správa, pak teprve budou předloženy zastupitelstvu k finálnímu schválení.
 
-{% photo src="http://i.ohlasy.info/ddgLr1J.jpg" caption="Budova O2 na ulici Kapitána Jaroše" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/ddgLr1J.jpg" caption="Budova O2 na ulici Kapitána Jaroše" author="Tomáš Znamenáček" %}
 
 ### Prodej budovy O2
 

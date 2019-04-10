@@ -1,7 +1,7 @@
 ---
 title: Jak kultura ostrouhala
 author: Tomáš Trumpeš
-cover-photo: http://i.ohlasy.info/8g3892gl.jpg
+cover-photo: https://i.ohlasy.info/8g3892gl.jpg
 category: názory a komentáře
 tags: kultura investice
 ---
@@ -16,11 +16,11 @@ A nic na tom nemění ani navýšení rozpočtu KZMB o pět procent, tedy navrá
 
 Smutný stav investic do kultury dokládá i následující srovnání s penězi, které do kultury vkládají jiné srovnatelně velké obce v ČR:
 
-<img src="http://i.ohlasy.info/IUIqORA.png" alt="srovnání investic do kultury, Boskovice versus průměr ČR" class="img-responsive img-framed img-popup" data-author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz">
+<img src="https://i.ohlasy.info/IUIqORA.png" alt="srovnání investic do kultury, Boskovice versus průměr ČR" class="img-responsive img-framed img-popup" data-author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz">
 
 Jak vidíme, poslední podstatnou investicí v tomto směru byla rekonstrukce zámeckého skleníku v roce 2002; od té doby Boskovice investují do kultury spíše podprůměrně. Částka navržená pro kulturu v roce 2016 je v absolutních číslech nejnižší za posledních patnáct let (viz též [zdrojová data grafů](https://goo.gl/8W2mLY)):
 
-<img src="http://i.ohlasy.info/9BwP8Ou.png" alt="vývoj boskovických investic do kultury od roku 2000" class="img-responsive img-framed img-popup" data-author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz">
+<img src="https://i.ohlasy.info/9BwP8Ou.png" alt="vývoj boskovických investic do kultury od roku 2000" class="img-responsive img-framed img-popup" data-author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz">
 
 Prakticky nikoho to však nezajímá, stojatou kalnou vodou mlčení jen občas proskočí rybka útržkovitého vyjádření, načež se hladina opět umrtví. K [odvážnějšímu výstupu](https://youtu.be/GTe5NLaCOiE?t=5h47m45s) se odhodlal na posledním zastupitelstvu ředitel kulturních zařízení Oldřich Kovář, za což mu náleží díl uznání. Odpovědi se mu dostalo zcela bizarní – prý to, že o tom on nic neví, ještě neznamená, že se ve věci knihovny na radnici nic neděje. No tak pokud radnice připravuje posuny v řešení dlouhodobě hrůzné situace knihovny, aniž by do toho automaticky zapojila ředitele KZMB a vedoucí knihovny, jsme na tom ještě hůř, než jsem si myslel.
 

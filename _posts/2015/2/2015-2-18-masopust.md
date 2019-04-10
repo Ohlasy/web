@@ -1,13 +1,13 @@
 ---
 title: Začíná doba půstu. Maškarní průvod prošel také Valchovem
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/1OUsFQTl.jpg
+cover-photo: https://i.ohlasy.info/1OUsFQTl.jpg
 author: Marek Osouch
 ---
 
 *Rej masek mohl každý spatřit uplynulou neděli ve Valchově. A nejen tam. Průvodem vyvrcholily masopustní oslavy a nyní začíná čtyřicet dnů dlouhá postní doba do Velikonoc. Člověk se má místo veselí soustředit na svůj duchovní růst a připravovat se na největší křesťanské svátky v roce – Velikonoce. V dnešní době to už sice moc neplatí, průvody na mnoha vesnicích jsou ale stále.*
 
-<img src="http://i.ohlasy.info/1OUsFQT.jpg" class="img-responsive" alt="valchovské maškary">
+<img src="https://i.ohlasy.info/1OUsFQT.jpg" class="img-responsive" alt="valchovské maškary">
 
 „Kde máte masky?“ ozve se hlas na právě přicházející. Valchovská klubovna se hemží nejrůznějšími mumiemi, kominíky nebo piráty. Jsou vostatke, fašank, či – jak zní nejznámější název této tradice – masopust.
 

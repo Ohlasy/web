@@ -1,7 +1,7 @@
 ---
 title: Kdo chce reprezentovat region ve sněmovně?
 perex: Kandidátní listiny do sněmovních voleb jsou odevzdány. Představujeme nejvýše postavené regionální politiky z deseti stran, které mají potenciál získat křesla ve sněmovně.
-cover-photo: http://i.ohlasy.info/MTNsVzOl.jpg
+cover-photo: https://i.ohlasy.info/MTNsVzOl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika
@@ -9,11 +9,11 @@ tags: politika
 
 *Kandidátní listiny do sněmovních voleb jsou odevzdány. Je tudíž jasné, na jaká místa se dostali kandidáti z okresu Blansko. Rozhodli jsme se, že u deseti stran, které mají potenciál získat křesla ve sněmovně, nejvýše postavené politiky z okresu stručně představíme.*
 
-{% photo src="http://i.ohlasy.info/MTNsVzO.jpg" caption="Budova poslanecké sněmovny ČR" author="Jan Polák, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/MTNsVzO.jpg" caption="Budova poslanecké sněmovny ČR" author="Jan Polák, Wikimedia Commons" %}
 
 ---
 
-<img src="http://i.ohlasy.info/XKQ3TT7.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/XKQ3TT7.jpg" class="profile-picture"/>
 
 **Dagmar Hamalová**
 
@@ -29,7 +29,7 @@ Zkušenosti s politikou: Dagmar Hamalová je od začátku roku 2017 místostaros
 
 ---
 
-<img src="http://i.ohlasy.info/9kXZqR3.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/9kXZqR3.jpg" class="profile-picture"/>
 
 **Emil Pernica**
 
@@ -44,7 +44,7 @@ Zkušenosti s politikou: Sedmadvacetiletý Emil Pernica působí od roku 2014 v 
 
 ---
 
-<img src="http://i.ohlasy.info/bI54C6A.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/bI54C6A.jpg" class="profile-picture"/>
 
 **František Novotný**
 
@@ -60,7 +60,7 @@ Zkušenosti s politikou: František Novotný je už sedm let starostou v obci K�
 
 ---
 
-<img src="http://i.ohlasy.info/WArchm2.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/WArchm2.jpg" class="profile-picture"/>
 
 **Hana Nedomová**
 
@@ -76,7 +76,7 @@ Zkušenosti s politikou: Hana Nedomová je od roku 2014 starostkou Boskovic, př
 
 ---
 
-<img src="http://i.ohlasy.info/m1dnqsr.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/m1dnqsr.jpg" class="profile-picture"/>
 
 **Jan Hrnčíř**
 
@@ -90,7 +90,7 @@ Zkušenosti s politikou: Jan Hrnčíř je od podzimu 2016 zastupitelem Jihomorav
 
 ---
 
-<img src="http://i.ohlasy.info/rHy5eWT.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/rHy5eWT.jpg" class="profile-picture"/>
 
 **Lenka Dražilová**
 
@@ -106,7 +106,7 @@ Zkušenosti s politikou: Lenka Dražilová, ředitelka domova pro seniory v Blan
 
 ---
 
-<img src="http://i.ohlasy.info/S1DveAR.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/S1DveAR.jpg" class="profile-picture"/>
 
 **Libor Hoppe**
 
@@ -122,7 +122,7 @@ Zkušenosti s politikou: Libor Hoppe z Lipůvky zatím v žádných volbách nek
 
 ---
 
-<img src="http://i.ohlasy.info/HcJURIt.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/HcJURIt.jpg" class="profile-picture"/>
 
 **Michal Staněk**
 
@@ -138,7 +138,7 @@ Zkušenosti s politikou: Michal Staněk z Boskovic kandidoval v různých volbá
 
 ---
 
-<img src="http://i.ohlasy.info/jtwyRiQ.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/jtwyRiQ.jpg" class="profile-picture"/>
 
 **Michal Sýkora**
 
@@ -154,7 +154,7 @@ Zkušenosti s politikou: Michal Sýkora působí v Šebrově-Kateřině od roku 
 
 ---
 
-<img src="http://i.ohlasy.info/2uJl9eE.jpg" class="profile-picture"/>
+<img src="https://i.ohlasy.info/2uJl9eE.jpg" class="profile-picture"/>
 
 **Petr Novotný**
 

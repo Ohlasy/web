@@ -2,14 +2,14 @@
 title: „Pro první republiku byla nesmírně důležitá občanská angažovanost.“
 perex: Rozhovor s Petrem Vítámvásem, historikem Muzea regionu Boskovicka, o 100. výročí republiky a vydání knihy Boskovice v pohledech do minulosti.
 date: 2018-10-05 11:00:00
-cover-photo: http://i.ohlasy.info/sEMrgpdl.jpg
+cover-photo: https://i.ohlasy.info/sEMrgpdl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor s Petrem Vítámvásem, historikem Muzea regionu Boskovicka. Jako hlavní kurátor připravil výstavu ke 100. výročí vzniku Československa a letos byl rovněž hlavním autorem knihy Boskovice v pohledech do minulosti. Povídali jsme si o výročí a o výstavě, která potrvá v muzeu do 25. listopadu, ale i o dalších aspektech jeho práce historika.*
 
-{% photo src="http://i.ohlasy.info/sEMrgpd.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/sEMrgpd.jpg" author="Tomáš Znamenáček" %}
 
 **Letos slavíme 100 let od založení Československé republiky. Co pro tebe jako historika toto výročí znamená? Změnilo se území, změnilo se obyvatelstvo – co to vlastně slavíme?**
 
@@ -65,7 +65,7 @@ K tomu došlo jen u ústředních orgánů na místodržitelství v Praze a v Br
 
 Po této stránce byla zachována naprostá kontinuita. Tehdejší starosta Boskovic Josef Kirchmann se stal zároveň předsedou okresního Národního výboru a do jeho rukou skládali slib věrnosti novému státu všichni úředníci a státní zaměstnanci v regionu.
 
-{% photo src="http://i.ohlasy.info/svRmkoo.jpg" caption="Návštěva TGM v Boskovicích na obrazu Pavla Bačovského" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/svRmkoo.jpg" caption="Návštěva TGM v Boskovicích na obrazu Pavla Bačovského" author="Muzeum regionu Boskovicka" %}
 
 ### Masaryka vítaly davy
 
@@ -101,7 +101,7 @@ Nejvíc poškozený byl rám, byl z velké části otlučený. Ale i obraz byl p
 
 Předpokládám, že v muzejním depozitáři. Asi se jen nevystavoval.
 
-{% photo src="http://i.ohlasy.info/xHLhDSX.jpg" caption="Boskovické náměstí v roce 1899" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/xHLhDSX.jpg" caption="Boskovické náměstí v roce 1899" author="Muzeum regionu Boskovicka" %}
 
 ### Chybí historická monografie
 

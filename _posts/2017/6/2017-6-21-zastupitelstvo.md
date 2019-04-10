@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Nemocnice, letní kino, dopravní situace i sportovní hala"
 perex: Pravidelná schůze boskovického zastupitelstva se nesla v poměrně klidném a bezkonfliktním duchu.
-cover-photo: http://i.ohlasy.info/CLS88FZl.jpg
+cover-photo: https://i.ohlasy.info/CLS88FZl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Další pravidelná schůze boskovického zastupitelstva se konala v úterý odpoledne v zámeckém skleníku. Hlavním tématem diskusí byla nemocnice, ale jednání se dotklo i dalších pro město důležitých bodů, jako je dopravní situace, rekonstrukce letního kina, Boskovická spojka či sportpark. Celkově se jednání neslo v poměrně klidném a bezkonfliktním duchu.*
 
-{% photo src="http://i.ohlasy.info/CLS88FZ.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/CLS88FZ.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" %}
 
 Úvod zastupitelstva jako v poslední době obvykle provázelo mlčení v bodu Dotazy a připomínky občanů. Diskutovat se zvolenými zástupci nepřišel nikdo z obyvatel.
 

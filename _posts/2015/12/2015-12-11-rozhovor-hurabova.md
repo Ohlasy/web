@@ -1,14 +1,14 @@
 ---
 title: „Řemeslo a ruční práci nenahradí nikdo a kdo to bude umět, bude na trhu král.“
 author: Martina Vašková
-cover-photo: http://i.ohlasy.info/YnpunvNl.jpg
+cover-photo: https://i.ohlasy.info/YnpunvNl.jpg
 category: rozhovory
 tags: podnikání
 ---
 
 *Rozhovor s Jitkou Hurábovou, která už dvaadvacet let vede v Boskovicích rodinnou firmu LD seating. Letošní rok byl pro tohoto výrobce kancelářského nábytku opravdu úspěšný – dokazují to nejen vzrůstající počty zaměstnanců a výše ročního obratu, ale i to, že Jitka Hurábová byla prestižním magazínem Forbes zařazena mezi 75 nejvlivnějších žen Česka.*
 
-<img src="http://i.ohlasy.info/YnpunvN.jpg" alt="Jitka Hurábová" class="img-responsive img-popup" data-author="archiv Jitky Hurábové">
+<img src="https://i.ohlasy.info/YnpunvN.jpg" alt="Jitka Hurábová" class="img-responsive img-popup" data-author="archiv Jitky Hurábové">
 
 **Jaký je to pocit, stát se jednou ze 75 nejvlivnějších žen Česka?**
 
@@ -48,7 +48,7 @@ To je těžké, jednu bych vybrat nedokázala. My se radujeme z každé objedná
 
 Letos se podařilo uspět v severských zemích – Dánsku, Švédsku, Norsku. Začínáme docela hezky prodávat výrobky i ve Finsku a stále prohlubujeme spolupráci s Izraelem. Ale stěžejní je pro nás stále západní a střední Evropa. I když židle jsme dodávali třeba i do Angoly, Ázerbajdžánu či Hong Kongu. A naše výrobky bychom samozřejmě rádi prodávali ve všech zemích. 
 
-<img src="http://i.ohlasy.info/0aPk6o3.jpg" alt="Jitka Hurábová" class="img-responsive img-popup" data-author="archiv Jitky Hurábové">
+<img src="https://i.ohlasy.info/0aPk6o3.jpg" alt="Jitka Hurábová" class="img-responsive img-popup" data-author="archiv Jitky Hurábové">
 
 ### Kraj, kde mělo šití tradici
 

@@ -1,7 +1,7 @@
 ---
 title: Vedení města má na stole řadu variant, co místo haly na Slovákově
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/5WF82ki.jpg
+cover-photo: https://i.ohlasy.info/5WF82ki.jpg
 author: Marek Osouch
 tags:
     - sportovní hala
@@ -9,7 +9,7 @@ tags:
 
 *Sportovní hala tam nebude. [To už je jasné.](/clanky/2015/06/hala-nebude.html) Nad tím, co jiného by na rohu Slovákovy a Bílkovy být mohlo, si teď láme hlavu vedení města. Boskovická místostarostka Jaromíra Vítková (KDU-ČSL) by nejraději uvítala zázemí pro spolky a výuku enviromentálních nebo technických předmětů. Mezi předloženými návrhy na radnici jsou však i tenisové kurty nebo také [léta diskutovaný a odkládaný skatepark](/clanky/2015/06/skatepark.html).*
 
-<img src="http://i.ohlasy.info/5WF82ki.jpg" alt="grafický návrh na řešení lokality" class="img-responsive">
+<img src="https://i.ohlasy.info/5WF82ki.jpg" alt="grafický návrh na řešení lokality" class="img-responsive">
 
 S jednoduchým návrhem řešení tamní lokality (na snímku) přišli za boskovickou starostkou Hanou Nedomovou architekt Jiří Klimek s radním Pavlem Schwarzerem (ANO). „Jsou to prvotní nástřely, nad kterými by se teprve měla rozběhnout nějaká debata. Rozhodně to není návrh k realizaci,“ uvedl Jiří Klimek, který v komunálních vobách také kandidoval za hnutí ANO.
 

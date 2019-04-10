@@ -1,6 +1,6 @@
 ---
 title: „Havel je pro mě životní inspirací, vybízí k nelhostejnosti, aktivitě a zodpovědnosti nejen za sebe.“
-cover-photo: http://i.ohlasy.info/4aJqfcZl.jpg
+cover-photo: https://i.ohlasy.info/4aJqfcZl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura architektura politika
@@ -8,7 +8,7 @@ tags: kultura architektura politika
 
 *Rozhovor s Drahoslavou Kráčmarovou, iniciátorkou záměru umístit v Letovicích na veřejném místě bustu prezidenta Václava Havla. Povídali jsme si o tom, jak celý nápad vznikl, jak by měla celá věc ve výsledku vypadat a co pro ni osobně Václav Havel znamená. Drahoslava Kráčmarová žije v Praze, ale do rodných Letovic se často vrací, angažuje se zde ve spolku Paleta, jako pořadatelka BiGy Festu a také jako zpěvačka.*
 
-<img src="http://i.ohlasy.info/4aJqfcZ.jpg" alt="Drahoslava Kráčmarová" class="img-responsive img-popup" data-author="Ivo Bařinka">
+<img src="https://i.ohlasy.info/4aJqfcZ.jpg" alt="Drahoslava Kráčmarová" class="img-responsive img-popup" data-author="Ivo Bařinka">
 
 **Popravdě řečeno se mi pořád nechce věřit, že by v roce 2016 malé město zde na Moravě schválilo a uskutečnilo nápad umístit ve veřejném prostoru bustu Václava Havla. Ty tomu věříš?**
 
@@ -30,7 +30,7 @@ Většina zastupitelů bohužel měla jiný názor. Nezapomeň také na složen�
 
 No, smířeni není to správné slovo. Ono se to nakonec semlelo tak, že se na tuto variantu dokonce těšíme… Hned druhý den po rozhodnutí zastupitelstva jsem oslovila svou kamarádku, zahradní architektku Hanu Matějkovou, aby nám vymyslela, jak by se prostor dal upravit. Aby vzniklo opravdu důstojné a hlavně živé místo, kam by lidé rádi chodili a kde by trávili svůj volný čas. Hanka pak připravila tak kvalitní projekt, že přesvědčil i členy rady města. Všechno špatné je tedy pro něco dobré – odsunutí Václava Havla z náměstí nakonec vedlo k vytvoření úplně nového prostoru, který přímo vybízí k trávení času.
 
-<img src="http://i.ohlasy.info/SEjoqOI.jpg" alt="Tyršova ulice" class="img-responsive img-popup" data-author="Jaroslav Chloupek">
+<img src="https://i.ohlasy.info/SEjoqOI.jpg" alt="Tyršova ulice" class="img-responsive img-popup" data-author="Jaroslav Chloupek">
 
 **Nepůjde tedy jen o umístění busty, ale o úpravu celého prostoru? Jak bude vypadat?**
 
@@ -80,7 +80,7 @@ Musím říct, že se pohybuju mezi lidmi, kteří o Havlovi smýšlí obdobně 
 
 Jako každá silná a výrazná osobnost má Havel své zaryté podporovatele i odpůrce. Asi je to přirozené. U lidí, kteří nezažili jeho prezidentskou éru jako dospělí, cítím velký vliv jejich rodičů. V tomto ohledu jsem měla velké štěstí.
 
-<img src="http://i.ohlasy.info/QeWjOk5.jpg" alt="podepsaná fotografie Václava Havla" class="img-responsive img-popup">
+<img src="https://i.ohlasy.info/QeWjOk5.jpg" alt="podepsaná fotografie Václava Havla" class="img-responsive img-popup">
 
 **Mělas možnost se s Václavem Havlem setkat? Jak to proběhlo?**
 

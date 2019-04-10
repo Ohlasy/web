@@ -1,6 +1,6 @@
 ---
 title: Parčík u autobusového nádraží čeká obnova
-cover-photo: http://i.ohlasy.info/6z8bFJul.jpg
+cover-photo: https://i.ohlasy.info/6z8bFJul.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: architektura zeleň
@@ -8,7 +8,7 @@ tags: architektura zeleň
 
 *Regeneraci parčíku, který se nachází u autobusového nádraží, nebo chcete-li nad Modrou věží a Albertem, plánuje město Boskovice, které si pro tento účel nechalo zpracovat studii od Jitky Vágnerové. Setkání s autorkou a představení studie se konalo počátkem března. Parčík je dlouhá léta víceméně zanedbáván, dnes nepůsobí ani dojmem plochy určené k odpočinku, ani příliš esteticky. Kromě toho přes něj nevedou žádné oficiální cestičky, i když minimálně směrem od křižovatky u Slávie zde jedna taková vznikla, neboť lidé si cestu k Albertu přirozeně zkracují.*
 
-<img src="http://i.ohlasy.info/6z8bFJu.jpg" alt="park u autobusového nádraží" class="img-responsive">
+<img src="https://i.ohlasy.info/6z8bFJu.jpg" alt="park u autobusového nádraží" class="img-responsive">
 
 Zanedbaný park má přitom poměrně strategickou pozici, vzhledem k tomu, že se nachází mezi oběma nádražími, může být první vizitkou města pro řadu návštěvníků. A kromě toho tudy chodí denně stovky místních.
 
@@ -19,7 +19,7 @@ Ta vidí mimo jiné problém právě v tom, že přes parčík dnes nejde ofici�
 Se zaměřením na odpočinkovou a květinovou zónu částečně polemizuje ekoložka a spolupracovnice našich novin Martina Lukešová, která se zabývá i veřejnou zelení. „Když jsem si přišla parčík prohlédnout, viděla jsem to místo spíš na U-rampu, skejťácký okruh nebo něco takového. Je to rušné místo a přitom v centru, nikdo v těsné blízkosti nebydlí, tak by nebyl nikdo rušen. Navíc by to trochu ladilo k Modré věži: sport, zábava, relax, cestování. Lehnout si na květinovou louku mezi nádražím a obchoďákem je sice lákavé, ale spíš do velkého města, kde nemají za humny les a louky a sady," domnívá se Martina Lukešová.
 Podle navrhovaného projektu by ale na nové trase od vlakového nádraží směrem k Albertu měl vzniknout prostor upravený pro posezení. Ten může sloužit kupříkladu lidem, kteří přijedou vlakem či autobusem a za pěkného počasí si chtějí v klidu naplánovat další cestu. Případně pro ty, kteří na svůj spoj teprve čekají.
 
-<img src="http://i.ohlasy.info/8aGdaZm.jpg" alt="vizualizace nové podoby parku" class="img-responsive">
+<img src="https://i.ohlasy.info/8aGdaZm.jpg" alt="vizualizace nové podoby parku" class="img-responsive">
 
 Dále je prostor rozčleněn do několika ploch. Největší je středová rekreační louka, kde by měl být trávník, skupiny stromů a o oživení by se postaraly jarní cibuloviny. Na rohu ulic Nádražní a Komenského by se prostor měl také otevřít a měl by zde vzniknout březový háj. Další část by byla osázená trávníkem a lípami.  Dále by zde vznikla malá terénní modulace z navezené hlíny a na ní motýlí louka. Zde se počítá s podílem letniček, které by vykvetly už v prvním roce a daly by prostor pro louku s kopretinami a zvonky. Ta by se stala útočištěm pro motýly. „To je dnes problém, všechny trávníky se kosí nakrátko a motýli nemají kde přebývat,“ uvedla Jitka Vágnerová.
 

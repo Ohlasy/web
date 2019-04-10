@@ -1,6 +1,6 @@
 ---
 title: Do sněmovních voleb se chystají i boskovická starostka a místostarostka
-cover-photo: http://i.ohlasy.info/ArgzbKsl.jpg
+cover-photo: https://i.ohlasy.info/ArgzbKsl.jpg
 perex: Politické strany v těchto dnech postupně připravují kandidátní listiny do sněmovních voleb. A své nominanty na ně chtějí dostat také stranické buňky z Blanenska a Boskovicka.
 author: Marek Osouch
 category: zpravodajství

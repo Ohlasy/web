@@ -1,7 +1,7 @@
 ---
 title: Studie areálu Červená zahrada nenabízí kvalitní výsledné řešení
 perex: Boskovice mají k dispozici další studii sportovního areálu Červená zahrada rozpracovanou do tří různých variant. Odborníci i opozice nad postupem radnice i samotnou studií neskrývají rozpaky.
-cover-photo: http://i.ohlasy.info/MyCpRVEl.jpg
+cover-photo: https://i.ohlasy.info/MyCpRVEl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -12,7 +12,7 @@ tags:
 
 *Boskovice mají k dispozici další studii sportovního areálu Červená zahrada rozpracovanou do tří různých variant. Vedení města jednotlivé varianty zveřejnilo včetně odhadovaných nákladů. Každá varianta počítá s jiným využitím pozemků, z nichž některé nejsou ve vlastnictví města. Co bude dál, se přesně neví, odborníci i opozice nad postupem i samotnou studií neskrývají rozpaky.*
 
-<img src="http://i.ohlasy.info/MyCpRVE.jpg" alt="Červená zahrada" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/MyCpRVE.jpg" alt="Červená zahrada" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Co to vlastně máme?
 
@@ -32,19 +32,19 @@ To, že studie sice má variantní řešení, ale všechna pocházejí od jedin�
 
 Vedení města prezentuje, že úkolem této studie bylo řešit areál Červené zahrady jako celek a prověřit jeho prostorové možnosti v souvislosti s nevyhovujícím dopravním řešením, nedostatkem parkovacích ploch, absencí atletického oválu a umístěním sportovní haly a nových sportovišť.  Každá ze tří variant počítá s novým bezpečným napojením areálu z ulice Dukelská, s výrazným navýšením parkovacích ploch, s rozšířením obslužných komunikací, a s novou sítí chodníků. U všech variant je navržena demolice Dvořáčkova mlýna a přemístění trafostanice. Jednotlivé varianty odlišuje především využití pozemků v areálu. 
 
-<img src="http://i.ohlasy.info/f8hcGFl.png" alt="varianta A, mapa" class="img-responsive img-popup img-framed">
+<img src="https://i.ohlasy.info/f8hcGFl.png" alt="varianta A, mapa" class="img-responsive img-popup img-framed">
 
 ### Varianta A
 
 Ve variantě A jsou do řešení zahrnuty pozemky ve vlastnictví města včetně pozemku bývalého autobazaru, dále bývalá Junácká louka, která je dnes ve vlastnictví společnosti MP Holding, a tenisové kurty, které patří zčásti státu a zčásti tenisovému klubu. Je navrženo přemístění tenisových kurtů, novou polohu má travnaté fotbalové hřiště včetně zázemí s tribunou, které by sloužilo i pro tenis. V areálu je umístěna sportovní hala, skatepark, lezecká stěna a inline dráha. Navrženo je celkem 419 parkovacích stání pro osobní automobily a 4 stání pro autobusy. Celkové náklady jsou v této variantě odhadovány na 196 milionů korun bez DPH.
 
-<img src="http://i.ohlasy.info/Nmc33Hi.png" alt="varianta B, mapa" class="img-responsive img-popup img-framed">
+<img src="https://i.ohlasy.info/Nmc33Hi.png" alt="varianta B, mapa" class="img-responsive img-popup img-framed">
 
 ### Varianta B
 
 Druhá varianta představuje velkoryse pojatý sportovní areál, jehož součástí jsou všechny pozemky v areálu včetně bývalého hotelu Velen, kuželny a objektu podnikatele Iva Moudrého. Je navrženo přemístění tenisových kurtů, kolem travnatého fotbalového hřiště je umístěn atletický ovál včetně zázemí. Sportovní hala je navržena na místě současného hotelu Velen. Areál je doplněn o skatepark, lezeckou stěnu a inline dráhu. Navržena je úprava vstupního objektu koupaliště a rozšíření ubytovny. Dopravní napojení z ulice Dukelská je řešeno okružní křižovatkou. V areálu je celkem navrženo 392 parkovacích stání pro osobní automobily a 4 stání pro autobusy. Celkové náklady varianty B jsou odhadovány na 290 milionů korun bez DPH.
 
-<img src="http://i.ohlasy.info/iJQvo1f.png" alt="varianta C, mapa" class="img-responsive img-popup img-framed">
+<img src="https://i.ohlasy.info/iJQvo1f.png" alt="varianta C, mapa" class="img-responsive img-popup img-framed">
 
 ### Varianta C
 

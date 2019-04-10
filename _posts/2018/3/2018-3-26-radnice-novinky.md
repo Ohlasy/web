@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: novinky z rady a sezóna na hradě a zámku"
-cover-photo: http://i.ohlasy.info/SbVyOzml.jpg
+cover-photo: https://i.ohlasy.info/SbVyOzml.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady v polovině března. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="http://i.ohlasy.info/SbVyOzm.jpg" caption="Hrad Boskovice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/SbVyOzm.jpg" caption="Hrad Boskovice" author="Tomáš Znamenáček" %}
 
 ### Zahájení turistické sezóny a 100 let republiky
 

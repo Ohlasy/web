@@ -1,6 +1,6 @@
 ---
 title: „Nadšení bývají i ti návštěvníci, kteří o kartografickém centru nikdy předtím neslyšeli.“
-cover-photo: http://i.ohlasy.info/AUlEkBfl.jpg
+cover-photo: https://i.ohlasy.info/AUlEkBfl.jpg
 author: Martina Vašková
 category: rozhovory
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Rozhovor s Annou Kaderkovou, ředitelkou Služeb Města Velké Opatovice (dále jen Služby). V jedenatřiceti letech se stala jednatelkou společnosti, která provozuje Moravské kartografické centrum, koupaliště, knihovny, kino a pořádá místní kulturní akce. Šéfuje sedmi lidem a pracuje i s roční dcerkou. Povídali jsme si o novinkách v kartografickém centru, akcích ve Velkých Opatovicích, ale i o úskalích kulturního dění ve městě na pomezí tří krajů.*
 
-<img src="http://i.ohlasy.info/AUlEkBf.jpg" alt="Anna Kaderková" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/AUlEkBf.jpg" alt="Anna Kaderková" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 **Od dubna si návštěvníci Moravského kartografického centra mohou prohlédnout novou stálou expozici. Na co je zaměřena?**
 
@@ -22,7 +22,7 @@ Dřív na to nebyly peníze ani čas. Zapůjčení této sbírky domlouval náš
 
 Zůstal ústřední exponát, obří plastická mapa Moravy a Slezska, ta se hned tak někam nepřestěhuje. Jedná se o mapu, která je výjimečná svou velikostí, rozkládá se na ploše přibližně 110 metrů čtverečních. Její původ není znám, ale experti se shodli na tom, že pochází z takzvaného třetího vojenského mapování, které probíhalo za období Rakousko-Uherska. Ale myslím, že kdo ví o kartografickém centru, bude vědět i o mapě. A zůstaly také reprodukce nejrůznějších map a zásadní díla naší kartografické historie, například nejstarší kousek – Pavlovická prehistorická mapa na mamutím klu nebo Fabriciova mapa Moravy z 16. století. Svůj koutek v muzeu mají i mapy Velkých Opatovic a okolí a modely krajiny. A neměnili jsme ani fotografické kamery a další velké exponáty z Národního technického muzea, ty už u nás nejspíš zůstanou.
 
-<img src="http://i.ohlasy.info/jMpacdw.jpg" alt="Plastická mapa v kartografickém centru" class="img-responsive img-popup" data-author="Archiv Moravského kartografického centra">
+<img src="https://i.ohlasy.info/jMpacdw.jpg" alt="Plastická mapa v kartografickém centru" class="img-responsive img-popup" data-author="Archiv Moravského kartografického centra">
 
 **V čem je vlastně tak unikátní samotná stavba kartografického centra?**
 
@@ -52,7 +52,7 @@ V průběhu roku zde míváme několik stěžejních akcí, což jsou velikonoč
 
 Ne, všechny ne. Převzala jsem jarmarky i Jiřinky, ale snažíme se je více propagovat a obohacovat. Například z výstavy jiřin, jejichž pěstování má ve Velkých Opatovicích velkou tradici, se časem stala mezinárodní akce, kde oceňujeme nejlépe vyšlechtěnou kytku, nejlepší aranži nebo volíme Miss Jiřinku. Úplně nově jsme začali dělat Víkend otevřených zahrad a Muzejní noc, kdy připravujeme celodenní program a zpřístupňujeme zdarma všechny památky a muzea, ale hlavně představujeme náš zámecký park, který jako jeden z mála parků v České republice je opravdu zachovalý. Pořádáme zde komentované prohlídky parku, děláme osvětu a upozorňujeme na vzácné dřeviny a zároveň lidi seznamujeme s minulostí zámku a opatovického panství. Pro tuto příležitost jsme vytvořili i mapku vzácných dřevin a několik zastavení s historickými fotkami a texty o daných místech.
 
-<img src="http://i.ohlasy.info/ntkoEVj.jpg" alt="Zámek Velké Opatovice letecky" class="img-responsive img-popup" data-author="Archiv Moravského kartografického centra">
+<img src="https://i.ohlasy.info/ntkoEVj.jpg" alt="Zámek Velké Opatovice letecky" class="img-responsive img-popup" data-author="Archiv Moravského kartografického centra">
 
 **Co všechno máte ve Službách na starosti? To asi není jen kartografické centrum a kultura, že?** 
 
@@ -66,7 +66,7 @@ Ne, to nemůžeme, zisk nevykazujeme. Mohli bychom například vydělat na vstup
 
 To nedá. Není jedna věc obtížnější nebo lehčí než druhá. Než se mi narodila Marianka, byla jsem pořád v terénu a hledala inspiraci, co bychom mohli dělat a jak stávající věci zlepšit. Mám ráda, když si většinu věcí zařídím sama – alespoň v počátku. Takže dříve mi dalo nejvíc práce ježdění, domlouvání a komunikování. Pak jsem byla ráda, že mohu domluvené věci předat, protože pokud si člověk myslí, že něco dokáže sám, je opravdu naivní. Tým lidí okolo sebe potřebuješ pro každou práci. A protože nás není moc, připravuji zázemí pro výstavy, obvolávám školy, když je potřeba, dělám vše od úklidu až po služby v infocentru. Jistá překážka v soustředění se jen na jednu věc je i to, že člověk musí být v obraze od hygieny koupaliště, přes pravidla muzejnictví až po bezpečnost práce. 
 
-<img src="http://i.ohlasy.info/eOY5GGF.jpg" alt="Anna Kaderková" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/eOY5GGF.jpg" alt="Anna Kaderková" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 **Když jsi nastupovala jako ředitelka Služeb, jaké jsi měla vize a plány? A co z nich se podařilo naplnit?**
 

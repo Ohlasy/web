@@ -1,7 +1,7 @@
 ---
 title: Reakce na halu u ZŠ Sušilova jsou převážně vstřícné
 perex: Novou variantu umístění sportovní haly v Boskovicích představil volejbalový trenér František Učeň. Podle prvních reakcí to vypadá, že by se na tomto řešení mohla najít shoda napříč politickým spektrem.
-cover-photo: http://i.ohlasy.info/6vXCA7ml.jpg
+cover-photo: https://i.ohlasy.info/6vXCA7ml.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *[Novou variantu umístění sportovní haly](http://www.ohlasy.info/clanky/2017/05/hala-susilova.html) v Boskovicích představil volejbalový trenér František Učeň. Hala by vznikla místo tělocvičen ZŠ Sušilova a sportovci by využívali také jízdárnu. Tu by ovšem muselo město koupit a rekonstruovat. Podle prvních reakcí to vypadá, že by se na tomto řešení mohla najít shoda napříč politickým spektrem.*
 
-{% photo src="http://i.ohlasy.info/6vXCA7m.jpg" caption="Jízdárna a tělocvična u ZŠ Sušilova" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/6vXCA7m.jpg" caption="Jízdárna a tělocvična u ZŠ Sušilova" author="Tomáš Trumpeš" %}
 
 Boskovická starostka Hana Nedomová (ČSSD) a také další zastupitelé upozorňují na to, že aktuálně platí usnesení zastupitelstva, že hala se má stavět v Červené zahradě. Toto usnesení ovšem může samo zastupitelstvo revokovat. Respektive musí, pokud se město rozhodne pro novou variantu.
 
@@ -33,7 +33,7 @@ Příliš konkrétní nechtěl být zastupitel za sdružení Sportovci Jiří Pe
 
 Ten patřil k prosazovatelům haly v areálu Červená zahrada, a proto je ke změně asi nejméně důvěřivý. A říká, že pokud tu budeme mít každého půl roku nový návrh, haly se nedočkáme nikdy. „Na druhé straně jsem byl přítomen na onom společném jednání se sportovci a vnímám fakt, že se tato varianta setkala z jejich strany s jistým souhlasem. A to i přesto, že návrh byl přednesen jen ústně, nikde žádný nákres, ani situačka. Určitě se variantou pana Učně budeme zabývat, abychom možnost posadit halu naproti lázním buď potvrdili, nebo vyvrátili. Tomu je ale třeba věnovat nějaký čas a lokalitu po všech stránkách prověřit. Mně osobně se to tedy moc nezdá, zvláště co se týče onoho nešťastného parkování. Všichni víme, jak to vypadá před lázněmi v době jejich provozu. Též se mi zdá poněkud řekl bych scestné zbourat kvůli tomu dvě stávající a poměrně zánovní tělocvičny. Bližší vyjádření jsem schopen poskytnout až po získání oněch naznačených informací,“ vyjádřil se Vladimír Farský, nestraník zvolený za KSČM.
 
-{% photo src="http://i.ohlasy.info/2BfzSN2.jpg" caption="Parkovací místa u tělocvičny" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/2BfzSN2.jpg" caption="Parkovací místa u tělocvičny" author="Tomáš Trumpeš" %}
 
 Ohlasy požádaly o vyjádření také architekta Jiřího Klimka, který se i v minulosti v debatách ohledně stavby haly angažoval. Dnes říká, že už v roce 2013 souhlasil s tím, že umístění haly u školy je jistým způsobem vhodné, neboť máme-li za veřejné peníze podporovat rozvoj sportu, je tak nejlépe činit již na školách v rámci povinné školní docházky. Stejně tak jsou však podle něj relevantní argumenty na vytvoření půvabného a plně vybaveného kompaktního sportovního areálu. Návrh Františka Učně by podle něj mohl obě varianty spojit, a to zejména v případě, že by se podařilo vybudovat kratší cestu od jízdárny na Červenou zahradu. Obě místa od sebe nejsou až tak daleko. „V tomto světle je třeba pogratulovat panu Učňovi, že přemýšlel mimo krabici a ukázal návrh, který spojuje dobré z obou variant. Dostatečně velká hala u základní školy na Sušilově může být dopoledne plně využita a přijde-li na věc, je to dolů na Červenku asi tři sta metrů, takže při vyřešení vhodného pěšího propojení může hala u školy se sportovním areálem pod kopcem velmi dobře kooperovat. Ve fázi ideje na tomto návrhu tak nenacházím negativa,“ uzavřel Jiří Klimek.
 

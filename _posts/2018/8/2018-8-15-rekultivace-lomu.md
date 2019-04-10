@@ -1,6 +1,6 @@
 ---
 title: Do deseti let chtějí lom na cihlářskou hlínu zasypat stavebním odpadem
-cover-photo: http://i.ohlasy.info/7eh9AeSl.jpg
+cover-photo: https://i.ohlasy.info/7eh9AeSl.jpg
 perex: Hluboké lomy na cihlářskou hlínu mezi Chrudichromskou a Dřevařskou ulicí v Boskovicích budou brzy srovnané s okolím.
 author: Marek Osouch
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Hluboké lomy na cihlářskou hlínu [mezi Chrudichromskou a Dřevařskou ulicí](https://en.mapy.cz/s/2VLLN) v Boskovicích budou brzy srovnané s okolím. Polovina už se zasypává, poslední část by chtěla firma podle [informací zveřejněných na portálu EIA](https://portal.cenia.cz/eiasea/detail/EIA_JHM1444) začít zavážet příští nebo přespříští rok.*
 
-{% photo src="http://i.ohlasy.info/7eh9AeS.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/7eh9AeS.jpg" author="Marek Osouch" %}
 
 V současnosti se dokončuje zavážení ve východní a jižní části, nedotčená je ale prozatím severozápadní část bývalého lomu. „V tomto prostoru dosud žádná sanace ani rekultivace neproběhla, jsou zde ponechány původní těžební stěny. Na nich tak dochází ke značné erozi, v jejímž důsledku jsou svahy nestabilní a probíhá jejich postupné sesouvání,“ píše se v dokumentu zveřejněném na portálu EIA.
 

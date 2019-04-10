@@ -1,14 +1,14 @@
 ---
 title: „Facebook je pro mě takové větší Brno.“
 author: Kristýna Znamenáčková
-cover-photo: http://i.ohlasy.info/0XQd6pfl.jpg
+cover-photo: https://i.ohlasy.info/0XQd6pfl.jpg
 category: rozhovory
 tags: politika
 ---
 
 *Rozhovor s Barborou Antonovou, jejíž jméno je spojováno zejména s původně satirickým webem a dnes již politickým hnutím Žít Brno. Povoláním překladatelka z francouzštiny a korektorka se dnes angažuje v celé řadě občanských aktivit, je předsedkyní hnutí Žít Brno a členkou Okrašlovacího spolku pro Lomnici a okolí. Přečtěte si rozhovor o studiu na boskovickém gymnáziu, občanském aktivismu, o životě v Brně a o specifickém komunikačním světě sociálních sítí.*
 
-<img src="http://i.ohlasy.info/7bl0EFH.jpg" alt="třída Barbory Antonové na gymnáziu" class="img-responsive img-popup" data-author="archiv Barbory Antonové">
+<img src="https://i.ohlasy.info/7bl0EFH.jpg" alt="třída Barbory Antonové na gymnáziu" class="img-responsive img-popup" data-author="archiv Barbory Antonové">
 
 **Studovala jsi v předrevolučních Boskovicích na gymnáziu, jak na ta léta vzpomínáš?**
 
@@ -38,7 +38,7 @@ Celý život nevím, čím vlastně jsem, co si napsat na vizitku. Vždycky jsem
 
 V osmdesátých letech moc prostoru pro politické projevy nebylo. Vzpomínám si na dvě „kauzy“, která zaváněly aktivismem, ačkoli v tom nebyl žádný úmysl. V rámci kroužku mladých novinářů jsem v patnácti letech sepsala reportáž z vesnických zábav. Otiskli to v nějakém regionálním plátku (možná Rovnost? už si nevzpomínám) a nikdo neocenil humorné popisy opileckých akcí, ale vyvolalo to obrovský poprask na okresním výboru KSČ. Jakási komise vyjela na kontrolu a hned při první šťáře soudružky zjistily, že mládež nám skutečně souloží v parčíku a skutečně nám zvrací v sále. Ten článek mně vrstevníci občas vyčtou ještě dnes.
 
-<img src="http://i.ohlasy.info/YZKo1mC.jpg" alt="třída Barbory Antonové na gymnáziu" class="img-responsive img-popup" data-author="archiv Barbory Antonové">
+<img src="https://i.ohlasy.info/YZKo1mC.jpg" alt="třída Barbory Antonové na gymnáziu" class="img-responsive img-popup" data-author="archiv Barbory Antonové">
 
 A pak jsme s kamarádkou Lenkou Vítkovou jednou zkritizovaly literární text dalšího spolužáka a celá ta věc se zvrhla v absurdní podezření z ideologické diverze – dodnes nechápu, o co vlastně šlo, rozebíraly jsme totiž básničky o lásce a smrti. Mám dojem, že tuhle úplně nesmyslnou kauzu tenkrát žehlilo vedení školy na partajních výborech.
 
@@ -70,7 +70,7 @@ Pochopitelně by všechno bylo jednodušší, kdyby mohla být politika aktivist
 
 Naší obrovskou výhodou je stále silná vazba s původním, „nepolitickým“ Žít Brno. Kritika ze strany našich kamarádů je daleko ostřejší, než na jakou se kdy zmůže opozice. Je fajn vyslechnout si i nepříjemný názor, když víte, že kritikovi jde o stejnou věc.
 
-<img src="http://i.ohlasy.info/0XQd6pf.jpg" alt="Barbora Antonová" class="img-responsive img-popup" data-author="Kristýna Znamenáčková">
+<img src="https://i.ohlasy.info/0XQd6pf.jpg" alt="Barbora Antonová" class="img-responsive img-popup" data-author="Kristýna Znamenáčková">
 
 **Ty ale v zastupitelstvu nejsi, jak vypadá tvoje současná aktivita?**
 

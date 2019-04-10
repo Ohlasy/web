@@ -1,7 +1,7 @@
 ---
 title: „Jazz a fotka mi na studijním pobytu v Americe převrátily život,“ říká fotografka a zpěvačka Gabriela Kolčavová
 category: rozhovory
-cover-photo: http://i.ohlasy.info/hFeQdz0l.jpg
+cover-photo: https://i.ohlasy.info/hFeQdz0l.jpg
 tags: kultura fotografie
 author: Tomáš Trumpeš
 featured: true
@@ -9,7 +9,7 @@ featured: true
 
 *Boskovická rodačka a absolventka zdejšího gymnázia Gabriela Kolčavová vystudovala nejprve angličtinu a výtvarnou výchovu na brněnské pedagogické fakultě, a poté uměleckou fotografii v americkém Texasu, kde působila celkem 6 let. Věnuje se také hudbě, zpívá ve vlastním jazzovém triu. Dnes je na volné noze a kromě focení a koncertování působí i jako lektorka ve fotografických a výtvarných dílnách. Proslavila se fotografiemi pořízenými na starý deskový fotoaparát.*
 
-<img src="http://i.ohlasy.info/hFeQdz0.jpg" alt="Gabriela u kašny na boskovickém náměstí, fotografická dílna" class="img-responsive">
+<img src="https://i.ohlasy.info/hFeQdz0.jpg" alt="Gabriela u kašny na boskovickém náměstí, fotografická dílna" class="img-responsive">
 
 **Gábino, jak ses dostala do Ameriky?**
 
@@ -31,7 +31,7 @@ Přijela jsem tam podruhé a pak ještě potřetí. Ředitel Dr. Michaelis, kte
 
 Já jsem to tam nevydržela. První semestr jsem byla nadšená, ale pak jsem najednou zjistila, že to vůbec není město pro mě. Možná kdybych bývala zůstala v Dentonu, který byl o moc liberálnější, tak by to šlo, ale Waco bylo tak republikánské a tak konzervativní, že to nebylo slučitelné s mou životní filosofií.  Všichni jen popojížděli v autech na čtyřproudovkách, já jsem žila bez auta. Po roce jsem to vzdala. Celkem po šesti letech v Americe, kdy jsem jezdila domů jen v létě, jsem si uvědomila, že se chci vrátit.
 
-<img src="http://i.ohlasy.info/CniOn62.jpg" alt="Pawan šlehá máslo" class="img-responsive">
+<img src="https://i.ohlasy.info/CniOn62.jpg" alt="Pawan šlehá máslo" class="img-responsive">
 
 **Fotíš hlavně na starý deskový fotoaparát, zajímáš se o historické fotografické techniky. Tímto směrem tě to táhlo už od počátku, nebo jak jsi k tomu přišla?**
 
@@ -45,7 +45,7 @@ Každý student by měl projít nejdřív klasickým filmem. Poznáš, který fo
 
 Určitě. Samotný výběr fotoaparátu neskutečně souvisí s výsledkem. Když fotíš na Flexaretu, kterou můžeš mít u pasu a díváš se do ní shora nebo ji můžeš mít položenou na stole nebo otočenou vzhůru nohama, dosáhneš úplně jiných kompozic, než když musíš přikládat fotoaparát k oku. Jiné je to když máš Polaroid nebo když máš camery obscury, kdo kterých se nemusíš dívat vůbec. Tohle digitalisti vůbec neřeší, ti jenom řeší, jestli tam budou mít nějaké pixely a jak nejvíc můžou zvětšit fotku, aby nebyla rozmazaná. Tohle je dnes typický rozhovor mezi studenty fotografie: porovnávají megapixely svých čipů, a vůbec nepřemýšlí o tom, co fotí. Mě staré foťáky baví z toho důvodu, že ti každý umožní něco úplně jiného.
 
-<img src="http://i.ohlasy.info/kj58NiC.jpg" alt="starý interiér, pohled ven přes okno, postavy v dálce" class="img-responsive">
+<img src="https://i.ohlasy.info/kj58NiC.jpg" alt="starý interiér, pohled ven přes okno, postavy v dálce" class="img-responsive">
 
 **A deskový fotoaparát?**
 
@@ -59,7 +59,7 @@ Když jsem jela před pěti lety do Nepálu, neodolala jsem a nakoupila si barev
 
 Vlastně ano. Když jsem zkoušela na začátku dělat s barvou, tak to stejně bylo hnědé na hnědém a nějaký stín. Takže jsem si říkala: proč to mám fotit v barvě? Je velmi málo fotografů, kteří zajímavým způsobem fotí v barvě. Já se tomu vyhýbám.
 
-<img src="http://i.ohlasy.info/jDM7oaA.jpg" alt="starý interiér, postavy v něm, Nový rok" class="img-responsive">
+<img src="https://i.ohlasy.info/jDM7oaA.jpg" alt="starý interiér, postavy v něm, Nový rok" class="img-responsive">
 
 **Zpracování fotek probíhá taky klasickou metodou? Vyvoláváš si je sama?**
 
@@ -77,7 +77,7 @@ Není. Nemůže se tím ale člověk třeba chtít stoprocentně uživit.
 
 Je to velmi náročné, ale když už se ví, že to dělám, dostanu občas zajímavou zakázku. Třeba od muzeí, která chtějí bromostříbrné zvětšeniny nebo potřebují kopie fotografií a negativů. Nebo potřebují poradit se starými materiály. Nebo někdo ví, co přesně dělám, a s tím mě osloví. Dělala jsem třeba zakázku pro Brněnskou filharmonii, chtěli přímo černobílé fotky muzikantů na deskáč. Ono tím, že negativy jsou z deskáče tak veliké, mají po oskenování fotky úžasnou kvalitu třeba pro použití na billboardy. Takže si to pořád najde cestu k lidem, kteří to chtějí. Ale samozřejmě nedělám jen fotku jako zakázku, taky ji především vyučuju.
 
-<img src="http://i.ohlasy.info/5XFx2xz.jpg" alt="postavy utíkají po mostě" class="img-responsive img-framed">
+<img src="https://i.ohlasy.info/5XFx2xz.jpg" alt="postavy utíkají po mostě" class="img-responsive img-framed">
 
 **A do toho ještě muzika. Aktuálně působíš ve vlastním jazzovém uskupení, co pro tebe muzika dneska znamená?**
 
@@ -91,7 +91,7 @@ Chci být sebekritická, takže spíš řeknu, že tomu možná dostatečně ner
 
 Mám radost, že letos poprvé mám dílnu v Boskovicích. A doufám, že to není naposled, rádi bychom ji pořádali každoročně. Loni jsem začala s týdenní dílnou pro děti v Mendelově muzeu, není jen fotografická, ale výtvarná. Ale věnujeme se i něčemu z fotografie. Dělali jsme cameru obscuru, kdy si děti vyrábějí své vlastní fotoaparáty. Foťák se dá udělat z čehokoliv, z krabičky od sirek, od čajů. Opravdu kvalitní fotoaparát. Děti tomu nechtějí věřit a učí se princip, že když je někde dírka, kterou vniká zvenku světlo do tmavého prostoru, můžou si tak vyfotografovat vlastní fotku vlastnoručně vyrobeným fotoaparátem. Tohle je pro děti lákadlo, ale děláme i kyanotypii, což je přes sto sedmdesát let stará fotografická technika. A děláme i malbu, kresbu a chci dělat i linoryty. Ty děti vždycky velice baví a ne vždycky se k tomu dostanou. Když se někdy dětí ptám, co dělají ve výtvarkách ve školách, divím se, že se tam někdy nedostanou skoro k ničemu. Mě inspiruje hlavně svět přírody, zvířat a rostlin, takže se snažím i já děti takto inspirovat a přinášet jim techniky, ke kterým se ve školách nedostanou. 
 
-<img src="http://i.ohlasy.info/Fg8UHFF.jpg" alt="portrét dírkovým fotoaparátem pořízený během boskovické dílny" class="img-responsive">
+<img src="https://i.ohlasy.info/Fg8UHFF.jpg" alt="portrét dírkovým fotoaparátem pořízený během boskovické dílny" class="img-responsive">
 
 **Bude z dílen nějaký výstup?**
 

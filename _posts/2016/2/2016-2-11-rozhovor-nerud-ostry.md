@@ -1,6 +1,6 @@
 ---
 title: „Práce ve sboru musí být dlouhodobá a poctivá. Není to instantní polévka.“
-cover-photo: http://i.ohlasy.info/kVMJYt5l.jpg
+cover-photo: https://i.ohlasy.info/kVMJYt5l.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura vzdělávání hudba
@@ -9,7 +9,7 @@ featured: true
 
 *Rozhovor se sbormistry Martinem Nerudem a Františkem Ostrým. Sbory, které vedou, v letošním roce slaví kulatá jubilea. Nota byla na gymnáziu založena před třiceti lety, Janáček slaví sedmdesátku. Kromě samotného fungování sborů jsme si povídali i o sborovém zpívání obecně, o jeho budoucnosti, o tom, proč děti dnes zpívají hůř než dříve a co se díky sborovému zpěvu mohou lidé naučit. Martin Nerud působí jako pedagog na gymnáziu, František Ostrý studuje v doktorandském programu na pedagogické fakultě Masarykovy univerzity.*
 
-<img src="http://i.ohlasy.info/kVMJYt5.jpg" alt="Martin Nerud, František Ostrý" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/kVMJYt5.jpg" alt="Martin Nerud, František Ostrý" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Františku, ujal ses Janáčka před několika měsíci s cílem ho občerstvit a přitáhnout nové lidi. Jak se to zatím daří?**
 
@@ -65,7 +65,7 @@ FRANTIŠEK OSTRÝ: Vánoce jsou tradiční. A letos Janáček oslaví sedmdesát
 
 MARTIN NERUD: Přemýšlím o 7. květnu. Možná to bude trošku skromnější oslava. I to vychází z počtu současných zpěváků.
 
-<img src="http://i.ohlasy.info/zwMmydJ.jpg" alt="Martin Nerud" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/zwMmydJ.jpg" alt="Martin Nerud" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 
 ### Opadá zájem o vše systematické a dlouhodobé
@@ -114,7 +114,7 @@ MARTIN NERUD: U nástrojů může docházet k něčemu podobnému, když hraješ
 
 FRANTIŠEK OSTRÝ: Když posloucháš některé Haydnovy koncerty nebo hlavně Vivaldiho, zjistíš, že třeba housle tam hrají stále to stejné, jen dolaďují jednotlivé tóny do akordu. Co tam pak ty hudebníky baví hrát, když v notách vlastně nic nemají? Právě to, co říká Martin.
 
-<img src="http://i.ohlasy.info/1kSPKRe.jpg" alt="František Ostrý" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/1kSPKRe.jpg" alt="František Ostrý" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Orchestr zoufale chybí
 
@@ -168,7 +168,7 @@ FRANTIŠEK OSTRÝ: Když není na zkoušce ani trochu legrace, tak je to hrozně
 
 MARTIN NERUD: Podle mě je to základ. Každý muzikant potřebuje hrát či zpívat uvolněně, jakmile je v křeči, je to znát na výrazu. Hudba musí vycházet z dobré nálady, pokud ji někdo dělá s jinými úmysly, tak to nefunguje. Nebo to funguje zdánlivě, naoko, ale je to tam slyšet.
 
-<img src="http://i.ohlasy.info/bZjinSV.jpg" alt="Martin Nerud, František Ostrý" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/bZjinSV.jpg" alt="Martin Nerud, František Ostrý" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Má zpívání ve sboru také nějaký pedagogický efekt kromě samotného zpívání?**
 

@@ -1,6 +1,6 @@
 ---
 title: České dráhy mění jízdní řád. První  ranní vlak ve Skalici nezastaví
-cover-photo: http://i.ohlasy.info/q4K55YJl.jpg
+cover-photo: https://i.ohlasy.info/q4K55YJl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Cestování vlakem do Prahy bude složitější. Ministerstvo dopravy chce zrušit zastávku ve Skalici nad Svitavou pro první ranní expres, který je v Praze krátce po sedmé hodině. Lidé budou muset do Letovic nebo Blanska, kde vlak bude i nadále zastavovat. Dále se také pracuje na projektu Boskovické spojky. Stavět by se měla začít v roce 2019.*
 
-<img src="http://i.ohlasy.info/q4K55YJ.jpg" alt="lidé nastupující do vlaku na boskovickém nádraží" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="https://i.ohlasy.info/q4K55YJ.jpg" alt="lidé nastupující do vlaku na boskovickém nádraží" class="img-responsive img-popup" data-author="Marek Osouch">
 
 Složitější cestování vlakem ve směru na Prahu budou mít lidé, kteří potřebují být v Praze brzy ráno, a jedou proto prvním ranním spojem. Krátce před pátou nastoupí v Boskovicích a osm minut po sedmé jsou v Praze. Po změně jízdních řádů letos v prosinci však budou muset kvůli zrušení zastávky ve Skalici nejspíš autobusem do Letovic. Ten vyjíždí z Boskovic o půl páté ráno, tedy zhruba o půl hodiny dřív, než v kolik v současnosti vyjíždí vlak do Skalice s přestupem na ranní expres. Do Blanska vhodné spojení neexistuje. Změnu může ještě přinést nový jízdní řád pro autobusy, který zatím není zveřejněný.
 

@@ -1,14 +1,14 @@
 ---
 title: Radní neudělili výjimku a koncert legendárních Silverů v Boskovicích nebude
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/Mz8vccMl.jpg
+cover-photo: https://i.ohlasy.info/Mz8vccMl.jpg
 author: Tomáš Trumpeš
 tags: kultura politika
 ---
 
 *Jsou kapely, u kterých přídomek „legendární“ nevyvolává ani stín pochybnosti, že by snad byl použit neoprávněně. Na boskovické či spíše regionální hudební scéně lze jen těžko najít formaci, která si toto označení zaslouží tak jednoznačně, jako takzvaní Silveři neboli S. Band, uskupení okolo kytaristy Pavla „Silvera“ Koudelky. Opravdová legenda, jejíž největší sláva kulminovala na přelomu 80. a 90. let, si na poslední červnový víkend naplánovala vystoupení v boskovickém letním kině. Pro početné fanoušky v posledních letech jen velmi zřídka vystupujících Silverů to měla být významná událost. Rozhodnutí boskovické městské rady neudělit pořadatelům akce výjimku, která by umožnila hrát v letním kině déle než do 23 hodin, nakonec tuto událost zmařilo.*
 
-<img src="http://i.ohlasy.info/Mz8vccM.jpg" alt="kapela S. Band" class="img-responsive">
+<img src="https://i.ohlasy.info/Mz8vccM.jpg" alt="kapela S. Band" class="img-responsive">
 
 Poslední koncert odehrál S. Band vloni na taneční zábavě v Rájci-Jestřebí, a to po více než desetileté odmlce. Silveři zde vystoupili s několika písněmi na taneční zábavě jako host hlavního účinkujícího – skupiny Třetí zuby. Na Silvery do Rájce dorazilo přes 500 lidí, takže se hudebníci rozhodli uspořádat letos podobnou akci v boskovickém letním kině. Na zábavě měli kromě Silverů vystoupit také Miloš Dodo Doležal, boskovická skupina Seňorita, rovněž bývalé uskupení boskovických hudebníků, a pražští E.K.G. 12. „Po vystoupení v Rájci jsme si řekli, že bychom měli něco udělat. Ukázalo se, že fanouškovská základna je opravdu velká. Takže jsme chtěli uspořádat takový nostalgický mejdan kapel, které už dnes nehrají, a aby měl koncert ještě vyšší úroveň, pozvali jsme Miloše Doležala,“ uvedl Václav Kropáček, bývalý člen S. Bandu žijící dnes v Praze.
 

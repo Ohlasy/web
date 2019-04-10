@@ -1,6 +1,6 @@
 ---
 title: „Halu chci v Červené zahradě, ale musí na tom být politická shoda.“
-cover-photo: http://i.ohlasy.info/hq1HpYRl.jpg
+cover-photo: https://i.ohlasy.info/hq1HpYRl.jpg
 perex: Rozhovor s místostarostou Petrem Malachem. Večer před klíčovým jednáním rady jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s místostarostou Petrem Malachem, který má na starosti boskovický sport. Večer před klíčovým jednáním rady o sportovní hale jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.*
 
-{% photo src="http://i.ohlasy.info/hq1HpYR.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/hq1HpYR.jpg" author="Tomáš Znamenáček" %}
 
 **Je to možná kacířská otázka, ale potřebují Boskovice sportovní halu?**
 
@@ -61,7 +61,7 @@ Už někdy před rokem či dvěma jsme se bavili s Českým hokejovým svazem, k
 
 Když jsme se bavili se zástupci hokejového svazu, říkali, že největší problém pro ně je, že potřebují mít pro děti na soustředěních všechno tak, aby tam došly – zimní stadion, halu, ale i zázemí pro stravování. Nemůžeme je poslat třeba po silnici na Lasák. Pro nás by bylo nejlepší mít všechno v jednom areálu.
 
-{% photo src="http://i.ohlasy.info/Dv0ueR3.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/Dv0ueR3.jpg" author="Tomáš Znamenáček" %}
 
 ### 350 milionů je moc
 
@@ -153,7 +153,7 @@ Určitě. Tyto materiály jsou u Petra Zouhara.
 
 Určitě ano.
 
-{% photo src="http://i.ohlasy.info/7jBBH6Y.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/7jBBH6Y.jpg" author="Tomáš Znamenáček" %}
 
 ### Do stolu bouchat nechci
 

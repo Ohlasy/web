@@ -1,14 +1,14 @@
 ---
 title: Kocovina Putinova dokumentaristy
 perex: Vitalij Manskij, osobní dokumentarista Vladimira Putina, kterému pomohl stát se prezidentem, se po letech vrací ke starým záběrům, přikládá některé dosud nezveřejněné a nový tvar komentuje.
-cover-photo: http://i.ohlasy.info/Tl20IZkl.jpg
+cover-photo: https://i.ohlasy.info/Tl20IZkl.jpg
 author: Ondřej Sabol
 category: názory a komentáře
 ---
 
 *Po Silvestru přichází vystřízlivění a postupné smíření s tokem všedních dní. Už žádné cukroví, dárky ani ohňostroje. Jen realita, která není vždycky veselá. Těžkou novoroční kocovinou si prochází podle dokumentaristy Vitalije Manského i Rusko, ale trvá mu to už 20 let. Na Silvestra 1999 rezignoval prezident Boris Jelcin a jako dočasného zástupce za sebe vybral v té době nepříliš známého Vladimira Putina. Manskij se stal jeho osobním dokumentaristou a svými filmy mu pomohl k vítězství v následných prezidentských volbách.*
 
-{% photo src="http://i.ohlasy.info/Tl20IZk.jpg" %}
+{% photo src="https://i.ohlasy.info/Tl20IZk.jpg" %}
 
 Po letech se režisér ke starým záběrům vrací, přikládá některé dosud nezveřejněné a nový tvar komentuje. Na přelomu tisíciletí totiž netušil, komu to vlastně pomáhá k moci. Nyní je Manskij v opozici, žije v Lotyšsku a v dokumentu Svědkové Putinovi poodhaluje, jak snadno a „demokraticky“ se může do čela státu dostat autoritář. Základem je strach občanů a zjevení silného hrdiny v pravý čas. A samozřejmě dobře propracovaná kampaň, která vůbec nevypadá jako kampaň.
 

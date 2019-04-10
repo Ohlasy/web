@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Sionismus, cesta k židovskému státu"
 perex: Stát Izrael slaví letos 70 let. Cesta k němu byla dlouhá a strastiplná, v dalším dílu Příběhů z ghetta ji připomíná Helena Janíková. Sionisumus měl řadu přívrženců i v Boskovicích.
-cover-photo: http://i.ohlasy.info/DDgks7Sl.jpg
+cover-photo: https://i.ohlasy.info/DDgks7Sl.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *Dne 14. května 1948 vyhlásil v sále telavivského muzea David Ben Gurion samostatný stát Izrael a stal se jeho prvním premiérem. Za státní znak byla zvolena menora, sedmiramenný svícen, státní vlajka dostala barvy modlitebního šálu, talitu, modrou a bílou s Davidovou hvězdou uprostřed. Sen mnoha generací Židů byl splněn. Cesta k němu byla dlouhá a strastiplná.*
 
-{% photo src="http://i.ohlasy.info/DDgks7S.jpg" caption="David Ben Gurion čte Deklaraci nezávislosti Státu Izrael, 14. května 1948" author="Rudi Weissenstein" %}
+{% photo src="https://i.ohlasy.info/DDgks7S.jpg" caption="David Ben Gurion čte Deklaraci nezávislosti Státu Izrael, 14. května 1948" author="Rudi Weissenstein" %}
 
 Svou byť v té době už jen formální samostatnost ztratila římská provincie Judea po prohrané Židovské válce v letech 66–70 n.l., kdy se nejednotní, početně slabí a nedostatečně vyzbrojení Židé pokoušeli zvítězit nad mocným Římem, pod jehož faktickou nadvládou již delší dobu žili. Válka skončila prohrou Židů, zničením jeruzalémského chrámu v roce 70 n.l. a postupným odcházením Židů do takzvané diaspory čili vyhnanství do nejrůznějších částí světa. Římané usilovali o úplné zapomenutí na Judeu a začali toto území nazývat Palestina, jako připomínku tehdy již dávno neexistujícího národa Pelištejců, kdysi úhlavních nepřátel Židů.
 

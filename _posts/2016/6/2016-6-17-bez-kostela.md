@@ -1,13 +1,13 @@
 ---
 title: Křesťané bez kostela?
 author: Jiří Bureš
-cover-photo: http://i.ohlasy.info/knINoQ6l.jpg
+cover-photo: https://i.ohlasy.info/knINoQ6l.jpg
 category: názory a komentáře
 ---
 
 *Zamyšlení boskovického evangelického faráře a přispěvatele Ohlasů Jiřího Bureše. Text původně vyšel v místním sborovém časopise Na rozcestí II / 2016.*
 
-<img src="http://i.ohlasy.info/knINoQ6.jpg" alt="kruh lidí na louce" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/knINoQ6.jpg" alt="kruh lidí na louce" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 *Psal se rok 1935. Do evangelické vesnice v německé části Krušných hor přišel nový farář. Na úbočí kopce stál hrázděný kostel, který kdysi sloužil jako chrám i pevnost. Místní byli dobří evangelíci a svůj kostel měli rádi – a tak byly jeho lavice neděli co neděli plné.*
 

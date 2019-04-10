@@ -1,14 +1,14 @@
 ---
 title: "Z radnice: Opravy skleníku a sokolovny, soud s Julínkem a zprůjezdnění Štefánikovy"
 perex: Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady a mimořádné schůzi zastupitelstva 7. listopadu.
-cover-photo: http://i.ohlasy.info/wy1Zc9kl.jpg
+cover-photo: https://i.ohlasy.info/wy1Zc9kl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady a mimořádné schůzi zastupitelstva 7. listopadu. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="http://i.ohlasy.info/wy1Zc9k.jpg" caption="Hasiči provizorně zakrývají skleník poškozený orkánem" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/wy1Zc9k.jpg" caption="Hasiči provizorně zakrývají skleník poškozený orkánem" author="Tomáš Znamenáček" %}
 
 První mimořádné zastupitelstvo v tomto volebním období bylo svoláno především kvůli potřebě schválit dvě investice do kulturních stánků – na opravu podlahy v sokolovně a na opravu střechy zámeckého skleníku, kterou poškodila nedávná vichřice.
 

@@ -1,14 +1,14 @@
 ---
 title: Vedení boskovické nemocnice přebere dosavadní náměstek Dan Štěpánský
 perex: Současný šéf Nemocnice Boskovice Miloš Janeček skončí ve své funkci ke konci března.
-cover-photo: http://i.ohlasy.info/YEvm8LWl.jpg
+cover-photo: https://i.ohlasy.info/YEvm8LWl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Současný šéf Nemocnice Boskovice Miloš Janeček skončí ve své funkci ke konci března. Otěže přebere přinejmenším na tři měsíce jeho ekonomicko-správní náměstek Dan Štěpánský, než vzejde nový jednatel z výběrového řízení. Právě Štěpánský zvažuje, že se do něj přihlásí.*
 
-{% photo src="http://i.ohlasy.info/YEvm8LW.jpg" caption="Dan Štěpánský (vlevo) a Miloš Janeček na jednání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/YEvm8LW.jpg" caption="Dan Štěpánský (vlevo) a Miloš Janeček na jednání zastupitelstva" author="Tomáš Trumpeš" %}
 
 Už před týdnem Ohlasy informovaly o tom, že [Miloš Janeček nebude dál pokračovat](http://www.ohlasy.info/clanky/2019/02/janecek-konci.html) jako šéf boskovické nemocnice. Bývalého senátora za ČSSD a někdejšího ředitele brněnské Úrazové nemocnice dosadila do čela zdravotnického zařízení v prosinci 2015 minulá rada pod vedením boskovické ČSSD.
 

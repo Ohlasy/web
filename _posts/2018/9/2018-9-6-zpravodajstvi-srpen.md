@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za srpen
-cover-photo: http://i.ohlasy.info/S4UugCjl.jpg
+cover-photo: https://i.ohlasy.info/S4UugCjl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v srpnu na Boskovicku událo.*
 
-{% photo src="http://i.ohlasy.info/S4UugCj.jpg" caption="Přístavba mateřské školy na Bílkově ulici" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/S4UugCj.jpg" caption="Přístavba mateřské školy na Bílkově ulici" author="Tomáš Trumpeš" %}
 
 Byly zveřejněny [kandidátní listiny](https://volby.cz/pls/kv2018/kv2211?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=6201&xobec=581372) pro letošní komunální volby.
 

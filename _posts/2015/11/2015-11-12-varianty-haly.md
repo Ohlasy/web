@@ -1,6 +1,6 @@
 ---
 title: "Sportovní hala bude na Července, ve hře jsou čtyři varianty"
-cover-photo: http://i.ohlasy.info/mRpyIcw.jpg
+cover-photo: https://i.ohlasy.info/mRpyIcw.jpg
 category: zpravodajství
 author: Marek Osouch
 tags:
@@ -11,25 +11,25 @@ tags:
 
 *Po dlouhých měsících, kdy se mluvilo o [různých variantách v různých částech Boskovic](/clanky/2015/06/pozemky-pro-halu.html), je jasno. Hala bude ve sportovním areálu Červená zahrada. Otázkou zůstává, kde přesně. Rada předložila veřejnosti a odborným komisím k posouzení čtyři varianty, zatím bez možné ceny. Ani na jednu z nich už podle starostky nebude třeba dokupovat další pozemky od soukromníků. Která varianta nakonec bude tou konečnou, tedy kde by se mělo do konce volebního období začít stavět, rozhodnou zastupitelé na zasedání 8. prosince.*
 
-<img src="http://i.ohlasy.info/mRpyIcw.jpg" alt="varianta 1" class="img-responsive img-popup" data-author="AV atelier">
+<img src="https://i.ohlasy.info/mRpyIcw.jpg" alt="varianta 1" class="img-responsive img-popup" data-author="AV atelier">
 
 ### 1. Na fotbalovém stadionu
 
 V této variantě by se podoba současného sportovního areálu dost změnila. Travnaté fotbalové hřiště by se otočilo o devadesát stupňů a sportovní hala o velikosti 2600 metrů čtverečních by stála hned vedle silnice vedoucí k zimnímu stadionu. Otočením by hřiště samozřejmě zasáhlo i do současných tribun a kabin. Počítá se proto s výstavbou nových mezi oběma fotbalovými hřišti. „Kabiny se dají též navrhnout integrované do sportovní haly a nad těmito využít prostor pro vnitřní tribunu jak do haly, tak na fotbal,“ píše se o variantě na webu města. Zároveň by touto variantou zmizel pozůstatek atletického oválu, a když započítáme současná parkovací místa u zimního stadionu, byly by v areálu téměř tři stovky parkovacích míst, část z nich by vznikla i na odkoupeném pozemku mlýna, a mohla by se tím tak vyřešit nešťastná situace, kdy v létě nemají lidé jedoucí na koupaliště kde parkovat.
 
-<img src="http://i.ohlasy.info/CguSvMR.jpg" alt="varianta 2" class="img-responsive img-popup" data-author="AV atelier">
+<img src="https://i.ohlasy.info/CguSvMR.jpg" alt="varianta 2" class="img-responsive img-popup" data-author="AV atelier">
 
 ### 2. Hala místo fotbalových kabin a tribun
 
 Druhá varianta opět počítá se zbouráním současných tribun a kabin pro fotbalisty. Místo nich totiž vyroste sportovní hala, stejně velká jako v první variantě. Jenom tam se ale nevejde, počítá se proto s posunutím celého fotbalového hřiště blíže k řece, opět by tedy zmizel zbytek atletického oválu. „K této hale lze přiřadit kabiny, tribunu i prostor pro lezeckou stěnu,“ stojí na webu města. V této variantě je navrženo o sto parkovacích míst méně než v první. 
 
-<img src="http://i.ohlasy.info/6xjCgUu.jpg" alt="varianta 3" class="img-responsive img-popup" data-author="AV atelier">
+<img src="https://i.ohlasy.info/6xjCgUu.jpg" alt="varianta 3" class="img-responsive img-popup" data-author="AV atelier">
 
 ### 3. Zbourat mlýn
 
 Zbourat mlýn a postavit halu na odkoupeném pozemku je další nabízená varianta. Sportovní hala by ovšem byla menší než v předchozích dvou případech, měla by velikost 2460 metrů čtverečních. Nezasahovalo by se ovšem do žádných dalších sportovišť. „Parkování je navrženo podél příjezdové komunikace do areálu a kolem sportovní víceúčelové haly,“ konstatuje se na webu. Celkem je v celém sportovním areálu navrženo 177 parkovacích míst pro osobní automobily, 4 parkovací místa pro handicapované osoby a 3 parkovací místa pro autobusy.  
 
-<img src="http://i.ohlasy.info/p4Sgm4B.jpg" alt="varianta 4" class="img-responsive img-popup" data-author="AV atelier">
+<img src="https://i.ohlasy.info/p4Sgm4B.jpg" alt="varianta 4" class="img-responsive img-popup" data-author="AV atelier">
 
 ### 4. Mlýn nezbouráme
 

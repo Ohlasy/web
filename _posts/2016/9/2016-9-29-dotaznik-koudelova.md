@@ -1,7 +1,7 @@
 ---
 title: "Senátorský dotazník: Mária Koudelová, KSČM"
 author: Tomáš Trumpeš
-cover-photo: http://i.ohlasy.info/q4zXyae.jpg
+cover-photo: https://i.ohlasy.info/q4zXyae.jpg
 category: rozhovory
 tags:
     - senátní volby 2016
@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Mária Koudelová, která do senátu kandiduje za stranu KSČM.*
 
-<img src="http://i.ohlasy.info/q4zXyae.jpg" alt="Mária Koudelová" class="img-responsive img-popup">
+<img src="https://i.ohlasy.info/q4zXyae.jpg" alt="Mária Koudelová" class="img-responsive img-popup">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěla navrhnout a prosadit?**
 

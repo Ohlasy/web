@@ -1,14 +1,14 @@
 ---
 title: V boskovické nemocnici skončil Tomáš Julínek
 author: Marek Osouch
-cover-photo: http://i.ohlasy.info/M9norlGl.jpg
+cover-photo: https://i.ohlasy.info/M9norlGl.jpg
 category: zpravodajství
 tags: nemocnice
 ---
 
 *Tomáš Julínek, bývalý ministr zdravotnictví za vlády Mirka Topolánka, skončil ke dnešnímu dni v boskovické nemocnici, kde pracoval od října 2013 na pozici náměstka pro ekonomiku a správu. Městská rada jako valná hromada nemocnice rozhodla o zrušení tohoto postu a věci, které měl Julínek na starosti, podřídila současné jednatelce. Tou je od říjnového odvolání Dana Navrátila boskovická starostka Hana Nedomová (ČSSD).*
 
-<img src="http://i.ohlasy.info/M9norlG.jpg" alt="Tomáš Julínek" class="img-responsive img-popup" data-author="Jiří „Frettie“ Sedláček">
+<img src="https://i.ohlasy.info/M9norlG.jpg" alt="Tomáš Julínek" class="img-responsive img-popup" data-author="Jiří „Frettie“ Sedláček">
 
 „Byla to účelová změna organizačního řádu, aby se mě mohli zbavit. Jakmile jsem se vrátil z měsíční dovolené, tak přidali na radu rychle bod a tam to odhlasovali,“ sdělil Tomáš Julínek. Důvod změny se nedozvěděl. „Starostka mi k tomu jen řekla, že tak rozhodla rada,“ dodal.
 

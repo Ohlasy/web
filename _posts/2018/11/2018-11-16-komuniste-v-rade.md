@@ -1,7 +1,7 @@
 ---
 title: "Listopad 1998: Komunisti se poprvé od revoluce dostali k moci v Boskovicích"
 perex: Devět let od Sametové revoluce, kdy padl komunistický režim, získala strana, se kterou do té doby kvůli dědictví z minulosti nikdo nepočítal, znovu podíl na moci.
-cover-photo: http://i.ohlasy.info/EC4Bp9Dl.jpg
+cover-photo: https://i.ohlasy.info/EC4Bp9Dl.jpg
 author: Marek Osouch
 category: seriály
 serial: osmicky
@@ -9,7 +9,7 @@ serial: osmicky
 
 *Devět let od Sametové revoluce, kdy padl komunistický režim, se po komunálních volbách v roce 1998 do vedení Boskovic dostal také kandidát koalice KSČM a Strany demokratického socialismu (SDS). Strana, se kterou do té doby kvůli dědictví z minulosti nikdo nepočítal, získala znovu podíl na moci.*
 
-{% photo src="http://i.ohlasy.info/EC4Bp9D.jpg" caption="Dušan Sušil" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/EC4Bp9D.jpg" caption="Dušan Sušil" author="Město Boskovice" %}
 
 Po volbách v roce 1990 skončili komunisté mimo radu, o čtyři roky později však už měla koalice KSČM a tehdejšího Levého bloku ambice znovu se podílet na vedení města. I proto, že komunální volby v roce 1994 v Boskovicích komunisté vyhráli. Ostatní strany je však jako vítěze voleb vyšachovaly.
 

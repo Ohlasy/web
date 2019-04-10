@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: Informace z rady a letní plán kulturních akcí"
-cover-photo: http://i.ohlasy.info/pWwjfYml.jpg
+cover-photo: https://i.ohlasy.info/pWwjfYml.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady na konci ledna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="http://i.ohlasy.info/pWwjfYm.jpg" caption="Koncert v letním kině" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/pWwjfYm.jpg" caption="Koncert v letním kině" author="Tomáš Znamenáček" %}
 
 ### Nafukovací hala
 

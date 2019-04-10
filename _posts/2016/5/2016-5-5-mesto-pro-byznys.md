@@ -1,6 +1,6 @@
 ---
 title: Špatné výsledky Boskovic v soutěži Město pro byznys + anketa s podnikateli
-cover-photo: http://i.ohlasy.info/qgjLtsPl.jpg
+cover-photo: https://i.ohlasy.info/qgjLtsPl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: podnikání
@@ -8,7 +8,7 @@ tags: podnikání
 
 *Jako město pro byznys Boskovice příliš nebodují. Alespoň ve stejnojmenné soutěži, kterou pořádá každoročně agentura Datank. V Jihomoravském kraji letos skončily Boskovice na 17. místě z 21 hodnocených měst, v celkovém hodnocení za celou republiku jsou až na 181. místě z 205 obcí z rozšířenou působností. Pojďme se tedy podívat, jak si město stálo v jednotlivých kritériích hodnocení. K tématu připojujeme anketu s místními podnikateli, kterých jsme se zeptali, jak jsou s místním podnikatelským prostředím spokojeni.*
 
-<img src="http://i.ohlasy.info/qgjLtsP.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/qgjLtsP.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 [Celá soutěž má dva základní hodnotící okruhy](http://www.mestoprobyznys.cz/download/2014/8.Jihomoravsky_2015.pdf), prvním je podnikatelské prostředí a druhým přístup veřejné správy. Některé obce dosahují v těchto dvou oblastech výrazně odlišných výsledků, ne tak Boskovice, které skončily v první oblasti na 16. a ve druhé na 17. příčce v kraji. 
 
@@ -34,7 +34,7 @@ Celkově nejúspěšnějším městem pro byznys byl letos v Jihomoravském kraj
 
 ---
 
-<img src="http://i.ohlasy.info/uAEH8sQ.jpg" class="profile-picture" alt="Radim Petrů">
+<img src="https://i.ohlasy.info/uAEH8sQ.jpg" class="profile-picture" alt="Radim Petrů">
 
 **Radim Petrů, Sport Petrů**
 
@@ -44,7 +44,7 @@ A mám zmínit překážky, tak jedna už byla v minulosti učiněna a zapříč
 
 ---
 
-<img src="http://i.ohlasy.info/5kPmQxk.jpg" class="profile-picture" alt="František Vlk">
+<img src="https://i.ohlasy.info/5kPmQxk.jpg" class="profile-picture" alt="František Vlk">
 
 **František Vlk, Gatema s.r.o.**
 
@@ -56,7 +56,7 @@ Za velký problém Boskovic (ale nejsem si jist, zda to patří do tohoto textu)
 
 ---
 
-<img src="http://i.ohlasy.info/oenuOVr.jpg" class="profile-picture" alt="Milan Novotný">
+<img src="https://i.ohlasy.info/oenuOVr.jpg" class="profile-picture" alt="Milan Novotný">
 
 **Milan Novotný, Zverex**
 
@@ -64,7 +64,7 @@ Po 24 letech podnikání v centru města si nepřipadám už jen jako obchodník
 
 ---
 
-<img src="http://i.ohlasy.info/nMFHPPd.jpg" class="profile-picture" alt="Barbora Hanzlová">
+<img src="https://i.ohlasy.info/nMFHPPd.jpg" class="profile-picture" alt="Barbora Hanzlová">
 
 **Barbora Hanzlová, Kafe za rohem, Penzion v židovské čtvrti**
 

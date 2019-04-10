@@ -1,6 +1,6 @@
 ---
 title: Boskovice navštívila Eva Morris, dcera posledního rabína
-cover-photo: http://i.ohlasy.info/ZWyhOoll.jpg
+cover-photo: https://i.ohlasy.info/ZWyhOoll.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: historie
@@ -8,7 +8,7 @@ tags: historie
 
 *Významnou návštěvu hostily minulý týden Boskovice. Do města přijela paní Eva Morris, dcera posledního boskovického rabína Isidora Reicha. Doprovázel ji syn Amos Reich a vnučky Abigail a Yael.*
 
-<img src="http://i.ohlasy.info/ZWyhOol.jpg" alt="Eva Morris" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/ZWyhOol.jpg" alt="Eva Morris" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 „Eva Morris se narodila 17. listopadu 1928 a je jednou z posledních žijících osob z boskovické židovské komunity. Jako všichni Židé měla být i ona se svou rodinou deportována na brněnské shromaždiště a odtud do jednoho z mnoha koncentračních táborů. Díky jejímu otci se jí však podařilo dostat se z republiky,“ popsala minulost vzácné návštěvnice ředitelka Muzea Boskovicka Dagmar Hamalová.
 
@@ -24,7 +24,7 @@ Lepšího přijetí se dceři posledního místního rabína dostalo až po Same
 
 V Boskovicích se uskutečnila také beseda, která vzbudila mimořádný zájem, židovský obecní dům zaplnilo více než 100 posluchačů. „Já nejsem vůbec důležitá. Moje paměť je paměť malé holčičky. Po generace jsem v Boskovicích vůbec nebyla. Cítím se jako ve snu, ale ten sen se také mění v noční můru. Ale chtěla bych, abychom všichni společně zavzpomínali na to, že zde kdysi byla známá židovská komunita, která zde žila po staletí. A otázka, kterou bych dnes chtěla položit, zní, co můžeme udělat pro to, abychom si tuto komunitu a tyto lidi připomenuli. A také se pobavili o tom, co si chceme pamatovat, zda jsou to tisíce lidí a stovky let tradice, anebo si chceme pamatovat to, co se této komunitě stalo, že zde v Boskovicích dnes není jediný Žid,“ zahájila besedu paní Eva Morris.
 
-<img src="http://i.ohlasy.info/FaCGNJg.jpg" alt="Eva Morris" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/FaCGNJg.jpg" alt="Eva Morris" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 Sama paní Morris se velmi aktivně zajímala o to, jak minulost vnímají dnešní obyvatelé Boskovic a jakým způsobem se téma vyučuje na školách. Nechtěla se bavit příliš mnoho o minulosti, ale stále akcentovala, jakým způsobem je možné vzpomínky uchopit ve vztahu k budoucnosti. Také proto byla podle svého vyjádření při této návštěvě potěšena především tím, že pozvání obdržel také její syn a dvě vnučky. „Je pro mě velmi důležité, aby viděly, kde jsem do svých 10 let vyrůstala. Budou díky tomu schopny předat tento zážitek dalším generacím,“ zdůraznila dcera posledního boskovického rabína Eva Morris.
 

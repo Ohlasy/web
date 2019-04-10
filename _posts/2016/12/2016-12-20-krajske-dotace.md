@@ -1,7 +1,7 @@
 ---
 title: Krajský rozpočet počítá s menší sumou na dotace. Dotkne se to i Boskovic
 perex: Nová krajská koalice zrušila v krajském rozpočtu kapitolu individuálních dotací, ve které bylo zhruba 300 milionů. Boskovice z této částky jen letos získaly 10 milionů.
-cover-photo: http://i.ohlasy.info/a03JXlnl.jpg
+cover-photo: https://i.ohlasy.info/a03JXlnl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice dotace politika

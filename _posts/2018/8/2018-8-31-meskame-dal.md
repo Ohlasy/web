@@ -1,6 +1,6 @@
 ---
 title: Nikdo nepřichází s vizí. Meškáme dál
-cover-photo: http://i.ohlasy.info/oocohY0rl.jpg
+cover-photo: https://i.ohlasy.info/oocohY0rl.jpg
 author: Radek Pernica
 category: názory a komentáře
 tags: politika volby2018
@@ -8,7 +8,7 @@ tags: politika volby2018
 
 *Své předvolební pocity shrnul v komentáři pro Ohlasy bývalý šéf boskovického kina Radek Pernica, který dnes vede brněnské kino Scala. Žije v Mladkově a boskovické dění stále pozorně sleduje.*
 
-{% photo src="http://i.ohlasy.info/oocohY0r.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/oocohY0r.jpg" author="Tomáš Znamenáček" %}
 
 V podstatě si nemyslím, že kulturu v našem městě tvoří jednotlivé události, v rámci kterých vystupují zvaní či lokální performeři. Možná to zní drze, ale ani Unijazz to nezachrání. Považuji za kulturní rozměr něco zcela jiného, více myšlenkově společného, v komunikaci smířlivějšího a přesto konstruktivně rozhádaného. Myslím, že jsme se nechali unést do jakéhosi falešného historického rámce „Boskovice jsou kulturní“, který ovšem prověřil čas a ukázal, že v kontextu okolního světa naše město ztrácí krok a dech.
 

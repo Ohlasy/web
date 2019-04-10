@@ -1,14 +1,14 @@
 ---
 title: "Významné objevy na Kunštátě: Pod pláštěm zámku se ukrývá takřka kompletní gotický hrad"
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/taUK3xrl.jpg
+cover-photo: https://i.ohlasy.info/taUK3xrl.jpg
 author: Tomáš Trumpeš
 tags: historie
 ---
 
 *Významné objevy přinesl prohloubený stavebně-historický průzkum, který probíhal od loňského podzimu do letošního jara na zámku v Kunštátě. Nejpřevratnějším objevem je zjištění, že hmota původního gotického hradu nevzala z podstatné části za své během renesanční přestavby, ale je takřka v kompletním stavu součástí dnešní budovy. Pod modernějšími vrstvami zámku jsou tak postupně odhalována zcela fascinující tajemství. Třeba unikátní gotická výmalba či fragmenty vzácných kamenických prvků. Po letošní sezóně bude výzkum pokračovat.*
 
-<img src="http://i.ohlasy.info/taUK3xr.jpg" alt="Radim Štěpán" class="img-responsive">
+<img src="https://i.ohlasy.info/taUK3xr.jpg" alt="Radim Štěpán" class="img-responsive">
 
 „Výsledky nás velmi překvapily,“ říká kunštátský kastelán Radim Štěpán. Stavebně-historický průzkum přinesl mnoho nového i pro něj, i když na objektu působí už více než dvacet let a jeho poznávání se intenzivně věnuje. Nová zjištění ho navíc povětšinou velice potěšila. „Tušili jsme, že velká část hmoty starého hradu je v budově zámku uchována, ale vůbec jsme netušili, že středověký hrad je de facto zachovaný celý. To jsou naprosto významné nálezy, které ukazují, že na Kunštátě se prakticky nebouralo. Na Kunštátě se pouze přistavovalo,“ vysvětluje Radim Štěpán.
 
@@ -16,7 +16,7 @@ tags: historie
 
 Až do letošního jara památkáři vycházeli z přesvědčení, že podstatná přestavba, která znamenala změnu kunštátského hradu na zámek, proběhla v renesanci. Poslední průzkum ale definitivně ukázal, že tento předpoklad byl mylný. V renesanci proběhla pouze „modernizace“ objektu, která nebyla příliš zásadní, neboť stále respektovala původní dispozici a patrování. Zásadní přestavba přišla až v baroku, koncem 17. století.
 
-<img src="http://i.ohlasy.info/wxdah3o.jpg" alt="obraz kunštátského zámku" class="img-responsive">
+<img src="https://i.ohlasy.info/wxdah3o.jpg" alt="obraz kunštátského zámku" class="img-responsive">
 
 Vzhledem k tomu, že renesance do stavby příliš nezasáhla, objevují dnes památkáři ve hmotě zámku prakticky intaktně dochovaný hrad, a to až do výše prvního patra. Průzkum přinesl také zcela konkrétní nálezy spojené s původním hradem. Kupříkladu vrcholně či pozdně gotické omítky včetně výmalby. A dále významné nálezy spojené s dalšími etapami objektu, tedy barokní či klasicistní stavební prvky. Všechny tyto poznatky jsou podle Radima Štěpána pro památkáře velice významné, pokud chtějí citlivě pokračovat v celkové obnově budovy.
 
@@ -34,7 +34,7 @@ Kunštát sice nebyl královským hradem, ale patřil českému králi Jiřímu 
 
 Na základě nových zjištění musejí historici a památkáři také přepracovat dosavadní informační materiály o objektu. Průběžně v Kunštátě aktualizují průvodcovský sylabus, takže už dnes vám průvodkyně poskytnou výklad obohacený o nejnovější poznatky. Výsledkem stavebně-historického průzkumu by však mělo být také to, že během dvou či tří let vyjde reprezentativní monografie o kunštátském zámku. Ta by veškeré dosavadní poznatky shrnula. „Taková publikace dnes Kunštátu chybí,“ připomíná kastelán.
 
-<img src="http://i.ohlasy.info/ZDQz23L.jpg" alt="stěna s odkrytými vrstvami omítek" class="img-responsive">
+<img src="https://i.ohlasy.info/ZDQz23L.jpg" alt="stěna s odkrytými vrstvami omítek" class="img-responsive">
 
 Hlavní objevy se týkají části, která dnes není přístupná návštěvníkům. Do budoucna by však měli dostat příležitost podívat se i do těchto částí takzvaného Horního zámku. V nejstarší části budovy, v současném mezipatře, by mohla v budoucnu vzniknout speciální prohlídková trasa, která by prezentovala výsledky celého stavebně-historického průzkumu. Expozice by měla být zajímavá pro odbornou i laickou veřejnost. A každému, kdo by ji navštívil, by měla objasnit právě přerod kunštátského hradu na zámek. Dnes je pro památkáře předmětem diskusí, co a v jaké míře bude z nálezů vhodné prezentovat. V případě, že by chtěli odhalit původní gotické omítky, by totiž v některých případech museli poškodit další rovněž velmi vzácné vrstvy barokní či klasicistní. Někde je naštěstí gotická omítka překryta pouze přelíčením z 20. století.
 
@@ -46,7 +46,7 @@ Aktuálně je podle Radima Štěpána pro zámek důležité zaměřit se spíš
 
 Druhou podobnou akcí je obnova zámeckých oken. Těch je na Horním zámku něco přes stovku a ta stávající jsou naprosto ahistorická. V sedmdesátých letech byla totiž na zámecké budově osazena jednoduchá okna, v té době zde sídlil archiv ministerstva vnitra. Naštěstí však existuje dostatečná dokumentace, která ukazuje, jak vypadala okna předcházející. A nejen dokumentace – díky zaměstnancům archivu, kteří část klasicistních oken schovali, mají dnes památkáři k dispozici referenční vzorky. Na zámecké budově jsou už dnes k vidění první tři nová, či spíše staronová okna. Při rekonstrukci Hraběcího salonu v prvním patře zámku přistoupili totiž památkáři k výrobě prvních replik. „Jedná se skutečně o věrné kopie, které navíc částečně využívají původní referenční vzorky. V Hraběcím salonu jsou kupříkladu veškeré vnitřní okenice původní, pouze se repasovaly. Navíc se dochovalo i nádherné mosazné kování, takže i to bylo při výrobě využito.“
 
-<img src="http://i.ohlasy.info/bXuNpaQ.jpg" alt="okna zámku" class="img-responsive">
+<img src="https://i.ohlasy.info/bXuNpaQ.jpg" alt="okna zámku" class="img-responsive">
 
 Výměna oken představuje podobně jako elektroinstalace zásah do omítek. I zde je tedy důležité, aby výměna oken předcházela restaurování jednotlivých místností, kde proběhl či probíhá výzkum. Plánovaný postup je tedy jasný: nejprve elektroinstalace, pak okna, teprve poté restaurování. A zcela na závěr může přijít na řadu fasáda, na jejíž opravu se podle kastelána ptá asi největší počet návštěvníků. „Odpovídám vždycky přirovnáním k lidskému organizmu. Zámek je pro mě živoucí bytost, a pokud jí chci dobře sloužit, je pro mě nejprve důležitá interna. A až bude tělo v pořádku uvnitř, můžu teprve přemýšlet, co na ně obleču,“ vysvětluje kastelán Radim Štěpán. 
 

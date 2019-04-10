@@ -1,6 +1,6 @@
 ---
 title: „Kuchařku jsem v životě nevydal, tak hluboko jsem naštěstí nepadl.“
-cover-photo: http://i.ohlasy.info/PlFIzGJl.jpg
+cover-photo: https://i.ohlasy.info/PlFIzGJl.jpg
 perex: Rozhovor s nakladatelem Františkem Šalé, mimo jiné o jeho nové knize o životě a díle umělce a boskovického rodáka Františka Řehořka.
 author: Martina Vašková
 category: rozhovory
@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s nakladatelem Františkem Šalé. Na pultech knihkupectví aktuálně najdete zcela novou publikaci o životě a díle umělce a boskovického rodáka Františka Řehořka. Kniha Malíř František Řehořek je jedním ze čtyř set titulů, které František Šalé vydal ve svém boskovickém nakladatelství Albert.*
 
-<img src="http://i.ohlasy.info/PlFIzGJ.jpg" alt="František Šalé" class="img-responsive img-popup" data-author="Martina Vašková">
+<img src="https://i.ohlasy.info/PlFIzGJ.jpg" alt="František Šalé" class="img-responsive img-popup" data-author="Martina Vašková">
 
 **Proč jste se rozhodl vydat knihu právě o Františku Řehořkovi?**
 
@@ -27,7 +27,7 @@ Ze dvou set zapůjčených obrazů jsme vybrali reprezentativní vzorek, který 
 
 Nebylo to složité, ale spíše časově náročné, rok a půl jsme obrazové podklady shromažďovali. Největší část obrazů měli soukromí majitelé a také obec Kořenec, další jsme si zapůjčili z nejrůznějších institucí, jako je třeba Moravská galerie v Brně, Moravské zemské muzeum, Muzeum regionu Boskovicka, Galerie Cordia a mnoho dalších. Takto jsme se dostali ke spoustě lidí. K mému velkému překvapení – nutno říct, že příjemnému – ani jeden z nich neřekl, že s nafocením a uveřejněním v knize nesouhlasí. Určitým problémem bylo nafocení obrazů, protože ne všechny se daly fotit v ideálních podmínkách, takže jsme velmi často museli improvizovat. Focení se zhostil Jaroslav Švec, kterému se podařilo udělat kvalitní snímky pro tisk. Kniha se tak z původně plánovaného stostránkového menšího formátu rozšířila na více dvě stě stran. Když jsme viděli ty kvalitní obrazy, nechtěli jsme o ně čtenáře ochudit. 
 
-<img src="http://i.ohlasy.info/Vvr8u9B.jpg" alt="František Řehořek" class="img-responsive img-popup img-framed">
+<img src="https://i.ohlasy.info/Vvr8u9B.jpg" alt="František Řehořek" class="img-responsive img-popup img-framed">
 
 **Čímž se dostáváme ke kolektivu autorů. Kdo další se kromě vás, Petra Vítámváse a Jaroslava Švece na knize podílel?**
 
@@ -73,7 +73,7 @@ Stát se to samozřejmě může, také se to stalo, ale to jsou spíš výjimky.
 
 Proces začíná tím, že do něj vstoupí moje žena a o dané knize se bavíme a přemýšlíme, kde na ni vezmeme peníze. Občas vypomohou sponzoři, někdy si to lidé platí sami, což je pak samozřejmě jednodušší. Jednoduchou sazbu a korektury dokážu udělat sám. Pak řešíte korektury s autorem, obrázky s grafikem. Dle typu knihy vyberete tiskárnu, a pokud jde vše hladce, můžete mít ideálně knihu za pár týdnů hotovou. Ale někdy celý proces může trvat přes rok.
 
-<img src="http://i.ohlasy.info/06shgJV.jpg" alt="František Šalé" class="img-responsive img-popup" data-author="Martina Vašková">
+<img src="https://i.ohlasy.info/06shgJV.jpg" alt="František Šalé" class="img-responsive img-popup" data-author="Martina Vašková">
 
 **Na které vaše knihy jste pyšný?**
 

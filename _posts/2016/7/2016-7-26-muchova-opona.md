@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Divadelní opona z Doubravice od Alfonse Muchy"
-cover-photo: http://i.ohlasy.info/OtOAm6Dl.jpg
+cover-photo: https://i.ohlasy.info/OtOAm6Dl.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
@@ -9,7 +9,7 @@ tags: historie kultura
 
 *I když muzejní evidence má svá přesná pravidla, nikdy nelze vyloučit, že se muzejník setká například s případem, kdy najde v depozitáři předmět, ke kterému není záznam v evidenci, a nemá žádné informace. V boskovickém muzeu byla po generace uskladněná divadelní opona, o jejímž původu nebylo nic známo. K rozřešení záhady divadelní opony nakonec pomohla náhoda.*
 
-<img src="http://i.ohlasy.info/FKk1ze7.jpg" alt="Doubravická opona od Alfonse Muchy" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
+<img src="https://i.ohlasy.info/FKk1ze7.jpg" alt="Doubravická opona od Alfonse Muchy" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
 
 Dlouho se v úvahách o jejím autorství zmiňovalo jméno Otakara Kubína, který měl v minulosti namalovat oponu pro místní ochotníky. V roce 2010 byla opona publikována v knize editora Jiřího Valenty Malované opony divadel českých zemí, s. 56–57, bez uvedení autorství, s touto informací od Jiřího Bušiny, dlouholetého boskovického divadelního ochotníka: „V Muzeu Boskovicka je uložena divadelní opona, o jejímž původu nejsou žádné zprávy, opona není součástí sbírek. Je namalována na plátně podšitém pytlovinou, navinuta na dřevěné lati a značně poškozena. Obraz představuje renesanční arkády s bohatou draperií a šňůrami v horní části. V prostředním oblouku stojí postava ženy s vavřínovým věncem na čele. Ve vztyčené pravici drží misku s ohněm. Po obou jejích stranách stojí postavy žen-hudebnic, u sloupů sedí dvě ženy v zamyšlení… na pozadí v jedné části Národní divadlo a v druhé siluetu města.“ 
 
@@ -33,7 +33,7 @@ při učení času není.*
 
 O jejich přátelství s Alfonsem Muchou svědčí i to, že když se v srpnu 1887 v Doubravici ženil, byl mu Mucha za svědka (oddávajícím byl vlastenecký kněz a básník P. Jan Soukop, doubravický farář).
 
-<img src="http://i.ohlasy.info/UzHWCH5.jpg" alt="Záznam v doubravické matrice" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
+<img src="https://i.ohlasy.info/UzHWCH5.jpg" alt="Záznam v doubravické matrice" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
 
 Alfons Mucha vzpomínal ve svých pamětech, které vydal jeho syn Jiří, na společný skrovný podnájem se Stantejským za studií v Brně: *„…V pokojíku bylo půldruhé postele. Jedna měla čtyři nohy a ta, kterou si vzal Stantejský, než dvě. Podložili jsme kufr, a když ho omrzelo na ní spát, tak jsme se měnili. Pak tam byly dvě židle, stolek – skříně žádné. Ale my stejně neměli co do nich… Zásobování jsme si rozdělili stejným dílem. Já dostával z domova pecen chleba, Julek hrnek sádla. Křídou jsme rozdělili pecen na krajíčky, jeden na každý den, a k tomu jsme měli sádlo. Jenomže ke konci byly krajíčky stále menší a menší. Ve stejném domě přes dvůr bydlela rodina našich znamenitých bratří Mrštíků… Byl to takový veselý zdravý život a při tom jsme dojídali ten náš pecen chleba a vymazávali hrnek sádla. K snídani a k večeři jsme měli vodu.“*
 
@@ -41,7 +41,7 @@ Mucha ale nepatřil – mírně řečeno – k nejlepším studentům. Vyjma kre
 
 Není divu, že Mucha domů s takovou zprávou nespěchal, a přivítal proto pozvání svého spolubydlícího Julia Stantejského vydat se na návštěvu jeho rodiny do Ústí nad Orlicí. Tato návštěva měla pro něj doslova osudový význam, jak později vzpomínal, Stantejský jej zavedl i do tamního farního kostela: *„…Ponejprv viděl jsem nástěnné malby. Celý strop byl pokryt krásnými malbami narození Páně s anděly, jejichž perutě rámovaly celé to dějství. Ale jaké barvy, jaká harmonie. Julek mne nemohl odtrhnout od pozorování těch zázraků. ,Kdo to maloval?‘ ptal jsem se Julka. ,Umlauf,‘ odbyl mě Julek, ale když viděl, že jsem chycen obrazy, dodal: ,Víš, to je náš ústecký malíř. Také v Praze, v jezuitském kostele, má celou řadu obrazů o marnotratném synu…‘ Po těchto poznámkách Julkových celá osobnost malíře Umlaufa rostla a rostla, až se mimoděk spojila v mé fantazii s okřídlenými cherubíny a stádem pasoucích se vepříků, snících o plném korytu. Ten hluboký dojem mne provázel po celý život a vždycky, kdykoliv jsem měl čas, zastavil jsem se v Praze na Karlově náměstí, abych se u svatého Ignáce poklonil svému učiteli."* Po večerech chodívali spolu do hospody u Cimprichů, kde Alfons Mucha portrétoval místní obyvatele za pivo. V Ústí nad Orlicí se pevně rozhodnul věnovat se malířskému povolání.
 
-<img src="http://i.ohlasy.info/6GQljCo.jpg" alt="Nástěnná malba v Ústí nad Orlicí" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
+<img src="https://i.ohlasy.info/6GQljCo.jpg" alt="Nástěnná malba v Ústí nad Orlicí" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
 
 Z gymnázia měl solidní malířskou průpravu, jeho učitelem byl Josef Zelený, známý malíř oltářních obrazů a zejména také obrazů cyrilometodějských. U přijímacích zkoušek na pražskou Akademii výtvarných umění však neuspěl a roku 1879 odešel do Vídně pracovat jako malíř divadelních dekorací do firmy Kautský-Brioschi-Burghardt. Roku 1883 byl pozván hrabětem Khuen Belassim k vytvoření dekorací interiérů zámků postupně Emmahof, Gandegg a Hrušovany. V letech 1885–1887 studoval na akademii v Mnichově a o dva roky později odešel do Paříže, kde se později proslavil.
 
@@ -51,6 +51,6 @@ Kdy ale mohl Alfons Mucha oponu pro Sokol v Doubravici namalovat? V článku z r
 
 Doubravická opona má rozměry 4,6 × 2,4 metru;  po stranách ústředního motivu – postavy Libuše se stafáží dalších žen – je zobrazeno Národní divadlo a z druhé strany panorama Hradčan – zde ještě před novogotickou dostavbou chrámu svatého Víta, tedy v poněkud nezvyklé podobě. Jelikož dostavba svatovítské katedrály podle projektu Josefa Krannera a Josefa Mockra probíhala v letech 1873–1929, může nám pevnější oporu pro dataci poskytnout pouze motiv Národního divadla, a to termín post quem – rok 1883, kdy bylo divadlo dostavěno a uvedeno do provozu.
 
-<img src="http://i.ohlasy.info/D7GqG7E.jpg" alt="Detail Národního divadla na doubravické oponě" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
+<img src="https://i.ohlasy.info/D7GqG7E.jpg" alt="Detail Národního divadla na doubravické oponě" class="img-responsive img-popup" data-author="Muzeum regionu Boskovicka">
 
 Opona se nedochovala v právě dobrém stavu, což je zapříčiněno především materiálem – plátno je velmi hrubé a malba na něm je na několika místech zcela setřená, pak také užitím, i uskladněním – po několik desetiletí ležela srolovaná na dřevěném kůlu v různých podmínkách. Nepochybně již za divadelního provozu docházelo k poškození, a tak je opona na několika místech opravována, sešívána a přemalována (to ztěžuje určení, nakolik je dochovaná malba vůbec autentická). V současné době je opona v rukou restaurátora.

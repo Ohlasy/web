@@ -1,13 +1,13 @@
 ---
 title: „Dobrýho pomálu.“ Miloš Zeman odchází
-cover-photo: http://i.ohlasy.info/2xEyZz2l.jpg
+cover-photo: https://i.ohlasy.info/2xEyZz2l.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
 *Komentář k prezidentské volbě. Miloš Zeman kampaň vede a nevede, do Boskovic přijel a nepřijel. Je však hlavním tématem voleb a vyhnout se mu nemůžeme.*
 
-{% photo src="http://i.ohlasy.info/2xEyZz2.jpg" caption="Návštěva Miloše Zemana v Boskovicích v roce 2014" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/2xEyZz2.jpg" caption="Návštěva Miloše Zemana v Boskovicích v roce 2014" author="Tomáš Trumpeš" %}
 
 Když asi před půl rokem ohlásil návštěvu Boskovic prezidentský kandidát Jiří Drahoš, přemýšleli jsme, jak jako boskovické noviny k této skutečnosti přistoupíme. Chtěli jsme být fér a nestranit žádnému z kandidátů, prezidentské volby ale pokládáme za natolik významné, že jsme osobní setkání s kandidáty čtenářům zprostředkovat chtěli. Nakonec jsme se rozhodli napsat o všech, kteří do Boskovic v rámci své kampaně přijedou. K [Jiřímu Drahošovi](http://www.ohlasy.info/clanky/2017/06/drahos.html) tak postupně přibyly ještě texty o [Pavlu Fischerovi](http://www.ohlasy.info/clanky/2017/12/fischer.html) a [Marku Hilšerovi](http://www.ohlasy.info/clanky/2018/01/hilser.html).
 

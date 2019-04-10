@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za březen
-cover-photo: http://i.ohlasy.info/Q6xY2gQl.jpg
+cover-photo: https://i.ohlasy.info/Q6xY2gQl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

@@ -1,7 +1,7 @@
 ---
 title: „Věřím, že vztahy v politice jdou nastavit lépe.“
 perex: Rozhovor s Michalem Knödlem, novým předsedou boskovické KDU-ČSL, který byl do čela strany zvolen začátkem roku poté, co se funkce vzdala senátorka Jaromíra Vítková.
-cover-photo: http://i.ohlasy.info/XH0KvRml.jpg
+cover-photo: https://i.ohlasy.info/XH0KvRml.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s Michalem Knödlem, novým předsedou boskovické KDU-ČSL. Do čela strany byl zvolen začátkem roku poté, co se funkce vzdala senátorka Jaromíra Vítková. Michal Knödl vystudoval ekonomii na Masarykově univerzitě, aktivně se věnuje fotbalu a také muzice. Pracuje ve firmě zabývající se polygrafií.*
 
-<img src="http://i.ohlasy.info/XH0KvRm.jpg" alt="Michal Knödl" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/XH0KvRm.jpg" alt="Michal Knödl" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Obecně se říká, že politika mladé lidi moc netáhne, ale v Boskovicích máme po šéfovi ANO Lukáši Holíkovi dalšího mladého stranického předsedu. Michale, jaká byla tvoje cesta do politiky?**
 
@@ -53,7 +53,7 @@ To je právě ono. Jsem sám zvědav, jak se nám a i konkrétně mně podaří 
 
 Doufám, že právě mladistvé nadšení. A cítím jako svou devízu, že ve vztazích v politice nemám s nikým žádný škraloup. Nic, co bychom si s někým udělali nebo neudělali. Jsem schopný si s kýmkoliv sednout ke stolu a o čemkoliv jednat. To si myslím, že je dobře, že nemám žádné šrámy z minulosti. Taky se pohybuju mezi mladými lidmi a můžu od nich slyšel zase trochu jiné potřeby.
 
-<img src="http://i.ohlasy.info/ZIGsGsH.jpg" alt="Michal Knödl" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/ZIGsGsH.jpg" alt="Michal Knödl" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Tím, že paní Vítková byla na postu už čtvrté volební období, vyprofilovala se i celá strana poměrně jasně na určitých tématech jako životní prostředí, neziskové organizace, památková zóna. Chtěl bys ty přinést i jiná témata?**
 
@@ -115,7 +115,7 @@ Nevím, jestli úplně pravý opak, neznám přesná aktuální čísla. Ale jak
 
 Ano. Z pohledu ekonoma určitě souhlasím, že něco z toho by bylo lepší schovat na horší časy. Samozřejmě nikdo neví, kdy přijdou, křivka hospodářského vývoje je ale taková, že nějaký pokles zase určitě nastane.
 
-<img src="http://i.ohlasy.info/va4Ph2l.jpg" alt="Michal Knödl" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/va4Ph2l.jpg" alt="Michal Knödl" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Velké a taky trochu ekonomické téma v Boskovicích je nemocnice. Snažíš se v tom nějak zorientovat?**
 

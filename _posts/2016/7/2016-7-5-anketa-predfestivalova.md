@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Co doporučujete z festivalového programu?"
-cover-photo: http://i.ohlasy.info/yAU5LRu.jpg
+cover-photo: https://i.ohlasy.info/yAU5LRu.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: kultura
@@ -10,7 +10,7 @@ tags: kultura
 
 ---
 
-<img src="http://i.ohlasy.info/ge4Kbws.jpg" class="profile-picture" alt="Tomáš Marvan">
+<img src="https://i.ohlasy.info/ge4Kbws.jpg" class="profile-picture" alt="Tomáš Marvan">
 
 **Tomáš Marvan, vedoucí boskovického kina**
 
@@ -24,7 +24,7 @@ Za pozornost stojí i ostatní filmy. Pečlivě je vybral dramaturg festivalový
 
 ---
 
-<img src="http://i.ohlasy.info/gPwP0C3.jpg" class="profile-picture" alt="Alena Vítková">
+<img src="https://i.ohlasy.info/gPwP0C3.jpg" class="profile-picture" alt="Alena Vítková">
 
 **Alena Vítková, dramaturgyně a produkční Kulturně vzdělávacích služeb Knihovny Jiřího Mahena, koordinátorka Studia Scala**
 
@@ -38,7 +38,7 @@ Kromě muziky toho program nabízí tolik, že se sama nechám překvapit, kam m
 
 ---
 
-<img src="http://i.ohlasy.info/Ti5VX0B.jpg" class="profile-picture" alt="Vojtěch Sedlák">
+<img src="https://i.ohlasy.info/Ti5VX0B.jpg" class="profile-picture" alt="Vojtěch Sedlák">
 
 **Vojtěch Sedlák, student hudební produkce na JAMU, hudebník**
 
@@ -50,7 +50,7 @@ Na začátek posledního dne festivalu volím UNI scénu – na začátek písni
 
 ---
 
-<img src="http://i.ohlasy.info/sskGEuY.jpg" class="profile-picture" alt="Kamila Hrnčířová">
+<img src="https://i.ohlasy.info/sskGEuY.jpg" class="profile-picture" alt="Kamila Hrnčířová">
 
 **Kamila Hrnčířová, studentka gymnázia, zpěvačka a kytaristka skupiny Veka**
 

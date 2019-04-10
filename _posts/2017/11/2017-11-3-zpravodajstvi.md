@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za říjen
-cover-photo: http://i.ohlasy.info/8tvim7Nl.jpg
+cover-photo: https://i.ohlasy.info/8tvim7Nl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v září na Boskovicku událo.*
 
-{% photo src="http://i.ohlasy.info/8tvim7N.jpg" caption="Nové zrcadlo na křižovatce ulic Havlíčkova a Boženy Němcové" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/8tvim7N.jpg" caption="Nové zrcadlo na křižovatce ulic Havlíčkova a Boženy Němcové" author="Tomáš Trumpeš" %}
 
 Konaly se volby do Poslanecké sněmovny. Taky v Boskovicích, na okrese Blansko i v Jihomoravském kraji [vyhrálo hnutí ANO](http://www.ohlasy.info/clanky/2017/10/vysledky-voleb.html).
 

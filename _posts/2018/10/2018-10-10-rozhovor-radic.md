@@ -1,14 +1,14 @@
 ---
 title: Je důležitější zprostředkovat atmosféru než kopírovat zažité tvary
 perex: Rozhovor s chilským architektem Smiljanem Radićem, kterého do Boskovic přivedl městský architekt Zdeněk Fránek, aby navrhl novou podobu proluky U Koupadel.
-cover-photo: http://i.ohlasy.info/WC9yJL8l.jpg
+cover-photo: https://i.ohlasy.info/WC9yJL8l.jpg
 author: Tomáš Znamenáček
 category: rozhovory
 ---
 
 *Chilského architekta Smiljana Radiće přivedl do Boskovic městský architekt Zdeněk Fránek, aby navrhl novou podobu proluky U Koupadel. Radić se ve světě proslavil zejména svým návrhem pavilónu pro londýnskou Serpentine Gallery, vinařstvím v chilském San Vicente, divadlem v Concepción nebo nám blízkou autobusovou zastávkou v rakouském Krumbachu. Je známý především svým citem pro materiály, otevřeným přístupem k formě a citlivostí k prostředí, ve kterém jeho stavby vznikají.*
 
-{% photo src="http://i.ohlasy.info/WC9yJL8.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/WC9yJL8.jpg" author="Tomáš Trumpeš" %}
 
 **Byl jste se dnes podívat na místo, pro které byste měl navrhovat. Jaké jsou vaše dojmy?**
 
@@ -48,7 +48,7 @@ Nebudu nikoho přesvědčovat, že něco, co považuje za cizí, je normální. 
 
 Nejlepší je být upřímný a nedělat ze sebe hvězdu: „Já jsem tady architekt, tohle mě nezajímá.“ Snažím se o to nejlepší možné řešení – ne abych někoho přesvědčil, ale abych tomu místu udělal zadost. Kdyby ten projekt působil agresivně, nikdy bych s ním nepřišel. Takhle já to nedělám.
 
-{% photo src="http://i.ohlasy.info/PIwe8AD.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/PIwe8AD.jpg" author="Tomáš Trumpeš" %}
 
 **Jste slavný architekt, mohl byste pracovat pro kohokoliv a na čemkoliv. V čem je pro vás zajímavá takhle malá zakázka?**
 

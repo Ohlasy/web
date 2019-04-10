@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na květen
-cover-photo: http://i.ohlasy.info/VcWTns8l.jpg
+cover-photo: https://i.ohlasy.info/VcWTns8l.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="http://i.ohlasy.info/VcWTns8.jpg" caption="Záběr z filmu Křižáček" %}
+{% photo src="https://i.ohlasy.info/VcWTns8.jpg" caption="Záběr z filmu Křižáček" %}
 
 ### Boskovické běhy
 

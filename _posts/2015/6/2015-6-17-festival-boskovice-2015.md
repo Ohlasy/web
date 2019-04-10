@@ -1,6 +1,6 @@
 ---
 title: Iva Bittová, Už jsme doma, Petr Nikl – festival Boskovice představil letošní program
-cover-photo: http://i.ohlasy.info/PbsvAKFl.jpg
+cover-photo: https://i.ohlasy.info/PbsvAKFl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Takřka kompletní je program letošního ročníku festivalu pro židovskou čtvrť Boskovice 2015. Formát festivalu zůstává prakticky stejný jako v minulých letech, čtyřdenní akce proběhne od čtvrtka 9. do neděle 12. července. Nového dramaturga má divadelní scéna, rozšířeného hudebního programu se dočká scéna na palouku před hradem. Na hlavní scéně v letním kině vystoupí kupříkladu Iva Bittová nebo Už jsme doma. V muzeu bude vystavovat slavný výtvarník Petr Nikl.*
 
-<img src="http://i.ohlasy.info/PbsvAKF.jpg" alt="ulice Plačkova zaplněná návštěvníky festivalu" class="img-responsive">
+<img src="https://i.ohlasy.info/PbsvAKF.jpg" alt="ulice Plačkova zaplněná návštěvníky festivalu" class="img-responsive">
 
 „Festival proběhne potřiadvacáté. Jednotlivé scény budou zhruba stejné jako v minulých letech – hlavní scéna v letním kině, Uni scéna v Panském dvoře, komornější akce budou v synagoze. Divadla se odehrají na hradě, ve farské zahradě a také v sokolovně. Novinkou je, že scéna na palouku se stane plnohodnotnou festivalovou scénou, vedle dýdžejů zde vystoupí i živé kapely a menší divadla. Tak jako v minulých letech zde bude vstup zdarma, aby se sem mohli stáhnout i návštěvníci, kteří by jinak jen bloumali,“ popsal šéf pořádajícího sdružení Unijazz Čestmír Huňát. Ten počítá s podobnou návštěvností festivalu jako v minulých letech, tedy okolo čtyř tisíc lidí. V programu vystoupí přibližně 70 souborů, což představuje asi 300 účinkujících.
 
@@ -18,11 +18,11 @@ Hlavní festivalové koncerty v letním kině nabídnou v pátek večer vystoupe
 
 Zámecký skleník bude v pátek a v sobotu večer hostit jako obvykle česko-německou jazzovou scénu, v rámci které vystoupí jedna z hlavních letošních festivalových hvězd – německá jazzová legenda, bubeník Günter „Baby“ Sommer.
 
-<img src="http://i.ohlasy.info/rbuIL6m.jpg" alt="Günter Sommer" class="img-responsive">
+<img src="https://i.ohlasy.info/rbuIL6m.jpg" alt="Günter Sommer" class="img-responsive">
 
 Dramaturgem divadelního programu se stal letos brněnský režisér a vedoucí divadla Feste Jiří Honzírek. Jeho koncepce vychází z propojení tří klasických směrnic dramatického umění – místa, času a děje. „Festival se odehrává v boskovickém židovském městě a přilehlých lokacích – letos v roce 70. výročí konce druhé světové války. Dětská opera Brundibár, hraná v terezínském ghettu, reflektuje ČAS, který od válečných hrůz uplynul, reflektuje naši vlastní schopnost přijetí odpovědnosti za toleranci ke stále sílícím hlasům, které zpochybňují holocaust. Dílna ve veřejném prostoru slovensko-izraelské artivistky Tamary Moyzes reflektuje MÍSTO, bývalé židovské město, s jeho povahou, současnou náladou a ochotou identifikovat se s vlastní historií. Romská inscenace divadla Líšeň reflektuje DĚNÍ, v němž na jedné straně sílí agresivita vůči romským spoluobčanům, na druhé straně se zvedá ohromná vlna solidarity a snah o integraci. Reflektuje rovněž to, že nejen Židé byli oběťmi války. Soubory Depresivní děti a D’epog pak doplňují trojici politických událostí o přední inscenace alternativního divadla u nás,“ popsal svůj dramaturgický plán Jiří Honzírek.
 
-<img src="http://i.ohlasy.info/lhH6r6A.jpg" alt="opera Brundibár" class="img-responsive">
+<img src="https://i.ohlasy.info/lhH6r6A.jpg" alt="opera Brundibár" class="img-responsive">
 
 Atraktivní program letos nabídnou také autorská čtení a besedy. Z literátů festival navštíví Petr Pazdera Payne, Marek Toman a Martin Reiner, přijede také historik a významná tvář Ústavu pro studium totalitních režimů Petr Blažek.
 

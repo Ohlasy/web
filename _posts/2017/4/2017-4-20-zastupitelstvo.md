@@ -1,14 +1,14 @@
 ---
 title: "Ze zastupitelstva: Nejrychlejší jednání se obešlo takřka bez diskusí"
 perex: Na pořadu zastupitelstva byly dotace pro obnovu památkové zóny, investice do školy a do školky, chodník ke hřbitovu, odpis městských pohledávek či náklady na provoz sportparku.
-cover-photo: http://i.ohlasy.info/j06OXvml.jpg
+cover-photo: https://i.ohlasy.info/j06OXvml.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Jako by chtěli stihnout finálový zápas brněnské Komety, jednali v úterý odpoledne boskovičtí zastupitelé. Proběhla tak zatím nejkratší a nejklidnější schůze stávajícího zastupitelstva, všechny body programu byly vyřešeny prakticky bez diskuse za necelých 50 minut. Koaliční zastupitelé tak mohli být spokojeni.*
 
-{% photo src="http://i.ohlasy.info/j06OXvm.jpg" caption="Zastupitelský klub ČSSD" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/j06OXvm.jpg" caption="Zastupitelský klub ČSSD" author="Tomáš Trumpeš" %}
 
 Také ze strany občanů nebyl o diskusi se zastupiteli příliš velký zájem. jedinou výjimku tvořil v úvodním bodu Dotazy a připomínky občanů obvyklý diskutér, bývalý zastupitel Dušan Sušil. Tentokrát se dotazoval na okolnosti prodeje zařízení Dvořáčkova mlýna v Červené zahradě a na další osud přilehlého kempu. Bylo mu vedoucí majetkového odboru Gabrielou Šmerdovou vysvětleno, že město koupilo mlýn bez zařízení a jeho odvoz a prodej byl tedy věcí původního majitele. Do výběrového řízení na provoz kempu se nepřihlásil žádný zájemce a provozovat ho tedy budou [městské Služby](http://www.ohlasy.info/clanky/2017/03/rozhovor-strya.html).
 

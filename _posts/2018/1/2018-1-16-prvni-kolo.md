@@ -1,6 +1,6 @@
 ---
 title: Jak volily Boskovice, okres a kraj
-cover-photo: http://i.ohlasy.info/kwlZgBal.jpg
+cover-photo: https://i.ohlasy.info/kwlZgBal.jpg
 perex: Celostátní výsledky prvního kola prezidentských voleb přinesly očekávaného vítěze, ale také nejedno překvapení. Jak tedy volilo malé moravské městečko Boskovice? A jak přilehlý region?
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,13 +9,13 @@ tags: politika
 
 *Celostátní výsledky prvního kola prezidentských voleb přinesly očekávaného vítěze, ale také nejedno překvapení. Interpretovat se dají různými způsoby a jedna z debat se týká také rozdílu mezi Prahou  vzdálenějšími končinami země. Jak tedy volilo malé moravské městečko Boskovice? A jak přilehlý region?*
 
-{% photo src="http://i.ohlasy.info/kwlZgBa.jpg" author="Martin Strachoň / Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/kwlZgBa.jpg" author="Martin Strachoň / Wikimedia Commons" %}
 
 Obhajující prezident Miloš Zeman získal celkově 38,56 procent hlasů, druhý Jiří Drahoš 26,60 procent. Přímo v Boskovicích se jejich výsledek liší jen asi o dva procentní body – Miloš Zeman vyhrál se ziskem 41,60 procent, Jiří Drahoš byl druhý s 24,46 procenty.
 
 Stejně jako celostátně byl i v Boskovicích na třetím místě možná překvapivě diplomat Pavel Fischer. Jeho boskovická podpora byla však ještě výrazně vyšší: získal zde 14,14 procent, tedy skoro o čtyři procentní body víc, než je jeho celostátní výsledek. Celkově až čtvrtý (9,18 procent) Michal Horáček v Boskovicích propadl ještě znatelněji a získal jen 6,42 procent. Přeskočil ho zde i lékař Marek Hilšer, který získal 7,69 procent hlasů (celkově 8,83). Ani v Boskovicích se neprosadil bývalý premiér za ODS Mirek Topolánek, který celkově spadl na 4,3 procenta, v Boskovicích získal jen 3,48 procenta. Zisky ostatních kandidátů jsou zanedbatelné.
 
-{% photo src="http://i.ohlasy.info/ykSnJBb.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/ykSnJBb.png" author="Tomáš Znamenáček" %}
 
 Jak tato čísla interpretovat, může být ošidné. Vyhrál samozřejmě Miloš Zeman a jeho čísla můžeme srovnat s jeho zisky z minulé volby. Letos získal v Boskovicích 2 449 hlasů, v roce 2013 to bylo v prvním kole 1 643 hlasů a ve druhém kole 3 692 hlasů. Můžeme tedy spekulovat, jestli po pěti letech výkonu funkce ve městě spíše ztrácí, nebo získává.
 

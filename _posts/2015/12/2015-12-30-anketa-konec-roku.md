@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Zkušenost roku 2015"
-cover-photo: http://i.ohlasy.info/rSb3y2el.jpg
+cover-photo: https://i.ohlasy.info/rSb3y2el.jpg
 author: Tomáš Trumpeš
 category: ankety
 ---
@@ -9,7 +9,7 @@ category: ankety
 
 ---
 
-<img src="http://i.ohlasy.info/TYBR17f.jpg" class="profile-picture" alt="Jiří Bureš">
+<img src="https://i.ohlasy.info/TYBR17f.jpg" class="profile-picture" alt="Jiří Bureš">
 
 **Jiří Bureš, evangelický farář**
 
@@ -17,7 +17,7 @@ Nejdůležitějším časem minulého roku pro mne byl týden duchovních cviče
 
 ---
 
-<img src="http://i.ohlasy.info/HLCu50W.jpg" class="profile-picture" alt="Jaroslav Dohnálek">
+<img src="https://i.ohlasy.info/HLCu50W.jpg" class="profile-picture" alt="Jaroslav Dohnálek">
 
 **Jaroslav Dohnálek, bývalý starosta, opoziční zastupitel**
 
@@ -25,7 +25,7 @@ Byl to pro mne zvláštní rok, ale jsem za něj rád. Dobrá a užitečná zku�
 
 ---
 
-<img src="http://i.ohlasy.info/KGySNSs.jpg" class="profile-picture" alt="Ondřej Dostál">
+<img src="https://i.ohlasy.info/KGySNSs.jpg" class="profile-picture" alt="Ondřej Dostál">
 
 **Ondřej Dostál, ředitel Mendelova muzea MU, předseda Asociace muzeí a galerií ČR**
 
@@ -33,7 +33,7 @@ Letošní rok mi nadělil velké množství zkušeností. Nejlepší a nejdůle�
 
 ---
 
-<img src="http://i.ohlasy.info/1qHhgJU.jpg" class="profile-picture" alt="Vladimír Farský">
+<img src="https://i.ohlasy.info/1qHhgJU.jpg" class="profile-picture" alt="Vladimír Farský">
 
 **Vladimír Farský, strojvůdce a radní**
 
@@ -41,7 +41,7 @@ Předpokládám, že dotaz je směrován do oblasti politiky. Zde je pro mě dob
 
 ---
 
-<img src="http://i.ohlasy.info/6sj8on2.jpg" class="profile-picture" alt="Yvona Ferencová">
+<img src="https://i.ohlasy.info/6sj8on2.jpg" class="profile-picture" alt="Yvona Ferencová">
 
 **Yvona Ferencová, kurátorka, pedagožka ZUŠ**
 
@@ -49,7 +49,7 @@ Mou největší zkušeností byla dvojí změna: místa pobytu a zaměstnání, 
 
 ---
 
-<img src="http://i.ohlasy.info/tjxtwVY.jpg" class="profile-picture" alt="Dagmar Hamalová">
+<img src="https://i.ohlasy.info/tjxtwVY.jpg" class="profile-picture" alt="Dagmar Hamalová">
 
 **Dagmar Hamalová, ředitelka Muzea Boskovicka, radní**
 
@@ -57,7 +57,7 @@ Ke zkušenostem zvláště významným patřilo setkání s paní Evou Morris a 
 
 ---
 
-<img src="http://i.ohlasy.info/Bgz5XxH.jpg" class="profile-picture" alt="Lukáš Holík">
+<img src="https://i.ohlasy.info/Bgz5XxH.jpg" class="profile-picture" alt="Lukáš Holík">
 
 **Lukáš Holík, předseda boskovického ANO**
 
@@ -65,7 +65,7 @@ V průběhu roku se mi skálopevně potvrdila některá rčení. Za ta nejdůle�
 
 ---
 
-<img src="http://i.ohlasy.info/xjCSLgI.jpg" class="profile-picture" alt="Jitka Hurábová">
+<img src="https://i.ohlasy.info/xjCSLgI.jpg" class="profile-picture" alt="Jitka Hurábová">
 
 **Jitka Hurábová, ředitelka LD seating**
 
@@ -73,7 +73,7 @@ Nejsilnějším okamžikem tohoto  roku pro mě osobně bylo silné uvědomění
 
 ---
 
-<img src="http://i.ohlasy.info/albmYZW.jpg" class="profile-picture" alt="Ivet Juřeková">
+<img src="https://i.ohlasy.info/albmYZW.jpg" class="profile-picture" alt="Ivet Juřeková">
 
 **Ivet Juřeková, pedagožka Gymnázia Boskovice**
 
@@ -81,7 +81,7 @@ Můj současný život je svým způsobem jednodušší a o něco méně bohatý
 
 ---
 
-<img src="http://i.ohlasy.info/oaever4.jpg" class="profile-picture" alt="Gabriela Kolčavová">
+<img src="https://i.ohlasy.info/oaever4.jpg" class="profile-picture" alt="Gabriela Kolčavová">
 
 **Gabriela Kolčavová, fotografka, zpěvačka, lektorka**
 
@@ -89,7 +89,7 @@ Někdy člověk touží po nové zkušenosti, a tak se vám stane, že se octnet
 
 ---
 
-<img src="http://i.ohlasy.info/5oe6OGK.jpg" class="profile-picture" alt="Ivo Legner">
+<img src="https://i.ohlasy.info/5oe6OGK.jpg" class="profile-picture" alt="Ivo Legner">
 
 **Ivo Legner, kulturní dramaturg**
 
@@ -97,7 +97,7 @@ Noční záchrana neovladatelné plachetnice na moři při závodech v Chorvatsk
 
 ---
 
-<img src="http://i.ohlasy.info/EMQsQKV.jpg" class="profile-picture" alt="Daniela Meluzínová">
+<img src="https://i.ohlasy.info/EMQsQKV.jpg" class="profile-picture" alt="Daniela Meluzínová">
 
 **Daniela Meluzínová, aktivní seniorka, organizátorka Tanců dávných tradic**
 
@@ -105,7 +105,7 @@ Zapojením do projektu Dialogem k aktivnímu občanství seniorů se mi potvrdil
 
 ---
 
-<img src="http://i.ohlasy.info/cdGCiVy.jpg" class="profile-picture" alt="Luděk Řehoř">
+<img src="https://i.ohlasy.info/cdGCiVy.jpg" class="profile-picture" alt="Luděk Řehoř">
 
 **Luděk Řehoř, podnikatel**
 
@@ -113,7 +113,7 @@ Dobrou zkušeností je zjištění, že lidé z Boskovic si neustále více vá�
 
 ---
 
-<img src="http://i.ohlasy.info/Wp4yDFv.jpg" class="profile-picture" alt="David Škvařil">
+<img src="https://i.ohlasy.info/Wp4yDFv.jpg" class="profile-picture" alt="David Škvařil">
 
 **David Škvařil, tajemník MěÚ Boskovice**
 
@@ -121,7 +121,7 @@ Pro mě je dobrou a důležitou zkušeností každý okamžik, který trávím s
 
 ---
 
-<img src="http://i.ohlasy.info/3UlvPbb.jpg" class="profile-picture" alt="Kristýna Znamenáčková">
+<img src="https://i.ohlasy.info/3UlvPbb.jpg" class="profile-picture" alt="Kristýna Znamenáčková">
 
 **Kristýna Znamenáčková, klavíristka, pedagožka ZUŠ**
 

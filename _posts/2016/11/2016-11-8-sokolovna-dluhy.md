@@ -1,7 +1,7 @@
 ---
 title: "Sokolové mají dluhy. Město pátrá po dalších kostlivcích"
 perex: "Město by mělo převzít boskovickou sokolovnu od 1. ledna. Ukázalo se ale, že bude nutné řešit také nemalé dluhy na energiích."
-cover-photo: http://i.ohlasy.info/6LG5oWil.jpg
+cover-photo: https://i.ohlasy.info/6LG5oWil.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice sokolovna
@@ -9,7 +9,7 @@ tags: investice sokolovna
 
 *Od ledna příštího roku by měla být boskovická sokolovna v rukou města. Aktivní kroky k tomu vedení Boskovic činí od jara, až teď na podzim ale sokolové přišli s tím, že mají dluhy – nejméně 200 tisíc. Radnice pátrá i po dalších možných nezaplacených fakturách.*
 
-<img src="http://i.ohlasy.info/6LG5oWi.jpg" alt="sokolovna" class="img-responsive img-popup" data-author="Marek Osouch">
+<img src="https://i.ohlasy.info/6LG5oWi.jpg" alt="sokolovna" class="img-responsive img-popup" data-author="Marek Osouch">
 
 Převod sokolovny do majetku města šel doposud celkem hladce.  Na jaře schválili bezúplatný převod boskovičtí sokolové, v červnu poté zastupitelé a koncem října už radní schválili darovací smlouvu. Krátce na to ale přišli sokolové na město se vzkazem: Máme dluhy, potřebujeme pomoc. „Sokol Boskovice podal dne 27. října žádost o poskytnutí mimořádného příspěvku nebo daru ve výši 200 tisíc korun na dokrytí úhrady plynu a elektřiny,“ uvedla starostka Boskovic Hana Nedomová (ČSSD). Vedení Boskovic si vyžádalo fakturu a zjistilo, že se jedná o nedoplatek za plyn, na které stojí částka necelých 120 tisíc korun. U zbylých 80 tisíc tak může jít o upomínky za neplacení, protože samotní sokolové mluvili o částce 200 tisíc.
 

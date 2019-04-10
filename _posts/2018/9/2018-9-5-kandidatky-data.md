@@ -1,7 +1,7 @@
 ---
 title: "Boskovické kandidátky z pohledu věku, zastoupení žen a vzdělání"
 perex: V komunálních volbách kandiduje 10 politických uskupení, 270 lidí. Jaké jsou jednotlivé týmy z hlediska věku, jaké mají zastoupení žen a jaké je formální vzdělání kandidátů?
-cover-photo: http://i.ohlasy.info/vu1ewdp.png
+cover-photo: https://i.ohlasy.info/vu1ewdp.png
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika volby2018
@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *V komunálních volbách kandiduje do boskovického zastupitelstva celkem 10 politických uskupení. To je celkem 270 lidí. Každou ze sedmadvacetičlenných kandidátek můžeme podrobit různému typu zkoumání, nás zajímaly tři pohledy – jaké jsou jednotlivé týmy z hlediska věku, jaké mají zastoupení žen a jaké je formální vzdělání kandidátů.*
 
-{% photo src="http://i.ohlasy.info/iJ0UEkc.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/iJ0UEkc.png" author="Tomáš Znamenáček" %}
 
 Nejprve obecně – průměrný věk všech boskovických kandidátů je necelých 50 let. A přesně 50 let je průměrný věk lídrů, což je takřka přesně stejně jako ve volbách před čtyřmi lety. V průměru nejstarší kandidátku mají komunisté – a to 66 let. Následují Boskováci a ODS. Nejnižší průměr drží Piráti, neboť průměrnému boskovickému pirátovi je 35,5 roku. Mladou kandidátku má v průměru i hnutí ANO.
 
@@ -27,7 +27,7 @@ Jednotlivé strany můžeme také charakterizovat tím, jaké věkové skupiny j
 
 Komunisté mají na kandidátce dokonce 7 osmdesátníků, kandidáty s takto vysokým věkem najdeme už jen 2 ve Sdružení nestraníků. Zajímavé může být také to, že ODS nemá ve svých řadách ani jednoho třicátníka. Po mladých kandidátech, kterým je okolo dvaceti, následuje kandidát, kterému je přes čtyřicet. To je více než dvacetiletá přetržka – ODS tedy vypadla celá jedna generace.
 
-{% photo src="http://i.ohlasy.info/oTMfZ0P.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/oTMfZ0P.png" author="Tomáš Znamenáček" %}
 
 ### Ženy na kandidátkách
 

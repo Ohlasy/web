@@ -1,6 +1,6 @@
 ---
 title: "Představujeme: Do senátních voleb jde devět kandidátů"
-cover-photo: http://i.ohlasy.info/KNypzihl.jpg
+cover-photo: https://i.ohlasy.info/KNypzihl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika volby
@@ -8,11 +8,11 @@ tags: politika volby
 
 *Přihlášky do podzimních senátních voleb jsou uzavřené. Ve volebním obvodě číslo 49, který zahrnuje celý okres Blansko a severní okraj okresu Brno-venkov, se o senátorské křeslo rozhodlo bojovat devět kandidátů. Nabízíme jejich přehled s odpověďmi, proč se rozhodli kandidovat a jaké věci chtějí pro Blanensko v případě zvolení prosadit.*
 
-<img src="http://i.ohlasy.info/KNypzih.jpg" alt="interiér senátu" class="img-responsive img-popup" data-author="Krokodyl, Wikipedia Commons">
+<img src="https://i.ohlasy.info/KNypzih.jpg" alt="interiér senátu" class="img-responsive img-popup" data-author="Krokodyl, Wikipedia Commons">
 
 ---
 
-<img src="http://i.ohlasy.info/KcZIxdl.jpg" alt="Josef Regec" class="profile-picture">
+<img src="https://i.ohlasy.info/KcZIxdl.jpg" alt="Josef Regec" class="profile-picture">
 
 **Jozef Regec**
 
@@ -32,7 +32,7 @@ Oblastí, ve kterých se snažím lidem pomáhat, je celá řada. Když projíž
 
 ---
 
-<img src="http://i.ohlasy.info/Hkjz0jv.jpg" alt="Ivo Polák" class="profile-picture">
+<img src="https://i.ohlasy.info/Hkjz0jv.jpg" alt="Ivo Polák" class="profile-picture">
 
 **Ivo Polák**
 
@@ -58,7 +58,7 @@ Blízká je mi po odborné stránce ochrana a bezpečnost krajiny při povodníc
 
 ---
 
-<img src="http://i.ohlasy.info/3g2F207.jpg" alt="Jaromíra Vítková" class="profile-picture">
+<img src="https://i.ohlasy.info/3g2F207.jpg" alt="Jaromíra Vítková" class="profile-picture">
  
 **Jaromíra Vítková**
 
@@ -86,7 +86,7 @@ Možná se zdá, že témat a úkolů jsem vytyčila mnoho, ale vyplývají z be
 
 ---
 
-<img src="http://i.ohlasy.info/w8fkQnw.jpg" alt="Jan Machač" class="profile-picture">
+<img src="https://i.ohlasy.info/w8fkQnw.jpg" alt="Jan Machač" class="profile-picture">
  
 **Jan Machač**
 
@@ -110,7 +110,7 @@ Na Blanensku a Boskovicku se budu snažit pomoci v komunikaci a spolupráci mezi
 
 ---
 
-<img src="http://i.ohlasy.info/6OTi5HJ.jpg" alt="Mária Koudelová" class="profile-picture">
+<img src="https://i.ohlasy.info/6OTi5HJ.jpg" alt="Mária Koudelová" class="profile-picture">
 
 **Mária Koudelová**
 
@@ -136,7 +136,7 @@ Dále je nutné dobudovat rychlostní komunikaci na trase Brno – Svitavy. Dopr
 
 ---
 
-<img src="http://i.ohlasy.info/0o4mbD7.jpg" alt="Drago Sukalovský" class="profile-picture">
+<img src="https://i.ohlasy.info/0o4mbD7.jpg" alt="Drago Sukalovský" class="profile-picture">
  
 **Drago Sukalovský**
 
@@ -160,7 +160,7 @@ Ale silniční doprava je problémem i v dalších částech okresu Blansko. Nej
 
 ---
  
-<img src="http://i.ohlasy.info/SzAEOoU.jpg" alt="Jiří Míšenský" class="profile-picture">
+<img src="https://i.ohlasy.info/SzAEOoU.jpg" alt="Jiří Míšenský" class="profile-picture">
  
 **Jiří Míšenský**
 
@@ -184,7 +184,7 @@ Senátor z části vykonává svoji práci v regionální kanceláři, kde je po
 
 ---
 
-<img src="http://i.ohlasy.info/LEBjiGi.jpg" alt="Robert Štěpánek" class="profile-picture">
+<img src="https://i.ohlasy.info/LEBjiGi.jpg" alt="Robert Štěpánek" class="profile-picture">
 
 **Robert Štěpánek**
 
@@ -204,7 +204,7 @@ Jistě víte, že v okrese Blansko je potřeba zlepšit mnoho a mnoho věcí vč
 
 ---
 
-<img src="http://i.ohlasy.info/nEQyHWr.jpg" alt="Jiří Šoltys" class="profile-picture">
+<img src="https://i.ohlasy.info/nEQyHWr.jpg" alt="Jiří Šoltys" class="profile-picture">
 
 **Jiří Šoltys**
 

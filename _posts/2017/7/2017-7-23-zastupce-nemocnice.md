@@ -1,6 +1,6 @@
 ---
 title: Ekonomický analytik nemocnice může rozhodovat za jednatele
-cover-photo: http://i.ohlasy.info/YEvm8LWl.jpg
+cover-photo: https://i.ohlasy.info/YEvm8LWl.jpg
 perex: Personální změny v nemocnici:Dan Štěpánský se stal statutárním zástupcem jednatele; odešla náměstkyně Olga Fialová.
 author: Marek Osouch
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Jednatel boskovické nemocnice Miloš Janeček má nově svého statutárního zástupce. Tím se nestal nikdo jiný než jeho velmi blízký spolupracovník a ekonomický analytik nemocnice Dan Štěpánský. O jeho pozici jsme už v minulosti [v Ohlasech informovali](http://www.ohlasy.info/clanky/2017/02/ekonomicky-namestek.html).*
 
-{% photo src="http://i.ohlasy.info/YEvm8LW.jpg" caption="Dan Štěpánský a Miloš Janeček (s mikrofonem) na zastupitelstvu" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/YEvm8LW.jpg" caption="Dan Štěpánský a Miloš Janeček (s mikrofonem) na zastupitelstvu" author="Tomáš Trumpeš" %}
 
 S místem statutárního zástupce jednatele nevzniká sice žádná nová placená funkce, k ekonomickému analytikovi Danu Štěpánskému se však s touto změnou organizačního řádu přesune v době nepřítomnosti jednatele Miloše Janečka část naprosto stejných úkolů, které měl v minulosti v popisu práce někdejší ekonomicko-správní náměstek nemocnice a bývalý ministr zdravotnictví za ODS Tomáš Julínek. Toho v listopadu 2015 starostka Boskovic a tehdy dočasná jednatelka Hana Nedomová (ČSSD) vyhodila a zrušila i jeho náměstskovský post se slovy, že byl zbytečný.
 

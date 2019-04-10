@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Hušák"
 perex: Po několikaměsíční odmlce představuje Hynek Skořepa další pozoruhodný kout naší krajiny – kopec Hušák. Že ho neznáte? Ale znáte, jenom o tom nevíte.
-cover-photo: http://i.ohlasy.info/L1R4MMTl.jpg
+cover-photo: https://i.ohlasy.info/L1R4MMTl.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
@@ -9,7 +9,7 @@ serial: krajiny
 
 *Po několikaměsíční odmlce bych vám rád na stránkách Ohlasů představil další pozoruhodný kout naší krajiny. Na jaře a v létě jsem jaksi neměl na psaní čas. Bylo potřeba hlavně shromažďovat fotky a zajímavé poznatky přímo v terénu. Kromě toho jsem se taky toulal po úplně jiných krajinách, než jsou ty na Boskovicku. Dostal jsem se až do daleké Gruzie a obdivoval nebetyčné štíty Kavkazu, bujné subtropické lesy i bizarní polopouštní krajinu svažující se do bezodtoké pánve Kaspického moře. Všude to bylo nádherné, stejně jsem však byl rád, když jsem se vrátil zase domu na Moravu a mohl se dívat na malebnou krajinu kolem Boskovic.*
 
-{% photo src="http://i.ohlasy.info/99yf1F9.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/99yf1F9.png" author="Mapy.cz" %}
 
 Ve svém posledním (březnovém) vyprávění jsem [psal o hrádku Rumberk](http://www.ohlasy.info/clanky/2018/03/rumberk.html) a okolní pochmurné krajině českomoravského pomezí. V mlhavém závěrečném měsíci astronomického podzimu bych v ní ještě rád zůstal. Ano, astronomická zima letos (2018) začne až v pátek 21. prosince ve 23 hodin 21 minut a 53 sekund. Zimu meteorologickou tu už máme a je to dobře, snad sněžením aspoň částečně doplní chybějící vláhu za srážkově velmi slabý podzim (a vůbec celý rok).
 
@@ -25,7 +25,7 @@ Geomorfologové, zabývající se tvary zemského povrchu, charakterizují Huš�
 
 Hušák je tedy tektonického původu, vznikl pohyby ker zemské kůry na zlomech. O tom, že na Hušáku zlomy skutečně jsou, svědčí existence Holubí studánky na jeho západním svahu (ve výšce 520 metrů). Prameny se na kopcích obvykle nevyskytují. Výjimkou bývají prameny zlomové, po prasklinách v zemské kůře se může voda dostat docela vysoko. Holubí studánka na Hušáku je vlastně obdobou zlomových pramenů ve světoznámých západočeských lázních. Až na to, že voda ze studánky není minerální.
 
-{% photo src="http://i.ohlasy.info/gK9X4IW.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/gK9X4IW.jpg" author="Hynek Skořepa" %}
 
 K Holubí studánce se váže lidová pověst, která byla zaznamenána v několika verzích. Vždycky však jde o něčí uzdravení, podle tradice je totiž zdejší voda léčivá. Podle jedné verze uzdravila nemocného chudého domkáře, kterého ke studánce poslala ve snu bělostně oděná žena, vznášející se nad vrcholky stromů. Snad to byla samotná Panna Maria.
 
@@ -33,7 +33,7 @@ Kromě toho se povídá, že u Předního Arnoštova, na západním úpatí Huš
 
 Ať už to bylo jakkoliv, někdo z uzdravených nechal z vděčnosti nad studánkou postavit kapličku, u ní pak vyrostla lovecká chata. Místo ukryté v lesích je krásné, i když ty lesy zrovna hezké nejsou. Lichtenštejnové si sice vybírali osvícené lesníky, kteří dbali na alespoň částečném zachování smíšených porostů, Hušák však zrovna není ten správný příklad. Převažují zde nepůvodní jehličnaté monokultury a smrkové porosty v posledních letech podléhají kůrovci. Kalamitní těžba pomocí moderní techniky (harvestorů) lesu ani půdě neprospívá.
 
-{% photo src="http://i.ohlasy.info/FMGSHrS.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/FMGSHrS.jpg" author="Hynek Skořepa" %}
 
 Mezi skalkami na vrcholu Hušáku však stojí krásný starý buk. Jeho rozvětvený křivolaký kmen lahodí oku a připomíná, že les by neměl být pouze „továrnou na dřevo“. Kůrovcová kalamita nebývalého rozsahu, strašící střední Evropu, by mohla otevřít cestu k odolnějším smíšeným lesům. Bez pochopení ze strany lesníků a tolerance odolných dřevin přípravného lesa (bříza, osika, jíva) to však nepůjde. Snad se jednou opět stará kamenná lichtenštejnská označení s čísly lesních oddělení ocitnou v lese, který jich bude hoden. Smrkové monokultury, vysazené během válečného hospodářství za poslední války či krátce po ní, to každopádně mají spočítáno.
 

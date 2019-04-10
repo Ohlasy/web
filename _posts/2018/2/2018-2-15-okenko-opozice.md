@@ -1,13 +1,13 @@
 ---
 title: Jak to vidí opozice
-cover-photo: http://i.ohlasy.info/FXAh2ULl.jpg
+cover-photo: https://i.ohlasy.info/FXAh2ULl.jpg
 author: Tomáš Trumpeš
 category: ankety
 ---
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci ODS, TOP 09 a sdružení Sportovci pro Boskovice.*
 
-{% photo src="http://i.ohlasy.info/FXAh2UL.jpg" caption="Hřiště u ZŠ Sušilova" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/FXAh2UL.jpg" caption="Hřiště u ZŠ Sušilova" author="Tomáš Trumpeš" %}
 
 **Podporujete proplácení ročního jízdného veřejnou dopravou seniorům nad 70 let? O službu je velký zájem, takže má dojít k navýšení výdajů ze 200 tisíc na 450 tisíc korun.**
 

@@ -1,6 +1,6 @@
 ---
 title: Svět je jenom chodník nebem
-cover-photo: http://i.ohlasy.info/bWpz5yFl.jpg
+cover-photo: https://i.ohlasy.info/bWpz5yFl.jpg
 perex: V galerii Kunšt na kunštátském náměstí potrvá do 9. srpna výstava Markety Králové, absolventky atelieru grafiky a ilustrace na Vysoké škole uměleckoprůmyslové v letech 1972–1978. Jako pozvánku publikujeme úvodní slovo Víta Ondráčka.
 author: Vít Ondráček
 category: názory a komentáře
@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *V galerii Kunšt na kunštátském náměstí potrvá do 9. srpna výstava Markety Králové, členky Sdružení českých umělců-grafiků HOLLAR, absolventky atelieru grafiky a ilustrace na Vysoké škole uměleckoprůmyslové v letech 1972–1978. Výstavu uvedl výtvarník Vít Ondráček, jehož úvodní slovo jako pozvánku publikujeme.*
 
-{% photo src="http://i.ohlasy.info/bWpz5yF.jpg" author="Marketa Králová" %}
+{% photo src="https://i.ohlasy.info/bWpz5yF.jpg" author="Marketa Králová" %}
 
 Přečetl jsem si několik textů pojednávajících se vzácným vhledem o tvorbě grafičky Markety Králové. V Tomešovic vile v Kunštátě se pak přede mnou vynořovaly nové a nové kresby a grafiky, snášely se na stůl jako podzimní listí. Jarní slunce ozařovalo a rozsvěcovalo tvary a barvy omyté nočním deštěm. Paspartovány rámem secesního okna vyvstávaly ze sotva olistěných zahrad domy Kunštátu s černou bání kostela svatého Stanislava. Stromy teprve čekaly na pokyn; znamení, v němž zázračně rozkvetou. Fragmentarizované městečko, ve kterém mnohé staré mizí a nové je přidáváno, aniž by splynulo, slunilo se v sobotním dubnovém dopoledni. Ve věži mlčel zvon, jehož zvuk slyšel tu kdysi už Jan Kepler a Jan Amos Komenský? Útěchou polní cesty proburácel motorkář jako symbol slepé mobility. Doby. Našich časů. Ale vila tu stála. Její okna utkvěle zrcadlila oblaka. Oka dávného plotu ani nemrkla, když jimi proletoval hmyz hledající květ.
 

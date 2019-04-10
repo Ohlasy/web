@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Bikepark v Doubravách?"
-cover-photo: http://i.ohlasy.info/PmJfQN4.jpg
+cover-photo: https://i.ohlasy.info/PmJfQN4.jpg
 category: ankety
 author: Tomáš Trumpeš
 ---
@@ -15,11 +15,11 @@ author: Tomáš Trumpeš
 
 *4/ Provází podle vás záměr dostatečná míra projednání s veřejností?*
 
-<img src="http://i.ohlasy.info/PmJfQN4.jpg" alt="sigltreky" class="img-responsive">
+<img src="https://i.ohlasy.info/PmJfQN4.jpg" alt="sigltreky" class="img-responsive">
 
 ---
 
-<img src="http://i.ohlasy.info/AB9sP6K.jpg" class="profile-picture" alt="Jirka Vorlický">
+<img src="https://i.ohlasy.info/AB9sP6K.jpg" class="profile-picture" alt="Jirka Vorlický">
 
 ***Jiří Vorlický, fotbalový trenér, autor petice proti dinoparku***
 
@@ -33,7 +33,7 @@ Z pozice vlastníka sousedních pozemků je mi jedno, jak dopadne záměr, a př
 
 ---
 
-<img src="http://i.ohlasy.info/kv2UhZY.jpg" class="profile-picture" alt="Ondřej Jarůšek">
+<img src="https://i.ohlasy.info/kv2UhZY.jpg" class="profile-picture" alt="Ondřej Jarůšek">
 
 ***Ondřej Jarůšek, obchodník, biker***
 
@@ -47,7 +47,7 @@ Takže abych to shrnul: je to podle mě dobrý záměr, jako všechno, co vytáh
 
 ---
 
-<img src="http://i.ohlasy.info/j8RKNjy.jpg" class="profile-picture" alt="Vinkler">
+<img src="https://i.ohlasy.info/j8RKNjy.jpg" class="profile-picture" alt="Vinkler">
 
 ***Stanislav Vinkler, podnikatel, do Doubrav chodí na procházky***
 
@@ -61,7 +61,7 @@ Takže abych to shrnul: je to podle mě dobrý záměr, jako všechno, co vytáh
 
 ---
 
-<img src="http://i.ohlasy.info/KqiyNzO.jpg" class="profile-picture" alt="Martina Lukešová">
+<img src="https://i.ohlasy.info/KqiyNzO.jpg" class="profile-picture" alt="Martina Lukešová">
 
 ***Martina Lukešová, ekoložka***
 

@@ -1,6 +1,6 @@
 ---
 title: „Dirigování není jen synchronizované mávání rukama.“
-cover-photo: http://i.ohlasy.info/KNsy2Qgl.jpg
+cover-photo: https://i.ohlasy.info/KNsy2Qgl.jpg
 author: Kristýna Znamenáčková
 category: rozhovory
 tags: kultura hudba
@@ -8,7 +8,7 @@ tags: kultura hudba
 
 *Rozhovor s Ondřejem Tajovským, dirigentem a zakladatelem Vernum 2013 Ensemble, iniciátorem a dramaturgem hudebních událostí nejen na Boskovicku. Rozhovor je zároveň pozvánkou na minifestival [Malý noční Mozart](https://www.zamek-kunstat.cz/cs/zpravy/10698-maly-nocni-mozart-na-kunstate), jehož první koncert se odehraje už v pátek 1. července v zahradě kunštátského zámku. Zazní na něm operní árie W. A. Mozarta v podání Karolíny Žmolíkové, Anety Petrasové a Heleny Hozové za klavírního doprovodu Ondreje Olose.*
 
-<img src="http://i.ohlasy.info/KNsy2Qg.jpg" alt="Ondřej Tajovský" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/KNsy2Qg.jpg" alt="Ondřej Tajovský" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **V Boskovicích jsi studoval základní školu a gymnázium. Co tě přivedlo k hudbě?**
 
@@ -46,7 +46,7 @@ Ano, to bylo poměrně brzy poté. V souboru jsem chtěl být s lidmi, které js
 
 Obojí je to vedoucí práce, v tom je to podobné. Obsah věcí, se kterými člověk zachází a které musí řešit, jsou samozřejmě jiné, ale zásady jednání s lidmi, organizace času, to je vlastně všude stejné.
 
-<img src="http://i.ohlasy.info/xCGsnSc.jpg" alt="Ondřej tajovský" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/xCGsnSc.jpg" alt="Ondřej tajovský" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Letos v létě bude na zámku v Kunštátě probíhat cyklus koncertů Malý noční Mozart. Oč přesně půjde?**
 

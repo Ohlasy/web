@@ -1,7 +1,7 @@
 ---
 title: "Senátorský dotazník: Ivo Polák, ČSSD"
 author: Tomáš Trumpeš
-cover-photo: http://i.ohlasy.info/jAsLEJy.jpg
+cover-photo: https://i.ohlasy.info/jAsLEJy.jpg
 category: rozhovory
 tags:
     - senátní volby 2016
@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá starosta Blanska Ivo Polák, který do senátu kandiduje za stranu ČSSD.*
 
-<img src="http://i.ohlasy.info/jAsLEJy.jpg" alt="Ivo Polák" class="img-responsive img-popup img-framed">
+<img src="https://i.ohlasy.info/jAsLEJy.jpg" alt="Ivo Polák" class="img-responsive img-popup img-framed">
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

@@ -1,7 +1,7 @@
 ---
 title: Zpravodajský přehled za listopad
 author: Tomáš Trumpeš
-cover-photo: http://i.ohlasy.info/RR3lMKpl.jpg
+cover-photo: https://i.ohlasy.info/RR3lMKpl.jpg
 excerpt: "Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v listopadu na Boskovicku událo."
 category: zpravodajství
 ---

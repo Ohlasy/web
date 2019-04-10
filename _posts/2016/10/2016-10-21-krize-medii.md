@@ -1,7 +1,7 @@
 ---
 title: Proč jsou média v krizi a proč se to týká i vás
 perex: Média procházejí v posledních letech zásadní krizí. Jak se proměnila pod vlivem rozmachu internetu a proč by vás to mělo zajímat?
-cover-photo: http://i.ohlasy.info/A1DX6tdl.jpg
+cover-photo: https://i.ohlasy.info/A1DX6tdl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 featured: true

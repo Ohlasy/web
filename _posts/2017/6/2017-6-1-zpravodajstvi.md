@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za květen
-cover-photo: http://i.ohlasy.info/6vXCA7ml.jpg
+cover-photo: https://i.ohlasy.info/6vXCA7ml.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v květnu na Boskovicku událo.*
 
-{% photo src="http://i.ohlasy.info/6vXCA7m.jpg" caption="Místo pro budoucí sportovní halu?" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/6vXCA7m.jpg" caption="Místo pro budoucí sportovní halu?" author="Tomáš Trumpeš" %}
 
 Boskovice řeší [novou variantu místa pro stavbu sportovní haly](http://www.ohlasy.info/clanky/2017/05/hala-susilova.html). S návrhem přišel volejbalový trenér František Učeň, hala by se podle něj měla postavit na místě dnešních dvou tělocvičen u ZŠ Sušilova. Ty by se musely zbourat. Současně by město mělo v rámci navrhovaného řešení vykoupit a zrekonstruovat halu ve vedlejší jízdárně. [První reakce na návrh](http://www.ohlasy.info/clanky/2017/05/hala-reakce.html) jsou vstřícné.
 
@@ -19,7 +19,7 @@ Blíží se také 25. ročník festivalu Boskovice, v jehož čele stojí po cel
 
 Na průčelí boskovické nemocnice bude umístěn [babybox](http://www.ohlasy.info/clanky/2017/05/babybox-nemocnice.html). Nemocnice řeší také nákup potřebných přístrojů, některým z těch stávajících totiž dochází životnost. 
 
-{% photo src="http://i.ohlasy.info/MDR7RTa.png" caption="Statistiky exekucí v Boskovicích" author="mapaexekuci.cz" %}
+{% photo src="https://i.ohlasy.info/MDR7RTa.png" caption="Statistiky exekucí v Boskovicích" author="mapaexekuci.cz" %}
 
 Projekt [Mapa exekucí](http://mapaexekuci.cz/) zveřejnil data o předluženosti v České republice. Také boskovická čísla, ačkoliv celostátně podprůměrná, vypadají hrozivě.
 

@@ -1,6 +1,6 @@
 ---
 title: Boskovice připravují nový Zpravodaj. Zadarmo do schránek
-cover-photo: http://i.ohlasy.info/OqOdBRQl.jpg
+cover-photo: https://i.ohlasy.info/OqOdBRQl.jpg
 perex: Nový Boskovický zpravodaj jednou měsíčně zdarma do schránek. Zvýšení kvality tisku znamená také výrazné zvýšení nákladů.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *K výrazné změně městských tištěných médií plánuje přistoupit boskovická radnice. Město chce zrušit prodávaný Zpravodaj i bezplatné Radniční listy a tyto tiskoviny nahradit novým dvacetistránkovým Zpravodajem, distribuovaným jednou měsíčně zdarma do schránek všech domácností. Finanční náklady na tištěná média se tak podstatně zvýší.*
 
-{% photo src="http://i.ohlasy.info/OqOdBRQ.jpg" caption="Boskovická radniční média" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/OqOdBRQ.jpg" caption="Boskovická radniční média" author="Tomáš Trumpeš" %}
 
 Podle zápisu z červnové městské rady jsou důvody ke změnám především dva: prodávanému Zpravodaji klesá postupně náklad – z původní tisícovky kusů přibližně na šest set – a Radniční listy nedoznaly změn od svého vzniku v červnu roku 2003. Zpravodaj si tak už nevydělá inzercí a prodejem ani na výdaje na tisk a bezplatné Radniční listy, které jsou černobílé a mají čtyři strany, podle zástupců města neodpovídají dnešním požadavkům na kvalitu tisku. I menší obce v regionu dnes svým občanům distribuují často zpravodaje na křídovém papíře, v barvě a ve větším rozsahu.
 

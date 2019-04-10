@@ -1,7 +1,7 @@
 ---
 title: Lezecká stěna v letním kině s největší pravděpodobností nebude
 author: Tomáš Trumpeš
-cover-photo: http://i.ohlasy.info/IEhO7eWl.jpg
+cover-photo: https://i.ohlasy.info/IEhO7eWl.jpg
 category: zpravodajství
 tags:
     - investice
@@ -11,7 +11,7 @@ tags:
 
 *Výsledek [statického posudku](http://data.ohlasy.info/statika-stena.pdf), který si město nechalo zpracovat, znamená s nejvyšší pravděpodobností konec myšlenky vybudovat na zadní straně projekční stěny boskovického letního kina lezeckou stěnu. Posudek říká, že stěnu by musela nést samostatná konstrukce. Její vybudování by přišlo na více než 3 miliony a navíc by zkomplikovalo aktuální projekt, který v prostoru za plátnem počítá s výstavbou zázemí pro kulturní akce.*
 
-<img src="http://i.ohlasy.info/IEhO7eW.jpg" alt="výhled z plátna letního kina" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/IEhO7eW.jpg" alt="výhled z plátna letního kina" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 „Statický posudek prokázal, že současná ocelová konstrukce pro zatížení lezeckou stěnou nevyhoví a pro její realizaci bude nezbytné provést novou samostatnou konstrukci nezávislou na konstrukci promítací stěny,“ odcitoval na tiskové konferenci z posudku místostarosta Petr Malach. Městská rada zatím o záměru nerozhodla, ale posudek postoupila do komisí, načež se problematikou bude znovu zabývat. I tak je víceméně jasné, že pro záměr je to konečná.
 

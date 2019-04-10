@@ -1,14 +1,14 @@
 ---
 title: Vzpomínka na Jaroslava Bránského
 perex: Ve věku 89 let zemřel v úterý 11. července boskovický pedagog, publicista a překladatel Jaroslav Bránský.
-cover-photo: http://i.ohlasy.info/FKT782Vl.jpg
+cover-photo: https://i.ohlasy.info/FKT782Vl.jpg
 author: Drahomír Skořepa
 category: názory a komentáře
 ---
 
 *Ve věku 89 let zemřel v úterý 11. července boskovický pedagog, publicista a překladatel Jaroslav Bránský. Vzpomínku na tuto výraznou osobnost místní kultury a školství napsal Drahomír Skořepa, bývalý ředitel gymnázia, kde Jaroslav Bránský dlouhá léta působil.*
 
-{% photo src="http://i.ohlasy.info/FKT782V.jpg" caption="Jaroslav Bránský" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/FKT782V.jpg" caption="Jaroslav Bránský" author="Tomáš Trumpeš" %}
 
 Když si vzpomenu na svůj nástup na Gymnázium Boskovice, bylo to v roce 1972, tak se mi okamžitě vybaví největší osobnosti, se kterými jsem se tam setkal: kolegové Křivánek, Bránský, Dohnálek, Soldán, kolegyně Mezerová a další. Ve středu ráno jsem se dozvěděl, že odešel další z nich – doktor Jaroslav Bránský. Je velice těžké k Jaroslavovi něco říci a nezapomenout na něco podstatného. Byl totiž úžasně všestranný. Ač humanitně vzdělán, když jsme sedávali u přijímacích zkoušek, měl příklady z matematiky spočítány dříve než já, matematik.
 

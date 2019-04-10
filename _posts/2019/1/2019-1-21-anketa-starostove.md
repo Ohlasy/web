@@ -1,7 +1,7 @@
 ---
 title: "Anketa se starosty: priority volebního období 2018–2022"
 perex: Jaké hlavní cíle si kladete pro toto volební období? Co je nejvíc potřeba řešit ve vaší obci, jaké jsou vaše priority a jaké konkrétní věci byste rádi stihli? Odpovídají starostové Letovic, Velkých Opatovic, Kunštátu, Lysic, Svitávky a Olešnice.
-cover-photo: http://i.ohlasy.info/JWyjpF0l.jpg
+cover-photo: https://i.ohlasy.info/JWyjpF0l.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika
@@ -9,11 +9,11 @@ tags: politika
 
 *Jaké hlavní cíle si kladete pro toto volební období? Co je nejvíc potřeba řešit ve vašem městě či obci, jaké jsou vaše priority a jaké konkrétní věci byste rádi stihli?*
 
-{% photo src="http://i.ohlasy.info/JWyjpF0.jpg" caption="Aktuální podoba letovického náměstí" author="Radek Musil" %}
+{% photo src="https://i.ohlasy.info/JWyjpF0.jpg" caption="Aktuální podoba letovického náměstí" author="Radek Musil" %}
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/v1CQ44i.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/v1CQ44i.jpg" alt="" />
 
 **Petr Novotný, starosta Letovic, TOP 09, STAN a nezávislí**
 
@@ -27,7 +27,7 @@ Nově bychom chtěli vybudovat kryté pódium v areálu koupaliště a celkově 
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/j44UrIE.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/j44UrIE.jpg" alt="" />
 
 **Kateřina Gerbrichová, starostka Velkých Opatovic, Město lidem**
 
@@ -41,7 +41,7 @@ Také se v tomto období bude zpracovávat nový územní plán města Velké Op
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/BF4JtL6.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/BF4JtL6.jpg" alt="" />
 
 **Zdeněk Wetter, starosta Kunštátu, ČSSD**
 
@@ -57,7 +57,7 @@ Máme i spoustu dalších plánů ze sféry sociální, školské, sportovní, �
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/fubTZtT.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/fubTZtT.jpg" alt="" />
 
 **Pavel Dvořáček, starosta Lysic, ČSSD**
 
@@ -65,7 +65,7 @@ Hlavním cílem v tomto volebním období je pro mě, mimo „běžné“ výsta
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/A0RbHkn.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/A0RbHkn.jpg" alt="" />
 
 **Jaroslav Zoubek, starosta Svitávky, Občané Svitávky**
 
@@ -73,7 +73,7 @@ Pro toto volební období bychom nejdříve chtěli dokončit rozpracované proj
 
 ---
 
-<img class="profile-picture" src="http://i.ohlasy.info/o1ID7i9.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/o1ID7i9.jpg" alt="" />
 
 **Zdeněk Peša, starosta Olešnice, Sdružení nezávislých kandidátů**
 

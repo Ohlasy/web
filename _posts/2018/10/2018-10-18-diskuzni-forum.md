@@ -1,14 +1,14 @@
 ---
 title: Spouštíme nové diskuzní fórum
 perex: Tak, jako se podle nás město neobejde bez nezávislých novin, neobejde se ani bez otevřené a civilizované diskuze. Proto jsme se rozhodli spustit veřejné diskuzní fórum.
-cover-photo: http://i.ohlasy.info/8IgrT4ul.jpg
+cover-photo: https://i.ohlasy.info/8IgrT4ul.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
 *Tak, jako se podle nás město neobejde bez nezávislých novin, neobejde se ani bez otevřené a civilizované diskuze. Proto jsme se rozhodli spustit [veřejné diskuzní fórum](https://forum.ohlasy.info), otevřený prostor pro výměnu názorů a zkušeností, konstruktivní kritiku, reakce na naše články, přípravu investic nebo zkrátka cokoliv, o čem bychom chtěli společně mluvit. Nemáme předem vymezené žádné definitivní hranice toho, k čemu všemu by fórum mohlo sloužit – i toto může být předmětem debaty.*
 
-{% photo src="http://i.ohlasy.info/8IgrT4u.jpg" caption="Civilizovaná debata po španělsku" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/8IgrT4u.jpg" caption="Civilizovaná debata po španělsku" author="Tomáš Znamenáček" %}
 
 V poslední době nabízí prostor pro debatu zejména sociální sítě. Pro nás ale diskuze představuje velkou hodnotu, kterou chceme dlouhodobě rozvíjet a nechceme ji nechat zmizet v hlubinách Facebooku. Sociální sítě jsou pro konstruktivní debatu nevhodné, protože jejich primárním cílem je zisk provozovatele, nikoliv kvalita diskuze. Facebook chce pouze to, aby na něm uživatelé trávili maximum času. Nevadí mu proto povrchní hádky, opakování stále stejných debat dokola, ani vytlačování důležitých témat „pěnou dní“. Nám ano – záleží nám na tom, aby diskuze byla pro město přínosem, aby byla bezpečným místem pro civilizovanou výměnu názorů. Za vaše komentáře na Facebooku budeme i nadále vděční, ale pokud jde o důležitější příspěvky, zvažte prosím, zda nedat přednost diskuznímu fóru.
 

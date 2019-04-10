@@ -1,6 +1,6 @@
 ---
 title: Krajský úřad potvrdil nesouhlas s rekonstrukcí Panského dvora
-cover-photo: http://i.ohlasy.info/vl3W73a.jpg
+cover-photo: https://i.ohlasy.info/vl3W73a.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Nesouhlas s plánovanou rekonstrukcí boskovického Panského dvora [vyjádřil v červnu letošního roku boskovický úřad](/clanky/2015/07/pansky-dvur-bez-razitka.html), jehož referentka Alena Dvořáková reprezentuje státní památkovou péči. Její kladné vyjádření formou takzvaného závazného stanoviska je nezbytnou podmínkou pro získání stavebního povolení. Majitel objektu, společnost Pražská 5, se proto obrátila na krajský úřad se snahou nesouhlasné rozhodnutí zvrátit. Výsledkem je podobně příkře odmítavé stanovisko krajských památkářů.*
 
-<img src="http://i.ohlasy.info/OYZx0dB.jpg" alt="panský dvůr" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/OYZx0dB.jpg" alt="panský dvůr" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 „Krajský úřad Jihomoravského kraje, odbor regionálního rozvoje, ve výše uvedené věci sděluje, že neshledal důvody pro zahájení přezkumného řízení předmětného závazného stanoviska,“ zní jádro odpovědi, kterou z kraje obdržel jednatel společnosti Pražská 5 Luděk Řehoř. Ten paradoxně pro svůj záměr získal kladné stanovisko brněnského Památkového ústavu, narazil až na odpor boskovické úřednice. Za tu se však nyní jednoznačně postavil i kraj, který vstřícný přístup svých kolegů památkářů naopak tvrdě zkritizoval: „Tento přístup se velmi blíží ne zcela uváženému tolerování záměru stavebníka před důslednou ochranou veřejného zájmu.“
 
@@ -25,7 +25,7 @@ Důvody pro odmítavý názor kraje na navrhovanou rekonstrukci jsou víceméně
 
 K tomuto náhledu na památky má Luděk Řehoř výhrady. „Lidé jako pan Vašek nebo paní Dvořáková se nedívají na památky z hlediska jejich budoucnosti. Odvolávají se na metodickou příručku, která řeší památky plošně, ale je třeba posuzovat to jednotlivě. Je tady rozpor mezi názorem Národního památkového a názorem těchto osob. My zachováváme pohled na střechy z města, prosvětlení chceme pouze u tří křídel z vnitřní strany,“ zdůrazňuje Luděk Řehoř.
 
-<img src="http://i.ohlasy.info/7vi2jPb.jpg" alt="panský dvůr během boskovického festivalu" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/7vi2jPb.jpg" alt="panský dvůr během boskovického festivalu" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 ### Možnosti dalšího postupu
 

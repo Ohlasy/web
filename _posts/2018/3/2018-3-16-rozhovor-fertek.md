@@ -1,14 +1,14 @@
 ---
 title: „Tradiční model vyučování se nedá udržet.“
 perex: Rozhovor s Tomášem Feřtekem, odborným konzultantem obecně prospěšné společnosti EDUin. Do Boskovic přijel s přednáškou nazvanou Co změnilo svět vzdělávání?
-cover-photo: http://i.ohlasy.info/rWHFwNgl.jpg
+cover-photo: https://i.ohlasy.info/rWHFwNgl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor s Tomášem Feřtekem, odborným konzultantem obecně prospěšné společnosti EDUin, která si klade za cíl, aby veřejnost měla více informací a dokázala lépe přemýšlet o vzdělávání a podporovat jeho proměnu. Do Boskovic přijel s přednáškou nazvanou Co změnilo svět vzdělávání?*
 
-{% photo src="http://i.ohlasy.info/rWHFwNg.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/rWHFwNg.jpg" author="Tomáš Znamenáček" %}
 
 **Nemůžeme shrnout do jedné otázky obsah celé vaší besedy, ale přesto se zeptám: Co změnilo svět vzdělávání?**
 
@@ -44,7 +44,7 @@ Obvyklá námitka zní, že poslušnost je důležitá a žádná firma nemůže
 
 Pokud se naopak budeme bavit o jiném typu škol, tak ty s tím rozhodováním, nastavováním a dodržováním pravidel pracují velmi důsledně. S oponenty se rozhodně shodneme v tom, že dodržování pravidel je klíčová dovednost. Ale učí normální škola dodržování pravidel? Myslím, že ne. Učí poslušnost, a v tom já vidím problém.
 
-{% photo src="http://i.ohlasy.info/japeBol.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/japeBol.jpg" author="Tomáš Znamenáček" %}
 
 ### Alternativa mění systém
 
@@ -72,7 +72,7 @@ Na druhou stranu je třeba říct, že školy se změnily vlastně všechny. I t
 
 Ke změnám rozhodně dochází. Ano, jen výjimečněji dochází k těm změnám, které reagují na tu změnu objednávky. Tam je to složitější.
 
-{% photo src="http://i.ohlasy.info/KuN52op.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/KuN52op.jpg" author="Tomáš Znamenáček" %}
 
 ### Nepřijít o energii aktivních rodičů
 
@@ -102,7 +102,7 @@ Nemůžeme si představovat, že takhle bude učit většina učitelů, to není
 
 Ano, nutná podmínka. Dokonce bych řekl, že to zvýšení, o kterém se teď bavíme – asi po 15 procentech ročně – si zaslouží i ti učitelé, kteří ve škole nic až tak zázračného nepředvádí. Platy, jak jsou dnes nastavené, jsou nepřijatelné. A hlavně jsou nepřijatelné dlouhodobě. Takže pokud učitelé nastoupí na nějakou platovou úroveň, časem je to vyselektuje. To neznamená, že jde učitelům jen o peníze. Ale za tyto peníze si učení můžete dovolit jen za velmi specifických podmínek. Buď nemáte rodinu, nebo máte velmi dobře vydělávajícího partnera. Jiná možnost vlastně není. A to je přece neudržitelné.
 
-{% photo src="http://i.ohlasy.info/FwaoiWy.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/FwaoiWy.jpg" author="Tomáš Znamenáček" %}
 
 ### Dobrá škola bez dobrého ředitele neexistuje
 
@@ -166,7 +166,7 @@ To znamená, že zřizovatel má na konkurz určitě právo, měl by mít jasně
 
 Je to teď trochu vlastní marketing, my jako EDUin jsme začali uvažovat o tom, že tyto balíčky vyrobíme, protože se s tím setkáváme velmi často. Zřizovatelé často nic nevědí a tím pádem ani nevědí, že mají problém, v lepším případě nic nevědí a aspoň vědí, že mají problém. Někdy nabízíme placené zorganizování konkurzu, nějaké konzultace předtím, účast v konkurzu, doporučení odborníků. Někdy to děláme, ale jinak to moc neexistuje. Což byl také důvod, proč jsme to začali dělat, protože ono to dostupné vlastně není. Takže se to pytlíkuje, v lepším případě se starostové znají, poradí si a někoho doporučí. Chtěli jsme, aby existovaly třeba krajské databáze nezávislých odborníku v oblasti vzdělávání, aby si obec mohla vybrat ze seznamu třeba dvaceti akreditovaných lidí. Aby existovala nějaká podpora.
 
-{% photo src="http://i.ohlasy.info/HYSY0Sg.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/HYSY0Sg.jpg" author="Tomáš Znamenáček" %}
 
 ### Zkušenost s hmatatelným světem
 

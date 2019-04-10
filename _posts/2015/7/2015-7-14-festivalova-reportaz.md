@@ -1,6 +1,6 @@
 ---
 title: "Dvojitá reportáž: Festival Boskovice 2015 očima Jana Bařinky a Tomáše Trumpeše"
-cover-photo: http://i.ohlasy.info/dGq72ctl.jpg
+cover-photo: https://i.ohlasy.info/dGq72ctl.jpg
 author: Tomáš Trumpeš
 tags: kultura
 ---
@@ -11,7 +11,7 @@ tags: kultura
 
 JAN BAŘINKA: První den festivalu byl pro mě do velké míry poznamenán dvojím účinkováním. V 16 hodin jsem stihl zajít do Muzea Boskovicka na zahájení hned šesti výstav, přičemž už tam jsem litoval, že skvělé maďarské Bujdosó Trio, které obstaralo hudební program, bude vystupovat v židovské synagoze v 19 hodin, tedy v době, kdy se budeme s Divadlem NABOSO chystat na představení v sokolovně. Také z oficiálního zahájení festivalu v zámeckém skleníku jsem musel odejít v půlce, tentokrát kvůli přípravě na koncert s kapelou Nadívaný skřivánek v klubu Sklepy, takže i z koncertu dalšího zajímavého maďarského hudebního uskupení Dina Trio Band jsem zvládl pouze část. 
 
-<img src="http://i.ohlasy.info/zQWEXLj.jpg" alt="Bujdosó Trio" class="img-responsive">
+<img src="https://i.ohlasy.info/zQWEXLj.jpg" alt="Bujdosó Trio" class="img-responsive">
 
 Zbytek večera jsem strávil na Sklepech, kde jsem poslechl výbornou kapelu YLO – africký slon a na závěr půlku kapely Spytihněv, která z technických důvodů nedorazila celá, doplněnou o bubeníka z kapely Sblížen.
 
@@ -23,7 +23,7 @@ Film Horký vzduch byl prvním realizovaným scénářem mladého Jiřího Kři�
 
 V muzeu se konalo zahájení výstav, přičemž ty umístěné přímo v budově rezidence se se mnou v duchu předchozích ročníků poněkud míjí. Zvučná jména úspěšných umělců, případně mladých, kteří mají k úspěchům tzv. našlápnuto, zdá se mi, festivalu tolik nesluší. Kde asi jsou Váchalové dneška, kteří nelétají tvořit do New Yorku, nevystavují v předních galeriích, ale tvoří ve skrytu svá geniální díla?
 
-<img src="http://i.ohlasy.info/M9cC2yk.jpg" alt="divadlo NABOSO" class="img-responsive">
+<img src="https://i.ohlasy.info/M9cC2yk.jpg" alt="divadlo NABOSO" class="img-responsive">
 
 Po slavnostním zahájení ve skleníku jsem musel vyrazit na představení divadla NABOSO, o kterém referovat vzhledem ke střetu zájmů nemohu. Čtvrteční večer jsem pak strávil opět v kině – ve společnosti Vráti Brabence při sledování dokumentu, ve kterém ho zpovídá novinářka Renata Kalenská. Vráťova osobnost je natolik fascinující, že tato možnost pobýt díky dokumentu hodinu a půl v jeho přítomnosti prakticky překryje všechna pochybení tvůrců. Nejzajímavější mi přišlo, že se Vráťa moc nenechal dotlačit k nějakým filozofickým či politickým rozpravám, ale naopak vynikl hlavně ekologický rozměr jeho myšlenkového světa. I novinář se nemůže než sklonit, když Vráťa říká, že „poslouchat ptáky je důležitější než číst noviny“. Ostatně z toho nevyplývá, že číst noviny by důležité nebylo.
 
@@ -33,7 +33,7 @@ Blues ve skleníku bylo před půlnocí tak skvělé, že se to nedalo vydržet,
 
 JAN BAŘINKA: Pátek jsem sice zahájil na UNI scéně v Panském dvoře na vystoupení Jany Vébrové. Výborný koncert, kde zazněla například část Erbenovy balady Štědrý den, jsem však opustil po půlhodině, neboť jsem spěchal na čtení Petra Pazdery Payna před antikvariátem. Zazněly povídky z rukopisu i z poslední sbírky Předběžná ohledání a své volby rozhodně nelituji. Nejvíce mě zasáhla patrně povídka Před tunelem, která na příběhu o sporu dvou spisovatelů různými způsoby nahlížela na samotnou literární tvorbu.
 
-<img src="http://i.ohlasy.info/m0icF4t.jpg" alt="divadlo Kolárka" class="img-responsive">
+<img src="https://i.ohlasy.info/m0icF4t.jpg" alt="divadlo Kolárka" class="img-responsive">
 
 S malou zastávkou na Biorchestru jsem se poté vydal na loutkové představení Sněhurka v podání divadla Kolárka. Klasická pohádka nabídla dostatek vtipu i pro dospělé, jednoduchý trpasličí popěvek – „my, a my, my jsme ti trpaslíci“ – se navíc stal jakousi naší festivalovou hymnou a po zbytek festivalu jsme jej nebyli schopní dostat z hlavy.
 
@@ -43,7 +43,7 @@ Muchu jsem viděl dříve mnohokrát sólově i s kapelou, ovšem vystoupení na
 
 TOMÁŠ TRUMPEŠ: Mou nespokojenost s výstavami v rezidenci v posledních letech dokonale vyvažují výstavní počiny spojené s fotografem a pedagogem Jaroslavem Bártou. Ten letošní prezentuje v Panském dvoře fotografický projekt Česko-Německo, který sleduje proměny Krušných hor a Podbořanska. Krásnou výstavu v pátek poutavě uvedl právě Jaroslav Bárta, nejlépe ji podle mě vystihuje jeho výrok „Charakter člověka je nutné hledat také v charakteru krajiny.“ Z čehož jaksi vyplývá, že výstava je krásná, avšak nikoliv zrovna veselá či optimistická.
 
-<img src="http://i.ohlasy.info/FnY0Njc.jpg" alt="Petr Pazdera Payne" class="img-responsive">
+<img src="https://i.ohlasy.info/FnY0Njc.jpg" alt="Petr Pazdera Payne" class="img-responsive">
 
 Petr Pazdera Payne má tu výhodu, že nejen výborně píše, ale také výborně čte. Jeho autorská čtení jsou proto vskutku plnohodnotným prožitkem, ne jen nějakou upoutávkou na knihy, i když i tak by to možná mělo smysl. Před antikvariátem četl třeba vynikající „vetešnickou“ povídku Před tunelem z knihy Předběžná ohledání, která letos získala nominaci na Magnesii Literu.
 
@@ -51,7 +51,7 @@ Páteční večer nabídl v kině film Případ Dr. Horáková, který uvedl his
 
 V letním kině jsem pátral v paměti, jestli se někdy hned první vystupující na hlavní scéně setkal s tak velkou odezvou publika jako brněnská Mucha. Nevzpomněl jsem si. Ve skleníku pak hrál bubenický kouzelník Günter Baby Sommer. Jako kouzelník vypadal, choval se tak, a především tak hrál. 
 
-<img src="http://i.ohlasy.info/qKAB196.jpg" alt="Iva Bittová" class="img-responsive">
+<img src="https://i.ohlasy.info/qKAB196.jpg" alt="Iva Bittová" class="img-responsive">
 
 Iva Bittová byla neskutečná, tudíž nepopsatelná.
 
@@ -63,7 +63,7 @@ Silným dojmem zapůsobil Brundibár, dětská opera z prostředí terezínskéh
 
 Pomalu nastal čas přesunout se do letního kina na hlavní večerní program. Bluesovou náladou a originálními písněmi otevřela sobotní večer kapela Byl pes, v podobném, i když komornějším duchu pokračoval i projekt Los Agentos s poctou Tomu Waitsovi. Většina posluchačů už ale spíše očekávala legendární kapelu Už jsme doma, jejichž koncert bezpochyby patřil k vrcholům festivalu. Ani po třiceti letech fungování kapela neztrácí svůj náboj a písně jako Strach nebo Hollywood vzbudily v divácích patřičnou odezvu. Oproti tomu Švihadlo přineslo mírné zklamání, během jejich koncertu jsem několikrát přemýšlel, jestli jsem neměl dát přednost spíše Kalle na palouku Potrvá. V druhé půlce však zaznělo několik známých hitů a potěšila i přetextovaná verze toots-and-the-maytalsovské Monkey Man, zasazená do střední části písně Na Jamajce 1/2 srdce mám.
 
-<img src="http://i.ohlasy.info/OLIKUgc.jpg" alt="Brundibár" class="img-responsive">
+<img src="https://i.ohlasy.info/OLIKUgc.jpg" alt="Brundibár" class="img-responsive">
 
 TOMÁŠ TRUMPEŠ: Dětská opera Brundibár uvedená dětmi z vyloučených brněnských lokalit, tedy ghett, pro mě znamenala jeden z vrcholů festivalu. Ten jako by se při svém tradičním zaměření na reflexi minulosti odhodlal díky tomuto představení také k jasnému kroku do současnosti. Paralela mezi židovskými a romskými dětmi byla i v horkém odpoledni na přímém slunci mrazivá. A hrůzně nadčasově, přitom dojemně a naléhavě zněla slova „Ta země je pořád i mojí zemí / ať si nacisti krákají, co chtějí.“
 
@@ -71,7 +71,7 @@ Zástupcem zcela současné tematiky bylo divadlo Depresivní děti touží po p
 
 Před posledním divadelním představením dostala přednost avizovaná přednáška historika Petra Blažka o procesu a justiční vraždě Dr. Milady Horákové. Přednáška byla vynikající, některé podrobnější informace opět mrazivé. Třeba že k volání po trestu smrti pro obviněné se přidávaly i sokolské a orelské jednoty. Naopak o milost ve jménu lidskosti a humanity žádali prezidenta republiky víceméně pouze jedinci. Organizace, včetně církví, mlčely.
 
-<img src="http://i.ohlasy.info/NOPFH4K.jpg" alt="Už jsme doma" class="img-responsive">
+<img src="https://i.ohlasy.info/NOPFH4K.jpg" alt="Už jsme doma" class="img-responsive">
 
 K dalším vrcholům festivalu patřilo vystoupení skupiny Už jsme doma v letním kině. UJD jsou pravidelným návštěvníkem festivalu, letos slaví 30 let a pořadatelé kapele připravili jako dárek sestřih boskovických vystoupení z minulých ročníků. Pak už se areálem rozburácela řízná a přitom komplikovaná muzika v technicky nepochopitelně přesném provedení. Ještě méně pochopitelné je, že to vše se harmonicky snoubí s místy až holanovskou básnickou tíhou (třeba v písni Tíha: Táhne k zemi jak dlouhý plášť / Svírá srdce každému zvlášť / Říká že nás neporaní / Říká že je z našich dlaní / stvořená) textů lídra skupiny Míry Wanka. Ten mimochodem velmi ctil kunštátského literáta Ludvíka Kunderu, na jehož pohřbu stál kousek ode mne a plakal.
 
@@ -85,6 +85,6 @@ Mám-li zhodnotit festival jako celek, rozhodně mě opět nezklamal. Vzhledem k
 
 TOMÁŠ TRUMPEŠ: Festivalové neděle se vyznačují zvláštní směsicí únavy a nostalgie. Nejinak tomu bylo letos. Vynikající soundtrack k melancholickému nedělnímu festivalovému potulování poskytl především Phil Shoenfelt.
 
-<img src="http://i.ohlasy.info/ci4wugC.jpg" alt="boskovická židovská čtvrť" class="img-responsive">
+<img src="https://i.ohlasy.info/ci4wugC.jpg" alt="boskovická židovská čtvrť" class="img-responsive">
  
 Zasadit direkt do srdce této nedělní melancholie se obvykle pokouší závěrečnou filmovou projekcí dramaturg Petr Michálek. Tentokrát se mu to podařilo filmem polského klasika Krysztofa Kieślowského Náhoda. Podobenství o nahodilosti a neodvratnosti lidského osudu festival uzavřelo. Na after party v šapitó na palouku před hradem už se proto mohly směle plánovat další ročníky. Jistě, vymýšlet a inovovat a otevírat se novým myšlenkám je nutné neustále. V zásadě ale platí, že festival Boskovice má natolik svébytný fundament, že se o jeho podobu v příštích letech nemusíme bát. Bát se můžeme snad jen o to, aby neztratil smysl podtitul „festival pro židovskou čtvrť“. Ale to už záleží samozřejmě na nás domácích, nikoliv na pořadatelích festivalu.

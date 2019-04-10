@@ -1,14 +1,14 @@
 ---
 title: O řediteli boskovické základní školy nejspíš rozhodne zástupkyně kraje
 perex: Boskovice čekají konkurzy na ředitele mateřské i základní školy. Kdo bude o výběru nového ředitele základní školy rozhodovat? V konkurzní komisi sedí odborníci, kteří ale mají blízko k politickým stranám.
-cover-photo: http://i.ohlasy.info/cfWMt6wl.jpg
+cover-photo: https://i.ohlasy.info/cfWMt6wl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Boskovice čekají konkurzy na ředitele mateřské i základní školy. Kdo bude o výběru nového ředitele základní školy rozhodovat? V konkurzní komisi sedí odborníci, kteří ale mají blízko k politickým stranám. Politicky aktivní je i současný [ředitel základní školy Vladimír Ochmanský](http://www.ohlasy.info/clanky/2017/01/rozhovor-ochmansky.html) – opoziční zastupitel za ODS.*
 
-{% photo src="http://i.ohlasy.info/cfWMt6w.jpg" caption="Vladimír Ochmanský, současný ředitel ZŠ" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/cfWMt6w.jpg" caption="Vladimír Ochmanský, současný ředitel ZŠ" author="Tomáš Znamenáček" %}
 
 Městská rada Ochmanského ve funkci na další roky nepotvrdila a naopak už před rokem oznámila, že vyhlásí konkurz. „Máme za to, že by bylo vhodné, aby bylo vedení města i rodičům jasné, že ředitel je vizionář a jde dopředu s novými trendy a novými výukovými metodami. Jde nám o to, abychom věděli, jakým směrem se bude školství v Boskovicích do budoucna ubírat,“ vysvětlila záměr před časem starostka Boskovic Hana Nedomová (ČSSD). Výběrové řízení vnímá vedení města i jako příležitost zhodnotit výsledky a nastavit nové cíle.
 

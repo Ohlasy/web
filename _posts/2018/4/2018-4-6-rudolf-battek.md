@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Vzpomínka na Rudolfa Battěka"
 perex: Dům rodiny Langrových na Plačkově ulici č. 9 je spjat s osudy Rudolfa Battěka, účastníka protinacistického odboje, soustružníka, čističe výloh i polistopadového předsedy Sněmovny lidu a místopředsedy Federálního shromáždění.
-cover-photo: http://i.ohlasy.info/8cfkvd4l.jpg
+cover-photo: https://i.ohlasy.info/8cfkvd4l.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *Snad si někteří z vás, milí čtenáři Ohlasů, vzpomenete, že jsem jméno Rudolfa Battěka vzpomínala před časem v souvislosti s [boskovickou židovskou rodinou Langerů](http://www.ohlasy.info/clanky/2016/05/langerovi-z-ghetta.html). Eliška Langerová z této rodiny přežila dobu války v těch nejhrůznějších podmínkách vyhlazovacího tábora Osvětim a vrátila se zpět do rodných Boskovic. Její dcera Dagmar Brzická se v době svých studií v Praze seznámila se Rudolfem Battěkem, Židem původně ze Slovenska, za něhož se posléze provdala. Naše vyprávění bude dnes patřit tomuto mimořádnému člověku, od jehož úmrtí letos 17. března uplynulo pět let.*
 
-{% photo src="http://i.ohlasy.info/8cfkvd4.jpg" author="archiv rodiny" %}
+{% photo src="https://i.ohlasy.info/8cfkvd4.jpg" author="archiv rodiny" %}
 
 Rudolf Battěk se narodil 2. listopadu 1924 v Bratislavě v rodině českého sociálního právníka, rodina byla v roce 1939 nucena opustit Slovensko a přestěhovat se do Prahy. Zde se v ČKD Rudolf vyučil strojním zámečníkem a zapojil se do protinacistického odboje. Po válce roku 1947 podnikl se dvěma přáteli pěší túru Polskem, o které přinášel řadu reportáží a rozhlasových pásem. Svět se zdál pro mladého inteligentního muže nadějným, avšak i on se měl ocitnout v soukolí nemilosrdného režimu, který se v únoru 1948 dostává k moci.
 

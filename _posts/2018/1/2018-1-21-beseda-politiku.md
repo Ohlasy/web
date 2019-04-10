@@ -1,7 +1,7 @@
 ---
 title: "Beseda: Co přinese generační obměna boskovické politiky?"
 perex: O generačních aspektech boskovické politiky diskutují Petr Malach (ČSSD), Lukáš Holík (ANO), Michal Knödl (KDU-ČSL) a Petr Šafránek (TOP 09).
-cover-photo: http://i.ohlasy.info/9e5DdT9l.jpg
+cover-photo: https://i.ohlasy.info/9e5DdT9l.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *O generačních aspektech boskovické politiky diskutují Petr Malach (místostarosta za ČSSD), Lukáš Holík (předseda ANO), Michal Knödl (předseda KDU-ČSL) a Petr Šafránek (předseda TOP 09).*
 
-{% photo src="http://i.ohlasy.info/9e5DdT9.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/9e5DdT9.jpg" author="Tomáš Znamenáček" %}
 
 **Co vás přitáhlo do politiky? Dovedete si představit, že byste se jí po následujících volbách věnovali profesionálně a ujali se uvolněných funkcí ve vedení boskovické radnice?**
 
@@ -31,7 +31,7 @@ PETR ŠAFRÁNEK (TOP 09): Mě jako mladého politika uvítali v TOP 09 s otevře
 
 PETR MALACH (ČSSD): Já bych navázal. Když jsem vstupoval do sociální demokracie v roce 2008, probouzelo se miminko Facebooku a sociálních sítí. Já jsem byl iniciátor toho, abychom jako místní organizace měli svoje webové stránky, kde se otevřela diskuse. Ta se sice postupně stala diskusí nediskusí, ale zkrátka se tady udělalo něco nového a bylo tam nějaké sdělení. Postupem času se zjistilo, že politika už se nedělá na náměstích, ale na sociálních sítích. Na to si starší generace hůř zvyká. Myslím, že je dobře, že ke generační obměně ve stranách dochází, město potřebuje mladou krev, mladé nápady a pohled dopředu.
 
-{% photo src="http://i.ohlasy.info/UW7KMZ3.jpg" caption="Michal Knödl" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/UW7KMZ3.jpg" caption="Michal Knödl" author="Tomáš Znamenáček" %}
 
 **Narážíte s něčím u starší generace na nepochopení?**
 
@@ -61,7 +61,7 @@ LUKÁŠ HOLÍK (ANO): Slyším to často i ve firmách – takhle je to nastaven
 
 PETR ŠAFRÁNEK (TOP 09): Já to vidím i ve školství. Záleží to opravdu na lidech, když chtějí, tak jde všechno.
 
-{% photo src="http://i.ohlasy.info/Q66OjWp.jpg" caption="Petr Šafránek" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/Q66OjWp.jpg" caption="Petr Šafránek" author="Tomáš Znamenáček" %}
 
 **Kolega Znamenáček [napsal v novoročním komentáři](http://www.ohlasy.info/clanky/2018/01/pf.html), že bychom měli chtít lepší město. Souhlasíte s tím? Kde vidíte hlavní rezervy, na které by se mělo příští vedení města zaměřit?**
 
@@ -115,7 +115,7 @@ PETR ŠAFRÁNEK (TOP 09): Jsem v komisi pro regionální rozvoj, kde je částe�
 
 LUKÁŠ HOLÍK (ANO): Chci hlavně říct, že další projekty se s občany probíraly dost detailně. Když vezmu příklad sportovní haly, tak to se šperkovalo a šperkuje. Sportovci vždycky přijdou s nějakým návrhem, na komisi to proběhlo myslím třikrát. Pokud tohle debatou s veřejností neprošlo, tak je to určitě chyba.
 
-{% photo src="http://i.ohlasy.info/SBauzZK.jpg" caption="Lukáš Holík" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/SBauzZK.jpg" caption="Lukáš Holík" author="Tomáš Znamenáček" %}
 
 **Zastupujete v politice mladé lidi – vnímáte něco konkrétního, co se pro ně v tomto období udělalo a za co byste radnici pochválili? Petr Malach je tedy v pozici, že bude muset pochválit sám sebe.**
 
@@ -187,7 +187,7 @@ MICHAL KNÖDL (KDU-ČSL): A v tomhle je to stejné i na tom městském profilu. 
 
 LUKÁŠ HOLÍK (ANO): Navíc to musí být někdo, kdo má o těch věcech stoprocentní informace.
 
-{% photo src="http://i.ohlasy.info/vevq73A.jpg" caption="Petr Malach" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/vevq73A.jpg" caption="Petr Malach" author="Tomáš Znamenáček" %}
 
 **Mimochodem proč tady s námi nejsou žádné budoucí lídryně? Máte ve stranám mladé aktivní ženy se zdravou ambicí ujmout se postů ve vedení města?**
 

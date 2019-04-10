@@ -1,6 +1,6 @@
 ---
 title: "Rok po volbách: Koalice spokojeně vládne, dialog s opozicí vázne"
-cover-photo: http://i.ohlasy.info/DZr0k8jl.jpg
+cover-photo: https://i.ohlasy.info/DZr0k8jl.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Rok uplynul od komunálních voleb, boskovická koalice ČSSD + KDU-ČSL + ANO 2011 má tak za sebou první čtvrtinu plánovaného vládnutí. A nic nenasvědčuje tomu, že by se síly na radnici měly nějak přeskupovat. „Koalice funguje tak, jak má. Nemáme mezi sebou zásadní rozpory,“ říká stručně starostka Hana Nedomová s tím, že hodnotit práci radnice musí hlavně občané. Pochvaluje si, že spolu ve vedení města hodně komunikují, nad stěžejními otázkami se schází všichni koaliční zastupitelé.*
 
-<img src="http://i.ohlasy.info/DZr0k8j.jpg" alt="vedení města na tiskové konferenci" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/DZr0k8j.jpg" alt="vedení města na tiskové konferenci" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Její slova potvrzuje i místostarostka Jaromíra Vítková, která je ve funkci již čtvrté období, nyní však v podstatně proměněném uspořádání. „Objevily se novinky, které jsem dříve nezažívala. Setkáváme se jako celá koalice, na radnici se potkáváme, kdykoliv je potřeba, probíhá to konstruktivně, a mohu-li to tak říct, tak v příjemné atmosféře,“ uvedla Jaromíra Vítková. 
 

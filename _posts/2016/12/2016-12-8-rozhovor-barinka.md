@@ -1,6 +1,6 @@
 ---
 title: „Někdo si možná klepal na hlavu, ale já myslím, že založení galerie byl dobrý počin.“
-cover-photo: http://i.ohlasy.info/uzduHnCl.jpg
+cover-photo: https://i.ohlasy.info/uzduHnCl.jpg
 perex: Rozhovor s galeristou Josefem Bařinkou u příležitosti 20. výročí založení Galerie Otakara Kubína.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s galeristou Josefem Bařinkou. Galerie Otakara Kubína, kterou Josef založil společně s manželkou Lenkou v renesančních prostorách boskovické radnice, oslavila na konci listopadu 20 let své existence. Proto jsme si povídali hlavně o začátcích a historii galerie, která se stala významným boskovickým kulturním centrem.*
 
-<img src="http://i.ohlasy.info/uzduHnC.jpg" alt="Josef Bařinka" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/uzduHnC.jpg" alt="Josef Bařinka" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Jak vznikla myšlenka založit v Boskovicích galerii?**
 
@@ -43,7 +43,7 @@ Diskutovali jsme o tom obzvlášť s panem Kunderou. On nejprve vymýšlel jiné
 
 Je zde několik obrazů z pozůstalosti, které jsou v majetku muzea. Bylo to ode mě gesto na oplátku, že jednu ne nepodstatnou část galerie věnuji těmto obrazům. Samozřejmě bezúplatně, také mě to těší.
 
-<img src="http://i.ohlasy.info/yOBwT18.jpg" alt="Josef Bařinka" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/yOBwT18.jpg" alt="Josef Bařinka" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Stává se, že galerii navštíví někdo, kdo přijel do Boskovic vyloženě kvůli Otakaru Kubínovi?**
 
@@ -81,7 +81,7 @@ Když tu měl pan Kundera výstavu svých výtvarných prací, u příležitosti
 
 Je to pravda. V této trochu pohnuté době, trochu poklesl zájem o autorské výstavy, lidé taky stárnou, odcházejí… Trochu se to přece jen změnilo. Na další kulturní pořady, jako jsou koncerty a besedy, se to tady zhruba zaplní. Jsem spokojený. Dřív jsem z toho byl vždycky špatný, když přišlo třeba jen patnáct lidí, bylo to pro mě tragické. Nikdo si z toho nic nedělal, ale já ano. Dnes už se to nestává. Občas se naše akce s něčím kříží, to se stává, pak je lidí třeba trochu méně, ale pořád je to zde docela zaplněné. Lidé se sem těší, teď bude přes Vánoce pauza, to se lidé vždycky ptají, kdy už zase něco v galerii bude.
 
-<img src="http://i.ohlasy.info/nk2s2dT.jpg" alt="Josef Bařinka" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/nk2s2dT.jpg" alt="Josef Bařinka" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 **Jsou lidé, kteří sem chodí celých dvacet let?**
 

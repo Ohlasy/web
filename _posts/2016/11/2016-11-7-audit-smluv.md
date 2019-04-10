@@ -1,6 +1,6 @@
 ---
 title: "Audit městských smluv: ze 150 byly tři neplatné"
-cover-photo: http://i.ohlasy.info/a03JXlnl.jpg
+cover-photo: https://i.ohlasy.info/a03JXlnl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika

@@ -1,14 +1,14 @@
 ---
 title: Obchvat na Jevíčko vypadá jako utopie
 perex: Ulevit dopravě ve městě přesměrováním projíždějících vozidel ve směru na Jevíčko pomocí obchvatu nevypadá jako příliš reálný projekt. Radnice sice vybrala jednu variantu, kraj však záměr nepodporuje a samo město ho prakticky nemůže ufinancovat.
-cover-photo: http://i.ohlasy.info/KSwIcQ1l.jpg
+cover-photo: https://i.ohlasy.info/KSwIcQ1l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Ulevit dopravě ve městě přesměrováním projíždějících vozidel ve směru na Jevíčko pomocí obchvatu nevypadá jako příliš reálný projekt. Radnice sice vybrala jednu variantu, kraj však záměr nepodporuje a samo město ho prakticky nemůže ufinancovat. Zaznělo to na setkání s veřejností, které se konalo koncem června na boskovické radnici.*
 
-{% photo src="http://i.ohlasy.info/dkWcRMK.png" caption="Druhá varianta obchvatu" author="OpenStreetMap, Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/dkWcRMK.png" caption="Druhá varianta obchvatu" author="OpenStreetMap, Tomáš Znamenáček" %}
 
 Pro řešení obchvatu na Jevíčko si boskovická radnice v minulosti nechala vypracovat [tři varianty řešení](http://www.ohlasy.info/clanky/2016/11/obchvat.html). Nakonec byla jako nejvhodnější vybrána varianta číslo 2, tedy ta nejdražší – odklonit tranzitní dopravu na kruhovém objezdu u nemocnice směrem do průmyslové zóny a odtud pokračovat podél železniční trati na severovýchod, kde by se obchvat napojil na stávající silnici vedoucí ve směru na Jevíčko.
 
@@ -24,7 +24,7 @@ Z [měření tranzitní dopravy](http://data.ohlasy.info/2017/studie-dopravy-sme
 
 Zásadní problém obchvatu spočívá ovšem v tom, že Jihomoravský kraj k němu zaslal nesouhlasné stanovisko. „Z jejich pohledu je to neekonomická záležitost,“ uvedl petr Zouhar. Boskovice by podle kraje měly počkat na dálnici D43, případně hledat zlepšení jen na jednotlivých problematických bodech v rámci města. Místostarostka Dagmar Hamalová doplnila, že další osud obchvatu bude záležet na jednáních příštího vedení města s Jihomoravským krajem. Kraj sice podle ní uvedl, že neshledává dostatečné důvody k tomu, aby obchvat podpořil, doprava nicméně stále roste. Kraj totiž záměr posuzoval podle starších údajů o intenzitě dopravy a [město má nyní k dispozici nová čísla](http://data.ohlasy.info/2017/studie-dopravy-intenzity.pdf). 
 
-{% photo src="http://i.ohlasy.info/EXjSlsR.jpg" caption="Pole za městem, kudy by obchvat potenciálně vedl" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/EXjSlsR.jpg" caption="Pole za městem, kudy by obchvat potenciálně vedl" author="Tomáš Znamenáček" %}
 
 A jakou úlevu by obchvat za 155 milionů mohl přinést? Podle měření tranzitní dopravy, které probíhalo loni v květnu, to vychází následovně: Ve směru od Brna činí podíl aut pokračujících jako tranzit na Jevíčko přibližně 16 procent. Z asi 1 300 aut, které od Brna přijely během osmi hodin, by jich tedy na obchvat mohlo odbočit asi 200. V opačném směru je procento vyšší, od Jevíčka pokračuje na Brno 25 procent aut, z celkové tisícovky je jich něco přes 250. Zde je však důležité dodat ještě jednu důležitou věc – ve výzkumu tranzitní dopravy pochopitelně není započítaná doprava uvnitř města, tedy například auta, kterými lidé směřují na nákup do Kauflandu a zpět. Hustotu dopravy na křižovatce u Slávie ve směru od Brna by tedy obchvat snížil ještě méně, než je zmíněných 16 procent.
 

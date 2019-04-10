@@ -1,6 +1,6 @@
 ---
 title: "Rozpočet 2017: Minus 65 milionů. Jaké investice vedení města plánuje?"
-cover-photo: http://i.ohlasy.info/B5LhH9Il.jpg
+cover-photo: https://i.ohlasy.info/B5LhH9Il.jpg
 perex: Rozpočet na příští rok míří do zastupitelstva. Počítá s příjmy zhruba 293 milionů a výdaji 358 milionů; schodek tak spolkne všechny peníze naspořené na sportovní halu. 
 author: Marek Osouch
 category: zpravodajství

@@ -1,6 +1,6 @@
 ---
 title: Přístavba mateřské školy je v ohrožení. S žádostí o dotaci město neuspělo
-cover-photo: http://i.ohlasy.info/OGpkoC2l.jpg
+cover-photo: https://i.ohlasy.info/OGpkoC2l.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice vzdělávání dotace

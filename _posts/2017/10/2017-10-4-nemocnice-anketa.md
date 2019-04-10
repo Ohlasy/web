@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Co si myslí zastupitelé o možném převodu nemocnice?"
-cover-photo: http://i.ohlasy.info/gFhIMxql.jpg
+cover-photo: https://i.ohlasy.info/gFhIMxql.jpg
 perex: Vedení města otevřelo otázku možného převodu boskovické nemocnice pod Jihomoravský kraj. Co si o něm myslí zastupitelé?
 author: Marek Osouch
 category: ankety
@@ -9,11 +9,11 @@ tags: politika
 
 *Vedení města [otevřelo otázku možného převodu boskovické nemocnice pod Jihomoravský kraj](http://www.ohlasy.info/clanky/2017/10/prevod-nemocnice.html). Oslovili jsme proto zastupitele za jednotlivá politická uskupení v boskovickém zastupitelstvu, s výjimkou ČSSD a KDU-ČSL, jejichž představitelé dopis odeslaný na Jihomoravský kraj podepsali. Otázka zněla: Jste pro převod boskovické nemocnice pod kraj a proč? A jak se díváte na formu, jakou vedení města oslovilo Jihomoravský kraj?*
 
-{% photo src="http://i.ohlasy.info/gFhIMxq.jpg" caption="Nemocnice Boskovice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/gFhIMxq.jpg" caption="Nemocnice Boskovice" author="Tomáš Trumpeš" %}
 
 ---
 
-<img src="http://i.ohlasy.info/CES4mYf.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/CES4mYf.jpg" class="profile-picture" alt="">
 
 **Martina Přichystalová, radní za hnutí ANO 2011**
 
@@ -23,7 +23,7 @@ Co se týká převodu nemocnice, tuto možnost vnímám jako jisté východisko 
 
 ---
 
-<img src="http://i.ohlasy.info/5hZFu14.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/5hZFu14.jpg" class="profile-picture" alt="">
 
 **Vladimír Farský, nestranický radní zvolený na kandidátce KSČM**
 
@@ -37,7 +37,7 @@ Objevila se zde myšlenka svolání schůze zastupitelstva věnovaného pouze ne
 
 ---
 
-<img src="http://i.ohlasy.info/w8ZLGXo.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/w8ZLGXo.jpg" class="profile-picture" alt="">
 
 **Jaroslav Dohnálek, opoziční zastupitel za ODS**
 
@@ -45,7 +45,7 @@ Formu oslovení, či spíše obsah dopisu, považuji za ne zrovna šťastný. V 
 
 ---
 
-<img src="http://i.ohlasy.info/V8N6mM3.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/V8N6mM3.jpg" class="profile-picture" alt="">
 
 **Pavel Vlach, opoziční zastupitel za TOP 09**
 
@@ -59,7 +59,7 @@ A nakonec: Pokud dá kraj každý rok 3 až 5 milionů a z městského rozpočtu
 
 ---
 
-<img src="http://i.ohlasy.info/aYAmxfP.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/aYAmxfP.jpg" class="profile-picture" alt="">
 
 **Radek Mazáč, opoziční zastupitel za sdružení Sportovci Boskovice**
 

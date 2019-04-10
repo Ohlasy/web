@@ -1,13 +1,13 @@
 ---
 title: Radnice začne prodávat další městské byty
-cover-photo: http://i.ohlasy.info/2MuRbRgl.jpg
+cover-photo: https://i.ohlasy.info/2MuRbRgl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Osmnáct bytů z bytového domu na Mánesově ulici nově přejde do rukou jednotlivých nájemníků a v budoucnu se k nim přidá i sousední bytovka.*
 
-{% photo src="http://i.ohlasy.info/2MuRbRg.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/2MuRbRg.jpg" author="Marek Osouch" %}
 
 Dá se říct, že současné vedení města odstartovalo takzvanou čtvrtou etapu privatizace městských bytů. Záměrně je třeba ji nazývat přívlastkem takzvanou, protože nejde přímo o privatizaci, ale prodej, ke kterému je současné zastupitelstvo zavázané dvacet let starými smlouvami s nájemníky bytového domu Mánesova 43.
 

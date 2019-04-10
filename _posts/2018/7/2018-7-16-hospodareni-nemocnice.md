@@ -1,14 +1,14 @@
 ---
 title: Nemocnice prezentovala výsledky svého hospodaření
 perex: Boskovická nemocnice zveřejnila v červnu výroční zprávu za rok 2017 a na tiskové konferenci jednatel Miloš Janeček společně se svým zástupcem Danem Štěpánským představili výsledky hospodaření.
-cover-photo: http://i.ohlasy.info/ET5Y7tdl.jpg
+cover-photo: https://i.ohlasy.info/ET5Y7tdl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Boskovická nemocnice zveřejnila v červnu [výroční zprávu za rok 2017](https://www.nembce.cz/assets/files/Vyrocni_zpravy/vyrocni_zprava_2017.pdf) a na tiskové konferenci jednatel Miloš Janeček společně se svým zástupcem Danem Štěpánským představili výsledky hospodaření. Nemocnice funguje jako společnost s ručením omezeným a je stoprocentně vlastněná městem. Valnou hromadu společnosti tak tvoří městská rada.*
 
-{% photo src="http://i.ohlasy.info/ET5Y7td.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/ET5Y7td.jpg" author="Tomáš Znamenáček" %}
 
 Vedení nemocnice prezentovalo výsledky hospodaření nemocnice za posledních 5 let, aby byl zřetelný vývoj hospodaření a srovnání s předchozími lety. „Je to konečná informace, už nedojde k žádnému dalšímu modifikování dat,“ uvedl zástupce jednatele a ekonomický analytik nemocnice Dan Štěpánský.
 

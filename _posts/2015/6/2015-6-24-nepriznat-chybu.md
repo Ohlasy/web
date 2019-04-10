@@ -1,7 +1,7 @@
 ---
 title: Hlavně nepřiznat chybu
 category: názory a komentáře
-cover-photo: http://i.ohlasy.info/ttn7WD9.jpg
+cover-photo: https://i.ohlasy.info/ttn7WD9.jpg
 author: Tomáš Trumpeš
 tags:
     - sportovní hala
@@ -10,7 +10,7 @@ tags:
 
 *Chybovati je lidské, praví známé latinské přísloví. Platí to pro všechny obory lidské činnosti, platí to samozřejmě i pro politiku. Na politiky býváme dost přísní a jejich chyby vnímáme velmi nedůtklivě. Často za nimi hned vidíme záměr, zlý úmysl či rovnou mafiánské spiknutí. Navzdory všem spikleneckým teoriím, které jsou samozřejmě přitažlivé, se ale dost často jedná právě o docela obyčejné chyby. A ani v případě chyb není nutné hned házet kamenem – chtělo by se říct, kdyby…*
 
-<img src="http://i.ohlasy.info/ttn7WD9.jpg" alt="silveři" class="img-responsive">
+<img src="https://i.ohlasy.info/ttn7WD9.jpg" alt="silveři" class="img-responsive">
 
 …kdyby u chyb nešlo ani tak o to, že občas každý nějakou uděláme, ale hlavně o to, jestli ji dokážeme přiznat. A pokud jsme svojí chybou způsobili někomu nepříjemnosti či újmu, sjednat nápravu nebo se alespoň omluvit. V politice, jak se mi zdá, se umění přiznat chybu a omluvit se dostává ještě méně než v běžném životě. Politici jsou jako svázaní neustálým strachem, že by to znamenalo nahrát opozici, zklamat voliče, přijít o podporu. Snad proto, že vědí, jak nelibě jsou jejich chyby přijímány, raději žádné nepřiznávají. Jako by jednou z největších chyb nebyla právě neschopnost chyby pochopit, neochota je přiznat. A omluvit se.
 

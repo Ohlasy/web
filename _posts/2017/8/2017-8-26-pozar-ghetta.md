@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Boj s ohněm"
 perex: „Leta Panie 1823 dnie 1. maja z dopuštění Božího znikl se oheň mezi židami o dvuoch hodinách s poledne a vyhořelo 10 měšťanských domů a rathaus, sousedských domů zhořelo 13 numer, 3 domkáři, židovských domů zhořelo 99 numer.“
-cover-photo: http://i.ohlasy.info/KECoiAMl.jpg
+cover-photo: https://i.ohlasy.info/KECoiAMl.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -9,7 +9,7 @@ serial: ghetto
 
 *„Leta Panie 1823 dnie 1. maja z dopuštění Božího znikl se oheň mezi židami o dvuoch hodinách s poledne a vyhořelo 10 měšťanských domů a rathaus, sousedských domů zhořelo 13 numer, 3 domkáři, židovských domů zhořelo 99 numer. Mimo to ještě zhořeli vrchnosti ovčín a stodoly, sépky kontribučensky a půl dvora.“*
 
-{% photo src="http://i.ohlasy.info/KECoiAM.jpg" caption="Boskovický hasičský sbor" %}
+{% photo src="https://i.ohlasy.info/KECoiAM.jpg" caption="Boskovický hasičský sbor" %}
 
 Tak popsal boskovický kronikář Dominik Kučera největší živelnou pohromu, jaká kdy postihla boskovické ghetto. Dobové úřední dokumenty o tomto požáru pečlivě prostudoval Jaroslav Bránský a my si tedy díky němu můžeme celou tragickou událost upřesnit a doplnit. Při požáru dne 1. května 1823 zahynula jedna Židovka a jedno židovské dítě, v ghettu shořelo celkem 60 domů, u dalších dvanácti byly poškozeny jen střechy, celková škoda činila 180 713 zlatých.
 
@@ -19,7 +19,7 @@ Z úplně shořelých objektů uveďme židovskou normální školu Pod Klášte
 
 Obnova ghetta probíhala rychle, až překotně, se snahou dát Židům co nejdříve střechu nad hlavou. Stavebníci často z úsporných důvodů (ale jistě i z určité piety) využívali všech dochovaných prvků. Výsledkem byla často nekvalitní výstavba a porušování hygienických i bezpečnostních předpisů. I když výstavba ghetta využila požárem nezničených částí, rekonstruované stavby získaly zcela jiný slohový charakter. Nepochybně pod vlivem tehdy dokončené stavby boskovického zámku v čistém empirovém slohu, napodobili židovští stavebníci na svých domech tento styl, i když ve značně zjednodušené rustikalizované podobě.
 
-{% photo src="http://i.ohlasy.info/XGzcF9u.jpg" caption="Plačkova číslo 5" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/XGzcF9u.jpg" caption="Plačkova číslo 5" author="Tomáš Znamenáček" %}
 
 S empirovými fasádami s typickými půlslunci nad okny se můžeme ještě dnes setkat například na Plačkově ulici na domě č. 5, kde je ještě jedna zajímavost – pozůstatek firemního štítu židovského obuvníka Salomona Beamta, který zde v 19. století žil a pracoval. Dále je to dům č. 3 na náměstí U Vážné studny či dům č. 6 U Koupadel, kde lze vidět i ornamentální prvky ve štukové fasádě – zubořez, římsy, voluty a podobně.
 
@@ -27,7 +27,7 @@ Požár z 1. května roku 1823 nebyl ani první, ani poslední tragédií v bosk
 
 Do Boskovic se první hasičská stříkačka dostala z Vídně roku 1803 a její pořizovací náklady tenkrát zaplatil hrabě František Dietrichstein. Pořádek při ohni pro město Boskovice byl sepsán 1. 9.1835. Podle něj byli určeni občané podle cechů k povinnému hašení. Z každého domu měla být vyslána jedna dospělá osoba k hašení. Byly stanoveny přísné pokuty a tresty těm, kteří při hašení nepomáhali. Vzhledem k tomu, že počet požárů a výše škod byly obvykle největší v ghettu, kde byla zástavba nejhustší, museli Židé sami vytvořit opatření. Někdy v průběhu 1. poloviny 19. století bylo zřízeno hasičské skladiště ve svahu pod domem č. 5 na náměstí U Vážné studny, podle výkazu o hasičských zařízeních v ghettu z roku 1855 bylo hasičské skladiště také v domě č. 60 na Plačkově ulici (takzvaný rabínský dům). Patrně už v té době existoval nějaký institut židovských hasičů, informace o jeho počátcích jsou však nejasné, přesnější informace máme až od roku 1870. Tehdy nově založený hasičský sbor si zakoupil stříkačku a téhož roku zasáhl poprvé proti požáru v Munkově domě.
 
-{% photo src="http://i.ohlasy.info/dPY6IBm.jpg" caption="Zdobená fasáda domu U Koupadel" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/dPY6IBm.jpg" caption="Zdobená fasáda domu U Koupadel" author="Tomáš Znamenáček" %}
 
 Poplach při požáru v ghettu byl vyhlašován hlásnou troubou dlouhou jeden metr, kterou v noci bylo slyšet až v Sebranicích. Roku 1894 si sbor koupil jednopístovou parní stříkačku, motorovou stříkačku dvoukolovou si sbor pořídil v roce 1936 od firmy Stratílek ve Vysokém Mýtě za 28 000 korun. Sbor byl vybaven také dvoukolovým vysunovacím žebříkem. Stará stříkačka byla umístěna ve skladišti „pod asfaltem“, nová v rabínském domě na Plačkově ulici. Boskovický židovský sbor byl organizován u Svazu dobrovolných hasičů německých v zemi Moravské. Teprve v roce 1918 po vzniku ČSR vstoupil sbor do české Moravské jednoty hasičské v Brně s názvem Sbor dobrovolných hasičů Boskovice II. Takto trval až do roku 1942, kdy došlo ke sloučení hasičských sborů v Boskovicích, a tím vlastně k zániku boskovického židovského hasičstva.
 

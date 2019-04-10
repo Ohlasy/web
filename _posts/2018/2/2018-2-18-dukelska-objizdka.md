@@ -1,25 +1,25 @@
 ---
 title: Přes Boskovice na Prostějov ani ťuk. Dukelská se na necelý rok zavře
-cover-photo: http://i.ohlasy.info/Mm4Qndvl.jpg
+cover-photo: https://i.ohlasy.info/Mm4Qndvl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Velké komplikace přinese oprava Dukelské ulice v Boskovicích, která zanedlouho začne. Do Prostějova se bude muset přes Šebetov nebo Sloup.*
 
-{% photo src="http://i.ohlasy.info/Mm4Qndv.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/Mm4Qndv.jpg" author="Tomáš Trumpeš" %}
 
 Jen několik týdnů před spuštěním je rozsáhlá rekonstrukce Dukelské ulice v Boskovicích na hlavním tahu na Prostějov, po kterém denně projede více než šest tisíc aut. Oprava začne 5. března a trvat bude podle současných plánů do podzimu.
 
 Tisícovky řidičů tak budou muset zvolit okliku, a to nijak krátkou. V Boskovicích se totiž na silnici II/150 vedoucí na Prostějov jinak než po opravované Dukelské nedostanou. Stejně tak z opačného směru. Obyvatelům Hrádkova a Vratíkova nezbude nejspíš nic jiného než jet do Boskovic místo zhruba čtyř kilometrů čtyřiadvacet, tedy místo několika minut přibližně půl hodiny. Plánované jsou dvě oficiální objížďky: severní přes Šebetov, Kořenec a Benešov, a jižní přes Rájec-Jestřebí, Sloup a Němčice.
 
-{% photo src="http://i.ohlasy.info/Wle3uhH.gif" caption="Možné objížďky" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/Wle3uhH.gif" caption="Možné objížďky" author="Mapy.cz" %}
 
 Severní směr nelze zkrátit vůbec, protože mezi Kořencem a Boskovicemi se rozprostírá boskovická přehrada. Jižní objízdnou trasu si však nejspíš budou snažit řidiči, kteří znají místní region, snažit zkrátit cestu po úzké silnici přes Kuničky, aby nemuseli zajíždět až do Sloupu.
 
 „Je velice obtížné zkoordinovat stavební práce s provozem na této silnici. Město Boskovice se snaží v rámci jednání udělat maximum pro to, aby toto omezení zasáhlo do života města co nejméně. Ale ztížení dopravní dostupnosti, z důvodu nutnosti opravy této komunikace, nelze zabránit,“ uvedla boskovická místostarostka Dagmar Hamalová (KDU-ČSL).
 
-{% photo src="http://i.ohlasy.info/p1hBdPA.gif" caption="Teoretické možnosti objížďky v Boskovicích" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/p1hBdPA.gif" caption="Teoretické možnosti objížďky v Boskovicích" author="Mapy.cz" %}
 
 V úvahu teoreticky přichází ještě další možnosti, jak si zkrátit objížďku kvůli zavřené Dukelské: jet přes menší most z žulových kostek na Bělskou ulici, mezi domy odbočit na polní cestu k ohradě s koňmi za Novibrou a zde se vydat po opravené cestě nahoru na Gagarinovu. Podobně se lze ke koním dostat i z druhé strany po polní cestě od Šmelcovny. O těchto možných cestách ví i na boskovické radnici a počítají, že po nich zřejmě budou lidi auty jezdit. „Sami jejich využití zvažujeme,“ řekla Dagmar Hamalová. Plánují proto výspravu polních cest a nejspíš i semafory na řízení provozu. Tato zkratka oproti oficiálním objízdným trasám by pomohla zejména obyvatelům Hrádkova a Vratíkova nebo i Valchova.
 

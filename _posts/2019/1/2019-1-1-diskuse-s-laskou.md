@@ -1,13 +1,13 @@
 ---
 title: "PF 2019: Diskutujme s láskou"
-cover-photo: http://i.ohlasy.info/aGvryS8l.jpg
+cover-photo: https://i.ohlasy.info/aGvryS8l.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
 *Máme za sebou rok 2018 – mimo jiné rok oslav 100. výročí založení státu, k jehož odkazu se hlásíme, a také rok komunálních voleb. A co nás čeká teď? Všední dny a drobná masarykovská práce v roce 2019 – chtělo by se říct.*
 
-{% photo src="http://i.ohlasy.info/aGvryS8.jpg" caption="Silvestrovský ohňostroj v letním kině" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/aGvryS8.jpg" caption="Silvestrovský ohňostroj v letním kině" author="Tomáš Znamenáček" %}
 
 Závěr roku trávím se životopisnou knihou *Jiný Masaryk* z pera boskovického rodáka Pavla Kosatíka. Ten mimo jiné připomíná, jak se Masarykovi demokracie nezobrazovala jen jako systém pravidel. „Byl to spíš systém idejí, z nichž mu pozemská pravidla vyplývala sama a lépe než těm, kdo jenom věřili, že stačí odhlasovat je ve volbách. Vyhrát nad ostatními a pak tímto způsobem vládnout, většinou proti menšině, demokraticky vládnout. Masarykovo pojetí demokracie naopak nevylučovalo nikoho. Jeho podstatou nebyly jenom vyhrané volby, ale na prvním místě soustavně, *s láskou* vedená diskuse, v které se argumenty zvažovaly bez toho, jestli za nimi stojí mnoho nebo málo lidí,“ píše Pavel Kosatík.
 

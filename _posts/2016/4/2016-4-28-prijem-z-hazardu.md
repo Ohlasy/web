@@ -1,6 +1,6 @@
 ---
 title: Z Boskovic mizí hrací automaty. Peněz z nich je ale více
-cover-photo: http://i.ohlasy.info/s1xmxdtl.jpg
+cover-photo: https://i.ohlasy.info/s1xmxdtl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: hazard
@@ -8,7 +8,7 @@ tags: hazard
 
 *Od začátku letošního roku platí v Boskovicích zákaz hazardu. Týká se to především hracích automatů a videoloterijních terminálů, kterých finanční odbor městského úřadu ke konci loňského roku napočítal ve městě zhruba 150. Loni přinesly do městského rozpočtu více než 10 milionů korun.*
 
-<img src="http://i.ohlasy.info/s1xmxdt.jpg" alt="hrací automat" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+<img src="https://i.ohlasy.info/s1xmxdt.jpg" alt="hrací automat" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
 S účinností vyhlášky však všechny hrací přístroje z města okamžitě nezmizely. Letos skončí dvanáct hracích automatů, které povolovalo město. Zbytek tvoří videoloterijní terminály, o jejichž zrušení rozhoduje ministerstvo financí. „Podle informací zveřejněných na stránkách ministerstva financí bylo k datu 31. března na území města Boskovice evidováno 111 kusů jiných technických herních zařízení. Jejich počet se však každým měsícem snižuje,“ uvedla Dana Baláčová z městského úřadu.
 
@@ -16,7 +16,7 @@ Vedení města nemá žádné páky, jak videoloterijní terminály, které se s
 
 Od začátku ledna zmizelo z Boskovic 32 automatů a videoloterijních terminálů, čímž se také snížil počet provozoven, kde na ně může člověk narazit. Loni v prosinci byly v šestnácti, letos v dubnu v jedenácti. Navzdory poklesu mají Boskovice za první čtvrtletí z automatů ve městě více peněz na daních než za stejné období loni. Poslanci totiž loni schválili zvýšení daní z hazardu, které od letoška nově platí. Za první čtvrtletí přišly z hazardu zatím dva miliony a je jisté, že příjmy z nich bude město mít do té doby, než z Boskovic zmizí poslední hrací přístroj, tedy do podzimu 2019. Boskovické příjmy z hazardu přehledně shrnuje následující graf ([zdrojová data](https://docs.google.com/spreadsheets/d/1P_gcjfL_OdPBB0t_xJ8zV8yrg-b8uLik6U02vQw0eWY/edit)):
 
-<img src="http://i.ohlasy.info/koCj8RW.png" alt="boskovické příjmy z hazardu" class="img-responsive img-popup img-framed">
+<img src="https://i.ohlasy.info/koCj8RW.png" alt="boskovické příjmy z hazardu" class="img-responsive img-popup img-framed">
 
 Kvůli výpadku deseti milionů z městského rozpočtu se o vyhlášce loni v září na zastupitelstvu diskutovalo. Deset milionů jsou v posledních letech zhruba tři až čtyři procenta příjmů městského rozpočtu, stále se však jedná o příjem, se kterým do budoucna nemůže město počítat. „I peníze se dají nějak nahradit, ale v rozmachu dotačních titulů, které musíme nějakým způsobem dofinancovat, nejsou tyto finance zanedbatelné,“ prohlásil loni v září na zastupitelstvu bývalý starosta a nyní opoziční zastupitel Jaroslav Dohnálek (ODS). Dodal, že člověk závislý na automatech peníze prohraje tam, kde nejsou zakázané.
 

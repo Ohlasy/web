@@ -1,6 +1,6 @@
 ---
 title: Co bude se stavbou haly? Do rozhodnutí se nikomu nechce
-cover-photo: http://i.ohlasy.info/l9ubvOkl.jpg
+cover-photo: https://i.ohlasy.info/l9ubvOkl.jpg
 category: zpravodajství
 author: Marek Osouch
 tags:
@@ -9,7 +9,7 @@ tags:
 
 *Nález uhlí a problémy s podložím loni na jaře odstartovaly úřednickou mašinérii o povolení změny stavby boskovické sportovní haly. Stavební úřad v polovině července vydal nové povolení. Odpůrci haly v lokalitě na Slovákově ulici se však odvolali ke krajskému úřadu, ten jim v jejich námitkách dal za pravdu a rozhodnutí stavebního úřadu zrušil.*
 
-<img src="http://i.ohlasy.info/l9ubvOk.jpg" alt="místo, na kterém by měla vyrůst hala" class="img-responsive">
+<img src="https://i.ohlasy.info/l9ubvOk.jpg" alt="místo, na kterém by měla vyrůst hala" class="img-responsive">
 
 „Odvoláním se věc ruší a vrací stavebnímu úřadu k novému projednání,“ stojí v rozhodnutí krajského úřadu. Avšak nejen to. Podle krajského úřadu nepostupovali boskovičtí úředníci podle zákona. Týká se to námitky na možné poškození okolních domů. „Stavební úřad uvedl, že mu nejsou známy nebo že nebyly zaznamenány informace o případném porušení statiky domů účastníků. Ze skutečnosti, že stavebnímu úřadu nejsou takové informace známy, nelze dovozovat, že neexistují,“ píše se ve zprávě. Městský úřad v Boskovicích se nechystá úředníky za nezákonný postup nijak pokutovat. „Není k tomu žádný zákonný důvod,“ prohlásil tajemník úřadu David Škvařil.
 

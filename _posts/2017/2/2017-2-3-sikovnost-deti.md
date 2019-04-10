@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Jsou dnešní děti nešikovné?"
 perex: Odpovídají Dagmar Žďárková, majitelka CK Špuntík; Kamil Ošlejšek, vedoucí kutilského kroužku; Viktorie Odehnalová, studentka SPgŠ a členka Vatry, a Vladimír Farský z boskovického Pionýra.
-cover-photo: http://i.ohlasy.info/JBJsxpQl.jpg
+cover-photo: https://i.ohlasy.info/JBJsxpQl.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: vzdělávání
@@ -11,7 +11,7 @@ tags: vzdělávání
 
 ---
 
-<img src="http://i.ohlasy.info/uBpTvNGl.jpg" class="profile-picture" alt="Dagmar Žďárková">
+<img src="https://i.ohlasy.info/uBpTvNGl.jpg" class="profile-picture" alt="Dagmar Žďárková">
 
 **Dagmar Žďárková, majitelka CK Špuntík**
 
@@ -19,7 +19,7 @@ tags: vzdělávání
 
 ---
 
-<img src="http://i.ohlasy.info/uG8P7A7.jpg" class="profile-picture" alt="Kamil Ošlejšek">
+<img src="https://i.ohlasy.info/uG8P7A7.jpg" class="profile-picture" alt="Kamil Ošlejšek">
 
 **Kamil Ošlejšek, Středisko volného času Boskovice**
 
@@ -27,7 +27,7 @@ Již řadu let jsem vedoucí zájmového kroužku Kutílek ve Středisku volnéh
 
 ---
 
-<img src="http://i.ohlasy.info/o1ad1pG.jpg" class="profile-picture" alt="Viktorie Odehnalová">
+<img src="https://i.ohlasy.info/o1ad1pG.jpg" class="profile-picture" alt="Viktorie Odehnalová">
 
 **Viktorie Odehnalová, Vatra Boskovice, studentka SPgŠ**
 
@@ -39,7 +39,7 @@ Možná by stálo za zamyšlení podpořit děti v rukodělných činnostech, a 
 
 ---
 
-<img src="http://i.ohlasy.info/Ha0zCP7l.jpg" class="profile-picture" alt="Vladimír Farský">
+<img src="https://i.ohlasy.info/Ha0zCP7l.jpg" class="profile-picture" alt="Vladimír Farský">
 
 **Vladimír Farský, Pionýrská skupina Boskovice, radní**
 

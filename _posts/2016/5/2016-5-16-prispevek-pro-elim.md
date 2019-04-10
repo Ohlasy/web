@@ -1,7 +1,7 @@
 ---
 title: Pětitisícová podpora volnočasovému klubu je ostuda politiky
 date: 2016-05-16 10:00:45
-cover-photo: http://i.ohlasy.info/Yu4jQ6ll.jpg
+cover-photo: https://i.ohlasy.info/Yu4jQ6ll.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Boskovická městská rada [se rozhodla podpořit nově vznikající volnočasový klub pro mládež](http://boskovice.cz/VismoOnline_ActionScripts/File.ashx?id_org=832&id_dokumenty=28393) částkou pět tisíc korun na jeden rok. Vzhledem k rozsahu a potřebnosti této služby ve městě plném středních škol je to nejen samo o sobě ostudné, ale také to poukazuje na hlubší problém, který máme. Stále se nedaří etablovat politiku jako službu veřejnosti, navíc jako službu schopnou citlivě vnímat potřeby společnosti, děje, změny a také rizika, ke kterým v ní neustále dochází.*
 
-<img src="http://i.ohlasy.info/Yu4jQ6l.jpg" alt="průčelí chystaného klubu" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/Yu4jQ6l.jpg" alt="průčelí chystaného klubu" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
 
 Klub pro mládež před lety v Boskovicích existoval. A město by o jeho existenci mělo usilovat  i nyní. Takzvaný Klubík byl zrušen v roce 2006, v poslední, značně omezené fázi provozu na něj radnice přispívala částkou 144 tisíc korun ročně. „Ve městech velikosti Boskovic není dnes existence nízkoprahových zařízení úplným standardem. Ale města, která odpovědně řeší problematiku dospívající mládeže, kluby mají,“ [zhodnotil zánik Klubíku tehdejší vedoucí blanenského zařízení Aleš Herzog](http://stare.boskovicko.cz/cislo.phtml?iss_id=163#art_5301). Boskovice se zařadily na seznam neodpovědných měst a zůstaly na něm až dodnes. Pokud se to v letošním roce změní, stane se tak díky nadšení a schopnostem letovické obecně prospěšné společnosti ELIM. Pětitisícový roční příspěvek radnice můžeme jen stěží vnímat jako podporu, spíše se nabízejí slova jako ostuda nebo rovnou výsměch.
 

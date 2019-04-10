@@ -1,13 +1,13 @@
 ---
 title: Krajiny Boskovicka
 category: seriály
-cover-photo: http://i.ohlasy.info/XLpCSRKl.jpg
+cover-photo: https://i.ohlasy.info/XLpCSRKl.jpg
 author: Hynek Skořepa
 ---
 
 *Následujícím seriálem článků bych rád přiblížil některé zajímavé lokality Boskovicka. Myslím, že i mnozí obyvatelé Boskovic se tak budou moci dočíst o zajímavých místech, která třeba vůbec neznají. Nebo je znají, ale dohromady o nich nic neví. Poslední pamětníci z časů, kdy mnozí místní lidé trávívali většinu dne prací na poli či v lese, nás postupně opouštějí. A s nimi se nenávratně ztrácejí i jejich vzpomínky. Nemnoho toho lze vyčíst o krajině Boskovicka v mapách a knihách.*
 
-<img src="http://i.ohlasy.info/XLpCSRK.jpg" alt="pole kolem kaple svaté Otýlie" class="img-responsive">
+<img src="https://i.ohlasy.info/XLpCSRK.jpg" alt="pole kolem kaple svaté Otýlie" class="img-responsive">
 
 I já už ale vlastně patřím k pamětníkům, byť ještě docela mladým. V okolí svého rodného města se pohybuji od malička. Opravdu vnímavě, alespoň částečně vybaven jistými přírodovědnými znalostmi, tak činím od svých studijních let na zdejším gymnáziu. Za oněch dvacet let došlo v krajině Boskovicka k mnoha změnám, bohužel většinou k horšímu. Kdo ví, jakou ji za dalších dvacet let najde nějaký mladý přírodovědec, který bude číst tyto řádky a podle mých popisů hledat zajímavé lokality, tak jako jsem činil já podle textů svých předchůdců. Těch starších textů bohužel mnoho není, přírodovědci raději bádali a bádají v mnohem atraktivnějších krajinách, třeba v Moravském krasu či na Pálavě. A kdo ví, zda se ten mladý přírodovědec v budoucnu vůbec objeví. Jak vím z vlastní zkušenosti, studenti ani na tom gymnáziu dnes o biologii a zeměpis moc zájem nejeví. Konec konců, není se co divit. Vždyť jsou neustále masírováni ze všech stran, jak musejí být progresivní a konkurenceschopní, aby co nejvíc vydělali (nebo se aspoň uživili). A chozením po kopcích a zaznamenáváním výskytu rostlin a zvířat, pokud vím, ještě nikdo nezbohatnul. Ale správný biolog a geograf se bez práce v terénu neobejde ani ve věku digitálních technologií. No kdo ví, třeba nějakého mladého milovníka přírody moje články přece jen osloví.
 
@@ -23,7 +23,7 @@ Poloha na křižovatce migračních tras v době poledové. Ochlazením v dobác
 
 Tisíc let trvající vlivy člověka. Kdyby ve střední Evropě zůstala člověkem nepoznaná divočina, případně kdybychom všichni svá obydlí museli na dlouho opustit, téměř celá krajina by zarostla lesem. Bezlesé by zůstaly pouze vzácné vodní plochy a snad ještě některé ojedinělé skalní výchozy. Člověk (zemědělec) začal zdejší krajinu ovlivňovat v době, kdy ještě na jižních stráních přežívaly poslední zbytky stepí z konce doby ledové s bohatou flórou a faunou. Ty pak zaplnily vznikající zemědělskou krajinu, která je vlastně kulturní stepí. Vydržely zde až do doby masivního scelování pozemků a chemizace ve 20. století, ve zbytcích tu některé přežívají až dodnes.
 
-<img src="http://i.ohlasy.info/yIiKkgX.jpg" alt="dvě lípy v polích za železničním nádražím" class="img-responsive">
+<img src="https://i.ohlasy.info/yIiKkgX.jpg" alt="dvě lípy v polích za železničním nádražím" class="img-responsive">
 
 Texty, ve kterých se pokusím popsat zajímavé kouty tohoto kraje, se v žádném případě nepokoušejí být texty odbornými (odborníci nechť jsou ke mně shovívaví, jejich odborným termínům by stejně málokdo rozuměl). Navíc se cítím být především geografem a správný geograf sice rozumí všemu, ale ničemu pořádně. Geografie je syntetická věda, propojující množství rozmanitých oborů. Největším uměním geografa je právě ona syntéza, vzájemné propojení, které specialistům dílčích oborů uniká. 
 

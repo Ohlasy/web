@@ -1,6 +1,6 @@
 ---
 title: Démanty podzimu
-cover-photo: http://i.ohlasy.info/gruA5yZl.jpg
+cover-photo: https://i.ohlasy.info/gruA5yZl.jpg
 perex: Skončila sezóna letních komedií, diváci se z venku přesouvají do vyhřátého kinosálu a v programu kina přibývají filmy, do kterých se můžeme více pohroužit. V říjnu si můžeme vychutnat několik perel z Cannes, Berlína a Benátek.
 author: Ondřej Sabol
 category: názory a komentáře
@@ -12,7 +12,7 @@ Kdybyste si udělali čas pouze na jeden jediný snímek z této kolekce, rozhod
 
 Za největší filmovou událost v říjnu ale považuji promítání digitálně restaurovaného filmu [Démanty noci](https://www.csfd.cz/film/6886-demanty-noci/prehled/). Sugestivní zpracování útěku dvou židovských chlapců z transportu smrti znovu ožije na plátně. Tento klenot československé nové vlny budeme moci vidět tak, jako kdysi jeho první diváci v roce 1964.
 
-{% photo src="http://i.ohlasy.info/XaYXCiD.jpg" %}
+{% photo src="https://i.ohlasy.info/XaYXCiD.jpg" %}
 
 ### Zloději
 
@@ -22,7 +22,7 @@ Koreeda volí uměřený filmový styl a největší důraz klade na autentické
 
 Režisér nezneužívá téma chudoby pro vytvoření melancholického kýče, u nějž se divák pouze dojme, ale učí nás solidaritě a empatii s nejchudšími. A přitom nenuceně, bez velkých gest. A v tom je jeho největší síla.
 
-{% photo src="http://i.ohlasy.info/gruA5yZ.jpg" %}
+{% photo src="https://i.ohlasy.info/gruA5yZ.jpg" %}
 
 ### Démanty noci
 

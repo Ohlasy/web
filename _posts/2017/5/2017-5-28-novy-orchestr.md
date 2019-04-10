@@ -1,7 +1,7 @@
 ---
 title: Na zámku se představí nový boskovický symfonický orchestr
 perex: Po krátké odmlce se rozhodl dirigent Tomáš Pléha založit v Boskovicích nový orchestr. Tentokrát už ne komorní, ale symfonický.
-cover-photo: http://i.ohlasy.info/EV6Bor1l.jpg
+cover-photo: https://i.ohlasy.info/EV6Bor1l.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura
@@ -9,7 +9,7 @@ tags: kultura
 
 *Po krátké odmlce se rozhodl dirigent Tomáš Pléha založit v Boskovicích nový orchestr. Tentokrát už ne komorní, ale symfonický. První koncert nového tělesa se uskuteční ve čtvrtek 1. června od 18 hodin na nádvoří boskovického zámku. V případě nepříznivého počasí v sokolovně.*
 
-{% photo src="http://i.ohlasy.info/EV6Bor1.jpg" caption="Zkouška orchestru na boskovickém zámku" author="Veronika Ertlová" %} 
+{% photo src="https://i.ohlasy.info/EV6Bor1.jpg" caption="Zkouška orchestru na boskovickém zámku" author="Veronika Ertlová" %} 
 
 Komorní orchestr Extrémní smyčce fungoval pod vedením Tomáše Pléhy od roku 2010 do roku 2014, poslední koncerty odehrál třeba s Gabrielou Deméterovou nebo s Jiřím Stivínem. Těleso zaniklo především kvůli tomu, že část hudebnic odešla na mateřskou dovolenou, včetně manželky dirigenta. „Občas jsme potkali nějakého muzikanta, který nám říkal, že by si chtěl zahrát. Já jsem to odkládal, říkal jsem si, že třeba časem. Nakonec mě naočkovala manželka, která říkala, že všichni už jsou zpět z mateřské a měli bychom to dát zase dohromady,“ říká Tomáš Pléha.
 

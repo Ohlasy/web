@@ -1,7 +1,7 @@
 ---
 title: Město chce pozemky pro halu v Červené zahradě
 category: zpravodajství
-cover-photo: http://i.ohlasy.info/r92iBpc.jpg
+cover-photo: https://i.ohlasy.info/r92iBpc.jpg
 author: Marek Osouch
 tags:
     - červená zahrada
@@ -10,7 +10,7 @@ tags:
 
 *Kde bude stát v Boskovicích nová sportovní hala? Po ukončení stavby na Slovákově se začíná jevit jako nejpravděpodobnější varianta lokalita v Červené zahradě. Vedení města je ale k jakýmkoliv stanoviskům opatrné a připomíná, že se jedná i o dalších variantách. Mezi nimi je i výstavba haly u středních škol, které jsou ovšem v majetku kraje.*
 
-<img src="http://i.ohlasy.info/r92iBpc.jpg" alt="mapa pozemků kolem areálu Červené zahrady" class="img-responsive" data-author="ČÚZK a Ohlasy">
+<img src="https://i.ohlasy.info/r92iBpc.jpg" alt="mapa pozemků kolem areálu Červené zahrady" class="img-responsive" data-author="ČÚZK a Ohlasy">
 
 Ze zápisu z rady je zřejmé, že pozemky vedle bývalého hotelu Velen (na mapě vyznačené modrou barvou) jsou pro město prioritou. S vlastníkem Velenu a sousedních pozemků Janem Paroulkem boskovická radnice jedná už několik měsíců. Nejedná s ním ovšem o odkupu pozemků, ale směně. „Stále jednáme a je možné, že se vrátíme zpět k odkupu pozemků. Uvidíme, jak se vše bude vyvíjet,“ uvedla starostka Boskovic Hana Nedomová (ČSSD).
 

@@ -1,6 +1,6 @@
 ---
 title: Jak to vidí opozice
-cover-photo: http://i.ohlasy.info/2Fni45cl.jpg
+cover-photo: https://i.ohlasy.info/2Fni45cl.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ČSSD, Pirátů, KDU-ČSL a KSČM.*
 
-{% photo src="http://i.ohlasy.info/2Fni45c.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/2Fni45c.jpg" author="Tomáš Trumpeš" %}
 
 **1) Je správné, že město nezvýší občanům poplatek za odpady, ačkoliv bude firmě SUEZ platit výrazně vyšší částku z městského rozpočtu za jejich odvoz a zpracování?**
 

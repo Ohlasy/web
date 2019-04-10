@@ -1,14 +1,14 @@
 ---
 title: Radnice chce na příští rok cenu tepla z centrálních kotelen vyrovnat s jinými zdroji
 perex: Tisícovka domácností se může těšit na to, že od příštího roku nebude platit více než ty, kde mají vlastní kotel.
-cover-photo: http://i.ohlasy.info/OG06yDyl.jpg
+cover-photo: https://i.ohlasy.info/OG06yDyl.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Tisícovka domácností odebírajících teplo z centrálního zásobování teplem se může těšit na to, že od příštího roku nebude platit více než ty, kde mají vlastní kotel. Podle starosty Boskovic Jaroslava Dohnálka (ODS) by měla být cena po mnoha letech srovnatelná s ostatními zdroji tepla.*
 
-{% photo src="http://i.ohlasy.info/OG06yDy.jpg" caption="Plynový kotel" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/OG06yDy.jpg" caption="Plynový kotel" author="Tomáš Znamenáček" %}
 
 To, že chce radnice cenu tepla ze systému centrálního zásobování teplem (CZT) snížit právě teď, není náhodou. Příští rok totiž po patnácti letech končí smlouvy všem odběratelům tepla z CZT, na nějž je napojena zhruba tisícovka bytů. Jejich obyvatelům se tak poprvé za celou dobu trvání dohody rozvážou ruce a budou moci smlouvy vypovědět a řešit si vytápění po svém.
 
