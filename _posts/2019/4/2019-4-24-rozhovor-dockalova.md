@@ -107,7 +107,7 @@ Zatím to necháme, jak je to dnes. My jsme nezdražili, vycházeli jsme z cen S
 
 U systému door-to-door bude možné kovový odpad dávat do žluté popelnice s plasty, to se pak už lehce roztřídí. Jezdit pro pár plechovek by bylo drahé. Samozřejmě je to myšleno na obaly, nikoli, že tam někdo vyhodí roli pletiva. Sklo pak zůstane na těch třídících místech v obci jako dnes. Přemýšleli jsme, že by i sklo mohli lidé do budoucna třídit i doma, ale aktuálně se tím nezabýváme.
 
-{% photo src="https://i.imgur.com/vd8VUNj.jpg" author="Marek Osouch" %}
+{% photo src="https://i.imgur.com/vd8VUNj.jpg" author="Olga Dočkalová" %}
 
 **Když jste mluvila o tom, že všichni hledají smlouvy – to myslíte těch čtyřicet obcí, které byste od příštího roku měli pod sebou mít?**
 
