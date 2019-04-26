@@ -11,7 +11,7 @@ tags:
 
 *Rozhodnutí o stavbě a umístění sportovní haly v Boskovicích se opět posune. Podle [původních plánů](https://forum.ohlasy.info/t/prevod-pozemku-pro-halu-na-hybesove/271) měli krajští zastupitelé 25. dubna schválit bezúplatný převod pozemků v areálu střední školy na Hybešově ulici, kde se zvažuje stavba haly. Materiál byl však na poslední chvíli stažen z jednání.*
 
-{% photo src="https://i.imgur.com/QlHq89p.jpg" caption="Pozemek pro sportovní halu na Hybešově ulici" author="Anna Dušilová" %}
+{% photo src="https://i.imgur.com/QlHq89p.jpg" caption="Lokalita pro sportovní halu na Hybešově ulici" author="Anna Dušilová" %}
 
 Krajská náměstkyně pro oblast majetku Taťána Malá (ANO) uvedla, že převáděné pozemky byly špatně nakreslené. „To se muselo stáhnout. Boskovice popletly geometrický plán a záměr byl tudíž i špatně vyvěšen,“ vysvětlila.
 
