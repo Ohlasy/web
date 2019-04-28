@@ -15,13 +15,9 @@ tags: historie
 
 VÁCLAV KLÍČ: Pravdou je to, že žádná konkrétní událost není. Máme záznam o tom, že tehdy už skautská činnost probíhala.
 
-LUDMILA DOBROZEMSKÁ: Máme první záznam – pokladní knihu z roku 1919.
+LUDMILA DOBROZEMSKÁ: Máme první záznam – pokladní knihu z roku 1919, ale první kolonka je převod čistého jmění z roku 1919.
 
-VÁCLAV: Ta pokladní kniha je z roku 1920, ale první kolonka je převod čistého jmění z roku 1919.
-
-LUDMILA: Takže teoreticky je možná, že zde skauti začali už dřív.
-
-VÁCLAV: Ale spíše není, protože jsme objevili ještě článek v novinách z roku 1929, že skauti slavili 10. výročí založení prvního oddílu. Takže to vypadá tutově, i když konkrétní zprávu o založení prvního oddílu nemáme.
+VÁCLAV: Pak jsme objevili ještě článek v novinách z roku 1929, že skauti slavili 10. výročí založení prvního oddílu. Takže to vypadá tutově, i když konkrétní zprávu o založení prvního oddílu nemáme.
 
 **Do jaké míry bylo v tom roce 1919 už běžné, že ve městě velikosti Boskovic existoval Skaut?**
 
@@ -69,9 +65,9 @@ LUDMILA: Jsou s nimi nahrané rozhovory. Ale my už jsme se nemohli doptat na to
 
 **Mluvíme o různých obdobích činnosti, asi bychom to měli shrnout. Je jasné, že těch 100 let Skaut nefungoval kontinuálně. Jak je to přesně?**
 
-VÁCLAV: Když začneme od začátku, Skaut začal v Českých zemích působit v roce 1911.
+VÁCLAV: Když začneme od začátku, Skaut začal v Českých zemích působit v roce 1912.
 
-LUDMILA: A hned se začal rozvíjet. Bylo to něco neobvyklého, nastal boom. Nejprve byli jen chlapci, v roce 1914 i dívky. Tohle fungovalo až do nástupu nacismu, poprvé byl skauting zakázán v roce 1940.
+LUDMILA: A hned se začal rozvíjet. Bylo to něco neobvyklého, nastal boom. Nejprve skautovali jen chlapci, v roce 1914 i dívky. Tohle fungovalo až do nástupu nacismu, poprvé byl skauting zakázán v roce 1940.
 
 VÁCLAV: A to demonstrativně na výročí republiky 28. října 1940.
 
@@ -83,11 +79,11 @@ VÁCLAV: Ten je asi nejznámější. Víme o lidech, kteří skončili v koncent
 
 LUDMILA: To je případ i židovského oddílu. Mnoho členů nejspíš zemřelo v koncentračních táborech, ale nevíme to přesně, protože se nedochovaly záznamy. Některá jména jsme dohledali a shodují se, třeba vedoucí oddílu Kurt Munk.
 
-VÁCLAV: Pak máme třeba zajímavou informaci, že po válce se nosil v jednom oddíle tady v Boskovicích fialovo-černý šátek s černým pruhem, což bylo na počest nějakého zdejšího skauta, který byl v odboji a zahynul. Zatím se nám ale bohužel nepodařilo najít pamětníka, který by znal jeho jméno.
+VÁCLAV: Pak máme třeba zajímavou informaci, že po válce se nosil v jednom oddíle tady v Boskovicích fialový šátek s černým lemem, což bylo na počest nějakého zdejšího skauta, který byl v odboji a zahynul. Zatím se nám ale bohužel nepodařilo najít pamětníka, který by znal jeho jméno.
 
 **Po roce 1945 se Skaut rychle obnovil?**
 
-LUDMILA: Obnovil, ale ne nadlouho. S nástupem komunismu šel nejdříve pod Československý svaz mládeže a v roce 1950 byl zakázán. Zákaz trval do roku 1968. Hodně skautů přešlo pod pionýrskou organizaci, to je potřeba říct – chtěli pracovat dál s dětmi a našli si tento způsob. Ale opět vzniklo i mnoho ilegálních oddílů a skauti se účastnili třetího odboje. 
+LUDMILA: Obnovil, ale ne nadlouho. S nástupem komunismu šel nejdříve pod Svaz československé mládeže a v roce 1950 byl zakázán. Zákaz trval do roku 1968. Hodně skautů přešlo pod pionýrskou organizaci, to je potřeba říct – chtěli pracovat dál s dětmi a našli si tento způsob. Ale opět vzniklo i mnoho ilegálních oddílů a skauti se účastnili třetího odboje. 
 
 **Jak dlouho trvalo zrušení zákazu na konci šedesátých let?**
 
@@ -123,7 +119,7 @@ VÁCLAV: Bylo to asi před třemi týdny.
 
 **Už jsme narazili na pár akcí, které chystáte k výročí – třeba vydání knihy. A výstavu v muzeu – co na ní bude?**
 
-LUDMILA: Bude tam shrnutá historie našeho střediska, dále tam budou mnohé předměty z našeho působení a představí se jednotlivé oddíly. Chtěli jsme to udělat co nejvíc interaktivní, pro různé věkové kategorie, takže si návštěvníci také budou moci vyzkoušet různé skautské dovednosti. Třeba uzly, zdravovědu, bude tam klubovna pro děti, kde si budou moci zahrát, podsadové stany a podobně. A také se nám povedlo od jednoho skauta-sběratele, který má velkou sbírku skautských artefaktů, tedy různé nášivky, odznaky, šátky, vlajky z celého světa, zapůjčit některé předměty.
+LUDMILA: Bude tam shrnutá historie našeho střediska, dále tam budou mnohé předměty z našeho působení a představí se jednotlivé oddíly. Chtěli jsme to udělat co nejvíc interaktivní, pro různé věkové kategorie, takže si návštěvníci také budou moci vyzkoušet různé skautské dovednosti. Třeba uzly, zdravovědu, bude tam klubovna pro děti, podsadové stany a podobně. A také se nám povedlo od jednoho skauta-sběratele, který má velkou sbírku skautských artefaktů, tedy různé nášivky, odznaky, šátky, vlajky z celého světa, zapůjčit některé předměty.
 
 **Oslavy začnou vernisáží této výstavy?**
 
@@ -149,7 +145,7 @@ VÁCLAV: To asi úplně ne. Nejsilnější to bylo po válce. To bylo opravdu v 
 
 **A v Boskovicích?**
 
-VÁCLAV: Podle pamětníků to bylo údajně šest set osob. Já to trošičku na základě našich výzkumů zpochybňují, myslím, že to nebylo tolik, ale stovky lidí to určitě byly.
+VÁCLAV: Podle pamětníků to bylo údajně šest set osob. Já to trošičku na základě našich výzkumů zpochybňuji, myslím, že to nebylo tolik, ale stovky lidí to určitě byly.
 
 **A dnes?**
 
@@ -199,13 +195,13 @@ VÁCLAV: To je ale opravdu s velkou nadsázkou, znovu zakázaní bychom být opr
 
 **O vašich plánech na skautský dům jsme mluvili před více než rokem. Došlo k nějakému posunu?**
 
-VÁCLAV: Bylo několik schůzek, teď už s novým vedením města. Máme z toho dobrý pocit. Teď jsme se domluvili, že aktuální problémy budeme řešit tím, že nám město pronajme bytové prostory ve Dvořáčkově mlýně. Tam se budeme scházet od září.
+VÁCLAV: Bylo několik schůzek, teď už s novým vedením města. Máme z toho dobrý pocit. Teď jsme se domluvili, že aktuální problémy budeme řešit tím, že nám město pronajme bytové prostory ve Dvořáčkově mlýně. Tam bychom se měli scházet od září.
 
 **Řeší to váš problém?**
 
 VÁCLAV: Ten nejpalčivější ano.
 
-LUDMILA: To se týká hlavně našeho dívčího oddílu. Jeho část tam přesídlíme. Je nás teď sto jedna a scházíme se v jedné místnosti na faře. Tu si chceme ponechat, abychom měli kde být, kdybychom přišli o Dvořáčkův mlýn. Část oddílů se tady bude scházet tam, plus možná některé další, to ještě uvidíme.
+LUDMILA: To se týká hlavně našeho dívčího oddílu. Jeho část tam přesídlíme. Je nás teď sto jedna a scházíme se v jedné místnosti na faře. Tu si chceme ponechat, abychom měli kde být, kdybychom přišli o Dvořáčkův mlýn. Část oddílu se tady bude scházet tam, plus možná některé další oddíly.
 
 VÁCLAV: Když jsme to řešili s panem starostou, tak jsme mu jasně říkali, že to je provizorní řešení. I on to tak bere. Není to finální řešení naší situace.
 
@@ -213,7 +209,7 @@ VÁCLAV: Když jsme to řešili s panem starostou, tak jsme mu jasně říkali, 
 
 LUDMILA: Ano.
 
-VÁCLAV: Pan starosta nám na dvou schůzkách po sobě zopakoval, že si dovede představit, že by nám město prodalo dům nad bývalým Telecomem, kde byli dříve zahrádkáři.
+VÁCLAV: Pan starosta nám na dvou schůzkách po sobě zopakoval, že si dovede představit, že by nám město poskytlo dům nad bývalým Telecomem, kde byli dříve zahrádkáři.
 
 **To byste museli asi zbourat a postavit tam úplně nový dům, ne?**
 
