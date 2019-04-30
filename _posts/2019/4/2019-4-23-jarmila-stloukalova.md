@@ -21,7 +21,7 @@ Místo našla v sídle lidové strany v Boskovicích, platově si pohoršila asi
 
 Jeden den v roce 1994 po návratu z Brna ji pak doma překvapila nečekaná návštěva. Přišli za ní její spolustraníci z Boskovic, zda by nechtěla na kandidátku do komunálních voleb, a to rovnou na první místo. Byla z toho překvapená stejně jako její kolegové z práce z Brna, protože byla čerstvou členkou. „Měla jsem však kredit ze zaměstnání a nejspíš i z kostela,“ míní.
 
-### Práci na radnici se bála
+### Práce na radnici se bála
 
 Lidovci získali ve volbách tři křesla, nebyli druhou nejsilnější stranou, přesto dokázali uhájit křeslo zástupce starosty, který připadl koalici ODS a někdejší LSNS (Liberální strana národně sociální). Už v předchozím období měli lidovci křeslo místostarostky, které zastávala Milada Pospíšilová a byla tak pravou rukou starosty vzešlého z [prvních svobodných voleb](https://ohlasy.info/clanky/2015/08/volby-1990.html) Zdeňka Měcháčka, představitele Občanského fóra. Oba tito čelní představitelé Boskovic s koncem volebního období skončili i v politice. Dnes jsou již oba po smrti. Zdeněk Měcháček zemřel v roce 1998, Milada Pospíšilová před třemi lety.
 
