@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Zeman matan Toratenu – čas darování naší Tóry"
-perex: Skončil židovský svátek Pesach a blíží se svátek Šavuot. Pesach i Šavuot spadají do nejkrásnějšího období v roce, kdy Židé slaví své dvě významné biblické události – odchod z egyptského otroctví a přijetí Tóry.
+perex: Skončil židovský svátek Pesach a blíží se svátek Šavuot. Židé slaví dvě významné biblické události – odchod z egyptského otroctví a přijetí Tóry.
 cover-photo: https://i.imgur.com/PFfGTGcl.jpg
 author: Helena Janíková
 category: seriály
