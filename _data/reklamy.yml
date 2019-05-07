@@ -13,11 +13,6 @@
   alt: pozvánka na festival Boskovice 2019
   url: https://www.boskovice-festival.cz/
   priority: 900
-- name: Muzeum
-  image: https://i.imgur.com/E1r6o7F.jpg
-  alt: Přednáška o přírodě v muzeu
-  url: http://www.muzeum-boskovicka.cz/co-muzeme-delat-pro-prirodu/a-1245/p1=1098
-  priority: 900
 - name: Galerie OK
   image: https://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
