@@ -6,6 +6,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 tags:
     - sportovní hala
+    - politika
 ---
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na samém konci dubna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
