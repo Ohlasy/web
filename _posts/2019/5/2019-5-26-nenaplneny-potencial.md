@@ -4,7 +4,6 @@ perex: Skončily volby do Evropského parlamentu. Můžeme přemýšlet o tom, c
 cover-photo: https://i.imgur.com/CEqs0bPl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
-published: false
 
 ---
 
