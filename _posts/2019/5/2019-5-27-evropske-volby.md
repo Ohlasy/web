@@ -11,7 +11,7 @@ category: zpravodajství
 
 Nejprve si zopakujme celostátní výsledky. Zvítězilo hnutí ANO, jakožto dominantní síla české politiky však tentokrát nedosáhlo oslnivé podpory – volilo je 21 procent voličů a hnutí získalo 6 mandátů. Na druhém místě skončila ODS se 14,5 procenty a ziskem čtyř mandátů. O půl procenta za ODS skončili Piráti, malý rozdíl v procentech však znamená, že Piráti mají europoslance pouze tři. Spojení se vyplatilo uskupením STAN , TOP 09 a dalších menších stran – vyneslo jim přes 11,5 procent a rovněž tři mandáty.
 
-Nad hranici 5 procent se dostala ještě SPD Tomia Okamury s 9 procenty a dvěma mandáty; lidovci se 7 procenty a dvěma mandáty a podobně komunisté s necelými 7 procenty a jedním mandátem. Voleb se zúčastnilo 28,72 procent voličů, což je o 10 procent více než před pěti lety a jedná se o vůbec nejvyšší účast u českých eurovoleb, jakkoli je oproti volbám do sněmovny či přímé prezidentské volbě stále výrazně nižší. Debaklem skončily především pro sociální demokracii, který nepřekročila potřebných 5 procent hlasů a skončila bez mandátu se ziskem 3,95 procent hlasů.
+Nad hranici 5 procent se dostala ještě SPD Tomia Okamury s 9 procenty a dvěma mandáty; lidovci se 7 procenty a dvěma mandáty a podobně komunisté s necelými 7 procenty a jedním mandátem. Voleb se zúčastnilo 28,72 procent voličů, což je o 10 procentních bodů více než před pěti lety a jedná se o vůbec nejvyšší účast u českých eurovoleb, jakkoli je oproti volbám do sněmovny či přímé prezidentské volbě stále výrazně nižší. Debaklem skončily především pro sociální demokracii, který nepřekročila potřebných 5 procent hlasů a skončila bez mandátu se ziskem 3,95 procent hlasů.
 
 ### Boskovice
 
