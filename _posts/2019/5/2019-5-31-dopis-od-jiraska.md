@@ -8,7 +8,7 @@ serial: depozitar
 tags: historie
 ---
 
-*Dne 21. května 1917 napsal Alois Jirásek dopis starostovi Boskovic Josefu Kirchmannovi, v němž jemu i obecnímu zastupitelstvu vyjadřuje poděkování za udělení čestného občanství města. Stalo se tak 16. května 1918 – rok po sepsání manifestu, v němž čeští spisovatelé apelovali na politickou reprezentaci, aby hleděla zájmů národa, a nikoli osobních.*
+*Dne 21. května 1918 napsal Alois Jirásek dopis starostovi Boskovic Josefu Kirchmannovi, v němž jemu i obecnímu zastupitelstvu vyjadřuje poděkování za udělení čestného občanství města. Stalo se tak 16. května 1918 – rok po sepsání manifestu, v němž čeští spisovatelé apelovali na politickou reprezentaci, aby hleděla zájmů národa, a nikoli osobních.*
 
 {% photo src="https://i.imgur.com/J9dg91J.jpg" author="Muzeum regionu Boskovicka" %}
 
