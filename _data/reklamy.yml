@@ -12,7 +12,12 @@
   image: https://i.imgur.com/64ltcuo.png
   alt: pozvánka na festival Boskovice 2019
   url: https://www.boskovice-festival.cz/
-  priority: 900
+  priority: 1000
+- name: BiGyFest
+  image: https://i.imgur.com/zjxZmZr.jpg
+  alt: pozvánka na BiGy Fest 2019
+  url: http://www.bigyfestletovice.cz/
+  priority: 1000
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
