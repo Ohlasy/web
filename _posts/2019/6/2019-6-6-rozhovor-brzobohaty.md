@@ -72,7 +72,7 @@ V rámci místní kultury Prostor vnímáme jako alternativu. Určitě to není 
 
 **Navazujete nějakým způsobem na občanské sdružení se stejným jménem Prostor, které zde kdysi otvíralo Sklepy?**
 
-To nás původně ani nenapadlo. Ale když padlo jméno Prostor, na němž jsme se shodli, Tomáš Trumpeš volal prvnímu prezidentovi původního Prostoru [Petemu Michálkovi](https://ohlasy.info/clanky/2019/06/rozhovor-michalek.html), jestli mu to nevadí. Nevadilo, naopak byl rád.
+To nás původně ani nenapadlo. Ale když padlo jméno Prostor, na němž jsme se shodli, Tomáš Trumpeš volal zakládajícímu členovi a jednu dobu i prezidentovi původního Prostoru [Petemu Michálkovi](https://ohlasy.info/clanky/2019/06/rozhovor-michalek.html), jestli mu to nevadí. Nevadilo, naopak byl rád.
 
 **Jakým způsobem chcete Prostor financovat?**
 
