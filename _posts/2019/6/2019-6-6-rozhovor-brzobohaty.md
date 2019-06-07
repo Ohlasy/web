@@ -44,7 +44,7 @@ I na tyto lidi jsme mysleli. Pokud budou chtít Prostor jen podpořit, protože 
 
 Máme dramaturgickou radu, která může mít právo veta, pokud nebudeme s nějakou akcí souhlasit. Ale nemyslím si, že by k tomu mohlo někdy dojít. Máme to spíš jako takovou záchrannou brzdu, kdyby někdo přišel s něčím pro nás eticky nepřijatelným.
 
-{% photo src="https://i.imgur.com/KJe7R9J.jpg" caption="Oldřich Brzobohatý v sálu Prostoru se svou početnou rodinou a chlapcem ze sousedství, který na snímku být neměl, ale nepodařilo se ho odehnat." author="Tomáš Znamenáček" %}
+{% photo src="https://i.imgur.com/gXeAwhg.jpg" caption="Početná rodina Brzobohatých v sálu Prostoru" author="Tomáš Znamenáček" %}
 
 **Když se k vám tedy člověk bude chtít přidat, co má dělat?**
 
