@@ -12,7 +12,7 @@ date: 2019-6-6 12:00:45
 
 {% photo src="https://i.imgur.com/s6lHReT.jpg" author="Tomáš Znamenáček" %}
 
-**V Boskovicích na Panském dvoře vzniká nové kulturní a komunitní centrum s názvem Prostor. Můžete lidem podstatu Prostoru přiblížit?**
+**V Boskovicích na panském dvoře vzniká nové kulturní a komunitní centrum s názvem Prostor. Můžete lidem podstatu Prostoru přiblížit?**
 
 Prostor pro nás vystihují tři zásadní slova: kafe, kultura a komunita. Kafe jako kavárna v panském dvoře, kam může přijít kdykoliv kdokoliv. Kultura proto, že se v tomto místě budou dít kulturní a společenské akce ve smyslu setkávání se. Chceme, aby vznikl prostor pro cokoliv, co může člověka jakýmkoliv způsobem kultivovat. Počítáme s tím, že podstatu Prostoru budou tvořit nejen například koncerty a výstavy, ale třeba i setkávání rodičů s dětmi, besedy na nejrůznější témata a mnoho dalších. Naším cílem je, aby Prostor byl žánrově různorodý. Což je dáno jednak lidmi, kteří jej začali vytvářet, a také tím, že jsme v menším městě. Kdybychom se totiž zaměřili jen na jeden žánr a jiný vyřadili, Prostor by nemusel být provozuschopný. Vnímám to tak, že toto místo musí být otevřené a mít širší záběr. A s tím vším souvisí i slovo komunita. Protože naším cílem není otevřít si v několika lidech komunitní centrum, a pak jej vlastními silami plnit obsahem. To opravdu ne. 
 
