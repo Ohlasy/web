@@ -48,7 +48,7 @@ Máme dramaturgickou radu, která může mít právo veta, pokud nebudeme s něj
 
 **Když se k vám tedy člověk bude chtít přidat, co má dělat?**
 
-Ať přijde k nám do Prostoru na panský dvůr nebo se [mrkne na náš web](https://prostor.wtf) a přihlásí se. Stane se pak regulérním členem zapsaného spolku, odpovíme mu, budeme s ním komunikovat. A minimálně jednou do roka ho uvítáme na setkání všech našich členů. A protože si tito naši členové budou moct zvolit své zástupce, za čas se pak klidně může stát, že si členové odhlasují nové vedení a my to celé předáme někomu mladšímu, než jsme my. Já třeba pořádám v Boskovicích Slam Poetry. Nevidím ovšem důvod, proč bych ji měl, dejme tomu za tři roky, v Boskovicích pořádat zase já. Doufám, že ji prostě předám někomu mladšímu.
+Ať přijde k nám do Prostoru na panský dvůr nebo se [mrkne na náš web](https://prostor.wtf) a přihlásí se. Stane se pak regulérním členem zapsaného spolku, odpovíme mu, budeme s ním komunikovat. A minimálně jednou do roka ho uvítáme na setkání všech našich členů. A protože si tito naši členové budou moct zvolit své zástupce, za čas se pak klidně může stát, že si členové odhlasují nové vedení a my to celé předáme někomu mladšímu, než jsme my. Já třeba pořádám v Boskovicích společně s Lubošem Valčikem a Kamilou Hrnčířovou Slam Poetry. Nevidím ovšem důvod, proč bychom ji měli, dejme tomu za tři roky, v Boskovicích pořádat zase my. Doufám, že ji prostě předáme někomu mladšímu.
 
 **Celou svou činnost tedy směřujete spíš na mladší lidi?**
 
