@@ -23,7 +23,7 @@ Není to však první ponížená dotace v rámci investic minulého vedení Bos
 
 „V zadávací dokumentaci veřejné zakázky stanovil zadavatel dílčí hodnotící kritérium ‚Plán kvality upravený na konkrétní podmínky této zakázky‘ takovým způsobem, který nebyl přiměřený druhu a charakteru veřejné zakázky, tudíž toto dílčí hodnotící kritérium vytvářelo bezdůvodné překážky hospodářské soutěže,“ sdělil pracovník ministerstva.
 
-Dále podle něj město ani nerespektovalo způsob hodnocení u tohoto kritizovaného kritéria a obodovalo nabídky podle parametrů, které nebyly stanovené v zadávací dokumentaci. „Zadavatel dále v dokumentaci dostatečně nepopsal průběh hodnocení nabídek, čímž se proces hodnocení nabídek stal nepřezkoumatelným.Tento postup zadavatele mohl opět ovlivnit výběr nejvhodnější nabídky,“ doplnil Vilém Frček.
+Dále podle něj město ani nerespektovalo způsob hodnocení u tohoto kritizovaného kritéria a obodovalo nabídky podle parametrů, které nebyly stanovené v zadávací dokumentaci. „Zadavatel dále v dokumentaci dostatečně nepopsal průběh hodnocení nabídek, čímž se proces hodnocení nabídek stal nepřezkoumatelným. Tento postup zadavatele mohl opět ovlivnit výběr nejvhodnější nabídky,“ doplnil Vilém Frček.
 
 Obě tyto stěžejní investice, které rozjela minulá koalice, nespojuje jen to, že na ně šly dotace ze stejného operačního programu, ale také další věci. Zadávací dokumentaci pro výběrové řízení, kde jsou údajně chyby, u obou těchto zakázek pro město totiž připravovala společnost WebSport & Consulting service.
 
