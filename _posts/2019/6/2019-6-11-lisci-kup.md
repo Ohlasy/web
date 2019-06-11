@@ -7,7 +7,7 @@ category: seriály
 serial: krajiny
 ---
 
-*Přišel opět čas vstavačů (prstnatců) májových – našich lučních orchidejí. Letos jsem se za nimi vypravil do přírodní památky pod Liščím kupem. Do míst, kam jsem před lety rád chodíval jako vysokoškolák a celá léta tam už nezavítal. Trochu jsem se obával, zda tam vůbec ještě nějaké vstavače najdu. Péče o chráněná území nebývá vždy dostatečná a stává se mi, že přijdu na lokalitu a místo chráněných rostlin tam najdu již jen kopřivy a starou nekosenou trávu. Tentokrát jsem však byl naštěstí podobného zklamání ušetřen. Vstavače na vlhké louce Pod Liščím kupem dosud rostou, stejně jako kakosty lesní na nedaleké výslunné louce mezi poblíž přírodní památky. I za těmi jsem tam chodíval.*
+*Přišel opět čas vstavačů (prstnatců) májových – našich lučních orchidejí. Letos jsem se za nimi vypravil do přírodní památky pod Liščím kupem. Do míst, kam jsem před lety rád chodíval jako vysokoškolák a celá léta tam už nezavítal. Trochu jsem se obával, zda tam vůbec ještě nějaké vstavače najdu. Péče o chráněná území nebývá vždy dostatečná a stává se mi, že přijdu na lokalitu a místo chráněných rostlin tam najdu již jen kopřivy a starou nekosenou trávu. Tentokrát jsem však byl naštěstí podobného zklamání ušetřen. Vstavače na vlhké louce Pod Liščím kupem dosud rostou, stejně jako kakosty lesní na nedaleké výslunné mezi poblíž přírodní památky. I za těmi jsem tam chodíval.*
 
 {% photo src="https://i.imgur.com/tq5bMIT.png" caption="Pod Liščím Kupem" author="Mapy.cz" %}
 
