@@ -18,6 +18,11 @@
   alt: pozvánka na BiGy Fest 2019
   url: http://www.bigyfestletovice.cz/
   priority: 1000
+- name: Impro
+  image: https://i.imgur.com/PJP6h14.png
+  alt: "Improzápas: Lísky vs. Valouny"
+  url: http://www.improlisky.cz
+  priority: 900
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
