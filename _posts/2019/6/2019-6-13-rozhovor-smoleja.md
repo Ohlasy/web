@@ -37,7 +37,9 @@ Nezapomeňte prosím, že byl konec devadesátých let, zkušeností v této obl
 
 Za dvacet uplynulých let se v této oblasti získalo hodně zkušeností. Pokud se podaří smluvně ošetřit požadovaný rozsah poskytování zdravotní péče a také finanční nároky vůči městu, tak ano. Ostatně by se tak naplnil záměr, který se nám nepodařilo realizovat.
 
-Pročítal jsem si i [smlouvy uzavřené za vašeho starostování](https://ohlasy.info/clanky/2018/12/smlouvy-odpad.html), kterými se dostala firma Služby K.K.Š. v roce 1995 ke svozu odpadu, úklidu silnicí nebo provozu lázní či koupaliště. Právě provoz sportovišť ale v době uzavření smlouvy neměla firma vůbec jako předmět podnikání, to až o několik let později. Jak je možné, že jste s firmou za tímto účelem uzavřeli smlouvu? Jakou roli hrálo to, že za firmou Služby K.K.Š. stáli bývalí manažeři někdejších Technických služeb Boskovice?
+Pročítal jsem si i [smlouvy uzavřené za vašeho starostování](https://ohlasy.info/clanky/2018/12/smlouvy-odpad.html), kterými se dostala firma Služby K.K.Š. v roce 1995 ke svozu odpadu, úklidu silnicí nebo provozu lázní či koupaliště. Právě provoz sportovišť ale v době uzavření smlouvy neměla firma vůbec jako předmět podnikání, to až o několik let později.
+
+**Jak je možné, že jste s firmou za tímto účelem uzavřeli smlouvu? Jakou roli hrálo to, že za firmou Služby K.K.Š. stáli bývalí manažeři někdejších Technických služeb Boskovice?**
 
 Úkolem bylo zajistit poskytování vámi jmenovaných služeb, shoda personálního obsazení Služeb K.K.Š. a Technických služeb Boskovice na to vliv neměla a ani nevím, jak a čím by vůbec mohla mít. Váš názor tak nesdílím. 
 
