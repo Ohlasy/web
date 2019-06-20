@@ -11,7 +11,7 @@ category: názory a komentáře
 
 Do Boskovic přijedou už v pondělí zástupci firmy Agel prezentovat svůj zájem o boskovickou nemocnici. [Rádi by se jí ujali a v budoucnu provozovali](http://www.ohlasy.info/clanky/2017/12/nemocnice-agel.html), slibují velké investice. Co bude ale firma přesně prezentovat a jaké případné plány má s největším zdravotnickým zařízením na okrese, to se veřejnost ani novináři zatím nedozví. Vše se bude odehrávat za zavřenými dveřmi boskovické radnice.
 
-Semináře nebo také pracovní setkání zastupitelů jsou v některých obcích oblíbené – nejdříve všechno probereme tajně za dveřmi a pak na veřejném zastupitelstvu, kam mohou občané, vše bez diskuze schválíme, jak jsme si už předem domluvili. Politika se ale má odehrávat právě veřejném zasedání zastupitelů; interní debaty mohou probíhat na úrovni zastupitelských klubů nebo koalice, nikoli celého zastupitelstva. Na politiku takový postup jen klade hořkou pachuť.
+Semináře nebo také pracovní setkání zastupitelů jsou v některých obcích oblíbené – nejdříve všechno probereme tajně za dveřmi a pak na veřejném zastupitelstvu, kam mohou občané, vše bez diskuze schválíme, jak jsme si už předem domluvili. Politika se ale má odehrávat právě na veřejném zasedání zastupitelů; interní debaty mohou probíhat na úrovni zastupitelských klubů nebo koalice, nikoli celého zastupitelstva. Na politiku takový postup jen klade hořkou pachuť.
 
 U plánovaného semináře o současné situaci v nemocnici a nabídce firmy Agel by měl být opačný postup nejen kvůli konečnému dojmu z politiky jako takové. Nabízím ještě několik dalších:
 
