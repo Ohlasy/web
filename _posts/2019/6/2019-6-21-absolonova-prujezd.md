@@ -21,6 +21,8 @@ Jedním z nových majitelů se stal Vojtěch Havíř; ze slov Pavla Musila lze v
 
 Původně ještě s minulým vedením, se kterým bylo domluveno, jaké pozemky si vzájemně vymění. Záměr schválili zastupitelé, ale než došlo k potvrzení směny prostřednictvím smlouvy, změnilo se vedení Boskovic, které začalo s Vojtěchem Havířem jednat znovu. Chtělo od něj získat směnou ještě část dalšího pozemku, který potřebuje k prodloužení ulice.
 
+{% photo src="https://i.imgur.com/B9gLQ4J.png" author="Mapy.cz" %}
+
 „Nově bylo dohodnuto, že z důvodu možnosti budoucího propojení ulice Absolonovy s cestou, která vede ke hřbitovu, se smění ještě část dalšího pozemku, aby se v budoucnu mohlo plynule navázat,“ vysvětloval změnu směny na schůzi zastupitelů letos v únoru Pavel Musil. Na doplnění směny Vojtěch Havíř přistoupil a zastupitelé v červnu schválili i smlouvu. Čeká se jen na podpisy jednotlivých stran.
 
 Jenže zásadní pozemek, který město k dokončení ulice potřebuje, stále nevlastní. Jedná se o parcelu, která přímo navazuje na končící silnici a bez které město ulici k cestě na hřbitov nemá šanci dovést. „Bohužel tam zůstává pořád ještě jeden majitel, vůči kterému díky této směně získáme dobrou vyjednávací pozici,“ doplnil na únorovém zastupitelstvu Pavel Musil.
