@@ -10,7 +10,7 @@ tags: podnikání
 
 <img src="https://i.ohlasy.info/cxvoklY.jpg" alt="cedulka zákazu podomního prodeje v Lysicích" class="img-responsive img-popup" data-author="Martin Strachoň">
 
-V Boskovicích začal zákaz podomního prodeje platit s prvním lednem letošního roku [podle nařízení 7/2015](http://data.ohlasy.info/trzni-rad.pdf). Hlavní důvodem zákazu je ochránit především starší občany, kteří mohou nátlakům ze strany prodejců snadněji podlehnout. Do konce března ještě mají být na všech příjezdech do města cedule oznamující, že je ve městě podomní a pochůzkový prodej zakázán. Každý by tak měl být podle starostky Hany Nedomové o zákazu informován. Jestli nařízení bude mít skutečně dobré výsledky, se teprve ukáže. Podomní prodejci často totiž můžou z města zmizet dříve, než k nim přijede městská policie.
+V Boskovicích začal zákaz podomního prodeje platit s prvním lednem letošního roku [podle nařízení 7/2015](https://data.ohlasy.info/2016/trzni-rad.pdf). Hlavní důvodem zákazu je ochránit především starší občany, kteří mohou nátlakům ze strany prodejců snadněji podlehnout. Do konce března ještě mají být na všech příjezdech do města cedule oznamující, že je ve městě podomní a pochůzkový prodej zakázán. Každý by tak měl být podle starostky Hany Nedomové o zákazu informován. Jestli nařízení bude mít skutečně dobré výsledky, se teprve ukáže. Podomní prodejci často totiž můžou z města zmizet dříve, než k nim přijede městská policie.
 
 „Než se celá záležitost dostane do fáze postihu, jsou podomní, případně pochůzkoví obchodníci pryč. Hrozí tedy vydání právního předpisu, který bude mít maximálně výstražný charakter,“ upozorňovali úředníci za minulé koalice, jaké slabiny vyhláška bude mít. Současní radní se rozhodli, že i výstraha je lepší než nic.
 

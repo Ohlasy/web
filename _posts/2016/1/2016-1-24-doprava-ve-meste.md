@@ -38,7 +38,7 @@ Nejlepším řešením by bylo otevřít pěší propojení od lázní dolů do 
 
 ### Dopravní návrh s důrazem na člověka
 
-*„Řeknu to takhle: každé velké město má svůj odbor pro řízení a plánování dopravy, kde padesátka lidí pořád kontroluje, jestli si to tady auťáky dost užívají a jestli se mají v našem městě fajn. Proto doporučuju, abychom na každé radnici založili také odbor pro pěší a veřejný život.“ (Jan Gehl, [Lidové noviny 19. března 2011](http://data.ohlasy.info/rozhovor-gehl.pdf))*
+*„Řeknu to takhle: každé velké město má svůj odbor pro řízení a plánování dopravy, kde padesátka lidí pořád kontroluje, jestli si to tady auťáky dost užívají a jestli se mají v našem městě fajn. Proto doporučuju, abychom na každé radnici založili také odbor pro pěší a veřejný život.“ (Jan Gehl, [Lidové noviny 19. března 2011](https://data.ohlasy.info/2016/rozhovor-gehl.pdf))*
 
 Je zajímavé, že máme instituce zabývající se migrací žab a koridory pro pohyby různých dalších zvířat, stejně jako každé větší město disponuje odborem dopravy, kde několik lidí kontroluje, zda mají auta kde parkovat a kudy jezdit, ale chybí nám instituce, které by řešily, zda se v nové výstavbě dobře žije lidem. A tím „dobrým žitím“ nemyslím plnění hygienických limitů, ale spíše obtížněji uchopitelné věci jako snadnou orientaci v území, možnosti vyžití dětí i jejich rodičů či snadnost vytváření „sociálního tmelu“, třeba dobrých sousedských vztahů. Když se řekne „doprava“, představuje si většina lidí okamžitě auta, ačkoli k tomu není jasný důvod. Pěšky nebo na kole je to v našich myslích asi příliš „doleva“…
 
