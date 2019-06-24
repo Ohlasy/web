@@ -13,11 +13,11 @@
   alt: pozvánka na festival Boskovice 2019
   url: https://www.boskovice-festival.cz/
   priority: 1000
-- name: BiGyFest
-  image: https://i.imgur.com/zjxZmZr.jpg
-  alt: pozvánka na BiGy Fest 2019
-  url: http://www.bigyfestletovice.cz/
-  priority: 1000
+- name: Výstava Víta Ondráčka
+  image: https://i.imgur.com/AEVv0WZ.jpg
+  alt: pozvánka výstavu Víta Ondráčka
+  url: https://www.boskovice-festival.cz/cs/vit-ondracek
+  priority: 900
 - name: Impro
   image: https://i.imgur.com/PJP6h14.png
   alt: "Improzápas: Lísky vs. Valouny"
