@@ -4,6 +4,7 @@ perex: U dvou městských zakázek připravovaných firmou spojenou s místní �
 cover-photo: https://i.imgur.com/DvlIBPWl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
+tags: politika
 ---
 
 *Velký zájem čtenářů vzbudil před dvěma týdny náš článek o dvou problémových městských zakázkách, které připravovala firma spojená s místní ČSSD. V obou případech ministerstvo pro místní rozvoj našlo chyby v zadávací dokumentaci pro výběrové řízení. Co to přesně znamená?*
