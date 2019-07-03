@@ -405,7 +405,15 @@ a.fancybox-close {
     overflow: hidden;
 }
 
-.force-hd-aspect > img, .force-hd-aspect > iframe {
+.force-43-aspect {
+    width: 100%;
+    padding-bottom: 75%;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.force-hd-aspect > img, .force-hd-aspect > iframe, .force-43-aspect iframe {
     position: absolute;
     top: 0;
     left: 0;
