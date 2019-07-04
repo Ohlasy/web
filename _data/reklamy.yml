@@ -13,6 +13,11 @@
   alt: pozvánka na festival Boskovice 2019
   url: https://www.boskovice-festival.cz/
   priority: 1000
+- name: Zámek Kunštát
+  image: https://i.imgur.com/wJopae4.png
+  alt: Zámek Kunštát hledá pracovníka vztahů k veřejnosti
+  url: https://www.zamek-kunstat.cz/cs/zpravy/44013-sprava-statniho-zamku-kunstat-hleda-pracovnika-vztahu-k-verejnosti
+  priority: 950
 - name: Výstava Víta Ondráčka
   image: https://i.imgur.com/AEVv0WZ.jpg
   alt: pozvánka výstavu Víta Ondráčka
