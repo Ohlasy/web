@@ -8,21 +8,16 @@
   alt: pracovní inzerce MSSS
   url: https://msssboskovice.cz/?page_id=1328
   priority: 1000
-- name: Festival Boskovice 2019
-  image: https://i.imgur.com/64ltcuo.png
-  alt: pozvánka na festival Boskovice 2019
-  url: https://www.boskovice-festival.cz/
+- name: Kunštátský jarmark
+  image: https://i.imgur.com/vA0oyrH.png
+  alt: Kunštátský jarmark
+  url: https://www.kunstat-mesto.cz/hrncirsky-jarmark-1/program-2019/
   priority: 1000
 - name: Zámek Kunštát
   image: https://i.imgur.com/wJopae4.png
   alt: Zámek Kunštát hledá pracovníka vztahů k veřejnosti
   url: https://www.zamek-kunstat.cz/cs/zpravy/44013-sprava-statniho-zamku-kunstat-hleda-pracovnika-vztahu-k-verejnosti
   priority: 950
-- name: Výstava Víta Ondráčka
-  image: https://i.imgur.com/AEVv0WZ.jpg
-  alt: pozvánka výstavu Víta Ondráčka
-  url: https://www.boskovice-festival.cz/cs/vit-ondracek
-  priority: 900
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
