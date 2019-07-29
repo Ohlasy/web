@@ -3,21 +3,16 @@
   alt: pozvánka na aktuální kulturní akce v Boskovicích
   url: https://www.kulturaboskovice.cz
   priority: 1000
-- name: MSSS
-  image: https://i.imgur.com/32EAst7.png
-  alt: pracovní inzerce MSSS
-  url: https://msssboskovice.cz/?page_id=1328
+- name: Muzeum regionu Boskovicka
+  image: https://i.imgur.com/wo4lJzR.jpg
+  alt: pozvánka na prohlídku výstavy
+  url: http://www.muzeum-boskovicka.cz/vit-ondracek-malby/a-1259/p1=1098
   priority: 1000
 - name: Kunštátský jarmark
   image: https://i.imgur.com/vA0oyrH.png
   alt: Kunštátský jarmark
   url: https://www.kunstat-mesto.cz/hrncirsky-jarmark-1/program-2019/
   priority: 1000
-- name: Zámek Kunštát
-  image: https://i.imgur.com/wJopae4.png
-  alt: Zámek Kunštát hledá pracovníka vztahů k veřejnosti
-  url: https://www.zamek-kunstat.cz/cs/zpravy/44013-sprava-statniho-zamku-kunstat-hleda-pracovnika-vztahu-k-verejnosti
-  priority: 950
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
