@@ -1,6 +1,6 @@
 ---
 title: „Kdo vidí film na našem obrovském plátně, tomu spadne brada.“
-perex: Rozhovor s Tomášem Marvanem o areálu letního kina, jeho fungování, dramaturgii a zájmu publika. Letní kino získalo vlastní projektor a může ještě vylepšit skóre nejnavštěvovanějšího letního kina u nás.
+perex: S Tomášem Marvanem o areálu letního kina, jeho fungování, dramaturgii a zájmu publika. Letní kino získalo vlastní projektor a může ještě vylepšit skóre nejnavštěvovanějšího letního kina u nás.
 cover-photo: https://i.imgur.com/2WNuLRpl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
