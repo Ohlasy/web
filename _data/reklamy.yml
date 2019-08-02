@@ -16,7 +16,7 @@
 - name: Festiválek bez bojů a válek
   image: https://i.imgur.com/cqzPm0F.png
   alt: pozvánka na Festiválek bez bojů a válek
-  url: www.fbbav.cz
+  url: http://festivalekbezbojuavalek.cz/program/
   priority: 1000
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
