@@ -13,7 +13,7 @@ tags: politika, sport
 
 **Kde a kdy podle vás bude stát sportovní hala v Boskovicích?**
 
-Já doufám, že se nám postavit sportovní halu podaří do tří let. A kde bude – pevně věřím, že se nám podaří najít konsenzus v září na zastupitelstvu.
+Já doufám, že se nám sportovní halu podaří postavit do tří let. A kde bude – pevně věřím, že se nám podaří najít konsenzus v září na zastupitelstvu.
 
 **Vedení města dnes váhá mezi dvěma variantami – Sušilova a Hybešova – jaké jsou pro vás osobně hlavní faktory v tomto rozhodování?**
 
@@ -77,7 +77,7 @@ Ano.
 
 Ne, ne, to je jenom slovíčkaření. Jaksi se to táhne jako červená nit celou tou debatou, jestli je to tělocvična, nebo hala. Já to označuji jako sportovní halu, která splňuje požadavky, a důležité je to, že rozměr hřiště se hodí pro všechny typy sportů, včetně těch, co mají největší požadavky na rozměr, co se týče délky a šířky, ať už je to florbal nebo házená. Bude tam dostatečná výška, hlavním sportem, který má požadavek na výšku, je volejbal. No a samozřejmě co by to bylo za sportovní stánek bez diváků a příznivců, takže tam bude i hlediště.
 
-**Existuje nějaký podrobnější materiál, který tyto parametry představuje? Zatím jsem se dozvěděli jen ten úplný základ – rozměry hřiště a kapacitu hlediště. Ostatní podrobnosti neznáme.**
+**Existuje nějaký podrobnější materiál, který tyto parametry představuje? Zatím jsem se dozvěděli [jen ten úplný základ](https://forum.ohlasy.info/t/zadani-na-sportovni-halu/233) – rozměry hřiště a kapacitu hlediště. Ostatní podrobnosti neznáme.**
 
 Máme zpracovaný materiál, který bude sloužit pro zadání projektového týmu či architekta. Ten obnáší parametry, které by měla sportovní hala mít. Rozměry hřiště, výška tělocvičny, požadované prostory: počet šaten, chodeb, jestli tam bude občerstvení, jestli tam budou gymnastické sály, kapacita hlediště například pro pět set diváků, kolik má být sedících. Jaké má mít hala vybavení, to znamená, že má mít takové a takové ozvučení, že tam má být taková a taková světelná tabule. Takže ten materiál máme a bude součástí technicko-odborného požadavku pro vytvoření projektu a architektonického ztvárnění.
 
@@ -125,7 +125,7 @@ Ne, nešlo. Domníváme se, že u tohoto charakteru investice je to zbytečné. 
 
 **Ale rozhodně chcete vybírat z více návrhů?**
 
-Samozřejmě. Ať už rozhodneme o jedné nebo o druhé lokalitě, máme dáno technické zadání, parametry a potřebu. S tímto oslovíme architektonická studia, která by měla určit objemovost a vlastní charakter stavby. Potom bychom vybírali z několika návrhů, vítěz a další by dostali určené skicovné.
+Samozřejmě. Ať už rozhodneme o jedné nebo o druhé lokalitě, máme dáno technické zadání, parametry a potřeby. S tímto oslovíme architektonická studia, která by měla určit objemovost a vlastní charakter stavby. Potom bychom vybírali z několika návrhů, vítěz a další by dostali určené skicovné.
 
 **Vítěze by vybírala městská rada, nebo byste ustavili speciální komisi?**
 
@@ -175,7 +175,7 @@ Myslím, že ano. Probíhá diskuse. Ta debata je dána rozsahem té investice, 
 
 **Hnutí ANO a TOP 09 stojí celkem otevřeně za stavbou na Hybešově. Z určitých náznaků to vypadá, že podobně se k tomu nakonec staví i ODS. Pro vás byla v minulosti prioritní varianta na Sušilově – znamená to, co říkáte, že jste ochotni ji opustit a připojit se k většině v koalici?**
 
-Každý ten záměr potřebuje svůj čas, má nějaký svůj styl a jeden druhého potřebuje přesvědčit o váze argumentu. I když v tuto chvíli každý má názor a pravděpodobně se přiklání k jedné variantě, tak pro mě rozhodující je výstup na zastupitelstvu. A jsem pevně přesvědčen, že na zastupitelstvu přijdeme s variantou, která bude v rámci koalice jednotná, ale bude schůdná pro všechny zastupitele. Na to potřebujeme čas. Já teď nepotřebuji oznamovat a deklarovat, probíhá diskuse, argumenty. A nejsou jednotné. Ta investice má tolik kritérií! Slyšel už jsem snad všechny argumenty od toho, jestli je tam dostatek místa, až po to, jestli je tam parkování pro kola. Musím na ně velmi aktivně odpovídat a vysvětlovat.
+Každý ten záměr potřebuje svůj čas, má nějaký svůj styl a jeden druhého potřebuje přesvědčit o váze argumentu. I když v tuto chvíli každý má názor a pravděpodobně se přiklání k jedné variantě, tak pro mě je rozhodující výstup na zastupitelstvu. A jsem pevně přesvědčen, že na zastupitelstvu přijdeme s variantou, která bude v rámci koalice jednotná, ale bude schůdná pro všechny zastupitele. Na to potřebujeme čas. Já teď nepotřebuji oznamovat a deklarovat, probíhá diskuse, argumenty. A nejsou jednotné. Ta investice má tolik kritérií! Slyšel už jsem snad všechny argumenty od toho, jestli je tam dostatek místa, až po to, jestli je tam parkování pro kola. Musím na ně velmi aktivně odpovídat a vysvětlovat.
 
 **Trochu se nabízí sportovní metafora, že třeba tenisté říkají, že zápas se hraje do posledního míčku. Berete to tak, že ani v koalici ten poslední míček ještě zahrán nebyl?**
 
@@ -187,7 +187,7 @@ Tak tak. Může se komentovat, já tomu rozumím, ale počkal bych až na ten ko
 
 **No ale zároveň to vypadá, že v té variantě Sušilova zůstáváte dost osamoceni. Proto mě zajímá, jestli jste ochotni – vy i pan Pevný – zvednout ruku pro Hybešovu, pokud pro ni bude zbytek koalice.**
 
-Podívejte, vy jste zmínil dva subjekty, které pravděpodobně variantu řekli a já to nemůžu ani potvrdit, ani vyvrátit. Nemyslím si, že jsme osamoceni. Obě dvě ty varianty mají svoji váhu.
+Podívejte, vy jste zmínil dva subjekty, které pravděpodobně variantu řekly a já to nemůžu ani potvrdit, ani vyvrátit. Nemyslím si, že jsme osamoceni. Obě dvě ty varianty mají svoji váhu.
 
 **A když zopakuji tu otázku: je pro vás varianta Hybešova dost kvalitní na to, abyste byli ochotni ji podpořit?**
 

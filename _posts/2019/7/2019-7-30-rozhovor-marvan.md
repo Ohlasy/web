@@ -51,7 +51,7 @@ Je to tak. Jsou digitální letní kina, která takto hrají. Většinou nemají
 
 Loni jsme promítali jen do konce srpna a měli jsme 11 tisíc diváků. Letos bych to chtěl porovnat za prázdniny a líbilo by se mi, kdybychom měli stejně. Zatím to podle návštěvnosti vypadá, že víc mít nebudeme, ale mít stejně by bylo super. A pak uvidíme, jaká čísla uděláme v září.
 
-**Před chvíli jsi řekl, že se ti to zdá neuvěřitelné. Na to jsem se přesně chtěl zeptat – kdyby ti někdo před pár lety, než započala rekonstrukce areálu, řekl, že tady budeme v létě 2019 sedět v nejnavštěvovanějším letním kině s novým projektorem a před závěrečnou etapou rekonstrukce, která celkově přišla asi na 50 milionů, věřil bys tomu?**
+**Před chvílí jsi řekl, že se ti to zdá neuvěřitelné. Na to jsem se přesně chtěl zeptat – kdyby ti někdo před pár lety, než započala rekonstrukce areálu, řekl, že tady budeme v létě 2019 sedět v nejnavštěvovanějším letním kině s novým projektorem a před závěrečnou etapou rekonstrukce, která celkově přišla asi na 50 milionů, věřil bys tomu?**
 
 Ne, nevěřil.
 
@@ -93,7 +93,7 @@ Jo, ale nesmí to být úplně hard art.
 
 **To je hezký termín.**
 
-Když už, tak jdeme touhle cestou, že dáme Spalovače mrtvol, protože je to československá klasika, nově zrestaurovaná, a pustíme to zadarmo, stejně jako loni Formanovy Vlasy. Víme, že ten film všichni viděli, a kdybychom za něj chtěli peníze, tak diváků přijde tak sto, když hodně. Ale když bude pěkné počasí a dáme to zadarmo, může jich tady být pět set. A ten film si to zaslouží.
+Když už, tak jdeme touhle cestou, že dáme Spalovače mrtvol, protože je to československá klasika, nově restaurovaná, a pustíme to zadarmo, stejně jako loni Formanovy Vlasy. Víme, že ten film všichni viděli, a kdybychom za něj chtěli peníze, tak diváků přijde tak sto, když hodně. Ale když bude pěkné počasí a dáme to zadarmo, může jich tady být pět set. A ten film si to zaslouží.
 
 **Jaká je pro vás hranice diváckého úspěchu? Když přijde do letňáku sto lidí, je to málo, nebo je to dobré? A pět set?**
 
@@ -125,11 +125,11 @@ Tak moc pěkný amfiteátr je třeba v Lysicích, ale jsou omezení tím, že mu
 
 **Ale co se týká kvalitní digitální projekce?**
 
-Tak to fakt nevím. V okolí asi ne. Letňáky vyrostou i na louce, jsou krásně udělané, mají tam stánky, zázemí, rozkládací sedačky pro diváky, nafukovací plátno, mají kvalitní projekci i zvuk a je to třeba v krásném parku, ale takovýto amfiteátr jako máme my, si v okolí nevybavuji. Byl třeba ve Velkých Opatovicích, ale chátrá to.
+Tak to fakt nevím. V okolí asi ne. Letňáky vyrostou i na louce, jsou krásně udělané, mají tam stánky, zázemí, rozkládací sedačky pro diváky, nafukovací plátno, mají kvalitní projekci i zvuk a je to třeba v krásném parku, ale takovýto amfiteátr, jako máme my, si v okolí nevybavuji. Byl třeba ve Velkých Opatovicích, ale chátrá.
 
 **Jaký přínos pro vás představuje [festival ČSFD](https://www.facebook.com/events/247921036097065/)?**
 
-Jsme za něj moc vděční. Festival se sem přestěhoval z Turnova, kde se nedohodli s majitelem areálu. Když hledali letňák, zjistili, že v Boskovicích máme takový velký, přišli sem a byli z toho nadšení. Lidem, kteří sem přijedou – a jezdí sem z celé republiky a ze Slovenska – se tady moc líbí. Co se týče areálu letního kina, jsou maximálně spokojení. Horší je to s ubytovacími kapacitami. Když se ti sem sjede tisíc lidí z celé republiky a nemají se kde ubytovat, je to problém. Oni byli zvyklí v Turnově na velký kemp, kde byly i další aktivity, mohli tam jezdit na kánoích a podobně. Proto se jim snažím vytvořit aspoň provizorní kemp v podzámeckém parku, jako je tomu zvykem na festivalu Boskovice. 
+Jsme za něj moc vděční. Festival se sem přestěhoval z Turnova, kde se nedohodli s majitelem areálu. Když hledali letňák, zjistili, že v Boskovicích máme takový velký, přišli sem a byli z toho nadšení. Lidem, kteří sem přijedou – a jezdí sem z celé republiky a ze Slovenska – se tady moc líbí. Co se týče areálu letního kina, jsou maximálně spokojení. Horší je to s ubytovacími kapacitami. Když se ti sem sjede tisíc lidí z celé republiky a nemají se kde ubytovat, je to problém. Oni byli zvyklí v Turnově na velký kemp, kde byly i další aktivity, mohli tam jezdit na kánoích a podobně. Proto se jim snažíme vytvořit aspoň provizorní kemp v podzámeckém parku, jako je tomu zvykem na festivalu Boskovice. 
 
 **To je novinka?**
 
@@ -217,7 +217,7 @@ Myslím, že jo. Pod lípou je to pěkně ve stínu. I když asi by si to se skl
 
 **A co lezecká stěna – kdyby to bylo na tobě, bral bys ji tady?**
 
-Já bych ji bral. Ale statik, který to tady skoumal, mi řekl, že to nedoporučuje. Stěna by musela být samonosná. Bylo by to super, ale musel by se dost předělat projekt na tu část za plátnem, protože ta s tím nepočítá.
+Já bych ji bral. Ale statik, který to tady zkoumal, mi řekl, že to nedoporučuje. Stěna by musela být samonosná. Bylo by to super, ale musel by se dost předělat projekt na tu část za plátnem, protože ta s tím nepočítá.
 
 **A to už není reálné.**
 
