@@ -28,7 +28,7 @@ Veřejné projednání variant umístění sportovní haly proběhne ve čtvrtek
  
 Starosta Jaroslav Dohnálek se vyjádřil také k otázce, jestli půjde koalice do zastupitelstva jednotná a jestli se blíží k finální dohodě na jedné z uvedených variant. „Myslím si, že ano. Jednáme a dál to nebudu komentovat,“ reagoval stručně. Osobně už je pro jednu z variant rozhodnut, ale před hlasováním názor vyzrazovat nechce.
 
-Starosta si na tiskové konferenci nebyl jistý, jestli už došlo k podpisu smlouvy o převedu pozemků na Hybešově z Jihomoravského kraje na město. Nicméně vyloučil, že by město s podpisem čekalo až na dobu po jednání zastupitelstva, které by mělo 10. září o lokalitě rozhodnout. Návrh na to, aby město s podpisem posečkalo, [zazněl na minulém zastupitelstvu](https://ohlasy.info/clanky/2019/06/zastupitelstvo.html) z úst radního za ODS Vladimíra Ochmanského.
+Starosta si na tiskové konferenci nebyl jistý, jestli už došlo k podpisu smlouvy o převodu pozemků na Hybešově z Jihomoravského kraje na město. Nicméně vyloučil, že by město s podpisem čekalo až na dobu po jednání zastupitelstva, které by mělo 10. září o lokalitě rozhodnout. Návrh na to, aby město s podpisem posečkalo, [zazněl na minulém zastupitelstvu](https://ohlasy.info/clanky/2019/06/zastupitelstvo.html) z úst radního za ODS Vladimíra Ochmanského.
 
 ### Přemístění kontejnerů U Vážné studny
 
