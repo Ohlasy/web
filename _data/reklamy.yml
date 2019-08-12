@@ -13,16 +13,6 @@
   alt: Kunštátský jarmark
   url: https://www.kunstat-mesto.cz/hrncirsky-jarmark-1/program-2019/
   priority: 1000
-- name: Festiválek bez bojů a válek
-  image: https://i.imgur.com/cqzPm0F.png
-  alt: pozvánka na Festiválek bez bojů a válek
-  url: http://festivalekbezbojuavalek.cz/program/
-  priority: 1000
-- name: Impro
-  image: https://i.imgur.com/d5qjgGs.png
-  alt: Improzápas
-  url: http://www.improlisky.cz
-  priority: 900
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
