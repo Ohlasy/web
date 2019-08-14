@@ -7,6 +7,7 @@ category: názory a komentáře
 tags:
     - sportovní hala
     - sport
+    - politika
 ---
 
 *Nejméně šestnáct let se vede v Boskovicích debata se sportovci o tom, kde by měla stát nová sportovní hala. Dnes jsou na stole dvě varianty: hala na Hybešově a hala na Sušilově, vedle čehož však je stále platné [usnesení z roku 2015](https://ohlasy.info/clanky/2015/12/zastupitelstvo.html), že má sportovní stánek vyrůst v areálu Červená zahrada.*
