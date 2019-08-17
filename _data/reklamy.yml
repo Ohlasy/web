@@ -3,16 +3,16 @@
   alt: Husí slavnosti 2019
   url: http://www.husi-slavnosti.cz/
   priority: 1000
-- name: Muzeum regionu Boskovicka
-  image: https://i.imgur.com/wo4lJzR.jpg
-  alt: pozvánka na prohlídku výstavy
-  url: http://www.muzeum-boskovicka.cz/vit-ondracek-malby/a-1259/p1=1098
-  priority: 1000
 - name: Kunštátský jarmark
   image: https://i.imgur.com/vA0oyrH.png
   alt: Kunštátský jarmark
   url: https://www.kunstat-mesto.cz/hrncirsky-jarmark-1/program-2019/
   priority: 1000
+- name: Impro
+  image: https://i.imgur.com/j8UguhN.png
+  alt: Improzápas
+  url: https://www.improlisky.cz
+  priority: 900
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
