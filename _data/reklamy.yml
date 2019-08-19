@@ -8,6 +8,11 @@
   alt: Kunštátský jarmark
   url: https://www.kunstat-mesto.cz/hrncirsky-jarmark-1/program-2019/
   priority: 1000
+- name: Prostor
+  image: https://i.imgur.com/WSM4h5r.png
+  url: https://www.facebook.com/ProstorBoskovice/
+  alt: "Prostor: Kafe, Kultura, Komunita"
+  priority: 1000
 - name: Impro
   image: https://i.imgur.com/j8UguhN.png
   alt: Improzápas
