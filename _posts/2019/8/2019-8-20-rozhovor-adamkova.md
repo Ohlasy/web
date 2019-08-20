@@ -49,7 +49,7 @@ Aktuálně máme psa a fenku, které jsme našli spolu mezi Hrádkovem a Boskovi
 
 Bohužel je to tak, že většina psů je vyhozená z domova. Možná je to tím, že se o nás víc ví a lidé si myslí, že se o jejich psy postaráme. Nevím, jestli to bývalo i dříve, než jsem sem nastoupila, nedokážu to posoudit. Ale na příkladu dvou psů, kteří tu aktuálně jsou, je vidět, že o ně majitel nestál. Fena vypadá, že měla štěňata nedávno, teď čeká další, tak se jich majitel nejspíš raději zbavil. Co se týká zaběhnutých psů, majitelé nám ztraceného psa kolikrát ohlásí ještě dříve, než psa odchytneme. Hledají ho usilovně, a to je pak vše rychle vyřešeno. Ale také se nám stalo, že jsme našli psa, já ještě ten večer dohledala majitelku, která mi napsala, že se ozve. Ozvala se třetí den, ráno přišla na služebnu s tím, že spěchá do práce a psa si vyzvedne až večer. Asi si náš útulek spletla s psím hotelem. Ale podle toho se pak i odvíjí výše pokuty za zaběhnutého psa. Pokud je to nechtěné a vše proběhne, jak má, jedná se o pár stovek. V ostatních případech může být pokuta až deset tisíc korun.
 
-{% photo src="https://i.imgur.com/nywAkkO.jpg" author="Martina Vašková" %}
+{% photo src="https://i.imgur.com/nywAkkO.jpg" author="archiv Adély Adámkové" %}
 
 **Bývají u vás psi podobné rasy, nebo je to úplně různorodé?**
 
