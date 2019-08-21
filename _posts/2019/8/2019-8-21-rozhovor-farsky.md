@@ -176,7 +176,8 @@ Před zastupitelstvem se pochopitelně sejdeme a názory si budeme vyříkávat.
 
 Sociální demokracie je pro mě momentálně nečitelná. Tam nediskutuje víceméně nikdo. Přes prázdniny a přes dovolené jsem s nikým nemluvil. Piráti se jeví, že jsou také pro Červenku, ale jaký postoj ve finále zvolí, to si zase řekneme až na případné schůzce.
 
-Vyčítal byste to bývalým koaličním partnerům a Pirátům, kteří jsou noví, kdyby nakonec řekli: situace je taková, že současné vedení to na Července nechce, tak pojďme být konstruktivní a přidat se k některé z těch dvou variant?
+**Vyčítal byste to bývalým koaličním partnerům a Pirátům, kteří jsou noví, kdyby nakonec řekli: situace je taková, že současné vedení to na Července nechce, tak pojďme být konstruktivní a přidat se k některé z těch dvou variant?**
+
 Pirátům bych to nevyčítal, ti jsou v zastupitelstvu poprvé. Vnitřně – nahlas bych to asi neřekl – bych to vyčítal bývalým kolegům z koalice, protože by tím vlastně popřeli všechno, o co jsme bojovali a na čem jsme pracovali ty naše čtyři roky. 
 
 **Říkáte, že vám jde v prvé řadě o kvalitu. Jaký je rozdíl mezi Červenou zahradou a Sušilovou? Vzdálenost mezi nimi je malá, mluvil jste o tom, že děti tam za pár minut dojdou, ale stejně tak sportovci na případném soustředění dojdou opačně za pár minut k hale na Sušilově. Nedá se Sušilova tak trochu prohlásit za „rozšířenou variantu Červenka“?**
