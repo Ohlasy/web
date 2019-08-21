@@ -13,6 +13,11 @@
   url: https://www.facebook.com/ProstorBoskovice/
   alt: "Prostor: Kafe, Kultura, Komunita"
   priority: 1000
+- name: Ohlasy naživo
+  image: https://i.imgur.com/ZsE3d7O.png
+  url: https://www.facebook.com/events/654292541749811/
+  alt: "Ohlasy naživo: Debata s Lukášem Holíkem"
+  priority: 900
 - name: Impro
   image: https://i.imgur.com/j8UguhN.png
   alt: Improzápas
