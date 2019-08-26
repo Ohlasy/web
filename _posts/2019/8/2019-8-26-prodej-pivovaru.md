@@ -2,7 +2,7 @@
 title: Panský pivovar v Boskovicích hledá nového majitele
 cover-photo: https://i.imgur.com/0mMG63tl.jpg
 perex: Do 50. let minulého století se v Boskovicích vařilo pivo. Pak už ale místní pivovar sloužil jen jako sklad a poslední roky zeje prázdnotou. Teď ho jeho majitel prodává.
-author: Tomáš Trumpeš
+author: Marek Osouch
 category: zpravodajství
 
 ---
