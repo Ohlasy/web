@@ -11,7 +11,6 @@
 - name: Muzeum regionu Boskovicka
   image: https://imgur.com/8B7R6y6
   alt: Výstava Otakar Kubín – Othon Coubine
-  
   url: http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266/p1=1098
   priority: 1000
 - name: Prostor
