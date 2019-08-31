@@ -46,10 +46,10 @@ Vokální kvinteto Ensemble Frizzante je souborem profesionálních brněnských
 
 Saxofonista Štěpán Markovič patří k nejvýraznějším postavám české jazzové muziky, spolupracoval například s Rayem Charlesem či Lizou Minnelli, v roce 1994 natočil live album s Billem Clintonem. V Letovicích vystoupí společně s funky kapelou Gipsy Groove, tvořenou hudebníky, kteří se v minulosti představili jako předskokani takových hvězd, jako jsou Gipsy Kings nebo James Brown.
 
-### Playground #7
+### Playground #7 w/ BASSSHERIFF SOUND
 *Prostor, 14. září 17:00*
 
-V dalším vydání akce s názvem Playground se můžeme těšit na jednu z nejdůležitějších a hudebně nejzajímavějších boskovických DJ crews. Čeká nás pestrá směsice rytmů sahajících od reggae, dancehallu a ska přes trap, grime, bassline až po různé odnože dnb.
+V dalším vydání akce s názvem Playground se můžeme těšit na jednu z nejdůležitějších a hudebně nejzajímavějších boskovických DJ crews – Basssheriff Sound. Čeká nás pestrá směsice rytmů sahajících od reggae, dancehallu a ska přes trap, grime, bassline až po různé odnože dnb.
 
 ### Koncert duchovní hudby
 
