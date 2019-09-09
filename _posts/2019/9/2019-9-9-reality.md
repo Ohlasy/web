@@ -17,7 +17,7 @@ Ještě před pár lety na kopci před zahrádkářskou kolonií na Rovné rostl
 
 Podobná situace je i na druhé straně města v blízkosti vysílače na Čížovkách, v nově pojmenované ulici U Lomu. Tady jsou volné poslední tři parcely, devětatřicet dalších se podařilo během pár let prodat. Pokud tak dnes někdo hledá pozemek pro rodinný dům v Boskovicích, bude to mít těžké.
 
-Pět parcel U Lomu koupila ovšem developerská společnost LEOM, která na jejich místě staví [větší třípatrové domy](https://www.diverse-reality.cz/pod-strelnici-byty). Každé patro okny otočené směrem na jih s výhledem na Boskovice představuje jeden byt, vyrostou zde tak menší bytovky. Z patnácti bytů jsou zatím prodané čtyři. Výstavba je však v plném proudu.
+Pět parcel U Lomu koupila ovšem developerská společnost LEOM, která na jejich místě staví [větší třípatrové domy](https://www.diverse-reality.cz/pod-strelnici-byty). Každé patro okny otočené směrem na jih s výhledem na Boskovice představuje jeden byt, vyrostou zde tak menší bytovky. Z patnácti bytů je zatím prodaných pět. Výstavba je však v plném proudu.
 
 {% photo src="https://i.imgur.com/U1Rhf6A.jpg" caption="Na Paloučku" author="Tomáš Znamenáček" %}
 
@@ -45,7 +45,7 @@ Soukromá podnikatelská škola v budově na křižovatce Havlíčkovy a Legion�
 
 Bez viditelného posunu je zatím projekt [Residence Mánesova](http://residencemanesova.cz/), který počítá s přestavbou bývalé kotelny u bytového domu na Mánesově. Celkem tam vyroste 34 bytových jednotek od 1+kk až po luxusní byty v nejvyšším podlaží s velkými terasami.
 
-„Aktuální situace je taková, že se vyřizuje změna stavby před dokončením. Měnili jsme totiž nějaké dispozice uvnitř domu a také rozšiřovali parkovací stání. V současné době nejsou byty ještě v nabídce, protože ještě nemáme vyřízenou změnu. Předpokládáme ale, že letos na podzim by se zahájila stavba,“ vysvětlil šéf developerské firmy Radek Matuška. Zájemci by se tam mohli stěhovat už za rok.
+„Měnili jsme totiž nějaké dispozice uvnitř domu a také rozšiřovali parkovací stání, takže jsme vyřizovali změnu stavby před dokončením. Předpokládáme, že na podzim by se zahájila stavba,“ vysvětlil šéf developerské firmy Radek Matuška. Zájemci by se tam mohli stěhovat už za rok.
 
 {% photo src="https://i.imgur.com/giiVwDM.jpg" caption="Panorama Boskovice" author="Tomáš Znamenáček" %}
 
@@ -53,7 +53,7 @@ Bez viditelného posunu je zatím projekt [Residence Mánesova](http://residence
 
 Kdo jel během posledních měsíců vlakem nebo autem po cestě za nemocnicí, všiml si čilého stavebního ruchu mezi železniční tratí a areálem nemocnice. Developeři totiž začali se stavbou bytovek souhrnně nazvaných [Panorama Boskovice](https://www.panoramaboskovice.cz/).
 
-Zatím prodali jedenáct bytů z necelých sedmdesáti, podle Evy Minářové z developerské společnosti je však prodej a podpis smluv v běhu. „Zájem je veliký, neodrazuje ani blízká železnice. Předností je lokalita i dobrá dostupnost v blízkosti města,“ popsala s tím, že konec výstavby první etapy, tedy tří bytových domů, je plánovaný na leden 2021. U čtvrté a poslední bytovky se dnes zpracovává projekt.
+Zatím prodali osmnáct bytů z necelých sedmdesáti, podle Evy Minářové z developerské společnosti je však prodej a podpis smluv v běhu. „Zájem je veliký, neodrazuje ani blízká železnice. Předností je lokalita i dobrá dostupnost v blízkosti města,“ popsala s tím, že konec výstavby první etapy, tedy tří bytových domů, je plánovaný na leden 2021. U čtvrté a poslední bytovky se dnes zpracovává projekt.
 
 Vyroste zde také velké parkoviště, jak nad zemí, tak i kryté podzemní. Obslužná komunikace se napojí na silnici jednak na ulici Otakara Kubína u stávajících bytovek, jednak na druhé straně za nemocnicí na ulici Janáčkova. „Bude to obousměrná, ale jednoproudá komunikace s vyhýbacími ostrůvky s cílem, aby sloužila pouze obyvatelům bytových domů,“ podotkla Eva Minářová, že by tak tato silnice neměla sloužit jako zkratka.
 
@@ -61,7 +61,7 @@ Vyroste zde také velké parkoviště, jak nad zemí, tak i kryté podzemní. Ob
 
 ### Další Terasy na Výsluní
 
-Deset bytovek s názvem Terasy na Výsluní už stojí, jedenáctá se dokončuje a už je takřka celá prodaná. Hotová bude na konci letošního roku. Stále jsou v ní ovšem volné tři komerční prostory, které developer umístil do prvního podlaží a na rozdíl od bytů, které prodává, chce tyto prostory pronajímat.
+Deset bytovek s názvem Terasy na Výsluní už stojí, jedenáctá se dokončuje a už je takřka celá prodaná. Hotová bude na konci letošního roku. Budou v ní i komerční prostory, které developer umístil do prvního podlaží a na rozdíl od bytů, které prodává, chce tyto prostory pronajímat.
 
 Vedle tohoto domu už roste také dvanáctá bytovka, a to na místě někdejší Slámovy pily. Právě tuto plochu totiž developerská společnost BK Invest v minulosti koupila, aby zde postavila pět bytových domů se zhruba 120 byty. „Dvanáctý bytový dům jsme začali stavět na jaře 2019 a předběžný termín dokončení plánujeme na prosinec 2020,“ poznamenala za firmu Lenka Komárková. Na webu je [podle aktuální nabídky](http://www.terasynavysluni.cz/) většina bytů v této bytovce rezervovaná, osm je však stále ještě volných. „Další bytový dům plánujeme začít stavět na jaře 2020,“ doplnila Komárková.
 
