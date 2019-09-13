@@ -7,10 +7,9 @@
     <link>https://ohlasy.info</link>
     <ttl>10080</ttl>
     <description>Dění na Boskovicku</description>
-    <itunes:summary>Dění na Boskovicku</itunes:summary>
+    <image href="https://i.ohlasy.info/1Y2Mx3d.jpg"/>
     <itunes:category text="News &amp; Politics"/>
-    <image href="https://i.imgur.com/1Y2Mx3d.jpg"/>
-    <itunes:image href="https://i.imgur.com/1Y2Mx3d.jpg"/>
+    <itunes:image href="https://i.ohlasy.info/1Y2Mx3d.jpg"/>
     <itunes:author>Ohlasy</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -18,12 +17,17 @@
     </itunes:owner>
     <item>
       <title>Ohlasy naživo: Lukáš Holík</title>
-      <description>Hostem prvního setkání nového cyklu Ohlasy naživo byl ve
-      čtvrtek 12. září boskovický místostarosta Lukáš Holík. K poslechu
-      nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru
-      Prostor.</description>
-      <itunes:image href="https://i.imgur.com/zjcjtuI.jpg"/>
-      </itunes:summary>
+      <itunes:image href="https://i.ohlasy.info/zjcjtuI.jpg"/>
+      <itunes:duration>00:36:14</itunes:duration>
+      <pubDate>Fri, 13 Sep 2019 17:00:00 +0200</pubDate>
+      <enclosure url="https://data.ohlasy.info/2019/nazivo/holik.mp3" type="audio/mpeg" length="43899363"/>
+      <guid>https://data.ohlasy.info/2019/nazivo/holik.mp3</guid>
+      <description>
+        Hostem prvního setkání nového cyklu Ohlasy naživo byl ve
+        čtvrtek 12. září boskovický místostarosta Lukáš Holík. K poslechu
+        nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru
+        Prostor.
+
         Vzhledem k tomu, že se setkání konalo jen dva dny po jednání
         zastupitelstva, které rozhodlo o umístění sportovní haly na Hybešově
         ulici, nebylo možné vyhnout se tomuto tématu a bezprostředním reakcím
@@ -41,11 +45,7 @@
         Zajímala nás také kultura, kterou má Lukáš Holík v gesci, dále změna
         systému odpadového hospodářství a pochopitelně stavba Fránkovy
         knihovny, kterou prosazuje.
-      <itunes:summary>
-      <itunes:duration>00:36:14</itunes:duration>
-      <pubDate>Fri, 13 Sep 2019 17:00:00 +0200</pubDate>
-      <enclosure url="https://data.ohlasy.info/2019/nazivo/holik.mp3" type="audio/mpeg" length="43899363"/>
-      <guid>https://data.ohlasy.info/2019/nazivo/holik.mp3</guid>
+      </description>
     </item>
   </channel>
 </rss>
