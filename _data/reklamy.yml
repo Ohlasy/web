@@ -3,11 +3,6 @@
   alt: Husí slavnosti 2019
   url: http://www.husi-slavnosti.cz/
   priority: 1000
-- name: Kunštátský jarmark
-  image: https://i.imgur.com/vA0oyrH.png
-  alt: Kunštátský jarmark
-  url: https://www.kunstat-mesto.cz/hrncirsky-jarmark-1/program-2019/
-  priority: 1000
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/8B7R6y6.jpg
   alt: Výstava Otakar Kubín – Othon Coubine
