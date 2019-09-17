@@ -36,4 +36,4 @@ Znovu jsem proto zopakoval dotaz, zda není možné rozhovor osobně uskutečnit
 
 „Zřejmě jsme si neporozuměli. Z naší strany jsme Vám nabídli možnost zaslat otázky pro rozhovor s panem ředitelem Fialou písemně s tím, že Vám tyto otázky ve Vámi stanoveném termínu zodpovíme. Zároveň jsme Vás požádali o možnost autorizace rozhovoru. Možnost této varianty jste sám zamítl,“ napsala mluvčí v posledním e-mailu.
 
-A tak nevznikl rozhovor, který jsme vám čtenářům chtěli nabídnout. Osobně rozhovory podávají ředitelé firem, nejvyšší politici, šéfové nejrůznějších úřadů;, u Vodárenské akciové společnosti, kterou ve svém faktickém důsledku vlastní obce, tedy veřejnost, ale toto nepsané pravidlo asi neplatí.
+A tak nevznikl rozhovor, který jsme vám čtenářům chtěli nabídnout. Osobně rozhovory podávají ředitelé firem, nejvyšší politici, šéfové nejrůznějších úřadů; u Vodárenské akciové společnosti, kterou ve svém faktickém důsledku vlastní obce, tedy veřejnost, ale toto nepsané pravidlo asi neplatí.
