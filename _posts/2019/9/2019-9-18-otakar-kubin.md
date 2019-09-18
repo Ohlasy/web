@@ -17,7 +17,7 @@ Mladý Otakar Kubín odešel v 15 letech studovat na sochařsko-kamenickou škol
 
 Na zahradě rodinného domu v Boskovicích si postavil skromný ateliér, přezdívaný „bouda“. Ještě v roce 1950 při návštěvě svého bratra, zřejmě již při úvahách o návratu do vlasti, si na svůj první ateliér zavzpomínal: 
 
-> „Bylo půl desáté byli jsme ve Skalici kde nás bratr čekal. Za chvíli jsme byli doma, kde nás ubytovali ve světnici, kterou jsme už kdysi obývali…. My po obědě šli za Slávkem a ve společnosti s jeho ženou a Olgou se Žankem jsme vykládali. Procházeli po zahradě a v místech, kde stávala kdysi má bouda, Slávek ukazoval místo, v němž se snažil najít zakopaný popis stavby. Vím dobře, že bylo vše hodně hluboko umístěno, což bylo příčinou, že nic se nenašlo. Stromy dnes jsou mohutné a je vidět jejich stáří. Když jsem tenkráte stavěl atelier, stromky byly zasázené a nesly ovoce. Jak se vše od té doby změnilo.
+> Bylo půl desáté byli jsme ve Skalici kde nás bratr čekal. Za chvíli jsme byli doma, kde nás ubytovali ve světnici, kterou jsme už kdysi obývali…. My po obědě šli za Slávkem a ve společnosti s jeho ženou a Olgou se Žankem jsme vykládali. Procházeli po zahradě a v místech, kde stávala kdysi má bouda, Slávek ukazoval místo, v němž se snažil najít zakopaný popis stavby. Vím dobře, že bylo vše hodně hluboko umístěno, což bylo příčinou, že nic se nenašlo. Stromy dnes jsou mohutné a je vidět jejich stáří. Když jsem tenkráte stavěl atelier, stromky byly zasázené a nesly ovoce. Jak se vše od té doby změnilo.
 
 {% photo src="https://i.imgur.com/grnRavT.jpg" caption="Bouda" author="Muzeum regionu Boskovicka" %}
 
