@@ -4,7 +4,7 @@ perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedá
 cover-photo: https://i.imgur.com/6LYkYrXl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: doprava
+tags: doprava politika
 ---
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci srpna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři starosty Jaroslava Dohnálka (ODS) z tiskové konference.*
