@@ -6,7 +6,7 @@ category: zpravodajství
 tags: voda
 ---
 
-*Boskovice musí během několika příštích letech zmodernizovat čistírnu odpadních vod. Současný stav je na hraně kapacity. Po nákladné investici zvládne vyčistit o polovinu více vody než dnes.*
+*Boskovice musí během několika příštích let zmodernizovat čistírnu odpadních vod. Současný stav je na hraně kapacity. Po nákladné investici zvládne vyčistit o polovinu více vody než dnes.*
 
 {% photo src="https://i.imgur.com/Uy1kMUp.jpg" author="Tomáš Znamenáček" %}
 
