@@ -1,6 +1,6 @@
 ---
 title: Nemocnice nebude po exstarostce Nedomové vymáhat škodu za vyhazov Julínka
-perex: Boskovická nemocnice udělala definitivní tečku za vyhazovem Tomáše Julínka. Peněžní náhradu mu sice vyplatila, po nikom však už vzniklou škodu nebude chtít.
+perex: Nemocnice udělala tečku za vyhazovem Tomáše Julínka. Náhradu mu sice vyplatila, po nikom však vzniklou škodu nebude chtít.
 cover-photo: https://i.imgur.com/XSU0mLLl.jpg
 author: Marek Osouch
 category: zpravodajství
