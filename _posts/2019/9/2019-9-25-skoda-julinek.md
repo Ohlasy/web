@@ -4,6 +4,7 @@ perex: Nemocnice udělala tečku za vyhazovem Tomáše Julínka. Náhradu mu sic
 cover-photo: https://i.imgur.com/XSU0mLLl.jpg
 author: Marek Osouch
 category: zpravodajství
+tags: nemocnice politika
 ---
 
 *Boskovická nemocnice udělala definitivní tečku za vyhazovem svého bývalého náměstka pro ekonomiku a správu a někdejšího ministra zdravotnictví za ODS Tomáše Julínka. Peněžní náhradu mu nemocnice sice vyplatila, po nikom však už vzniklou škodu nebude chtít.*
