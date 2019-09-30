@@ -1,3 +1,8 @@
+- name: Jazz Q
+  image: https://i.imgur.com/0u9bzMx.png
+  alt: Martin Kratochvíl a Jazz Q
+  url: https://www.facebook.com/events/2495298957184302/
+  priority: 1000
 - name: KZMB
   image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?4
   alt: Husí slavnosti 2019
