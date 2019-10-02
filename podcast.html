@@ -1,0 +1,59 @@
+---
+why: A dummy header to make Jekyll process this file.
+---
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    {% include html/headers.html title="Ohlasy Podcast" %}
+    <link href="/podcast.xml" rel="alternate" type="application/rss+xml" title="Ohlasy Podcast">
+</head>
+<body>
+    <header class="navbar navbar-default">
+        <div class="container">
+            <h1><a href="/">Ohlasy <small>Podcast</small></a></h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <h2>Pod–co?</h2>
+                <p>Obšírnější článek o tom, co jsou podcasty, si můžete přečíst
+                <a href="https://blog.audiolibrix.cz/tema/co-je-to-podcast/">například tady</a>.
+                Stručně řečeno je to pohodlná forma poslechu audioseriálů na všechna možná
+                témata. Poslouchat můžete kdekoliv, nejčastější je ale asi chytrý telefon,
+                kde vám nové díly automaticky naskočí a můžete si je v klidu poslechnout
+                třeba na procházce, v autě nebo při žehlení (doporučujeme!).</p>
+                <p>U nás zatím ve formě podcastu vychází záznamy z pořadu Ohlasy naživo.
+                Pokud byste měli tip na další pořady, které byste si v podcastu rádi poslechli,
+                napište nám!</p>
+            </div>
+            <div class="col-md-4">
+                <h2>Rychlý poslech</h2>
+                <ul class="list-unstyled">
+                    <li><a href="https://podcasts.apple.com/cz/podcast/ohlasy/id1480020344">Apple Podcasts</a></li>
+                    <li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9vaGxhc3kuaW5mby9wb2RjYXN0LnhtbA%3D%3D">Google Podcasts</a></li>
+                    <li><a href="/podcast.xml">RSS</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Epizody</h2>
+        <div class="row">
+        {% assign articles=site.tags.podcast %}
+        {% for article in articles %}
+        <div class="col-md-3 col-sm-4">
+            {% include article/preview.html article=article %}
+        </div>
+        {% endfor %}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
