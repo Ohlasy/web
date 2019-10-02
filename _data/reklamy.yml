@@ -18,6 +18,11 @@
   url: https://www.facebook.com/ProstorBoskovice/
   alt: "Prostor: Kafe, Kultura, Komunita"
   priority: 1000
+- name: Podcast
+  image: https://i.ohlasy.info/waibo6C.png
+  url: https://ohlasy.info/podcast.html
+  alt: "Ohlasy Podcast"
+  priority: 1000
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
