@@ -1,5 +1,5 @@
 _site
 .gems
-.jekyll-metadata
+.jekyll-cache
 .DS_Store
 .netlify
