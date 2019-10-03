@@ -15,7 +15,7 @@
   priority: 1000
 - name: Prostor
   image: https://i.imgur.com/yHc5BPu.png
-  url: https://www.facebook.com/ProstorBoskovice/
+  url: https://prostor.wtf
   alt: "Prostor: Kafe, Kultura, Komunita"
   priority: 1000
 - name: Podcast
