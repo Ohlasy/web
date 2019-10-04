@@ -13,6 +13,11 @@
   alt: Výstava Otakar Kubín – Othon Coubine
   url: http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266/p1=1098
   priority: 1000
+- name: Halasův Kunštát
+  image: https://i.imgur.com/9AYpVCR.jpg
+  alt: Pozvánka na Halasův Kunštát
+  url: https://www.facebook.com/events/494136077832490/
+  priority: 1000
 - name: Prostor
   image: https://i.imgur.com/yHc5BPu.png
   url: https://prostor.wtf
