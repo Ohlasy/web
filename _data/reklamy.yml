@@ -3,20 +3,10 @@
   alt: Martin Kratochvíl a Jazz Q
   url: https://www.facebook.com/events/2495298957184302/
   priority: 1000
-- name: KZMB
-  image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?4
-  alt: Husí slavnosti 2019
-  url: http://www.husi-slavnosti.cz/
-  priority: 1000
 - name: Ohlasy naživo
   image: https://i.imgur.com/6U1hJHJ.png
   alt: "Ohlasy naživo: Debata s Petrem Ondráčkem"
   url: https://www.facebook.com/events/2457835264542034/
-  priority: 1000
-- name: Muzeum regionu Boskovicka
-  image: https://i.imgur.com/8B7R6y6.jpg
-  alt: Výstava Otakar Kubín – Othon Coubine
-  url: http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266/p1=1098
   priority: 1000
 - name: Impro
   image: https://i.imgur.com/bDPircO.png
@@ -28,21 +18,31 @@
   alt: Pozvánka na Halasův Kunštát
   url: https://www.facebook.com/events/494136077832490/
   priority: 1000
+- name: Muzeum regionu Boskovicka
+  image: https://i.imgur.com/8B7R6y6.jpg
+  alt: Výstava Otakar Kubín – Othon Coubine
+  url: http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266/p1=1098
+  priority: 900
+- name: KZMB
+  image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?4
+  alt: Husí slavnosti 2019
+  url: http://www.husi-slavnosti.cz/
+  priority: 900
 - name: Prostor
   image: https://i.imgur.com/yHc5BPu.png
   url: https://prostor.wtf
   alt: "Prostor: Kafe, Kultura, Komunita"
-  priority: 1000
+  priority: 900
 - name: Podcast
   image: https://i.ohlasy.info/waibo6C.png
   url: https://ohlasy.info/podcast.html
   alt: "Ohlasy Podcast"
-  priority: 1000
+  priority: 900
 - name: Jana Kolmačková
   image: https://i.imgur.com/iBXUHa7.png
   alt: Výstava obrazů Jany Kolmačkové
   url: https://www.facebook.com/events/433914067390264/
-  priority: 900
+  priority: 800
 - name: Galerie OK
   image: https://i.imgur.com/jhq75kc.png
   alt: "Galerie Otakara Kubína"
