@@ -18,6 +18,11 @@
   alt: Výstava Otakar Kubín – Othon Coubine
   url: http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266/p1=1098
   priority: 1000
+- name: Impro
+  image: https://i.imgur.com/bDPircO.png
+  alt: Impro Lísky slaví 10 let
+  url: https://www.improlisky.cz
+  priority: 1000
 - name: Halasův Kunštát
   image: https://i.imgur.com/9AYpVCR.jpg
   alt: Pozvánka na Halasův Kunštát
