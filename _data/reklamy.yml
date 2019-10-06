@@ -8,6 +8,11 @@
   alt: Husí slavnosti 2019
   url: http://www.husi-slavnosti.cz/
   priority: 1000
+- name: Ohlasy naživo
+  image: https://i.imgur.com/6U1hJHJ.png
+  alt: "Ohlasy naživo: Debata s Petrem Ondráčkem"
+  url: https://www.facebook.com/events/2457835264542034/
+  priority: 1000
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/8B7R6y6.jpg
   alt: Výstava Otakar Kubín – Othon Coubine
