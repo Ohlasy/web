@@ -23,11 +23,6 @@
   alt: Výstava Otakar Kubín – Othon Coubine
   url: http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266/p1=1098
   priority: 900
-- name: KZMB
-  image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?4
-  alt: Husí slavnosti 2019
-  url: http://www.husi-slavnosti.cz/
-  priority: 900
 - name: Prostor
   image: https://i.imgur.com/yHc5BPu.png
   url: https://prostor.wtf
