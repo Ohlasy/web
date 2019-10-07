@@ -1,8 +1,3 @@
-- name: Jazz Q
-  image: https://i.imgur.com/0u9bzMx.png
-  alt: Martin Kratochvíl a Jazz Q
-  url: https://www.facebook.com/events/2495298957184302/
-  priority: 1000
 - name: Ohlasy naživo
   image: https://i.imgur.com/6U1hJHJ.png
   alt: "Ohlasy naživo: Debata s Petrem Ondráčkem"
