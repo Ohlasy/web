@@ -21,3 +21,7 @@ Kód je uvolněn pod [licencí MIT](https://opensource.org/licenses/MIT). Na tex
 ### data.ohlasy.info
 
 Úložiště větších dat, například příloh, záznamů a podobně. AWS S3 + AWS CloudFront kvůli HTTPS.
+
+### forum.ohlasy.info
+
+Virtuální server u [Digital Ocean](https://digitalocean.com), ručně instalovaná instance [Discourse](https://www.discourse.org).
