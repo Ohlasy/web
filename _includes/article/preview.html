@@ -2,11 +2,7 @@
 <div class="article-preview article-preview-middle {{ include.class }}">
     <a href="{{ article.url }}">
         <div class="force-hd-aspect">
-            {% if article.cover-photo %}
-            <img src="{{ article.cover-photo }}" class='img-responsive' alt="titulní fotka článku">
-            {% else %}
-            <img src="/img/generic.png" class='img-responsive' alt="logo Ohlasů">
-            {% endif %}
+            <img src="{{ article.cover-photo | thumb_url }}" class='img-responsive' alt="titulní fotka článku">
         </div>
         {% if article.category == 'názory a komentáře' %}
             <h2>{{ article.title }}<br><span class="text-danger">{{ article.author }}</span></h2>

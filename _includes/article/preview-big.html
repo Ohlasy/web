@@ -20,7 +20,7 @@
             </div>
             <div class="col-sm-8">
                 <!-- This is a slight hack required by the imperfect browser support for the object-fit CSS property. -->
-                <div class="force-feature-aspect" style="background-image: url({{ article.cover-photo }});"></div>
+                <div class="force-feature-aspect" style="background-image: url({{ article.cover-photo | thumb_url }});"></div>
             </div>
         </a>
     </div>
