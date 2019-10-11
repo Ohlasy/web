@@ -9,7 +9,8 @@ module Jekyll
         end
         def render(context)
             alt = @alt ? @alt : @caption
-            output = "<img src=\"#{@src}\" alt=\"#{alt}\" class=\"img-responsive img-popup\">"
+            server_base = "https://thumbs-cdn.ohlasy.info/TODO/fit"
+            output = "<img srcset=\"#{server_base}/3000/9999/sm/0/plain/#{@src} 3000w, #{server_base}/2000/9999/sm/0/plain/#{@src} 2000w, #{server_base}/1000/9999/sm/0/plain/#{@src} 1000w, #{server_base}/500/9999/sm/0/plain/#{@src} 500w\" src=\"#{@src}\" alt=\"#{alt}\" class=\"img-responsive img-popup\">"
             if @caption && @author
                 output += "<span class=\"img-meta\">#{@caption} <span class=\"img-author\">  foto: #{@author}</span></span>"
             elsif @caption
