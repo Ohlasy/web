@@ -1,14 +1,14 @@
 ---
 title: Krrrál rrrozkoše odplul na výletním parrrníčku do nekonečna
 perex: Zemřel zpěvák, hudebník a showman, kterého mnozí občané Boskovic osobně pamatují jako Daniela Konečného, po celé republice byl ovšem známý jako Daniel Nekonečný.
-cover-photo: https://i.imgur.com/AQ0q8i5l.jpg
+cover-photo: https://i.ohlasy.info/AQ0q8i5l.jpg
 author: Jan Bařinka
 category: názory a komentáře
 ---
 
 *V úterý dopoledne nás zastihla smutná zpráva. Zemřel zpěvák, hudebník a showman, kterého mnozí občané Boskovic osobně pamatují jako Daniela Konečného, po celé republice byl ovšem známý pod uměleckým jménem Daniel Nekonečný. Zajímavé je, že v rodných Boskovicích nejspíš nikdy nevystupoval, nebo o tom alespoň nevím. Na Boskovice – a především na pávy v zámecké zahradě – ovšem občas někde zavzpomínal.*
 
-{% photo src="https://i.imgur.com/AQ0q8i5.jpg" author="Archiv Tomáše Znamenáčka" %}
+{% photo src="https://i.ohlasy.info/AQ0q8i5.jpg" author="Archiv Tomáše Znamenáčka" %}
 
 První, co na jeho jevištní personě diváky a posluchače upoutalo, musel být nejspíš jeho excentrický projev a extravagantní zjev. Tomáš Steiner ve svém statusu píše, že dadaistickými bláznivinami plnými barev Daniel Nekonečný oslňoval už v osmdesátých letech, kdy prý taková hudba byla vlastně taky na pomezí undergroundu, i když v kontrastu s vážně míněným a těžkomyslným proudem. A že to tehdy ještě nebyla taková komerce.
 

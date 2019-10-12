@@ -1,7 +1,7 @@
 ---
 title: Město chystá levnější svoz odpadu pro ty, co třídí
 perex: Boskovice už přibližně za půl roku chtějí spustit motivační systém pro třídění odpadů. Zapojení do systému bude dobrovolné, nicméně domácnosti, které se do něj přidají, získají slevu z poplatku za odpad.
-cover-photo: https://i.imgur.com/QLpaVmMl.jpg
+cover-photo: https://i.ohlasy.info/QLpaVmMl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: odpady
@@ -9,7 +9,7 @@ tags: odpady
 
 *Boskovice už přibližně za půl roku chtějí spustit motivační systém pro třídění odpadů. Zapojení do systému bude dobrovolné, nicméně domácnosti, které se do něj přidají, získají slevu z poplatku za odpad. Bude záležet mimo jiné na tom, jaké množství odpadu vytvoří a kolik ho vytřídí.*
 
-{% photo src="https://i.imgur.com/QLpaVmM.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/QLpaVmM.jpg" author="Tomáš Znamenáček" %}
 
 Kromě bankovního účtu nebo účtu v knihovně si bude zájemce brzy moci u města zřídit účet na odpad. Doma na odpad vyčlení tři nádoby, jednu na papír, druhou na plast a třetí na klasický komunální odpad. Od boskovické radnice pak získá unikátní kódy, které se po nalepení na nádoby propojí do vznikajícího datového centra.
 

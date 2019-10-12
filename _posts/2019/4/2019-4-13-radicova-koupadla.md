@@ -1,6 +1,6 @@
 ---
 title: Jak vypadá Radićův návrh Koupadel a co zaznělo v debatě?
-cover-photo: https://i.imgur.com/n3i0Jpvl.jpg
+cover-photo: https://i.ohlasy.info/n3i0Jpvl.jpg
 perex: Chilský architekt Smiljan Radić představil v pátek odpoledne v boskovickém zámeckém skleníku nejprve své různé minulé práce a poté i studii, ve které navrhl dům pro zastavění proluky U Koupadel.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: architektura
 
 *[Chilský architekt Smiljan Radić](http://www.ohlasy.info/clanky/2018/10/rozhovor-radic.html) představil v pátek odpoledne v boskovickém zámeckém skleníku nejprve své různé minulé práce [a poté i studii](http://data.ohlasy.info/2019/koupadla.pdf), ve které navrhl dům pro zastavění proluky U Koupadel. Jedná se o budovu s podzemním parkovištěm, veřejným prostorem v přízemí, prvním patrem pro bydlení a skautské klubovny a nakonec střešním prostorem s parkem. Na setkání byl k dispozici i urbanistický model zasazující dům do okolní zástavby a dřevěný model budovy. Po představení architekta následovala debata, přinášíme přepis zajímavých vyjádření.*
 
-{% photo src="https://i.imgur.com/3bvutTF.jpg" caption="Vizualizace, pohled od farské zahrady" author="Smiljan Radić" %}
+{% photo src="https://i.ohlasy.info/3bvutTF.jpg" caption="Vizualizace, pohled od farské zahrady" author="Smiljan Radić" %}
 
 LUKÁŠ HOLÍK (MÍSTOSTAROSTA ZA ANO): Dnes jsme se tady sešli kvůli velké události pro budoucí Boskovice. Uvidíme, jak se bude projekt posouvat a jak ho lidé tady v Boskovicích budou chápat a podporovat, nebo nepodporovat. Věřím tomu, že určitě podporovat. Projekty, které vznikají, jsou nadčasové – chtěl bych říct, abychom je hned v prvním okamžiku neshodili, ale pokud chceme být futuristické město a smart city, tak abychom naslouchali odborníkům a šli tímto směrem.
 
@@ -19,7 +19,7 @@ Poslední myšlenka byla umístit sem stavbu, která bude kompaktní a z ulice b
 
 Pavilon má pravidelný tvar, ale přizpůsobuje se nepravidelnostem židovských budov, které jsou zde tradiční. Celá stavba je z betonu barveného do kávového odstínu. Bylo pro mě důležité nezakrýt atmosféru, kterou má to místo teď. Aby bylo vidět z jedné ulice na druhou, aby zde zůstala vzdušnost.
 
-{% photo src="https://i.imgur.com/kbw6Som.jpg" caption="Vizualizace přízemního patra, pohled směrem k ulici Antonína Trapla" author="Smiljan Radić" %}
+{% photo src="https://i.ohlasy.info/kbw6Som.jpg" caption="Vizualizace přízemního patra, pohled směrem k ulici Antonína Trapla" author="Smiljan Radić" %}
 
 MILOŠ PACHL: Spousta vašich děl je velice povedených, navrhované objekty mimo historická města jsou opravdu trefné, kvalitní, nadčasové a zaslouží si vysoké uznání. Co se týče Boskovic, musím ale za sebe říct, že tak jako spoustě špičkových sportovců se některé turnaje nepodaří, bojím se i tady, že to je jakási prohra. Inspiroval jste se farskou zahradou, okolní přírodou, bohužel nikde nevidím inspirace tou danou lokalitou – co je tradiční, jaké jsou zde tradiční materiály a tak dále. Je to můj názor, jinak děkuji za váš přínos, bude kolem toho určitě obrovská diskuse. Možná to může být příklad, jak nejít touto cestou.
 
@@ -27,7 +27,7 @@ JIŘÍ PEVNÝ: Mám absolutně opačný názor. Už před několika lety jsem vi
 
 NÁVŠTĚVNICE: Od patnácti let jsem z Boskovic pryč a architekturou se nezabývám, jsem zubařka. Ale tento projekt se mi strašně líbí a byla bych velice ráda, kdyby se to tady uskutečnilo. Přijde mi, že v České republice mají někdy lidé klapky na očích. Kolik bylo názorů proti Tančícímu domu v Praze – a je nádherný, nábřeží úplně povznesl. Tady je to průchozí, nahoře zahrada, příroda nám tolik chybí a pan architekt dokázal, že na střeše můžou být stromy. To je můj názor, jsem úplně unešená.
 
-{% photo src="https://i.imgur.com/ORBe7gn.jpg" caption="Model domu, pohled od kašny" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/ORBe7gn.jpg" caption="Model domu, pohled od kašny" author="Tomáš Znamenáček" %}
 
 SMILJAN RADIĆ (ARCHITEKT): Když lidé mluví o takové nové stavbě, obvykle se zabývají především formou. Tím, co je zvenku vidět. Pro mě je skoro důležitější představit si, jak místo vypadalo v minulosti – ne vzhledově, ale to, co se v něm dělo. Mluvím o tom, že v blízkosti existovaly dřevěné domy a že se dají využít piloty, na kterých dům stojí a které projasňují pohled přes budovu. Bylo by z mojí strany poměrně neslušné kopírovat to, co už tady máte. To, co můžu udělat, je pozvat vás k tomu, jak by to tady mohlo vypadat v budoucnosti, nemyslím si, že by to bylo něco, čím bych narušoval řád města. V tomto spočívá současná architektura.
 
@@ -43,7 +43,7 @@ LEOPOLD NĚMEC: Možná do toho vnesu trochu emocí, nejsem architekt ani stava�
 
 SMILJAN RADIĆ (ARCHITEKT): Je pro mě velice důležité slyšet vaše názory. Takto projekt představuji nějaké komunitě podruhé. Poprvé to bylo pro lidi z poměrně chudé čtvrti v Chile. Je zajímavé, jak se otázky liší. Je poznat, že architektura je nakonec věcí společenskou, nikoliv autoritativní. Je pro mě velmi produktivní slyšet vaše názory, které se týkají projektu. Děkuji.
 
-{% photo src="https://i.imgur.com/qQpr6Vr.jpg" caption="Smiljan Radić se zastupitelkou Kristýnou Znamenáčkovou, která setkání tlumočila" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/qQpr6Vr.jpg" caption="Smiljan Radić se zastupitelkou Kristýnou Znamenáčkovou, která setkání tlumočila" author="Tomáš Znamenáček" %}
 
 JIŘÍ PEVNÝ: Jaké ohlasy byly na projekt na [přednášce pana architekta Radiće v Praze](https://www.facebook.com/events/336570493652886/)?
 
@@ -53,7 +53,7 @@ LADISLAV KUBA (ARCHITEKT): S panem Radićem jsme se setkali už na výstavě v �
 
 MILOŠ PACHL: Já také nejsem zastáncem toho, aby se v historických jádrech měst dělaly repliky. To se většinou velmi nepovede. Ano, v historických jádrech může být moderní architektura, ale měla by být nenápadná. Taková, aby neupozorňovala na sebe. Nechci říct, že když člověk přijde do dané lokality, tak si jí ani nevšimne; bude ji vnímat, ale i s tou autentickou původní architekturou, bude se to doplňovat, ta moderní architektura to nebude přebíjet. Bojím se, že zde U Koupadel je to velký objekt, který původní architekturu upozadí – obecní dům, koupadla, dvě fabriky.
 
-{% photo src="https://i.imgur.com/ER1a6xf.jpg" caption="Model Koupadel vytisknutý na 3D tiskárně" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/ER1a6xf.jpg" caption="Model Koupadel vytisknutý na 3D tiskárně" author="Tomáš Znamenáček" %}
 
 ZDENĚK FRÁNEK (MĚSTSKÝ ARCHITEKT): S tím projektem je třeba se dlouho seznamovat. Je to věc, která je velmi citlivá a pan architekt na ní pracoval dlouhou dobu a to místo studoval. Neglorifikuji to z toho důvodu, že to dělal slavný architekt, mě ten návrh překvapil. Čekal jsem ten objekt rozčleněný do více hmot. Koukám na to půl roku a ten objekt je neuvěřitelně vrostlý do toho místa. Když se podíváte na ten bílý model, tak všechny domy jsou o několik metrů vyšší.
 

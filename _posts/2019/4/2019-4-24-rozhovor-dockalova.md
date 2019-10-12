@@ -1,7 +1,7 @@
 ---
 title: „Jsem takový poloviční popelář.“
 perex: Na sever od Boskovic už nejezdí popeláři firmy Suez, ale obce si od ledna sváží odpady samy, vlastními auty. Vypověděly Suezu i „nevypověditelné“ smlouvy z 90. let a založily společnost Technické služby Malá Haná, kterou vede starostka Sudic Olga Dočkalová.
-cover-photo: https://i.imgur.com/LoQlazil.jpg
+cover-photo: https://i.ohlasy.info/LoQlazil.jpg
 author: Marek Osouch
 category: rozhovory
 tags: odpady politika
@@ -9,7 +9,7 @@ tags: odpady politika
 
 *Na sever od Boskovic už nejezdí popeláři firmy Suez, ale obce si od ledna sváží odpady samy, vlastními auty. Vypověděly Suezu i takzvané „nevypověditelné“ smlouvy z 90. let a založily společnost Technické služby Malá Haná. Ta od letošního července spouští plošný systém třídění odpadu v domácnostech známý jako door-to-door. V čele firmy stojí starostka Sudic Olga Dočkalová.*
 
-{% photo src="https://i.imgur.com/LoQlazi.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/LoQlazi.jpg" author="Marek Osouch" %}
 
 **Pětadvacet obcí regionu včetně Sudic vypovědělo dlouholeté smlouvy nadnárodní firmě Suez na svoz odpadu a začaly si odpad svážet samy. Jak se tato myšlenka vůbec zrodila?**
 
@@ -107,7 +107,7 @@ Zatím to necháme, jak je to dnes. My jsme nezdražili, vycházeli jsme z cen S
 
 U systému door-to-door bude možné kovový odpad dávat do žluté popelnice s plasty, to se pak už lehce roztřídí. Jezdit pro pár plechovek by bylo drahé. Samozřejmě je to myšleno na obaly, nikoli, že tam někdo vyhodí roli pletiva. Sklo pak zůstane na těch třídících místech v obci jako dnes. Přemýšleli jsme, že by i sklo mohli lidé do budoucna třídit i doma, ale aktuálně se tím nezabýváme.
 
-{% photo src="https://i.imgur.com/vd8VUNj.jpg" author="Olga Dočkalová" %}
+{% photo src="https://i.ohlasy.info/vd8VUNj.jpg" author="Olga Dočkalová" %}
 
 **Když jste mluvila o tom, že všichni hledají smlouvy – to myslíte těch čtyřicet obcí, které byste od příštího roku měli pod sebou mít?**
 

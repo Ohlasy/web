@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Veřejná diskuse o hale či nové koše na náměstí"
-cover-photo: https://i.imgur.com/vVRWSaul.jpg
+cover-photo: https://i.ohlasy.info/vVRWSaul.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika odpady
@@ -8,7 +8,7 @@ tags: politika odpady
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci července. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři starosty Jaroslava Dohnálka (ODS) z tiskové konference.*
 
-{% photo src="https://i.imgur.com/vVRWSau.jpg" caption="Přemístěné stání kontejnerů u Vážné studny" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/vVRWSau.jpg" caption="Přemístěné stání kontejnerů u Vážné studny" author="Tomáš Trumpeš" %}
 
 ### Nové koše na náměstí
 

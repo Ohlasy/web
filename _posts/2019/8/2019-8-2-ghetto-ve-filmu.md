@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Židovská čtvrť ve filmu"
-cover-photo: https://i.imgur.com/pT2ZYe7l.jpg
+cover-photo: https://i.ohlasy.info/pT2ZYe7l.jpg
 perex: Boskovice se pro svůj nevšední půvab a řadu fotogenických objektů stávají často lákadlem filmařů. Řeč nebude dnes o dokumentech, podíváme se dnes na tvorbu hranou – filmovou i televizní, v níž naše město sehrálo významnou roli.
 author: Helena Janíková
 category: seriály
@@ -12,7 +12,7 @@ tags:
 
 *Boskovice se pro svůj nevšední půvab a řadu fotogenických objektů stávají často lákadlem filmařů. Řeč nebude dnes o dokumentech, kterých vzniklo a vzniká stále plno, ať už samostatně nebo jako součást určitých cyklů, jako je třeba Toulavá kamera, Hádanky domů života či naposledy Cyklotoulky. Podíváme se dnes na tvorbu hranou – filmovou i televizní, v níž naše město sehrálo významnou roli.*
 
-{% photo src="https://i.imgur.com/pT2ZYe7.jpg" caption="Píseň o lítosti" author="archiv Dušana Kleina" %}
+{% photo src="https://i.ohlasy.info/pT2ZYe7.jpg" caption="Píseň o lítosti" author="archiv Dušana Kleina" %}
 
 Jen namátkou připomenu snímky, které byly natočeny alespoň zčásti na boskovickém hradě, což byl třeba Jakubiskův film Pehavý Max a strašidlá. Představte si, moji milí čtenáři, že jsem tenkrát hrála v komparzu a oni mě pak vystřihli! Dodnes jsem to panu Jakubiskovi neodpustila. Na hradě se natáčela někdy na počátku 90. let také pohádka Sedmero krkavců režiséra Ludvíka Ráži. Zámek Boskovice se zase stal dějištěm například krátké povídky Chirurgie podle Vladislava Vančury a také se zde točily některé scény pohádky O pokladech; no a westernové městečko Boskovice poskytlo svůj areál pro film Westernstory režiséra Vlastimila Pešky.
 

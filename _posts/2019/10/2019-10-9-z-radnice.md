@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: Úpravy zeleně, mapa investičních akcí či park u kostelíka"
 perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku října.
-cover-photo: https://i.imgur.com/ojOYnLNl.jpg
+cover-photo: https://i.ohlasy.info/ojOYnLNl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku října. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.imgur.com/ojOYnLN.jpg" caption="Kostelík Všech Svatých" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/ojOYnLN.jpg" caption="Kostelík Všech Svatých" author="Tomáš Trumpeš" %}
 
 ### Úpravy zeleně do konce roku
 

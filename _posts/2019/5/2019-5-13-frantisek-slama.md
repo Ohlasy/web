@@ -1,7 +1,7 @@
 ---
 title: „Chtěli jsme Boskovice pozvednout.“
 perex: Získal dosud nepřekonaný počet více než 1800 preferenčních hlasů v komunálních volbách, na postu starosty Boskovic však tehdy pětapadesátiletý František Sláma nevydržel ani rok. Z politiky se v roce 1995 úplně stáhl a nikdy už se do ní nevrátil.
-cover-photo: https://i.imgur.com/D2GcoMWl.jpg
+cover-photo: https://i.ohlasy.info/D2GcoMWl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika historie
@@ -9,7 +9,7 @@ tags: politika historie
 
 *Získal dosud nepřekonaný počet více než 1800 preferenčních hlasů v komunálních volbách, na postu starosty Boskovic však tehdy pětapadesátiletý František Sláma nevydržel ani rok. Z politiky se v roce 1995 úplně stáhl a nikdy už se do ní nevrátil. Dění na boskovické radnici ovšem stále sleduje a redakce Ohlasů s ním teď mluvila po takřka čtvrt století od jeho odchodu z radnice.*
 
-{% photo src="https://i.imgur.com/D2GcoMW.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/D2GcoMW.jpg" author="Marek Osouch" %}
 
 K rezignaci byl František Sláma donucen kvůli svým problémům z minulosti. Krajský soud v Brně nad ním v říjnu 1995 vynesl pravomocný verdikt, že se dopustil zneužití pravomoci veřejného činitele. Podle soudu sám sobě nechal schválit a vyplatit v roce 1992 odměnu 7 500 korun jakožto šéf okresního úřadu, přestože o ní mohl rozhodnout jen nadřízený orgán, kterým bylo ministerstvo vnitra. Nepomohlo ani to, že peníze následně vrátil.
 

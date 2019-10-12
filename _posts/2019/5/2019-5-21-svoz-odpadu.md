@@ -1,6 +1,6 @@
 ---
 title: Technické služby Malá Haná se rozšíří o Letovice a okolí
-cover-photo: https://i.imgur.com/vd8VUNjl.jpg
+cover-photo: https://i.ohlasy.info/vd8VUNjl.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: odpady

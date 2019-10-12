@@ -1,6 +1,6 @@
 ---
 title: Jak jsme vyhráli svůj první soud
-cover-photo: https://i.imgur.com/0Q6pQDpl.jpg
+cover-photo: https://i.ohlasy.info/0Q6pQDpl.jpg
 perex: Téměř dvouletý příběh našeho soudního sporu s Nemocnicí Boskovice je u konce – před čtrnácti dny brněnský krajský soud rozhodl v náš prospěch, rozsudek už nabyl právní moci.
 author: Tomáš Znamenáček
 category: názory a komentáře
@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Téměř dvouletý příběh našeho soudního sporu s Nemocnicí Boskovice je u konce – před čtrnácti dny brněnský krajský soud rozhodl v náš prospěch, rozsudek už nabyl právní moci. Okolnosti sporu jsou složitější a podrobně si je můžete přečíst v [našem původním komentáři](http://www.ohlasy.info/clanky/2017/08/nemocnice-soud.html), ale stručně řečeno jde o to, že když nemocnice hospodaří s veřejnými penězi, musí s nimi hospodařit transparentně. Konkrétně musí respektovat, že se na ni vztahuje [zákon číslo 106](https://www.zakonyprolidi.cz/cs/1999-106) o svobodném přístupu k informacím a pokud kdokoliv jeho prostřednictvím žádá o informace (v našem případě výsledky auditu), měl by je dostat, nejsou-li vážné, zákonem jasně definované důvody proti.*
 
-{% photo src="https://i.imgur.com/0Q6pQDp.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/0Q6pQDp.jpg" author="Tomáš Znamenáček" %}
 
 Boskovická nemocnice se této povinnosti bránila s tím, že je soukromou obchodní společností, nikoliv veřejnou institucí. Brněnský soud ovšem [jednoznačně potvrdil](http://data.ohlasy.info/2019/nemocnice-infozakon-rozsudek-podrobny.pdf) to, co jiné soudy v mnoha podobných případech před ním: Pokud je instituce zřizovaná městem ve veřejném zájmu, jedná se o veřejnou instituci bez ohledu na právní formu. Jinými slovy je úplně jedno, jestli jde o „eseróčko“, akciovou společnost nebo třeba příspěvkovou organizaci, podstatná je logika věci.
 

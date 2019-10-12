@@ -1,6 +1,6 @@
 ---
 title: Jak to vidí opozice
-cover-photo: https://i.imgur.com/zMlmSmJl.jpg
+cover-photo: https://i.ohlasy.info/zMlmSmJl.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ČSSD, Pirátů, KDU-ČSL a KSČM.*
 
-{% photo src="https://i.imgur.com/zMlmSmJ.jpg" caption="Služebna boskovické městské policie" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/zMlmSmJ.jpg" caption="Služebna boskovické městské policie" author="Tomáš Trumpeš" %}
 
 **1) Vyvíjí se nějak váš pohled na umístění a stavbu sportovní haly? Budete ochotni případně podpořit i jinou variantu, než je Červená zahrada? Připadá vám některá z variant Hybešova a Sušilova lepší?**
 

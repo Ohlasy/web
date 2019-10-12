@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Daktylogramy Víta Ondráčka"
-cover-photo: https://i.imgur.com/MebWrWSl.jpg
+cover-photo: https://i.ohlasy.info/MebWrWSl.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

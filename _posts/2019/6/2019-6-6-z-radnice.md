@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: hospodaření nemocnice, dokončení CPV, o hale v září"
-cover-photo: https://i.imgur.com/8CHwZGgl.jpg
+cover-photo: https://i.ohlasy.info/8CHwZGgl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci května. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.imgur.com/8CHwZGg.jpg" caption="Dokončený amfiteátr u centra polytechnické výchovy" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/8CHwZGg.jpg" caption="Dokončený amfiteátr u centra polytechnické výchovy" author="Tomáš Trumpeš" %}
 
 ### Efektivní veřejná správa
 

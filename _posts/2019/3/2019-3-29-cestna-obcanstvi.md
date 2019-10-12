@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Čestné občanství"
 perex: „Čestné měšťanství neb občanství… udělují obce osobám, jež obzvláště poctíti chtějí, bez všelikých závazků, co právo čestné,“ praví Riegrův Slovník naučný. V Boskovicích se této pocty jako prvnímu dostalo boskovickému rodákovi Petru Bílkovi.
-cover-photo: https://i.imgur.com/khQRPa9l.jpg
+cover-photo: https://i.ohlasy.info/khQRPa9l.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar
@@ -10,7 +10,7 @@ tags: historie
 
 *„Čestné měšťanství neb občanství… udělují obce osobám, jež obzvláště poctíti chtějí, bez všelikých závazků, co právo čestné,“ praví Riegrův Slovník naučný. Boskovice udělují čestné občanství od roku 1863, kdy se jako prvnímu této pocty dostalo boskovickému rodákovi, žijícímu v té době ovšem ve Vídni, Petru Bílkovi.*
 
-{% photo src="https://i.imgur.com/khQRPa9.jpg" author="Muzeum Regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/khQRPa9.jpg" author="Muzeum Regionu Boskovicka" %}
 
 Institut čestného občanství byl zakotven v legislativě, podmínkou bylo, aby dotyčný měl rakouské občanství a udělení občanství bylo schváleno dvoutřetinovou většinou všech členů výboru. Čestní občané měli v dané obci volební právo. V současné době udělení čestného občanství upravuje § 36 (1) zákona č. 128/2000 o obcích (obecní zřízení), a to tak, že obec může udělit čestné občanství obce fyzickým osobám, které se například významnou měrou zasloužily zejména o rozvoj obce; odůvodnění pro „udělení čestného občanství obce je vždy věcí úvahy orgánu, kterému přísluší rozhodovat o jeho udělení“. Čestný občan obce má právo vyjadřovat na zasedání zastupitelstva obce svá stanoviska v souladu s jednacím řádem zastupitelstva obce. Podobně jako obce udělovaly čestné členství i spolky; v současné době nežije žádný z čestných občanů Boskovic.
 

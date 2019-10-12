@@ -1,7 +1,7 @@
 ---
 title: Nejsme tak malí a chudí, jak se tváříme
 perex: Skončily volby do Evropského parlamentu. Můžeme přemýšlet o tom, co pro nás myšlení na evropské úrovni vlastně znamená. Třeba pro nás v Boskovicích.
-cover-photo: https://i.imgur.com/CEqs0bPl.jpg
+cover-photo: https://i.ohlasy.info/CEqs0bPl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 
@@ -9,7 +9,7 @@ category: názory a komentáře
 
 *Skončily volby do Evropského parlamentu. Ve chvíli, kdy píšu tento komentář, ale ještě neznáme výsledky, protože musíme čekat, až se uzavře poslední volební místnost v celé Evropské unii. Zatím můžeme přemýšlet třeba o tom, co pro nás myšlení na evropské úrovni vlastně znamená. Třeba pro nás v Boskovicích.*
 
-{% photo src="https://i.imgur.com/CEqs0bP.jpg" caption="Boskovické letní kino prochází rekonstrukcí" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/CEqs0bP.jpg" caption="Boskovické letní kino prochází rekonstrukcí" author="Tomáš Trumpeš" %}
 
 Z nejrůznější předvolebních debat, komentářů a rozhovorů mě nejvíc zaujala slova, která pronesl [v rozhovoru pro Respekt](https://www.respekt.cz/tydenik/2019/20/zastrelil-bych-svejka?issueId=100400) Jonathan Ledgard, bývalý zpravodaj týdeníku The Economist v Praze. V Čechách žije dodnes, i když už se věnuje jiné profesi, a o Češích říká: „Myslím si, že ani zdaleka nenaplňujete svůj potenciál. Cítím tu dva problémy. Češi si myslí, že jsou malí – to není pravda, malé je třeba Estonsko. Jste středně velkou zemí, srovnatelnou s Nizozemskem. A zadruhé si Češi myslí, že jsou chudí, což samozřejmě také není pravda. Myslím, že právě kvůli těmto mylným představám nemáte moc jasnou představu o tom, jaká je vaše role ve světě. Máte tolik obyvatel jako Švédsko – a teď si srovnejte dopad Švédska a Česka na mezinárodní dění.“
 
