@@ -16,6 +16,8 @@ Fotky nejsou uložené v repository, protože mají stovky a stovky megabajtů, 
 
 Ve výsledku tedy fotky chodí směrem od klienta cestou prohlížeč → CDN (thumbs-cdn.ohlasy.info) → náhledový server (thumbs.ohlasy.info) → CDN (i.ohlasy.info) → S3. Ta poslední CDN (i.ohlasy.info) by asi šla vynechat, ale takhle máme k dispozici i pěkná HTTPS URL k obrázkům v původním rozlišení.
 
+Náhledový server vyžaduje autentizaci, aby ho nemohl používat kdokoliv mimo tohoto webu. Autentizace se dělá kryptografickým podpisem obrázkových URL, viz [dokumentaci imgproxy](https://github.com/imgproxy/imgproxy/blob/master/docs/signing_the_url.md). aby se tenhle podpis správně vygeneroval během překladu, je nutné nastavit proměnné prostředí `IMGPROXY_KEY` a `IMGPROXY_SALT`. (Pokud nastavené nejsou, překlad webu skončí chybou.) Na Netlify jsou oba parametry nastavené.
+
 ## Další servery
 
 ### data.ohlasy.info
