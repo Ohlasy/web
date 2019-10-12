@@ -1,7 +1,13 @@
+require_relative "imgproxy_sign"
+
 module Jekyll
   module ThumbURL
-    def thumb_url(input)
-      "https://thumbs-cdn.ohlasy.info/TODO/fit/640/9999/sm/0/plain/#{input}"
+    def thumb_url(photo_url, size)
+      if photo_url != nil
+        return signed_thumb_url(photo_url, size)
+      else
+        return ""
+      end
     end
   end
 end

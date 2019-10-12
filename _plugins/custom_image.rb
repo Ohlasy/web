@@ -1,3 +1,5 @@
+require_relative "imgproxy_sign"
+
 module Jekyll
     class CustomImageTag < Liquid::Tag
         def initialize(tag_name, markup, tokens)
@@ -9,8 +11,7 @@ module Jekyll
         end
         def render(context)
             alt = @alt ? @alt : @caption
-            server_base = "https://thumbs-cdn.ohlasy.info/TODO/fit"
-            output = "<img srcset=\"#{server_base}/3000/9999/sm/0/plain/#{@src} 3000w, #{server_base}/2000/9999/sm/0/plain/#{@src} 2000w, #{server_base}/1000/9999/sm/0/plain/#{@src} 1000w, #{server_base}/500/9999/sm/0/plain/#{@src} 500w\" src=\"#{@src}\" alt=\"#{alt}\" class=\"img-responsive img-popup\">"
+            output = "<img srcset=\"#{signed_thumb_url(@src, 3000)} 3000w, #{signed_thumb_url(@src, 2000)} 2000w, #{signed_thumb_url(@src, 1000)} 1000w, #{signed_thumb_url(@src, 500)} 500w\" src=\"#{@src}\" alt=\"#{alt}\" class=\"img-responsive img-popup\">"
             if @caption && @author
                 output += "<span class=\"img-meta\">#{@caption} <span class=\"img-author\">  foto: #{@author}</span></span>"
             elsif @caption
