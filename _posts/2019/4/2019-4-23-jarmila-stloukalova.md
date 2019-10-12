@@ -1,7 +1,7 @@
 ---
 title: „Na období na radnici mám jen dobré vzpomínky.“
 perex: Někdejší lidovecká místostarostka Boskovic Jarmila Stloukalová patří k první generaci porevolučních politiků, kteří stáli v čele města v 90. letech. Redakce Ohlasů s ní teď po mnoha letech hovořila.
-cover-photo: https://i.imgur.com/hJExj42l.jpg
+cover-photo: https://i.ohlasy.info/hJExj42l.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika historie
@@ -9,7 +9,7 @@ tags: politika historie
 
 *Dvě volební období seděla na radnici na postu, který patřil od roku 1990 až do loňského podzimu KDU-ČSL. Někdejší lidovecká místostarostka Boskovic Jarmila Stloukalová patří k první generaci porevolučních politiků, kteří stáli v čele města v 90. letech. Redakce Ohlasů s ní teď po mnoha letech hovořila.*
 
-{% photo src="https://i.imgur.com/hJExj42.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/hJExj42.jpg" author="Marek Osouch" %}
 
 „Co vy po mně vlastně chcete? Já už si nic z té doby nepamatuji. Nevím, co bych vám řekla,“ oznamuje hned na začátku našeho setkání bývalá boskovická místostarostka Jarmila Stloukalová. Jenže ve skutečnosti má co sdělit, ačkoliv upozorňuje, že o dění v Boskovicích už toho příliš neví, protože kvůli špatnému zdraví tráví čas téměř pořád doma.
 

@@ -1,6 +1,6 @@
 ---
 title: Obchodní válka USA a Číny dopadá na podniky v regionu
-cover-photo: https://i.imgur.com/gG2vfCul.jpg
+cover-photo: https://i.ohlasy.info/gG2vfCul.jpg
 perex: Nejistotu, klesající zakázky nebo také propouštění zažívají některé z velkých podniků na Boskovicku. Na vině je mimo jiné nižší ekonomický růst Číny způsobený její obchodní válkou se Spojenými státy.
 author: Marek Osouch
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: podnikání
 
 *Nejistotu, klesající zakázky nebo také propouštění zažívají některé z [velkých podniků na Boskovicku](https://ohlasy.info/clanky/2019/03/prehled-firem.html). Na vině je mimo jiné nižší ekonomický růst Číny způsobený obchodní válkou mezi asijskou velmocí a Spojenými státy.*
 
-{% photo src="https://i.imgur.com/gG2vfCu.jpg" caption="Ilustrační foto" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/gG2vfCu.jpg" caption="Ilustrační foto" author="Tomáš Trumpeš" %}
 
 Když se letos v srpnu vrátili zaměstnanci boskovické Minervy po celozávodní dovolené do práce, čekalo na ně nepříjemné překvapení. Jejich mateřská německá společnost Dürkopp Adler jim oznámila, že bude mít pro Minervu méně zakázek, než se na letošek plánovalo.
 

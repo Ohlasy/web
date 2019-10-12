@@ -1,3 +1,4 @@
 --ignore-dir=_site
 --ignore-dir=node_modules
 --ignore-dir=.gems
+--ignore-dir=.jekyll-cache

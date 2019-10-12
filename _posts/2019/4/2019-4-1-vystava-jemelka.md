@@ -1,6 +1,6 @@
 ---
 title: Otec Špidlík, interpret moderního umění
-cover-photo: https://i.imgur.com/cvZBJ8kl.jpg
+cover-photo: https://i.ohlasy.info/cvZBJ8kl.jpg
 perex: "V Galerii Otakara Kubína byla v sobotu 23. března zahájena výstava s názvem Slovo a obraz: Otec Špidlík, interpret moderního umění. Přečtěte si úvodní slovo Pavla Ambrose."
 author: Pavel Ambros
 category: názory a komentáře
@@ -10,7 +10,7 @@ tags: kultura
 
 *V Galerii Otakara Kubína byla v sobotu 23. března zahájena výstava s názvem Slovo a obraz: Otec Špidlík, interpret moderního umění. Autorem výstavy je Jan Jemelka, výstava je další z akcí věnovaných 100. výročí narození Tomáše kardinála Špidlíka a potrvá do soboty 13. dubna, kdy proběhne v 15 hodin zakončení s videoprojekcí Krásné slovo Otce Špidlíka. Úvodní slovo na vernisáži pronesl ředitel Centra Aletti v Olomouci Pavel Ambros, jehož úvahu jako pozvánku na výstavu publikujeme.*
 
-{% photo src="https://i.imgur.com/cvZBJ8k.jpg" author="Vladimír Friš" %}
+{% photo src="https://i.ohlasy.info/cvZBJ8k.jpg" author="Vladimír Friš" %}
 
 Vykládat moderní umění – tlumočit obrazy do jazyka a slova – to si nějak představit umíme. Ospravedlnit jej v jeho samotné podstatě je oříšek jiný. Ospravedlnit neznamená přijít s nějakou novou teorií, která se pokouší objasnit fakta. Znamená vstoupit do samotné existence umění – a rovněž do srdce umělce. Je zde svět a srdce: to je dílna, kde umělec tvoří. Srdce každého člověka, podobně jako vesmír, jsou nekonečně veliké a nekonečně malé. A v této nepatrnosti a v této propastné velikosti je tajemství umělcovy dílny. 
 

@@ -1,22 +1,24 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fecaf98d-dab6-4ca9-9dbf-6e1ce8fbeaf4/deploy-status)](https://app.netlify.com/sites/ohlasy/deploys)
-
 ## Licencování
 
 Kód je uvolněn pod [licencí MIT](https://opensource.org/licenses/MIT). Na texty článků se vztahuje licence [Creative Commons BY–NC–ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) – stručně řečeno je můžete volně šířit, ale pouze pokud odkážete na jejich zdroj, nebudete je nijak měnit a nebudete je využívat komerčně.
 
-## Technická infrastruktura
+## Technické řešení
 
-### www.ohlasy.info
+Web je statický, hostovaný na [Netlify](https://www.netlify.com) a generovaný pomocí [Jekylla](http://jekyllrb.com). Zde je uložené pouze HTML a související data, zejména tedy nikoliv fotky a větší data.
 
-* Samotný web, statická stránka hostovaná přes [Netlify](https://www.netlify.com). Pouze HTML a související data, zejména tedy nikoliv fotky a větší data.
+Po pushnutí nového commitu na GitHub (nebo úpravě souboru přes webové rozhraní GitHubu) se spustí Netlify a postará se o přeložení a nasazení nové verze webu:
 
-* O generování webu z podkladů se stará [Jekyll](http://jekyllrb.com). Související soubory: [\_config.yml](https://github.com/Ohlasy/web/blob/gh-pages/_config.yml) a myslím že všechny adresáře začínající podtržítkem.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fecaf98d-dab6-4ca9-9dbf-6e1ce8fbeaf4/deploy-status)](https://app.netlify.com/sites/ohlasy/deploys)
 
-* Po pushnutí nového commitu na GitHub (nebo úpravě souboru přes webové rozhraní GitHubu) se spustí Netlify a postará se o přeložení a nasazení nové verze webu.
+## Fotky
 
-### i.ohlasy.info
+Fotky nejsou uložené v repository, protože mají stovky a stovky megabajtů, což by nefungovalo dobře. Plné rozlišení je uložené v AWS S3 a klientům nabízíme několik různých menších rozlišení, které pak generujeme/konvertujeme za běhu ([imgproxy](https://github.com/imgproxy/imgproxy) u Digital Ocean) a kešujeme (AWS CloudFront).
 
-Úložiště fotek, AWS S3 + AWS CloudFront kvůli HTTPS.
+Ve výsledku tedy fotky chodí směrem od klienta cestou prohlížeč → CDN (thumbs-cdn.ohlasy.info) → náhledový server (thumbs.ohlasy.info) → CDN (i.ohlasy.info) → S3. Ta poslední CDN (i.ohlasy.info) by asi šla vynechat, ale takhle máme k dispozici i pěkná HTTPS URL k obrázkům v původním rozlišení.
+
+Náhledový server vyžaduje autentizaci, aby ho nemohl používat kdokoliv mimo tohoto webu. Autentizace se dělá kryptografickým podpisem obrázkových URL, viz [dokumentaci imgproxy](https://github.com/imgproxy/imgproxy/blob/master/docs/signing_the_url.md). aby se tenhle podpis správně vygeneroval během překladu, je nutné nastavit proměnné prostředí `IMGPROXY_KEY` a `IMGPROXY_SALT`. (Pokud nastavené nejsou, překlad webu skončí chybou.) Na Netlify jsou oba parametry nastavené.
+
+## Další servery
 
 ### data.ohlasy.info
 

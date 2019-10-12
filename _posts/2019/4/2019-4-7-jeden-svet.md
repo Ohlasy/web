@@ -1,7 +1,7 @@
 ---
 title: Naděje Jednoho světa
 perex: Festival Jeden svět probíhal uplynulý týden v boskovickém kině. Dokumenty o lidských právech doprovodilo několik zajímavých besed, témata byla různá, příběhy a zpracování mnohdy drsné. Především díky výborným hostům je ale vyznění festivalu jednoznačně pozitivní.
-cover-photo: https://i.imgur.com/39LoZLDl.jpg
+cover-photo: https://i.ohlasy.info/39LoZLDl.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: kultura kino
@@ -9,7 +9,7 @@ tags: kultura kino
 
 *Festival Jeden svět probíhal ve druhé části uplynulého týdne v boskovickém kině Panorama. Projekce dokumentů o lidských právech doprovodilo hned několik zajímavých besed, které moderoval Tomáš Znamenáček. Témata byla různá, vždy naléhavá, příběhy a zpracování mnohdy drsné. Především díky výborným hostům je ale vyznění festivalu jednoznačně pozitivní.*
 
-{% photo src="https://i.imgur.com/39LoZLD.jpg" caption="Hostem debaty na téma dezinformací byl František Trojan z projektu zvolsi.info" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/39LoZLD.jpg" caption="Hostem debaty na téma dezinformací byl František Trojan z projektu zvolsi.info" author="Tomáš Trumpeš" %}
 
 Propadnout beznaději a nedůvěře přitom může být docela snadné, ať už se zabýváte vylhanými zprávami a jejich šířením na internetu, pečujete o osoby s poruchami kognitivních schopností a sledujete, jak jich přibývá, nebo pozorujete zmanipulovaný virtuální svět sociálních sítí.
 

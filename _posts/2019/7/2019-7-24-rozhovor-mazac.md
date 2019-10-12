@@ -1,7 +1,7 @@
 ---
 title: „Špatná není ani jedna z variant. Doufejme, že všichni vyslyší přání sportovců.“
 perex: Rozhovor s místostarostou Radkem Mazáčem (Sportovci). Mluvili jsme o nové sportovní hale, jejíž přípravu má na starosti. V září mají zastupitelé rozhodnout o lokalitě, kde by měla hala stát.
-cover-photo: https://i.imgur.com/OvzVfRSl.jpg
+cover-photo: https://i.ohlasy.info/OvzVfRSl.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika, sport
@@ -9,7 +9,7 @@ tags: politika, sport
 
 *Rozhovor s místostarostou Radkem Mazáčem (Sportovci). Mluvili jsme o nové sportovní hale, jejíž přípravu má na starosti. V září mají zastupitelé rozhodnout o lokalitě, kde by měla hala stát. Co všechno nás ještě čeká před rozhodnutím a jaká je situace v koalici, která připravuje dvě varianty umístění? A jak chce vedení města vybírat architektonickou studii?*
 
-{% photo src="https://i.imgur.com/OvzVfRS.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/OvzVfRS.jpg" author="Tomáš Trumpeš" %}
 
 **Kde a kdy podle vás bude stát sportovní hala v Boskovicích?**
 
@@ -69,7 +69,7 @@ Problematiku jsem konzultoval s panem profesorem Fránkem, on má vytvořený n�
 
 Ano.
 
-{% photo src="https://i.imgur.com/hKZv8Y6.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/hKZv8Y6.jpg" author="Tomáš Trumpeš" %}
 
 ### Všechno chce čas a není to tak jednoduché
 
@@ -131,7 +131,7 @@ Samozřejmě. Ať už rozhodneme o jedné nebo o druhé lokalitě, máme dáno t
 
 Všechno musí schválit městská rada, ale předpokládám, že by se vytvořila komise, která by dala doporučení, ať už radě nebo zastupitelstvu.
 
-{% photo src="https://i.imgur.com/udSoxkY.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/udSoxkY.jpg" author="Tomáš Trumpeš" %}
 
 ### Stojím o podporu všech
 

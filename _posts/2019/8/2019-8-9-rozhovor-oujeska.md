@@ -1,7 +1,7 @@
 ---
 title: „Chtěli jsme školu na bázi oboustranné důvěry.“
 perex: Rozhovor s Monikou Oujeskou, ředitelkou Naší školy ve Velenově. S činorodou maminkou pěti dětí jsme si povídaly o tom, jak funguje škola, kde se nezvoní ani neznámkuje, a jak se dá skloubit zaměstnání s péčí o více dětí.
-cover-photo: https://i.imgur.com/53HvJlVl.jpg
+cover-photo: https://i.ohlasy.info/53HvJlVl.jpg
 author: Martina Vašková
 category: rozhovory
 tags: vzdělávání
@@ -9,7 +9,7 @@ tags: vzdělávání
 
 *Rozhovor s Monikou Oujeskou, ředitelkou Naší školy ve Velenově. Školu, která počítá se čtyřiadvaceti žáky, se místním podařilo obnovit přesně čtyřicet let po jejím uzavření. S činorodou maminkou pěti dětí jsme si povídaly o tom, jak funguje škola, kde se nezvoní ani neznámkuje, a jak se dá skloubit zaměstnání s péčí o více dětí.*
 
-{% photo src="https://i.imgur.com/53HvJlV.jpg" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/53HvJlV.jpg" author="Martina Vašková" %}
 
 **Před dvěma lety jste ve Velenově otevřeli novou malotřídní školu. Proč jste se k tomu rozhodli?**
 
@@ -45,7 +45,7 @@ Ve škole ani nedáváme domácí úkoly. Jen pokud je dítě v nějakém učivu
 
 Vnímám to právě naopak. V okamžiku, kdy je dítě malé a dělá něco s vnitřní motivací a zájmem, ocenění nepotřebuje. Ale jakmile ho odměníme, vnitřní motivace skončí a už se nikdy nevrátí. Dítě už bude vždy jen čekat, co dostane, a nebude jej zajímat, že se může naučit něco nového. A to je typický úkaz ve školách, do nichž se malé dítě velmi těší, a za půl roku už je nebaví. Takže u nás neznámkujeme, vysvědčení si děti vyrábí samy, i když klasické vysvědčení v obálkách rodičům dáváme. Mně nevadí chyby, chci udělat co nejvíc proto, aby vnitřní motivace u dětí zůstala co nejdéle. Protože to prostě chtějí vědět, chtějí to znát. Žáci se pak hodnotí sami. Vidí, že se zlepšují, nebo naopak. A to je podstatné. U nás za chybu nedostanou, diktáty si opravují sami a já se pak ptám, kolik měl kdo chyb. Počty chyb vůbec nekomentuju. Když jsou z nich smutní, nabídnu jim procvičení v dalším cvičení a oni většinou souhlasí. Nedělají to pro mě, ale pro sebe. A pravidla, která v naší škole máme, děti během pár týdnů přijmou za své.
 
-{% photo src="https://i.imgur.com/VVLgRHF.jpg" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/VVLgRHF.jpg" author="Martina Vašková" %}
 
 **A co je pro tebe ve vaší škole to důležitější, s čím by měly děti od vás odcházet?**
 

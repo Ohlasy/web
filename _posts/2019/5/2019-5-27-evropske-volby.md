@@ -1,13 +1,13 @@
 ---
 title: Jak jsme volili v eurovolbách
-cover-photo: https://i.imgur.com/0YDQN9Kl.jpg
+cover-photo: https://i.ohlasy.info/0YDQN9Kl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Volby do Evropského parlamentu jsou za námi. Kromě celostátních výsledků se můžeme podívat, jak volily Boskovice, region, kraj a co nám tato čísla říkají o podpoře jednotlivých stran.*
 
-{% photo src="https://i.imgur.com/0YDQN9K.jpg" caption="Volby do Evropského parlamentu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/0YDQN9K.jpg" caption="Volby do Evropského parlamentu" author="Tomáš Znamenáček" %}
 
 Nejprve si zopakujme celostátní výsledky. Zvítězilo hnutí ANO, jakožto dominantní síla české politiky však tentokrát nedosáhlo oslnivé podpory – volilo je 21 procent voličů a hnutí získalo 6 mandátů. Na druhém místě skončila ODS se 14,5 procenty a ziskem čtyř mandátů. O půl procenta za ODS skončili Piráti, malý rozdíl v procentech však znamená, že Piráti mají europoslance pouze tři. Spojení se vyplatilo uskupením STAN , TOP 09 a dalších menších stran – vyneslo jim přes 11,5 procent a rovněž tři mandáty.
 

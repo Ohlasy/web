@@ -1,6 +1,6 @@
 ---
 title: „Lidi si asi zvykli na to, že je zelenina čerstvá a kvalitní.“
-cover-photo: https://i.imgur.com/tA9BGtzl.jpg
+cover-photo: https://i.ohlasy.info/tA9BGtzl.jpg
 perex: Rozhovor s Jiřím Střížem, vedoucím unikátní prodejny, která nabízí výpěstky z našeho regionu i odborné poradenství týkající se zahrady.
 author: Martina Vašková
 category: rozhovory
@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Jiřím Střížem, vedoucím [Prodejny zahrádkářských potřeb a přebytků v Boskovicích](https://mapy.cz/s/3pjgZ). Prodejna, která je svým způsobem unikátní, nabízí výpěstky z našeho regionu, ale i odborné poradenství týkající se zahrady.*
 
-{% photo src="https://i.imgur.com/tA9BGtz.jpg" caption="Jiří Stříž" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/tA9BGtz.jpg" caption="Jiří Stříž" author="Martina Vašková" %}
 
 **Po zimní pauze máte od února opět otevřeno. Co v prodejně nabízíte?**
 
@@ -52,7 +52,7 @@ Ani vlastně ne. Jsem tu rád, navíc odpočíváme přes zimu, kdy máme dva m�
 
 Určitě. Patří to k naší práci, lidé se hodně ptají. I prodavače jsme vlastně vybírali tak, aby uměli lidem poradit. Mladým se snažíme například doporučit, jaká koupit semena, jak pěstovat zeleninu, aby to bylo ze začátku bylo co nejjednodušší a naučili se to. A ze zkušenými zahrádkáři probíráme konkrétní problémy, které je trápí.
 
-{% photo src="https://i.imgur.com/iKVEWmi.jpg" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/iKVEWmi.jpg" author="Martina Vašková" %}
 
 **Vy jste od roku 2014 vedoucí prodejny, jak jste se k tomu dostal?**
 

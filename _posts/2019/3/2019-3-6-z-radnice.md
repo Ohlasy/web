@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Od programového prohlášení po úklid chodníků"
-cover-photo: https://i.imgur.com/V44Fv6wl.jpg
+cover-photo: https://i.ohlasy.info/V44Fv6wl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.imgur.com/V44Fv6w.jpg" caption="Městský bytový dům na Wolkerově ulici dostal nedávno nový vzhled, nyní město přistoupí k opravě stupaček a elektroinstalace" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/V44Fv6w.jpg" caption="Městský bytový dům na Wolkerově ulici dostal nedávno nový vzhled, nyní město přistoupí k opravě stupaček a elektroinstalace" author="Tomáš Trumpeš" %}
 
 ### Programové prohlášení
 

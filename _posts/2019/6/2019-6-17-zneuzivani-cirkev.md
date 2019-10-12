@@ -1,14 +1,14 @@
 ---
 title: Na mapě sexuálního zneužívání v církvi jsou i Boskovice a Lysice
 perex: Téma sexuálního zneužívání v katolické církvi v poslední době silně rezonuje, a to i díky spolku Pro čistou církev, který vytvořil mapu sexuálního zneužívání církevními pracovníky.
-cover-photo: https://i.imgur.com/jI5Q37Jl.png
+cover-photo: https://i.ohlasy.info/jI5Q37Jl.png
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Téma sexuálního zneužívání v katolické církvi v poslední době silně rezonuje na celosvětové i evropské úrovni. Dosud zamlčované případy se pomalu začínají otevírat i v České republice. Přispívá k tomu také spolek [Pro čistou církev](https://www.procistoucirkev.cz/), který mimo jiné zpracovává [mapu sexuálního zneužívání církevními pracovníky](https://www.procistoucirkev.cz/mapa/). Na té se objevily i Boskovice a Lysice.*
 
-{% photo src="https://i.imgur.com/jI5Q37J.png" caption="Mapa případů sexuálního zneužívání v církvi" author="Pro čistou církev" %}
+{% photo src="https://i.ohlasy.info/jI5Q37J.png" caption="Mapa případů sexuálního zneužívání v církvi" author="Pro čistou církev" %}
 
 „Snažíme se hledat stále nové účinné způsoby, jak obětem sexuálního zneužívání pomoci. Před nedávnem jsme začali odesílat peníze na terapie a protože ze všech těch bolestných vyprávění víme, že největším problémem je strach vyjít se svou zkušeností na světlo, chceme ukázat, že případů zneužívání v církvi je bohužel víc, než jsme čekali,“ uvádějí autoři mapy sexuálního zneužívání v církvi. Jejich cílem je podpořit odvahu obětí. „Doufáme, že díky našim sesbíraným údajům najdou sílu bojovat za spravedlnost, že pozbudou pocitu provinilosti, osamělosti a nebudou se bát o svých traumatech promluvit. Doufáme, že se nám podaří získat důležitá svědectví dalších lidí, aby pachatelé, kteří dosud nebyli potrestáni, nemohli ve své činnosti pokračovat,“ pokračují ve svém vysvětlení. 
 

@@ -1,6 +1,6 @@
 ---
 title: „Kdyby Kubín viděl naši výstavu, tak by ji patrně zakázal.“
-cover-photo: https://i.imgur.com/0WSUkNVl.jpg
+cover-photo: https://i.ohlasy.info/0WSUkNVl.jpg
 perex: Rozhovor s Petrem Ingerlem, kurátorem sbírky kresby a grafiky moderního a současného umění Moravské galerie v Brně. Povídali jsme si zejména o výstavě obrazů Otakara Kubína, kterou pro Muzeum regionu Boskovicka připravil.
 author: Martina Vašková
 category: rozhovory
@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Petrem Ingerlem, kurátorem sbírky kresby a grafiky moderního a současného umění Moravské galerie v Brně. Povídali jsme si zejména o výstavě [Otakar Kubín – Othon Coubine, Boskovice – Paříž – Simiane, 1883–1969](http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266), kterou pro Muzeum regionu Boskovicka Petr Ingerle připravil.*
 
-{% photo src="https://i.imgur.com/OamJ9a7.jpg" caption="Expozice výstavy v boskovickém muzeu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/OamJ9a7.jpg" caption="Expozice výstavy v boskovickém muzeu" author="Tomáš Znamenáček" %}
 
 **Petře, co návštěvníci na výstavě uvidí? S čím jste je chtěli seznámit, jaká je hlavní myšlenka výstavy?**
 
@@ -33,7 +33,7 @@ Interpretuje se to dvěma událostmi. Jednak první světovou válkou a obecným
 
 Ano, v Provence se podruhé oženil, přijal francouzské občanství a svá díla začal podepisovat jako Othon Coubine. Ale hlavně měl obrovský úspěch v umělecké oblasti. Maloval, vystavoval v pařížských galeriích, jeho díla kupovali sběratelé, byl finančně zabezpečen, kritiky o něm psaly pochvalně. Například Leo Stein, původem americký sběratel a starší bratr slavné Gertrudy Stein, si od něj koupil třicet obrazů a byl nadšen, že objevil nějakého neznámého Kubína. Dokonce ve své vzpomínkové knize píše, že Kubín je malíř prostoru, který zde od dob Nicolase Poussina – předního představitele francouzského klasicismu – nebyl. Takhle vysoce ho srovnával a hodnotil.
 
-{% photo src="https://i.imgur.com/gRYmFxW.jpg" caption="Ohyb cesty, 1938" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/gRYmFxW.jpg" caption="Ohyb cesty, 1938" author="Tomáš Znamenáček" %}
 
 **Na výstavě je vlastně i fotografie Kubína u hrobu Leo Steina.**
 
@@ -57,7 +57,7 @@ A během prvního roku, kdy se vrátil do Boskovic, bydlel v rezidenci, kde je d
 
 Společně s architektem výstavy Zbyňkem Baladránem jsme se domluvili, že je odprezentujeme poměrně netradičním způsobem. On nakreslil takovou jako síť, díky níž jsme se snažili vytvořit aluzi (*odkaz, narážku*) na depozitář. A na tuto síť jsme část těchto obrazů navěsili. Protože jsme si říkali, že zrovna tyto obrazy by nesnesly vystavení v tom tradičním galerijním uspořádání.
 
-{% photo src="https://i.imgur.com/BLcMUic.jpg" caption="Jarní krajina, kolem 1920" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/BLcMUic.jpg" caption="Jarní krajina, kolem 1920" author="Tomáš Znamenáček" %}
 
 **Výstava je určitě významná velkým množstvím zapůjčených děl z nejrůznějších galerií, odkud jste obrazy půjčovali?**
 

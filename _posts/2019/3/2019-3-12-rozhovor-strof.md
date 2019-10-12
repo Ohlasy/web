@@ -1,14 +1,14 @@
 ---
 title: „Boskovická brázda je jedna obrovská jedinečná archeologická lokalita.“
 perex: Rozhovor Antonínem Štrofem, kurátorem sbírek letovického muzea, které funguje pod kulturním střediskem od začátku loňského roku.
-cover-photo: https://i.imgur.com/kIjOU5ml.jpg
+cover-photo: https://i.ohlasy.info/kIjOU5ml.jpg
 author: Hynek Skořepa
 category: rozhovory
 ---
 
 *Rozhovor Antonínem Štrofem, kurátorem sbírek letovického muzea, které funguje pod kulturním střediskem od začátku loňského roku. Antonín Štrof se věnuje doslova celý život pravěku Boskovické brázdy. Jeho jméno dnes již neodmyslitelně patří do galerie klasických badatelů v regionu, jako byl učitel, archeolog a krasový badatel Jan Knies či zakladatelé boskovického muzea lékárník [František Lipka](http://www.ohlasy.info/clanky/2017/12/lipka.html), lékař Karel Snětina a učitel František Tichý. Letovické muzeum nemá pouze pěknou expozici, ukazující bohatou historii města i kraje, ale pravidelně pořádá také přednášky a exkurze za poznáním.*
 
-{% photo src="https://i.imgur.com/kIjOU5m.jpg" caption="Antonín Štrof" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/kIjOU5m.jpg" caption="Antonín Štrof" author="Tomáš Trumpeš" %}
 
 **Toníku, jak ses vlastně dostal k archeologii a jak tě přitom ovlivnilo dětství strávené v Bořitově?**
 

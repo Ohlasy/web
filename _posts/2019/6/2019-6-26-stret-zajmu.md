@@ -1,7 +1,7 @@
 ---
 title: Střet zájmů oblečený neoblečený
 perex: U dvou městských zakázek připravovaných firmou spojenou s místní ČSSD našlo ministerstvo pro místní rozvoj chyby v zadávací dokumentaci pro výběrové řízení. Co to přesně znamená?
-cover-photo: https://i.imgur.com/DvlIBPWl.jpg
+cover-photo: https://i.ohlasy.info/DvlIBPWl.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Velký zájem čtenářů vzbudil před dvěma týdny náš článek o dvou problémových městských zakázkách, které připravovala firma spojená s místní ČSSD. V obou případech ministerstvo pro místní rozvoj našlo chyby v zadávací dokumentaci pro výběrové řízení. Co to přesně znamená?*
 
-{% photo src="https://i.imgur.com/DvlIBPW.jpg" %}
+{% photo src="https://i.ohlasy.info/DvlIBPW.jpg" %}
 
 Kdykoliv město potřebuje služby nebo zboží za větší peníze, nemůže je na rozdíl od soukromých osob prostě koupit od prvního dodavatele, který se namane. Abychom omezili příležitost ke korupci a dali férovou příležitost všem dodavatelům, musí město zakázku vysoutěžit: Popíše, o co má zájem, dodavatelé nabídnou, kolik by si za takovou zakázku účtovali, a město z nich vybere toho nejvýhodnějšího.
 
