@@ -4,6 +4,9 @@ cover-photo: https://i.ohlasy.info/eebur4Ie.jpg
 perex: Rozhovor s Jaroslavou Patlokovou, která se už skoro 30 let přátelí s dcerou posledního boskovického rabína Evou Morris, která z Boskovic uprchla před nacisty jako desetileté děvče, z traumatu zapomněla češtinu a až díky „Jari“ Patlokové se jí podařilo navázat se svým rodištěm nové vztahy.
 author: Tomáš Trumpeš
 category: rozhovory
+tags:
+    - židovská čtvrť
+    - historie
 ---
 
 *Rozhovor s Jaroslavou Patlokovou, která se už skoro tři desetiletí přátelí s dcerou posledního boskovického rabína Evou Morris. Navštívila ji znovu na počátku září, převzala v Jeruzalémě městskou cenu – v Českém domě se při té příležitosti konal večer nazvaný V duchu T. G. Masaryka. Toho se účastnili i další potomci boskovických židů. S paní Patlokovou jsme mluvili především o přátelství s Evou Morris, která z Boskovic uprchla před nacisty jako desetileté děvče, z traumatu zapomněla češtinu a až díky „Jari“ Patlokové se jí podařilo navázat se svým rodným městem nové vztahy.*
