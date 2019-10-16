@@ -99,7 +99,7 @@ Sešli jsme se předtím u Evy; když se mě Michael ptal na ten náš první ko
 
 **A jak to dopadlo?**
 
-Byl z toho krásný večer. Byl slavnostní, protože přijeli z České ambasády, ale byl zároveň velmi neformální a přátelský. Přišli tam potomci boskovických židů a přinesli si na to setkání to nejdrahocenější – své vzpomínky. Nejdrahocennější, ale i nejbolestnější. Kateřina Moravcová z České ambasády, velmi příjemná paní, pak přišla řekla Evě: „Paní Morris, po dlouhé době jsem byla svědkem události, která byla velmi dojemná, důstojná, přátelská a navíc měla obsah.“ Byla tam také Judith Litoff, která zpívala úryvek z opery Brundibár, která vznikla pro děti v terezínském ghettu. Brundibár představoval Hitlera. 
+Byl z toho krásný večer. Byl slavnostní, protože přijeli z České ambasády, ale byl zároveň velmi neformální a přátelský. Přišli tam potomci boskovických židů a přinesli si na to setkání to nejdrahocenější – své vzpomínky. Nejdrahocennější, ale i nejbolestnější. Kateřina Moravcová z České ambasády, velmi příjemná paní, pak přišla a řekla Evě: „Paní Morris, po dlouhé době jsem byla svědkem události, která byla velmi dojemná, důstojná, přátelská a navíc měla obsah.“ Byla tam také Judith Litoff, která zpívala úryvek z opery Brundibár, která vznikla pro děti v terezínském ghettu. Brundibár představoval Hitlera. 
 
 Michael se Evy pár dní před mým příletem ptal, jestli teď nastane ta chvíle, kdy ten příběh uzavřeme. Jestli uzavře kruh. A Eva mu odpověděla: „Proč bych měla uzavírat kruh? Nevidím život jako uzavírání kruhů. A jsem si jistá, že až přijde můj čas, tak budu někde uprostřed nějakého dalšího, jako obvykle. Život jde dál.“ Je jí 91 let a je úžasně optimistická.
 
