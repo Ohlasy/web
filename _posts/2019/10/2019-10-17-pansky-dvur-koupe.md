@@ -25,4 +25,4 @@ Názory opozice na případný odkup panského dvora nejsou jednoznačné. Pomě
 
 Principiálně je pro nákup budovy Vladimír farský (KSČM), ale kromě financí vidí jako důležitou diskusi o využití budovy a o prioritách, protože město má před sebou hodně naplánovaných investic a ne na všechno budou peníze. V panském dvoře si umí představit knihovnu, ale město rozjelo projekt na Fránkovu knihovnu v ZZN, takže je pro něj otázkou využití budovy. Piráti podle Radka Šamšuly myšlenku, že by město objekt získalo, podporují a vidí v něm potenciál. Nesmělo by to ale znamenat konec příprav na knihovnu v ZZN.
 
-V panském dvoře dnes funguje pouze komunitní a kulturní centrum Prostor s kavárnou (*na programu se částečně podílí i Ohlasy, pozn. red.*). Zbytek rozsáhlé budovy je prázdný.
+V panském dvoře dnes funguje pouze komunitní a kulturní centrum Prostor s kavárnou (*na programu se částečně podílí i Ohlasy, pozn. red.*) a sídlí zde firma Reklama Jarek. Zbytek rozsáhlé budovy je prázdný.
