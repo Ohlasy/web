@@ -3,10 +3,6 @@
   alt: Impro Lísky slaví 10 let
   url: https://www.improlisky.cz
   priority: 1000
-- name: Halasův Kunštát
-  image: https://i.imgur.com/9AYpVCR.jpg
-  alt: Pozvánka na Halasův Kunštát
-  url: https://www.facebook.com/events/494136077832490/
   priority: 1000
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/8B7R6y6.jpg
