@@ -1,12 +1,12 @@
 ---
 title: Navrhované řešení křižovatky pod poštou je nevyhovující
-perex: Kritický pohled na navrhované řešení křižovatky pod poštou a křižovatky u evangelického kostela pro Ohlasy sepsal stavební inženýr Jan Prchal, absolvent boskovovického gymnázia a brněnského VUT.
+perex: Kritický pohled na navrhované řešení křižovatky pod poštou a křižovatky u evangelického kostela pro Ohlasy sepsal stavební inženýr Jan Prchal, absolvent boskovického gymnázia a brněnského VUT.
 cover-photo: https://i.ohlasy.info/ooz0Iew8.jpg
 author: Jan Prchal
 tags: doprava
 ---
 
-*Kritický pohled na navrhované řešení křižovatky pod poštou a křižovatky u evangelického kostela pro Ohlasy sepsal stavební inženýr Jan Prchal, absolvent boskovovického gymnázia a brněnského VUT, který pracoval kupříkladu pro Sudop či Metrostav a dnes působí na brněnském magistrátu.*
+*Kritický pohled na navrhované řešení křižovatky pod poštou a křižovatky u evangelického kostela pro Ohlasy sepsal stavební inženýr Jan Prchal, absolvent boskovického gymnázia a brněnského VUT, který pracoval kupříkladu pro Sudop či Metrostav a dnes působí na brněnském magistrátu.*
 
 {% photo src="https://i.ohlasy.info/ooz0Iew8.jpg" caption="Vizualizace navrhovaného řešení" %}
 
