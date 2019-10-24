@@ -2,12 +2,16 @@
   image: https://i.imgur.com/bDPircO.png
   alt: Impro Lísky slaví 10 let
   url: https://www.improlisky.cz
-  priority: 1000
-  priority: 1000
+  priority: 900
 - name: Muzeum regionu Boskovicka
   image: https://i.imgur.com/8B7R6y6.jpg
   alt: Výstava Otakar Kubín – Othon Coubine
   url: http://www.muzeum-boskovicka.cz/otakar-kubin-othon-coubine-boskovice-pariz-simiane-1883-1969/a-1266/p1=1098
+  priority: 900
+- name: KZMB
+  image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?5
+  alt: Kulturní akce na Boskovicku
+  url: https://www.kulturaboskovice.cz
   priority: 900
 - name: Prostor
   image: https://i.imgur.com/yHc5BPu.png
