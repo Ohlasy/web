@@ -10,7 +10,7 @@ tags:
     - senátní volby 2016
 ---
 
-*Rozhovor s Jaromírou Vítkovou, boskovickou místostarostkou, která postoupila do druhého kola senátních voleb jako kandidátka KDU-ČSL. Názory Jaromíry Vítkové jsme představili už v [dotazníku](http://ohlasy.info/special/volby2016/dotaznik-vitkova.html) před prvním kolem voleb. Před druhým kolem jsme se setkali k živému rozhovoru. Rozhodující volba, ve které se Jaromíra Vítková střetne s primářem [Janem Machačem](http://ohlasy.info/special/volby2016/dotaznik-machac.html) kandidujícím za ODS, se koná v pátek 14. a v sobotu 15. října.*
+*Rozhovor s Jaromírou Vítkovou, boskovickou místostarostkou, která postoupila do druhého kola senátních voleb jako kandidátka KDU-ČSL. Názory Jaromíry Vítkové jsme představili už v [dotazníku](https://ohlasy.info/clanky/2016/09/dotaznik-vitkova.html) před prvním kolem voleb. Před druhým kolem jsme se setkali k živému rozhovoru. Rozhodující volba, ve které se Jaromíra Vítková střetne s primářem [Janem Machačem](https://ohlasy.info/clanky/2016/09/dotaznik-machac.html) kandidujícím za ODS, se koná v pátek 14. a v sobotu 15. října.*
 
 <img src="https://i.ohlasy.info/h9y4PkO.jpg" alt="Jaromíra Vítková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
 
