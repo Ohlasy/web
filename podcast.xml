@@ -19,14 +19,18 @@ why: A dummy front matter to make Jekyll process this document
       <itunes:email>tomas.znamenacek@ohlasy.info</itunes:email>
     </itunes:owner>
     {% for episode in site.data.podcast %}
+    {% assign description = episode.description | markdownify | strip_html | xml_escape %}
     <item>
       <title>{{ episode.title | xml_escape }}</title>
+      <description>{{ description }}</description>
+      <itunes:subtitle>{{ description }}</itunes:summary>
+      <itunes:summary>{{ description }}</itunes:summary>
       <itunes:image href="{{ episode.image }}"/>
       <itunes:duration>{{ episode.duration }}</itunes:duration>
       <pubDate>{{ episode.date }}</pubDate>
       <enclosure url="{{ episode.url }}" type="audio/mpeg" length="{{ episode.bytes }}"/>
       <guid>{{ episode.url }}</guid>
-      <description>{{ episode.description | markdownify | xml_escape }}</description>
+      <content:encoded>{{ episode.description | markdownify | xml_escape }}</content:encoded>
     </item>
     {% endfor %}
   </channel>
