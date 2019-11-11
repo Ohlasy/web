@@ -23,6 +23,11 @@
   alt: Sám proti tmám / Nechceme tam být taky
   url: https://www.facebook.com/events/509629382951249/
   priority: 850
+- name: Ohlasy naživo
+  image: https://i.imgur.com/gTtR3zS.png
+  alt: "Ohlasy naživo: Jaromíra Vítková"
+  url: https://www.facebook.com/events/436399770397083/
+  priority: 850
 - name: Podcast
   image: https://i.ohlasy.info/waibo6C.png
   url: https://ohlasy.info/podcast.html
