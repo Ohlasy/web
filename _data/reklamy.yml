@@ -13,6 +13,11 @@
   alt: Post-hudba
   url: https://www.facebook.com/events/1559469724192233/
   priority: 850
+- name: Vernisáž
+  image: https://i.imgur.com/SmmgITK.png
+  alt: Vernisáž výstavy Lenky Falušiové
+  url: https://www.facebook.com/events/398914337678414/
+  priority: 850
 - name: Ohlasy naživo
   image: https://i.imgur.com/gTtR3zS.png
   alt: "Ohlasy naživo: Jaromíra Vítková"
