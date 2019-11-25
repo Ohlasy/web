@@ -13,10 +13,10 @@
   alt: Post-hudba
   url: https://www.facebook.com/events/1559469724192233/
   priority: 850
-- name: Vernisáž
-  image: https://i.imgur.com/SmmgITK.png
-  alt: Vernisáž výstavy Lenky Falušiové
-  url: https://www.facebook.com/events/398914337678414/
+- name: Advent
+  image: https://i.imgur.com/lbSLxHB.png
+  alt: Adventní koncerty v evangelickém kostele
+  url: https://www.facebook.com/adventvkostele/
   priority: 850
 - name: Podcast
   image: https://i.ohlasy.info/waibo6C.png
