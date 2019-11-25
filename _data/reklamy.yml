@@ -18,6 +18,11 @@
   alt: Adventní koncerty v evangelickém kostele
   url: https://www.facebook.com/adventvkostele/
   priority: 850
+- name: Vrtulník
+  image: https://i.imgur.com/cO3PfYj.png
+  alt: "Victory Show: Svět podle Michaela live"
+  url: https://www.facebook.com/events/578333276235853/
+  priority: 850
 - name: Podcast
   image: https://i.ohlasy.info/waibo6C.png
   url: https://ohlasy.info/podcast.html
