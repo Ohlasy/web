@@ -1,6 +1,6 @@
 ---
 title: "Ohlasy naživo: rozhovor se senátorkou Jaromírou Vítkovou"
-perex: Hostem dalšího setkání nového cyklu Ohlasy naživo byla ve čtvrtek 21. října senátorka Jaromíra Vítková (KDU-ČSL). K poslechu nabízíme úvodní rozhovor.
+perex: Hostem dalšího setkání nového cyklu Ohlasy naživo byla ve čtvrtek 21. listopadu senátorka Jaromíra Vítková (KDU-ČSL). K poslechu nabízíme úvodní rozhovor.
 cover-photo: https://i.ohlasy.info/72cec0f1.jpg
 author: Tomáš Trumpeš
 category: rozhovory
