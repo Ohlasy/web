@@ -9,7 +9,7 @@ tags: kultura hudba
 
 *Uspořádat namísto tradičních mandolínových workshopů v Boskovicích rovnou mandolínový festival se rozhodl boskovický hudebník a pedagog [Martin Krajíček](http://www.ohlasy.info/clanky/2016/04/rozhovor-krajicek.html). Ten už léta patří nejen na špici mezi českými hráči na mandolínu, ale také k vyhledávaným učitelům na tento nástroj. Mandolínový festival se uskuteční 7.–9. dubna.*
 
-<img src="https://i.ohlasy.info/mfJINOZ.jpg" alt="Martin Krajíček" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/mfJINOZ.jpg" author="Tomáš Trumpeš" %}
 
 Martin Krajíček pořádá své workshopy v Boskovicích několik let, celkem jich proběhlo už přes dvacet. Sjíždějí se sem za ním hráči z celé České republiky a také ze Slovenska. „Zlenivěl jsem, přestal jezdit za mandolinisty a vycvičil jsem si je, aby za mnou jezdili sem. A oni sem jezdí rádi,“ říká s úsměvem hudebník. V loňském roce ho napadlo sestavit z účastníků workshopu mandolínový orchestr, který na závěr akce vystoupil pro veřejnost. Koncert se líbil i Ivo Legnerovi z Kulturních zařízení, a právě ten Martinovi nabídl, jestli by společně neuspořádali mandolínový festival. „Toho jsem se okamžitě chytil. Toužil jsem po tom už několik let, podobná akce v České republice rozhodně chyběla, podobné festivaly navštěvuji různě po Evropě,“ vysvětluje Martin Krajíček, že mandolínový festival je na české poměry unikátní akce.
 

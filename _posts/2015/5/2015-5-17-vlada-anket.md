@@ -8,7 +8,7 @@ tags: politika
 
 *Demokracie je složitá, pomalá, náročná a přitom nejlepší forma vládnutí a správy věcí veřejných. Jestli ji něco ohrožuje, pak je to často dojem, že problémy by šly rozhodovat snadno, efektivně, bez zbytečných řečí a bez zbytečné námahy. Cílem demokracie totiž není hledat a nacházet snadná a efektivní řešení, ale řešení moudrá, konsenzuální a také ohleduplná.*
 
-<img src="https://i.ohlasy.info/GIpLAiH.jpg" alt="fórum projektu Zdravé město" class="img-responsive">
+{% photo src="https://i.ohlasy.info/GIpLAiH.jpg" %}
 
 Způsobů, jak se kvalifikovaných řešení dobrat, je rovněž mnoho. A právě proto, že cesta k cíli je tak složitá, lze jí těžko dosáhnout jen pomocí jednoho nástroje. Od politiků proto musíme chtít, aby si tuto pestrost potřeb a ohledů, stejně jako nutnost užití celé škály nástrojů na cestě k dobrým rozhodnutím uvědomovali. Spoléhat se až příliš na jeden z nich je nebezpečné, a to právě proto, že to může vypadat jednoduše a efektivně.
 

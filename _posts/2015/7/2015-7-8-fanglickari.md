@@ -7,7 +7,7 @@ author: Petr Vítámvás
 
 *Jan Skácel kdysi napsal krásný esej o Moravě jako o zemi, která není, a přece jenom je. Která se vyskytuje už jen v celostátních předpovědích počasí a v národních písních. A která má nejkrásnější hymnu na světě – ticho, kratičkou pauzu mezi českou a slovenskou částí hymny československé (esej napsal ještě v době existence Československa).*
 
-<img src="https://i.ohlasy.info/19je4UC.jpg" class="img-responsive" alt="vlajka Moravy na boskovické radnici">
+{% photo src="https://i.ohlasy.info/19je4UC.jpg" %}
 
 Po staletí byla Morava samosprávnou součástí českého státu, jako Markrabství moravské byla jednou ze zemí Koruny české, po vzniku republiky v roce 1918 zůstala nadále samosprávná jako země Moravská, respektive Moravskoslezská. Jako samosprávná země zanikla po územněsprávní reformě po Únoru 1948, kdy byla republika rozdělena na kraje, které nerespektovaly hranice historických zemí.
 

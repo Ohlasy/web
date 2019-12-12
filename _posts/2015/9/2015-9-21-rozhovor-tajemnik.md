@@ -8,7 +8,7 @@ tags: politika
 
 *Když se v zámeckém skleníku konalo veřejné projednání strategického plánu, ukázalo se, že ne všichni přesně rozumíme tomu, co má tento dokument obsahovat a k čemu má sloužit. O rozhovor jsme proto požádali šéfa boskovických úředníků Davida Škvařila, který přípravu strategického plánu fakticky vedl.*
 
-<img src="https://i.ohlasy.info/HSwqkLD.jpg" alt="tajemník" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/HSwqkLD.jpg" author="Tomáš Trumpeš" %}
 
 **Můžete nejdřív stručně říct, co je Strategický plán města a co od toho dokumentu očekáváme?**
 

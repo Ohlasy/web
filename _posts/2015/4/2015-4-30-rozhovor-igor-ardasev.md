@@ -9,7 +9,7 @@ tags: hudba kultura
 
 *Ve středu 29. dubna vystoupil v boskovickém zámeckém skleníku klavírista Igor Ardašev. Přednesl skladby Ludwiga van Beethovena, Bedřicha Smetany, Sergeje Prokofjeva a Roberta Schumanna. O jedinečnosti každého interpretačního výkonu, nevyčerpatelnosti Bachovy hudby, o Janáčkovi v podání zahraničních interpretů, o tichu a mnohém dalším si s Igorem Ardaševem po koncertě povídala klavíristka a příležitostná přispěvatelka Ohlasů, Kristýna Znamenáčková.*
 
-<img src="https://i.ohlasy.info/DPdGSrO.jpg" alt="Igor Ardašev" class="img-responsive">
+{% photo src="https://i.ohlasy.info/DPdGSrO.jpg" %}
 
 **Pane Ardaševe, jak se vám hrálo?**
 
@@ -35,7 +35,7 @@ A především prožívat. Prožívání je jedinečné v každém okamžiku. A 
 
 U Bacha je to o to výraznější proto, že o jeho hudbě i přes spoustu materiálů a monografií víme pořád strašně málo, zejména v porovnání s pozdějšími skladateli. Bachův zápis je velmi lakonický, co se týče frázování a dynamiky, nemáme nejmenší vodítko prakticky v ničem než v samotných holých notách. A další podstatnou věcí je, že jednu Bachovu fugu lze hrát v několika různých tempech a pokaždé to může být přesvědčivé. Což není možné třeba u Mozarta. Jakmile u Mozarta nebo u Beethovena zvolíte jiné tempo, tak posluchač okamžitě cítí, že tam něco nehraje a že něco není v pořádku.
 
-<img src="https://i.ohlasy.info/XsgOkGu.jpg" alt="Igor Ardašev" class="img-responsive">
+{% photo src="https://i.ohlasy.info/XsgOkGu.jpg" %}
 
 **Podle jaké dramaturgie si vybíráte skladby na koncerty? Do jaké míry si můžete vybrat program pro Kruh přátel hudby?**
 
@@ -53,7 +53,7 @@ To je dobrá otázka. Byl jsem v porotě mezinárodní Janáčkovy soutěže na 
 
 Tak samozřejmě objektivní posouzení něčeho, co nelze lineárně uspořádat, je nemožné. To všichni víme. A to, že některé soutěže mají trošku atletický charakter, je bohužel jakási latentní vlastnost každého soutěžení, které se asi nevyhneme. Nicméně sám patřím k typům interpretů, kteří na soutěže chodili vždycky jenom z donucení, protože jsem věděl, že bez soutěže je velmi obtížné nalézt interpretační uplatnění, které jsem si přál, takže to byla svým způsobem nutnost. Soutěž má ale i ten význam, že máte-li před sebou náročný program, tak vás přinutí k intenzivní práci, což bylo v mém případě často. Na přípravě na soutěže jsem sám sebe musel donutit k velmi intenzivní a poctivé práci, nicméně nebyl tam nikdy ten impuls, že bych měl soutěže rád, to ne.
 
-<img src="https://i.ohlasy.info/FBEinNl.jpg" alt="Igor Ardašev" class="img-responsive">
+{% photo src="https://i.ohlasy.info/FBEinNl.jpg" %}
 
 **Sledujete aktuální dění na scéně mezi mladými pianisty a nejmladší generací, řekněme ve věku kolem dvaceti let?**
 

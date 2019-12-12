@@ -9,7 +9,7 @@ tags: vzdělávání investice
 
 *Rozhovor s Vladimírem Ochmanským, ředitelem boskovické základní školy. Mluvili jsme o plánované výstavbě [Centra polytechnického vzdělávání](http://www.ohlasy.info/clanky/2016/04/centrum-technicke-vychovy.html) u školy na Slovákově ulici. Potřebuje škola nutně toto centrum a jsou dnešní děti opravdu nešikovné? Cítí se Vladimír Ochmanský ve střetu zájmů jako ředitel a zároveň opoziční zastupitel? A bude chtít příští rok obhajovat funkci?*
 
-<img src="https://i.ohlasy.info/2AThyCM.jpg" alt="Vladimír Ochmanský" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/2AThyCM.jpg" author="Tomáš Znamenáček" %}
 
 **Boskovice připravují projekt na výstavbu Centra polytechnického vzdělávání, které má být součástí vaší školy. Investice je odhadována na 75 milionů korun. Pokládáte ji za dobrý nápad?**
 
@@ -41,7 +41,7 @@ To určitě ano. Ale je to otázka, kolik ta spoluúčast bude činit – na zas
 
 Projekt se vyvíjel. Původně rozpočet zahrnoval i vznik a vybavení cvičného bytu. Později se zjistilo, že by to nebyl uznatelný náklad. Na Slovákově sice cvičný byt máme, ale není prostorný a vybavený tak moderně, jak by si škola představovala.
 
-<img src="https://i.ohlasy.info/dCjxYTD.jpg" alt="zásuvky na nářadí v dílně technické výchovy" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/dCjxYTD.jpg" author="Tomáš Znamenáček" %}
 
 ### Víc na provoz nám nikdo nedá
 
@@ -89,7 +89,7 @@ Tak. A samozřejmě fyzika, budou tam různé přístroje, modely a další vyba
 
 Do žádosti se psalo samozřejmě maximální možné využití, ale to reálné ukáže praxe.
 
-<img src="https://i.ohlasy.info/HYSY0Sg.jpg" alt="řada červených svěráků" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/HYSY0Sg.jpg" author="Tomáš Znamenáček" %}
 
 ### Mezi učiteli poptávka není
 
@@ -171,7 +171,7 @@ Tohle se časem vyřeší. Teď totiž na střední školy přechází dlouhodob
 
 S tím souhlasím.
 
-<img src="https://i.ohlasy.info/FJWRtYt.jpg" alt="Vladimír Ochmanský" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/FJWRtYt.jpg" author="Tomáš Znamenáček" %}
 
 ### Vědět, na čem jsme
 

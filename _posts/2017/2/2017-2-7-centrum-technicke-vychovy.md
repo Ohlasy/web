@@ -9,13 +9,13 @@ tags: investice politika
 
 *Boskovice v průběhu ledna dokončily projektovou dokumentaci, jejíž součástí je i rozpočet, a zpracovaly studii proveditelnosti na výstavbu Centra polytechnické výchovy a vzdělávání na Slovákově ulici. Centrum by mělo vyrůst u budovy základní školy v jámě, která zde zbyla po stavbě sportovní haly. Všechny zpracované podklady nyní poslouží jako součást žádosti o dotaci. Základní parametry rozpočtu zní: cena 72,5 milionů korun, z toho 10,1 milionu by město zaplatilo z vlastního v rámci takzvané spoluúčasti.*
 
-<img src="https://i.ohlasy.info/J6XGowz.jpg" alt="vizualizace stavby" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/J6XGowz.jpg" %}
 
 O tom, že by mělo vzniknout u školy na Slovákově právě polytechnické centrum, rozhodlo boskovické zastupitelstvo, když se zabývalo otázkou, co by mělo nahradit zrušenou stavbu sportovní haly a zaplnit jámu, která zde po ní zůstala. Za nápadem na vybudování centra stála především snaha vymyslet projekt, který by se dal napasovat na předpokládané dotační tituly v novém plánovacím období. „Toto řešení není práce jednotlivce, navrhl ho vedoucí odboru pan Zouhar, ale až na základě toho, že jsme byli konzultovat možnosti na Jihomoravském kraji v Centru regionálního rozvoje, abychom věděli, jaké jsou možnosti. Nejprve jsme posháněli informace ohledně nových dotačních titulů, pročetli jsme si nové programovací období a podle toho jsme přizpůsobovali naše myšlenky,“ [uvedla v říjnu 2015](http://www.ohlasy.info/clanky/2015/10/budoucnost-slovakovy.html) pro Ohlasy starostka Hana Nedomová (ČSSD). Tehdy bylo představeno centrum za 35 milionů, přičemž 90 procent nákladů měla pokrýt dotace.
 
 V průběhu příprav se projekt rozšířil a cena se vyšplhala na zmíněných 72,5 milionu korun. S tím se samozřejmě objevily i pochybnosti, jestli je taková investice adekvátní a jestli je právě podobné centrum smysluplnou investicí do vzdělávání. Tedy jestli se nejedná jen o snahu zalepit nějak díru po stavbě haly. „I pro mě bylo důležité, aby zde došlo k nějakému dobrému řešení,“ uvedla souvislost s lokalitou na prvním místě mezi svými důvody pro podporu centra starostka Hana Nedomová. Zároveň radnice věděla, že nové programovací období bude zaměřeno na oblast školství. Připravit vedle školní budovy investici určenou právě pro školské využití se proto nabízelo. „Tedy nejen využít možnosti dotace, ale také pomoci zlepšit vzdělávání žáků na základní škole,“ říká boskovická starostka.
 
-<img src="https://i.ohlasy.info/6LHoxXU.jpg" alt="Hana Nedomová, starostka Boskovic" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/6LHoxXU.jpg" author="Tomáš Znamenáček" %}
 
 ### Je nutná nová budova?
 
@@ -43,7 +43,7 @@ Vedení města zdůrazňuje, že výsledná cena 72,5 milionu neobsahuje jen ná
 
 Propočet ze studie nejprve stanovil cenu ve výši 35 milionů bez daně, což je asi 43 milionů s daní. Kde se tedy vzalo další navýšení? „To byl nástřel, v té době jsme nevěděli, co všechno bude stavba obsahovat a vůbec jsme se nebavili o vybavení. Jen to dnes dělá 13 milionů,“ vysvětluje šéf investičního odboru, architekt Petr Zouhar. Zásadní navýšení přineslo také konstrukční řešení stavby. Na základě zkušeností z nevydařené stavby sportovní haly muselo dojít k volbě finančně náročnějších technologických řešení. Problém se spodní vodou je v lokalitě totiž opravdu podstatně větší, než se původně zdálo. Velký skok v ceně spočívá už v založení stavby, nyní byla zvolena forma takzvané bílé vany, což je speciální nepropustná betonová konstrukce. Uvažovalo se o ní už v souvislosti s halou, ale pro velkou finanční náročnost se tato varianta zavrhla. Další nárůst představuje i systém drenáží a odvedení vod do zatrubněného potoka, tedy přibližně dvě stě metrů nové kanalizace. „Jedná se opravdu o výjimečnou stavbu. Už tím, že je v zemi, nemůže být cena úplně standardní. Zároveň se toto řešení úplně nabízí, když tam jáma po stavbě haly je,“ říká Petr Zouhar. Výsledná cena mu vzhledem k charakteru budovy a vybavení připadá adekvátní. A zároveň je to podle něj příležitost, aby v Boskovicích vznikla kvalitní současná stavba, po které volá i odborná architektonická veřejnost.
 
-<img src="https://i.ohlasy.info/bzte0W2.jpg" alt="Petr Zouhar" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/bzte0W2.jpg" author="Tomáš Znamenáček" %}
 
 ### Využití centra
 
@@ -59,7 +59,7 @@ Konkrétně by centrum mělo obsahovat učebnu *Dřevo-kovo výroba* pro pracovn
 
 Kromě toho bude součástí areálu centra *Venkovní přírodovědná učebna*. Ta zahrnuje mobilní řečnický systém, projektor a projekční plochu. Venkovní prostor také zahrnuje zázemí pro pěstitelské činnosti kontejnerového typu a biotopové jezírko. „Takto vybavené učebny nabízí zázemí pro výuku téměř všech předmětů na obou stupních základní školy. Nejde tedy jen o pracovní činnosti a dílny, jak je v některých médiích prezentováno,“ zdůrazňuje Jana Lišková.
 
-<img src="https://i.ohlasy.info/mXjZxoJ.jpg" alt="Jana Lišková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/mXjZxoJ.jpg" author="Tomáš Znamenáček" %}
 
 ### Provoz centra
 
@@ -79,7 +79,7 @@ Tím se tedy opět ocitáme v situaci, kdy takto zásadní projekt koalice zkrá
 
 Minimálně v této fázi tedy o projektu nejspíš rozhodne to, jestli bude žádost o dotaci úspěšná. To se dá v tuto chvíli jen těžko odhadovat. Podle Lucie Kolářové, která má na radnici na starosti koordinaci veřejných zakázek, je žádost připravena tak, aby získala maximální počet bodů. Do toho ale vstupuje individuální názor hodnotitelů. Přibližně na konci února bude známo, kolik uchazečů do žádosti o dotaci vstoupilo, jaká je celková požadovaná částka a jaký je její převis nad rozdělovanými penězi. „Myslím si, že zájem bude velký, už proto že spoluúčast deset procent není zas tak vysoká, je to zajímavá příležitost,“ předpokládá Lucie Kolářová. Konkrétně Boskovice by za 10 milionů z vlastního rozpočtu získaly majetek v hodnotě 72,5 milionu.
 
-<img src="https://i.ohlasy.info/wNOhByd.jpg" alt="Lucie Kolářová" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/wNOhByd.jpg" author="Tomáš Znamenáček" %}
 
 Po uzavření žádostí 14. února následuje v Integrovaném operačním programu několik fází hodnocení, takže jestli bude projekt podpořen, bude známo za dalších asi šest nebo sedm měsíců. Nejprve za čtyři nebo pět měsíců zjistíme, jestli byl k financování vůbec doporučen. „Byli bychom připraveni nachystat na podzim výběrové řízení, abychom zvládli odsoutěžit a na jaře roku 2018 zahájit stavbu. Zhruba za rok by byla hotová a v nové školním roce 2019/2020 by začala sloužit,“ upřesnila referentka Lucie Kolářová.
 

@@ -8,7 +8,7 @@ tags: sokolovna investice kultura
 
 *Boskovicím dlouhodobě chybí reprezentativní kulturní sál, sokolové městu nabízejí zdarma budovu sokolovny. Je podle vás takové řešení optimální, nebo by stálo za to alespoň zvážit či hledat i jiné varianty?*
 
-<img src="https://i.ohlasy.info/5SWrLsL.jpg" alt="sokolovna" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/5SWrLsL.jpg" author="Tomáš Znamenáček" %}
 
 ---
 

@@ -8,7 +8,7 @@ author: Tomáš Trumpeš
 
 *V Kafe za rohem na Plačkově ulici probíhají už nějakou dobu pravidelné Veganské společenské večeře. O tom, co to znamená být vegan, proč se lidé vegany stávají, a o řadě dalších věcí, které s veganstvím souvisejí, jsme vedli rozhovor s Jitkou Urbanovou. Ta veganské večeře spolupořádá, sama je vegankou již několik let a veganskou stravu připravuje od počátku i svému synovi. Ostatně právě mateřství hrálo v jejím rozhodnutí pro veganství významnou roli.*
 
-<img src="https://i.ohlasy.info/ab4hYtN.jpg" alt="Jitka se synem Kryštofem" class="img-responsive">
+{% photo src="https://i.ohlasy.info/ab4hYtN.jpg" %}
 
 **Začněme pro ty, co přesně nevědí, jednoduchou otázkou: Co to znamená být vegan? Tedy nejprve čistě z hlediska jídla, co vegan jí, případně co nejí – pokud je snadnější to vysvětlit negativním vymezením.**
 
@@ -58,7 +58,7 @@ Pro mě je veganství určitý základ. To, co budu jíst, mohu ovlivnit úplně
 
 Tohle je častý argument, protože když člověk navštíví zdravou výživu, tak má dojem, jak je tam všechno drahé. Ale uvařit si čočku s rýží mi vždycky vyjde levněji než kupovat si sýry a maso. A ještě mi docela dobře zbyde na slunečnicová semínka. I vegansky se dá vařit na různých úrovních. Ze základních surovin, nebo kupovat drahé polotovary a veganské sýry dovezené z Itálie. Určitě to ale není tak, že člověk, který nemá dost peněz, by nemohl být vegan, i veganská strava se dá připravovat levně. A co se týče náročnosti na čas, tak to je trochu pravda. Veganství sice nikdy nebylo tak snadné a dostupné jako dnes, ale pořád si myslím, že vegan je odkázaný na to, že si musí jídlo chystat. Ale já to dělám ráda, ráda vydám tu energii navíc, když vím proč. Díky tomu, že to dělám s radostí, to jde dobře. Můj život se zdaleka nemotá jen kolem jídla, rostlinná strava je už samozřejmostí, kterou vlastně ani neřeším.
 
-<img src="https://i.ohlasy.info/uk3q8eK.jpg" alt="Jitka se synem Kryštofem" class="img-responsive">
+{% photo src="https://i.ohlasy.info/uk3q8eK.jpg" %}
 
 **Zdá se mi to, nebo veganů v poslední době opravdu výrazněji přibývá?**
 

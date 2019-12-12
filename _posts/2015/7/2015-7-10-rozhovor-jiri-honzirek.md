@@ -8,7 +8,7 @@ tags: divadlo kultura
 
 *Novým dramaturgem divadelní části festivalu Boskovice 2015 se stal brněnský režisér a principál divadla Feste Jiří Honzírek. Na letošní dramaturgii je zřetelně znát, že ji připravoval divadelník, který o sobě říká, že tíhne k divadlu se sociálním a politickým přesahem. A k experimentům. Jiří se nemohl účastnit festivalu hned od začátku, takže náš rozhovor probíhal přes internet.*
 
-<img src="https://i.ohlasy.info/Ynd02aJ.jpg" alt="Jiří Honzírek" class="img-responsive">
+{% photo src="https://i.ohlasy.info/Ynd02aJ.jpg" %}
 
 **Jiří, jaký máš vztah k Boskovicím a boskovickému festivalu? Jezdil jsi sem v minulosti jako návštěvník?**
 

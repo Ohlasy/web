@@ -9,7 +9,7 @@ tags: historie
 
 *Zdá se vám, že tento titul zní poněkud nadneseně? Popravdě řečeno, on asi skutečně nadnesený je. Neboť v době, kdy Rosa Fleischmannová, dcera boskovického židovského řezníka, jakožto manželka nejvyššího státního a stranického představitele Bulharska Jiřího Dimitrova, takovouto první dámou de facto byla, se tento titul v zemích tehdejšího komunistického bloku rozhodně nenosil. Ale to jsem předběhla událostem.*
 
-<img src="https://i.ohlasy.info/7TmAewr.jpg" alt="Plačkova 25" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/7TmAewr.jpg" author="Tomáš Trumpeš" %}
 
 Vraťme se tedy na počátek našeho dnešního vyprávění z boskovického ghetta, které zahájíme na Plačkově ulici u domu č. 25. V minulosti tvořil jednotu s domem č. 27 a patří k nejstarším v židovské čtvrti. Jeho sklep je v renesančním slohu, nadzemní jádro domu je barokní. Byl obnoven po požáru v roce 1823 Benediktem Fuchsem a dalšími třemi spolumajiteli. Koncem 19. století dům koupil židovský rituální řezník Julius Fleischmann, který se do Boskovic přistěhoval s rodinou z Vídně. Jeho dcera Rosa (narozená 9. 7. 1896 ve Vídni) navštěvovala v Boskovicích židovskou školu, posléze odešla jako dospělá mladá žena do Vídně, kde pracovala jako levicově založená novinářka pro list Arbeiter Zeitung.
 

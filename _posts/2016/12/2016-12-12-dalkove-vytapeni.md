@@ -9,7 +9,7 @@ tags: investice
 
 *Příští rok se dočkáme opraveného letního kina, singletreků v Doubravách nebo sokolovny v rukou města. Mimo hlavní dění se ale má začít vypracovávat také analýza perspektivy provozu systému CZT, tedy Centrálního zásobování teplem. Na ten jsou napojená velká sídliště Pod Oborou nebo na Čížovkách.*
 
-<img src="https://i.ohlasy.info/ESwiGUy.jpg" alt="kotelna na Komenského ulici" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/ESwiGUy.jpg" author="Tomáš Znamenáček" %}
 
 Kotelna u každého bytového domu neexistuje, ale teplo do každého bytu proudí. Dodávají ho centrální kotelny, z nichž jedna nelze přehlédnout kvůli čtyřem vysokým modrým komínům vedle osmipatrového bytového domu na Komenského ulici.
 

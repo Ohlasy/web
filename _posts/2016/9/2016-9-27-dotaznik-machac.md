@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jan Machač, který do senátu kandiduje za stranu ODS.*
 
-<img src="https://i.ohlasy.info/h6D4aty.jpg" alt="Jan Machač" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/h6D4aty.jpg" %}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

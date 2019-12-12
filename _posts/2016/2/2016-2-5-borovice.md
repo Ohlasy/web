@@ -9,7 +9,7 @@ serial: stromy
 
 *Když se zima přehoupne do své druhé poloviny, s radostí objevuji barevné vzkazy života, které nám posílá příroda. Jsou všude kolem, stačí se pozorně dívat. V převažující šedi však vynikne strom, který září téměř vždy a bezpečně ho poznáte i na dálku v hustém porostu. Není tak bělavý jako bříza, ale když slunce zasvítí a my máme štěstí, vypadá jeho kmen jako v plamenech. Pravděpodobně ho potkáte, ať se vydáte kamkoli, v lese, ve městě v zahradách, na skalách i u vody. Borovice. Vždy žasnu nad jejich vytrvalostí. Rostou i na místech, kde to na žití moc nevypadá.*
 
-<img src="https://i.ohlasy.info/8hKe2dy.jpg" alt="koruna borovice" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/8hKe2dy.jpg" author="Tomáš Znamenáček" %}
 
 To mají s břízami společné, proto se jim říká pionýrské dřeviny. Na rozdíl od bříz se však dožívají velmi vysokého věku. Jejich krása a vytrvalost z nich udělaly oblíbence tvůrců zahrad, především v Japonsku. Ale ty naše, nazývané sosny, jsou opěvované spíš trempy. V dospělosti připomíná tvar jejich koruny spíš listnáč. Není to upjatý strom jako smrk či jedle, větve se otevírají v patrech slunci a větru, připomínají otevřený deštník. Spolu se smrky, jedlemi a cedry tvoří velkou a neuvěřitelně prastarou rodinu borovicovitých. Borovice totiž rostly na Zemi už před více než deseti tisíci lety. A borovice lesní neboli sosna (*Pinus sylvestris*) jako jediná evropská borovice přežila dobu ledovou. Roste od nížin až do dvou tisíc metrů nad mořem, od polárního kruhu po rovník. Podle svého výskytu má však různá jména. Švýcaři jí nazývají sosna. Skotové ve své radostné ignoraci dokonce jedle a ve středomořské oblasti jsou všechny druhy borovic pojmenované pinie. 
 
@@ -19,11 +19,11 @@ Vzhledem k nenáročnosti na vegetační podmínky se borovice staly častou dř
 
 V minulém století se díky exotickému vzhledu stala oblíbená borovice černá (*Pinus nigra*), která je také v našem městě nejčastější. Původem je z jižní Evropy, kde je to nejvýznamnější hospodářská dřevina. Ti, co navštěvují základní školu na Sušilově ulici, důvěrně znají tyto borovice z nádvoří školy a blízkého okolí. V obnovené zdejší výsadbě u zastávky MHD můžete v budoucích letech pozorovat borovice kleče – kosodřeviny (*Pinus mugo*), které zde zpevňují svah a jako jedny z mála myslím vydrží nápor dětí, které si zde krátí čas při čekání na autobus. Borovice černé i borovice kleče jsou také časté mezi panelovými domy od ulice Komenské až k nemocnici. Hojně jich roste na ulici Kosmonautů, Hybešově a také na Vyhlídce, kde najdete jednu borovici hedvábnou (vejmutovku). Poznáte ji podle dlouhých zahnutých šišek a jemných dlouhých jehlic po pěti ve svazečku. Roste v části Hradčany v zeleni blízko garáží. Vypadá jako velká a přitom něžná dáma, opravdová návštěvnice ze Severní Ameriky.
 
-<img src="https://i.ohlasy.info/vf5qsaD.jpg" alt="kleč před základní školou" class="img-responsive img-popup img-framed" data-author="Martina Lukešová">
+{% photo src="https://i.ohlasy.info/vf5qsaD.jpg" author="Martina Lukešová" %}
 
 Borovice lesní (sosny) jsou typickou dřevinou lesa v Doubravách a kolem westernového městečka, protože se jedná o pískovcový lom a borovice jsou jediné schopné na tak chudé půdě vytvořit hospodářský či rekreační les. Péče o tento les na pozemku města byla v minulosti zanedbaná. Porost byl ponechán hodně hustý, a proto se borovice vytáhly za světlem a nenabraly potřebné síly. Místy je zde téměř monokulturní borovicový porost, který ovšem pod kvalitní výchovou připraví prostředí pro pestřejší les, tak jak je tomu opodál. Třetím rokem spravuje tyto městské lesní pozemky společnost MP Lesy. V roce 2014 zde proběhla větší, spíše výchovná těžba a pro časté návštěvníky to mohl být trochu šok, ale v horizontu několika příštích let bude každému jasné, že to lesu prospělo. Je potřeba si uvědomit, že většina našich lesů nevznikla přirozeně přírodní cestou, ale podle lesních hospodářských plánů. Díky osvícenosti současných hospodářů se můžeme v lesích v okolí Boskovic těšit nejen ze smrků a borovic, ale s celou škálou dalších dřevin včetně navracení jedle, která zde v minulosti panovala spolu s duby.
 
-<img src="https://i.ohlasy.info/AXTm6OK.jpg" alt="těžba v Doubravách" class="img-responsive img-popup" data-author="Martina Lukešová">
+{% photo src="https://i.ohlasy.info/AXTm6OK.jpg" author="Martina Lukešová" %}
 
 Borovice s duby a habry také zdolávají příkrý svah k boskovickému hradu a jsou součástí porostů ve všech zalesněných svazích našeho okolí. Nevím, že bych znala jiné město (kromě horských), které by leželo v tak členitém terénu. Je to výhoda i nevýhoda, ale každopádně je na co se dívat a co objevovat. Jen hledání místečka k nové výstavbě je téměř detektivní záležitost a oříšek jak pro architekty, tak pro zahradníky. Každopádně je to vždy výzva jako pro borovice, které jsou schopné využít každé skulinky ve skále pro zakořenění a nový život. Jen se pořádně rozhlížejte, až půjdete městem. Zkuste se dívat jako kreativní architekti. Jako kdybyste byli borovicová semínka nesená větrem.
 
@@ -31,7 +31,7 @@ Mě například fascinuje jedno skryté místo nad městem na skále nad Bělsko
 
 Ačkoli jsou borovice jedny z nejvýznamnějších hospodářských dřevin a mohli bychom namítat, že patří spíš do lesa než do města, musím na jejich obhajobu podotknout, že mezi jehličnatými stromy jsou ve městě nejpřirozenější a nejvíce odolné vůči městskému klimatu. Na rozdíl od smrků, které také byly do města hojně vysazované v 70. letech, jsou borovice stabilnější a nižší. Je proto velice pravděpodobné, že se budeme v Boskovicích se smrky pomalu loučit. Naopak pokud toužíte po jehličnatém stromu ke svému domu, bude borovice lesní nebo kleč tou nejlepší volbou. Navíc šlechtitelé okrasných dřevin přivádějí na trh stále nové kultivary borovic. Jejich nabídka je skutečně pestrá. Mnohé zajímavé borovice si můžete prohlédnout v Arboretu Šmelcovna.
 
-<img src="https://i.ohlasy.info/Tllyg6t.jpg" alt="borovice v lanovém centru" class="img-responsive img-popup" data-author="Martina Lukešová">
+{% photo src="https://i.ohlasy.info/Tllyg6t.jpg" author="Martina Lukešová" %}
 
 ### Borovice v Jihomoravském kraji
 
@@ -49,7 +49,7 @@ Jehličí z borovice se používalo k vykuřování a léčení. Již Hippokrate
 
 Z praktického pohledu mají borovice spolu s jedlemi a smrky velice dlouhou historii zásobování lidstva smůlou, térem, pryskyřicí a terpentýnem. Z borovicového dřeva a pryskyřice se po dlouhou dobu vyráběla alternativa ke svíčce – louč. Je proto přirozené spojovat borovici s ohněm a světlem. Keltové nazývali borovici ohnivý strom. Protože loučemi ze sosny osvětlovali své příbytky, z její smůly vyráběli pochodně. To dokazuje i německý název pro sosnu: *Kienföhre* – loučová sosna.
 
-<img src="https://i.ohlasy.info/y0DtQ4A.jpg" alt="borovice nad Dyjí" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/y0DtQ4A.jpg" author="Tomáš Znamenáček" %}
 
 ### Borovice v keltském znamení stromů
 

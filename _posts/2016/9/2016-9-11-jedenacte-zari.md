@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Před patnácti lety, v úterý 11. září 2001, se mi přihodila věc, která se, jak jsem se později dočítal, stala i mnoha dalším lidem – když jsem navečer ve zprávách zjistil, co se v Americe stalo, uvědomil jsem si, že jsem záběry letadel narážejících do newyorských dvojčat viděl už dříve odpoledne při bezduchém problikávání televizních kanálů. Nevěnoval jsem jim pozornost, nepokládal je za zpravodajství, ale za nějakou hloupost, a přepnul jinam. Nepravděpodobné obrázky se ale o pár hodin později ukázaly být skutečností.*
 
-<img src="https://i.ohlasy.info/JQPOF0y.jpg" alt="Ground Zero" class="img-responsive img-popup" data-author="Eric J. Tilford">
+{% photo src="https://i.ohlasy.info/JQPOF0y.jpg" author="Eric J. Tilford" %}
 
 Ještě později večer jsme se vraceli z čajovny Hermanna Ungara, bylo o dost chladněji než dnes, a mluvili jsme o tom, co se stalo. Myslím, že nám bylo jasné, že svět se po této události zásadně změnil. A také to, že se nás tato změna bezprostředně dotýká, přestože se událost odehrála tisíce kilometrů daleko. Také si pamatuju, že se mi na mysl vkrádaly verše Ivana Martina Jirouse *Gospod pomiluj ny / Gospod pomiluj N. Y. / Gospod pomiluj New York*. Vznikly nějakou dobu předtím a vtipná slovní hříčka jako by se náhle proměnila v úzkostné proroctví.
 

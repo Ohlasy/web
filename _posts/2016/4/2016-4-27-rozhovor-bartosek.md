@@ -8,7 +8,7 @@ tags: sport
 
 *Rozhovor s ředitelem Boskovických běhů Petrem Bartoškem. Pod hlavičkou sdružení Sportuj s námi pořádá se svým týmem několik sportovních akcí pro dospělé i děti. V neděli 1. května se bude konat největší z nich – Boskovické běhy, které jsou oblíbené napříč generacemi a díky nimž běhá v Boskovicích a okolí stále více lidí.*
 
-<img src="https://i.ohlasy.info/l1Vx5Gx.jpg" alt="Petr Bartošek" class="img-responsive img-popup" data-author="Martina Vašková">
+{% photo src="https://i.ohlasy.info/l1Vx5Gx.jpg" author="Martina Vašková" %}
 
 **Do startu letošních Boskovických běhů zbývá několik dnů. Co to znamená pro vás jako pořadatelský tým, prožíváte nervozitu, stres nebo radost**? 
 
@@ -26,7 +26,7 @@ Určitě ne. Celý ten, jak my říkáme, běh okolo Běhů nám stále přiná�
 
 Chceme se ještě více přiblížit lidem, a od toho se odvíjí i nové produkty. Hlavní Běh za sedmizubým hřebenem jsme rozdělili do štafety. To znamená, že ti, kteří si netroufnou běžet celých 12,5 km, a přesto chtějí zažít atmosféru hlavního běhu, si celou trasu mohou s někým rozdělit. První z dvojice poběží trasu o délce 7 km a druhý pak 5,5 km. Další věcí, která je lehce nadstandardní, je rozdělení soutěže družstev na ženské a mužské. Soutěže družstev bývají běžnou součástí běžeckých závodů, nikdo však neřeší, zda se jedná o muže či ženy. A my jsme chtěli dát šanci všem zazávodit si spravedlivě. Byť se to může zdát jako relativně málo novinek, nebylo úplně jednoduché vše zrealizovat. 
 
-<img src="https://i.ohlasy.info/ClT7G5t.jpg" alt="Boskovické běhy" class="img-responsive img-popup" data-author="Jaroslav Parma">
+{% photo src="https://i.ohlasy.info/ClT7G5t.jpg" author="Jaroslav Parma" %}
 
 ### Lidé už překonali ostych běhat ve městě
 
@@ -54,7 +54,7 @@ Ano, a přesně tak jsme to chtěli. Když jsem se někde dočetl, že běhy jso
 
 V den D, hodinu H, minutu M až 120 lidí, kteří jsou k dispozici divákům, běžcům a účinkujícím. Což jsou z velké většiny dobrovolníci. Náš páteřní tým, který zajišťuje všechny akce a pravidelně se v průběhu roku schází, tvoří šest lidí. Kromě Boskovických běhů pod hlavičkou spolku Sportuj s námi organizujeme ještě blanenský Půlmaraton Moravským krasem, Sport Life Run v Brně a projekty pro děti. 
 
-<img src="https://i.ohlasy.info/fQ1S7qC.jpg" alt="Boskovické běhy" class="img-responsive img-popup" data-author="Jaroslav Parma">
+{% photo src="https://i.ohlasy.info/fQ1S7qC.jpg" author="Jaroslav Parma" %}
 
 ### Tenisky a trocha času
 
@@ -90,7 +90,7 @@ Myslím, že náš největší cíl je, aby v Boskovicích Běhy zůstaly a jedn
 
 Kdo se podívá do programu, najde tam už těžko prostor pro něco nového. Spíš než měnit a zvětšovat se budeme snažit zdokonalovat to, co máme. Nosné běhy jsou pro nás ty dětské, Zámecký, Lidový a hlavní běh. Myslím, že jsme docílili toho, že trasy jsou optimální. Od běžců často slýcháme, že hlavní trať je díky své různorodosti jedna z těch nejkrásnějších, co běželi. Tvoří ji dva výběhy, dva seběhy, k tomu běh údolím říčky Bělé, vrcholí Pilákem a velké zpestření představuje průběh zámkem.
 
-<img src="https://i.ohlasy.info/2c1BnBF.jpg" alt="Petr Bartošek" class="img-responsive img-popup" data-author="Martina Vašková">
+{% photo src="https://i.ohlasy.info/2c1BnBF.jpg" author="Martina Vašková" %}
 
 ### Boskovice běhy přijaly
 

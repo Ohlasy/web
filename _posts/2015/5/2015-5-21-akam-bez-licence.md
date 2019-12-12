@@ -9,7 +9,7 @@ tags:
 
 *Solární elektrárna na kraji Boskovic v Chrudichromské ulici je vážně ohrožena. Krajský soud dnes v Brně zrušil licenci, kterou Energetický regulační úřad (ERÚ) vydal provozovateli panelů společnosti AKAM Bosko v prosinci roku 2010. Rozsudek zatím není pravomocný. Energetický regulační úřad se může proti rozhodnutí odvolat k Nejvyššímu správnímu soudu.*
 
-<img src="https://i.ohlasy.info/g6zThhQ.jpg" alt="jednání Krajského soudu v Brně" class="img-responsive">
+{% photo src="https://i.ohlasy.info/g6zThhQ.jpg" %}
 
 „Rozhodnutí Energetického regulačního úřadu ze dne 15. 12. 2010 se zrušuje a věc se vrací žalovanému k dalšímu řízení.“ Takové bylo stanovisko, které pronesl předsedající soudce David Raus po zhruba dvouhodinovém líčení. Udělení licence 15. prosince 2010, která nabyla právní moci 31. prosince, tak soud označil za neoprávněné. Případ tedy bude ERÚ muset projednat znovu.
 

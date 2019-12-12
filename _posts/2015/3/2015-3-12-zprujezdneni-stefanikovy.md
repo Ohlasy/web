@@ -8,7 +8,7 @@ tags: doprava
 
 *Názorový příspěvek k aktuálně diskutované otázce, zda zprůjezdnit ulici Štefánikovu a propojit ji s ulicí Nádražní, nám zaslal Jiří Klimek, který vystudoval architekturu a urbanismus na brněnském VUT. Město Boskovice momentálně čeká na výsledky průzkumu, který má ukázat, zda je technicky možné Štefánikovu ulici otevřít daleko větší dopravní zátěži. Obyvatelé ulici proti zprůjezdnění protestovali peticí. Jiří Klimek ve svém textu navrhuje kompromisní variantu.*
 
-<img src="https://i.ohlasy.info/wI2BkK1.jpg" alt="ilustrační fotografie Štefánikovy ulice" class="img-responsive">
+{% photo src="https://i.ohlasy.info/wI2BkK1.jpg" %}
 
 Možnosti otevření ulice Štefánikovy směrem ke trati vyvolávají silné reakce. Obyvatelé se zprůjezdnění obávají, sepsali proti záměru petici a popravdě se není čemu divit, když se v jedné větě zmiňuje i odlehčení křižovatce u pošty. Kapacitně v určitých časech přetížená křižovatka u pošty trápí nejen místní řidiče, pokusit se odklonit část dopravy na nevyhovující místní obslužnou komunikaci mezi rodinné domy a speciální školu je však mizerné a polovičaté řešení přinášející víc potíží, než kolik jich řeší. Samotné otevření a zprůchodnění Štefánikovy je dobrý nápad – každý záměr zlepšující prostupnost území je třeba podpořit. Je však třeba vzít do úvahy i následné jevy.
 

@@ -9,7 +9,7 @@ tags: politika investice
 
 *Kromě samotného města musí vedení Boskovic spravovat také čtyři přidružené obce, neboli přesněji místní části, kterými jsou Mladkov, Hrádkov, Bačov a Vratíkov. Na investice i běžné opravy a údržbu ale dohromady všem čtyřem částem vyčlenili zastupitelé v rozpočtu jen zhruba dva miliony korun.*
 
-<img src="https://i.ohlasy.info/Q2DyZY5.jpg" alt="Mladkov" class="img-responsive img-popup" data-author="Lukáš Malý">
+{% photo src="https://i.ohlasy.info/Q2DyZY5.jpg" author="Lukáš Malý" %}
 
 Při jednání boskovického zastupitelstva to kolikrát vypadá jako ve veliké politice. Jedna část zastupitelů osočuje druhou, padají trestní oznámení a případně se na některé dotazy odpovídá písemně, aby vše bylo správně právnicky zformulované. Vedle toho jsou ale součástí Boskovic i čtyři místní části Mladkov, Hrádkov, Bačov a Vratíkov, kde se život odehrává jako na vsi. Jediný rozdíl je v tom, že nejsou samostatné, nemají vlastní rozpočet a o peníze musí bojovat na radnici v Boskovicích.
 

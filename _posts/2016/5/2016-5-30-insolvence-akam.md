@@ -9,7 +9,7 @@ tags:
 
 *Více než dva miliony dluží bývalý provozovatel boskovické elektrárny firma AKAM Bosko městu za neplacení nájmu. Proto se také vedení města rozhodlo už v lednu podat na společnost insolvenční návrh. Otázkou ovšem je, zda nějaké peníze v insolvenčním řízení vymůže, protože se mezitím přihlásili další věřitelé s mnohamilionovými pohledávkami.*
 
-<img src="https://i.ohlasy.info/3rAZNjB.jpg" alt="boskovická solární elektrárna" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/3rAZNjB.jpg" author="Tomáš Trumpeš" %}
 
 „Zatím nic nevíme, kdy se bude pokračovat. Od soudu nám žádný dopis nepřišel,“ uvedla boskovická starostka Hana Nedomová (ČSSD). K insolvenčnímu návrhu, které město v lednu podalo, se od té doby připojilo několik dalších věřitelů.
 

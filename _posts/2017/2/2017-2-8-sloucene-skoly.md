@@ -9,7 +9,7 @@ tags: vzdělávání školství
 
 *Boskovická městská rada se na svém zasedání na konci ledna zabývala vyhodnocením výhod a nevýhod sloučení základních škol do jedné instituce. Zároveň se radní usnesli, že příští rok vypíší konkurzy na ředitele základní i mateřské školy.*
 
-<img src="https://i.ohlasy.info/PRYIkfS.jpg" alt="Zelená škola" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/PRYIkfS.jpg" author="Tomáš Trumpeš" %}
 
 Podle místostarostky Dagmar Hamalové z vyhodnocování kladů a záporů sjednocení škol jednoznačně vyplývá, že u základní i mateřské školy sloučení přineslo finanční úspory. „Další kladem sloučení je zvýšená efektivita, zejména u základní školy. Jsou více využívány úvazky učitelů, je zajištěna vysoká aprobovanost, a pokud by učitelé měli na jedné škole částečný úvazek, mají možnost mít úvazek plný s tím, že dochází na jiné pracoviště.“ Pro větší školní instituci je příznivé i to, že může spojovat investice. Při dnešním systému financování je pro ředitele výhodnější investovat ve škole, která má více žáků.
 

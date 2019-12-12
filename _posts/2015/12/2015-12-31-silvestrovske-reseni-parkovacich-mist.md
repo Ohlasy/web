@@ -7,7 +7,7 @@ tags: doprava
 
 *Řešit netradičním způsobem nedostatek parkovacích míst ve městě se v příštím roce pravděpodobně pokusí boskovická radnice. Podle informace Ohlasů se na příští jednání rady připravuje materiál, který počítá s vyhlášením veřejné soutěže, v rámci které by občané aktivně vyhledávali a upozorňovali vedení města na zbytné lokality městské zeleně, místo kterých by mohla vzniknout právě nová parkovací místa. Kdo tímto způsobem ohlásí a zajistí nejvyšší počet parkovacích stání, bude odměněn.*
 
-<img src="https://i.ohlasy.info/PTzsip7.jpg" alt="auta" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/PTzsip7.jpg" author="Tomáš Trumpeš" %}
 
 Připravovaný materiál je zatím neveřejný a vzhledem k jeho významnosti ho pravděpodobně radní obdrží takzvaně na stůl – tedy bez předchozí možnosti si jej prostudovat; zařazen bude až mezi připomínky členů rady, podobně jako to bylo v případě odvolání jednatele nemocnice. Vedení radnice informaci přímo nepotvrdilo, ale přiznává, že nové cesty, jak umožnit další nárůst automobilů ve městě hledá. „Berte to tak, že situace je pro nás samozřejmě obtížně řešitelná, město je velké a samozřejmě nemůžeme chtít, aby naši úředníci sami přicházeli s návrhy, kde by se dalo ještě parkovat. Nicméně vy víte, že větší zapojení občanů do rozhodování jsme měli v našem volebním programu,“ uvedla starostka města. „Já si navíc myslím, že auto má dnes skoro každý,“ doplnil ji místostarosta a stranický kolega.
 

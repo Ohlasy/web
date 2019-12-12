@@ -8,7 +8,7 @@ tags: nemocnice politika
 
 *Loni koncem října rozhodla městská rada jakožto valná hromada boskovické nemocnice o odvolání jednatele nemocnice Dana Navrátila. Z úst představitelů vedení města zazněly jen slova, že ztratil důvěru a že tento krok jim umožňuje zákon o obchodních korporacích. Sami ale, jak zjistila redakce Ohlasů, v minulosti jako opoziční zastupitelé také vyžadovali důvody odvolání jednatele nemocnice.*
 
-<img src="https://i.ohlasy.info/bBoG9to.jpg" alt="Dan Navrátil" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/bBoG9to.jpg" author="Tomáš Trumpeš" %}
 
 Ani po necelém roce se nechce k odvolání Dana Navrátila z pozice jednatele boskovické nemocnice boskovická starostka Hana Nedomová (ČSSD) vyjadřovat. „Nepřísluší mi komentovat rozhodnutí valné hromady,“ řekla stručně starostka, členka valné hromady.
 
@@ -23,7 +23,7 @@ Už to, že existoval písemný materiál, je rozdílem oproti loňsku. Důvody 
 Skočme teď do roku 2012, kdy znovu padl v souvislosti s diskuzí kolem nemocnice na jednání zastupitelstva dotaz na odvolání jednatele Jaroslava Černého. „Dle mého názoru se město chytilo do pasti tím, že důkladně nevysvětlilo důvody odchodu bývalého jednatele Černého, šíří se pouze nějaké dohady,“ zněly podle zápisu ze zasedání zastupitelstva 17. září 2012 slova tehdejšího opozičního zastupitele a současného radního Milana Kolínského. Na to starosta Jaroslav Dohnálek reagoval, že důvody už byly dávno řečeny a jsou také v zápisu z rady z března 2010.
 Podobně i v podnětu opoziční ČSSD ze stejného roku, pod kterým jsou podepsáni všichni její zastupitelé, stojí, že nebyly důvody odvolání jasně vysvětleny.
 
-<img src="https://i.ohlasy.info/iVVz13e.png" alt="screenshot z diskuze na webu ČSSD" class="img-responsive img-popup img-framed">
+{% photo src="https://i.ohlasy.info/iVVz13e.png" %}
  
 V ČSSD tak nastal během tří let velký obrat v pohledu na zveřejňování informací. V roce 2012 nebyli spokojeni, že neznají důvody dva roky starého odvolání jednatele. Tento zpožděný zájem o ně (v minulosti zveřejněné) se dá pochopit, protože v březnu 2010 zasedali v zastupitelstvu zcela jiní představitelé ČSSD, než kteří se do něj dostali po volbách na podzim téhož roku. Na druhé straně tu máme ale také podzim 2015, kdy ČSSD už nesedí v opozici, ale je u moci a odvolává bez udání důvodu jednatele nemocnice. Milan Kolínský k neuvedení důvodu [řekl v rozhovoru](http://ohlasy.info/clanky/2016/03/rozhovor-kolinsky.html) i tato slova: „V této situaci, jaká je, chybu nevidím. Protože proč se dostávat do dalších problémů.“ Vysvětlil, že by se zveřejním vystavili dalším rizikům a útokům ze strany opozice.
 

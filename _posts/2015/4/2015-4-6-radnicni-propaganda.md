@@ -8,7 +8,7 @@ tags: politika
 
 *Musím se přiznat k jedné vlastnosti, která možná poněkud špatně zapadá k novinářské práci – strašně nerad čtu oficiální radniční média a dokonce kupříkladu i programy politických stran před volbami. Možná to zčásti je určitý rys novinářské profese, protože marketingové stratégy a PR poradce máme tak trochu za lidi na druhé straně barikády, jakkoliv k přeběhlictví směrem tam a někdy dokonce směrem zpátky docela hojně dochází. Tiskovým mluvčím jejich práci obvykle nezávidíme, někdy je dokonce vysloveně i nevysloveně litujeme. Mají těžkou práci, pokud mají zdravý rozum.*
 
-<img src="https://i.ohlasy.info/dS3l7Eg.jpg" alt="stránka z Olešnického zpravodaje" class="img-responsive">
+{% photo src="https://i.ohlasy.info/dS3l7Eg.jpg" %}
 
 Číst podobné výstupy je mnohdy únavné právě proto, že člověk předem ví, že jejich primárním cílem jaksi není poskytnout komplexní a co možno nejpestřejší pohled na diskutovaný problém. V případě předvolebních letáků je to samozřejmé, ale i v případě městských médií se obvykle jedná víc o propagační letáky než o (plno)hodnotný informační zdroj.
 

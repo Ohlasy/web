@@ -9,7 +9,7 @@ tags: školství vzdělávání
 
 *Z rozhodnutí městské rady ponechat boskovické základní školy sloučené do jedné instituce by se mohlo zdát, že vedení města nemá vůli ze své pozice zřizovatele směřovat školu k výraznějším proměnám. Ani příslušný materiál, který měli radní před rozhodováním k dispozici, tomu příliš nenasvědčuje. Na prahu hlubších změn ale stojí celé české školství a nevyhne se to ani Boskovicím. Radnice si tuto změnu ovšem nespojila s proměnou stávajícího organizačního modelu; očekává ji od příštího ředitele.*
 
-<img src="https://i.ohlasy.info/awGsjUO.jpg" alt="" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/awGsjUO.jpg" author="Tomáš Znamenáček" %}
 
 „Nejsem o tom dostatečně přesvědčená. Velikost školy neurčuje její kvalitu, každé pracoviště základní školy může mít dostatek prostoru pro další zvyšování kvality,“ říká místostarostka Dagmar Hamalová, která má školství na starosti a sama vystudovala pedagogiku na brněnské Masarykově univerzitě. Uzavírá tak debatu o tom, jestli právě rozdělení škol by nebylo nejvhodnějším impulzem k tomu, aby se změnám ve školství v Boskovicích otevřela cesta. 
 

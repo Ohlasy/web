@@ -17,7 +17,7 @@ moudrostí a silou obrůstá.*
 
 Boskovice leží podle lesní typologie v pásmu dubo-bukovém a buko-jedlovém. Kdybychom se mohli podívat na zdejší krajinu hluboko do minulosti, viděli bychom husté bučiny a mnohé mohutné jedle, ve svazích přecházející do doubrav a v údolí potoků do neprostupných lužních křovin s olšemi, vrbami a jasany. Proto jsou tyto stromy pro zdejší kraj typické, patří sem od pradávna. 
 
-<img src="https://i.ohlasy.info/txMg1zb.jpg" alt="buk naproti ZUŠ" class="img-responsive">
+{% photo src="https://i.ohlasy.info/txMg1zb.jpg" %}
 
 Nejznámějším a samostatně stojícím bukem v Boskovicích je určitě buk lesní (*Fagus sylvatica*) na náměstí 9. května (u „Zelené“ ZŠ). Další nádherný a mohutný buk roste v zámecké zahradě pod zámkem, jedná se o červenolistý kultivar (*Fagus sylvatica cv. Atropunicea*). Bukové stromořadí najdete na ulici Mánesova a krásné červenolisté buky také lemují zahradu MŠ na ulici Lidická. 
 
@@ -31,7 +31,7 @@ Z bukvic se v minulosti lisoval velice kvalitní olej. Kromě toho, že jsou b
 
 Buky pro svou mohutnost nejsou příliš vhodné do města, ale jsou oblíbenou solitérou parků, zvláště pak červené kultivary, které se většinou roubují na kmen. V místě štěpování, které je často patrné vyboulením, jsou pak v dospělosti citlivé a při velkých poryvech větru se mohou lámat. Stalo se tak asi před sedmi lety s několika buky na Lidické ulici, které lemují zahradu u Mateřské školy. Dříve je chránilo stromořadí bříz, které byly pro své stáří vykáceny. Myslím, že už se buky se ztrátou svých chův vypořádaly a samy přebraly úlohu ochrany skřítků – malých lidských bytostí, které se stejně jako ony musejí, i když jen na čas, vzdálit z rodičovské náruče. Když děti po obědě spí, určitě jim otevřeným oknem zpívají ukolébavky a provází jejich sny do příjemného probuzení.
 
-<img src="https://i.ohlasy.info/DlsUQiQ.jpg" alt="buky u mateřské školy" class="img-responsive">
+{% photo src="https://i.ohlasy.info/DlsUQiQ.jpg" %}
 
 ### Bukové stromořadí na ulici Mánesova
 

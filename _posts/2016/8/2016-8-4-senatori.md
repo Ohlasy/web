@@ -8,7 +8,7 @@ tags: politika volby
 
 *Přihlášky do podzimních senátních voleb jsou uzavřené. Ve volebním obvodě číslo 49, který zahrnuje celý okres Blansko a severní okraj okresu Brno-venkov, se o senátorské křeslo rozhodlo bojovat devět kandidátů. Nabízíme jejich přehled s odpověďmi, proč se rozhodli kandidovat a jaké věci chtějí pro Blanensko v případě zvolení prosadit.*
 
-<img src="https://i.ohlasy.info/KNypzih.jpg" alt="interiér senátu" class="img-responsive img-popup" data-author="Krokodyl, Wikipedia Commons">
+{% photo src="https://i.ohlasy.info/KNypzih.jpg" author="Krokodyl, Wikipedia Commons" %}
 
 ---
 

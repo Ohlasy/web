@@ -16,7 +16,7 @@ V jistém období žádala si odhození štětce a přímý dotek malířových 
 
 Jindy je láska zbavena bezprostředních doteků a odkázána na nástroj – štětec, jehož je hybnou silou. Za skutečnou zkoušku pak může být považován moment, kdy je zbavena i takto zprostředkovaných doteků.
 
-<img src="https://i.ohlasy.info/fQ4nAou.jpg" alt="portrét vytvořený plamenem" class="img-responsive img-popup" data-author="Jana Ondráčková">
+{% photo src="https://i.ohlasy.info/fQ4nAou.jpg" author="Jana Ondráčková" %}
 
 Chce to jistě velkou odvahu – poodstoupit ještě dál a spolehnout se, že žár je dostatečně silný a dolehne na obraz s patřičnou intenzitou. Ano, ono trochu banální úsloví připomínající, že „jen ten, kdo hoří, může zapalovat“, nabývá ve Vítkových malbách plamenem nových významů. Takto malovat může jen ten, kdo se dokáže vzdát touhy mít vše pod kontrolou a držet to pevně v ruce, kdo se odváží přizvat do vlastního tvůrčího procesu, do vlastního malovat i milovat, něco ne zcela ovladatelného, něco přesahujícího a žhnoucího.
 

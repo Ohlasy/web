@@ -9,7 +9,7 @@ tags: kultura kino
 
 *Kino Panorama uvedlo film o vůbec nejproslulejším boskovickém rodákovi, fotografu Josefu Koudelkovi. K tomu je ovšem slušné dodat, že Josef Koudelka se sice narodil v roce 1938 v Boskovicích, ale sláva jeho původu po právu náleží nedalekému Valchovu. Film nazvaný Koudelka fotografuje Svatou zemi vznikal pět let a zachycuje věhlasného tvůrce a člena nejprestižnější fotografické agentury Magnum při práci na území Izraele a Palestiny.*
 
-<img src="https://i.ohlasy.info/IipdJMf.jpg" alt="Josef Koudelka" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/IipdJMf.jpg" %}
 
 Autorem snímku je izraelský režisér Gilad Baram, který pracoval jako Koudelkův asistent. Pro film zvolil velmi prostý způsob sdělení, který nám dopřává jakoby postávat při práci fotografovi v zádech, v zastavených okamžicích hledět na jeho fotografie na velkém plátně kina a střídmě si vyslechnout jeho často jednoduché, ale přesné a řízné komentáře.
 

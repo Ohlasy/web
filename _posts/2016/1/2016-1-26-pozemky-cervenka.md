@@ -15,7 +15,7 @@ tags:
 
 Na jaře minulého roku začalo vedení města vyjednávat s několika majiteli pozemků v Červené zahradě o odkupech jejich pozemků, konkrétně se jedná o Jiřího Dvořáčka, Jana Paroulka, Zdeňka Zemana a společnost MP Holding. Podle současné boskovické koalice se nyní městu naskytla jedinečná příležitost na odkup těchto pozemků, jaká se už nemusí v budoucnu opakovat. Jejich odkoupení považuje za strategicky důležité, aby se mohla Červená zahrada dále rozvíjet.
 
-<img src="https://i.ohlasy.info/5FasXGE.jpg" alt="Dvořáčkův mlýn" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/5FasXGE.jpg" author="Tomáš Znamenáček" %}
 
 ### Pozemky Jiřího Dvořáčka
 
@@ -27,7 +27,7 @@ Co konkrétně navýšilo cenu, už v zápisech není. Na zářijovém zastupite
 
 Mezi částkou 13,4 milionu, ke které došel Milan Kolínský, a následnou částkou 14 milionů je rozdíl více než půl milionu, což není vzhledem k jednáním s jinými vlastníky zanedbatelná částka. Vysvětlení navýšení se nachází v zápisu ze schůzky s Jiřím Dvořáčkem z 10. srpna. „Dnešní jednání bylo svoláno na žádost pana Dvořáčka. Pan Dvořáček nás seznámil s novou skutečností, a to, že si při předchozích jednáních neuvědomil svůj závazek, který se týká 5 ks chatek a hygienického zařízení. Závazek pro něho znamená vypořádání se se svým společníkem. Na základě uvedeného požaduje navýšení kupní ceny na částku 14 milionů korun. Obě zúčastněné strany si potvrdily, že je to částka konečná,“ stojí v zápisu. Starostka Boskovic Hana Nedomová navýšení obhajuje tím, že se snažili pouze domluvit. „V případě, že by chtěl pan Dvořáček cenu ještě vyšší, nevyhověli bychom mu,“ řekla starostka na prosincovém zastupitelstvu. 
 
-<img src="https://i.ohlasy.info/H6oEPtU.jpg" alt="autobazar" class="img-responsive img-popup" data-author="Marek Osouch">
+{% photo src="https://i.ohlasy.info/H6oEPtU.jpg" author="Marek Osouch" %}
 
 ### Pozemky Zdeňka Zemana
 
@@ -35,7 +35,7 @@ Začátkem dubna se vedení města setkalo také s majitelem autobazaru Zdeňkem
 
 Zdeněk Zeman si informace města vyslechl a sám si nechal zpracovat znalecký posudek, který ocenil pozemek jeho autobazaru na téměř 6 milionů korun, což vyjednávací tým nepřijal. „V případě jeho zájmu nás bude kontaktovat do konce srpna 2015,“ stojí v zápisu s tím, že Zdeněk Zeman zváží i možnost směny pozemku. Do konce srpna se ovšem radnici znovu neozval. Pod cenu 6 milionů nechce v žádném případě jít, jak potvrdil redakci Ohlasů v říjnu minulého roku.   
 
-<img src="https://i.ohlasy.info/fKslRhd.jpg" alt="pozemek vedle hotelu Velen" class="img-responsive img-popup" data-author="Marek Osouch">
+{% photo src="https://i.ohlasy.info/fKslRhd.jpg" author="Marek Osouch" %}
 
 ### Pozemky Jana Paroulka
 
@@ -45,7 +45,7 @@ Jan Paroulek byl také ochoten jednat o směně, a tak vedení města přišlo n
 
 Rada města přijala v srpnu usnesení jednat o směně jen části pozemku Jana Paroulka. Ten s dělením ale nesouhlasil. Buď prodá celý pozemek, nebo nic. „Nebrání se tomu, pokud bude předložena projektová dokumentace, která by byla ze strany města v souladu s jeho záměry, zajistit prodej zhruba 5000 metrů čtverečních. Pokud jde o cenu, ta by v žádném případě nebyla nižší než 3500 korun za metr, ba naopak uvažuje o navýšení této ceny,“ stojí v zápisu ze zatím poslední schůzky 4. listopadu.
 
-<img src="https://i.ohlasy.info/JN0cVNA.jpg" alt="skautská louka" class="img-responsive img-popup" data-author="Marek Osouch">
+{% photo src="https://i.ohlasy.info/JN0cVNA.jpg" author="Marek Osouch" %}
 
 ### Pozemky společnosti MP Holding
 

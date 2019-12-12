@@ -8,7 +8,7 @@ tags: zdravotnictví
 
 *Rozsáhlé zemětřesení v Nepálu si na konci dubna vyžádalo tisíce obětí na životech, mnoho zraněných a obrovské škody. Katastrofa vyvolala také v České republice velkou vlnu solidarity. Vedle těch, kteří přispěli na pomoc postiženým oblastem finančně, existují také lidé, kteří s odvahou a vědomím potřebnosti akutní pomoci odjeli v rámci své profese pomáhat přímo do Nepálu. Mezi tyto lidi patří i zdravotnice Katka Opálková, která je členkou českého traumatýmu, jehož účast v Nepálu odsouhlasila bezprostředně po katastrofě česká vláda. Autorem fotografií, které článek doprovázejí, je Michal Franta.*
 
-<img src="https://i.ohlasy.info/BoKu2ej.jpg" alt="Katka v Nepálu" class="img-responsive">
+{% photo src="https://i.ohlasy.info/BoKu2ej.jpg" %}
 
 Pro Katku začala účast na misi pípnutím speciální esemesky na mobilním telefonu v neděli 26. dubna večer, tedy den po katastrofě. Ten den ráno končila noční službu v bohunické nemocnici a společně s kolegyní se při loučení v nadsázce bavily o tom, co si sbalí s sebou na cestu. V nadsázce proto, že účast českého traumatýmu, jehož jsou členkami, spíše nepředpokládaly. Navíc se poté Katka Opálková obrátila na šéfa týmu, primáře Petra Nestrojila, který rovněž nepředpokládal, že by čeští hasiči a zdravotníci byli do Nepálu vysláni. Večerní esemeska proto byla překvapivá.
 
@@ -27,7 +27,7 @@ vyslali do jedné z nejvíce postižených oblastí.“
 
 Melamchi je městečko menší než Boskovice a zásah zemětřesením zde byl velmi patrný. Čeští záchranáři viděli sesuté domy a čekal je velký počet zraněných, kteří potřebovali odbornou zdravotnickou pomoc. Na místě postavili mobilní stanovou nemocnici a začali pracovat. „Jsme taková předsunutá jednotka, která má za úkol spolupracovat s nemocničním zařízením. Tím se rozumí, že poskytneme pacientům tu první nejdůležitější pomoc, tedy zajištění základních životních funkcí a první vyšetření. Máme intenzivní péči, takže jsme schopni pacienta na několik dnů hospitalizovat, ale pokud potřebuje kupříkladu operační zákrok, transportujeme ho do nemocnice,“ vysvětluje Katka Opálková.
 
-<img src="https://i.ohlasy.info/tWpLhPr.jpg" alt="Tábor" class="img-responsive">
+{% photo src="https://i.ohlasy.info/tWpLhPr.jpg" %}
 
 
 ### Nezahálet ani vteřinu
@@ -48,7 +48,7 @@ Dlouhý pobyt na misi kladl na účastníky samozřejmě nemalé nároky. „Ná
 
 Velkou psychickou zátěž způsobilo, když výprava zažila na místě další zemětřesení. Tehdy se naplno ukázalo, jak důležité bylo, že hasiči našli místo, které bylo v dostatečné vzdálenosti od budov, nebylo pod svahem, ani v dosahu dalších komplikací. Česká nemocnice proto zůstala zemětřesením prakticky nedotčena. Síla zemětřesení byla 7,4 stupňů Richterovy stupnice, ohnisko bylo asi 40 kilometrů od Melamchi, v hloubce 17 kilometrů. Trvalo přibližně 20 vteřin. Původní zemětřesení trvalo mnohem déle a bylo z menší hloubky. I tak samozřejmě nebyl tento zážitek vůbec příjemný. „Nás to nezasáhlo, ale viděli jsme, jak padají domy, potom nám samozřejmě přibyli pacienti. Nepříjemné to bylo, ale v ten moment jsme věděli, že hlavně musíme okamžitě začít fungovat.“
 
-<img src="https://i.ohlasy.info/CcaRgTp.jpg" alt="Sutiny" class="img-responsive">
+{% photo src="https://i.ohlasy.info/CcaRgTp.jpg" %}
 
 ### Návrat do původních kolejí 
 

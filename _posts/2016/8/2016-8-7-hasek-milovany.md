@@ -8,7 +8,7 @@ tags: politika volby
 
 *Jihomoravský hejtman Michal Hašek dokáže dlouhodobě kromě kumulace nejrůznějších funkcí kumulovat také kauzy, které by jinému politikovi možná dávno zlomily vaz. Ta poslední se týká neexistující mluvčí, či spíše existující lobbistky, jež nejspíš inkasovala od kraje statisíce, aniž by kdo přesně věděl za co. V nejrůznějších diskusích se v této souvislosti stále objevuje tvrzení, že Haškova pozice je bez ohledu na jakékoliv kauzy neotřesitelná a že je svými voliči zde na jižní Moravě stále milován. Je tomu ale skutečně tak?*
 
-<img src="https://i.ohlasy.info/YV5rLoK.jpg" alt="Michal Hašek" class="img-responsive img-popup" data-author="Ben Skála">
+{% photo src="https://i.ohlasy.info/YV5rLoK.jpg" author="Ben Skála" %}
 
 Michal Hašek se svou pověstí oblíbeného hejtmana umí dobře pracovat a intenzita jeho sebepropagace je drtivá. Bližší pohled na volební výsledky z minulých let však ukazuje, že sociální demokracie s Michalem Haškem v kraji až tak neprospívá a naopak by mohla mít zaděláno na docela vážný problém. A svoje jisté, jak se rovněž s oblibou traduje, nemají ani lidovci, kteří jsou pro Michala Haška poměrně klíčovým spojencem, pokud chce svůj pobyt v jihomoravském hejtmanském křesle protáhnout na dvanáct let.
 

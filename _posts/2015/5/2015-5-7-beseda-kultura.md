@@ -8,7 +8,7 @@ tags: kultura
 
 *Jako téma první z Besed Za rohem, jak jsme nazvali nový diskusní formát, ve kterém chceme zprostředkovávat názory různých osobností v přímé konfrontaci u kavárenského stolu, jsme zvolili boskovickou kulturu. Naše pozvání přijali Oldřich Kovář – ředitel Kulturních zařízení města Boskovice (KZMB), Lenka Bařinková – pedagožka a sbormistryně, Radek Pernica – bývalý vedoucí boskovického kina a současný šéf brněnského univerzitního kina Scala a Tomáš Znamenáček – pořadatel kulturních akcí a člen divadla NABOSO. Besedu moderoval Tomáš Trumpeš.*
 
-<img src="https://i.ohlasy.info/UhzluNc.jpg" alt="fotografie z besedy" class="img-responsive">
+{% photo src="https://i.ohlasy.info/UhzluNc.jpg" %}
 
 **Často se říká, že Boskovice jsou kulturní město. Souhlasíte s tímto tvrzením? A o co konkrétně své přesvědčení opíráte? Jaké jsou nejdůležitější aspekty této kulturnosti?**
 

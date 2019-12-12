@@ -8,7 +8,7 @@ tags: politika
 
 *Britského spisovatele Gilberta K. Chestertona u nás známe především jako spisovatele detektivek, které spojuje postava otce Browna.  Méně lidí ví, že byl římským katolíkem a vedle své literární tvorby napsal i vážně míněnou obranu své víry, pod titulem Orthodoxie. Název působí kamenně, ale obsahem je to dílko překvapivě svižné, plné odvážných myšlenek, za které by se nemuseli stydět ani moderní teologové.*
 
-<img src="https://i.ohlasy.info/FlE5w20.jpg" alt="židovský hřbitov" class="img-responsive">
+{% photo src="https://i.ohlasy.info/FlE5w20.jpg" %}
 
 [Na jednom místě](http://www.pagebypagebooks.com/Gilbert_K_Chesterton/Orthodoxy/The_Ethics_of_Elfland_p2.html) hájí autor církev před obviněním, že je nedemokratická. Kdepak, namítne břitce Chesterton, ona je dokonce demokratičtější, než moderní společnost. Ve společnosti se rozhoduje hlasováním všech přítomných. U křesťanů je demokratické hlasování rovněž, jenže je širší: hlas mají totiž kromě živých i zemřelí, tedy ti, kdo věřili dříve. Změny jsou možné, ale dějí se vždycky v dialogu s minulostí.
 

@@ -10,7 +10,7 @@ tags: historie
 
 *Boskovice patřily od konce 17. století, kdy je získal sňatkem Walter František Xaver, sekundogenituře – tedy vedlejší větvi rodu Dietrichsteinů. V 1. polovině 19. století Boskovické panství náleželo Františku Xaverovi, hraběti z Dietrichsteina, který zde nechal v letech 1819–1826 vybudovat nový zámek, o němž Řehoř Volný nedlouho po dostavbě obdivně napsal: „…čtyřboká budova, obklopená nanejvýš vkusnými zahradami, patří mezi nejkrásnější v zemi. Interiéry jsou vyzdobeny mezi jiným obrazy z tureckých válek z roku 1683 a byly malovány holandskými mistry na pergamen se zlatým podkladem – vzácnost, kterou vlastní v zemi jen tento zámek.“*
 
-<img src="https://i.ohlasy.info/QKLcXcx.jpg" alt="Christian Hirsch, Boskovice, olej na plátně, 1834" class="img-responsive">
+{% photo src="https://i.ohlasy.info/QKLcXcx.jpg" %}
 
 *Moravský historik a topograf, rajhradský benediktin Tomáš Řehoř Volný (1793–1871) zpracoval statistický a historický přehled jednotlivých panství na Moravě. Materiál sbíral od počátku 30. let 19. století, statistická data získával z dotazníků rozesílaných na základě nařízení gubernia krajskými úřady všem vrchnostenským úřadům. Tato metoda byla tehdy na Moravě použita vůbec poprvé. V dotaznících měli popsat tehdejší stav jednotlivých panství, a to k roku 1834. Další údaje získal z katastrů z let 1785 a 1820–1822 a studiem pramenů v archivech, zemských desek, a tak dále. Dílo vydal v letech 1835–1842 vlastním nákladem v sedmi svazcích. Dodnes je tato Volného práce důležitým zdrojem informací pro politické, hospodářské, sociální i kulturní dějiny Moravy 1. poloviny 19. století, a právě pro toto období přináší řadu zajímavých informací i o Boskovickém panství v této době.*
 
@@ -24,13 +24,13 @@ Na území panství jsou stanoveny trigonometrické body: 1. hora Chlum u Obory,
 
 V západní části panství až k Šebetovu se nachází syenit (v dnešní terminologii grandiorit, užívá se zejména jako stavební kámen), u Valchova, Újezda a Vratíkova vápenec, u Boskovic převládá (zejména směrem k Valchovu) velmi mocný pískovec. Z minerálů se nachází u Obory kamenec, ušlechtilý jantar (míněna fosilní pryskyřice valchovit), uhlí a pyrit. Údajně se zde mělo někdy v minulosti těžit dokonce i zlato a stříbro, díky němuž prý zbohatnul a získal šlechtický titul rytíř Hofmann z Kučerova (žijící kolem roku 1600). Ze zbytků kysličníku hlinitého se připravoval umělý vitriol. Roku 1787 odhalil chemik Weisbach u Valchova v malé hloubce 24 láter (látro = asi dva metry) celé ložisko živičného dřeva. Od té doby je zdejší pyrit využíván k výrobě ledku.
 
-<img src="https://i.ohlasy.info/rqxlEXC.jpg" alt="Ledková huť na Boskovickém panství na mapě stabilního katastru z r. 1826, detail" class="img-responsive">
+{% photo src="https://i.ohlasy.info/rqxlEXC.jpg" %}
 
 Zdejší ledkové hutě jsou stejně staré jako u Černé Hory. Ledek v současnosti vyrábějí 2 továrny, totiž v Oboře a ve Valchově, z nichž první vyrobí v jedné huti s třemi pecemi a mnoha kotli a v počtu 24 dělníků ročně nejméně 961 centnýřů (centnýř = kolem 50 kg), druhá v 1 huti s 3 pecemi a 3 kotli s 51 dělníky 1200 centnýřů ledku.
 
 Vrchnost drží, vedle výše zmíněných ledkových a vitriolové huti, dvě továrny na uměleckou sádru založené v letech 1829 a 1830, které ročně vyrobí více než 1000 centnýřů velmi dobré umělecké sádry, která tak může z velké části nahradit dovoz z ciziny. Dále drží skelnou huť u Protivanova, která v jedné peci a třech kotlech s 18 pracovníky vyrobí ročně 4100 kusů různých sklenic a skleněných tabulí a také chce vybudovat továrnu na zrcadla; dále dvě potašové hutě, v Boskovicích a v Oboře, které v osmi pracovnících ze čtyř pecí a čtyř kotlů ročně vyrobí okolo 300 centnýřů potaše; a tři pily ve vlastní režii. Ve Lhotě Rapotině je papírenský mlýn, který v osmi pracovnících ročně vyrobí kolem 200 balíků různých papírů.
 
-<img src="https://i.ohlasy.info/c0OsppQ.jpg" alt="Skelná huť u Protivanova na mapě stabilního katastru z r. 1826, detail" class="img-responsive">
+{% photo src="https://i.ohlasy.info/c0OsppQ.jpg" %}
 
 Ledek, vitriol, sádra a skleněné zboží nacházejí svůj odbyt ve všech částech monarchie; dřevo na Hané, v Prostějově a zejména v Brně, rovněž tak štětka soukenická; obilí a len pak na trzích v Boskovicích, Prostějově, Březové a Litomyšli.
 
@@ -45,7 +45,7 @@ Vrchnost obhospodařuje přes 1800 jiter polí, 900 jiter luk a
 pastvin a 9000 jiter lesů; poddaní přes 7000 jiter polí, 2000 jiter luk a pastvin a 800 jiter lesů (jitro odpovídá 0,315 ha).
 Půda je v údolích, zejména od Skalice přes Boskovice k Jevíčku, bohatá na humus, černozem, dosahující místy až dva střevíce (tedy asi 60 cm) do hloubky, ležící na slínovci je velmi vhodná pro pěstování pšenice, ječmene, konopí, máku, prosa a štětky soukenické (druh bodláku užívaný k česání sukna).
 
-<img src="https://i.ohlasy.info/DvIAG6F.jpg" alt="Štětka soukenická" class="img-responsive">
+{% photo src="https://i.ohlasy.info/DvIAG6F.jpg" %}
 
 Vrchnostenské lesy jsou rozděleny do osmi revírů, v nichž převládají jedle a buky, výrazněji se vyskytují jasany, břízy, duby a javory; borovice jsou na písčitých půdách a smrky se používají k umělému zalesňování. K lovu se nabízí stálá zvěř: daňci, kteří jsou chováni v jediné oboře u Boskovic, srny, zajíci, bažanti, koroptve a jeřábci; vzácně přichází také jelen.
 Ovocnářství je hlavně zaměřené na modré ovoce, v oplocených zahradách v místech ležících v údolí, nejpilněji je pěstováno v obci Vísky, kde se také rodí dobrá jablka; vrchnost naproti tomu pěstuje šlechtěné ovocné stromy ve velkém množství jak v zahradách, tak i na volných pláních.

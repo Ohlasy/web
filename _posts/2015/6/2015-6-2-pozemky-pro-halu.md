@@ -9,7 +9,7 @@ tags:
 
 *Do zastupitelstva, kde se rozhodne o osudu sportovní haly na Slovákově, zbývá necelý měsíc. Audit, který si nechávalo vedení města zpracovávat, už je hotový. Pro rozhodování zastupitelů však nebude jediným kritériem. K auditu navíc přibudou zpracovávané ekonomické analýzy. Starostka Hana Nedomová tak stále neprozradila, jak sama bude hlasovat. Pro případ, že by zastupitelé nakonec zrušili stavbu haly na Slovákově, si boskovická radnice vytipovává lokality, kde jinde by mohla sportovní, nebo i multifunkční hala stát.*
 
-<img src="https://i.ohlasy.info/IC8D3vt.jpg" alt="pozemek vedle hotelu Velen" class="img-responsive">
+{% photo src="https://i.ohlasy.info/IC8D3vt.jpg" %}
 
 ### Pozemek vedle bývalého hotelu Velen
 
@@ -23,7 +23,7 @@ Boskovická radnice ale nejednala pouze s Janem Paroulkem, ale také dalšími v
 
 Starostka Boskovic Hana Nedomová (ČSSD) nebyla k jednáním s majiteli parcel moc sdílná. „Máme v programu zmapování pozemků a dokončení areálu Červená zahrada, takže to se nevylučuje s ničím. Jednáme s vlastníky pozemků v Červené zahradě a uvidíme, jak se ta jednání vyvinou,“ okomentovala.
 
-<img src="https://i.ohlasy.info/AVRP4gU.jpg" alt="plácek za pedagogickou školou" class="img-responsive">
+{% photo src="https://i.ohlasy.info/AVRP4gU.jpg" %}
 
 ### U středních škol  
 
@@ -35,25 +35,25 @@ Jednání zatím vedlo vedení města konkrétně s ředitelkou Střední pedago
 
 Jednání neproběhla ani s ředitelem střední odborné školy a učiliště na náměstí 9. května Karlem Ošlejškem, který je zároveň radním za ČSSD. „Nejednalo se o této variantě a podle mě ani není na pořadu dne,“ uvedl. Nepopřel však, že by v areálu školy nebylo na halu dostatek místa. 
 
-<img src="https://i.ohlasy.info/KZ8hEuX.jpg" alt="pole za nemocnicí" class="img-responsive">
+{% photo src="https://i.ohlasy.info/KZ8hEuX.jpg" %}
 
 ### Pole za nemocnicí
 
 Původně tam měly stát bytové domy. Developerská společnost Reko ovšem nenašla dost zájemců o byty, a tak prodala pozemek s rozestavěnými základy prvního domu zpátky městu. Zatím tam nic není a vedení města ani konkrétní plán nemá. Podle návrhu nového územního plánu je pole určené stále pro stavbu bytových domů, nikoli tedy zázemí pro sport a rekreaci. V úvahách města však tato lokalita figuruje.
 
-<img src="https://i.ohlasy.info/B9BYva1.jpg" alt="parcela vedle Bodosu" class="img-responsive">
+{% photo src="https://i.ohlasy.info/B9BYva1.jpg" %}
 
 ### Parcela vedle Bodosu
 
 Mezi vytipovanými lokalitami je dále nezastavěná plocha mezi areálem Bodosu a domy na Janáčkově ulici. Tam ale město vlastní jen třetinu pozemku. Další dvě třetiny mají soukromí vlastníci. Navíc návrh územního plánu tuto plochu zařazuje mezi pozemky pro průmysl. „Když zjistíme, že je někde vhodná lokalita, tak se tím zabýváme,“ zopakovala starostka Boskovic. 
 
-<img src="https://i.ohlasy.info/O6p8ya2.jpg" alt="farská louka" class="img-responsive">
+{% photo src="https://i.ohlasy.info/O6p8ya2.jpg" %}
 
 ### Farská louka
 
 Sportovní zápasy by se mohly hrát dokonce vedle Židovského hřbitova. „Podali jsme nejdříve ústní a potom písemnou žádost na Římskokatolickou farnost na pozemek u Židovského hřbitova známý jako farská louka. Sledujeme všechny možnosti,“ doplnila místostarostka Boskovic Jaromíra Vítková (KDU-ČSL).
 
-<img src="https://i.ohlasy.info/TGSWTN1.jpg" alt="současný interiér jízdárny" class="img-responsive">
+{% photo src="https://i.ohlasy.info/TGSWTN1.jpg" %}
 
 ### Jízdárna
 

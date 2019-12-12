@@ -8,7 +8,7 @@ tags: podnikání
 
 *Chodit od domu k domu, zvonit na zvonky a snažit se vnutit lidem svoje zboží, které nemusí být pokaždé skutečně výhodné. Tak také může vypadat podomní prodej. Proti nekalým praktikám prodejců a na ochranu svých obyvatel začaly před třemi lety přijímat obce a města vyhlášky, přesněji tržní řády, které podomní a pochůzkový prodej na území obce zakazují. Od roku 2013 takovou vyhlášku přijalo na Boskovicku 24 obcí, z nichž velká část tak učinila v loňském roce. Byly mezi nimi i Boskovice.*
 
-<img src="https://i.ohlasy.info/cxvoklY.jpg" alt="cedulka zákazu podomního prodeje v Lysicích" class="img-responsive img-popup" data-author="Martin Strachoň">
+{% photo src="https://i.ohlasy.info/cxvoklY.jpg" author="Martin Strachoň" %}
 
 V Boskovicích začal zákaz podomního prodeje platit s prvním lednem letošního roku [podle nařízení 7/2015](https://data.ohlasy.info/2016/trzni-rad.pdf). Hlavní důvodem zákazu je ochránit především starší občany, kteří mohou nátlakům ze strany prodejců snadněji podlehnout. Do konce března ještě mají být na všech příjezdech do města cedule oznamující, že je ve městě podomní a pochůzkový prodej zakázán. Každý by tak měl být podle starostky Hany Nedomové o zákazu informován. Jestli nařízení bude mít skutečně dobré výsledky, se teprve ukáže. Podomní prodejci často totiž můžou z města zmizet dříve, než k nim přijede městská policie.
 
@@ -20,7 +20,7 @@ Na první pohled by se mohlo zdát, že 24 obcí, kde mají zákaz, musí být v
 
 [Zde je k nahlédnutí mapa](https://www.google.com/maps/d/viewer?mid=zvNXqmU1JYlM.kF6Jh3ogFMbI), na které je u každé obce zmíněno, zda přijala nebo nepřijala vyhlášku. U většiny obcí, kde není vyhláška, je také důvod, proč vyhlášku nemají. Tam, kde ji mají, je zmíněn rok přijetí vyhlášky. Následující mapa zobrazuje jednotlivé katastry obcí Boskovicka. Červeně jsou vyznačené obce se zákazem, zeleně obce bez něj:
 
-<img src="https://i.ohlasy.info/tPlOfPf.png" alt="mapa zákazu podomního prodeje na Boskovicku" class="img-responsive img-popup img-framed" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/tPlOfPf.png" author="Tomáš Znamenáček" %}
 
 Obce, kde vyhláška není, jsou ovšem převážně malé, žije v nich pár desítek nebo stovek obyvatel. Podle výpovědí starostů u nich vyhláška není potřeba, prodejci k nim do obcí ani nejezdí, z obyvatel si nikdo nestěžoval a na případný pohyb prodejců upozorní rozhlasem. „My jsme rozlehlá, ale zároveň malinká obec. Pro cizince je to ztracený kraj,“ vysvětlila Aura Kučerová, starostka nejmenší obce na Boskovicku Lhoty u Olešnice, kde trvale žije 35 obyvatel.
 

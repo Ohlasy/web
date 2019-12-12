@@ -14,7 +14,7 @@ tags:
 
 Obecní volby se konaly každé tři roky, pokud nedošlo k mimořádné situaci (například rezignaci starosty). Nově zvolení představitelé museli složit v synagoze přísahu Bohu všemohoucímu a jeho c.k. apoštolskému veličenstvu Františku Josefu I., že budou věrní a poslušní, a že budou své povinnosti svědomitě plnit. Večer po obecních volbách byl pořádán pochodňový průvod. Kancelář boskovické židovské samosprávy se nacházela v přízemí domu Bílkova č. 7, naproti pak od roku 1894 měla své sídlo obec náboženská v čele s voleným předsedou. Obě kanceláře byly propojeny dveřmi.
 
-<img src="https://i.ohlasy.info/lfW1ynS.jpg" alt="Alfons Mensdorff de Pouilly" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/lfW1ynS.jpg" %}
 
 Jaroslavu Bránskému se podařilo na základě  archívních dokladů sestavit úplnou chronologii starostů židovské obce. Co víme o těchto mužích, kteří významnou měrou ovlivňovali život v boskovické židovské obci? Prvního z nich, Alfonse hraběte Mensdorffa de Pouilly (starostou poprvé 1850 až 14. ledna 1852, podruhé 1861 až 20. července 1870), v Boskovicích všichni známe jakožto majitele boskovického panství, kam se dostal roku 1843 sňatkem s Teresií Rosou Dietrichsteinovou. Po určitou dobu působil také jako starosta křesťanského města Boskovice; pro výkon funkce starosty ve městě židovském musel mít souhlas římskokatolického farního úřadu a předepsaný slib pak skládal v zámecké kapli. Svou funkci bral velmi vážně, byť se většinou osobně zasedání rady nezúčastňoval, nesl veškerou zodpovědnost za úřední záležitosti obce. O jeho oblibě svědčí fakt, že byl do funkce starosty zvolen dvakrát a roku 1864 obdržel čestné občanství Židovského města Boskovice.
 
@@ -28,7 +28,7 @@ Mezi přední rodiny v boskovické židovské obci patřila rodina Ungarů. Jej�
 
 Předposledním židovským starostou byl (1905 až 26. dubna 1906) tiskař Heinrich Walt, původně Wassertrilinger, který svou tiskárnu provozoval v přízemí domu Zborovská  č. 85 (nyní 13). V roce 1906 odešel Walt do Vídně, kde po dvou letech jako tiskař zkrachoval.
 
-<img src="https://i.ohlasy.info/SlV8aTP.jpg" alt="Julius Weiss" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/SlV8aTP.jpg" %}
 
 Nelehký úkol připadl Juliu Weissovi, poslednímu v řadě židovských starostů (1906 až 28. června 1920). Přes protesty boskovických Židů vláda ČSR usnesením z 15. července roku 1919 sloučila obě části Boskovic v jednu místní obec, ale k faktickému zániku židovské obce došlo až v roce následujícím. 28. června 1920 byl v kanceláři židovské obce sepsán protokol o sloučení obou obcí, jmění obce izraelitské bylo převedeno na město Boskovice. Obecní přebytek v hotovosti, akciích a vkladních knížkách činil 41 017,19 K, dále byly předmětem předání pojistky, válečné půjčky, obligace Moravské zemské banky v Brně, inventář kanceláře, pokladní knihy, různé zákoníky apod. Dle zápisu v městské kronice dlouholetý starosta židovské obce Boskovice Julius Weiss zemřel 26. ledna 1933 ve věku 81 let. Obchodoval s mlýnskými výrobky, byl v kraji známou osobností a jako rozvážný muž, dobré povahy požíval všestranné vážnosti. Pohřbu se zúčastnila i městská rada, zástupci úřadů, korporací a podobně.
 

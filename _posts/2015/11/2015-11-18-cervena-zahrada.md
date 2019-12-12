@@ -11,7 +11,7 @@ tags:
 
 *[Čtyři varianty umístění sportovní haly](/clanky/2015/11/varianty-haly.html) v areálu Červená zahrada představila boskovická radnice. Architekt Petr Ondráček pro nás kromě [anketní odpovědi](/clanky/2015/11/anketa-cervenka.html) napsal rozsáhlejší text o potřebě řešit celý areál v širších souvislostech. Město by podle něj mělo mít především ambici na vytvoření kvalitní urbanistické studie, doplněné o moderně zpracované sadové úpravy se soudobou architekturou vlastní sportovní haly.*
 
-<img src="https://i.ohlasy.info/EG4sdcm.jpg" alt="areál Červená zahrada" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/EG4sdcm.jpg" author="Tomáš Znamenáček" %}
 
 Vzhledem k tomu, že jsem Boskovák, stále aktivně sportuji (byť už ne na vrcholové úrovni) a pracuji jako architekt, rád bych se pokusil podívat na tento materiál pokud možno s nadhledem a v důležitých širších souvislostech.
 
@@ -27,7 +27,7 @@ V souvislosti s umístěním haly je v této fázi důležitější zabývat se 
 
 Je třeba si uvědomit, že nechceme jen halu, ale fungující areál s jasnou koncepcí rozvoje a logikou provozu v něm. Tyto úvahy nebyly vždy ideálně možné, neboť jak všichni víme, město donedávna nedisponovalo potřebnými pozemky. Je škoda, že vedení města nešlo o krok napřed a formou spolupráce například s brněnskou Fakultou architektury v rámci semestrálních prací ateliéru Urbanismu a územního plánování nenechalo zpracovat hypotetické studie na budoucí rozvoj areálu. V zadání mohlo být řečeno, že je možné uvažovat i o plochách, které by město mohlo anebo chtělo v budoucnu odkoupit. Věřím tomu, že by studenti velmi rádi popustili uzdu své fantazie a radnice už dávno mohla mít v ruce podobné studie. Předpokládám, že by tyto materiály důkladně prověřily využití daného území. V případě zájmu města o určité pozemky by bylo jasné, zda má smysl se tímto zabývat, či nikoliv. Mohli bychom mít v ruce i impulsy ohledně možného budoucího ztvárnění vlastních sportovišť.
 
-<img src="https://i.ohlasy.info/Gmvlrw6.jpg" alt="areál Červená zahrada" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/Gmvlrw6.jpg" author="Tomáš Znamenáček" %}
 
 ### Nejlepší neznamená luxusní
 
@@ -45,7 +45,7 @@ Současnou situaci vnímám jako možnost dořešit sportovní areál v Červen�
 
 Nyní už zde tato ambice s vrcholovými středisky mládeže logicky není, ale proč bychom i bez toho nemohli mít ve městě funkční sportovní areál, který sem klidně v budoucnu může znovu nalákat zvučné týmy? Ale co hlavně – může sloužit jako skvělé zázemí pro stávající, ale hlavně malé sportovce v našem městě. Samozřejmě že zvučné týmy sem asi nepřijedou jen tak, pokud nebudou mít s kým ono utkání sehrát… na což potřebujeme mít základnu od dětí až po dospělé. Zde je třeba vidět synergii tohoto areálu pro další vývoj sportů ve městě. I já bych byl rád, kdyby se podařilo zase navázat například na tradici národní ligy v basketbalu, která se tu ještě ne tak dávno hrávala, a já se chodil tehdy dívat na své vzory, kteří mne ve vyprodané hale inspirovali k tomu, že jsem sám začal basketbal hrát.
 
-<img src="https://i.ohlasy.info/JowvEXK.jpg" alt="Červená zahrada z ptačí perspektivy" class="img-responsive img-popup" data-author="Mapy.cz">
+{% photo src="https://i.ohlasy.info/JowvEXK.jpg" author="Mapy.cz" %}
 
 ### Nerezignovat na klasickou čtvrtku
 

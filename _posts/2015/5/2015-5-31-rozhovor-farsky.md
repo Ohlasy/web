@@ -8,7 +8,7 @@ tags: politika
 
 *Vladimír Farský strávil 12 let v opoziční lavici jako nestraník zvolený za KSČM. Po posledních volbách byl koalicí ČSSD + KDU-ČSL + ANO 2011 vyzván k účasti v boskovické městské radě, stal se tedy radním a byl zvolen předsedou redakční rady městských médií. Před blížícím se důležitým jednáním zastupitelstva jsme mluvili o jeho dosavadní zkušenosti s prácí ve vedení města, o jeho vazbě na KSČM, o otevřenosti radnice a samozřejmě také o klíčovém aktuálním tématu, totiž o sportovní hale.*
 
-<img src="https://i.ohlasy.info/aSrYBxi.jpg" alt="Vladimír Farský" class="img-responsive">
+{% photo src="https://i.ohlasy.info/aSrYBxi.jpg" %}
 
 **Nejprve bych se zeptal na váš čistě lidský pocit – jaké to je dostat se po letech v opozici mezi 9 lidí, kteří řídí město? Jak to prožíváte?**
 
@@ -42,7 +42,7 @@ U mě je to trochu paradox. Já jsem měl před revolucí s komunisty trošičku
 
 Ano, na těch záběrech je to vidět. V té době jsem svépomocně stavěl bytovku kousek od náměstí. Vždycky jsme pracovali, a když se měla konat nějaká akce, tak jsme zahodili lopaty a letěli se zúčastnit, protože jsme od toho očekávali něco dobrého. Jak to pak probíhalo dál, je otázka další.
 
-<img src="https://i.ohlasy.info/Yda1UdD.jpg" alt="Vladimír Farský" class="img-responsive">
+{% photo src="https://i.ohlasy.info/Yda1UdD.jpg" %}
 
 **Jak konkrétně probíhá vaše komunikace s KSČM – potkáváte se a radíte se třeba o tom, jak budete o čem hlasovat v radě? Konzultujete s nimi své postoje?**
 
@@ -80,7 +80,7 @@ Jestli budou, nebo nebudou, to nevím, ale určitě je naděje, že by se mohla 
 
 Teď momentálně se jeví možnosti za Střední pedagogickou školou nebo na Červené zahradě. Plus další věci, které jsou méně pravděpodobné či výhodné, jako za zemědělskou školou na Hybešově. Můj tip a můj kůň je pořád Červenka. A halu chceme multifunkční, aby sloužila i pro kulturu.
 
-<img src="https://i.ohlasy.info/RNN3eaM.jpg" alt="Vladimír Farský" class="img-responsive">
+{% photo src="https://i.ohlasy.info/RNN3eaM.jpg" %}
 
 **Stal jste se šéfem redakční rady městských médií. Změna zatím ale není víceméně patrná. Plánujete nějakou radikálnější proměnu?**
 

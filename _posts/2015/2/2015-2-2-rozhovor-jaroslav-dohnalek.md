@@ -8,7 +8,7 @@ tags: politika
 
 *Jaroslav Dohnálek působí v boskovické komunální politice už 20 let. Nejprve byl od roku 1994 bezpartijním zastupitelem, později vstoupil do ODS a posledních 8 let byl za tuto stranu starostou. S odstupem necelého čtvrtroku jsme mluvili nejen o jeho pohledu na dvě funkční období, která strávil v nejvyšší pozici ve městě, ale také o tom, jak vidí nové vedení města, jak si zvyká na opoziční roli a kam směřují jeho profesní kroky. A také o tom, jak vidí politickou budoucnost svou vlastní a Občanské demokratické strany, do jejíhož čela se v Boskovicích po rezignaci Františka Sivery postavil.*
 
-<img src="https://i.ohlasy.info/Ymm5PXp.jpg" alt="Jaroslav Dohnálek" class="img-responsive">
+{% photo src="https://i.ohlasy.info/Ymm5PXp.jpg" %}
 
 **Napadlo mě, jestli jste četl či viděl Havlovo Odcházení. A když navážu: jaké bylo odcházení Jaroslava Dohnálka? S jakými pocity jste po osmi letech starostenský post opouštěl?**
 
@@ -50,7 +50,7 @@ Jedna věc je nabídka a druhá věc je možnost něco nabídnout. Že by bylo m
 
 To se snaží všechny politické strany. Já si ale opravdu nemyslím, že by tady v Boskovicích ODS udělala nějaké fatální chyby a že bychom se chovali tak jako ODS na celostátní úrovni, kde opravdu k chybám a osobním selháním docházelo. Ale ODS je samozřejmě jedna značka a tu nálepku máte a je otázka, jestli to voliči umějí vyselektovat. Ke zjednodušování dochází vždycky. Jako ODS jsme neměli dobrou pozici, ale obecně nám toho lidé v Boskovicích zase tolik nevyčítali. Vrátil bych se k tomu, jak je možné, že tady bylo tolik kauz, referendum, noční demonstrace. I v jiných městech řešili podobné věci a takové emoce to nevzbudilo. Můj názor je, že tam, kde v municipalitách nedošlo k takovému ideovému rozdělení mezi ODS a ČSSD, tam bez problémů fungovali. Ale tady došlo před čtyřmi roky v ČSSD ke změně a oni už s námi nechtěli spolupracovat. Došlo k naprostému odcizení. Nebyli jsme se schopní domluvit na ničem, polarizovalo se zastupitelstvo. Já jsem v komunální politice od roku 1994, ale chování zastupitelů k sobě navzájem bylo úplně nejhorší právě v letech 2010–2014.
 
-<img src="https://i.ohlasy.info/RA2iLKd.jpg" alt="Jaroslav Dohnálek" class="img-responsive">
+{% photo src="https://i.ohlasy.info/RA2iLKd.jpg" %}
 
 **A s jakým předsevzetím teď jdete vy do nové role opozičního zastupitele? Chcete se chovat jinak? Jak si na to zvykáte?**
 

@@ -8,7 +8,7 @@ tags: hudba kultura
 
 *V druhé polovině dubna proběhlo ve Varšavě předkolo mezinárodní soutěže Fryderika Chopina. Porotci během deseti soutěžních dnů vyslechli přes 150 vynikajících klavíristů z celého světa a vybrali z nich polovinu uchazečů pro samotnou soutěž, která proběhne na podzim. Já sama jsem klání v přímém přenosu sledovala na YouTube hlavně kvůli tomu, že se ho účastnil (a do hlavní soutěže nakonec postoupil) můj spolužák a skvělý pianista Marek Kozák. Všichni klavíristé, vybraní na základě zaslaných nahrávek, hráli technicky brilantně a suverénně. Často jsem při sledování přenosů myslela na to, jak obtížné musí být vybírat z takhle dobrých muzikantů ty „lepší“, když jsou všichni na tak vysoké úrovni.*
 
-<img src="https://i.ohlasy.info/d7clO88.jpg" alt="děvčata zkouší Pärta" class="img-responsive">
+{% photo src="https://i.ohlasy.info/d7clO88.jpg" %}
 
 Ale co když je to vlastně docela jednoduché? Co když se v množině technicky zdatných pianistů ona technická zdatnost vynuluje sama sebou a přestane být díky své automatičnosti kritériem hodnocení? To, co pak zůstane, je hudba sama – radost a okouzlení, jakýsi dětský údiv nad krásou zvuku. Zároveň se jedná o rys, který není samozřejmostí u každého hudebníka, a tato přidaná hodnota může nakonec být tím, co umožní rozlišit zdatného rutinéra (jehož role přesto není v hudebním světě zanedbatelná!) od skutečného muzikanta.
 

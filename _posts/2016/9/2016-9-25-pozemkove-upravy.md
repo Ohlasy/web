@@ -9,7 +9,7 @@ tags:
 
 *Je to už rok a půl, kdy se v Olešnici [strhla diskuze o plánovaných pozemkových úpravách](http://ohlasy.info/clanky/2015/03/olesnicka-asfaltka.html). Odpůrcům tehdejšího návrhu vadila především páteřní asfaltka vedoucí mezi poli v západní části katastru města. „Nectí terén. Jde na ruku ski-areálu,“ ozývalo se. „Starosta Zdeněk Peša s námi nekomunikuje,“ dodávali jiní. Starosta tehdy nekomunikoval ani s redakcí Ohlasů. Prý se k celé věci vyjádří, až bude aktuální pro vedení města. V úterý 27. září zastupitelé schvalují plán společných zařízení. Aktuálnější už to být nemůže.*
 
-<img src="https://i.ohlasy.info/1xpEhld.jpg" alt="Pole v Olešnici" class="img-responsive img-popup" data-author="Žaneta Ondroušková">
+{% photo src="https://i.ohlasy.info/1xpEhld.jpg" author="Žaneta Ondroušková" %}
 
 Zastupitelé budou mít na stole plán, který shrnuje pozemkové úpravy v západní části Olešnice. O tom, že nakonec projde, v podstatě nikdo nepochybuje. „Koalice plán schválí, protože jich je logicky většina. Je to tedy jen otázka času,“ uvedl opoziční zastupitel Jakub Slavíček. On a mnozí další Olešničtí z plánu nadšeni nejsou. Nelíbí se jim třeba to, že jedna z chystaných cest povede k parkovišti tamního ski-areálu. „Mnoho lidí to vnímá jako fakt, že jde radnice a pozemkový úřad na ruku majiteli areálu, Lubomíru Rekovi. Tyto úpravy jsou přece o zpřístupnění pozemků a podpoře zemědělství, ne o vytvoření příjezdové cesty pro jednoho nezemědělského podnikatele,“ říká olešnický občan Aleš Prokopec.
 

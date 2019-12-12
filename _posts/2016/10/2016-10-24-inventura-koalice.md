@@ -9,7 +9,7 @@ tags: politika volby
 
 *Jsou to dva roky, co se politické strany v Boskovicích domluvily na koaliční spolupráci. Volby zásadně proměnily osazenstvo vedení města a městské rady. Čtyři členy v radě získala ČSSD a naopak ODS zůstala v opozici. Sociální demokraty v radě doplnila KDU-ČSL, hnutí ANO a Vladimír Farský jako nestranický kandidát za KSČM. Společně sestavili Programové prohlášení. Jak je plní?*
 
-<img src="https://i.ohlasy.info/jWZxS08.jpg" alt="vedení města" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/jWZxS08.jpg" author="Tomáš Trumpeš" %}
 
 Body, které šly splnit krátce po volbách, také hned splnili. Například se jedná o [zákaz hazardu ve městě](http://ohlasy.info/clanky/2015/02/zakaz-hazardu.html) nebo návrat pravidelných čtvrtečních trhů na Růžové náměstí, které minulá koalice přesunula na parkoviště za muzeem, na což si lidé i trhovci stěžovali. Dále začala nová koalice zveřejňovat [zápisy z rady](http://boskovice.cz/zapisy%2Dz%2Djednani%2Drm/ds-1266/p1=1183) na webu města včetně jmenovitého hlasování a také zavedla na webu [sekci otázek a odpovědí](http://www.boskovice.cz/otazky-a-odpovedi-na-vedeni-mesta/d-26739). Nad rámec Programového prohlášení ji doplnila i [diskusí](http://www.boskovice.cz/diskuze/index.asp?), kam ovšem mohou přispívat pouze registrovaní uživatelé. Přihlašovací údaje člověk získá jen osobně na městském úřadě nebo doporučeným dopisem. I kvůli tomu je možné, že se do diskusního fóra registrovalo jen pár lidí a diskutuje se tedy minimálně – od spuštění diskuze se do dnešního dne sešlo zhruba 50 příspěvků od sedmi autorů, přičemž zhruba polovinu tvoří příspěvky od Jaroslava Parmy, zaměstnance úřadu.
 

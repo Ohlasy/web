@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jozef Regec, který do senátu kandiduje za stranu Soukromníci.*
 
-<img src="https://i.ohlasy.info/hm682JG.jpg" alt="Jozef Regec" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/hm682JG.jpg" %}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

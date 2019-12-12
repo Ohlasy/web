@@ -8,7 +8,7 @@ tags: kultura
 
 *Před třemi lety nastoupil Ivo Legner na místo dramaturga a produkčního boskovických Kulturních zařízení. Na prahu nové kulturní sezóny jsme si povídali o jednotlivých dramaturgických liniích programu, o ekonomickém aspektu jeho práce a také o tom, co by on viděl jako kulturní priotity městských investic pro příští léta.*
 
-<img src="https://i.ohlasy.info/w83bVw4.jpg" alt="Ivo Legner" class="img-responsive" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/w83bVw4.jpg" author="Tomáš Znamenáček" %}
 
 **Jsme na prahu nové kulturní sezóny. Do jaké míry je pro tebe jako dramaturga klíčové připravovat program na celou sezónu a do jaké míry se akce připravují v krátkodobějším horizontu?**
 
@@ -54,7 +54,7 @@ První jméno, které připravujeme na červen, je ještě tajné a srpnový ter
 
 No, to je možná dobrý námět. Zatím jsem o tomto nepřemýšlel.
 
-<img src="https://i.ohlasy.info/6LAnjvd.jpg" alt="Ivo Legner" class="img-responsive" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/6LAnjvd.jpg" author="Tomáš Znamenáček" %}
 
 **Mluvíme stále o kulturní sezóně. S jakým objemem prostředků musíš hospodařit, co se nákladů na programy týče? Je v tomto rozpočet KZMB uspokojivý?**
 

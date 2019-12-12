@@ -9,7 +9,7 @@ tags: politika architektura investice
 
 *Debatu o architektuře a urbanismu Boskovic se podařilo rozvířit mladší generaci architektů, kteří se na vedení města obrátili s [otevřeným dopisem](http://www.ohlasy.info/clanky/2016/11/dopis-architektu.html). Nyní jim [radnice odpovídá](http://boskovice.cz/odpoved%2Dna%2Dotevreny%2Ddopis%2Darchitektu/d-29786/p1=1019) a na její žádost svým pohledem přispěl i renomovaný architekt Zdeněk Fránek. Kromě oficiální odpovědi se starostka města snažila na tiskové konferenci vysvětlit celkový přístup města a zvolené postupy při řešení jednotlivých investičních projektů.*
 
-<img src="https://i.ohlasy.info/HvT6vWh.jpg" alt="pohled na boskovické náměstí" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/HvT6vWh.jpg" author="Tomáš Znamenáček" %}
 
 „Boskovice jsou historické město s významnou minulostí a řekněme posledních 60 let se zde architekturou téměř nikdo nezabýval,“ hodnotí bez skrupulí poslední dekády architekt Zdeněk Fránek, který se v Boskovicích narodil a strávil zde první dětská léta. A přidává notnou dávku optimismu při hodnocení aktuální situace: „Zdá se mi, že současné vedení, k mému velkému překvapení a radostnému úžasu, začalo podnikat kroky ke zlepšení kvality a stavu architektury a urbanismu v Boskovicích.“
 

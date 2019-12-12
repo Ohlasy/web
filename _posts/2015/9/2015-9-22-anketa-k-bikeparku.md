@@ -15,7 +15,7 @@ author: Tomáš Trumpeš
 
 *4/ Provází podle vás záměr dostatečná míra projednání s veřejností?*
 
-<img src="https://i.ohlasy.info/PmJfQN4.jpg" alt="sigltreky" class="img-responsive">
+{% photo src="https://i.ohlasy.info/PmJfQN4.jpg" %}
 
 ---
 

@@ -7,7 +7,7 @@ author: Tomáš Trumpeš
 
 *V poslední době mám dojem, že kdykoliv někdo učiní nějaký nehorázný přešlap, vymluví se posléze na to, že chtěl jen rozpoutat diskusi na dané téma. A netýká se to jen prezidenta republiky, tuto floskuli si rychle osvojili i další politici, ale také umělci, komentátoři a jiní účastníci debaty ve veřejném prostoru.*
 
-<img src="https://i.ohlasy.info/Vj12ru7.jpg" alt="Salon 2015" class="img-responsive">
+{% photo src="https://i.ohlasy.info/Vj12ru7.jpg" %}
 
 Při bližším pohledu obvykle zjistíme, že se opravdová diskuse nekoná a dotyčný přešlap pražádnou inspiraci pro hlubší přemýšlení nad daným tématem ani neposkytuje. Třaskavost tématu je využita pouze k upoutání pozornosti; efektně, ale povrchně, jak už to u efektnosti bývá. Skutečně kontroverzní čin míří obvykle hlouběji.
 

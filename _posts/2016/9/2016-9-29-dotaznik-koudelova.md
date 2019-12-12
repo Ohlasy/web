@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Mária Koudelová, která do senátu kandiduje za stranu KSČM.*
 
-<img src="https://i.ohlasy.info/q4zXyae.jpg" alt="Mária Koudelová" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/q4zXyae.jpg" %}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěla navrhnout a prosadit?**
 

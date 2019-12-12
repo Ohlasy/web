@@ -7,7 +7,7 @@ author: Hynek Skořepa
 
 *Vláda nedávno jednomyslně schválila návrh zákona o ochraně zdraví před škodlivými účinky návykových látek. Zákon zahrnuje také zákaz kouření ve všech vnitřních prostorách restaurací a kaváren. Ministr zdravotnictví Svatopluk Němeček k tomu uvedl: „Nikdo by neměl být vystaven pasivnímu kouření. Ti, kteří si ničí zdraví proto, že nejsou schopni se zbavit závislosti, nechť tak činí na místech, kde neohrožují zdraví ostatních.“*
 
-<img src="https://i.ohlasy.info/kEQqONW.jpg" alt="kniha kuřáckých fotografií od Jindřicha Štreita" class="img-responsive">
+{% photo src="https://i.ohlasy.info/kEQqONW.jpg" %}
 
 Navrhovaná norma vyvolala bouřlivé debaty v médiích. Nelíbí se pochopitelně majitelům restaurací, kteří se obávají odlivu zákazníků a propadu tržeb. Vadí také samotným kuřákům, nekuřáci ji naopak přivítali.
 

@@ -8,7 +8,7 @@ tags: kultura
 
 *Koncert normalizační popové hvězdy Michala Davida, který se v Boskovicích chystá na konec června, vzbudil diskuzi na jedno tradiční téma. Pořadatelem koncertu je totiž městská kulturní organizace KZMB, které někteří vyčítají, že za veřejné peníze pořádá koncert čistě komerčního charakteru, bez ohledu na kulturní kvality.*
 
-<img src="https://i.ohlasy.info/CZszx2W.jpg" alt="reklama na koncert Michala Davida v Boskovicích" class="img-responsive">
+{% photo src="https://i.ohlasy.info/CZszx2W.jpg" %}
 
 Jako protiargument se často ozývá, že městská kulturní organizace je tu „pro všechny“, a měla by tudíž podporovat všechny druhy kultury bez větších ohledů na kvalitu. Uspokojení návštěvníků (nebo ošklivěji řečeno _nadbíhání jejich vkusu_) ovšem bývá hlavním měřítkem soukromých promotérů, kteří tím sledují svůj primární cíl, _zisk_. Pro kulturní organizaci placenou z veřejných peněz by měla být ekonomika důležitá (nechceme, aby se veřejnými penězi plýtvalo), ale zároveň nemůže být prvořadá. Protože kdyby byla, stane se z této veřejné organizace pouhý protekční komerční promotér dotovaný ze společného rozpočtu. Jinými slovy: kdyby městská kulturní organizace neměla sloužit především podpoře kvalitní kultury, jaký je vlastně důvod pro její existenci?
 

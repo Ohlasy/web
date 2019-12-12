@@ -12,7 +12,7 @@ tags:
 
 *Dvě trestní oznámení prověřuje policie v Boskovicích. První míří na vypracovaný audit v boskovické nemocnici, druhé na smlouvu zajišťující spolupráci mezi strážníky a Městskou správou sociálních služeb. Policisté tuto fázi prověřování nijak nechtěli komentovat.*
 
-<img src="https://i.ohlasy.info/7k5nQxI.jpg" alt="boskovická radnice" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/7k5nQxI.jpg" author="Tomáš Znamenáček" %}
 
 „Je to ve fázi prověřování, zda se trestný čin stal, nebo ne. Nemůžeme se k tomu nijak dál vyjadřovat,“ řekl pouze policejní mluvčí Bohumil Malášek. Ani jednatel boskovické nemocnice Miloš Janeček nebyl schopen říct, co konkrétně policii zajímá. „Nevím, co konkrétně prověřují. Policie si vyžádala nějaké dokumenty. Údajně se jedná o nějakého anonymního stěžovatele. Nevím, zda se bojí někdo něčeho, na co ten audit přišel, nerozumím tomu,“ uvedl jednatel boskovické nemocnice.
 

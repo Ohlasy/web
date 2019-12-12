@@ -10,7 +10,7 @@ tags:
 
 *Boskovická sportovní hala není jen ukázkou nepovedeného začátku stavby, ale také úřední mašinérie posílání materiálu z jedné instituce na druhou. Složitost byrokracie projevující se v této kauze je také jedním z důvodů, proč už se kolem haly více než rok nic neděje.*
 
-<img src="https://i.ohlasy.info/CmyZCBI.jpg" alt="po stavbě boskovické stavby se prohání kachny" class="img-responsive">
+{% photo src="https://i.ohlasy.info/CmyZCBI.jpg" %}
 
 Pátý leden, sedmnáctý únor. Dvě data v rozmezí více než jednoho měsíce se netýkají vyřízení celého odvolání kritiků haly kvůli povolení změny stavby haly před jejím dokončením, ale označují pouze dobu zaslání materiálu z krajského úřadu v Brně zpět na městský úřad do Boskovic.
 

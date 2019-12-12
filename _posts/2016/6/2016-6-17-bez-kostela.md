@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Zamyšlení boskovického evangelického faráře a přispěvatele Ohlasů Jiřího Bureše. Text původně vyšel v místním sborovém časopise Na rozcestí II / 2016.*
 
-<img src="https://i.ohlasy.info/knINoQ6.jpg" alt="kruh lidí na louce" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/knINoQ6.jpg" author="Tomáš Trumpeš" %}
 
 *Psal se rok 1935. Do evangelické vesnice v německé části Krušných hor přišel nový farář. Na úbočí kopce stál hrázděný kostel, který kdysi sloužil jako chrám i pevnost. Místní byli dobří evangelíci a svůj kostel měli rádi – a tak byly jeho lavice neděli co neděli plné.*
 

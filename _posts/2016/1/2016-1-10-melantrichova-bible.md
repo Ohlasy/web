@@ -15,15 +15,15 @@ Roku 1545 se vrátil do Čech, kde se začal věnovat knihtisku, nejprve samosta
 
 Bibli českou vydal Melantrich pětkrát, ale z toho jen třikrát v nové redakci, a to v letech 1549, 1556/7, 1570; vydání z let 1560/1 a 1577 byly zřejmě pouhými přetisky s minimálními změnami. Sám považoval vydání z roku 1570 za třetí, je to jeho vrcholné vydavatelské dílo, říká, že pro ně učinil „veliký náklad na nové figury“ a vynaložil k tomu „velikou práci, nelitovav přitom statečku ani zdraví svého“. Toto vydání je vybaveno řadou nových větších ilustrací a nová grafická úprava sazby vytváří lepší estetický vzhled textu. Na titulní straně se Melantrich nadto dal zobrazit jako donátor, který vkleče odevzdává svou knihu Kristu na kříži.  
 
-<img src="https://i.ohlasy.info/7bJxyIL.jpg" alt="melantrichova Bible" class="img-responsive img-popup" data-author="Muzeum Boskovicka">
+{% photo src="https://i.ohlasy.info/7bJxyIL.jpg" author="Muzeum Boskovicka" %}
 
 Ve vydáních z let 1549, 1556 a 1560 použil Melantrich dřevoryty z Lutherovy německé bible vytištěné ve Wittemberku roku 1535 (před Melantrichem je do svých vydání bible v Čechách otiskl Pavel Severýn, potom byly užity pro několikeré vydání polské bible). Pro vydání bible v roce 1570 Melantrich obstaral nové dřevořezy, jež byly domácího původu; signatura AL na titulním listu náleží Ambroži Ledeckému, ostatní obrazy jsou vyhotoveny podle kreseb Floriana Abela a Fracesca Terzia, umělců žijících v Praze u dvora, a nesou monogram HS. Tyto dřevořezy byly znovu otištěny ve vydání z let 1577 a 1613 za Veleslavína a jsou pokládány za vrchol ilustrační výzdoby českých biblí, neboť pozdější vydání je pouze kopírují, nadto méně zdařile. 
 
-<img src="https://i.ohlasy.info/Hq2WKqu.jpg" alt="melantrichova Bible" class="img-responsive img-popup" data-author="Muzeum Boskovicka">
+{% photo src="https://i.ohlasy.info/Hq2WKqu.jpg" author="Muzeum Boskovicka" %}
 
 Reprezentativní knihy, a bible mezi ně patřily, označoval Melantrich svým signetem, tedy grafickou tiskařskou značkou, kterou tiskaři a nakladatelé označovali své tisky (z latinského signum – podpis, znamení, pečeť).
 
-<img src="https://i.ohlasy.info/fqBTZ4M.jpg" alt="melantrichova Bible" class="img-responsive img-popup" data-author="Muzeum Boskovicka">
+{% photo src="https://i.ohlasy.info/fqBTZ4M.jpg" author="Muzeum Boskovicka" %}
 
 Melantrich měl na tisk biblí vydavatelské privilegium, jeho bible byly oficiálním vydáním českého textu; užívali je příslušníci všech vyznání a přežily i pobělohorskou dobu. Index zakázaných knih v nich nařizoval opravit jen několik málo míst v textu, například protestantský dodatek v Otčenáši – slova „Nebo Tvé jest království i moc a sláva na věky“ – na konci modlitby:
 
@@ -40,7 +40,7 @@ Amen*
 
 Cenzura také nařizovala začernit některá choulostivá místa na obrázcích nahých postav.
 
-<img src="https://i.ohlasy.info/miTDhGW.jpg" alt="melantrichova Bible" class="img-responsive img-popup" data-author="Muzeum Boskovicka">
+{% photo src="https://i.ohlasy.info/miTDhGW.jpg" author="Muzeum Boskovicka" %}
 
 I když od některých katolických kněží zaznívaly hlasy, že bible je vadná a že ji „zmelantrichoval“, převažovalo i v katolickém prostředí spíše příznivější přijetí. Melantrichovy bible byly nepochybně čteny i katolíky. Knihovna Národního muzea v Praze například vlastní exemplář, který prošel kontrolou samotného Antonína Koniáše (1691–1760), jenž do bible po svém cenzorském zásahu vepsal: „Tato bible může k duchovnímu potěšení sloužiti, však bez zameškávání slova Božího.“ 
 

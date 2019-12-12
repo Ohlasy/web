@@ -8,7 +8,7 @@ tags: politika
 
 *Lukáš Holík vystudoval manažerskou informatiku a ekonomiku podniku na brněnském VUT, pracuje v mezinárodní energetické společnosti, kde má na starosti finanční administrativu. Je aktivní florbalista a basketbalista, zabývá se životním prostředím a organizuje úklidové akce. Před třicítkou vstoupil do politiky, vybral si hnutí ANO a po odstoupení Luďka Řehoře se asi před měsícem stal předsedou hnutí v Boskovicích. Proto nás zajímalo, co ho do politiky přivedlo a jaké má plány a názory.*
 
-<img src="https://i.ohlasy.info/lL46hlV.jpg" alt="Lukáš Holík" class="img-responsive">
+{% photo src="https://i.ohlasy.info/lL46hlV.jpg" %}
 
 **Lukáši, jsi nespokojený občan?**
 
@@ -50,7 +50,7 @@ Já jsem hrozný idealista.
 
 Příští rok bude sněm, který se bude přímo tímto zabývat, priority a cíle se ukotví. Můj hlavní cíl je transparentnost a snaha pomoci lidem. Názory určitě nemáme levicové. Podporujeme podnikatele a nechceme zvyšovat daně. Ideologii strany cítím středopravicově. 
 
-<img src="https://i.ohlasy.info/uUITVlE.jpg" alt="Lukáš Holík" class="img-responsive">
+{% photo src="https://i.ohlasy.info/uUITVlE.jpg" %}
 
 **Pojďme do Boskovic. Jaké si jako nový předseda boskovického hnutí ANO kladeš hlavní cíle?**
 
@@ -92,7 +92,7 @@ Já si osobně myslím, že programové prohlášení odráží náš program, j
 
 Není. Ale pro mě je to záležitost, u které bych chtěl, aby se už konečně vyřešila.
 
-<img src="https://i.ohlasy.info/V28dVo4.jpg" alt="Lukáš Holík" class="img-responsive">
+{% photo src="https://i.ohlasy.info/V28dVo4.jpg" %}
 
 **A jak by se mělo pokračovat?**
 

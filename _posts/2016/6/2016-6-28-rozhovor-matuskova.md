@@ -8,7 +8,7 @@ tags: kultura vzdělávání
 
 *Rozhovor se Stanislavou Matuškovou, ředitelkou boskovické Základní umělecké školy. Ve funkci je čtyři roky, za tu dobu odešlo několik pedagogů. Dvě výpovědi měly soudní dohru, nyní odchází z vlastní vůle další dva učitelé: dosavadní vedoucí výtvarného oboru Eva Holoušová a Martin Krajíček, který stál rovněž v čele školního orchestru. Proto nás zajímal pohled ředitelky na to, čím je odchod pedagogů způsoben. A také jak škola dnes funguje a jaký je o ni zájem.*
 
-<img src="https://i.ohlasy.info/eAb1tr9.jpg" alt="Stanislava Matušková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/eAb1tr9.jpg" author="Tomáš Znamenáček" %}
 
 **V poslední době odešlo ze ZUŠ několik pedagogů. Vnímáš to jako problém?**
 
@@ -150,7 +150,7 @@ Já nevím, nejsem schopna na toto odpovědět, nejsem vizionář, nemám křiš
 
 Já vám to neřeknu. Já to vím, ale neřeknu to, protože se to zase otočí proti mně. Je to pořád dokola jedno a to stejné, ale nebudu to jmenovat. Nevím, co s tím mám dělat. Nevím, jak se chcete bránit pomluvám, nevím, jak chcete bojovat proti tomu, co nevidíte, co jen zaslechnete a cítíte to za sebou. 
 
-<img src="https://i.ohlasy.info/sC9HXzF.jpg" alt="Stanislava Matušková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/sC9HXzF.jpg" author="Tomáš Znamenáček" %}
 
 ### Zájem je větší než kapacita školy
 

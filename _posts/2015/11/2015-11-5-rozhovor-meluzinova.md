@@ -8,7 +8,7 @@ tags: kultura
 
 *Setkání s Danielou Meluzínovou působí jako balzám na duši. Je to velmi aktivní a vitální dáma, která má energie na rozdávání. Mnoho let cvičí jógu, věnuje se zdravotnímu a aktivačnímu cvičení pro seniory a v poslední době si díky ní boskovičtí zájemci už několikrát vyzkoušeli Tance dávných tradic.*
 
-<img src="https://i.ohlasy.info/A4DuAZ8.jpg" alt="Daniela Meluzínová" class="img-responsive img-popup" data-author="Martina Vašková">
+{% photo src="https://i.ohlasy.info/A4DuAZ8.jpg" author="Martina Vašková" %}
 
 **Co si máme představit pod pojmy Tance dávných tradic?**
 
@@ -22,7 +22,7 @@ Jejich zakladatel Samuel L. Lewis (1886–1971) byl znalcem mnoha kultur, nábo�
 
 O Tancích dávných tradic jsem se před deseti lety dozvěděla spíše náhodou. Léta se zajímám o východní kultury, náboženství a meditaci. Na jednom semináři nám Ludmila Chrášťanská tyto tance předvedla. Líbily se mi moc. Avšak pravý prožitek a ocenění tohoto propojení hudby, vlastního pohybu a zpěvu písní hlubokého duchovního významu jsem prožila až před třemi lety, kdy jsem byla na mezinárodním kempu Tanců univerzálního míru v Nesměni u Českých Budějovic. Zde jsme kromě dalších aktivit celé dny tančili. Tehdy jsem podstatu tanců opravdu pochopila. 
 
-<img src="https://i.ohlasy.info/FTGItCS.jpg" alt="kruhový tanec" class="img-responsive img-popup" data-author="archiv paní Meluzínové">
+{% photo src="https://i.ohlasy.info/FTGItCS.jpg" author="archiv paní Meluzínové" %}
 
 Tančit do Nesměni jsem se pak pravidelně vracela. Zde jsem se také setkala s charismatickým lektorem tanců a učitelem hudby Jonášem Kouklem, kterého jsme už čtyřikrát pozvali tančit do Boskovic. Po absolvování kempu v Nesměni jsem totiž byla přesvědčená, že se tance musí dostat k nám. Jsem už zkrátka takový typ, že když mě někdo zaujme, chci ho hned dostat do Boskovic. Takto sem jezdívali například ruští léčitelé Boris Tichanovský a Jelena Tomilina. Nebo sem už přes deset let jezdívá lektor harmonizačního cvičení Petr Kolísko. A protože si myslím, že Tance dávných tradic se tančí ve městech, kde jsou lidé otevření a schopni objevovat něco nového a propojit se, do Boskovic tyto tance zkrátka patří. 
 
@@ -46,7 +46,7 @@ Organizace dalších setkání se ujalo občanské sdružení Intera, což nám 
 
 Díky organizátorům a dobrovolníkům se vše odehrálo v zámeckém skleníku, což jsem si moc přála. Sešlo se nás zde asi osmdesát a potěšilo mě, že zde byly zastoupeny všechny generace. Děti mohly s rodiči a prarodiči tančit, nebo si tvořit ve výtvarných dílnách, které pro ně byly k dispozici. A opět se všem podařilo vytvořit nádhernou atmosféru. Byla jsem ráda, že si k nám našli cestu i lidé z jiných koutů republiky, od jižních Čech po severní Moravu. A následující den se Jonáš zaměřil na muzikoterapii s dětmi v ZŠ Slovákova, kde si žáci vyzkoušeli například hru na bubny či různé domorodé nástroje.
 
-<img src="https://i.ohlasy.info/UypEGew.jpg" alt="děti s Jonášem Kouklem" class="img-responsive img-popup" data-author="archiv paní Meluzínové">
+{% photo src="https://i.ohlasy.info/UypEGew.jpg" author="archiv paní Meluzínové" %}
 
 **Plánujete další setkání s kruhovými tanci a Jonášem Kouklem?**
 

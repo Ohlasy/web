@@ -8,7 +8,7 @@ tags: voda
 
 *Černohorští žijí už devět měsíců v nejistotě, jak to bude od příštího roku s vodou. Loni na podzim společně s komunálními volbami totiž rozhodli v referendu o vystoupení ze Svazku vodovodů a kanalizací okresu Blansko. Černohorská iniciativa Naše voda, která usilovala o vypsání referenda a vystoupení ze Svazku, argumentovala vysokými cenami vodného a stočného. Na stole ale stále neleží žádná dohoda a do jednání se začíná ozývat také pivovar.*
 
-<img src="https://i.ohlasy.info/Efz3dsz.jpg" alt="Voda" class="img-responsive">
+{% photo src="https://i.ohlasy.info/Efz3dsz.jpg" %}
 
 Variantu ANO vystoupení ze Svazku zaškrtlo loni na volebním lístku 487 voličů, pro NE se vyslovilo 434. Souboj to byl velmi vyrovnaný a rozdíl činil pouhých třiapadesát hlasů. Účast u referenda dosáhla zhruba 57 procent, takže referendum bylo závazné. Věcí se nemůže dva roky zabývat zastupitelstvo, a případně ani lidé v novém referendu.
 

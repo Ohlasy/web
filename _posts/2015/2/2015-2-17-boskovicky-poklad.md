@@ -8,7 +8,7 @@ tags: historie
 
 *Boskovický poklad vystavují od minulého týdne do 26. dubna v boskovickém muzeu. Poklad byl objeven pomocí detektoru na kopci zvaném Zlatník již v červenci roku 2010, avšak jeho nálezce nesplnil oznamovací povinnost a poklad naopak tajně rozprodal. Unikátní nález tím byl znehodnocen, neboť z původních 6 kilogramů stříbrných mincí se jich policii podařilo dohledat pouze něco přes 1,6 kilogramu, celkem 2 267 kusů. Zachráněn byl rovněž džbán, do kterého byl poklad zabalený v tkanině vložen a který byl pak uschován na bezpečném místě pod kamenem. To se odehrálo ve 40. letech 17. století, tedy v neklidné době, kdy v Evropě vrcholila třicetiletá válka. Při nálezu byl džbán asi 20 centimetrů pod povrchem.*
 
-<img src="https://i.ohlasy.info/Y5bMFk4.jpg" alt="ukázka mincí z boskovického pokladu" class="img-responsive">
+{% photo src="https://i.ohlasy.info/Y5bMFk4.jpg" %}
 
 Cesta pokladu od nálezu k výstavě byla poměrně komplikovaná. Nějakou dobu po tajném prodeji obdržela totiž policie anonymní oznámení o existenci pokladu a nálezci stejně jako překupníkovi hrozilo dokonce vězení. Nakonec vyvázli bez trestu, ale poklad už se v původní podobě dopátrat nepodařilo. Nálezce si kompletní podobu pokladu nafotil, takže historikové mají přesnou představu o tom, co obsahoval. „Pokud by poklad zůstal v úplnosti, jednalo by se o největší nález na území Moravy z období třicetileté války,“ uvedla na vernisáži autorka Dagmar Grossmannová z Moravského zemského muzea. Kdo si poklad v lese na Zlatníku uschoval, se už nedozvíme, podle muzejníků to ale musel být člověk mimořádně zámožný, bohatý měšťan či obchodník. 
 

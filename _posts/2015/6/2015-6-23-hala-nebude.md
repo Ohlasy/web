@@ -10,7 +10,7 @@ tags:
 
 *Finální rozhodnutí boskovického zastupitelstva proběhlo dle očekávání: sportovní hala na Slovákově ulici nebude. Zastupitelé potvrdili svým rozhodnutím deklarovaný postoj městské rady a stavbu na Slovákově ukončili.*
 
-<img src="https://i.ohlasy.info/K7bkHLF.jpg" alt="výsledky hlasování" class="img-responsive">
+{% photo src="https://i.ohlasy.info/K7bkHLF.jpg" %}
 
 Pro ukončení stavby hlasovali přítomní koaliční zastupitelé, které navíc doplnili ještě komunisté. Proti byli opoziční zastupitelé z ODS, sdružení Sportovců a Dominik Božek z TOP 09. Zdrželi se zbývající členové TOP 09, viz foto výsledku hlasování. Zbývající zastupitelé Jaroslav Dohnálek z ODS a Ladislav Topinka z KSČM nebyli na zastupitelstvu přítomni.
 

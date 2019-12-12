@@ -7,7 +7,7 @@ category: rozhovory
 
 *Rozhovor s veterinářkou Janou Pilgrovou, která provozuje [soukromou ordinaci](http://www.boskovet.cz/) v Boskovicích už šestým rokem. Před blížícím se Silvestrem jsme mluvili o tom, co prožívají během ohňostrojů psi, ale také kočky, a jak jim pomoci hrůzu z rachejtlí a petard zvládnout.*
 
-<img src="https://i.ohlasy.info/AzI8oWz.jpg" alt="veterinářka" class="img-responsive" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/AzI8oWz.jpg" author="Tomáš Znamenáček" %}
 
 **Lze popsat, co prožívá citlivější pes během silvestrovské noci?**
 

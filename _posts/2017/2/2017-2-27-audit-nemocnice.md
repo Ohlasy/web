@@ -8,7 +8,7 @@ tags: nemocnice politika
 
 *Před rokem zadala dozorčí rada boskovické nemocnice zpracovat audit finančního hospodaření nemocnice. Od té doby ale nikdo nezveřejnil žádné výsledky, i když už dávno existují.*
 
-<img src="https://i.ohlasy.info/IHq218R.jpg" alt="Nemocnice Boskovice" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/IHq218R.jpg" author="Tomáš Znamenáček" %}
 
 Jak se tedy celý audit vyvíjel a budou někdy známé jeho výsledky, [když audit dokonce prověřuje policie](http://www.ohlasy.info/clanky/2016/12/dalsi-trestni-oznameni.html)?
 

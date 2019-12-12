@@ -8,7 +8,7 @@ tags: vzdělávání
 
 *Málokdo dokáže Rubikovu kostku poskládat za méně než dvě minuty. Na Střední průmyslové škole v Jedovnicích si na její skládání naprogramovali robota postaveného z Lega. Jak rychle ji poskládá, mohli vidět návštěvníci na výstavě Lego technic show v boskovickém zámeckém skleníku.*
 
-<img src="https://i.ohlasy.info/sCa7vI3.jpg" alt="Lego robot řeší Rubikovu kostku" class="img-responsive">
+{% photo src="https://i.ohlasy.info/sCa7vI3.jpg" %}
 
 Třiatřicetiletý Tomáš Vybíhal učí na Střední průmyslové škole v Jedovnicích programování. Počítače a programovací jazyky jsou jeho denním chlebem. Kromě toho ale také zhruba před pěti lety propadl Legu. „Opravdu nedokážu říct, kolik toho doma mám. Je toho hodně,“ směje se. Robota z Lega musí v jeho předmětech postavit a naprogramovat každý žák.
 

@@ -22,7 +22,7 @@ Jeden metalový a jeden punkový koncert se v lednu odehraje v Hudebním klubu S
 
 Ve středu 13. ledna si boskovičtí diváci můžou zajít do zámeckého skleníku na divadelní představení s názvem Milostný trojúhelník, kde vystoupí Pavel Liška, Josef Polášek a Martin Brožek bez předem daného scénáře.
 
-<img src="https://i.ohlasy.info/LfKX5rP.jpg" alt="Pavel Liška, Martin Brožek a Josef Polášek" class="img-responsive img-popup">
+{% photo src="https://i.ohlasy.info/LfKX5rP.jpg" %}
 
 V pondělí 18. ledna se v boskovickém kině představí cestovatel Pavel Svoboda s besedou o Ománu, současně bude zahájena i výstava jeho fotografií.
 

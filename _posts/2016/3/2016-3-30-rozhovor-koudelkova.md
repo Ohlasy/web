@@ -8,7 +8,7 @@ tags: kultura hudba
 
 *Rozhovor s flétnistkou Michaelou Koudelkovou. Jako dítě začala chodit v Boskovicích do Dřevěné píšťalky, dnes má za sebou první a před sebou druhý absolventský koncert na Akademii Muzycznej v polském Krakově, kde studuje zobcovou flétnu. Kromě toho absolvovala řadu mistrovských kurzů a pravidelně koncertuje u nás i v zahraničí.*
 
-<img src="https://i.ohlasy.info/zlDUgPA.jpg" alt="Michaela Koudelková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/zlDUgPA.jpg" author="Tomáš Znamenáček" %}
 
 **Jak proběhl tvůj první absolventský koncert v Krakově a jak jsi s ním byla spokojená?**
 
@@ -54,7 +54,7 @@ Ano, přesně tak. Třeba francouzská hudba se hodně odlišuje v ornamentaci. 
 
 Musím říct, že vůbec nelituju toho, že jsem šla studovat právě tam. Byla jsem v Krakově moc spokojená, v podstatě stále jsem. Jen se mi trošku zkomplikoval poslední rok, protože můj pan profesor, kvůli kterému jsem vlastně do Krakova odjela studovat, byl bohužel donucen krakovskou akademii opustit. Na současného pana profesora, který zde učí třikrát během semestru, si teprve zvykám a v posledním roce studia to opravdu není jednoduché.
 
-<img src="https://i.ohlasy.info/AWAD6J9.jpg" alt="Michaela Koudelková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/AWAD6J9.jpg" author="Tomáš Znamenáček" %}
 
 **Potřebuje muzikant po ukončení školy dál nějakou supervizi, odbornou zpětnou vazbu, nebo je prostě vržen do provozu? Je možné si nějaký takový kontakt udržet?**
 
@@ -100,7 +100,7 @@ Líbí se mi, že je sice něco zapsané v notách, ale nemusím to úplně dodr
 
 Doufám, že ano. A čím dál větší zájem je i mezi interprety, kteří se snaží ctít přání autora, respektovat v jakém prostředí skladbu psal a pro jaké nástroje. Myslím, že tohle je dobrá cesta, jak tyto skladby interpretovat.
 
-<img src="https://i.ohlasy.info/gSo2tHY.jpg" alt="Michaela Koudelková" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/gSo2tHY.jpg" author="Tomáš Znamenáček" %}
 
 **Objevují se v archivech „nové“ barokní skladby? Může se třeba stát, že budeš uvádět v podstatě v premiéře pro současné publikum nějakou objevenou věc?**
 

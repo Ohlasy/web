@@ -8,7 +8,7 @@ tags: politika
 
 *První verzi klíčového dokumentu, který by měl stanovit priority pro rozvoj města na příštích 10 let, představila boskovická radnice. Ta zároveň vyzývá občany, aby se k návrhu vyjádřili.*
 
-<img src="https://i.ohlasy.info/HqcuTZQ.jpg" alt="pohled na Boskovice" class="img-responsive">
+{% photo src="https://i.ohlasy.info/HqcuTZQ.jpg" %}
 
 Úvodní, analytická část městských plánů na rok 2016–2026 byla zpracovávána od února. Druhá, strategická část obsahuje seznam problémů, které z analytické části vzešly, a na které budou dále navazovat opatření k jejich řešení. „Nyní vám město Boskovice dává možnost seznámit se s návrhem strategické části dokumentu s definovanými problémy, které chce město v příštích deseti letech postupně řešit,“ uvedla radnice při zveřejnění dokumentu.
 

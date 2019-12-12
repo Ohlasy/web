@@ -9,7 +9,7 @@ tags: investice nemocnice zdravotnictví
 
 *O novou budovu za více než sto milionů by se měla rozrůst boskovická nemocnice. Alespoň to předpokládá generel, tedy plán rozvoje. Boskovičtí radní uložili vedení nemocnice zpracovat tento plán už v srpnu 2014. Až letos v listopadu jsou ale jeho výsledky na stole.*
 
-<img src="https://i.ohlasy.info/RyuuBNC.jpg" alt="interiér nemocnice" class="img-responsive img-popup" data-author="Tomáš Trumpeš">
+{% photo src="https://i.ohlasy.info/RyuuBNC.jpg" author="Tomáš Trumpeš" %}
 
 Jak nemocnici vylepšit a které věci rozvíjet nově napoví generel nemocnice, tedy strategický plán rozvoje areálu, který si nechalo vedení nemocnice zpracovat. Seznámená už je s jeho podobou i městská rada, která je zároveň valnou hromadou nemocnice.
 
@@ -25,7 +25,7 @@ V očích zpracovatelů však budoucnost nemocnice není zrovna růžová, pokud
 
 Jednatel boskovické nemocnice Miloš Janeček se ke generelu nevyjádřil, pouze odkázal na analytika nemocnice Dana Štěpánského. „Zpracovaný generel je koncepčním strategickým dokumentem střednědobého rozvoje areálu nemocnice. Generel neřeší současný provozní chod nemocnice,“ řekl analytik.
 
-<img src="https://i.ohlasy.info/CtwjLYa.png" class="img-responsive img-popup img-framed" alt="umístění nové budovy">
+{% photo src="https://i.ohlasy.info/CtwjLYa.png" %}
 
 ### Nová budova na místě záchranky a mikrobiologie
 

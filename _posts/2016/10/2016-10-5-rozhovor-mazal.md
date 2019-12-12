@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Jiřím Mazalem, který po 31 letech opouští boskovický hrad. Poslední asi dvě desetiletí památku provozoval jako soukromý nájemce, od letošního roku mu majitel objektu razantně zvýšil nájem, v létě následovala výpověď. Po [rozhovoru se zástupcem majitele, ředitelem společnosti MP Holding Dominikem Božkem](http://ohlasy.info/clanky/2016/09/rozhovor-bozek.html), jsme si o důvodech odchodu, ale především o provozu hradu a jeho stavu povídali i s dlouholetým a dnes již bývalým hradním kastelánem. Do rozhovoru občas vstoupil i jeho plánovaný obchodní partner Michal Luffer, se kterým chtěl Jiří Mazal hrad dále provozovat.*
 
-<img src="https://i.ohlasy.info/MCcf4Mw.jpg" alt="Jiří Mazal" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/MCcf4Mw.jpg" author="Tomáš Znamenáček" %}
 
 **Na hradě jsi strávil 31 let, přibližně dvacet let jsi ho měl v nájmu. Měl jsi chuť pokračovat na hradě dál? Že budeš možná končit, se v Boskovicích proslýchalo delší dobu.**
 
@@ -31,7 +31,7 @@ MICHAL LUFFER: Na objektu se dá vydělávat prakticky čtrnáct víkendů v roc
 JIŘÍ MAZAL: Ale opravdu jen běžná, jinak by to nebylo možné utáhnout. Když pak vzešly námitky, že na hradbách rostou desetiletí stromy, nechápal jsem, co s tím mám společného. To je věc majitelů, na hradbách je to práce ve výškách, kterou musejí dělat odborníci a podobně. V rámci běžné údržby to není reálné. 
 Navíc jsem po zvýšení nájmu musel propustit pokladní v okrajových měsících a sedět v pokladně sám, abych ušetřil. Ale když sedíš od rána do večera v pokladně, tak není časově možné nic dalšího řešit. Nakonec se tady rozhlédni (*ukazuje vypadené zdivo z hradeb*), zaznamenal jsem i názor, že si mám po práci namíchat maltu a jít opravovat dírky v hradbách. Když to tady projdu, tak těch dírek najdu asi pět set. 
 
-<img src="https://i.ohlasy.info/kLitAFu.jpg" alt="Michal Luffer" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/kLitAFu.jpg" author="Tomáš Znamenáček" %}
 
 **Jsou tedy v návštěvnosti sezón velké výkyvy, nebo je návštěvnost hradu plus mínus podobná? Dá se to aspoň trochu předpokládat?**
 
@@ -101,7 +101,7 @@ JIŘÍ MAZAL: To byla spíš věc vzájemné ústní dohody. Musíme si říct, 
 
 MICHAL LUFFER: Starat se o památku o rozloze 5 tisíc čtverečních metrů, k tomu platit nájem a držet provoz, to bez podpory majitele nejde.
 
-<img src="https://i.ohlasy.info/l1Xz3T1.jpg" alt="Jiří Mazal" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/l1Xz3T1.jpg" author="Tomáš Znamenáček" %}
 
 **Takže i když odhlédnu od investic, myslíte si, že ta představa, že sem přijde někdo, kdo vydělá na provoz, plat dvou lidí a ještě něco k tomu?**
 
@@ -147,7 +147,7 @@ Přitom by peníze přišly taky, hned jak bych zjistil, že je tam ta chyba s f
 
 Možná bych to neměl tak prezentovat, ale od nového roku mi přišlo, že ty kroky pana Božka a neustálé změny měly tendenci tlačit na můj odchod. Cítil jsem, že už se nechce domluvit. Zdražíme o stopadesát procent, za další měsíc: chci, abys byl plátcem DPH. Ono by k tomu asi stejně muselo dojít, ale v tu chvíli to objekt finančně velmi zatížilo.
 
-<img src="https://i.ohlasy.info/yw8VSpn.jpg" alt="Jiří Mazal" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/yw8VSpn.jpg" author="Tomáš Znamenáček" %}
 
 **S jakými pocity hrad nakonec opouštíš?**
 

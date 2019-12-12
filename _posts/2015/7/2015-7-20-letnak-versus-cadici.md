@@ -8,7 +8,7 @@ tags: kino
 
 *Pátek 17. července byl významný den pro novodobou historii boskovického letního kina. Tento den promítali boskovičtí kinaři poprvé v tomto amfiteátru s téměř šedesátiletou historií ve zcela plnohodnotném digitálním formátu s velmi vysokým rozlišením 4K. Na město velikosti Boskovic slušný počin. Je třeba říci, že všechna letní kina, která promítají ve zmíněném standardu, se v ČR dají spočítat na prstech dvou rukou a myslím, že by si takového odpovědného přístupu provozovatelů kina měla města vážit a jít jim vstříc. Například v Brně takové letní kino nenajdete.*
 
-<img src="https://i.ohlasy.info/XlocBum.jpg" alt="projekce v boskovickém letním kině" class="img-responsive">
+{% photo src="https://i.ohlasy.info/XlocBum.jpg" %}
 
 Krátkodobé instalaci této ultra moderní technologie do – pochopitelně ve všech ohledech zastaralé – promítací kabiny v letním kině zcela jistě předcházela celá řada obchodních i technických překážek. Sám jsem byl u digitalizace kina Panorama, takže si dokážu představit, co to muselo být v letním kině. Nicméně kolegové z KZMB toto všechno zvládli a skutečně 1. června oznámili na webových stránkách a sociálních sítích, že od 16. července do konce prázdnin budou téměř každý den kino provozovat a přinesou do města nejen aktuální premiéry, ale třeba i restaurované starší a ceněné filmy.
  

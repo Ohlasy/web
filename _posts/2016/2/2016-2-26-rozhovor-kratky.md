@@ -8,7 +8,7 @@ tags: bezpečnost
 
 *Boskovice jsou městem s bohatou nabídkou kulturních i sportovních akcí. Také v pátek a v sobotu večer se do Boskovic přijíždějí lidé bavit, což má za následek vyšší výskyt některých druhů protiprávního jednání. Jak na tom byly Boskovice v loňském roce s kriminalitou a jaké jsou ve městě největší problémy, jsme se ptali ředitele městské policie Davida Krátkého.*
 
-<img src="https://i.ohlasy.info/9SykWeF.jpg" alt="David Krátký" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/9SykWeF.jpg" author="Tomáš Znamenáček" %}
 
 **Byl loňský rok pro městkou policii klidným rokem, nebo to naopak v Boskovicích bouřilo?**
 
@@ -40,7 +40,7 @@ U podomního prodeje jsme měli poslední hlášení ohledně těch takzvaných 
 
 Myslím, že vše, co se dělá pro občany, a pokud to ochrání aspoň někoho, je vždycky dobře. U hazardu by podle mě měla být každopádně spolupráce mezi jednotlivými složkami a úřady státu, aby se zamezilo patologickému hráčství, aby člověk neprohrával dávky nebo tím neohrožoval rodinu. Není nic jednoduššího než udělat registr hráčů, který by někdo kontroloval. Ale to je věc odborníků, což nemůže vyřešit město.
 
-<img src="https://i.ohlasy.info/6N5rtJi.jpg" alt="David Krátký" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/6N5rtJi.jpg" author="Tomáš Znamenáček" %}
 
 ### Nejčastější je stání v křižovatkách
 
@@ -82,7 +82,7 @@ Právě že ano, problém s tím měli kupříkladu na škole na Hybešově ulic
 
 To nelze říct. Pracujeme jen s čísly a statistikou, ten trh je velmi dynamický. Pokud bude poptávka, bude nabídka. Policie může jen mírnit následky. Je to věc rodiny, je to věc školy, je to věc policie. Všichni by měli spolupracovat, aby byl mladý člověk informovaný, že je s drogami spojené velké ohrožení života. Samotné užívání drog není trestné, jen distribuce. Pokud má člověk u sebe dávku v menším množstvím než malém, tak policie stejně nic nevyřeší.
 
-<img src="https://i.ohlasy.info/Q1cISG9.jpg" alt="David Krátký" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/Q1cISG9.jpg" author="Tomáš Znamenáček" %}
 
 ### Městská policie je v Boskovicích 25 let
 

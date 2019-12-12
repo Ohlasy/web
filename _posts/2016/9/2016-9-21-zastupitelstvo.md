@@ -10,7 +10,7 @@ tags:
 
 *Poměrně klidnou schůzi absolvovalo v úterý boskovické zastupitelstvo. Nejvzrušenější debata dle očekávání doprovodila projednávání nákupu pozemku dnešního autobazaru v Červené zahradě, jinak se schůze obešla bez připomínek a dotazů ze strany občanů a poměrně hladce byly schváleny i změny v rozpočtu. Důležité informace ohledně využití Dvořáčkova mlýna, situace v nemocnici nebo nákladů na vybudování Centra polytechnického vzdělávání zazněly na základě dotazů a připomínek zastupitelů.*
 
-<img src="https://i.ohlasy.info/oBSjeNk.jpg" alt="Radek Mazáč" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/oBSjeNk.jpg" author="Tomáš Znamenáček" %}
 
 ### Další pozemek v Červené zahradě
 

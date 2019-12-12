@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Rudolfem Burgrem, organizátorem boskovické vánoční Polévky pro chudé i bohaté. Akce se letos koná již podvaadvacáté, polévka se rozdává na Štědrý den od 11 do 12 hodin na Masarykově náměstí. Kromě polévky si budou moci lidé odnést domů i duchovní symbol Vánoc v podobě světla z Betléma, které přivezou členové místního skautského oddílu Nibowaka.*
 
-<img src="https://i.ohlasy.info/lT4bfNF.jpg" alt="Rudolf Burgr" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/lT4bfNF.jpg" author="Tomáš Znamenáček" %}
 
 **Když se uzavřela restaurace Makkabi, zaznamenal jsem v Boskovicích nejistotu, jestli se bude konat vánoční polévka. Panovala taková nejistota i u vás, nebo bylo jasné, že v polévce budete pokračovat?**
 
@@ -70,7 +70,7 @@ Stačilo. Takovým našim nadšeným podporovatelem byl Skot Andrew, který se d
 
 Hodně postupně, a pak byl někdy v polovině výraznější skok. A takové ty částky přes šedesát tisíc začaly někdy před šesti lety. Takže byly dva výraznější skoky, jinak pozvolný růst.
 
-<img src="https://i.ohlasy.info/u2EaPp9.jpg" alt="Rudolf Burgr" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/u2EaPp9.jpg" author="Tomáš Znamenáček" %}
 
 ### Protipól globalizaci
 

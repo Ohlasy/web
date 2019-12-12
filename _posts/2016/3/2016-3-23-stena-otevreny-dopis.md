@@ -10,7 +10,7 @@ tags:
 
 *Sportovec a stavební inženýr Adam Kožoušek se obrátil na vedení města a příslušné komise s otevřeným dopisem ve věci lezecké stěny na boskovickém letním kině a zejména ve věci statického posudku, který má být důvodem k upuštění od celého záměru. Posudek je podle něj mylně interpretován a záměr stále vidí jako reálný a přínosný. Otevřený dopis publikujeme v plném znění.*
 
-<img src="https://i.ohlasy.info/Ux0wSM4.jpg" alt="konstrukce plátna letního kina" class="img-responsive img-popup" data-author="Tomáš Znamenáček">
+{% photo src="https://i.ohlasy.info/Ux0wSM4.jpg" author="Tomáš Znamenáček" %}
 
 Přečtení novinových článků k projektu lezecké stěny v letním kině Boskovice mne vyprovokovalo k sepsání několika myšlenek.
 
