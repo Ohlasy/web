@@ -117,7 +117,7 @@ To ještě ne, v Novém Boru. Tam to vydrželo jen dva roky, pak jsem se teprve 
 
 **Už jsi o muzice i psal?**
 
-Vůbec. Ani novinařinu jsem nedělal. nic. To jsem začal dělat, až když jsem šel do důchodu.
+Vůbec. Ani novinařinu jsem nedělal. Nic. To jsem začal dělat, až když jsem šel do důchodu.
 
 **Ve které době jsi prodával v Bontonlandu?**
 
