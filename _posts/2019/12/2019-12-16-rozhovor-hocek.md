@@ -113,7 +113,7 @@ Ano. Kamarád, bývalý šéfredaktor taky už skoupeného severočeského regio
 
 **V Praze?**
 
-To ještě ne, v Novém Boru. Tam to vydrželo jen dva roky, pak jsem se teprve dostal do Prahy, kde jsem si sehnal práci ve velkém knihkupectví u Kanzelsbergera. Prodával jsem knížky, společenské vědy, pak jsem dokonce dělal směnového předáka. Když jsem se o tu práci zajímal, tak kanzelsberger se ptal, jaké mám vzdělání. Říkám: No, základní. A on: A co tady děláte, vy máte tu drzost? Nějakým způsobem jsem ho přesvědčil, aby mě vzal, a za dva roky jsem byl směnový předák. Musel jsem se vždycky nějak víc snažit, makat na dvě stě procent, abych dosáhl toho, co jsem chtěl. Jenže pak jsem se s ním dostal trochu do křížku, a nakonec jsem skončil v Bontonlandu. A tam jsem konečně prodával to, co jsem vždycky chtěl – muziku.
+To ještě ne, v Novém Boru. Tam to vydrželo jen dva roky, pak jsem se teprve dostal do Prahy, kde jsem si sehnal práci ve velkém knihkupectví u Kanzelsbergera. Prodával jsem knížky, společenské vědy, pak jsem dokonce dělal směnového předáka. Když jsem se o tu práci zajímal, tak Kanzelsberger se ptal, jaké mám vzdělání. Říkám: No, základní. A on: A co tady děláte, vy máte tu drzost? Nějakým způsobem jsem ho přesvědčil, aby mě vzal, a za dva roky jsem byl směnový předák. Musel jsem se vždycky nějak víc snažit, makat na dvě stě procent, abych dosáhl toho, co jsem chtěl. Jenže pak jsem se s ním dostal trochu do křížku, a nakonec jsem skončil v Bontonlandu. A tam jsem konečně prodával to, co jsem vždycky chtěl – muziku.
 
 **Už jsi o muzice i psal?**
 
