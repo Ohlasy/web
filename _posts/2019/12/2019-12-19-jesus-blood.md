@@ -6,7 +6,7 @@ category: názory a komentáře
 tags: kultura
 ---
 
-*Co mají společného londýnští bezdomovci, mraky na nebi a soudobá hudba? Dozvíte se na poslední koncertu z adventního cyklu v boskovickém evangelickém kostele.*
+*Co mají společného londýnští bezdomovci, mraky na nebi a soudobá hudba? Dozvíte se na posledním koncertu z adventního cyklu v boskovickém evangelickém kostele.*
 
 {% photo src="https://i.ohlasy.info/cf95cd8e.jpg" author="Tomáš Znamenáček" %}
 
