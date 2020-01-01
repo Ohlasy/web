@@ -4,6 +4,7 @@ perex: Veřejné stavby by měly vznikat na míru těm, kdo je budou používat.
 cover-photo: https://i.ohlasy.info/i/ehfnmc9.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
+featured: true
 ---
 
 *Veřejné stavby by měly vznikat na míru těm, kdo je budou používat. Zní to triviálně, ale u těch boskovických se to příliš nedaří. Tentýž problém existuje i na celostátní úrovni, ale u nás na malém městě máme lepší šanci jej překonat. Nejde totiž o tlaky velkých zájmových skupin, jako spíš o schopnost a ochotu našich zastupitelů se dohodnout, nechtít rozhodovat o všem a dodržovat u veřejných investic jasný, systematický postup.*

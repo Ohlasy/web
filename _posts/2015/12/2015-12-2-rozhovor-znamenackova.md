@@ -4,7 +4,6 @@ cover-photo: https://i.ohlasy.info/i/gorcuik.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura hudba
-featured: true
 ---
 
 *Rozhovor s klavíristkou Kristýnou Znamenáčkovou, která minulý týden zvítězila v soutěži Nadace Bohuslava Martinů. Soutěž je určená pro interprety do 28 let, Kristýna hrála skladby Josepha Haydna, Johannese Brahmse a samozřejmě především Bohuslava Martinů – včetně náročné Sonáty (H 350) z roku 1954, tedy z konce skladatelova tvůrčího období. Kristýna letos přešla z pražské HAMU na brněnskou JAMU, kde studuje klavírní hru v magisterském programu, kromě toho učí na ZUŠ v Blansku.*

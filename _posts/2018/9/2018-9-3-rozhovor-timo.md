@@ -4,6 +4,7 @@ cover-photo: https://i.ohlasy.info/i/xlm1ujf.jpg
 perex: Rozhovor s výtvarníkem, který je známý jako TIMO, nejen o jeho práci na boskovické trafačce, kterou vyzdobil Nočním potápěčem.
 author: Tomáš Trumpeš
 category: rozhovory
+featured: true
 ---
 
 *Rozhovor s výtvarníkem, který je známý jako TIMO. Zůstává v anonymitě, takže rozhovor doprovázejí fotky z jeho práce na boskovické trafačce, kterou vyzdobil Nočním potápěčem. Jazykově útlocitné čtenáře upozorňujeme, že jsme v rozhovoru ponechali v plném znění i slova, pro která TIMO nešel příliš daleko.*

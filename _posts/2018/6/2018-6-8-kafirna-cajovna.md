@@ -5,6 +5,7 @@ cover-photo: https://i.ohlasy.info/i/0fzgeep.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
+featured: true
 ---
 
 *Chcete-li strávit skutečně příjemné chvíle ve voňavém, stylovém prostředí s konvičkou výborného čaje či šálkem kvalitní kávy, vřele vám doporučuji návštěvu starobylého domu na nároží ulic Zborovská a U Císařské, kde se nachází Literární čajovna Hermanna Ungara a Kafírna Dogvill. Jaká byla historie tohoto domu a vlastně i celé ulice, je vskutku zajímavé vyprávění.*

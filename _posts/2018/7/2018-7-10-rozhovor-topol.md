@@ -4,6 +4,7 @@ perex: Rozhovor se spisovatelem Jáchymem Topolem. Do Boskovic přijel číst na
 cover-photo: https://i.ohlasy.info/i/1gojdws.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+featured: true
 ---
 
 *Rozhovor se spisovatelem Jáchymem Topolem. Do Boskovic přijel číst na festival pro židovskou čtvrť, ačkoliv si den předtím poranil ruku při práci na „rekonstrukci ruiny“, jak říká opravě domu v Posázaví, kam jezdí psát. Na jeho čtení bylo narváno, poté jsme si povídali o jeho vztahu k židovské kultuře, o psaní, o neustálých změnách ve společnosti i o jeho práci v Knihovně Václava Havla.*

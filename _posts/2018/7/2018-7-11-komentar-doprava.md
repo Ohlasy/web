@@ -4,6 +4,7 @@ perex: Nedávné setkání vedení města s veřejností oživilo debatu o dop
 cover-photo: https://i.ohlasy.info/i/qta4knz.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
+featured: true
 ---
 
 *Nedávné setkání vedení města s veřejností oživilo debatu o dopravě ve městě, zejména o obchvatu Boskovic na Jevíčko a nedostatku parkovacích míst. Oba zmíněné problémy mají společný jmenovatel, kterým je rostoucí intenzita osobní automobilové dopravy.*

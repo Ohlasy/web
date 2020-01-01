@@ -3,6 +3,7 @@ title: „Skautský dům bychom zvládli postavit sami.“
 cover-photo: https://i.ohlasy.info/i/09rqeud.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+featured: true
 ---
 
 *Rozhovor se skautskými vedoucími Václavem Klíčem a Ludmilou Dobrozemskou. Povídali jsme si o boskovickém skautu a jeho fungování a také o záměru, se kterým skauti nedávno přišli – postavit v Boskovicích skautský dům.*

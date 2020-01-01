@@ -5,6 +5,7 @@ cover-photo: https://i.ohlasy.info/i/lcfefyq.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
+featured: true
 ---
 
 *Dnes si, milí čtenáři Ohlasů, povíme něco o tom, jak se stravují ortodoxní židé, neboť těmto je dovoleno jíst jen to, co je takzvaně košer, tedy rituálně čisté. Soubor pravidel a předpisů košer kuchyně se nazývá kašrut a tvoří jej zhruba 50 ze 613 zákazů a příkazů Tóry. Dodržování těchto příkazů je nedílnou součástí každodenního života židů a zároveň důležitá služba Bohu.*

@@ -4,6 +4,7 @@ perex: Rozhovor s památkářem a architektem Romanem Čerbákem, který má j
 cover-photo: https://i.ohlasy.info/i/jdwkajx.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+featured: true
 ---
 
 *Rozhovor s památkářem a architektem Romanem Čerbákem, který má jako pracovník Národního památkového ústavu na starosti i boskovickou památkovou zónu. Mluvili jsme o konkrétních aspektech změn především v židovské čtvrti, ale také o obecnějším vztahu současné společnosti k architektuře, veřejnému prostoru a vývoji měst.*

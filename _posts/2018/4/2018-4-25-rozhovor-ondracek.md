@@ -4,6 +4,7 @@ perex: Rozhovor s výtvarníkem Vítem Ondráčkem o jeho grafickém cyklu Kř
 cover-photo: https://i.ohlasy.info/i/6twkhdu.jpg
 author: Tomáš Trumpeš
 category: rozhovory
+featured: true
 ---
 
 *Rozhovor s výtvarníkem Vítem Ondráčkem o jeho grafickém cyklu Křížová cesta. Ta je vystavena v boskovickém evangelickém kostele až do konce listopadu, prohlídka je možná při akcích v kostele nebo po předchozí domluvě. S autorem jsme mluvili o zrodu tohoto díla a také o zvláštní technice, kterou vyvíjí celý život.*

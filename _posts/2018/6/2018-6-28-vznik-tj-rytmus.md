@@ -5,6 +5,7 @@ perex: TJ Rytmus Boskovice vznikla před pádem komunistického režimu v roce 1
 author: Marek Osouch
 category: seriály
 serial: osmicky
+featured: true
 ---
 
 *Tělovýchovná jednota Rytmus Boskovice vznikla před pádem komunistického režimu v roce 1988 i přes nelibost představitelů boskovické KSČ. Dnes po třiceti letech existence je největší sportovní organizací  ve městě a jednou z největších v Jihomoravském kraji. Textem pokračujeme v seriálu o osmičkových výročích v Boskovicích.*
