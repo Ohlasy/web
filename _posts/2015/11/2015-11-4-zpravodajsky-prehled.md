@@ -1,6 +1,6 @@
 ---
 title: "Zpravodajský přehled za říjen"
-cover-photo: https://i.ohlasy.info/Lq5XJdo.jpg
+cover-photo: https://i.ohlasy.info/i/lq5xjdo.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 ---

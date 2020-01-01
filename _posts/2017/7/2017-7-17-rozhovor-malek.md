@@ -1,14 +1,14 @@
 ---
 title: „Dřevotříska nesmí přes práh našeho domu.“
 perex: Rozhovor se stolařem Pavlem Málkem. Žije a pracuje společně s manželkou na Dvou dvorech, kde také chovají koně. Bydlí v krásné dřevostavbě, kterou si sami postavili. A zaměřují se výhradně na výrobu kvalitního nábytku z masivu.
-cover-photo: https://i.ohlasy.info/xFn5m5t.jpg
+cover-photo: https://i.ohlasy.info/i/xfn5m5t.jpg
 author: Anna Dudková
 category: rozhovory
 ---
 
 *Rozhovor se stolařem Pavlem Málkem. Žije a pracuje společně s manželkou na Dvou dvorech, kde také chovají koně. Bydlí v krásné dřevostavbě, kterou si sami postavili. A zaměřují se výhradně na výrobu kvalitního nábytku z masivu. Lidí, kteří se spálili s levným nábytkem a chtějí něco kvalitního, podle něj přibývá.*
 
-{% photo src="https://i.ohlasy.info/xFn5m5t.jpg" caption="Pavel Málek" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xfn5m5t.jpg" caption="Pavel Málek" author="Tomáš Znamenáček" %}
 
 **V prvé řadě by mě zajímalo, jestli je rozdíl mezi stolařem a truhlářem?**
 
@@ -44,7 +44,7 @@ Možná jasan. A každopádně na prvním místě akát. Ten je ale problém vů
 
 Je to úžasně houževnaté dřevo. Vydrží staletí, v tom je úžasný. A kresba je nádherná. Moc se mi líbí i jako strom. Navíc jsem zjistil, že mám akát i ve znamení. Letos ale u nás bohužel nekvetly, všechno pomrzlo. Teď se navíc lidi snaží akát vymýtit, že je to plevelná dřevina a nepatří sem.
 
-{% photo src="https://i.ohlasy.info/fe5n33d.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/fe5n33d.jpg" author="Tomáš Znamenáček" %}
 
 **Dá se popsat cesta dřeva z lesa až do dílny? Co všechno se s ním děje, než je z něj třeba polička?**
 
@@ -76,7 +76,7 @@ Ty staré jo, tam se nic nekazí. Kazí se jen ty nové. Tyhle sto let staré st
 
 Nevýhoda je jen, když se člověk stěhuje, to pak s těmi litinovými mašinami není úplně optimální. Zkusili jsme si to a bylo to pořádná dřina. My máme mašiny ještě z první republiky, od firmy Johan ze Šlapanic. Všechno je to v litině a bezvadný, nemůžeme si stěžovat.
 
-{% photo src="https://i.ohlasy.info/kpNArCw.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/kpnarcw.jpg" author="Tomáš Znamenáček" %}
 
 **Učí se dnešní učni pracovat s takovýmto klasickým nářadím?**
 

@@ -1,14 +1,14 @@
 ---
 title: „Byli jsme prosté lidské bytosti, které žily svoje prosté životy spolu s vámi.“
 perex: Dopis všem občanům Boskovic od Evy Morris, dcery posledního boskovického rabína.
-cover-photo: https://i.ohlasy.info/NYWApNp.jpg
+cover-photo: https://i.ohlasy.info/i/nywapnp.jpg
 author: Eva Morris
 category: názory a komentáře
 ---
 
 *Ve čtvrtek 14. března se v boskovickém muzeu konalo uvedení knihy o posledním boskovickém rabínu Yeshekelu Isidorovi Reichovi. Na svého otce v knize vzpomíná Eva Morris, jejíž dopis, kterým z Izraele účastníky setkání pozdravila, publikujeme.*
 
-{% photo src="https://i.ohlasy.info/NYWApNp.jpg" caption="Připomínka odsunu boskovických židů na vlakovém nádraží" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/nywapnp.jpg" caption="Připomínka odsunu boskovických židů na vlakovém nádraží" author="Muzeum regionu Boskovicka" %}
 
 Moji drazí přátelé v Boskovicích,
 

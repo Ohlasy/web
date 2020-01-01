@@ -1,6 +1,6 @@
 ---
 title: „Souhlas památkové péče máme, rekonstrukce Panského dvora by mohla začít v červnu.“
-cover-photo: https://i.ohlasy.info/kKSizhR.jpg
+cover-photo: https://i.ohlasy.info/i/kksizhr.jpg
 perex: Rozhovor s Luďkem Řehořem, majitelem Panského dvora, o dalším pokusu prosadit rekonstrukci barokní památky.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Luďkem Řehořem, majitelem Panského dvora – významné barokní památky v centru Boskovic. V minulosti se několikrát snažil prosadit její rekonstrukci, pokaždé však [narazil na nesouhlas státní památkové péče](http://www.ohlasy.info/clanky/2016/11/pansky-dvur.html). Nyní učinil další pokus, o kterém jsme mluvili, stejně jako o předpokládaném harmonogramu rekonstrukce a představách o dalším využití Panského dvora.*
 
-{% photo src="https://i.ohlasy.info/kKSizhR.jpg" caption="Luděk Řehoř" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/kksizhr.jpg" caption="Luděk Řehoř" author="Tomáš Trumpeš" %}
 
 **Zažádal jsi již počtvrté o souhlas státní památkové péče s novým návrhem rekonstrukce Panského dvora. Jak to dopadlo?**
 
@@ -58,7 +58,7 @@ A on prosazoval změnu. V tomto šli natvrdo proti sobě. Z dnešního odstupu c
 
 Jednoznačně musel. Proto jsme prosazovali pavlače, pokud bychom je tam měli, byla by využitelnost střech podstatně lepší. Ubytovaní by mohli sedět venku a sledovat třeba dění ve dvoře. To nyní nemůžou. Mají jen takový minibalkónek s oknem, respektive dveřmi otvíranými do místnosti.
 
-{% photo src="https://i.ohlasy.info/1lUk52c.jpg" caption="Návrh prosvětlení střech Panského dvora" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/i/1luk52c.jpg" caption="Návrh prosvětlení střech Panského dvora" author="Fránek Architects" %}
 
 ### Kompletní rekonstrukce za dva roky
 

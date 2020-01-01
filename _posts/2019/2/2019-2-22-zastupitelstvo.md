@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Hala, dotace, polytechnické centrum"
-cover-photo: https://i.ohlasy.info/UYy0qMe.jpg
+cover-photo: https://i.ohlasy.info/i/uyy0qme.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *První letošní jednání boskovického zastupitelstva se konalo v úterý 19. ledna, tentokrát neobvykle v sokolovně. Mezi hlavní témata se opět po čase dostala sportovní hala a řešily se i problémy s polytechnickým centrem.*
 
-{% photo src="https://i.ohlasy.info/UYy0qMe.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/uyy0qme.jpg" author="Tomáš Trumpeš" %}
 
 Hned v úvodu zastupitelstva dostali jako obvykle nejdříve prostor ke svým dotazům a připomínkám občané. První se ujal slova Vladimír Jakubec, lídr neúspěšné kandidátky Sdružení nestraníků z podzimních komunálních voleb. Ve svém příspěvku se zaměřil především na kritiku záměru umístit stavbu sportovní haly u národohospodářské školy na Hybešově ulici, což je jedna z variant, které vedení města aktuálně připravuje ke zvážení. O umístění haly pak bude rozhodovat zastupitelstvo.
 

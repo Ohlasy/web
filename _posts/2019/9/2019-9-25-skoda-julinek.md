@@ -1,7 +1,7 @@
 ---
 title: Nemocnice nebude po exstarostce Nedomové vymáhat škodu za vyhazov Julínka
 perex: Nemocnice udělala tečku za vyhazovem Tomáše Julínka. Náhradu mu sice vyplatila, po nikom však vzniklou škodu nebude chtít.
-cover-photo: https://i.ohlasy.info/XSU0mLL.jpg
+cover-photo: https://i.ohlasy.info/i/xsu0mll.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice politika
@@ -9,7 +9,7 @@ tags: nemocnice politika
 
 *Boskovická nemocnice udělala definitivní tečku za vyhazovem svého bývalého náměstka pro ekonomiku a správu a někdejšího ministra zdravotnictví za ODS Tomáše Julínka. Peněžní náhradu mu nemocnice sice vyplatila, po nikom však už vzniklou škodu nebude chtít.*
 
-{% photo src="https://i.ohlasy.info/XSU0mLL.jpg" caption="Hana Nedomová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xsu0mll.jpg" caption="Hana Nedomová" author="Tomáš Znamenáček" %}
 
 Škoda se sice stala, ale nevíme, jaký podíl viny na ní nesou konkrétní jedinci – tak by se dalo shrnout závěrečné stanovisko vedení boskovické nemocnice za kauzou výpovědi Tomáše Julínka na podzim roku 2015.
 

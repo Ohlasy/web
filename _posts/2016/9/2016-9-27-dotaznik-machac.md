@@ -1,6 +1,6 @@
 ---
 title: "Senátorský dotazník: Jan Machač, ODS"
-cover-photo: https://i.ohlasy.info/h6D4aty.jpg
+cover-photo: https://i.ohlasy.info/i/h6d4aty.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jan Machač, který do senátu kandiduje za stranu ODS.*
 
-{% photo src="https://i.ohlasy.info/h6D4aty.jpg" %}
+{% photo src="https://i.ohlasy.info/i/h6d4aty.jpg" %}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

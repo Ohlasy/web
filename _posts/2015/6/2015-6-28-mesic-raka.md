@@ -1,7 +1,7 @@
 ---
 title: Probíhá Měsíc raka. Ženy a slečny, jděte na prohlídku
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/Q37me5N.jpg
+cover-photo: https://i.ohlasy.info/i/q37me5n.jpg
 author: Kristýna Znamenáčková
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: novinky z rady a aktuální prohlášení k Dukelské"
-cover-photo: https://i.ohlasy.info/AdzHx9f.jpg
+cover-photo: https://i.ohlasy.info/i/adzhx9f.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady na začátku dubna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/AdzHx9f.jpg" caption="Fórum zdravého města" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/adzhx9f.jpg" caption="Fórum zdravého města" author="Tomáš Trumpeš" %}
 
 ### Nafukovací hala ###
 

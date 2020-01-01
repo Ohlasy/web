@@ -1,7 +1,7 @@
 ---
 title: „Kdo vidí film na našem obrovském plátně, tomu spadne brada.“
 perex: S Tomášem Marvanem o areálu letního kina, jeho fungování, dramaturgii a zájmu publika. Letní kino získalo vlastní projektor a může ještě vylepšit skóre nejnavštěvovanějšího letního kina u nás.
-cover-photo: https://i.ohlasy.info/2WNuLRp.jpg
+cover-photo: https://i.ohlasy.info/i/2wnulrp.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura
@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Tomášem Marvanem, vedoucím boskovického kina. Uprostřed letní sezóny jsme mluvili o areálu letního kina, jeho fungování, dramaturgii a zájmu publika. Letní kino letos získalo nový vlastní projektor za necelé dva miliony korun a kinaři už nejsou omezeni dobou, na kterou si dosud projektor půjčovali. Můžou tak ještě vylepšit své skóre už tak nejnavštěvovanějšího letního kina u nás.*
 
-{% photo src="https://i.ohlasy.info/2WNuLRp.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2wnulrp.jpg" author="Tomáš Trumpeš" %}
 
 **Jak jste spokojeni s novým projektorem?**
 
@@ -69,7 +69,7 @@ Myslím, že fakt jo. To se prostě povedlo.
 
 Ano, to je další věc. Je to všeobecný trend. Poslední dva tři roky je ten nárůst úplně všude, i malých vesničkách, kde sice nepromítají digitálně, nebo promítají z DVD a podobně. Ale ten trend letních kin tady je. Funguje to a je to dobře, jsme rádi.
 
-{% photo src="https://i.ohlasy.info/xsOkCpZ.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/xsokcpz.jpg" author="Tomáš Trumpeš" %}
 
 ### Chodí všechny generace
 
@@ -171,7 +171,7 @@ Ano. Dřív byla jasná cena – interpret přijel, řekl, že chce 200 tisíc, 
 
 No jasně. Uvidíme, koncerty tady jsou určitě super. A ten poměr se mi líbí, když tady budou zavedené akce jako ITAB: Ticho nechcem!, festival Boskovice, pak dva tři koncerty a na závěr Husí slavnosti. K tomu jsou ještě akce v okolí areálu – Boskofest nebo Summerfest, co měli K&K. V Boskovicích je toho opravdu až dost.
 
-{% photo src="https://i.ohlasy.info/j1L52Ft.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/j1l52ft.jpg" author="Tomáš Trumpeš" %}
 
 ### Dodržujeme, co tady původně bylo
 

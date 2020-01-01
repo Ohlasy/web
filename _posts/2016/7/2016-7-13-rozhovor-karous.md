@@ -1,6 +1,6 @@
 ---
 title: „Budoucí historikové si nejspíš řeknou, že procházíme obdobím vizuálního moru.“
-cover-photo: https://i.ohlasy.info/ReyZ2hs.jpg
+cover-photo: https://i.ohlasy.info/i/reyz2hs.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura
@@ -9,7 +9,7 @@ featured: true
 
 *Rozhovor s výtvarníkem Pavlem Karousem, autorem instalace Pomník Bruno Zwickera, kterou vytvořil pro letošní ročník festivalu Boskovice 2016 a která bude v Panském dvoře vystavena do 21. srpna. Vedle vlastní výtvarné tvorby se Pavel Karous věnuje také mapování, ochraně a podpoře výtvarného umění ve veřejném prostoru, je kupříkladu iniciátorem projektu [Vetřelci a volavky](http://www.vetrelciavolavky.cz/). Kromě jeho boskovické práce a životního příběhu Bruno Zwickera jsme se tedy v rozhovoru věnovali právě dnešnímu přístupu k výtvarným dílům ve veřejném prostoru.*
 
-{% photo src="https://i.ohlasy.info/ReyZ2hs.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/reyz2hs.jpg" author="Tomáš Trumpeš" %}
 
 **Když jste byl osloven, abyste vystavoval na boskovickém festivalu, přemýšlel jste hned o tom, že vytvoříte dílo speciálně pro tuto příležitost?**
 
@@ -61,7 +61,7 @@ Bruno Zwicker zkoumal nezaměstnanost hlavně u zemědělských a průmyslových
 
 Kajaky jsou oči pozorovatele, analytického vědce, který to celé sleduje z ptačí perspektivy. Bruno Zwicker měl zvláštní oční vadu, opak šilhání, rozjížděly se mu oči. Proto má jeden kajak oči rozjeté od sebe. 
 
-{% photo src="https://i.ohlasy.info/INpqdvF.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/inpqdvf.jpg" author="Tomáš Trumpeš" %}
 
 **Vy se hodně zabýváte uměním ve veřejném prostoru. Jak je mu dnešní doba otevřená? Třeba v Boskovicích toho od Listopadu ’89 moc nevzniklo.**
 
@@ -91,7 +91,7 @@ A co jsem se měl možnost bavit s osvícenými architekty, shodovali se, že by
 
 Za minulého režimu to byla až čtyři procenta. Ale to bylo u kulturních staveb jako Palác kultury nebo třeba u stanice metra někde v centru. Myslím, že jedno procento je naprosto postačující. Vezměte si, kolik stál tunel Blanka – za jedno procento by mohl průduch metra řešit třeba Federico Díaz nebo Dominik Lang. A dnes je typizovaný, nezajímavý a nijak nezlepšuje vizuální situaci na Letné. 
 
-{% photo src="https://i.ohlasy.info/2clkejZ.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2clkejz.jpg" author="Tomáš Trumpeš" %}
 
 **Když se řekne sochy ve veřejném prostoru, asi si hodně lidí představí sochy věnované osobnostem nebo směřované k připomínání nějaké historické události. Máte rád tento typ soch, nebo se dnes vizuální umění ubírá někam jinam?**
 

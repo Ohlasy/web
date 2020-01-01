@@ -1,13 +1,13 @@
 ---
 title: Trojí příspěvek k boskovické kultuře
-cover-photo: https://i.ohlasy.info/gzAIcAt.jpg
+cover-photo: https://i.ohlasy.info/i/gzaicat.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
 *V úvodním textu prosincového vydání tištěných Ohlasů se zamýšlíme nad tím, proč je důvodem k optimismu, když vedení města mluví špatně o architektuře.*
 
-{% photo src="https://i.ohlasy.info/gzAIcAt.jpg" caption="Nová ovocná alej v Dolinkách" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/gzaicat.jpg" caption="Nová ovocná alej v Dolinkách" author="Tomáš Znamenáček" %}
 
 Mezi muzikanty se vypráví vtip o dvou houslistech, jednom z Prahy, druhém z Brna. Brněnský se ptá pražského: „Víš, co se u nás o tobě říká? Že prý už ti to moc nehraje.“ A pražský odpovídá: „A víš, co se u nás říká o tobě? *Nic. Vůbec nic.*“ Občas si ten vtip vybavím, když slyším některé výroky našich zastupitelů a radních na téma architektury ve městě. Z těch vět je často poznat, že architekturu stále ještě považují za pomyslnou třešničku na dortu, drahý nadstandard, nehospodárný výstřelek. Přesto je to pro mě důvodem k optimismu oproti době před třiceti, dvaceti, deseti lety, kdy se v Boskovicích o architektuře neříkalo *nic, vůbec nic*.
 

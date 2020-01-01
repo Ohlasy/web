@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za prosinec
-cover-photo: https://i.ohlasy.info/6Ggc8vU.jpg
+cover-photo: https://i.ohlasy.info/i/6ggc8vu.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

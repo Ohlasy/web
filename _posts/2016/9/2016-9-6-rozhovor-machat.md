@@ -1,6 +1,6 @@
 ---
 title: „Jsem stará škola, a ta si na řemeslném zpracování vždy zakládala. Přesto se sám sebe ptám, jestli dokonalost nakonec celkovému vyznění spíše neškodí.“
-cover-photo: https://i.ohlasy.info/ZbxcC1e.jpg
+cover-photo: https://i.ohlasy.info/i/zbxcc1e.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Rozhovor s výtvarníkem Michalem Machatem, jehož výstava Úkazy a Tmelí bude zahájena v boskovické Galerii Otakara Kubína v sobotu 17. září v 15 hodin. První část kreseb vznikla jako ilustrace pro knihu Úkazy, pro kterou paralelně psal texty Petr Pazdera Payne a která vyšla letos v srpnu. Druhá část sestává z velkoformátových kreseb, doplněných technikou tmelení. Michal Machat vystudoval Vysokou školu uměleckoprůmyslovou, ateliér skla. Je zastoupen v řadě českých i světových galerií a muzeí, ilustroval několik knih. Žije v Železném Brodě, je ženatý, má pět dětí.*
 
-{% photo src="https://i.ohlasy.info/ZbxcC1e.jpg" author="Michal Machat" %}
+{% photo src="https://i.ohlasy.info/i/zbxcc1e.jpg" author="Michal Machat" %}
 
 **Věnuješ se různým výtvarným technikám – když tě oslovil Petr Pazdera Payne, abys ilustroval jeho knihu, věděl jsi hned, že chceš využít kresbu? Nebo jak se to vyvíjelo?**
 
@@ -32,7 +32,7 @@ Otázka by mohla znít: čím mě oslovuje a inspiruje Petr. My se známe už od
 
 Jde o nezávislou, ale chronologicky na Úkazy navazující kolekci asi padesáti velkoformátových kreseb. Částečně si nesoucí obsahovou, ale i formální zkušenost z předešlé práce na knize. Hlavním motivem je zážitek z krajiny a z pohybu v ní. V závěru souboru už je zřetelná interní – někdy až intimní – orientace – důsledek to nemožnosti vyjet si na kole, koloběžce ven kvůliva namožené noze. A proč zrovna Tmelí? Pojmenoval jsem tak dokonce jednu z kreseb a jde o sentenci vlastního specifického pocitu nebo nálady a výtvarné techniky, která vznik těchto děl umožnila. Reliéfně-grafický záznam z kartuše akrylového tmelu vytlačeného „hada“ na grafitem pojednaný povrch papíru. A pak se nedivme, že se to dohromady všechno tak „tulí, jmelí, zelí a mlží“.
 
-{% photo src="https://i.ohlasy.info/sJcgbqG.jpg" author="Michal Machat" %}
+{% photo src="https://i.ohlasy.info/i/sjcgbqg.jpg" author="Michal Machat" %}
 
 **Kreseb v cyklu Úkazy i druhém cyklu Tmelí vzniklo více, než jich pojala kniha, a mnohem více, než může obsáhnout boskovická výstava – podle jakého klíče kresby na výstavu vybíráš?**
 
@@ -52,7 +52,7 @@ Jak jsem říkal: jsem už starší generace, a ta si na řemeslném zpracován�
 
 Ale vyhýbal bych se těm „nápadům“, jsou to jen povrchní signály. Obraz vzniká sám od sebe, je zrozen postupně na základě autorových myšlenek a empirie, a ten – autor – se taky formuje časem – umělecky zraje. Nápad chápu jako ze zákonitých souvislostí vytržený stav mysli. Něco jiného je umělecky generovaná vize – tu si s sebou často nosím, umanutě se jí zaobírám, a když se dostanu k práci, snažím se k ní samozřejmě přiblížit. Záhy ale zjišťuju, že se stala pouhým impulsem ke vzniku jiného, ale srovnatelně regulérního díla. Původní vizi opustím, překonám a nahradím nově vyprovokovanou vizí. A ta svoboda s možností změn, improvizace, ty zážitky z kreativního procesu, ovlivňovaného vším možným, včetně řemeslného postupu – to je ta správná katarze, má nirvána. A pokud se ale snažím danou vizi jen napodobit nebo ji přímo zhmotnit – což prakticky nelze – tak dílo většinou nedopadne, bývá unavené, ploché, nezáživné, a já nepociťuju žádoucí uspokojení.
 
-{% photo src="https://i.ohlasy.info/HuClJl1.jpg" author="Michal Machat" %}
+{% photo src="https://i.ohlasy.info/i/hucljl1.jpg" author="Michal Machat" %}
 
 **Z Prahy ses před lety odstěhoval do Železného Brodu. Vyhovuje ti držet se trochu stranou, nebýt v centru dění?**
 

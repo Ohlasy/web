@@ -1,6 +1,6 @@
 ---
 title: "Pozemek po lihovaru a jeho divoké porevoluční dějiny: sedm majitelů, zástavní právo i zrušená dražba"
-cover-photo: https://i.ohlasy.info/awFvk87.jpg
+cover-photo: https://i.ohlasy.info/i/awfvk87.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Jak to bylo s pozemkem po lihovaru vedle hotelu Velen v blízkosti sportovního areálu? Měly Boskovice možnost tento pozemek odkoupit? Loni se o to současné vedení Boskovic snažilo. Redakce Ohlasů zapátrala až do začátku 90. let a má nyní k dispozici seznam majitelů, kteří pozemky po lihovaru od dob privatizace postupně vlastnili.*
 
-{% photo src="https://i.ohlasy.info/US3eOKR.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/us3eokr.png" author="Mapy.cz" %}
 
 ### Rok 1994
 

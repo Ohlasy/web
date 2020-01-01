@@ -1,7 +1,7 @@
 ---
 title: Boskovice už rok nemají ze solární elektrárny ani korunu. Z 60 milionů bude nejspíš jen osm
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/6BpqQdO.jpg
+cover-photo: https://i.ohlasy.info/i/6bpqqdo.jpg
 author: Marek Osouch
 tags:
     - solární elektrárna
@@ -9,7 +9,7 @@ tags:
 
 *Boom solárních elektráren se nevyhnul ani Boskovicím. S velkým nadšením v roce 2009 schvalovalo vedení města pronájem pozemku v Chrudichromské ulici společnosti AKAM Bosko, která na něm elektrárnu postavila. Za pětadvacet let provozu měly Boskovice na nájmu získat zhruba šedesát milionů korun. Za tři roky však byla situace jiná a loni přitekla do městské pokladny pouze část nájemného za první čtvrtletí. Z očekávaných šedesáti milionů je zatím něco přes osm a na další příjmy to moc nevypadá.*
 
-{% photo src="https://i.ohlasy.info/6BpqQdO.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6bpqqdo.jpg" author="Tomáš Znamenáček" %}
 
 Na svém posledním zasedání rozhodla městská rada o poměrně razantním postupu vůči dlužníkovi. „Poslali jsme jim dopis, aby uhradili do konce května dlužnou částku, jinak jim vypovíme smlouvu,“ prohlásila boskovická starostka Hana Nedomová. Provozovatel elektrárny slíbil účast na osobním jednání. Žádná schůzka se ale neuskutečnila, a firma AKAM ani konkrétně nevysvětlila, jak chce dále postupovat. Z možného dobrého úmyslu dřívějšího vedení Boskovic je teď spíš obtíž, se kterou se musí nové vedení potýkat.
 
@@ -19,7 +19,7 @@ Když stát před téměř deseti lety začal plánovat dotace solární energie
 
 O špatném nastavení solárních dotací se vědělo už v roce 2008, ale k úpravě cen za výkup solární elektřiny došlo až od roku 2011, takže většina velkých hráčů stihla své projekty zapojit včas a získala tak nárok na vyšší výkupní ceny. Takzvaní solární baroni si podle odhadů přijdou asi o 200 miliard korun navíc, než kdyby politici zareagovali včas. Snížení výkupních cen pak paradoxně dopadlo spíše na menší projekty, mezi které patří i boskovická sluneční elektrárna postavená na městských pozemcích na okraji průmyslové zóny.
 
-{% photo src="https://i.ohlasy.info/s12d9xM.jpg" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/s12d9xm.jpg" author="Mapy.cz" %}
 
 ### AKAM přichází do Boskovic
 
@@ -29,7 +29,7 @@ AKAM Energy vznikla teprve na začátku roku 2009 a při příchodu do Boskovic 
 
 Pražská firma má oficiální sídlo v bytovém domě v Zelinářské ulici na Praze 4. Z fotografie nic nenasvědčuje tomu, že by tam měla nějaká firma působit, a trvalé bydliště zde nikdo z firmy také nemá zapsané. AKAM Bosko má mít kancelář v Boskovicích v Panském dvoře. Její přítomnost zde ale značí jen poštovní schránka. „Když jsem objekt koupil, tak tam fyzicky nikdo z této společnosti nebyl, ale je možné, že papírově zde pořád sídlo mají,“ uvedl majitel Panského dvora Luděk Řehoř.
 
-{% photo src="https://i.ohlasy.info/VfS7Cn4.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/vfs7cn4.jpg" author="Marek Osouch" %}
 
 Ve vedení obou firem sedí od jejich vzniku společně s dalšími lidmi dnes šestadvacetiletý Adam Andreska. V roce 2009 mu bylo teprve jednadvacet let, ale stal se šéfem obou společností. Žádný vlastnický podíl v nich ale neměl a ani nyní nemá.
 Přes všechny tyto podivnosti byla v červenci 2009 uzavřena nájemní smlouva. „Vše komunikovali úředníci. My jako rada jsme jen odsouhlasili smlouvu,“ popisuje dnes bývalý starosta Jaroslav Dohnálek. V prosinci už ale obě strany sepisovaly dodatek, který snižoval nájem. Původně měl provozovatel zaplatit nájem za listopad a prosinec 2009 ve výši 35 korun za metr, což dává dohromady 210 tisíc korun. Od ledna 2010 už měla platit plná cena 65 korun za metr. V prosincovém dodatku byl však nájem upraven. Za listopad 2009 až duben 2010 uhradila firma AKAM pouze 50 tisíc korun. Podle původní smlouvy by městský rozpočet získal za stejné období 800 tisíc.

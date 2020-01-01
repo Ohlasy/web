@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za únor
-cover-photo: https://i.ohlasy.info/pR9rXn3.jpg
+cover-photo: https://i.ohlasy.info/i/pr9rxn3.jpg
 excerpt: Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v únoru na Boskovicku událo.
 category: zpravodajství
 author: Tomáš Trumpeš

@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za srpen
-cover-photo: https://i.ohlasy.info/SPXTa1x.jpg
+cover-photo: https://i.ohlasy.info/i/spxta1x.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

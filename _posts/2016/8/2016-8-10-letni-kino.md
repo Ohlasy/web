@@ -1,6 +1,6 @@
 ---
 title: "Za dva měsíce začnou dělníci s opravou letního kina"
-cover-photo: https://i.ohlasy.info/f2TJEIN.jpg
+cover-photo: https://i.ohlasy.info/i/f2tjein.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice kultura kino
@@ -8,7 +8,7 @@ tags: investice kultura kino
 
 *S blížícím se koncem léta a tradičními Husími slavnostmi se také přibližuje termín, kdy začne zatím nejrozsáhlejší etapa rekonstrukce letního kina. V rozpočtu jsou pro letošní rok připravené dva miliony korun, další čtyři přibydou nově na dotaci z Ministerstva kultury.*
 
-{% photo src="https://i.ohlasy.info/f2TJEIN.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/f2tjein.jpg" author="Tomáš Znamenáček" %}
 
 Až dozpívá v letním kině poslední kapela na Husích slavnostech, už se do něj letos nikdo nepodívá. Dělníci začnou rozebírat rozpadající se hlediště s lavičkami a na řadu přijde hledání kanalizace, vodovodu a elektrických kabelů. Z pamětníků si už nikdo nepamatuje, kudy přesně inženýrské sítě vedou, jejich plány z dob výstavby letního kina se také nenašly. „Těžko říct, co je pod zemí. Údajně tam vede elektřina na šířku, kanalizace dokonce nějak bokem,“ nastínil místostarosta Boskovic Petr Malach (ČSSD).
 

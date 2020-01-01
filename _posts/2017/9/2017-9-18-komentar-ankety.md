@@ -1,14 +1,14 @@
 ---
 title: Městský rozpočet občany zajímá
 perex: Město Boskovice si stěžuje na nízký zájem občanů o anketu týkající se městského rozpočtu a odvozuje z něj, že rozpočet občany nezajímá. Ve skutečnosti není problém v nezájmu občanů, ale ve způsobu, kterým s nimi město komunikuje.
-cover-photo: https://i.ohlasy.info/UX3Dwt1.jpg
+cover-photo: https://i.ohlasy.info/i/ux3dwt1.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
 *Město Boskovice si na svém facebookovém profilu [stěžuje na nízký zájem občanů](https://www.facebook.com/mestoboskovice/posts/1451862341563058) o anketu týkající se městského rozpočtu a odvozuje z něj, že městský rozpočet občany nezajímá. Ve skutečnosti ale není problém v nezájmu občanů, ale ve způsobu, kterým s nimi město komunikuje a kterým reaguje na jejich připomínky.*
 
-{% photo src="https://i.ohlasy.info/UX3Dwt1.jpg" caption="Kulaté stoly v zámeckém skleníku" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/ux3dwt1.jpg" caption="Kulaté stoly v zámeckém skleníku" author="Jaroslav Parma" %}
 
 Setkání s občany by se možná dala lépe načasovat v rámci dne i v rámci roku, jistě by se dala lépe propagovat a mohla by lépe využívat sociálních sítí a podobně, ale jejich hlavní problém je jinde. Kdyby občané věděli, že na setkání nebo v anketě mohou skutečně ovlivnit chod města, nedělalo by jim problémy vzít si na setkání dovolenou nebo dotáhnout k webové anketě své příbuzné. Jejich reálná, léta upevňovaná zkušenost ovšem tvrdí pravý opak: ankety a veřejné debaty mají vliv zcela minimální.
 

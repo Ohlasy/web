@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za listopad
-cover-photo: https://i.ohlasy.info/BPxw633.jpg
+cover-photo: https://i.ohlasy.info/i/bpxw633.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

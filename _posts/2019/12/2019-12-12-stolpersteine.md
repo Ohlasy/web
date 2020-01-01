@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Moje stolpersteine"
-cover-photo: https://i.ohlasy.info/dbd41187.jpg
+cover-photo: https://i.ohlasy.info/i/dbd41187.jpg
 category: seriály
 serial: ghetto
 author: Helena Janíková
@@ -11,7 +11,7 @@ tags:
 
 *Aby nedošlo k omylu, milí přátelé, stolpersteine, o kterých vám dnes chci vyprávět, nejsou moje. Název jsem si vypůjčila od paní Blanky Dvořáčkové, která tak nazvala vzpomínky na své židovské boskovické předky, jejichž osud se tragicky naplnil v době holocaustu.*
 
-{% photo src="https://i.ohlasy.info/7c32b7c1.jpg" caption="Zleva Terezie, Leopold, Sofie, Moris a Hanuš Grünwaldovi" author="archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/7c32b7c1.jpg" caption="Zleva Terezie, Leopold, Sofie, Moris a Hanuš Grünwaldovi" author="archiv Muzea regionu Boskovicka" %}
 
 Právě z iniciativy paní Dvořáčkové byly v Boskovicích na ulici Plačkova před domem č. 35 umístěny čtyři stolpersteine, věnované příslušníkům rodiny Grünwaldů, ze které pochází maminka boskovické rodačky, paní Dvořáčkové. Mnozí z vás slovo stolpersteine a jeho význam znají, pro ty ostatní si dovolím malé vysvětlení.
 

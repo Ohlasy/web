@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: mlýn, hala, rozpočet a prodej budovy O2"
 perex: Debata byla místy vyhrocená, přinesla minimálně jedno překvapení a nesoulad v koaličních řadách. Do jednání jako by se už promítalo, že do komunálních voleb zbývá necelý rok.
-cover-photo: https://i.ohlasy.info/5JroSbf.jpg
+cover-photo: https://i.ohlasy.info/i/5jrosbf.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Prosincové jednání boskovického zastupitelstva trvalo více než tři hodiny. Debata byla místy vyhrocená, přinesla minimálně jedno překvapení a nesoulad v koaličních řadách. Do jednání jako by se už promítalo, že do komunálních voleb zbývá necelý rok.*
 
-{% photo src="https://i.ohlasy.info/5JroSbf.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/5jrosbf.jpg" author="Tomáš Trumpeš" %}
 
 ### Dotazy a připomínky občanů
 

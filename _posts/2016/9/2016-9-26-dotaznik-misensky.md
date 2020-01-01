@@ -1,7 +1,7 @@
 ---
 title: "Senátorský dotazník: Jiří Míšenský, ANO"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/xuln7qh.jpg
+cover-photo: https://i.ohlasy.info/i/xuln7qh.jpg
 category: rozhovory
 tags:
     - senátní volby 2016
@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jiří Míšeňský, který do senátu kandiduje za stranu ANO.*
 
-{% photo src="https://i.ohlasy.info/xuln7qh.jpg" %}
+{% photo src="https://i.ohlasy.info/i/xuln7qh.jpg" %}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Listopad 89 v dokumentech"
-cover-photo: https://i.ohlasy.info/c4e0fddf.jpg
+cover-photo: https://i.ohlasy.info/i/c4e0fddf.jpg
 perex: Průběh listopadových událostí roku 1989 v Boskovicích shrnuje u příležitosti 30. výročí historik Muzea regionu Boskovicka Petr Vítámvás.
 author: Petr Vítámvás
 category: seriály
@@ -10,7 +10,7 @@ tags: historie politika
 
 *Průběh listopadových událostí roku 1989 v Boskovicích shrnuje u příležitosti 30. výročí historik Muzea regionu Boskovicka Petr Vítámvás. Na základě dochovaných dokumentů popisuje sled událostí, kterými se Boskovice připojily k Sametové revoluci.*
 
-{% photo src="https://i.ohlasy.info/c4e0fddf.jpg" caption="Manifestace v rámci generální stávky v pondělí 27. listopadu" author="archiv města Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/c4e0fddf.jpg" caption="Manifestace v rámci generální stávky v pondělí 27. listopadu" author="archiv města Boskovice" %}
 
 17\. listopadu 1989 proti pokojné manifestace studentů v Praze zasáhla Veřejná bezpečnost. Druhý den přinesla média (jež byla pod státní kontrolou) většinou jen kratičkou zprávu o potlačení protestů protistátních živlů. Studenti vstoupili do stávky, k níž se připojili i herci, vzápětí bylo založeno Občanské fórum, v Praze a dalších městech se konaly manifestace, kterých se účastnilo den ode dne více lidí. Začal zápas o „srdce a mysli“ občanů, o to, aby se k co největšímu počtu občanů – a zejména na venkov – dostaly informace o tom, k čemu skutečně došlo na Národní třídě, a jaké požadavky vznesli studenti vůči vládnoucí nomenklatuře.
 

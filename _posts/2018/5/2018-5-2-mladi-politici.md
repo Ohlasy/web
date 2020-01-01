@@ -1,6 +1,6 @@
 ---
 title: „Boskovicím chybí koncepce. Město se potřebuje posunout.“
-cover-photo: https://i.ohlasy.info/k5pdlne.jpg
+cover-photo: https://i.ohlasy.info/i/k5pdlne.jpg
 perex: Rozhovor s Martinem Staňkem a Filipem Jimramovským, kteří patří k nejmladší generaci boskovických politiků.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s Martinem Staňkem a Filipem Jimramovským, kteří patří k nejmladší generaci boskovických politiků. Martin je student gymnázia, který nedávno vstoupil do ODS, Filip kvůli zranění přerušil kariéru sportovce, studuje ekonomii a management, pracuje jako manažer ve sportovním klubu a kandidovat bude za Sportovce. Oba mají ambici usednout v boskovickém zastupitelstvu.*
 
-{% photo src="https://i.ohlasy.info/k5pdlne.jpg" caption="Martin Staněk (vlevo) a Filip Jimramovský" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/k5pdlne.jpg" caption="Martin Staněk (vlevo) a Filip Jimramovský" author="Tomáš Trumpeš" %}
 
 
 **Kdy jste se začali zajímat o politiku?**

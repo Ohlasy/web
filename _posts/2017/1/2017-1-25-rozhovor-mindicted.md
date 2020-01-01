@@ -1,7 +1,7 @@
 ---
 title: „Jde o katarzi negativních pocitů a především o energii.“
 perex: Rozhovor s Vojtěchem Sedlákem a Davidem Jeřábkem, zakladateli Mindicted Crew, známými na drum’n’bassové scéně pod DJ jmény Void.Sec a Dejfunk.
-cover-photo: https://i.ohlasy.info/JV3h8Z8.jpg
+cover-photo: https://i.ohlasy.info/i/jv3h8z8.jpg
 author: Jan Bařinka
 category: rozhovory
 tags: kultura hudba
@@ -9,7 +9,7 @@ tags: kultura hudba
 
 *Rozhovor s Vojtěchem Sedlákem a Davidem Jeřábkem, zakladateli [Mindicted Crew](https://www.facebook.com/Mindicted), známými na drum’n’bassové scéně pod DJ jmény Void.Sec a Dejfunk. Pod hlavičkou Mindicted proběhlo již mnoho úspěšných párty především v Boskovicích a v Blansku, jejich význam však stále roste a postupně přesahuje nejen náš region, ale i celý kraj. Povídali jsme si o jejich začátcích, o organizačních záležitostech v rámci skupiny, ale také o tom, co drum’n’bassová hudba přináší jak interpretům, tak posluchačům. Nejbližší akcí v jejich režii bude další vydání Neurology v pátek 27. ledna v blanenském klubu Bass.*
 
-{% photo src="https://i.ohlasy.info/JV3h8Z8.jpg" author="Jan Kárl" %}
+{% photo src="https://i.ohlasy.info/i/jv3h8z8.jpg" author="Jan Kárl" %}
 
 **Začněme úplně od začátku. Jak jste se dostali k aktivnímu provozování elektronické hudby a jak a proč vás napadlo založit DJskou a promotérskou skupinu Mindicted?**
  
@@ -81,7 +81,7 @@ tags: kultura hudba
 
 **Dejfunk:** Kdybych to dělal sám, tak nezvládnu ani zlomek toho, co zvládneme všichni dohromady.
 
-{% photo src="https://i.ohlasy.info/ExDW1mC.jpg" author="Jan Kárl" %} 
+{% photo src="https://i.ohlasy.info/i/exdw1mc.jpg" author="Jan Kárl" %} 
 
 **Dokázali byste nějak popsat hudbu, co děláte? Co vám přináší, a co by mohla přinášet lidem, kteří třeba ani nemají s tímto žánrem nějakou zkušenost?**
  

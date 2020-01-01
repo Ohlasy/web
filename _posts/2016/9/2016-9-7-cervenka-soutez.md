@@ -1,6 +1,6 @@
 ---
 title: Sen o urbanistické soutěži na Červenou zahradu se rozplývá
-cover-photo: https://i.ohlasy.info/9FRT4ru.jpg
+cover-photo: https://i.ohlasy.info/i/9frt4ru.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Rada města [na svém srpnovém zasedání rozhodla](http://boskovice.cz/VismoOnline_ActionScripts/File.ashx?id_org=832&id_dokumenty=29003), že urbanistické řešení sportovního areálu Červená zahrada svěří boskovické projekční kanceláři, která z pěti oslovených firem přišla s nejlevnější nabídkou. Město tím prakticky uzavřelo možnost uspořádat na urbanistické řešení areálu architektonickou soutěž a pokračuje v problematické tradici rozvoje města nejlevnější cestou.*
 
-{% photo src="https://i.ohlasy.info/9FRT4ru.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/9frt4ru.jpg" author="Tomáš Znamenáček" %}
 
 Sportovní a rekreační areál Červená zahrada má nezastupitelnou roli pro boskovické sportovce i širokou veřejnost; město do něj dlouhodobě investovalo už stovky miliónů. Velký potenciál areálu se opět dostal do popředí zájmu v roce 2015, když nové politické vedení Boskovic zastavilo výstavbu sportovní haly na ulici Slovákova a logicky začalo uvažovat o tom, že nejvhodnější náhradní lokalitou je právě Červená zahrada.
 

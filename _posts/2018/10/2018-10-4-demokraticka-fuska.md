@@ -1,7 +1,7 @@
 ---
 title: "Unaveni z voleb? Demokracie dá fušku, ale vyplatí se"
 perex: Předvolební zpravodajství zakončujeme komentářem. Zbývá vybrat, odvolit, a pak se můžeme v sobotu odpoledne sejít u sledování výsledků třeba na našem novém diskusním fóru.
-cover-photo: https://i.ohlasy.info/svRmkoo.jpg
+cover-photo: https://i.ohlasy.info/i/svrmkoo.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika volby2018
@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *[Předvolební zpravodajství Ohlasů](http://www.ohlasy.info/volby/2018/) zakončujeme posledním komentářem. Zbývá vybrat, odvolit, a pak se můžeme v sobotu odpoledne sejít u sledování volebních výsledků třeba na [našem novém diskusním fóru](https://forum.ohlasy.info/t/komunalni-volby-2018/29).*
 
-{% photo src="https://i.ohlasy.info/svRmkoo.jpg" caption="Návštěva TGM v Boskovicích na obrazu Pavla Bačovského" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/svrmkoo.jpg" caption="Návštěva TGM v Boskovicích na obrazu Pavla Bačovského" author="Muzeum regionu Boskovicka" %}
 
 Demokracie dá strašné práce. To jediné už mě teď – den před komunálními volbami – napadá, a není to snad jen únavou z příprav předvolebních materiálů Ohlasů, i když zabrat nám samozřejmě daly. Naše energie je ale jen zlomek toho, kolik třeba jen boskovické volby spotřebují lidského času a sil. A samozřejmě peněz. V různé míře a různé kvalitě si svoje odpracovali především reprezentanti 10 uskupení, která se uchází o hlasy boskovických voličů.
 

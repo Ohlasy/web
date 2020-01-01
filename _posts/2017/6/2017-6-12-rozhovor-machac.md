@@ -1,6 +1,6 @@
 ---
 title: „Za své výsledky se nemusíme stydět.“
-cover-photo: https://i.ohlasy.info/TBeeuxb.jpg
+cover-photo: https://i.ohlasy.info/i/tbeeuxb.jpg
 author: Marek Osouch
 category: rozhovory
 tags: nemocnice
@@ -8,7 +8,7 @@ tags: nemocnice
 
 *Medicína a zdravotnictví jsou důležité především na okresní úrovni. Velká centra to nemůžou nahradit a často nemusí být v kvalitě péče lepší, říká v rozhovoru Jan Machač, primář boskovické nemocnice a předseda okresního sdružení České lékařské komory.*
 
-{% photo src="https://i.ohlasy.info/TBeeuxb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tbeeuxb.jpg" author="Tomáš Znamenáček" %}
 
 **Celorepublikově se diskutuje o nedostatku lékařů. Jaká je situace v boskovické nemocnici?**
 
@@ -72,7 +72,7 @@ Je to krajská nemocnice a ve smyslu personální stability pod krajem funguje l
 
 To ne, to si nemyslím. Je potřeba jim ale vytvořit takové podmínky, aby nemuseli odcházet.
 
-{% photo src="https://i.ohlasy.info/OGmtN52.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ogmtn52.jpg" author="Tomáš Znamenáček" %}
 
 ### Kvůli přesčasům stále porušujeme zákon
 
@@ -138,7 +138,7 @@ Proto taky došlo k tomu, že 40 až 50 procent absolventů zdravotních škol n
 
 Zlepšily se o deset procent a budou se dál zvyšovat. Řekl bych, že současné vedení dělá, co může. Předchozí vedení, kde byl i Tomáš Julínek, to mělo srovnané, kam tu nemocnici směřovat. To Miloš Janeček *(současný jednatel nemocnice, pozn. red.)* také, ale snaží se i ty doktory a sestry zaplatit. Za Julínka se osekaly všechny náklady, nemocnice se dostala do vyrovnaného rozpočtu, ale náklady není možné osekávat pořád.
 
-{% photo src="https://i.ohlasy.info/eEJMk3p.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eejmk3p.jpg" author="Tomáš Znamenáček" %}
 
 ### Dohnal nás vnitřní dluh
 

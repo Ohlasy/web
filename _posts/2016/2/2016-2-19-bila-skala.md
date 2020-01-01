@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Bílá skála"
 category: seriály
-cover-photo: https://i.ohlasy.info/jMxbgNb.jpg
+cover-photo: https://i.ohlasy.info/i/jmxbgnb.jpg
 serial: krajiny
 author: Hynek Skořepa
 tags: krajina
@@ -9,7 +9,7 @@ tags: krajina
 
 *Minule jsem psal [o Moravském krasu a jeho tajuplném podzemí](/clanky/2016/01/holstejn.html). Jen málo místa mi však zbylo na vlastní vápence, bez kterých by kras vůbec nemohl vzniknout. Za vápenci také nemusíme chodit až do Moravského krasu, máme je i v blízkém okolí Boskovic. Najdeme zde několik drobných vápencových ostrůvků. Nejzajímavější je bezpochyby Vratíkovský kras s několika jeskyněmi, z nichž některé dokonce sloužily za příbytek pravěkému člověku. Poblíž Knínic se nachází Mojetínský kras, drobné výchozy vápenců se vyskytují také u Valchova. Nejblíž z vlastních Boskovic je to však k vápencům na Bílou skálu pod Újezdem. A právě o ní bych chtěl psát dnes. Vždyť jsem již skoro před rokem, [v textu o kopci Zlatníku](/clanky/2015/04/zlatnik.html), sliboval, že se k ní ještě někdy vrátím.*
 
-{% photo src="https://i.ohlasy.info/8sg3Zci.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/8sg3zci.jpg" author="Hynek Skořepa" %}
 
 Název má ta skála příznačný. Vápenec, pokud není znečištěný organickými příměsemi, má obvykle šedobílou barvu. Je to hornina usazená, vznikající i v současnosti ukládáním těl (především schránek) mořských živočichů, například korálů. V Evropě je však dnes na tvorbu větších vrstev vápenců příliš zima (v mírném podnebí mohou vznikat pouze pramenné vápence, *travertiny*, ovšem jen v malém množství). Nejbližší recentní (tedy v současnosti vznikající) korálové útesy najdeme v Rudém moři. V geologické minulosti se však leckteré části dnešní Evropy nacházely na okraji tropického moře. Proto zde najdeme vápence docela často – vápence prvohorní, druhohorní (například v Alpách a Karpatech) a v menší míře i vápence třetihorní.
 
@@ -21,17 +21,17 @@ Vápence tvořící skály v blízkém okolí Boskovic jsou prvohorního, přesn
 
 *Vývoj Moravského krasu* čili *platformní* se vyznačuje silnou převahou vápencové sedimentace a je patrný především v Moravském krasu. Jeho skutečné rozšíření je však mnohem větší, v podloží mladších usazenin se táhne daleko k severovýchodu, až někam na Ostravsko. Geologové k němu řadí také vápence na Bílé skále. Usazeniny platformního vývoje vznikaly v rámci rozsáhlé mělkovodní vápencové plošiny (karbonátové platformy) a vyznačují se množstvím pozůstatků prvohorní fauny, mimo jiné právě korálů. 
 
-{% photo src="https://i.ohlasy.info/auIgXPx.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/auigxpx.jpg" author="Hynek Skořepa" %}
 
 Vápence Bílé skály a jejího okolí mají pouze malý plošný rozsah. V podstatě se jedná jen o několik „útržků“, které se na zemském povrchu objevily v souvislosti s takzvaným boskovickým zlomem. Na tento výrazný tektonický zlom (tektonika je část geologie zabývající se deformacemi v zemské kůře) je vázáno Pilské údolí u Boskovic. Takový zlom je vlastně jakási prasklina v zemské kůře, podél které došlo k pohybu. Jestliže se blok hornin Drahanské vrchoviny podél tohoto zlomu zdvíhá, blok Boskovické brázdy (Malé Hané) naopak klesá. Zmíněné pohyby jsou však pro člověka nepostihnutelné, jedná se o zlomky milimetrů ročně.
 
 Právě díky pohybům na zlomu a také v souvislosti s erozí okolních hornin se nám na svahu Pilského údolí doslova vylouply vápence. V lese zvaném U bílé skály mezi Boskovicemi a Újezdem u Boskovic se nacházejí dvě vápencové skalky. Jedna z nich hned vedle silnice na Újezd (při stavbě silnice byla částečně odtěžena), druhá pak kousek jižně od ní. Tu druhou, ukrytou v lese, mám raději. Málokdo o ní ví, i když okolní lesy v posledních letech v důsledku plánovaných i nahodilých těžeb (po větrných polomech) značně prořídly. Nahoře na skále však nikdy nepamatuji les, ale jakési houštiny různých křovin.
 
-{% photo src="https://i.ohlasy.info/Cymmamk.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/cymmamk.jpg" author="Hynek Skořepa" %}
 
 Vápence poskytují díky své zásadité chemické reakci mnohým rostlinám daleko lepší podmínky k životu než jiné horniny. Flóra vápencových oblastí proto bývá mnohem pestřejší než jinde. Když půjdete kolem Bílé skály v dubnu, třeba vás upoutá nápadná lecha (hrachor) jarní. Zato kapradiny, třeba sleziník červený, můžete pozorovat po celý rok. V časném jaru, obvykle koncem března, ale výjimečně již v únoru, rozkvétají při úpatí skály blankytně modré jaterníky podléšky. Také tito poslové jara rostou na vápencích mnohem častěji než na jiných horninách. Listy jaterníku podléšky (dříve nazývaného též trojlaločný) svým tvarem vzdáleně připomínají lidská játra. Naši předkové jaterník proto zcela nepodloženě využívali k léčbě chorob jater. Mysleli si totiž, že jde o znamení boží, „signum dei“, kterým jim Pánbůh dává na vědomí, jak kterých bylin z jeho „boží zahrádky“ užívat ku prospěchu svému. Třeba učenec Jan Černý, jehož kniha o léčivých bylinách vyšla v Norimberku v roce 1517, psal: *A proto slove jatrnie bylina, nebo všecky neduhy jatrní a žluče vpravdě a zkušeně hojí.* Podléškou (podlešťkou) se pak jaterník nazývá proto, že často roste pod lískou, spolu s lískou.
 
-{% photo src="https://i.ohlasy.info/DY2hy7M.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/dy2hy7m.jpg" author="Hynek Skořepa" %}
 
 Líska obecná sehrála důležitou úlohu ve vývoji středoevropské vegetace. V počátcích poledové doby (postglaciálu), v období odborně nazývaném jako boreál (asi před 9 000 lety), tvořila místy rozsáhlé porosty spolu s borovicí. Naši předkové, mezolitičtí lovci a sběrači, lískové oříšky hojně využívali jako vítaný doplněk stravy. Mají totiž vysoký obsah tuku (až 60 %) a bílkovin (19 %), navíc jsou vydatným zdrojem vitaminů skupiny B. Později však obě světlomilné dřeviny, líska i borovice, ustoupily zapojeným lesům. Dnes lísku nejčastěji najdeme na lesních okrajích a na mezích.
 

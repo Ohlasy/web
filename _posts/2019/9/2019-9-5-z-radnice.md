@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: Křižovatka u pošty, hospodaření nemocnice a kvalita života v Boskovicích"
 perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci srpna.
-cover-photo: https://i.ohlasy.info/6LYkYrX.jpg
+cover-photo: https://i.ohlasy.info/i/6lykyrx.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: doprava politika
@@ -9,7 +9,7 @@ tags: doprava politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci srpna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři starosty Jaroslava Dohnálka (ODS) z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/6LYkYrX.jpg" caption="Vizualizace kruhového objezdu pod poštou" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/6lykyrx.jpg" caption="Vizualizace kruhového objezdu pod poštou" author="Město Boskovice" %}
 
 ### Křižovatka u pošty
 

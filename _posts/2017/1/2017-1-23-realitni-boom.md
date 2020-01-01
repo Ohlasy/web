@@ -1,7 +1,7 @@
 ---
 title: Realitní boom v Boskovicích. V plánu je více než 100 rodinných domů a další bytovky
 perex: Více než 80 parcel je v Boskovicích připraveno k výstavbě rodinných domů. Na některých se už staví, ale číslo volných pozemků není konečné.
-cover-photo: https://i.ohlasy.info/JECczu2.jpg
+cover-photo: https://i.ohlasy.info/i/jecczu2.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: architektura investice
@@ -9,7 +9,7 @@ tags: architektura investice
 
 *Více než 80 parcel je v Boskovicích připraveno k výstavbě rodinných domů. Na některých se už staví, ale číslo volných pozemků není konečné. Na poli za nemocnicí, kde měly v minulosti stát bytovky, plánuje radnice parcely pro další desítky domů, a rozšiřovat se budou také Terasy na výsluní. Mohutná nabídka a plány začínají připomínat situaci před devíti lety.*
 
-{% photo src="https://i.ohlasy.info/JECczu2.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jecczu2.jpg" author="Tomáš Znamenáček" %}
 
 Od roku 2013 developerská firma BK Invest postupně připravuje 34 parcel pro rodinné domy na kopci u zahrádkářské kolonie Rovná. V říjnu 2014 je začala inzerovat a krátce nato uvedl jednatel firmy BK Invest Pavel Zatloukal pro regionální noviny Boskovicko, že lidé mají o parcely velký zájem. „Začali jsme inzerovat před dvěma týdny a polovinu pozemků už máme zarezervovaných,“ řekl tehdy Zatloukal. Od té doby se ale do dnešních dní stav příliš nepohnul. Pouze se z rezervací staly prodeje a jejich počet mírně překonal polovinu. Celkem má svého majitele 21 pozemků, dalších 13 je ale stále v nabídce, tedy už více než dva roky. „Lidé se tam stále chodí dívat. Nepočítali jsme, že to bude všechno hned pryč,“ říká dnes Zatloukal. V nabídce zůstaly především menší pozemky uprostřed nově vznikající okružní ulice.
 

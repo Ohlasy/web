@@ -1,7 +1,7 @@
 ---
 title: "Jak šel čas se sportovní halou: sportovci čekají už 10 let"
 date: 2016-05-16 11:00:45
-cover-photo: https://i.ohlasy.info/3PphKLf.jpg
+cover-photo: https://i.ohlasy.info/i/3pphklf.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
@@ -12,7 +12,7 @@ tags:
 
 *Letos je to deset let, kdy přestali sportovci využívat Jízdárnu jako sportovní halu, a v červnu nám uplyne rok od okamžiku, kdy zastupitelé rozhodli, že nová sportovní hala na Slovákově nebude. Tímto krokem jsme se vrátili o více než deset let zpátky. Pojďme si připomenout hlavní mezníky vývoje stavby sportovní haly.*
 
-{% photo src="https://i.ohlasy.info/3PphKLf.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3pphklf.jpg" author="Tomáš Znamenáček" %}
 
 *Rok 1995*: Budova sportovní haly v Jízdárně se přesouvá v restituci do majetku rodiny Mensdorff-Pouilly. Sportovci v ní můžou být i nadále.
 
@@ -20,7 +20,7 @@ tags:
 
 *Rok 2003*: Sportovní hala v prostorách Jízdárny je nevyhovující. „Již v roce 2003 bylo při zpracování Koncepce rozvoje tělovýchovy a sportu v Boskovicích konstatováno, že sportovní hala Jízdárna je v naprosto nevyhovujícím technickém stavu. Všechny oddíly se shodly na vybudování nové víceúčelové haly,“ stojí v [prohlášení města](http://www.boskovice.cz/tiskova-konference/d-20592), na které se v pozdějších letech vedení Boskovic mimo jiné odkazuje.
 
-{% photo src="https://i.ohlasy.info/I5IFipt.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/i5ifipt.jpg" author="Tomáš Trumpeš" %}
 
 *Rok 2005*: Vedení Boskovic hledá místo pro novou sportovní halu. Jako nejvhodnější nakonec radní [vybírají lokalitu na ulici Slovákova](http://stare.boskovicko.cz/cislo.phtml?iss_id=113#art_3649) vedle základní školy. Umístění ve sportovním areálu Červená zahrada vnímají jako nevhodné a neefektivní bez možnosti využívání školami v dopoledních hodinách a také kvůli nutnosti vykupovat pozemky. Zastupitelé o lokalitě nehlasovali.
 
@@ -36,7 +36,7 @@ tags:
 
 *Rok 2013*: Obyvatelé kolem Slovákovy, kteří v roce 2006 podepsali petici, se jako by najednou probudili a chtějí stavbu na poslední chvíli zastavit. Vidí už jen jedinou cestu – [místní referendum](http://stare.boskovicko.cz/cislo.phtml?iss_id=489#art_16714), k jehož uspořádání sesbírají dostatečný počet zhruba dvou tisíc podpisů, a tak se referendum koná na podzim téhož roku. Většina hlasujících je proti stavbě, k urnám však přichází voličů málo, a tak je hlasování nezávazné. Ještě před příchodem zimy se [začíná na Slovákově kopat](http://stare.boskovicko.cz/cislo.phtml?iss_id=507#art_17330).
 
-{% photo src="https://i.ohlasy.info/7Wnnk5W.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/7wnnk5w.jpg" author="Marek Osouch" %}
 
 *Jaro 2014*: Práce se po zimě znovu rozbíhají, ale zanedlouho zastavují. Problém se skrývá v podloží, dokonce je v zemi nalezeno uhlí. Potvrzují se tak upozornění lidí už z roku 2006. Je nutné proto přepracovat projekt a to takovým způsobem, že stavební úřad požaduje nové vyřízení stavebního povolení, respektive povolení změny stavby před jejím dokončením.
 

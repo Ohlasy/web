@@ -1,6 +1,6 @@
 ---
 title: „Nechci hrát uraženého.“
-cover-photo: https://i.ohlasy.info/QRCeNtE.jpg
+cover-photo: https://i.ohlasy.info/i/qrcente.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika volby2018
@@ -8,7 +8,7 @@ tags: politika volby2018
 
 *Rozhovor s Petrem Malachem, končícím místostarostou a předsedou boskovické ČSSD. Mluvili jsme o tom, kde vidí příčiny prohry a budoucnost své strany, která odchází do opozice a prožívá krizi i na celostátní úrovni.*
 
-{% photo src="https://i.ohlasy.info/QRCeNtE.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/qrcente.jpg" author="Tomáš Znamenáček" %}
 
 **Proč jste prohráli volby?**
 
@@ -96,7 +96,7 @@ Jednání bylo během noci tak rychlé, že to v tu chvíli asi ani nikdo nepoč
 
 Ne.
 
-{% photo src="https://i.ohlasy.info/Z8B57Y1.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/z8b57y1.jpg" author="Tomáš Znamenáček" %}
 
 ### Kampaň od roku 2019
 

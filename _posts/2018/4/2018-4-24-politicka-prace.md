@@ -1,7 +1,7 @@
 ---
 title: Myslet to dobře nestačí. Politika je náročná práce.
 perex: Boskovická politika nové impulzy potřebuje. Musí se ale najít někdo, kdo bude ochoten přijmout, že politika nejsou jen názory a nápady, ale je to velmi tvrdá práce.
-cover-photo: https://i.ohlasy.info/fqcrBbA.jpg
+cover-photo: https://i.ohlasy.info/i/fqcrbba.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika volby2018
@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *S blížícími se komunálními volbami se i v Boskovicích objevuje volání po nových tvářích. A nových stranách. Je to logické – tradiční strany obecně ve společnosti ztrácejí podporu a do značné míry zanedbaly generační obměnu. Pro mladé aktivní občany nejsou moc atraktivní, a ti mají tudíž větší tendenci sdružovat se v nových uskupeních.*
 
-{% photo src="https://i.ohlasy.info/fqcrBbA.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/fqcrbba.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" %}
 
 Problém je samozřejmě nejen lidský. Můžeme se jen přít, jestli ke generační obměně nedochází, protože mladí nemají zájem, nebo protože je staří matadoři mezi sebe nepustí. Navíc to rozhodně neplatí paušálně, v některých stranách se pestřejší věkové prostředí a kandidátky vytvářet daří.
 

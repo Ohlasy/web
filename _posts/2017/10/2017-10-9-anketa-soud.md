@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Cítí radní odpovědnost za prohraný soud s Tomášem Julínkem?"
 perex: Organizační změnu, kterou soud označil za účelovou, schválili přímo boskovičtí radní, kteří tvoří valnou hromadu nemocnice. Jak se ke svému rozhodnutí dnes staví?
-cover-photo: https://i.ohlasy.info/ArgzbKs.jpg
+cover-photo: https://i.ohlasy.info/i/argzbks.jpg
 author: Marek Osouch
 category: ankety
 tags: politika
@@ -13,7 +13,7 @@ Pro zrušení Julínkova místa před dvěma lety hlasovalo šest členů rady, 
 
 ---
 
-<img src="https://i.ohlasy.info/m1MS5yT.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/i/m1ms5yt.jpg" class="profile-picture">
 
 **Hana Nedomová, starostka za ČSSD, tehdy také jednatelka nemocnice**
 
@@ -25,7 +25,7 @@ Město Boskovice se věcně neztotožňuje s hodnocením soudu, neboť příprav
 
 ---
 
-<img src="https://i.ohlasy.info/vuSHbga.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/i/vushbga.jpg" class="profile-picture">
 
 **Dagmar Hamalová, tehdy radní, dnes místostarostka za KDU-ČSL** 
 
@@ -33,7 +33,7 @@ Rada města jakožto valná hromada se spolupodílí na rozhodování ve společ
 
 ---
 
-<img src="https://i.ohlasy.info/fDjjU7m.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/i/fdjju7m.jpg" class="profile-picture">
 
 **Petr Malach, místostarosta za ČSSD**
 
@@ -41,7 +41,7 @@ Nechci se k tomu vyjadřovat, ani to nijak komentovat, protože nemocnice je cit
 
 ---
 
-<img src="https://i.ohlasy.info/0Jf6TgA.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/i/0jf6tga.jpg" class="profile-picture">
 
 **Milan Kolínský, radní za ČSSD**
 
@@ -49,7 +49,7 @@ Nechci se k tomu vyjadřovat, ani to nijak komentovat, protože nemocnice je cit
 
 ---
 
-<img src="https://i.ohlasy.info/B1P4mFO.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/i/b1p4mfo.jpg" class="profile-picture">
 
 **Karel Ošlejšek, radní za ČSSD**
 
@@ -57,7 +57,7 @@ Byly mi podány informace, na základě kterých jsem usoudil, že to místo v 
 
 ---
 
-<img src="https://i.ohlasy.info/CES4mYf.jpg" class="profile-picture">
+<img src="https://i.ohlasy.info/i/ces4myf.jpg" class="profile-picture">
 
 **Martina Přichystalová, radní za ANO 2011**
 

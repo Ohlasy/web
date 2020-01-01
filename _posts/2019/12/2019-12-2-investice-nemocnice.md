@@ -1,6 +1,6 @@
 ---
 title: "Nejen nová kotelna. V nemocnici plánují další investice za desítky milionů"
-cover-photo: https://i.ohlasy.info/a4yOILU.jpg
+cover-photo: https://i.ohlasy.info/i/a4yoilu.jpg
 perex: Přinášíme vám velký přehled investičních plánů boskovické nemocnice, od modernizace kotelny přes urgentní příjem a návrat prádelny až po přesun heliportu.
 author: Marek Osouch
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: nemocnice
 
 *Dva roky už se vedení Boskovic soustředí na rekonstrukci kotelny a veškerých rozvodů tepla v městské nemocnici. Příští rok bude tato investice dokončená, není ale zdaleka poslední a další studie na vylepšení se připravují.*
 
-{% photo src="https://i.ohlasy.info/a4yOILU.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/a4yoilu.jpg" author="Tomáš Znamenáček" %}
 
 Nemocnice je sice zvnějšku zateplená, má nová okna, některé chodby a ordinace jsou vymalované, jenže hlavní „střeva“ v podobě veškerých rozvodů včetně centrály v kotelně byly ještě donedávna prakticky v původním stavu z 50. let, [kdy nemocnice vznikla](https://ohlasy.info/clanky/2018/05/vznik-nemocnice.html). „Tady jsem chodil a jen slyšel, jak někde něco teče,“ popisuje technický náměstek nemocnice Lubomír Moráň, který se do této letos obnovené funkce přesunul z investičního odboru městského úřadu, kde působil předchozí čtyři roky.
 

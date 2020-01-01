@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za červen
-cover-photo: https://i.ohlasy.info/RdGXA6t.jpg
+cover-photo: https://i.ohlasy.info/i/rdgxa6t.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v červnu na Boskovicku událo.*
 
-{% photo src="https://i.ohlasy.info/RdGXA6t.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/rdgxa6t.jpg" author="Tomáš Znamenáček" %}
 
 Boskovické zastupitelstvo schválilo záměr převzít do vlastnictví města bezplatně [budovu sokolovny](http://ohlasy.info/clanky/2016/06/anketa-sokolovna.html). 
 

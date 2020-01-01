@@ -1,14 +1,14 @@
 ---
 title: „Vyprodukujeme zhruba tři miliony vřeten ročně.“
 perex: Rozhovor s ředitelem společnosti Novibra Markusem Külzerem o výrobcích, zaměstnancích, ale i o tom, jaké bylo přestěhovat se před více než dvaceti lety z německého velkoměsta sem do Boskovic.
-cover-photo: https://i.ohlasy.info/KgAvffP.jpg
+cover-photo: https://i.ohlasy.info/i/kgavffp.jpg
 author: Martina Vašková
 category: rozhovory
 ---
 
 *Rozhovor s ředitelem společnosti Novibra Markusem Külzerem. Novibra v Boskovicích funguje už pětadvacet let a patří zde k největším zaměstnavatelům. S ředitelem jsme si povídali o jejich výrobcích, zaměstnancích, ale i o tom, jaké bylo přestěhovat se před více než dvaceti lety z německého velkoměsta sem do Boskovic.*
 
-{% photo src="https://i.ohlasy.info/KgAvffP.jpg" caption="Markus Külzer" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/i/kgavffp.jpg" caption="Markus Külzer" author="Martina Vašková" %}
 
 **Všichni známe firmu Novibra, ale málokdo ví, co se u vás vyrábí. Můžete vaši společnost a její výrobky představit?**
 
@@ -42,7 +42,7 @@ Společnost Rieter tvoří tři odvětví – stroje a systémy, pak součástky
 
 Největší odběratelé jsou samozřejmě v Číně, tam dodáváme orientačně polovinu našich výrobků. Pak Indie, Pákistán, Bangladéš, Indonésie, zde jsou naši hlavní zákazníci. Teď nově rozjíždíme obchod ve Spojených státech a Jižní Americe.
 
-{% photo src="https://i.ohlasy.info/q2c0pKl.jpg" author="Novibra" %}
+{% photo src="https://i.ohlasy.info/i/q2c0pkl.jpg" author="Novibra" %}
 
 **Na svých webových stránkách píšete, že v roce 1988 byla vyvinutá nová revoluční vřetena HPS – používají se ještě dnes, nebo už máte vřetena technicky dokonalejší?**
 

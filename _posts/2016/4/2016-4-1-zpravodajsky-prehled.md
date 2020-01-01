@@ -1,7 +1,7 @@
 ---
 title: Zpravodajský přehled za březen
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/p7tqFrp.jpg
+cover-photo: https://i.ohlasy.info/i/p7tqfrp.jpg
 category: zpravodajství
 excerpt: Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v březnu na Boskovicku událo.
 ---

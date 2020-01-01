@@ -1,7 +1,7 @@
 ---
 title: Očekávaná témata roku 2017
 perex: Nabízíme deset témat, která by v roce 2017 mohla či měla hýbat Boskovicemi.
-cover-photo: https://i.ohlasy.info/FLD9tHj.jpg
+cover-photo: https://i.ohlasy.info/i/fld9thj.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

@@ -1,7 +1,7 @@
 ---
 title: „Klasická i přírodní medicína si dovedou pomoci, nesnažím se je oddělovat.“
 perex: Rozhovor s lékařkou Danielou Štarhovou, která před patnácti lety opustila nemocniční prostředí a začala se věnovat celostní medicíně.
-cover-photo: https://i.ohlasy.info/c2JeH2P.jpg
+cover-photo: https://i.ohlasy.info/i/c2jeh2p.jpg
 author: Martina Vašková
 category: rozhovory
 tags: zdravotnictví
@@ -9,7 +9,7 @@ tags: zdravotnictví
 
 *Rozhovor s lékařkou Danielou Štarhovou, která před patnácti lety opustila nemocniční prostředí a začala se věnovat celostní medicíně. Své pacienty léčí pomocí západní i východní medicíny, při řešení jejich zdravotních potíží využívá například homeopatii, akupunkturu a další metody tradiční čínské medicíny.*
 
-{% photo src="https://i.ohlasy.info/c2JeH2P.jpg" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/i/c2jeh2p.jpg" author="Martina Vašková" %}
 
 **Problémy svých pacientů řešíte celostním přístupem s využitím západní i východní medicíny. Z jakých principů vaše léčba vychází a jaké metody používáte?**
 
@@ -85,7 +85,7 @@ Je to různé, případ od případu. Záleží na osobnosti a zkušenostech lé
 
 Běžné to opravdu není, pacienty mi nikdo neposílá. I když nedávno přišel pacient z brněnské nemocnice s tím, ať zkusí čínskou medicínu, protože ta klasická už mu nemá co nabídnout… Ale nejčastěji ke mně pacienti přicházejí sami, obvykle na doporučení někoho známého, kdo už léčbu prodělal. Začátky opravdu nebyly jednoduché, ale dnes už jsem hodně pracovně vytížená. Pracuji v ordinacích v Boskovicích i Brně. Smlouvu s pojišťovnami nemám, ani pro neurologii. Cením si toho, že za mnou přijdou lidé, kteří chtějí být zdraví, protože pojišťovna žádné z mých úkonů neradí.
 
-{% photo src="https://i.ohlasy.info/SKYVLq7.jpg" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/i/skyvlq7.jpg" author="Martina Vašková" %}
 
 ### Každý má možnost něco změnit
 

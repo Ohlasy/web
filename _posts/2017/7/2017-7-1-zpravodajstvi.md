@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za červen
-cover-photo: https://i.ohlasy.info/P5Jm0ed.jpg
+cover-photo: https://i.ohlasy.info/i/p5jm0ed.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v červnu na Boskovicku událo.*
 
-{% photo src="https://i.ohlasy.info/P5Jm0ed.jpg" caption="Zdeněk Fránek na přednášce v židovském obecním domě" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/p5jm0ed.jpg" caption="Zdeněk Fránek na přednášce v židovském obecním domě" author="Tomáš Znamenáček" %}
 
 Boskovice mají nového městského architekta. Stal se jím místní rodák a renomovaný architekt [Zdeněk Fránek](http://www.ohlasy.info/clanky/2017/06/mestsky-architekt.html). Funkce se ujme v nejbližší době. Na svém prvním červnovém zasedání ho schválila městská rada.
 

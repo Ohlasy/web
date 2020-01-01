@@ -1,7 +1,7 @@
 ---
 title: Část pedagogického sboru žádá odchod ředitelky ZUŠ, padají obvinění z bossingu
 perex: Deset stávajících a tři bývalí zaměstnanci boskovické základní umělecké školy se podepsali pod žádost o odvolání ředitelky Stanislavy Matuškové.
-cover-photo: https://i.ohlasy.info/eAb1tr9.jpg
+cover-photo: https://i.ohlasy.info/i/eab1tr9.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura vzdělávání
@@ -9,7 +9,7 @@ tags: kultura vzdělávání
 
 *Deset stávajících a tři bývalí zaměstnanci boskovické základní umělecké školy se podepsali pod žádost o odvolání ředitelky Stanislavy Matuškové. Žádost je adresována zřizovateli, kterým je Jihomoravský kraj. Vedle žádosti [vznikla i petice](https://e-petice.cz/en/petitions/petice-za-odvolani-reditelky-zus-boskovice-stanislavy-matuskove.html), ke které se připojilo přes dvě stě lidí.*
 
-{% photo src="https://i.ohlasy.info/eAb1tr9.jpg" caption="Stanislava Matušková, ředitelka ZUŠ" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eab1tr9.jpg" caption="Stanislava Matušková, ředitelka ZUŠ" author="Tomáš Znamenáček" %}
 
 „Mojí motivací bylo, že už v té nesvobodě nemůžu žít,“ říká stručně iniciátorka žádosti, pedagožka výtvarného oboru Magdalena Chumchalová. A dodává, že důležitým impulzem pro ni bylo i to, jak se ředitelka chovala k jejím kolegům. „Zejména k jednomu kolegovi se chovala jako ke psovi, dávala mu úkoly, které nemohl splnit, pak ho ponižovala. Říkala jsem si, že už to nevydržím, ale že musím něco udělat, protože když jen odejdu, bude to pokračovat,“ popisuje výtvarnice.
 
@@ -21,7 +21,7 @@ Už před dvěma lety Česká školní inspekce na základě anonymního šetře
 
 Podle vyjádření Jihomoravského kraje se s žádostí bývalých a stávajících pedagogů o odvolání ředitelky Matuškové seznámila krajská rada a dokument byl předán odboru školství. Po prošetření se kraj rozhodne, jaké důsledky vyvodí. „Jihomoravský kraj, jako zřizovatel, považuje za nezbytné řešit otázky nespokojenosti zaměstnanců škol s jejich vedením, protože problémy tohoto charakteru ovlivňují řádný chod organizace. Proto se v nejbližších dnech sejde paní radní pro školství Jana Pejchalová s oběma stranami samostatně, aby získala ucelené informace pro případné další projednávání této záležitosti v radě kraje,“ informovala tisková mluvčí kraje Monika Brindzáková. Podle informací Ohlasů již tyto schůzky probíhají.
 
-{% photo src="https://i.ohlasy.info/e7197366.jpg" caption="Výtvarnice Magdalena Chumchalová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e7197366.jpg" caption="Výtvarnice Magdalena Chumchalová" author="Tomáš Znamenáček" %}
 
 ### Šikana a bossing
 
@@ -37,7 +37,7 @@ Redakce Ohlasů má k dispozici také kompletní svědectví učitelky Markéty 
 
 Stanislava Matušková obvinění ze šikany a bossingu odmítá. „Já jsem člověk cílevědomý, mám jasné vize a nastavené parametry k jejich plnění. Někteří zaměstnanci si stále nezvykli, že v zaměstnaneckém poměru jsou jasně daná pravidla a ty je nutno dodržovat, a prioritní povinností pedagogického pracovníka je plnění všech povinností. O bossing se v žádném případě nejedná, jen o striktní dodržování pravidel nastavených v organizaci, což je prioritní práce vedoucího pracovníka, potažmo ředitele školy,“ napsala ředitelka.
 
-{% photo src="https://i.ohlasy.info/676221a1.jpg" caption="Richard Jurečka" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/676221a1.jpg" caption="Richard Jurečka" author="Tomáš Znamenáček" %}
 
 ### Odchod ředitelky, nebo pedagogů
 
@@ -59,7 +59,7 @@ Problémy přesto prosakují ven a dostávají se k žákům školy i k rodičů
 
 „Opravdu nevím, co mám k petici říct. Jak můžou lidé zvenčí označit situaci ve škole za nezdravou? Kde získali informace pro svoje přesvědčení? Mně například psalo mnoho lidí, že nechápou, proč tato petice vznikla a co se děje. Potom je tedy otázkou, jestli ono stále dokola deklarované používání donášení, intrik a manipulace nevzešlo spíše ze strany tvůrců petice,“ vyjádřila se k petici ředitelka.
 
-{% photo src="https://i.ohlasy.info/d42c2821.jpg" caption="Martin Krajíček" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/d42c2821.jpg" caption="Martin Krajíček" author="Tomáš Znamenáček" %}
 
 ### Postavit se za školu
 
@@ -91,7 +91,7 @@ Podle ředitelky spolek plní na sto procent svoji roli v podpoře školy, kter�
 
 Vedení spolku v současnosti tvoří předsedkyně Stanislava Matušková, místopředsedkyně Michaela Pál, hospodář Petr Palas a členové představenstva Petr Vymazal a Leontina Koryčánková. Na počátku fungování spolku stál v jeho čele Martin Krajíček. Spolek nezveřejňuje své účetní závěrky, tato povinnost se nevztahuje na spolky, které vedou jednoduché účetnictví. Povinné nejsou ani výroční zprávy, které spolek rovněž nezveřejňuje. Hospodaření spolku nepodléhá ani žádné kontrole ze strany zřizovatele.
 
-{% photo src="https://i.ohlasy.info/ae6eec6c.jpg" caption="Školní řád ZUŠ" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ae6eec6c.jpg" caption="Školní řád ZUŠ" author="Tomáš Znamenáček" %}
 
 ### Další postup
 

@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Před devadesáti lety zemřel Hermann Ungar"
 perex: S vaším laskavým dovolením, milí čtenáři, pominu dnes už známé údaje o životě a díle tohoto spisovatele, rodáka z židovských Boskovic, a budu se věnovat závěru jeho života a osudu nejbližší rodiny po jeho předčasné smrti. 
-cover-photo: https://i.ohlasy.info/9f58890e.jpg
+cover-photo: https://i.ohlasy.info/i/9f58890e.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -12,7 +12,7 @@ tags:
 
 *Stalo se to 28. října 1929 a bylo mu pouhých 36 let. Životem a dílem tohoto pozoruhodného spisovatele, rodáka z židovských Boskovic, se dlouhodobě a zevrubně zabýval Jaroslav Bránský, který již v 80. letech minulého století psal o Ungarovi řadu článků, posléze spolupracoval s germanistkou Evou Pátkovou a zejména německým badatelem Dieterem Suddoffem, několikrát o tomto autorovi hovořil v českém rozhlase a kompletně přeložil Ungarovo dílo z němčiny do češtiny.*
 
-{% photo src="https://i.ohlasy.info/9f58890e.jpg" %}
+{% photo src="https://i.ohlasy.info/i/9f58890e.jpg" %}
 
 Takže já s vaším laskavým dovolením, milí čtenáři, pominu tyto dnes už známé a dostupné údaje a pokusím se ve své vzpomínce na tohoto možná stále poněkud nedoceněného umělce věnovat se závěru jeho života a osudu nejbližší rodiny po jeho předčasné smrti. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Jak to vidí opozice: Programové prohlášení městské rady"
-cover-photo: https://i.ohlasy.info/lTt7T6o.jpg
+cover-photo: https://i.ohlasy.info/i/ltt7t6o.jpg
 perex: Vedení boskovické radnice, které vzešlo z loňských podzimních komunálních voleb, představilo programové prohlášení městské rady pro období 2018–2022. Co na něj říká opozice?
 author: Tomáš Trumpeš
 category: ankety
@@ -11,7 +11,7 @@ tags: politika
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/JqfHuOP.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/jqfhuop.jpg" alt="" />
 
 **Hana Nedomová (ČSSD)**
 
@@ -25,7 +25,7 @@ Co nám v programovém prohlášení chybí je oblast rozvoje města, cestovníh
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/XKQ3TT7.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/xkq3tt7.jpg" alt="" />
 
 **Dagmar Hamalová (KDU-ČSL)**
 
@@ -43,7 +43,7 @@ Programové prohlášení je rámec cílů města pro další čtyři roky. Za K
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/Zvih7Z4.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/zvih7z4.jpg" alt="" />
 
 **Radek Šamšula (Piráti)**
 
@@ -63,7 +63,7 @@ V konečném důsledku u tak neurčitého dokumentu, jakým programové prohlá�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/5hZFu14.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/5hzfu14.jpg" alt="" />
 
 **Vladimír Farský (KSČM)**
 

@@ -1,6 +1,6 @@
 ---
 title: „Hosté se změnili úplně ve všem.“
-cover-photo: https://i.ohlasy.info/uE9TSw8.jpg
+cover-photo: https://i.ohlasy.info/i/ue9tsw8.jpg
 author: Martina Vašková
 category: rozhovory
 tags: podnikání kultura
@@ -8,7 +8,7 @@ tags: podnikání kultura
 
 *Rozhovor se Zdeňkem Palátem, který provozuje Turbínu. Hospodu, kde se konají nejen hudební akce a atmosférou se blíží klubovému prostředí. Přispívají k tomu i prostory, ve kterých sídlí – bývalá městská elektrárna postavená podle návrhu Dušana Jurkoviče.*
 
-{% photo src="https://i.ohlasy.info/uE9TSw8.jpg" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/i/ue9tsw8.jpg" author="Martina Vašková" %}
 
 **Co je vlastně Turbína, spíš hudební klub, nebo hospoda? Jak to vnímáte vy?**
 

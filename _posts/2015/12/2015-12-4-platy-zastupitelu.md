@@ -1,7 +1,7 @@
 ---
 title: Na odměny zastupitelům jdou z rozpočtu téměř dva miliony
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/1TbgkPE.jpg
+cover-photo: https://i.ohlasy.info/i/1tbgkpe.jpg
 category: zpravodajství
 tags: politika
 ---

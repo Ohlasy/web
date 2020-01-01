@@ -2,13 +2,13 @@
 title: Boskovická radnice plánuje zrušení hazardu, ale až za rok. „Je to alibistické,“ říká protihazardní aktivista
 author: Tomáš Trumpeš
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/jx13BEP.jpg
+cover-photo: https://i.ohlasy.info/i/jx13bep.jpg
 tags: hazard politika
 ---
 
 *Úplný zákaz hazardu oznámilo společně se zveřejněním programového prohlášení nové vedení boskovické radnice. Z města by tak měly kompletně zmizet hrací automaty i videoloterijní terminály. Novou vyhlášku by koalice ČSSD, KDU-ČSL a ANO chtěla schválit letos, platit by ale začala od ledna roku 2016. Postup radnice se paradoxně nelíbí ani podnikatelům, kteří jsou s hazardem spojení, ani občanským aktivistům, kteří proti němu bojují.*
 
-{% photo src="https://i.ohlasy.info/jx13BEP.jpg" %}
+{% photo src="https://i.ohlasy.info/i/jx13bep.jpg" %}
 
 „Měli jsme to ve volebním programu, máme zpětnou vazbu od erudovaných občanů, že dochází k patologickým závislostem. Vnímali jsme, že občané Boskovic tuto vyhlášku chtějí, samozřejmě vím i to, že to ovlivní podnikatelskou sféru, nicméně si myslím, že to nebude až tak hrozné. Pokud si uděláme srovnání s dalšími městy, kde vyhlášky už platí, moc velké problémy nezaznamenali. V tomto roce se s příjmem z hazardu v rozpočtu počítá, vyhlášku připravujeme na zářijové zastupitelstvo, předtím proběhne ještě diskuse s veřejností,“ uvedla starostka města Hana Nedomová, která přiznala, že konkrétní podoba protihazardního postupu byla předmětem delší koaliční diskuse. Nakonec zvítězila varianta takzvané nulové tolerance. „Toto omezení chceme, i když se možná některým podnikatelům nebude líbit. Výchova, vzdělávání a omezování patologických jevů, kdy se rodiny dostávají do problémů, jsou pro nás prioritou,“ dodala starostka Nedomová.
 

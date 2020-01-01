@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Architekti ke knihovně a ZZN. Přestavět, nebo zbourat?"
-cover-photo: https://i.ohlasy.info/ku3vknA.jpg
+cover-photo: https://i.ohlasy.info/i/ku3vkna.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: architektura investice knihovna
@@ -8,11 +8,11 @@ tags: architektura investice knihovna
 
 *Boskovice zvažují přestavět pro knihovnu [budovu bývalé normalizační prodejny domácích potřeb](/clanky/2016/01/budova-zzn.html). Dokázala by podle vás důkladná přestavba vytvořit z tohoto objektu důstojnou, reprezentativní a funkční stavbu? Nebo by bylo lepší budovu zbourat, pokud takovou knihovnu chceme na tomto místě mít?*
 
-{% photo src="https://i.ohlasy.info/BznGzf7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bzngzf7.jpg" author="Tomáš Znamenáček" %}
 
 ---
 
-<img src="https://i.ohlasy.info/YcnlVh9.jpg" class="profile-picture" alt="Osamu Okamura">
+<img src="https://i.ohlasy.info/i/ycnlvh9.jpg" class="profile-picture" alt="Osamu Okamura">
 
 **Osamu Okamura, architekt, programový ředitel mezinárodního festivalu a konference pro obyvatelnější města [reSITE](http://resite.cz/cs/)**
 
@@ -20,7 +20,7 @@ Z boskovické bývalé normalizační architektury lze jistě vytvořit velmi p�
 
 ---
 
-<img src="https://i.ohlasy.info/VXQeMtb.jpg" class="profile-picture" alt="Zdeněk Fránek">
+<img src="https://i.ohlasy.info/i/vxqemtb.jpg" class="profile-picture" alt="Zdeněk Fránek">
 
 **Zdeněk Fránek, [Fránek Architects](http://www.franekarchitects.cz/)**
 
@@ -28,7 +28,7 @@ Je zbytečné budovu bourat. Je to mrhání penězi. Dá se bez problému přest
 
 ---
 
-<img src="https://i.ohlasy.info/SkICOkT.jpg" class="profile-picture" alt="Mirko Lev">
+<img src="https://i.ohlasy.info/i/skicokt.jpg" class="profile-picture" alt="Mirko Lev">
 
 **Mirko Lev, [starchitects](http://starchitects.cz/), dříve [RadaArchitekti](http://www.radaarchitekti.cz)**
 
@@ -40,7 +40,7 @@ Jako projektant se rád věnuji rekonstrukcím v případech popsaných v první
 
 ---
 
-<img src="https://i.ohlasy.info/wO4wXRi.jpg" class="profile-picture" alt="Petr Ondráček">
+<img src="https://i.ohlasy.info/i/wo4wxri.jpg" class="profile-picture" alt="Petr Ondráček">
 
 **Petr Ondráček, [AiD team](http://www.aid.as./)**
 
@@ -52,7 +52,7 @@ Ve výsledku si ale nejsem jistý, jestli by případná rekonstrukce vycházej�
 
 ---
 
-<img src="https://i.ohlasy.info/iePyoeG.jpg" class="profile-picture" alt="Petr Zouhar">
+<img src="https://i.ohlasy.info/i/iepyoeg.jpg" class="profile-picture" alt="Petr Zouhar">
 
 **Petr Zouhar, vedoucí odboru rozvoje města a investic MěÚ Boskovice**
 

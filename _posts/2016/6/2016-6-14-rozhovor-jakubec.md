@@ -1,6 +1,6 @@
 ---
 title: „Nemám žádné důkazy, ale z logiky věci to vyplývá.“
-cover-photo: https://i.ohlasy.info/6OI4xlv.jpg
+cover-photo: https://i.ohlasy.info/i/6oi4xlv.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Setkání s Vladimírem Jakubcem bylo podníceno jeho častým obviňováním našich novin, že zamlčujeme důležité okolnosti týkající se pozemků v Červené zahradě a dřívější účelová pochybení boskovických politiků. Rozhovor byl velmi dlouhý a prakticky nezprostředkovatelný klasickou formou. Přinášíme proto spíše pokus o výběr toho podstatného, spojený se snahou politickým postojům Vladimíra Jakubce porozumět a představit je. Už proto, že ačkoliv zvoleným zastupitelem byl jen mezi lety 2006 a 2010, nedílnou součástí místní politické debaty zůstává neustále.*
 
-{% photo src="https://i.ohlasy.info/6OI4xlv.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6oi4xlv.jpg" author="Tomáš Znamenáček" %}
 
 ### Červená zahrada
 
@@ -50,7 +50,7 @@ Vladimír Jakubec posléze přiznává, že na nahrávce tehdejší místostaros
 
 V oficiálním zamítnutí návrhu smlouvy na bezplatný převod Úřad pro zastupování státu ve věcech majetkových (UZSVM) uvedl, že Ministerstvo financí smlouvu neschválilo, protože je toho názoru, že by měl být upřednostněn úplatný převod. A připustilo variantu, že by pozemky mohly být prodány přímo stávajícímu nájemci, tedy nikoliv formou veřejného řízení. Dnes, po 13 letech, vysvětluje tiskový mluvčí UZSVM, že tento úřad od 1. 1. 2003 převáděl občanským sdružením zdarma pouze ta sportoviště, která měly neziskovky takzvaně v trvalém užívání na základě specifické smlouvy. Tenisové kurty byly ovšem při vyčlenění tenisového klubu z TJ Minerva právě této organizaci z trvalého užívání vyňaty a tenisté je užívali na základě standardní nájemní smlouvy. „Zákonný nárok pro přechod uvedených pozemků do  vlastnictví  LTC Velen Boskovice v tomto případě nevznikl,“ shrnuje Radek Ležatka.
 
-{% photo src="https://i.ohlasy.info/92ORLag.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/92orlag.jpg" author="Tomáš Znamenáček" %}
 
 ### Naivní členství v ANO
 
@@ -82,7 +82,7 @@ A připojuje také strach z toho, že by otevřená kritika a konfrontace mohla 
 
 Na závěr setkání se Vladimíra Jakubce ptáme, jestli nemá obavu, že jeho politický styl je ve skutečnosti kontraproduktivní. Totiž jestli používání silných slov a výkřiky o zlodějích bez jakýchkoliv důkazů v lidech nevyvolávají spíše ještě větší znechucení a nevrhají je do náruče populistů a politiků ještě mnohem horších, než jsou ti stávající. „Možná ano, ale já to jinak neumím. Budu o tom přemýšlet.“ Načež se ohrazuje proti tomu, že by šířil jen negativní náladu a přidává nečekaně optimistický a vlídný závěr svého pohledu na vývoj české společnosti: „Pozitivní posun tady ale je. My jsme se ve speciální pedagogice učili, že když defekt vzniká třeba dvacet let, tak pak stejnou dobu odeznívá. Takže já jsem optimista. A dnes je to šestadvacet let od revoluce, můj syn je svobodný člověk, úspěšně podniká, dcera je lékařka. To pozitivní jednoznačně převažuje. Já jsem ujetý asi v tom, že jsem si představoval, že budeme mnohem dál.“
 
-{% photo src="https://i.ohlasy.info/7vvwXpe.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7vvwxpe.jpg" author="Tomáš Znamenáček" %}
 
 ### O médiích a novinařině
 

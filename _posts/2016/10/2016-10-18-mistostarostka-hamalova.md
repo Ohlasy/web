@@ -1,7 +1,7 @@
 ---
 title: Post boskovické místostarostky se uvolňuje pro Dagmar Hamalovou
 perex: Jaromíra Vítková odchází po 14 letech z postu boskovické místostarostky. Její místo by měla zaujmout dosavadní ředitelka muzea a radní Dagmar Hamalová.
-cover-photo: https://i.ohlasy.info/Uw7AXJN.jpg
+cover-photo: https://i.ohlasy.info/i/uw7axjn.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Jaromíra Vítková (KDU-ČSL), která 14 let zastává post boskovické místostarostky, se s touto funkcí rozloučí. Byla zvolena senátorkou a před volbami jasně deklarovala, že obě funkce zastávat nebude. V [rozhovoru pro Ohlasy](http://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html) před druhým kolem senátních voleb uvedla, že KDU-ČSL chce na uvolněný post nominovat dosavadní radní a ředitelku boskovického muzea Dagmar Hamalovou. Návrh projedná koalice a novou místostarostku musí schválit zastupitelstvo.*
 
-{% photo src="https://i.ohlasy.info/Uw7AXJN.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/uw7axjn.jpg" author="Tomáš Znamenáček" %}
 
 Dagmar Hamalová potvrdila, že je ochotná se funkce ujmout. Ve funkci by chtěla plynule navázat na působení své předchůdkyně. „Paní místostarostka Vítková zde působila 14 let, měla důvěru občanů a odborně své resorty dobře pokrývala. Přede mnou je tedy úkol na to především dobře navázat, můj mandát už se týká necelých dvou let,“ popsala Dagmar Hamalová s tím, že by chtěla nejprve dotáhnout rozpracované projekty; případné nové záměry by představila až po seznámení s jednotlivými resorty a po dohodě s vedoucími příslušných odborů. KDU-ČSL neplánuje navrhovat žádné změny v rozdělení kompetencí ve vedení města za jednotlivé resorty. Pokud by koaliční partneři s návrhy souhlasili, jsou lidovci připraveni výměnu místostarostky provést už na prosincovém zastupitelstvu. Funkce by se Dagmar Hamalová ujala od 1. ledna.
 

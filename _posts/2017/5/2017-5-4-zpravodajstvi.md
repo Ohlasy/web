@@ -1,13 +1,13 @@
 ---
 title: Zpravodajský přehled za duben
-cover-photo: https://i.ohlasy.info/SPZl00V.jpg
+cover-photo: https://i.ohlasy.info/i/spzl00v.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v dubnu na Boskovicku událo.*
 
-{% photo src="https://i.ohlasy.info/SPZl00V.jpg" caption="Spodní zámecký park" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/spzl00v.jpg" caption="Spodní zámecký park" author="Tomáš Znamenáček" %}
 
 Ve spolupráci firmy MP Holding a města Boskovice se připravuje zpřístupnění spodní části zámeckého parku pro veřejnost. Mělo by zde dojít ke zpevnění cest, ploch a chodníků, osvětlení zámku, pořízení mobiliáře a herních prvků. A také k regeneraci zeleně, včetně nové výsadby. Pokud vše dobře půjde, park by mohl být přístupný už v příštím roce.
 

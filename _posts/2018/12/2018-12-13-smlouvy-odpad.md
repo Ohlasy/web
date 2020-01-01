@@ -1,14 +1,14 @@
 ---
 title: Smlouva za vyvážení odpadu je plná pochybností. Nejspíš dokonce neplatná
 perex: O platnost smluv týkajících se vývozu odpadu se zajímala už minulá koalice. Přestože zjistila, že jsou plné nedostatků, problém do konce nedotáhla.
-cover-photo: https://i.ohlasy.info/lYu8Q7T.jpg
+cover-photo: https://i.ohlasy.info/i/lyu8q7t.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Od nástupu na radnici v roce 2014 se minulá koalice v čele s ČSSD zajímala o platnost smluv týkajících se vývozu odpadu. Přestože zjistila, že jsou plné nedostatků, problém do konce nedotáhla.*
 
-{% photo src="https://i.ohlasy.info/lYu8Q7T.jpg" caption="Boskovická kompostárna" author="Luboš Sušil" %}
+{% photo src="https://i.ohlasy.info/i/lyu8q7t.jpg" caption="Boskovická kompostárna" author="Luboš Sušil" %}
 
 Přes deset milionů každý rok odtéká z městského rozpočtu belgické firmě Suez za vyvážení odpadů a úklid silnic v Boskovicích. Minulá koalice v čele s ČSSD zjistila, že služby pro město zajišťuje s vysokou pravděpodobností bez platné smlouvy. To věděli radní už v roce 2016, přesto s tím nic neudělali a k neplatné smlouvě uzavírali další dodatky.
 
@@ -48,7 +48,7 @@ Ti obecně kritizují ledabylé změny ve smlouvě, zejména osmý dodatek, kter
 
 Smlouva se tímto dodatkem rozšířila o další články, některé se zpřesňovaly nebo rozšiřovaly. Kromě Boskovic se služby na základě tohoto dodatku rozšířily také o přidružené obce Vratíkov, Mladkov, Hrádkov a Bačov. Již dříve zmíněným dodatkem z roku 2003 kromě prodloužení platnosti smlouvy vypadl mimo jiné také provoz sportovišť, který měly služby K.K.Š. na starost. Boskovice se totiž městských služeb v polovině 90. let privatizací zbavily, aby je vzápětí začaly znovu dotovat. Už v roce 1997 dostávala firma K.K.Š. (která tehdy vůbec neměla provoz sportovišť jako předmět podnikání) od města finanční příspěvky. Město ze dvou třetin hradilo provoz lázní, koupaliště a sauny, protože bez této dotace by vstupné a nájmy vyletěly prudce nahoru.
 
-{% photo src="https://i.ohlasy.info/2NxapGu.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2nxapgu.jpg" author="Tomáš Trumpeš" %}
 
 ### Zmatek v desítkách dodatků
 

@@ -1,14 +1,14 @@
 ---
 title: Navrhované řešení křižovatky pod poštou je nevyhovující
 perex: Kritický pohled na navrhované řešení křižovatky pod poštou a křižovatky u evangelického kostela pro Ohlasy sepsal stavební inženýr Jan Prchal, absolvent boskovického gymnázia a brněnského VUT.
-cover-photo: https://i.ohlasy.info/ooz0Iew8.jpg
+cover-photo: https://i.ohlasy.info/i/ooz0iew8.jpg
 author: Jan Prchal
 tags: doprava
 ---
 
 *Kritický pohled na navrhované řešení křižovatky pod poštou a křižovatky u evangelického kostela pro Ohlasy sepsal stavební inženýr Jan Prchal, absolvent boskovického gymnázia a brněnského VUT, který pracoval kupříkladu pro Sudop či Metrostav a dnes působí na brněnském magistrátu.*
 
-{% photo src="https://i.ohlasy.info/ooz0Iew8.jpg" caption="Vizualizace navrhovaného řešení" %}
+{% photo src="https://i.ohlasy.info/i/ooz0iew8.jpg" caption="Vizualizace navrhovaného řešení" %}
 
 Už je to chvíle, co Ohlasy tlumočily [novinky z boskovické radnice](https://ohlasy.info/clanky/2019/09/z-radnice.html) a mezi nimi také informaci a vizualizaci návrhu řešení křižovatky u pošty. Pod článkem se rozběhla debata hlavně o zmíněné křižovatce a toto téma si jistě zaslouží samostatnou debatu. V tom, že dopravní situace je zde v kritickém stavu, se mnou asi nikdo polemizovat nebude. O něco méně lidí asi bude souhlasit s tím, že řešení veřejného prostoru by v rozumné míře mělo klást důraz na víc než jen dopravu. A hlavním tématem debaty bude samotný způsob řešení. Pokusím se zformulovat, proč mi aktuálně navrhované řešení přijde nevyhovující ve všech aspektech.
 

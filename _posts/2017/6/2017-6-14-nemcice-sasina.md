@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Místní jména na Boskovicku – Němčice a Sasina"
-cover-photo: https://i.ohlasy.info/ZgpiFVA.jpg
+cover-photo: https://i.ohlasy.info/i/zgpifva.jpg
 perex: Zvláštní skupinu místních jmen tvoří názvy, které jsou odvozeny od souhrnného označení osob, které danou lokalitu obývaly. Na Boskovicku do této skupiny možná patří názvy Němčice a Sasina.
 author: Vít Boček
 category: seriály
@@ -9,7 +9,7 @@ serial: jazyk
 
 *Zvláštní skupinu místních jmen tvoří názvy, které jsou odvozeny od takzvaných obyvatelských jmen, tedy od souhrnného označení osob, které danou lokalitu obývaly. Mimo jiné sem patří pojmenování podle kmenů či národností. Na Boskovicku do této skupiny možná patří názvy Němčice a Sasina.*
 
-{% photo src="https://i.ohlasy.info/ZgpiFVA.jpg" caption="Sasina" author="Lasy, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/zgpifva.jpg" caption="Sasina" author="Lasy, Wikimedia Commons" %}
 
 Název obce Němčice je poprvé doložen k roku 1378 v podobě *Nyemczycz*, následují pak podoby *Nyemczycze* (1391), *Nyempczicze* (1418), *Niemtschitz* (1675, 1718), *Nemschitz* (1720), *Niembschitz* (1751), *Niemtschitz*, *Němčice* (1846), *Nemčice* (1881) a *Němčice* (1924). Původ tohoto názvu může být dvojí. Podle jednoho výkladu byly Němčice odvozeny příponou *-ice* od osobního jména *Němec* nebo *Němek*, a znamenaly tak původně „ves lidí Němcových nebo Němkových“, tedy ves patřící někomu, kdo se jmenoval Němec či Němek, ale nemusel být etnickým Němcem. Podle druhého výkladu byl však motivací pojmenování právě vztah k německým zemím, a Němčice by tak označovaly „německou ves“, tedy ves, v níž žijí Němci, nebo která patří feudálovi německé národnosti. V tom případě by Němčice spadaly do skupiny místních jmen odvozených od jmen obyvatelských. Tuto druhou možnost lze podpořit poukazem na to, že další moravské a české obce s názvem Němčice, Němčičky, Němčí a Němčany se nacházejí hlavně na jihozápadní Moravě a v Pošumaví, což může ukazovat na kolonizační infiltraci z Rakouska.
 

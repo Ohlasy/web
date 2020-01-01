@@ -1,7 +1,7 @@
 ---
 title: „Pro Sušilovu ani pro Hybešovu ruku nezvednu, Červenka je nejlepší varianta.“
 perex: Rozhovor s Vladimírem Farským, zastupitelem za KSČM a jedním z nejaktivnějších zastánců stavby boskovické sportovní haly v Červené zahradě.
-cover-photo: https://i.ohlasy.info/I992B6Y.jpg
+cover-photo: https://i.ohlasy.info/i/i992b6y.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:
@@ -12,7 +12,7 @@ tags:
 
 *Rozhovor s Vladimírem Farským, zastupitelem za KSČM a jedním z nejaktivnějších zastánců stavby boskovické sportovní haly v Červené zahradě. Pro tuto variantu zatím platí [usnesení minulého zastupitelstva](https://ohlasy.info/clanky/2015/11/varianty-haly.html), současné vedení města je ale chce revokovat a vybrat jinak. Proč Vladimír Farský stále trvá na Července a kde vidí její výhody?*
 
-{% photo src="https://i.ohlasy.info/I992B6Y.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/i992b6y.jpg" author="Tomáš Znamenáček" %}
 
 **Vedení města od voleb avizuje, že se rozhoduje mezi dvěma variantami lokality, kam umístit sportovní halu: Hybešova, nebo Sušilova. Smiřujete se s tím, že hala nebude v Červené zahradě?**
 
@@ -108,7 +108,7 @@ Já se domnívám, že by se právě nemuselo dramaticky dlouhou dobu čekat. V 
 
 Pokud to bude prohlasováno, ohnu samozřejmě hřbet a podřídím se. Nebudu dál nikomu podrážet nohy. Ale zatím tlačím svou variantu a to, co jsme dělali jako bývalá koalice celé minulé volební období a prosazuji to, co mám ve volebním programu a na co jsem od svých voličů dostal hlasy. Myslím, že se svým volebním programem pracuju kontinuálně a že to v rozporu není. Pokud ta většina rozhodne jinak, budu usnesení respektovat. Ale to neznamená, že nebudu do posledních chvíle prosazovat to, co je správné.
 
-{% photo src="https://i.ohlasy.info/7i1NZPS.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7i1nzps.jpg" author="Tomáš Znamenáček" %}
 
 ### Mrzí mě, že jsme nedotáhli odkup pozemků
 
@@ -162,7 +162,7 @@ Nevím, co vám na to mám teď říct.
 
 To je úplně jednoduché. Pokud se nám nepodaří to do zářijového zastupitelstva zvrátit a přesvědčit několik zastupitelů, aby ani pro jednu z těch navrhovaných variant nehlasovali, tak nám nakonec nezbude, než se tomu podřídit a akceptovat to. Ale já rozhodně pro žádnou z těch dvou variant ruku nezvednu, protože je nepovažuju za nejlepší. Dám od toho ruce pryč, abych s tím neměl nic společného. S variantami, se kterými nesouhlasím.
 
-{% photo src="https://i.ohlasy.info/RObOszU.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/roboszu.jpg" author="Tomáš Znamenáček" %}
 
 ### Popřeli by všechno, za co jsme bojovali
 

@@ -1,14 +1,14 @@
 ---
 title: Filipika proti asfaltování
 perex: Ráda chodím na vycházky a mrzí mě, jak okolo Boskovic ubývá míst, kam se dá pěšky vyrazit a nepotkat cestou žádná auta. Auta nás provázejí na cestách do Doubrav, autům se nevyhneme během vycházek zahrádkami kolem „Kojálu“, auta hrčí na Kamenici.
-cover-photo: https://i.ohlasy.info/qruKrlH.jpg
+cover-photo: https://i.ohlasy.info/i/qrukrlh.jpg
 author: Anna Dušilová
 category: názory a komentáře
 ---
 
 *Ráda chodím na vycházky a mrzí mě, jak okolo Boskovic ubývá míst, kam se dá pěšky vyrazit a nepotkat cestou žádná auta. Většina přístupových cest do lesů, luk a strání je dnes asfaltovaná či autům zpřístupněná – auta nás provázejí na cestách do Doubrav, autům se nevyhneme během vycházek zahrádkami kolem „Kojálu“, auta hrčí na Kamenici.*
 
-{% photo src="https://i.ohlasy.info/qruKrlH.jpg" caption="Křížek na konci ulice K Lipníkům" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/qrukrlh.jpg" caption="Křížek na konci ulice K Lipníkům" author="Tomáš Trumpeš" %}
 
 O to raději chodím na procházky k Lipníkům, na Červený vrch a do Doubrav po cestě mezi poli. Určitě tudy taky mnozí chodíte. Vyjde se z ulice K Lipníkům a kolem křížku stojícího mezi břízami se pokračuje polní cestou, která nejprve křižuje asfaltku vedoucí ke sběrnému dvoru a pak pokračuje ke studánce Na Blatech. Odtud stačí seběhnout do dolíku zarostlého rákosím a vydat se třeba k [Mordovanské studánce](http://www.ohlasy.info/clanky/2015/11/mordovanska-studanka.html) či kamkoli jinam.
 

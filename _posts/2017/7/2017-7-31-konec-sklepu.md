@@ -1,6 +1,6 @@
 ---
 title: Sklepy končí. Najde se nový provozovatel?
-cover-photo: https://i.ohlasy.info/TtH67Ga.jpg
+cover-photo: https://i.ohlasy.info/i/tth67ga.jpg
 perex: Ukončit od září činnost boskovických Sklepů se rozhodla Lenka Pětová, která už nedokázala provoz klubu utáhnout. Teď doufá, že se najde někdo, kdo převezme štafetu.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Provozovatelka boskovického hudebního klubu Sklepy Lenka Pětová se rozhodla takřka přesně po roce od převzetí klubu ukončit činnost. Zájem o klub od jara postupně poklesl a utáhnout provoz už nebylo možné. Dosavadní provozovatelka i majitel Panského dvora, kde Sklepy sídlí, přesto doufají, že štafetu někdo převezme.*
 
-{% photo src="https://i.ohlasy.info/TtH67Ga.jpg" caption="Lenka Pětová před klubem Sklepy" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/tth67ga.jpg" caption="Lenka Pětová před klubem Sklepy" author="Tomáš Trumpeš" %}
 
 K boskovickému klubu Sklepy lze bez ostychu přiřadit přídomek legendární. Za dobu své existence prošel řadou proměn, zvratů a také přetržek. Ta nejdelší trvala sedm let, když se klub v roce 2005 uzavíral, vypadalo to, že končí definitivně. V roce 2012 se však znovu otevřel a fungoval dalších pět let. V posledním roce ho provozovala Lenka Pětová, která nyní oznámila, že k poslednímu srpnu končí. „Mám hodně osobních důvodů, proč skončit, ale je zde i finanční stránka věci. Utáhnout Sklepy tak, jak jsem si to nalinkovala, se mi nedaří,“ vysvětluje Lenka Pětová.
 

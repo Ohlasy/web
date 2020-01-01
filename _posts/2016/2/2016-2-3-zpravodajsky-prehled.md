@@ -1,7 +1,7 @@
 ---
 title: Zpravodajský přehled za leden
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/DtSQS8P.jpg
+cover-photo: https://i.ohlasy.info/i/dtsqs8p.jpg
 excerpt: Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v lednu na Boskovicku událo.
 category: zpravodajství
 ---

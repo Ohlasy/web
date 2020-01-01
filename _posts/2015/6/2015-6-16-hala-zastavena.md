@@ -1,7 +1,7 @@
 ---
 title: Konec haly na Slovákově. Rada doporučuje zastupitelstvu stavbu ukončit
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/RwkeMe4.jpg
+cover-photo: https://i.ohlasy.info/i/rwkeme4.jpg
 author: Marek Osouch
 tags:
     - politika
@@ -10,7 +10,7 @@ tags:
 
 *Halu boskovičtí radní na Slovákově nechtějí. Klíčové hlasování před zasedáním zastupitelstva bylo na mimořádném jednání rady jednomyslné. Po více než sedmi měsících od voleb se tak vedení města jasně vyslovilo, zda chce, nebo nechce dostavět sportovní halu u základní školy na Slovákově ulici. Stanovisko rady ještě musí potvrdit nebo zvrátit zastupitelé na svém zasedání 23. června.*
 
-{% photo src="https://i.ohlasy.info/RwkeMe4.jpg" %}
+{% photo src="https://i.ohlasy.info/i/rwkeme4.jpg" %}
 
 „Pokračování stavby je příliš rizikové,“ zopakovala několikrát starostka Hana Nedomová během tiskové konference, na které vedení města své rozhodnutí oznámilo. Rizika plynou hned z několika oblastí. Vedení města jednalo s účastníky řízení, tedy s lidmi, kteří bydlí v okolí stavby. „Na všechny dohody je pozdě,“ vyjádřili se podle Hany Nedomové s tím, že stavbu budou blokovat všemi dostupnými prostředky. Určitá rizika připouští i audit, který si město nechalo na stavbu zpracovat, když hovoří o tom, že vliv spodní vody na stavbu nelze jednoznačně prokázat, a doporučuje další a podrobnější průzkum.
 

@@ -1,14 +1,14 @@
 ---
 title: „S údivem jsem shledal, že jsem vlastně optimista.“
 perex: Rozhovor se spisovatelem Jáchymem Topolem. Do Boskovic přijel číst na festival pro židovskou čtvrť, ačkoliv si den předtím poranil ruku při práci na „rekonstrukci ruiny“, jak říká opravě domu v Posázaví, kam jezdí psát.
-cover-photo: https://i.ohlasy.info/1GOJDWs.jpg
+cover-photo: https://i.ohlasy.info/i/1gojdws.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor se spisovatelem Jáchymem Topolem. Do Boskovic přijel číst na festival pro židovskou čtvrť, ačkoliv si den předtím poranil ruku při práci na „rekonstrukci ruiny“, jak říká opravě domu v Posázaví, kam jezdí psát. Na jeho čtení bylo narváno, poté jsme si povídali o jeho vztahu k židovské kultuře, o psaní, o neustálých změnách ve společnosti i o jeho práci v Knihovně Václava Havla.*
 
-{% photo src="https://i.ohlasy.info/1GOJDWs.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1gojdws.jpg" author="Tomáš Znamenáček" %}
 
 **Festival Boskovice je věnovaný zdejší židovské čtvrti. Máš nějaký specifický vztah k židovské kultuře?**
 
@@ -60,7 +60,7 @@ Už to ale tolik necítím. Život se pořád strašně mění. A pro mě jako �
 
 Ale zase: my jsme v podstatě Západ. Já pořád rozděluju Západ a Východ podle toho, kde minulost víc rezonuje. Teď mi volali kamarádi z Běloruska, abych se připojil svým hlasem k jejich protestu. Existují tam takzvané Kuropaty, píšu o tom v knize Chladnou zemí. U Minska je pohřebiště, místo, kde NKVD povraždilo desítky tisíc lidí. A Lukašenkův režim tam nechce dát žádný pomník. Chtějí na to zapomenout. Je tam zahrabaných desetitisíce, statisíce mrtvých. Disidenti tam nosí kytky, studenti to chrání a Lukašenko přes to chtěl postavit dálnici. A to neprošlo. Teď vydávají povolení, aby tam vyrostly kasina, hospody. Já si pamatuju, jak jsem dělal reportáže o Terezíně, kde to není možné. V Terezíně, protože jsme ve středu Evropy, každý chápe, že se tam do kasina jezdit nebude. Ale v Bělorusku tu minulost mažou.
 
-{% photo src="https://i.ohlasy.info/MoJafrg.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mojafrg.jpg" author="Tomáš Znamenáček" %}
 
 ### Humor jako dar
 
@@ -116,7 +116,7 @@ Jak říká Adina Mandlová: Dneska už se tomu směju.
 
 Ne, ale nepatřím k těm lidem, kteří říkají, že je jim jedno, co kdo o tom napíše. To není pravda. Já to vždycky hrozně prožívám. Pak to pozapomenu a je mi to jedno. Ale když čtu útok, tak to na mě působí, nemám nějaký krunýř.
 
-{% photo src="https://i.ohlasy.info/n5zKw5t.jpg" caption="Autorské čtení na festivalu Boskovice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/n5zkw5t.jpg" caption="Autorské čtení na festivalu Boskovice" author="Tomáš Znamenáček" %}
 
 ### Život totalitu rozbije
 
@@ -166,7 +166,7 @@ Já to nevím.
 
 Ne, já jsem při svém vystoupení právě skrytě povzbudil ty, co se s tím potýkají. A kteří píšou, protože tam určitě někteří takoví byli. Říkal jsem, že za poslední rok, rok a půl jsem přečetl tři debuty: Vladimíra Válová, knihovnice z Třebíče: [Do vnitrozemí](http://nakladatelstvi.hostbrno.cz/nakladatelstvi/ceska-beletrie/do-vnitrozemi-1372); Daniel Hradecký, chlápek z Litvínova: [Trosky jednoho deníku](https://www.kosmas.cz/knihy/223834/trosky-jednoho-deniku/); Lucie Faulerová: [Lapači prachu](https://www.kosmas.cz/knihy/236614/lapaci-prachu/). Tři mladí lidé, úplně neznámí, kteří vydali dobrou knihu. Měli vnitřní puzení to napsat a vydat. Cesta ke čtenáři je asi těžší, ale furt to existuje, furt to je. A za našich životů to ještě bude.
 
-{% photo src="https://i.ohlasy.info/DjfjQw9.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/djfjqw9.jpg" author="Tomáš Znamenáček" %}
 
 ### Literatura se stýká s politikou
 

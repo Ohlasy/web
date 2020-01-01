@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na prosinec
-cover-photo: https://i.ohlasy.info/FU4LyWA.jpg
+cover-photo: https://i.ohlasy.info/i/fu4lywa.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/FU4LyWA.jpg" caption="Manželé Havlovi s Českým lvem za hudbu k filmu Křižáček" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/fu4lywa.jpg" caption="Manželé Havlovi s Českým lvem za hudbu k filmu Křižáček" author="Tomáš Znamenáček" %}
 
 ### Adventní koncerty Boskovice
 

@@ -1,6 +1,6 @@
 ---
 title: „V lidech přetrvávají předsudky a strach z neznámého.“
-cover-photo: https://i.ohlasy.info/Hq4AX7R.jpg
+cover-photo: https://i.ohlasy.info/i/hq4ax7r.jpg
 perex: Rozhovor s Marií Wetterovou, ředitelkou Paprsku Velké Opatovice, o vlně nevole, kterou ve Svitávce vyvolal chystaný projekt chráněného bydlení.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Marií Wetterovou, ředitelkou Paprsku Velké Opatovice. V Paprsku žijí lidé s mentálním či kombinovaným postižením a v posledních letech podobně jako v celé České republice postupně přechází ze společného bydlení ve velké skupině do komunitnějších forem bydlení. V rámci tohoto procesu Paprsek naplánoval mimo jiné výstavbu dvou domů pro chráněné bydlení ve Svitávce. Tam se ovšem proti tomuto záměru zvedla velká vlna nevole, klienti byli označováni za nebezpečné devianty a protestní výzvu zastupitelům podepsalo bezmála 300 lidí.*
 
-{% photo src="https://i.ohlasy.info/Hq4AX7R.jpg" caption="Marika Wetterová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hq4ax7r.jpg" caption="Marika Wetterová" author="Tomáš Znamenáček" %}
 
 **Jsou klienti Paprsku nebezpeční?**
 
@@ -100,7 +100,7 @@ Ne formou anonymních letáků. Že je někde v bezprostřední blízkosti komun
 
 Není to tak. My jsme až v září loňského roku dostali z fáze příprav k realizaci. Hned v říjnu jsem dávala informační článek do Regionpressu, aby se dostalo do povědomí, že jsme se posunuli a chceme začít stavět. Od ledna jsme chtěli začít pracovat na informační kampani. Jenže nás osočilo asi sedm lidí, bezprostředních sousedů, ve druhé polovině prosince. To jsem byla i na zastupitelstvu. Ti reagovali na můj článek. Do okamžiku, kdy se mají domy dostavět a klienti nastěhovat, máme ještě skoro dva roky.
 
-{% photo src="https://i.ohlasy.info/HkvORIb.jpg" caption="Marika Wetterová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hkvorib.jpg" caption="Marika Wetterová" author="Tomáš Znamenáček" %}
 
 ### Prostor rozptýlit obavy
 
@@ -176,7 +176,7 @@ Ano, starosta a kraj dolaďují termín a my plánujeme osvětovou informační 
 
 Nebezpeční nejsou.
 
-{% photo src="https://i.ohlasy.info/wvCr2Hj.jpg" caption="Marika Wetterová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wvcr2hj.jpg" caption="Marika Wetterová" author="Tomáš Znamenáček" %}
 
 ### Stejné pocity a potřeby jako my
 

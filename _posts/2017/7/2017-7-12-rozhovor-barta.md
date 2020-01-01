@@ -1,6 +1,6 @@
 ---
 title: „Pestrost festivalu je dána židovskou čtvrtí a přelévá se z něj zpátky do města.“
-cover-photo: https://i.ohlasy.info/YSOfetp.jpg
+cover-photo: https://i.ohlasy.info/i/ysofetp.jpg
 perex: Rozhovor s Jaroslavem Bártou, fotografem a pedagogem, který v rámci festivalu Boskovice 2017 připomněl obyvatele ghetta transportované v březnu roku 1942 do Terezína.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Jaroslavem Bártou, fotografem a pedagogem, který v rámci festivalu Boskovice 2017 instaloval na domy židovském ghettu cedulky se jmény lidí, kteří byli z těchto domů transportováni v březnu roku 1942 do Terezína. Od cedulek a reakcí na ně jsme se dostali k obecnějšímu tématu vyrovnávání se s minulostí, přiznání chyb a také smyslu boskovického festivalu.*
 
-{% photo src="https://i.ohlasy.info/YSOfetp.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ysofetp.jpg" author="Tomáš Znamenáček" %}
 
 **Můžete na začátku popsat svůj projekt pro lidi, kteří ho neviděli?**
 
@@ -40,7 +40,7 @@ Když jsem cedulky dával na domy, tak u jednoho z nich majitel zrovna byl a pom
 
 Bohužel nebyla možnost vést rozhovor tak, abychom došli k důvodu. Cítil, že ten dopis není vhodná forma a že za ním měl někdo přijít. Já jsem mu říkal, že tam byli a nezastihli ho, proto to dávali do schránky. Mně to přišlo běžné, že dostanete dopis a na ten můžete reagovat, volili jsme formu opravdu pečlivě, aby to nikomu neublížilo.
 
-{% photo src="https://i.ohlasy.info/Dak520d.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/dak520d.jpg" author="Tomáš Znamenáček" %}
 
 **Tohle byl jediný případ?**
 
@@ -64,7 +64,7 @@ Takto jsem si malinko interpretoval tu negativní odezvu – že nevidí důvod 
 
 A když si řekneme, že se jedná dnes z valné většiny o ateistickou společnost, tak tam chybí i nějaký princip, ať už křesťanský nebo jiný, který by nebyl dávaný státem, ale přicházel by shůry skrze víru. Ta většinou klade postuláty, které vytváří normativ nějakého etického chování.
 
-{% photo src="https://i.ohlasy.info/18R38CC.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/18r38cc.jpg" author="Tomáš Znamenáček" %}
 
 **Takže si dnes spíš prohlížíme stavby, než že bychom opravdu přemýšleli nad odkazem židovské kultury?**
 
@@ -90,7 +90,7 @@ Dnes je třeba všude reklama, to je vlastně ukázka nevkusu. Tohle dřív neby
 
 Když jsem se chystal dát cedulku na jeden dům, přijeli majitelé autem. Říkal jsem si, jestli tam nějak nevadím, ale naopak říkali, že to vítají. A popisovali mi, že na základě toho našeho dopisu o tom mluvili s maminkou a ta vyprávěla vzpomínku své maminky na transport. Že tehdy pršelo a maminka se vracela pro deštník, aby ho dala židovským sousedům. To mi přijde jako velmi tesklivé gesto, ve své marnosti, ale zároveň jediné možné, co ten člověk mohl v danou chvíli udělat. Gesto úžasné vlídnosti.
 
-{% photo src="https://i.ohlasy.info/UuMbSCC.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/uumbscc.jpg" author="Tomáš Znamenáček" %}
 
 **I když je mohl ochránit jen před deštěm, ale ne před hrozným osudem, který je čekal.**
 

@@ -1,6 +1,6 @@
 ---
 title: „Nebudu podporovat něco, za čím si nestojím.“
-cover-photo: https://i.ohlasy.info/417zl6F.jpg
+cover-photo: https://i.ohlasy.info/i/417zl6f.jpg
 perex: Rozhovor s místostarostou Lukášem Holíkem (ANO). Ve volbách jeho hnutí skončilo na 2. místě a vstoupilo do koalice s bývalou opozicí. Mluvili jsme o vzniku koalice, knihovně, sportovní hale, architektuře a také o dopravě a odpadech.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *Rozhovor s místostarostou Lukášem Holíkem (ANO 2011). Ve volbách jeho hnutí skončilo na druhém místě a vstoupilo do koalice s bývalými opozičními stranami. Mluvili jsme o vzniku koalice a o hlavních tématech – knihovně, sportovní hale, architektuře a také o dopravě a odpadech.*
 
-{% photo src="https://i.ohlasy.info/417zl6F.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/417zl6f.jpg" author="Tomáš Znamenáček" %}
 
 **Jak se cítíš v nové funkci a jak se ti zabydlovala tato kancelář?**
 
@@ -35,7 +35,7 @@ Ambice určitě byly pět mandátů, jak jsem říkal [v rozhovoru](https://vime
 
 Osobně to cítím tak, že hodně lidí mě nezná a tolik mi nevěří, protože jsem přece jen neznámá osoba, od které neví, co čekat. Teď jsou přede mnou čtyři roky – doufám, že čtyři roky – abych mohl ukázat potenciál, který v sobě mám. Že se těch přes tisíc lidí, co mně dalo hlas, nebo ještě více v podstatě celé naší straně, rozhodlo správně.
 
-{% photo src="https://i.ohlasy.info/0AVbVhc.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0avbvhc.jpg" author="Tomáš Znamenáček" %}
 
 ### Nechtěl jsem obcházet vítěze voleb
 
@@ -119,7 +119,7 @@ A pokud by byl dobrý pozemek pro skatepark, tak budu stoprocentně chtít, aby 
 
 Tam se musí hlavně vymyslet, co tam všechno chceme. Cítím to tak, že jsme tam tak v bodě 0 až 10 na stupnici do stovky.
 
-{% photo src="https://i.ohlasy.info/TnTlG8n.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tntlg8n.jpg" author="Tomáš Znamenáček" %}
 
 ### Knihovnu budu podporovat tak jako tak
 
@@ -183,7 +183,7 @@ Politik by se měl rozhodovat na základě informací a ne na základě emocí a
 
 Neříkám, že ta studie je nedostatečná. Spíš si minulí zastupitelé ten čas tolik nenašli a teď jsou tady nově zvolení.
 
-{% photo src="https://i.ohlasy.info/i9CPaS9.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/i9cpas9.jpg" author="Tomáš Znamenáček" %}
 
 ### Pere se to s pragmatismem
 

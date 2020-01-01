@@ -1,13 +1,13 @@
 ---
 title: "Dvořáčkův mlýn má jít k zemi. Ozývají se protesty"
-cover-photo: https://i.ohlasy.info/TsxZcbA.jpg
+cover-photo: https://i.ohlasy.info/i/tsxzcba.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Mlýn u sportovního areálu v Červené zahradě má brzy zmizet. Alespoň se na tom shodli boskovičtí radní, kteří už schválili vyhlášení výběrového řízení na firmu, která demolici provede. Mlýn by tak mohl být zbourán ještě letos.*
 
-{% photo src="https://i.ohlasy.info/TsxZcbA.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tsxzcba.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" %}
 
 Dvořáčkův mlýn budí i nadále velké vášně. V září 2015, kdy se jednalo o jeho odkupu společně s okolními pozemky, byla hlavním bodem [sporu mezi koalicí a opozicí](http://www.ohlasy.info/clanky/2015/10/dvorackuv-mlyn.html) cena, za kterou koalice nakonec schválila odkup. Následně i kvůli tomuto nákupu padlo [trestní oznámení](http://www.ohlasy.info/clanky/2016/01/cervenka-trestni-oznameni.html), které však policisté po půl roce odložili. A dnes se má celá budova bourat.
 
@@ -19,7 +19,7 @@ Miloš Pachl, který vlastní jeden dům v židovské čtvrti a k historickým s
 
 O demolici se hovoří nejméně od začátku roku, Miloš Pachl ale přišel s iniciativou až teď. To tak mrzí i starostku, která čekala, že se případní nespokojení lidé ozvou dříve. „Celé to dění kolem haly jsem totiž sledoval jen zpovzdálí. Ani jsem neviděl ty studie, že s mlýnem nepočítají,“ vysvětlil. Právě až s fotkou začal zjišťovat, co se stalo a co se plánuje.
 
-{% photo src="https://i.ohlasy.info/H7DFLeY.jpg" caption="Pozůstatky Puklova mlýna v Pilském údolí" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/h7dfley.jpg" caption="Pozůstatky Puklova mlýna v Pilském údolí" author="Tomáš Znamenáček" %}
 
 Dvořáčkův mlýn bere Miloš Pachl jako technickou památku, která má svou hodnotu, a to i přesto, že technologie byly odtud odvezeny, jak zdůrazňuje radnice. „Myslím, že to přehání, když říkají, že tam vůbec nic není. Určité věci jsou součástí konstrukce mlýna,“ tvrdí. Podle něj může ve mlýně být například muzeum mlynářství v Boskovicích. Z [někdejších pěti mlýnů](http://www.ohlasy.info/clanky/2016/03/mlyny.html) je totiž ve dvou případech ruina, z dalšího hotel, čtvrtý je kulturní památkou, která by však také už potřebovala rekonstrukci, a poslední je právě Dvořáčkův mlýn. „Považuji ho za nedílnou součást historie. Myslel jsem, že po zkušenostech z dob komunismu, kdy se bourala židovská čtvrť, už dnes nedovolíme, aby zanikla další historická budova,“ prohlásil Pachl.
 

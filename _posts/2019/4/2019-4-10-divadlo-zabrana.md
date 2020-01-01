@@ -1,7 +1,7 @@
 ---
 title: Na gymnáziu vznikla výborná inscenace z deníků Jana Zábrany
 perex: Sám proti tmám je název nové inscenace, kterou na gymnáziu se svým Divadélkem poezie připravila pedagožka a režisérka Věra Prosová. Zdařilému počinu se věnujeme stručnou recenzí a rozhovorem s autorkou.
-cover-photo: https://i.ohlasy.info/rvlVX3t.jpg
+cover-photo: https://i.ohlasy.info/i/rvlvx3t.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura divadlo
@@ -9,7 +9,7 @@ tags: kultura divadlo
 
 *Sám proti tmám je název nové inscenace, kterou na gymnáziu se svým Divadélkem poezie připravila pedagožka a režisérka Věra Prosová. Zdařilému počinu se věnujeme stručnou recenzí a rozhovorem s autorkou, která na gymnáziu dokázala už poněkolikáté připravit kvalitní divadelní dílo, které se nebojí studenty oslovit hlubšími tématy.*
 
-{% photo src="https://i.ohlasy.info/rvlVX3t.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/rvlvx3t.jpg" author="Tomáš Trumpeš" %}
 
 Mládí není jen rozjuchané, lačnící po zábavě, bezstarostné a nezodpovědné. Je taky citlivé, melancholické, tázavé a přemýšlivé. Bylo takové pod tlakem politických událostí roku 1948, ale jistě je takové i dnes. Na to vsadila režisérka Věra Prosová a koncentrované, střídmé a přesvědčivé výkony studentů v její nápadité a soudržné inscenaci *Sám proti tmám* ukazují, že vsadila správně.
 
@@ -19,7 +19,7 @@ Hlavní role se ujal Jan Soural, který Jana Zábranu sehrál s obdivuhodou pře
 
 Představení *Sám proti tmám* v závěru citlivě předjímá i další osud Jana Zábrany a jeho rodiny. Autorovi rodiče strávili takřka celá padesátá léta v komunistických kriminálech jako političtí vězni a sám Zábrana se po celý život potýkal s útrapami ze strany nedemokratického režimu. Svůj talent věnoval především překladatelské činnosti a zanechal za sebou vskutku monumentální dílo. Publikovat svobodnou tvorbu by nebylo možné, přesto se nakonec jeho autorský hlas umlčet nepodařilo – právě v tajných denících vzniklo v skrytosti pozoruhodné a stěžejní dílo české literatury 20. století. Je velmi záslužné, že je Věra Prosová svou inscenací otevřela i další generaci dnešních studentů.
 
-{% photo src="https://i.ohlasy.info/9r0cEvG.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/9r0cevg.jpg" author="Tomáš Trumpeš" %}
 
 ### „Opírala jsem se o myšlenku svobody a o demokratické hodnoty, které jsou velmi křehké.“
 

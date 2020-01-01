@@ -1,7 +1,7 @@
 ---
 title: Jednatel boskovické nemocnice má svého „Julínka“
 perex: Tomáš Julínek se soudí kvůli výpovědi z nemocnice. Byla pozice ekonomického náměstka, kterou Julínek zastával, zrušena účelově?
-cover-photo: https://i.ohlasy.info/LZLFWZB.jpg
+cover-photo: https://i.ohlasy.info/i/lzlfwzb.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice politika
@@ -9,7 +9,7 @@ tags: nemocnice politika
 
 *Kancelář po bývalém ekonomickém náměstkovi boskovické nemocnice Tomáši Julínkovi, kterého vyhodila z nemocnice starostka Boskovic a bývalá jednatelka nemocnice Hana Nedomová (ČSSD), už není prázdná. Od podzimu loňského roku v ní našel své místo Dan Štěpánský.*
 
-{% photo src="https://i.ohlasy.info/LZLFWZB.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/lzlfwzb.jpg" author="Marek Osouch" %}
 
 Dan Štěpánský oficiálně obsadil loni na podzim místo analytika ekonomických a zdravotnických informací. Na pozici ho jmenoval jednatel boskovické nemocnice Miloš Janeček. „V životě jsem pana Janečka neviděl, znal jsem ho jen jako senátora,“ řekl Dan Štěpánský, který před nástupem do boskovické nemocnice pracoval v Moravských naftových dolech, kde měl na starosti rozvoj.
 

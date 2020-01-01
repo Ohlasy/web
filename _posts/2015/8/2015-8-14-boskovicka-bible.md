@@ -1,14 +1,14 @@
 ---
 title: Boskovická bible vznikala v okolí Jana Husa, souvislost s Boskovicemi je však nejistá
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/qtc0T6H.jpg
+cover-photo: https://i.ohlasy.info/i/qtc0t6h.jpg
 author: Tomáš Trumpeš
 tags: historie
 ---
 
 *Takzvaná Boskovická bible je významnou středověkou památkou. Rukopisná kniha čítá více než tisíc stran a je vyzdobena více než 80 iluminacemi. Originál je uložen ve Vědecké knihovně v Olomouci a letos bychom si mohli v souvislosti s 600. výročím upálení Jana Husa připomínat také vznik této knihy, která pravděpodobně vzešla z jeho okolí. Ovšem pouze symbolicky – přesné datum vyhotovení knihy totiž neznáme. A problematický je také její vztah k Boskovicím. Ty se však přesto k vzácnému rukopisu hlásí a od roku 2012 si návštěvníci muzea mohou prolistovat její maketu.*
 
-{% photo src="https://i.ohlasy.info/qtc0T6H.jpg" %}
+{% photo src="https://i.ohlasy.info/i/qtc0t6h.jpg" %}
 
 „S datací vzniku boskovické bible je to složitější, někdy se uvádí rok 1415, ale patrně byla napsána a iluminována až později, spíš kolem roku 1420, podle úmrtí pravděpodobného objednavatele Čeňka z Vartenberka by se vznik mohl posunout až k roku 1425,“ vysvětluje historik boskovického muzea Petr Vítámvás.  Úmrtí Čeňka z Vartenberka v roce 1425 může být také důvodem, proč bible zůstala nedokončena. Určit v případě podobné knihy přesné datum jejího vzniku je navíc nemožné také proto, že práce na rukopise mohly trvat i několik let.
 
@@ -18,7 +18,7 @@ Velice nejistá je i souvislost s Boskovicemi. Doložená je totiž pouze souvis
 
 Výrobu rukopisu si každopádně musel objednat velmi zámožný člověk. Drahý byl čas potřebný k její výrobě a také materiály – 537 pergamenových listů, vazba a kování. Opsání bible trvalo zkušenému písaři 4 roky, malířská výzdoba byla taktéž časově náročná. Badatelé se nakonec přiklonili k názoru, že pořizovatelem knihy byl právě Čeněk z Vartenberka. „Určitým vodítkem k nalezení objednavatele se zdál být list s bohatou malířskou výzdobou: vedle medailonu s námětem zázraku nasycení a napojení Židů na poušti, je stránka zdobena rozvilinami (*rostlinnými ornamentální motivy, pozn. red.*), do nichž jsou vkomponovány dva erby – jeden půlený štít zlato-černý, druhý zlatý štít s černými ostrvemi – osekanými větvemi. První erb náležel rodu Vartenberků, druhý Ronovcům, mezi které patřili páni z Lipé, z Dubé, z Ronova a další. Badatelům tedy stačilo najít šlechtický manželský pár těchto rodů, aby zjistili objednatele bible. Což ovšem vylučovalo jinak nejvážnějšího kandidáta – Čeňka z Vartenberka, neboť jeho manželkou byla Kateřina z Landštejna, tedy erbu pětilisté růže. Mnoho odborníků použilo svého důvtipu, aby zdůvodnili tu či onu variantu, přicházeli s různými jmény osob, jež by snad mohly být objednavateli, ale vždy zůstávala jistá pochybnost, argumentace nebyla zcela přesvědčivá. Až provedení infračervené fotografie prokázalo, že erb s ostrvemi byl domalován později, a tedy s objednavatelem neměl žádnou souvislost, pravděpodobně patřil spíše některému z pozdějších majitelů. Po tomto poznání se zdá nejpravděpodobnější, že si Boskovickou bibli objednal již dříve uvažovaný Čeněk z Vartenberka. Jediný závažnější argument proti němu jako pořizovateli – tedy že jeho manželka nebyla erbu ostrve – padl,“ vysvětluje boskovický historik, podle kterého se jeho role jako objednavatele bible jeví sice jako vysoce pravděpodobná, avšak je stále jen hypotetická.
 
-{% photo src="https://i.ohlasy.info/E4fFMW0.jpg" %}
+{% photo src="https://i.ohlasy.info/i/e4ffmw0.jpg" %}
 
 O prvním doloženém vlastníkovi Boskovické bible nás informuje vlastnická poznámka druhého známého vlastníka na jednom z listů: „Letha 1565 v neděli po sv. Urbanu ráčil mi jeho Milost pán můj pan Václav Černohorský z Boskovic a na Třebové, mně Hendrychovi Reychenbochovi, toho času úředníku na Třebové, ráčil jeho milost mně tyto knihy a biblí darovati ut supra. Hendrych Reychenboch manu propria (vlastní rukou).“ A právě podle tohoto zápisu, který odkrývá, že dříve bible patřila Václavu Černohorskému z Boskovic, byla bible nazvána Boskovickou. K tomu však došlo až mnohem později. „Když bibli zkoumal ke konci 18. století Josef Dobrovský, označil ji jako druhou bibli olomouckou, neboť byla uložena v olomoucké knihovně stejně jako obdobný jiný iluminovaný rukopis bible. Poprvé označení „bible boskovická“ použil až o několik desetiletí později A. V. Šembera ve svém pojednání o pánech z Boskovic,“ uvádí Petr Vítámvás.
 
@@ -36,13 +36,13 @@ Nejstarší známý překlad celé bible do češtiny pochází z doby kolem rok
 
 Boskovická bible je rukopisná kniha o rozměrech 45,5×33 cm, o 537 pergamenových foliích (300×145 mm), vazba je pozdější – renesanční, dřevěné desky jsou potaženy bílou kůží se slepotiskem s datem 1539. Je psána kaligrafickou bastardou, což je typ gotického písma, ve dvou sloupcích. Text je psán česky, dvěma písaři. Bible je vyzdobena více než 80 iluminacemi, z nichž 21 je nedokončených, zachovaných jen v podkresbě.
 
-{% photo src="https://i.ohlasy.info/39XtaA3.jpg" %}
+{% photo src="https://i.ohlasy.info/i/39xtaa3.jpg" %}
 
 „Kodex obsahuje celkem 89 miniatur, z nichž pouze 5 lze označit za čistě ornamentálně zdobené iniciály, které plní výhradně funkci dekorativní. Z celého souboru miniatur je přitom dobře patrný vývoj funkcí, který iluminace v dané době plní. Značná část iluminací sestává z iniciály, do níž je vkomponován obraz, který prostřednictvím figurálního motivu zachycuje scénu vylíčenou v textu, s nímž je kompozice spjata. Jsou-li miniatury tohoto typu zdobeny rozvilinami, fungují rozviliny spíše jako prostředek k vyplnění prostoru na okrajích folia nebo představují jen malé výběhy z patek iniciály nebo z rámu obrazu, takže celá kompozice nabývá převážně ilustrativního rázu. U dalších miniatur se tendence po opuštění dekorativních funkcí prosazuje ještě výrazněji: absence rozvilinové výzdoby ponechává jen kompozici iniciály zdobené obrazem. Vítězství ryze ilustrativní funkce představují obrazy, které postrádají dekorativní složku zcela; sestávají pouze z narativního obrazu vloženého do rámu. Iniciála je v těchto případech provedena jen písařsky v malém okénku, vynechaném pro daný účel v pravém rohu miniatury. Charakter iluminací v rámci celého kodexu tedy není jednotný, což svědčí pro domněnku, že výzdoba Bible boskovické je dílem několika iluminátorů,“ uvádí materiály olomoucké knihovny.
 
 Práce více autorů na výzdobě rukopisu byla v té době pravidlem, popřípadě se na ní podílela celá malířská dílna. Podle Petra Vítámváse je pro středověk je charakteristické, že autory ať už literárních či výtvarných děl většinou neznáme jménem – a pro iluminované rukopisy to platí dvojnásob. Proto je dnes badatelé pojmenovávají podle jejich nejznámějších děl. 
 
-{% photo src="https://i.ohlasy.info/yUyIDDM.jpg" %}
+{% photo src="https://i.ohlasy.info/i/yuyiddm.jpg" %}
 
 K vazbám na husitské hnutí odkazují i náměty některých iluminací. Kupříkladu jeden velký medailon obsahuje dva náměty: nasycení Židů na poušti manou a Mojžíš svou holí otvírá pramen vody ve skále. „Někteří badatelé v tomto vyobrazení spatřují odkaz na husitství, skutečností je, že husité se ve sporech o přijímání podobojí odvolávali mimo jiné na tento starozákonní příběh jako přeobraz dvou částí svátosti přijímání – chleba a vína jako těla a krve,“ vysvětluje Petr Vítámvás. Tématem jedné z dalších miniatur je Mytí nohou. A právě tento evangelijní obraz, při kterém Kristus myje nohy svým učedníkům, opět využívali husité jako výraz pokory v protikladu k pýše papeže. 
 

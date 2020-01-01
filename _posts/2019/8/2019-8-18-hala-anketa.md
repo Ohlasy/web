@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Kde chtějí sportovci sportovní halu?"
-cover-photo: https://i.ohlasy.info/XNueISu.jpg
+cover-photo: https://i.ohlasy.info/i/xnueisu.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags:
@@ -10,11 +10,11 @@ tags:
 
 *Vedení města se rozhoduje mezi stavbou sportovní haly na Hybešově ulici u národohospodářské školy, nebo na místě dvou stávajících tělocvičen u základní školy na Sušilově ulici. Kterou z těchto variant byste vybrali a proč? Nebo preferujete jiné řešení?*
 
-{% photo src="https://i.ohlasy.info/XNueISu.jpg" caption="Tři varianty místa pro halu: Hybešova, Červená zahrada, Sušilova" author="Tomáš Trumpeš & Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xnueisu.jpg" caption="Tři varianty místa pro halu: Hybešova, Červená zahrada, Sušilova" author="Tomáš Trumpeš & Tomáš Znamenáček" %}
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/wOXgWrp.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/woxgwrp.jpg" alt="">
 
 **Michal Pospíšil, volejbal**
 
@@ -24,7 +24,7 @@ Volejbalisté jsou jednoznačně pro to, aby tady už konečně nějaká odpoví
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/zFBUcAB.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/zfbucab.jpg" alt="">
 
 **Ladislav Oujeský, florbal**
 
@@ -34,7 +34,7 @@ Když bych měl připojit svůj osobní názor, je pro mě přidanou hodnotou ve
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/ZZauYW3.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/zzauyw3.jpg" alt="">
 
 **Vladimír Petrů, fotbal**
 
@@ -46,7 +46,7 @@ Osobně jsem toho názoru, že pokud by se nepodařila najít široká shoda (ja
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/u2RRIoQ.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/u2rrioq.jpg" alt="">
 
 **Petr Toman, basketbal**
 
@@ -58,7 +58,7 @@ Z mého pohledu je nutné mít halu / tělocvičnu, která splňuje parametry h�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/SvrdZ2v.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/svrdz2v.jpg" alt="">
 
 **Věra Opatřilová, TJ Rytmus**
 
@@ -74,7 +74,7 @@ Pokud bychom my byli postaveni před rozhodnutí: Sušilova ✕ Hybešova, nebo 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/8yb1skf.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/8yb1skf.jpg" alt="">
 
 **Karel Trefný, aikido**
 
@@ -82,7 +82,7 @@ Já preferoval Slovákovu, nyní preferuji Hybešku. Sušilovu bych připustil z
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/keoOAsK.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/keooask.jpg" alt="">
 
 **Lubomír Slezák, sportovní novinář**
 
@@ -96,7 +96,7 @@ Myslím si, že ztracené roky nedožene žádné politické rozhodnutí, které
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/EHjaKY1.jpg" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/ehjaky1.jpg" alt="">
 
 **Lukáš Lorenc, sportovní novinář**
 

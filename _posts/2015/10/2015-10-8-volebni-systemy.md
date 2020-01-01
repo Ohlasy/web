@@ -1,6 +1,6 @@
 ---
 title: Nevolíme osobnosti, ale strany
-cover-photo: https://i.ohlasy.info/DSJnkKh.jpg
+cover-photo: https://i.ohlasy.info/i/dsjnkkh.jpg
 category: názory a komentáře
 author: Marek Osouch
 tags: politika volby
@@ -18,7 +18,7 @@ Nabízí se tedy možnost změny volebního systému v takový, u kterého se sk
 
 Pro názornost jsem přepočítal mandáty na základě počtu získaných hlasů v komunálních volbách 2010 a 2014 v Boskovicích a došel k [následujícím výsledkům](https://docs.google.com/spreadsheets/d/1_z_jPDt5EvxeWb0XOvP6qLcf7NBIPsCsMaJ13rrhiAk/edit?usp=sharing):
 
-{% photo src="https://i.ohlasy.info/qJ3nteF.png" %}
+{% photo src="https://i.ohlasy.info/i/qj3ntef.png" %}
 
 Oběma volbám, jak je vidět, by dominovala ČSSD. V obou případech by vytvořila jednobarevnou radu a měla by zajištěnou pohodlnou podporu v zastupitelstvu. Je vidět, že tento systém by nezaručil v boskovickém zastupitelstvu poměrnost. Otázkou ovšem je, zda by se nechovali jinak samotní voliči.
 

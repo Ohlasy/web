@@ -1,13 +1,13 @@
 ---
 title: „S koněm si musíš rozumět, nejede jako stroj,“ říká evropský šampion ve westernovém ježdění Ondřej Houška
 category: rozhovory
-cover-photo: https://i.ohlasy.info/38HBcn2.jpg
+cover-photo: https://i.ohlasy.info/i/38hbcn2.jpg
 author: Tomáš Trumpeš
 ---
 
 *Ondřej Houška řečený Oswego žije a stará se o koně na ranči ve Svitávce. Před několika lety se začal zajímat o královskou disciplínu westernového ježdění working cow horse, která se postupně začala prosazovat v Evropě. Letos s novým koněm This Cats Light, sedmiletým hřebcem v majetku Silver Stone Ranche, uspěl nejprve na polském mistrovství, což mu dodalo odvahu jet i na evropský šampionát. A tam ve své disciplíně zvítězil. Už jako evropský šampion jel i na další mezinárodní soutěž Americana v Augsburgu, kde rovněž dosáhl významných úspěchů.*
 
-{% photo src="https://i.ohlasy.info/38HBcn2.jpg" %}
+{% photo src="https://i.ohlasy.info/i/38hbcn2.jpg" %}
 
 **Co přesně za ocenění se ti podařilo získat?**
 
@@ -49,7 +49,7 @@ Ano, jsem vlastně jediný trenér u nás. Musím tohle všechno znát, navíc t
 
 Má myšlenky občas někde jinde. Já se tím živím, chovem a tréningem koní, od obsednutí a přeježdění mladých koní až po ty show koně. Čím víc toho člověk zná, tím lepší koně si může dovolit.
 
-{% photo src="https://i.ohlasy.info/9TYlNR8.jpg" %}
+{% photo src="https://i.ohlasy.info/i/9tylnr8.jpg" %}
 
 **Jak soutěžení vnímá kůň? Baví ho to? Může to být i nebezpečné?**
 

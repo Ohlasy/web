@@ -1,6 +1,6 @@
 ---
 title: Hugo Race, mínus123minut, Už jsme doma. Festival Boskovice slaví čtvrt století
-cover-photo: https://i.ohlasy.info/UI6xz3L.jpg
+cover-photo: https://i.ohlasy.info/i/ui6xz3l.jpg
 perex: 25. ročník festivalu pro židovskou čtvrť Boskovice 2017 se koná od čtvrtka 6. do neděle 9. července. Co nám nabídne?
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: kultura
 
 *25\. ročník festivalu pro židovskou čtvrť Boskovice 2017 se koná od čtvrtka 6. do neděle 9. července. Nabídka hudebních, divadelních, filmových, literárních a výtvarných akcí je jako vždy nabitá, letos dojde i na zahraničního hosta, kterým je dřívější souputník Nicka Cavea – australský kytarista Hugo Race.*
 
-{% photo src="https://i.ohlasy.info/UI6xz3L.jpg" caption="Hlavní festivalová scéna v letním kině" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ui6xz3l.jpg" caption="Hlavní festivalová scéna v letním kině" author="Tomáš Znamenáček" %}
 
 „Půdorys festivalu je stejný jako v minulých letech. Uvažovali jsme o tom, jestli tento ročník pojmout retrospektivně, ale nakonec jsme si řekli, že ne, že pojedeme, jako by žádné výročí nebylo. Z programu ale nakonec stejně vyplynulo, že třeba všechny kapely, které hrají na hlavní scéně, do Boskovic nějakým způsobem patří. Buď zde už hrály, nebo se zde uvedly na menších scénách. Letos se nám podařilo oslovit i zahraniční hvězdu – vystoupí zde Hugo Race s italským uskupením muzikantů Fatalists. V České republice odehrají v tomto obsazení jediný koncert právě zde v Boskovicích,“ uvedl k festivalu [předseda pořádajícího Unijazzu Čestmír Huňát](http://www.ohlasy.info/clanky/2017/05/rozhovor-hunat.html).
 

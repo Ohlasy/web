@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na srpen
-cover-photo: https://i.ohlasy.info/B88Kdif.jpg
+cover-photo: https://i.ohlasy.info/i/b88kdif.jpg
 category: zpravodajství
 author: Jan Bařinka
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Výběr zajímavých kulturních akcí na srpen zpracoval pro čtenáře Ohlasů opět Jan Bařinka, řečený Gianni. Gianni je vystudovaný estetik a má široké spektrum divácké i posluchačské pozornosti, takže ho můžete potkat prakticky všude: od klubových párty až po koncerty vážné hudby. Nejspíš málokdo navštíví tolik kulturních akcí jako on. Součástí jeho textu je také malé ohlédnutí za uplynulým měsícem.*
 
-{% photo src="https://i.ohlasy.info/B88Kdif.jpg" %}
+{% photo src="https://i.ohlasy.info/i/b88kdif.jpg" %}
 
 ### Hudba
 

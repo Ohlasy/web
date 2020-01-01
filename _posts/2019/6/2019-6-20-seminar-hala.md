@@ -1,7 +1,7 @@
 ---
 title: S vyloučením veřejnosti
 perex: "Dnes proběhne na boskovické radnici uzavřený zastupitelský seminář. Spíše než kde bude stát sportovní hala se nabízí otázka: Kde zůstala veřejnost?"
-cover-photo: https://i.ohlasy.info/mIeI5mh.jpg
+cover-photo: https://i.ohlasy.info/i/miei5mh.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Dnes proběhne na boskovické radnici uzavřený zastupitelský seminář, na kterém budou podrobněji představeny dvě potenciální lokality pro stavbu nové sportovní haly – Sušilova a Hybešova. Přibližně před rokem čtvrt se konal na témže místě podobný seminář, a to k tématu nemocnice a jejího možného pronájmu společnosti Agel.*
 
-{% photo src="https://i.ohlasy.info/mIeI5mh.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/miei5mh.jpg" author="Tomáš Znamenáček" %}
 
 Uzavřené zastupitelské semináře si navykla pořádat minulá koalice a zdá se, že ta současná v tom hodlá pokračovat. Postup tehdy v komentáři [kritizoval kolega Marek Osouch](https://ohlasy.info/clanky/2018/02/seminar-nemocnice.html) a jádro jeho kritiky platí pro dnešní situaci úplně stejně:
 

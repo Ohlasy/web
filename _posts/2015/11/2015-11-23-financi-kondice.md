@@ -1,14 +1,14 @@
 ---
 title: Boskovice jsou v dobré finanční kondici, na konci roku zbude 60 milionů
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/WHAfrXd.jpg
+cover-photo: https://i.ohlasy.info/i/whafrxd.jpg
 category: zpravodajství
 tags: politika investice
 ---
 
 *Město Boskovice bude letošní rok uzavírat s lepším finančním výsledkem, než se předpokládalo.  Příjmy se podařilo vylepšit díky některým dotacím, pomohla také zlepšující se kondice české ekonomiky. Na konci roku by mělo na účtech města zůstávat asi 60 milionů korun.*
 
-{% photo src="https://i.ohlasy.info/WHAfrXd.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/whafrxd.jpg" author="Tomáš Znamenáček" %}
 
 Původní schválený rozpočet města počítal pro letošní rok s příjmy ve výši něco přes 270 milionů korun, s výdaji pak ve výši necelých 320 milionů korun. V průběhu roku bylo přijato pět rozpočtových opatření, kterými byly příjmy města navýšeny na 290 milionů a výdaje klesly na 315 milionů. Počáteční stav finančních prostředků na bankovních účtech města činil na začátku roku něco přes 65 milionů. Navýšení příjmů o 20 milionů korun souvisí se získáním dotačních titulů, se kterými rozpočet města původně nepočítal. Tyto dotace se podařilo získat kupříkladu na fotbalové hřiště s umělou trávou, na rekonstrukci elektroinstalace a střechu mikrobiologie v nemocnici nebo na konsolidaci IT. 
 

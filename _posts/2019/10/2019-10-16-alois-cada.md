@@ -1,6 +1,6 @@
 ---
 title: Alois Čada byl uznávanou osobností i za hranicemi našeho města
-cover-photo: https://i.ohlasy.info/ahjuW9ee.jpg
+cover-photo: https://i.ohlasy.info/i/ahjuw9ee.jpg
 perex: Vzpomínka na hudebníka, kulturního hybatele, pedagoga, bývalého ředitele Střední pedagogické školy a politicky aktivního člověka.
 author: Daniela Sedláková
 category: názory a komentáře
@@ -9,7 +9,7 @@ tags: kultura nekrolog
 
 *Boskovice se rozloučily s Aloisem Čadou, který zemřel na konci září. Vzpomínku na hudebníka, kulturního hybatele, pedagoga, bývalého ředitele Střední pedagogické školy a politicky aktivního člověka pro nás napsala jeho kolegyně z pedagogické školy a taktéž učitelka hudební výchovy Daniela Sedláková.*
 
-{% photo src="https://i.ohlasy.info/ahjuW9ee.jpg" %}
+{% photo src="https://i.ohlasy.info/i/ahjuw9ee.jpg" %}
 
 Každý z nás ví, že se v životě vyskytují náhody, které mohou zásadně ovlivnit náš osud. Často jsou to lidé, kteří nás mimoděk někam nasměrují. Někdy v roce 1991, těsně předtím, než jsem končila vysokou školu, se potkal můj otec s panem Aloisem Čadou, dali se do řeči, a když pan Čada zjistil, co studuji, vzkázal mi, že na „pedáku“ hledají učitele hudební výchovy a ať si tam dám žádost. Udělala jsem to. Nastoupila jsem na školu v září ještě se dvěma spolužáky z fakulty, já jediná jsem tam dodnes.
 

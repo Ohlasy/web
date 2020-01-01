@@ -1,14 +1,14 @@
 ---
 title: "Cena tepla v Boskovicích zůstane na 664 korunách. Město ji bude dotovat"
 perex: Cenu centrálního tepla řešili radní na jednání těsně před Vánoci. Příští rok totiž končí smlouvy na odběr tepla více než tisícovce domácností a vedení města chce, aby v systému CZT zůstaly.
-cover-photo: https://i.ohlasy.info/ESwiGUy.jpg
+cover-photo: https://i.ohlasy.info/i/eswiguy.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Cenu tepla ze systému Centrálního zásobování teplem (CZT), řešili boskovičtí radní na jednání těsně před Vánoci více než 2,5 hodiny. Šlo o zásadní bod, protože příští rok končí smlouvy na odběr tepla více než tisícovce domácností a vedení města chce, aby v systému CZT zůstaly.*
 
-{% photo src="https://i.ohlasy.info/ESwiGUy.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eswiguy.jpg" author="Tomáš Znamenáček" %}
 
 Systém CZT v Boskovicích ovšem neprovozuje město, ale už od listopadu 2003 soukromá firma ZT Energy. Ta také předkládá městu každoročně předběžnou kalkulaci ceny tepla, v níž je mimo jiné zahrnut zisk pro soukromou společnost a také nájem, který si účtuje město za kotelny a který je hned druhou nejvyšší položkou v ceně tepla. Město následně částkou vybranou na nájmu splácí úvěr za modernizaci CZT provedenou před patnácti lety.
 

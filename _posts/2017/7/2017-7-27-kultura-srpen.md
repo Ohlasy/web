@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na srpen
-cover-photo: https://i.ohlasy.info/3ev58PH.jpg
+cover-photo: https://i.ohlasy.info/i/3ev58ph.jpg
 perex: Tipy na několik kulturních událostí, které by  bylo škoda v nadcházejícím měsíci minout.
 author: Jan Bařinka
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: kultura
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/3ev58PH.jpg" caption="Vojtěch Dyk" author="Ivo Legner" %}
+{% photo src="https://i.ohlasy.info/i/3ev58ph.jpg" caption="Vojtěch Dyk" author="Ivo Legner" %}
 
 ### Výstavy v Muzeu regionu Boskovicka
 

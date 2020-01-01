@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Recenze na Boskovické stezky"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/p71htHb.jpg
+cover-photo: https://i.ohlasy.info/i/p71hthb.jpg
 category: ankety
 ---
 
@@ -9,7 +9,7 @@ category: ankety
 
 ---
 
-<img src="https://i.ohlasy.info/dOqBQTO.jpg" class="profile-picture" alt="Petr Ondráček">
+<img src="https://i.ohlasy.info/i/doqbqto.jpg" class="profile-picture" alt="Petr Ondráček">
 
 **Petr Ondráček**
 
@@ -25,7 +25,7 @@ Myslím si, že v zásadě úctyhodný počin nové alternativy ježdění v na�
 
 ---
 
-<img src="https://i.ohlasy.info/5LQmvah.jpg" class="profile-picture" alt="Ivo Legner">
+<img src="https://i.ohlasy.info/i/5lqmvah.jpg" class="profile-picture" alt="Ivo Legner">
 
 **Ivo Legner**
 
@@ -39,7 +39,7 @@ Na jednu stranu můžu být rád, že areál pro svou oblíbenou aktivitu mám p
 
 ---
 
-<img src="https://i.ohlasy.info/uAEH8sQ.jpg" class="profile-picture" alt="Radim Petrů">
+<img src="https://i.ohlasy.info/i/uaeh8sq.jpg" class="profile-picture" alt="Radim Petrů">
 
 **Radim Petrů**
 
@@ -47,7 +47,7 @@ Nechci vypadat jako velký kritik, ale můj názor je (když pominu cenu 400 tis
 
 ---
 
-<img src="https://i.ohlasy.info/MnRY1zy.jpg" class="profile-picture" alt="Ivan Kratina">
+<img src="https://i.ohlasy.info/i/mnry1zy.jpg" class="profile-picture" alt="Ivan Kratina">
 
 **Ivan Kratina**
 
@@ -61,7 +61,7 @@ Takže rozhodně doporučuju všem, aby si to vyzkoušeli, ale ať jezdí v rám
 
 ---
 
-<img src="https://i.ohlasy.info/JAwpzIY.jpg" class="profile-picture" alt="Marek Osouch">
+<img src="https://i.ohlasy.info/i/jawpziy.jpg" class="profile-picture" alt="Marek Osouch">
 
 **Marek Osouch**
 

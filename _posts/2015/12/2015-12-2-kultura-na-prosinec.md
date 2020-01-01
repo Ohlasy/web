@@ -1,7 +1,7 @@
 ---
 title: Gianniho kulturní výběr na prosinec
 author: Jan Bařinka
-cover-photo: https://i.ohlasy.info/TBpimXV.jpg
+cover-photo: https://i.ohlasy.info/i/tbpimxv.jpg
 category: zpravodajství
 tags: kultura
 ---

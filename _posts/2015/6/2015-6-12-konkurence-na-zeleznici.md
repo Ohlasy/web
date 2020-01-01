@@ -1,14 +1,14 @@
 ---
 title: Konkurence na železnici a školní výlety aneb Postřehy učitele
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/3Svqio4.jpg
+cover-photo: https://i.ohlasy.info/i/3svqio4.jpg
 author: Hynek Skořepa
 tags: železnice doprava vzdělávání
 ---
 
 *Od dubna letošního roku jsme se od Českých drah dočkali ne zrovna příjemných změn týkajících se skupinových jízdenek. Slevy pro skupiny zajímají samozřejmě nejvíc učitele i všechny ostatní, kteří pracují s mládeží, a nevzdali dosud snahu tuto mládež vytáhnout od rozsvícených obrazovek (dnes už především těch počítačových) někam ven.*
 
-{% photo src="https://i.ohlasy.info/3Svqio4.jpg" %}
+{% photo src="https://i.ohlasy.info/i/3svqio4.jpg" %}
 
 Mnozí ještě matně pamatují, jak to chodívalo za reálného socialismu – objednávání skupin dopředu, seznamy účastníků, pro každého sčítací lístek, složité potvrzování chybějících u průvodčího po každém přestupu a nakonec dohadování se s dráhou (tehdy ČSD) o vrácení peněz za ty, kteří z nějakého důvodu nejeli.
 

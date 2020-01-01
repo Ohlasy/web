@@ -1,14 +1,14 @@
 ---
 title: Co zaznělo na veřejném jednání k nové knihovně
 perex: Veřejné setkání k nové boskovické knihovně se konalo ve čtvrtek v zámeckém skleníku. Přinášíme přepis nejzajímavějších výroků, které na setkání zazněly.
-cover-photo: https://i.ohlasy.info/J97tX2u.jpg
+cover-photo: https://i.ohlasy.info/i/j97tx2u.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Veřejné setkání k nové boskovické knihovně se konalo ve čtvrtek v zámeckém skleníku. O činnosti knihovny referoval ředitel KZMB Oldřich Kovář, svůj návrh stavby komunitního centra s knihovnou představil architekt Zdeněk Fránek. Následně se rozběhla diskuse, za Ohlasy se jí aktivně zúčastnili Tomáš Znamenáček a autor tohoto textu – Tomáš Trumpeš. Přinášíme přepis nejzajímavějších výroků, které na setkání zazněly.*
 
-{% photo src="https://i.ohlasy.info/J97tX2u.jpg" caption="Debata ve skleníku" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/j97tx2u.jpg" caption="Debata ve skleníku" author="Tomáš Znamenáček" %}
 
 **LUKÁŠ HOLÍK (místostarosta, ANO 2011)**: Hlavním cílem besedy je představit, v jaké fázi se tento projekt nachází. Pak diskutujme.
 

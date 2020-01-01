@@ -1,7 +1,7 @@
 ---
 title: „Ghetto bylo jaksi na obtíž, festival na to pomohl upozornit.“
 perex: Rozhovor s Petrem Michálkem, dramaturgem filmové a přednáškové části festivalu Boskovice, o jeho vztahu k židovské čtvrti, o kulturních aktivitách na přelomu 80. a 90. let a 30. výročí Listopadu 89.
-cover-photo: https://i.ohlasy.info/LcG18lz.jpg
+cover-photo: https://i.ohlasy.info/i/lcg18lz.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Rozhovor s Petrem Michálkem, dramaturgem filmové a přednáškové části festivalu Boskovice. S tak řečeným Petem jsme si povídali o jeho vztahu k židovské čtvrti, o kulturních aktivitách na přelomu 80. a 90. let v Boskovicích, o 30. výročí Listopadu 89 a právě o festivalové dramaturgii.*
 
-{% photo src="https://i.ohlasy.info/LcG18lz.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lcg18lz.jpg" author="Tomáš Znamenáček" %}
 
 **Pete, ty jsi rodilý Boskovák a vyrůstal jsi tady. Kdy jsi začal vnímat, že je zde židovská čtvrť? V té době se o tom asi moc nemluvilo.**
 
@@ -63,7 +63,7 @@ Ne.
 
 Velký impuls pro mě taky byl, když jsme jeli v roce 89 ještě před revolucí s Frantou Matouškem na pár dní do Prahy, kde probíhala velká výstava 150 let fotografie. Byly to velké výstavy v Mánesu, v Domě u kamenného zvonu, na výstavišti a dalších místech. Poprvé jsem tam viděl fotky [Josefa Koudelky](https://ohlasy.info/clanky/2017/01/koudelka-dokument.html), aniž bych věděl, že pochází tady z Valchova. No a šli jsme se podívat na židovské památky. Bylo to úžasné v tom, že tam nebyla nikde ani noha, kromě příslušníka VB, který chodil kolem židovské radnice, Klausové synagogy a židovského hřbitova. Jinak tam nebyl jediný turista. Mohli jsme se všude podívat. Do Pinkasovy synagogy, kde je památník více než 78 tisícům Židů, jejichž jména malovali Václav Boštík a Jiří John. Ve Vysoké synagoze byla výstava Stříbro českých synagog. A tam jsem uviděl spoustu věcí z Boskovic. V další synagoze byla výstava textilií a byla tam opona na tóru z Boskovic.
 
-{% photo src="https://i.ohlasy.info/ZSpmzAV.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/zspmzav.jpg" author="Tomáš Znamenáček" %}
 
 ### Ledy pukaly
 
@@ -117,7 +117,7 @@ Mám pocit, že okolo padesátky. Někteří byli papíroví a moc se nezapojova
 
 Byl. Pak se to trošku zvrtlo. Ale on byl studnice nápadů, i když někdy to bylo trošku mimo mísu. Osmdesát procent věcí v Prostoru i v počátcích festivalu bylo vždycky přínosných.
 
-{% photo src="https://i.ohlasy.info/7d6jafT.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7d6jaft.jpg" author="Tomáš Znamenáček" %}
 
 ### Situace v ghettu se nám nelíbila
 
@@ -146,7 +146,7 @@ Došlo totiž k tomu, že zbourali rabínský dům U Templu. My jsme se tam byli
 
 Ne. Pro mě byl pan Klenovský jak se říká směroplatný. Když on, který tomu rozuměl, řekl, že ten dům není v takovém stavu, aby se musel zbourat, tak samozřejmě věříš jemu. Je to odborník. To bylo pro nás těžko pochopitelné, že v začínající nové a svobodné době k tomuto došlo. To byl dost velký průšvih.
 
-{% photo src="https://i.ohlasy.info/88GbXfb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/88gbxfb.jpg" author="Tomáš Znamenáček" %}
 
 ### Zoufalé argumenty
 
@@ -196,7 +196,7 @@ Ghetto bylo od začátku jaksi na obtíž. Všichni věděli, že jsou tam pamá
 
 Stavět repliky nemá cenu. To mohli dělat ve Varšavě po válce, to je úplně jiný případ. Tady samozřejmě repliky ne, ale dodržovat aspoň půdorys původní stavby, nezasahovat do uliční čáry. A nedělat věci jako vikýře ve střechách a různé půdní vestavby, nepoužívat materiály, které se tam absolutně nehodí. Zlatá doba, když se v roce 95 plísnila plastová okna… To byla doba, oproti dnešku!
 
-{% photo src="https://i.ohlasy.info/p5lWnsZ.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/p5lwnsz.jpg" author="Tomáš Znamenáček" %}
 
 ### Hnědé a rudé zlo
 

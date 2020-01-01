@@ -1,7 +1,7 @@
 ---
 title: "Senátorský dotazník: Drago Sukalovský, STAN"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/uthQ1E9.jpg
+cover-photo: https://i.ohlasy.info/i/uthq1e9.jpg
 category: rozhovory
 tags:
     - senátní volby 2016
@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Drago Sukalovský, starosta Kuřimi kandidující do senátu za stranu STAN.*
 
-{% photo src="https://i.ohlasy.info/uthQ1E9.jpg" %}
+{% photo src="https://i.ohlasy.info/i/uthq1e9.jpg" %}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

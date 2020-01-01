@@ -2,7 +2,7 @@
 title: Proč je Michal David za hranicí toho, čemu by se KZMB měla věnovat
 category: názory a komentáře
 author: Jan Bařinka
-cover-photo: https://i.ohlasy.info/hQ5vw14.jpg
+cover-photo: https://i.ohlasy.info/i/hq5vw14.jpg
 tags: kultura
 ---
 

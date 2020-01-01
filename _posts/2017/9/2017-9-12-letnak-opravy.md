@@ -1,14 +1,14 @@
 ---
 title: Rekonstrukce letního kina se protahuje
 perex: Pokračování rekonstrukce boskovického letního kina se s největší pravděpodobností natáhne ještě do dalších let; do příští sezóny se přes přání diváků i kinařů nespíš opraví jen horní část kina.
-cover-photo: https://i.ohlasy.info/6Ieu5wh.jpg
+cover-photo: https://i.ohlasy.info/i/6ieu5wh.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Pokračování rekonstrukce boskovického letního kina se s největší pravděpodobností natáhne ještě do dalších let. Po ukončení předchozí etapy [volal ředitel KZMB](http://www.ohlasy.info/clanky/2017/06/letnak-stromy.html) po tom, aby se pokračovalo co nejrychleji a zejména se řešilo zázemí pro umělce dole za promítací plochou. Do příští sezóny se ale nespíš opraví jen horní část kina.*
 
-{% photo src="https://i.ohlasy.info/6Ieu5wh.jpg" caption="Letní kino" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/6ieu5wh.jpg" caption="Letní kino" author="Tomáš Trumpeš" %}
 
 Pokud příznivci boskovického letňáku doufali, že práce na dalších etapách rekonstrukce budou pokračovat ještě letos, budou zklamáni. Finance plánované v rozpočtu na rok 2017 byly vyčerpány a zářijové zastupitelstvo nedostane od vedení města žádný návrh na navýšení letošních investic do kina. Tentokrát se tedy po poslední akci sezóny na rozdíl od loňského roku pracovat v areálu nezačne.
 

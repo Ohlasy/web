@@ -10,9 +10,9 @@ why: A dummy front matter to make Jekyll process this document
     <link>https://ohlasy.info/podcast.html</link>
     <ttl>10080</ttl>
     <description>Dění na Boskovicku, záznamy debat a rozhovorů</description>
-    <image href="https://i.ohlasy.info/waibo6C.png"/>
+    <image href="https://i.ohlasy.info/i/waibo6c.png"/>
     <itunes:category text="News &amp; Politics"/>
-    <itunes:image href="https://i.ohlasy.info/waibo6C.png"/>
+    <itunes:image href="https://i.ohlasy.info/i/waibo6c.png"/>
     <itunes:author>Ohlasy</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>

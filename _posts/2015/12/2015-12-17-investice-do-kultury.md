@@ -1,7 +1,7 @@
 ---
 title: Jak kultura ostrouhala
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/8g3892g.jpg
+cover-photo: https://i.ohlasy.info/i/8g3892g.jpg
 category: názory a komentáře
 tags: kultura investice
 ---
@@ -16,11 +16,11 @@ A nic na tom nemění ani navýšení rozpočtu KZMB o pět procent, tedy navrá
 
 Smutný stav investic do kultury dokládá i následující srovnání s penězi, které do kultury vkládají jiné srovnatelně velké obce v ČR:
 
-{% photo src="https://i.ohlasy.info/IUIqORA.png" author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz" %}
+{% photo src="https://i.ohlasy.info/i/iuiqora.png" author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz" %}
 
 Jak vidíme, poslední podstatnou investicí v tomto směru byla rekonstrukce zámeckého skleníku v roce 2002; od té doby Boskovice investují do kultury spíše podprůměrně. Částka navržená pro kulturu v roce 2016 je v absolutních číslech nejnižší za posledních patnáct let (viz též [zdrojová data grafů](https://goo.gl/8W2mLY)):
 
-{% photo src="https://i.ohlasy.info/9BwP8Ou.png" author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz" %}
+{% photo src="https://i.ohlasy.info/i/9bwp8ou.png" author="Tomáš Znamenáček podle rozpocetobce.cz a statnipokladna.cz" %}
 
 Prakticky nikoho to však nezajímá, stojatou kalnou vodou mlčení jen občas proskočí rybka útržkovitého vyjádření, načež se hladina opět umrtví. K [odvážnějšímu výstupu](https://youtu.be/GTe5NLaCOiE?t=5h47m45s) se odhodlal na posledním zastupitelstvu ředitel kulturních zařízení Oldřich Kovář, za což mu náleží díl uznání. Odpovědi se mu dostalo zcela bizarní – prý to, že o tom on nic neví, ještě neznamená, že se ve věci knihovny na radnici nic neděje. No tak pokud radnice připravuje posuny v řešení dlouhodobě hrůzné situace knihovny, aniž by do toho automaticky zapojila ředitele KZMB a vedoucí knihovny, jsme na tom ještě hůř, než jsem si myslel.
 

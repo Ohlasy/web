@@ -1,7 +1,7 @@
 ---
 title: Gianniho kulturní výběr
 perex: Koncert Visacího zámku a Vypsané fiXy, adventní koncerty, množství klubových akcí, cestovatelské i jiné přednášky a besedy, vernisáže výstav – z toho všeho si můžou zájemci o kulturní dění v našem regionu v listopadu vybírat.
-cover-photo: https://i.ohlasy.info/eWNzGtG.jpg
+cover-photo: https://i.ohlasy.info/i/ewnzgtg.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura

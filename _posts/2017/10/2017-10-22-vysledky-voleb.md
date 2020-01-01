@@ -1,7 +1,7 @@
 ---
 title: V Boskovicích, na okrese i v kraji také dominovalo ANO
 perex: Přemalováním České republiky na modrou barvu hnutí ANO skončily letošní volby do Poslanecké sněmovny. Nejinak tomu bylo i v Jihomoravském kraji, dříve baště sociální demokracie, na okrese Blansko a v samotných Boskovicích.
-cover-photo: https://i.ohlasy.info/yO1nm3Y.jpg
+cover-photo: https://i.ohlasy.info/i/yo1nm3y.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Přemalováním České republiky na modrou barvu hnutí ANO skončily letošní volby do Poslanecké sněmovny. Nejinak tomu bylo i v Jihomoravském kraji, dříve baště sociální demokracie, na okrese Blansko a v samotných Boskovicích. Své pozice si dokázali alespoň se ctí udržet lidovci. Místní kandidáti na poslance uspět nedokázali.*
 
-{% photo src="https://i.ohlasy.info/yO1nm3Y.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/yo1nm3y.jpg" author="Tomáš Znamenáček" %}
 
 ### Boskovičtí kandidáti
 
@@ -25,7 +25,7 @@ Na patnáctém místě jihomoravské kandidátky Strany zelených, která ve vol
 
 Nikdo z Boskovických kandidátů mandát poslance nezískal. Dva zástupce bude mít ve sněmovně Blansko: Lenku Dražilovou z hnutí ANO a Jana Hrnčíře z Okamurovy SPD. Doteď mělo také dva, komunistku Zuzku Bebarovou-Rujbrovou a sociálního demokrata Lubomíra Toufara. Ani jeden z nich letos nekandidoval.
 
-{% photo src="https://i.ohlasy.info/2J2QmPs.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2j2qmps.png" author="Tomáš Znamenáček" %}
 
 ### Vítězství hnutí ANO
 
@@ -41,7 +41,7 @@ Totální propadák zažil v letošních volbách vítěz minulých voleb – Č
 
 Na okrese Blansko byli sociální demokraté jen kosmeticky silnější se ziskem 9,71 procent a přímo v Boskovicích překročili desetiprocentní hranici a dostali 10,65 procent hlasů. Bývalý suverén voleb skončil ve městě až čtvrtý za ANO, ODS a SPD a jen těsně před pátými Piráty.
 
-{% photo src="https://i.ohlasy.info/2qM3WKk.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2qm3wkk.png" author="Tomáš Znamenáček" %}
 
 ### Lidovci udrželi jistotu
 

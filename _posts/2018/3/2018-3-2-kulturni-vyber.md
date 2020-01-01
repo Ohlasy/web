@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na březen
-cover-photo: https://i.ohlasy.info/UR5byGS.jpg
+cover-photo: https://i.ohlasy.info/i/ur5bygs.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/UR5byGS.jpg" caption="Jana Kolmačková: Perseidy" %}
+{% photo src="https://i.ohlasy.info/i/ur5bygs.jpg" caption="Jana Kolmačková: Perseidy" %}
 
 ### Slam Poetry Exhibice
 

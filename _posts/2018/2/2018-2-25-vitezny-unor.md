@@ -1,7 +1,7 @@
 ---
 title: "Únor 1948: Jak komunisti převzali moc v Boskovicích"
 perex: Na tyto dny připadá 70. výročí od komunistického puče v únoru 1948. Známé jsou především celostátní události, jakým způsobem ale probíhalo přebírání moci v Boskovicích?
-cover-photo: https://i.ohlasy.info/tcDEvpA.jpg
+cover-photo: https://i.ohlasy.info/i/tcdevpa.jpg
 author: Marek Osouch
 category: seriály
 serial: osmicky
@@ -10,7 +10,7 @@ tags: politika
 
 *Na tyto dny připadá 70. výročí od komunistického puče v únoru 1948. Známé jsou především celostátní události, tedy rezignace nekomunistických ministrů a jejich doplnění podle návrhů Klementa Gottwalda, jakým způsobem ale probíhalo přebírání moci v Boskovicích?*
 
-{% photo src="https://i.ohlasy.info/tcDEvpA.jpg" caption="Demise demokratických ministrů v americkém filmovém týdeníku „The March of Time“" %}
+{% photo src="https://i.ohlasy.info/i/tcdevpa.jpg" caption="Demise demokratických ministrů v americkém filmovém týdeníku „The March of Time“" %}
 
 Přípravy na komunistický převrat neprobíhaly jen v Praze na centrální úrovni. Komunisté byli v únorových dnech roku 1948 aktivní také v Boskovicích, když byl dne 23. února ustaven okresní akční výbor pod vedením komunisty Františka Kaliny z Letovic. Tyto akční výbory vznikaly po celém Československu a sloužily jako samozvaný nátlakový orgán KSČ k převzetí veškeré moci ve státě.
 

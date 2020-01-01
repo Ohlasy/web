@@ -1,7 +1,7 @@
 ---
 title: Sociální problémy těžko vyřešíme útlakem
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/oDas2l4.jpg
+cover-photo: https://i.ohlasy.info/i/odas2l4.jpg
 author: Tomáš Trumpeš
 tags:
     - bezpečnost
@@ -10,7 +10,7 @@ tags:
 
 *Od počátku debaty o úpravách parčíku u autobusového nádraží se smutkem v srdci pozoruji, jak se touto debatou vine jako temná nit štítivý odpor k těm, jejichž život se odehrává převážně na ulici, neboť se ocitli bez domova. Při plánech na rekultivaci parku se debatuje o tom, jaké lavičky tam umístit, aby se na nich nedalo ležet, a jakými dalšími prostředky bezdomovcům zabránit, aby se v této lokalitě zdržovali. Aby táhli někam pryč. Ale kam? Zkrátka z očí, dál se nikdo neptá.*
 
-{% photo src="https://i.ohlasy.info/oDas2l4.jpg" %}
+{% photo src="https://i.ohlasy.info/i/odas2l4.jpg" %}
 
 Nebudeš utlačovat bezdomovce – říká prorok Jeremiáš ve Starém zákoně, který tvoří základ kultury, na které stojíme a kterou někdy tak vášnivě obhajujeme proti kulturám cizím. Nebo snad obhajujeme jen vlastní pohodlí? Mluví v této debatě především strach, sobectví a povýšenost, nebo opravdu zastáváme nějaké hodnoty? Třeba ty, které v naší kultuře položil ten, jehož příběhem pokračuje Kniha knih a jehož smrt na kříži si budeme za krátký čas připomínat? Ten, který byl vlastně také bezdomovcem, vždyť říkal, že lišky mají doupata a ptáci hnízda, ale Syn člověka nemá, kde by hlavu složil.
 

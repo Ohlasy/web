@@ -1,14 +1,14 @@
 ---
 title: Očekávaná témata roku 2019
 perex: Při ohlížení za uplynulým rokem nezbývá než konstatovat, že řadu témat a událostí bychom předem nedokázali či nemohli předpokládat. Jsou však také témata, u kterých předem očekáváme, že bude důležité je v následujícím roce sledovat.
-cover-photo: https://i.ohlasy.info/tkXfPDY.jpg
+cover-photo: https://i.ohlasy.info/i/tkxfpdy.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Při ohlížení za uplynulým rokem nezbývá v novinách stejně jako v životě než konstatovat, že řadu témat a událostí bychom předem nedokázali či nemohli předpokládat. Jsou však také témata, u kterých předem očekáváme, že bude důležité je v následujícím roce sledovat, a lze předpokládat, že budou i nadále budit zájem nás novinářů i vás čtenářů. Která témata to jsou a jaké otázky u nich vyvstávají?*
 
-{% photo src="https://i.ohlasy.info/tkXfPDY.jpg" caption="Rozestavěné centrum polytechnické výchovy" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/tkxfpdy.jpg" caption="Rozestavěné centrum polytechnické výchovy" author="Tomáš Trumpeš" %}
 
 ### Programové prohlášení nové rady
 

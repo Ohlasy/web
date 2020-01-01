@@ -1,6 +1,6 @@
 ---
 title: "Zpravodajský přehled: červenec"
-cover-photo: https://i.ohlasy.info/LZC5HUW.jpg
+cover-photo: https://i.ohlasy.info/i/lzc5huw.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 ---

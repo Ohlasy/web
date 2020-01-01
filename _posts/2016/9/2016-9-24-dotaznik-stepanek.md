@@ -1,7 +1,7 @@
 ---
 title: "Senátorský dotazník: Robert Štěpánek, Úsvit"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/WhIBQip.jpg
+cover-photo: https://i.ohlasy.info/i/whibqip.jpg
 category: rozhovory
 tags:
     - senátní volby 2016

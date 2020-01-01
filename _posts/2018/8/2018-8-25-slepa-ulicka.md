@@ -1,14 +1,14 @@
 ---
 title: Kudy vede slepá ulička
 perex: U příležitosti 50. výročí srpnové invaze byly v úterý 21. srpna na Plačkově ulici odhaleny pamětní desky připomínající oběti okupace a totalitních režimů. Publikujeme projev, který na vzpomínkové akci pronesl skaut Boris Láník.
-cover-photo: https://i.ohlasy.info/sgJCINw.jpg
+cover-photo: https://i.ohlasy.info/i/sgjcinw.jpg
 author: Boris Láník
 category: názory a komentáře
 ---
 
 *U příležitosti 50. výročí invaze armád Varšavské smlouvy do naší země byly v úterý 21. srpna na Plačkově ulici v Boskovicích na domě, ve kterém je [minigalerie Zwicker](http://www.ohlasy.info/clanky/2017/12/galerie-zwicker.html), odhaleny pamětní desky připomínající oběti okupace a totalitních režimů. Publikujeme projev, který na vzpomínkové akci pronesl skaut Boris Láník.*
 
-{% photo src="https://i.ohlasy.info/sgJCINw.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/sgjcinw.jpg" author="Tomáš Znamenáček" %}
 
 Vážené dámy, vážení pánové, jsem rád, že mohu vystoupit na této vzpomínkové akci, která podobně jako před čtyřmi lety při odhalení památníku při příležitosti výročí 25 let od Listopadu 1989, vznikla „zespodu“. Myslím tím z popudu lidí, občanů, ne tedy proto, že zde na této zdi bylo zrovna volné místo.
 

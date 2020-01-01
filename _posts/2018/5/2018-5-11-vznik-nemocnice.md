@@ -1,6 +1,6 @@
 ---
 title: "Rok 1958: Mohla stát na Čížovkách, nakonec ale nemocnice vznikla u hlavní silnice"
-cover-photo: https://i.ohlasy.info/paqYai8.jpg
+cover-photo: https://i.ohlasy.info/i/paqyai8.jpg
 perex: Boskovická nemocnice si letos připomíná kulaté výročí od svého vzniku.
 author: Marek Osouch
 category: seriály
@@ -9,7 +9,7 @@ serial: osmicky
 
 *Boskovická nemocnice si letos připomíná kulaté výročí od svého vzniku. V roce 1958 se po desetiletích plánů, jednáních a následné stavbě dočkala slavnostního otevření. Na počátku přitom ani nebylo jasné, kde vůbec vznikne. Tímto textem pokračujeme v seriálu o osmičkových výročích v Boskovicích.*
 
-{% photo src="https://i.ohlasy.info/paqYai8.jpg" caption="Otevření okresní nemocnice" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/paqyai8.jpg" caption="Otevření okresní nemocnice" author="Muzeum regionu Boskovicka" %}
 
 Zatímco teď v květnu se nemocnice dočká slavnostního zprovoznění babyboxu neboli schránky na odložené děti, před 60 lety se na místě procházeli dělníci a dokončovali na tehdejší dobu velkou investici. Obyvatelé Boskovic chodili právě v květnu 1958 na prohlídky rostoucí nemocnice, protože o slibech její stavby slyšeli roky, ale dlouhá léta se stále nic nedělo.
 
@@ -21,7 +21,7 @@ Okresní zastupitelstvo v Boskovicích (v té době byly Boskovice okresním mě
 
 Kde by mohla ale nemocnice stát? Vybrat lokalitu se ukázalo jako zásadní komplikace. Podle architekta Petra Ondráčka bylo za první republiky vytipováno pět lokalit: mezi nimi Vinohrádky, prostor u vychovatelny na dnešní Štefánikově ulici, městská jatka, která byla dole na Bílkově, prostor u dnešní Základní umělecké školy, tehdy nemocenské pojišťovny, a lokalita Dva dvory. „Dva dvory byly označeny jako ideální po stránce stavební, zdravotní i estetické,“ uvedl Petr Ondráček, který se zajímal o historii boskovické nemocnice. Především proto, že se na jejích návrzích podíleli významní architekti tehdejší doby, jako byl Bohuslav Fuchs nebo rodák z Třebětína u Letovic Bedřich Rozehnal. Když se ale sešla komise, Dva dvory byly zavrženy kvůli obtížnému přístupu, odlehlosti od města a spodní vlhkosti.
 
-{% photo src="https://i.ohlasy.info/zEpDGg6.jpg" caption="Model nemocnice na Čížovkách" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/zepdgg6.jpg" caption="Model nemocnice na Čížovkách" author="Muzeum regionu Boskovicka" %}
 
 ### Nemocnice na Čížovkách
 
@@ -37,7 +37,7 @@ Nová nemocnice měla stát v místě dnešní obalovny. V roce 1947 se začalo 
 
 Vypjatá atmosféra vyvolala neobvyklou aktivitu obcí, které neváhaly apelovat nejen u okresního národního výboru, ale formou rezoluce i na ministerstvu zdravotnictví, ministerstvu techniky a samozřejmě i na zemském úřadě. „Čím více a intenzivněji krajský úřad chápal nutnost a potřebnost zdravotnického zařízení, tím častěji vznikaly nové a nové komise se stále se měnícími předsedy a členy, tím dále a dále se termín výstavby odsunoval,“ píše se o historii nemocnice na jejím webu.
 
-{% photo src="https://i.ohlasy.info/r0ana2m.jpg" caption="Poklepání základního kamene, 2. května 1954. S kladívkem Rudolf Barák, ministr vnitra, vedle něj Rudolf Musil, předseda ONV Boskovice." author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/r0ana2m.jpg" caption="Poklepání základního kamene, 2. května 1954. S kladívkem Rudolf Barák, ministr vnitra, vedle něj Rudolf Musil, předseda ONV Boskovice." author="Muzeum regionu Boskovicka" %}
 
 ### Nemocnice u hlavní silnice
 

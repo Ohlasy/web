@@ -1,6 +1,6 @@
 ---
 title: „Společnost se mění k lepšímu. Takže i fotbal, ale bude to strašně dlouho trvat.“
-cover-photo: https://i.ohlasy.info/MGR7gQL.jpg
+cover-photo: https://i.ohlasy.info/i/mgr7gql.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: sport
@@ -8,7 +8,7 @@ tags: sport
 
 *Rozhovor s Jiřím Vorlickým, fotbalovým trenérem, osobním koučem, bývalým profesionálním fotbalistou a snad se dá říci i bývalým občanským aktivistou, který zastavil výstavbu dinoparku v Doubravách. Povídali jsme si hlavně o fotbale, od probíhajícího Eura až po nové metody výchovy mladých fotbalistů. Ale také o Doubravách, farmě a nemocné společnosti.*
 
-{% photo src="https://i.ohlasy.info/6vnAkvR.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6vnakvr.jpg" author="Tomáš Znamenáček" %}
 
 **Jirko, jak moc sleduješ Euro a jak se ti líbí fotbal, který se tam hraje?**
 
@@ -42,7 +42,7 @@ Není. A zadruhé se vrátím k té výchovné složce: tam je pro každého hr�
 
 Od 8 do 12 let je první fáze. A pak to pokračuje dál.
 
-{% photo src="https://i.ohlasy.info/Q3UCTZy.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/q3uctzy.jpg" author="Tomáš Znamenáček" %}
 
 ### Byli jsme stroje
 
@@ -96,7 +96,7 @@ Podotknul bych, že od roku 2010 se vzdělávací systém trenérů a hráčů v
 
 Ano. Málokdo, koho potkám, dělá trenéra, málokdo se o sebe dokáže postarat v normálním životě. Bavím se o opravdu vrcholových hráčích, kteří měli od 18 do 35 let smlouvu, najednou skončili s fotbalem a neví, co dělat.
 
-{% photo src="https://i.ohlasy.info/Q3UCTZy.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/q3uctzy.jpg" author="Tomáš Znamenáček" %}
 
 ### Žít hrou, ne výsledkem
 
@@ -146,7 +146,7 @@ Jak kde, ale obecně je fotbal stále sport číslo jedna. Zaprvé je velice lev
 
 Řekl bych, že holek přibývá, ale že bych toho byl nějakým velkým zastáncem, to ne. I když samozřejmě pokud chtějí hrát, ať hrají. Je to taky jenom sport.
 
-{% photo src="https://i.ohlasy.info/xhCRj5H.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xhcrj5h.jpg" author="Tomáš Znamenáček" %}
 
 ### Systém běží jen za pomoci síly
 

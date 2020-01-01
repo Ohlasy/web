@@ -1,6 +1,6 @@
 ---
 title: "Ohlasy naživo: Rozhovor s architektem Petrem Ondráčkem"
-cover-photo: https://i.ohlasy.info/IVLMOmY.jpg
+cover-photo: https://i.ohlasy.info/i/ivlmomy.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: architektura podcast

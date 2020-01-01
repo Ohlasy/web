@@ -1,14 +1,14 @@
 ---
 title: „Duchovní film je pro mě i Terminátor.“
 perex: Rozhovor o filmu a spiritualitě s Ondřejem Sabolem, původně pro evangelický časopis Na rozcestí. Ondřej se nedávno přistěhoval do Boskovic a o filmu začal psát i do Ohlasů.
-cover-photo: https://i.ohlasy.info/t0JBMwa.jpg
+cover-photo: https://i.ohlasy.info/i/t0jbmwa.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Ondřej Sabol se jako středoškolský student v Boskovicích nadchl pro film, vystudoval filmovou vědu na olomoucké univerzitě a dnes se mimo jiné věnuje webu [Film & spiritualita](http://www.filmaspiritualita.cz), což je portál shromažďující recenze a další informace o filmech s duchovním přesahem. A vztah filmu a spirituality se stal i tématem našeho rozhovoru, původně pro evangelický časopis Na rozcestí. Ondřej se nedávno přistěhoval do Boskovic a o filmu začal psát i do Ohlasů.*
 
-{% photo src="https://i.ohlasy.info/t0JBMwa.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/t0jbmwa.jpg" author="Tomáš Trumpeš" %}
 
 **Může být sledování filmu součástí duchovního života křesťana, podobně jako chození do kostela, četba duchovní literatury nebo duchovní rozhovor?**
 

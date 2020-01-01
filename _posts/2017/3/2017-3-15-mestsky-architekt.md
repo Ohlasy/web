@@ -1,6 +1,6 @@
 ---
 title: Boskovice budou mít městského architekta
-cover-photo: https://i.ohlasy.info/5MQXOUV.jpg
+cover-photo: https://i.ohlasy.info/i/5mqxouv.jpg
 perex: O zřízení pozice městského architekta rozhodli na svém prvním březnovém zasedání boskovičtí radní a vyslyšeli tak volání po odbornějším přístupu k otázkám spojeným s architekturou a urbanismem.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: architektura
 
 *Na konkrétní investiční akce i celkový rozvoj Boskovic bude od léta dohlížet městský architekt. O zřízení této pozice rozhodli na svém prvním březnovém zasedání boskovičtí radní a vyslyšeli tak volání po odbornějším přístupu k otázkám spojeným s architekturou a urbanismem. Podle starostky Hany Nedomové by město rádo získalo do svých služeb renomovaného architekta.*
 
-{% photo src="https://i.ohlasy.info/5MQXOUV.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5mqxouv.jpg" author="Tomáš Znamenáček" %}
 
 „Měla by to být nezávislá osoba a předpokládáme, že budeme oslovovat ateliéry zvučných jmen. Máme městskou památkovou zónu a další části města, kde je potřeba, aby s námi vybraný architekt spolupracoval a ráz města dostal svoji určitou formu. Jsme historické město a pozice městského architekta je pro Boskovice důležitá,“ uvedla starostka Hana Nedomová (ČSSD).
 

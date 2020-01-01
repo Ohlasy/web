@@ -1,6 +1,6 @@
 ---
 title: Boskovice investují do rozvodů tepla a kotelen 25 milionů
-cover-photo: https://i.ohlasy.info/jEQrrEb.jpg
+cover-photo: https://i.ohlasy.info/i/jeqrreb.jpg
 perex: Boskovické Služby se připravují na převzetí soustavy rozvodů a centrálních zdrojů tepla ve městě. Příští rok část kotelen propojí a nejpozději na konci roku celou soustavu převezmou.
 author: Marek Osouch
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: czt
 
 *Boskovické Služby se připravují na převzetí soustavy rozvodů a centrálních zdrojů tepla ve městě. Příští rok část kotelen propojí a nejpozději na konci roku celou soustavu převezmou. Cena tepla by tím měla klesnout zhruba o stovku na částku kolem 550 korun za gigajoul tepla.*
 
-{% photo src="https://i.ohlasy.info/jEQrrEb.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jeqrreb.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
 
 Poslední rok provozu kotelen a soustavy centrálního zásobování teplem (CZT) v Boskovicích čeká blanenskou firmu ZT Energy. Firma dodává ve městě teplo více než tisícovce domácností, od roku 2021 ale veškerá správa a dodávky přejdou na Služby Boskovice.
 

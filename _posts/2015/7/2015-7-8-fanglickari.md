@@ -1,13 +1,13 @@
 ---
 title: O Moravě a moravismu
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/19je4UC.jpg
+cover-photo: https://i.ohlasy.info/i/19je4uc.jpg
 author: Petr Vítámvás
 ---
 
 *Jan Skácel kdysi napsal krásný esej o Moravě jako o zemi, která není, a přece jenom je. Která se vyskytuje už jen v celostátních předpovědích počasí a v národních písních. A která má nejkrásnější hymnu na světě – ticho, kratičkou pauzu mezi českou a slovenskou částí hymny československé (esej napsal ještě v době existence Československa).*
 
-{% photo src="https://i.ohlasy.info/19je4UC.jpg" %}
+{% photo src="https://i.ohlasy.info/i/19je4uc.jpg" %}
 
 Po staletí byla Morava samosprávnou součástí českého státu, jako Markrabství moravské byla jednou ze zemí Koruny české, po vzniku republiky v roce 1918 zůstala nadále samosprávná jako země Moravská, respektive Moravskoslezská. Jako samosprávná země zanikla po územněsprávní reformě po Únoru 1948, kdy byla republika rozdělena na kraje, které nerespektovaly hranice historických zemí.
 

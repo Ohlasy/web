@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: cena tepla, zeleň, odpady, obsazení komisí"
-cover-photo: https://i.ohlasy.info/38aHUnO.jpg
+cover-photo: https://i.ohlasy.info/i/38ahuno.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po prvním zasedání městské rady v roce 2019. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/38aHUnO.jpg" caption="Oprav by se letos měla dočkat dětská hřiště" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/38ahuno.jpg" caption="Oprav by se letos měla dočkat dětská hřiště" author="Tomáš Trumpeš" %}
 
 ### Sběr odpadu na školách
 

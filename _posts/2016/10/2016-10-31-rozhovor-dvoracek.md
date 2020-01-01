@@ -1,7 +1,7 @@
 ---
 title: „Celá Evropa mě přesvědčila, že dobro je tak velké, že ta trocha zla to nemůže přemoct.“
 perex: Rozhovor s Karlem Dvořáčkem, který vykonal pouť do Santiaga de Compostela pěšky z Boskovic.
-cover-photo: https://i.ohlasy.info/CM6OAmK.jpg
+cover-photo: https://i.ohlasy.info/i/cm6oamk.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 featured: true
@@ -9,7 +9,7 @@ featured: true
 
 *Rozhovor s Karlem Dvořáčkem, který vykonal pouť do Santiaga de Compostela pěšky z Boskovic. Cesta dlouhá asi tři tisíce kilometrů mu trvala tři měsíce a jak říká, změnila mu život.*
 
-{% photo src="https://i.ohlasy.info/CM6OAmK.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/cm6oamk.jpg" author="Tomáš Znamenáček" %}
 
 **Jak to člověka napadne – vyrazit z Boskovic pěšky do Santiaga?**
 
@@ -39,7 +39,7 @@ Ne.
 
 Ne. Věděl jsem, že jdu do [Santiaga de Compostela](https://mapy.cz/s/1bdi4). Ještě dnes potkávám lidi, kteří ani neví, že je to ve Španělsku. To jsem já samozřejmě věděl, ale kudy půjdu, jsem nevěděl.
 
-{% photo src="https://i.ohlasy.info/W8ehLJM.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/w8ehljm.jpg" author="Tomáš Znamenáček" %}
 
 ### Jako Forrest Gump
 
@@ -61,7 +61,7 @@ Spal jsem pod širákem, ale neměl jsem moc představu, že někam půjdu a jak
 
 Kartu a peníze. Libor Sedlák mi řekl, ať si vezmu toaleťák a kartu, že to mně stačí. Karta byla na houby, půl platila a půl neplatila, a toaleťák byl úplně na houby, protože ten všude je. Ten není potřeba brát.
 
-{% photo src="https://i.ohlasy.info/kQADfUw.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/kqadfuw.jpg" author="Tomáš Znamenáček" %}
 
 ### Cesta nebem
 
@@ -115,7 +115,7 @@ Musel jsem projít dva tunely, ale nebyl tam moc velký provoz. Zákaz vstupu ta
 
 Je to možné. Švýcarsko je bohatá země, ale blíž k Francii je ten kraj už chudší. Chtěl jsem spát pod převisem, ale pak přestalo pršet, tak jsem šel dál a objevil takový domeček. Už jsem usínal a najednou zastavilo auto, mladá paní s děckem, začala na mě francouzsky. Musel jsem volat synovci, ten mi přeložil, že mě tam paní nechce nechat, protože prší, že mám jít s ní. Nespal jsem u ní, ale u jejího přítele, který měl problémy s alkoholem. Přišel o práci, začal pít, přišel o rodinu a žil sám na vesnici v třípokojovém bytě. Byl to alkoholik, ale rozdal by se. Dal by mi první poslední, akorát plakal, že má problémy s alkoholem. Já jsem neuměl říct ani *Bonjour*, *monsieur*, *Merci* a *Je suis Charlie*, *Tchécoslovaque*. To mě všechno naučil. 
 
-{% photo src="https://i.ohlasy.info/xEYp5eP.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xeyp5ep.jpg" author="Tomáš Znamenáček" %}
 
 ### Jako by mně to Bůh nachystal
 
@@ -155,7 +155,7 @@ Nenašel. Obroučky byly rozbité, takže jsem pochodoval a držel si brýle prs
 
 Už doma jsem měl tvrdé paty, a když jsem šel, měl jsem najednou krvavé mozoly. Na ponožce byl suk, a ten mi udělal puchýře. Zdeněk Paděrů mi dal na cestu konopnou mast, tím jsem si to vždycky večer natřel a hrozně se mi ulevilo. A nohy byly vláčné, ponožka taky. Synovec mi poradil, že si mám koupit vložky do bot. A pak už jsem neměl žádný problém. Nikdy mě nenapadlo: prší, je po mně, vzdám to.
 
-{% photo src="https://i.ohlasy.info/RVYna3z.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/rvyna3z.jpg" author="Tomáš Znamenáček" %}
 
 ### Dělalo mně dobře, že jsem zas kus ušel
 
@@ -189,7 +189,7 @@ To už je zase úplně jiné, turistické. Už před Pyrenejemi je hodně lidí 
 
 Někdo řekne, že by na takovou cestu nemohl jít, že na to nemá peníze. Je fakt, že kdybych nespal čtyřicet nocí pod širákem, stálo mě to třeba o 30 tisíc víc. Ale dá se to ujít všelijak. A pokud je někdo věřící a šel by to od fary k faře jako bratr Lizna, jezuitský kněz, tak by ho to nic nestálo.
 
-{% photo src="https://i.ohlasy.info/zF8VbYh.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/zf8vbyh.jpg" author="Tomáš Znamenáček" %}
 
 ### Úplně všechno je jinak
 

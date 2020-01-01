@@ -1,6 +1,6 @@
 ---
 title: "Ohlasy naživo: rozhovor s farářem Jiřím Burešem"
-cover-photo: https://i.ohlasy.info/94ff44bc.jpg
+cover-photo: https://i.ohlasy.info/i/94ff44bc.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: podcast

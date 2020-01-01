@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Co doporučujeme z festivalového programu?"
 perex: Jak se vám líbí letošní program festivalu Boskovice a co byste především doporučili navštívit? Odpovídají Kristýna Znamenáčková, Jan Bařinka a Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/AU2ZZ7d.jpg
+cover-photo: https://i.ohlasy.info/i/au2zz7d.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: kultura
@@ -9,7 +9,7 @@ tags: kultura
 
 *Jak se vám líbí letošní program festivalu Boskovice a co byste především doporučili navštívit?*
 
-<img src="https://i.ohlasy.info/kY0lo92.jpg" class="profile-picture" alt="Kristýna Znamenáčková">
+<img src="https://i.ohlasy.info/i/ky0lo92.jpg" class="profile-picture" alt="Kristýna Znamenáčková">
 
 ### Kristýna Znamenáčková
 
@@ -19,7 +19,7 @@ Z dalších akcí se pokusím neprošvihnout autorské čtení [Víta Ondráčka
 
 Nejsem úplně standardní návštěvník festivalů, který by si předem vytipoval svoje oblíbence a mezi nimi pak v přesně stanoveném harmonogramu pendloval, naopak se mi často stane, že zůstanu cestou na koncert vězet někde na půli cesty, před Kafe za rohem, v parku u zámeckého skleníku, na vyhřáté zídce zámecké zahrady, nebo se ocitnu někde, kam jsem původně vůbec nešla, a vždycky je to skvělé. Festivalová atmosféra města je pro mě asi to hlavní kouzlo celé akce, které bych asi nikdy nevyměnila za přesný plán koncertů, které nesmím prošvihnout.
  
- <img src="https://i.ohlasy.info/6ifeihV.jpg" class="profile-picture" alt="Jan Bařinka">
+ <img src="https://i.ohlasy.info/i/6ifeihv.jpg" class="profile-picture" alt="Jan Bařinka">
  
 ### Jan Bařinka
 
@@ -29,7 +29,7 @@ Přestože hudební program mě zajímá obecně nejvíc, rozhodně nezůstanu p
 
 Velmi kvalitní program bude samozřejmě i v zámeckém skleníku nebo v kině Panorama, poslední roky mi však vyhovuje pohybovat se během festivalu spíše na venkovních scénách, autorské čtení Víta Ondráčka a Královna Lfů v klášterním sklepě budou tedy představovat určitou výjimku, i když i do skleníku se budu snažit nahlédnout, přinejmenším se určitě chystám na slavnostní zahájení. Komu ale nevadí trávit festivalový čas například v kině, tomu bych velmi doporučil dokument o Martě Kubišové Magický hlas rebelky – dá se z něj pochopit mnohé nejen o nedávné historii naší země, ale především o této neuvěřitelné osobnosti české kultury.
 
-<img src="https://i.ohlasy.info/UfVVIhs.jpg" class="profile-picture" alt="Tomáš Trumpeš">
+<img src="https://i.ohlasy.info/i/ufvvihs.jpg" class="profile-picture" alt="Tomáš Trumpeš">
 
 ### Tomáš Trumpeš
 

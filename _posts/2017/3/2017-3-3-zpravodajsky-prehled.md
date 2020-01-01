@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za únor
-cover-photo: https://i.ohlasy.info/1ibZob9.jpg
+cover-photo: https://i.ohlasy.info/i/1ibzob9.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

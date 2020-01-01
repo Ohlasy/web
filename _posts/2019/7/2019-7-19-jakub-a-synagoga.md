@@ -1,7 +1,7 @@
 ---
 title: Mezi kostelem a synagogou v Boskovicích
 perex: Srovnání dvou na první pohled neporovnatelných staveb – kostela sv. Jakuba a synagogy – provedl v rámci studia předmětu Detail v architektuře student architektury na fakultě stavební brněnského VUT Jakub Hubený.
-cover-photo: https://i.ohlasy.info/NBuS2eH.jpg
+cover-photo: https://i.ohlasy.info/i/nbus2eh.jpg
 author: Jakub Hubený
 category: názory a komentáře
 tags: architektura kultura
@@ -9,7 +9,7 @@ tags: architektura kultura
 
 *Srovnání dvou na první pohled neporovnatelných staveb – kostela sv. Jakuba a synagogy – provedl v rámci studia předmětu Detail v architektuře student architektury na fakultě stavební brněnského VUT Jakub Hubený. Zajímavý text jeho studentské práce o dvou významných boskovických památkách publikujeme.*
 
-{% photo src="https://i.ohlasy.info/kwVC7c1.jpg" author="Jakub Hubený" %}
+{% photo src="https://i.ohlasy.info/i/kwvc7c1.jpg" author="Jakub Hubený" %}
 
 Kostel sv. Jakuba staršího a synagoga bezpochyby patří k nejdůležitějším památkám Boskovic. Význam je tu dán především náboženskou náplní těchto staveb a jejich historií, historickou podobou. Podoba kostela sv. Jakuba pochází z pozdní gotiky a podoba synagogy z renesance. Jejich tvář se časem přeměňovala jako dva odlišné zasazené stromy blízko sebe, které však mají propletené kořeny možná více, než si myslíme.
 

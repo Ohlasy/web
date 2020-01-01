@@ -1,6 +1,6 @@
 ---
 title: „V opozici vidím potenciál, ale s ohledem na některé osoby bude domluva těžká.“
-cover-photo: https://i.ohlasy.info/Xk6fcZM.jpg
+cover-photo: https://i.ohlasy.info/i/xk6fczm.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Rozhovor s radním za ČSSD Milanem Kolínským. Významný člen boskovické sociální demokracie se obvykle drží spíše zpátky, i rozhovor pro Ohlasy nejprve odmítal. Vzhledem k aktuálnímu napětí mezi koalicí a opozicí nakonec souhlasil. Výsledkem je obsáhlý rozhovor o podnětu na Jiřího Pevného, o vztazích koalice a opozice, o otevřenosti radnice a také o odvolání jednatele nemocnice.*
 
-{% photo src="https://i.ohlasy.info/Xk6fcZM.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xk6fczm.jpg" author="Tomáš Znamenáček" %}
 
 **Začnu od věci, která rozhýbala poslední zastupitelstvo. Proč jste se rozhodli podat podnět ke krajskému soudu ve věci posudku pana Pevného?**
 
@@ -75,7 +75,7 @@ Chtěli jsme jenom šetřit čas. Domnívám se, že nás chtěli dostat do čas
 
 Stojí to další peníze. Jen tento posudek stál přes osm tisíc, které jsme zaplatili panu Pevnému. A měli jsme informace o cenách dalších pozemků, které se prodávaly nebo jsme je prodávali i my. Takže jsme to nepovažovali zase za tak důležité. Věděli jsme, že cena se pohybuje kolem dvou tisíc úplně běžně. S ohledem na to, že je to klíčový pozemek, jsme nic špatného neudělali. Když si odečtete budovy, tak obytná budova má podle posudku cenu přes dva miliony korun, budova mlýna milion tři sta tisíc. Jsou tam další budovy – na odkoupení chatek je zájemce za pět set tisíc. Cenu toho pozemku nelze počítat tak, že vezmou 14 milionů a podělí to počtem čtverečních metrů, bez ohledu na budovy. Ze čtyř variant řešení, které jsme navrhovali, byly navíc tři, že tyto budovy zůstanou. A k jedné z nich se lidé přikláněli. 
 
-{% photo src="https://i.ohlasy.info/r5DlNFr.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/r5dlnfr.jpg" author="Tomáš Znamenáček" %}
 
 ### Další pozemky nepotřebujeme
 
@@ -149,7 +149,7 @@ Já vím, ale podle mě do doby rozhodnutí, než se strany dohodnou a jde se s 
 
 Já jsem to rozhodnutí takto neviděl.
 
-{% photo src="https://i.ohlasy.info/PkYo5to.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pkyo5to.jpg" author="Tomáš Znamenáček" %}
 
 ### Žádné další zápisy nebudou
 
@@ -252,7 +252,7 @@ To jsme zase u té zastupitelské demokracie. Komise jsou pouze poradním orgán
 
 Mě stanoviska komisí zajímají, ale není to pro mě dogma. Teď budeme třeba rušit komisi pro oceňování majetku, protože jsou s tím problémy. Při dalších prodejích a nákupech budeme chtít znalecký posudek. Včetně ceny obvyklé. A bude po diskusích, jestli za tím něco je, nebo není. Na tom vysvětluji, že rozhodnout musím já jako zastupitel, komise nemá zodpovědnost, tu mám já.
 
-{% photo src="https://i.ohlasy.info/B8I1Pwg.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/b8i1pwg.jpg" author="Tomáš Znamenáček" %}
 
 ### Otevřeně mluvit nemůžeme
 

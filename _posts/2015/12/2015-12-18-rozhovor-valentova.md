@@ -1,7 +1,7 @@
 ---
 title: „Rumunská kultura je současně tradiční i moderní, západní i východní, klasicky harmonická i romanticky bouřlivá.“
 author: Vít Boček
-cover-photo: https://i.ohlasy.info/1PofjaJ.jpg
+cover-photo: https://i.ohlasy.info/i/1pofjaj.jpg
 excerpt: "Rozhovor s PhDr. Libuší Valentovou, CSc., rodačkou z Knínic, která většinu svého života zasvětila studiu rumunské kultury a její propagaci v naší zemi. Libuše Valentová se věnuje především rumunské literatuře, vedle vlastní vědecké práce v oboru literární historie a kritiky se zabývá rovněž překlady z díla vybraných rumunských (a také francouzských) autorů."
 category: seriály
 serial: jazyk
@@ -10,7 +10,7 @@ tags: kultura
 
 *Rozhovor s PhDr. Libuší Valentovou, CSc., rodačkou z Knínic, která většinu svého života zasvětila studiu rumunské kultury a její propagaci v naší zemi. Libuše Valentová se věnuje především rumunské literatuře, vedle vlastní vědecké práce v oboru literární historie a kritiky se zabývá rovněž překlady z díla vybraných rumunských (a také francouzských) autorů. Za zásluhy o popularizaci rumunské kultury v zahraničí obdržela řadu ocenění, zejména řád Za věrné služby (v hodnosti velkodůstojník), který jí v roce 2002 udělil rumunský prezident.*
 
-{% photo src="https://i.ohlasy.info/1PofjaJ.jpg" author="archiv Libuše Valentové" %}
+{% photo src="https://i.ohlasy.info/i/1pofjaj.jpg" author="archiv Libuše Valentové" %}
 
 U příležitosti jejích 70. narozenin jsme spolu vedli korespondenční rozhovor, který se nakonec přiblížil jakési zhuštěné podobě pamětí vyprávějících o cestě intelektuála 20. stoletím.
 
@@ -58,7 +58,7 @@ Pokud šlo o francouzštinu, v těch letech neexistovalo žádné stipendium ve 
 
 V uvolněné atmosféře šedesátých let bylo dokonce možné navštěvovat přednášky dříve (a bohužel i potom) zakázaného romanisty a komparatisty Václava Černého. Jako naprosto nezapomenutelný zážitek mi v paměti zůstává návštěva francouzského filozofa Jeana-Paula Sartra a spisovatelky Simone de Beauvoir na Filozofické fakultě, tuším v roce 1964. Odehrávala se ve velké aule, naplněné k prasknutí, a přednášku i následující diskusi do češtiny tlumočil A. J. Liehm. Pokaždé když se dostanu do Paříže, zajdu na Montparnasský hřbitov a u hrobu J.-P. Sartra a jeho životní družky vzpomínám.
 
-{% photo src="https://i.ohlasy.info/74ToZFA.jpg" author="archiv Libuše Valentové" %}
+{% photo src="https://i.ohlasy.info/i/74tozfa.jpg" author="archiv Libuše Valentové" %}
 
 **Rok 1968 musel být pro Vás jistě velkým zlomem. Ukončila jste úspěšně studia, ale pár dní po Vašich 23. narozeninách vtrhly do Československa okupační armády. Jak jste tento rok prožívala?**
 
@@ -106,7 +106,7 @@ Podobně jako česká kultura má nevýhodu, že se vyjadřuje méně známým j
 
 A to jsem nechala stranou ta umění, kde slova nejsou tolik zapotřebí, a v nichž Rumuni také vynikají: tanec, pantomimu, hudbu vážnou i lidovou. Z představitelů současné kultury nejvíce obdivuji první dámu rumunské poezie Anu Blandianu (nar. 1942), u níž se neobyčejné básnické nadání a schopnost vyjadřovat lidsky důležitá témata vytříbenou formou snoubí se zásadními etickými postoji a občanskou angažovaností. Spolu s manželem, publicistou Romulem Rusanem, vytvořila z ruiny rakouskouherského vězení v maramurešském městě Sighet _Memoriál obětí komunismu a rezistence_ spojený s vědeckým centrem a letní školou pro mládež, a to bez jakékoli státní podpory. Nynější německý prezident Joachim Gauck o této instituci prohlásil, že nezná žádnou podobnou v zemích bývalého sovětského bloku. Díky přátelství a spolupráci s paní Blandianou jsme v Memoriálu před několika lety společně otevřeli československý sál, věnovaný Pražskému jaru a „sametové“ revoluci. Turistům, kteří se chystají třeba do rumunských Karpat, vřele doporučuji návštěvu Memoriálu v městě ležícím u řeky Tisy, na předválečné československo-rumunské hranici.
 
-{% photo src="https://i.ohlasy.info/W6A5miT.jpg" author="archiv Libuše Valentové" %}
+{% photo src="https://i.ohlasy.info/i/w6a5mit.jpg" author="archiv Libuše Valentové" %}
 
 **Jak se změnila situace v naší rumunistice po pádu režimu?**
 

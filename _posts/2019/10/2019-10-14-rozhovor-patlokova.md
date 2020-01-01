@@ -1,6 +1,6 @@
 ---
 title: „Eva mi řekla, že jsem ji vrátila zpět do života.“
-cover-photo: https://i.ohlasy.info/eebur4Ie.jpg
+cover-photo: https://i.ohlasy.info/i/eebur4ie.jpg
 perex: Rozhovor s Jaroslavou Patlokovou, která se už skoro 30 let přátelí s dcerou posledního boskovického rabína Evou Morris, která z Boskovic uprchla před nacisty jako desetileté děvče, z traumatu zapomněla češtinu a až díky „Jari“ Patlokové se jí podařilo navázat se svým rodištěm nové vztahy.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -11,7 +11,7 @@ tags:
 
 *Rozhovor s Jaroslavou Patlokovou, která se už skoro tři desetiletí přátelí s dcerou posledního boskovického rabína Evou Morris. Navštívila ji znovu na počátku září, převzala v Jeruzalémě městskou cenu – v Českém domě se při té příležitosti konal večer nazvaný V duchu T. G. Masaryka. Toho se účastnili i další potomci boskovických židů. S paní Patlokovou jsme mluvili především o přátelství s Evou Morris, která z Boskovic uprchla před nacisty jako desetileté děvče, z traumatu zapomněla češtinu a až díky „Jari“ Patlokové se jí podařilo navázat se svým rodným městem nové vztahy.*
 
-{% photo src="https://i.ohlasy.info/eebur4Ie.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eebur4ie.jpg" author="Tomáš Znamenáček" %}
 
 **Kdy a jak se začal psát příběh vašeho přátelství s Evou Morris?**
 
@@ -51,7 +51,7 @@ Vytočila jsem číslo a svojí tehdy ještě trochu lámanou angličtinou jsem 
 
 Ten hlas zněl smutně. Neřekla přímo, že o Boskovicích nechce mluvit, ale že už se tam nechce vracet. Že tam vzala své syny Michaela a Ámose v roce 1988, čili rok před Sametovou revolucí, a že její zkušenost byla velmi negativní, smutná. Dovedete si to představit – rok před revolucí bylo všechno zašedlé, lidé před ní zavírali dveře. Když se chtěla podívat do svého rodného domu, nebylo jí to umožněno. S tímto pocitem odlétala s klukama domů. Říkala, že má z toho špatné spaní, že ta zkušenost je až trýznivá.
 
-{% photo src="https://i.ohlasy.info/feeb8Zaf.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/feeb8zaf.jpg" author="Tomáš Znamenáček" %}
 
 **Co jste jí na to řekla?**
 
@@ -91,7 +91,7 @@ Eva byla jako člen rodiny. Vařily jsme a ona najednou řekla slovo *pohádky*.
 
 Ne. V osnovách o tom nic nebylo a málo učitelů by utrousilo byť jen pár slov.
 
-{% photo src="https://i.ohlasy.info/mieSai6W.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/miesai6w.jpg" author="Tomáš Znamenáček" %}
 
 **Jak probíhala vaše letošní návštěva Jeruzaléma a akce na ambasádě?**
 
@@ -127,7 +127,7 @@ Bydleli jsme u potomků boskovické rodiny Rabinowitz. Večer si povídali s mý
 
 Je nesmírný. Zajímá se i teď, co dělám za rozhovor, co je to za časopis, jestli bych jí pak nemohla poslat výtisk nebo stručně říct, o co se jedná.
 
-{% photo src="https://i.ohlasy.info/hei1chaG.jpg" caption="Cena města Jeruzalém" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hei1chag.jpg" caption="Cena města Jeruzalém" author="Tomáš Znamenáček" %}
 
 **Ještě jsme také neřekli, že vy jste v Jeruzalémě dostala ocenění.**
 

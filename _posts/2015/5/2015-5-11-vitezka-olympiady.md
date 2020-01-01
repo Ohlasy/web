@@ -1,14 +1,14 @@
 ---
 title: Gymnazistka Kateřina Látalová zvítězila v celostátním kole olympiády ve francouzštině
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/JkSh1ni.jpg
+cover-photo: https://i.ohlasy.info/i/jksh1ni.jpg
 author: Tomáš Trumpeš
 tags: vzdělávání
 ---
 
 *Velkého úspěchu dosáhla studentka septimy boskovického gymnázia Kateřina Látalová, která zvítězila v celostátním kole olympiády ve francouzském jazyce. Kateřina francouzštinu studuje u profesorky Ivety Juřekové, podle které se u ní snoubí výjimečný talent a výjimečná píle. Už postup do celostátního kola je pro gymnázium velkým úspěchem, vítězství je zcela ojedinělé.*
 
-{% photo src="https://i.ohlasy.info/JkSh1ni.jpg" %}
+{% photo src="https://i.ohlasy.info/i/jksh1ni.jpg" %}
 
 „Naše gymnázium se účastní velké spousty soutěží, máme aktivní studenty i pedagogy. V mnoha soutěžích zaznamenáváme vítězství i v těch nejvyšších kolech. Pokud mluvíme o olympiádách pod hlavičkou ministerstva školství, musím říct, že dostat se do celostátního kola je obrovský úspěch. To, co se podařilo Katce, tedy postoupit z prvního místa v kraji a vyhrát i kolo celostátní, je opravdu jedinečné a výjimečné. Je dobré si uvědomit, že jsme malá škola a francouzština je až druhý jazyk. Nemáme lektora ani konverzaci, časová dotace je 3 hodiny týdně. Katka soutěžila v kategorii určené pro studenty s více než třemi roky studia francouzštiny nebo více než dvanácti hodinami výuky týdně, se studenty, které doprovázeli jejich francouzští lektoři,“ vysvětlila Kateřinina francouzštinářka Iveta Juřeková.
 

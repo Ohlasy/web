@@ -1,7 +1,7 @@
 ---
 title: Nový majitel pozemku na Absolonově dál brání propojení s cestou ke hřbitovu
 perex: "Ani po 20 letech od ukončení výkupů a směn pozemků není Absolonova ulice průjezdná a zřejmě ani nebude: klíčový pozemek odmítá jeho nový majitel městu prodat."
-cover-photo: https://i.ohlasy.info/QkeN1Q1.jpg
+cover-photo: https://i.ohlasy.info/i/qken1q1.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: doprava
@@ -9,7 +9,7 @@ tags: doprava
 
 *Ani po dvaceti letech od ukončení výkupů a směn pozemků není Absolonova ulice průjezdná. Stále chybí poslední metry – a budou i nadále, protože klíčový pozemek odmítá jeho nový majitel městu prodat.*
 
-{% photo src="https://i.ohlasy.info/QkeN1Q1.jpg" caption="Konec Absolonovy ulice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/qken1q1.jpg" caption="Konec Absolonovy ulice" author="Tomáš Trumpeš" %}
 
 V klidné ulici na okraji Boskovic s výhledem na les Doubravy bydlí někteří už takřka patnáct let. Pozemky pro ulici posléze pojmenované po badateli v Moravském krasu Karlu Absolonovi začalo město vykupovat už v roce 1996, jenže dodnes ulice není průjezdná, jak se původně předpokládalo.
 
@@ -21,7 +21,7 @@ Jedním z nových majitelů se stal Vojtěch Havíř; ze slov Pavla Musila lze v
 
 Původně ještě s minulým vedením, se kterým bylo domluveno, jaké pozemky si vzájemně vymění. Záměr schválili zastupitelé, ale než došlo k potvrzení směny prostřednictvím smlouvy, změnilo se vedení Boskovic, které začalo s Vojtěchem Havířem jednat znovu. Chtělo od něj získat směnou ještě část dalšího pozemku, který potřebuje k prodloužení ulice.
 
-{% photo src="https://i.ohlasy.info/B9gLQ4J.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/b9glq4j.png" author="Mapy.cz" %}
 
 „Nově bylo dohodnuto, že z důvodu možnosti budoucího propojení ulice Absolonovy s cestou, která vede ke hřbitovu, se smění ještě část dalšího pozemku, aby se v budoucnu mohlo plynule navázat,“ vysvětloval změnu směny na schůzi zastupitelů letos v únoru Pavel Musil. Na doplnění směny Vojtěch Havíř přistoupil a zastupitelé v červnu schválili i smlouvu. Čeká se jen na podpisy jednotlivých stran.
 

@@ -2,7 +2,7 @@
 title: Gianniho kulturní výběr na prosinec
 perex: Nová podoba kulturní rubriky přináší několik tipů na zajímavé akce v regionu, které by bylo škoda minout.
 author: Jan Bařinka
-cover-photo: https://i.ohlasy.info/ZNYKas1.jpg
+cover-photo: https://i.ohlasy.info/i/znykas1.jpg
 category: zpravodajství
 tags: kultura
 ---

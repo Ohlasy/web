@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na březen
-cover-photo: https://i.ohlasy.info/9aMn5qd.jpg
+cover-photo: https://i.ohlasy.info/i/9amn5qd.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/9aMn5qd.jpg" caption="Další scénické čtení z cyklu Listování představí knihu Svatá Barbora v podání Petry Bučkové a Alana Novotného za účasti autora Marka Šindelky." %}
+{% photo src="https://i.ohlasy.info/i/9amn5qd.jpg" caption="Další scénické čtení z cyklu Listování představí knihu Svatá Barbora v podání Petry Bučkové a Alana Novotného za účasti autora Marka Šindelky." %}
 
 ### Přednášky o cestování: Hory, pouště a tak
 

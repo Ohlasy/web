@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Téměř zapomenutý divadelník Emanuel Raul"
-cover-photo: https://i.ohlasy.info/bGzKEgt.jpg
+cover-photo: https://i.ohlasy.info/i/bgzkegt.jpg
 perex: Anebo chcete-li, tak raději Emanuel Friedman. Pod tímto jménem se totiž narodil 13. května roku 1845 v Boskovicích do rodiny židovského obchodníka.
 author: Helena Janíková
 category: seriály
@@ -12,7 +12,7 @@ tags:
 
 *Anebo chcete-li, tak raději Emanuel Friedman. Pod tímto jménem se totiž narodil 13. května roku 1845 v Boskovicích do rodiny židovského obchodníka. S touto osobností jsem se nikdy nesetkala, upozornila mne na ni až paní Ludmila Mazánková z Boskovic.*
 
-{% photo src="https://i.ohlasy.info/bGzKEgt.jpg" %}
+{% photo src="https://i.ohlasy.info/i/bgzkegt.jpg" %}
 
 A tak jsem se vydala po stopách Emanuelovy životní dráhy, která zpočátku nebyla nijak excelentní. S nevalným prospěchem navštěvoval brněnskou reálku a poté jeden rok brněnskou techniku. Jelikož se mu na studiích evidentně nedařilo, vrátil se do otcova obchodu v Boskovicích. Roku 1862 však opouští obchod i rodné město a odchází natrvalo k divadlu. Počet jeho štací je neuvěřitelný, od Prahy přes České Budějovice, Linec, Klagenfurt, Oděsu, Bukurešť, Lublaň až po Vídeň, kde na čas zakotvil v Theater an der Wien (Vídeňka) a vystupoval jako milovník v převážně operetním repertoáru. Roku 1877 založil vlastní divadelní společnost, brzy poté však začala jeho ředitelská kariéra v divadlech v Šoproni a Prešpurku, o které se však žádné zprávy nezachovaly. Pronajímal si vždy dvě divadla, jedno celoroční a jedno s letním provozem, jeho aktivity však nebylo možné sledovat v plném rozsahu.
 

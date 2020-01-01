@@ -1,7 +1,7 @@
 ---
 title: Živá kultura na menších městech potřebuje hlavně zázemí
 perex: Plány na vznik stálého divadla ve zcela nových prostorách v Blansku vzaly zasvé. S potopením každého dalšího záměru stvrzujeme, že podpora živé kultury je tristní.
-cover-photo: https://i.ohlasy.info/A0XZF3h.jpg
+cover-photo: https://i.ohlasy.info/i/a0xzf3h.jpg
 category: názory a komentáře
 author: Tomáš Trumpeš
 tags: kultura divadlo
@@ -9,7 +9,7 @@ tags: kultura divadlo
 
 *Plány na vznik stálého divadla ve zcela nových prostorách v Blansku [vzaly zasvé](http://www.blansko.cz/clanky/2016/11/rada-mesta-nedoporucila-vystavbu-divadla-na-nam-republiky). Neznám podrobnosti návrhu a sama tato myšlenka se opravdu může jevit jako přemrštěná. I tak se však společně s ní opět vynořila otázka, co vlastně jako společnost děláme pro podporu takzvané živé kultury. Odpověď zní, že ta podpora je takřka nulová. S potopením každého dalšího záměru tuto nulu znovu stvrzujeme. A to je samo o sobě tristní.*
 
-{% photo src="https://i.ohlasy.info/A0XZF3h.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/a0xzf3h.jpg" author="Tomáš Znamenáček" %}
 
 Pokládám dlouhodobě za nešťastné, když se proti sobě staví a do jakéhosi konkurenčního boje se pouští oblasti, které si zaslouží podporu stejně nezpochybnitelně. Kupříkladu sport a kultura. Ještě bizarnější je vytvářet takový konflikt uvnitř kultury samotné, přesto se toho dopustím. Živá kultura je na tom totiž oproti té, která pečuje o kulturní dědictví, ještě o poznání hůře. To je ale velmi krátkozraké, kultura je neustálý a proměnlivý proces, a pokud neposkytneme životní prostor tomu, co chce dnes vyrůstat, neudržíme ani to, co jsme zdědili – ztratíme kulturnost jako takovou, ztratíme cit i schopnost ji rozeznávat a vnímat. A navíc by nás kulturní dědictví mělo zavazovat k tomu, abychom ho rozvíjeli.
 

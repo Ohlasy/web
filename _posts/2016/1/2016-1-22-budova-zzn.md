@@ -1,6 +1,6 @@
 ---
 title: Budova ZZN má pro knihovnu řadu předpokladů, ale mohla by se i zbourat
-cover-photo: https://i.ohlasy.info/BznGzf7.jpg
+cover-photo: https://i.ohlasy.info/i/bzngzf7.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: knihovna architektura investice
@@ -8,7 +8,7 @@ tags: knihovna architektura investice
 
 *Budova bývalého ZZN na ulici kapitána Jaroše, dnes sídlo Mountfieldu a prodejny nábytku Idyla, je stále asi nejzvažovanější variantou pro řešení nových prostor pro boskovickou knihovnu. Ta sídlí už devatenáct let v provizoriu – v přízemí budovy takzvaného okresňáku, tedy dříve okresního, nyní městského úřadu. Hlavní výhody budovy ZZN jsou v dostatečném počtu potřebných čtverečních metrů a kýžené poloze v centru města.*
 
-{% photo src="https://i.ohlasy.info/BznGzf7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bzngzf7.jpg" author="Tomáš Znamenáček" %}
 
 „Je to pro nás ideální místo,“ [komentoval přesun do ZZN ředitel KZMB Oldřich Kovář](/clanky/2016/01/knihovna.html) s tím, že tuto variantu stále preferuje. Podobně se vyjadřovala už v roce 2010, kdy odcházela do důchodu, bývalá vedoucí knihovny Jitka Moráňová. „Nejvíc lituju budovy ZZN, která se pro knihovnu koupila za starosty Josefa Dohnálka. Tato budova se nám zdála vhodná, viděla jsem knihovny v podobných prostorách, myslím, že architekt by ty dva velké prostory dokázal vhodně vyřešit,“ [uvedla tehdy pro regionální noviny Boskovicko](http://stare.boskovicko.cz/cislo.phtml?iss_id=401#art_13617).
 
@@ -16,11 +16,11 @@ Budova byla skutečně pro knihovnu na začátku století kupována, s tímto z�
 
 Budova ZZN se postavila na začátku 80. let jako prodejna domácích potřeb. V obou patrech je celkem 1 391 metrů čtverečních užitné plochy. Pro srovnání: dnes má knihovna k dispozici 550 metrů čtverečních. Podle vedoucího odboru investic boskovické radnice Petra Zouhara nesměřovaly v posledních letech do budovy větší investice. Vážné technické problémy zde nejsou, problémem je především vysoká energetická náročnost objektu, především vysoké náklady na topení.
 
-{% photo src="https://i.ohlasy.info/dvc7wtf.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/dvc7wtf.png" author="Mapy.cz" %}
 
 K největším výhodám budovy ZZN tedy patří dobrá poloha, potřebná plocha i dostatek místa pro parkování. Dále pak dostatečně silná konstrukce, která by měla bez problémů zvládnout potřebné zatížení. Ozývají se však také hlasy, kterým se řešení problému knihovny přesunem do ZZN nelíbí. Kupříkladu bývalý šéf boskovického kina Radek Pernica. „Už jsme knihovnu nastěhovali do hospodářského dvora, potom do kuchyně, jídelny, společenského sálu a podia, a teď ji nastěhujeme do budovy normalizační prodejny? To jsme v Boskovicích tak neschopní, že neumíme postavit knihovnu? Zřejmě ano a to není dobrá zpráva. Anebo to není o neschopnosti, ale o odvaze udělat něco riskantního, velkého a nového,“ vyjádřil se v diskusi o knihovně dnešní ředitel univerzitního kina Scala.
 
-{% photo src="https://i.ohlasy.info/Ttm2JL2.jpg" author="ČÚZK" %}
+{% photo src="https://i.ohlasy.info/i/ttm2jl2.jpg" author="ČÚZK" %}
 
 *Pozemky v okolí ZZN; červeně vyznačené patří městu Boskovice.*
 

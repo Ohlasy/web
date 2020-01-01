@@ -1,7 +1,7 @@
 ---
 title: „Boskovická spojka? Pokud nás budou chtít převálcovat, tak nás převálcují.“
 perex: Rozhovor se starostou Lhoty Rapotiny Michalem Sedlákem (ODS) o Boskovické spojce, přímém vlakovém spojení Boskovic a Brna.
-cover-photo: https://i.ohlasy.info/jTGdavt.jpg
+cover-photo: https://i.ohlasy.info/i/jtgdavt.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika spojka doprava železnice
@@ -9,7 +9,7 @@ tags: politika spojka doprava železnice
 
 *Rozhovor se starostou Lhoty Rapotiny Michalem Sedlákem (ODS). Ve Lhotě Rapotině nedávno proběhlo referendum o Boskovické spojce, ve kterém se lidé postavili proti nové železnici. Tento projekt přímého vlakového spojení Boskovic a Brna se stal hlavním tématem našeho rozhovoru.*
 
-{% photo src="https://i.ohlasy.info/jTGdavt.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jtgdavt.jpg" author="Tomáš Znamenáček" %}
 
 **Boskovická spojka má umožnit přímé vlakové spojení Boskovic a Brna. Co si obecně o tomto záměru myslíte?**
 
@@ -83,7 +83,7 @@ Jasně, logicky… Bohužel to tak je.
 
 Ten dokument bych chtěl vidět. Nikdy ho nikdo neviděl. Řekla to paní starostka – jestli ten dokument má, ať ho ukáže. Mě překvapilo, že to řekla, přeptal jsem se lidí, kteří by o tom mohli vědět, nikdo mi o tom nedokázal nic říct a v žádném zápisu se o tom nemluví. *(Pod memorandem skutečně [podpis Lhoty Rapotiny není](http://www.boskovice.cz/starosta-podepsal-memorandum-o-boskovicke-spojce/d-22978), pozn. red.)*
 
-{% photo src="https://i.ohlasy.info/OLrr1x5.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/olrr1x5.jpg" author="Tomáš Znamenáček" %}
 
 ### Žádná ukřičená skupinka
 
@@ -153,7 +153,7 @@ Jednak z té dimenze a z toho, kolik prostoru to ukousne. Jedna věc je spojka a
 
 Setkání se zúčastnilo první den nějakých sto lidí. Druhý den už to bylo o něco slabší a částečně tam byl přesah – lidi napadly nějaké dotazy a přišli znovu. Lidé získali informace a v referendu se mohli vyjádřit. Byl jsem rád, že to proběhlo, nikdo nás nemohl obvinit, že jsme něco zmanipulovali a lidé neměli informace. Kdo měl zájem, to viděl, a přesto to rozhodnutí dopadlo tak, jak dopadlo.
 
-{% photo src="https://i.ohlasy.info/rMQyHDo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/rmqyhdo.jpg" author="Tomáš Znamenáček" %}
 
 ### 1,8 miliardy můžeme strčit jinam
 

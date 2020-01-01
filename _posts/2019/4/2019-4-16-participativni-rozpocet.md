@@ -1,7 +1,7 @@
 ---
 title: Piráti představili záměr participativního rozpočtu
 perex: Boskovičtí Piráti představili veřejnosti na setkání na radnici základní myšlenku a fungování takzvaného participativního rozpočtu, kdy se část městských financí vyhradí pro projekty navržené občany a rozdělí se na základě veřejného hlasování.
-cover-photo: https://i.ohlasy.info/O61CgBe.jpg
+cover-photo: https://i.ohlasy.info/i/o61cgbe.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika rozpočet
@@ -9,7 +9,7 @@ tags: politika rozpočet
 
 *Boskovičtí Piráti představili veřejnosti na setkání na radnici základní myšlenku a fungování takzvaného participativního rozpočtu, kdy se část městských financí vyhradí pro projekty navržené občany a rozdělí se na základě veřejného hlasování. Model přijel prezentovat náměstek brněnské primátorky Tomáš Koláčný. Konkrétní návrh parametrů pro Boskovice místní Piráti teprve připraví.*
 
-{% photo src="https://i.ohlasy.info/O61CgBe.jpg" caption="Tomáš Koláčný, náměstek brněnské primátorky" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/o61cgbe.jpg" caption="Tomáš Koláčný, náměstek brněnské primátorky" author="Tomáš Trumpeš" %}
 
 Participace znamená účast, případně podílení se na něčem. A právě to je i smyslem participativního rozpočtu. „Radnice vyhradí peníze a občané mohou navrhovat projekty. Silné je na tom to, že sami občané pak v hlasování rozhodují i o tom, které projekty budou realizované. Cílem je vtáhnout občany do dialogu o utváření místa, kde žijí,“ vysvětlil stručně princip participativního rozpočtu zastupitel za Piráty Jan Nádvorník.
 

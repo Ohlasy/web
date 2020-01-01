@@ -1,7 +1,7 @@
 ---
 title: Zeleň je jedna z hlavních vizitek města
 perex: Zeleň v sídlech a celková upravenost prostředí působí prvním dojmem na každého návštěvníka a dlouhodobě na každého obyvatele. Utváříme své prostředí a ono pak ovlivňuje nás.
-cover-photo: https://i.ohlasy.info/XvDDBol.jpg
+cover-photo: https://i.ohlasy.info/i/xvddbol.jpg
 author: Martina Lukešová
 category: názory a komentáře
 tags: zeleň
@@ -9,13 +9,13 @@ tags: zeleň
 
 *Zeleň v sídlech a celková upravenost prostředí působí prvním dojmem na každého návštěvníka a dlouhodobě na každého obyvatele. Utváříme své prostředí a ono pak ovlivňuje nás. Je to vzájemné a vždy se v budoucnu projeví vcítění a odbornost těch, kteří navrhují nové výsadby a stejně tak těch, kteří se o ně starají.*
 
-{% photo src="https://i.ohlasy.info/XvDDBol.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xvddbol.jpg" author="Tomáš Znamenáček" %}
 
 Zeleň ve městě má mnoho důležitých funkcí pro obyvatele i pro ochranu přírody a krajiny. Mezi nejdůležitějšími je nutné jmenovat vytváření příjemného klimatu pro bydlení, odpočinek a hygienu prostředí, protože zeleň včetně travnatých ploch zadržuje prach a hluk z ulice. Snižuje teplotu v letních měsících, kdy je město přehříváno. Zeleň zachycuje vodu a zabraňuje záplavám a sesuvům půdy hlavně ve svažitých terénech. Zahradní architektura neodmyslitelně patří k naším stavbám a navíc tvoří jedinečný dojem a podporuje pocit sounáležitosti, klidu a pohody.
 
 Mnohdy si ale neuvědomujeme, že údržba veřejné zeleně je velice náročná a odborná práce. Nejde o to jen rostliny vysadit a slavnostně se u nich vyfotit. S výsadbou přichází dlouholetá péče a u některých případů je to práce počítaná na stovky let. Navíc není výsadba dřevin, zvláště některých okrasných druhů, levnou záležitostí. Náklady na celkovou výsadbu vzrostlejšího parkového stromu, který se běžně vysazuje do městské zeleně, se pohybují od pěti do deseti tisíc. A následná péče, do které musíme počítat závlahu, pravidelný řez, údržbu opor a odstranění podrostů, dále pak vazby v korunách a další speciální údržby, dosahuje každoročně nemalých částek. Navíc je opravdu velice důležité, aby se tato práce dělala kvalitně. Například při neodborné práci s křovinořezem lze strunou totálně zničit kmeny stromů, jako se to například stalo na Hybešově ulici, kde je následkem toho zhruba třetina štědřencového stromořadí odkázána k velice krátkému životu:
 
-{% photo src="https://i.ohlasy.info/dCVMI6t.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/dcvmi6t.jpg" author="Tomáš Trumpeš" %}
 
 Jsme zodpovědní za výsadby, údržby i zánik dřevin, o kterých už malé děti vědí, že jsou pro náš život hodně důležité. Jejich vliv a význam zatím neumíme dobře spočítat ani přesně pojmenovat. A nemyslím tím záchranu každého keříku za každou cenu. Myslím smysluplné hospodaření a investice do budoucnosti. V zeleni jsou to investice, které nemají okamžitý efekt. V ochraně přírody a krajiny se návratnost počítá na generace, nikoli na volební období. 
 
@@ -23,7 +23,7 @@ Tím, že je veřejná zeleň určená pro velkou skupinu obyvatel s různými n
 
 V posledních deseti letech se však v Boskovicích děje opak. I přes obecné zvyšování cen energií a materiálů se do zeleně investuje méně – viz následující graf ([zdrojová data](https://docs.google.com/spreadsheets/d/1Tm5bKXWiENvHNEQEZYAKfcZ3ZxQk0ZMEjmtcZWojxPQ/edit?usp=sharing); výkyv v roce 2010 způsobila získaná dotace).
 
-{% photo src="https://i.ohlasy.info/cIGVcer.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/cigvcer.png" author="Tomáš Znamenáček" %}
 
 Z mého pohledu a zkušeností se docela divím, že je ještě vůbec možné za těchto podmínek údržbu zeleně vykonávat, když víme, že to dělá soukromá firma a ne dobročinná organizace. Aktuálně je to firma AB Facility z Prahy, která před čtyřmi roky vyhrála výběrové řízení, a to na základně nejnižší nabídky. Letos bychom tedy měli sledovat, jestli tato firma svůj post ve výběrovém řízení obhájí. Z osobního pozorování vidím, že jim nelze upřít snahu, a to hlavně díky zkušené vedoucí, která dříve pracovala pro firmu Šmelcovna a dobře zná místní podmínky. Čemu se ale divím hodně, je, že se ještě najdou lidé, kteří jsou ochotní za takových podmínek pracovat, a obdivuji, že vykonávají ještě docela slušnou práci. Troufám si tvrdit, že to nepůjde věčně. 
 

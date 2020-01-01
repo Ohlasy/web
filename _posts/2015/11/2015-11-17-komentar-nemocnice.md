@@ -1,6 +1,6 @@
 ---
 title: Zlepšení komunikace se neobejde bez vysvětlování závažných kroků
-cover-photo: https://i.ohlasy.info/27QCvgR.jpg
+cover-photo: https://i.ohlasy.info/i/27qcvgr.jpg
 author: Marek Osouch
 category: názory a komentáře
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Dvě ze současných koaličních stran v Boskovicích kandidovaly v loňských volbách s heslem změny, nového a transparentnějšího fungování města. Zatímco na jedné straně vidíme setkání s veřejností ohledně využití jámy na Slovákově nebo ke sportparku v Doubravách, na druhé straně přijde jako blesk z čistého nebe odvolání jednatele Nemocnice Boskovice. A důvod? Po něm nikomu nic není.*
 
-{% photo src="https://i.ohlasy.info/27QCvgR.jpg" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/27qcvgr.jpg" author="Jaroslav Parma" %}
 
 „Ztratil důvěru členů rady města. Umožňuje nám to zákon o obchodních korporacích.“ To jsou dvě věty a dva takzvané důvody pro odvolání jednatele boskovické nemocnice Dana Navrátila. Po třech týdnech jsme se nic nového nedozvěděli, ale jen sílí spekulace, proč k tomu došlo. Pokud jsou  důvody tak závažné, čekám, že jsou i jasně prokazatelné. Proč je pořád radní tají? Bojí se něčeho?
 

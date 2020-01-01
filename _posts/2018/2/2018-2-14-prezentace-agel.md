@@ -1,14 +1,14 @@
 ---
 title: "Zastupitelé se seznámili s prezentací Agelu"
 perex: Ohlasy na neveřejné jednání zastupitelů a rozhovor s předsedou představenstva Agelu
-cover-photo: https://i.ohlasy.info/jgEa7di.jpg
+cover-photo: https://i.ohlasy.info/i/jgea7di.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Prezentaci firmy Agel, která by měla zájem provozovat boskovickou nemocnici, si na neveřejném semináři vyslechli boskovičtí zastupitelé. Zúčastnilo se jich celkem 20 z 27, jako celek odmítl účast klub Sportovců. Jejich šéf Radek Mazáč se pro Ohlasy vyjádřil, že Sportovci svou absencí dali najevo nesouhlas s neveřejným jednáním.*
 
-{% photo src="https://i.ohlasy.info/jgEa7di.jpg" caption="Nemocnice Boskovice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jgea7di.jpg" caption="Nemocnice Boskovice" author="Tomáš Znamenáček" %}
 
 Podle starostky Hany Nedomové (ČSSD) si zastupitelé pouze vyslechli prezentaci firmy. „Na využití nabídky jsme se nedomlouvali,“ uvedla starostka a doplnila, že v plánu nejsou ani další jednání. „Myslím, že to není otázkou pro toto vedení města,“ řekla boskovická starostka s poukazem na to, že všechny politické strany měly ve svých programech, že nemocnice má zůstat veřejnou institucí. Změnu by tak podle ní mohlo přinést až případné nové vedení města po podzimních komunálních volbách, pokud by někdo s variantou pronájmu nemocnice soukromníkovi v programu přišel. V ČSSD tuto otázku pro program na příští volební období zatím nediskutovali.
 

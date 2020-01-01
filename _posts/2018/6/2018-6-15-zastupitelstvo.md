@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: konec nafuko­vačky, peníze pro nemocnici a konflikt zastupitelů"
-cover-photo: https://i.ohlasy.info/gJkUV4y.jpg
+cover-photo: https://i.ohlasy.info/i/gjkuv4y.jpg
 perex: Nejvýznamnějším rozhodnutím, které zastupitelé učinili, bylo ukončení snah o pořízení přetlakové sportovní haly.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: politika
 
 *Boskovické zastupitelstvo zvolené v roce 2014 se sešlo ke svému předposlednímu jednání. Nejvýznamnějším rozhodnutím, které zastupitelé učinili, bylo ukončení snah o pořízení přetlakové sportovní haly. Schůze skončila ostrou výměnou názorů mezi Radkem Mazáčem (Sportovci) a Milanem Kolínským (ČSSD).*
 
-{% photo src="https://i.ohlasy.info/gJkUV4y.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/gjkuv4y.jpg" author="Tomáš Trumpeš" %}
 
 Začátek zastupitelstva se naopak nesl v klidném duchu. V bodě věnovaném dotazům a připomínkám zastupitelů se neozval nikdo z občanů.
 

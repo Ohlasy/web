@@ -1,6 +1,6 @@
 ---
 title: "PŘEDVOLEBNÍ ANKETA: Sport"
-cover-photo: https://i.ohlasy.info/iAZG6qD.jpg
+cover-photo: https://i.ohlasy.info/i/iazg6qd.jpg
 perex: Anketa s kandidáty jednotlivých stran a hnutí kandidujících v boskovických komunálních volbách. Tentokrát na téma sport.
 author: Tomáš Trumpeš
 category: ankety
@@ -11,13 +11,13 @@ tags: politika volby2018
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/YdJjjDM.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/ydjjjdm.jpg" alt="" />
 
 **ČSSD – Karel Ošlejšek**
 
 Od vedení města v následujícím volebním období očekávám pokračování řešení realizace sportovního areálu Červená zahrada v návaznosti na zpracovanou Koncepci sportu a Územní plán města s cílem zajištění dalšího rozvoje sportu v této lokalitě. Podporuji zahájení výstavby multifunkční haly s regulérními rozměry hrací plochy pro všechny halové sporty provozované v Boskovicích a vznik dalších sportovišť pro rozvoj nových sportů. Při řešení obnovy atletického oválu je třeba přemýšlet nejen o zajištění běžeckých disciplín, ale také o vytvoření podmínek umožnujících trénink disciplín skokanských a vrhačských. Jako důležitá se mi jeví také podpora trenérů oddílů dětí a mládeže, výstavba a revitalizace dětských hřišť. V neposlední řadě je třeba podpořit vytváření speciálních sportovních programů pro seniory za zvýhodněných podmínek podobně, jako je tomu zejména ve skandinávských zemích.
 
-<img class="profile-picture" src="https://i.ohlasy.info/wSOufXB.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/wsoufxb.jpg" alt="" />
 
 **STAN a Sportovci Boskovice – Filip Jimramovský**
 
@@ -25,7 +25,7 @@ Od nového vedení města očekávám, že po několika letech konečně dokonč
 
 Hlavní úkol vidíme ve výstavbě sportovní haly, a to v co nejkratším termínu. Naše řešení se nemění, stále prosazujeme sportovní halu u základní školy Sušilova. Současně s vybudováním haly u základní školy Sušilova navrhujeme rekonstrukci objektu jízdárny s jejím využitím pro další sálové sporty. Dalším důležitým úkolem bude také dopracování koncepce areálu Červené zahrady.
 
-<img class="profile-picture" src="https://i.ohlasy.info/tn3S691.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/tn3s691.jpg" alt="" />
 
 **ODS – Radek Stříž**
 
@@ -33,13 +33,13 @@ Dobudovat sportoviště na takovou úroveň, aby začalo aktivně sportovat ješ
 
 Dále se chci zaměřit na vznik projektu pro maminky a předškolní děti, který se bude soustředit na pohybovou průpravu našich nejmenších formou her a zábavy. Zde bych viděl prostor k navázání spolupráce s mateřskými centry a všezájmovými kroužky. Také zde je nutno dořešit otázku vhodných sportovišť i pro ty nejmladší děti.
 
-<img class="profile-picture" src="https://i.ohlasy.info/9lh1CHQ.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/9lh1chq.jpg" alt="" />
 
 **Volba pro Boskovice s podporou TOP 09 – František Učeň**
 
 Očekáváme především podporu mládežnického sportu, zlepšení podmínek pro sportovní oddíly. Uvítal bych také větší podporu při získávání finančních prostředků na činnost oddílů od státu. Za hlavní úkoly považuji výstavbu nové sportovní haly, kde jednoznačně podporuji umístění u ZŠ Sušilova z důvodu využitelnosti v dopoledních hodinách žáky ZŠ. Ve spolupráci se sportovní komisí a zástupci sportovních oddílů zpracovat koncepci rozvoje Červené zahrady včetně postupného výkupu potřebných pozemků. Zde navrhuji vybudování atletického oválu a rozšíření tenisových kurtů včetně kvalitního zázemí pro tyto sporty. Měl by se zde najít prostor i pro alternativní sporty (skatepark, inlajnová dráha, horolezecká stěna). Vím, že všechny projekty nelze řešit současně, ale měla by se najít shoda napříč stranami, vytvořit časový plán a postupně jednotlivé akce realizovat. Podpořil bych i aktivitu sportovních oddílů při organizování větších sportovních akcí, sloužících k propagaci sportu ve městě.
 
-<img class="profile-picture" src="https://i.ohlasy.info/lnN856O.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/lnn856o.jpg" alt="" />
 
 **ANO 2011 – Pavel Šafář**
 
@@ -49,7 +49,7 @@ V oblasti sportu stále zůstává několik nedořešených restů. Jedním z ni
 
 V našem hnutí fandíme netradičním sportům. Počítáme tak s výstavbou workoutového hřiště. Rádi bychom nalezli vhodné prostory k výstavě skateparku a lezecké stěny.
 
-<img class="profile-picture" src="https://i.ohlasy.info/yPE8Z0p.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/ype8z0p.jpg" alt="" />
 
 **Piráti – Jan Nádvorník**
 
@@ -59,7 +59,7 @@ Obě aktuální možností s sebou nesou řadu kladů i záporů, řešení nen�
 
 Dalšími projekty hodnými podpory a zdárného dokončení jsou rozhodně výstavba horolezecké stěny nebo propojení cyklostezek končících na periferii s centrem města, které je momentálně k cyklistům velmi nevlídné.
 
-<img class="profile-picture" src="https://i.ohlasy.info/yRmqoly.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/yrmqoly.jpg" alt="" />
 
 **KDU-ČSL – Michal Knödl**
 
@@ -67,7 +67,7 @@ Od vedení města očekávám, že bude nadále pokračovat v podpoře sportovn�
 
 Jedním z hlavních úkolů by měl být posun v rozvoji Červené zahrady jakožto hlavního sportovního komplexu, a v souvislosti s tím je třeba se intenzivně zabývat otázkou výstavby zázemí pro halové sporty.
 
-<img class="profile-picture" src="https://i.ohlasy.info/WSGkcRZ.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/wsgkcrz.jpg" alt="" />
 
 **Sdružení nestraníků – Martina Zemánková**
 
@@ -79,7 +79,7 @@ Krásnou lokalitu pod hradem závidí Boskovicím ne jen sportovci z okolí, ale
 5. V jihovýchodní části údolí uzavřít dopravu motorovým vozidlům do úrovně spodního Pilského rybníka po odbočku na Újezd
 6. Vypracovat koncepci rozvoje této vzácné klidové lokality pod boskovským hradem a zachovat tak malebnou přírodu pro příští generace
 
-<img class="profile-picture" src="https://i.ohlasy.info/sZDZUlM.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/szdzulm.jpg" alt="" />
 
 **Boskováci – Jaroslav Oldřich**
 

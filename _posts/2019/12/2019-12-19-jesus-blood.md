@@ -1,6 +1,6 @@
 ---
 title: Stokrát opakovaná všednost se stává krásou
-cover-photo: https://i.ohlasy.info/cf95cd8e.jpg
+cover-photo: https://i.ohlasy.info/i/cf95cd8e.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Co mají společného londýnští bezdomovci, mraky na nebi a soudobá hudba? Dozvíte se na posledním koncertu z adventního cyklu v boskovickém evangelickém kostele.*
 
-{% photo src="https://i.ohlasy.info/cf95cd8e.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/cf95cd8e.jpg" author="Tomáš Znamenáček" %}
 
 Když současný britský skladatel Gavin Bryars v roce 1971 spolupracoval na natáčení dokumentu o londýnských bezdomovcích, odnesl si z něj vystřiženou zvukovou scénu, v níž neznámý muž žijící na ulici zpívá o „Ježíšově krvi, která ho nikdy nezklamala“. Nahrávka shodou okolností ladila s Bryarsovým klavírem a její úvod fungoval jako jednoduchá, lehce nepředvídatelná smyčka. Odnesl ji tedy do práce, kde ji nechal dokola kopírovat na delší pásku s úmyslem dopsat k ní orchestrální aranžmá.
 

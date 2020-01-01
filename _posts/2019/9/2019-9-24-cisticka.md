@@ -1,6 +1,6 @@
 ---
 title: Do čističky musí město dát 100 milionů, jinak hrozí stavební uzávěra
-cover-photo: https://i.ohlasy.info/Uy1kMUp.jpg
+cover-photo: https://i.ohlasy.info/i/uy1kmup.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: voda
@@ -8,7 +8,7 @@ tags: voda
 
 *Boskovice musí během několika příštích let zmodernizovat čistírnu odpadních vod. Současný stav je na hraně kapacity. Po nákladné investici zvládne vyčistit o polovinu více vody než dnes.*
 
-{% photo src="https://i.ohlasy.info/Uy1kMUp.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/uy1kmup.jpg" author="Tomáš Znamenáček" %}
 
 Boskovická čistička funguje na výjezdu z města ve směru na Blansko od roku 2006, po třinácti letech je už však její kapacita nedostatečná. Nejen tím, že se od té doby město rozrostlo a a do kanalizace byly napojeny nové bytové domy či průmyslové haly. „Jako město jsme tam také přepojili nemocnici, která měla svou čističku, a také celý Mladkov,“ uvedl boskovický starosta Jaroslav Dohnálek (ODS).
 

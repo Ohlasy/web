@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Které umístění haly je nejlepší?"
-cover-photo: https://i.ohlasy.info/LiaCzTG.jpg
+cover-photo: https://i.ohlasy.info/i/liacztg.jpg
 author: Tomáš Trumpeš
 excerpt: "Vedení Boskovic zveřejnilo čtyři varianty návrhu na umístění sportovní haly. Jak se vám návrhy líbí a který považujete za nejlepší? Odpovídají Jiří Klimek, Vladimír Petrů, Jiří Pevný a Petr Ondráček."
 category: ankety
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-<img src="https://i.ohlasy.info/wsCmoRy.jpg" class="profile-picture" alt="Jiří Klimek">
+<img src="https://i.ohlasy.info/i/wscmory.jpg" class="profile-picture" alt="Jiří Klimek">
 
 **Jiří Klimek, architekt**
 
@@ -30,7 +30,7 @@ Pořád si ale myslím, že řešit teď přesné místo pro halu a příští r
 
 ---
 
-<img src="https://i.ohlasy.info/ZZauYW3.jpg" class="profile-picture" alt="Vladimír Petrů">
+<img src="https://i.ohlasy.info/i/zzauyw3.jpg" class="profile-picture" alt="Vladimír Petrů">
 
 **Vladimír Petrů, člen sportovní komise, autor sportovní koncepce**
 
@@ -38,7 +38,7 @@ Osobně se mi nelíbí žádná z variant. Všechny čtyři mi připadají nekon
 
 ---
 
-<img src="https://i.ohlasy.info/GbNAbLa.jpg" class="profile-picture" alt="Jiří Pevný">
+<img src="https://i.ohlasy.info/i/gbnabla.jpg" class="profile-picture" alt="Jiří Pevný">
 
 **Jiří Pevný, zastupitel za Sportovce**
 
@@ -48,7 +48,7 @@ Po prvotním zhlédnutí všech variant mě nejvíce zaujala varianta číslo 1.
 
 ---
 
-<img src="https://i.ohlasy.info/wO4wXRi.jpg" class="profile-picture" alt="Petr Ondráček">
+<img src="https://i.ohlasy.info/i/wo4wxri.jpg" class="profile-picture" alt="Petr Ondráček">
 
 **Petr Ondráček, architekt**
 

@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Blansek"
 perex: Na jaře mne to vždycky táhne do Moravského krasu. Jeho stráně (nikoliv stinné studené žleby) jsou teplejší než podobná místa na Boskovicku. Proto tentokrát opět poruším pravidlo a zavedu vás kousek za hranice vlastního Boskovicka, na hrad Blansek.
-cover-photo: https://i.ohlasy.info/NusJeg5.jpg
+cover-photo: https://i.ohlasy.info/i/nusjeg5.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
@@ -9,7 +9,7 @@ serial: krajiny
 
 *Na jaře mne to vždycky táhne do Moravského krasu. Jeho stráně (nikoliv stinné studené žleby) jsou teplejší než podobná místa na Boskovicku. Proto tentokrát opět poruším pravidlo a zavedu vás kousek za hranice vlastního Boskovicka, na hrad Blansek. Jeho zřícenina se nachází nedaleko Punkevních jeskyní a propasti Macocha.*
 
-{% photo src="https://i.ohlasy.info/QW9LZtt.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/qw9lztt.png" author="Mapy.cz" %}
 
 Na ta místa proudí takřka po celý rok davy turistů. Blansek je však hůře přístupný a dá se tam dojít pouze pěšky. Návštěvníků tam proto přijde o poznání méně a je to tak dobře. Hradní ruiny leží přímo v srdci Národní přírodní rezervace Vývěry Punkvy, tedy v jedné z nejcennějších částí CHKO Moravský kras.
 
@@ -19,7 +19,7 @@ Zakladatelem Blanseku (dá se říci i Blanseka) byl olomoucký biskup Bruno ze 
 
 Hrad Blansek je výslovně v pramenech připomínán v roce 1275. Je však pravděpodobné, že Bruno zde podepsal již významné blanenské listiny z let 1267 a 1275. Hrad se brzy stal centrem důležitého lenního obvodu a oporou biskupské moci na Moravě. Od konce 14. století byl Blansek dáván do správy význačným šlechticům katolické strany. Kolem roku 1430 (zprávy se rozcházejí) se jej proto pokusili dobýt husité (zřejmě neúspěšně). Po husitských válkách se o něm píše již jako o pouhém „hradišti“ a podle názoru archeologů zanikl požárem. Ještě dnes však mohutná hradní zřícenina dokládá moc a finanční možnosti olomouckých biskupů.
 
-{% photo src="https://i.ohlasy.info/8vwE0ml.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/8vwe0ml.jpg" author="Hynek Skořepa" %}
 
 Od Nových Dvorů vede až téměř k hradu nádherná stará lipová alej, vysázená v první čtvrtině 19. století. Hluboko v kopci pod hradem se pak nachází jedna z význačných tzv. medvědích jeskyní Moravského krasu, nazývaná jak jinak než jeskyně Pod hradem. Takové medvědí jeskyně (v Moravském krasu k nim patří též Sloupsko-šošůvské či Výpustek) jsou významné nálezy kompletních koster jeskynních medvědů, a to včetně tzv. neonátů, kostřiček čerstvě narozených medvědích mláďat. Na konci jeskyně Pod hradem se totiž otvírá ústí menší propasti, do které malí a ještě slepí medvídci občas spadli, když se batolili kolem své mámy. Je to kruté, ale jen díky tomu zůstali zachováni pro vědu. Uhynulá mláďata totiž jinak medvědice sežere, aby bránila šíření nemocí. Profesor Rudolf Musil, nestor paleontologického výzkumu Moravského krasu, v jeskyni popsal také ohlazy na stěnách. Jak se po celá staletí či tisíciletí medvědice prodíraly úzkou chodbou jeskyně do bezpečí svého pelechu, vyleštily srstí tvrdý vápenec do hladka. Jeskyně Pod hradem pochopitelně není veřejnosti přístupná a je zajištěna uzávěrou vchodu.
 
@@ -29,7 +29,7 @@ Když zajdu na Blansek, vždy si vzpomenu na pověst, kterou zpracovala spisovat
 
 Krátce před husitskými válkami přišel na blanenské zboží český šlechtic Vilém Zajíc z Valdeka. Přistěhoval se na hrad se svojí ženou, paní Dorotou, a dcerou Kateřinou. Pan Vilém pobýval v královských službách často mimo domov a věrně králi sloužil, až pod pražským Vyšehradem v boji proti husitům padl. Když rakev pana Viléma uložili do hrobky, sešla paní sama do podzemí, aby se s ním rozloučila. Najednou víko z rakve odskočilo a její manžel vstal, rázným krokem odešel ke stěně a postavil se mezi ostatní kamenné rytíře. Marně na něj paní mluvila. Také on se změnil v kámen. Když se paní Dorota s pláčem ptala, jak by ho mohla vysvobodit, hlubokým hlasem jí odpověděl: „Není nám pomoci. Já, stejně jako všichni předchozí majitelé hradu, jsme byli pro křivdu odsouzeni, abychom tu na věky stáli. Jedině kdyby se našel statečný rytíř, který by sešel sem za námi do podzemí a požádal nás o ruku dcery hradního pána. Jedině tak nás lze vysvobodit.“
 
-{% photo src="https://i.ohlasy.info/NusJeg5.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/nusjeg5.jpg" author="Hynek Skořepa" %}
 
 Paní Dorota se zaradovala a začala hledat pro Kateřinu ženicha. Nikdo se však neodvážil sejít do sklepení ke kamenným rytířům, nikdo se neodvážil na ně promluvit. Jak léta ubíhala, její naděje byla stále menší. Pak i paní Dorota zemřela a jenom krásná Kateřina prý bloudila hradními zříceninami a hlídala klid kamenných rytířů. 
 

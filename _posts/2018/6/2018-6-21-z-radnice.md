@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: Slavný architekt Radić v Boskovicích a další novinky z rady"
-cover-photo: https://i.ohlasy.info/682AfYV.jpg
+cover-photo: https://i.ohlasy.info/i/682afyv.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které vedené města oznámilo po červnovém zasedání městské rady. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/682AfYV.jpg" caption="Stavební práce na Štefánikově ulici" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/682afyv.jpg" caption="Stavební práce na Štefánikově ulici" author="Tomáš Trumpeš" %}
 
 ### Hospodaření nemocnice
 

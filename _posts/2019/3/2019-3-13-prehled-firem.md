@@ -1,14 +1,14 @@
 ---
 title: "Velký přehled boskovických firem: rostou jim tržby a zastavují poslední volné parcely v průmyslové zóně"
 perex: Jaký mají velké boskovické firmy obrat, v jakém oboru podnikají, kolik lidí zaměstnávají, kolik jim platí a jak se jim daří?
-cover-photo: https://i.ohlasy.info/EZFsYvv.jpg
+cover-photo: https://i.ohlasy.info/i/ezfsyvv.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Téměř šest miliard korun výnosů měly oslovené boskovické průmyslové podniky v uplynulém roce. Firmy se tak neustále rozšiřují, což se odráží i v průmyslové zóně, kde většina z nich sídlí. V blízké době tam nebudou už téměř žádné volné parcely pro další možný rozvoj.*
 
-{% photo src="https://i.ohlasy.info/EZFsYvv.jpg" caption="Rozestavěná hala firmy LANIK" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/ezfsyvv.jpg" caption="Rozestavěná hala firmy LANIK" author="Tomáš Trumpeš" %}
 
 Průmyslová ulice v minulosti vedla spíše kolem volných luk, dnes už tam ale člověk jen těžko hledá volné místo. Na obou stranách aktuálně staví dvě významné boskovické firmy – LANIK a ColorPlastic, sesterská firma známější společnosti ColorProfi. První zmíněná staví dokonce na obou stranách ulice.
 
@@ -30,7 +30,7 @@ Podobnou modernizaci plánuje v letošním roce strojírenská firma PMP Kovo. �
 
 Další oslovené podniky jako Minerva nebo ITAB investovaly v minulém roce především do nových strojů, technologií a vývoje. „Naše společnost v roce 2018 investovala zejména do vývoje inovovaného programovatelného automatu pro šití extra silných materiálů, který se stal vlajkovým produktem společnosti na trhu USA,“ popsal provozní ředitel firmy Anita B Igor Vráblík s tím, že jejich šicí stroje využívají i v americké vesmírné agentuře NASA. Do vývoje a nových strojů investovala loni a plánuje i letos firma Gatema. „Neplánujeme kvantitativní rozšiřování výroby, ale orientaci na výrobky s vyšší přidanou hodnotou,“ doplnil majitel firmy František Vlk.
 
-{% photo src="https://i.ohlasy.info/aNAp59O.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/anap59o.png" author="Tomáš Znamenáček" %}
 
 ### Historický obrat Minervy i růst dalších firem
 

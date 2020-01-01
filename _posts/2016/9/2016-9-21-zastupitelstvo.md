@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Nákup dalšího pozemku v Červené zahradě, situace v nemocnici a dvojnásobná cena polytechnického centra"
-cover-photo: https://i.ohlasy.info/oVACACQ.jpg
+cover-photo: https://i.ohlasy.info/i/ovacacq.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Poměrně klidnou schůzi absolvovalo v úterý boskovické zastupitelstvo. Nejvzrušenější debata dle očekávání doprovodila projednávání nákupu pozemku dnešního autobazaru v Červené zahradě, jinak se schůze obešla bez připomínek a dotazů ze strany občanů a poměrně hladce byly schváleny i změny v rozpočtu. Důležité informace ohledně využití Dvořáčkova mlýna, situace v nemocnici nebo nákladů na vybudování Centra polytechnického vzdělávání zazněly na základě dotazů a připomínek zastupitelů.*
 
-{% photo src="https://i.ohlasy.info/oBSjeNk.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/obsjenk.jpg" author="Tomáš Znamenáček" %}
 
 ### Další pozemek v Červené zahradě
 

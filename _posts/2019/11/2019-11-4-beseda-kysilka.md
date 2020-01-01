@@ -1,6 +1,6 @@
 ---
 title: Beseda s Pavlem Kysilkou o ekonomické transformaci
-cover-photo: https://i.ohlasy.info/459b2644.jpg
+cover-photo: https://i.ohlasy.info/i/459b2644.jpg
 perex: Hostem další z „listopadových“ besed v centru Prostor byl ekonom Pavel Kysilka. Odpovídal na otázky muzejního historika Petra Vítámváse, hlavním tématem debaty byla ekonomická transformace po roce 1989.
 date: 2019-11-4 11:00:45
 author: Tomáš Trumpeš

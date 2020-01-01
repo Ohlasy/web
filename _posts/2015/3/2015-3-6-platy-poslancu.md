@@ -1,14 +1,14 @@
 ---
 title: Ať poslanci pracují méně
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/F6MW3qp.jpg
+cover-photo: https://i.ohlasy.info/i/f6mw3qp.jpg
 author: Petr Vítámvás
 tags: politika
 ---
 
 *Parlament na konci minulého roku schválil zákon o zvýšení platů ústavních činitelů. Ne, nebudeme se přidávat k hlasům vyčítajícím poslancům výši jejich platů. Chceme jen tuto situaci využít jako – pars pro toto – ukázku práce zákonodárného sboru.*
 
-{% photo src="https://i.ohlasy.info/F6MW3qp.jpg" %}
+{% photo src="https://i.ohlasy.info/i/f6mw3qp.jpg" %}
 
 A nebudeme se tu zabývat různými návrhy, diskusemi nad nimi vedenými, popravdě pomineme i parametry výsledného zákona. Na co chceme obrátit pozornost, je nesoulad mezi záměrem poslanců a výsledkem jejich legislativní činnosti. To překvapení poslanců, když pocítili důsledky v platnost uvedené normy na vlastních peněženkách! Schválili zákon, o jehož dopadu neměli tušení – a to se jednalo o normu, přímo se jich dotýkající! Jak je tomu asi v případech, kdy se legislativa týká témat daleko složitějších a pro ně odtažitějších? A není divu, že nejsou schopni dohlédnout a ohlídat si dopady každého z projednávaných zákonů, při množství legislativních norem, jež každoročně schvalují. 
 

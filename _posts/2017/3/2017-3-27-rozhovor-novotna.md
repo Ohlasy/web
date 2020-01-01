@@ -1,7 +1,7 @@
 ---
 title: „Lidé nejsou zvyklí ptát se sami sebe, jak se cítí a co potřebují.“
 perex: Rozhovor s psycholožkou Veronikou Novotnou, která provozuje v Boskovicích psychoterapeutickou poradnu.
-cover-photo: https://i.ohlasy.info/qbmfcp6.jpg
+cover-photo: https://i.ohlasy.info/i/qbmfcp6.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 featured: true
@@ -9,7 +9,7 @@ featured: true
 
 *Rozhovor s psycholožkou Veronikou Novotnou, která provozuje v Boskovicích psychoterapeutickou poradnu. Psychologii vystudovala na Univerzitě Palackého v Olomouci, kromě soukromé praxe pracuje jako psycholožka také v dětské léčebně ve Křetíně.*
 
-{% photo src="https://i.ohlasy.info/qbmfcp6.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/qbmfcp6.jpg" author="Tomáš Znamenáček" %}
 
 **Usedl jsem do křesla, které zde máš pro klienty – jak těžké pro ně bývá sem přijít a posadit se sem? Pozoruješ, že se museli přemáhat?**
 
@@ -59,7 +59,7 @@ V jejich kontextu to devalvující není. Mají to tak nastavené a jsou na to z
 
 Umí, ale jen určitým způsobem. Častokrát bez emocí. Můj způsob práce, který vychází z mého psychoterapeutického výcviku, spočívá právě v tom, že jedna věc je o věcech mluvit a druhá je emoční prožitek. To lidé dělají i v běžném životě: o věcech mluví, ale neodžijí je. To je ale nedokončené, není to celé. Se mnou pracují právě na tom, aby to dokázali rozšířit i o vlastní pocity – a to už bývá těžké. Hrozně moc lidí nedokáže odpovědět na otázku: Jak se právě cítíte?
 
-{% photo src="https://i.ohlasy.info/p1dNsjh.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/p1dnsjh.jpg" author="Tomáš Znamenáček" %}
 
 **Narazili jsme na to, že psycholog někdy nahrazuje chybějící vztahy z běžného života. Do jaké míry je ale přínosné to, že není angažován v běžném životě klienta a tím pádem nabízí jinou perspektivu?**
 
@@ -105,7 +105,7 @@ Ano, to už jsme pak ruku v ruce s tím, že se rozšiřuje trh, je větší nab
 
 Příčina může být různá, ale může to být jen kontext, ve kterém se to člověk naučil. Potom už je rozdíl, jakým způsobem pije, jak dlouho pije a kam až to nechá dojít. Když zapíjí psychické problémy, je v tom daleko větší riziko – jak závislosti, tak přechodu na jiné drogy. Ona je to vlastně automedikace, nepoužívá antidepresiva, ale alkohol nebo cokoliv jiného.
 
-{% photo src="https://i.ohlasy.info/RGGwMNS.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/rggwmns.jpg" author="Tomáš Znamenáček" %}
 
 **Kdybys to měla shrnout: staráme se dobře o duši? Když se tak podíváš okolo sebe.**
 

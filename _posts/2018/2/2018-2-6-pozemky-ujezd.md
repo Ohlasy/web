@@ -1,13 +1,13 @@
 ---
 title: Na Milánovech se plánují desítky domů. Jsou ale na Újezdě
-cover-photo: https://i.ohlasy.info/B2RQ4eE.png
+cover-photo: https://i.ohlasy.info/i/b2rq4ee.png
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *V Boskovicích developeři plánují výstavbu desítek rodinných i bytových domů. Jedna lokalita je ale výjimečná – nachází se sice v sousedství domů spadajících pod Boskovice, ale do Boskovic už nepatří.*
 
-{% photo src="https://i.ohlasy.info/B2RQ4eE.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/b2rq4ee.png" author="Mapy.cz" %}
 
 Je to v Boskovicích, ale vlastně není. Co je to? Kus lesa u křižovatky silnice z Hrádkova a silnice vedoucí z Valchova do Boskovic. Ačkoliv se zdá, že je v Boskovicích, k Boskovicím vůbec nepatří. Podle katastrálních map spadá pod Újezd u Boskovic, který je od něj vzdálen asi tři kilometry vzdušnou čarou.
 

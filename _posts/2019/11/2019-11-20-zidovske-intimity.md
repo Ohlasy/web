@@ -1,6 +1,6 @@
 ---
 title: Židovské intimity
-cover-photo: https://i.ohlasy.info/76e1c195.jpg
+cover-photo: https://i.ohlasy.info/i/76e1c195.jpg
 category: názory a komentáře
 author: Alice Hrbková
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Skončila hlavní turistická sezóna a své dojmy a zážitky ze setkávání s návštěvníky židovského obecního domu pro nás v půvabném osobním textu sepsala muzejnice Alice Hrbková.*
 
-{% photo src="https://i.ohlasy.info/76e1c195.jpg" caption="Židovský obecní dům" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/76e1c195.jpg" caption="Židovský obecní dům" author="Tomáš Znamenáček" %}
 
 Konec turistické sezóny. Vrata staré židovské školy jsou zamčená, poslední týdny už jsem stejně ometala mouchy z parapetu zbytečně. Pro mě, čerstvou boskovickou náplavu, [jak si vzpomínáte](https://ohlasy.info/clanky/2019/08/naplava.html), to byla sezóna plná změn, přeštelování z knihovnice na muzejnici, přezobáčení z čecháčkovštiny na hanáčtěno, natažení achilovek zpovykaných polabskou nížinou na délku nutnou ke zdolávání Plačkovy a Bílkovy ulice, a taky sezóna kutálení ze schodů u Rudyho (souvislost se zhýčkaností nohou).
 

@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na srpen
-cover-photo: https://i.ohlasy.info/RLEvT3F.jpg
+cover-photo: https://i.ohlasy.info/i/rlevt3f.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/RLEvT3F.jpg" caption="Výstava Adély Kyzlinkové v Prostoru" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/rlevt3f.jpg" caption="Výstava Adély Kyzlinkové v Prostoru" author="Tomáš Trumpeš" %}
 
 ### Festiválek bez bojů a válek
 

@@ -1,6 +1,6 @@
 ---
 title: Těšme se na kontroverze boskovických Cen za kulturu
-cover-photo: https://i.ohlasy.info/QhkWZdt.jpg
+cover-photo: https://i.ohlasy.info/i/qhkwzdt.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Málokde vyvolává vyhlašování nejrůznějších cen a udílení vyznamenání tolik diskusí, jako v kulturním světě. A je to pochopitelné – kultura je ze své podstaty prostředí polemické, nedůvěřivé a navíc obtížně uchopitelné a hodnotitelné exaktními a nezpochybnitelnými měřítky. Cenu za kulturu se rozhodly udílet také Boskovice, takže se můžeme těšit, kolik kontroverzí hned první udílení vyvolá. Už v samotných pravidlech soutěže se skrývá několik čertových kopýtek, přesto snad lze říct, že záměr jednou za čas někomu z místního kulturního světa výrazněji poděkovat či vyzdvihnout významnější počin má svůj pozitivní smysl.*
 
-{% photo src="https://i.ohlasy.info/QhkWZdt.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/qhkwzdt.jpg" author="Tomáš Znamenáček" %}
 
 Asi největší čertovo kopýtko se skrývá ve způsobu, jakým budou laureáti boskovické kulturní ceny vybírání. Přitom právě to je pro váhu a prestiž cen to úplně nejpodstatnější. Návrhy může podávat kdokoliv, což je samozřejmě v pořádku. Jakýsi předvýběr však bude provádět [Komise pro cestovní ruch a kulturu](http://boskovice.cz/komise-vybory/d-21863/p1=1185) a finální volbu oceněných provede na jejich návrhy městská rada. Přes veškerou úctu k některým členům komise je to zcela nešťastné řešení. Kvalitu výběru nezajistí cenám nic jiného než kvalitní, tedy dobře odborně sestavená speciální porota. Její vytvoření by navíc bylo dobrou příležitostí zapojit i ty z boskovických kulturních odborníků a profesionálů, kteří na práci v komisích třeba nemají čas nebo v ní nevidí smysl. Úzký kruh skutečných odborníků je jedinou cestou k důvěryhodnosti. A to nemluvím o předvýběru, ale rovnou o finálním výběru laureátů.
 

@@ -1,7 +1,7 @@
 ---
 title: Kraj odmítá převzít boskovickou nemocnici
 perex: Zamítavé stanovisko k převzetí nemocnice odeslal kraj do Boskovic v minulých dnech. V dopise, který dříve poslalo vedení města na kraj, se přitom píše, že se nemocnice dostává do finančních potíží, a dokonce může hrozit i její uzavření.
-cover-photo: https://i.ohlasy.info/a4yOILU.jpg
+cover-photo: https://i.ohlasy.info/i/a4yoilu.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2017-10-13 12:00:45
@@ -10,7 +10,7 @@ tags: politika
 
 *Boskovická nemocnice nadále zůstane pod městem. Zamítavé stanovisko k jejímu převzetí odeslal kraj do Boskovic v minulých dnech. V [dopise, který dříve poslalo vedení města na kraj](http://data.ohlasy.info/2017/prevod-nemocnice.pdf), se přitom píše, že se nemocnice dostává do finančních potíží, a dokonce může hrozit i její uzavření.*
 
-{% photo src="https://i.ohlasy.info/a4yOILU.jpg" caption="Nemocnice Boskovice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/a4yoilu.jpg" caption="Nemocnice Boskovice" author="Tomáš Znamenáček" %}
 
 „Na základě žádosti ve věci převodu Nemocnice Boskovice pod správu Jihomoravského kraje, byla tato věc projednána krajskou radou a paní starostce bylo minulý týden dopisem sděleno, že této nabídky Jihomoravský kraj nevyužije a nemocnici do majetku kraje nepřevezme,“ uvedla mluvčí Jihomoravského kraje Monika Brindzáková.
 

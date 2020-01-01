@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Má město převzít sokolovnu, nebo hledat alternativy?"
-cover-photo: https://i.ohlasy.info/fd5IPLg.jpg
+cover-photo: https://i.ohlasy.info/i/fd5iplg.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: sokolovna investice kultura
@@ -8,11 +8,11 @@ tags: sokolovna investice kultura
 
 *Boskovicím dlouhodobě chybí reprezentativní kulturní sál, sokolové městu nabízejí zdarma budovu sokolovny. Je podle vás takové řešení optimální, nebo by stálo za to alespoň zvážit či hledat i jiné varianty?*
 
-{% photo src="https://i.ohlasy.info/5SWrLsL.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5swrlsl.jpg" author="Tomáš Znamenáček" %}
 
 ---
 
-<img src="https://i.ohlasy.info/wsCmoRy.jpg" class="profile-picture" alt="Jiří Klimek">
+<img src="https://i.ohlasy.info/i/wscmory.jpg" class="profile-picture" alt="Jiří Klimek">
 
 **Jiří Klimek, architekt, člen folklorního souboru Velen**
 
@@ -24,7 +24,7 @@ Sokolovna má za sebou bohatou historii a má-li mít budoucnost pod městem, m�
 
 ---
 
-<img src="https://i.ohlasy.info/Ajp97PF.jpg" class="profile-picture" alt="Pavel Vlach">
+<img src="https://i.ohlasy.info/i/ajp97pf.jpg" class="profile-picture" alt="Pavel Vlach">
 
 **Pavel Vlach, zvukař, produktový specialista DISK Multimedia**
 
@@ -32,7 +32,7 @@ Budova sokolovny má svoji historii, svou minulost, a myslím, že by bylo škod
 
 ---
 
-<img src="https://i.ohlasy.info/vrjWaUY.jpg" class="profile-picture" alt="Ondřej Dostál">
+<img src="https://i.ohlasy.info/i/vrjwauy.jpg" class="profile-picture" alt="Ondřej Dostál">
 
 **Ondřej Dostál, ředitel Mendelova muzea MU, předseda Asociace muzeí a galerií**
 
@@ -40,7 +40,7 @@ Z mého pohledu to není nejen optimální, ba co víc je to nesmyslné. Musím 
 
 ---
 
-<img src="https://i.ohlasy.info/Rovnr5Z.jpg" class="profile-picture" alt="Igor Láník">
+<img src="https://i.ohlasy.info/i/rovnr5z.jpg" class="profile-picture" alt="Igor Láník">
 
 **Igor Láník, výkonný ředitel Láník s.r.o., technik divadla NABOSO**
 
@@ -54,7 +54,7 @@ A samozřejmě je to výzva i z hlediska dramaturgie – už nyní při převzet
 
 ---
 
-<img src="https://i.ohlasy.info/4EjVgAW.jpg" class="profile-picture" alt="Martin Krajíček">
+<img src="https://i.ohlasy.info/i/4ejvgaw.jpg" class="profile-picture" alt="Martin Krajíček">
 
 **Martin Krajíček, pedagog, hudebník**
 

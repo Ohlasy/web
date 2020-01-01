@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Jak by měla města reagovat na klimatickou změnu?"
 perex: Studenti stávkovali za klima. Co by podle vás měli požadovat na své nejbližší úrovni, tedy od obecních samospráv?
-cover-photo: https://i.ohlasy.info/wNqTl1i.jpg
+cover-photo: https://i.ohlasy.info/i/wnqtl1i.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags:
@@ -11,11 +11,11 @@ tags:
 
 *Studenti stávkovali za klima. Kdyby se jejich požadavky neměly týkat celoplanetárních, evropských či celostátních řešení, ale opatření realizovatelných na úrovni měst a obcí – co by podle vás měli od samospráv požadovat?*
 
-{% photo src="https://i.ohlasy.info/wNqTl1i.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wnqtl1i.jpg" author="Tomáš Znamenáček" %}
 
 ---
 
-<img src="https://i.ohlasy.info/pet3WWG.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/i/pet3wwg.jpg" class="profile-picture" alt="">
 
 **Helena Továrková, ředitelka Nadace Veronica**
 
@@ -53,7 +53,7 @@ Je třeba si uvědomit, že bez půdy a bez vody nemáme moc šancí přežít. 
 
 ---
 
-<img src="https://i.ohlasy.info/Lu5PYOl.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/i/lu5pyol.jpg" class="profile-picture" alt="">
 
 **Lukáš Pokorný, environmentální aktivista a AV technik**
 

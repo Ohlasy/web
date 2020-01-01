@@ -1,6 +1,6 @@
 ---
 title: "Červen 1988: Navzdory režimu vznikla samostatná organizace TJ Rytmus Boskovice"
-cover-photo: https://i.ohlasy.info/HlUrhCT.jpg
+cover-photo: https://i.ohlasy.info/i/hlurhct.jpg
 perex: TJ Rytmus Boskovice vznikla před pádem komunistického režimu v roce 1988 i přes nelibost boskovické KSČ.
 author: Marek Osouch
 category: seriály
@@ -9,7 +9,7 @@ serial: osmicky
 
 *Tělovýchovná jednota Rytmus Boskovice vznikla před pádem komunistického režimu v roce 1988 i přes nelibost představitelů boskovické KSČ. Dnes po třiceti letech existence je největší sportovní organizací  ve městě a jednou z největších v Jihomoravském kraji. Textem pokračujeme v seriálu o osmičkových výročích v Boskovicích.*
 
-{% photo src="https://i.ohlasy.info/9VKV67a.jpg" caption="Ustavující schůze TJ Rytmus" author="archiv TJ Rytmus" %}
+{% photo src="https://i.ohlasy.info/i/9vkv67a.jpg" caption="Ustavující schůze TJ Rytmus" author="archiv TJ Rytmus" %}
 
 Tělovýchovnou jednotu Rytmus Boskovice zná ve městě mnoho lidí, málokdo ale ví, že její vznik před třiceti lety v roce 1988 nebyl vůbec lehký. V Boskovicích totiž fungovala za minulého režimu hlavní sportovní organizace, a to TJ Minerva. Pod ní byly sdružené všechny sportovní kluby. Jedinou výjimkou byla TJ SOUZ Boskovice, která byla podle zápisu v kronice dokonce jedinou jednotou zřízenou při střední škole v celém Československu.
 
@@ -21,7 +21,7 @@ S kolegyněmi si ale vybojovaly registraci vlastního sdružení a třicítka te
 
 Aby se ale ještě před pádem železné opony TJ Rytmus neodchýlil od „správné“ cesty a KSČ měla nové sdružení pod svou kontrolou, měl na „černé ovce“ cvičitelky dohlížet politicky-výchovný pracovník. „To prostě muselo být, ale my si ho určily samy. Byla to jedna z nás, která byla sice politicky angažovaná, ale jinak normální ženská,“ podotýká Věra Opatřilová. Podle ní to tak byla spíš šaškárna, kdy každý věděl, že je to jen na oko.
 
-{% photo src="https://i.ohlasy.info/xSA2j1Z.jpg" caption="Jedna z prvních hodin" author="archiv TJ Rytmus" %}
+{% photo src="https://i.ohlasy.info/i/xsa2j1z.jpg" caption="Jedna z prvních hodin" author="archiv TJ Rytmus" %}
 
 ### V době vrcholu měl Rytmus přes 1400 členů
 
@@ -35,7 +35,7 @@ Jak říká předsedkyně tělovýchovné jednoty, jejich hlavním a jediným c�
 
 TJ Rytmus organizuje i jednu z tradičních akcí, kterou v Boskovicích nevynechá řada rodičů s malými dětmi. Už čtvrtstoletí pořádá tradiční Pochod za světýlkem. Vždy 28. října na státní svátek vzniku Československa plní děti po cestě na hrad či zámek řadu úkolů. Po příchodu do cíle jim pak rodiče pomohou zapálit svíčku v lampionu a ty pak jdou se světýlkem v ruce vítězoslavně domů. Celkem takto chodí podle Opatřilové více než 300 dětí, s rodičovským doprovodem je to dvojnásobek až trojnásobek. „Je to akce s opravdu hojnou účastí,“ doplňuje.
 
-{% photo src="https://i.ohlasy.info/AukWZQb.jpg" caption="Školička u lázní" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/aukwzqb.jpg" caption="Školička u lázní" author="Marek Osouch" %}
 
 ### Zázemí stále v původním stavu
 

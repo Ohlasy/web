@@ -1,6 +1,6 @@
 ---
 title: Polytechnické centrum se otevřelo a začalo sloužit
-cover-photo: https://i.ohlasy.info/zwnzqrB.jpg
+cover-photo: https://i.ohlasy.info/i/zwnzqrb.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: vzdělávání investice
@@ -8,7 +8,7 @@ tags: vzdělávání investice
 
 *V prvním zářijovém týdnu zahájilo svůj provoz boskovické Centrum polytechnické výchovy a vzdělávání, které vyrostlo u základní školy na Slovákově ulici.*
 
-{% photo src="https://i.ohlasy.info/uh35Dho.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/uh35dho.jpg" author="Tomáš Znamenáček" %}
 
 Návštěvníka nejprve před budovou vítá malý biotop. Zeleň okolo jezírka ještě není dostatečně vzrostlá, to bude podle ředitele školy Vladimíra Ochmanského nejméně rok nebo dva trvat. Stejně jako než se doopravdy zazelená zelená střecha budovy. Za jezírkem jsou kontejnery pro pěstitelské práce, kde byly koncem prázdnin nasázeny bylinky.
 
@@ -18,7 +18,7 @@ Součástí venkovního areálu je také několik hracích prvků. A také něko
 
 Co se venkovních prostor týká, má ředitel zatím největší radost z amfiteátru. Na konci prázdnin sem svolal poradu učitelů, aby si vyzkoušel, kolik se do něj vejde lidí a jaká je zde akustika. Napočítal kapacitu asi 160 dospělých, v případě dětí z prvního stupně by to bylo i víc. „To je něco, co škola neměla. Vesnické školy typu Knínice mají sál, gymnázium má aulu, to žádná z našich tří budov nemá. Tohle je sice jen na léto, ale je to bezvadné,“ vysvětluje Vladimír Ochmanský. Akustika je výborná, součástí vybavení je i výkonný dataprojektor pro projekce ve večerních hodinách.
 
-{% photo src="https://i.ohlasy.info/IzKkmgx.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/izkkmgx.jpg" author="Tomáš Znamenáček" %}
 
 ### Učebny
 
@@ -32,7 +32,7 @@ Nejhonosněji vybavená a nejdražší je poslední učebna techniky a technolog
 
 Všechny učebny jsou vybaveny interaktivními tabulemi. Součástí nové budovy je také kabinet a hodně prostorné sklady, což je podle ředitele dobré, protože škola má hodně pomůcek. Je zde také vlastní server, který zatím není propojený se školním serverem. „To je trošičku nevýhoda, učitelé mají materiály na našem serveru, takže když přijdou do jakékoli učebny na Sušilově, na Slovákově nebo na Zelené, tak se k nim dostanou. Sem musí jít zatím s flashkou. Ale to se zvládne a časem propojí,“ vysvětluje ředitel školy.
 
-{% photo src="https://i.ohlasy.info/Rwdy6rj.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/rwdy6rj.jpg" author="Tomáš Znamenáček" %}
 
 ### Využití
 
@@ -50,7 +50,7 @@ Boskovická základní škola bude už letos zapojena do ověřování nového �
 
 Co se týká pedagogického pokrytí výuky, nemá ředitel obavu. „Máme šikovné učitele,“ říká. Přírodovědná část je úplně bez problémů, u technické části bude nutné proškolení pedagogů. Problém je spíše s údržbou a nepedagogickými pracovníky – školství totiž mají přejít na nový systém financování, a ten je nastaven tak, že škola bude mít daleko větší možnosti ve financování učitelů, ale normativy pro nepedagogické pracovníky jsou nakonec velmi přísné. Aktuálně tedy ředitel přijal pro Centrum polytechnické výchovy a vzdělávání velmi šikovného školníka, ale neví, jestli se podaří normativy změnit natolik, aby ho škola mohla zaplatit a také vyčlenit dostatečný počet hodin pro uklízečky. Jedná se o problém na celostátní úrovni, školy nyní zjišťují, jak mohou postupovat, aby vyjednaly změnu. Jinak by běžné provozní náklady budovy podle ředitele neměly být příliš vysoké.
 
-{% photo src="https://i.ohlasy.info/KmUwvG1.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/kmuwvg1.jpg" author="Tomáš Znamenáček" %}
 
 ### Náklady na CPV
 

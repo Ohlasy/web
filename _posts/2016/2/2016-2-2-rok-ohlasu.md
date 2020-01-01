@@ -1,13 +1,13 @@
 ---
 title: První rok Ohlasů. Události na Boskovicku pohledem čtenářského zájmu
-cover-photo: https://i.ohlasy.info/mIDijbW.jpg
+cover-photo: https://i.ohlasy.info/i/midijbw.jpg
 author: Tomáš Trumpeš
 tags: ohlasy
 ---
 
 *Uplynul právě rok od chvíle, kdy jsme na doméně ohlasy.info publikovali první články a internetové noviny Ohlasy dění na Boskovicku tak započaly svou existenci. Za první rok jsme publikovali celkem 232 článků, které pro vás připravilo 18 autorů. Naše noviny jsme spustili na začátku února, první výročí tedy sice nekopíruje vstup do nového roku kalendářního, i tak snad může být dobrou příležitostí k ohlédnutí – převážně za rokem 2015, ale také za prvním měsícem roku letošního.*
 
-{% photo src="https://i.ohlasy.info/mIDijbW.jpg" author="Igor Láník" %}
+{% photo src="https://i.ohlasy.info/i/midijbw.jpg" author="Igor Láník" %}
 
 Internetová žurnalistika je pro nás novináře – a věřím, že může být i pro vás čtenáře – zdrojem zajímavých dat a faktů. Na rozdíl od tisku totiž vidíme poměrně přesně, co a jak vás jako čtenáře zajímá. Podstatné je také to, že kromě drobných nepravidelných výkyvů způsobených ojedinělými událostmi se dá říct, že čtenářský zájem o Ohlasy postupem času narůstal.
 
@@ -15,7 +15,7 @@ V prvním roce Ohlasů vás ze všeho nejvíc zaujaly dva texty, které se znač
 
 Druhým textem, který se setkal s nebývalým čtenářským ohlasem, byl [rozhovor s vegankou Jitkou Urbanovou](/clanky/2015/02/rozhovor-jitka-urbanova.html). Důležité to pro nás bylo i proto, že to byl jeden z prvních publikovaných textů, takže nás jeho úspěch povzbudil do další práce v době, kdy jsme ještě zdaleka netušili, jestli o působení našich novin bude vůbec dostatečný zájem.
 
-{% photo src="https://i.ohlasy.info/xGxH5SH.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xgxh5sh.png" author="Tomáš Znamenáček" %}
 
 Žebříček deseti nejčtenějších článků vypadá po roce fungování Ohlasů takto:
 
@@ -40,7 +40,7 @@ V záři nejvíce zaujala [reportáž Tomáše Znamenáčka](/clanky/2015/09/rep
 
 Prosincové zastupitelstvo odstartovalo také diskusi, která se stala dominantním tématem prvního měsíce roku 2016: a to je [boskovická knihovna](/clanky/2016/01/knihovna.html) a její možné [umístění do budovy bývalého ZZN](/clanky/2016/01/budova-zzn.html), kde nyní sídlí Mountfiled a Idyla. Zaujalo vás ovšem i téma dopravy ve městě, které jsme nejprve využili pro [humorný mystifikační silvestrovský článek](/clanky/2015/12/silvestrovske-reseni-parkovacich-mist.html), avšak poté i k [seriózní úvaze](/clanky/2016/01/doprava-ve-meste.html).
 
-{% photo src="https://i.ohlasy.info/nd78pJZ.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/nd78pjz.png" author="Tomáš Znamenáček" %}
 
 ### Rozhovory, komentáře a seriály
 
@@ -56,7 +56,7 @@ Velmi nás těší zájem čtenářů o regionálně zaměřené seriály, kter�
 
 Opomenut by asi neměl zůstat ani náš [facebookový profil](https://www.facebook.com/ohlasy/), který je důležitým místem, kde se ve virtuálním prostoru společně setkáváme. Během prvního roku jsme zde nasbírali více než tisícovku příznivců. Kromě sdílení článků jsou také prostorem diskusí, které jsou pro nás velmi přínosné, a nejednou jsme z nich načerpali nejen podněty k přemýšlení, ale i faktické postřehy vztahující se k tématům, o kterých jsme psali. Nepominutelnou součástí našeho facebookového společenství jsou také fotografie – nemá cenu se tajit tím, že především pod vydařenými a zajímavý obsah nesoucími fotkami bedlivě sledujeme a počítáme přibývající lajky. Celkovým vítězem této kategorie se stal boskovický slon, kterého nám zaslal Oto Matal, za což mu vřele děkujeme. Na slona sice v závěru roku ještě mocně dotahovala vítězka soutěže Bohuslava Martinů Kristýna Znamenáčková, moudré a zdánlivě těžkopádné zvíře si však ve finiši svůj náskok uhájilo.
 
-{% photo src="https://i.ohlasy.info/Qh3YSah.jpg" author="Oto Matal" %}
+{% photo src="https://i.ohlasy.info/i/qh3ysah.jpg" author="Oto Matal" %}
 
 ### Poděkování
 

@@ -1,14 +1,14 @@
 ---
 title: Na Rovné a Pod Střelnicí se rozjela výstavba osmdesáti rodinných domů
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/3wZPnUV.jpg
+cover-photo: https://i.ohlasy.info/i/3wzpnuv.jpg
 author: Marek Osouch
 tags: architektura
 ---
 
 *Více než osmdesát rodinný domů by mělo během několika let vyrůst v Boskovicích. Šestatřicet v lokalitě na Rovné a dalších šestačtyřicet v místě bývalé střelnice a na dalších pozemcích v kopci nad ulicí Ludvíka Vojtěcha. Pozemky u dokrývače na Čížovkách skupuje blanenská developerská firma REAL AP. Rovnou si vzali na starost developeři z BK INVEST.*
 
-{% photo src="https://i.ohlasy.info/3wZPnUV.jpg" %}
+{% photo src="https://i.ohlasy.info/i/3wzpnuv.jpg" %}
 
 „Stavební pozemky jsou v klidné lokalitě na náhorní rovině s nádherným výhledem na město, okolní lesy, zříceninu hradu i boskovický zámek. Pozemky obklopené zelení jsou vzdálené pět minut od centra,“ lákají makléři lidi na koupi pozemků Pod Střelnicí.
 
@@ -22,7 +22,7 @@ Zastupitelé schválili většinou dvaceti hlasů záměr prodeje pozemků, kter
 
 Na stole mají blanenští developeři hotovou projektovou dokumentaci a chystají se na výstavbu infrastruktury. „Začneme ji budovat v dubnu příštího roku a v listopadu by se už mohly začít stavět domy,“ prohlásil Antonín Oujezdský. Na své náklady vybuduje fitma veškeré inženýrské sítě, komunikace, chodníky a osvětlení. Poté vše převedou do vlastnictví města a dalších subjektů, kteří se o danou infrastrukturu starají. Tím je například Svazek vodovodů a kanalizací nebo energetická společnost E.ON.
 
-{% photo src="https://i.ohlasy.info/QdPfTD7.jpg" %}
+{% photo src="https://i.ohlasy.info/i/qdpftd7.jpg" %}
 
 Část parcel developeři prodávají samostatně, na části ovšem postaví řadové domky a pozemky prodají i s nimi. V lokalitě B v bývalém lomu a v lokalitě D v blízkosti dokrývače jsou na prodej řadové domy. Ceny se pohybují od dvou a půl milionu a šplhají přes čtyři miliony. Za samotné pozemky v lokalitách A – Pod střelnicí – a v lokalitě C – Terasy – zaplatí zájemce od jednoho a půl milionu do dvou milionů. Zatím je většina pozemků v nabídce. Jen několik jich je prodaných nebo zarezervovaných. Podle ředitele boskovické pobočky realitní společnosti Real Spektrum Jaromíra Dvořáka má zatím tato lokalita nevýhodu, že se zde zatím nic nebuduje. „Cena je vyšší, ale v současné době nejsou nikde jinde v Boskovicích dostupné stavební parcely,“ zdůvodnil realitní makléř vyšší ceny. Časem se podle něj pozemky prodají, nebude to ale rychlé. Vidí to v horizontu tří let. „Těžko ovšem odhadovat, vývoj v realitách je velmi chaotický,“ poznamenal Jaromír Dvořák. 
 

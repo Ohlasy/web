@@ -2,14 +2,14 @@
 title: Fotografovat utrpení není zbytečné
 author: Tomáš Znamenáček
 perex: Úvodní řeč z výstavy fotografií Jany Plavec Já, uprchlík.
-cover-photo: https://i.ohlasy.info/lkao0NZ.jpg
+cover-photo: https://i.ohlasy.info/i/lkao0nz.jpg
 category: názory a komentáře
 tags: migrace fotografie kultura
 ---
 
 *Vernisáž výstavy Já, uprchlík fotografky a dobrovolnice Jany Plavec se konala v neděli 12. března v boskovickém Kafe za rohem. Výstava potrvá do 8. dubna, úvodním slovem ji zahájil Tomáš Znamenáček, mimo jiné fotograf Ohlasů [rovněž se zkušeností](http://www.ohlasy.info/clanky/2015/09/reportaz-opatovac.html) dobrovolníka [v uprchlických táborech](http://www.ohlasy.info/clanky/2015/10/rozhovor-uprchlici.html). Jeho úvodní řeč publikujeme.*
 
-{% photo src="https://i.ohlasy.info/lkao0NZ.jpg" author="Jana Plavec" %}
+{% photo src="https://i.ohlasy.info/i/lkao0nz.jpg" author="Jana Plavec" %}
 
 Fotografie uprchlické krize se dotýkají jednoho ze základních, věčných etických problémů dokumentární a reportážní fotografie: je přijatelné fotografovat lidské utrpení? A pokud ano, za jakých podmínek?
 

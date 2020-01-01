@@ -1,6 +1,6 @@
 ---
 title: „Knihovna má být obývákem města.“
-cover-photo: https://i.ohlasy.info/HJY2fgu.jpg
+cover-photo: https://i.ohlasy.info/i/hjy2fgu.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 tags: knihovna investice kultura
@@ -8,7 +8,7 @@ tags: knihovna investice kultura
 
 *Rozhovor s vedoucí knihovny Miroslavou Jurdičovou a ředitelem Kulturních zařízení Oldřichem Kovářem. Boskovická knihovna setrvává v provizoriu takzvaného Okresňáku už 19 let a zatím to příliš nevypadá, že by se brzy mohla dočkat důstojného zázemí. Ptali jsme se, jak knihovna funguje, co by přesně potřebovala a co by se dalo pro novou knihovnu udělat ještě v tomto volebním období.*
 
-{% photo src="https://i.ohlasy.info/HJY2fgu.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hjy2fgu.jpg" author="Tomáš Znamenáček" %}
 
 **V jedné internetové diskusi se objevil názor, že než Boskovice postaví novou knihovnu, nebude už nikdo číst. Přestává se číst? Respektive – ubývá vám nějak dramaticky čtenářů?**
 
@@ -20,7 +20,7 @@ OLDŘICH KOVÁŘ: Pětina občanů Boskovic je registrovaná v knihovně.
 
 MIROSLAVA JURDIČOVÁ: Pořádáme besedy pro děti, spolupracujeme se školami všech typů z Boskovic i okolí. Jezdí sem rádi a po besedách, když se děti nadchnou a vyměňují si poznatky, bývá davové přihlašování. Sem tam pozveme na besedu i nějakého spisovatele, aby měly děti také nějakou změnu, jinak dělám besedy já.
 
-{% photo src="https://i.ohlasy.info/p7YNlgO.png" author="Tomáš Znamenáček podle dat Knihovny Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/p7ynlgo.png" author="Tomáš Znamenáček podle dat Knihovny Boskovice" %}
 
 **Do kdy jim to nadšení vydrží? Zaznamenáváte odliv třeba po ukončení základní či střední školy?**
 
@@ -34,7 +34,7 @@ MIROSLAVA JURDIČOVÁ: Je to tak. Muži tvoří asi 30 procent čtenářů, žen
 
 MIROSLAVA JURDIČOVÁ: To ne, děti do 15 let tvoří zhruba čtvrtinu, lidé od 60 let nahoru asi 14 procent. To zase není tak moc.
 
-{% photo src="https://i.ohlasy.info/Ub7Vggf.png" author="Tomáš Znamenáček podle dat Knihovny Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/ub7vggf.png" author="Tomáš Znamenáček podle dat Knihovny Boskovice" %}
 
 ### Není to půjčovna knih, je to skladiště
 
@@ -56,7 +56,7 @@ OLDŘICH KOVÁŘ: Uzpůsobili jsme tomu i výpůjční dobu, studenti se ve čtv
 
 MIROSLAVA JURDIČOVÁ: Je takový trend, že knihovna má být obývákem města. A to by měla být zejména studovna, v dětském oddělení nějaká ta čítárnička.
 
-{% photo src="https://i.ohlasy.info/Lmm8r5p.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/lmm8r5p.jpg" author="Tomáš Trumpeš" %}
 
 **A to vám chybí?**
 
@@ -100,7 +100,7 @@ OLDŘICH KOVÁŘ: Pokud jsem se dobře díval, za rok 2015 je to 1 380 nových t
 
 MIROSLAVA JURDIČOVÁ: Pro nákup české literatury existuje projekt Česká knihovna, toho využíváme. Tak jsme měli letos knížky za 14 tisíc, je to hodnotná česká literatura, dětská i pro dospělé. Na nákup knih je také knihovnický standard.
 
-{% photo src="https://i.ohlasy.info/RGhCC5q.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/rghcc5q.jpg" author="Tomáš Znamenáček" %}
 
 **A ten splňujete?**
 
@@ -138,7 +138,7 @@ OLDŘICH KOVÁŘ: To by byl krok zpátky. Museli bychom se jednak zbavit hluku z
 
 My jsme jeden čas, když to bylo žhavější téma než teď, jezdili po knihovnách se dívat. Je tam spousta nápadů, doporučují nám kanceláře, které to umějí namalovat podle standardů, znají to. Aby byly patřičné výšky, vzdálenosti regálů a podobně. U nás když se dnes podíváte, tak mezi regály neprojede ani vozíček s knihami, nebo projede s bídou. Takže se nechceme dostat do situace, že nás tam šoupnou, aby se nás zbavili.
 
-{% photo src="https://i.ohlasy.info/pwMad2L.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pwmad2l.jpg" author="Tomáš Znamenáček" %}
 
 **Takže to nemáte jako sportovci, kteří o hale říkali: Lepší něco než nic?**
 

@@ -1,14 +1,14 @@
 ---
 title: Začnou opravy sokolovny. Podle ředitele KZMB je to oblečená mrtvola
 perex: Plánované opravy sokolovny začnou se zpožděním a opraví se jen to nejnutnější. Do budoucna je nutná kompletní rekonstrukce.
-cover-photo: https://i.ohlasy.info/tVBfTyP.jpg
+cover-photo: https://i.ohlasy.info/i/tvbftyp.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Od prvního ledna mají boskovickou sokolovnu ve správě místní Kulturní zařízení. Má z ní vyrůst nové kulturní centrum Boskovic. Zatím se ale nic neděje, protože plánované opravy interiérů ještě vůbec nezačaly.*
 
-{% photo src="https://i.ohlasy.info/tVBfTyP.jpg" caption="Interiér boskovické sokolovny" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tvbftyp.jpg" caption="Interiér boskovické sokolovny" author="Tomáš Znamenáček" %}
 
 Z vnějšího pohledu vypadá sokolovna v Boskovicích zachovale, po vstupu ale na člověka dýchne desítky let stejné prostředí. Šatny, podlahy i dřevěné ostění, které pamatuje několik generací obyvatel Boskovic. Kdo už sokolovnu zná, dává si pozor na židli, na kterou usedá. Nebylo neobvyklé, že se židle rozpadla přímo pod hosty koncertů nebo divadelních představení.
 

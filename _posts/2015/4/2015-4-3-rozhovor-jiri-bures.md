@@ -1,13 +1,13 @@
 ---
 title: "Farář Jiří Bureš: Velikonoční tajemství je srdcem křesťanství"
 category: rozhovory
-cover-photo: https://i.ohlasy.info/WWiFPXd.jpg
+cover-photo: https://i.ohlasy.info/i/wwifpxd.jpg
 author: Tomáš Trumpeš
 ---
 
 *Evangelický farář Jiří Bureš nastoupil na boskovický sbor loni v létě. Pochází z Brna, ale do Boskovic se přistěhoval společně s manželkou a třemi dětmi ze severních Čech, kde doposud působil. K rozhovoru jsme se setkali u příležitosti Velikonoc, ale mluvili jsme také o úloze církve v dnešní společnosti, o tom, jak se mu líbí v Boskovicích a jaký má vztah k lidovým zvykům. Tímto rozhovorem také představujeme nového spolupracovníka Ohlasů, neboť Jiří Bureš přislíbil, že bude přispívat do naší názorové sekce.*
 
-{% photo src="https://i.ohlasy.info/WWiFPXd.jpg" %}
+{% photo src="https://i.ohlasy.info/i/wwifpxd.jpg" %}
 
 **Jiří, dovol mi začít trochu osobně – jaká byla tvoje cesta k farářskému povolání? Chtěl jsi být farářem třeba už během studií na gymnáziu, nebo jsi měl i jiné plány?**
 
@@ -33,7 +33,7 @@ To vyjádření, že Ježíš umírá za naše hříchy, je jakousi zkratkou. To
 
 Je to cesta, při které se člověk vydává, učí se žít pro druhého. Ježíšova cesta nám víc a víc ukazuje, že smyslem života je vydat se. To je obsahem slova láska. Sebevydání, které nemusí mít samozřejmě vždycky formu obětování života – to je nejradikálnější podoba, kterou po nás Bůh popravdě řečeno asi málokdy chce. Je to nenápadnější podoba toho, že člověk vydává svůj čas, své síly, svoje dovednosti a fantazii pro druhé lidi.
 
-{% photo src="https://i.ohlasy.info/IESkNOZ.jpg" %}
+{% photo src="https://i.ohlasy.info/i/iesknoz.jpg" %}
 
 **Do jaké míry je Ježíšovo ukřižování také vyjádřením nějakého historického společenského či politického děje?**
 
@@ -55,7 +55,7 @@ Nikdy se neodvážím zesměšňovat vědu, ostatně sám jsem jí byl i účast
 
 Myslím, že na téhle otázce se láme to, jestli vůbec připustíme existenci Boha. Bůh ze své podstaty není zachytitelný vědou. To už objevilo osvícenství. Věda může zkoumat obsahy naší zkušenosti, které se v tomto světě opakují. Ale Bůh je takto neuchopitelný, to si dnes uvědomují vědci i teologové. Když Ježíš přichází jako vzkříšený a ukazuje se učedníkům, přichází už z Boží strany. To je ta nová realita. A my nejsme schopni říct, jak to doopravdy bylo, novozákonní příběhy zdůrazňují popření fyzikálních realit: Ježíš prochází zavřenými dveřmi, zdá se, že je zcela osvobozen od tohoto světa a jen se zde ukazuje jako jakési stvrzení toho, co se stalo. Aby proměnil víru svých učedníků.
 
-{% photo src="https://i.ohlasy.info/ELPPvKX.jpg" %}
+{% photo src="https://i.ohlasy.info/i/elppvkx.jpg" %}
 
 **Mluvili jsme o křesťanské cestě, která je zaměřena na vydání se pro druhé. Říkáš, že právě tím vstupuje vzkříšení do našich životů. Jak se to daří dnešním křesťanům a dnešním církvím třeba tady u nás?**
 

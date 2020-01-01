@@ -1,6 +1,6 @@
 ---
 title: „Smrt není nic, čeho by se člověk musel bát.“
-cover-photo: https://i.ohlasy.info/drcQTE2.jpg
+cover-photo: https://i.ohlasy.info/i/drcqte2.jpg
 author: Kristýna Znamenáčková
 category: rozhovory
 featured: true
@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Radkou Kuncovou, vedoucí domácí hospicové péče, kterou na našem okrese poskytuje Oblastní charita Blansko. Na Boskovicku a Blanensku se jedná o jediné zařízení svého druhu. Je určeno umírajícím pacientům, kterým umožňuje strávit poslední dny a týdny života doma.*
 
-{% photo src="https://i.ohlasy.info/drcQTE2.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/drcqte2.jpg" author="Tomáš Znamenáček" %}
 
 **Co si vlastně představit pod pojmem domácí hospic?**
 
@@ -58,7 +58,7 @@ Je to služba, která není nijak zakotvená v zákoně a neexistuje pro ni dosu
 
 Právní zakotvení. My nejsme ani zdravotní, ani sociální služba. Pojišťovna má momentálně pilotní projekt, aby paliativní domácí péče byla zdravotní služba pojišťovnou financovaná. Ale záleží to na vyhodnocení toho pilotního projektu. Zjednodušilo by se tím nejen financování, ale i dostupnost léčebných přípravků. Teď musíme o všechno žádat obvodního lékaře. Lékařka na kontrolách musí předcházet situacím a předvídat je, musí mít zásobu léků pro různé situace. Kdyby byla povolená paliativní ambulance, bude si moct sama předepsat lék a nebudou tam časové prodlevy. Někdy je těžké se dostat k receptu v okamžiku, kdy je akutně potřeba.
 
-{% photo src="https://i.ohlasy.info/bdxqVQ4.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bdxqvq4.jpg" author="Tomáš Znamenáček" %}
 
 **Jak vznikla myšlenka založit při blanenské charitě domácí hospic? Jaká je v něm vaše funkce?**
 
@@ -88,7 +88,7 @@ Bolesti jsou jeden z nejzvladatelnějších příznaků. Existuje velká řada l
 
 Snažíme se o tom mluvit, je to důležité. Těžko se umírá člověku, který nemá uzavřený vztah s příbuznými, s dětmi. Ale člověk, který nechává doběhnout svůj život do konce, může stále něco dělat, nějak se vnitřně k věcem stavět, řešit je, každá chvíle navíc je velký dar. My dokážeme zbavit člověka nepříjemných fyzických symptomů a člověk má čas pracovat sám se sebou, dořešit si svoje pozemské věci. 
 
-{% photo src="https://i.ohlasy.info/BcUYcWA.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bcuycwa.jpg" author="Tomáš Znamenáček" %}
 
 **Jaké jsou největší problémy umírajících, se kterým se potýkají?**
 

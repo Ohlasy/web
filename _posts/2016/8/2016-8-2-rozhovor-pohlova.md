@@ -1,13 +1,13 @@
 ---
 title: „Spoustu věcí, které jsou teď samozřejmostí, jsme si musely vydupat.“
-cover-photo: https://i.ohlasy.info/4qOtn53.jpg
+cover-photo: https://i.ohlasy.info/i/4qotn53.jpg
 author: Martina Vašková
 category: rozhovory
 ---
 
 *Rozhovor s Lenkou Pohlovou, statutární zástupkyní Mateřského centra Boskovice, která zde pracuje od úplných začátků. Povídaly jsme si o provozu, akcích, ale i možnostech a potřebách místa, kde se scházejí rodiče s malými dětmi. Kromě pozvání na letos desáté Zámecké hemžení jsme se v rozhovoru věnovaly i rozdílům v mateřské dovolené před lety a dnes.*
 
-{% photo src="https://i.ohlasy.info/4qOtn53.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/4qotn53.jpg" author="Tomáš Trumpeš" %}
 
 **Od kdy působíte v mateřském centru a co zde máte na starosti?**
 
@@ -45,7 +45,7 @@ Je pravda, že letošní prázdniny jsou hodně nabité. Dříve jsme o prázdni
 
 Akcí máme v srpnu ještě hodně, všechny je najdete na [našem webu](http://mcboskovice.webnode.cz/) nebo [facebooku](https://www.facebook.com/Mate%C5%99sk%C3%A9-centrum-Boskovice-102151246526765/?fref=ts). Zajímavá určitě bude prohlídka hradu pro rodiny s dětmi, které 5. srpna provede ředitelka Muzea Boskovicka Dáša Hamalová, volno máme i v příměstském táboře pro děti od tří do šesti let. Budeme mít otevřenou hernu, pořádáme vyjížďku na odrážedlech za historickými zemědělskými stroji nebo připravujeme besedu o ekologické domácnosti a domácí kosmetice.  Připravujeme i zdobení triček, společenské hry nebo recepty a ochutnávky vegetariánských pomazánek. 
 
-{% photo src="https://i.ohlasy.info/BxkBxx6.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/bxkbxx6.jpg" author="Tomáš Trumpeš" %}
 
 **A jaké bude letošní Zámecké hemžení, na co se můžou děti a rodiče těšit?** 
 
@@ -63,7 +63,7 @@ Kromě Zámeckého hemžení je to každoroční Karneval pro mrňata, který po
 
 To nedokáži říct, nám to přijde zcela přirozené, protože ředitelka muzea Dagmar Hamalová je jednou z členek výboru mateřského centra. Takže jen v posledním měsíci jsme v muzeu pořádaly bleší trh nebo procházku s rodiči a dětmi židovským městem. Naše maminky zase naopak pomáhají třeba s muzejní nocí, všechno je to propojené.   
 
-{% photo src="https://i.ohlasy.info/K19QdNp.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/k19qdnp.jpg" author="Tomáš Trumpeš" %}
 
 **Na vašem webu jsem se dočetla, že se vaše činnost zaměřuje i na zlepšování sociálních a materiálních podmínek ve městě. Co se vám v tomto ohledu povedlo?** 
 

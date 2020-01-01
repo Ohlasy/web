@@ -1,14 +1,14 @@
 ---
 title: Knihovna tam nejspíš nebude. Do bývalého Telecomu se stěhují skauti
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/Dk506If.jpg
+cover-photo: https://i.ohlasy.info/i/dk506if.jpg
 author: Marek Osouch
 tags: knihovna
 ---
 
 *Nová knihovna vedle boskovického kina byla snem minulého vedení Boskovic. Dnes už je nejspíš jasné, že zde knihovna nikdy nebude. Část místností nově obsadí boskovičtí skauti. Vzhledem k problémům s předchozím nájemcem budova městu nepřinášela ani patřičný příjem, natož aby si vydělávala na svou pořizovací cenu. Zbytečná byla zřejmě i studie, která na vybudování knihovny vznikla. Budova O2 už bez náhrady spolkla pět milionů korun, aniž by se s ní cokoliv významného dělo.*
 
-{% photo src="https://i.ohlasy.info/Dk506If.jpg" %}
+{% photo src="https://i.ohlasy.info/i/dk506if.jpg" %}
 
 Psalo se jaro 2010 a město usilovalo o odkup budovy O2 nad boskovickým kinem. V původní dražbě Boskovice budovu nezískaly. Nabízely 3,65 milionu korun. Od nového vlastníka ji ovšem nakonec koupily za 4,75 milionu. Třiadvacet zastupitelů ze sedmadvaceti záměr koupě odsouhlasilo na svém dubnovém zasedání v roce 2010. V té době vládla v Boskovicích koalice ODS, ČSSD a KDU-ČSL a s novým vedením po volbách na podzim roku 2010 se v myšlence knihovny vedle kina i nadále pokračovalo.
 
@@ -16,7 +16,7 @@ Tenkrát se o budově mluvilo jako o strategickém a důležitém místě pro m�
 
 V roce 2012 vznikla na toto místo první studie na vybudování nové knihovny. Architekti odhadli výstavbu na zhruba 70 milionů, ale tuto cenu chtělo město přinejmenším o 20 milionů snížit. Studie za 200 tisíc, jejíž součástí byla také celková úprava letního kina, tak nakonec přišla z velké části vniveč. Přepracování na levnější variantu by podle tehdejšího vedení stálo dalších 200 tisíc. Rozhodli proto zadat vypracování další studie Zdeňku Eichlerovi za 45 tisíc. Druhá studie už ale nejspíš vůbec nevznikla. „Na další studii si nepamatuji,“ říkají dnes shodně místostarostka Jaromíra Vítková (KDU-ČSL) i bývalý místostarosta Dominik Božek. Ten dodává, že stlačit cenu pod 50 milionů byl nadlidský úkol. O to se pokoušel ředitel KZMB Oldřich Kovář. V současné době už ovšem nevěří, že by tam knihovna mohla vzniknout. „Reálnější je z mého pohledu přesun do bývalého ZZN,“ uvedl Oldřich Kovář. Budova ZZN se nachází jen o kousek výše a dnes v ní má svůj obchod Mountfield a Idyla.
 
-{% photo src="https://i.ohlasy.info/8m3Chpt.jpg" %}
+{% photo src="https://i.ohlasy.info/i/8m3chpt.jpg" %}
 
 Před třemi roky také město přestěhovalo boskovické zahrádkáře ze sídla vedle budovy O2 do bývalého internátu pedagogické školy. Knihovna totiž měla vzniknout i na jejich místě. „Vedení města nám dalo na výběr. Buď zůstat do budování nové knihovny, nebo se přestěhovat tam, kde jsme dnes. Můžu však říci, že máme lepší zázemí než předtím,“ sdělil Jiří Stříž ze svazu zahrádkářů s tím, že nájem mají zhruba stejný jako předtím a smlouvu sjednanou na pětadvacet let. Někomu podle něj trvalo, než si zvykl, že je prodejna zahrádkářů jinde, ale lidé si je už opět našli.
 

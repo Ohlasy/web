@@ -1,6 +1,6 @@
 ---
 title: "Boskovice 2016: Gianniho festivalový zápisník"
-cover-photo: https://i.ohlasy.info/9AXNZH0.jpg
+cover-photo: https://i.ohlasy.info/i/9axnzh0.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura
@@ -8,7 +8,7 @@ tags: kultura
 
 *Dvacátý čtvrtý ročník festivalu Boskovice 2016 je již minulostí. Podle organizátorů ho letos navštívilo o několik set lidí více než bylo zvykem v posledních několika letech. Z obvyklých čtyř tisíc se počet účastníků vyhoupl asi na čtyři a půl tisíce. Ohlédnutí za festivalem napsal pro Ohlasy náš kulturní redaktor Gianni Bařinka, jehož festivalový zápisník není a ani nemůže být komplexním hodnocením rozsáhlého a pestrého festivalového programu, ale spíše individuálním popisem prožitků jednoho domácího festivalového návštěvníka.*
 
-{% photo src="https://i.ohlasy.info/9AXNZH0.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/9axnzh0.jpg" author="Tomáš Trumpeš" %}
 
 A je tu zase po roce boskovický festival. Tentokrát Boskovice 2016. Festival, o kterém místní mluví často jako o festivalu Unijazz, a to podle názvu spolku, který tento festival pořádá. Členové Unijazzu o něm však mluví jako o festivalu Boskovice, jak už loni při zahájení trefně poznamenal Čestmír Huňát, předseda Unijazzu a zároveň koordinátor a dramaturg festivalu. Mně navíc – ostatně jako každý rok – přichází na mysl otázka, jestli bych si mezi všemi letními akcemi vybral právě tuto, kdybych nebyl místní a kdybych se každý rok na festivalovém dění alespoň minimálně nepodílel. Boskovice totiž vesměs nenabízejí velká jména, oproti tomu tu nacházíme kvalitní alternativní produkci, a to nejen hudební, ale i divadelní, literární, výtvarnou nebo filmovou. Zvláštní atmosféru festival získává také díky tomu, že se odehrává na mnoha místech po celém městě. Téměř každý rok docházím k tomu, že bych na tento festival nejspíš nezamířil, pokud bych se o něm dozvěděl pouze nějakou oficiální cestou, díky reklamě nebo propagaci. Velmi pravděpodobně bych se sem ovšem rád vracel poté, co bych sem alespoň jednou, i kdyby třeba náhodou, zavítal. Některé festivaly zkrátka mají svého nezaměnitelného ducha, a u Boskovic to platí možná dvojnásob.
 

@@ -1,6 +1,6 @@
 ---
 title: „Kdyby víc lidí přemýšlelo, co Evropská unie je a co pro nás znamená, tak by nemohli být takhle negativní,“ říká europoslanec Luděk Niedermayer
-cover-photo: https://i.ohlasy.info/hOSYJSt.jpg
+cover-photo: https://i.ohlasy.info/i/hosyjst.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Setkání věnované evropské politice svolal na minulý víkend do Boskovic poslanec Evropského parlamentu Luděk Niedermayer. Bývalý viceguvernér České národní banky byl do evropských poslaneckých lavic zvolen na kandidátce TOP 09, která je členem největšího poslaneckého klubu – Evropské lidové strany. Rozhovor jsme vedli o evropské politice, převládajícím českém postoji k ní, o aktuální krizi a o spolupráci českých euproposlanců.*
 
-{% photo src="https://i.ohlasy.info/hOSYJSt.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/hosyjst.jpg" author="Tomáš Trumpeš" %}
 
 **Jaké téma má vaše boskovické setkání a kdo se ho účastní?**
 

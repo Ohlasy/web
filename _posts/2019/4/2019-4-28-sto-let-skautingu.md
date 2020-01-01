@@ -1,6 +1,6 @@
 ---
 title: „Nejsilnější období bylo po válce. Teď se k tomu blížíme.“
-cover-photo: https://i.ohlasy.info/cZLhbLb.jpg
+cover-photo: https://i.ohlasy.info/i/czlhblb.jpg
 perex: Boskovičtí skauti nachystali na květen oslavy 100 let skautingu v Boskovicích – výstavu v muzeu, vydání knihy a řadu dalších akcí. O tom všem jsme si povídali s Ludmilou Dobrozemskou a Václavem Klíčem, kteří stáli v čele příprav.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -9,7 +9,7 @@ tags: historie
 
 *Boskovičtí skauti nachystali na květen oslavy 100 let skautingu v Boskovicích. Oslavy budou zahrnovat výstavu v muzeu, vydání knihy a řadu dalších akcí. O tom všem jsme si povídali s Ludmilou Dobrozemskou a Václavem Klíčem, kteří stáli v čele příprav.*
 
-{% photo src="https://i.ohlasy.info/cZLhbLb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/czlhblb.jpg" author="Tomáš Znamenáček" %}
 
 **V květnu budeme slavit 100 let skautingu v Boskovicích. Co to vlastně znamená, těch 100 let? Co je ta první událost, od které se tento děj počíná?**
 
@@ -59,7 +59,7 @@ VÁCLAV: Na začátku jsme netušili ani to, že tady byl židovský oddíl nebo
 
 LUDMILA: Jsou s nimi nahrané rozhovory. Ale my už jsme se nemohli doptat na to, co jsme potřebovali.
 
-{% photo src="https://i.ohlasy.info/z58ONVr.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/z58onvr.jpg" author="Tomáš Znamenáček" %}
 
 ### Nejvíc svobodných dní v historii
 
@@ -113,7 +113,7 @@ LUDMILA: Je to tak. Nedávno jsme jako celá česká organizace slavili nejvíc 
 
 VÁCLAV: Bylo to asi před třemi týdny.
 
-{% photo src="https://i.ohlasy.info/MhlhKae.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mhlhkae.jpg" author="Tomáš Znamenáček" %}
 
 ### Nenechávalo nás to dobře spát
 
@@ -171,7 +171,7 @@ LUDMILA: Určitě bych zmínila promítání skautských filmů, to bude dvakrá
 
 LUDMILA: Všechny akce jsou pro širokou veřejnost, žádná není uzavřená čistě pro skauty.
 
-{% photo src="https://i.ohlasy.info/5hxoHp0.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5hxohp0.jpg" author="Tomáš Znamenáček" %}
 
 ### Kapacity nestačí
 

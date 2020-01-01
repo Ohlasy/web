@@ -1,6 +1,6 @@
 ---
 title: „Chtěli jsme přispět k místní pospolitosti. To je důležité.“
-cover-photo: https://i.ohlasy.info/lT4bfNF.jpg
+cover-photo: https://i.ohlasy.info/i/lt4bfnf.jpg
 perex: Rozhovor s Rudolfem Burgrem, organizátorem boskovické vánoční Polévky pro chudé i bohaté. Akce se letos koná již podvaadvacáté, polévka se rozdává na Štědrý den od 11 do 12 hodin na Masarykově náměstí.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Rudolfem Burgrem, organizátorem boskovické vánoční Polévky pro chudé i bohaté. Akce se letos koná již podvaadvacáté, polévka se rozdává na Štědrý den od 11 do 12 hodin na Masarykově náměstí. Kromě polévky si budou moci lidé odnést domů i duchovní symbol Vánoc v podobě světla z Betléma, které přivezou členové místního skautského oddílu Nibowaka.*
 
-{% photo src="https://i.ohlasy.info/lT4bfNF.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lt4bfnf.jpg" author="Tomáš Znamenáček" %}
 
 **Když se uzavřela restaurace Makkabi, zaznamenal jsem v Boskovicích nejistotu, jestli se bude konat vánoční polévka. Panovala taková nejistota i u vás, nebo bylo jasné, že v polévce budete pokračovat?**
 
@@ -70,7 +70,7 @@ Stačilo. Takovým našim nadšeným podporovatelem byl Skot Andrew, který se d
 
 Hodně postupně, a pak byl někdy v polovině výraznější skok. A takové ty částky přes šedesát tisíc začaly někdy před šesti lety. Takže byly dva výraznější skoky, jinak pozvolný růst.
 
-{% photo src="https://i.ohlasy.info/u2EaPp9.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/u2eapp9.jpg" author="Tomáš Znamenáček" %}
 
 ### Protipól globalizaci
 

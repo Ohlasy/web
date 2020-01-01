@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Obraz Pavla Bačovského T. G. Masaryk v Boskovicích"
-cover-photo: https://i.ohlasy.info/QEk8Z11.jpg
+cover-photo: https://i.ohlasy.info/i/qek8z11.jpg
 perex: V roce 1929 navštívil Boskovice prezident Masaryk. Událost zachytil boskovický malíř Pavel Bačovský na rozměrném obraze, který je k vidění v boskovickém muzeu.
 author: Petr Vítámvás
 category: seriály
@@ -9,7 +9,7 @@ serial: depozitar
 
 *V neděli 16. června 1929 navštívil Boskovice prezident Československé republiky Tomáš Garrigue Masaryk. Velkolepou událost pro obyvatele Boskovic a regionu zachytil boskovický malíř Pavel Bačovský na rozměrném obraze, který je k vidění na výstavě k 100. výročí vzniku republiky v Muzeu regionu Boskovicka.*
 
-{% photo src="https://i.ohlasy.info/QEk8Z11.jpg" caption="Pavel Bačovský: T. G. Masaryk v Boskovicích, 1932" author="Sbírka Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/qek8z11.jpg" caption="Pavel Bačovský: T. G. Masaryk v Boskovicích, 1932" author="Sbírka Muzea regionu Boskovicka" %}
 
 T. G. Masaryk přijel poprvé do regionu jako prezident na své cestě po vlasti v září 1921. Jeho první zastávka na Moravě byla ve stanici Skalice-Boskovice. Podél kolejí bylo shromážděno obyvatelstvo a zástupci četných korporací, legionáři, školní děti, učitelé, zástupci náboženských vyznání a starostové obcí z okresu. Dobová kronika událost popisuje takto: „Za zvuků fanfár Libuše dojel vlak s panem presidentem o 14 hod. 10 min. do Skalice-Boskovice. Pan president vystoupil svěžím krokem z vozu a přijal nejprve hlášení inspektora státních drah pana Věrného, pak kapitána četnictva pana Tucháčka, načež přednosta politické správy rada Fendrych pronesl uvítací řeč. Pan president poděkoval srdečně za uvítání a slíbil, že vykoná vše, co v jeho moci, aby obyvatelstvo Moravy, jeho mateřské země, cítilo se šťastno v naší republice.“
 

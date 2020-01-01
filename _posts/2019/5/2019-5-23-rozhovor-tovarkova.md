@@ -1,7 +1,7 @@
 ---
 title: „Mladí se ptají, jak bude Země vypadat, jestli tady budou podmínky k životu.“
 perex: Rozhovor s Helenou Továrkovou, ředitelkou Nadace Veronica, zaměřené na ochranu přírody, krajiny a životního prostředí.
-cover-photo: https://i.ohlasy.info/4nrG5vv.jpg
+cover-photo: https://i.ohlasy.info/i/4nrg5vv.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:
@@ -12,7 +12,7 @@ tags:
 
 *Rozhovor s Helenou Továrkovou, ředitelkou Nadace Veronica, zaměřené na ochranu přírody, krajiny a životního prostředí. Po přednášce nazvané „Co můžeme udělat pro přírodu?“ jsme si povídali o stejném tématu – o dopadech klimatické změny a o tom, jak můžeme ekologické krizi čelit. Jako jednotlivci, jako město a jako občanská společnost.*
 
-{% photo src="https://i.ohlasy.info/4nrG5vv.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4nrg5vv.jpg" author="Tomáš Znamenáček" %}
 
 **Když navážu na název vaší přednášky: Můžeme vůbec něco dělat pro přírodu?**
 
@@ -48,7 +48,7 @@ Je to hodně výrazné. Ve srovnání se státy napříč Evropou vytápíme nej
 
 Přesně tak. Tím, že ztlumí topení, omezují svoji ekologickou stopu. Netýká se to jen domácností, ale i institucí – často přetápíme v práci, na úřadech, ve školách, v nemocnicích, v domovech seniorů… Často na to upozorňují cizinci, kteří sem přijedou, že tady máme v zimě všude hrozné teplo a když někam přijdou, musejí se vysvléct do trička s krátkým rukávem, protože jinak by tam nevydrželi sedět.
 
-{% photo src="https://i.ohlasy.info/yJPGqEK.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/yjpgqek.jpg" author="Tomáš Znamenáček" %}
 
 ### Tohle je konečně občanská společnost
 
@@ -78,7 +78,7 @@ Ano, je to tady. Vidět ty lidi bylo neuvěřitelné. A vidím to i v projektech
 
 Ještě máme těch dvanáct let. Dnes máme nástroje na to, abychom mohli dopady změny klimatu zmírnit a abychom se na ně mohli adaptovat. Nemůžeme si myslet, že ten proces zastavíme. Musíme se snažit snižovat emise, ale také se přizpůsobovat situaci.
 
-{% photo src="https://i.ohlasy.info/UmPrQti.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/umprqti.jpg" author="Tomáš Znamenáček" %}
 
 ### Samospráva by měla jít příkladem
 
@@ -114,7 +114,7 @@ Asi vám teď neporadím, co by se dalo dělat v tomto konkrétním případě. 
 
 Město a jakákoliv samospráva by měly jít příkladem ostatním vlastníkům, když nějaké budovy opravují nebo staví. Naprostá většina budov v Česku nejenže je energeticky neúsporná, ale nevyužívá ani dešťovou vodu. To by se mělo změnit. Tam, kam jdou veřejné peníze – při opravách škol, nemocnic, úřadů – můžeme ukázat trend. Zatím se to vůbec neděje. Zelenými střechami nebo jednoduchými opatřeními, která umožní rozlití vody z okapového systému, aby se zasakovala; tím vším se dá sucho zmírňovat. A když to dělá veřejná správa, inspiruje ostatní, aby na to naskočili a stal se z toho standard. Určitě byste i vy mohli chtít po vaší samosprávě, aby to zohledňovala. Při jakékoli rekonstrukci nebo stavbě se na ta kritéria můžete ptát.
 
-{% photo src="https://i.ohlasy.info/ZkF8K5E.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/zkf8k5e.jpg" author="Tomáš Znamenáček" %}
 
 ### Podpora i běžné partě kamarádů
 

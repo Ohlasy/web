@@ -1,6 +1,6 @@
 ---
 title: Co trápí Letovice?
-cover-photo: https://i.ohlasy.info/RfYAdhd.jpg
+cover-photo: https://i.ohlasy.info/i/rfyadhd.jpg
 perex: Letovice pochopitelně trápí podobné problémy jako jiná města. O jednom specifickém napsal komentář Hynek Skořepa. Týká se uzavření lávky pro pěší u Letovických strojíren.
 author: Hynek Skořepa
 category: názory a komentáře
@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Letovice pochopitelně trápí podobné problémy jako jiná města, města velká, střední i menší. Ať už je to parkování v centru, oprava chodníků a jejich zimní údržba, nedostatek cenově dostupných bytů či problematické rozrůstání zástavby v okrajových částech. V Letovicích samotných se k tomu ještě přidává tristní stav opuštěných průmyslových areálů téměř v centru města či problematika skloubení různých zájmů v okolí přehradní nádrže Křetínka, hlavního rekreačního zázemí Letovic. Výše uvedené záležitosti se daří řešit s větším či menším úspěchem, jak už to bývá. Často jde o běh na dlouhou trať.*
 
-{% photo src="https://i.ohlasy.info/RfYAdhd.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/rfyadhd.jpg" author="Hynek Skořepa" %}
 
 Co však letovické občany i návštěvníky města trápí v posledních měsících především, je uzavření lávky pro pěší u Letovických strojíren. Trápí je to opravdu hodně. A to nejen podle mého názoru, slýchávám to i v rámci náhodných hovorů se známými, které v Letovicích potkávám. Coby místnímu, bydlícímu na Nádražní ulici, mi uzavření lávky dost komplikuje život. Po příchodu z práce jsem byl zvyklý chodit na procházku se psem právě k „Letostroji“ a potom po ulici Pražské k supermarketu Penny. Odtud jsem se vracel po takzvané hrázi (kolem někdejšího, v 80. letech minulého století bohužel zatrubněného, ramena Svitavy) zase zpět k mlýnu u vlakového nádraží.
 

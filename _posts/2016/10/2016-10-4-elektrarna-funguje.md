@@ -1,6 +1,6 @@
 ---
 title: Solární elektrárna znovu funguje. Rada schválila novou nájemní smlouvu
-cover-photo: https://i.ohlasy.info/zJAOTOC.jpg
+cover-photo: https://i.ohlasy.info/i/zjaotoc.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
@@ -9,7 +9,7 @@ tags:
 
 *Solární elektrárna ponese městskému rozpočtu znovu peníze. Město souhlasilo s uzavřením nájemní smlouvy s [novým vlastníkem panelů](http://ohlasy.info/clanky/2016/03/elektrarna-koupena.html), kterým se na jaře stala firma Solar Global. Každý rok z ní přiteče do městské kasy 250 tisíc korun.*
 
-{% photo src="https://i.ohlasy.info/zJAOTOC.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/zjaotoc.jpg" author="Marek Osouch" %}
 
 „Rada města schválila nájemní smlouvu na provozování fotovoltaické elektrárny s firmou Solar Global. Je to za cenu 250 tisíc korun ročně,“ uvedla starostka Boskovic Hana Nedomová (ČSSD). Výši nájemného komentoval na červnovém zastupitelstvu bývalý starosta a dnes opoziční zastupitel Jaroslav Dohnálek (ODS). Upozornil na to, že v roce 2012 současný radní Milan Kolínský (ČSSD), v té době v opozici, kritizoval snižování nájmu pro provozovatele elektrárny firmu AKAM Bosko z 65 korun za metr na polovinu a nyní souhlasil s pronájmem za zhruba osm korun za jeden metr. Citoval přitom [články z Blanenského deníku](http://blanensky.denik.cz/zpravy_region/nizsi-najem-budou-chtit-vsichni-kritizuje-opozice-radni-20120514.html).
 

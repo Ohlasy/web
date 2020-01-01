@@ -1,14 +1,14 @@
 ---
 title: "Kulturní akce v Boskovicích: Kolik jich je a kdo je pořádá?"
 perex: Následující text vznikl na základě pokusu sepsat a spočítat kulturní akce v Boskovicích, konané během končící sezóny 2016/2017.
-cover-photo: https://i.ohlasy.info/t2PPkgQ.jpg
+cover-photo: https://i.ohlasy.info/i/t2ppkgq.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Následující text vznikl na základě pokusu sepsat a spočítat kulturní akce v Boskovicích, konané během končící sezóny 2016/2017. K tomuto nápadu nás přiměla zajímavá debata na facebookovém profilu dramaturga boskovických Kulturních zařízení Ivo Legnera a také diskuse o podílu [končícího hudebního klubu Sklepy](http://www.ohlasy.info/clanky/2017/07/konec-sklepu.html) na zdejším kulturním životě.*
 
-{% photo src="https://i.ohlasy.info/t2PPkgQ.jpg" caption="Koncert v letním kině" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/t2ppkgq.jpg" caption="Koncert v letním kině" author="Tomáš Znamenáček" %}
 
 Samozřejmě si uvědomujeme, že samotný počet kulturních akcí nabízí jen jeden, poměrně omezený úhel pohledu na boskovické kulturní dění. Zjistit kupříkladu návštěvnost všech jednotlivých akcí už však není dost dobře možné. Zaměřili jsme se tedy na prostou nabídku akcí, plus na vyhodnocení toho, kdo se na jejich organizování nejvíce podílí.
 
@@ -20,7 +20,7 @@ Je samozřejmě možné, že některé akce naší pozornosti unikly a nepodaři
 
 Zcela samostatně jsme ponechali boskovické kino. To ve sledovaném období uvedlo přibližně 800 jednotlivých projekci, včetně představení pro školy a alternativního obsahu. Z toho přibližně čtyřicet projekcí proběhlo v letním kině.
 
-{% photo src="https://i.ohlasy.info/BOTS5nC.png" caption="Počty kulturních akcí podle typu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bots5nc.png" caption="Počty kulturních akcí podle typu" author="Tomáš Znamenáček" %}
 
 ### Hudba
 
@@ -52,7 +52,7 @@ Nejen v kině se pak konají filmové projekce. Velmi aktivní byl v tomto ohled
 
 Díky aktivitám klubu Tancini a místní ZUŠ proběhlo také několik akcí zaměřených na tanec. Mezi pel-mel jsme pak zařadili akce jako Brána památek dokořán, muzejní noc, vánoční jarmark s kulturním programem či obtížně zařaditelnou a poměrně unikátní akci [slam poetry na Sklepech](http://www.ohlasy.info/clanky/2017/04/slam-kamila.html).
 
-{% photo src="https://i.ohlasy.info/Pu1FssG.png" caption="Počty kulturních akcí podle pořadatele" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pu1fssg.png" caption="Počty kulturních akcí podle pořadatele" author="Tomáš Znamenáček" %}
 
 ### Pořadatelé
 

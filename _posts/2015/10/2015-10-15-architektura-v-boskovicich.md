@@ -1,6 +1,6 @@
 ---
 title: Za feudalismu se v Boskovicích stavělo lépe než dnes
-cover-photo: https://i.ohlasy.info/NxtiIpl.jpg
+cover-photo: https://i.ohlasy.info/i/nxtiipl.jpg
 author: Petr Vítámvás
 category: názory a komentáře
 featured: true
@@ -9,7 +9,7 @@ tags: architektura
 
 *„Oproti řadě zajímavých a cenných objektů z minula nepostavila přítomnost kromě několika škol nic většího a vůbec nic pozoruhodnějšího,“ povzdechl si před sto lety ing. Ivo Beneš, autor regulačního plánu Boskovic. Jeho povzdechnutí nám může dnes připadat nemístné, neboť výčet veřejných budov postavených od konce 19. století do roku 1912, tedy do vydání jeho úvahy nad regulačním plánem Boskovic, není nepatrný: obecná škola chlapecká (dnes VSŠ) a měšťanka (dnes pedagogická škola) na Komenského ulici, dívčí škola na Bezručově ulici, gymnázium, dívčí vychovatelna, sokolovna.*
 
-{% photo src="https://i.ohlasy.info/h5XjEjV.jpg" author="Muzeum Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/h5xjejv.jpg" author="Muzeum Boskovicka" %}
 
 Beneš byl k většině těch staveb kritický, takto píše například o gymnáziu: „kolos ověšený jehlany a koulemi (…) na konci vypouklé ulice na titěrném náměstíčku…“ Pedagogické škole (tehdy měšťanka) vytýká její hmotu, jež brání či konkuruje pohledům na kostel (dnes po rekonstrukci s nátěrem o stupně tmavším tuto funkci plní ještě lépe). Pouze sokolovna a dívčí vychovatelna u něj došly pochvaly: „Teprve sokolovna je prvním stavebním činem přítomnosti, ze škol jedině dívčí vychovatelna je stavebně pozoruhodný ústav – skromná a úměrná v stavbě, dýchající velikou zahradou, stojí v poloze dobře volené vůči celku.“
 
@@ -19,11 +19,11 @@ Jak vidno, meziválečné období bylo v Boskovicích patrně posledním vzepět
 
 Obchodní dům Jakub, na místě, jež nemůže minout žádný návštěvník Boskovic, je přiléhavým výrazem bezradnosti z nabyté svobody, ostatně jako řada dalších staveb z 90. let.
 
-{% photo src="https://i.ohlasy.info/nAWA8Cm.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/nawa8cm.jpg" author="Tomáš Trumpeš" %}
 
 Až na hrstku celkem zdařilých soukromých iniciativ nejenže „přítomnost nepostavila“ nic většího a pozoruhodnějšího, ještě svými zásahy poznamenala (neužívám zde přiléhavějšího označení, jež by muselo být vulgarismem) díla architektů z dob minulých, jež by nyní jejich autoři již stěží poznali  – okresní úřad Emanuela Straky se solárními panely na střeše a bůvíjakým dalším osudem a chlapecká škola dvojice světoznámých architektů Liebscher–Wiesner  obalená podle poslední módy polystyrenem. Už jen to lidové pojmenování zelená ve vztahu k  budově dosvědčuje změnu v citlivosti vnímání – dříve to byla metonymie, tedy básnická figura, dnes je doslovné, aby to bylo jasné každému.
 
-{% photo src="https://i.ohlasy.info/NxtiIpl.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/nxtiipl.jpg" author="Tomáš Trumpeš" %}
 
 Samostatnou kapitolu by mohla tvořit rekonstrukce a úprava sportovišť, zde si dovolím jen poznámku –  že sportovní hala nemusí být nevzhledná montovaná krabice, ukazuje [příklad z nedalekých Jaroměřic](http://www.franekarchitects.cz/projekt/telocvicna-v-jaromericich/) – realizace architekta Zdeňka Fránka, rodáka z Boskovic (!).
 

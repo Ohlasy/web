@@ -1,7 +1,7 @@
 ---
 title: Několik poznámek k výsledkům krajských a senátních voleb
 perex: V pátek a v sobotu proběhly krajské volby a první kolo voleb senátních. Oboje volby přinesly značná překvapení, přečtěte si několik poznámek a postřehů k výsledkům.
-cover-photo: https://i.ohlasy.info/CtRfl2K.jpg
+cover-photo: https://i.ohlasy.info/i/ctrfl2k.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika volby
@@ -9,7 +9,7 @@ tags: politika volby
 
 *V pátek a v sobotu proběhly krajské volby a první kolo voleb senátních. Oboje volby přinesly značná překvapení, přečtěte si několik poznámek a postřehů k výsledkům. Druhé kolo senátních voleb se koná v pátek 14. a sobotu 15. října.*
 
-{% photo src="https://i.ohlasy.info/CtRfl2K.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ctrfl2k.jpg" author="Tomáš Znamenáček" %}
 
 ### Obecně k volbám
 
@@ -26,13 +26,13 @@ Volby také potvrdily, že politická scéna je značně roztříštěná. Andre
 Mandátů v krajském zastupitelstvu je 65 a voliči je rozdělili takto: ANO 15 mandátů, KDU-ČSL 11, ČSSD 11, KSČM 7, ODS 6, TOP 09 a Žít Brno 4, Starostové 4, SPD a SPO 4,
 Zelení a Piráti 3:
 
-{% photo src="https://i.ohlasy.info/gxS6UcF.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/gxs6ucf.png" author="Tomáš Znamenáček" %}
 
 Drtivá porážka Michala Haška. Tak by se jednoduše daly tyto výsledky shrnout. Že se ČSSD bude oproti minulým a předminulým volbám bude dále propadat, jsme [v Ohlasech předpovídali](http://ohlasy.info/clanky/2016/08/hasek-milovany.html), ale že to bude o tolik, netušil asi nikdo.
 
 Propad zaznamenaly tradiční strany jako celek. Nejlépe to dokládá postupně se tenčící počet mandátů, které ukazuje následující graf:
 
-{% photo src="https://i.ohlasy.info/ggn54f8.png" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ggn54f8.png" author="Tomáš Znamenáček" %}
 
 Do krajského zastupitelstva se dostalo hned devět politických uskupení namísto dosavadních pěti. Nových koalic se nabízí několik, jejich sestavení však asi nebude úplně snadné.
 

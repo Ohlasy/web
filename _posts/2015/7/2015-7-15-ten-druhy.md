@@ -1,7 +1,7 @@
 ---
 title: Ten druhý z K.
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/wtexrr7.jpg
+cover-photo: https://i.ohlasy.info/i/wtexrr7.jpg
 author: Jiří Bureš
 ---
 

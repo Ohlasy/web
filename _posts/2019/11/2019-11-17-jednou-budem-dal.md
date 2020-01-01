@@ -1,6 +1,6 @@
 ---
 title: "Listopad 2019. Budeme jednou dál?"
-cover-photo: https://i.ohlasy.info/d6d60bce.jpg
+cover-photo: https://i.ohlasy.info/i/d6d60bce.jpg
 perex: U příležitosti 30. výročí od událostí 17. listopadu 89 a následné Sametové revoluce je mimo jiné dobré si připomenout, že dějiny nelze zastavit. Věříme i my dnes v to, že „jednou budem dál“?
 author: Tomáš Trumpeš
 category: názory a komentáře
@@ -9,7 +9,7 @@ tags: historie politika
 
 *U příležitosti 30. výročí od událostí 17. listopadu 89 a následné Sametové revoluce je mimo jiné dobré si připomenout, že dějiny nelze zastavit. Vedle historického přemítání, respektive možná právě na jeho základě je dobré si položit otázku, jestli i my dnes věříme v to, že „jednou budem dál“.*
 
-{% photo src="https://i.ohlasy.info/d6d60bce.jpg" caption="Manifestace v rámci generální stávky v pondělí 27. listopadu" author="archiv města Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/d6d60bce.jpg" caption="Manifestace v rámci generální stávky v pondělí 27. listopadu" author="archiv města Boskovice" %}
 
 Někdo by rád společnost zakonzervoval v nějakém konkrétním okamžiku, někdo se nostalgicky ohlíží po minulosti a chtěl by se někam vracet. Ani jedno ale není možné. V tom se mýlí jak nostalgici po totalitním režimu, tak nostalgici po devadesátých letech. Na připomínání událostí Sametové revoluce mi přijde pro dnešek nejinspirativnější hlavně ta vlna vnitřního odhodlání posunout se dopředu, která z dobových záběrů sálá. Havlovská naděje je spojená s pohybem dopředu, s budoucností. Jinak to přece ani není možné.
 

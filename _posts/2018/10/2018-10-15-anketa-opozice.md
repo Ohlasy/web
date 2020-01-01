@@ -1,7 +1,7 @@
 ---
 title: Jak to vidí nová opozice
 perex: Jak hodnotíte vznik a uspořádání nové koalice a jaká jsou podle vás hlavní rizika jejího vedení Boskovic v příštích čtyřech letech?
-cover-photo: https://i.ohlasy.info/vW8HolO.jpg
+cover-photo: https://i.ohlasy.info/i/vw8holo.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika volby2018
@@ -11,13 +11,13 @@ tags: politika volby2018
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/JqfHuOP.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/jqfhuop.jpg" alt="" />
 
 **Hana Nedomová, ČSSD**
 
 Respektujeme novou koalici. ČSSD v Boskovicích za čtyři roky svého působení ve vedení města zrealizovala a připravila řadu projektů. Ke stavbě je připravena Fránkova knihovna (ZZN), položení inženýrských sítí pro obytný soubor za nemocnicí, lokalita Milánovy, zkapacitnění přetížené kanalizace zatrubněného potoka Bílkova, rekonstrukce ulic Podlesí, Na Hrázi, Pilské údolí – Podhradí, horní část Legionářské, Hybešovy a podobně. Schválen je investiční plán pro Nemocnici Boskovice. Připravena je půda pro další jednání se Správou železniční dopravní cesty, Jihomoravským krajem, Minervou a fyzickou osobou k řešení okružní křižovatky Nádražní-Sokolská, o záchytném parkovišti (možnost výstavby parkovacího domu) v lokalitě Nádražní. Centrum polytechnické výchovy nabídne k realizaci nové metody vzdělávání, bude sloužit neziskovým organizacím i veřejnosti. Na dobré cestě je vyjednávání o výkupech pozemků v Červené zahradě. ČSSD se v Boskovicích umístila ve volbách do zastupitelstva jako třetí. Přesto jsme do koalice nebyli přizváni. Není nám tak umožněno v těchto projektech pokračovat a podílet se na nich. Je nyní na občanech města, aby se vyjádřili k programovému prohlášení nového vedení města a chystaným změnám ve směřování rozvoje města.
 
-<img class="profile-picture" src="https://i.ohlasy.info/vuSHbga.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/vushbga.jpg" alt="" />
 
 **Dagmar Hamalová, KDU-ČSL**
 
@@ -27,7 +27,7 @@ Co se týká hodnocení výsledku voleb jako celku. Velkým přínosem letošní
 
 Hlavní slovo ve vyjednáváních měla vítězná ODS, a ta určila rozložení sil v zastupitelstvu. Respektujeme vítěze voleb a jeho volbu koaličního týmu. Myslím si, že nově utvořená koalice bude čelit třem limitům. Bude vyžadovat programové kompromisy, nejen u témat jako hala a knihovna. Bude záležet, zda se podaří sladit dva různé politické a komunikační styly. Navíc jde o koalici s křehkou většinou. Pozitivní pro město Boskovice je, že jsme si napříč koaličními a opozičními stranami potvrdili vůli pro konstruktivní komunikaci a spolupráci.
 
-<img class="profile-picture" src="https://i.ohlasy.info/Zvih7Z4.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/zvih7z4.jpg" alt="" />
 
 **Radek Šamšula, Piráti**
 
@@ -37,7 +37,7 @@ Máme například obavu o výstavbu knihovny v budově ZZN, která už je nyní 
 
 Jako Piráti vstupujeme do neznámých vod, ale očekáváme, že v nich najdeme slušnost a otevřenost a dodržování toho, co bylo řečeno. Po skončení sčítání hlasů jsem na dálku gratuloval ODS k vítězství a nabídl setkání a jednání o vzniku nové koalice. Přestože pan Dohnálek deklaroval, že se chce sejít prakticky se všemi stranami podle pořadí, v jakém skončily ve volbách, a zmínil to i v našich předchozích rozhovorech, k setkání nedošlo. Tento postup v nás nebudí pocit otevřenosti a upřímnosti, i proto tedy pochybujeme o otevřenosti nově vznikající rady vůči zastupitelstvu, potažmo veřejnosti. Přesto jsme připraveni jednat podle svého nejlepšího svědomí a těšíme se na konstruktivní opoziční práci.
 
-<img class="profile-picture" src="https://i.ohlasy.info/5hZFu14.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/5hzfu14.jpg" alt="" />
 
 **Vladimír Farský, KSČM**
 

@@ -1,14 +1,14 @@
 ---
 title: Mají problém s prokrastinací, ale když se odhodlají, dokážou hodně, říká o studentech Ivet Juřeková
 category: rozhovory
-cover-photo: https://i.ohlasy.info/JaRnkIQ.jpg
+cover-photo: https://i.ohlasy.info/i/jarnkiq.jpg
 author: Tomáš Trumpeš
 tags: vzdělávání
 ---
 
 *Ivet Juřeková, která učí na boskovickém gymnáziu český jazyk a francouzštinu, se stala garantkou Salonu, a letos tak měla tuto týdenní přehlídku studentské tvořivosti na starosti. Salon vznikl bezprostředně po roce 1989, pořádá ho vždy jedna třída ze třetího ročníku a po jarních prázdninách jím žije celá škola. S Ivet Juřekovou jsme si povídali nejen o Salonu, ale také o tom, co vypovídá o dnešních studentech.*
 
-{% photo src="https://i.ohlasy.info/JaRnkIQ.jpg" %}
+{% photo src="https://i.ohlasy.info/i/jarnkiq.jpg" %}
 
 **Máš nějaké vzpomínky na Salon z doby, kdy jsi sama byla studentkou gymnázia?**
 
@@ -38,7 +38,7 @@ Původně měl garant jen dohlížet na organizaci a dbát na komunikaci mezi st
 
 Je otázka, nakolik chtějí spolupracovat a nakolik si to chtějí dělat po svém. A nakolik dodržují, co se dozvěděli. Nedochází jim třeba, že po generálce se už nic nemění, čili zmatky si často vytvářejí hlavně sami, a pak je tam ten dospělý člověk velmi nápomocný. Já už to další rok dělat nechci, ale zapotřebí to je.
 
-{% photo src="https://i.ohlasy.info/mdbzZY2.jpg" %}
+{% photo src="https://i.ohlasy.info/i/mdbzzy2.jpg" %}
 
 **Nepočítáš s tím, že budeš lvice Salonů stabilně, jako to dříve měla profesorka Jitka Zelinková?**
 

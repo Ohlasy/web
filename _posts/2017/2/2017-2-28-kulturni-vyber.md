@@ -1,6 +1,6 @@
 ---
 title: Kulturní výběr na březen
-cover-photo: https://i.ohlasy.info/PQ4FxeI.jpg
+cover-photo: https://i.ohlasy.info/i/pq4fxei.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura

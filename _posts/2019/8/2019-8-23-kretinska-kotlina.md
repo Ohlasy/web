@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Křetínská kotlina"
 perex: Srpen je vhodným měsícem k seznámení se s Křetínskou kotlinou. Kdo by neznal přehradní nádrž Křetínka, jedno z rekreanty nejvyhledávanějších míst Boskovicka?
-cover-photo: https://i.ohlasy.info/eUNdbeH.jpg
+cover-photo: https://i.ohlasy.info/i/eundbeh.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
@@ -9,13 +9,13 @@ serial: krajiny
 
 *Srpen je vhodným měsícem k seznámení se s Křetínskou kotlinou. Kdo by neznal přehradní nádrž Křetínka, jedno z rekreanty nejvyhledávanějších míst Boskovicka? Ale ruku na srdce, kdo z vás byl někdy pěšky na stráních nad Křetínkou a podíval se na přehradu tak trošku z ptačí perspektivy? A že ty pohledy z různých stran stojí za to!*
 
-{% photo src="https://i.ohlasy.info/eUNdbeH.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/eundbeh.jpg" author="Hynek Skořepa" %}
 
 V průběhu roku zdejší krajina mění barvy. Od šedi předjaří, kterou za sucha ruší bělavá pole na opukovém podloží. Až na okraj Křetínské kotliny totiž z Čech zasahuje Česká křídová tabule, budovaná písčitými usazeninami druhohorního moře. Šeď brzy střídá jasná jarní zeleň, doplněná žlutí kvetoucích pampelišek a sněhobílou barvou kvetoucích trnek. Počátkem léta se ve zrajícím obilí modrají chrpy polní, a když obilí vystřídají strniště, na loukách dominují bělavá květenství řebříčků. Podzimní mrazíky spustí barevné hýření listnatých stromů u cest i na okrajích jinak většinou jehličnatých lesů. První poprašek sněhu pak zvýrazní kontrast polí a mezí.
 
 Tam, kde je na příkrých svazích na opukách jen mělká vrstvička půdy, vytváří se tzv. bílé stráně. Tráva a křoviny se střídají s místy téměř bez vegetace, s obnaženým podložím. Jen sem tam zavoní trs mateřídoušky, i když jí ubývá, jak stráně zarůstají křovinami. Dávno pryč jsou časy, kdy se na nich pásávaly kozy chudých chalupníků z okolních vsí. A okolní pole jsou plná kamení, které už celá léta nikdo nevybírá. Ono ho zde bývalo vždycky dost, ne nadarmo se polní trať nad Dolním Poříčím nazývá Štěrky (či Ščerky). Opuky se snadno rozpadají. Slovo opuka geologové jen neradi přiřazují jako nepřesný ekvivalent ke skupině písčitých hornin (slínovců). Já se ho ale budu držet, protože je výstižný. Zavedli ho již před staletími kameníci pro kámen, z jehož takřka pravidelných kvádříků stavěli románské stavby, třeba rotundy. Celá románská Praha byla z opuky, v některých tamějších domech zůstalo románské patro zachováno v podobě sklepení.
 
-{% photo src="https://i.ohlasy.info/fmTpyJY.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/fmtpyjy.jpg" author="Hynek Skořepa" %}
 
 Okraj České tabule nad údolím Křetínky je mírně zvednutý, dokonce tam lze vidět tzv. kuesty. Kuesta (termín pochází ze španělštiny) je asymetrický hřbet s jedním svahem pozvolným a druhým příkrým. Ten pozvolný je rovnoběžný s vrstvami usazených hornin, ten příkrý prořezává horninový sled napříč. Svitavsko, Orlickoústecko a Moravskotřebovsko jsou doslova krajinami kuest. Nejlepší představu o tom, co je to kuesta, si nejspíš uděláte, když projedete autem Hřebečským tunelem mezi Svitavami a Moravskou Třebovou. Jestliže kuesta Hřebečovského hřbetu je velmi výrazná a táhne se od jihu směrem k severu, kuesty nad Křetínskou kotlinou jsou dobře maskovány a dlouho unikaly pozornosti. Teprve před několika lety je odhalil geomorfolog dr. Mojmír Hrádek a popsal třeba v publikaci Přírodní poměry Boskovicka (2008). Směřují totiž od severozápadu k jihovýchodu a nejsou moc výrazné, i když svými čely (oněmi příkrými svahy) spadají prudce do Křetínské kotliny.
 
@@ -25,7 +25,7 @@ Křetínská kotlina je jakousi „minikrajinou“, tento okrsek v rámci Nedvě
 
 Z hlediska horopisného členění náleží Křetínská kotlina k Hornosvratecké vrchovině a je tedy součástí Českomoravské vrchoviny. Hornosvratecká vrchovina se skládá ze dvou podcelků – vyšších a známějších Žďárských vrchů, a Nedvědické vrchoviny. A právě Nedvědická vrchovina zasahuje ze západu na Boskovicko hned několika svými okrsky (kromě Křetínské kotliny ještě Kunštátská vrchovina, Sýkořská hornatina či Olešnická kotlina).
 
-{% photo src="https://i.ohlasy.info/hN4L4hu.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/hn4l4hu.jpg" author="Hynek Skořepa" %}
 
 Nemohu již pamatovat, jak vypadalo údolí Křetínky před rokem 1979, kdy byla uvedena do provozu stejnojmenná vodní nádrž. Byl jsem v té době batole. Moje maminka však občas vzpomíná, jak se za mlada vracívali loukami z Křetína do Letovic. Těsně před vstupem do města se údolí zúžilo a sevřely ho skály. Ty skály jsou vidět pod hrází přehrady dodnes, ale projít tudy již nelze. 
 

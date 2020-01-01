@@ -1,7 +1,7 @@
 ---
 title: Město vyhlásí vyzvanou architektonickou soutěž na sportovní halu
 perex: Další krok k přípravě stavby nové sportovní haly učinila boskovická městská rada. Dohodla se na způsobu, jakým nechá vytvořit a vybere architektonickou studii haly na Hybešově ulici.
-cover-photo: https://i.ohlasy.info/bce5525c.jpg
+cover-photo: https://i.ohlasy.info/i/bce5525c.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: architektura sport
@@ -9,7 +9,7 @@ tags: architektura sport
 
 *Další krok k přípravě stavby nové sportovní haly učinila boskovická městská rada. Dohodla se na způsobu, jakým nechá vytvořit a vybere architektonickou studii, na základě které by hala měla být naprojektována. Nová hala má dle rozhodnutí zastupitelstva stát na Hybešově ulici.*
 
-{% photo src="https://i.ohlasy.info/bce5525c.jpg" caption="Pozemek pro budoucí sportovní halu" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/bce5525c.jpg" caption="Pozemek pro budoucí sportovní halu" author="Tomáš Trumpeš" %}
 
 Při výběru studie se město hodlá opřít především o práci městského architekta Zdeňka Fránka. S jeho pomocí připravuje radnice zadání a soutěžní podmínky pro vyhlášení vyzvané architektonické soutěže. Jejím cílem má být novostavba na Hybešově ulici.
 

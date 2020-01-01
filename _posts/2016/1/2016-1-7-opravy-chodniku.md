@@ -1,14 +1,14 @@
 ---
 title: Do oprav chodníků a silnic půjde letos více peněz
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/EYRgKXC.jpg
+cover-photo: https://i.ohlasy.info/i/eyrgkxc.jpg
 category: zpravodajství
 tags: doprava investice
 ---
 
 *O šest milionů více zařadilo vedení Boskovic v rozpočtu na letošní rok do kapitoly doprava. Chystá také více celkových oprav silnic, ne pouze nejnutnějších oprav. Na krajském úřadě začne město vyjednávat také o možnostech opravy Dukelské, která je jako ostatní hlavní silnice vedoucí z města ve vlastnictví Jihomoravského kraje.*
 
-{% photo src="https://i.ohlasy.info/EYRgKXC.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/eyrgkxc.jpg" author="Marek Osouch" %}
 
 Pro letošek ale krajské investice Boskovice neminou. Začne se budovat dlouho plánované parkoviště v Hybešově ulici na pozemku Vyšší odborné školy, na něž Boskovice ze svého rozpočtu přispějí 2,7 milionu korun, kraj zaplatí 1,6 milionu a Svazek vodovodů a kanalizací zhruba 1,4 milionu. Celkem by tedy měla výstavba 40 parkovacích míst přijít na téměř 6 milionů. Pokračovat se bude také v opravě krajské silnice v Pilském údolí, která bude uzavřená až do konce května.
 
@@ -16,7 +16,7 @@ Na Dukelskou by mohlo dojít ovšem až v roce 2017. Jednat s krajem o opravě s
 
 Rekonstrukce má být celková, tedy včetně kanalizací nebo chodníků. „V rámci opravy ulice je nezbytné zrekonstruovat kanalizaci od Betany po most, dále osmdesát let starý vodovod od mostu po splav a šedesát let starý vodovod od hotelu Moravia dál v úseku zhruba 450 metrů,“ stojí v zápisu z rady. Jen rekonstrukce kanalizací a vodovodů by měla vyjít Svazek vodovodů a kanalizací na zhruba osm milionů, pak by přišel na řadu kraj a město. Kraj by zrekonstruoval silnici, město veřejné osvětlení a chodník od Betany až po most, což by vyšlo na tři čtvrtě milionu korun.
 
-{% photo src="https://i.ohlasy.info/sWBOczT.png" author="Mapy.cz a Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/swboczt.png" author="Mapy.cz a Marek Osouch" %}
 
 *Aktuální stav boskovických chodníků: zelené chodníky mají výhradně zámkovou dlažbu, modré chodníky mají zámkovou dlažbu aspoň na jedné straně ulice a na červených chodnících není zámková dlažba vůbec.*
 

@@ -1,14 +1,14 @@
 ---
 title: Nezůstávejme u dílčích oprav letního kina
 perex: Nad současným stavem letního kina se v komentáři pro Ohlasy zamýšlí Radek Pernica, bývalý šéf boskovického kina a současný vedoucí brněnského univerzitního kina Scala.
-cover-photo: https://i.ohlasy.info/6dpPOy0.jpg
+cover-photo: https://i.ohlasy.info/i/6dppoy0.jpg
 author: Radek Pernica
 category: názory a komentáře
 ---
 
 *Byla dokončena oprava hlediště boskovického letního kina. Při návštěvě areálu je patrné, že zdařile opravená část kina značně kontrastuje s tím, co v areálu zůstalo v původním stavu. Nad současným stavem letního kina se v komentáři pro Ohlasy zamýšlí Radek Pernica, bývalý šéf boskovického kina a současný vedoucí brněnského univerzitního kina Scala.*
 
-{% photo src="https://i.ohlasy.info/6dpPOy0.jpg" caption="Opravené hlediště letního kina" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/6dppoy0.jpg" caption="Opravené hlediště letního kina" author="Tomáš Trumpeš" %}
 
 Obsluhoval jsem letní kino v Boskovicích dlouhá léta a jsem si velmi dobře vědom jeho stavu. To, co se s ním nyní stalo, je absolutně správné; opravilo se sezení v celém auditoriu, a to je samozřejmě dobře. Doufejme, že i celý svah byl stabilizován a současná stavební úprava má ambici fungovat minimálně dvacet let. Zajímavě byl vyřešen záliv pro tanečníky, stejně tak byl vhodně lokalizován a vytvořen plac pro zvukaře, který je pro koncerty nutně potřeba. Šéf kina Tomáš Marvan popsal vedení technologických sítí, jejich možností a případných rezerv, zdá se to dobře promyšlené. Celkově na mě hmota stupňů a lavic působí věrohodně a opravu velmi oceňuji.
 
@@ -22,7 +22,7 @@ Jsou tu i další otázky, které jsou běžnému návštěvníkovi spíše skry
 
 Tématem k diskusi je podle mě i uzavření opraveného areálu a nastavení nějakého systému přístupnosti, jako mají například parky. Nezapomínejme, že letní kino bylo i častým místem vandalských skutků. Jsem si vědom, že letní kino bylo vždy i ostrůvkem pozitivního, mladého myšlení, i když se to může zdát mnohým jako pouhé „povalování v letňáku“.  Proto bych areál neuzavíral úplně, ale hledal bych přístupnou variantu pro co nejširší počet lidí. Nicméně chránil bych ho. Málokdo si asi dokáže představit nekontrolovatelně přístupné koupaliště v Červené zahradě – a přitom jde o totéž. Cenný, funkční, opravený areál.
 
-{% photo src="https://i.ohlasy.info/nutQnkJ.jpg" caption="Nové a staré schody" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/nutqnkj.jpg" caption="Nové a staré schody" author="Tomáš Trumpeš" %}
 
 Mám obavu, že se opravilo jen to, co je nejvíce vidět. Ale jak jsem psal nahoře, díky za to. Když jdete po nových schodech a ony najednou skončí a posledních deset schodů je starých, rozpadlých a ošklivých, tak nevíte, jestli je to vlastně vtipné, nebo tragické.
 

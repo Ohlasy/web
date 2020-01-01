@@ -1,14 +1,14 @@
 ---
 title: „Kvalitní architektura může přinést Boskovicím proslulost. Láká lidi z celého světa.“
 perex: Rozhovor s architektem Zdeňkem Fránkem, který se před několika měsíci ujal funkce městského architekta.
-cover-photo: https://i.ohlasy.info/7hwWmkI.jpg
+cover-photo: https://i.ohlasy.info/i/7hwwmki.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---
 
 *Rozhovor s architektem Zdeňkem Fránkem, který se před několika měsíci [ujal funkce městského architekta](http://www.ohlasy.info/clanky/2017/06/mestsky-architekt.html) v Boskovicích. Po besedě, na které představil svou práci a své záměry v Boskovicích, jsme se na tato témata ptali i my.*
 
-{% photo src="https://i.ohlasy.info/7hwWmkI.jpg" caption="Zdeněk Fránek" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7hwwmki.jpg" caption="Zdeněk Fránek" author="Tomáš Znamenáček" %}
 
 **Pane Fránku, vy říkáte, že Boskovice dobře znáte, narodil jste se tady a vracíte se sem. Kdybyste si ale zkusil představit, že byste sem přijel poprvé a prošel se tady – jaký byste asi měl dojem?**
 
@@ -26,7 +26,7 @@ Jasně. Je tady historická stopa, je tady židovské ghetto, které má stále 
 
 No tak soudobá architektura tady není vůbec. To je nula. Jeden pěkný barák, a to je optika na náměstí. Jinak tady není nic.
 
-{% photo src="https://i.ohlasy.info/3H8jbAZ.jpg" caption="Optika na náměstí" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3h8jbaz.jpg" caption="Optika na náměstí" author="Tomáš Znamenáček" %}
 
 **Dá se obecně formulovat, s čím jste šel do funkce městského architekta?**
 
@@ -38,7 +38,7 @@ Uvedu konkrétní příklady. Znamená to třeba ukázat na něco, co je špatn�
 
 Já nejsem žádný odborník na restaurování, ale když vidím práci některých svých kolegů, kteří se restaurování věnují, tak ten rozdíl je nebetyčný – oproti tomu, když se jen opraví a natře fasáda, jak se to tady u některých staveb dělá. Takže já třeba přinesu na radnici kastlové okno, eurookno, které je ještě docela dobře napodobuje, a potom plastové okno, které tam nemá co dělat. Aby ti lidé viděli, že toto udělat mohou, toto třeba v určité oblasti také a to poslední vůbec ne. Takže jít konkrétními příklady. Vzít domy na náměstí a všechny je překreslit, aby ti lidé věděli, jak je mají opravit. Majitelům je to často jedno, zadají to jakémukoli stavaři a pak mu cokoli odsouhlasí. Proto je dobré mít to předchystané. Z mé strany jde vyloženě o tuto metodickou práci.
 
-{% photo src="https://i.ohlasy.info/C75sR8H.jpg" caption="Dům naproti synagoze" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/c75sr8h.jpg" caption="Dům naproti synagoze" author="Tomáš Znamenáček" %}
 
 **Když se zastavíme nejprve u městských investic – v Boskovicích máme s přípravou projektů dlouhodobý problém a tím, jak by měly městské stavby vypadat, jsme se v minulosti vlastně nezabývali. Měla se stavět hala za desítky milionů, nikdo nevěděl, jak má vypadat. U přístavby mateřské školy to bylo stejné, už za nového vedení – o stavbě bylo rozhodnuto a my jsme se dožadovali nějaké vizualizace. Jak by to mělo z vašeho pohledu vypadat?**
 
@@ -56,7 +56,7 @@ A určitě bych do toho bral i místní architekty. Mladí jsou svěží a můž
 
 Nejsou, nemají v sobě toho génia, byť třeba skrytého.
 
-{% photo src="https://i.ohlasy.info/0p3lZrp.jpg" caption="Dlažba na Plačkově ulici" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0p3lzrp.jpg" caption="Dlažba na Plačkově ulici" author="Tomáš Znamenáček" %}
 
 **Když ještě zůstanu u městských investic, vy jste popsal obecný model, ale nyní jste nastoupil do přípravy investic, které už běží. Na ty bych se rád zeptal a začnu knihovnou, která je vám vlastně nejbližší, [městu jste věnoval studii na její řešení](http://www.ohlasy.info/clanky/2017/03/knihovna-zzn.html). My jako veřejnost ale vlastně pořád nevím, jestli už bylo rozhodnuto, že se na základě této studie bude opravdu knihovna stavět. V jaké je to fázi?**
 
@@ -74,7 +74,7 @@ Projektoval jsem to rok před tím, než jsem se stal městským architektem. Ta
 
 Žádné zadání nevylučuje dobré řešení. Prošel jsem hodně knihoven různě po světě a buď to jsou nádherné prosklené objekty někde v parku, kde se venku válí univerzitní studenti, nebo je to v historické zástavbě, kde jsou knihovny vštěpeny mezi další objekty, takže tam vejdete a najednou jste v nějakém nečekaném velkém prostoru. Dobré řešení není vyloučeno žádnou lokalitou. V Litomyšli taky všichni říkali, že je nesmysl stavět [kostel u magistrály](https://www.archiweb.cz/buildings.php?action=show&id=2829), kde projede deset tisíc aut denně, včetně kamionů. A našlo se řešení.
 
-{% photo src="https://i.ohlasy.info/MxZfdyj.jpg" caption="Model nové knihovny od Zdeňka Fránka" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/mxzfdyj.jpg" caption="Model nové knihovny od Zdeňka Fránka" author="Tomáš Trumpeš" %}
 
 **Další téma je v Boskovicích sportovní hala. Rozhoduje se mezi dvěma lokalitami: Červenou zahradou a novým návrhem na stavbu haly [u školy na Sušilově](http://www.ohlasy.info/clanky/2017/05/hala-susilova.html), místo stávajících tělocvičen. Co říkáte na tuhle variantu?**
 
@@ -92,7 +92,7 @@ To byla hmotovka, která vyřešila provoz. Tam architekturu nikdo neřešil. Ur
 
 Jenom u mě dvě diplomky a dva projekty na celý areál. Je to zapeklité místo. Obrovská škoda je už jen to, že zanikl rybník u mlýna. Chce to zase dva tři týmy, které udělají finální návrhy. Něco takového už zpracováno je a není to špatné. Jenom to dotáhnout.
 
-{% photo src="https://i.ohlasy.info/Ufu0rUY.jpg" caption="Zdeněk Fránek" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ufu0ruy.jpg" caption="Zdeněk Fránek" author="Tomáš Znamenáček" %}
 
 **Teď jsme mluvili o městských investicích. Vedlo toho stojí soukromí investoři, kteří ve města staví soukromé objekty. Je vůbec možné z vaší pozice něco ovlivnit? Často zaznívá názor, že soukromník si přece může postavit, co chce. Je to jeho a nikdo mu do toho nemá co mluvit.**
 
@@ -122,7 +122,7 @@ Jasně, samozřejmě.
 
 Ne. Cenu architekta Czech Grand Design teď vyhrál Petr Stolín se dvěma [dřevěnými boudičkami](https://www.designboom.com/architecture/petr-stolin-architekt-zen-houses-czech-republic-11-22-2016/), co si postavil pro sebe. A to jsou domky za milion korun. Nikdo to nečekal, rozhodovala o tom mezinárodní porota. Právě jeho jsem vyzval, aby udělal ty levné domy u nemocnice. Špičkový architekt udělá levné řadovky pro mladé rodiny. Protože to umí a osvědčil se, že umí myslet levně. Samozřejmě je tam nějaká nadstavba architektury, která to může zdražit, ale nemusí to tak být vždycky. Na druhé straně architekti dokážou dělat surové levné věci, ale to se lidem někdy nelíbí, ta pravá surovost.
 
-{% photo src="https://i.ohlasy.info/FPIo39F.png" caption="Manuál tvorby veřejných prostranství hlavního města Prahy" author="IPR Praha" %}
+{% photo src="https://i.ohlasy.info/i/fpio39f.png" caption="Manuál tvorby veřejných prostranství hlavního města Prahy" author="IPR Praha" %}
 
 **Měl by městský architekt zasahovat jen do velkých investic, o kterých jsme mluvili, nebo i do drobnějších věcí, které utvářejí vzhled města? Jako jsou chodníky, lavičky, osvětlení?**
 
@@ -154,7 +154,7 @@ Podívejte, to tak prostě je. Ty věci jsou na hraně zákona. Nemůže rozhodo
 
 Potom je potřeba to zakázat. V komisi se spíš bavili o tom, jestli se bude řešit jen mobilní reklama, nebo i polep. Říkali, že polep si může dát každý jaký chce a vypadá to úplně nejhůř. Ale polepy mohou naopak vypadat úplně nejlíp, když se to vezme za správný konec.
 
-{% photo src="https://i.ohlasy.info/1yJ9XbS.jpg" caption="Reklama na objektu bývalého ZZN" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1yj9xbs.jpg" caption="Reklama na objektu bývalého ZZN" author="Tomáš Znamenáček" %}
 
 **Máte nějaké zadání i ve vztahu k budoucímu rozvoji Boskovic? Mají Boskovice nějaký plán na své rozrůstání? Konzultuje s vámi vedení města i toto?**
 
@@ -168,7 +168,7 @@ Určitě. Ono se tady hodně zadávalo jednomu architektonickému týmu, který 
 
 Vyzval jsem několik týmů, právě Petra Stolína, aby se ujal jedné řady domů, druhou by dělali architekti Eichlerovi, kteří jsou šikovní, dělali tu optiku na náměstí. A to je výborný barák, myslím, že dostal i cenu Klubu za starou Prahu. Za nemocnicí jsou tři typy domů, oni by dělali celý urbanismus, ten už je hotový. Je tam výborně řešené parkování, je to hezky udělané. Tyhle dva týmy by mohly lokalitu zpracovat.
 
-{% photo src="https://i.ohlasy.info/WwqZpHb.jpg" caption="Proluka U Koupadel" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wwqzphb.jpg" caption="Proluka U Koupadel" author="Tomáš Znamenáček" %}
 
 **Město teď zveřejnilo [plány s lokalitou U Koupadel](http://www.ohlasy.info/clanky/2017/10/proluka-koupadla.html). Jaký je váš pohled na zastavění této proluky?**
 

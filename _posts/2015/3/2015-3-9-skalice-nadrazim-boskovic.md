@@ -1,14 +1,14 @@
 ---
 title: Skalice je hlavním nádražím Boskovic
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/J9bT8ba.png
+cover-photo: https://i.ohlasy.info/i/j9bt8ba.png
 author: Marek Osouch
 tags: doprava spojka železnice
 ---
 
 *Máme investice ekonomické a politické. Přímé železniční spojení mezi Brnem a Boskovicemi nazývané také boskovická spojka patří mezi ty politické. Političtí představitelé se snaží napravit chybu, kterou před více než stoletím udělali naši předci. Zároveň je však spojka součástí populistických plánů spojit železnicí Brno a všechna města třetího typu, mezi které Boskovice patří.*
 
-{% photo src="https://i.ohlasy.info/J9bT8ba.png" %}
+{% photo src="https://i.ohlasy.info/i/j9bt8ba.png" %}
 
 Na poslední tiskové konferenci předalo vedení města novinářům materiál, ze kterého lze poznat, že boskovická radnice nadále tento projekt bude podporovat. Klady, které zmínili, se však za ekonomicky efektivní moc počítat nedají.
 

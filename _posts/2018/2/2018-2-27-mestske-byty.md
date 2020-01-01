@@ -1,6 +1,6 @@
 ---
 title: Boskovice mají desetkrát méně bytů než před patnácti lety
-cover-photo: https://i.ohlasy.info/j1xfUlI.jpg
+cover-photo: https://i.ohlasy.info/i/j1xfuli.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
@@ -11,38 +11,38 @@ Ještě se započítáním dvou bytových domů na Mánesově, [kde se však byt
 
 ### Bytové domy Mánesova 43, 45A, 45B
 
-{% photo src="https://i.ohlasy.info/2MuRbRg.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/2murbrg.jpg" author="Marek Osouch" %}
 
 Bytové domy, o kterých byla řeč výše. Vyrostly po Sametové revoluci v 90. letech díky dotacím od státu a půjčkám od jednotlivých nájemníků, kteří počítají, že jim město byty prodá na základě smluv uzavřených v minulosti. Dnes jsou proto všechny byty od 1+1 do 3+1 stále plné, celkem jich je sedmatřicet. V současné době první z domů přechází do rukou nájemníků, druhý to čeká v budoucnu.
 
 ### Bytové domy Na Chmelnici 22, 24, 26
 
-{% photo src="https://i.ohlasy.info/u2UcHJb.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/u2uchjb.jpg" author="Marek Osouch" %}
 
 Na Chmelnici jsou nejnovější bytovky, které město postavilo. Tři bytové domy s osmnácti byty o velikosti převážně 2+1 začala radnice budovat z peněz, které získala od lidí v privatizaci stovek městských bytů. Když se stavěly, prohlašoval tehdejší starosta Boskovic za ODS František Sivera, že jsou to startovací byty určené mladým rodinám. Zdejší nájemníci však platí nejvyšší nájem ze všech městských bytů. Zatímco tady platí za metr přes 73 korun, v ostatních je to zhruba 60 korun.
 
 ### Dům na ulici Zborovská 11
 
-{% photo src="https://i.ohlasy.info/0VYte5S.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/0vyte5s.jpg" author="Marek Osouch" %}
 
 U tohoto domu v židovské čtvrti by nejspíš málokdo čekal, že se v jeho patře nachází tři nájemní byty. Jeden z nich je ve velikosti 3+1. Obsazené jsou také všechny.
 
 ### Bytový dům Wolkerova 2
 
-{% photo src="https://i.ohlasy.info/1jyqpdj.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/1jyqpdj.jpg" author="Marek Osouch" %}
 
 Bytový dům na adrese Wolkerova 2 je největší, který město vlastní. Celkově se v něm nachází 36 bytů a jeden byt zde je v současné době volný. „Přidělení se bude projednávat na jednání rady města 27. února,“ řekla vedoucí odboru správy majetku Gabriela Šmerdová s tím, že v průměru bývá deset až patnáct zájemců o jeden byt. Jedním ze současných nájemců je například Libor Dočkal. „Bydlím tady už přes třicet let,“ sdělil s tím, že za byt o velikosti 2+1 platí měsíční nájem zhruba 4800 korun. S energiemi ho měsíční výdaje za byt přijdou na 7000 korun.
 Převážná část bytů je zde menších v kategorii 1+1 nebo i 1+0. „Bylo to původně pod Minervou určené jako ubytovna pro učně,“ doplnil Dočkal. Nakonec to ale až dodnes skončilo jako městská bytovka. Na první pohled je však vidět, že bytovce radnice s výjimkou nových střešních tašek nevěnovala příliš mnoho péče.
 
 ### Bytový dům Jiráskova 3
 
-{% photo src="https://i.ohlasy.info/j1xfUlI.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/j1xfuli.jpg" author="Marek Osouch" %}
 
 Podobně jako bytovka na Wolkerově, i tato na Jiráskově nezáří zrovna čistotou a novotou a také zde je velká část z celkových dvanácti bytů v kategorii 1+1. Ještě stále je možné z jižní strany vidět oprýskanou zeď, už se ale chystá oprava, vyměněná jsou okna a opravená je střecha. I zde má město všechny byty pronajaté.
 
 ### Masarykovo náměstí 28
 
-{% photo src="https://i.ohlasy.info/w0TTq4Q.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/w0ttq4q.jpg" author="Marek Osouch" %}
 
 Částečných oprav na čelní straně do náměstí se dočkal dům, v jehož přízemí se nachází obchod s potravinami. V jeho druhém patře se však nachází také tři městské byty, jejichž nájemníci ještě před pár lety museli žít se starými okny a škaredou fasádou. Ani tady není volný byt pro případné zájemce. Radnice se podle jedné z nájemnic, kterou redakce oslovila, stará o byty dobře. Nikdy nebyl problém, který by město dlouho neřešilo.
 V horní části náměstí, kde je v přízemí domu lékárna a květinářství, vlastní město ještě jeden byt. „Finanční situace nájemkyně neumožnila koupi tohoto bytu. Současně v tomto bytovém domě město Boskovice vlastní i nebytové prostory, tudíž vlastnictví bytové jednotky nečiní městu problém,“ sdělil mluvčí boskovické radnice. Celkově je tak obsazených 109 ze 110 městských bytů. Kolik v nich ale bydlí lidí, to na radnici nevědí.

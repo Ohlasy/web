@@ -1,13 +1,13 @@
 ---
 title: Gianniho kulturní výběr na duben
-cover-photo: https://i.ohlasy.info/MKdfwQR.jpg
+cover-photo: https://i.ohlasy.info/i/mkdfwqr.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/MKdfwQR.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mkdfwqr.jpg" author="Tomáš Znamenáček" %}
 
 ### Kašpárci z celého světa
 

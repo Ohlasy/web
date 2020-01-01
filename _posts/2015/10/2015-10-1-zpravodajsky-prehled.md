@@ -1,6 +1,6 @@
 ---
 title: "Zpravodajský přehled: září"
-cover-photo: https://i.ohlasy.info/ZWyhOol.jpg
+cover-photo: https://i.ohlasy.info/i/zwyhool.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

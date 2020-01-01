@@ -1,7 +1,7 @@
 ---
 title: Smlouvy na odběr tepla budou končit. Radnice chce zjistit, co dál
 perex: Kolik stojí a bude stát systém centrálního zásobování teplem, na který jsou zapojená sídliště Pod Oborou nebo na Čížovkách? Jaké jsou jeho výhody a nevýhody, vyplatí se?
-cover-photo: https://i.ohlasy.info/ESwiGUy.jpg
+cover-photo: https://i.ohlasy.info/i/eswiguy.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice
@@ -9,7 +9,7 @@ tags: investice
 
 *Příští rok se dočkáme opraveného letního kina, singletreků v Doubravách nebo sokolovny v rukou města. Mimo hlavní dění se ale má začít vypracovávat také analýza perspektivy provozu systému CZT, tedy Centrálního zásobování teplem. Na ten jsou napojená velká sídliště Pod Oborou nebo na Čížovkách.*
 
-{% photo src="https://i.ohlasy.info/ESwiGUy.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eswiguy.jpg" author="Tomáš Znamenáček" %}
 
 Kotelna u každého bytového domu neexistuje, ale teplo do každého bytu proudí. Dodávají ho centrální kotelny, z nichž jedna nelze přehlédnout kvůli čtyřem vysokým modrým komínům vedle osmipatrového bytového domu na Komenského ulici.
 

@@ -1,7 +1,7 @@
 ---
 title: Boskovice z konkursu bývalého majitele solární elektrány nic nezískaly, naopak prodělaly
 perex: Po třech letech je u konce vypořádávání dluhů po prohlášení konkursu na firmu AKAM Bosko.
-cover-photo: https://i.ohlasy.info/2T0nuIj.jpg
+cover-photo: https://i.ohlasy.info/i/2t0nuij.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Po třech letech je u konce vypořádávání dluhů po prohlášení konkursu na firmu AKAM Bosko, někdejšího majitele boskovické solární elektrárny na městských pozemcích. Boskovice chtěly získat dlužnou částku za nájem, jenže se tak nestane.*
 
-{% photo src="https://i.ohlasy.info/2T0nuIj.jpg" caption="Solární elektrárna postavená firmou AKAM" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2t0nuij.jpg" caption="Solární elektrárna postavená firmou AKAM" author="Tomáš Znamenáček" %}
 
 Na firmu AKAM Bosko [podaly insolvenční návrh právě Boskovice](http://www.ohlasy.info/clanky/2016/05/insolvence-akam.html) v lednu 2016, přestože o něm zpočátku bývalá starostka Hana Nedomová (ČSSD) neuvažovala. „V případě, že bude zahájeno exekuční řízení, tak se do něj přihlásíme a budeme chtít vypořádat dlužnou částku,“ uvedla v roce 2015 starostka. K následnému insolvenčnímu návrhu se přidávali i další věřitelé a celková výše dluhů provozovatele elektrárny se nakonec vyšplhala na více než 100 milionů korun.
 

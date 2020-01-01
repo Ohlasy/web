@@ -1,7 +1,7 @@
 ---
 title: "Rozhodnuto: Knihovna bude v ZZN. Architekt Fránek věnoval městu studii"
 perex: O umístění nové boskovické knihovny rozhodla na začátku března boskovická městská rada; knihovna má vzniknout přestavbou budovy ZZN na ulici Kapitána Jaroše.
-cover-photo: https://i.ohlasy.info/2uANKWU.jpg
+cover-photo: https://i.ohlasy.info/i/2uankwu.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: knihovna investice
@@ -9,7 +9,7 @@ tags: knihovna investice
 
 *O umístění nové boskovické knihovny rozhodla na začátku března boskovická městská rada. Knihovna má vzniknout přestavbou [budovy ZZN](http://www.ohlasy.info/clanky/2016/01/budova-zzn.html), dnes prodejny nábytku Idyla a zahradnických potřeb Mountfield, na ulici Kapitána Jaroše. Kromě dvou studií libereckých studentů architektury dostala radnice návrh řešení i od jejich profesora a děkana, boskovického rodáka a renomovaného architekta Zdeňka Fránka.*
 
-{% photo src="https://i.ohlasy.info/2uANKWU.jpg" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/i/2uankwu.jpg" author="Fránek Architects" %}
 
 Výběrem lokality pro knihovnu se Boskovice zabývají dlouhodobě. Stávající prostory v budově úřadu na náměstí 9. května byly už od počátku považovány za provizorní, během let se diskutovalo hned několik možností, kam by se knihovna mohla přesunout. Současné vedení města nakonec rozhodlo na základě zvážení tří doposud vytipovaných lokalit, na které byly v minulosti zpracovány studie. Hledání vhodného místa pro knihovnu takříkajíc od bodu nula se tedy nekonalo, rada brala v potaz pouze minulá, do značné míry nahodilá řešení, která se objevovala během let. „Vycházeli jsme z toho, že jsme sesbírali veškeré studie, které již na městě byly, a z toho, že objekt ZZN byl zakoupen k tomuto účelu. Že bychom se zabývali třeba postavením knihovny na zelené louce, to ne,“ uvedla starostka Hana Nedomová (ČSSD). Na otázku, proč se vedení města nesnažilo hledat nejvhodnější lokalitu takříkajíc od bodu nula, tedy bez zúžení variant na dosavadní studie, odpovídá starostka následovně: „Využili jsme potenciálu toho, co máme a toho, co jsou objekty v majetku města.“
 
@@ -25,7 +25,7 @@ Další variantou byla přestavba budovy bývalého O2 vedle kina Panorama. Na z
 
 Za účelem vybudování knihovny město koupilo i budovu ZZN. Bylo to už v roce 2001, kdy v dražbě za budovu zaplatilo 6,2 miliony korun. Dodnes ji pronajímá s ročním příjmem asi 1,2 milionu korun.
 
-{% photo src="https://i.ohlasy.info/1u0ibXV.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/1u0ibxv.jpg" author="Tomáš Trumpeš" %}
 
 ### Tři studie
 

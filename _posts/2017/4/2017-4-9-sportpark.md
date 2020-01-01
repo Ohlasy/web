@@ -1,14 +1,14 @@
 ---
 title: Provoz sportparku v Doubravách bude dotovat město
 perex: V boskovických Doubravách probíhají intenzivní práce na budování trailových tras pro horská kola. Nový sportpark bude otevřen ještě letos a jeho provoz bude město stát 355 tisíc korun na rok.
-cover-photo: https://i.ohlasy.info/xev9S8P.jpg
+cover-photo: https://i.ohlasy.info/i/xev9s8p.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *V lese v boskovických Doubravách probíhají intenzivní práce na budování trailových tras pro horská kola. Nový sportpark bude otevřen ještě letos a jeho provoz bude město dotovat částkou 355 tisíc korun na rok. Starat se o něj bude [městská firma Služby Boskovice.](http://www.ohlasy.info/clanky/2017/03/rozhovor-strya.html)*
 
-{% photo src="https://i.ohlasy.info/xev9S8P.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/xev9s8p.jpg" author="Tomáš Trumpeš" %}
 
 O provozování sportparku pod Službami rozhodla městská rada, posvětit tento model musí ještě dubnové zastupitelstvo. To musí především schválit v rámci rozpočtového opatření navýšení prostředků, které budou Služby na provoz areálu potřebovat. Konkrétní předání sportparku Službám bude schvalovat až další, červnové zastupitelstvo. „Areál můžeme předat, až bude zkolaudovaný. Nejde to udělat dříve,“ vysvětlila místostarostka Dagmar Hamalová.
 
@@ -22,7 +22,7 @@ Občerstvení a půjčovna kol by mohly ve sportparku začít fungovat právě p
 
 Model provozování areálů bývá různý, jak vyplývá ze srovnání, které si radnice zpracovala. Konkrétně v Jedovnicích má zázemí areálu na starosti společnost, která dotuje celkový provoz a právě ze zisků z občerstvení a půjčovny se jí to daří. „V tomto jsme zatím opatrní, to ukáže až samotný provoz. Nelze říct, že počítáme s tím, že za tři roky to bude soběstačné. To rozhodně ne, ale výdělek nebude zanedbatelný,“ říká místostarostka, podle které se jednotlivé areály dají jen těžko srovnávat. Návštěvnost boskovického sportparku byla při přípravách odhadována na 12–14 tisíc lidí ve druhém roce provozu, tedy až příští rok. Sportpark by měl být podle místostarostky také příležitostí pro rozvoj cestovního ruchu a pro spolupráci s podnikateli v této oblasti. A nejedná se jen o sousedící westernové městečko, v areálu by měly být k dispozici informační materiály a reklamy na další boskovické zajímavosti a restaurace.
 
-{% photo src="https://i.ohlasy.info/okrCCRM.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/okrccrm.jpg" author="Tomáš Trumpeš" %}
 
 ### Průběh prací a trasování
 

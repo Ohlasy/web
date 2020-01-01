@@ -1,7 +1,7 @@
 ---
 title: Volme demokratické strany
 perex: Komentář k volbám do Poslanecké sněmovny. Hrozí nástup masivní nástup populismu a extrémismu, pokusme se ho omezit.
-cover-photo: https://i.ohlasy.info/0FMId0m.jpg
+cover-photo: https://i.ohlasy.info/i/0fmid0m.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
@@ -9,7 +9,7 @@ tags: politika
 
 *Máme před sebou volby do Poslanecké sněmovny Parlamentu České republiky. V pátek od 14 do 22 hodin a v sobotu od 8 do 14 hodin budeme rozhodovat o dalším směřování České republiky. Někteří tvrdí, že se jedná o nejdůležitější volby od Listopadu 89, což se těžko posuzuje a měří, ale důležité volby jsou to docela jistě. Mimo jiné proto, že nám nikdy nehrozil tak masivní nástup populismu a extrémismu jako nyní.*
 
-{% photo src="https://i.ohlasy.info/0FMId0m.jpg" author="Kristýna Znamenáčková" %}
+{% photo src="https://i.ohlasy.info/i/0fmid0m.jpg" author="Kristýna Znamenáčková" %}
 
 Příčin je samozřejmě hned několik a ne všechny jsou důsledkem našich vnitřních problémů. Česká republika nepluje vesmírem osamocena a řada neblahých trendů kopíruje evropské a světové potíže demokratického světa. Také u nás se projevuje bezradnost některých lidí, kteří se obtížně vyrovnávají s negativními důsledky globalizace a rychlých změn, kterými lidská společnost prochází. A právě u nás se možná trochu paradoxně silně projevil strach z masivního pohybu lidí, kteří sice nemíří přímo k nám, ale do našeho bezprostředního sousedství a do společenství evropské rodiny, jejíž jsme součástí. Z druhé strany čelíme tlaku putinovského Ruska, které využívá situaci k oslabení svého silného evropského souseda a snaží se rozrušit základy naší demokracie a našich snah o vytváření otevřené společnosti.
 

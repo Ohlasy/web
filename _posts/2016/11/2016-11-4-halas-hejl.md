@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: František Halas a Theodor Hejl čili chvála dětství a dobrodružné literatury"
-cover-photo: https://i.ohlasy.info/rGjJ4Pi.jpg
+cover-photo: https://i.ohlasy.info/i/rgjj4pi.jpg
 perex: " "
 author: Vít Boček
 category: seriály
@@ -12,7 +12,7 @@ tags: kultura
 
 O seznámení a dlouholetém přátelství s Halasem sepsal Theodor Hejl vzpomínkový text, který byl pod názvem *Dětství s Františkem Halasem* vydán v roce 1968 v Adamově péčí Historicko-vlastivědného kroužku závodního klubu ROH Adamovských strojíren jako 29. svazek Vlastivědné knižnice časopisu Vlastivědné zprávy z Adamova a okolí. Asi dvacetistránkový text je doprovázen kresbami Oldřicha Crhounka s motivy Kunštátu a Zboňku a reprodukcemi fotografií Františka Halase.
 
-{% photo src="https://i.ohlasy.info/SLHf9hZ.jpg" %}
+{% photo src="https://i.ohlasy.info/i/slhf9hz.jpg" %}
 
 *Oldřich Crhounek: Dům Theodora Hejla ve Zboňku*
 
@@ -26,7 +26,7 @@ Zároveň se u nich velmi brzo projevila čtenářská vášeň. Autor popisuje,
 
 Dalším předmětem zájmu obou chlapců se stal Moravský kras, který jim napínavě líčily knihy Karla Absolona. V době dospívání, když už byl Halas zpátky v Brně, setkávali se často právě v Moravském krasu a podnikali i odvážné průzkumné výpravy do jeskyní a skal. Hejl popisuje, že při šplhání se nevyhnuli ani nebezpečným situacím, kdy šlo doslova o život.
 
-{% photo src="https://i.ohlasy.info/lLijTUN.jpg" %}
+{% photo src="https://i.ohlasy.info/i/llijtun.jpg" %}
 
 *František Halas s Theodorem Hejlem v lesích u Zboňku, kolem roku 1938*
 
@@ -38,7 +38,7 @@ Theodor Hejl přežil Halase téměř o třicet let a byl tak svědkem nejenom �
 
 O životě samotného Theodora Hejla nevíme příliš mnoho. Monografie Ludvíka Kundery *František Halas: o životě a díle* z roku 1999 obsahuje o Hejlovi jen pár kusých zmínek. O něco zajímavější svědectví přináší vzpomínkový text Halasovy manželky Libuše s názvem *František Halas a Kunštát*, který byl otištěn v knížce *Kunštátské akordy*, již uspořádal a v roce 1966 vydal opět [Ludvík Kundera](http://www.ohlasy.info/clanky/2015/10/kundera-ondracek.html). O Hejlovi v něm autorka píše: „Nedaleko Svitávky leží Zboněk, Sasina je mezi nimi uprostřed cesty. A ze Zboňku docházel do Svitávky do školy chlapec téhož stáří jako František, Dorek Hejl, syn rolníka-písmáka. Oba chlapci k sobě velice přilnuli. Halas o tom mnoho vypravoval. O dětských hrách a dobrodružstvích, jak si nařízli zápěstí a pečetili přátelství krví, jak cestovali… Celou jednu světnici v Dorkově rodném statku si polepili mapami a obrázky! Četli a četli, a když se ve Svitávce ve škole ptal pan učitel na něco a Frantík už už chtěl říci, co znali z těch knížek, tahal ho Dorek za rukáv: „Neříkej jim to!“ Dorkova otce schvátila tuberkulóza jako Františkovu matku a Dorkova maminka, bledá paní, celá ztracená v starostech, nechávala chlapcům volnost. Dorek zůstal na vesnici, nikdy z něho nezmizela plachost. Když ho jednou Halas dostal ke Kočímu, aby se také učil knihkupcem, za den z města utekl. A tak pískařil, sadařil, včelařil, naučil se řeči a překládal. Živil se z ruky do úst. Statek přenechal mladšímu bratru. S Františkem se měli rádi, že nemohli bez sebe být. Když se pak sešli, tu se oba styděli a posmívali se jeden druhému. Hejl míval navrchu, Halas byl, protože psal básničky a začínal tloustnout, výtečným terčem. Co se naspřádali plánů! Chodili spolu jako dvojníci. Dorek si postavil domek u trati ve staré zahradě a tam jsme k němu jezdívali – později už na celé prázdniny. Chodívalo tam plno kamarádů. […] Někteří přijížděli i z Prahy. Jednou si na kole udělal výlet Svata Kadlec a Vladimír Holan zůstal celých čtrnáct dní. Kolikeré prázdniny jsme v Dorkově rodině strávili! […] Když začal František jezdit do Kunštátu, přicházel Dorek často a kunštátské návštěvy se zas končily u Hejlů na pampeliškovém víně. Kdo ho okusil, tvrdil, že je lepší než francouzské… Jaroslav Seifert by si mohl vzpomenout!“
 
-{% photo src="https://i.ohlasy.info/d4W7t2j.jpg" %}
+{% photo src="https://i.ohlasy.info/i/d4w7t2j.jpg" %}
 
 *Ve Zboňku 1936. Zleva: Vladimír Holan s chotí, Theodor Hejl s chotí, Hejl mladší, Halas starší, manželé Halasovi*
 
@@ -50,6 +50,6 @@ Na vážnější notu zahrává jiná Stevensonova kniha, slavný a oblíbený *
 
 *„Stydím se za své vzrušení,“ pravil princ. „Pociťuji to jako slabost nehodnou mého postavení, ale stálé vědomí, že ten pekelný pes žije, začalo na mne působit jako choroba a jeho smrt mne osvěžila více než noc spánku. Hle, Geraldine,“ pokračoval, hodiv svůj meč na podlahu, „zde je krev muže, který zabil vašeho bratra. Měl to být vítaný pohled. A přece,“ dodal, „jak podivně jsme my lidé utvářeni! Má pomsta ještě není ani pět minut stará a již se začínám ptát sám sebe, je-li vůbec nějaká pomsta možná na tomto kolísavém jevišti života! Kdo napraví zlo, které způsobil? Mohl bych mečem zjednávat nápravu až do posledního soudu a Geraldinův bratr by nebyl méně mrtev a tisíce jiných nevinných osob nebudou méně zneuctěny a zničeny. Lidský život se tak snadno bere a tak nesnadno dává. Běda,“ zvolal, „je v životě něco tak rozčarujícího jako dosažení?“*
 
-{% photo src="https://i.ohlasy.info/rGjJ4Pi.jpg" %}
+{% photo src="https://i.ohlasy.info/i/rgjj4pi.jpg" %}
 
 Z Melvillových knih přeložil Hejl román *Má první plavba* (Praha 1949), zčásti autobiografický, vyprávějící o chlapci, který se nechá najmout jako plavčík na obchodní loď, aby si splnil svůj romantický sen. Jeho naivní očekávání však brzy berou za své a chlapec se setkává s odvrácenou tváří námořnického života – s hrubostí a ponižováním ze strany starších námořníků, se špínou, nemocemi a hladomorem, s bídou lidí žijících v přístavních čtvrtích a podobně. Hejl je i autorem překladu dalších dvou Melvillových románů s exotickou tematikou – *Ráj kanibalů: Vyprávění o pobytu v údolí Typee na jednom z Markýzských ostrovů* (Praha 1941) a *Tulák po ostrovech* (Praha 1948) – líčících osudy dvou námořníků u domorodců na polynéských ostrovech. Dalšími Hejlovými překlady jsou kniha méně známého spisovatele Reginalda Campbella (1894–1950) *Malý Teen, vládce slonů* (Praha 1939; několikrát zfilmováno) nebo *Tygři hlubin: dobrodružství lovce žraloků* (Praha 1941), vyprávění kapitána Williama E. Younga zaznamenané Horacem S. Mazetem.

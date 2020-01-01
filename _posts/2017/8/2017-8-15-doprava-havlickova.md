@@ -1,14 +1,14 @@
 ---
 title: Nám auta také ničí majetek, zlobí se lidé z Havlíčkovy ulice
 perex: Vyasfaltovaná plocha před domem boskovického radního v Havlíčkově ulici nenechala klidnými několik lidí ze sousedství. Chtějí také úpravy, hlavně u křižovatky s ulicí Boženy Němcové.
-cover-photo: https://i.ohlasy.info/MOsVIA0.jpg
+cover-photo: https://i.ohlasy.info/i/mosvia0.jpg
 author: Marek Osouch
 category: zpravodajství
 ---
 
 *Vyasfaltovaná plocha před domem boskovického radního Milana Kolínského (ČSSD) v Havlíčkově ulici, na niž redakce Ohlasů [před časem upozornila](http://www.ohlasy.info/clanky/2017/06/kolinsky-parkovani.html), nenechala klidnými několik lidí ze sousedství. Chtějí také úpravy, hlavně u křižovatky s ulicí Boženy Němcové.*
 
-{% photo src="https://i.ohlasy.info/MOsVIA0.jpg" caption="Doprava na Havlíčkově ulici" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/mosvia0.jpg" caption="Doprava na Havlíčkově ulici" author="Tomáš Trumpeš" %}
 
 Radní za ČSSD Milan Kolínský argumentoval, že podal podnět jako běžný občan, aby město upravilo plochu před jeho domem a parkující auta mu nebořila plot. Tvrdí, že sám před domem neparkuje, ale svým podnětem umožnil pohodlnější stání zákazníkům blízké restaurace Repete. „Byl to podnět občana a návrh, nic dalšího jsem nepožadoval,“ prohlásil už dříve radní.
 

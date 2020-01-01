@@ -1,14 +1,14 @@
 ---
 title: Dobrým příkladem mohou být lidovci
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/x6guxTT.jpg
+cover-photo: https://i.ohlasy.info/i/x6guxtt.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---
 
 *Změna uspořádání na boskovické radnici vnesla do řad politiků a také jejich příznivců či odpůrců značnou míru emocí. Logicky. Politické síly se přeskupily, stará partnerství byla ukončena, nové vztahy a nová spojenectví ukazují přirozeně konkrétní lidi i celé strany v novém světle. A dávají jim příležitost chovat se jinak a na některé věci změnit názor. To však samo o sobě není nic špatného.*
 
-{% photo src="https://i.ohlasy.info/x6guxTT.jpg" %}
+{% photo src="https://i.ohlasy.info/i/x6guxtt.jpg" %}
 
 Naopak to může být velmi prospěšné. V našem politickém systému se jen zcela výjimečně stává, že by někdo mohl vládnout a rozhodovat sám. Voliči obvykle rozdají pověstné karty tak, aby výsledkem musela být domluva, kompromis. Jinými slovy koalice. V této koalici musí každý trochu ustoupit, každý musí trochu vyjít vstříc ostatním. V jiné koalici panují jiné priority nových partnerů, a výsledné kompromisy proto vypadají jinak. Napadat jednotlivé strany za to, že jsou dnes ochotny podpořit něco, co ještě včera nepodporovaly, je proto politicky nezralé a většinou je to spíše projevem osobní zášti, zhrzenosti a neschopnosti věcné diskuse. Dobrý příkladem mohou být boskovičtí lidovci. Ti jsou dnes zcela nesmyslně napadáni za to, že otočili v přístupu ke stavbě haly na Slovákově ulici. Ano, otočili. Není to však projevem jejich prodejnosti či bezpáteřnosti. Hlasovat pro stavbu na podzim roku 2013 a v létě roku 2015 je dost velký rozdíl. A to nejen vzhledem k politickému uspořádání. Kdo to nevidí, je zaslepený. Událostí se okolo haly od té doby seběhlo více než dost – problémy s podložím, pověstný nález uhlí, zastavení stavby, navýšení ceny, rozhodnutí kraje, nutnost nového stavebního řízení a tak dále. Za změnu názoru zaslouží lidovci spíše pochválit. Ostražití bychom měli být spíše před politiky, kteří nejsou schopni brát v potaz objektivní skutečnosti, názory veřejnosti, měnící se svět a tvrdošíjně si neustále trvají na svém.
 

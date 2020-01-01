@@ -1,6 +1,6 @@
 ---
 title: "Pohledy do historie: Konec války v zápisech skalické železniční kroniky"
-cover-photo: https://i.ohlasy.info/LOfqUuE.jpg
+cover-photo: https://i.ohlasy.info/i/lofquue.jpg
 author: Petr Vítámvás
 category: seriály
 serial: historie
@@ -9,7 +9,7 @@ tags: historie železnice
 
 *V minulých dnech jsme si připomínali události z konce 2. světové války. Zajímavým zdrojem informací k tomuto období i pro náš region jsou například pamětní knihy železničních stanic, které nově zpřístupnil Národní archiv [na svých internetových stránkách](http://www.badatelna.eu/fond/2284/inventar/). O konci války v regionu svědčí dosud málo známé zápisy v železniční kronice stanice Skalice nad Svitavou. Popisují poslední válečné dny a také následnou zastávku prezidenta Edvarda Beneše. Nádraží ve Skalici nad Svitavou, vyzdobené a zaplněné lidmi očekávajícími příjezd prezidenta Beneše, zachycuje fotografie ze sbírky Muzea regionu Boskovicka.*
 
-{% photo src="https://i.ohlasy.info/LOfqUuE.jpg" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/lofquue.jpg" author="Muzeum regionu Boskovicka" %}
 
 „Když se v dubnu 1945 přiblížila fronta k Brnu a toto bylo často bombardováno z létadel, přestěhovala se v půli dubna do Skalice nad Svitavou brněnská výtopna. Přijel sem vlak s personálem výtopny, jejich rodinami… Přijel i pomocný vlak pro stroje, nářaďový vlak, přesídlila sem i vlaková správa DRB s personálem drah… Očekávali jsme, že stroje přilákají i nepřátelské letce. 
 

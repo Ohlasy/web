@@ -1,7 +1,7 @@
 ---
 title: Boskovice provozují nemocnici 10 let. Bilance je minus 45 milionů
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/Q7YxUuK.jpg
+cover-photo: https://i.ohlasy.info/i/q7yxuuk.jpg
 category: zpravodajství
 tags: nemocnice
 featured: true
@@ -25,7 +25,7 @@ Městská rada, která představuje valnou hromadu nemocnice, nakonec rozhodla o
 
 Rostislav Verner ale po třech letech sám na post jednatele nemocnice rezignoval a valná hromada na jeho místo bez výběrového řízení jmenovala Dana Navrátila, který okamžitě po svém nástupu nastavil krizové řízení, protože nemocnice vykazovala v té době každý měsíc ztrátu. Za půl roku se mu konečný rozpočet vyrovnat nepodařilo, dokázal však snížit hrozící ztrátu z dvaceti milionů na šestnáct, což byla jediná ztráta za deset let. Minimální ztrátu osmnácti tisíc korun vykázala nemocnice ještě v roce 2006. V roce 2014 už byla nemocnice v zisku pět milionů. Viz následující graf a jeho [zdrojová data](https://docs.google.com/spreadsheets/d/1wxq5nLBCKY_ZA_59FpOo4E82y5PMa1LWRyAoiCFCwj8/edit?usp=sharing):
 
-{% photo src="https://i.ohlasy.info/BDO2DPu.png" author="Ohlasy" %}
+{% photo src="https://i.ohlasy.info/i/bdo2dpu.png" author="Ohlasy" %}
 
 K předběžnému výsledku hospodaření za loňský rok se nechce zatím nikdo vyjadřovat. „Prognóza z loňského roku byla predikována v kladných číslech a v současné době je odchylka od prognózy zatím 3,6 milionu do plusu. Ještě však nejsou vyúčtovány platby od pojišťoven, takže to může být úplně jinak,“ sdělila jen stručně boskovická starostka Hana Nedomová (ČSSD) s tím, že předpokladem je stále kladný výsledek. Plusový výsledek předpokládá i vedení nemocnice. Přesná data o hospodaření budou známa až v červnu.
 
@@ -47,7 +47,7 @@ Za deset let se nemocnice výrazně proměnila. Rekonstruovala se různá odděl
 
 Pokud nás tedy zajímá celkový dopad boskovické nemocnice na rozpočet města, výdaje můžeme počítat dvojí: jednak přímé příspěvky města do rozpočtu firmy, jednak investice do budovy, kterou město vlastní již od roku 1995. Jasným příjmem je pak nájem, který firma Nemocnice Boskovice s.r.o. platí za využití budovy, a za příjem by se daly považovat dotace, které dokázalo město pro svou nemocnici získat. Viz následující graf a jeho [zdrojová data](https://docs.google.com/spreadsheets/d/1wxq5nLBCKY_ZA_59FpOo4E82y5PMa1LWRyAoiCFCwj8/edit?usp=sharing):
 
-{% photo src="https://i.ohlasy.info/l5CvQln.png" author="Ohlasy" %}
+{% photo src="https://i.ohlasy.info/i/l5cvqln.png" author="Ohlasy" %}
 
 Jak je vidět, na samotnou městskou firmu Nemocnice Boskovice město v žádném případě nedoplácí, více z ní má, než jí přispívá na investice nebo nový majetek. Nájem, který platí městská firma za využití městské budovy nemocnice, se postupně do roku 2013 zvyšoval. Od té doby získává město stejný nájem, avšak v loňském roce k tomu přibylo zhruba 167 tisíc za nájem lékárny na Masarykově náměstí. Boskovická starostka nevyloučila, že by se do budoucna nemohlo nájemné pro nemocnici zvýšit. „V nemocnici stále probíhají investice a nájemné se většinou zvyšuje po zhodnocení objektu,“ doplnila.
 

@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Výkup pozemku na Červené zahradě za 14 milionů, nový územní plán a zákaz hazardu"
-cover-photo: https://i.ohlasy.info/61snCas.jpg
+cover-photo: https://i.ohlasy.info/i/61sncas.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Několik poměrně významných rozhodnutí učinilo na svém úterním zasedání boskovické zastupitelstvo. Patří k nim zákaz hazardu, schválení územního plánu a nákup pozemku v Červené zahradě za 14 milionů korun. Přinášíme proto stručný výběr toho nejpodstatnějšího, co podle Ohlasů na zastupitelstvu zaznělo, a především bylo rozhodnuto.*
 
-{% photo src="https://i.ohlasy.info/61snCas.jpg" %}
+{% photo src="https://i.ohlasy.info/i/61sncas.jpg" %}
 
 ### K čemu jsou komise?
 
@@ -22,7 +22,7 @@ Zastupitelstvo dále projednávalo i petici na podporu lezecké stěny na letní
 
 ### Zákaz hazardu
 
-{% photo src="https://i.ohlasy.info/38Mzhl2.jpg" %}
+{% photo src="https://i.ohlasy.info/i/38mzhl2.jpg" %}
 
 Takzvanou nulovou toleranci hracích automatů schválilo na návrh rady zastupitelstvo v podobě vyhlášky, jejíž podstatou je zákaz provozování loterií a výherních hracích automatů na území města. Vyhláška začne platit od 1. ledna roku 2016, automaty budou ale mizet postupně až po odebírání licencí ministerstvem financí, což může trvat i rok až dva. Zastupitelé se zabývali v diskusi především tím, čím bude nahrazen výpadek příjmů ve výši více než 10 milionů korun, které město aktuálně z hazardu inkasuje. Zastupitel Milan Kolínský z ČSSD uvedl, že město v příštím roce splatí skoro všechny úvěry, a tím se mu uvolní částka přibližně ve stejné výši. Sportovní kluby, ke kterým zejména peníze z hazardu směřovaly, se tedy o své příspěvky bát nemusí.
 
@@ -36,7 +36,7 @@ Boskovice mají nový územní plán. Na jeho přípravě se pracovalo několik 
 
 ### Pozemek v Červené zahradě za 14 milionů
 
-{% photo src="https://i.ohlasy.info/61snCas.jpg" %}
+{% photo src="https://i.ohlasy.info/i/61sncas.jpg" %}
 
 Největší polemiku vzbudil na zasedání zastupitelstva logicky návrh rady vykoupit v lokalitě Červená zahrada pozemky od Jiřího Dvořáčka, majitele mlýna a kempu. Posudek stanovil cenu nemovitostí na necelých 9 milionů korun, majitel však projevil ochotu pozemky městu prodat pouze za cenu výrazně vyšší – totiž za 14 milionů. Vedení města nabídku navrhlo akceptovat a výkup schválit. Především otázka ceny a také využití pozemků se staly předmětem téměř hodinové diskuse. 
 

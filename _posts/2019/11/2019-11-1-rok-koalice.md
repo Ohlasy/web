@@ -2,14 +2,14 @@
 title: "Rok boskovické koalice: Nižší tempo, méně konfliktů s opozicí"
 perex: Jeden rok uplynul v říjnu od komunálních voleb a také od ustavení nové boskovické koalice ODS + ANO + Sportovci + TOP 09 + Boskováci. Jak si zatím vede?
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/LEX8yED.jpg
+cover-photo: https://i.ohlasy.info/i/lex8yed.jpg
 category: zpravodajství
 tags: politika
 ---
 
 *Jeden rok uplynul v říjnu od komunálních voleb a také od ustavení nové boskovické koalice ODS + ANO + Sportovci + TOP 09 + Boskováci. Do čela města se po čtyřech letech vrátila ODS vedená starostou Jaroslavem Dohnálkem, který tak po přetržce načal své třetí funkční období. První výročí je příležitostí k bilancování.*
 
-{% photo src="https://i.ohlasy.info/LEX8yED.jpg" caption="Nejužší vedení města: zleva místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/lex8yed.jpg" caption="Nejužší vedení města: zleva místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Město Boskovice" %}
 
 „Pokud se mě ptáte na celkový dojem z fungování koalice, tak ten je dobrý,“ říká starosta Jaroslav Dohnálek. A dodává, že koalice je hodně pracovní, což se projevuje zejména na jednáních městské rady. Tam se podle něj opravdu intenzivně a fakticky diskutuje. „Pracujeme a fungujeme dobře,“ je podobně spokojený i první místostarosta Lukáš Holík (ANO).
 
