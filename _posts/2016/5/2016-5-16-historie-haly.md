@@ -1,7 +1,7 @@
 ---
 title: "Jak šel čas se sportovní halou: sportovci čekají už 10 let"
 date: 2016-05-16 11:00:45
-cover-photo: https://i.ohlasy.info/3PphKLfl.jpg
+cover-photo: https://i.ohlasy.info/3PphKLf.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

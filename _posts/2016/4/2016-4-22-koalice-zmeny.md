@@ -1,6 +1,6 @@
 ---
 title: Vládne nám skutečně koalice změny?
-cover-photo: https://i.ohlasy.info/A1W3l06l.jpg
+cover-photo: https://i.ohlasy.info/A1W3l06.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika investice

@@ -1,6 +1,6 @@
 ---
 title: „Až hamburgerová kultura dosáhne vrcholu, skončí i čarodějové na Madagaskaru.“
-cover-photo: https://i.ohlasy.info/CTCje5dl.jpg
+cover-photo: https://i.ohlasy.info/CTCje5d.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

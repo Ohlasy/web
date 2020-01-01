@@ -1,7 +1,7 @@
 ---
 title: Po Jakubcovi i Řehoř. Boskovické hnutí ANO opustil už druhý expředseda
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/HdnFDRWl.jpg
+cover-photo: https://i.ohlasy.info/HdnFDRW.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

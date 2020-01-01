@@ -1,7 +1,7 @@
 ---
 title: "Lesní školky: Velký zájem, pozitivní výsledky, ale stále legislativní vakuum"
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/LdxxQPil.jpg
+cover-photo: https://i.ohlasy.info/LdxxQPi.jpg
 tags: vzdělávání
 author: Anna Dudková
 ---

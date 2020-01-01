@@ -1,7 +1,7 @@
 ---
 title: Vyjednávání o jízdárně se neposunula. Vše směřuje k hale v Červené zahradě
 perex: O osudu haly se má rozhodnout na prosincovém zastupitelstvu. Zatím nic nenasvědčuje tomu, že by poslední zvažovaná varianta u ZŠ Sušilova mohla zvítězit.
-cover-photo: https://i.ohlasy.info/6vXCA7ml.jpg
+cover-photo: https://i.ohlasy.info/6vXCA7m.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

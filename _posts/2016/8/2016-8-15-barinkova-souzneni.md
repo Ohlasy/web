@@ -1,6 +1,6 @@
 ---
 title: "Lenka Bařinková, básnířka ve službách hudby"
-cover-photo: https://i.ohlasy.info/e5H7snYl.jpg
+cover-photo: https://i.ohlasy.info/e5H7snY.jpg
 author: Adéla Rozbořilová
 category: názory a komentáře
 tags: kultura

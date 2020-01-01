@@ -1,7 +1,7 @@
 ---
 title: Piráti představili záměr participativního rozpočtu
 perex: Boskovičtí Piráti představili veřejnosti na setkání na radnici základní myšlenku a fungování takzvaného participativního rozpočtu, kdy se část městských financí vyhradí pro projekty navržené občany a rozdělí se na základě veřejného hlasování.
-cover-photo: https://i.ohlasy.info/O61CgBel.jpg
+cover-photo: https://i.ohlasy.info/O61CgBe.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika rozpočet

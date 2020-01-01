@@ -1,6 +1,6 @@
 ---
 title: Jak jsme volili v eurovolbách
-cover-photo: https://i.ohlasy.info/0YDQN9Kl.jpg
+cover-photo: https://i.ohlasy.info/0YDQN9K.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

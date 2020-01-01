@@ -1,7 +1,7 @@
 ---
 title: Vzpomínka na Jaroslava Bránského
 perex: Ve věku 89 let zemřel v úterý 11. července boskovický pedagog, publicista a překladatel Jaroslav Bránský.
-cover-photo: https://i.ohlasy.info/FKT782Vl.jpg
+cover-photo: https://i.ohlasy.info/FKT782V.jpg
 author: Drahomír Skořepa
 category: názory a komentáře
 ---

@@ -1,7 +1,7 @@
 ---
 title: Politiku musíš milovat, jinak bys ji dělat nemohl, říká nový šéf boskovického ANO Lukáš Holík
 category: rozhovory
-cover-photo: https://i.ohlasy.info/lL46hlVl.jpg
+cover-photo: https://i.ohlasy.info/lL46hlV.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

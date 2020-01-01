@@ -1,6 +1,6 @@
 ---
 title: „Prostředí na škole není čisté, nedá se tam dýchat.“
-cover-photo: https://i.ohlasy.info/OnZmqmcl.jpg
+cover-photo: https://i.ohlasy.info/OnZmqmc.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura vzdělávání

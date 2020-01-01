@@ -1,7 +1,7 @@
 ---
 title: Nelze vládnout pomocí anket
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/GIpLAiHl.jpg
+cover-photo: https://i.ohlasy.info/GIpLAiH.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

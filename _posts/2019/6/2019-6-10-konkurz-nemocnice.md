@@ -1,6 +1,6 @@
 ---
 title: Jediným uchazečem o šéfa nemocnice je současný jednatel Dan Štěpánský
-cover-photo: https://i.ohlasy.info/mNiRDK7l.jpg
+cover-photo: https://i.ohlasy.info/mNiRDK7.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice

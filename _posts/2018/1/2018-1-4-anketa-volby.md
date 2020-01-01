@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Téma boskovických voleb 2018"
-cover-photo: https://i.ohlasy.info/DAL59Til.jpg
+cover-photo: https://i.ohlasy.info/DAL59Ti.jpg
 author: Tomáš Trumpeš
 category: ankety
 date: 2018-1-4 12:00:00

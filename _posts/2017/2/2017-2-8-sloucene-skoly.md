@@ -1,7 +1,7 @@
 ---
 title: Školy zůstanou sloučené, konkurz na ředitele bude za rok
 perex: Boskovická městská rada se na svém zasedání na konci ledna zabývala vyhodnocením výhod a nevýhod sloučení základních škol do jedné instituce. K čemu došla?
-cover-photo: https://i.ohlasy.info/PRYIkfSl.jpg
+cover-photo: https://i.ohlasy.info/PRYIkfS.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: vzdělávání školství

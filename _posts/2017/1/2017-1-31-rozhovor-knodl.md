@@ -1,7 +1,7 @@
 ---
 title: „Věřím, že vztahy v politice jdou nastavit lépe.“
 perex: Rozhovor s Michalem Knödlem, novým předsedou boskovické KDU-ČSL, který byl do čela strany zvolen začátkem roku poté, co se funkce vzdala senátorka Jaromíra Vítková.
-cover-photo: https://i.ohlasy.info/XH0KvRml.jpg
+cover-photo: https://i.ohlasy.info/XH0KvRm.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

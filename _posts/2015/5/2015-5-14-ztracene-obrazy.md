@@ -1,7 +1,7 @@
 ---
 title: "Policie uzavřela kauzu ztracených obrazů jako přestupek. Absurdní, hodnotí závěr odbornice"
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/47aOOSKl.jpg
+cover-photo: https://i.ohlasy.info/47aOOSK.jpg
 author: Tomáš Trumpeš
 tags: kultura
 ---

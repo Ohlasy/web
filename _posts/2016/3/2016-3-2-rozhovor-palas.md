@@ -1,6 +1,6 @@
 ---
 title: „Z tancování budou žáci vždy šikovnější než z běhání po hřišti.“
-cover-photo: https://i.ohlasy.info/MAcMhIDl.jpg
+cover-photo: https://i.ohlasy.info/MAcMhID.jpg
 author: Martina Vašková
 category: rozhovory
 tags: kultura vzdělávání

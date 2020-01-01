@@ -1,6 +1,6 @@
 ---
 title: Iva Bittová, Už jsme doma, Petr Nikl – festival Boskovice představil letošní program
-cover-photo: https://i.ohlasy.info/PbsvAKFl.jpg
+cover-photo: https://i.ohlasy.info/PbsvAKF.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: kultura

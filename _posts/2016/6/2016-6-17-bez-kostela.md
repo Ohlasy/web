@@ -1,7 +1,7 @@
 ---
 title: Křesťané bez kostela?
 author: Jiří Bureš
-cover-photo: https://i.ohlasy.info/knINoQ6l.jpg
+cover-photo: https://i.ohlasy.info/knINoQ6.jpg
 category: názory a komentáře
 ---
 

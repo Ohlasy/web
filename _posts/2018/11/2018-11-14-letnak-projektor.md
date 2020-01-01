@@ -1,7 +1,7 @@
 ---
 title: "Letní kino skvěle, ale bez vlastního projektoru to dál nepůjde"
 perex: Letní kino Boskovice zaznamenalo v roce 2018 nejvíce návštěvníků v celé ČR, ale projektor si musíme stále půjčovat. Změňme to!
-cover-photo: https://i.ohlasy.info/16nEibNl.jpg
+cover-photo: https://i.ohlasy.info/16nEibN.jpg
 author: Radek Pernica
 category: názory a komentáře
 ---

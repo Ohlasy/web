@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Má město převzít sokolovnu, nebo hledat alternativy?"
-cover-photo: https://i.ohlasy.info/fd5IPLgl.jpg
+cover-photo: https://i.ohlasy.info/fd5IPLg.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: sokolovna investice kultura

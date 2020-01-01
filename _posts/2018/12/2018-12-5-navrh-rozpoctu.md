@@ -1,7 +1,7 @@
 ---
 title: "Rozpočet 2019 bude přebytkový: Nová koalice na investicích zatím šetří"
 perex: S mírným přebytkem 43 tisíc plánuje rozpočet na příští rok nová boskovická koalice v čele s ODS. Po minulé koalici tak přichází změna. Investic se zatím plánuje minimum.
-cover-photo: https://i.ohlasy.info/FlaYQIBl.png
+cover-photo: https://i.ohlasy.info/FlaYQIB.png
 author: Marek Osouch
 category: zpravodajství
 tags: politika

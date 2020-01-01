@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Rodina Langerova z Plačkovy ulice"
-cover-photo: https://i.ohlasy.info/wETKwUIl.jpg
+cover-photo: https://i.ohlasy.info/wETKwUI.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

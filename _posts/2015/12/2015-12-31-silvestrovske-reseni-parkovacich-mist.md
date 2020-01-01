@@ -1,7 +1,7 @@
 ---
 title: Radnice chce řešit nedostatek parkovacích míst hledáním zbytečné zeleně
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/PTzsip7l.jpg
+cover-photo: https://i.ohlasy.info/PTzsip7.jpg
 tags: doprava
 ---
 

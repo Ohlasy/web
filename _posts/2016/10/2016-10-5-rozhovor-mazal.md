@@ -1,7 +1,7 @@
 ---
 title: „Od začátku roku jsem cítil, že už se nedomluvíme.“
 perex: Rozhovor s Jiřím Mazalem, který po 31 letech opouští boskovický hrad.
-cover-photo: https://i.ohlasy.info/JVpqrPJl.jpg
+cover-photo: https://i.ohlasy.info/JVpqrPJ.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

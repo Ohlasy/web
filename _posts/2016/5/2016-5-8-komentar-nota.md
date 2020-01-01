@@ -1,6 +1,6 @@
 ---
 title: Muzikant je ten, kdo umí poslouchat
-cover-photo: https://i.ohlasy.info/A7bykcsl.jpg
+cover-photo: https://i.ohlasy.info/A7bykcs.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: kultura hudba

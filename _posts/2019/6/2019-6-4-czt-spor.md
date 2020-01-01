@@ -1,7 +1,7 @@
 ---
 title: Radnice se pře o cenu tepla s dodavatelem. Spor je u regulačního úřadu
 perex: Tlak na snížení ceny tepla v Boskovicích se přelil v právnický boj mezi městem a provozovatelem tepelné soustavy, firmou ZT Energy.
-cover-photo: https://i.ohlasy.info/UAPxDyKl.jpg
+cover-photo: https://i.ohlasy.info/UAPxDyK.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2019-6-4 13:00:45

@@ -1,7 +1,7 @@
 ---
 title: Kudy vede slepá ulička
 perex: U příležitosti 50. výročí srpnové invaze byly v úterý 21. srpna na Plačkově ulici odhaleny pamětní desky připomínající oběti okupace a totalitních režimů. Publikujeme projev, který na vzpomínkové akci pronesl skaut Boris Láník.
-cover-photo: https://i.ohlasy.info/sgJCINwl.jpg
+cover-photo: https://i.ohlasy.info/sgJCINw.jpg
 author: Boris Láník
 category: názory a komentáře
 ---

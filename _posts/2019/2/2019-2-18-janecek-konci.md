@@ -1,7 +1,7 @@
 ---
 title: Miloš Janeček končí jako jednatel boskovické nemocnice
 perex: Bývalý senátor za ČSSD a bývalý šéf brněnské Úrazové nemocnice vydržel ve funkci jednatele boskovické nemocnice tři a čtvrt roku; po odchodu ČSSD z radnice a návratu ODS se s nemocnicí loučí.
-cover-photo: https://i.ohlasy.info/EeundaMl.jpg
+cover-photo: https://i.ohlasy.info/EeundaM.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

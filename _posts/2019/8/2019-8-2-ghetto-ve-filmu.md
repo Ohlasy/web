@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Židovská čtvrť ve filmu"
-cover-photo: https://i.ohlasy.info/pT2ZYe7l.jpg
+cover-photo: https://i.ohlasy.info/pT2ZYe7.jpg
 perex: Boskovice se pro svůj nevšední půvab a řadu fotogenických objektů stávají často lákadlem filmařů. Řeč nebude dnes o dokumentech, podíváme se dnes na tvorbu hranou – filmovou i televizní, v níž naše město sehrálo významnou roli.
 author: Helena Janíková
 category: seriály

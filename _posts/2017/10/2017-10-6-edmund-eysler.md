@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Edmund Eysler – Vídeňák s boskovickými kořeny"
 perex: Helena Janíková píše o další zajímavé osobnosti, jejíž rodové kořeny vedou do boskovického ghetta. Tentokrát je to proslulý vídeňský bonviván a především talentovaný skladatel Edmund Eysler.
-cover-photo: https://i.ohlasy.info/6kYMNCsl.jpg
+cover-photo: https://i.ohlasy.info/6kYMNCs.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

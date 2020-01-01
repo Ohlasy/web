@@ -1,6 +1,6 @@
 ---
 title: Do sportu jdou v Boskovicích miliony, na činnost klubů i na investice
-cover-photo: https://i.ohlasy.info/wjBrvk2l.jpg
+cover-photo: https://i.ohlasy.info/wjBrvk2.jpg
 category: zpravodajství
 author: Marek Osouch
 tags: sport

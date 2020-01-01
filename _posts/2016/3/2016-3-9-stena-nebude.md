@@ -1,7 +1,7 @@
 ---
 title: Lezecká stěna v letním kině s největší pravděpodobností nebude
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/IEhO7eWl.jpg
+cover-photo: https://i.ohlasy.info/IEhO7eW.jpg
 category: zpravodajství
 tags:
     - investice

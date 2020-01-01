@@ -1,6 +1,6 @@
 ---
 title: Soud začal projednávat propuštění Tomáše Julínka z boskovické nemocnice
-cover-photo: https://i.ohlasy.info/2ULwWgJl.jpg
+cover-photo: https://i.ohlasy.info/2ULwWgJ.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice

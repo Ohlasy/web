@@ -1,7 +1,7 @@
 ---
 title: Post boskovické místostarostky se uvolňuje pro Dagmar Hamalovou
 perex: Jaromíra Vítková odchází po 14 letech z postu boskovické místostarostky. Její místo by měla zaujmout dosavadní ředitelka muzea a radní Dagmar Hamalová.
-cover-photo: https://i.ohlasy.info/Uw7AXJNl.jpg
+cover-photo: https://i.ohlasy.info/Uw7AXJN.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: politika

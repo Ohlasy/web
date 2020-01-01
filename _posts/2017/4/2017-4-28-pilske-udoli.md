@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Pilské údolí"
 perex: "Hynek Skořepa nás zve do jednoho z nejmalebnějších míst v blízkém okolí Boskovic: Pilského údolí. Kromě přírodních krás zde můžeme obdivovat také pozůstatky toho, jak naši předkové dokázali využívat vodní energii."
-cover-photo: https://i.ohlasy.info/T2GS4h6l.jpg
+cover-photo: https://i.ohlasy.info/T2GS4h6.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

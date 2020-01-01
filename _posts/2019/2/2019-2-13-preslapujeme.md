@@ -1,7 +1,7 @@
 ---
 title: Sto dnů přešlapování
 perex: Po více než sto dnech od voleb jsou Boskovice se zkušeným prvním mužem v čele paradoxně stále v jakési křečovité poloze; na radnici jako by nevěděli, kam a jak se mají vydat, což je patrné i z vyjádření jednotlivých politických představitelů.
-cover-photo: https://i.ohlasy.info/LEX8yEDl.jpg
+cover-photo: https://i.ohlasy.info/LEX8yED.jpg
 author: Marek Osouch
 category: názory a komentáře
 tags: politika

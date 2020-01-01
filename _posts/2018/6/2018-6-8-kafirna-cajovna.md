@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Literární čajovna Hermanna Ungara a Kafírna Dogvill"
 perex: Návštěva starobylého domu na nároží ulic Zborovská a U Císařské, kde se nachází čajovna a kafírna. Jaká byla historie tohoto domu a vlastně i celé ulice?
-cover-photo: https://i.ohlasy.info/0FZgEEpl.jpg
+cover-photo: https://i.ohlasy.info/0FZgEEp.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

@@ -1,6 +1,6 @@
 ---
 title: Téměř rok od odvolání jednatele nemocnice stále nejsou známé důvody
-cover-photo: https://i.ohlasy.info/bBoG9tol.jpg
+cover-photo: https://i.ohlasy.info/bBoG9to.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice politika

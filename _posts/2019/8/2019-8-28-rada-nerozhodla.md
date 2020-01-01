@@ -1,6 +1,6 @@
 ---
 title: Radní se na hale neshodli, rozhodnutí nechali na zastupitelstvu
-cover-photo: https://i.ohlasy.info/TfElSy9l.jpg
+cover-photo: https://i.ohlasy.info/TfElSy9.jpg
 perex: Boskovická městská rada nakonec ani nehlasovala o tom, kde by měla stát nová sportovní hala. Dvě diskutované varianty předloží 10. září zastupitelům a rozhodnout mají oni.
 author: Tomáš Trumpeš
 category: zpravodajství

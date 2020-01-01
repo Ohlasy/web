@@ -1,7 +1,7 @@
 ---
 title: Co zaznělo na veřejném jednání k nové knihovně
 perex: Veřejné setkání k nové boskovické knihovně se konalo ve čtvrtek v zámeckém skleníku. Přinášíme přepis nejzajímavějších výroků, které na setkání zazněly.
-cover-photo: https://i.ohlasy.info/J97tX2ul.jpg
+cover-photo: https://i.ohlasy.info/J97tX2u.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

@@ -1,6 +1,6 @@
 ---
 title: Krajina starých sídel v Letovicích
-cover-photo: https://i.ohlasy.info/MMULK6Il.jpg
+cover-photo: https://i.ohlasy.info/MMULK6I.jpg
 author: Hynek Skořepa
 category: zpravodajství
 tags: kultura krajina

@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Co vám udělalo radost?"
-cover-photo: https://i.ohlasy.info/alkoMELl.jpg
+cover-photo: https://i.ohlasy.info/alkoMEL.jpg
 author: Tomáš Trumpeš
 category: ankety
 ---

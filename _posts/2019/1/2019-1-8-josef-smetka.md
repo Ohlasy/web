@@ -1,7 +1,7 @@
 ---
 title: Vzpomínka na Josefa Šmétku
 perex: Minulý týden proběhlo rozloučení s bývalým pedagogem gymnázia Josefem Šmétkou, který zemřel o Vánocích. Na pohřbu promluvil jeho kolega Josef Pros, jehož vzpomínku na legendárního pedagoga, který gymnáziu zasvětil dlouhá léta svého života, publikujeme.
-cover-photo: https://i.ohlasy.info/1XitwfPl.jpg
+cover-photo: https://i.ohlasy.info/1XitwfP.jpg
 author: Josef Pros
 category: názory a komentáře
 ---

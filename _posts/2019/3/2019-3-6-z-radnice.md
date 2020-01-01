@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Od programového prohlášení po úklid chodníků"
-cover-photo: https://i.ohlasy.info/V44Fv6wl.jpg
+cover-photo: https://i.ohlasy.info/V44Fv6w.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

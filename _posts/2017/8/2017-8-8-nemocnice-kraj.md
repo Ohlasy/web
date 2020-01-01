@@ -1,6 +1,6 @@
 ---
 title: Vedení boskovické nemocnice vyzývá k jejímu převodu na kraj
-cover-photo: https://i.ohlasy.info/92115cal.jpg
+cover-photo: https://i.ohlasy.info/92115ca.jpg
 perex: Léta diskutované téma převodu nemocnice z města do rukou Jihomoravského kraje znovu silněji ožívá.
 author: Marek Osouch
 category: zpravodajství

@@ -1,7 +1,7 @@
 ---
 title: Do oprav chodníků a silnic půjde letos více peněz
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/EYRgKXCl.jpg
+cover-photo: https://i.ohlasy.info/EYRgKXC.jpg
 category: zpravodajství
 tags: doprava investice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pokud budeme bourat stavby jako Dvořáčkův mlýn, co nám zbude?"
-cover-photo: https://i.ohlasy.info/y8Wb2ijl.jpg
+cover-photo: https://i.ohlasy.info/y8Wb2ij.jpg
 author: Ondřej Fiala
 category: názory a komentáře
 ---

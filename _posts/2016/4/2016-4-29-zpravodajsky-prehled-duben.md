@@ -2,7 +2,7 @@
 title: Zpravodajský přehled za duben
 author: Tomáš Trumpeš
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/zdsGEO2l.jpg
+cover-photo: https://i.ohlasy.info/zdsGEO2.jpg
 excerpt: Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v dubnu na Boskovicku událo.
 ---
 

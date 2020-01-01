@@ -1,6 +1,6 @@
 ---
 title: Škoda, že hala nestojí, ať by byla na jakémkoliv místě, říká šéf Služeb Boskovice
-cover-photo: https://i.ohlasy.info/V8WCtQvl.jpg
+cover-photo: https://i.ohlasy.info/V8WCtQv.jpg
 perex: Milan Strya sedí v čele městské firmy už téměř deset let. Čím je firma pro město užitečná a jak se její šéf dívá na plány vedení města s Červenou zahradou?
 author: Marek Osouch
 category: rozhovory

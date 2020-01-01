@@ -1,6 +1,6 @@
 ---
 title: Policie prověřuje dvě trestní oznámení v souvislosti s městskými organizacemi
-cover-photo: https://i.ohlasy.info/7k5nQxIl.jpg
+cover-photo: https://i.ohlasy.info/7k5nQxI.jpg
 perex: První míří na vypracovaný audit v boskovické nemocnici, druhé na smlouvu o spolupráci mezi strážníky a Městskou správou sociálních služeb.
 author: Marek Osouch
 category: zpravodajství

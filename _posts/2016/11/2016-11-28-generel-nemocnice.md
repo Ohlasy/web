@@ -1,6 +1,6 @@
 ---
 title: "Boskovická nemocnice je malá. Potřebuje nové křídlo za sto milionů"
-cover-photo: https://i.ohlasy.info/RyuuBNCl.jpg
+cover-photo: https://i.ohlasy.info/RyuuBNC.jpg
 perex: Boskovická nemocnice má svůj generel, tedy plán rozvoje. Hlavním závěrem je návrh výstavby nového nemocničního křídla za více než sto milionů.
 author: Marek Osouch
 category: zpravodajství

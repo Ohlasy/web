@@ -1,7 +1,7 @@
 ---
 title: „Duchovní film je pro mě i Terminátor.“
 perex: Rozhovor o filmu a spiritualitě s Ondřejem Sabolem, původně pro evangelický časopis Na rozcestí. Ondřej se nedávno přistěhoval do Boskovic a o filmu začal psát i do Ohlasů.
-cover-photo: https://i.ohlasy.info/t0JBMwal.jpg
+cover-photo: https://i.ohlasy.info/t0JBMwa.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

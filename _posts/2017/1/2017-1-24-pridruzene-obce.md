@@ -1,7 +1,7 @@
 ---
 title: "Místní části Boskovic: život jako na vsi, ale závislost na boskovickém vedení"
 perex: Jak hospodaří obce Mladkov, Hrádkov, Bačov a Vratíkov, které jsou závislé na rozpočtu a zastupitelstvu Boskovic?
-cover-photo: https://i.ohlasy.info/Q2DyZY5l.jpg
+cover-photo: https://i.ohlasy.info/Q2DyZY5.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika investice

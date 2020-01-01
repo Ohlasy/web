@@ -1,6 +1,6 @@
 ---
 title: Deset deka demokracie
-cover-photo: https://i.ohlasy.info/gMMUdjcl.jpg
+cover-photo: https://i.ohlasy.info/gMMUdjc.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: politika volby2018

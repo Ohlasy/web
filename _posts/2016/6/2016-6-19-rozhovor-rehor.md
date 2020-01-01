@@ -1,6 +1,6 @@
 ---
 title: „Občané by měli rozhodnout, jestli má být knihovna v ZZN, nebo v Panském dvoře.“
-cover-photo: https://i.ohlasy.info/HUxhLVol.jpg
+cover-photo: https://i.ohlasy.info/HUxhLVo.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:

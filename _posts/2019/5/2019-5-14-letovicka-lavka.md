@@ -1,6 +1,6 @@
 ---
 title: Co trápí Letovice?
-cover-photo: https://i.ohlasy.info/RfYAdhdl.jpg
+cover-photo: https://i.ohlasy.info/RfYAdhd.jpg
 perex: Letovice pochopitelně trápí podobné problémy jako jiná města. O jednom specifickém napsal komentář Hynek Skořepa. Týká se uzavření lávky pro pěší u Letovických strojíren.
 author: Hynek Skořepa
 category: názory a komentáře

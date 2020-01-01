@@ -1,6 +1,6 @@
 ---
 title: Přes Boskovice na Prostějov ani ťuk. Dukelská se na necelý rok zavře
-cover-photo: https://i.ohlasy.info/Mm4Qndvl.jpg
+cover-photo: https://i.ohlasy.info/Mm4Qndv.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ve městě žijí stovky psů. Potřebují hřiště?
-cover-photo: https://i.ohlasy.info/eJsTMD0l.jpg
+cover-photo: https://i.ohlasy.info/eJsTMD0.jpg
 author: Anna Dudková
 ---
 

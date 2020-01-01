@@ -1,7 +1,7 @@
 ---
 title: Nezůstávejme u dílčích oprav letního kina
 perex: Nad současným stavem letního kina se v komentáři pro Ohlasy zamýšlí Radek Pernica, bývalý šéf boskovického kina a současný vedoucí brněnského univerzitního kina Scala.
-cover-photo: https://i.ohlasy.info/6dpPOy0l.jpg
+cover-photo: https://i.ohlasy.info/6dpPOy0.jpg
 author: Radek Pernica
 category: názory a komentáře
 ---

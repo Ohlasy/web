@@ -1,7 +1,7 @@
 ---
 title: „Je špatně, že nemáme člověka v úzkém vedení města“
 perex: Lékařka a v minulosti primářka boskovické nemocnice Martina Přichystalová je od roku 2014 za hnutí ANO boskovickou radní. V rozhovoru jsme se jí zeptali na roli hnutí ANO v koalici, nemocnici a zdravotnictví, v němž se denně pohybuje.
-cover-photo: https://i.ohlasy.info/tp76v61l.jpg
+cover-photo: https://i.ohlasy.info/tp76v61.jpg
 author: Marek Osouch
 category: rozhovory
 tags: politika

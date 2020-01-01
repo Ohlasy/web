@@ -1,6 +1,6 @@
 ---
 title: „Kdyby víc lidí přemýšlelo, co Evropská unie je a co pro nás znamená, tak by nemohli být takhle negativní,“ říká europoslanec Luděk Niedermayer
-cover-photo: https://i.ohlasy.info/hOSYJStl.jpg
+cover-photo: https://i.ohlasy.info/hOSYJSt.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

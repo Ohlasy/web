@@ -2,7 +2,7 @@
 title: Velké filmové hity a dobrá dramaturgie – to jsou podle šéfa kina Tomáše Marvana důvody loňského nárůstu návštěvnosti
 category: rozhovory
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/G5ooKval.jpg
+cover-photo: https://i.ohlasy.info/G5ooKva.jpg
 tags: kino
 ---
 

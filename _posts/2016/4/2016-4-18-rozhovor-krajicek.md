@@ -1,6 +1,6 @@
 ---
 title: „Mandolína mi dává možnost svobodně vyjádřit sám sebe.“
-cover-photo: https://i.ohlasy.info/43ZeIfvl.jpg
+cover-photo: https://i.ohlasy.info/43ZeIfv.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura hudba

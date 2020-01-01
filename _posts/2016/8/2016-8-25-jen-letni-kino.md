@@ -1,7 +1,7 @@
 ---
 title: Máme jen letní kino
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/C3vbZIdl.jpg
+cover-photo: https://i.ohlasy.info/C3vbZId.jpg
 author: Radek Pernica
 tags: kultura kino
 ---

@@ -1,7 +1,7 @@
 ---
 title: Konkurzy na ředitele by měly být samozřejmostí
 perex: Pokud chceme mít dynamicky se rozvíjející moderní instituce, měli by jejich šéfové jednou za několik let představit své vize a obhájit je v otevřené soutěži s dalšími zájemci.
-cover-photo: https://i.ohlasy.info/sOfAvmol.jpg
+cover-photo: https://i.ohlasy.info/sOfAvmo.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nevolíme osobnosti, ale strany
-cover-photo: https://i.ohlasy.info/DSJnkKhl.jpg
+cover-photo: https://i.ohlasy.info/DSJnkKh.jpg
 category: názory a komentáře
 author: Marek Osouch
 tags: politika volby

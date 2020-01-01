@@ -1,7 +1,7 @@
 ---
 title: "Boskovice za 100 let: otevření knihovny, bourání haly, nalezení malby potápěče"
 perex: Jsou tu Boskotimes, projekt dětí, které nám dávají nahlédnout, jak budou místní noviny vypadat a o čem budou psát za 100 let.
-cover-photo: https://i.ohlasy.info/Qpr8vqml.jpg
+cover-photo: https://i.ohlasy.info/Qpr8vqm.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

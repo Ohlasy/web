@@ -1,7 +1,7 @@
 ---
 title: Filipika proti asfaltování
 perex: Ráda chodím na vycházky a mrzí mě, jak okolo Boskovic ubývá míst, kam se dá pěšky vyrazit a nepotkat cestou žádná auta. Auta nás provázejí na cestách do Doubrav, autům se nevyhneme během vycházek zahrádkami kolem „Kojálu“, auta hrčí na Kamenici.
-cover-photo: https://i.ohlasy.info/qruKrlHl.jpg
+cover-photo: https://i.ohlasy.info/qruKrlH.jpg
 author: Anna Dušilová
 category: názory a komentáře
 ---

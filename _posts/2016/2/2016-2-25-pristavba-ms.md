@@ -1,6 +1,6 @@
 ---
 title: Přístavba školky na Bílkově by měla vyřešit problém s nedostatkem míst
-cover-photo: https://i.ohlasy.info/0f6DtYSl.jpg
+cover-photo: https://i.ohlasy.info/0f6DtYS.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: vzdělávání investice architektura

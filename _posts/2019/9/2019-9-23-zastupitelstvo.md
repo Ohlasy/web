@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Nejen hala, ale také vizuální smog a vyšší výdaje rozpočtu"
 perex: V úterý 10. září se sešli boskovičtí zastupitelé. Hlavním bodem schůze byla sportovní hala, o které už jsme psali. Nyní přinášíme informace o dalším průběhu a rozhodnutích zářijového zasedání.
-cover-photo: https://i.ohlasy.info/4Kq0ZjMl.jpg
+cover-photo: https://i.ohlasy.info/4Kq0ZjM.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

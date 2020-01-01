@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Opatovické hradisko"
 perex: Hynek Skořepa při svém putování Krajinami Boskovicka tentokrát zabrousí trochu víc do geologie. Cílem cesty je totiž pásmo kopců, které se táhne nad severozápadní částí Malé Hané. Jedním z nejnápadnějších je Opatovické hradisko.
-cover-photo: https://i.ohlasy.info/GyMvlmal.jpg
+cover-photo: https://i.ohlasy.info/GyMvlma.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

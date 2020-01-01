@@ -1,6 +1,6 @@
 ---
 title: První rok Ohlasů. Události na Boskovicku pohledem čtenářského zájmu
-cover-photo: https://i.ohlasy.info/mIDijbWl.jpg
+cover-photo: https://i.ohlasy.info/mIDijbW.jpg
 author: Tomáš Trumpeš
 tags: ohlasy
 ---

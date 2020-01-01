@@ -1,7 +1,7 @@
 ---
 title: „Vyprodukujeme zhruba tři miliony vřeten ročně.“
 perex: Rozhovor s ředitelem společnosti Novibra Markusem Külzerem o výrobcích, zaměstnancích, ale i o tom, jaké bylo přestěhovat se před více než dvaceti lety z německého velkoměsta sem do Boskovic.
-cover-photo: https://i.ohlasy.info/KgAvffPl.jpg
+cover-photo: https://i.ohlasy.info/KgAvffP.jpg
 author: Martina Vašková
 category: rozhovory
 ---

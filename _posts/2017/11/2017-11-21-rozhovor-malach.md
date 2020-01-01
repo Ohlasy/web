@@ -1,6 +1,6 @@
 ---
 title: „Halu chci v Červené zahradě, ale musí na tom být politická shoda.“
-cover-photo: https://i.ohlasy.info/hq1HpYRl.jpg
+cover-photo: https://i.ohlasy.info/hq1HpYR.jpg
 perex: Rozhovor s místostarostou Petrem Malachem. Večer před klíčovým jednáním rady jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.
 author: Tomáš Trumpeš
 category: rozhovory

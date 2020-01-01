@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na leden
-cover-photo: https://i.ohlasy.info/FqO78uil.jpg
+cover-photo: https://i.ohlasy.info/FqO78ui.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---

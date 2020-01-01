@@ -1,6 +1,6 @@
 ---
 title: Starosta rekordman vede Kořenec 37 let
-cover-photo: https://i.ohlasy.info/UN32GR4l.jpg
+cover-photo: https://i.ohlasy.info/UN32GR4.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

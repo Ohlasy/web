@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Recenze na Boskovické stezky"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/p71htHbl.jpg
+cover-photo: https://i.ohlasy.info/p71htHb.jpg
 category: ankety
 ---
 

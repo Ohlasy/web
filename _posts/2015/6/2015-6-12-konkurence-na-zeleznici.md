@@ -1,7 +1,7 @@
 ---
 title: Konkurence na železnici a školní výlety aneb Postřehy učitele
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/3Svqio4l.jpg
+cover-photo: https://i.ohlasy.info/3Svqio4.jpg
 author: Hynek Skořepa
 tags: železnice doprava vzdělávání
 ---

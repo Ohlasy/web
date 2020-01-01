@@ -1,7 +1,7 @@
 ---
 title: "Další informace o elektrárně AKAM Bosko: Soud řeší oprávněnost licence"
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/9cNI7l0l.jpg
+cover-photo: https://i.ohlasy.info/9cNI7l0.jpg
 author: Marek Osouch
 tags:
     - solární elektrárna

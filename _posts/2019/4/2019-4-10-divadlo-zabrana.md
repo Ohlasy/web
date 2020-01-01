@@ -1,7 +1,7 @@
 ---
 title: Na gymnáziu vznikla výborná inscenace z deníků Jana Zábrany
 perex: Sám proti tmám je název nové inscenace, kterou na gymnáziu se svým Divadélkem poezie připravila pedagožka a režisérka Věra Prosová. Zdařilému počinu se věnujeme stručnou recenzí a rozhovorem s autorkou.
-cover-photo: https://i.ohlasy.info/rvlVX3tl.jpg
+cover-photo: https://i.ohlasy.info/rvlVX3t.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura divadlo

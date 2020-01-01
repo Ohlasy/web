@@ -1,7 +1,7 @@
 ---
 title: Volme demokratické strany
 perex: Komentář k volbám do Poslanecké sněmovny. Hrozí nástup masivní nástup populismu a extrémismu, pokusme se ho omezit.
-cover-photo: https://i.ohlasy.info/0FMId0ml.jpg
+cover-photo: https://i.ohlasy.info/0FMId0m.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika

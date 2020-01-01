@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Radní o knihovně"
 perex: O tématu knihovny se na tiskových konferencích pravidelně bavíme se starostou Jaroslavem Dohnálkem a místostarostou Lukášem Holíkem. Nyní jsme se zeptali na postoj ke stavbě knihovny také druhého místostarosty a ostatních radních.
-cover-photo: https://i.ohlasy.info/xHgnxFIl.jpg
+cover-photo: https://i.ohlasy.info/xHgnxFI.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika

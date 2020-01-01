@@ -1,6 +1,6 @@
 ---
 title: Parčík u autobusového nádraží čeká obnova
-cover-photo: https://i.ohlasy.info/6z8bFJul.jpg
+cover-photo: https://i.ohlasy.info/6z8bFJu.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: architektura zeleň

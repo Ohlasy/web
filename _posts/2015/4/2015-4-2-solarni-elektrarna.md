@@ -1,7 +1,7 @@
 ---
 title: Boskovice už rok nemají ze solární elektrárny ani korunu. Z 60 milionů bude nejspíš jen osm
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/6BpqQdOl.jpg
+cover-photo: https://i.ohlasy.info/6BpqQdO.jpg
 author: Marek Osouch
 tags:
     - solární elektrárna

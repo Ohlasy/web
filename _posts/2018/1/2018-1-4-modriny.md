@@ -1,7 +1,7 @@
 ---
 title: "Život pod stromy: Modříny – individualisté něžní až do koruny"
 perex: Už několik týdnů nosím z lesa chvojí z popadaných stromů po nedávné bouři. Prodírám se mezi zlámanými kmeny a bezradně hledím na vyvrácené kořeny. Potěšující je, že všude kolem roste mnoho malých stromečků.
-cover-photo: https://i.ohlasy.info/Ygco0hSl.jpg
+cover-photo: https://i.ohlasy.info/Ygco0hS.jpg
 author: Martina Lukešová
 category: seriály
 serial: stromy

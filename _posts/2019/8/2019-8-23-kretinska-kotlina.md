@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Křetínská kotlina"
 perex: Srpen je vhodným měsícem k seznámení se s Křetínskou kotlinou. Kdo by neznal přehradní nádrž Křetínka, jedno z rekreanty nejvyhledávanějších míst Boskovicka?
-cover-photo: https://i.ohlasy.info/eUNdbeHl.jpg
+cover-photo: https://i.ohlasy.info/eUNdbeH.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

@@ -1,7 +1,7 @@
 ---
 title: "PŘEDVOLEBNÍ ANKETA: Příprava městských investic"
 perex: Jste spokojeni s tím, jak město připravuje větší investiční akce? Mělo by dojít k většímu zapojení odborníků a veřejnosti a je podle vás současný systém dostatečně transparentní?
-cover-photo: https://i.ohlasy.info/NQofl4Al.jpg
+cover-photo: https://i.ohlasy.info/NQofl4A.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika volby2018

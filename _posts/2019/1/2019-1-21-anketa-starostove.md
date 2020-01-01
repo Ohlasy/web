@@ -1,7 +1,7 @@
 ---
 title: "Anketa se starosty: priority volebního období 2018–2022"
 perex: Jaké hlavní cíle si kladete pro toto volební období? Co je nejvíc potřeba řešit ve vaší obci, jaké jsou vaše priority a jaké konkrétní věci byste rádi stihli? Odpovídají starostové Letovic, Velkých Opatovic, Kunštátu, Lysic, Svitávky a Olešnice.
-cover-photo: https://i.ohlasy.info/JWyjpF0l.jpg
+cover-photo: https://i.ohlasy.info/JWyjpF0.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika

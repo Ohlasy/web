@@ -1,6 +1,6 @@
 ---
 title: Jak jsme vyhráli svůj první soud
-cover-photo: https://i.ohlasy.info/0Q6pQDpl.jpg
+cover-photo: https://i.ohlasy.info/0Q6pQDp.jpg
 perex: Téměř dvouletý příběh našeho soudního sporu s Nemocnicí Boskovice je u konce – před čtrnácti dny brněnský krajský soud rozhodl v náš prospěch, rozsudek už nabyl právní moci.
 author: Tomáš Znamenáček
 category: názory a komentáře

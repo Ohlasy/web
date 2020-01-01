@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Pod Liščím kupem"
 perex: Přišel opět čas vstavačů (prstnatců) májových – našich lučních orchidejí. Letos jsem se za nimi vypravil do přírodní památky pod Liščím kupem. Do míst, kam jsem před lety rád chodíval jako vysokoškolák a celá léta tam už nezavítal.
-cover-photo: https://i.ohlasy.info/KsgoIyYl.jpg
+cover-photo: https://i.ohlasy.info/KsgoIyY.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

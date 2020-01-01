@@ -1,7 +1,7 @@
 ---
 title: Upravený projekt na rekonstrukci Panského dvora opět neprošel
 perex: Ani další pokus získat kladné stanovisko Státní památkové péče pro rekonstrukci významné boskovické památky Panský dvůr na Hradní ulici se majiteli nevydařil.
-cover-photo: https://i.ohlasy.info/hgUxyDil.jpg
+cover-photo: https://i.ohlasy.info/hgUxyDi.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

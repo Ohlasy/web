@@ -1,7 +1,7 @@
 ---
 title: Polytechnické centrum na Slovákově má stát 72,5 milionu
 perex: Projekt polytechnického centra je připraven. Kolik má stát, jaké náklady přinese městu, jaké bude jeho vybavení? Jde o účelnou investici? Přinášíme podrobný pohled vedení města.
-cover-photo: https://i.ohlasy.info/J6XGowzl.jpg
+cover-photo: https://i.ohlasy.info/J6XGowz.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: investice politika

@@ -1,7 +1,7 @@
 ---
 title: Město chce zastavět proluku na Bílkově ulici
 perex: Nová zástavba by měla vzniknout ve volném prostoru na Bílkově ulici naproti židovskému obecnímu domu. Místo, které bylo v minulosti zastavěno, by tak mělo být zastavěno znovu, jak stanoví i zásady památkové péče.
-cover-photo: https://i.ohlasy.info/TivKiHbl.jpg
+cover-photo: https://i.ohlasy.info/TivKiHb.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

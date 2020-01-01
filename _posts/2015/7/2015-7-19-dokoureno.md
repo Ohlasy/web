@@ -1,7 +1,7 @@
 ---
 title: Kuřáci versus nekuřáci
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/kEQqONWl.jpg
+cover-photo: https://i.ohlasy.info/kEQqONW.jpg
 author: Hynek Skořepa
 ---
 

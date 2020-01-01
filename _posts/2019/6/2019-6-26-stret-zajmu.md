@@ -1,7 +1,7 @@
 ---
 title: Střet zájmů oblečený neoblečený
 perex: U dvou městských zakázek připravovaných firmou spojenou s místní ČSSD našlo ministerstvo pro místní rozvoj chyby v zadávací dokumentaci pro výběrové řízení. Co to přesně znamená?
-cover-photo: https://i.ohlasy.info/DvlIBPWl.jpg
+cover-photo: https://i.ohlasy.info/DvlIBPW.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: politika

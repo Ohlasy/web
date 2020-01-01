@@ -1,7 +1,7 @@
 ---
 title: Boskovice kulturně obézní
 perex: Mají Boskovice nedostatek prostorů pro kulturu, nebo je v nich, jak v poslední době několikrát zaznělo, „přesálováno“?
-cover-photo: https://i.ohlasy.info/ItALA43l.jpg
+cover-photo: https://i.ohlasy.info/ItALA43.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

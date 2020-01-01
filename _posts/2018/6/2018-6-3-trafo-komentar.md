@@ -1,6 +1,6 @@
 ---
 title: Umělcům nedáváme milostivou příležitost
-cover-photo: https://i.ohlasy.info/PebP7dRl.jpg
+cover-photo: https://i.ohlasy.info/PebP7dR.jpg
 perex: Street art na stěnách trafostanice je dobrý nápad, který by si zasloužil lepší organizaci.
 author: Tomáš Znamenáček
 category: názory a komentáře

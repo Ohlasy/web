@@ -1,7 +1,7 @@
 ---
 title: Město chystá levnější svoz odpadu pro ty, co třídí
 perex: Boskovice už přibližně za půl roku chtějí spustit motivační systém pro třídění odpadů. Zapojení do systému bude dobrovolné, nicméně domácnosti, které se do něj přidají, získají slevu z poplatku za odpad.
-cover-photo: https://i.ohlasy.info/QLpaVmMl.jpg
+cover-photo: https://i.ohlasy.info/QLpaVmM.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: odpady

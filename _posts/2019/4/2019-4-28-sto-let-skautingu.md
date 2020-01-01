@@ -1,6 +1,6 @@
 ---
 title: „Nejsilnější období bylo po válce. Teď se k tomu blížíme.“
-cover-photo: https://i.ohlasy.info/cZLhbLbl.jpg
+cover-photo: https://i.ohlasy.info/cZLhbLb.jpg
 perex: Boskovičtí skauti nachystali na květen oslavy 100 let skautingu v Boskovicích – výstavu v muzeu, vydání knihy a řadu dalších akcí. O tom všem jsme si povídali s Ludmilou Dobrozemskou a Václavem Klíčem, kteří stáli v čele příprav.
 author: Tomáš Trumpeš
 category: rozhovory

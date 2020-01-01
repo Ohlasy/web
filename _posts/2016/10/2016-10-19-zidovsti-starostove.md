@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Židovští starostové v Boskovicích"
 perex: Další díl seriálu Příběhy z ghetta představuje starosty samostatné politické židovské obce, která v Boskovicích existovala mezi lety 1850 a 1920.
-cover-photo: https://i.ohlasy.info/lfW1ynSl.jpg
+cover-photo: https://i.ohlasy.info/lfW1ynS.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

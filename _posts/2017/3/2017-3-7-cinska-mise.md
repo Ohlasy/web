@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Boskovice a čínská mise"
 perex: Tajemný kufr legionáře Stanislava Mašindy, člena první československé diplomatické mise v Číně, vydal svá tajemství.
-cover-photo: https://i.ohlasy.info/TWqjx6tl.jpg
+cover-photo: https://i.ohlasy.info/TWqjx6t.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

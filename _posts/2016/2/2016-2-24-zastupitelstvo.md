@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Nový zastupitel, úpravy investičních plánů a vyostřující se vztahy koalice a opozice"
-cover-photo: https://i.ohlasy.info/RZhaCs0l.jpg
+cover-photo: https://i.ohlasy.info/RZhaCs0.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika investice

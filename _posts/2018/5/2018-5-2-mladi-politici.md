@@ -1,6 +1,6 @@
 ---
 title: „Boskovicím chybí koncepce. Město se potřebuje posunout.“
-cover-photo: https://i.ohlasy.info/k5pdlnel.jpg
+cover-photo: https://i.ohlasy.info/k5pdlne.jpg
 perex: Rozhovor s Martinem Staňkem a Filipem Jimramovským, kteří patří k nejmladší generaci boskovických politiků.
 author: Tomáš Trumpeš
 category: rozhovory

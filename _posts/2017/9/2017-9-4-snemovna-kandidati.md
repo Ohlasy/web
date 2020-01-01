@@ -1,7 +1,7 @@
 ---
 title: Kdo chce reprezentovat region ve sněmovně?
 perex: Kandidátní listiny do sněmovních voleb jsou odevzdány. Představujeme nejvýše postavené regionální politiky z deseti stran, které mají potenciál získat křesla ve sněmovně.
-cover-photo: https://i.ohlasy.info/MTNsVzOl.jpg
+cover-photo: https://i.ohlasy.info/MTNsVzO.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika

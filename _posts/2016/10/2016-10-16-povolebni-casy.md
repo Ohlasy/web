@@ -1,6 +1,6 @@
 ---
 title: "Také politické časy se mění"
-cover-photo: https://i.ohlasy.info/niC3banl.jpg
+cover-photo: https://i.ohlasy.info/niC3ban.jpg
 perex: Je po volbách. A tentokrát rovnou dvojitých – kromě krajského zastupitelstva jsme si zvolili také novou senátorku. Jakou zprávu nám tyto volby vyslaly před těmi příštími?
 author: Tomáš Trumpeš
 category: názory a komentáře

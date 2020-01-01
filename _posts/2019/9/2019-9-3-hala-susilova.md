@@ -1,6 +1,6 @@
 ---
 title: "Názor Ohlasů: Nová hala by měla stát v lokalitě Červenka light"
-cover-photo: https://i.ohlasy.info/WKDYMfOl.jpg
+cover-photo: https://i.ohlasy.info/WKDYMfO.jpg
 perex: Před klíčovým jednáním zastupitelstva, které bude rozhodovat o umístění boskovické sportovní haly, jsme se rozhodli shrnout názor nejužší redakce Ohlasů.
 author: Tomáš Trumpeš
 category: názory a komentáře

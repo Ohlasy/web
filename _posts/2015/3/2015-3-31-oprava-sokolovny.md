@@ -1,7 +1,7 @@
 ---
 title: Sokolovna? Komplexní rekonstrukce, nebo raději nic
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/VnQa3Djl.jpg
+cover-photo: https://i.ohlasy.info/VnQa3Dj.jpg
 author: Tomáš Trumpeš
 tags: kultura sokolovna
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sklepy končí. Najde se nový provozovatel?
-cover-photo: https://i.ohlasy.info/TtH67Gal.jpg
+cover-photo: https://i.ohlasy.info/TtH67Ga.jpg
 perex: Ukončit od září činnost boskovických Sklepů se rozhodla Lenka Pětová, která už nedokázala provoz klubu utáhnout. Teď doufá, že se najde někdo, kdo převezme štafetu.
 author: Tomáš Trumpeš
 category: zpravodajství

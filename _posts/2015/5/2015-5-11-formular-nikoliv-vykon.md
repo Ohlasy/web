@@ -1,7 +1,7 @@
 ---
 title: Podstatou není výkon, ale formulář
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/9qhrhspl.jpg
+cover-photo: https://i.ohlasy.info/9qhrhsp.jpg
 author: Petr Vítámvás
 ---
 

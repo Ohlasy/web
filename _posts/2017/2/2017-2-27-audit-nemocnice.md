@@ -1,6 +1,6 @@
 ---
 title: Rok od auditu v nemocnici jsou jeho výsledky stále utajené
-cover-photo: https://i.ohlasy.info/IHq218Rl.jpg
+cover-photo: https://i.ohlasy.info/IHq218R.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice politika

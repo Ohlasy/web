@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na červenec
-cover-photo: https://i.ohlasy.info/BOkHxOMl.jpg
+cover-photo: https://i.ohlasy.info/BOkHxOM.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura

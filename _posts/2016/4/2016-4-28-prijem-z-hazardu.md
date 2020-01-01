@@ -1,6 +1,6 @@
 ---
 title: Z Boskovic mizí hrací automaty. Peněz z nich je ale více
-cover-photo: https://i.ohlasy.info/s1xmxdtl.jpg
+cover-photo: https://i.ohlasy.info/s1xmxdt.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: hazard

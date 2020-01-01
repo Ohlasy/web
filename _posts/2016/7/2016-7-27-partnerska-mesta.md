@@ -1,6 +1,6 @@
 ---
 title: "Spolupráce s partnerskými městy sílí, ale základní myšlenka zůstává nenaplněna"
-cover-photo: https://i.ohlasy.info/KcKF3jtl.jpg
+cover-photo: https://i.ohlasy.info/KcKF3jt.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika

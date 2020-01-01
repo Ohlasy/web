@@ -1,7 +1,7 @@
 ---
 title: „Jsem takový poloviční popelář.“
 perex: Na sever od Boskovic už nejezdí popeláři firmy Suez, ale obce si od ledna sváží odpady samy, vlastními auty. Vypověděly Suezu i „nevypověditelné“ smlouvy z 90. let a založily společnost Technické služby Malá Haná, kterou vede starostka Sudic Olga Dočkalová.
-cover-photo: https://i.ohlasy.info/LoQlazil.jpg
+cover-photo: https://i.ohlasy.info/LoQlazi.jpg
 author: Marek Osouch
 category: rozhovory
 tags: odpady politika

@@ -1,6 +1,6 @@
 ---
 title: Městu se otevřela možnost koupit kromě parcely po lihovaru i Velen
-cover-photo: https://i.ohlasy.info/vGUgswql.jpg
+cover-photo: https://i.ohlasy.info/vGUgswq.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

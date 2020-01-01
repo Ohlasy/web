@@ -1,6 +1,6 @@
 ---
 title: Hugo Race, mínus123minut, Už jsme doma. Festival Boskovice slaví čtvrt století
-cover-photo: https://i.ohlasy.info/UI6xz3Ll.jpg
+cover-photo: https://i.ohlasy.info/UI6xz3L.jpg
 perex: 25. ročník festivalu pro židovskou čtvrť Boskovice 2017 se koná od čtvrtka 6. do neděle 9. července. Co nám nabídne?
 author: Tomáš Trumpeš
 category: zpravodajství

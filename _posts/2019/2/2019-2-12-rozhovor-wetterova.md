@@ -1,6 +1,6 @@
 ---
 title: „V lidech přetrvávají předsudky a strach z neznámého.“
-cover-photo: https://i.ohlasy.info/Hq4AX7Rl.jpg
+cover-photo: https://i.ohlasy.info/Hq4AX7R.jpg
 perex: Rozhovor s Marií Wetterovou, ředitelkou Paprsku Velké Opatovice, o vlně nevole, kterou ve Svitávce vyvolal chystaný projekt chráněného bydlení.
 author: Tomáš Trumpeš
 category: rozhovory

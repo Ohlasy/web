@@ -1,6 +1,6 @@
 ---
 title: Silver – největší z rockerů
-cover-photo: https://i.ohlasy.info/uxgWVV8l.jpg
+cover-photo: https://i.ohlasy.info/uxgWVV8.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: kultura hudba nekrolog

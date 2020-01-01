@@ -1,7 +1,7 @@
 ---
 title: "Cena tepla v Boskovicích zůstane na 664 korunách. Město ji bude dotovat"
 perex: Cenu centrálního tepla řešili radní na jednání těsně před Vánoci. Příští rok totiž končí smlouvy na odběr tepla více než tisícovce domácností a vedení města chce, aby v systému CZT zůstaly.
-cover-photo: https://i.ohlasy.info/ESwiGUyl.jpg
+cover-photo: https://i.ohlasy.info/ESwiGUy.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

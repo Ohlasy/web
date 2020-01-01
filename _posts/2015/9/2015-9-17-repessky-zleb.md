@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Repešský žleb"
-cover-photo: https://i.ohlasy.info/YMfnOUyl.jpg
+cover-photo: https://i.ohlasy.info/YMfnOUy.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa

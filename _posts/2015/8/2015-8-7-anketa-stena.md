@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Chcete lezeckou stěnu na letním kině?"
 category: ankety
-cover-photo: https://i.ohlasy.info/FnXSulol.jpg
+cover-photo: https://i.ohlasy.info/FnXSulo.jpg
 author: Tomáš Trumpeš
 tags:
     - lezecká stěna

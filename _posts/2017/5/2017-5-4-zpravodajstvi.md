@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za duben
-cover-photo: https://i.ohlasy.info/SPZl00Vl.jpg
+cover-photo: https://i.ohlasy.info/SPZl00V.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

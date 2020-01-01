@@ -1,6 +1,6 @@
 ---
 title: Děti jako alibi
-cover-photo: https://i.ohlasy.info/Ov3OFiFl.jpg
+cover-photo: https://i.ohlasy.info/Ov3OFiF.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

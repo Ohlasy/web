@@ -1,7 +1,7 @@
 ---
 title: „Když dělám sochu, chci, aby v ní člověk mohl číst.“
 perex: Rozhovor se sochařkou Magdalénou Roztočilovou. Magdaléna pochází z Boskovic a letos se jako kurátorka i jako autorka podílela na výstavě současných soch ve veřejném prostoru v rámci festivalu pro židovskou čtvrť.
-cover-photo: https://i.ohlasy.info/paxUTlzl.jpg
+cover-photo: https://i.ohlasy.info/paxUTlz.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura

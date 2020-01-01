@@ -1,7 +1,7 @@
 ---
 title: Politická reklama ve zpravodaji je dotovaná, nikoliv komerční
 perex: Komentář o zneužívání radničních médií vyvolal silnou reakci. Politický inzerát je přece běžná reklama, kterou si mohl koupit každý – kde je problém?
-cover-photo: https://i.ohlasy.info/P7EoAYjl.jpg
+cover-photo: https://i.ohlasy.info/P7EoAYj.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika volby2018

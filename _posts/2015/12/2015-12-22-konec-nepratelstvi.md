@@ -1,6 +1,6 @@
 ---
 title: Konec všech nepřátelství
-cover-photo: https://i.ohlasy.info/Pr729T2l.jpg
+cover-photo: https://i.ohlasy.info/Pr729T2.jpg
 category: názory a komentáře
 author: Jiří Bureš
 ---

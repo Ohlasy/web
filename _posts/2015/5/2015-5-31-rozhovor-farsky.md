@@ -1,7 +1,7 @@
 ---
 title: „Raději říct dvě slova, z nichž jedno nebude to nejlepší, než neříct nic,“ říká radní pro komunikaci Vladimír Farský
 category: rozhovory
-cover-photo: https://i.ohlasy.info/aSrYBxil.jpg
+cover-photo: https://i.ohlasy.info/aSrYBxi.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

@@ -1,6 +1,6 @@
 ---
 title: „Skautský dům bychom zvládli postavit sami.“
-cover-photo: https://i.ohlasy.info/09rqeuDl.jpg
+cover-photo: https://i.ohlasy.info/09rqeuD.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

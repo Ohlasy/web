@@ -1,6 +1,6 @@
 ---
 title: „Dirigování není jen synchronizované mávání rukama.“
-cover-photo: https://i.ohlasy.info/KNsy2Qgl.jpg
+cover-photo: https://i.ohlasy.info/KNsy2Qg.jpg
 author: Kristýna Znamenáčková
 category: rozhovory
 tags: kultura hudba

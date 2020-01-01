@@ -1,7 +1,7 @@
 ---
 title: "Beseda: Co přinese generační obměna boskovické politiky?"
 perex: O generačních aspektech boskovické politiky diskutují Petr Malach (ČSSD), Lukáš Holík (ANO), Michal Knödl (KDU-ČSL) a Petr Šafránek (TOP 09).
-cover-photo: https://i.ohlasy.info/9e5DdT9l.jpg
+cover-photo: https://i.ohlasy.info/9e5DdT9.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

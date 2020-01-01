@@ -1,6 +1,6 @@
 ---
 title: "Pokračování soudu s Julínkem: svědci vypovídali v jeho prospěch"
-cover-photo: https://i.ohlasy.info/HZYX7lxl.jpg
+cover-photo: https://i.ohlasy.info/HZYX7lx.jpg
 perex: Druhé stání absolvoval u blanenského okresního soudu Tomáš Julínek, který považuje svůj vyhazov z boskovické nemocnice za účelový.
 author: Marek Osouch
 category: zpravodajství

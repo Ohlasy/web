@@ -1,7 +1,7 @@
 ---
 title: V Boskovicích, na okrese i v kraji také dominovalo ANO
 perex: Přemalováním České republiky na modrou barvu hnutí ANO skončily letošní volby do Poslanecké sněmovny. Nejinak tomu bylo i v Jihomoravském kraji, dříve baště sociální demokracie, na okrese Blansko a v samotných Boskovicích.
-cover-photo: https://i.ohlasy.info/yO1nm3Yl.jpg
+cover-photo: https://i.ohlasy.info/yO1nm3Y.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

@@ -1,6 +1,6 @@
 ---
 title: Komunální volby v dalších městech a obcích regionu
-cover-photo: https://i.ohlasy.info/O71djydl.jpg
+cover-photo: https://i.ohlasy.info/O71djyd.jpg
 author: Marek Osouch
 tags: politika volby2018
 ---

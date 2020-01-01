@@ -2,7 +2,7 @@
 title: "Krajiny Boskovicka: Malá Haná"
 serial: krajiny
 category: seriály
-cover-photo: https://i.ohlasy.info/aiEqissl.jpg
+cover-photo: https://i.ohlasy.info/aiEqiss.jpg
 author: Hynek Skořepa
 featured: true
 ---

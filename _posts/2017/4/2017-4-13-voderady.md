@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Místní jména na Boskovicku – Voděrady"
-cover-photo: https://i.ohlasy.info/SkJUchjl.jpg
+cover-photo: https://i.ohlasy.info/SkJUchj.jpg
 perex: Putování s Vítem Bočkem po místních názvech obcí nás tentokrát zavede do vsi, kde mají rádi vodu. Kdybychom byli hyperkorektní jako v 15–18 století, vydali bychom se do Oděrad.
 author: Vít Boček
 category: seriály

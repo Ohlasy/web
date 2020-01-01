@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: Křižovatka u pošty, hospodaření nemocnice a kvalita života v Boskovicích"
 perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci srpna.
-cover-photo: https://i.ohlasy.info/6LYkYrXl.jpg
+cover-photo: https://i.ohlasy.info/6LYkYrX.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: doprava politika

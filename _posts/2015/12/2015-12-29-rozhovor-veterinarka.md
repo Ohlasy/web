@@ -1,6 +1,6 @@
 ---
 title: „Psi zažívají stres a potřebují podporu člověka, na kterého jsou zvyklí“
-cover-photo: https://i.ohlasy.info/AzI8oWzl.jpg
+cover-photo: https://i.ohlasy.info/AzI8oWz.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

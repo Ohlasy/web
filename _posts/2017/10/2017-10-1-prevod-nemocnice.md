@@ -1,7 +1,7 @@
 ---
 title: Vedení města chce převést nemocnici na Jihomoravský kraj
 perex: Město už nemocnici nechce provozovat, a dokonce se bojí, že by se pod ním mohla zavřít.
-cover-photo: https://i.ohlasy.info/8Ly0U4el.jpg
+cover-photo: https://i.ohlasy.info/8Ly0U4e.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika

@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Mordovánská studánka"
 category: seriály
-cover-photo: https://i.ohlasy.info/QFmjJHNl.jpg
+cover-photo: https://i.ohlasy.info/QFmjJHN.jpg
 author: Hynek Skořepa
 serial: krajiny
 tags: krajina

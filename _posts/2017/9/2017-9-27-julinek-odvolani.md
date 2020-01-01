@@ -1,7 +1,7 @@
 ---
 title: Nemocnice se ve sporu s Julínkem neodvolala. Výpověď tak definitivně neplatí
 perex: Uběhla odvolací lhůta a nemocnice svého práva na odvolání nevyužila, rozsudek je pravomocný.
-cover-photo: https://i.ohlasy.info/PbHcDR7l.jpg
+cover-photo: https://i.ohlasy.info/PbHcDR7.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

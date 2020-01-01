@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Nemocnice, letní kino, dopravní situace i sportovní hala"
 perex: Pravidelná schůze boskovického zastupitelstva se nesla v poměrně klidném a bezkonfliktním duchu.
-cover-photo: https://i.ohlasy.info/CLS88FZl.jpg
+cover-photo: https://i.ohlasy.info/CLS88FZ.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

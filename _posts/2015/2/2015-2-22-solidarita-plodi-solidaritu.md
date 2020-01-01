@@ -1,6 +1,6 @@
 ---
 title: I pouhé gesto má svůj hluboký smysl
-cover-photo: https://i.ohlasy.info/tpSybPDl.png
+cover-photo: https://i.ohlasy.info/tpSybPD.png
 category: názory a komentáře
 author: Tomáš Trumpeš
 tags: politika

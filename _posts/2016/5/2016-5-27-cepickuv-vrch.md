@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Čepičkův vrch"
-cover-photo: https://i.ohlasy.info/gDHCQQIl.jpg
+cover-photo: https://i.ohlasy.info/gDHCQQI.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

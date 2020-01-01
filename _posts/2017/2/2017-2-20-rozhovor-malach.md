@@ -1,7 +1,7 @@
 ---
 title: „Nepočítal jsem, že se stanu ředitelem, ale pro muzeum chci udělat maximum.“
 perex: Rozhovor s Romanem Malachem, novým ředitelem boskovického muzea.
-cover-photo: https://i.ohlasy.info/xV7LfOOl.jpg
+cover-photo: https://i.ohlasy.info/xV7LfOO.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: historie muzeum

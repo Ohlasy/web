@@ -1,7 +1,7 @@
 ---
 title: Vyhláška o nočním klidu je v Boskovicích podle úředníků zbytečná
 perex: Kdy v Boskovicích platí noční klid, kdy musí pořadatelé veřejných akcí žádat o povolení a jak se věci mění s poslední novelou zákona o přestupcích?
-cover-photo: https://i.ohlasy.info/dLl9O5Zl.jpg
+cover-photo: https://i.ohlasy.info/dLl9O5Z.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

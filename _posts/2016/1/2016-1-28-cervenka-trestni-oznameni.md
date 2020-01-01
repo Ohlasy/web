@@ -1,6 +1,6 @@
 ---
 title: Boskovická radnice čelí trestnímu oznámení kvůli nákupu pozemku v Červené zahradě
-cover-photo: https://i.ohlasy.info/2qEBIUTl.jpg
+cover-photo: https://i.ohlasy.info/2qEBIUT.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags:

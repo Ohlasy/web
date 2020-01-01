@@ -1,7 +1,7 @@
 ---
 title: Radní Pavel Schwarzer nebyl od začátku roku na jednání rady
 perex: Městští radní jednou za dva týdny rozhodují o mnoha bodech na svých jednáních. Ne všichni se ale každého zúčastní. Nejmenší docházku má radní za hnutí ANO Pavel Schwarzer.
-cover-photo: https://i.ohlasy.info/TbYIRbIl.jpg
+cover-photo: https://i.ohlasy.info/TbYIRbI.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika

@@ -1,7 +1,7 @@
 ---
 title: Festival Boskovice si zaslouží větší podporu města 
 perex: Ohlížet se za dalším proběhlým ročníkem festivalu Boskovice je jistě možné z mnoha hledisek. Ponechejme tentokrát stranou kulturní význam a přínos akce a pojďme se bavit o penězích.
-cover-photo: https://i.ohlasy.info/SbhPk6El.jpg
+cover-photo: https://i.ohlasy.info/SbhPk6E.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

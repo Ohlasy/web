@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na březen
-cover-photo: https://i.ohlasy.info/BizlkaIl.jpg
+cover-photo: https://i.ohlasy.info/BizlkaI.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura

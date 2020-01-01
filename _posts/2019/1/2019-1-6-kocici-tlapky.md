@@ -2,7 +2,7 @@
 title: Opuštěné kočičí tlapky jsou i v Boskovicích
 author: Anna Dušilová
 perex: Když narazíte na toulavého psa, zavoláte nejspíš městskou policii, která psa odveze do útulku. Když ale potkáte toulavou kočku, zavoláte Radce Pospíšilové z organizace Opuštěné kočičí tlapky a donesete kočku do jejího domácího kočičího depozitu.
-cover-photo: https://i.ohlasy.info/olKkTyTl.jpg
+cover-photo: https://i.ohlasy.info/olKkTyT.jpg
 category: zpravodajství
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Za dva měsíce začnou dělníci s opravou letního kina"
-cover-photo: https://i.ohlasy.info/f2TJEINl.jpg
+cover-photo: https://i.ohlasy.info/f2TJEIN.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice kultura kino

@@ -1,6 +1,6 @@
 ---
 title: "Anketa k hale: Jak pokračovat a proč mlčí sportovci?"
-cover-photo: https://i.ohlasy.info/l9ubvOkl.jpg
+cover-photo: https://i.ohlasy.info/l9ubvOk.jpg
 category: ankety
 author: Tomáš Trumpeš
 tags:

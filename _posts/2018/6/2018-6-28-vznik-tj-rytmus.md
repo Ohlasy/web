@@ -1,6 +1,6 @@
 ---
 title: "Červen 1988: Navzdory režimu vznikla samostatná organizace TJ Rytmus Boskovice"
-cover-photo: https://i.ohlasy.info/HlUrhCTl.jpg
+cover-photo: https://i.ohlasy.info/HlUrhCT.jpg
 perex: TJ Rytmus Boskovice vznikla před pádem komunistického režimu v roce 1988 i přes nelibost boskovické KSČ.
 author: Marek Osouch
 category: seriály

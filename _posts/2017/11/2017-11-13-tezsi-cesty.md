@@ -1,6 +1,6 @@
 ---
 title: Blahoslavenství těžších cest
-cover-photo: https://i.ohlasy.info/GwoNjGKl.jpg
+cover-photo: https://i.ohlasy.info/GwoNjGK.jpg
 author: Jiří Bureš
 category: názory a komentáře
 ---

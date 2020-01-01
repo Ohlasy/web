@@ -1,6 +1,6 @@
 ---
 title: „Společnost se mění k lepšímu. Takže i fotbal, ale bude to strašně dlouho trvat.“
-cover-photo: https://i.ohlasy.info/MGR7gQLl.jpg
+cover-photo: https://i.ohlasy.info/MGR7gQL.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: sport

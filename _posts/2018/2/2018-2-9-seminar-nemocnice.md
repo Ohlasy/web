@@ -1,6 +1,6 @@
 ---
 title: Otevřeně za dveřmi
-cover-photo: https://i.ohlasy.info/mIeI5mhl.jpg
+cover-photo: https://i.ohlasy.info/mIeI5mh.jpg
 author: Marek Osouch
 category: názory a komentáře
 ---

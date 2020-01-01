@@ -1,6 +1,6 @@
 ---
 title: Sokolovnu nejspíš převezme město
-cover-photo: https://i.ohlasy.info/pR9rXn3l.jpg
+cover-photo: https://i.ohlasy.info/pR9rXn3.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2016-02-16 09:40:45

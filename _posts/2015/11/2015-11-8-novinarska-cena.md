@@ -1,7 +1,7 @@
 ---
 title: "Editorial: Redaktoři Ohlasů Marek Osouch a Žaneta Ondroušková získali novinářské ceny"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/gY4poJjl.jpg
+cover-photo: https://i.ohlasy.info/gY4poJj.jpg
 category: zpravodajství
 tags: ohlasy
 ---

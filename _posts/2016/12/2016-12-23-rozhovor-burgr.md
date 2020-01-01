@@ -1,6 +1,6 @@
 ---
 title: „Chtěli jsme přispět k místní pospolitosti. To je důležité.“
-cover-photo: https://i.ohlasy.info/lT4bfNFl.jpg
+cover-photo: https://i.ohlasy.info/lT4bfNF.jpg
 perex: Rozhovor s Rudolfem Burgrem, organizátorem boskovické vánoční Polévky pro chudé i bohaté. Akce se letos koná již podvaadvacáté, polévka se rozdává na Štědrý den od 11 do 12 hodin na Masarykově náměstí.
 author: Tomáš Trumpeš
 category: rozhovory

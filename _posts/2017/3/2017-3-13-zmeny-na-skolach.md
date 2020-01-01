@@ -1,7 +1,7 @@
 ---
 title: Boskovické školství čekají změny
 perex: České školství musí nevyhnutelně projít změnami. Co čeká boskovické základní školy? Je dobře, že jsou sloučené do jedné organizace? Změní je nový ředitel, který vzejde z nadcházejícího konkurzu?
-cover-photo: https://i.ohlasy.info/awGsjUOl.jpg
+cover-photo: https://i.ohlasy.info/awGsjUO.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: školství vzdělávání

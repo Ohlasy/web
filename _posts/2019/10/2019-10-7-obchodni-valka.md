@@ -1,6 +1,6 @@
 ---
 title: Obchodní válka USA a Číny dopadá na podniky v regionu
-cover-photo: https://i.ohlasy.info/gG2vfCul.jpg
+cover-photo: https://i.ohlasy.info/gG2vfCu.jpg
 perex: Nejistotu, klesající zakázky nebo také propouštění zažívají některé z velkých podniků na Boskovicku. Na vině je mimo jiné nižší ekonomický růst Číny způsobený její obchodní válkou se Spojenými státy.
 author: Marek Osouch
 category: zpravodajství

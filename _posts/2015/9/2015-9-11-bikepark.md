@@ -1,7 +1,7 @@
 ---
 title: Bikeparku v Doubravách se otevírá cesta
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/ma3KIzRl.jpg
+cover-photo: https://i.ohlasy.info/ma3KIzR.jpg
 author: Tomáš Trumpeš
 ---
 

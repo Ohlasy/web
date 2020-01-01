@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: nic o hale, odmítnutí jízdárny a čekání na ultrazvuk"
 perex: Bez větších zádrhelů, komplikací, ale také diskusí proběhlo únorové jednání boskovického zastupitelstva. To odmítlo debatovat o hale na Sušilově, stejně tak zamítlo odkup jízdárny. 
-cover-photo: https://i.ohlasy.info/gMug8ifl.jpg
+cover-photo: https://i.ohlasy.info/gMug8if.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

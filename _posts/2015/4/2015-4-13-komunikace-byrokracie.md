@@ -1,7 +1,7 @@
 ---
 title: Komunikace ve světě byrokracie
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/CmyZCBIl.jpg
+cover-photo: https://i.ohlasy.info/CmyZCBI.jpg
 author: Marek Osouch
 tags:
     - sportovní hala

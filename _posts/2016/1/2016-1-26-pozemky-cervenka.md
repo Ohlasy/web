@@ -1,6 +1,6 @@
 ---
 title: Radnice musela odtajnit zápisy z jednání s majiteli pozemků v Červené zahradě
-cover-photo: https://i.ohlasy.info/EG4sdcml.jpg
+cover-photo: https://i.ohlasy.info/EG4sdcm.jpg
 category: zpravodajství
 author: Marek Osouch
 tags:

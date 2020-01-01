@@ -1,7 +1,7 @@
 ---
 title: Navýšení výdajů na tištěná média může ospravedlnit pouze zkvalitnění obsahu
 perex: Město Boskovice chce vydávat nový a lepší zpravodaj. V čem je tento krok problematický?
-cover-photo: https://i.ohlasy.info/GhMfxlpl.jpg
+cover-photo: https://i.ohlasy.info/GhMfxlp.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

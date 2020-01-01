@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Rozpočet na rok 2019, doprava seniorů i majáles"
-cover-photo: https://i.ohlasy.info/26wDQEVl.jpg
+cover-photo: https://i.ohlasy.info/26wDQEV.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

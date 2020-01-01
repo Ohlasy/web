@@ -1,7 +1,7 @@
 ---
 title: Žádná z variant pro halu není nesmyslná, zbývá ochota k dohodě
 perex: „O hale se rozhodne až v červnu,“ dočetli jsme se v novinách. Čtyři roky starých. Co je potřeba udělat, abychom se k témuž titulku nevraceli i za další čtyři roky?
-cover-photo: https://i.ohlasy.info/nui09w4l.jpg
+cover-photo: https://i.ohlasy.info/nui09w4.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:

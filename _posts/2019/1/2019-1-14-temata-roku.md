@@ -1,7 +1,7 @@
 ---
 title: Očekávaná témata roku 2019
 perex: Při ohlížení za uplynulým rokem nezbývá než konstatovat, že řadu témat a událostí bychom předem nedokázali či nemohli předpokládat. Jsou však také témata, u kterých předem očekáváme, že bude důležité je v následujícím roce sledovat.
-cover-photo: https://i.ohlasy.info/tkXfPDYl.jpg
+cover-photo: https://i.ohlasy.info/tkXfPDY.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Dopis Aloise Jiráska starostovi Boskovic Josefu Kirchmannovi"
 perex: 21. května 1917 napsal Alois Jirásek dopis starostovi Boskovic Josefu Kirchmannovi, v němž jemu i obecnímu zastupitelstvu děkuje za udělení čestného občanství města.
-cover-photo: https://i.ohlasy.info/M6ULB8Zl.jpg
+cover-photo: https://i.ohlasy.info/M6ULB8Z.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

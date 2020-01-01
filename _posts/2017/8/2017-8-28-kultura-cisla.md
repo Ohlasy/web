@@ -1,7 +1,7 @@
 ---
 title: "Kulturní akce v Boskovicích: Kolik jich je a kdo je pořádá?"
 perex: Následující text vznikl na základě pokusu sepsat a spočítat kulturní akce v Boskovicích, konané během končící sezóny 2016/2017.
-cover-photo: https://i.ohlasy.info/t2PPkgQl.jpg
+cover-photo: https://i.ohlasy.info/t2PPkgQ.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

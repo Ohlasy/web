@@ -1,6 +1,6 @@
 ---
 title: "PŘEDVOLEBNÍ ANKETA: Sport"
-cover-photo: https://i.ohlasy.info/iAZG6qDl.jpg
+cover-photo: https://i.ohlasy.info/iAZG6qD.jpg
 perex: Anketa s kandidáty jednotlivých stran a hnutí kandidujících v boskovických komunálních volbách. Tentokrát na téma sport.
 author: Tomáš Trumpeš
 category: ankety

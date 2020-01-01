@@ -1,7 +1,7 @@
 ---
 title: „Po dvou a půl letech už by vedení města mohlo vědět, co chce.“
 perex: Rozhovor s Pavlem Vlachem, předsedou boskovické TOP 09, opozičním zastupitelem a ředitelem VOŠ ekonomické a zdravotnické a SŠ.
-cover-photo: https://i.ohlasy.info/vQtanKal.jpg
+cover-photo: https://i.ohlasy.info/vQtanKa.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

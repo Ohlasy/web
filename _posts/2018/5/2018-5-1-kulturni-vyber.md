@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na květen
-cover-photo: https://i.ohlasy.info/VcWTns8l.jpg
+cover-photo: https://i.ohlasy.info/VcWTns8.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---

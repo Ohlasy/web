@@ -1,6 +1,6 @@
 ---
 title: Nad odsunem se zamýšlel i Pavel Švanda, student spjatý s Boskovicemi a zavražděný StB
-cover-photo: https://i.ohlasy.info/xGstEpXl.jpg
+cover-photo: https://i.ohlasy.info/xGstEpX.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: historie

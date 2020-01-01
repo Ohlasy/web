@@ -1,6 +1,6 @@
 ---
 title: "Beseda Za rohem: Boskovice – kulturní město?"
-cover-photo: https://i.ohlasy.info/UhzluNcl.jpg
+cover-photo: https://i.ohlasy.info/UhzluNc.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 tags: kultura

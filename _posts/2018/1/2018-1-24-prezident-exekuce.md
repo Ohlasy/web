@@ -1,7 +1,7 @@
 ---
 title: Prezident proti exekucím
 perex: Bylo by dobré zvolit prezidenta, který se bude snažit skutečně něco udělat pro lidi, kteří mají pocit, že je společnost hodila přes palubu.
-cover-photo: https://i.ohlasy.info/CcL0p3ql.jpg
+cover-photo: https://i.ohlasy.info/CcL0p3q.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika

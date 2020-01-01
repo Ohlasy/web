@@ -1,7 +1,7 @@
 ---
 title: Nemocnice prezentovala výsledky svého hospodaření
 perex: Boskovická nemocnice zveřejnila v červnu výroční zprávu za rok 2017 a na tiskové konferenci jednatel Miloš Janeček společně se svým zástupcem Danem Štěpánským představili výsledky hospodaření.
-cover-photo: https://i.ohlasy.info/ET5Y7tdl.jpg
+cover-photo: https://i.ohlasy.info/ET5Y7td.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

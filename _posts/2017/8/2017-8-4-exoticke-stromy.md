@@ -1,7 +1,7 @@
 ---
 title: "Život pod stromy: Tajemství cest cizokrajných stromů"
 perex: Martina Lukešová tentokrát o stromech z dalekých krajů, odkud k nám přicestovaly jako exotické artikly.
-cover-photo: https://i.ohlasy.info/tcEeyd2l.jpg
+cover-photo: https://i.ohlasy.info/tcEeyd2.jpg
 author: Martina Lukešová
 category: seriály
 serial: stromy

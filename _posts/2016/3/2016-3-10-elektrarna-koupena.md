@@ -1,6 +1,6 @@
 ---
 title: Velcí čeští solárníci chtějí zprovoznit boskovickou elektrárnu
-cover-photo: https://i.ohlasy.info/VYIykTHl.jpg
+cover-photo: https://i.ohlasy.info/VYIykTH.jpg
 category: zpravodajství
 author: Marek Osouch
 tags:

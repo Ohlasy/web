@@ -1,7 +1,7 @@
 ---
 title: Možná výstavba sportovní haly na Sušilově se komplikuje
 perex: Cenu 8,5 milionu za odkup potřebných soukromých nemovitostí, kterou stanovil znalec, považuje radnice za vysokou a chce o ní dál vyjednávat. Situace kolem sportovní haly se tak od jara prakticky nikam neposunula.
-cover-photo: https://i.ohlasy.info/VizAbJNl.jpg
+cover-photo: https://i.ohlasy.info/VizAbJN.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

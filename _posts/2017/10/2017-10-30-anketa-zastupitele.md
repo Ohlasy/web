@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Jak zastupitelé hodnotí svou práci?"
 perex: Už jen necelý rok zbývá do komunálních voleb. Zeptali jsme se tedy všech 27 zastupitelů, jak jsou spokojeni s výsledky současné boskovické koalice ČSSD, KDU-ČSL, ANO 2011 a Vladimíra Farského za KSČM.
-cover-photo: https://i.ohlasy.info/V48obt6l.jpg
+cover-photo: https://i.ohlasy.info/V48obt6.jpg
 author: Marek Osouch
 category: ankety
 tags: politika

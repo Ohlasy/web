@@ -1,6 +1,6 @@
 ---
 title: "PŘEDVOLEBNÍ ANKETA: Kultura"
-cover-photo: https://i.ohlasy.info/XYcpVUxl.jpg
+cover-photo: https://i.ohlasy.info/XYcpVUx.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika volby2018

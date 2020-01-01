@@ -1,7 +1,7 @@
 ---
 title: O hale rozhodli lidovci. Měla by stát na Hybešově
 perex: Hlasování boskovických zastupitelů o sportovní hale nakonec patem neskončilo. Nejednotné koalici pomohli lidovci a většinou 16 hlasů byla schválena hala u školy na Hybešově ulici. Zůstává otázkou, jestli stavbu nezablokují občané, a jestli hlasování přežije koalice.
-cover-photo: https://i.ohlasy.info/Tov0uW5l.jpg
+cover-photo: https://i.ohlasy.info/Tov0uW5.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

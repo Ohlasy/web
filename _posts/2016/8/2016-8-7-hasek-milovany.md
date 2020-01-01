@@ -1,6 +1,6 @@
 ---
 title: Hejtman svým krajem milovaný? Čísla mluví jinak
-cover-photo: https://i.ohlasy.info/YV5rLoKl.jpg
+cover-photo: https://i.ohlasy.info/YV5rLoK.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika volby

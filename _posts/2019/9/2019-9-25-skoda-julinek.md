@@ -1,7 +1,7 @@
 ---
 title: Nemocnice nebude po exstarostce Nedomové vymáhat škodu za vyhazov Julínka
 perex: Nemocnice udělala tečku za vyhazovem Tomáše Julínka. Náhradu mu sice vyplatila, po nikom však vzniklou škodu nebude chtít.
-cover-photo: https://i.ohlasy.info/XSU0mLLl.jpg
+cover-photo: https://i.ohlasy.info/XSU0mLL.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice politika

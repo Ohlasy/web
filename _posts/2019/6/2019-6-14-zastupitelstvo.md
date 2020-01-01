@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Koalice neměla dost hlasů, vypomohli lidovci"
 perex: V úterý 11. června se k jednání sešli boskovičtí zastupitelé. Hlavním tématem se stal evergreen – sportovní hala, ačkoliv se zatím konkrétně nerozhodovalo ani o lokalitě pro její stavbu.
-cover-photo: https://i.ohlasy.info/uw7Wffgl.jpg
+cover-photo: https://i.ohlasy.info/uw7Wffg.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

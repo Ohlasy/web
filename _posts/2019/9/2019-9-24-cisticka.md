@@ -1,6 +1,6 @@
 ---
 title: Do čističky musí město dát 100 milionů, jinak hrozí stavební uzávěra
-cover-photo: https://i.ohlasy.info/Uy1kMUpl.jpg
+cover-photo: https://i.ohlasy.info/Uy1kMUp.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: voda

@@ -1,6 +1,6 @@
 ---
 title: "Lezecká stěna je skvělé oživení města, statický posudek není na překážku"
-cover-photo: https://i.ohlasy.info/Ux0wSM4l.jpg
+cover-photo: https://i.ohlasy.info/Ux0wSM4.jpg
 author: Adam Kožoušek
 category: názory a komentáře
 tags:

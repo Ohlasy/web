@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Pavlovské mokřady"
-cover-photo: https://i.ohlasy.info/VWwjlyRl.jpg
+cover-photo: https://i.ohlasy.info/VWwjlyR.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa

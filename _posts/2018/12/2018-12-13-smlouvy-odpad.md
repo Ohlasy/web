@@ -1,7 +1,7 @@
 ---
 title: Smlouva za vyvážení odpadu je plná pochybností. Nejspíš dokonce neplatná
 perex: O platnost smluv týkajících se vývozu odpadu se zajímala už minulá koalice. Přestože zjistila, že jsou plné nedostatků, problém do konce nedotáhla.
-cover-photo: https://i.ohlasy.info/lYu8Q7Tl.jpg
+cover-photo: https://i.ohlasy.info/lYu8Q7T.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

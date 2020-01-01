@@ -1,7 +1,7 @@
 ---
 title: Inventura Programového prohlášení boskovické koalice
 perex: Před dvěma lety se vedení boskovické radnice ujala nová koalice a krátce nato zveřejnila městská rada své programové prohlášení. Jak to s jeho plněním vypadá v poločase?
-cover-photo: https://i.ohlasy.info/5ctnbW1l.jpg
+cover-photo: https://i.ohlasy.info/5ctnbW1.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika volby

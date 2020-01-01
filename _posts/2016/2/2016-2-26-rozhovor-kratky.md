@@ -1,6 +1,6 @@
 ---
 title: V Boskovicích není místo, kam by se lidé báli jít, říká ředitel městské policie David Krátký
-cover-photo: https://i.ohlasy.info/9SykWeFl.jpg
+cover-photo: https://i.ohlasy.info/9SykWeF.jpg
 author: Marek Osouch
 category: rozhovory
 tags: bezpečnost

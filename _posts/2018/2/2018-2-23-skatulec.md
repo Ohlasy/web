@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Na Babyloně"
-cover-photo: https://i.ohlasy.info/Xb7pydsl.jpg
+cover-photo: https://i.ohlasy.info/Xb7pyds.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

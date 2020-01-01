@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Nafukovací provizorium a stavba sportovní haly"
-cover-photo: https://i.ohlasy.info/WKDYMfOl.jpg
+cover-photo: https://i.ohlasy.info/WKDYMfO.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

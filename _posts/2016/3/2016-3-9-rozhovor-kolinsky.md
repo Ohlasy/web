@@ -1,6 +1,6 @@
 ---
 title: „V opozici vidím potenciál, ale s ohledem na některé osoby bude domluva těžká.“
-cover-photo: https://i.ohlasy.info/Xk6fcZMl.jpg
+cover-photo: https://i.ohlasy.info/Xk6fcZM.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:

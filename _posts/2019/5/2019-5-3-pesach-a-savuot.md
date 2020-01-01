@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Zeman matan Toratenu – čas darování naší Tóry"
 perex: Skončil židovský svátek Pesach a blíží se svátek Šavuot. Židé slaví dvě významné biblické události – odchod z egyptského otroctví a přijetí Tóry.
-cover-photo: https://i.ohlasy.info/PFfGTGcl.jpg
+cover-photo: https://i.ohlasy.info/PFfGTGc.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

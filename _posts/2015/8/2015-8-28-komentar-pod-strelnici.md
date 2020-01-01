@@ -1,7 +1,7 @@
 ---
 title: Výstavba Pod Střelnicí by mohla do Boskovic přinést chybějící soudobou architekturu
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/qBagzv6l.jpg
+cover-photo: https://i.ohlasy.info/qBagzv6.jpg
 author: Petr Ondráček
 tags:
     - architektura

@@ -1,6 +1,6 @@
 ---
 title: „Někdo si možná klepal na hlavu, ale já myslím, že založení galerie byl dobrý počin.“
-cover-photo: https://i.ohlasy.info/uzduHnCl.jpg
+cover-photo: https://i.ohlasy.info/uzduHnC.jpg
 perex: Rozhovor s galeristou Josefem Bařinkou u příležitosti 20. výročí založení Galerie Otakara Kubína.
 author: Tomáš Trumpeš
 category: rozhovory

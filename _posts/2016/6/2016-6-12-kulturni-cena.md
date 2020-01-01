@@ -1,6 +1,6 @@
 ---
 title: Těšme se na kontroverze boskovických Cen za kulturu
-cover-photo: https://i.ohlasy.info/QhkWZdtl.jpg
+cover-photo: https://i.ohlasy.info/QhkWZdt.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: kultura

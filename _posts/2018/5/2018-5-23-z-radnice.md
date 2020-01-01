@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: výzdoba trafostanice, informační systém pro nemocnici, knihovna a hala"
 perex: Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady v půli května.
-cover-photo: https://i.ohlasy.info/O1ubimfl.jpg
+cover-photo: https://i.ohlasy.info/O1ubimf.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

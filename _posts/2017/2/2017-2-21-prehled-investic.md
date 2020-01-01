@@ -2,7 +2,7 @@
 title: "Městské investice: Srovnání posledních let a investiční plány"
 perex: Jak moc současná koalice pod vedením ČSSD investuje ve srovnání s minulou koalicí pod vedením ODS? Kolik rozpočtu takzvaně „projíme“?
 date: 2017-02-21 12:40:45
-cover-photo: https://i.ohlasy.info/hVcl7WWl.jpg
+cover-photo: https://i.ohlasy.info/hVcl7WW.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice politika

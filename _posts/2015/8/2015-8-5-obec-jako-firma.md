@@ -1,7 +1,7 @@
 ---
 title: Obec jako firma
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/m2Dv8fql.jpg
+cover-photo: https://i.ohlasy.info/m2Dv8fq.jpg
 author: Marek Osouch
 tags: politika
 ---

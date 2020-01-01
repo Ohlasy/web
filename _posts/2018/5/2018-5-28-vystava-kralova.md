@@ -1,6 +1,6 @@
 ---
 title: Svět je jenom chodník nebem
-cover-photo: https://i.ohlasy.info/bWpz5yFl.jpg
+cover-photo: https://i.ohlasy.info/bWpz5yF.jpg
 perex: V galerii Kunšt na kunštátském náměstí potrvá do 9. srpna výstava Markety Králové, absolventky atelieru grafiky a ilustrace na Vysoké škole uměleckoprůmyslové v letech 1972–1978. Jako pozvánku publikujeme úvodní slovo Víta Ondráčka.
 author: Vít Ondráček
 category: názory a komentáře

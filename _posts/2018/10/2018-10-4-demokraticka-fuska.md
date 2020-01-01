@@ -1,7 +1,7 @@
 ---
 title: "Unaveni z voleb? Demokracie dá fušku, ale vyplatí se"
 perex: Předvolební zpravodajství zakončujeme komentářem. Zbývá vybrat, odvolit, a pak se můžeme v sobotu odpoledne sejít u sledování výsledků třeba na našem novém diskusním fóru.
-cover-photo: https://i.ohlasy.info/svRmkool.jpg
+cover-photo: https://i.ohlasy.info/svRmkoo.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika volby2018

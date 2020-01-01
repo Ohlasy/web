@@ -1,6 +1,6 @@
 ---
 title: Vedení Boskovic chce scelit Červenku, státní kurty ale nikdo zatím neřeší
-cover-photo: https://i.ohlasy.info/LcozfMJl.jpg
+cover-photo: https://i.ohlasy.info/LcozfMJ.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

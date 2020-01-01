@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: hospodaření nemocnice, dokončení CPV, o hale v září"
-cover-photo: https://i.ohlasy.info/8CHwZGgl.jpg
+cover-photo: https://i.ohlasy.info/8CHwZGg.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

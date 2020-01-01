@@ -1,7 +1,7 @@
 ---
 title: Štefánikovu otevřít, ale omezit průjezd tranzitní dopravy
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/wI2BkK1l.jpg
+cover-photo: https://i.ohlasy.info/wI2BkK1.jpg
 author: Jiří Klimek
 tags: doprava
 ---

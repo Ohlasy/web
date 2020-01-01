@@ -1,6 +1,6 @@
 ---
 title: Po radním má před domem nově upravené stání i jeho soused
-cover-photo: https://i.ohlasy.info/WHUreZAl.jpg
+cover-photo: https://i.ohlasy.info/WHUreZA.jpg
 perex: Před měsícem jsme psali, že boskovický radní má před svým domem za městské peníze nové parkovací stání. Následně bylo místo upraveno i u souseda.
 author: Marek Osouch
 category: zpravodajství

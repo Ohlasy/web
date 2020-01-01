@@ -1,6 +1,6 @@
 ---
 title: „Moje hraní by mělo představovat kompromis mezi autorem a mnou. Jsem především interpretka, ne tvůrce.“
-cover-photo: https://i.ohlasy.info/GORcUikl.jpg
+cover-photo: https://i.ohlasy.info/GORcUik.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura hudba

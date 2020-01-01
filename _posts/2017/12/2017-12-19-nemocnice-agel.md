@@ -1,7 +1,7 @@
 ---
 title: Firma Agel chce provozovat boskovickou nemocnici
 perex: Zájem o provoz Nemocnice Boskovice projevila firma Agel, jedna z největších společností, která podniká ve zdravotnictví nejen v Česku, ale v celé střední Evropě. Zastupitelé si její nabídku vyslechnou nejspíš už v únoru.
-cover-photo: https://i.ohlasy.info/jgEa7dil.jpg
+cover-photo: https://i.ohlasy.info/jgEa7di.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

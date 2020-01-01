@@ -1,7 +1,7 @@
 ---
 title: Boskovice provozují nemocnici 10 let. Bilance je minus 45 milionů
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/Q7YxUuKl.jpg
+cover-photo: https://i.ohlasy.info/Q7YxUuK.jpg
 category: zpravodajství
 tags: nemocnice
 featured: true

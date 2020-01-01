@@ -1,7 +1,7 @@
 ---
 title: Dobrým příkladem mohou být lidovci
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/x6guxTTl.jpg
+cover-photo: https://i.ohlasy.info/x6guxTT.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

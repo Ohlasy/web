@@ -1,6 +1,6 @@
 ---
 title: "Pohledy do historie: Tablo prvních absolventů C. k. státního gymnasia v Boskovicích"
-cover-photo: https://i.ohlasy.info/odURngAl.jpg
+cover-photo: https://i.ohlasy.info/odURngA.jpg
 author: Petr Vítámvás
 category: seriály
 serial: historie

@@ -1,7 +1,7 @@
 ---
 title: „Na období na radnici mám jen dobré vzpomínky.“
 perex: Někdejší lidovecká místostarostka Boskovic Jarmila Stloukalová patří k první generaci porevolučních politiků, kteří stáli v čele města v 90. letech. Redakce Ohlasů s ní teď po mnoha letech hovořila.
-cover-photo: https://i.ohlasy.info/hJExj42l.jpg
+cover-photo: https://i.ohlasy.info/hJExj42.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika historie

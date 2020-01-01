@@ -1,7 +1,7 @@
 ---
 title: „V případě, že se nesetkám s dostatečným ohlasem, kandidátka nevznikne.“
 perex: Rozhovor s Kristýnou Znamenáčkovou, která čeká na přijetí mezi členy Pirátské strany a zvažuje vytvoření kandidátky v Boskovicích.
-cover-photo: https://i.ohlasy.info/Vn9DcAql.jpg
+cover-photo: https://i.ohlasy.info/Vn9DcAq.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

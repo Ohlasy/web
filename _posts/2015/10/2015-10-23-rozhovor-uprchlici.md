@@ -1,6 +1,6 @@
 ---
 title: „Je třeba jednat, lidé se ocitají v nedůstojných, nelidských podmínkách,“ říká dobrovolník Tomáš Znamenáček
-cover-photo: https://i.ohlasy.info/w4zKEuNl.jpg
+cover-photo: https://i.ohlasy.info/w4zKEuN.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 tags: migrace

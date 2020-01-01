@@ -1,7 +1,7 @@
 ---
 title: "Život pod stromy: Borovice, světlo na cestě"
 author: Martina Lukešová
-cover-photo: https://i.ohlasy.info/8hKe2dyl.jpg
+cover-photo: https://i.ohlasy.info/8hKe2dy.jpg
 category: seriály
 tags: krajina
 serial: stromy

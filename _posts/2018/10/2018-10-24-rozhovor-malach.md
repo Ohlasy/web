@@ -1,6 +1,6 @@
 ---
 title: „Nechci hrát uraženého.“
-cover-photo: https://i.ohlasy.info/QRCeNtEl.jpg
+cover-photo: https://i.ohlasy.info/QRCeNtE.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika volby2018

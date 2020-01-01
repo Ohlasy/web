@@ -1,6 +1,6 @@
 ---
 title: Radní má před domem upravené stání za městské peníze. Sousedi ne
-cover-photo: https://i.ohlasy.info/iJdbbLIl.jpg
+cover-photo: https://i.ohlasy.info/iJdbbLI.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

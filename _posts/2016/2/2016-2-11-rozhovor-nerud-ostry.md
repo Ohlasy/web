@@ -1,6 +1,6 @@
 ---
 title: „Práce ve sboru musí být dlouhodobá a poctivá. Není to instantní polévka.“
-cover-photo: https://i.ohlasy.info/kVMJYt5l.jpg
+cover-photo: https://i.ohlasy.info/kVMJYt5.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura vzdělávání hudba

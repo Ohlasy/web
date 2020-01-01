@@ -1,7 +1,7 @@
 ---
 title: Výpovědní lhůta vypršela. Panely dál stojí na poli
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/cR2Eawvl.jpg
+cover-photo: https://i.ohlasy.info/cR2Eawv.jpg
 author: Marek Osouch
 tags:
     - solární elektrárna

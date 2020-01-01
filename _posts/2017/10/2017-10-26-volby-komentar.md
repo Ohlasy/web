@@ -1,7 +1,7 @@
 ---
 title: Voličská revoluce se za rok může projevit i v komunálních volbách
 perex: Do jaké míry se nová politická mapa České republiky za rok promítne do komunálních voleb?
-cover-photo: https://i.ohlasy.info/llLEzgol.jpg
+cover-photo: https://i.ohlasy.info/llLEzgo.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika

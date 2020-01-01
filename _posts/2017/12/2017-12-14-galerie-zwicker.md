@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Pozvánka do Minigalerie Zwicker"
 perex: Až budete procházet boskovickou židovskou čtvrtí, nezapomeňte se zastavit na Plačkově ulici u domu číslo 6, neboť právě zde si mohou milovníci historie přijít na své. Dům je totiž zajímavý hned z několika důvodů.
-cover-photo: https://i.ohlasy.info/N4mvj76l.jpg
+cover-photo: https://i.ohlasy.info/N4mvj76.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

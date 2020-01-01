@@ -1,6 +1,6 @@
 ---
 title: „Festival je otevřený, nechtěli jsme v oblasti kultury vytvářet další ghetto.“
-cover-photo: https://i.ohlasy.info/WTDzzC7l.jpg
+cover-photo: https://i.ohlasy.info/WTDzzC7.jpg
 perex: Rozhovor s Čestmírem Huňátem, předsedou Unijazzu a hlavním pořadatelem festivalu Boskovice.
 author: Tomáš Trumpeš
 category: rozhovory

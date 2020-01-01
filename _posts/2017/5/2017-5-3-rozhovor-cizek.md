@@ -1,7 +1,7 @@
 ---
 title: „Při výběru hráčů jsme vsadili na kvalitu a také na morální vlastnosti.“
 perex: "Rozhovor s Ladislavem Čížkem, předsedou hokejového klubu SK Minerva Boskovice, který letos dosáhl velkého úspěchu: vyhrál krajskou ligu."
-cover-photo: https://i.ohlasy.info/YPGSXhbl.jpg
+cover-photo: https://i.ohlasy.info/YPGSXhb.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: sport

@@ -1,7 +1,7 @@
 ---
 title: "Ohlasy naživo: Rozhovor s místostarostou Lukášem Holíkem"
 perex: Hostem prvního setkání nového cyklu Ohlasy naživo byl ve čtvrtek 12. září boskovický místostarosta Lukáš Holík (ANO). K poslechu nabízíme úvodní rozhovor.
-cover-photo: https://i.ohlasy.info/zjcjtuIl.jpg
+cover-photo: https://i.ohlasy.info/zjcjtuI.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:

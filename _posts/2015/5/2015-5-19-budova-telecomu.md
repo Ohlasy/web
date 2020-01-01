@@ -1,7 +1,7 @@
 ---
 title: Knihovna tam nejspíš nebude. Do bývalého Telecomu se stěhují skauti
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/Dk506Ifl.jpg
+cover-photo: https://i.ohlasy.info/Dk506If.jpg
 author: Marek Osouch
 tags: knihovna
 ---

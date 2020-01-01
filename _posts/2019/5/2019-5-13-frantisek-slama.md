@@ -1,7 +1,7 @@
 ---
 title: „Chtěli jsme Boskovice pozvednout.“
 perex: Získal dosud nepřekonaný počet více než 1800 preferenčních hlasů v komunálních volbách, na postu starosty Boskovic však tehdy pětapadesátiletý František Sláma nevydržel ani rok. Z politiky se v roce 1995 úplně stáhl a nikdy už se do ní nevrátil.
-cover-photo: https://i.ohlasy.info/D2GcoMWl.jpg
+cover-photo: https://i.ohlasy.info/D2GcoMW.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika historie

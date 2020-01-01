@@ -1,6 +1,6 @@
 ---
 title: „Jsem stará škola, a ta si na řemeslném zpracování vždy zakládala. Přesto se sám sebe ptám, jestli dokonalost nakonec celkovému vyznění spíše neškodí.“
-cover-photo: https://i.ohlasy.info/ZbxcC1el.jpg
+cover-photo: https://i.ohlasy.info/ZbxcC1e.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura

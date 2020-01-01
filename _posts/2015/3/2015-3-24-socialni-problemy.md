@@ -1,7 +1,7 @@
 ---
 title: Sociální problémy těžko vyřešíme útlakem
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/oDas2l4l.jpg
+cover-photo: https://i.ohlasy.info/oDas2l4.jpg
 author: Tomáš Trumpeš
 tags:
     - bezpečnost

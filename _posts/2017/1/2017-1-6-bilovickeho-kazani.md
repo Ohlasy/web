@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Kniha barokních kázání B. J. Bílovského"
 perex: Svým způsobem klenotem mezi starými tisky je sbírka barokních svátečních kázání od Bohumíra Josefa Bílovského, kněze a kazatele, který svého času působil jako farář v Letovicích.
-cover-photo: https://i.ohlasy.info/dt9Q67Ll.jpg
+cover-photo: https://i.ohlasy.info/dt9Q67L.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

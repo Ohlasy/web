@@ -1,6 +1,6 @@
 ---
 title: Štítivý odstup politiku nezmění
-cover-photo: https://i.ohlasy.info/CFyMP1Wl.jpg
+cover-photo: https://i.ohlasy.info/CFyMP1W.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika

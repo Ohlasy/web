@@ -1,6 +1,6 @@
 ---
 title: „Spoustu věcí, které jsou teď samozřejmostí, jsme si musely vydupat.“
-cover-photo: https://i.ohlasy.info/4qOtn53l.jpg
+cover-photo: https://i.ohlasy.info/4qOtn53.jpg
 author: Martina Vašková
 category: rozhovory
 ---

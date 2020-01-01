@@ -1,6 +1,6 @@
 ---
 title: Julínek chce za neoprávněný vyhazov dva miliony
-cover-photo: https://i.ohlasy.info/BjRqHeWl.jpg
+cover-photo: https://i.ohlasy.info/BjRqHeW.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

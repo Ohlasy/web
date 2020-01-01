@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: novinky z rady a sezóna na hradě a zámku"
-cover-photo: https://i.ohlasy.info/SbVyOzml.jpg
+cover-photo: https://i.ohlasy.info/SbVyOzm.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

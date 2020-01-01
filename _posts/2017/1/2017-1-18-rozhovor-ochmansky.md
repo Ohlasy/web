@@ -1,6 +1,6 @@
 ---
 title: „Dílny máme na všech školách. Nejsou výstavní, ale byly postačující.“
-cover-photo: https://i.ohlasy.info/2AThyCMl.jpg
+cover-photo: https://i.ohlasy.info/2AThyCM.jpg
 perex: Rozhovor s ředitelem boskovické základní školy Vladimírem Ochmanským o plánovaném Centru polytechnického vzdělávání.
 author: Tomáš Trumpeš
 category: rozhovory

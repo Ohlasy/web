@@ -1,7 +1,7 @@
 ---
 title: "„Říkal jsem si: Holt si otvíráš pusu, tak tady máš přes ni.“"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/zlb1mKHl.jpg
+cover-photo: https://i.ohlasy.info/zlb1mKH.jpg
 category: rozhovory
 tags:
     - politika

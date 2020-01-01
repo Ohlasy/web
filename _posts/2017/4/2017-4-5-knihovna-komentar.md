@@ -1,7 +1,7 @@
 ---
 title: Nová knihovna se nám nemusí líbit
 perex: Vizualizace nové knihovny představuje pro Boskovice velkou šanci začít se opět zajímat o kvalitu našeho města.
-cover-photo: https://i.ohlasy.info/zwo4Fycl.png
+cover-photo: https://i.ohlasy.info/zwo4Fyc.png
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: architektura

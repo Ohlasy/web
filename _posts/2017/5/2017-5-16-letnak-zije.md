@@ -1,6 +1,6 @@
 ---
 title: Letní kino přináší naději, že každá investice nemusí končit blamáží
-cover-photo: https://i.ohlasy.info/0iPmIgQl.jpg
+cover-photo: https://i.ohlasy.info/0iPmIgQ.jpg
 perex: Ještě před pár lety vypadala budoucnost letního kina černě. Dnes by se mohla stát příkladem zdařilé a smysluplné investice.
 author: Tomáš Trumpeš
 category: názory a komentáře

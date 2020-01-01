@@ -1,6 +1,6 @@
 ---
 title: Kde všude je zakázaný podomní prodej? Polovinu obyvatel Boskovicka před ním chrání vyhláška
-cover-photo: https://i.ohlasy.info/cxvoklYl.jpg
+cover-photo: https://i.ohlasy.info/cxvoklY.jpg
 category: zpravodajství
 author: Marek Osouch
 tags: podnikání

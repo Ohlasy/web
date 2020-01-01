@@ -1,7 +1,7 @@
 ---
 title: Mobily zastírají důležitější otázky ve školství
 perex: Je používání mobilních telefonů skutečně to nejpodstatnější, o co bychom se měli v našem školství zajímat? Nebo za tím zůstávají skryty daleko důležitější otázky?
-cover-photo: https://i.ohlasy.info/7UIpXkYl.jpg
+cover-photo: https://i.ohlasy.info/7UIpXkY.jpg
 author: Iveta Juřeková
 category: názory a komentáře
 ---

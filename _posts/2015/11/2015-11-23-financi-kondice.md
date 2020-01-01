@@ -1,7 +1,7 @@
 ---
 title: Boskovice jsou v dobré finanční kondici, na konci roku zbude 60 milionů
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/WHAfrXdl.jpg
+cover-photo: https://i.ohlasy.info/WHAfrXd.jpg
 category: zpravodajství
 tags: politika investice
 ---

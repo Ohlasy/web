@@ -1,6 +1,6 @@
 ---
 title: „Zajímají mne ‚spoje‘ mezi vnitřním a vnějším.“
-cover-photo: https://i.ohlasy.info/VDhm4rPl.jpg
+cover-photo: https://i.ohlasy.info/VDhm4rP.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

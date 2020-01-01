@@ -1,7 +1,7 @@
 ---
 title: „Kvalitní architektura může přinést Boskovicím proslulost. Láká lidi z celého světa.“
 perex: Rozhovor s architektem Zdeňkem Fránkem, který se před několika měsíci ujal funkce městského architekta.
-cover-photo: https://i.ohlasy.info/7hwWmkIl.jpg
+cover-photo: https://i.ohlasy.info/7hwWmkI.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

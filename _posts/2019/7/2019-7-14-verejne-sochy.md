@@ -1,7 +1,7 @@
 ---
 title: Sochy ve městech potřebujeme
 perex: Sochy vystavované v rámci festivalu Boskovice letos snad poprvé v jeho historii opustily muzeum a vnikly do veřejného prostoru. Nemusí jen kultivovat – mohou šokovat, vyvolávat kontroverzi nebo klást otázky. I to do našich životů patří.
-cover-photo: https://i.ohlasy.info/aiI7Cy6l.jpg
+cover-photo: https://i.ohlasy.info/aiI7Cy6.jpg
 author: Ondřej Dostál
 category: názory a komentáře
 tags: kultura

@@ -1,7 +1,7 @@
 ---
 title: „Plánů máme hodně, ale vše je odvislé od lidí, kteří se k nám přidají a jaký program budou chtít tvořit.“
 perex: Rozhovor s Oldřichem Brzobohatým, členem skupiny, která v panském dvoře startuje nové kulturní a komunitní centrum.
-cover-photo: https://i.ohlasy.info/s6lHReTl.jpg
+cover-photo: https://i.ohlasy.info/s6lHReT.jpg
 author: Martina Vašková
 category: rozhovory
 tags: kultura

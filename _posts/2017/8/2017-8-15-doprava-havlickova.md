@@ -1,7 +1,7 @@
 ---
 title: Nám auta také ničí majetek, zlobí se lidé z Havlíčkovy ulice
 perex: Vyasfaltovaná plocha před domem boskovického radního v Havlíčkově ulici nenechala klidnými několik lidí ze sousedství. Chtějí také úpravy, hlavně u křižovatky s ulicí Boženy Němcové.
-cover-photo: https://i.ohlasy.info/MOsVIA0l.jpg
+cover-photo: https://i.ohlasy.info/MOsVIA0.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

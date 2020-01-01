@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Isidor Reich – poslední boskovický rabín"
 perex: Boskovická židovská obec získala na samém sklonku své existence do čela svého duchovního života mimořádnou osobnost, kterou byl rabín Isidor Reich.
-cover-photo: https://i.ohlasy.info/L46KhjCl.jpg
+cover-photo: https://i.ohlasy.info/L46KhjC.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

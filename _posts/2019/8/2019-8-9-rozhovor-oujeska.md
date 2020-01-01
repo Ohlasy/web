@@ -1,7 +1,7 @@
 ---
 title: „Chtěli jsme školu na bázi oboustranné důvěry.“
 perex: Rozhovor s Monikou Oujeskou, ředitelkou Naší školy ve Velenově. S činorodou maminkou pěti dětí jsme si povídaly o tom, jak funguje škola, kde se nezvoní ani neznámkuje, a jak se dá skloubit zaměstnání s péčí o více dětí.
-cover-photo: https://i.ohlasy.info/53HvJlVl.jpg
+cover-photo: https://i.ohlasy.info/53HvJlV.jpg
 author: Martina Vašková
 category: rozhovory
 tags: vzdělávání

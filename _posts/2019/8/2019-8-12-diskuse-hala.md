@@ -1,6 +1,6 @@
 ---
 title: Co zaznělo ve veřejné diskusi o sportovní hale
-cover-photo: https://i.ohlasy.info/buITu7Hl.jpg
+cover-photo: https://i.ohlasy.info/buITu7H.jpg
 perex: Veřejné projednání variant umístění sportovní haly v Boskovicích se konalo ve čtvrtek 8. srpna. Po představení aktuálně zvažovaných variant na ulicích Sušilova a Hybešova následovala diskuse, jejíž nejzajímavější momenty přinášíme.
 author: Tomáš Trumpeš
 category: zpravodajství

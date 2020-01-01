@@ -1,6 +1,6 @@
 ---
 title: Radnice začne prodávat další městské byty
-cover-photo: https://i.ohlasy.info/2MuRbRgl.jpg
+cover-photo: https://i.ohlasy.info/2MuRbRg.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

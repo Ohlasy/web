@@ -1,7 +1,7 @@
 ---
 title: Spouštíme nové diskuzní fórum
 perex: Tak, jako se podle nás město neobejde bez nezávislých novin, neobejde se ani bez otevřené a civilizované diskuze. Proto jsme se rozhodli spustit veřejné diskuzní fórum.
-cover-photo: https://i.ohlasy.info/8IgrT4ul.jpg
+cover-photo: https://i.ohlasy.info/8IgrT4u.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

@@ -1,6 +1,6 @@
 ---
 title: „Laskavý přítel, který byl výborný ve všem, co začal,“ vzpomíná na Ludvíka Kunderu výtvarník Vít Ondráček
-cover-photo: https://i.ohlasy.info/gPymNoml.jpg
+cover-photo: https://i.ohlasy.info/gPymNom.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 tags: kultura

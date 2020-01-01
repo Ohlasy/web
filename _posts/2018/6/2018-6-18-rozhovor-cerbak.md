@@ -1,7 +1,7 @@
 ---
 title: „Oslavuju, když je vůbec nějaký projekt, a když je dobrý, jdu bouchnout šampaňské.“
 perex: Rozhovor s památkářem a architektem Romanem Čerbákem, který má jako pracovník Národního památkového ústavu na starosti i boskovickou památkovou zónu.
-cover-photo: https://i.ohlasy.info/jdWKaJxl.jpg
+cover-photo: https://i.ohlasy.info/jdWKaJx.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

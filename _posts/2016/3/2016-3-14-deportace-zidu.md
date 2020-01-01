@@ -1,6 +1,6 @@
 ---
 title: "Od deportace židovského obyvatelstva uplynulo 74 let"
-cover-photo: https://i.ohlasy.info/kR19kdVl.jpg
+cover-photo: https://i.ohlasy.info/kR19kdV.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: historie

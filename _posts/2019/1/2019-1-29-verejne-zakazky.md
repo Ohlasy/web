@@ -1,7 +1,7 @@
 ---
 title: Na boskovickém úřadě obchází vlastní směrnici na zadávání veřejných zakázek
 perex: Do hranice 100 tisíc korun mají úředníci možnost zadat zakázky napřímo, aniž by museli řešit jakákoliv pravidla a předkládat vybranou firmu k odsouhlasení radním.
-cover-photo: https://i.ohlasy.info/3eW4mval.jpg
+cover-photo: https://i.ohlasy.info/3eW4mva.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

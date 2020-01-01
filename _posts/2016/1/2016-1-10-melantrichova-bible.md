@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Bible Jiřího Melantricha z Aventýna"
-cover-photo: https://i.ohlasy.info/Wl7Onxfl.jpg
+cover-photo: https://i.ohlasy.info/Wl7Onxf.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

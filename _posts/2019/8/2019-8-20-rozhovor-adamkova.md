@@ -1,6 +1,6 @@
 ---
 title: „Nalezení psi se u nás mají kolikrát lépe než doma.“
-cover-photo: https://i.ohlasy.info/aUuTLJml.jpg
+cover-photo: https://i.ohlasy.info/aUuTLJm.jpg
 author: Martina Vašková
 category: rozhovory
 ---

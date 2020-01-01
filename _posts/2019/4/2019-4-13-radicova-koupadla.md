@@ -1,6 +1,6 @@
 ---
 title: Jak vypadá Radićův návrh Koupadel a co zaznělo v debatě?
-cover-photo: https://i.ohlasy.info/n3i0Jpvl.jpg
+cover-photo: https://i.ohlasy.info/n3i0Jpv.jpg
 perex: Chilský architekt Smiljan Radić představil v pátek odpoledne v boskovickém zámeckém skleníku nejprve své různé minulé práce a poté i studii, ve které navrhl dům pro zastavění proluky U Koupadel.
 author: Tomáš Trumpeš
 category: zpravodajství

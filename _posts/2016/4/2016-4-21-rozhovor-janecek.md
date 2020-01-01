@@ -1,6 +1,6 @@
 ---
 title: „Nemocnice potřebuje hodně peněz. Možnosti města jsou ale omezené.“
-cover-photo: https://i.ohlasy.info/zh1ayEGl.jpg
+cover-photo: https://i.ohlasy.info/zh1ayEG.jpg
 author: Marek Osouch
 category: rozhovory
 tags: nemocnice zdravotnictví

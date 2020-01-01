@@ -1,6 +1,6 @@
 ---
 title: "Jak to vidí opozice: Programové prohlášení městské rady"
-cover-photo: https://i.ohlasy.info/lTt7T6ol.jpg
+cover-photo: https://i.ohlasy.info/lTt7T6o.jpg
 perex: Vedení boskovické radnice, které vzešlo z loňských podzimních komunálních voleb, představilo programové prohlášení městské rady pro období 2018–2022. Co na něj říká opozice?
 author: Tomáš Trumpeš
 category: ankety

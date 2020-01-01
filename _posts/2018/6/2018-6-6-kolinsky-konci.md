@@ -1,7 +1,7 @@
 ---
 title: Výrazná osoba boskovické politiky končí. Radní Kolínský už nebude kandidovat
 perex: Radní za ČSSD Milan Kolínský se rozhodl, že z osobních důvodů nebude na podzim v komunálních volbách kandidovat ani se dál podílet na politice.
-cover-photo: https://i.ohlasy.info/PsKKksXl.jpg
+cover-photo: https://i.ohlasy.info/PsKKksX.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika volby2018

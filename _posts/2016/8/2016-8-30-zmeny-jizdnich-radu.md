@@ -1,6 +1,6 @@
 ---
 title: České dráhy mění jízdní řád. První  ranní vlak ve Skalici nezastaví
-cover-photo: https://i.ohlasy.info/q4K55YJl.jpg
+cover-photo: https://i.ohlasy.info/q4K55YJ.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Debata neustává a staveniště působí problémy. O hale se však rozhodne až v červnu
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/7Wnnk5Wl.jpg
+cover-photo: https://i.ohlasy.info/7Wnnk5W.jpg
 author: Marek Osouch
 tags:
     - sportovní hala

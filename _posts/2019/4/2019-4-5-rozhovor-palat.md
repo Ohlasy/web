@@ -1,6 +1,6 @@
 ---
 title: „Hosté se změnili úplně ve všem.“
-cover-photo: https://i.ohlasy.info/uE9TSw8l.jpg
+cover-photo: https://i.ohlasy.info/uE9TSw8.jpg
 author: Martina Vašková
 category: rozhovory
 tags: podnikání kultura

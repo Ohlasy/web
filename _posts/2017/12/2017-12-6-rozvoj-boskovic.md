@@ -1,6 +1,6 @@
 ---
 title: O rozvoj Boskovic je zájem ve všech oblastech trhu
-cover-photo: https://i.ohlasy.info/IpgFfmdl.jpg
+cover-photo: https://i.ohlasy.info/IpgFfmd.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

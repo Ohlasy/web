@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za květen
-cover-photo: https://i.ohlasy.info/HlzSL2Xl.jpg
+cover-photo: https://i.ohlasy.info/HlzSL2X.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

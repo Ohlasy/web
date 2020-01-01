@@ -1,6 +1,6 @@
 ---
 title: "PŘEDVOLEBNÍ ANKETA: Doprava"
-cover-photo: https://i.ohlasy.info/Qta4KNZl.jpg
+cover-photo: https://i.ohlasy.info/Qta4KNZ.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika volby2018

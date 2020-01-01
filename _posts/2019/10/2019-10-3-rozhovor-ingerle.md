@@ -1,6 +1,6 @@
 ---
 title: „Kdyby Kubín viděl naši výstavu, tak by ji patrně zakázal.“
-cover-photo: https://i.ohlasy.info/0WSUkNVl.jpg
+cover-photo: https://i.ohlasy.info/0WSUkNV.jpg
 perex: Rozhovor s Petrem Ingerlem, kurátorem sbírky kresby a grafiky moderního a současného umění Moravské galerie v Brně. Povídali jsme si zejména o výstavě obrazů Otakara Kubína, kterou pro Muzeum regionu Boskovicka připravil.
 author: Martina Vašková
 category: rozhovory

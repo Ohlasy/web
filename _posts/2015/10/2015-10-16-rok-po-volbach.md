@@ -1,6 +1,6 @@
 ---
 title: "Rok po volbách: Koalice spokojeně vládne, dialog s opozicí vázne"
-cover-photo: https://i.ohlasy.info/DZr0k8jl.jpg
+cover-photo: https://i.ohlasy.info/DZr0k8j.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: politika

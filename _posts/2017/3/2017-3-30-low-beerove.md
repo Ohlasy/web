@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Po stopách boskovických Löw-Beerů"
 perex: Spletitá historie známé podnikatelské rodiny Löw-Beerů se v Boskovicích začíná psát někdy v první polovině 18. století a dosahuje mimo jiné až k Johnu Kerrymu, kandidátovi na amerického prezidenta.
-cover-photo: https://i.ohlasy.info/qMjTQHml.jpg
+cover-photo: https://i.ohlasy.info/qMjTQHm.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

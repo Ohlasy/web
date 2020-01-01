@@ -1,7 +1,7 @@
 ---
 title: Nadměrný počet zastupitelů diskusi spíše ochromuje
 perex: Vstoupili jsme do nového volebního období, proběhlo první jednání zvoleného zastupitelstva, svou práci zahajuje nová městská rada. Není těch politiků v Boskovicích ale zbytečně moc?
-cover-photo: https://i.ohlasy.info/h3jDLy7l.jpg
+cover-photo: https://i.ohlasy.info/h3jDLy7.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika

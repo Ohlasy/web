@@ -2,7 +2,7 @@
 title: Milovat víc než ostatní
 author: Tomáš Trumpeš
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/N4rzCT0l.jpg
+cover-photo: https://i.ohlasy.info/N4rzCT0.jpg
 tags: kultura
 ---
 

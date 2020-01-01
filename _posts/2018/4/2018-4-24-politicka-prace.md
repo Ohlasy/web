@@ -1,7 +1,7 @@
 ---
 title: Myslet to dobře nestačí. Politika je náročná práce.
 perex: Boskovická politika nové impulzy potřebuje. Musí se ale najít někdo, kdo bude ochoten přijmout, že politika nejsou jen názory a nápady, ale je to velmi tvrdá práce.
-cover-photo: https://i.ohlasy.info/fqcrBbAl.jpg
+cover-photo: https://i.ohlasy.info/fqcrBbA.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika volby2018

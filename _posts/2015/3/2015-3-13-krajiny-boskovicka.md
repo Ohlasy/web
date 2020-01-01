@@ -1,7 +1,7 @@
 ---
 title: Krajiny Boskovicka
 category: seriály
-cover-photo: https://i.ohlasy.info/XLpCSRKl.jpg
+cover-photo: https://i.ohlasy.info/XLpCSRK.jpg
 author: Hynek Skořepa
 ---
 

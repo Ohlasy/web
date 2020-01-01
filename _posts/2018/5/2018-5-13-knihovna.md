@@ -1,7 +1,7 @@
 ---
 title: Pro zpochybňování Fránkovy knihovny chybí argumenty
 perex: Na zastupitelstvu zaznělo zpochybňování stavby Fránkovy knihovny. Podle Tomáše Trumpeše už máme debatu o knihovně za sebou. Teď chceme slyšet, kdy se konečně postaví.
-cover-photo: https://i.ohlasy.info/vW8HolOl.jpg
+cover-photo: https://i.ohlasy.info/vW8HolO.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

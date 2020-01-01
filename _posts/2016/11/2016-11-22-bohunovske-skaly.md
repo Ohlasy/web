@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Bohuňovské skály"
-cover-photo: https://i.ohlasy.info/95iIKB7l.jpg
+cover-photo: https://i.ohlasy.info/95iIKB7.jpg
 perex: Další procházka Krajinami Boskovicka vede do Bohuňovských skal, kolem kterých odedávna vedla cesta z Moravy do Čech.
 author: Hynek Skořepa
 category: seriály

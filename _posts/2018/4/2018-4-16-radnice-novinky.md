@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: novinky z rady a aktuální prohlášení k Dukelské"
-cover-photo: https://i.ohlasy.info/AdzHx9fl.jpg
+cover-photo: https://i.ohlasy.info/AdzHx9f.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

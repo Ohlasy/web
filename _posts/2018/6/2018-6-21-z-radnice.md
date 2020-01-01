@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Slavný architekt Radić v Boskovicích a další novinky z rady"
-cover-photo: https://i.ohlasy.info/682AfYVl.jpg
+cover-photo: https://i.ohlasy.info/682AfYV.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

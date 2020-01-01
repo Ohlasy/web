@@ -1,6 +1,6 @@
 ---
 title: Podrobné informace k uzavření Dukelské
-cover-photo: https://i.ohlasy.info/68pH9sel.jpg
+cover-photo: https://i.ohlasy.info/68pH9se.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: doprava

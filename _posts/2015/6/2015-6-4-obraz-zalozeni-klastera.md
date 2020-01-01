@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Obraz „Založení dominikánského kláštera v Boskovicích posledními Zástřizlovci“"
 category: seriály
-cover-photo: https://i.ohlasy.info/YyDqEWul.jpg
+cover-photo: https://i.ohlasy.info/YyDqEWu.jpg
 serial: depozitar
 author: Petr Vítámvás
 tags: historie

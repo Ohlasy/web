@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Otakar Kubín"
-cover-photo: https://i.ohlasy.info/KSJQia5l.jpg
+cover-photo: https://i.ohlasy.info/KSJQia5.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

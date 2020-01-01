@@ -1,7 +1,7 @@
 ---
 title: Umění je laboratoř, stojí za to mu dopřát svobodu
 perex: Divadlo NABOSO uvede novou inscenaci hry Profesionál (Smutná komedie podle Lukáše). Jako pozvánku publikujeme zamyšlení režiséra inscenace a redaktora Ohlasů Tomáše Trumpeše.
-cover-photo: https://i.ohlasy.info/o7spBYEl.jpg
+cover-photo: https://i.ohlasy.info/o7spBYE.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

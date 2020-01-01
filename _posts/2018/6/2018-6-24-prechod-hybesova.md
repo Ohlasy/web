@@ -1,6 +1,6 @@
 ---
 title: Lidé usilují o přechod přes Hybešovu ulici
-cover-photo: https://i.ohlasy.info/og9k773l.jpg
+cover-photo: https://i.ohlasy.info/og9k773.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

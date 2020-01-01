@@ -1,7 +1,7 @@
 ---
 title: Starostka vyhodila Julínka z nemocnice neprávem, rozhodl soud
 perex: Organizační změna, na základě které dostal Julínek z nemocnice výpověď, byla podle názoru soudu čistě účelová.
-cover-photo: https://i.ohlasy.info/iU3CmkPl.jpg
+cover-photo: https://i.ohlasy.info/iU3CmkP.jpg
 category: zpravodajství
 author: Marek Osouch
 ---

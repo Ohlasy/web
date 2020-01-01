@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Co doporučujeme z festivalového programu?"
 perex: Jak se vám líbí letošní program festivalu Boskovice a co byste především doporučili navštívit? Odpovídají Kristýna Znamenáčková, Jan Bařinka a Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/AU2ZZ7dl.jpg
+cover-photo: https://i.ohlasy.info/AU2ZZ7d.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: kultura

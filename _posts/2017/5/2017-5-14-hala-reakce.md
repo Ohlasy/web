@@ -1,7 +1,7 @@
 ---
 title: Reakce na halu u ZŠ Sušilova jsou převážně vstřícné
 perex: Novou variantu umístění sportovní haly v Boskovicích představil volejbalový trenér František Učeň. Podle prvních reakcí to vypadá, že by se na tomto řešení mohla najít shoda napříč politickým spektrem.
-cover-photo: https://i.ohlasy.info/6vXCA7ml.jpg
+cover-photo: https://i.ohlasy.info/6vXCA7m.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

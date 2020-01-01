@@ -1,7 +1,7 @@
 ---
 title: Boskovice z konkursu bývalého majitele solární elektrány nic nezískaly, naopak prodělaly
 perex: Po třech letech je u konce vypořádávání dluhů po prohlášení konkursu na firmu AKAM Bosko.
-cover-photo: https://i.ohlasy.info/2T0nuIjl.jpg
+cover-photo: https://i.ohlasy.info/2T0nuIj.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

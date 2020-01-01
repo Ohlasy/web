@@ -1,7 +1,7 @@
 ---
 title: „Boskovická spojka? Pokud nás budou chtít převálcovat, tak nás převálcují.“
 perex: Rozhovor se starostou Lhoty Rapotiny Michalem Sedlákem (ODS) o Boskovické spojce, přímém vlakovém spojení Boskovic a Brna.
-cover-photo: https://i.ohlasy.info/jTGdavtl.jpg
+cover-photo: https://i.ohlasy.info/jTGdavt.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika spojka doprava železnice

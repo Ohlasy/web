@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Podmalby na skle"
-cover-photo: https://i.ohlasy.info/nNIMG18l.jpg
+cover-photo: https://i.ohlasy.info/nNIMG18.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

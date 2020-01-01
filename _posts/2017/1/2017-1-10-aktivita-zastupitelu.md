@@ -1,7 +1,7 @@
 ---
 title: "Aktivita zastupitelů: Nejhlasitější jsou Sportovci, hnutí ANO je neviditelné"
 perex: Obodovali jsme aktivitu zastupitelů. Kdo jak dopadl?
-cover-photo: https://i.ohlasy.info/u8Zit0Zl.jpg
+cover-photo: https://i.ohlasy.info/u8Zit0Z.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika

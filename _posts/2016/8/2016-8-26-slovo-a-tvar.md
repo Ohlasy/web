@@ -1,6 +1,6 @@
 ---
 title: Slovo a tvar Jana M. Tomeše
-cover-photo: https://i.ohlasy.info/ENn0BDDl.jpg
+cover-photo: https://i.ohlasy.info/ENn0BDD.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura

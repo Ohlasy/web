@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Zkušenost roku 2015"
-cover-photo: https://i.ohlasy.info/rSb3y2el.jpg
+cover-photo: https://i.ohlasy.info/rSb3y2e.jpg
 author: Tomáš Trumpeš
 category: ankety
 ---

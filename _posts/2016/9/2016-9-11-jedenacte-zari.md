@@ -1,6 +1,6 @@
 ---
 title: "11. září 2001 otřáslo našimi základy"
-cover-photo: https://i.ohlasy.info/JQPOF0yl.jpg
+cover-photo: https://i.ohlasy.info/JQPOF0y.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

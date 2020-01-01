@@ -1,7 +1,7 @@
 ---
 title: Sezóna v letním kině byla úspěšná, oprava areálu se ale zadrhla
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/ZYdvkbjl.jpg
+cover-photo: https://i.ohlasy.info/ZYdvkbj.jpg
 author: Tomáš Trumpeš
 tags: kino kultura
 ---

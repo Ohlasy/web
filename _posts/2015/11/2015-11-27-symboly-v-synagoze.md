@@ -1,7 +1,7 @@
 ---
 title: "Pohledy do historie: Mesianistická symbolika v boskovické synagoze"
 author: Petr Vítámvás
-cover-photo: https://i.ohlasy.info/pGc1Puxl.jpg
+cover-photo: https://i.ohlasy.info/pGc1Pux.jpg
 category: seriály
 serial: historie
 tags:

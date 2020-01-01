@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Jak by měla města reagovat na klimatickou změnu?"
 perex: Studenti stávkovali za klima. Co by podle vás měli požadovat na své nejbližší úrovni, tedy od obecních samospráv?
-cover-photo: https://i.ohlasy.info/wNqTl1il.jpg
+cover-photo: https://i.ohlasy.info/wNqTl1i.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags:

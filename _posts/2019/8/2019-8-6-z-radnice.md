@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Veřejná diskuse o hale či nové koše na náměstí"
-cover-photo: https://i.ohlasy.info/vVRWSaul.jpg
+cover-photo: https://i.ohlasy.info/vVRWSau.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika odpady

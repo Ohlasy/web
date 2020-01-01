@@ -1,7 +1,7 @@
 ---
 title: "Boskovická starostka Hana Nedomová: Řada věcí se uskuteční už do pololetí, včetně rozhodnutí o hale."
 category: rozhovory
-cover-photo: https://i.ohlasy.info/6OmmMgTl.jpg
+cover-photo: https://i.ohlasy.info/6OmmMgT.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

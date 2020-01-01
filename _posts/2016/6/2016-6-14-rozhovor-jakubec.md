@@ -1,6 +1,6 @@
 ---
 title: „Nemám žádné důkazy, ale z logiky věci to vyplývá.“
-cover-photo: https://i.ohlasy.info/6OI4xlvl.jpg
+cover-photo: https://i.ohlasy.info/6OI4xlv.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

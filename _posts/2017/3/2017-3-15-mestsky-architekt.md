@@ -1,6 +1,6 @@
 ---
 title: Boskovice budou mít městského architekta
-cover-photo: https://i.ohlasy.info/5MQXOUVl.jpg
+cover-photo: https://i.ohlasy.info/5MQXOUV.jpg
 perex: O zřízení pozice městského architekta rozhodli na svém prvním březnovém zasedání boskovičtí radní a vyslyšeli tak volání po odbornějším přístupu k otázkám spojeným s architekturou a urbanismem.
 author: Tomáš Trumpeš
 category: zpravodajství

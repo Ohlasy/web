@@ -1,7 +1,7 @@
 ---
 title: Živá kultura na menších městech potřebuje hlavně zázemí
 perex: Plány na vznik stálého divadla ve zcela nových prostorách v Blansku vzaly zasvé. S potopením každého dalšího záměru stvrzujeme, že podpora živé kultury je tristní.
-cover-photo: https://i.ohlasy.info/A0XZF3hl.jpg
+cover-photo: https://i.ohlasy.info/A0XZF3h.jpg
 category: názory a komentáře
 author: Tomáš Trumpeš
 tags: kultura divadlo

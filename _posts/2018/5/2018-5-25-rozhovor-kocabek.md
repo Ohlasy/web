@@ -1,7 +1,7 @@
 ---
 title: „Festival Boskovice by se měl ještě víc držet hudebního rozptylu.“
 perex: Rozhovor s Antonínem Kocábkem, který od Čestmíra Huňáta přebírá roli programového ředitele a hlavního koordinátora festivalu Boskovice
-cover-photo: https://i.ohlasy.info/gtmTiNCl.jpg
+cover-photo: https://i.ohlasy.info/gtmTiNC.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

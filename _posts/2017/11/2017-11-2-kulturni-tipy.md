@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na listopad
-cover-photo: https://i.ohlasy.info/dWFFVwYl.jpg
+cover-photo: https://i.ohlasy.info/dWFFVwY.jpg
 author: Jan Bařinka
 category: zpravodajství
 ---

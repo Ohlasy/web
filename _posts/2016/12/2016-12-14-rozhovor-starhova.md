@@ -1,7 +1,7 @@
 ---
 title: „Klasická i přírodní medicína si dovedou pomoci, nesnažím se je oddělovat.“
 perex: Rozhovor s lékařkou Danielou Štarhovou, která před patnácti lety opustila nemocniční prostředí a začala se věnovat celostní medicíně.
-cover-photo: https://i.ohlasy.info/c2JeH2Pl.jpg
+cover-photo: https://i.ohlasy.info/c2JeH2P.jpg
 author: Martina Vašková
 category: rozhovory
 tags: zdravotnictví

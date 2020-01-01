@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Jak se k nám dostalo slovo žid"
-cover-photo: https://i.ohlasy.info/wDj8y6zl.jpg
+cover-photo: https://i.ohlasy.info/wDj8y6z.jpg
 author: Vít Boček
 category: seriály
 serial: jazyk

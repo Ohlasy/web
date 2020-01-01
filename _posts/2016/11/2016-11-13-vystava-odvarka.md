@@ -1,7 +1,7 @@
 ---
 title: Obrazy Jana Odvárky proměňují i samotné vnímání krajiny
 perex: V Galerii Otakara Kubína byla zahájena výstava obrazů Jana Odvárky. Jako pozvánku publikujeme úvodní slovo Jana Bařinky.
-cover-photo: https://i.ohlasy.info/cnkpKNsl.jpg
+cover-photo: https://i.ohlasy.info/cnkpKNs.jpg
 author: Jan Bařinka
 category: názory a komentáře
 tags: kultura

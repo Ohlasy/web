@@ -1,7 +1,7 @@
 ---
 title: Je důležitější zprostředkovat atmosféru než kopírovat zažité tvary
 perex: Rozhovor s chilským architektem Smiljanem Radićem, kterého do Boskovic přivedl městský architekt Zdeněk Fránek, aby navrhl novou podobu proluky U Koupadel.
-cover-photo: https://i.ohlasy.info/WC9yJL8l.jpg
+cover-photo: https://i.ohlasy.info/WC9yJL8.jpg
 author: Tomáš Znamenáček
 category: rozhovory
 ---

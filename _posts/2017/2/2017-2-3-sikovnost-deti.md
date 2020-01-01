@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Jsou dnešní děti nešikovné?"
 perex: Odpovídají Dagmar Žďárková, majitelka CK Špuntík; Kamil Ošlejšek, vedoucí kutilského kroužku; Viktorie Odehnalová, studentka SPgŠ a členka Vatry, a Vladimír Farský z boskovického Pionýra.
-cover-photo: https://i.ohlasy.info/JBJsxpQl.jpg
+cover-photo: https://i.ohlasy.info/JBJsxpQ.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: vzdělávání
@@ -11,7 +11,7 @@ tags: vzdělávání
 
 ---
 
-<img src="https://i.ohlasy.info/uBpTvNGl.jpg" class="profile-picture" alt="Dagmar Žďárková">
+<img src="https://i.ohlasy.info/uBpTvNG.jpg" class="profile-picture" alt="Dagmar Žďárková">
 
 **Dagmar Žďárková, majitelka CK Špuntík**
 
@@ -39,7 +39,7 @@ Možná by stálo za zamyšlení podpořit děti v rukodělných činnostech, a 
 
 ---
 
-<img src="https://i.ohlasy.info/Ha0zCP7l.jpg" class="profile-picture" alt="Vladimír Farský">
+<img src="https://i.ohlasy.info/Ha0zCP7.jpg" class="profile-picture" alt="Vladimír Farský">
 
 **Vladimír Farský, Pionýrská skupina Boskovice, radní**
 

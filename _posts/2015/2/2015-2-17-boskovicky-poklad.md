@@ -2,7 +2,7 @@
 title: V muzeu vystavují zachráněné torzo boskovického pokladu
 category: zpravodajství
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/Y5bMFk4l.jpg
+cover-photo: https://i.ohlasy.info/Y5bMFk4.jpg
 tags: historie
 ---
 

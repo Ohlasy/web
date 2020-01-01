@@ -1,7 +1,7 @@
 ---
 title: Nové vlády v městech a obcích regionu
 perex: O novém vedení města či obce už mají jasno nejen Boskovice. Redakce Ohlasů  zjišťovala, jak výsledky komunálních voleb promění po tomto týdnu vedení radnic v regionu.
-cover-photo: https://i.ohlasy.info/2u4cPNxl.jpg
+cover-photo: https://i.ohlasy.info/2u4cPNx.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

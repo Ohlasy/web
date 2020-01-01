@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Novinky po prvním letošním jednání městské rady"
-cover-photo: https://i.ohlasy.info/2WpwVLFl.jpg
+cover-photo: https://i.ohlasy.info/2WpwVLF.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

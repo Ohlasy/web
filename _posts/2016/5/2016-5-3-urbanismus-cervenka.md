@@ -1,6 +1,6 @@
 ---
 title: Návrhy na areál Červené zahrady budou zpracovávat studenti
-cover-photo: https://i.ohlasy.info/Bo5et0Ol.jpg
+cover-photo: https://i.ohlasy.info/Bo5et0O.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

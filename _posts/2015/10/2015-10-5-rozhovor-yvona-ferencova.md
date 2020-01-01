@@ -1,6 +1,6 @@
 ---
 title: „Tvoření je především svoboda,“ říká bývalá kurátorka Moravské galerie a nová pedagožka ZUŠ Yvona Ferencová
-cover-photo: https://i.ohlasy.info/qVRhE97l.jpg
+cover-photo: https://i.ohlasy.info/qVRhE97.jpg
 category: rozhovory
 author: Martina Vašková
 tags: kultura

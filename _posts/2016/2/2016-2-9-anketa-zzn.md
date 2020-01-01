@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Architekti ke knihovně a ZZN. Přestavět, nebo zbourat?"
-cover-photo: https://i.ohlasy.info/ku3vknAl.jpg
+cover-photo: https://i.ohlasy.info/ku3vknA.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: architektura investice knihovna

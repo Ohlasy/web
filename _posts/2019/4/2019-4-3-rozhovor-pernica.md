@@ -1,6 +1,6 @@
 ---
 title: „Boskovicím chybí odvaha pro nové věci.“
-cover-photo: https://i.ohlasy.info/sBg4EvNl.jpg
+cover-photo: https://i.ohlasy.info/sBg4EvN.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura knihovna sokolovna kino

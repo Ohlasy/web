@@ -1,6 +1,6 @@
 ---
 title: Zpravodajský přehled za leden
-cover-photo: https://i.ohlasy.info/t18FtmZl.jpg
+cover-photo: https://i.ohlasy.info/t18FtmZ.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

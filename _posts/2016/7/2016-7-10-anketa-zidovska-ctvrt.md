@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Jaký je stav boskovické židovské čtvrti?"
-cover-photo: https://i.ohlasy.info/8Purk5vl.jpg
+cover-photo: https://i.ohlasy.info/8Purk5v.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags:

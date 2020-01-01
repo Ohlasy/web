@@ -1,7 +1,7 @@
 ---
 title: Městská rada odvolala jednatele nemocnice Navrátila
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/tWmAU3Fl.jpg
+cover-photo: https://i.ohlasy.info/tWmAU3F.jpg
 category: zpravodajství
 tags: nemocnice politika
 ---

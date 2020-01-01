@@ -1,6 +1,6 @@
 ---
 title: „První věcí bude letní kino. Sportovní hala se v tomto období stavět určitě nezačne.“
-cover-photo: https://i.ohlasy.info/osw6uDSl.jpg
+cover-photo: https://i.ohlasy.info/osw6uDS.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 date: 2016-02-16 10:00:45

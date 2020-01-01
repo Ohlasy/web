@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Boj s ohněm"
 perex: „Leta Panie 1823 dnie 1. maja z dopuštění Božího znikl se oheň mezi židami o dvuoch hodinách s poledne a vyhořelo 10 měšťanských domů a rathaus, sousedských domů zhořelo 13 numer, 3 domkáři, židovských domů zhořelo 99 numer.“
-cover-photo: https://i.ohlasy.info/KECoiAMl.jpg
+cover-photo: https://i.ohlasy.info/KECoiAM.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

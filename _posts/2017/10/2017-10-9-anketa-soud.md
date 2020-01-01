@@ -1,7 +1,7 @@
 ---
 title: "Anketa: Cítí radní odpovědnost za prohraný soud s Tomášem Julínkem?"
 perex: Organizační změnu, kterou soud označil za účelovou, schválili přímo boskovičtí radní, kteří tvoří valnou hromadu nemocnice. Jak se ke svému rozhodnutí dnes staví?
-cover-photo: https://i.ohlasy.info/ArgzbKsl.jpg
+cover-photo: https://i.ohlasy.info/ArgzbKs.jpg
 author: Marek Osouch
 category: ankety
 tags: politika

@@ -1,6 +1,6 @@
 ---
 title: „Boskovicím chybí vize. A ta nespočívá v tom, že na tohle jsou peníze, tak to budeme dělat.“
-cover-photo: https://i.ohlasy.info/VD3KoZBl.jpg
+cover-photo: https://i.ohlasy.info/VD3KoZB.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: vzdělávání investice

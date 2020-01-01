@@ -1,7 +1,7 @@
 ---
 title: Jak to vidí nová opozice
 perex: Jak hodnotíte vznik a uspořádání nové koalice a jaká jsou podle vás hlavní rizika jejího vedení Boskovic v příštích čtyřech letech?
-cover-photo: https://i.ohlasy.info/vW8HolOl.jpg
+cover-photo: https://i.ohlasy.info/vW8HolO.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika volby2018

@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Místní jména na Boskovicku – Suchý čili Píčov"
-cover-photo: https://i.ohlasy.info/RO4ESN3l.jpg
+cover-photo: https://i.ohlasy.info/RO4ESN3.jpg
 perex: Obec Suchý vznikla až v druhé polovině 18. století. Její kořeny jsou však starší a kromě toho je dosud ne zcela vyjasněnou záhadou její lidový název Píčov.
 author: Vít Boček
 category: seriály

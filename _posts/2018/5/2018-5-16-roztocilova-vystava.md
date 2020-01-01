@@ -1,7 +1,7 @@
 ---
 title: Magdaléna Roztočilová vidí pod povrch
 perex: "V Muzeu regionu Boskovicka probíhá výstava Magdaléna Roztočilová: Pod povrchem. Jako pozvánku publikujeme doprovodný text kurátorky Heleny Musilové."
-cover-photo: https://i.ohlasy.info/UEncrqXl.jpg
+cover-photo: https://i.ohlasy.info/UEncrqX.jpg
 author: Helena Musilová
 category: názory a komentáře
 ---

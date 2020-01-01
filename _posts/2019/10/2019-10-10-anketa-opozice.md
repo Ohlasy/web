@@ -1,6 +1,6 @@
 ---
 title: Jak to vidí opozice
-cover-photo: https://i.ohlasy.info/izX8r4kl.jpg
+cover-photo: https://i.ohlasy.info/izX8r4k.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika

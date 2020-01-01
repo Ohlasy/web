@@ -1,6 +1,6 @@
 ---
 title: Z budovy školy na Havlíčkově má vzniknout komunitní dům pro seniory
-cover-photo: https://i.ohlasy.info/qUlhUygl.jpg
+cover-photo: https://i.ohlasy.info/qUlhUyg.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

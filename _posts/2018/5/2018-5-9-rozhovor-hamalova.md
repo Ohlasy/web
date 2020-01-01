@@ -1,6 +1,6 @@
 ---
 title: „Pro nás je důležité zprůjezdnit Dukelskou o prázdninách.“
-cover-photo: https://i.ohlasy.info/lXNxdhal.jpg
+cover-photo: https://i.ohlasy.info/lXNxdha.jpg
 perex: "Rozhovor s místostarostkou Dagmar Hamalovou z KDU-ČSL, která má na starosti mimo jiné dvě momentálně velmi exponované oblasti: dopravu a školství."
 author: Marek Osouch
 category: rozhovory

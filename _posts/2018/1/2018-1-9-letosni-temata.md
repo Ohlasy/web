@@ -1,7 +1,7 @@
 ---
 title: Očekávaná témata roku 2018
 perex: Jsou témata, u kterých předem očekáváme, že bude důležité je v následujícím roce sledovat, a lze předpokládat, že budou i nadále budit zájem nás novinářů i vás čtenářů. Která témata to jsou a jaké otázky u nich vyvstávají?
-cover-photo: https://i.ohlasy.info/llLEzgol.jpg
+cover-photo: https://i.ohlasy.info/llLEzgo.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

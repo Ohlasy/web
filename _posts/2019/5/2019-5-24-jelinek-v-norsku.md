@@ -1,7 +1,7 @@
 ---
 title: Lesní školka Jelínek navštívila norský Kristiansand
 perex: Část týmu lesní mateřské školky Jelínek z Kunštátu mohla díky mezinárodnímu projektu Erasmus+ začátkem května navštívit tři mateřské školy v norském Kristiansandu.
-cover-photo: https://i.ohlasy.info/nggG9Lnl.jpg
+cover-photo: https://i.ohlasy.info/nggG9Ln.jpg
 author: Zora Javorská
 category: názory a komentáře
 tags: vzdělávání

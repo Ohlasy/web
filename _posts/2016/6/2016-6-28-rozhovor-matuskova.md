@@ -1,6 +1,6 @@
 ---
 title: „Já se snažím o komunikaci, ale nepřichází mi odpověď. Jsem vždycky překvapená, zaskočená výpovědí.“
-cover-photo: https://i.ohlasy.info/eAb1tr9l.jpg
+cover-photo: https://i.ohlasy.info/eAb1tr9.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura vzdělávání

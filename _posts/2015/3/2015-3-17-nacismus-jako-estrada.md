@@ -1,7 +1,7 @@
 ---
 title: Nacismus jako estrádní show
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/Vj12ru7l.jpg
+cover-photo: https://i.ohlasy.info/Vj12ru7.jpg
 author: Tomáš Trumpeš
 ---
 

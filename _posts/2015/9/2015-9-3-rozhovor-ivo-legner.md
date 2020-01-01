@@ -1,7 +1,7 @@
 ---
 title: „Zoufale nám chybí větší kulturní prostor s lepším zázemím,“ říká dramaturg KZMB Ivo Legner.
 category: rozhovory
-cover-photo: https://i.ohlasy.info/xU2i85Yl.jpg
+cover-photo: https://i.ohlasy.info/xU2i85Y.jpg
 author: Tomáš Trumpeš
 tags: kultura
 ---

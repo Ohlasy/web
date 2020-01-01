@@ -1,6 +1,6 @@
 ---
 title: Jak volily Boskovice, okres a kraj
-cover-photo: https://i.ohlasy.info/kwlZgBal.jpg
+cover-photo: https://i.ohlasy.info/kwlZgBa.jpg
 perex: Celostátní výsledky prvního kola prezidentských voleb přinesly očekávaného vítěze, ale také nejedno překvapení. Jak tedy volilo malé moravské městečko Boskovice? A jak přilehlý region?
 author: Tomáš Trumpeš
 category: zpravodajství

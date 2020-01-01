@@ -1,6 +1,6 @@
 ---
 title: Letní kino bude mít nakonec kapacitu 1800 míst
-cover-photo: https://i.ohlasy.info/SrNvlj9l.jpg
+cover-photo: https://i.ohlasy.info/SrNvlj9.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: investice kultura kino

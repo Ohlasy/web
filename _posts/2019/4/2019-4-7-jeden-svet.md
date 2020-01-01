@@ -1,7 +1,7 @@
 ---
 title: Naděje Jednoho světa
 perex: Festival Jeden svět probíhal uplynulý týden v boskovickém kině. Dokumenty o lidských právech doprovodilo několik zajímavých besed, témata byla různá, příběhy a zpracování mnohdy drsné. Především díky výborným hostům je ale vyznění festivalu jednoznačně pozitivní.
-cover-photo: https://i.ohlasy.info/39LoZLDl.jpg
+cover-photo: https://i.ohlasy.info/39LoZLD.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: kultura kino

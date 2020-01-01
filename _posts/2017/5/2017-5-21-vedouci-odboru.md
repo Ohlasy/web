@@ -1,7 +1,7 @@
 ---
 title: Od voleb se změnila polovina vedoucích odborů městského úřadu
 perex: Obsazení vedoucích odborů městského úřadu v Boskovicích se za nového vedení města výrazně proměnilo. Z devíti vedoucích zůstanou zanedlouho na úřadě už jen čtyři.
-cover-photo: https://i.ohlasy.info/lTt7T6ol.jpg
+cover-photo: https://i.ohlasy.info/lTt7T6o.jpg
 author: Marek Osouch
 tags: politika
 ---

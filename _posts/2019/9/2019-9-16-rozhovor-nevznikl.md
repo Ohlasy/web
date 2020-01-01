@@ -1,7 +1,7 @@
 ---
 title: Jak nevznikl rozhovor o suchu
 perex: "Chtěli jsme informovat o situaci ohledně sucha na Boskovicku. Rozhovor s nejpovolanější osobou jsme ale nezískali. Pro Vodárenskou nepsaná pravidla o poskytování informací neplatí."
-cover-photo: https://i.ohlasy.info/IM96QWAl.jpg
+cover-photo: https://i.ohlasy.info/IM96QWA.jpg
 author: Marek Osouch
 category: názory a komentáře
 ---

@@ -2,7 +2,7 @@
 title: „Muzea začínají hrát významnou společenskou roli,“ říká Ondřej Dostál, nový předseda Asociace muzeí a galerií ČR
 author: Tomáš Trumpeš
 category: rozhovory
-cover-photo: https://i.ohlasy.info/sPdnOuYl.jpg
+cover-photo: https://i.ohlasy.info/sPdnOuY.jpg
 tags: historie
 ---
 

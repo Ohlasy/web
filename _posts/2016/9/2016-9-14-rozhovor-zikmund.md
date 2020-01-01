@@ -1,6 +1,6 @@
 ---
 title: „Pro další život církve bude nutné osvojit si jinou mentalitu, nahradit tu udržovací za misijní.“
-cover-photo: https://i.ohlasy.info/DhooW2gl.jpg
+cover-photo: https://i.ohlasy.info/DhooW2g.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

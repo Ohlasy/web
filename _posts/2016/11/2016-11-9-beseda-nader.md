@@ -1,6 +1,6 @@
 ---
 title: "Syrský uprchlík besedoval v Boskovicích o odchodu z vlasti i přijetí v Německu"
-cover-photo: https://i.ohlasy.info/9RQG63ol.jpg
+cover-photo: https://i.ohlasy.info/9RQG63o.jpg
 perex: Proč se rozhodl Sýrii opustit, jak vidí tamní válečnou situaci, a jak si zvyká na nový život v Německu?
 author: Tomáš Trumpeš
 category: zpravodajství

@@ -1,6 +1,6 @@
 ---
 title: Sportovní komise je pro halu v Červené zahradě
-cover-photo: https://i.ohlasy.info/0DnVjYLl.jpg
+cover-photo: https://i.ohlasy.info/0DnVjYL.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

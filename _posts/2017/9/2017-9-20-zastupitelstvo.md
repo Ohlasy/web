@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: bourání mlýna, hala a budoucnost nemocnice"
-cover-photo: https://i.ohlasy.info/V48obt6l.jpg
+cover-photo: https://i.ohlasy.info/V48obt6.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

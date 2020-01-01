@@ -1,7 +1,7 @@
 ---
 title: Čas strávený vzděláváním není nikdy ztracený
 perex: Je vždycky dobře, když se z pěny dní a kauz každodenní politické reality vynoří opravdu důležité téma a dostane se  mu patřičné pozornosti. Jedním z takových témat je určitě vzdělávání.
-cover-photo: https://i.ohlasy.info/ZSh8nMCl.jpg
+cover-photo: https://i.ohlasy.info/ZSh8nMC.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: vzdělávání školství

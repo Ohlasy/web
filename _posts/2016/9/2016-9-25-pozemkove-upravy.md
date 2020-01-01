@@ -1,6 +1,6 @@
 ---
 title: V Olešnici finišují s pozemkovými úpravami, neshody trvají
-cover-photo: https://i.ohlasy.info/1xpEhldl.jpg
+cover-photo: https://i.ohlasy.info/1xpEhld.jpg
 author: Žaneta Ondroušková
 category: zpravodajství
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Hrozí, že hlasování o hale skončí patem
 perex: "Dnes jsou na stole dvě varianty: hala na Hybešově a hala na Sušilově, vedle čehož však je stále platné usnesení z roku 2015, že má sportovní stánek vyrůst v areálu Červená zahrada. Má některá z variant šanci zvítězit?"
-cover-photo: https://i.ohlasy.info/CLS88FZl.jpg
+cover-photo: https://i.ohlasy.info/CLS88FZ.jpg
 author: Marek Osouch
 category: názory a komentáře
 tags:

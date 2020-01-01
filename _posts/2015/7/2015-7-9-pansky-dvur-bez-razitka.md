@@ -1,7 +1,7 @@
 ---
 title: Úřad neschválil rekonstrukci Panského dvora, přestože památkáři souhlasili
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/dMaTJJEl.jpg
+cover-photo: https://i.ohlasy.info/dMaTJJE.jpg
 author: Tomáš Trumpeš
 tags:
     - panský dvůr

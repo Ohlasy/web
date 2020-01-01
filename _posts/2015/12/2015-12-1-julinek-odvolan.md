@@ -1,7 +1,7 @@
 ---
 title: V boskovické nemocnici skončil Tomáš Julínek
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/M9norlGl.jpg
+cover-photo: https://i.ohlasy.info/M9norlG.jpg
 category: zpravodajství
 tags: nemocnice
 ---

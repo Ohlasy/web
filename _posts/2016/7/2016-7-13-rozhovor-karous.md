@@ -1,6 +1,6 @@
 ---
 title: „Budoucí historikové si nejspíš řeknou, že procházíme obdobím vizuálního moru.“
-cover-photo: https://i.ohlasy.info/ReyZ2hsl.jpg
+cover-photo: https://i.ohlasy.info/ReyZ2hs.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura

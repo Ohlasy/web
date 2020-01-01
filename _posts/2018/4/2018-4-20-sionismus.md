@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Sionismus, cesta k židovskému státu"
 perex: Stát Izrael slaví letos 70 let. Cesta k němu byla dlouhá a strastiplná, v dalším dílu Příběhů z ghetta ji připomíná Helena Janíková. Sionisumus měl řadu přívrženců i v Boskovicích.
-cover-photo: https://i.ohlasy.info/DDgks7Sl.jpg
+cover-photo: https://i.ohlasy.info/DDgks7S.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

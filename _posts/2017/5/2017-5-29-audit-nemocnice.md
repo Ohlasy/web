@@ -1,6 +1,6 @@
 ---
 title: Nemocniční audit je po roce uzavřený, ale stále utajený
-cover-photo: https://i.ohlasy.info/a03JXlnl.jpg
+cover-photo: https://i.ohlasy.info/a03JXln.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

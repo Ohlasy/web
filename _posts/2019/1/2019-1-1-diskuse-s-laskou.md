@@ -1,6 +1,6 @@
 ---
 title: "PF 2019: Diskutujme s láskou"
-cover-photo: https://i.ohlasy.info/aGvryS8l.jpg
+cover-photo: https://i.ohlasy.info/aGvryS8.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Vratíkovský kras"
 perex: Vratíkovský kras, ač to tak na první pohled nevypadá, představuje jeden z nejpozoruhodnějších kousků přírody Boskovicka; je velmi pěknou ukázkou takzvaného tropického kuželového krasu.
-cover-photo: https://i.ohlasy.info/dKvfAXRl.jpg
+cover-photo: https://i.ohlasy.info/dKvfAXR.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Boskovická brázda a Krkatá bába"
-cover-photo: https://i.ohlasy.info/QFpZxxTl.jpg
+cover-photo: https://i.ohlasy.info/QFpZxxT.jpg
 perex: Další putování Hynka Skořepy nás zavede tentokrát těsně za hranice Boskovicka. Návštěva Krkaté báby je ovšem příležitostí dozvědět se něco víc o celé Boskovické brázdě.
 author: Hynek Skořepa
 category: seriály

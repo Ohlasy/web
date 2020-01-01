@@ -1,6 +1,6 @@
 ---
 title: Solární elektrárna znovu funguje. Rada schválila novou nájemní smlouvu
-cover-photo: https://i.ohlasy.info/zJAOTOCl.jpg
+cover-photo: https://i.ohlasy.info/zJAOTOC.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

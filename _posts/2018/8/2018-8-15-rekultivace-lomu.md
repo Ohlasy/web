@@ -1,6 +1,6 @@
 ---
 title: Do deseti let chtějí lom na cihlářskou hlínu zasypat stavebním odpadem
-cover-photo: https://i.ohlasy.info/7eh9AeSl.jpg
+cover-photo: https://i.ohlasy.info/7eh9AeS.jpg
 perex: Hluboké lomy na cihlářskou hlínu mezi Chrudichromskou a Dřevařskou ulicí v Boskovicích budou brzy srovnané s okolím.
 author: Marek Osouch
 category: zpravodajství

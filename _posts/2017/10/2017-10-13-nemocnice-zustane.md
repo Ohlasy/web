@@ -1,7 +1,7 @@
 ---
 title: Kraj odmítá převzít boskovickou nemocnici
 perex: Zamítavé stanovisko k převzetí nemocnice odeslal kraj do Boskovic v minulých dnech. V dopise, který dříve poslalo vedení města na kraj, se přitom píše, že se nemocnice dostává do finančních potíží, a dokonce může hrozit i její uzavření.
-cover-photo: https://i.ohlasy.info/a4yOILUl.jpg
+cover-photo: https://i.ohlasy.info/a4yOILU.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2017-10-13 12:00:45

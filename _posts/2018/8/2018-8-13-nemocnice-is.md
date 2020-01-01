@@ -1,7 +1,7 @@
 ---
 title: Boskovická nemocnice řeší náhlý problém kvůli klíčovému informačnímu systému
 perex: Společnost CompuGroup Medical plánuje ukončit podporu informačního systému, bez kterého se nemocnice neobejde.
-cover-photo: https://i.ohlasy.info/jgEa7dil.jpg
+cover-photo: https://i.ohlasy.info/jgEa7di.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

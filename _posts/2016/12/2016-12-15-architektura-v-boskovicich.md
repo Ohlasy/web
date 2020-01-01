@@ -1,7 +1,7 @@
 ---
 title: Boskovice hledají nový postoj k architektuře
 perex: Radnice odpovídá na otevřený dopis od boskovických architektů a na její žádost svým pohledem přispěl i renomovaný architekt Zdeněk Fránek.
-cover-photo: https://i.ohlasy.info/HvT6vWhl.jpg
+cover-photo: https://i.ohlasy.info/HvT6vWh.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika architektura investice

@@ -1,7 +1,7 @@
 ---
 title: Krrrál rrrozkoše odplul na výletním parrrníčku do nekonečna
 perex: Zemřel zpěvák, hudebník a showman, kterého mnozí občané Boskovic osobně pamatují jako Daniela Konečného, po celé republice byl ovšem známý jako Daniel Nekonečný.
-cover-photo: https://i.ohlasy.info/AQ0q8i5l.jpg
+cover-photo: https://i.ohlasy.info/AQ0q8i5.jpg
 author: Jan Bařinka
 category: názory a komentáře
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Bílá skála"
 category: seriály
-cover-photo: https://i.ohlasy.info/jMxbgNbl.jpg
+cover-photo: https://i.ohlasy.info/jMxbgNb.jpg
 serial: krajiny
 author: Hynek Skořepa
 tags: krajina

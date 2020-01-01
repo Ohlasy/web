@@ -1,6 +1,6 @@
 ---
 title: "Představujeme: Do senátních voleb jde devět kandidátů"
-cover-photo: https://i.ohlasy.info/KNypzihl.jpg
+cover-photo: https://i.ohlasy.info/KNypzih.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika volby

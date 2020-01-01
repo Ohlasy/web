@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Vlčí skála"
 perex: Pořádná mrazivá zima s bohatou sněhovou nadílkou, která po několika letech opět zavítala do střední Evropy, je jako stvořená k vyprávění o vlcích a starých časech. A není snad k tomu vhodnějšího místa, než je Vlčí skála.
-cover-photo: https://i.ohlasy.info/dv76Cfel.jpg
+cover-photo: https://i.ohlasy.info/dv76Cfe.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

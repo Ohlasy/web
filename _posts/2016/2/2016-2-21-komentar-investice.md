@@ -1,6 +1,6 @@
 ---
 title: Nejdřív dialog, potom investice do lepších Boskovic
-cover-photo: https://i.ohlasy.info/RC7quF5l.jpg
+cover-photo: https://i.ohlasy.info/RC7quF5.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags: politika investice

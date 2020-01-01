@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Výkup pozemku na Červené zahradě za 14 milionů, nový územní plán a zákaz hazardu"
-cover-photo: https://i.ohlasy.info/61snCasl.jpg
+cover-photo: https://i.ohlasy.info/61snCas.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Proč se soudíme s boskovickou nemocnicí
-cover-photo: https://i.ohlasy.info/Wv5hSDnl.jpg
+cover-photo: https://i.ohlasy.info/Wv5hSDn.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

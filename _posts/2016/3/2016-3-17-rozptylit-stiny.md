@@ -1,6 +1,6 @@
 ---
 title: Alespoň trochu rozptýlit ty temné stíny
-cover-photo: https://i.ohlasy.info/2fQamj3l.jpg
+cover-photo: https://i.ohlasy.info/2fQamj3.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:

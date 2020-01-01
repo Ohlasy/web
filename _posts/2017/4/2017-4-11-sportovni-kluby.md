@@ -1,7 +1,7 @@
 ---
 title: Sportovní kluby stagnují a hala je v nedohlednu
 perex: Na sportovní halu musí sportovci stále čekat. Zatím je rok a půl jasné, že místo u školy na Slovákově vyroste v areálu Červené zahrady. Sportovní kluby ale zatím musí jezdit na zápasy do okolních měst a jejich činnost se nerozvíjí.
-cover-photo: https://i.ohlasy.info/fYNX1oul.jpg
+cover-photo: https://i.ohlasy.info/fYNX1ou.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: sport investice

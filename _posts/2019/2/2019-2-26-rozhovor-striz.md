@@ -1,6 +1,6 @@
 ---
 title: „Lidi si asi zvykli na to, že je zelenina čerstvá a kvalitní.“
-cover-photo: https://i.ohlasy.info/tA9BGtzl.jpg
+cover-photo: https://i.ohlasy.info/tA9BGtz.jpg
 perex: Rozhovor s Jiřím Střížem, vedoucím unikátní prodejny, která nabízí výpěstky z našeho regionu i odborné poradenství týkající se zahrady.
 author: Martina Vašková
 category: rozhovory

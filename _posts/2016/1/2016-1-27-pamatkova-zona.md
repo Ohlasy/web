@@ -1,6 +1,6 @@
 ---
 title: Vlastníci domů v městské památkové zóně mohou žádat o nové dotace
-cover-photo: https://i.ohlasy.info/DDM4oqQl.jpg
+cover-photo: https://i.ohlasy.info/DDM4oqQ.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags:

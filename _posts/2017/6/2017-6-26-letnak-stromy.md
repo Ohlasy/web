@@ -1,7 +1,7 @@
 ---
 title: Rekonstrukci letního kina problematizuje ochranná lhůta stromů
 perex: Výstavbu zázemí pod promítací plochou komplikuje ochranná lhůta, která se vztahuje na stromy revitalizované z dotace v roce 2010. Pokácet se totiž smí až v roce 2020.
-cover-photo: https://i.ohlasy.info/9mZZlfZl.jpg
+cover-photo: https://i.ohlasy.info/9mZZlfZ.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

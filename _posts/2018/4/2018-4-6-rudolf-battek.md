@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Vzpomínka na Rudolfa Battěka"
 perex: Dům rodiny Langrových na Plačkově ulici č. 9 je spjat s osudy Rudolfa Battěka, účastníka protinacistického odboje, soustružníka, čističe výloh i polistopadového předsedy Sněmovny lidu a místopředsedy Federálního shromáždění.
-cover-photo: https://i.ohlasy.info/8cfkvd4l.jpg
+cover-photo: https://i.ohlasy.info/8cfkvd4.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

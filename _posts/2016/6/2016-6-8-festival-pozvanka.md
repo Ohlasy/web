@@ -1,6 +1,6 @@
 ---
 title: "Festival Boskovice 2016: Tata Bojs, Lenka Dusilová, Michal Prokop. A mnoho dalšího ve čtyřdenním programu"
-cover-photo: https://i.ohlasy.info/ATPi8jbl.jpg
+cover-photo: https://i.ohlasy.info/ATPi8jb.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura

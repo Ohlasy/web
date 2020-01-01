@@ -1,6 +1,6 @@
 ---
 title: Tři dny v uprchlickém táboře
-cover-photo: https://i.ohlasy.info/FWKvwNFl.jpg
+cover-photo: https://i.ohlasy.info/FWKvwNF.jpg
 author: Tomáš Znamenáček
 tags: migrace
 ---

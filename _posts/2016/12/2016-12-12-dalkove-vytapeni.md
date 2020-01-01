@@ -1,7 +1,7 @@
 ---
 title: Smlouvy na odběr tepla budou končit. Radnice chce zjistit, co dál
 perex: Kolik stojí a bude stát systém centrálního zásobování teplem, na který jsou zapojená sídliště Pod Oborou nebo na Čížovkách? Jaké jsou jeho výhody a nevýhody, vyplatí se?
-cover-photo: https://i.ohlasy.info/ESwiGUyl.jpg
+cover-photo: https://i.ohlasy.info/ESwiGUy.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice

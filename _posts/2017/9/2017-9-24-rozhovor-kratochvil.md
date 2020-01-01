@@ -1,7 +1,7 @@
 ---
 title: „Řešit dnes v sedmnácti letech nějakou prevenci nejde, už jenom hasíš.“
 perex: Rozhovor s Pavlem Kratochvilem, ředitelem letovické obecně prospěšné společnosti ELIM, která před rokem otevřela v boskovickém Majáku volnočasový klub pro děti.
-cover-photo: https://i.ohlasy.info/sQvMKMvl.jpg
+cover-photo: https://i.ohlasy.info/sQvMKMv.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

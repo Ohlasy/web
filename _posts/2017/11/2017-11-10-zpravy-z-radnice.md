@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: Opravy skleníku a sokolovny, soud s Julínkem a zprůjezdnění Štefánikovy"
 perex: Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady a mimořádné schůzi zastupitelstva 7. listopadu.
-cover-photo: https://i.ohlasy.info/wy1Zc9kl.jpg
+cover-photo: https://i.ohlasy.info/wy1Zc9k.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

@@ -1,7 +1,7 @@
 ---
 title: Chyba v zákresu pozemků znamená další odklad rozhodnutí o hale
 perex: Krajští zastupitelé měli 25. dubna schválit převod pozemků na Hybešově ulici. Materiál byl však na poslední chvíli stažen z jednání.
-cover-photo: https://i.ohlasy.info/QlHq89pl.jpg
+cover-photo: https://i.ohlasy.info/QlHq89p.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

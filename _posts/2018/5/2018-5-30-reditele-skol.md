@@ -1,6 +1,6 @@
 ---
 title: Ředitelé Ochmanský i Burianová obhájili své posty
-cover-photo: https://i.ohlasy.info/2AThyCMl.jpg
+cover-photo: https://i.ohlasy.info/2AThyCM.jpg
 perex: Konkurzy na ředitele boskovických škol nepřinesly žádnou změnu. Ve své práci bude pokračovat ředitelka mateřské školy Dagmar Burianová i ředitel základní školy Vladimír Ochmanský.
 author: Tomáš Trumpeš
 category: zpravodajství

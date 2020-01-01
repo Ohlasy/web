@@ -1,7 +1,7 @@
 ---
 title: „Pro Sušilovu ani pro Hybešovu ruku nezvednu, Červenka je nejlepší varianta.“
 perex: Rozhovor s Vladimírem Farským, zastupitelem za KSČM a jedním z nejaktivnějších zastánců stavby boskovické sportovní haly v Červené zahradě.
-cover-photo: https://i.ohlasy.info/I992B6Yl.jpg
+cover-photo: https://i.ohlasy.info/I992B6Y.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:

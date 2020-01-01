@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Sportpark v Doubravách, hala na Července, rozpočet. A mlčení k nemocnici"
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/M3NH0Shl.jpg
+cover-photo: https://i.ohlasy.info/M3NH0Sh.jpg
 category: zpravodajství
 tags:
     - politika

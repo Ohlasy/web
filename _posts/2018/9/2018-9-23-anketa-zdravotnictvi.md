@@ -1,6 +1,6 @@
 ---
 title: "PŘEDVOLEBNÍ ANKETA: Sociální věci a zdravotnictví"
-cover-photo: https://i.ohlasy.info/jgEa7dil.jpg
+cover-photo: https://i.ohlasy.info/jgEa7di.jpg
 perex: "Co vidíte jako prioritní pro oblast zdravotnictví a sociálních věcí v následujícím volebním období? Mělo by nové vedení města především udržovat stávající stav, nebo čekáte nová řešení a opatření?"
 author: Tomáš Trumpeš
 category: ankety

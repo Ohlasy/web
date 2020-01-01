@@ -1,7 +1,7 @@
 ---
 title: Nemocnice tají, na jakém vyrovnání se dohodla s exnáměstkem Julínkem
 perex: Nedávno se exnáměstek na zdravotnickém zařízení domohl náhrady ušlé mzdy a odškodnění za protiprávní výpověď. Kolik peněz Tomáš Julínek dostal, je ale tajné.
-cover-photo: https://i.ohlasy.info/HZYX7lxl.jpg
+cover-photo: https://i.ohlasy.info/HZYX7lx.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice

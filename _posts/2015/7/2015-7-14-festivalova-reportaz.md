@@ -1,6 +1,6 @@
 ---
 title: "Dvojitá reportáž: Festival Boskovice 2015 očima Jana Bařinky a Tomáše Trumpeše"
-cover-photo: https://i.ohlasy.info/dGq72ctl.jpg
+cover-photo: https://i.ohlasy.info/dGq72ct.jpg
 author: Tomáš Trumpeš
 tags: kultura
 ---

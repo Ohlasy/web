@@ -1,6 +1,6 @@
 ---
 title: „Havel je pro mě životní inspirací, vybízí k nelhostejnosti, aktivitě a zodpovědnosti nejen za sebe.“
-cover-photo: https://i.ohlasy.info/4aJqfcZl.jpg
+cover-photo: https://i.ohlasy.info/4aJqfcZ.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura architektura politika

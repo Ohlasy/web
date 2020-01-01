@@ -1,7 +1,7 @@
 ---
 title: Nemocnice řeší nákup přístrojů a zřídí babybox
 perex: Na průčelí boskovické nemocnice přibude babybox. O 80 milionů žádá nemocnice na ministerstvu na nákup přístrojů, kterým postupně končí životnost.
-cover-photo: https://i.ohlasy.info/IXp6DrIl.jpg
+cover-photo: https://i.ohlasy.info/IXp6DrI.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

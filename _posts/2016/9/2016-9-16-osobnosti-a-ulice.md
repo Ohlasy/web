@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Znovu o boskovických ulicích (a literárních klasicích)"
-cover-photo: https://i.ohlasy.info/UQiVayYl.jpg
+cover-photo: https://i.ohlasy.info/UQiVayY.jpg
 author: Vít Boček
 category: seriály
 serial: jazyk

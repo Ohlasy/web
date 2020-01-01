@@ -1,6 +1,6 @@
 ---
 title: Otec Špidlík, interpret moderního umění
-cover-photo: https://i.ohlasy.info/cvZBJ8kl.jpg
+cover-photo: https://i.ohlasy.info/cvZBJ8k.jpg
 perex: "V Galerii Otakara Kubína byla v sobotu 23. března zahájena výstava s názvem Slovo a obraz: Otec Špidlík, interpret moderního umění. Přečtěte si úvodní slovo Pavla Ambrose."
 author: Pavel Ambros
 category: názory a komentáře

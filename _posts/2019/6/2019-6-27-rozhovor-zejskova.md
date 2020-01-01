@@ -1,6 +1,6 @@
 ---
 title: „Věřím, že Babišovým voličům otevřeme oči.“
-cover-photo: https://i.ohlasy.info/brqavGjl.jpg
+cover-photo: https://i.ohlasy.info/brqavGj.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

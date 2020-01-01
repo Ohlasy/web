@@ -1,7 +1,7 @@
 ---
 title: „Byli jsme prosté lidské bytosti, které žily svoje prosté životy spolu s vámi.“
 perex: Dopis všem občanům Boskovic od Evy Morris, dcery posledního boskovického rabína.
-cover-photo: https://i.ohlasy.info/NYWApNpl.jpg
+cover-photo: https://i.ohlasy.info/NYWApNp.jpg
 author: Eva Morris
 category: názory a komentáře
 ---

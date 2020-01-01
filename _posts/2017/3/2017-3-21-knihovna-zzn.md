@@ -1,7 +1,7 @@
 ---
 title: "Rozhodnuto: Knihovna bude v ZZN. Architekt Fránek věnoval městu studii"
 perex: O umístění nové boskovické knihovny rozhodla na začátku března boskovická městská rada; knihovna má vzniknout přestavbou budovy ZZN na ulici Kapitána Jaroše.
-cover-photo: https://i.ohlasy.info/2uANKWUl.jpg
+cover-photo: https://i.ohlasy.info/2uANKWU.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: knihovna investice

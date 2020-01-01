@@ -1,7 +1,7 @@
 ---
 title: Fotkou proti zdi. Boskovický rodák Josef Koudelka ve Svaté zemi
 perex: Recenze dokumentárního filmu o vůbec nejproslulejším boskovickém rodákovi, fotografu Josefu Koudelkovi.
-cover-photo: https://i.ohlasy.info/IipdJMfl.jpg
+cover-photo: https://i.ohlasy.info/IipdJMf.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: kultura kino

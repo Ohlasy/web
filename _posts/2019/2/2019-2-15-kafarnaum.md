@@ -1,7 +1,7 @@
 ---
 title: Raději se nenarodit
 perex: Únorovým kinotipem je film Kafarnaum libanonské režisérky Nadine Labaki o životě dětí ve slumu uprostřed Bejrútu. Má vůbec smysl lidský život v totální chudobě a bez jakékoliv perspektivy? Proč takový život podporovat? A kdo má právo o tom rozhodovat?
-cover-photo: https://i.ohlasy.info/ktv9EWAl.jpg
+cover-photo: https://i.ohlasy.info/ktv9EWA.jpg
 author: Ondřej Sabol
 category: názory a komentáře
 ---

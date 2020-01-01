@@ -1,7 +1,7 @@
 ---
 title: Radnice chce na příští rok cenu tepla z centrálních kotelen vyrovnat s jinými zdroji
 perex: Tisícovka domácností se může těšit na to, že od příštího roku nebude platit více než ty, kde mají vlastní kotel.
-cover-photo: https://i.ohlasy.info/OG06yDyl.jpg
+cover-photo: https://i.ohlasy.info/OG06yDy.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

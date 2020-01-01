@@ -1,6 +1,6 @@
 ---
 title: Krize hnutí ANO dopadne i na boskovickou politiku
-cover-photo: https://i.ohlasy.info/V5YZgsMl.jpg
+cover-photo: https://i.ohlasy.info/V5YZgsM.jpg
 perex: Krize hnutí ANO má a bude mít velký vliv i na tu vrstvu politiky, která je nám nejbližší – třeba na komunální volby v roce 2018 a povolební uspořádání v Boskovicích. Necelý rok a půl není zase tak dlouhá doba.
 author: Tomáš Trumpeš
 category: názory a komentáře

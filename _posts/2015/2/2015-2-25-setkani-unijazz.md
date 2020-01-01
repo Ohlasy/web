@@ -2,7 +2,7 @@
 title: Unijazz připravuje festival a zahajuje sérii setkání v Židovské obecní škole
 category: zpravodajství
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/2k61I9tl.jpg
+cover-photo: https://i.ohlasy.info/2k61I9t.jpg
 tags: kultura
 ---
 

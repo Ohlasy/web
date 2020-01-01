@@ -1,6 +1,6 @@
 ---
 title: Knihovna v bodě nula
-cover-photo: https://i.ohlasy.info/cAd0HDfl.jpg
+cover-photo: https://i.ohlasy.info/cAd0HDf.jpg
 category: názory a komentáře
 author: Tomáš Trumpeš
 tags: knihovna architektura investice

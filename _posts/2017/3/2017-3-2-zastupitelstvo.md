@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Sport, kino a nemocnice"
 perex: Na únorovém zastupitelstvu se probírala zejména rekonstrukce letního kina, sportpark, demolice Dvořáčkova mlýna a personální situace v boskovické nemocnici.
-cover-photo: https://i.ohlasy.info/svvbHi2l.jpg
+cover-photo: https://i.ohlasy.info/svvbHi2.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

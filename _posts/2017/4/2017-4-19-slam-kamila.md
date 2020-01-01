@@ -1,6 +1,6 @@
 ---
 title: "Špinavá poezie. Kamila Kamila přivedla do Boskovic slam poetry"
-cover-photo: https://i.ohlasy.info/A3cariEl.jpg
+cover-photo: https://i.ohlasy.info/A3cariE.jpg
 perex: V klubu Sklepy se odehrála první boskovická exhibice slam poetry. Iniciátorkou večera byla studentka boskovického gymnázia, hudebnice a textařka skupiny Veka, Kamila Hrnčířová alias Kamila Kamila.
 author: Tomáš Trumpeš
 category: zpravodajství

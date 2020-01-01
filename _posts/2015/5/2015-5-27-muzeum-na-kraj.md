@@ -1,7 +1,7 @@
 ---
 title: Muzeum Boskovicka směřuje k převodu z města do rukou kraje
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/tdWLVCNl.jpg
+cover-photo: https://i.ohlasy.info/tdWLVCN.jpg
 author: Tomáš Trumpeš
 tags: muzeum
 ---

@@ -1,6 +1,6 @@
 ---
 title: „Všichni žijeme jeden příběh.“
-cover-photo: https://i.ohlasy.info/0WkFv9Kl.jpg
+cover-photo: https://i.ohlasy.info/0WkFv9K.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura fotografie

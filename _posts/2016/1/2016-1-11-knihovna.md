@@ -1,6 +1,6 @@
 ---
 title: „Knihovna má být obývákem města.“
-cover-photo: https://i.ohlasy.info/HJY2fgul.jpg
+cover-photo: https://i.ohlasy.info/HJY2fgu.jpg
 category: rozhovory
 author: Tomáš Trumpeš
 tags: knihovna investice kultura

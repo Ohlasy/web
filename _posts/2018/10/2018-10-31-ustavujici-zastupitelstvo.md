@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: nové vedení a projev starosty Dohnálka"
-cover-photo: https://i.ohlasy.info/dkD7uwWl.jpg
+cover-photo: https://i.ohlasy.info/dkD7uwW.jpg
 perex: Ustavující jednání boskovického zastupitelstva se konalo v úterý v zámeckém skleníku. Noví zastupitelé složili svůj slib a bylo zvoleno nové vedení města.
 author: Tomáš Trumpeš
 category: zpravodajství

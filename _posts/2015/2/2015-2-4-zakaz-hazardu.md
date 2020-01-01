@@ -2,7 +2,7 @@
 title: Boskovická radnice plánuje zrušení hazardu, ale až za rok. „Je to alibistické,“ říká protihazardní aktivista
 author: Tomáš Trumpeš
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/jx13BEPl.jpg
+cover-photo: https://i.ohlasy.info/jx13BEP.jpg
 tags: hazard politika
 ---
 

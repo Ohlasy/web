@@ -1,6 +1,6 @@
 ---
 title: Orchestr je zdařilou ukázkou toho, kudy by se měla vydat městská kultura
-cover-photo: https://i.ohlasy.info/cXFOB5nl.jpg
+cover-photo: https://i.ohlasy.info/cXFOB5n.jpg
 perex: V úterý 16. ledna se boskovickému publiku podruhé představil městský symfonický orchestr.
 author: Kristýna Znamenáčková
 category: názory a komentáře

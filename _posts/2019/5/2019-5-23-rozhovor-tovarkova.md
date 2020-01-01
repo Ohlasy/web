@@ -1,7 +1,7 @@
 ---
 title: „Mladí se ptají, jak bude Země vypadat, jestli tady budou podmínky k životu.“
 perex: Rozhovor s Helenou Továrkovou, ředitelkou Nadace Veronica, zaměřené na ochranu přírody, krajiny a životního prostředí.
-cover-photo: https://i.ohlasy.info/4nrG5vvl.jpg
+cover-photo: https://i.ohlasy.info/4nrG5vv.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:

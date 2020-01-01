@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Jak vidí lékaři budoucnost nemocnice?"
-cover-photo: https://i.ohlasy.info/qvziuSjl.jpg
+cover-photo: https://i.ohlasy.info/qvziuSj.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: nemocnice zdravotnictví

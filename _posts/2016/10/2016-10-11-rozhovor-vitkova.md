@@ -1,6 +1,6 @@
 ---
 title: „Já se s lidmi potkávám a nevyhýbám se ani tomu, když mi řeknou něco nepříjemného.“
-cover-photo: https://i.ohlasy.info/h9y4PkOl.jpg
+cover-photo: https://i.ohlasy.info/h9y4PkO.jpg
 perex: Rozhovor s Jaromírou Vítkovou, boskovickou místostarostkou, která postoupila do druhého kola senátních voleb jako kandidátka KDU-ČSL.
 author: Tomáš Trumpeš
 category: rozhovory

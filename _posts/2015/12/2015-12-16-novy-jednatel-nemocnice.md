@@ -1,7 +1,7 @@
 ---
 title: "Nemocnice má nového jednatele: bývalého senátora a šéfa brněnské úrazovky Miloše Janečka"
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/EeundaMl.jpg
+cover-photo: https://i.ohlasy.info/EeundaM.jpg
 category: zpravodajství
 tags: nemocnice
 ---

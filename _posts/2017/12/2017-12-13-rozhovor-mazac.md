@@ -1,7 +1,7 @@
 ---
 title: „Alfa a omega je řešení současné situace sportovců.“
 perex: Rozhovor s opozičním zastupitelem Radkem Mazáčem (Sportovci pro Boskovice), který se stal možná trochu nečekaným vítězem jednání zastupitelstva o sportovní hale.
-cover-photo: https://i.ohlasy.info/tihaNJNl.jpg
+cover-photo: https://i.ohlasy.info/tihaNJN.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika

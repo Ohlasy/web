@@ -1,6 +1,6 @@
 ---
 title: Nechceme jen halu, ale fungující areál Červená zahrada
-cover-photo: https://i.ohlasy.info/EG4sdcml.jpg
+cover-photo: https://i.ohlasy.info/EG4sdcm.jpg
 author: Petr Ondráček
 category: názory a komentáře
 tags:

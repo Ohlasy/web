@@ -1,7 +1,7 @@
 ---
 title: "Rendez-vous s jazykem: O názvech ulic, nejen boskovických"
 author: Vít Boček
-cover-photo: https://i.ohlasy.info/EWFNQ2jl.jpg
+cover-photo: https://i.ohlasy.info/EWFNQ2j.jpg
 serial: jazyk
 category: seriály
 tags: historie

@@ -1,7 +1,7 @@
 ---
 title: "Z muzejních depozitářů: Meč z dobývání Boskovic za Jana Lucemburského"
 perex: Záhy po nastoupení na český trůn byl Jan Lucemburský nucen vytáhnout na Moravu. Z této válečné epizody může pocházet středověký meč, nalezený v Boskovicích.
-cover-photo: https://i.ohlasy.info/cfUfzC2l.jpg
+cover-photo: https://i.ohlasy.info/cfUfzC2.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

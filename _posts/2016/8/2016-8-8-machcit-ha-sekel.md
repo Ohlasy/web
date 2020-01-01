@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Samuel ha-levi Kollin, zvaný Machcít ha-šekel"
-cover-photo: https://i.ohlasy.info/XlOTFbFl.jpg
+cover-photo: https://i.ohlasy.info/XlOTFbF.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

@@ -1,6 +1,6 @@
 ---
 title: Sen o urbanistické soutěži na Červenou zahradu se rozplývá
-cover-photo: https://i.ohlasy.info/9FRT4rul.jpg
+cover-photo: https://i.ohlasy.info/9FRT4ru.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 tags:

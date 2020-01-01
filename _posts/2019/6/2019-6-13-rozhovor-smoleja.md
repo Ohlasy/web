@@ -1,7 +1,7 @@
 ---
 title: „Doufám, že se jednou do Boskovic vrátím.“
 perex: Z Boskovic nečekaně zmizel v roce 2000, na úřadě nechal jen rezignační dopis a odstěhoval se pryč. Někdejší starosta Boskovic Vratislav Smoleja dnes žije v Sokolově a redakci Ohlasů po takřka dvaceti letech od svého odchodu poskytl rozhovor.
-cover-photo: https://i.ohlasy.info/dp2fFRjl.jpg
+cover-photo: https://i.ohlasy.info/dp2fFRj.jpg
 author: Marek Osouch
 category: rozhovory
 tags: politika

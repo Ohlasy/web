@@ -1,6 +1,6 @@
 ---
 title: Boskovice mají desetkrát méně bytů než před patnácti lety
-cover-photo: https://i.ohlasy.info/j1xfUlIl.jpg
+cover-photo: https://i.ohlasy.info/j1xfUlI.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

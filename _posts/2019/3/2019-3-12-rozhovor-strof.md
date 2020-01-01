@@ -1,7 +1,7 @@
 ---
 title: „Boskovická brázda je jedna obrovská jedinečná archeologická lokalita.“
 perex: Rozhovor Antonínem Štrofem, kurátorem sbírek letovického muzea, které funguje pod kulturním střediskem od začátku loňského roku.
-cover-photo: https://i.ohlasy.info/kIjOU5ml.jpg
+cover-photo: https://i.ohlasy.info/kIjOU5m.jpg
 author: Hynek Skořepa
 category: rozhovory
 ---

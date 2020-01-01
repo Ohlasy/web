@@ -1,6 +1,6 @@
 ---
 title: "Krajiny Boskovicka: Jarní louky Drahanské vrchoviny"
-cover-photo: https://i.ohlasy.info/xnKyfFCl.jpg
+cover-photo: https://i.ohlasy.info/xnKyfFC.jpg
 category: seriály
 serial: krajiny
 author: Hynek Skořepa

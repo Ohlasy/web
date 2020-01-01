@@ -1,7 +1,7 @@
 ---
 title: Nový majitel pozemku na Absolonově dál brání propojení s cestou ke hřbitovu
 perex: "Ani po 20 letech od ukončení výkupů a směn pozemků není Absolonova ulice průjezdná a zřejmě ani nebude: klíčový pozemek odmítá jeho nový majitel městu prodat."
-cover-photo: https://i.ohlasy.info/QkeN1Q1l.jpg
+cover-photo: https://i.ohlasy.info/QkeN1Q1.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: doprava

@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Sokolovna městu, méně peněz na letní kino, více na jámu po hale"
-cover-photo: https://i.ohlasy.info/eIe8ON8l.jpg
+cover-photo: https://i.ohlasy.info/eIe8ON8.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika sokolovna investice

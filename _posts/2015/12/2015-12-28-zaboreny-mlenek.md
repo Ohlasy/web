@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: U zabořenýho mlénka"
 category: seriály
-cover-photo: https://i.ohlasy.info/UMvzLEyl.jpg
+cover-photo: https://i.ohlasy.info/UMvzLEy.jpg
 serial: krajiny
 author: Hynek Skořepa
 tags: krajina

@@ -1,7 +1,7 @@
 ---
 title: Kapacita domů pro seniory se mírně sníží. Kvůli lepším podmínkám
 perex: Obě boskovická pobytová zařízení pro seniory v příštích dvou letech částečně sníží svou kapacitu. Důvodem snižování jsou především vyšší nároky na kvalitu ubytování a zajištění potřebné péče.
-cover-photo: https://i.ohlasy.info/kLzfOFzl.jpg
+cover-photo: https://i.ohlasy.info/kLzfOFz.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

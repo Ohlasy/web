@@ -1,6 +1,6 @@
 ---
 title: Jaké řešení by v Boskovicích nejlépe ctilo výsledek voleb?
-cover-photo: https://i.ohlasy.info/5TCxKvtl.jpg
+cover-photo: https://i.ohlasy.info/5TCxKvt.jpg
 perex: Co znamenají výsledky voleb pro další podobu vedení i města a jaké varianty připadají v úvahu?
 author: Tomáš Trumpeš
 category: názory a komentáře

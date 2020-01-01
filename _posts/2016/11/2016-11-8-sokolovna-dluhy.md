@@ -1,7 +1,7 @@
 ---
 title: "Sokolové mají dluhy. Město pátrá po dalších kostlivcích"
 perex: "Město by mělo převzít boskovickou sokolovnu od 1. ledna. Ukázalo se ale, že bude nutné řešit také nemalé dluhy na energiích."
-cover-photo: https://i.ohlasy.info/6LG5oWil.jpg
+cover-photo: https://i.ohlasy.info/6LG5oWi.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: investice sokolovna

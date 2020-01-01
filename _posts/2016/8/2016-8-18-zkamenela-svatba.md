@@ -3,7 +3,7 @@ title: "Krajiny Boskovicka: Zkamenělá svatba"
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
-cover-photo: https://i.ohlasy.info/CizcS5El.jpg
+cover-photo: https://i.ohlasy.info/CizcS5E.jpg
 tags: krajina
 ---
 

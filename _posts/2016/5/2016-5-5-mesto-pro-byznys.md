@@ -1,6 +1,6 @@
 ---
 title: Špatné výsledky Boskovic v soutěži Město pro byznys + anketa s podnikateli
-cover-photo: https://i.ohlasy.info/qgjLtsPl.jpg
+cover-photo: https://i.ohlasy.info/qgjLtsP.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: podnikání

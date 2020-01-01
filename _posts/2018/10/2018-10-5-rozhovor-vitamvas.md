@@ -2,7 +2,7 @@
 title: „Pro první republiku byla nesmírně důležitá občanská angažovanost.“
 perex: Rozhovor s Petrem Vítámvásem, historikem Muzea regionu Boskovicka, o 100. výročí republiky a vydání knihy Boskovice v pohledech do minulosti.
 date: 2018-10-05 11:00:00
-cover-photo: https://i.ohlasy.info/sEMrgpdl.jpg
+cover-photo: https://i.ohlasy.info/sEMrgpd.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

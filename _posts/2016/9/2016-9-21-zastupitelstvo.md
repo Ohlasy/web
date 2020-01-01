@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Nákup dalšího pozemku v Červené zahradě, situace v nemocnici a dvojnásobná cena polytechnického centra"
-cover-photo: https://i.ohlasy.info/oVACACQl.jpg
+cover-photo: https://i.ohlasy.info/oVACACQ.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

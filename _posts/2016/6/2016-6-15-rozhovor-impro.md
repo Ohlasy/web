@@ -1,6 +1,6 @@
 ---
 title: „Člověk dokáže i trapno využít ve svůj prospěch.“
-cover-photo: https://i.ohlasy.info/eYUFoYtl.jpg
+cover-photo: https://i.ohlasy.info/eYUFoYt.jpg
 author: Martina Vašková
 category: rozhovory
 tags: kultura divadlo

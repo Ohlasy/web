@@ -1,6 +1,6 @@
 ---
 title: „Šikana je všude tam, kde není nikdo, kdo by jí zabránil.“ 
-cover-photo: https://i.ohlasy.info/CpqOSWXl.jpg
+cover-photo: https://i.ohlasy.info/CpqOSWX.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 featured: true

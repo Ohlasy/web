@@ -1,6 +1,6 @@
 ---
 title: Démanty podzimu
-cover-photo: https://i.ohlasy.info/gruA5yZl.jpg
+cover-photo: https://i.ohlasy.info/gruA5yZ.jpg
 perex: Skončila sezóna letních komedií, diváci se z venku přesouvají do vyhřátého kinosálu a v programu kina přibývají filmy, do kterých se můžeme více pohroužit. V říjnu si můžeme vychutnat několik perel z Cannes, Berlína a Benátek.
 author: Ondřej Sabol
 category: názory a komentáře

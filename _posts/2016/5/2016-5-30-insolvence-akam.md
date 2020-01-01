@@ -1,6 +1,6 @@
 ---
 title: Do insolvenčního řízení proti AKAMu se přihlásili další věřitelé. Chtějí přes sto milionů
-cover-photo: https://i.ohlasy.info/3rAZNjBl.jpg
+cover-photo: https://i.ohlasy.info/3rAZNjB.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

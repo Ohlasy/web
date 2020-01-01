@@ -1,6 +1,6 @@
 ---
 title: Boskovice navštívila Eva Morris, dcera posledního rabína
-cover-photo: https://i.ohlasy.info/ZWyhOoll.jpg
+cover-photo: https://i.ohlasy.info/ZWyhOol.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: historie

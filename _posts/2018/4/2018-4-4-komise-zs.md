@@ -1,7 +1,7 @@
 ---
 title: O řediteli boskovické základní školy nejspíš rozhodne zástupkyně kraje
 perex: Boskovice čekají konkurzy na ředitele mateřské i základní školy. Kdo bude o výběru nového ředitele základní školy rozhodovat? V konkurzní komisi sedí odborníci, kteří ale mají blízko k politickým stranám.
-cover-photo: https://i.ohlasy.info/cfWMt6wl.jpg
+cover-photo: https://i.ohlasy.info/cfWMt6w.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

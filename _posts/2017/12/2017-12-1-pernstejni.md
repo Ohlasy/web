@@ -1,7 +1,7 @@
 ---
 title: "Pohledy do historie: Kdo byli první páni z Boskovic?"
 perex: Za první známé držitele Boskovic je bez výhrad považován šlechtický rod pánů z Boskovic. Přehlédneme-li však důkladněji dostupné prameny, z nichž se toto vyvozuje, zjistíme, že s počátky Boskovic je spjat rod Pernštejnů.
-cover-photo: https://i.ohlasy.info/OC5HONel.jpg
+cover-photo: https://i.ohlasy.info/OC5HONe.jpg
 author: Petr Vítámvás
 category: seriály
 serial: historie

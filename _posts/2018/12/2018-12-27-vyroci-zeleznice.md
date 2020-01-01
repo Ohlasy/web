@@ -1,7 +1,7 @@
 ---
 title: "Rok 1908: Před 110 lety přijel do Boskovic první vlak"
 perex: Trať mezi Skalicí a Velkými Opatovicemi vyrostla ještě za dob Rakouska-Uherska a letos slaví rovných 110 let. Tímto článkem končíme seriál o osmičkových výročích spojených s Boskovicemi.
-cover-photo: https://i.ohlasy.info/WTE84pQl.jpg
+cover-photo: https://i.ohlasy.info/WTE84pQ.jpg
 author: Marek Osouch
 category: seriály
 serial: osmicky

@@ -1,6 +1,6 @@
 ---
 title: Anketa k výzdobě trafostanice
-cover-photo: https://i.ohlasy.info/O1x1a7Il.jpg
+cover-photo: https://i.ohlasy.info/O1x1a7I.jpg
 perex: Město Boskovice vyhlásilo druhé kolo ankety, která má určit návrh, jenž vyzdobí trafostanici za finančním úřadem. O názor na jednotlivé návrhy i celý záměr jsme pořádali několik lidí, kteří se výtvarným uměním zabývají.
 author: Tomáš Trumpeš
 category: ankety

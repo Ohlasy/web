@@ -1,7 +1,7 @@
 ---
 title: „Progresivní divadlo nenechává diváka v komfortu.“
 perex: Rozhovor s Janem Doleželem, režisérem blanenského divadla Kolárka. Studuje divadelní vědu na Filozofické fakultě Masarykovy univerzity a v Kolárce letos uvedl dvě premiéry.
-cover-photo: https://i.ohlasy.info/d2YbN7il.jpg
+cover-photo: https://i.ohlasy.info/d2YbN7i.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

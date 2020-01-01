@@ -1,7 +1,7 @@
 ---
 title: První změny na radnici. Končí šéfové odborů Musil a Siverová
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/q4SxZZll.jpg
+cover-photo: https://i.ohlasy.info/q4SxZZl.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

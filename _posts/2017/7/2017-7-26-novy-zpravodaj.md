@@ -1,6 +1,6 @@
 ---
 title: Boskovice připravují nový Zpravodaj. Zadarmo do schránek
-cover-photo: https://i.ohlasy.info/OqOdBRQl.jpg
+cover-photo: https://i.ohlasy.info/OqOdBRQ.jpg
 perex: Nový Boskovický zpravodaj jednou měsíčně zdarma do schránek. Zvýšení kvality tisku znamená také výrazné zvýšení nákladů.
 author: Tomáš Trumpeš
 category: zpravodajství

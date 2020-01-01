@@ -1,6 +1,6 @@
 ---
 title: "Nákup Dvořáčkova mlýna nebyl podle policie trestným činem"
-cover-photo: https://i.ohlasy.info/gi2lCKHl.jpg
+cover-photo: https://i.ohlasy.info/gi2lCKH.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

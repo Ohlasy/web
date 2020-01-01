@@ -1,7 +1,7 @@
 ---
 title: „S údivem jsem shledal, že jsem vlastně optimista.“
 perex: Rozhovor se spisovatelem Jáchymem Topolem. Do Boskovic přijel číst na festival pro židovskou čtvrť, ačkoliv si den předtím poranil ruku při práci na „rekonstrukci ruiny“, jak říká opravě domu v Posázaví, kam jezdí psát.
-cover-photo: https://i.ohlasy.info/1GOJDWsl.jpg
+cover-photo: https://i.ohlasy.info/1GOJDWs.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

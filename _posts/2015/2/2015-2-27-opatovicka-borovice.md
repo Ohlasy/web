@@ -2,7 +2,7 @@
 title: Velkoopatovická borovice Julinka soutěží o titul Evropský strom roku
 category: zpravodajství
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/5u78caUl.jpg
+cover-photo: https://i.ohlasy.info/5u78caU.jpg
 ---
 
 *Je jí 257 let, stojí v zámeckém parku ve Velkých Opatovicích a říká se jí Julinka. Odborně se nazývá borovice černá rakouská neboli Pinus nigra ssp. austriaca. Raritně větvená borovice svým vzhledem připomíná sedmihlavou saň, však podle pověsti se jedná přímo o zakletého draka, se kterým bojoval svatý Jiří, jemuž je zasvěcený místní kostel. Přízvisko Julinka získala proto, že pod ní na bílé lavičce ráda sedávala hraběnka Julie Herbersteinová, poslední majitelka opatovického panství.*

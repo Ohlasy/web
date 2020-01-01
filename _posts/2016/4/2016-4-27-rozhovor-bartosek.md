@@ -1,6 +1,6 @@
 ---
 title: „Chtěli jsme přilákat co nejvíc lidí a doufali, že sami začnou běhat. A to se povedlo.“
-cover-photo: https://i.ohlasy.info/l1Vx5Gxl.jpg
+cover-photo: https://i.ohlasy.info/l1Vx5Gx.jpg
 author: Martina Vašková
 category: rozhovory
 tags: sport

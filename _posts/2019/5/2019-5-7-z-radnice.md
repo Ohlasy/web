@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: sociální byty, parkování na Července, bourání tělocvičen"
 perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na samém konci dubna.
-cover-photo: https://i.ohlasy.info/CK6jvQzl.jpg
+cover-photo: https://i.ohlasy.info/CK6jvQz.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

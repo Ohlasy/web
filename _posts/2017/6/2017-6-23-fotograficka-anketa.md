@@ -1,7 +1,7 @@
 ---
 title: "Fotoanketa: Snímek loňského léta"
 perex: Pořízení jaké fotky vám udělalo loni v létě největší radost? Jaký příběh se k ní pojí? Odpovídají fotografové Pavel Šmíd, Gabriela Kolčavová a Tomáš Znamenáček.
-cover-photo: https://i.ohlasy.info/y2e6fd0l.jpg
+cover-photo: https://i.ohlasy.info/y2e6fd0.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: kultura

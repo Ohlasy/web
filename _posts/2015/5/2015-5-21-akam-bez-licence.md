@@ -1,7 +1,7 @@
 ---
 title: "Krajský soud zrušil boskovické elektrárně licenci"
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/g6zThhQl.jpg
+cover-photo: https://i.ohlasy.info/g6zThhQ.jpg
 author: Marek Osouch
 tags:
     - solární elektrárna

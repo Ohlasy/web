@@ -1,7 +1,7 @@
 ---
 title: „Lidé nejsou zvyklí ptát se sami sebe, jak se cítí a co potřebují.“
 perex: Rozhovor s psycholožkou Veronikou Novotnou, která provozuje v Boskovicích psychoterapeutickou poradnu.
-cover-photo: https://i.ohlasy.info/qbmfcp6l.jpg
+cover-photo: https://i.ohlasy.info/qbmfcp6.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 featured: true

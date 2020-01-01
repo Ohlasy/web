@@ -1,7 +1,7 @@
 ---
 title: Pocta kardinálu Špidlíkovi? Do třetice by to mohlo vyjít
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/5zsBQh9l.jpg
+cover-photo: https://i.ohlasy.info/5zsBQh9.jpg
 category: názory a komentáře
 ---
 

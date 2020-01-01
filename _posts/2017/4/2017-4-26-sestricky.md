@@ -1,7 +1,7 @@
 ---
 title: Nemocnice chce lákat zdravotní sestry i na ubytování
 perex: Boskovická nemocnice musela před časem kvůli nedostatku sester omezit provoz na jednotce intenzivní péče. Uchazečkám o pozici zdravotní sestry chce kromě náborového příspěvku do budoucna nabízet také byt.
-cover-photo: https://i.ohlasy.info/xi6jTetl.jpg
+cover-photo: https://i.ohlasy.info/xi6jTet.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

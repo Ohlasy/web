@@ -1,7 +1,7 @@
 ---
 title: Duchovní otec Tomáš kardinál Špidlík
 perex: V sobotu 17. srpna bude v Boskovicích odhalen památník boskovického rodáka kardinála Špidlíka. Rád bych se při té příležitosti s vámi podělil o několik myšlenek, kterými otec Špidlík ovlivnil mou víru.
-cover-photo: https://i.ohlasy.info/9ppseTal.jpg
+cover-photo: https://i.ohlasy.info/9ppseTa.jpg
 author: Pavel J. Michele
 category: názory a komentáře
 ---

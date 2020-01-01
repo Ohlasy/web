@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Cesty boskovických Židů do Palestiny"
-cover-photo: https://i.ohlasy.info/9uQeis2l.jpg
+cover-photo: https://i.ohlasy.info/9uQeis2.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

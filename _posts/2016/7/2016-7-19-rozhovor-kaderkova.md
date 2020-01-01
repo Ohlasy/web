@@ -1,6 +1,6 @@
 ---
 title: „Nadšení bývají i ti návštěvníci, kteří o kartografickém centru nikdy předtím neslyšeli.“
-cover-photo: https://i.ohlasy.info/AUlEkBfl.jpg
+cover-photo: https://i.ohlasy.info/AUlEkBf.jpg
 author: Martina Vašková
 category: rozhovory
 tags: kultura

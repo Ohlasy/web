@@ -1,7 +1,7 @@
 ---
 title: Jednatel boskovické nemocnice má svého „Julínka“
 perex: Tomáš Julínek se soudí kvůli výpovědi z nemocnice. Byla pozice ekonomického náměstka, kterou Julínek zastával, zrušena účelově?
-cover-photo: https://i.ohlasy.info/LZLFWZBl.jpg
+cover-photo: https://i.ohlasy.info/LZLFWZB.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: nemocnice politika

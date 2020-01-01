@@ -1,6 +1,6 @@
 ---
 title: „Za své výsledky se nemusíme stydět.“
-cover-photo: https://i.ohlasy.info/TBeeuxbl.jpg
+cover-photo: https://i.ohlasy.info/TBeeuxb.jpg
 author: Marek Osouch
 category: rozhovory
 tags: nemocnice

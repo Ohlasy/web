@@ -1,7 +1,7 @@
 ---
 title: Městský rozpočet občany zajímá
 perex: Město Boskovice si stěžuje na nízký zájem občanů o anketu týkající se městského rozpočtu a odvozuje z něj, že rozpočet občany nezajímá. Ve skutečnosti není problém v nezájmu občanů, ale ve způsobu, kterým s nimi město komunikuje.
-cover-photo: https://i.ohlasy.info/UX3Dwt1l.jpg
+cover-photo: https://i.ohlasy.info/UX3Dwt1.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

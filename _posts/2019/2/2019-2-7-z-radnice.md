@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Problémy s polytechnickým centrem, mobily ve škole, odpady"
-cover-photo: https://i.ohlasy.info/2F2vJcwl.jpg
+cover-photo: https://i.ohlasy.info/2F2vJcw.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

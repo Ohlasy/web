@@ -1,7 +1,7 @@
 ---
 title: Realitní boom v Boskovicích. V plánu je více než 100 rodinných domů a další bytovky
 perex: Více než 80 parcel je v Boskovicích připraveno k výstavbě rodinných domů. Na některých se už staví, ale číslo volných pozemků není konečné.
-cover-photo: https://i.ohlasy.info/JECczu2l.jpg
+cover-photo: https://i.ohlasy.info/JECczu2.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: architektura investice

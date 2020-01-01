@@ -1,7 +1,7 @@
 ---
 title: S vyloučením veřejnosti
 perex: "Dnes proběhne na boskovické radnici uzavřený zastupitelský seminář. Spíše než kde bude stát sportovní hala se nabízí otázka: Kde zůstala veřejnost?"
-cover-photo: https://i.ohlasy.info/mIeI5mhl.jpg
+cover-photo: https://i.ohlasy.info/mIeI5mh.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:

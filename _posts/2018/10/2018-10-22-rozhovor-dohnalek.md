@@ -1,7 +1,7 @@
 ---
 title: „Víc se dívám okolo sebe.“
 perex: Rozhovor s Jaroslavem Dohnálkem, lídrem boskovické ODS, vítězem voleb a příštím boskovickým starostou. Město už vedl v letech 2006–2014, nyní uzavřel koalici s ANO, STAN a Sportovci, Volbou pro Boskovice s podporou TOP 09 a Boskováky.
-cover-photo: https://i.ohlasy.info/qh3yQTFl.jpg
+cover-photo: https://i.ohlasy.info/qh3yQTF.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika volby2018

@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Informace z rady a letní plán kulturních akcí"
-cover-photo: https://i.ohlasy.info/pWwjfYml.jpg
+cover-photo: https://i.ohlasy.info/pWwjfYm.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

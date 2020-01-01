@@ -1,6 +1,6 @@
 ---
 title: Když se chce, tak to jde
-cover-photo: https://i.ohlasy.info/ZbSSh23l.jpg
+cover-photo: https://i.ohlasy.info/ZbSSh23.jpg
 author: Marek Osouch
 category: názory a komentáře
 ---

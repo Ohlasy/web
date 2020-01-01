@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na duben
-cover-photo: https://i.ohlasy.info/yGvWZaYl.jpg
+cover-photo: https://i.ohlasy.info/yGvWZaY.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura

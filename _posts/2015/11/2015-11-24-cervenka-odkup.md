@@ -1,7 +1,7 @@
 ---
 title: Odkup pozemků v Červené zahradě se zasekl
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/vlytdGVl.jpg
+cover-photo: https://i.ohlasy.info/vlytdGV.jpg
 category: zpravodajství
 tags:
     - červená zahrada

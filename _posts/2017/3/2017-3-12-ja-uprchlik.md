@@ -2,7 +2,7 @@
 title: Fotografovat utrpení není zbytečné
 author: Tomáš Znamenáček
 perex: Úvodní řeč z výstavy fotografií Jany Plavec Já, uprchlík.
-cover-photo: https://i.ohlasy.info/lkao0NZl.jpg
+cover-photo: https://i.ohlasy.info/lkao0NZ.jpg
 category: názory a komentáře
 tags: migrace fotografie kultura
 ---

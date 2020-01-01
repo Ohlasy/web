@@ -1,7 +1,7 @@
 ---
 title: Zeleň je jedna z hlavních vizitek města
 perex: Zeleň v sídlech a celková upravenost prostředí působí prvním dojmem na každého návštěvníka a dlouhodobě na každého obyvatele. Utváříme své prostředí a ono pak ovlivňuje nás.
-cover-photo: https://i.ohlasy.info/XvDDBoll.jpg
+cover-photo: https://i.ohlasy.info/XvDDBol.jpg
 author: Martina Lukešová
 category: názory a komentáře
 tags: zeleň

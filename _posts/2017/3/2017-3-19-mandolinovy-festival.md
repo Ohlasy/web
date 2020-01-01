@@ -1,7 +1,7 @@
 ---
 title: Martin Krajíček zve na mandolínový festival
 perex: Uspořádat namísto tradičních mandolínových workshopů v Boskovicích rovnou mandolínový festival se rozhodl boskovický hudebník a pedagog Martin Krajíček.
-cover-photo: https://i.ohlasy.info/mfJINOZl.jpg
+cover-photo: https://i.ohlasy.info/mfJINOZ.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura hudba

@@ -1,6 +1,6 @@
 ---
 title: „Hospodaření nemocnice závisí na růstu osobních nákladů.“
-cover-photo: https://i.ohlasy.info/mNiRDK7l.jpg
+cover-photo: https://i.ohlasy.info/mNiRDK7.jpg
 perex: "Rozhovor s Danem Štěpánským, pravou rukou jednatele boskovické nemocnice. Ptali jsme se, jak si nemocnice stojí zejména v dostatku zaměstnanců a také ve mzdách."
 author: Marek Osouch
 category: rozhovory

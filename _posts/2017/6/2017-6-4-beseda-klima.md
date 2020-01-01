@@ -1,7 +1,7 @@
 ---
 title: Už nejde o přírodu, ale o přežití člověka. Lukáš Pokorný zve na besedu o klimatu
 perex: Občanská neposlušnost, klima a energetika. Úterý 6. června od 19 hodin, klub Sklepy.
-cover-photo: https://i.ohlasy.info/BUWK2RSl.jpg
+cover-photo: https://i.ohlasy.info/BUWK2RS.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

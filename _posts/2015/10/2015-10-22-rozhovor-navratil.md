@@ -1,6 +1,6 @@
 ---
 title: „Provozně město na nemocnici nedoplácí ani náhodou,“ říká jednatel boskovické nemocnice Dan Navrátil
-cover-photo: https://i.ohlasy.info/BVlc9PSl.jpg
+cover-photo: https://i.ohlasy.info/BVlc9PS.jpg
 category: rozhovory
 author: Marek Osouch
 tags: nemocnice

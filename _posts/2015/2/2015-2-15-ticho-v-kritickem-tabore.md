@@ -2,7 +2,7 @@
 title: Ticho v kritickém táboře je vždy smrtící
 author: Tomáš Trumpeš
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/10ClofCl.jpg
+cover-photo: https://i.ohlasy.info/10ClofC.jpg
 tags:
     - architektura
     - památková zóna

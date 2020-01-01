@@ -1,7 +1,7 @@
 ---
 title: Ať poslanci pracují méně
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/F6MW3qpl.jpg
+cover-photo: https://i.ohlasy.info/F6MW3qp.jpg
 author: Petr Vítámvás
 tags: politika
 ---

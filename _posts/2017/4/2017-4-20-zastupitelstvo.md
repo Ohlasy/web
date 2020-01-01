@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Nejrychlejší jednání se obešlo takřka bez diskusí"
 perex: Na pořadu zastupitelstva byly dotace pro obnovu památkové zóny, investice do školy a do školky, chodník ke hřbitovu, odpis městských pohledávek či náklady na provoz sportparku.
-cover-photo: https://i.ohlasy.info/j06OXvml.jpg
+cover-photo: https://i.ohlasy.info/j06OXvm.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

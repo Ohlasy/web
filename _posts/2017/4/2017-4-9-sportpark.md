@@ -1,7 +1,7 @@
 ---
 title: Provoz sportparku v Doubravách bude dotovat město
 perex: V boskovických Doubravách probíhají intenzivní práce na budování trailových tras pro horská kola. Nový sportpark bude otevřen ještě letos a jeho provoz bude město stát 355 tisíc korun na rok.
-cover-photo: https://i.ohlasy.info/xev9S8Pl.jpg
+cover-photo: https://i.ohlasy.info/xev9S8P.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

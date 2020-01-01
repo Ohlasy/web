@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: podoba letního kina, dopravní situace v Podhradí a umístění skateparku"
 perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku července.
-cover-photo: https://i.ohlasy.info/MD9nHAtl.jpg
+cover-photo: https://i.ohlasy.info/MD9nHAt.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

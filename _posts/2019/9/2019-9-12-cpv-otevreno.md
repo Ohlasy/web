@@ -1,6 +1,6 @@
 ---
 title: Polytechnické centrum se otevřelo a začalo sloužit
-cover-photo: https://i.ohlasy.info/zwnzqrBl.jpg
+cover-photo: https://i.ohlasy.info/zwnzqrB.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: vzdělávání investice

@@ -1,7 +1,7 @@
 ---
 title: Radnice mapuje místa pro sportovní halu. Kde by mohla být?
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/IC8D3vtl.jpg
+cover-photo: https://i.ohlasy.info/IC8D3vt.jpg
 author: Marek Osouch
 tags:
     - sportovní hala

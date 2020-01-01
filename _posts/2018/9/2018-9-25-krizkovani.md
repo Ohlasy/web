@@ -1,7 +1,7 @@
 ---
 title: Hlas pro kandidáta je především hlasem pro stranu
 perex: Volební systém pro komunální volby má svá specifika a není úplně snadné mu porozumět. Často dochází k mylnému dojmu, že můžeme rozdat hlasy lidem napříč stranami a kdo jich nasbírá nejvíc, uspěje.
-cover-photo: https://i.ohlasy.info/llLEzgol.jpg
+cover-photo: https://i.ohlasy.info/llLEzgo.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika volby2018

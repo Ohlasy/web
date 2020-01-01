@@ -1,7 +1,7 @@
 ---
 title: Po skateparku se volá už přes deset let. Stále marně
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/HmaRcxWl.jpg
+cover-photo: https://i.ohlasy.info/HmaRcxW.jpg
 author: Tomáš Trumpeš
 tags: sport
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Hušák"
 perex: Po několikaměsíční odmlce představuje Hynek Skořepa další pozoruhodný kout naší krajiny – kopec Hušák. Že ho neznáte? Ale znáte, jenom o tom nevíte.
-cover-photo: https://i.ohlasy.info/L1R4MMTl.jpg
+cover-photo: https://i.ohlasy.info/L1R4MMT.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

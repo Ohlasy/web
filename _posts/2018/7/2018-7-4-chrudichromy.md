@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: Místní jména na Boskovicku – Chrudichromy"
-cover-photo: https://i.ohlasy.info/eKC6qsml.jpg
+cover-photo: https://i.ohlasy.info/eKC6qsm.jpg
 author: Vít Boček
 category: seriály
 serial: jazyk

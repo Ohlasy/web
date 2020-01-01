@@ -1,6 +1,6 @@
 ---
 title: "Z muzejního depozitáře: Divadelní opona z Doubravice od Alfonse Muchy"
-cover-photo: https://i.ohlasy.info/OtOAm6Dl.jpg
+cover-photo: https://i.ohlasy.info/OtOAm6D.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

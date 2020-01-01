@@ -1,7 +1,7 @@
 ---
 title: "U Čapka je pro mě podstatný upřímný boj obyčejného člověka, říká čapkovský badatel Hasan Zahirović"
 category: rozhovory
-cover-photo: https://i.ohlasy.info/jbEU8N7l.jpg
+cover-photo: https://i.ohlasy.info/jbEU8N7.jpg
 featured: true
 author: Tomáš Trumpeš
 tags: kultura

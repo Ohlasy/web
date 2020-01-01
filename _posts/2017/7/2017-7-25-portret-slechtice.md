@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Portrét šlechtice"
 perex: Jan Křtitel Leopold z Dietrichsteina (1703–1773), majitel boskovického panství v letech 1738–1773, byl po celý život spíše ve stínu svého staršího bratra, přesto rozhodně nebyl méně zajímavý. Jeho fyzickou podobu nám přibližuje olejomalba ve sbírce Muzea regionu Boskovicka.
-cover-photo: https://i.ohlasy.info/lhlKNeUl.jpg
+cover-photo: https://i.ohlasy.info/lhlKNeU.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

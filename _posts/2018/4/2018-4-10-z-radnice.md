@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: zdravá strava ve školce a novinky z rady"
-cover-photo: https://i.ohlasy.info/xXkO8Gvl.jpg
+cover-photo: https://i.ohlasy.info/xXkO8Gv.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

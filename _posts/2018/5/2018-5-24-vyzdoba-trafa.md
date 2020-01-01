@@ -1,6 +1,6 @@
 ---
 title: Začalo druhé kolo ankety na grafickou výzdobu trafostanice
-cover-photo: https://i.ohlasy.info/36mr5rel.jpg
+cover-photo: https://i.ohlasy.info/36mr5re.jpg
 perex: Druhé kolo ankety má rozhodnout o grafickém ztvárnění trafostanice za boskovickým finančním úřadem. Tentokrát mohou občané vybírat z návrhů od pěti různých autorů.
 author: Tomáš Trumpeš
 category: zpravodajství

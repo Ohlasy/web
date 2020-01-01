@@ -1,7 +1,7 @@
 ---
 title: Na zámku se představí nový boskovický symfonický orchestr
 perex: Po krátké odmlce se rozhodl dirigent Tomáš Pléha založit v Boskovicích nový orchestr. Tentokrát už ne komorní, ale symfonický.
-cover-photo: https://i.ohlasy.info/EV6Bor1l.jpg
+cover-photo: https://i.ohlasy.info/EV6Bor1.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura

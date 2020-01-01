@@ -1,7 +1,7 @@
 ---
 title: Nejsme tak malí a chudí, jak se tváříme
 perex: Skončily volby do Evropského parlamentu. Můžeme přemýšlet o tom, co pro nás myšlení na evropské úrovni vlastně znamená. Třeba pro nás v Boskovicích.
-cover-photo: https://i.ohlasy.info/CEqs0bPl.jpg
+cover-photo: https://i.ohlasy.info/CEqs0bP.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 

@@ -1,7 +1,7 @@
 ---
 title: "Listopad 1998: Komunisti se poprvé od revoluce dostali k moci v Boskovicích"
 perex: Devět let od Sametové revoluce, kdy padl komunistický režim, získala strana, se kterou do té doby kvůli dědictví z minulosti nikdo nepočítal, znovu podíl na moci.
-cover-photo: https://i.ohlasy.info/EC4Bp9Dl.jpg
+cover-photo: https://i.ohlasy.info/EC4Bp9D.jpg
 author: Marek Osouch
 category: seriály
 serial: osmicky

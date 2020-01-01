@@ -1,6 +1,6 @@
 ---
 title: "Ach, ty volby… aneb Studenti volí trochu jinak"
-cover-photo: https://i.ohlasy.info/2UXg82Kl.jpg
+cover-photo: https://i.ohlasy.info/2UXg82K.jpg
 perex: Také na boskovickém gymnáziu proběhly studentské volby, které organizuje Člověk v tísni v rámci svého vzdělávacího programu Jeden svět na školách. Komentář k výsledkům napsal jeden z nich – student čtvrtého ročníku Martin Staněk.
 author: Martin Staněk
 category: názory a komentáře

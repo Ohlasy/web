@@ -1,7 +1,7 @@
 ---
 title: Mezi kostelem a synagogou v Boskovicích
 perex: Srovnání dvou na první pohled neporovnatelných staveb – kostela sv. Jakuba a synagogy – provedl v rámci studia předmětu Detail v architektuře student architektury na fakultě stavební brněnského VUT Jakub Hubený.
-cover-photo: https://i.ohlasy.info/NBuS2eHl.jpg
+cover-photo: https://i.ohlasy.info/NBuS2eH.jpg
 author: Jakub Hubený
 category: názory a komentáře
 tags: architektura kultura

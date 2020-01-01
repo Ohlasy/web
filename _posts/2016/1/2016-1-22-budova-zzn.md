@@ -1,6 +1,6 @@
 ---
 title: Budova ZZN má pro knihovnu řadu předpokladů, ale mohla by se i zbourat
-cover-photo: https://i.ohlasy.info/BznGzf7l.jpg
+cover-photo: https://i.ohlasy.info/BznGzf7.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags: knihovna architektura investice

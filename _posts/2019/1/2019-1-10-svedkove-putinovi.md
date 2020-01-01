@@ -1,7 +1,7 @@
 ---
 title: Kocovina Putinova dokumentaristy
 perex: Vitalij Manskij, osobní dokumentarista Vladimira Putina, kterému pomohl stát se prezidentem, se po letech vrací ke starým záběrům, přikládá některé dosud nezveřejněné a nový tvar komentuje.
-cover-photo: https://i.ohlasy.info/Tl20IZkl.jpg
+cover-photo: https://i.ohlasy.info/Tl20IZk.jpg
 author: Ondřej Sabol
 category: názory a komentáře
 ---

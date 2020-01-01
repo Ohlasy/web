@@ -1,7 +1,7 @@
 ---
 title: Začnou opravy sokolovny. Podle ředitele KZMB je to oblečená mrtvola
 perex: Plánované opravy sokolovny začnou se zpožděním a opraví se jen to nejnutnější. Do budoucna je nutná kompletní rekonstrukce.
-cover-photo: https://i.ohlasy.info/tVBfTyPl.jpg
+cover-photo: https://i.ohlasy.info/tVBfTyP.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

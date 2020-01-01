@@ -1,7 +1,7 @@
 ---
 title: „Jde o katarzi negativních pocitů a především o energii.“
 perex: Rozhovor s Vojtěchem Sedlákem a Davidem Jeřábkem, zakladateli Mindicted Crew, známými na drum’n’bassové scéně pod DJ jmény Void.Sec a Dejfunk.
-cover-photo: https://i.ohlasy.info/JV3h8Z8l.jpg
+cover-photo: https://i.ohlasy.info/JV3h8Z8.jpg
 author: Jan Bařinka
 category: rozhovory
 tags: kultura hudba

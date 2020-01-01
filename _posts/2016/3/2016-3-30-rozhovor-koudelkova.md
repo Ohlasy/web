@@ -1,6 +1,6 @@
 ---
 title: „Líbí se mi, že ve staré hudbě je velký prostor pro vlastní interpretaci.“
-cover-photo: https://i.ohlasy.info/zlDUgPAl.jpg
+cover-photo: https://i.ohlasy.info/zlDUgPA.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura hudba

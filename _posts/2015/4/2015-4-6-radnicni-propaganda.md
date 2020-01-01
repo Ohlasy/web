@@ -1,7 +1,7 @@
 ---
 title: Propaganda v radničních médiích
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/dS3l7Egl.jpg
+cover-photo: https://i.ohlasy.info/dS3l7Eg.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

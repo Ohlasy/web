@@ -1,6 +1,6 @@
 ---
 title: „V některých oblastech do tří let zmizí lesy.“
-cover-photo: https://i.ohlasy.info/CJ0NZXrl.jpg
+cover-photo: https://i.ohlasy.info/CJ0NZXr.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

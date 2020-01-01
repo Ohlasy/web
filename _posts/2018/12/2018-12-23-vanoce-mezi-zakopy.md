@@ -1,6 +1,6 @@
 ---
 title: Vánoce mezi zákopy
-cover-photo: https://i.ohlasy.info/3ob5focl.jpg
+cover-photo: https://i.ohlasy.info/3ob5foc.jpg
 author: Jiří Bureš
 category: názory a komentáře
 ---

@@ -1,6 +1,6 @@
 ---
 title: „Nebudu podporovat něco, za čím si nestojím.“
-cover-photo: https://i.ohlasy.info/417zl6Fl.jpg
+cover-photo: https://i.ohlasy.info/417zl6F.jpg
 perex: Rozhovor s místostarostou Lukášem Holíkem (ANO). Ve volbách jeho hnutí skončilo na 2. místě a vstoupilo do koalice s bývalou opozicí. Mluvili jsme o vzniku koalice, knihovně, sportovní hale, architektuře a také o dopravě a odpadech.
 author: Tomáš Trumpeš
 category: rozhovory

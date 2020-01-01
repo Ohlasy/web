@@ -1,7 +1,7 @@
 ---
 title: Hlas, který bude chybět (Za Lenkou Bařinkovou)
 author: Tomáš Trumpeš
-cover-photo: https://i.ohlasy.info/ieQVTWal.jpg
+cover-photo: https://i.ohlasy.info/ieQVTWa.jpg
 disable-ads: true
 tags: nekrolog
 ---

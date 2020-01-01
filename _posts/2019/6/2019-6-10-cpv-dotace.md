@@ -1,7 +1,7 @@
 ---
 title: Městské zakázky krácené v dotaci připravovala firma bývalého místostarosty za ČSSD
 perex: Kvůli krácení dotací na stavbu Centra polytechnické výchovy musí město zaplatit miliony navíc ze svého rozpočtu, podobně jako již dříve u přístavby mateřské školky.
-cover-photo: https://i.ohlasy.info/0rwEfJHl.jpg
+cover-photo: https://i.ohlasy.info/0rwEfJH.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: cpv politika dotace

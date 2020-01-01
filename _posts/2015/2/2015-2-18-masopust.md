@@ -1,7 +1,7 @@
 ---
 title: Začíná doba půstu. Maškarní průvod prošel také Valchovem
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/1OUsFQTl.jpg
+cover-photo: https://i.ohlasy.info/1OUsFQT.jpg
 author: Marek Osouch
 ---
 

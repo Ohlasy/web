@@ -1,6 +1,6 @@
 ---
 title: "ANKETA: Potřebují Boskovice volnočasový klub pro mládež?"
-cover-photo: https://i.ohlasy.info/eH7KVDjl.jpg
+cover-photo: https://i.ohlasy.info/eH7KVDj.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags:

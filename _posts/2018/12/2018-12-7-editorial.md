@@ -1,6 +1,6 @@
 ---
 title: Trojí příspěvek k boskovické kultuře
-cover-photo: https://i.ohlasy.info/gzAIcAtl.jpg
+cover-photo: https://i.ohlasy.info/gzAIcAt.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

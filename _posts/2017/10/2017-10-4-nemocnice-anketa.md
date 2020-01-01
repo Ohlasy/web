@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Co si myslí zastupitelé o možném převodu nemocnice?"
-cover-photo: https://i.ohlasy.info/gFhIMxql.jpg
+cover-photo: https://i.ohlasy.info/gFhIMxq.jpg
 perex: Vedení města otevřelo otázku možného převodu boskovické nemocnice pod Jihomoravský kraj. Co si o něm myslí zastupitelé?
 author: Marek Osouch
 category: ankety

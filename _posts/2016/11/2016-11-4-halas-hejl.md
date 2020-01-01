@@ -1,6 +1,6 @@
 ---
 title: "Rendez-vous s jazykem: František Halas a Theodor Hejl čili chvála dětství a dobrodružné literatury"
-cover-photo: https://i.ohlasy.info/rGjJ4Pil.jpg
+cover-photo: https://i.ohlasy.info/rGjJ4Pi.jpg
 perex: " "
 author: Vít Boček
 category: seriály

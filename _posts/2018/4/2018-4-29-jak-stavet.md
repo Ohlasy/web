@@ -1,7 +1,7 @@
 ---
 title: Jak v Boskovicích lépe stavět
 perex: Veřejné stavby by měly vznikat na míru těm, kdo je budou používat. Zní to triviálně, ale u těch boskovických se to příliš nedaří. Tentýž problém existuje i na celostátní úrovni, ale u nás na malém městě máme lepší šanci jej překonat. Jak?
-cover-photo: https://i.ohlasy.info/EhfnMC9l.jpg
+cover-photo: https://i.ohlasy.info/EhfnMC9.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

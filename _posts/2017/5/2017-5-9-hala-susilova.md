@@ -1,7 +1,7 @@
 ---
 title: "Nová varianta sportovní haly: místo tělocvičen na ZŠ Sušilova"
 perex: "Zcela nový návrh na umístění sportovní haly přednesl na setkání radnice se sportovci volejbalový trenér František Učeň: Navrhuje zbourat dvě tělocvičny u ZŠ Sušilova a halu postavit na jejich místě."
-cover-photo: https://i.ohlasy.info/BYlrVenl.jpg
+cover-photo: https://i.ohlasy.info/BYlrVen.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

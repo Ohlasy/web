@@ -1,6 +1,6 @@
 ---
 title: "Hana Nedomová bude obhajovat post starostky. Lídry vybírají i další strany"
-cover-photo: https://i.ohlasy.info/JtFGTgVl.jpg
+cover-photo: https://i.ohlasy.info/JtFGTgV.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika

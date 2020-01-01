@@ -3,7 +3,7 @@ title: "Krajiny Boskovicka: Na vrších"
 author: Hynek Skořepa
 category: seriály
 serial: krajiny
-cover-photo: https://i.ohlasy.info/trqOUNSl.jpg
+cover-photo: https://i.ohlasy.info/trqOUNS.jpg
 tags: krajina
 ---
 

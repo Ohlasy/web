@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Hala, dotace, polytechnické centrum"
-cover-photo: https://i.ohlasy.info/UYy0qMel.jpg
+cover-photo: https://i.ohlasy.info/UYy0qMe.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

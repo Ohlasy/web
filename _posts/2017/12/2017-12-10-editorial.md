@@ -1,6 +1,6 @@
 ---
 title: "Část ČSSD s námi nechce komunikovat. Bez vysvětlení"
-cover-photo: https://i.ohlasy.info/JyDOyWUl.jpg
+cover-photo: https://i.ohlasy.info/JyDOyWU.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika

@@ -1,7 +1,7 @@
 ---
 title: "Ze zastupitelstva: Opozice se probouzí, debaty o hale pokračují"
 perex: Ke čtvrtému jednání se sešli boskovičtí zastupitelé. Schůze se tentokrát protáhla na více než tři hodiny a opozice poprvé ukázala, že nechce novému vedení města jen pasivně přihlížet.
-cover-photo: https://i.ohlasy.info/eMxKAb2l.jpg
+cover-photo: https://i.ohlasy.info/eMxKAb2.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

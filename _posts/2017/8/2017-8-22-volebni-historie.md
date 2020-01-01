@@ -1,7 +1,7 @@
 ---
 title: Z jakých pozic startují strany a hnutí v Jihomoravském kraji a v Boskovicích?
 perex: Jak se v minulosti volilo na okrese Blansko a přímo v Boskovicích a co z toho plyne pro nadcházející parlamentní volby?
-cover-photo: https://i.ohlasy.info/n8PJWGll.jpg
+cover-photo: https://i.ohlasy.info/n8PJWGl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

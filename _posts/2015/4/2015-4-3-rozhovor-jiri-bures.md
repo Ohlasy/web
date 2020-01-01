@@ -1,7 +1,7 @@
 ---
 title: "Farář Jiří Bureš: Velikonoční tajemství je srdcem křesťanství"
 category: rozhovory
-cover-photo: https://i.ohlasy.info/WWiFPXdl.jpg
+cover-photo: https://i.ohlasy.info/WWiFPXd.jpg
 author: Tomáš Trumpeš
 ---
 

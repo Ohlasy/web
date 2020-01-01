@@ -1,6 +1,6 @@
 ---
 title: Čekají nás krajské volby. Michal Hašek bude znovu obhajovat křeslo hejtmana
-cover-photo: https://i.ohlasy.info/twP2P6ml.jpg
+cover-photo: https://i.ohlasy.info/twP2P6m.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika volby

@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: Blansek"
 perex: Na jaře mne to vždycky táhne do Moravského krasu. Jeho stráně (nikoliv stinné studené žleby) jsou teplejší než podobná místa na Boskovicku. Proto tentokrát opět poruším pravidlo a zavedu vás kousek za hranice vlastního Boskovicka, na hrad Blansek.
-cover-photo: https://i.ohlasy.info/NusJeg5l.jpg
+cover-photo: https://i.ohlasy.info/NusJeg5.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

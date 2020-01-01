@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na srpen
-cover-photo: https://i.ohlasy.info/B88Kdifl.jpg
+cover-photo: https://i.ohlasy.info/B88Kdif.jpg
 category: zpravodajství
 author: Jan Bařinka
 tags: kultura

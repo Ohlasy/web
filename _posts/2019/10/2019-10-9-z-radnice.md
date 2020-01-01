@@ -1,7 +1,7 @@
 ---
 title: "Z radnice: Úpravy zeleně, mapa investičních akcí či park u kostelíka"
 perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku října.
-cover-photo: https://i.ohlasy.info/ojOYnLNl.jpg
+cover-photo: https://i.ohlasy.info/ojOYnLN.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

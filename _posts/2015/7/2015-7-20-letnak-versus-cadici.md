@@ -1,7 +1,7 @@
 ---
 title: Digitální letňák vs. potulní Čadíci
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/XlocBuml.jpg
+cover-photo: https://i.ohlasy.info/XlocBum.jpg
 author: Radek Pernica
 tags: kino
 ---

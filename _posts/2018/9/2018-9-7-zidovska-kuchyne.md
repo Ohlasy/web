@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Kašrut aneb Zásady židovské rituální kuchyně"
 perex: "Dnes si, milí čtenáři Ohlasů, povíme něco o tom, jak se stravují ortodoxní židé, neboť těmto je dovoleno jíst jen to, co je takzvaně košer, tedy rituálně čisté."
-cover-photo: https://i.ohlasy.info/LCFEfYQl.jpg
+cover-photo: https://i.ohlasy.info/LCFEfYQ.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

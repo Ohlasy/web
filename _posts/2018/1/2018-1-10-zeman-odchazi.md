@@ -1,6 +1,6 @@
 ---
 title: „Dobrýho pomálu.“ Miloš Zeman odchází
-cover-photo: https://i.ohlasy.info/2xEyZz2l.jpg
+cover-photo: https://i.ohlasy.info/2xEyZz2.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

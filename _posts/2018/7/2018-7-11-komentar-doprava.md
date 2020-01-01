@@ -1,7 +1,7 @@
 ---
 title: Dopravu nevyřešíme jedním drahým trikem
 perex: Nedávné setkání vedení města s veřejností oživilo debatu o dopravě ve městě, zejména o obchvatu Boskovic na Jevíčko a nedostatku parkovacích míst.
-cover-photo: https://i.ohlasy.info/Qta4KNZl.jpg
+cover-photo: https://i.ohlasy.info/Qta4KNZ.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
 ---

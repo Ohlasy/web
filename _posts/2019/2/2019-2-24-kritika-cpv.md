@@ -1,6 +1,6 @@
 ---
 title: Další kritikou centra technické výchovy není co získat
-cover-photo: https://i.ohlasy.info/ERFEvWzl.jpg
+cover-photo: https://i.ohlasy.info/ERFEvWz.jpg
 perex: Každé vedení města musí být schopné dotahovat do zdárného konce i projekty, které nezačalo a kterým nefandí.
 author: Tomáš Znamenáček
 category: názory a komentáře

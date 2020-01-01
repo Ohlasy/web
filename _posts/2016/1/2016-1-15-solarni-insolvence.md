@@ -1,7 +1,7 @@
 ---
 title: Boskovice posílají AKAM do úpadku. Peníze ale nejspíš nezískají
 author: Marek Osouch
-cover-photo: https://i.ohlasy.info/9cNI7l0l.jpg
+cover-photo: https://i.ohlasy.info/9cNI7l0.jpg
 category: zpravodajství
 tags:
     - solární elektrárna

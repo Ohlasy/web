@@ -1,7 +1,7 @@
 ---
 title: Studie areálu Červená zahrada nenabízí kvalitní výsledné řešení
 perex: Boskovice mají k dispozici další studii sportovního areálu Červená zahrada rozpracovanou do tří různých variant. Odborníci i opozice nad postupem radnice i samotnou studií neskrývají rozpaky.
-cover-photo: https://i.ohlasy.info/MyCpRVEl.jpg
+cover-photo: https://i.ohlasy.info/MyCpRVE.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:

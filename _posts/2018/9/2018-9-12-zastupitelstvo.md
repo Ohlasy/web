@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Poslední jednání proběhlo v poklidném duchu"
-cover-photo: https://i.ohlasy.info/12wh2mYl.jpg
+cover-photo: https://i.ohlasy.info/12wh2mY.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

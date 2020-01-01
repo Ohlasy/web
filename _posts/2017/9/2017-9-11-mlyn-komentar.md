@@ -1,7 +1,7 @@
 ---
 title: Dvořáčkův mlýn prozradí, kam jsme se posunuli v politické kultuře
 perex: Případem Dvořáčkova mlýna se boskovická koalice poprvé dostává do většího dialogu s veřejností. Půjde jí to lépe než té minulé?
-cover-photo: https://i.ohlasy.info/b49kIPhl.jpg
+cover-photo: https://i.ohlasy.info/b49kIPh.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---

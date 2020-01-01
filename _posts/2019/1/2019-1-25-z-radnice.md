@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: cena tepla, zeleň, odpady, obsazení komisí"
-cover-photo: https://i.ohlasy.info/38aHUnOl.jpg
+cover-photo: https://i.ohlasy.info/38aHUnO.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika

@@ -1,6 +1,6 @@
 ---
 title: "Pohledy do historie: Počátky židovského osídlení v Boskovicích"
-cover-photo: https://i.ohlasy.info/sUChhY6l.jpg
+cover-photo: https://i.ohlasy.info/sUChhY6.jpg
 author: Petr Vítámvás
 category: seriály
 serial: historie

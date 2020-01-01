@@ -1,7 +1,7 @@
 ---
 title: Obchvat na Jevíčko vypadá jako utopie
 perex: Ulevit dopravě ve městě přesměrováním projíždějících vozidel ve směru na Jevíčko pomocí obchvatu nevypadá jako příliš reálný projekt. Radnice sice vybrala jednu variantu, kraj však záměr nepodporuje a samo město ho prakticky nemůže ufinancovat.
-cover-photo: https://i.ohlasy.info/KSwIcQ1l.jpg
+cover-photo: https://i.ohlasy.info/KSwIcQ1.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

@@ -1,6 +1,6 @@
 ---
 title: ČSSD má do voleb složitější pozici než minule
-cover-photo: https://i.ohlasy.info/8YtfFlDl.jpg
+cover-photo: https://i.ohlasy.info/8YtfFlD.jpg
 author: Marek Osouch
 category: názory a komentáře
 tags: politika volby

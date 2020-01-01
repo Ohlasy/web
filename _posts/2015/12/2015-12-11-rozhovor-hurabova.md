@@ -1,7 +1,7 @@
 ---
 title: „Řemeslo a ruční práci nenahradí nikdo a kdo to bude umět, bude na trhu král.“
 author: Martina Vašková
-cover-photo: https://i.ohlasy.info/YnpunvNl.jpg
+cover-photo: https://i.ohlasy.info/YnpunvN.jpg
 category: rozhovory
 tags: podnikání
 ---

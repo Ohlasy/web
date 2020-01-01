@@ -1,7 +1,7 @@
 ---
 title: Lípy na Sokolské vydrží ještě desítky let
 perex: Lipová alej na ulici Sokolská dnes čítá necelých sedmdesát stromů a jednou za tři roky ji vždy čeká radikální ořez. Podle odborníků už tento způsob ošetření stromů nelze změnit.
-cover-photo: https://i.ohlasy.info/SCkaLIul.jpg
+cover-photo: https://i.ohlasy.info/SCkaLIu.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: zeleň

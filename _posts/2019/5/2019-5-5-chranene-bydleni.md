@@ -1,6 +1,6 @@
 ---
 title: „Mít za sousedy lidi s mentálním postižením může být i velkým přínosem.“
-cover-photo: https://i.ohlasy.info/JaBWX9Ml.jpg
+cover-photo: https://i.ohlasy.info/JaBWX9M.jpg
 perex: Kvůli soužití s postiženými lidmi se na náš region – a zejména Svitávku – upřela pozornost celé republiky. Komentuje Irena Přibylová, vedoucí sociálně terapeutických dílen Betany.
 author: Irena Přibylová
 category: názory a komentáře

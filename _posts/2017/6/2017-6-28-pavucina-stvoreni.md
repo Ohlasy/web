@@ -1,6 +1,6 @@
 ---
 title: Pavučina stvoření
-cover-photo: https://i.ohlasy.info/TDfjQ0Wl.jpg
+cover-photo: https://i.ohlasy.info/TDfjQ0W.jpg
 author: Jiří Bureš
 category: názory a komentáře
 ---

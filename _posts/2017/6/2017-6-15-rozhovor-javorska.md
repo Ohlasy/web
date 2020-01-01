@@ -1,7 +1,7 @@
 ---
 title: „Lesní školka neznamená sebrat pár dětí a jít do lesa. Je to vzdělávací koncept.“
 perex: Rozhovor se Zorou Javorskou z kunštátské lesní školky Jelínek. Jak vlastně lesní školky fungují, jaký mají pro děti přínos a co se letos změní na jejich provozu?
-cover-photo: https://i.ohlasy.info/xqZbOYtl.jpg
+cover-photo: https://i.ohlasy.info/xqZbOYt.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: vzdělávání

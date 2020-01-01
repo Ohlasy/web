@@ -1,6 +1,6 @@
 ---
 title: Končí přímé autobusové spojení Boskovic s Olomoucí
-cover-photo: https://i.ohlasy.info/2Fni45cl.jpg
+cover-photo: https://i.ohlasy.info/2Fni45c.jpg
 author: Marek Osouch
 category: zpravodajství
 ---

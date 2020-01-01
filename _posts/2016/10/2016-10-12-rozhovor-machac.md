@@ -1,6 +1,6 @@
 ---
 title: „Oddělení je moje dítě, nemůžu je opustit. Dá se to zvládnout.“
-cover-photo: https://i.ohlasy.info/0JT1Jjvl.jpg
+cover-photo: https://i.ohlasy.info/0JT1Jjv.jpg
 perex: Rozhovor s Janem Machačem, primářem boskovické nemocnice, který postoupil do druhého kola senátních voleb jako kandidát ODS.
 author: Tomáš Trumpeš
 category: rozhovory

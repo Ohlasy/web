@@ -1,6 +1,6 @@
 ---
 title: Proč nemám chuť usednout ke kulatému stolu
-cover-photo: https://i.ohlasy.info/5Psxj4Gl.jpg
+cover-photo: https://i.ohlasy.info/5Psxj4G.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika

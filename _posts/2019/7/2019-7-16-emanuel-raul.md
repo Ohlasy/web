@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Téměř zapomenutý divadelník Emanuel Raul"
-cover-photo: https://i.ohlasy.info/bGzKEgtl.jpg
+cover-photo: https://i.ohlasy.info/bGzKEgt.jpg
 perex: Anebo chcete-li, tak raději Emanuel Friedman. Pod tímto jménem se totiž narodil 13. května roku 1845 v Boskovicích do rodiny židovského obchodníka.
 author: Helena Janíková
 category: seriály

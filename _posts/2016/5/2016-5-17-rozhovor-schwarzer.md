@@ -1,6 +1,6 @@
 ---
 title: „Pracovní skupiny se mi nedaří prosadit. Nevím proč.“
-cover-photo: https://i.ohlasy.info/ivKp3b4l.jpg
+cover-photo: https://i.ohlasy.info/ivKp3b4.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika podnikání investice

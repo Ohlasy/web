@@ -1,6 +1,6 @@
 ---
 title: "Příběhy z ghetta: Rosa Fleischmannová – první dáma Bulharska"
-cover-photo: https://i.ohlasy.info/7TmAewrl.jpg
+cover-photo: https://i.ohlasy.info/7TmAewr.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto

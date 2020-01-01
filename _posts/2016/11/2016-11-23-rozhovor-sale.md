@@ -1,6 +1,6 @@
 ---
 title: „Kuchařku jsem v životě nevydal, tak hluboko jsem naštěstí nepadl.“
-cover-photo: https://i.ohlasy.info/PlFIzGJl.jpg
+cover-photo: https://i.ohlasy.info/PlFIzGJ.jpg
 perex: Rozhovor s nakladatelem Františkem Šalé, mimo jiné o jeho nové knize o životě a díle umělce a boskovického rodáka Františka Řehořka.
 author: Martina Vašková
 category: rozhovory

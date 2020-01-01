@@ -1,6 +1,6 @@
 ---
 title: "20. ročník festivalu Concentus Moraviae má jasné téma: Pojďme slavit!"
-cover-photo: https://i.ohlasy.info/6sO93yfl.jpg
+cover-photo: https://i.ohlasy.info/6sO93yf.jpg
 author: Tomáš Trumpeš
 tags: kultura hudba
 ---

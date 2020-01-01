@@ -1,6 +1,6 @@
 ---
 title: Za feudalismu se v Boskovicích stavělo lépe než dnes
-cover-photo: https://i.ohlasy.info/NxtiIpll.jpg
+cover-photo: https://i.ohlasy.info/NxtiIpl.jpg
 author: Petr Vítámvás
 category: názory a komentáře
 featured: true

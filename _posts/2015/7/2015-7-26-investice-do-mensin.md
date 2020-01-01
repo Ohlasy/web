@@ -1,7 +1,7 @@
 ---
 title: Efektivní investice do menšin
 category: názory a komentáře
-cover-photo: https://i.ohlasy.info/KCzPYfel.jpg
+cover-photo: https://i.ohlasy.info/KCzPYfe.jpg
 author: Tomáš Trumpeš
 tags: politika
 ---

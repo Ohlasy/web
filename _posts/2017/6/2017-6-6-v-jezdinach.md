@@ -1,7 +1,7 @@
 ---
 title: "Krajiny Boskovicka: V Jezdinách"
 perex: Přírodní památka V Jezdinách u Kněževsi patří k nejpozoruhodnějším lokalitám Boskovicka. Leží v geologicky i geomorfologicky nesmírně pestré krajině Hornosvratecké vrchoviny.
-cover-photo: https://i.ohlasy.info/u5MDVSal.jpg
+cover-photo: https://i.ohlasy.info/u5MDVSa.jpg
 author: Hynek Skořepa
 category: seriály
 serial: krajiny

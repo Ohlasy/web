@@ -1,6 +1,6 @@
 ---
 title: Žloutenkou se letos nakazila téměř dvacítka lidí z Blanenska
-cover-photo: https://i.ohlasy.info/RlJYLvMl.jpg
+cover-photo: https://i.ohlasy.info/RlJYLvM.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: zdravotnictví

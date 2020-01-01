@@ -1,7 +1,7 @@
 ---
 title: „Špatná není ani jedna z variant. Doufejme, že všichni vyslyší přání sportovců.“
 perex: Rozhovor s místostarostou Radkem Mazáčem (Sportovci). Mluvili jsme o nové sportovní hale, jejíž přípravu má na starosti. V září mají zastupitelé rozhodnout o lokalitě, kde by měla hala stát.
-cover-photo: https://i.ohlasy.info/OvzVfRSl.jpg
+cover-photo: https://i.ohlasy.info/OvzVfRS.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: politika, sport

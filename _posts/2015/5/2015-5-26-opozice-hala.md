@@ -1,7 +1,7 @@
 ---
 title: Boskovická opozice volá po dostavbě haly, zaznívá i hrozba žalobou
 category: zpravodajství
-cover-photo: https://i.ohlasy.info/VHI6ygol.jpg
+cover-photo: https://i.ohlasy.info/VHI6ygo.jpg
 author: Tomáš Trumpeš
 tags:
     - sportovní hala

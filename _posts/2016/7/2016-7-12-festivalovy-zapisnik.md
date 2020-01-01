@@ -1,6 +1,6 @@
 ---
 title: "Boskovice 2016: Gianniho festivalový zápisník"
-cover-photo: https://i.ohlasy.info/9AXNZH0l.jpg
+cover-photo: https://i.ohlasy.info/9AXNZH0.jpg
 author: Jan Bařinka
 category: zpravodajství
 tags: kultura

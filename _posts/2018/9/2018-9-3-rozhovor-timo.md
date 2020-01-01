@@ -1,6 +1,6 @@
 ---
 title: „Graffiti jsem vnímal jako Rychlé šípy, dobrodružství velkoměsta.“
-cover-photo: https://i.ohlasy.info/Xlm1ujfl.jpg
+cover-photo: https://i.ohlasy.info/Xlm1ujf.jpg
 perex: Rozhovor s výtvarníkem, který je známý jako TIMO, nejen o jeho práci na boskovické trafačce, kterou vyzdobil Nočním potápěčem.
 author: Tomáš Trumpeš
 category: rozhovory

@@ -1,7 +1,7 @@
 ---
 title: Rekonstrukce letního kina se protahuje
 perex: Pokračování rekonstrukce boskovického letního kina se s největší pravděpodobností natáhne ještě do dalších let; do příští sezóny se přes přání diváků i kinařů nespíš opraví jen horní část kina.
-cover-photo: https://i.ohlasy.info/6Ieu5whl.jpg
+cover-photo: https://i.ohlasy.info/6Ieu5wh.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

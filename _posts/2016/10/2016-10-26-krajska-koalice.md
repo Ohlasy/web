@@ -1,7 +1,7 @@
 ---
 title: Hašek končí. Hejtmanem bude Bohumil Šimek
 perex: Vítězné hnutí ANO v čele s Bohumilem Šimkem dnes podepsalo koaliční smlouvu s ČSSD, TOP 09 s Žít Brno a Starosty. Součástí dohody je rozdělení postů v krajské radě.
-cover-photo: https://i.ohlasy.info/UNZMEcHl.jpg
+cover-photo: https://i.ohlasy.info/UNZMEcH.jpg
 author: Marek Osouch
 category: zpravodajství
 tags: politika volby

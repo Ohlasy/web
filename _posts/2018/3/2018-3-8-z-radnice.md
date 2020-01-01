@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: práce policie, hospodaření nemocnice, výstavba za nemocnicí"
-cover-photo: https://i.ohlasy.info/wQWyEQ1l.jpg
+cover-photo: https://i.ohlasy.info/wQWyEQ1.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

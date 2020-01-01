@@ -1,7 +1,7 @@
 ---
 title: „Ghetto bylo jaksi na obtíž, festival na to pomohl upozornit.“
 perex: Rozhovor s Petrem Michálkem, dramaturgem filmové a přednáškové části festivalu Boskovice, o jeho vztahu k židovské čtvrti, o kulturních aktivitách na přelomu 80. a 90. let a 30. výročí Listopadu 89.
-cover-photo: https://i.ohlasy.info/LcG18lzl.jpg
+cover-photo: https://i.ohlasy.info/LcG18lz.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags:

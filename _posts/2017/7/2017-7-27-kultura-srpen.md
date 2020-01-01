@@ -1,6 +1,6 @@
 ---
 title: Gianniho kulturní výběr na srpen
-cover-photo: https://i.ohlasy.info/3ev58PHl.jpg
+cover-photo: https://i.ohlasy.info/3ev58PH.jpg
 perex: Tipy na několik kulturních událostí, které by  bylo škoda v nadcházejícím měsíci minout.
 author: Jan Bařinka
 category: zpravodajství

@@ -1,7 +1,7 @@
 ---
 title: Na mapě sexuálního zneužívání v církvi jsou i Boskovice a Lysice
 perex: Téma sexuálního zneužívání v katolické církvi v poslední době silně rezonuje, a to i díky spolku Pro čistou církev, který vytvořil mapu sexuálního zneužívání církevními pracovníky.
-cover-photo: https://i.ohlasy.info/jI5Q37Jl.png
+cover-photo: https://i.ohlasy.info/jI5Q37J.png
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

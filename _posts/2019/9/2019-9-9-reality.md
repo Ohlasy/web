@@ -1,7 +1,7 @@
 ---
 title: "Realitní boom trvá: V Boskovicích se připravuje nebo staví více než 500 bytů"
 perex: Velký přehled aktuálně chystaných pozemků a bytových i rodinných domů.
-cover-photo: https://i.ohlasy.info/giiVwDMl.jpg
+cover-photo: https://i.ohlasy.info/giiVwDM.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:

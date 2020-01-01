@@ -1,7 +1,7 @@
 ---
 title: Městským architektem se stal Zdeněk Fránek
 perex: Boskovice mají nového městského architekta. Stal se jím místní rodák a renomovaný architekt Zdeněk Fránek.
-cover-photo: https://i.ohlasy.info/fTSUhrPl.jpg
+cover-photo: https://i.ohlasy.info/fTSUhrP.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---

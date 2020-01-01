@@ -1,6 +1,6 @@
 ---
 title: "Anketa: Které umístění haly je nejlepší?"
-cover-photo: https://i.ohlasy.info/LiaCzTGl.jpg
+cover-photo: https://i.ohlasy.info/LiaCzTG.jpg
 author: Tomáš Trumpeš
 excerpt: "Vedení Boskovic zveřejnilo čtyři varianty návrhu na umístění sportovní haly. Jak se vám návrhy líbí a který považujete za nejlepší? Odpovídají Jiří Klimek, Vladimír Petrů, Jiří Pevný a Petr Ondráček."
 category: ankety

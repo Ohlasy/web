@@ -1,6 +1,6 @@
 ---
 title: Ekonomický analytik nemocnice může rozhodovat za jednatele
-cover-photo: https://i.ohlasy.info/YEvm8LWl.jpg
+cover-photo: https://i.ohlasy.info/YEvm8LW.jpg
 perex: Personální změny v nemocnici:Dan Štěpánský se stal statutárním zástupcem jednatele; odešla náměstkyně Olga Fialová.
 author: Marek Osouch
 category: zpravodajství

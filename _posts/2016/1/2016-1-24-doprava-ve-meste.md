@@ -1,6 +1,6 @@
 ---
 title: "Město – životní prostor s důrazem na dopravu"
-cover-photo: https://i.ohlasy.info/EkJWkh1l.jpg
+cover-photo: https://i.ohlasy.info/EkJWkh1.jpg
 category: názory a komentáře
 author: Jiří Klimek
 tags: doprava architektura

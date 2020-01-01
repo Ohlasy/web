@@ -1,7 +1,7 @@
 ---
 title: „Křižáček byl film jako nachystaný pro naši hudbu.“
 perex: Rozhovor s Irenou a Vojtěchem Havlovými, kteří letos obdrželi Českého lva za hudbu k historickému filmu Křižáček. O práci na filmu a o jejich specifickém přístupu k vlastní hudební tvorbě.
-cover-photo: https://i.ohlasy.info/FU4LyWAl.jpg
+cover-photo: https://i.ohlasy.info/FU4LyWA.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 ---

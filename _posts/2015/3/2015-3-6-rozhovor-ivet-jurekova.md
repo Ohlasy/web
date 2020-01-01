@@ -1,7 +1,7 @@
 ---
 title: Mají problém s prokrastinací, ale když se odhodlají, dokážou hodně, říká o studentech Ivet Juřeková
 category: rozhovory
-cover-photo: https://i.ohlasy.info/JaRnkIQl.jpg
+cover-photo: https://i.ohlasy.info/JaRnkIQ.jpg
 author: Tomáš Trumpeš
 tags: vzdělávání
 ---

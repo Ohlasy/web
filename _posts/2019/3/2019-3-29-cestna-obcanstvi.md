@@ -1,7 +1,7 @@
 ---
 title: "Z muzejního depozitáře: Čestné občanství"
 perex: „Čestné měšťanství neb občanství… udělují obce osobám, jež obzvláště poctíti chtějí, bez všelikých závazků, co právo čestné,“ praví Riegrův Slovník naučný. V Boskovicích se této pocty jako prvnímu dostalo boskovickému rodákovi Petru Bílkovi.
-cover-photo: https://i.ohlasy.info/khQRPa9l.jpg
+cover-photo: https://i.ohlasy.info/khQRPa9.jpg
 author: Petr Vítámvás
 category: seriály
 serial: depozitar

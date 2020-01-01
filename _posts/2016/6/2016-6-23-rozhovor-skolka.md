@@ -1,6 +1,6 @@
 ---
 title: „Dítě nikdy nezlobí schválně, ale má nějakou potřebu.“
-cover-photo: https://i.ohlasy.info/zvX30TNl.jpg
+cover-photo: https://i.ohlasy.info/zvX30TN.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 tags: vzdělávání
