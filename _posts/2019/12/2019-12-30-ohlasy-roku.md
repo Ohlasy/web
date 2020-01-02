@@ -24,7 +24,7 @@ Silné bylo letos téma fungování firem. Dva obsáhlé a velmi úspěšné tex
 
 Do první desítky nejčtenějších textů se dostala ještě informace o tom, že Boskovice a Lysice se objevily na mapě míst, kde bylo někdy v minulosti hlášeno sexuální zneužívání v církvi, dále zmíněné přízvisko obce Suchý – Píčov a problémy s proplácením dotací na Centrum polytechnické výchovy, především pak informace, že zakázky připravovala firma bývalého politika.
 
-Žebříček nejčtenějších textů za rok 2018 vypadá tedy takto:
+Žebříček nejčtenějších textů za rok 2019 vypadá tedy takto:
 
 1. [Rozhovor s Monikou Oujeskou](https://ohlasy.info/clanky/2019/08/rozhovor-oujeska.html)
 2. [Šikana ZUŠ](https://ohlasy.info/clanky/2019/12/sikana-zus.html)
