@@ -36,7 +36,7 @@ Hned o tři dny později se v Letovicích koná další koncert, tentokrát ozna
 
 ### Matěj Ptaszek: Můj život v Kolumbii
 
-*Židovský obecní dům, 15. ledna 16:00*
+*Židovský obecní dům, 18. ledna 16:00*
 
 Matěj Ptaszek je původní profesí umělecký fotograf, od roku 2004 je profesionálním bluesmanem a v současnosti patří mezi evropskou špičku hráčů na foukací harmoniku na poli tradičního blues. Tentokrát se ovšem místo hudebního vystoupení dočkáme cestovatelské besedy, kde představí své zážitky z divokého kolumbijského departamentu Antioquia, kde strávil celý rok a tři čtvrtě a pořídil zde spoustu fotografií i unikátních videí.
 
