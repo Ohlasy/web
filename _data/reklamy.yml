@@ -1,8 +1,3 @@
-- name: KZMB
-  image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?6
-  alt: Kulturní akce na Boskovicku
-  url: https://www.kulturaboskovice.cz
-  priority: 900
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast.html
