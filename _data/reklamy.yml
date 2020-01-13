@@ -3,6 +3,11 @@
   url: https://ohlasy.info/podcast.html
   alt: "Ohlasy Podcast"
   priority: 800
+- name: "Ohlasy naživo"
+  image: https://i.ohlasy.info/i/08790d61.png
+  url: https://www.facebook.com/events/2067042096732363/
+  alt: "Ohlasy naživo s místostarostou Radkem Mazáčem"
+  priority: 800
 - name: Impro
   image: https://i.ohlasy.info/i/e487e1bb.png
   url: https://www.improlisky.cz
