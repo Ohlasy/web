@@ -16,6 +16,7 @@ why: A dummy header to make Jekyll process this file.
     </header>
 
     {% assign interviews = site.array %}
+    {% assign podcast = site.array %}
     {% assign opinions = site.array %}
     {% assign serials = site.array %}
     {% assign culture = site.array %}
@@ -25,6 +26,9 @@ why: A dummy header to make Jekyll process this file.
     {% for post in site.posts offset: 1 %}
         {% if post.category == 'rozhovory' %}
             {% assign interviews = interviews | push: post %}
+        {% endif %}
+        {% if post.category == 'podcast' %}
+            {% assign podcast = podcast | push: post %}
         {% endif %}
         {% if post.category == 'názory a komentáře' %}
             {% assign opinions = opinions | push: post %}
@@ -82,6 +86,9 @@ why: A dummy header to make Jekyll process this file.
 
         <h2>rozhovory</h2>
         {% include grid/five.html items=interviews %}
+
+        <h2>podcast</h2>
+        {% include grid/five.html items=podcast %}
 
         {% if site.data.nejctenejsi.size > 0 %}
         <h2>nejčtenější články</h2>
