@@ -2,8 +2,8 @@
 title: "Ohlasy naživo: Rozhovor s architektem Petrem Ondráčkem"
 cover-photo: https://i.ohlasy.info/i/ivlmomy.jpg
 author: Tomáš Trumpeš
-category: rozhovory
-tags: architektura podcast
+category: podcast
+tags: architektura
 ---
 
 *Hostem dalšího setkání nového cyklu Ohlasy naživo byl ve čtvrtek 10. října architekt Petr Ondráček. K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*

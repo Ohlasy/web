@@ -42,7 +42,7 @@ why: A dummy header to make Jekyll process this file.
     <div class="container">
         <h2>Epizody</h2>
         <div class="row">
-        {% assign articles=site.tags.podcast %}
+        {% assign articles=site.categories.podcast %}
         {% for article in articles %}
         <div class="col-md-3 col-sm-4">
             {% include article/preview.html article=article %}

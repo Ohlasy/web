@@ -2,8 +2,7 @@
 title: "Ohlasy naživo: rozhovor s farářem Jiřím Burešem"
 cover-photo: https://i.ohlasy.info/i/94ff44bc.jpg
 author: Tomáš Trumpeš
-category: rozhovory
-tags: podcast
+category: podcast
 ---
 
 *Hostem dalšího setkání nového cyklu Ohlasy naživo byl ve čtvrtek 5. prosince boskovický evangelický farář Jiří Bureš. K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*

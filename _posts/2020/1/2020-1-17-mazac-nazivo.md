@@ -3,8 +3,8 @@ title: "Ohlasy naživo: rozhovor s místostarostou Radkem Mazáčem"
 cover-photo: https://i.ohlasy.info/i/40ace27f.jpg
 perex: Hostem dalšího setkání cyklu Ohlasy naživo byl boskovický místostarosta Radek Mazáč (Sportovci). K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.
 author: Tomáš Trumpeš
-category: rozhovory
-tags: politika podcast
+category: podcast
+tags: politika
 ---
 
 *Hostem dalšího setkání cyklu Ohlasy naživo byl ve čtvrtek 16. ledna boskovický místostarosta Radek Mazáč (Sportovci). K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*

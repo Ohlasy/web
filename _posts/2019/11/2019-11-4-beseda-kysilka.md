@@ -4,8 +4,8 @@ cover-photo: https://i.ohlasy.info/i/459b2644.jpg
 perex: Hostem další z „listopadových“ besed v centru Prostor byl ekonom Pavel Kysilka. Odpovídal na otázky muzejního historika Petra Vítámváse, hlavním tématem debaty byla ekonomická transformace po roce 1989.
 date: 2019-11-4 11:00:45
 author: Tomáš Trumpeš
-category: rozhovory
-tags: podcast historie politika
+category: podcast
+tags: historie politika
 ---
 
 *U příležitosti 30. výročí Listopadu 89 pořádá Muzeum regionu Boskovicka v kulturním a komunitním centru Prostor sérii besed. Hostem další z nich byl ekonom Pavel Kysilka, který v úvodu odpovídal na otázky muzejního historika Petra Vítámváse. Hlavním tématem debaty byla ekonomická transformace po roce 1989. Záznam rozhovoru zde přinášíme.*
