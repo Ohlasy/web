@@ -3,6 +3,11 @@
   alt: Kulturní akce na Boskovicku
   url: https://www.kulturaboskovice.cz
   priority: 900
+- name: Unijazz
+  image: https://i.ohlasy.info/i/87aeecf4.png
+  alt: Festival Boskovice 2020
+  url: https://www.boskovice-festival.cz/cs/ucinkujici
+  priority: 900
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast.html
