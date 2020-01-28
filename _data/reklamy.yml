@@ -8,6 +8,11 @@
   alt: Festival Boskovice 2020
   url: https://www.boskovice-festival.cz/cs/ucinkujici
   priority: 900
+- name: Pět let Ohlasů
+  image: https://i.ohlasy.info/i/9e0a5d9f.png
+  alt: Oslavte s námi naše narozeniny
+  url: https://www.facebook.com/events/565809884003833/
+  priority: 900
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast.html
