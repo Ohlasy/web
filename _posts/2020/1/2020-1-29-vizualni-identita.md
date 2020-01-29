@@ -1,0 +1,29 @@
+---
+title: "Boskovice si zaslouží opravdový JVS – Jednoznačně Vyšší Standard"
+perex: Město Boskovice oznámilo, že pořídí nový jednotný vizuální styl; oslovilo pět tiskáren a zakázku přidělilo na základě nejnižší ceny. Proč je to špatně?
+cover-photo: https://i.ohlasy.info/i/96839664.jpg
+author: Ondřej Dostál
+category: názory a komentáře
+---
+
+*Město Boskovice oznámilo, že pořídí nový jednotný vizuální styl; oslovilo pět tiskáren a zakázku přidělilo na základě nejnižší ceny. Zvolený postup komentuje Ondřej Dostál, bývalý ředitel boskovického muzea a Mendelova muzea v Brně, nyní nově vedoucí oddělení pro strategie a vnější vztahy Lékařské fakulty Masarykovy univerzity.*
+
+{% photo src="https://i.ohlasy.info/i/96839664.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
+
+Pravidelný [report Ohlasů z radnice](https://ohlasy.info/clanky/2020/01/z-radnice.html) přinesl zprávu o soutěži a pořízení takzvaného JVS – jednotného vizuálního stylu pro Město Boskovice. Zpráva, nad kterou se pozastaví málokdo. Výběrem prošla a zakázku získala firma Artron s částkou blížící se půl milionu korun. Celá soutěž byla postavena na nejnižší ceně, nikoliv na hodnocení grafických návrhů předem. Ve své úvaze nebudu zpochybňovat vítěze, ale celý nápad a samotnou cestu, kterou mohu nazvat snad jen jediným slovem – diletantství.
+
+Než se pokusím vysvětlit svůj útočný tón, je potřeba si shrnout pojmy a možná trochu osobní kompetence, kterými začnu. Připravoval jsem vizualitu mnou dříve řízeného Mendelova muzea a účastnil jsem se jako porotce několika soutěží o JVS, kupříkladu pro město Tišnov nebo pro [VIDA! Science Center](https://www.designportal.cz/brnenske-science-centrum-vida-ma-nove-logo-mame-i-ukazky-navrhu-dalsich-finalistu/).
+
+Co je vlastně jednotný vizuální styl organizace? Možná nejjednodušeji se dá popsat jako soubor jednotících grafických prvků vytvářejících její identitu, přičemž grafické prvky jsou voleny tak, aby si je každý automaticky spojil s organizací a jejími produkty. S pojmem JVS jsou primárně spojeny komerční firmy, které tak projevují svoji kulturu a slouží jim i jako reklamní prvek, a to především díky výrazným logům či specifickým barevným kombinacím s grafickými prvky. Instituce, města a další si JVS pořizují za účelem sjednocení svého obrazu ven, na veřejnost, ale i někdy dovnitř organizace. Z firem se vám jistě vybaví loga firem Apple, Nike či Škoda. Výrazným logem u města disponuje [Ostrava](https://www.designportal.cz/ostrava/) a v poslední době se část veřejnosti baví [logem městské části Praha 3](https://www.czechdesign.cz/temata-a-rubriky/sejdeme-se-na-iii-praha-3-predstavuje-novou-vizualni-identitu).
+
+Dost bylo popisu, o co se vlastně jedná – pojďme se podívat, co je (opět) špatně v Boskovicích.
+
+1. Návrhy vizuálu předem neuvidíme, dostaneme něco, o čem nemůžeme diskutovat a tedy ani hodnotit. Tento bod je zcela klíčový. Město Boskovice si zadalo jediné kritérium – cenu. Vítěz pak dodá tři loga a nějaká komise či jednotlivci vyberou to nejlepší. Je to jako nechat si postavit dům bez projektu, za co nejméně peněz, a pak se již zbývá jen modlit. 
+
+    Standardní proces vypadá tak, že se zadá, co chceme, a vyžádáme si návrh loga s vizualizací na dárkové předměty, použití na merkantilie a jak se nový design bude používat na webu a na všechny možné aplikace. Poté by měla zasednout komise, ideálně odborná společně s městským architektem a představiteli politických stran (za mne se zástupci všech stran našeho zastupitelstva). Následně by měla být vybrán vítěz na základě již předem nastavených kritérií. Pokud bych byl idealista, tak bych vybral tři nejlepší a o tom finálním by mohli hlasovat obyvatelé Boskovic. To ja ale možná ještě stále utopie. Vzešlý návrh by byl téměř objektivním průsečíkem odborného, politického a také veřejného pohledu na věc.
+2. Nový JVS by se měl alespoň částečně dotknout i městských firem a organizací. Město vymýšlí nový vizuální styl, který by měl být aplikovatelný na všechny instituce spravované či financované městem. Je to nelehký úkol, jelikož městské organizace jsou velmi různorodé. Na druhou stranu bychom mohli být ušetřeni nejednotné reklamy, která nás atakuje ze všech stran. Promyšlený a komplexní vizuální styl je věcí obecného zájmu, prezentuje totiž i nás, obyvatele města.
+3. Město neoslovilo grafická studia, ale primárně tiskárny. Jistě je možné dodat: kdo může mít více zkušeností, než ten, kdo to pravidelně vyrábí. Zde je nutné oddělit část technologickou – tedy vím jak to vyrobit, a část kreativní – tedy znám souvislosti, historický kontext a mám zkušenosti s vnímáním vizuálních prvků pro komunikaci. Jak jsem již napsal, nezpochybňuji výběr vítěze, jen popisuji, co je co. 
+
+Město Boskovice si (opět) vybralo zcela specifickou cestu, která vylučuje odbornou pomoc a zapojení veřejnosti. Kulturní komise o tomto kroku nebyla informována a dostává se až k samotnému výsledku – informaci, že byl vybrán zhotovitel. Koaliční zástupci lakonicky informují o takto zásadním kroku na pravidelné tiskové konferenci a opozice bezzubě kouká, přestože jistě takto zásadní částku musela vidět při přípravě rozpočtu – nicméně neudělala nic. Možná se ozve ex post, tak jako já. A občan? Ten musí laskavě počkat, až bude něco vytvořeno.
+
+Nezbývá než doufat, že vítězná firma představí skvělý výsledek, politici si nechají občas poradit a my budeme mít pěkné logo, které bude reflektovat historické souvislosti i realitu 21. století v našem městě. A proč jsem dal zkratce JVS nový obsah, který jsem napsal do názvu článku? Mám pocit, že si již zasloužíme vyšší standardy. Naše město si přece zaslouží naši péči. A i věci veřejné by měly mít vyšší standard přípravy i realizace. Netýká se to jen jednotlivce, ale nás všech – a proto by to mělo být lepší, nikoliv jen dobré. Aktuálně zvolené řešení pro způsob výběru JVS Města Boskovice je však bohužel vysloveně špatné.
