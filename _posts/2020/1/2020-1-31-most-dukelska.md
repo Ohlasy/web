@@ -15,7 +15,7 @@ Je to teprve dva roky, co byla Dukelská od začátku března až do podzimu uza
 
 Teď po relativně krátkém čase vyšlo najevo, že most postavený v roce 1932, který se před dvěma lety neopravoval, je ve špatném stavu a je nutné snížit jeho nosnost téměř na třetinu. „Sám jsem z výsledku prohlídky překvapený, netuším, jak se mohl tak zhoršit,“ uvedl Zdeněk Hradecký z krajské Správy a údržby silnic.
 
-Místo stávajících 18 tun, jak značí cedule, budou smět na most vjet kamiony vážící maximálně 6,8 tuny. V případě jediného vozidla jde o snížení z 28 na 18 tun. Omezení může komplikovat situaci těžkotonážní dopravě jako při nedávné uzavírce, a to třeba i pro boskovické podniky. Zatím není jasné, kdy přesně se nové omezující značky objeví, ale nejspíš brzy, změna už se vyřizuje.
+Místo stávajících 18 tun, jak značí cedule, budou smět na most vjet kamiony vážící maximálně 6,8 tuny. V případě soupravy jde o snížení z 28 na 18 tun, jak značí dodatková tabulka. Omezení může komplikovat situaci těžkotonážní dopravě jako při nedávné uzavírce, a to třeba i pro boskovické podniky. Zatím není jasné, kdy přesně se nové omezující značky objeví, ale nejspíš brzy, změna už se vyřizuje.
 
 Už před dvěma lety se v souvislosti s velkou rekonstrukcí a uzavírkou ozývaly připomínky, proč se most také neopraví. I kvůli dlouhým objížďkám, které měřily čtyřiadvacet a třicet kilometrů. „Také jsem se na to ptal, ale už si přesně nepamatuji, co mi odpověděli. Buď že nejsou peníze, nebo že most ještě vydrží,“ vzpomíná současný místostarosta Lukáš Holík (ANO), který má dnes na starost dopravu.
 
