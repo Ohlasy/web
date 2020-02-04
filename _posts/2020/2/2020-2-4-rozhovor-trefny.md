@@ -49,7 +49,7 @@ Pragmatický konzervativec, liberálně-ekonomický. Obdivuju pragmatismus pán�
 
 **Kdy jste z ODS přesně odešel?**
 
-Podtrhly do církevní restituce. S těmi jsem se neztotožnil a nikdy se neztotožním.
+Podtrhly to církevní restituce. S těmi jsem se neztotožnil a nikdy se neztotožním.
 
 **Odešel jste tedy z důvodů celostátní politiky? S místní buňkou ODS jste nebyl v konfliktu?**
 
@@ -61,7 +61,7 @@ Jo, vnímám. Po antiplastovém sněmu a chování pana Fialy to můžu jen pode
 
 **Vyčítáte lidem, co v boskovické ODS zůstali, že pokračují?**
 
-Rozhodně ne. To v žádném případě. Místní úroveň je známe se, žijeme spolu. Hrozně se mi líbí slova nebožtíka Kubery: v politice se posekejme, ale pojďme na pivo.
+Rozhodně ne. To v žádném případě. Místní úroveň je: známe se, žijeme spolu. Hrozně se mi líbí slova nebožtíka Kubery: v politice se posekejme, ale pojďme na pivo.
 
 **Jak návštěva předsedy Trikolóry v Boskovicích zarezonovala? Zvedlo to zájem o místní sdružení?**
 
@@ -215,7 +215,7 @@ To se všechno rozhodne na krajské radě, která bude příští měsíc. Jsme 
 
 **Máte už lídra?**
 
-Ještě není vybraný. To se všechno bude rozhodovat. Času moc není. Je to taky hodně o financích. Když jsem před skoro 30 lety začínal s ODS, neřešily se peníze, řešili jsme to, že doopravdy chceme něco změnit. A že chceme po těch letech nesvobody jít jinou cestou, než šli předtím komanči. Měl jsem možná nějaké osobní důvody vůči rudochům, ale šlo se do toho s nadšením. Dnes už to nejde, pokud strana či hnutí nemají určité finance za sebou, tak je to hrozně těžký začátek. Momentálně se budeme bavit o tom, že krajské volby budou pro vznikající stranu velká ekonomická zátěž. A jk už jsem řekl na začátku, krajské volby jsou lakmusový papírek parlamentních voleb. 
+Ještě není vybraný. To se všechno bude rozhodovat. Času moc není. Je to taky hodně o financích. Když jsem před skoro 30 lety začínal s ODS, neřešily se peníze, řešili jsme to, že doopravdy chceme něco změnit. A že chceme po těch letech nesvobody jít jinou cestou, než šli předtím komanči. Měl jsem možná nějaké osobní důvody vůči rudochům, ale šlo se do toho s nadšením. Dnes už to nejde, pokud strana či hnutí nemají určité finance za sebou, tak je to hrozně těžký začátek. Momentálně se budeme bavit o tom, že krajské volby budou pro vznikající stranu velká ekonomická zátěž. A jak už jsem řekl na začátku, krajské volby jsou lakmusový papírek parlamentních voleb. 
 
 **Nebojíte se, že kdyby v nich Trikolóra nebyla, tak by i pro parlamentní volby vypadala, že tady není?**
 
