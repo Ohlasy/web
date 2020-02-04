@@ -1,5 +1,5 @@
 ---
-title: „Trikolóra je moje poslední šance na normální svět“
+title: „Trikolóra je moje poslední šance na normální svět.“
 cover-photo: https://i.ohlasy.info/i/5f2bd3f7.jpeg
 perex: Rozhovor s Karlem Trefným, předsedou nově vzniklého místního sdružení politického hnutí Trikolóra v Boskovicích. Byl zakládajícím a dlouholetým členem boskovické ODS, nyní se rozhodl opět aktivně vstoupit do politiky.
 author: Tomáš Trumpeš
