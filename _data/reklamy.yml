@@ -13,6 +13,11 @@
   alt: Oslavte s námi naše narozeniny
   url: https://www.facebook.com/events/565809884003833/
   priority: 900
+- name: Kino
+  image: https://i.ohlasy.info/i/1cb3f805.png
+  alt: "National Theatre Live: Audience"
+  url: https://www.kulturaboskovice.cz/kino/akce/audience
+  priority: 800
 - name: Zdeněk Bína
   image: https://i.ohlasy.info/i/ecd2e0d5.png
   alt: Zdeněk Bína v Prostoru
