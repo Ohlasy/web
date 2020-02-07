@@ -39,7 +39,7 @@ KATKA: Odešli vždycky kvůli škole. Eva šla studovat klavír na konzervatoř
 
 JIRKA: Náš kamarád David Liber, který s námi hrál od začátku, se chtěl vydat jinou cestou. Chtěl hrát více jazzové věci, což jsme nechtěli zase my, tak v začátkem roku 2017 odešel. A to nám pak Martin zase pomohl, dohodil nám Matyáše Plcha a před dvěma lety přišla Anička Oujeská. Tak doufám, že nám tato sestava, kdy hrajeme v pěti lidech, vydrží co nejdéle. Ono se nám to teď všechno krásně doplňuje, sestra hraje hlavně na klarinet, občas na irskou flétnu, do toho stepuje. Anička hraje na housle a kytaru, Matyáš na baskytaru, já na mandolínu, akustickou i elektrickou kytaru, banjo a ukulele, Eliška na zobcovou flétnu a elektroakustickou kytaru a kromě Matyáše všichni zpíváme.
 
-{% photo src="https://i.ohlasy.info/i/9278d182.jpg" caption="Pružiny kolem roku 2011" %}
+{% photo src="https://i.ohlasy.info/i/9278d182.jpg" caption="Pružiny kolem roku 2011" author="archiv kapely" %}
 
 **Jaký styl hudby hrajete?**
 
@@ -97,7 +97,7 @@ JJ: Kontaktují nás, anebo my sami víme, kde je jaká akce, tak se ozveme a on
 
 KATKA: Nejvíce nám pomáhá naše mamka, to je taková naše manažerka. Domlouvá akce, všude nás vozí, ale můžu říct, že poslední rok si nás lidé nacházejí sami, což mě vždy překvapí a mám z toho radost.
 
-{% photo src="https://i.ohlasy.info/i/7635100a.jpg" caption="Pružiny na Mandolinovém festivalu v roce 2017" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5280758d.jpg" caption="Pružiny v současné sestavě" author="archiv kapely" %}
 
 **Míváte i po těch letech při hraní trému?**
 
