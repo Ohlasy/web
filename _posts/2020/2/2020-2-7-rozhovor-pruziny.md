@@ -59,7 +59,7 @@ JIRKA: Jak co. Máme písničky, které jsme hráli jednou na oslavě narozenin 
 
 **Zpíváte česky a anglicky, nebo i v jiných jazycích?**
 
-KATKA: Nejvíc česky. Jirka anglicky neumí, sice se danou píseň naučí, ale i tak raději volíme hlavně české písničky. Já sama nemám ráda, když čeští autoři zpívají anglické písničky. Nevidím k tomu důvod. My hrávali ze začátku spíše pro publikum ve věku našich rodičů nebo pro děti, tak mi přišlo zbytečné takové písničky hrát. 
+KATKA: Nejvíc česky, vybíráme si hlavně české písničky. Já sama nemám ráda, když čeští autoři zpívají anglické písničky. Nevidím k tomu důvod. My hrávali ze začátku spíše pro publikum ve věku našich rodičů nebo pro děti, tak mi přišlo zbytečné takové písničky hrát. 
 
 JIRKA: Mně se vůbec nelíbí, pokud Češi skládají písně v angličtině. Není mi to vůbec blízké.
 
