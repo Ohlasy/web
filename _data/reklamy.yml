@@ -8,20 +8,10 @@
   alt: Festival Boskovice 2020
   url: https://www.boskovice-festival.cz/cs/ucinkujici
   priority: 900
-- name: Pět let Ohlasů
-  image: https://i.ohlasy.info/i/9e0a5d9f.png
-  alt: Oslavte s námi naše narozeniny
-  url: https://www.facebook.com/events/565809884003833/
-  priority: 900
 - name: Kino
   image: https://i.ohlasy.info/i/1cb3f805.png
   alt: "National Theatre Live: Audience"
   url: https://www.kulturaboskovice.cz/kino/akce/audience
-  priority: 800
-- name: Zdeněk Bína
-  image: https://i.ohlasy.info/i/ecd2e0d5.png
-  alt: Zdeněk Bína v Prostoru
-  url: https://www.facebook.com/events/171300297476207/
   priority: 800
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
