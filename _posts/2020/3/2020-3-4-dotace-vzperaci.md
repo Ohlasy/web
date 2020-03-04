@@ -23,7 +23,7 @@ Jak ale vyšlo najevo, na letošní olympijské hry v Tokiu nepojede a nejel ani
 
 „To měl všechno zkontrolovat reprezentační trenér,“ hájí sportovce Čestmír Sekanina. Neúčastí na mistrovství v Thajsku se však Marečkovi zároveň zavřely dveře i na zmiňované olympijské hry.
 
-Sám Petr Mareček reagoval slovy, že neví, proč v Thajsku nereprezentoval Českou republiku. „Až vypátráte důvod, rád si ho poslechnu, mně bohužel nebyl sdělen, ale také by mě zajímal, když se závodu účastnili mnohem slabší závodníci z České republiky,“ uvedl.
+Sám Petr Mareček reagoval slovy, že neví, proč v Thajsku nereprezentoval Českou republiku. „Až vypátráte důvod, rád si ho poslechnu, mně bohužel nebyl sdělen, ale také by mě zajímal, když se závodu účastnili mnohem slabší závodníci z České republiky,“ uvedl. A vyjádření šéfa vzpěračského svazu rozporuje. „Zpráva od pana Krola není pravdivá. Z mistrovství světa v Thajsku jsem byl vyškrtnut bezdůvodně i přesto, že jsem měl vše v pořádku. Problém s ADAMS jsem sice měl, ale až před mistrovstvím Evropy juniorů do 23 let, kde jsem byl vyřazen společně s dalšími asi čtyřiceti závodníky, v mém případě z důvodu asi deseti chybějících dnů v nepřehledném systémum,“ reagoval Petr Mareček.
 
 Čestmír Sekanina však o neúčasti na světovém šampionátu musel vědět už při podpisu smlouvy týkající se dotace. Tu totiž s boskovickým starostou Jaroslavem Dohnálkem (ODS) podepsal 24. září, tedy několik dní po startu světového šampionátu, kam Petr Mareček nakonec neletěl.
 
