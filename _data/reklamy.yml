@@ -8,6 +8,11 @@
   alt: Festival Boskovice 2020
   url: https://www.boskovice-festival.cz/cs/ucinkujici
   priority: 900
+- name: Jeden svět
+  image: https://i.ohlasy.info/i/43cc7b20.png
+  alt: Jeden svět 2020
+  url: https://www.kulturaboskovice.cz/kino/cykly-festivaly/jeden-svet
+  priority: 900
 - name: Archeologická vycházka
   image: https://i.ohlasy.info/i/d409a9ae.png
   alt: Archeologická vycházka
