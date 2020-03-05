@@ -8,6 +8,11 @@
   alt: Festival Boskovice 2020
   url: https://www.boskovice-festival.cz/cs/ucinkujici
   priority: 900
+- name: Archeologická vycházka
+  image: https://i.ohlasy.info/i/d409a9ae.png
+  alt: Archeologická vycházka
+  url: http://www.muzeum-boskovicka.cz/prirodovedne-archeologicka-vychazka-na-vejstici-a-do-mojetinskeho-krasu/a-1306/p1=1098
+  priority: 800
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast.html
