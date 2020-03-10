@@ -10,6 +10,14 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
+Informace postupně doplňujeme, poslední aktualizace proběhla v úterý 10. března v 15.40. Ve středu bude zasedat bezpečnostní rada města, respektive celého území ORP, o výsledcích jejího jednání budeme rovněž informovat. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387)
+
+Podle vyjádření starosty Boskovic Jaroslava Dohnálka je možné, že bezpečnostní rada ještě některá opatření změní. Poměrně jasná je situace u škol a v nemocnici, řeší se především podoba akcí a provoz některých zařízení. Vedení města se proto obrátilo s několika doplňujícími dotazy na hygieniky a konzultuje postup také s představiteli dalších měst.
+
+Je proto možné, že nakonec oproti aktuálním plánům dojde kupříkladu k úplnému uzavření kina a městských lázní, nejen ke snížení kapacity.
+
+### Nemocnice
+
 Zákaz návštěv v Nemocnici Boskovice je na rozdíl od vládního nařízení kompletní. Nepočítá tedy s výjimkami pro porodní oddělení či návštěvami dětských pacientů. „Nejsme pavilonová nemocnice, lidé se tady prolínají,“ vysvětlil jednatel nemocnice Dan Štěpánský, že riziko šíření infekce by zde bylo vyšší. V případě pacientů ve velmi vážném stavu si dovede představit udělení individuální výjimky po dohodě s vedoucím pracovníkem daného oddělení.
 
 Jednatel nemocnice dále zdůraznil, že nemocnice neprovádí vyšetření na koronavirus. „Proto vás zdvořile prosíme, nechoďte k nám s požadavky na odběry nutné pro stanovení této infekce, zamezíte tak možným komplikacím našeho provozu, eventuálně ohrožení hospitalizovaných pacientů. V případě jakýchkoliv dotazů ohledně tohoto vyšetření kontaktujte telefonicky svého praktického lékaře nebo tísňovou linku 112. K dispozici je zároveň infolinka Státního zdravotního ústavu pro kohokoliv, kdo se potřebuje poradit v souvislosti s koronavirem, a to na číslech: 724 810 106 a 725 191 367,“ uvádějí ve společném prohlášení jednatel nemocnice Dan Štěpánský a ústavní hygienička Iva Šamšulová.
@@ -40,7 +48,4 @@ Omezení se týkají také sportovišť. Podle vyjádření ředitele Služeb Mi
 
 ### Náboženská setkání
 
-Zákaz se týká také akcí náboženské povahy. V Boskovicích se dotkne především katolické církve, neboť na mších se schází více než sto lidí. Faráře Miroslava Šudomu jsme zastihli mimo Boskovice, opatření připraví po návratu a informaci doplníme. 
-Boskovičtí evangelíci se scházejí v menším počtu, přesto podle faráře Jiřího Bureše zvažují některá opatření, jako scházet se bez podávání rukou či doporučit starším lidem, aby zůstali doma a bohoslužby s kázáním jim nahrávat.
-
-*Text budeme průběžně aktualizovat novými informacemi, poslední aktualizace proběhla v úterý 10. března v 15.25. Můžete sledovat také [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
+Zákaz se týká také akcí náboženské povahy. V Boskovicích se dotkne především katolické církve, neboť na mších se schází více než sto lidí. Faráře Miroslava Šudomu jsme zastihli mimo Boskovice, opatření připraví po návratu a informaci doplníme.
