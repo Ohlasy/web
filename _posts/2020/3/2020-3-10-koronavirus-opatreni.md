@@ -11,7 +11,7 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
-*Informace postupně doplňujeme, poslední aktualizace proběhla v úterý 10. března v 15.40. Ve středu bude zasedat bezpečnostní rada města, respektive celého území ORP, o výsledcích jejího jednání budeme rovněž informovat. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
+*Informace postupně doplňujeme, poslední aktualizace proběhla v úterý 10. března v 15.55. Ve středu bude zasedat bezpečnostní rada města, respektive celého území ORP, o výsledcích jejího jednání budeme rovněž informovat. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
 
 *Podle vyjádření starosty Boskovic Jaroslava Dohnálka je možné, že bezpečnostní rada ještě některá opatření změní. Poměrně jasná je situace u škol a v nemocnici, řeší se především podoba akcí a provoz některých zařízení. Vedení města se proto obrátilo s několika doplňujícími dotazy na hygieniky a konzultuje postup také s představiteli dalších měst.*
 
@@ -30,6 +30,8 @@ Ke kompletnímu zákazu návštěv museli po rozhodnutí Bezpečnostní rady st�
 Uzavřeny jsou do odvolání také všechny základní a střední školy, opatření se týká také základní umělecké školy a Střediska volného času. Podle ředitele boskovické základní školy Vladimíra Ochmanského to ale neznamená, že by vzdělávání žáků úplně ustalo. Do školy nesmí děti, ale na učitele se volno nevztahuje a mají k dispozici software, pomocí kterého můžou s dětmi komunikovat a alespoň takto pokračovat ve výuce. „Dá se tam udělat docela dost věcí, záleží na jednotlivých učitelích, jak se toho chopí. My je budeme samozřejmě motivovat, aby se toho chopili aktivně,“ vysvětlil ředitel. Další informace bude škola zveřejňovat na webu a portálu Edupage.
 
 Fungovat bude nadále mateřská škola. „Provoz neuzavíráme, záleží na rodičích, jestli nechají děti doma,“ uvedla ředitelka Dagmar Burianová. Podle té není nutné přijímat ani žádná speciální hygienická opatření, protože ta dodržují v mateřské škole běžně. Ruší pouze účast na některých akcích a fungovat budou spíše v obyčejném režimu.
+
+„V souvislosti s uzavřením všech základních, středních a vysokých škol bude s platností od čtvrtka 12. března do odvolání provoz na všech regionálních linkách IDS JMK veden podle jízdních řádů, které platily o jarních prázdninách. Omezení se tak týká prakticky pouze posilových školních spojů. Opatření se netýká linek 1 až 99 ve městě Brně,“ uvedla krajská tisková mluvčí Monika Brindzáková.
 
 ### Kulturní akce
 
