@@ -2,6 +2,7 @@
 title: "Z radnice: opatření ke koronaviru, podpora sociálních služeb a zvýšení nájemného"
 cover-photo: https://i.ohlasy.info/i/sckaliu.jpg
 perex: Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku března.
+date: 2020-3-10 10:00:00
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
