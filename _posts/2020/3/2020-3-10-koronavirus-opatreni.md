@@ -10,7 +10,7 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
-Informace postupně doplňujeme, poslední aktualizace proběhla v úterý 10. března v 15.40. Ve středu bude zasedat bezpečnostní rada města, respektive celého území ORP, o výsledcích jejího jednání budeme rovněž informovat. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387)
+Informace postupně doplňujeme, poslední aktualizace proběhla v úterý 10. března v 15.40. Ve středu bude zasedat bezpečnostní rada města, respektive celého území ORP, o výsledcích jejího jednání budeme rovněž informovat. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).
 
 Podle vyjádření starosty Boskovic Jaroslava Dohnálka je možné, že bezpečnostní rada ještě některá opatření změní. Poměrně jasná je situace u škol a v nemocnici, řeší se především podoba akcí a provoz některých zařízení. Vedení města se proto obrátilo s několika doplňujícími dotazy na hygieniky a konzultuje postup také s představiteli dalších měst.
 
