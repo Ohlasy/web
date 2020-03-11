@@ -21,6 +21,6 @@ Tentokrát proběhly ve škole po [intenzivních stížnostech](https://ohlasy.i
 
 „K tomuto kroku jsme přistoupili na základě dvou hodnocení práce paní ředitelky ze strany inspektorátu práce a školní inspekce a z důvodu dlouhodobé špatné pracovní atmosféry na škole. Ani při osobním pohovoru nebyla paní Matušková schopna navrhnout jakékoliv řešení nastalé situace,“ řekla radní pro školstvím Jana Pejchalová (ANO).
 
-Odvolání bylo ředitelce Stanislavě Matuškové podle informací z kraje doručeno v úterý 10. března. V patnáctidenní lhůtě protokolárně předá své zástupkyni vše, co souvisí s výkonem funkce ředitelky, a Jihomoravský připraví  a vyhlásí konkurzní řízení na obsazení pozice ředitele základní umělecké školy. Zástupkyně ředitelky povede školu do doby jmenování nového ředitele či ředitelky.
+Odvolání bylo ředitelce Stanislavě Matuškové podle informací z kraje doručeno v úterý 10. března. V patnáctidenní lhůtě protokolárně předá své zástupkyni vše, co souvisí s výkonem funkce ředitelky, a Jihomoravský kraj připraví  a vyhlásí konkurzní řízení na obsazení pozice ředitele základní umělecké školy. Zástupkyně ředitelky povede školu do doby jmenování nového ředitele či ředitelky.
 
 Vyjádření odvolané ředitelky se pokoušíme získat. Zástupci stěžovatelů, kteří o odvolání usilovali, zatím rozhodnutí komentovat nechtěli.
