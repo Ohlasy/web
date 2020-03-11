@@ -11,11 +11,22 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
-*Informace postupně doplňujeme, poslední aktualizace proběhla v úterý 10. března v 16.02. Ve středu bude zasedat bezpečnostní rada města, respektive celého území ORP, o výsledcích jejího jednání budeme rovněž informovat. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
+*Informace postupně doplňujeme, poslední aktualizace proběhla ve středu 11. března v 15.05. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
 
-*Podle vyjádření starosty Boskovic Jaroslava Dohnálka je možné, že bezpečnostní rada ještě některá opatření změní. Poměrně jasná je situace u škol a v nemocnici, řeší se především podoba akcí a provoz některých zařízení. Vedení města se proto obrátilo s několika doplňujícími dotazy na hygieniky a konzultuje postup také s představiteli dalších měst.*
+### Aktuální situace
 
-*Je proto možné, že nakonec oproti aktuálním plánům dojde kupříkladu k úplnému uzavření kina a městských lázní, nejen ke snížení kapacity.*
+Ve středu 11. března zasedala od 11 hodin bezpečnostní rada města pro [ORP Boskovice](https://cs.wikipedia.org/wiki/Obvod_obce_s_rozš%C3%ADřenou_působnost%C3%AD_Boskovice), tedy severní polovinu okresu Blansko. Bezpečnostní rada se nakonec rozhodla nepřijímat žádná významná opatření nad rámec nařízení bezpečnostní rady státu. „Největší debata byla o kině, lázních a školkách,“ uvedl starosta Jaroslav Dohnálek. Nakonec ale zůstalo u toho, že boskovické kino bude fungovat v omezeném kapacitním režimu do 90 návštěvníků. Přísnější jsou v Blansku, kde kino uzavřeli úplně. Podobně se bezpečnostní rady obou měst rozhodly ponechat v kapacitně omezeném provozu lázně.
+
+Fungovat bude nadále i mateřská škola, jejíž provoz stát nezakázal, ale ministr školství nabádá zřizovatele ke zvážení situace. Svou roli hrálo i to, že zavření školek by znamenalo odliv pečujících rodičů z důležitých zaměstnání, kupříkladu z nemocncice. Ani z okolních obcí nejsou informace, že by některá z nich chtěla zavírat mateřskou školu.
+
+Standardní otvírací hodiny zatím zůstávají také na městském úřadě, pouze bude navýšena četnost úklidu s vyšším důrazem na dezinfekci. Na radnici také zjišťují, jak moc se úřadu dotkne odchod lidí, kteří budou muset zůstat doma s dětmi. „Zatím jsme k žádnému omezení nepřistoupili,“ sdělil starosta.
+Zrušen byl ples města a KZMB, pro všechny akce i kino platí omezení do 100 osob. Stejný režim je tedy v lázních a na zimním stadionu.
+
+Ruší se zahájení turistické sezóny, které mělo proběhnout v Boskovicích 5. dubna. Dále se ruší setkání s veřejností na téma odpady, to mělo být 19. března. Dále se ruší konání farmářských i běžných trhů. Pracovníci obřadní síně i matrik byli informováni, že omezení do 100 osob se týká i pohřbů a svateb.
+
+Bezpečnostní rada města bude situaci dál monitorovat a v případě potřeby se sejde už příští týden, uvedená opatření se tedy mohou změnit. „Po týdnu chceme vyhodnotit to kino a vnější situaci,“ vyjádřil se starosta Jaroslav Dohnálek. Bezpečnostní rada města neměla ani žádné informace o tom, že by se teď někdo z obyvatel bezprostředně vrátil z Itálie a byl v karanténě. „Musíme reagovat na situaci, jaká je. Na rozdíl o jiných měst jsme zatím ke zpřísnění restrikce nesáhli,“ uzavřel mimořádnou tiskovou konferenci po jednání bezpečnostní rady města Jaroslav Dohnálek.
+
+První dva případy nákazy už Jihomoravský kraj zaznamenal. Jde o muže a ženu, kteří se 8. března vrátili z Itálie. Od svého příjezdu byli v karanténě.
 
 ### Nemocnice
 
@@ -27,7 +38,7 @@ Ke kompletnímu zákazu návštěv museli po rozhodnutí Bezpečnostní rady st�
 
 ### Školy
 
-Uzavřeny jsou do odvolání také všechny základní a střední školy, opatření se týká také základní umělecké školy a Střediska volného času. Podle ředitele boskovické základní školy Vladimíra Ochmanského to ale neznamená, že by vzdělávání žáků úplně ustalo. Do školy nesmí děti, ale na učitele se volno nevztahuje a mají k dispozici software, pomocí kterého můžou s dětmi komunikovat a alespoň takto pokračovat ve výuce. „Dá se tam udělat docela dost věcí, záleží na jednotlivých učitelích, jak se toho chopí. My je budeme samozřejmě motivovat, aby se toho chopili aktivně,“ vysvětlil ředitel. Další informace bude škola zveřejňovat na webu a portálu Edupage.
+Uzavřeny jsou do odvolání také všechny základní a střední školy, opatření se týká také základní umělecké školy a Střediska volného času a své dětské kluby zavře též [letovická neziskovka ELIM](https://www.facebook.com/ElimLetovice/photos/a.558898044143284/3207428845956844/?type=3&theater). Podle ředitele boskovické základní školy Vladimíra Ochmanského to ale neznamená, že by vzdělávání žáků úplně ustalo. Do školy nesmí děti, ale na učitele se volno nevztahuje a mají k dispozici software, pomocí kterého můžou s dětmi komunikovat a alespoň takto pokračovat ve výuce. „Dá se tam udělat docela dost věcí, záleží na jednotlivých učitelích, jak se toho chopí. My je budeme samozřejmě motivovat, aby se toho chopili aktivně,“ vysvětlil ředitel. Další informace bude škola zveřejňovat na webu a portálu Edupage.
 
 Fungovat bude nadále mateřská škola. „Provoz neuzavíráme, záleží na rodičích, jestli nechají děti doma,“ uvedla ředitelka Dagmar Burianová. Podle té není nutné přijímat ani žádná speciální hygienická opatření, protože ta dodržují v mateřské škole běžně. Ruší pouze účast na některých akcích a fungovat budou spíše v obyčejném režimu.
 
@@ -51,6 +62,8 @@ Omezení se týkají také sportovišť. Podle vyjádření ředitele Služeb Mi
 
 ### Náboženská setkání
 
-Zákaz se týká také akcí náboženské povahy. V Boskovicích se dotkne především katolické církve, neboť na mších se schází více než sto lidí. Faráře Miroslava Šudomu jsme zastihli mimo Boskovice, opatření připraví po návratu a informaci doplníme.
+Zákaz se týká také akcí náboženské povahy. Katolické bohoslužby budou v Boskovicích pravidelné. Na jejich pořadu se nic nemění. „Ve všední den zpravidla počet účastníků nepřesahuje 100 osob. Zde se tedy nic nemění. Na sobotní a nedělní bohoslužbě bude moci být přítomno celkem 100 osob. Proto kdo přijde dříve, bude mít místo v kostele. Další budou moci sledovat bohoslužbu na faře, zde také budou moci přijmout svaté přijímání,“ uvádí na [webu farnosti](https://boskovice.farnost.cz/) farář Miroslav Šudoma.
+
+Po dobu trvání mimořádných opatření brněnský biskup uděluje v brněnské diecézi dispens od osobní účasti na nedělní bohoslužbě. A z preventivních důvodů vyzývá osoby starší 60 let, aby zvážily svou účast na mši svaté v neděli. Osobám starším 70 let důrazně doporučuje zůstat doma a sledovat mši svatou v televizi Noe nebo poslouchat na radiu Proglas. Dále biskup vybízí k domácí četbě Písma, k modlitbám, ke společnému sledování přenosů bohoslužeb. „Ti, kdo mají oslabenou imunitu nebo jsou nachlazeni, případně po nemoci, ať též zůstanou doma a obdobně jako starší generace využijí mediálních prostředků k účasti na mši svaté,“ píše v doporučení brněnský biskup.
 
 Boskovičtí evangelíci se scházejí v menším počtu, přesto podle faráře Jiřího Bureše zvažují některá opatření, jako scházet se bez podávání rukou či doporučit starším lidem, aby zůstali doma a bohoslužby s kázáním jim nahrávat, kdyby se situace zhoršila.
