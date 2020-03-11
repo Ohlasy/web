@@ -19,7 +19,7 @@ Problémy na škole se však řešily už před několika lety, kdy ze školy od
 
 Tentokrát proběhly ve škole po [intenzivních stížnostech](https://ohlasy.info/clanky/2019/12/sikana-zus.html) hlubší inspekce, které [potvrdily problémy](https://ohlasy.info/clanky/2020/01/zus-inspekce.html) jak v lidské atmosféře ve škole, tak konkrétní pochybení v řízení školy. Výsledkem je odvolání ředitelky z jejího postu.
 
-„K tomuto kroku jsme přistoupili na základě dvou hodnocení práce paní ředitelky ze strany inspektorátu práce a školní inspekce a z důvodu dlouhodobé špatné pracovní atmosféry na škole. Ani při osobním pohovoru nebyla paní Matušková schopna navrhnout jakékoliv řešení nastalé situace,“ řekla radní pro školstvím Jana Pejchalová (ANO).
+„K tomuto kroku jsme přistoupili na základě dvou hodnocení práce paní ředitelky ze strany inspektorátu práce a školní inspekce a z důvodu dlouhodobé špatné pracovní atmosféry na škole. Ani při osobním pohovoru nebyla paní Matušková schopna navrhnout jakékoliv řešení nastalé situace,“ řekla radní pro školství Jana Pejchalová (ANO).
 
 Odvolání bylo ředitelce Stanislavě Matuškové podle informací z kraje doručeno v úterý 10. března. V patnáctidenní lhůtě protokolárně předá své zástupkyni vše, co souvisí s výkonem funkce ředitelky, a Jihomoravský kraj připraví  a vyhlásí konkurzní řízení na obsazení pozice ředitele základní umělecké školy. Zástupkyně ředitelky povede školu do doby jmenování nového ředitele či ředitelky.
 
