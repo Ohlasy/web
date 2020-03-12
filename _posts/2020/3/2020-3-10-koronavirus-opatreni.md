@@ -11,7 +11,7 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
-*Informace postupně doplňujeme, poslední aktualizace proběhla ve čtvrtek 12. března ve 14.15. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
+*Informace postupně doplňujeme, poslední aktualizace proběhla ve čtvrtek 12. března ve 15.35. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
 
 ### Aktuální situace
 
@@ -46,26 +46,6 @@ Fungovat bude nadále mateřská škola. „Provoz neuzavíráme, záleží na r
 
 „V souvislosti s uzavřením všech základních, středních a vysokých škol bude s platností od čtvrtka 12. března do odvolání provoz na všech regionálních linkách IDS JMK veden podle jízdních řádů, které platily o jarních prázdninách. Omezení se tak týká prakticky pouze posilových školních spojů. Opatření se netýká linek 1 až 99 ve městě Brně,“ uvedla krajská tisková mluvčí Monika Brindzáková.
 
-### Kulturní akce
+### Akce
 
-Na devadesát lidí omezí kapacitu všech svých akcí Kulturní zařízení města Boskovice. Týká se to jak akcí ve skleníku a v sokolovně, tak projekcí v kině Panorama. Zbylých deset lidí do sta je rezerva pro personál, aby se na akci bezpečně nepřekročil stanovený limit. Neproběhne festival Jeden svět v kině, ale to z toho důvodu, že ho pořadatelé [zrušili v celé České republice](https://www.jedensvet.cz/2020/novinky/652-festival-jeden-svet-2020-je-do-odvolani-prerusen).
-
-„Knihovna nemá žádné omezení,“ doplnil informace ředitel KZMB Oldřich Kovář. V knihovně se nenakumuluje sto lidí naráz, takže pod opatření nespadá.
-
-Muzeum regionu Boskovicka zrušilo vernisáž výstavy rané tvorby Alfonse Muchy. Od pátku 13. března je muzeum pro veřejnost uzavřeno.
-
-Odloženo bude otevření památek, které spravuje Národní památkový ústav. V regionu se to týká Lysic, Kunštátu a Rájce nad Svitavou. „V návaznosti na aktuální nařízení vlády Národní památkový ústav do odvolání uzavírá památkové objekty s celoročním provozem a odkládá zahájení hlavní návštěvnické sezóny na neurčito,“ zní prohlášení památkářů.
-
-Boskovický hrad a zámek jsou v soukromých rukou rodiny Mensdorff-Pouilly. Podle vyjádření kastelána Milana Vaněrka mají v březnu ještě zavřeno a v dubnu provádějí jen předem objednané skupiny. „Ty zatím nerušíme, čekáme, jak se situace vyvine,“ vysvětlil kastelán. Plná sezóna začíná až v květnu, takže na rozhodnutí mají v Boskovicích ještě dost času.
-
-### Sport
-
-Omezení se týkají také sportovišť. Podle vyjádření ředitele Služeb Milana Stryi budou nyní na zimním stadionu i v lázních hlídat, aby se zde nevyskytovalo více než sto lidí naráz. Podle vyjádření fotbalové asociace se budou konat fotbalová utkání, ale pořadatelé musí rovněž zajistit, aby se zde neshromáždilo více lidí. Podobný postup se předpokládá i u hokeje.
-
-### Náboženská setkání
-
-Zákaz se týká také akcí náboženské povahy. Katolické bohoslužby budou v Boskovicích pravidelné. Na jejich pořadu se nic nemění. „Ve všední den zpravidla počet účastníků nepřesahuje 100 osob. Zde se tedy nic nemění. Na sobotní a nedělní bohoslužbě bude moci být přítomno celkem 100 osob. Proto kdo přijde dříve, bude mít místo v kostele. Další budou moci sledovat bohoslužbu na faře, zde také budou moci přijmout svaté přijímání,“ uvádí na [webu farnosti](https://boskovice.farnost.cz/) farář Miroslav Šudoma.
-
-Po dobu trvání mimořádných opatření brněnský biskup uděluje v brněnské diecézi dispens od osobní účasti na nedělní bohoslužbě. A z preventivních důvodů vyzývá osoby starší 60 let, aby zvážily svou účast na mši svaté v neděli. Osobám starším 70 let důrazně doporučuje zůstat doma a sledovat mši svatou v televizi Noe nebo poslouchat na radiu Proglas. Dále biskup vybízí k domácí četbě Písma, k modlitbám, ke společnému sledování přenosů bohoslužeb. „Ti, kdo mají oslabenou imunitu nebo jsou nachlazeni, případně po nemoci, ať též zůstanou doma a obdobně jako starší generace využijí mediálních prostředků k účasti na mši svaté,“ píše v doporučení brněnský biskup.
-
-Boskovičtí evangelíci se scházejí v menším počtu, přesto podle faráře Jiřího Bureše zvažují některá opatření, jako scházet se bez podávání rukou či doporučit starším lidem, aby zůstali doma a bohoslužby s kázáním jim nahrávat, kdyby se situace zhoršila.
+Po rozhodnutí vlády o vyhlášení nouzového stavu jsou kompletně uzavřena také boskovická sportoviště, kino, knihovna, muzeum a zrušeny jsou i další kulturní akce. Podrobnosti o konání či průběhu náboženských setkání zjišťujeme.
