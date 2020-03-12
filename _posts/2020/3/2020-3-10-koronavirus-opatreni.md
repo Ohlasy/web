@@ -11,7 +11,7 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
-*Informace postupně doplňujeme, poslední aktualizace proběhla ve středu 11. března v 15.05. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
+*Informace postupně doplňujeme, poslední aktualizace proběhla ve čtvrtek 12. března ve 14.15. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
 
 ### Aktuální situace
 
