@@ -50,7 +50,7 @@ Na devadesát lidí omezí kapacitu všech svých akcí Kulturní zařízení m�
 
 „Knihovna nemá žádné omezení,“ doplnil informace ředitel KZMB Oldřich Kovář. V knihovně se nenakumuluje sto lidí naráz, takže pod opatření nespadá.
 
-Situace se zatím příliš nedotýká ani muzea. Proběhnout by měla ve čtvrtek vernisáž výstavy rané tvorby Alfonse Muchy. Podle PR manažerky muzea Dagmar Hamalové vernisáže nenavštěvuje více než sto lidí, omezeny nebudou muset být ani další plánované akce a běžný provoz muzea.
+Muzeum regionu Boskovicka zrušilo vernisáž výstavy rané tvorby Alfonse Muchy. Od pátku 13. března je muzeum pro veřejnost uzavřeno.
 
 Odloženo bude otevření památek, které spravuje Národní památkový ústav. V regionu se to týká Lysic, Kunštátu a Rájce nad Svitavou. „V návaznosti na aktuální nařízení vlády Národní památkový ústav do odvolání uzavírá památkové objekty s celoročním provozem a odkládá zahájení hlavní návštěvnické sezóny na neurčito,“ zní prohlášení památkářů.
 
