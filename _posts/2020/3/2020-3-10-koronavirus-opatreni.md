@@ -20,7 +20,7 @@ Ve středu 11. března zasedala od 11 hodin bezpečnostní rada města pro [ORP 
 Fungovat bude nadále i mateřská škola, jejíž provoz stát nezakázal, ale ministr školství nabádá zřizovatele ke zvážení situace. Svou roli hrálo i to, že zavření školek by znamenalo odliv pečujících rodičů z důležitých zaměstnání, kupříkladu z nemocncice. Ani z okolních obcí nejsou informace, že by některá z nich chtěla zavírat mateřskou školu.
 
 Standardní otvírací hodiny zatím zůstávají také na městském úřadě, pouze bude navýšena četnost úklidu s vyšším důrazem na dezinfekci. Na radnici také zjišťují, jak moc se úřadu dotkne odchod lidí, kteří budou muset zůstat doma s dětmi. „Zatím jsme k žádnému omezení nepřistoupili,“ sdělil starosta.
-Zrušen byl ples města a KZMB, pro všechny akce i kino platí omezení do 100 osob. Stejný režim je tedy v lázních a na zimním stadionu.
+Zrušen byl ples národohospodářské školy, pro všechny akce i kino platí omezení do 100 osob. Stejný režim je tedy v lázních a na zimním stadionu.
 
 Ruší se zahájení turistické sezóny, které mělo proběhnout v Boskovicích 5. dubna. Dále se ruší setkání s veřejností na téma odpady, to mělo být 19. března. Dále se ruší konání farmářských i běžných trhů. Pracovníci obřadní síně i matrik byli informováni, že omezení do 100 osob se týká i pohřbů a svateb.
 
