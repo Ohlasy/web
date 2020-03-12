@@ -15,6 +15,8 @@ category: zpravodajství
 
 ### Aktuální situace
 
+**Vláda České republiky vyhlásila nouzový stav. Všechna níže uvedená opatřní tedy nově podléhají zcela novému režimu – nouzový stav byl vyhlášen od čtvrtka 12. března od 14 hodin na 30 dnů. Od pátečního rána jsou zakázány akce s účastí přesahující 30 osob.**
+
 Ve středu 11. března zasedala od 11 hodin bezpečnostní rada města pro [ORP Boskovice](https://cs.wikipedia.org/wiki/Obvod_obce_s_rozš%C3%ADřenou_působnost%C3%AD_Boskovice), tedy severní polovinu okresu Blansko. Bezpečnostní rada se nakonec rozhodla nepřijímat žádná významná opatření nad rámec nařízení bezpečnostní rady státu. „Největší debata byla o kině, lázních a školkách,“ uvedl starosta Jaroslav Dohnálek. Nakonec ale zůstalo u toho, že boskovické kino bude fungovat v omezeném kapacitním režimu do 90 návštěvníků. Přísnější jsou v Blansku, kde kino uzavřeli úplně. Podobně se bezpečnostní rady obou měst rozhodly ponechat v kapacitně omezeném provozu lázně.
 
 Fungovat bude nadále i mateřská škola, jejíž provoz stát nezakázal, ale ministr školství nabádá zřizovatele ke zvážení situace. Svou roli hrálo i to, že zavření školek by znamenalo odliv pečujících rodičů z důležitých zaměstnání, kupříkladu z nemocncice. Ani z okolních obcí nejsou informace, že by některá z nich chtěla zavírat mateřskou školu.
