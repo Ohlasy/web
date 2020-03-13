@@ -1,13 +1,13 @@
 ---
 title: "Aktualizujeme: Dopady opatření proti koronaviru v Boskovicích"
 cover-photo: https://i.ohlasy.info/i/a301de2d.jpg
-perex: Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru mít v Boskovicích? Dopnili jsme informace po jednání boskovického krizového štábu.
+perex: Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu.
 date: 2020-3-10 12:00:00
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru mít v Boskovicích? Dopnili jsme informace po jednání boskovického krizového štábu. Informace postupně doplňujeme, poslední aktualizace proběhla v pátek 13. března v 15.20.*
+*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pátek 13. března v 15.20.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
