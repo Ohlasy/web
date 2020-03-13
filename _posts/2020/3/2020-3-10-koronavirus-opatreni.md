@@ -11,21 +11,17 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
-*Informace postupně doplňujeme, poslední aktualizace proběhla ve čtvrtek 12. března ve 21.30. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
+*Informace postupně doplňujeme, poslední aktualizace proběhla ve čtvrtek 13. března ve 09.40. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
 
 ### Aktuální situace
 
 **Vláda České republiky vyhlásila nouzový stav. Všechna níže uvedená opatřní tedy nově podléhají zcela novému režimu – nouzový stav byl vyhlášen od čtvrtka 12. března od 14 hodin na 30 dnů. Od pátečního rána jsou zakázány akce s účastí přesahující 30 osob.**
 
-Ve středu 11. března zasedala od 11 hodin bezpečnostní rada města pro [ORP Boskovice](https://cs.wikipedia.org/wiki/Obvod_obce_s_rozš%C3%ADřenou_působnost%C3%AD_Boskovice), tedy severní polovinu okresu Blansko. Fungovat bude nadále mateřská škola, jejíž provoz stát nezakázal, ale ministr školství nabádá zřizovatele ke zvážení situace. Svou roli hrálo i to, že zavření školek by znamenalo odliv pečujících rodičů z důležitých zaměstnání, kupříkladu z nemocncice. Ani z okolních obcí nejsou informace, že by některá z nich chtěla zavírat mateřskou školu.
-
-Standardní otvírací hodiny zatím zůstávají také na městském úřadě, pouze bude navýšena četnost úklidu s vyšším důrazem na dezinfekci. Na radnici také zjišťují, jak moc se úřadu dotkne odchod lidí, kteří budou muset zůstat doma s dětmi. „Zatím jsme k žádnému omezení nepřistoupili,“ sdělil starosta.
-
-Ruší se zahájení turistické sezóny, které mělo proběhnout v Boskovicích 5. dubna. Dále se ruší setkání s veřejností na téma odpady, to mělo být 19. března. Dále se ruší konání farmářských i běžných trhů.
-
-První dva případy nákazy už Jihomoravský kraj zaznamenal. Jde o muže a ženu, kteří se 8. března vrátili z Itálie. Od svého příjezdu byli v karanténě.
-
 ### Nemocnice
+
+Z důvodu vyhlášení nouzového stavu v souvislosti s pandemií nemoci vyvolané virem Covid-19 nemocnice vyzývá pacienty, aby do nemocnice přicházeli k ošetření pouze v nezbytných případech. Ambulantní provoz bude omezen pouze na poskytování akutní péče. V případě plánované kontroly kontaktujte svého ambulantního lékaře a domluvte si náhradní termín.
+
+„Pokud jste se v uplynulých dnech pohybovali v ohnisku nákazy nebo přišli do kontaktu s nakaženým člověkem, neprodleně upozorněte zdravotnický personál a minimalizujte kontakt s ostatními pacienty v čekárnách. Dle vlastních možností v takovém případě použijte před vstupem do areálu nemocnice jakékoliv vlastní ochranné pomůcky. Prosíme o vaši ohleduplnost a respektování současného mimořádného stavu, a to s ohledem nejen na vaše zdraví, ale i na ochranu zdraví ostatních pacientů a našich zaměstnanců,“ stojí v nemocniční výzvě.
 
 Zákaz návštěv v Nemocnici Boskovice je na rozdíl od vládního nařízení kompletní. Nepočítá tedy s výjimkami pro porodní oddělení či návštěvami dětských pacientů. „Nejsme pavilonová nemocnice, lidé se tady prolínají,“ vysvětlil jednatel nemocnice Dan Štěpánský, že riziko šíření infekce by zde bylo vyšší. V případě pacientů ve velmi vážném stavu si dovede představit udělení individuální výjimky po dohodě s vedoucím pracovníkem daného oddělení.
 
@@ -43,4 +39,4 @@ Fungovat bude nadále mateřská škola. „Provoz neuzavíráme, záleží na r
 
 ### Akce
 
-Po rozhodnutí vlády o vyhlášení nouzového stavu jsou kompletně uzavřena také boskovická sportoviště, kino, knihovna, muzeum a zrušeny jsou i další kulturní akce. Podrobnosti o konání či průběhu náboženských setkání zjišťujeme.
+Po rozhodnutí vlády o vyhlášení nouzového stavu jsou kompletně uzavřena také boskovická sportoviště, kino, knihovna, muzeum a zrušeny jsou i další kulturní akce. Zrušeny jsou i bohoslužby.
