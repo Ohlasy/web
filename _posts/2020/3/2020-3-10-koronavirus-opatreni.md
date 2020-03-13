@@ -19,7 +19,7 @@ category: zpravodajství
 
 V pátek 13. března po poledni jednal na boskovické radnici krizový štáb ORP Boskovice. Ten zhodnotil opatření probíhající v souvislosti s novými nařízeními po vyhlášení nouzového stavu v České republice.
 
-Krizový štáb neměl bližší podrobnosti o čtvrtém případu výskytu koronaviru v Jihomoravském kraji, třicetileté ženě z Blanenska. „Nejsme žádná oáza, je otázkou času, kdy koronavirus bude i tady. Udělejme ale vše pro to, aby se šířil co nejpomaleji a nejméně. Není to dýmějový mor, před kterým se dalo jen utéct. Je to problém, ale musíme ho řešit,“ vyjádřil se starosta Boskovic Jaroslav Dohnálek.
+Krizový štáb neměl bližší podrobnosti o případu výskytu koronaviru v Jihomoravském kraji u třicetileté ženy z Blanenska. „Nejsme žádná oáza, je otázkou času, kdy koronavirus bude i tady. Udělejme ale vše pro to, aby se šířil co nejpomaleji a nejméně. Není to dýmějový mor, před kterým se dalo jen utéct. Je to problém, ale musíme ho řešit,“ vyjádřil se starosta Boskovic Jaroslav Dohnálek.
 
 Nejdůležitějším rozhodnutím krizového štábu bylo ponechat v provozu mateřské školy. Jedním z důvodů je i to, že by mohlo dojít k odlivu klíčových zaměstnanců, kteří by se museli starat o děti, z důležitých pozic, kupříkladu z nemocnice.
 
