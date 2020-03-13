@@ -1,17 +1,17 @@
 ---
 title: "Aktualizujeme: Dopady opatření proti koronaviru v Boskovicích"
 cover-photo: https://i.ohlasy.info/i/a301de2d.jpg
-perex: Zákaz kulturních, společenských a náboženských akcí pro více než sto osob. A uzavření základních, středních a vyšších odborných škol. Tak zní nové rozhodnutí Bezpečnostní rady státu na ochranu před šířením koronaviru.
+perex: Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru mít v Boskovicích? Dopnili jsme informace po jednání boskovického krizového štábu.
 date: 2020-3-10 12:00:00
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Zákaz kulturních, společenských a náboženských akcí pro více než sto osob. A uzavření základních, středních a vyšších odborných škol. Tak zní nové rozhodnutí Bezpečnostní rady státu na ochranu před šířením koronaviru. Jaké dopady bude mít v Boskovicích?*
+*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru mít v Boskovicích? Dopnili jsme informace po jednání boskovického krizového štábu.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
-*Informace postupně doplňujeme, poslední aktualizace proběhla v pátek 13. března v 15.20, po jednání krizového štábu ORP Boskovice. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
+*Informace postupně doplňujeme, poslední aktualizace proběhla v pátek 13. března v 15.20. Sledujte též [stručný přehled na našem diskuzním fóru](https://forum.ohlasy.info/t/aktualni-opatreni-proti-koronaviru/387).*
 
 ### Aktuální situace
 
