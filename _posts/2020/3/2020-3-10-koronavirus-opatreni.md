@@ -7,13 +7,13 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pátek 13. března v 15.20.*
+*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v sobotu 14. března v 09.45.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
 ### Aktuální situace
 
-**Vláda České republiky vyhlásila nouzový stav. Všechna níže uvedená opatřní tedy nově podléhají zcela novému režimu – nouzový stav byl vyhlášen od čtvrtka 12. března od 14 hodin na 30 dnů. Od pátečního rána jsou zakázány akce s účastí přesahující 30 osob.**
+**Vláda České republiky vyhlásila nouzový stav. Všechna níže uvedená opatřní tedy nově podléhají zcela novému režimu – nouzový stav byl vyhlášen od čtvrtka 12. března od 14 hodin na 30 dnů. Od pátečního rána jsou zakázány akce s účastí přesahující 30 osob. Dále vláda v noci na sobotu 14. března  rozhodla o uzavření obchodů s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Opatření má trvat do úterý 24. března 06:00. Se stejnou účinností kabinet zakázal přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
 
 V pátek 13. března po poledni jednal na boskovické radnici krizový štáb ORP Boskovice. Ten zhodnotil opatření probíhající v souvislosti s novými nařízeními po vyhlášení nouzového stavu v České republice.
 
@@ -26,8 +26,6 @@ Nemocnice musí také reagovat na problémy s informačním systémem v brněnsk
 Krizový štáb řešil také distribuci roušek z ministerstva zdravotnictví. Do Boskovic mají dorazit během víkendu a město je bude rozdělovat mezi praktické, dětské a také ambulantní lékaře. Netýká se to nemocnice a MSSS, které mají vlastní distribuční systém.
 
 Škola kompletně uzavřela sportoviště, tedy včetně soukromých pronájmů. Zastaven je provoz zimního stadionu. Lázně využijí zastavení provozu k nutné výluce, probíhá vypuštění vody a čistící a sanační práce. Prakticky zmražen je provoz Kulturních zařízení města Boskovice. Uzavřelo se také turistické informační středisko na radnici či mateřské centrum.
-
-Na území ORP Boskovice se nenachází žádné nákupní centrum s restauračním zařízením nad pět tisíc metrů čtverečních. Restaurace a podniky veřejného stravování jako Kebab či Brutus mají povinnost uzavřít ve 20 hodin. Městská policie má jejich seznam, informuje je o tom a bude tuto povinnost a vůbec situaci ve městě monitorovat.
 
 Městský úřad zůstává otevřen ve standardní provozní době, radnice ale žádá občany, aby vyřizovali jen nutné a neodkladné záležitosti.
 
