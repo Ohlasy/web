@@ -28,11 +28,6 @@
   url: https://ohlasy.info/podcast.html
   alt: "Ohlasy Podcast"
   priority: 800
-- name: Impro
-  image: https://i.ohlasy.info/i/8bc2de83.png
-  url: https://www.facebook.com/events/177561553548177
-  alt: "Impro Lísky"
-  priority: 700
 - name: Prostor
   image: https://i.ohlasy.info/i/0071e537.png
   url: https://prostor.wtf
