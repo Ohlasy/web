@@ -7,7 +7,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pondělí 16. března v 09.10.*
+*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pondělí 16. března v 09.20.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
@@ -16,6 +16,8 @@ category: zpravodajství
 **V noci na pondělí 16. března vláda nařídila omezení pohybu lidí na veřejně dostupných místech. Lidé by měli chodit jen do zaměstnání a na nákupy. Povoleny jsou také nezbytné cesty za rodinou či blízkými, na úřad, do banky, na poštu nebo pro pohonné hmoty. Mezi výjimkami je i sousedská výpomoc a dobrovolnictví. Povolen je i pobyt v přírodě a v parcích, avšak pouze v rodinném kruhu, nikoliv ve větším počtu lidí. Výjimka se týká i pohřbů.**
 
 **Už od čtvrtka 12. března Vláda České republiky vyhlásila na 30 dnů nouzový stav. Všechna níže uvedená opatřní tedy nově podléhají zcela novému režimu. Od pátečního rána jsou zakázány akce s účastí přesahující 30 osob. Dále vláda v noci na sobotu 14. března  rozhodla o uzavření obchodů s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Opatření má trvat do úterý 24. března 06:00. Se stejnou účinností kabinet zakázal přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
+
+V omezeném režimu bude fungovat také městský úřad Boskovice. „Předpokládá se, že bude otevřen v úřední dny – pondělí a středa – od 14.00 do 17.00. Žádáme občany, aby využívali k platbě poplatků bezhotovostní styk a ve styku s úřadem zejména e-mailový a telefonický kontakt,“ uvádí boskovická radnice.
 
 V pátek 13. března po poledni jednal na boskovické radnici krizový štáb ORP Boskovice. Ten zhodnotil opatření probíhající v souvislosti s novými nařízeními po vyhlášení nouzového stavu v České republice. „Nejsme žádná oáza, je otázkou času, kdy koronavirus bude i tady. Udělejme ale vše pro to, aby se šířil co nejpomaleji a nejméně. Není to dýmějový mor, před kterým se dalo jen utéct. Je to problém, ale musíme ho řešit,“ vyjádřil se starosta Boskovic Jaroslav Dohnálek. Krizový štáb neměl bližší podrobnosti o případu výskytu koronaviru v Jihomoravském kraji u třicetileté ženy z Blanenska. Pozdější epidemiologické šetření prokázalo, že žena má na okrese Blansko pouze trvalé bydliště, ale žije v jiné části Jihomoravského kraje.
 
@@ -26,8 +28,6 @@ Nemocnice musí také reagovat na problémy s informačním systémem v brněnsk
 Krizový štáb řešil také distribuci roušek z ministerstva zdravotnictví. Do Boskovic mají dorazit během víkendu a město je bude rozdělovat mezi praktické, dětské a také ambulantní lékaře. Netýká se to nemocnice a MSSS, které mají vlastní distribuční systém.
 
 Škola kompletně uzavřela sportoviště, tedy včetně soukromých pronájmů. Zastaven je provoz zimního stadionu. Lázně využijí zastavení provozu k nutné výluce, probíhá vypuštění vody a čistící a sanační práce. Prakticky zmražen je provoz Kulturních zařízení města Boskovice. Uzavřelo se také turistické informační středisko na radnici či mateřské centrum.
-
-Městský úřad zůstává otevřen ve standardní provozní době, radnice ale žádá občany, aby vyřizovali jen nutné a neodkladné záležitosti.
 
 Krizový štáb se také zabýval stavem mostu na Dukelské ulici. Podle starosty Jaroslava Dohnálka nechce vedení města situaci zneužívat, ale informaci nechalo do zápisu z jednání dát, aby se kraj situací zabýval. Nyní by přes most správně nemělo jet ani plně naložené hasičské auto nebo plně naložený autobus.
 
