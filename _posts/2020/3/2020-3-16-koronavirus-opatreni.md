@@ -1,13 +1,12 @@
 ---
 title: "Aktualizujeme: Dopady opatření proti koronaviru v Boskovicích"
 cover-photo: https://i.ohlasy.info/i/a301de2d.jpg
-perex: Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu.
-date: 2020-3-10 12:00:00
+perex: Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu.
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pondělí 16. března v 16.30.*
+*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pondělí 16. března v 18.00.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
@@ -21,7 +20,7 @@ Krizový štáb ORP Boskovice jednal znovu v pondělí 16. března. Město zří
 
 Navzdory příslibům nedorazila do Boskovic zásilka zdravotnického materiálu, zejména roušek. Ty by měla radnice následně distribuovat praktickým, dětským a ambulantním lékařům. Roušky však zatím nedorazily ani do nemocnice a do městské správy sociálních služeb, kam je má dodávat Jihomoravský kraj. Podle starosty Jaroslava Dohnálka má nemocnice zásobu ještě asi na týden. Ředitelka MSSS Marie Sáňková informovala, že první roušky by měl zaměstnanec MSSS přebírat v Brně již dnes (v pondělí 16. března) odpoledne.
 
-MSSS není podle starosty schopna přijímat další zájemce o rozvoz obědů a pečovatelskou službu. „Jsou na samotné hranice kapacity,“ vysvětlil Jaroslav Dohnálek. Město bude proto poskytovat také informace o tom, které restaurace zajišťují rozvoz jídla. Město také jedná se skauty a Charitou o zajištění dalších služeb, zejména starším obyvatelům. Vzniká také iniciativa dobrovolnickou činnost, město a instituce propojit – v této záležitosti se angažují i naše noviny a kromě [speciálního informačního webu](https://korona.ohlasy.info) jsme vytvořili i společný chat pro dobrovolníky, [do kterého se můžete zapojit](http://bit.ly/koronabce). Připravili jsme také [formulář pro všechny, kdo pomoc poptávají, případně vědí o někom konkrétním, kdo ji potřebuje](https://korona.ohlasy.info/poptavka.html).
+MSSS není podle starosty schopna přijímat další zájemce o rozvoz obědů a pečovatelskou službu. „Jsou na samotné hranice kapacity,“ vysvětlil Jaroslav Dohnálek. Město bude proto poskytovat také informace o tom, které restaurace zajišťují rozvoz jídla. Město také jedná se skauty a Charitou o zajištění dalších služeb, zejména starším obyvatelům. Vzniká také iniciativa dobrovolnickou činnost, město a instituce propojit – v této záležitosti se angažují i naše noviny a kromě [speciálního informačního webu](https://korona.ohlasy.info) jsme vytvořili i společný chat pro dobrovolníky, [do kterého se můžete zapojit](http://bit.ly/koronabce). Připravili jsme také [formulář pro všechny, kdo pomoc poptávají](https://korona.ohlasy.info/poptavka.html), případně vědí o někom konkrétním, kdo ji potřebuje.
 
 Dále zůstává otevřena mateřská škola, ředitelka pouze hlídá, aby v jedné skupině nebylo více než 15 dětí. To není problém, neboť většina dětí do školky nechodí, rodiče je mají doma. Školku nyní navštěvuje asi 40 dětí, mezi nimi i ty, jejichž rodiče pracují v důležitých profesích, zejména ve zdravotnictví.
 
