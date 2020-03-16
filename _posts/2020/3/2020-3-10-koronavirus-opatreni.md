@@ -7,13 +7,13 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v sobotu 14. března v 17.40.*
+*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pondělí 16. března v 09.10.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
 ### Aktuální situace
 
-**V noci na pondělí 16. března vláda nařídila omezení pohybu lidí na veřejně dostupných místech. Lidé by měli chodit jen do zaměstnání a na nákupy. Povoleny jsou také nezbytné cesty za rodinou či blízkými, na úřad, do banky, na poštu nebo pro pohonné hmoty. Mezi výjimkami je i sousedská výpomoc a dobrovolnictví. Povolen je i pobyt v přírodě a v parcích. Výjimka se týká i pohřbů.**
+**V noci na pondělí 16. března vláda nařídila omezení pohybu lidí na veřejně dostupných místech. Lidé by měli chodit jen do zaměstnání a na nákupy. Povoleny jsou také nezbytné cesty za rodinou či blízkými, na úřad, do banky, na poštu nebo pro pohonné hmoty. Mezi výjimkami je i sousedská výpomoc a dobrovolnictví. Povolen je i pobyt v přírodě a v parcích, avšak pouze v rodinném kruhu, nikoliv ve větším počtu lidí. Výjimka se týká i pohřbů.**
 
 **Už od čtvrtka 12. března Vláda České republiky vyhlásila na 30 dnů nouzový stav. Všechna níže uvedená opatřní tedy nově podléhají zcela novému režimu. Od pátečního rána jsou zakázány akce s účastí přesahující 30 osob. Dále vláda v noci na sobotu 14. března  rozhodla o uzavření obchodů s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Opatření má trvat do úterý 24. března 06:00. Se stejnou účinností kabinet zakázal přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
 
