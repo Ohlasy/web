@@ -7,7 +7,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pondělí 16. března v 15.00.*
+*Vláda České republiky vyhlásila nouzový stav. Jaké dopady budou mít opatření proti koronaviru v Boskovicích? Doplnili jsme informace po jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v pondělí 16. března v 16.30.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
@@ -17,23 +17,33 @@ category: zpravodajství
 
 **Už od čtvrtka 12. března Vláda České republiky vyhlásila na 30 dnů nouzový stav. Všechna níže uvedená opatřní tedy nově podléhají zcela novému režimu. Od pátečního rána jsou zakázány akce s účastí přesahující 30 osob. Dále vláda v noci na sobotu 14. března  rozhodla o uzavření obchodů s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Opatření má trvat do úterý 24. března 06:00. Se stejnou účinností kabinet zakázal přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
 
-V omezeném režimu bude fungovat také městský úřad Boskovice. „Předpokládá se, že bude otevřen ve středu od 14.00 do 17.00 a na tři hodiny v pondělí, zde bude čas ještě upřesněn. Žádáme občany, aby využívali k platbě poplatků bezhotovostní styk a ve styku s úřadem zejména e-mailový a telefonický kontakt,“ uvádí boskovická radnice.
+Krizový štáb ORP Boskovice jednal znovu v pondělí 16. března. Město zřídí informační telefonní non-stop linku pro občany, fungovat začne v úterý 17. března v 8 hodin ráno. Na této lince občané získají informace o nejdůležitějších kontaktech na zdravotnická zařízení, restaurace s rozvozem jídla, dobrovolnickou činnost. „Ještě jednou zdůrazňujeme, že Nemocnice Boskovice neprovádí vyšetření na COVID–19 ani odběry pro tato vyšetření. Proto občany žádáme, aby nechodili do nemocnice s požadavky na odběry nutné pro stanovení této infekce a zamezili tak možným komplikacím provozu nemocnice, eventuálně ohrožení hospitalizovaných pacientů,“ upozorňuje boskovická radnice.
 
-V pátek 13. března po poledni jednal na boskovické radnici krizový štáb ORP Boskovice. Ten zhodnotil opatření probíhající v souvislosti s novými nařízeními po vyhlášení nouzového stavu v České republice. „Nejsme žádná oáza, je otázkou času, kdy koronavirus bude i tady. Udělejme ale vše pro to, aby se šířil co nejpomaleji a nejméně. Není to dýmějový mor, před kterým se dalo jen utéct. Je to problém, ale musíme ho řešit,“ vyjádřil se starosta Boskovic Jaroslav Dohnálek. Krizový štáb neměl bližší podrobnosti o případu výskytu koronaviru v Jihomoravském kraji u třicetileté ženy z Blanenska. Pozdější epidemiologické šetření prokázalo, že žena má na okrese Blansko pouze trvalé bydliště, ale žije v jiné části Jihomoravského kraje.
+Navzdory příslibům nedorazila do Boskovic zásilka zdravotnického materiálu, zejména roušek. Ty by měla radnice následně distribuovat praktickým, dětským a ambulantním lékařům. Roušky však zatím nedorazily ani do nemocnice a do městské správy sociálních služeb, kam je má dodávat Jihomoravský kraj. Podle starosty Jaroslava Dohnálka má nemocnice zásobu ještě asi na týden. Ředitelka MSSS Marie Sáňková informovala, že první roušky by měl zaměstnanec MSSS přebírat v Brně již dnes (v pondělí 16. března) odpoledne.
 
-Nejdůležitějším rozhodnutím krizového štábu bylo ponechat v provozu mateřské školy. Jedním z důvodů je i to, že by mohlo dojít k odlivu klíčových zaměstnanců, kteří by se museli starat o děti, z důležitých pozic, kupříkladu z nemocnice.
+MSSS není podle starosty schopna přijímat další zájemce o rozvoz obědů a pečovatelskou službu. „Jsou na samotné hranice kapacity,“ vysvětlil Jaroslav Dohnálek. Město bude proto poskytovat také informace o tom, které restaurace zajišťují rozvoz jídla. Město také jedná se skauty a Charitou o zajištění dalších služeb, zejména starším obyvatelům. Vzniká také iniciativa dobrovolnickou činnost, město a instituce propojit – v této záležitosti se angažují i naše noviny a kromě speciálního informačního webu jsme vytvořili i společný chat pro dobrovolníky, do kterého se můžete zapojit. Připravili jsme také formulář pro všechny, kdo pomoc poptávají, případně vědí o někom konkrétním, kdo ji potřebuje.
 
-Nemocnice musí také reagovat na problémy s informačním systémem v brněnské fakultní nemocnici. Jinak se nemocnice nepotýká s personálními problémy, v záloze je dohodnutá spolupráce se studenty zdravotnických škol. Podobná situace je i v Městské správě sociálních služeb. Ta zatím zvládá veškerou péči včetně pečovatelské služby po domácnostech z vlastních zdrojů, v záloze jsou opět nasmlouvané studentské síly. V případě nutnosti je také možná například výpomoc školních kuchařek.
+Dále zůstává otevřena mateřská škola, ředitelka pouze hlídá, aby v jedné skupině nebylo více než 15 dětí. To není problém, neboť většina dětí do školky nechodí, rodiče je mají doma. Školku nyní navštěvuje asi 40 dětí, mezi nimi i ty, jejichž rodiče pracují v důležitých profesích, zejména ve zdravotnictví.
 
-Krizový štáb řešil také distribuci roušek z ministerstva zdravotnictví. Do Boskovic mají dorazit během víkendu a město je bude rozdělovat mezi praktické, dětské a také ambulantní lékaře. Netýká se to nemocnice a MSSS, které mají vlastní distribuční systém.
+K omezení styku s veřejností přistoupil také městský úřad. V pondělí v poledne byl zcela uzavřen a do odvolání bude otevřen pro veřejnost ve středu od 14.00 do 17.00 a v pondělí na 3 hodiny, do konce tohoto týdne bude stanoven konkrétní časový rozsah. Podatelna bude v tomto období pouze v zádveří budovy úřadu na Masarykově náměstí. Písemnosti, u kterých není vyžadováno potvrzení o převzetí, bude možné v tomto prostoru vkládat do připravené schránky. Vstup do budovy bude pro veřejnost v době mimo výše uvedené časy uzavřen. „Žádáme občany, aby upřednostnili písemný, elektronický nebo telefonický kontakt se zaměstnanci městského úřadu a omezili osobní styk jen na nejnutnější případy. Platby poplatků provádějte, pokud je to možné, bezhotovostně,“ žádá městský úřad.
+
+Uzavřen je také sběrný dvůr, jedná se opět o plošné opatření.
+
+Starosta města dále oznámil, že bude navrhovat, aby byl pomocí rozpočtového opatření posílen o půl milionu korun rozpočet na civilní obranu. „Zatím k tomu není konkrétní důvod, ale pro jistotu, kdyby bylo potřeba nějaké věci z této kapitoly platit,“ vysvětlil Jaroslav Dohnálek.
+
+Zpřesňující informace zveřejnila po zavedení karanténních opatření také boskovická nemocnice: „Žádáme pacienty, aby přicházeli do nemocnice pouze v případech nezbytně nutného ošetření. Vstup do nemocnice je možný pouze přes hlavní vrátnici. Veškerá zdravotní péče je zaměřena pouze na akutní případy, a to včetně operativy, kde jsou zrušeny plánované neakutní operační výkony. Přítomnost otce nebo jiné osoby u porodu je zakázána. Provoz rehabilitačního oddělení je dočasně zrušen. Ortopedická vyšetření kyčlí u dětí jsou do odvolání zrušena. Dárcovství krve je omezeno a odběry budou prováděny dle aktuální potřebnosti. Žádáme všechny příchozí, aby s ohledem na probíhající pandemii použili při vstupu do areálu nemocnice vlastní ochranné pomůcky jako ústenky, roušky nebo jiné prostředky. Doprovod osoby přicházející k ošetření, včetně doprovodu dětí, je nutné redukovat na jednu doprovázející osobu. Návštěvy pacientů v nemocnici jsou striktně zakázány. Pacienti nemohou bez léčebného důvodu opouštět oddělení. Provoz lékárny je omezen pouze na výdejní pohotovostní okénko. Prosíme veřejnost, aby v rámci efektivního zvládnutí této mimořádně situace respektovala nastavená omezení, a to z důvodu ochrany zdraví svého, hospitalizovaných pacientů i našich zaměstnanců.“
+
+Stále není znám žádný případ nákazy koronavirem na Boskovicku. V evidenci je pouze výskyt koronaviru v Jihomoravském kraji u třicetileté ženy z Blanenska. Pozdější epidemiologické šetření však prokázalo, že žena má na okrese Blansko pouze trvalé bydliště, ale žije v jiné části Jihomoravského kraje.
+
+### Informace z minulého týdne
+
+Nemocnice musela reagovat na problémy s informačním systémem v brněnské fakultní nemocnici. Jinak se nemocnice nepotýká s personálními problémy, v záloze je dohodnutá spolupráce se studenty zdravotnických škol. Podobná situace je i v Městské správě sociálních služeb. Ta zatím zvládá veškerou péči včetně pečovatelské služby po domácnostech z vlastních zdrojů, v záloze jsou opět nasmlouvané studentské síly. V případě nutnosti je také možná například výpomoc školních kuchařek.
 
 Škola kompletně uzavřela sportoviště, tedy včetně soukromých pronájmů. Zastaven je provoz zimního stadionu. Lázně využijí zastavení provozu k nutné výluce, probíhá vypuštění vody a čistící a sanační práce. Prakticky zmražen je provoz Kulturních zařízení města Boskovice. Uzavřelo se také turistické informační středisko na radnici či mateřské centrum.
 
-Krizový štáb se také zabýval stavem mostu na Dukelské ulici. Podle starosty Jaroslava Dohnálka nechce vedení města situaci zneužívat, ale informaci nechalo do zápisu z jednání dát, aby se kraj situací zabýval. Nyní by přes most správně nemělo jet ani plně naložené hasičské auto nebo plně naložený autobus.
+Krizový štáb se zabýval také stavem mostu na Dukelské ulici. Podle starosty Jaroslava Dohnálka nechce vedení města situaci zneužívat, ale informaci nechalo do zápisu z jednání dát, aby se kraj situací zabýval. Nyní by přes most správně nemělo jet ani plně naložené hasičské auto nebo plně naložený autobus.
 
-### Nemocnice
-
-Z důvodu vyhlášení nouzového stavu v souvislosti s pandemií nemoci vyvolané virem Covid-19 nemocnice vyzývá pacienty, aby do nemocnice přicházeli k ošetření pouze v nezbytných případech. Ambulantní provoz bude omezen pouze na poskytování akutní péče. V případě plánované kontroly kontaktujte svého ambulantního lékaře a domluvte si náhradní termín.
+Z důvodu vyhlášení nouzového stavu v souvislosti s pandemií nemoci vyvolané virem Covid-19 boskovická nemocnice vyzvala pacienty, aby do nemocnice přicházeli k ošetření pouze v nezbytných případech. Ambulantní provoz bude omezen pouze na poskytování akutní péče. V případě plánované kontroly kontaktujte svého ambulantního lékaře a domluvte si náhradní termín.
 
 „Pokud jste se v uplynulých dnech pohybovali v ohnisku nákazy nebo přišli do kontaktu s nakaženým člověkem, neprodleně upozorněte zdravotnický personál a minimalizujte kontakt s ostatními pacienty v čekárnách. Dle vlastních možností v takovém případě použijte před vstupem do areálu nemocnice jakékoliv vlastní ochranné pomůcky. Prosíme o vaši ohleduplnost a respektování současného mimořádného stavu, a to s ohledem nejen na vaše zdraví, ale i na ochranu zdraví ostatních pacientů a našich zaměstnanců,“ stojí v nemocniční výzvě.
 
@@ -43,8 +53,6 @@ Jednatel nemocnice dále zdůraznil, že nemocnice neprovádí vyšetření na k
 
 Ke kompletnímu zákazu návštěv museli po rozhodnutí Bezpečnostní rady státu přistoupit také v pobytových zařízeních Městské správy sociálních služeb – v Domově pro seniory i v Domově se zvláštním režimem. Zákazy platí do odvolání.
 
-### Školy
-
 Uzavřeny jsou do odvolání také všechny základní a střední školy, opatření se týká také základní umělecké školy a Střediska volného času a své dětské kluby zavře též [letovická neziskovka ELIM](https://www.facebook.com/ElimLetovice/photos/a.558898044143284/3207428845956844/?type=3&theater). Podle ředitele boskovické základní školy Vladimíra Ochmanského to ale neznamená, že by vzdělávání žáků úplně ustalo. Do školy nesmí děti, ale na učitele se volno nevztahuje a mají k dispozici software, pomocí kterého můžou s dětmi komunikovat a alespoň takto pokračovat ve výuce. „Dá se tam udělat docela dost věcí, záleží na jednotlivých učitelích, jak se toho chopí. My je budeme samozřejmě motivovat, aby se toho chopili aktivně,“ vysvětlil ředitel. Další informace bude škola zveřejňovat na webu a portálu Edupage.
 
 Na základní škole 1. dubna neproběhnou přijímací zkoušky do třídy s rozšířenou výukou matematiky a přírodovědných předmětů. Náhradní termín zatím nebyl stanoven, bude včas zveřejněn na stránkách školy. Termín zápisu žáků do prvních tříd, který má proběhnout 16. dubna, zatím zůstává nezměněn, přestože je možné, že i tento termín bude posunut, případně může také proběhnout pouze elektronicky.
@@ -52,7 +60,5 @@ Na základní škole 1. dubna neproběhnou přijímací zkoušky do třídy s ro
 Fungovat bude nadále mateřská škola. „Provoz neuzavíráme, záleží na rodičích, jestli nechají děti doma,“ uvedla ředitelka Dagmar Burianová. Podle té není nutné přijímat ani žádná speciální hygienická opatření, protože ta dodržují v mateřské škole běžně. Ruší pouze účast na některých akcích a fungovat budou spíše v obyčejném režimu.
 
 „V souvislosti s uzavřením všech základních, středních a vysokých škol bude s platností od čtvrtka 12. března do odvolání provoz na všech regionálních linkách IDS JMK veden podle jízdních řádů, které platily o jarních prázdninách. Omezení se tak týká prakticky pouze posilových školních spojů. Opatření se netýká linek 1 až 99 ve městě Brně,“ uvedla krajská tisková mluvčí Monika Brindzáková.
-
-### Akce
 
 Po rozhodnutí vlády o vyhlášení nouzového stavu jsou kompletně uzavřena také boskovická sportoviště, kino, knihovna, muzeum a zrušeny jsou i další kulturní akce. Zrušeny jsou i bohoslužby.
