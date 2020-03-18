@@ -6,15 +6,15 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve středu 18. března v 10.00.*
+*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve středu 18. března v 18.45.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
 ### Aktuální situace
 
-**V noci na pondělí 16. března vláda nařídila omezení pohybu lidí na veřejně dostupných místech. Lidé by měli chodit jen do zaměstnání a na nákupy. Povoleny jsou také nezbytné cesty za rodinou či blízkými, na úřad, do banky, na poštu nebo pro pohonné hmoty. Mezi výjimkami je i sousedská výpomoc a dobrovolnictví. Povolen je i pobyt v přírodě a v parcích, avšak pouze v rodinném kruhu, nikoliv ve větším počtu lidí. Výjimka se týká i pohřbů.**
+**Ve středu 18. března vláda schválila zákaz vycházení bez zakrytých úst a nosu, který má platit od půlnoci. Od 10 do 12 hodin mohou nově nakupovat v potravinách jen důchodci nad 65 let.**
 
-**Už od čtvrtka 12. března Vláda České republiky vyhlásila na 30 dnů nouzový stav. Dále vláda v noci na sobotu 14. března  rozhodla o uzavření obchodů s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Opatření má trvat do úterý 24. března 06:00. Se stejnou účinností kabinet zakázal přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
+**Nadále platí karanténní opatření: omezení pohybu lidí na veřejně dostupných místech, lidé by měli chodit jen do zaměstnání a na nákupy. Povoleny jsou také nezbytné cesty za rodinou či blízkými, na úřad, do banky, na poštu nebo pro pohonné hmoty. Mezi výjimkami je i sousedská výpomoc a dobrovolnictví. Povolen je i pobyt v přírodě a v parcích, avšak pouze v rodinném kruhu, nikoliv ve větším počtu lidí. Výjimka se týká i pohřbů. Nadále trvá nouzový stav. Uzavřeny jsou obchody s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Kabinet zakázal také přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
 
 Krizový štáb ORP Boskovice jednal znovu v pondělí 16. března. Město zřídilo informační telefonní non-stop linku pro občany –  725 112 573. Fungovat začne v úterý 17. března v 8 hodin ráno. Na této lince občané získají informace o nejdůležitějších kontaktech na zdravotnická zařízení, [restaurace s rozvozem jídla](https://korona.ohlasy.info/restaurace.html), dobrovolnickou činnost. „Ještě jednou zdůrazňujeme, že Nemocnice Boskovice neprovádí vyšetření na COVID–19 ani odběry pro tato vyšetření. Proto občany žádáme, aby nechodili do nemocnice s požadavky na odběry nutné pro stanovení této infekce a zamezili tak možným komplikacím provozu nemocnice, eventuálně ohrožení hospitalizovaných pacientů,“ upozorňuje boskovická radnice.
 
