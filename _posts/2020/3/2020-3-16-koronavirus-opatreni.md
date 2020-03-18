@@ -6,7 +6,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla v úterý 17. března v 08.40.*
+*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve středu 18. března v 10.00.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
