@@ -4,6 +4,7 @@ cover-photo: https://i.ohlasy.info/i/a301de2d.jpg
 perex: Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu.
 author: Tomáš Trumpeš
 category: zpravodajství
+tags: koronavirus
 ---
 
 *Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve středu 18. března v 18.45.*
