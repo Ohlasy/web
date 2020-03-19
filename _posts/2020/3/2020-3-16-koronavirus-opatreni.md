@@ -1,19 +1,19 @@
 ---
 title: "Aktualizujeme: Dopady opatření proti koronaviru v Boskovicích"
 cover-photo: https://i.ohlasy.info/i/a301de2d.jpg
-perex: Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu.
+perex: Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme další nové informace o celostátních a místních opatřeních.
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: koronavirus
 ---
 
-*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve čtvrtek 19. března v 14.25.*
+*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve čtvrtek 19. března v 22.45.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
 ### Aktuální situace
 
-**Ve středu 18. března vláda schválila zákaz vycházení bez zakrytých úst a nosu, který má platit od půlnoci. Od 10 do 12 hodin mohou nově nakupovat v potravinách jen důchodci nad 65 let.**
+**Ve středu 18. března vláda schválila zákaz vycházení bez zakrytých úst a nosu, který má platit od půlnoci. Od 7 do 9 hodin mohou nově nakupovat v potravinách jen důchodci nad 65 let. Původní čas byl jiný, ale od pátku došlo ke změně.**
 
 **Nadále platí karanténní opatření: omezení pohybu lidí na veřejně dostupných místech, lidé by měli chodit jen do zaměstnání a na nákupy. Povoleny jsou také nezbytné cesty za rodinou či blízkými, na úřad, do banky, na poštu nebo pro pohonné hmoty. Mezi výjimkami je i sousedská výpomoc a dobrovolnictví. Povolen je i pobyt v přírodě a v parcích, avšak pouze v rodinném kruhu, nikoliv ve větším počtu lidí. Výjimka se týká i pohřbů. Nadále trvá nouzový stav. Uzavřeny jsou obchody s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Kabinet zakázal také přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
 
