@@ -7,7 +7,7 @@ category: zpravodajství
 tags: koronavirus
 ---
 
-*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve čtvrtek 19. března v 14.00.*
+*Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme informace po dalším jednání boskovického krizového štábu. Informace postupně aktualizujeme, poslední úprava proběhla ve čtvrtek 19. března v 14.25.*
 
 {% photo src="https://i.ohlasy.info/i/a301de2d.jpg" caption="Virus 2019-nCoV pod mikroskopem" author="NIAID Rocky Mountain Laboratories" %}
 
@@ -18,6 +18,8 @@ tags: koronavirus
 **Nadále platí karanténní opatření: omezení pohybu lidí na veřejně dostupných místech, lidé by měli chodit jen do zaměstnání a na nákupy. Povoleny jsou také nezbytné cesty za rodinou či blízkými, na úřad, do banky, na poštu nebo pro pohonné hmoty. Mezi výjimkami je i sousedská výpomoc a dobrovolnictví. Povolen je i pobyt v přírodě a v parcích, avšak pouze v rodinném kruhu, nikoliv ve větším počtu lidí. Výjimka se týká i pohřbů. Nadále trvá nouzový stav. Uzavřeny jsou obchody s výjimkou prodejen potravin, lékáren, drogerií, čerpacích stanic a některých dalších. Kabinet zakázal také přítomnost veřejnosti v provozovnách stravovacích služeb, výjimkou je například zaměstnanecké stravování.**
 
 Od pátku 20. březana bude uzavřena i boskovická mateřská škola, a to všechna tři pracoviště. Zvláštní péče bude od pondělí 23. března zajištěna pouze pro děti od 3 do 10 let, jejichž rodiče vykonávají službu v důležitých profesích.
+
+Město Boskovice dále zřídilo sběrné místo pro roušky z domácí výroby, kterými by občané chtěli pomoci potřebným institucím. „Aktuálně evidujeme kritickou situaci v ochranných pomůckách v MSSS Boskovice, Městské policii Boskovice a u pracovníků městského úřadu. Dále potřebujeme vybavit ochrannými pomůckami dobrovolné hasiče, kteří budou obcházet seniory nad 70 let. Pokud tedy šijete doma roušky a chcete je poskytnout pro tyto účely, přineste je ve všední den od 12.00 do 16.00 na pokladnu Kina Panorama. Připojte prosím základní informaci, zda jsou roušky připraveny k okamžitému použití, nebo zda je potřebné je před použitím vyvařit,“ popsal ve čtvrtek odpoledne situaci tiskový mluvčí Jaroslav Parma na FB profilu města.
 
 Krizový štáb ORP Boskovice jednal znovu v pondělí 16. března. Město zřídilo informační telefonní non-stop linku pro občany –  725 112 573. Fungovat začne v úterý 17. března v 8 hodin ráno. Na této lince občané získají informace o nejdůležitějších kontaktech na zdravotnická zařízení, [restaurace s rozvozem jídla](https://korona.ohlasy.info/restaurace.html), dobrovolnickou činnost. „Ještě jednou zdůrazňujeme, že Nemocnice Boskovice neprovádí vyšetření na COVID–19 ani odběry pro tato vyšetření. Proto občany žádáme, aby nechodili do nemocnice s požadavky na odběry nutné pro stanovení této infekce a zamezili tak možným komplikacím provozu nemocnice, eventuálně ohrožení hospitalizovaných pacientů,“ upozorňuje boskovická radnice.
 
