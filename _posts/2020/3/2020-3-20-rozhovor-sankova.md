@@ -36,7 +36,7 @@ Na jedné straně jsou vládní nařízení, ta se odvíjí podle toho, jak to j
 
 **Nemůžou ani tady do parku?**
 
-Můžou. Možná kdybychom se teď šli podívat z okna, uvidíme je na lavičkách. Samozřejmě se snažíme je chránit, aby měli roušku, protože se můžou potkávat. Ale nemůžeme a nechce jim úplně zakazovat, aby chodili ven. Zvlášť když jsou teď pěkné dny, snaží se je zaměstnanci vzít ven. Zrovna včera jsem měla radost, když jsem je viděla, čerstvý vzduch je pro ně důležitý.
+Můžou. Možná kdybychom se teď šli podívat z okna, uvidíme je na lavičkách. Samozřejmě se snažíme je chránit, aby měli roušku, protože se můžou potkávat. Ale nemůžeme a nechceme jim úplně zakazovat, aby chodili ven. Zvlášť když jsou teď pěkné dny, snaží se je zaměstnanci vzít ven. Zrovna včera jsem měla radost, když jsem je viděla, čerstvý vzduch je pro ně důležitý.
 
 Další opatření přibyla od úterka – osobám nad 70 let se doporučuje nevycházet. A k tomu přibyly povinné ochranné pomůcky, plus vymezená doba seniorům. Lidem, co máme v terénu, se snažíme i v písemné formě doručit, přestože o tom informují sdělovací prostředky. Předáváme to s obědy nebo při službě. Dáváme jim informační letáčky a výzvy, co mají dodržovat za hygienická pravidla, dáváme jim to třeba i na texty jídelníčků. Abychom pomohli osvětu co nejvíc udělat, aby byli senioři zodpovědní.
 
