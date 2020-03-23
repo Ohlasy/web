@@ -25,7 +25,7 @@
   priority: 800
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
-  url: https://ohlasy.info/podcast.html
+  url: https://ohlasy.info/podcast/
   alt: "Ohlasy Podcast"
   priority: 800
 - name: Prostor

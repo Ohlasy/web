@@ -3,3 +3,12 @@
     for = "/api/*"
     [headers.values]
         Access-Control-Allow-Origin = "*"
+
+# We didn’t choose the initial podcast URLs very well,
+# so we moved them later and redirect the older locations.
+[[redirects]]
+    from = "/podcast.xml"
+    to = "/podcast/feed.xml"
+[[redirects]]
+    from = "/podcast.html"
+    to = "/podcast/"
