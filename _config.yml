@@ -20,8 +20,7 @@ defaults:
       layout: "article"
 
 future: false
-exclude:
-  ["README.md", "Gemfile*", "CNAME", "package.json", "Makefile", "netlify.toml"]
+exclude: ["README.md", "Gemfile*", "package.json", "netlify.toml"]
 include: ["node_modules"]
 
 # https://talk.jekyllrb.com/t/324
