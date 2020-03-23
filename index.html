@@ -3,11 +3,13 @@ why: A dummy header to make Jekyll process this file.
 ---
 <!DOCTYPE html>
 <html lang="cs">
+
 <head>
     {% include html/headers.html title="Ohlasy dění na Boskovicku" %}
     <link href="/style/front.css?1" rel="stylesheet">
     <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="RSS">
 </head>
+
 <body>
     <header class="navbar navbar-default">
         <div class="container">
@@ -24,24 +26,24 @@ why: A dummy header to make Jekyll process this file.
     {% assign featured = site.array %}
 
     {% for post in site.posts offset: 1 %}
-        {% if post.category == 'rozhovory' %}
-            {% assign interviews = interviews | push: post %}
-        {% endif %}
-        {% if post.category == 'podcast' %}
-            {% assign podcast = podcast | push: post %}
-        {% endif %}
-        {% if post.category == 'názory a komentáře' %}
-            {% assign opinions = opinions | push: post %}
-        {% endif %}
-        {% if post.category == 'seriály' %}
-            {% assign serials = serials | push: post %}
-        {% endif %}
-        {% if post.tags contains 'politika' %}
-            {% assign politics = politics | push: post %}
-        {% endif %}
-        {% if post.featured %}
-            {% assign featured = featured | push: post %}
-        {% endif %}
+    {% if post.category == 'rozhovory' %}
+    {% assign interviews = interviews | push: post %}
+    {% endif %}
+    {% if post.category == 'podcast' %}
+    {% assign podcast = podcast | push: post %}
+    {% endif %}
+    {% if post.category == 'názory a komentáře' %}
+    {% assign opinions = opinions | push: post %}
+    {% endif %}
+    {% if post.category == 'seriály' %}
+    {% assign serials = serials | push: post %}
+    {% endif %}
+    {% if post.tags contains 'politika' %}
+    {% assign politics = politics | push: post %}
+    {% endif %}
+    {% if post.featured %}
+    {% assign featured = featured | push: post %}
+    {% endif %}
     {% endfor %}
 
     <div class="container">
@@ -56,26 +58,24 @@ why: A dummy header to make Jekyll process this file.
         <div class="row">
             <div class="col-lg-8 forum-topic-list">
                 {% for topic in site.data.forum.topic_list.topics limit: 10 %}
-                    {% if topic.id != 8 %}
-                        <div class="row">
-                            <div class="col-sm-8">
-                                <a href="https://forum.ohlasy.info/t/{{ topic.id }}/last">{{ topic.title }}</a>
-                            </div>
-                            <div class="col-sm-4">
-                                {% for poster in topic.posters %}
-                                  {% for user in site.data.forum.users %}
-                                    {% if user.id == poster.user_id and user.id != -1 %}
-                                      {% assign avatar_path = user.avatar_template | replace: "{size}", "50" %}
-                                      <img
-                                        src="https://forum.ohlasy.info/{{ avatar_path }}"
-                                        title="{{ user.name }}"
-                                        class="discourse-avatar" >
-                                    {% endif %}
-                                  {% endfor %}
-                                {% endfor %}
-                            </div>
-                        </div>
-                    {% endif %}
+                {% if topic.id != 8 %}
+                <div class="row">
+                    <div class="col-sm-8">
+                        <a href="https://forum.ohlasy.info/t/{{ topic.id }}/last">{{ topic.title }}</a>
+                    </div>
+                    <div class="col-sm-4">
+                        {% for poster in topic.posters %}
+                        {% for user in site.data.forum.users %}
+                        {% if user.id == poster.user_id and user.id != -1 %}
+                        {% assign avatar_path = user.avatar_template | replace: "{size}", "50" %}
+                        <img src="https://forum.ohlasy.info/{{ avatar_path }}" title="{{ user.name }}"
+                            class="discourse-avatar">
+                        {% endif %}
+                        {% endfor %}
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
                 {% endfor %}
             </div>
             <div class="col-lg-4 hidden-md hidden-sm hidden-xs">
@@ -95,16 +95,16 @@ why: A dummy header to make Jekyll process this file.
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <ol class="article-list">
-                {% for mostReadPost in site.data.nejctenejsi limit: 5 %}
+                    {% for mostReadPost in site.data.nejctenejsi limit: 5 %}
                     <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
-                {% endfor %}
+                    {% endfor %}
                 </ol>
             </div>
             <div class="col-md-4 col-sm-6">
                 <ol class="article-list" start="5">
-                {% for mostReadPost in site.data.nejctenejsi offset: 5 %}
+                    {% for mostReadPost in site.data.nejctenejsi offset: 5 %}
                     <li><a href="{{ mostReadPost.url }}">{{ mostReadPost.title }}</a></li>
-                {% endfor %}
+                    {% endfor %}
                 </ol>
             </div>
             <div class="col-md-4 hidden-sm hidden-xs">
@@ -126,8 +126,7 @@ why: A dummy header to make Jekyll process this file.
 
     {% include footer.html %}
 
-    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script defer src="/lib/ad-rotate.js"></script>
 </body>
+
 </html>

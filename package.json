@@ -17,7 +17,6 @@
   },
   "homepage": "http://ohlasy.info/",
   "dependencies": {
-    "bootstrap": "^3.3.7",
-    "jquery": "^3.1.0"
+    "bootstrap": "^3.3.7"
   }
 }
