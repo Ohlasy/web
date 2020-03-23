@@ -1,28 +1,28 @@
 markdown: kramdown
 
 name: Ohlasy
-description: 'Noviny pro Boskovice a okolí'
-url: 'http://ohlasy.info'
+description: "Noviny pro Boskovice a okolí"
+url: "http://ohlasy.info"
 
-permalink: '/clanky/:year/:month/:title.html'
+permalink: "/clanky/:year/:month/:title.html"
 
 jekyll_get:
   - data: nejctenejsi
-    json: 'https://data.ohlasy.info/top-articles.json'
+    json: "https://data.ohlasy.info/top-articles.json"
   - data: forum
-    json: 'https://forum.ohlasy.info/latest.json'
+    json: "https://forum.ohlasy.info/latest.json"
 
 defaults:
-  -
-    scope:
-      path: ''
+  - scope:
+      path: ""
       type: posts
     values:
-      layout: 'article'
+      layout: "article"
 
 future: false
-exclude: ['README.md', 'Gemfile*', 'CNAME', 'vendor', 'package.json', 'Makefile', 's3_website.yml']
-include: ['_headers', 'node_modules']
+exclude:
+  ["README.md", "Gemfile*", "CNAME", "package.json", "Makefile", "netlify.toml"]
+include: ["node_modules"]
 
 # https://talk.jekyllrb.com/t/324
 array: []
