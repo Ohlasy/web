@@ -11,7 +11,7 @@ module Jekyll
         end
         def render(context)
             alt = @alt ? @alt : @caption
-            output = "<img srcset=\"#{signed_thumb_url(@src, 3000)} 3000w, #{signed_thumb_url(@src, 2000)} 2000w, #{signed_thumb_url(@src, 1000)} 1000w, #{signed_thumb_url(@src, 500)} 500w\" src=\"#{@src}\" alt=\"#{alt}\" class=\"img-responsive img-popup\">"
+            output = "<img srcset=\"#{signed_thumb_url(@src, 3000)} 3000w, #{signed_thumb_url(@src, 2000)} 2000w, #{signed_thumb_url(@src, 1000)} 1000w, #{signed_thumb_url(@src, 500)} 500w\" src=\"#{@src}\" alt=\"#{alt}\" class=\"img-responsive\">"
             if @caption && @author
                 output += "<span class=\"img-meta\">#{@caption} <span class=\"img-author\">  foto: #{@author}</span></span>"
             elsif @caption
