@@ -1,8 +1,11 @@
 <script>
-function decorateSearch() {
-    var q = $('#search-form .query').val();
-    $('input[name="q"]').val(q + " site:ohlasy.info")
-}
+    function decorateSearch() {
+        const searchBox = document.querySelector('#search-form .query');
+        const hiddenSearchBox = document.querySelector('input[name="q"]');
+        if (searchBox != null && hiddenSearchBox != null) {
+            hiddenSearchBox.value = searchBox.value + " site:ohlasy.info";
+        }
+    }
 </script>
 <form id="search-form" action="https://www.google.cz/search" onsubmit="decorateSearch()">
     <div class="input-group input-group-md">
