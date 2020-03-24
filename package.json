@@ -2,20 +2,10 @@
   "name": "ohlasy",
   "version": "1.0.0",
   "description": "A regional newspaper website",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ohlasy/web.git"
-  },
+  "homepage": "https://ohlasy.info/",
+  "repository": "Ohlasy/web",
   "author": "Tomáš Znamenáček <tomas.znamenacek@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Ohlasy/web/issues"
-  },
-  "homepage": "http://ohlasy.info/",
   "dependencies": {
     "bootstrap": "^3.3.7"
   }
