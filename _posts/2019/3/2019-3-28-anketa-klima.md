@@ -23,7 +23,7 @@ Studenti by měli chtít od obce jasný plán adaptace na změnu klimatu – jak
 
 ---
 
-<img src="/img/profiles/ondrouskova.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/i/bff5cf09.jpg" class="profile-picture" alt="">
 
 **Žaneta Ondroušková, environmentalistka a mediální analytička**
 
@@ -37,7 +37,7 @@ S tím souvisí další věc, kterou považuji za nezbytnou. Stávkující by na
 
 ---
 
-<img src="/img/profiles/lukesova.jpg" class="profile-picture" alt="">
+<img src="https://i.ohlasy.info/i/209ec01a.jpg" class="profile-picture" alt="">
 
 **Martina Lukešová, ekoložka a středoškolská pedagožka**
 
