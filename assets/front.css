@@ -1,6 +1,8 @@
 .navbar {
-  margin-bottom: 0;
+  margin-bottom: 30px;
 }
+
+/* Forum */
 
 .discourse-avatar {
   width: 1.5em;
@@ -10,7 +12,11 @@
 }
 
 .forum-topic-list .row {
-  border-bottom: 1px solid #ddd;
   padding-top: 6px;
   padding-bottom: 6px;
+  margin-left: 0px;
+}
+
+.forum-topic-list .row:not(:last-of-type) {
+  border-bottom: 1px dotted #ddd;
 }
