@@ -22,9 +22,9 @@ h1 {
   font-weight: 600;
   text-transform: uppercase;
   color: rgb(148, 82, 0);
-  font-size: max(min(5vw, 38px), 20px);
-  margin-top: 0.8ex;
-  margin-bottom: 0.5ex;
+  font-size: max(min(5vw, 42px), 24px);
+  margin-top: 1ex;
+  margin-bottom: 0.8ex;
   line-height: 1em;
 }
 
