@@ -13,12 +13,18 @@ body {
 
 /* Site Header */
 
+.navbar {
+  min-height: 0;
+}
+
 h1 {
   font-family: "Dosis";
   font-weight: 600;
   text-transform: uppercase;
   color: rgb(148, 82, 0);
-  font-size: 250%;
+  font-size: max(min(5vw, 38px), 20px);
+  margin-top: 0.8ex;
+  margin-bottom: 0.5ex;
   line-height: 1em;
 }
 
@@ -26,18 +32,6 @@ h1 small {
   font-weight: 400;
   font-size: inherit;
   color: silver;
-  white-space: nowrap;
-}
-
-@media (max-width: 640px) {
-  h1 {
-    margin-top: 10px;
-  }
-  h1 small {
-    padding-top: 5px;
-    display: block;
-    font-size: 50%;
-  }
 }
 
 h1 a:hover {
