@@ -4,7 +4,7 @@ perex: Rozhovor s místostarostou Radkem Mazáčem (Sportovci). Mluvili jsme o n
 cover-photo: https://i.ohlasy.info/i/ovzvfrs.jpg
 author: Tomáš Trumpeš
 category: rozhovory
-tags: politika, sport
+tags: politika sport
 ---
 
 *Rozhovor s místostarostou Radkem Mazáčem (Sportovci). Mluvili jsme o nové sportovní hale, jejíž přípravu má na starosti. V září mají zastupitelé rozhodnout o lokalitě, kde by měla hala stát. Co všechno nás ještě čeká před rozhodnutím a jaká je situace v koalici, která připravuje dvě varianty umístění? A jak chce vedení města vybírat architektonickou studii?*
