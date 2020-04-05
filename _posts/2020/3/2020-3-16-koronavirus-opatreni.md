@@ -1,5 +1,5 @@
 ---
-title: "Aktualizujeme: Dopady opatření proti koronaviru v Boskovicích"
+title: "Dopady opatření proti koronaviru v Boskovicích"
 cover-photo: https://i.ohlasy.info/i/a301de2d.jpg
 perex: Jaké dopady mají opatření proti koronaviru v Boskovicích? Doplnili jsme další nové informace o celostátních a místních opatřeních.
 author: Tomáš Trumpeš
