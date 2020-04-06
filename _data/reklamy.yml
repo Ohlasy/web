@@ -18,11 +18,6 @@
   alt: Vernisáž výstavy Alfonse Muchy v Muzeu
   url: http://www.muzeum-boskovicka.cz/predehra-ke-slave-alfons-mucha-rana-tvorba-1881-1895/a-1308/p1=1098
   priority: 900
-- name: Archeologická vycházka
-  image: https://i.ohlasy.info/i/d409a9ae.png
-  alt: Archeologická vycházka
-  url: http://www.muzeum-boskovicka.cz/prirodovedne-archeologicka-vychazka-na-vejstici-a-do-mojetinskeho-krasu/a-1306/p1=1098
-  priority: 800
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast/
