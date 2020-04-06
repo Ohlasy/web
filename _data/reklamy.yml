@@ -13,6 +13,11 @@
   alt: Festival Boskovice 2020
   url: https://www.boskovice-festival.cz/cs/ucinkujici
   priority: 900
+- name: Krmelec Prostor
+  image: https://i.ohlasy.info/i/54aef9b9.jpg
+  alt: "Live stream z kulturního centra Prostor"
+  url: https://krmelec.prostor.wtf/
+  priority: 900
 - name: Muzeum
   image: https://i.ohlasy.info/i/a2bcc0ab.png
   alt: Vernisáž výstavy Alfonse Muchy v Muzeu
