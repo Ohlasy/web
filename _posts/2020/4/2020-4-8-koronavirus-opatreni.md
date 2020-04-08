@@ -71,6 +71,6 @@ Nařízeno je naopak omezit pohyb na veřejně dostupných místech na dobu nezb
 
 S platností od 7. dubna se zákaz volného pohybu osob nevztahuje na sportování na venkovních sportovištích, v parcích, v přírodě a na jiných veřejně přístupných místech. A to za splnění těchto podmínek: nošení roušky či jiné ochrany nosu a úst (s výjimkou venkovních sportovišť, kdy jsou sportující osoby odděleny fyzickou překážkou nebo vzdáleností nejméně dva metry); dále když společně sportují jen dvě osoby nebo členové domácnosti, dále když nejsou využívány vnitřní prostory sportoviště – zejména šatny a sprchy.
 
-Od pátku 9. dubna se zákaz maloobchodního prodeje nevztahuje na provozovny hobbymarketů, prodejen stavebnin a stavebních výrobků a železářství a na prodej a servis jízdních kol. 
+Od čtvrtka 9. dubna se zákaz maloobchodního prodeje nevztahuje na provozovny hobbymarketů, prodejen stavebnin a stavebních výrobků a železářství a na prodej a servis jízdních kol. 
 
 Čas nákupu vyhrazený seniorům je nadále 8.00–10.00. Osobám starším 70 let se doporučuje nevycházet po dobu trvání nouzového stavu mimo jejich obydlí, s výjimkou návštěvy zdravotnického zařízení za účelem zajištění neodkladné zdravotní péče.
