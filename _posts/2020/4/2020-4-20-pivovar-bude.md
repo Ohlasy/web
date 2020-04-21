@@ -10,7 +10,7 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/0mmg63t.jpg" caption="Panský pivovar" author="Tomáš Znamenáček" %}
 
-Několik měsíců visel inzerát na [prodej panského pivovaru](https://ohlasy.info/clanky/2019/08/prodej-pivovaru.html) na stránkách realitní kanceláře, nakonec se ale na přelomu minulého a letošního roku domluvil dosavadní majitel Bohumil Hlaváček přímo s Luďkem Řehořem, že právě on se stane novým vlastníkem.
+Několik měsíců visel inzerát na [prodej panského pivovaru](https://ohlasy.info/clanky/2019/08/prodej-pivovaru.html) na stránkách realitní kanceláře, nakonec se ale na přelomu minulého a letošního roku domluvil dosavadní majitel Josef Hlaváček přímo s Luďkem Řehořem, že právě on se stane novým vlastníkem.
 
 Od druhé poloviny března už funguje i Řehořova společnost s názvem Pivovar Pod Hradem, v létě se chce pustit do oprav. Budova pivovaru potřebuje zásadní rekonstrukci, stav některých částí je na tom viditelně velmi špatně. „Chceme vyměnit střešní krytinu v té nejhorší střední části s průduchy. Tu bych chtěl rekonstruovat ještě letos, pak je potřeba vyměnit okna a dveře a na jaře příštího roku opravit venkovní omítku, minimálně od stadionu,“ uvedl Luděk Řehoř s tím, že krovy nejsou v tak špatném stavu, jak se na první pohled může zdát. Po jejich opravě proto zůstanou původní.
 
@@ -32,6 +32,6 @@ Když se mu pak naskytla příležitost koupit objekt v Podhradí, změnil plán
 
 Po opuštění záměru stavět halu na Sušilově Luděk Řehoř věděl, že s prodejem jízdárny městu neuspěje; marně se o to pokoušel od roku 2012 a ani pro ni za celou dobu, co ji vlastní, nenašel využití. Po posledním neúspěchu na podzim minulého roku už mu bylo jedno, komu ji prodá a co v ní bude. „Nepočítal jsem však s tím, že přímo za mnou přijde pan Hlaváček, že se tam chce jít podívat,“ popsal.
 
-Do jízdárny ho tedy vzal, Bohumil Hlaváček si budovu zevnitř prohlédl a podle Luďka Řehoře říkal, jak je naprosto úžasná. Slovo dalo slovo, a tak proběhla směna jedné budovy za druhou. Co teď bude s jízdárnou dál, není jasné. „Zatím nemám žádný záměr, minimálně rok budeme chystat projektovou dokumentaci,“ řekl nový majitel. Na otázku, zda tam chce vystavit své lovecké trofeje, odpověděl, že neví, že se musí domluvit s architekty a památkáři.
+Do jízdárny ho tedy vzal, Josef Hlaváček si budovu zevnitř prohlédl a podle Luďka Řehoře říkal, jak je naprosto úžasná. Slovo dalo slovo, a tak proběhla směna jedné budovy za druhou. Co teď bude s jízdárnou dál, není jasné. „Zatím nemám žádný záměr, minimálně rok budeme chystat projektovou dokumentaci,“ řekl nový majitel. Na otázku, zda tam chce vystavit své lovecké trofeje, odpověděl, že neví, že se musí domluvit s architekty a památkáři.
 
-Rozhodně však plánuje budovu sám využívat. „Jakýkoliv prodej nepřipadá v úvahu, k tomuto účelu jsem si budovu nepořizoval,“ vyloučil Bohumil Hlaváček jakoukoliv možnost návratu k tomu, že by politici znovu vrátili do hry Sušilovu jako lokalitu na výstavbu sportovní haly s propojením do jízdárny. 
+Rozhodně však plánuje budovu sám využívat. „Jakýkoliv prodej nepřipadá v úvahu, k tomuto účelu jsem si budovu nepořizoval,“ vyloučil Josef Hlaváček jakoukoliv možnost návratu k tomu, že by politici znovu vrátili do hry Sušilovu jako lokalitu na výstavbu sportovní haly s propojením do jízdárny. 
