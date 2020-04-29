@@ -4,7 +4,6 @@ perex: Zemřel Miloš Winkler, řečený Jazzový dědek. Vzpomínku na něj nap
 cover-photo: https://i.imgur.com/toufVGXl.jpg
 author: Ivana Královcová
 category: názory a komentáře
-published: false
 ---
 
 *Smutná zpráva zastihla minulý týden nejen fanoušky letovických jazzových koncertů – zemřel Miloš Winkler, řečený Jazzový dědek. Vzpomínku na něj pro Ohlasy napsala Ivana Královcová, zástupkyně mladší generace posluchačů, kterým v Letovicích Miloš Winkler zařídil výjimečné koncertní jazzové vzdělání.*
