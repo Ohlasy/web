@@ -6,7 +6,7 @@ category: zpravodajství
 tags: koronavirus
 ---
 
-*Zákazy a přerušení provozu řady firem či obchodů jako opatření proti šířícímu se koronaviru postupně přestávají platit. Co už obnovilo svůj provoz v Boskovicích a jaké zákazy už neplatí, přinášíme v následujícím souhrnu, který byl vydaný 11. května v 8 hodin.*
+*Zákazy a přerušení provozu řady služeb, firem či obchodů jako opatření proti šířícímu se koronaviru postupně přestávají platit. Co už obnovilo svůj provoz v Boskovicích a jaké zákazy už neplatí, přinášíme v následujícím souhrnu, který byl vydaný 11. května v 8 hodin.*
 
 {% photo src="https://i.ohlasy.info/i/556b518b.jpeg" author="Tomáš Znamenáček" %}
 
