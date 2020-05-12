@@ -1,8 +1,3 @@
-- name: Koronaweb
-  image: https://i.ohlasy.info/i/9e35bc4b.png
-  alt: "Aktuální web ke koronaviru v regionu"
-  url: https://korona.ohlasy.info/
-  priority: 1000
 - name: KZMB
   image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?7
   alt: Kulturní akce na Boskovicku
