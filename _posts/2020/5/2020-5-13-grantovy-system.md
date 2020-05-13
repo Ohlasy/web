@@ -1,6 +1,7 @@
 ---
 title: Rozdělení peněz na kulturu a volný čas provázejí pochybnosti. Systém se má změnit
 cover-photo: https://i.ohlasy.info/i/4537e537.jpeg
+perex: Více než jeden milion korun rozdělilo letos město Boskovice v dotačním programu pro kulturu a volnočasové aktivity.
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura dotace
