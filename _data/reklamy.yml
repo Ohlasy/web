@@ -3,11 +3,6 @@
   alt: Kulturní akce na Boskovicku
   url: https://www.kulturaboskovice.cz
   priority: 900
-- name: Krmelec Prostor
-  image: https://i.ohlasy.info/i/c7964fc3.jpg
-  alt: "Live stream z kulturního centra Prostor"
-  url: https://krmelec.prostor.wtf/
-  priority: 900
 - name: Muzeum
   image: https://i.ohlasy.info/i/82a3f196.png
   alt: Vernisáž výstavy Alfonse Muchy v Muzeu
