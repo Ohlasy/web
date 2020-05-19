@@ -7,7 +7,7 @@ category: zpravodajství
 tags: politika koronavirus
 ---
 
-*Odložené jednání boskovického zastupitelstva proběhlo namísto obvyklého dubnového termínu ve středu 13. května. A měnilo se i místo konání, kvůli lepší možnosti nachystat zasedání s dostatečnými rozestupy usedli zastupitelé v sokolovně. Jednání bylo relativně krátké, zastupitelé se nepouštěli do delších diskusí.*
+*Odložené jednání boskovického zastupitelstva proběhlo namísto obvyklého dubnového termínu v úterý 12. května. A měnilo se i místo konání, kvůli lepší možnosti nachystat zasedání s dostatečnými rozestupy usedli zastupitelé v sokolovně. Jednání bylo relativně krátké, zastupitelé se nepouštěli do delších diskusí.*
 
 {% photo src="https://i.ohlasy.info/i/5419bc3b.jpeg" author="Tomáš Trumpeš" %}
 
