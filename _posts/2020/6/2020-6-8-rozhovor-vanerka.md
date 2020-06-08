@@ -17,13 +17,13 @@ Vyrazili. Aktuálně je mnohem větší návštěvnost na hradě, protože je to
 
 **A na zámku?**
 
-Za první víkend to bylo necelých 200 lidí. Vyšli jsme návštěvníkům vstříc, prohlídky jdou maximálně po půlhodinách, za špatného počasí jsme chodili po patnáct minutách, aby nemuseli čekat. Je to kvůli nařízením, na prohlídkové trase se musí dodržovat rozestupy, tudíž u nás nemůže jít větší skupina než patnáct lidí.
+Za první víkend to bylo necelých 200 lidí. Vyšli jsme návštěvníkům vstříc, prohlídky jdou maximálně po půlhodinách, za špatného počasí jsme chodili po patnácti minutách, aby nemuseli čekat. Je to kvůli nařízením, na prohlídkové trase se musí dodržovat rozestupy, tudíž u nás nemůže jít větší skupina než patnáct lidí.
 
 **Normálně je to kolik?**
 
 Čtyřicet pět. Minimum bylo právě patnáct, teď chodíme i se dvěma lidmi nebo s jediným člověkem, který přijde, koupí si vstupenku a čeká maximálně půl hodiny. Průvodce se mu věnuje standardně 45 minut. Návštěvníci jsou hrozně milí, vřelí, mají radost, že se něco otevřelo a že můžu někam vyjet. Na hradě obzvlášť, máme kladné ohlasy i na zřízení permanentky, kterou budou využívat povětšinou Boskováci. Tady na zámku se to opravdu zatím rozjíždí, ale také máme kladné ohlasy od návštěvníků. Žádný konflikty ohledně roušek v instalaci, všechno probíhá, jak má, žádné negativní reakce na opatření nejsou. 
 
-**Takže s jakými pocity vstupujete do sezóny? Někdo říká, že lidé se budou bát komkoli chodit, někdo zase predikuje, že nebudou moci jezdit do zahraničí a vyrazí na hrady zámky.**
+**Takže s jakými pocity vstupujete do sezóny? Někdo říká, že lidé se budou bát kamkoli chodit, někdo zase predikuje, že nebudou moci jezdit do zahraničí a vyrazí na hrady a zámky.**
 
 Do zahraničí se bude moci jezdit. 
 
@@ -45,7 +45,7 @@ Personálně jsme nemuseli ani hrad ani zámek zeštíhlovat. Ale hodně mě to 
 
 **Řekl jsi, že tvá hlavní idea tady na zámku byla proměna zámecké instalace. V čem ta změna spočívala a proč bylo dobré ji udělat?**
 
-Potřeba změny vyšla od jednatele společnosti MP Holding Dominika Božka – posunout zámek směrem, kterým se posunují ostatní okolní hrady zámky, které jsou státní. Do loňského roku byla prohlídková trasa v podstatě empírovou expozicí na Moravě. Proto se zámek prezentoval jako empírová perla Moravy, což jsme dodnes a budeme neustále. Hraběcí rodina Mensdorff-Pouilly byla upozaďována, v prohlídkové trase se o ní příliš nemluvilo a nebyly zde návaznosti. Vize pana Dominika byla vrátit zámek zpátky do podoby rodinného domu majitelů. Funguje tak dodnes, majitelé zde bydlí, ale šlo o to, představit tak i prohlídkovou trasu, *piano nobile*, návštěvníkům. Aby to nebyly ty suché empírové místnosti a opravdu muzejní expozice, ale aby to bylo mnohem bližší a návštěvníky to vtáhlo příběhem rodiny Mensdorff-Pouilly. Celá prohlídková trasa se tak odvíjí – máme pánský apartmán, dámský, apartmá babičky a dědečka pana hraběte Huga. O Mensdorffech se mluví téměř v každé místnosti.
+Potřeba změny vyšla od jednatele společnosti MP Holding Dominika Božka – posunout zámek směrem, kterým se posunují ostatní okolní hrady a zámky, které jsou státní. Do loňského roku byla prohlídková trasa v podstatě empírovou expozicí na Moravě. Proto se zámek prezentoval jako empírová perla Moravy, což jsme dodnes a budeme neustále. Hraběcí rodina Mensdorff-Pouilly byla upozaďována, v prohlídkové trase se o ní příliš nemluvilo a nebyly zde návaznosti. Vize pana Dominika byla vrátit zámek zpátky do podoby rodinného domu majitelů. Funguje tak dodnes, majitelé zde bydlí, ale šlo o to, představit tak i prohlídkovou trasu, *piano nobile*, návštěvníkům. Aby to nebyly ty suché empírové místnosti a opravdu muzejní expozice, ale aby to bylo mnohem bližší a návštěvníky to vtáhlo příběhem rodiny Mensdorff-Pouilly. Celá prohlídková trasa se tak odvíjí – máme pánský apartmán, dámský, apartmá babičky a dědečka pana hraběte Huga. O Mensdorffech se mluví téměř v každé místnosti.
 
 **Jak velká byla proměna jednotlivých místností?**
 
@@ -61,7 +61,7 @@ Přesně tak. Trend vracet hrady a zámky do té původní podoby, kdy je v urč
 
 **Tys pracoval na památkovém ústavu, navíc tady v regionu, takže jsi to tady dobře znal. Vnímals to tak, že hrad a zámek Boskovice mají nevyužitý potenciál? Že lze dosáhnout třeba i výrazného zvýšení zájmu o ně?**
 
-Obrovský nevyužitý potenciál. Hradu, zámku, parku, lesoparku, židovského města, centra Boskovic. Absolutně nevyužitý potenciál reklamy a turistického ruchu. Památkový ústav má obrovskou výhodu základny asi 120 hradů zámků a obrovský rozpočet na reklamu a propagaci. Tady je to podle mého názoru absolutně nevyužito a těží se pouze z toho, že aktuální návštěvníci ví, že Boskovice existují, že sem mohou zajet. Jsou to spíš návštěvníci, kteří objekt znají ze školních zájezdů, tedy generace, která přechází do pozdějšího věku. Potenciál, že zde návštěvníci mohou v rámci turismu strávit aktivně víc než jeden den, je oproti Moravskému krasu absolutně nevyužitý a je potřeba to právě nakopnout a spojit. Nepropaguji pouze hrad zámek, ale i město Boskovice jako takové. A to je ten nevyužitý potenciál, který je mnohem zajímavější oproti památkovému ústavu.
+Obrovský nevyužitý potenciál. Hradu, zámku, parku, lesoparku, židovského města, centra Boskovic. Absolutně nevyužitý potenciál reklamy a turistického ruchu. Památkový ústav má obrovskou výhodu základny asi 120 hradů a zámků a obrovský rozpočet na reklamu a propagaci. Tady je to podle mého názoru absolutně nevyužito a těží se pouze z toho, že aktuální návštěvníci ví, že Boskovice existují, že sem mohou zajet. Jsou to spíš návštěvníci, kteří objekt znají ze školních zájezdů, tedy generace, která přechází do pozdějšího věku. Potenciál, že zde návštěvníci mohou v rámci turismu strávit aktivně víc než jeden den, je oproti Moravskému krasu absolutně nevyužitý a je potřeba to právě nakopnout a spojit. Nepropaguji pouze hrad a zámek, ale i město Boskovice jako takové. A to je ten nevyužitý potenciál, který je mnohem zajímavější oproti památkovému ústavu.
 
 **Jaká je dnes návštěvnost hradu a zámku? A jaké jsou mezi nimi rozdíly?**
 
@@ -75,11 +75,11 @@ Hrad ten potenciál poslední dva tři roky využívá hodně. Víkendy od břez
 
 **A akce pro veřejnost?**
 
-Ty samozřejmě taky. Koncerty a velké velké akce na hradě se dělají, areál hradu je k tomu ideální. Není tam žádný problém uspořádat v podstatě cokoliv. Teď jde o to nabídku rozšířit právě i tady na zámku, a to nejenom co se týká svatebních obřadů, ale i pronájmů přímo na celou svatbu – obřad, hostina, oslava po svatebním obřadu. Zámecký park k tomu přímo vybízí. Letos měl být třetí ročník Boskofestu, který se v zámeckém parku poměrně hodně chytil, návštěvnost byla opravdu velká. Aktuálně budeme rozšiřovat možnost využití prostor, které lze komerčně využít, aby zde byla nabídka tak velká jako právě na hradě. Napřed ty prostory musíme uzpůsobit, začíná to rekonstrukcí sociálního zařízení a zázemí. Předpokládám, že v letošní sezóně vzhledem k situaci komerční akce moc nebudou, a na příští sezónu už bychom to rádi měli nachystané.
+Ty samozřejmě taky. Koncerty a velké akce na hradě se dělají, areál hradu je k tomu ideální. Není tam žádný problém uspořádat v podstatě cokoliv. Teď jde o to, nabídku rozšířit právě i tady na zámku, a to nejenom co se týká svatebních obřadů, ale i pronájmů přímo na celou svatbu – obřad, hostina, oslava po svatebním obřadu. Zámecký park k tomu přímo vybízí. Letos měl být třetí ročník Boskofestu, který se v zámeckém parku poměrně hodně chytil, návštěvnost byla opravdu velká. Aktuálně budeme rozšiřovat možnost využití prostor, které lze komerčně využít, aby zde byla nabídka tak velká jako právě na hradě. Napřed ty prostory musíme uzpůsobit, začíná to rekonstrukcí sociálního zařízení a zázemí. Předpokládám, že v letošní sezóně vzhledem k situaci komerční akce moc nebudou, a na příští sezónu už bychom to rádi měli nachystané.
 
 **Ekonomická stránka věci je na soukromém objektu asi dost odlišná od státního, kde přichází peníze na mzdy, existují schválené rozpočty, dotace na investice. Dá se na soukromých objektech vůbec uvažovat, že by si vydělaly na běžný provoz?** 
 
-Toto je moje vize do tří let, aby hrad zámek byl v podstatě soběstačný, co se týká výdajů na mzdy. Co se týká energií, je to trošku složitější, jsme obrovský objekt, který se z velké části vytápí. Ale máme zase tu výhodu, že hrad a zámek spadají do holdingu, tím pádem si firmy navzájem pomáhají. Kdyby na sebe měly zámek a hrad vydělat, je to ekonomická sebevražda. Ale moje vize je opravdu, aby do tří let hrad zámek vydělaly na provoz. Ať už to bude samotné provádění a běžný turistický ruch, ale právě i ty komerční akce, svatby a pronájmy.
+Toto je moje vize do tří let, aby hrad a zámek byly v podstatě soběstačné, co se týká výdajů na mzdy. Co se týká energií, je to trošku složitější, jsme obrovský objekt, který se z velké části vytápí. Ale máme zase tu výhodu, že hrad a zámek spadají do holdingu, tím pádem si firmy navzájem pomáhají. Kdyby na sebe měly zámek a hrad vydělat, je to ekonomická sebevražda. Ale moje vize je opravdu, aby do tří let vydělaly na provoz. Ať už to bude samotné provádění a běžný turistický ruch, ale právě i ty komerční akce, svatby a pronájmy.
 
 **Jaký je technický stav hradu a zámku? Potřebují nějaké veliké investice?**
 
