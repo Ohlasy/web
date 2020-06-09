@@ -13,6 +13,11 @@
   url: https://ohlasy.info/podcast/
   alt: "Ohlasy Podcast"
   priority: 800
+- name: Impro
+  image: https://i.ohlasy.info/i/8663c5d7.png
+  url: https://www.improlisky.cz
+  alt: Improzápas Lísky vs. Lísky
+  priority: 800
 - name: Prostor
   image: https://i.ohlasy.info/i/0071e537.png
   url: https://prostor.wtf
