@@ -97,7 +97,7 @@ Takže cílová skupina se mění v průběhu roku a nejde říct, že by šlo t
 
 **Říkáš Rájec, Lysice, Kunštát – to jsou státní zámky v okolí. Spolupracujete třeba na propagaci? Funguje to, přestože jste jiní tím, že jste soukromí?**
 
-Jsem odkojený na památkovém ústavu a ze všemi třemi kastelány se velmi dobře znám. V letošním roce chceme spolupráci opravdu hodně aktivně podpořit, hlavně na hlavní sezónu. Nevím, jak moc to fungovalo doteď, ale už jsme domluveni na konkrétní spolupráci propagace a posílání si vzájemně turistů. Není to jenom Kunštát, Lysice a Rájec, ale je to i Moravská Třebová a zámek v Blansku, ty jsou také státní, ale nespadají pod Národní památkový ústav. I oni potřebují podporu stejně jako my. 
+Jsem odkojený na památkovém ústavu a se všemi třemi kastelány se velmi dobře znám. V letošním roce chceme spolupráci opravdu hodně aktivně podpořit, hlavně na hlavní sezónu. Nevím, jak moc to fungovalo doteď, ale už jsme domluveni na konkrétní spolupráci propagace a posílání si vzájemně turistů. Není to jenom Kunštát, Lysice a Rájec, ale je to i Moravská Třebová a zámek v Blansku, ty jsou také státní, ale nespadají pod Národní památkový ústav. I oni potřebují podporu stejně jako my. 
 
 **Jak funguje spolupráce s městem? Na posledním jednání zastupitelstva se zrovna řešil destinační management, tys už zmínil rezervy v propagaci města jako celku. Probíhá teď nějaká spolupráce?**
 
