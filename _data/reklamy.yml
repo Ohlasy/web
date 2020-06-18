@@ -8,6 +8,11 @@
   alt: Vernisáž výstavy Alfonse Muchy v Muzeu
   url: http://www.muzeum-boskovicka.cz/predehra-ke-slave-alfons-mucha-rana-tvorba-1881-1895/a-1308/p1=1098
   priority: 900
+- name: Dílna
+  image: https://i.ohlasy.info/i/b1b9cd9a.png
+  alt: Letní výtvarná dílna pro děti
+  url: http://moudryosel.cz/tabory/vytvarne-leto-pro-deti/
+  priority: 800
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast/
