@@ -31,7 +31,7 @@ Zároveň musí nemocnice z vlastního rozpočtu  zaplatit modernizaci stravovac
 
 ### Letní kino promítá
 
-Poslední etapa rekonstrukce letního kina se blíží ke konci, a tak už minulý pátek mohlo začít promítat, zatím s omezenou kapacitou do 500 diváků, od pondělka navýšených na dvojnásobek. Nejméně tisícovku lidí právě chtějí také pořadatelé již pravidelného filmového víkendu ČSFD, který by se měl konat od 7. do 9. srpna. Definitivní rozhodnutí k jeho konání ale ještě nevydali.
+Poslední etapa rekonstrukce letního kina se blíží ke konci, a tak už minulý pátek mohlo začít promítat, nově je kapacita stanovená na tisíc diváků. Nejméně tisícovku lidí právě chtějí také pořadatelé již pravidelného filmového víkendu ČSFD, který by se měl konat od 7. do 9. srpna. Definitivní rozhodnutí k jeho konání ale ještě nevydali.
 
 Děti si mohou zábavu v posledních dnech, když zrovna neprší, užívat u Kauflandu, kde jsou pravidelně umístěné kolotoče mimo termín boskovické poutě. I ta se bude konat tradičně na parkovišti u restaurace Zlatá Růže. Radní už rozhodli, že se tam mohou kolotoče postavit a že trhy budou na Masarykově náměstí. Také fotbalisté už oznámili, že uspořádají tradiční pouťové zábavy ve sportovním areálu Červená zahrada. Maximální počet už je dost velký, aby se jim akce vyplatila. Se svými „čochy“ na výletišti počítají i dobrovolní hasiči Mazurie.
 
