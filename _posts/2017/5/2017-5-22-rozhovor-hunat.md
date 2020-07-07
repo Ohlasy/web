@@ -63,7 +63,7 @@ Přesně tak. V práci už byly taky nějaké tlaky, to by bylo na dlouhé vypr�
 
 Necelý půlrok. Sebrali nás 2. září a pustili 22. ledna. Vykopli nás z Ruzyně v teniskách a v letním oblečení. Po zatčení bylo hlavně nepříjemné, že člověk neměl žádné informace, jak jsou na tom ostatní, snažili se nás co nejvíc izolovat a zkoušeli ty svoje hry. Ale o mně se říkalo, že snad umím sedět. Nejvíc mi dodávalo sílu, že jsem věděl, že jsme fakt nic neudělali. Že pravda je na naší straně a jednou se ukáže. Taky jsem nekouřil a neměl žádnou závislost, i to je výhoda. Blbý bylo, že jsem měl rodinu, dvě malé děti. Na to samozřejmě taky tlačili. Ale myslím, že jsme to ustáli, i ten proces. Zvedla se vlna solidarity i ve světě, podpisové akce, novináři… a už bylo období perestrojky, kdy ani oni už nebyli úplně tak jistí.
 
-{% photo src="https://i.ohlasy.info/i/lcujvxb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eb09746c.jpg" author="Tomáš Znamenáček" %}
 
 ### Akt kulturní sebeobrany
 
