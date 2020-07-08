@@ -24,7 +24,7 @@ Až když se v červnu začala uvolňovat opatření a počet účastníků na a
 
 Zaprvé by se to už nestihlo zorganizovat, zadruhé nebyla taková kapacita návštěvníků, takže bychom to stejně museli omezovat a třetí důvod byl, že jsme nevěděli, jak by se k tomu postavilo město a místní lidi. Pořád přetrvávaly obavy, aby se situace nezačala zhoršovat. Z těchto důvodů jsme se rozhodli, že to posuneme a začneme pracovat na menší variantě. Pořád byl risk, jestli budou povoleny čtyři tisíce návštěvníků, se kterými se vždycky počítá. A pořád se ještě řešila různá hygienická opatření, roušky, rozestupy a podobné věci. To jsme pořád nevěděli přesně. Nakonec jsme se rozhodli udělat festival bez velké hudební scény v letním kině.
 
-**Vůbec jsme nezvažovali, že byste letos neudělali nic a akci rovnou přesunuli na rok 2021? Tak to udělalo hodně festivalů.**
+**Vůbec jste nezvažovali, že byste letos neudělali nic a akci rovnou přesunuli na rok 2021? Tak to udělalo hodně festivalů.**
 
 Taky jsme o tom přemýšleli. To byly od března pořád dvě varianty: buď to nebude vůbec, tedy festival přesuneme na příští rok, nebo menší varianta, pokud to opatření dovolí. A když se začalo rozvolňovat, měli jsme velké sezení, kde se sešel celý pracovní tým a dramaturgové jednotlivých scén. Ve výsledku se většina přiklonila k tomu, že festival chceme udělat. Hodně lidí už v tom mělo spoustu práce, byli by zklamaní. Na akci se těšili, stejně jako celý okruh dobrovolníků. Na festivalu pracuje hrozně moc lidí, byli by z toho smutní.
 
