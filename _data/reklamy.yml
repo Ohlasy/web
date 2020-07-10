@@ -13,6 +13,11 @@
   alt: Festival Boskovice 2020
   url: https://www.boskovice-festival.cz/
   priority: 900
+- name: Festiválek
+  image: https://i.imgur.com/e98ZYZR.png
+  alt: Festiválek bez bojů a válek 2020
+  url: http://www.festivalekbezbojuavalek.cz/ 
+  priority: 900
 - name: Dílna
   image: https://i.ohlasy.info/i/b1b9cd9a.png
   alt: Letní výtvarná dílna pro děti
