@@ -18,6 +18,11 @@
   alt: Festiválek bez bojů a válek 2020
   url: http://www.festivalekbezbojuavalek.cz/ 
   priority: 900
+- name: Festival Raveyard
+  image: https://i.imgur.com/8C4gEtV.jpg
+  alt: Raveyard Festival 2020
+  url: https://www.facebook.com/events/1189239604757478/
+  priority: 900
 - name: Dílna
   image: https://i.ohlasy.info/i/b1b9cd9a.png
   alt: Letní výtvarná dílna pro děti
