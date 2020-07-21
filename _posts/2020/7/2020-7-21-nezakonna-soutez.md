@@ -1,7 +1,7 @@
 ---
 title: "Město připravilo na halu soutěž, která je podle komory architektů nezákonná"
 cover-photo: https://i.ohlasy.info/i/78acd78a.png
-perex: Nejen neregulérní, ale přímo nezákonné – takové jsou podle komory architektů podmínky architektonické soutěže, kterou vyhlásilo město Boskovice na sportovní halu. Soutěž odporuje hned v několika bodech jak etickému řádu České komory architektů, tak zákonu o zadávání veřejných zakázek.
+perex: Nejen neregulérní, ale přímo nezákonné – takové jsou podle komory architektů podmínky architektonické soutěže, kterou vyhlásilo město Boskovice na sportovní halu.
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
