@@ -1,7 +1,7 @@
 ---
-title: Pročpak ty utajené konkurzy? O ZUŠ nevíme oficiálně nic
+title: Pročpak ty utajené konkurzy? O ZUŠ nevíme oficiálně nic
 cover-photo: https://i.ohlasy.info/i/4ldhvc3.jpg
-perex: V oblasti transparentnosti politiky a veřejné správy udělala společnost za poslední roky velký krok dopředu. Není čas otevřít pomyslné dveře i ke konkurzům na řídící posty ve veřejných institucích?
+perex: V oblasti transparentnosti veřejné správy jsme za poslední roky udělali velký krok dopředu. Není čas otevřít pomyslné dveře i ke konkurzům na řídící posty ve veřejných institucích?
 author: Tomáš Trumpeš
 category: názory a komentáře
 ---
