@@ -1,13 +1,13 @@
 ---
 title: „Řeky se vylijí z břehů, pokud se nestaráme o svůj vnitřní svět.“
 cover-photo: https://i.ohlasy.info/i/5b5d27dd.jpeg
-perex: Rozhovor s písničkářkou Alen, vlastním jménem Alenou Pohlovou, která právě vydává album Když se řeky vylijí z břehů. Křest a první z koncertů bude v sobotu 1. srpna v boskovickém Prostoru.
+perex: Rozhovor s písničkářkou Alen, vlastním jménem Alenou Pohlovou, která právě vydává album Až se řeky vylijí z břehů. Křest a první z koncertů bude v sobotu 1. srpna v boskovickém Prostoru.
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura
 ---
 
-*Rozhovor s písničkářkou Alen, vlastním jménem Alenou Pohlovou, která právě vydává album Když se řeky vylijí z břehů. Křest a první z řady koncertů se uskuteční v sobotu 1. srpna v boskovickém Prostoru. Album obsahuje sedm písní.*
+*Rozhovor s písničkářkou Alen, vlastním jménem Alenou Pohlovou, která právě vydává album Až se řeky vylijí z břehů. Křest a první z řady koncertů se uskuteční v sobotu 1. srpna v boskovickém Prostoru. Album obsahuje sedm písní.*
 
 {% photo src="https://i.ohlasy.info/i/5b5d27dd.jpeg" author="Tomáš Znamenáček" %}
 
