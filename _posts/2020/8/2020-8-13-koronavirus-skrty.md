@@ -11,7 +11,7 @@ tags: koronavirus
 
 {% photo src="https://i.ohlasy.info/i/6769cec4.jpg" caption="Letovický klášter" author="Petr Novák, Wikipedia" %}
 
-O situaci v Boskovicích jsme už několikrát informovali. Město mělo na letošní rok naplánovaný rozpočet, který počítal z celkovými příjmy přes 350 milionů korun. Daňové příjmy z toho tvoří asi polovinu. Výdaje si město schválilo ve výši něco přes 390 milionů korun.
+O situaci v Boskovicích jsme už několikrát informovali. Město mělo na letošní rok naplánovaný rozpočet, který počítal z celkovými příjmy přes 350 milionů korun, hned první rozpočtové opatření v únoru je však upravilo na 395 milionů. Daňové příjmy z toho tvoří asi polovinu. Výdaje si město schválilo ve výši něco přes 390 milionů korun.
 
 Červnové zastupitelstvo schválilo rozpočtové opatření, které už reagovalo na výpadky způsobené koronavirovou krizí. Příjmy města byly na základě predikce ministerstva financí sníženy na 372 milionů a výdaje seškrtány na 376 milionů korun. Zatím se tedy počítalo s více než dvacetimilonovým výpadkem pro letošek, tedy při zohlednění kompenzace, kterou městům a obcím schválil stát – ta činí 1250 korun na obyvatele.
 
