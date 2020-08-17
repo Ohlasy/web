@@ -13,7 +13,7 @@ tags: doprava
 
 **Jak se zrodil nápad, že by se koloběžky mohly objevit v Boskovicích?**
 
-Boskovice budou asi vůbec nejmenší město na světě, kde jakákoliv firma koloběžky provozuje. Ekonomicky to nedává moc žádný smysl. Nápad se mi zrodil v hlavě asi před měsícem. Máme nějaké koloběžky navíc, o kterých víme, že nebudou letos využité. Spíš tak ve vtipu jsem začal v práci říkat: hele, to by bylo super, pojďme je přenést do Boskovic. Pracuju ve firmě už dlouho, nějak jsem si to tady postavil a říkal jsem, že by bylo skvělé nějaký z našich produktů přinést sem.
+Boskovice budou asi vůbec nejmenší město na světě, kde jakákoliv firma koloběžky provozuje. Ekonomicky to nedává moc žádný smysl. Nápad se mi zrodil v hlavě asi před měsícem. Máme nějaké koloběžky navíc, o kterých víme, že nebudou letos využité. Spíš tak ve vtipu jsem začal v práci říkat: hele, to by bylo super, pojďme je přenést do Boskovic. Pracuju ve firmě už dlouho a říkal jsem, že by bylo skvělé nějaký z našich produktů přinést sem.
 
 **To jsou jaké produkty?**
 
