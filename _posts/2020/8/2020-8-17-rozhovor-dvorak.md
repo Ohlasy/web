@@ -67,7 +67,7 @@ Půjde s nimi jezdit prakticky kdekoli, ale jde o to, kde s nimi můžeš zapark
 
 **A ty hlavní spoty?**
 
-Ma sami budeme koloběžky aktivně rozmisťovat třeba u autobusového nádraží, u nemocnice, na dvou místech na náměstí, před muzeem, dole před Červenkou, na točně, jak je Gagarinova a Ludvíka Vojtěcha. Aby i tam si mohli lidi koloběžku vzít a přesunout se do centra. A pak bude záležet na lidech, jak budou koloběžky využívat a kde je nechají zaparkované. Když si ji půjčí v centru a pojedou s ní na okraj města a bude to v povolené zóně, můžou ji nechat zaparkovanou prakticky kdekoliv. A my v moment, kdy uvidíme, že tam koloběžka stojí dlouho a nikdo ji nevyužívá, tak ji vezmeme a převezeme do centra.
+My sami budeme koloběžky aktivně rozmisťovat třeba u autobusového nádraží, u nemocnice, na dvou místech na náměstí, před muzeem, dole před Červenkou, na točně, jak je Gagarinova a Ludvíka Vojtěcha. Aby i tam si mohli lidi koloběžku vzít a přesunout se do centra. A pak bude záležet na lidech, jak budou koloběžky využívat a kde je nechají zaparkované. Když si ji půjčí v centru a pojedou s ní na okraj města a bude to v povolené zóně, můžou ji nechat zaparkovanou prakticky kdekoliv. A my v moment, kdy uvidíme, že tam koloběžka stojí dlouho a nikdo ji nevyužívá, tak ji vezmeme a převezeme do centra.
 
 **Zaparkovat koloběžku můžu opravdu kdekoliv?**
 
@@ -107,7 +107,7 @@ Na základě toho jsem si řekl, že na tom ale asi něco bude, a začal se lid�
 
 **Kolik to stojí a jak funguje ten systém placení?**
 
-Funguje to podobně, jako když máš v telefonu aplikaci, přes kterou i kupuješ třeba oblečení. Nebo to můžeme přirovnat k nějakému obyčejnému e-shopu. Nakoupíš věci, zadáš číslo karty, peníze se ti strhnou a věci přijedou. Tady je princip podobný: stáhneš si naši aplikaci, zaregistruješ se, to vše je zadarmo, vložíš svoje údaje o platební kartě. Ta karta tam zůstane uložená a samo se ti z ní nic nestrhává. Teprve až se chceš svézt, přijdeš ke koloběžce, zmáčkneš jedno tlačítko v aplikaci, otevře se ti automaticky foťák a oskenuješ QR kód, který je na koloběžce. Ta se tím zapne, rozsvítí se a udělá takový hezký zvuk. Ty jedeš, kam potřebuješ, pak zaparkuješ, kikneš na ukončit jízdu a ono tě to vyzve, abys vyfotil koloběžku. To aby viděli, že tam opravdu je a že byla správně zaparkovaná. Pak se ti z karty automaticky strhne cena.
+Funguje to podobně, jako když máš v telefonu aplikaci, přes kterou i kupuješ třeba oblečení. Nebo to můžeme přirovnat k nějakému obyčejnému e-shopu. Nakoupíš věci, zadáš číslo karty, peníze se ti strhnou a věci přijedou. Tady je princip podobný: stáhneš si naši aplikaci, zaregistruješ se, to vše je zadarmo, vložíš svoje údaje o platební kartě. Ta karta tam zůstane uložená a samo se ti z ní nic nestrhává. Teprve až se chceš svézt, přijdeš ke koloběžce, zmáčkneš jedno tlačítko v aplikaci, otevře se ti automaticky foťák a oskenuješ QR kód, který je na koloběžce. Ta se tím zapne, rozsvítí se a udělá takový hezký zvuk. Ty jedeš, kam potřebuješ, pak zaparkuješ, klikneš na ukončit jízdu a ono tě to vyzve, abys vyfotil koloběžku. To aby viděli, že tam opravdu je a že byla správně zaparkovaná. Pak se ti z karty automaticky strhne cena.
 
 **Podle toho, kolik jsem toho najel?**
 
