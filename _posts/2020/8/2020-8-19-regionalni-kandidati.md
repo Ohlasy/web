@@ -17,7 +17,7 @@ Za čtyři politická uskupení – Moravany, PRO zdraví, Levici a DSSS nekandi
 
 ### 5 – Demokratická strana zelených – Za práva zvířat
 
-Jednu zástupkyni mají Boskovice na kandidátní listině neparlamentní strany Demokratická strana zelených – Za práva zvířat. Na druhém místě kandiduje dispečerka mezinárodní kamionové dopravy a ochránkyně zvířat Lenka Němcová z Boskovic. V minulých krajských volbách tato strana kandidovala jako součást koalice Ne ilegální imigraci – peníze raději pro naše lidi. Uskupení získalo pouhých 0,29 procenta.
+Jednu zástupkyni mají Boskovice na kandidátní listině neparlamentní strany Demokratická strana zelených – Za práva zvířat. Tu do voleb vede Martina Nováková a na druhém místě kandiduje boskovická dispečerka mezinárodní kamionové dopravy a ochránkyně zvířat Lenka Němcová. V minulých krajských volbách tato strana kandidovala jako součást koalice Ne ilegální imigraci – peníze raději pro naše lidi. Uskupení získalo pouhých 0,29 procenta hlasů.
 
 ### 12 – KDU-ČSL
 
