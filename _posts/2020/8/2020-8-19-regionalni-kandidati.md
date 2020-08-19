@@ -64,11 +64,11 @@ Z Blanska je na 24. pozici místní radní Radek Šinkora.
 
 Komunisté obhajují 9,69 procent hlasů a 7 mandátů. Do voleb je vede blanenský zastupitel Stanislav Navrkal, který ve stávajícím krajském zastupitelstvu působil jako předseda kontrolního výboru. Přímo z Boskovic nekandiduje za komunisty nikdo, region zastupují Jaroslava Konůpková z Letovic na 30. místě, Radoslav Hruda ze Svitávky na 37. místě a místostarosta Velkých Opatovic Jaroslav Bárta na 44. místě.
 
-Blansko kromě lídra kandidátky reprezentují ještě Emil Pernica na 30. místě.
+Blansko kromě lídra kandidátky reprezentují ještě Emil Pernica na 30. místě a Natálie Novotná na 51. místě.
 
 ### 70 – Trikolóra
 
-První volební test čeká nové politické hnutí Trikolóra. Do krajských voleb ji na jižní Moravě povede blanenský kandidát, ředitel místní základní školy Pavel Nezval. Na 14. místě kandiduje Karel Trefný z Letovic, dále na 43. místě Zdeněk Bušina z Boskovic a následují ještě boskovičtí kandidáti Jan Machač jako číslo 51 a Pavel Vaněrek s pořadovým číslem 55.
+První volební test čeká nové politické hnutí Trikolóra. Do krajských voleb ji na jižní Moravě povede blanenský kandidát, ředitel místní základní školy Pavel Nezval. Na 14. místě kandiduje Karel Trefný z Letovic, dále na 43. místě Zdeněk Bušina z Boskovic a následují ještě boskovičtí kandidáti Jan Machač mladší jako číslo 51 a Pavel Vaněrek s pořadovým číslem 55.
 
 Blansko zastupuje na kandidátce kromě lídra ještě Libor Nezval na 59. pozici.
 
