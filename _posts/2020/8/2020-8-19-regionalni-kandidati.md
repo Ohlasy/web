@@ -31,7 +31,7 @@ Tentokrát samostatně jde do voleb hnutí Svoboda a přímá demokracie, která
 
 ### 19 – Piráti
 
-Samostatně kandidují tentokrát také Piráti, kteří minule v koalici se Zelenými jen těsně překročili nutnou pětiprocentní hranici a obdrželi 5,11 procent hlasů, což znamenalo 3 mandáty. Lídrem Kandidátky je letos Lukáš Dubec.
+Samostatně kandidují tentokrát také Piráti, kteří minule v koalici se Zelenými jen těsně překročili nutnou pětiprocentní hranici a obdrželi 5,11 procent hlasů, což znamenalo 3 mandáty. Lídrem kandidátky je letos Lukáš Dubec.
 
 Letos za Piráty kandiduje na 47. místě Jan Bařinka z Boskovic a na 51. místě Ondřej Vichta z Kunštátu. Blansko má svého zástupce Luboše Sedláka na 35. pozici.
 
