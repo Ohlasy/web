@@ -25,7 +25,7 @@ Lidovci před čtyřmi lety skončili druzí se ziskem necelých 16 procent hlas
 
 Šanci na zvolení by tak mohl mít spíše blanenský kandidát, kterým je místostarosta František Hasoň, kandidující z 10. pozice.
 
-16 Svoboda a přímá demokracie (SPD)
+### 16 – Svoboda a přímá demokracie (SPD)
 
 Tentokrát samostatně jde do voleb hnutí Svoboda a přímá demokracie, která před čtyřmi lety získala v koalici se Stranou práv občanů 5,66 procent a 4 mandáty. Za SPD letos nekandiduje z Boskovicka nikdo, zato z Blanska vzešel stejně jako minule lídr kandidátky, vysokoškolský pedagog a poslanec Jan Hrnčíř. A z Blanska jsou ještě další dvě kandidátky: Miluše Krejčířová na 18. místě a Zuzana Pallasová na 47. pozici.
 
