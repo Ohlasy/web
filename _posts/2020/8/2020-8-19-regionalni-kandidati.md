@@ -56,7 +56,7 @@ Blansko má svého kandidáta na 3. místě a je jím dosavadní krajský zastup
 
 ### 51 – Starostové pro jižní Moravu
 
-Starosty pro jižní Moravu vede do voleb kyjovský starosta František Lukl. Minule získali 6,21 procent a 4 mandáty. Na 15. místě kandiduje starosta Svitávky Jaroslav Zoubek, na 33. místě boskovický místostarosta Radek Mazáč a na 41. místě starostka Sudic Olga Dočkalová.
+Starosty pro jižní Moravu vede do voleb kyjovský starosta František Lukl. Minule získali 6,21 procent a 4 mandáty. Na 15. místě kandiduje starosta Svitávky Jaroslav Zoubek, na 33. místě boskovický místostarosta Radek Mazáč, na 41. místě starostka Sudic Olga Dočkalová a na 49. místě starosta obce Suchý Jakub Hlubinka.
 
 Z Blanska je na 24. pozici místní radní Radek Šinkora.
 
