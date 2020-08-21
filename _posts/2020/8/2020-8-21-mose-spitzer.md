@@ -1,5 +1,6 @@
 ---
 title: "Příběhy z ghetta: Moše Spitzer, zakladatel moderní hebrejské typografie a knižního designu"
+perex: Letos uplynulo 120 let od narození významného židovského rodáka z Boskovic Mošeho Spitzera, který spatřil světlo světa 8. července 1900.
 cover-photo: https://i.imgur.com/fBMe1iql.jpg
 author: Helena Janíková
 category: seriály
