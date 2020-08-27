@@ -1,0 +1,38 @@
+---
+title: Nová soutěž na halu. S opravenými podmínkami a opět bez komory architektů
+cover-photo: https://i.ohlasy.info/i/cb4885ba.png
+perex: Po kritice České komory architektů, která původní soutěž na boskovickou sportovní halu označila za neregulérní a nezákonnou, město odstranilo některé chyby v zadání.
+author: Tomáš Trumpeš
+category: zpravodajství
+tags: investice architektura
+---
+
+*Novou architektonickou soutěž vyhlásí Boskovice na návrh sportovní haly v Červené zahradě. Po kritice České komory architektů (ČKA), [která původní soutěž označila za neregulérní a její podmínky za nevyhovující zákonu](https://ohlasy.info/clanky/2020/07/nezakonna-soutez.html), město v nové soutěži odstraní některé chyby, ale přímo s komorou na soutěži nadále spolupracovat nebude.*
+
+{% photo src="https://i.ohlasy.info/i/cb4885ba.png" caption="Z urbanistické studie areálu Červená zahrada, kde má nová sportovní hala stát" author="Fránek Architects" %}
+
+„Předchozí soutěž jsme zrušili a vyhlásili soutěž novou. S novou porotou a inovovanými podmínkami,“ uvedl starosta města Jaroslav Dohnálek (ODS). Právě počet členů poroty byl podle starosty hlavním pochybením, kterého se město v původní soutěži dopustilo. Členové poroty se totiž dělí na nezávislé a závislé na vyhlašovateli, přičemž podle zákona musejí mít nezávislí porotci početní převahu. V původní boskovické soutěži tomu bylo naopak. „Ano, tady došlo k pochybení. Kdo nic nedělá, nic nezkazí,“ komentoval situaci starosta.
+
+Nyní budou tedy v porotě čtyři nezávislí členové a tři závislí. Čtyři nezávislí členové jsou zcela noví, protože původní ze soutěže odstoupili. V porotě zasednou historik a kritik architektury Rostislav Švácha, architekt Mojmír Kyselka, který působí na univerzitě v Ostravě, slovenský architekt Ján Pernecký z bratislavské univerzity a Petr Šmídek, který působí na Fakultě architektury VUT v Brně. Na městě závislí členové zůstávají podle původního návrhu městský architekt Zdeněk Fránek, vedoucí investičního odboru Petr Zouhar a místostarosta radek Mazáč (Sportovci). Vypadl tedy zástupce opozice Petr Malach (ČSSD), který zůstává v pozici náhradníka.
+
+Podle městského právníka Martina Moučky jsou nově nastaveny také lhůty pro přihlášení a soutěžní návrhy je možné podávat i elektronicky. I v tomto město vyšlo vstříc názoru komory architektů. Soutěž je ze zákona anonymní, ani soutěžní návrhy tedy nesmí být opatřeny jakoukoli značkou. Důležitá změna je také rozšíření okruhu účastníků o stavební inženýry. Do soutěže už se tedy nemusí přihlašovat pouze autorizovaní architekti, ale také autorizovaní inženýři.
+
+Autorizovaní architekti však ze zákona musejí dodržovat předpisy dané komorou. Podle městského právníka Martina Moučky zákon dává komoře pravomoc bránit architektům v tom, aby se účastnili neregulérních soutěží. Městský právník se ale domnívá, že tímto komora ovlivňuje hospodářskou soutěž. Odvolává se na judikaturu, konkrétně rozhodnutí Nejvyššího správního soudu, které se týkalo České komory autorizovaných inženýrů. „V rozsudku soud řekl, že komora má sice právo vydávat vnitřní předpisy, ale podmínky, že se architekt nemá účastnit soutěže, by měly být doporučujícího charakteru,“ uvedl Martin Moučka. Vyhlašovatelé soutěže totiž nemají povinnost souhlas komory získat. Účast v soutěži bez komory by podle jeho právního názoru neměla být důvodem k tomu, aby byli architekti komorou postihováni. Komora nemá možnost architekty finančně sankcionovat, ale může jim pozastavit činnost.
+
+Starosta Jaroslav Dohnálek prohlásil, že neví, jak se ČKA zachová, ale předpokládá, že soutěž zase označí za neregulérní. Odcitoval také korespondenci šéfredaktora Archiwebu Jana Kratochvíla, který se ve sporu Boskovic zastal a zástupci ČKA Mirko Levovi vyčetl špatné fungování komory. Důležité podle starosty je, aby soutěž splnila podmínky zákona. „My chceme, aby vzniklo něco kvalitního. Kdybychom to nechtěli, vybereme pět studií a nic neporušíme. My to ale chceme jinak, chceme to kvalitně,“ uvedl starosta. 
+
+Mirko Lev z ČKA Ohlasům potvrdil, že komora soutěž opět označí za neregulérní a autorizovaní architekti se jí tudíž nesmějí účastnit. „Pokud to přesto udělají, opět se bude jednat o porušení profesních řádů s danými následky,“ uvedl architekt, který má v ČKA soutěže na starosti. Pokud bude soutěž opravdu dodržovat zákon o zadávání veřejných zakázek, není podle něj naopak důvod obracet se na Úřad pro ochranu hospodářské soutěže.
+
+Hlavním důvodem, proč město nechce pořádat soutěž přes ČKA, jsou podle starosty Jaroslava Dohnálka finance, protože komora by si představovala, že město za projekt utratí přes devět milionů korun, ale město na to má vyhrazeno jen 3,5 milionu. „V tomto tu neregulérnost klidně skousnu a komukoliv ji budu vysvětlovat a budu si za tím stát,“ doplnil starosta.
+
+Zde je důležité říct, že město nesoutěží jen samotnou studii na halu, ale vítěz soutěže bude zpracovávat i navazující projektovou dokumentaci, která tvoří výraznou část nákladů. Na vypracování další projektové dokumentace by město vyhlašovalo nové výběrové řízení jen v případě, že by se s autorem studie na podmínkách nedohodlo.
+
+Zástupce ČKA Mirko Lev ale uvedený argument rozporuje a říká, že ze strany města nikdo s komorou dialog na toto téma nevedl. Připouští, že cenu 3,5 milionu za projekt by ale komora neakceptovala. Nepokládá ji totiž za reálnou. „Reálně to funkční kancelář stěží za 3,5 milionu vyprojektuje, projekt by se v průběhu nejspíš stejně zdražoval dodatky. Na takovém projektu se pracuje v několika fázích roky jak v samotné architektonické a inženýrské kanceláři, tak až u desítek subdodavatelů. Regulérní soutěž má vést ke kvalitnímu projektu s kvalitním partnerem. Takový se ale taky musí zaplatit,“ vysvětlil svůj postoj Mirko Lev. Komora podle něj obvykle požaduje formulaci, že cena projektu bude stanovená dle [honorářové kalkulačky ČKA](https://www.cka.cz/cs/pro-architekty/kalkulacky/pozemni-a-krajinarske-stavby), což by ideálně bylo 10,5 milionu korun. Zároveň říká, že cenu nastavuje investor. „Věřím, že by se našel kompromis, schůdný pro Boskovice. ČKA například v posledních letech pravidla liberalizovala a zavedla institut *regulérnosti s výhradou*, který umožní účast autorizovaným architektům, i když nejsou splněny všechny požadavky řádů ČKA. V orgánech ČKA jsou lidé s praxí ze samosprávy a umí reflektovat reálné požadavky. Nepamatuji, že bychom se nedopracovali k regulérnosti se samosprávou, která stála o proces architektonické soutěže,“ vyjádřil se Mirko Lev.
+
+Výsledná podoba nové soutěže by tak podle zástupců města měla sice vynechat komoru architektů, ale zároveň splnit zákonná ustanovení, aby soutěž nemohl ohrozit případný vstup Úřadu pro ochranu hospodářské soutěže (ÚHOS). Je samozřejmě možné, že někdo soutěž i tak tímto způsobem napadne. „To u žádné zakázky nikdy nevyloučíte,“ vyjádřil se právník Martin Moučka. „Spíš se s tím dá počítat,“ doplnil ho starosta Jaroslav Dohnálek.
+
+Také místostarosta Lukáš Holík (ANO) se vyjádřil, že napadnout se dnes dá cokoliv. Na jednání městské rady proto požadovali, aby došlo k minimalizaci možností, což se podle něj stalo.
+
+Podle naplánovaného harmonogramu má být soutěž vyhlášena do konce srpna a 15. prosince by měla městská rada schvalovat vítěze.
+
+Samotné zadání soutěže zůstalo podle vedoucího investic Petra Zouhara takřka stejné, změnily se jen drobnosti. Pouze se aktuálně dopracovává záměr dopravního napojení celého areálu. To by už ale mělo být součástí navrhovaného řešení. Ve hře jsou dvě varianty, kruhová, či klasická křižovatka. Ještě probíhají konzultace s odborníky na dopravu, ale podle Petra Zouhara to vypadá, že se bude vycházet z řešení pomocí okružní křižovatky.
