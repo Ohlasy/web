@@ -3,6 +3,11 @@
   alt: Husí slavnosti 2020
   url: http://www.husi-slavnosti.cz/
   priority: 900
+- name: Jarmark
+  image: https://i.ohlasy.info/i/abb168d2.jpg
+  alt: Hrnčířský jarmark v Kunštátě
+  url: http://www.hrncirskyjarmark.cz/
+  priority: 900
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast/
