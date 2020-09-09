@@ -3,6 +3,11 @@
   alt: Husí slavnosti 2020
   url: http://www.husi-slavnosti.cz/
   priority: 900
+- name: Muzeum
+  image: https://i.ohlasy.info/i/3dcf4c06.png
+  alt: Výstava Šlechtický rod pánů z Boskovic
+  url: http://www.muzeum-boskovicka.cz/vystava-slechticky-rod-panu-z-boskovic/a-1324/p1=1098
+  priority: 900
 - name: Jarmark
   image: https://i.ohlasy.info/i/abb168d2.jpg
   alt: Hrnčířský jarmark v Kunštátě
