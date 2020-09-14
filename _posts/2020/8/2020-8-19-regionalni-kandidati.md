@@ -3,6 +3,10 @@ title: Regionální kandidáti do krajských voleb
 cover-photo: https://i.imgur.com/PXmrydRl.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - politika
+    - volby
+    - krajské volby 2020
 ---
 
 *Do krajských voleb zbývá něco přes šest týdnů a Český statistický úřad zveřejnil [na adrese volby.cz](https://volby.cz/) jmenné seznamy kandidátů. Ohlasy proto připravily stručný přehled regionálních kandidátů, kteří se ucházejí o krajský mandát.*

@@ -3,7 +3,10 @@ title: Krajské volby se blíží. Kdo povede jednotlivé strany?
 cover-photo: https://i.ohlasy.info/i/dac8bc15.jpeg
 author: Marek Osouch
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - volby
+    - krajské volby 2020
 ---
 
 *Něco málo přes půl roku zbývá do krajských voleb, ve kterých si lidé znovu zvolí své zastupitele a určí tak podobu budoucí koalice na hejtmanství. Kdo se utká o krajská křesla z regionu a jaké mají dotyční politici šance na zvolení?*
