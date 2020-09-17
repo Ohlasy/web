@@ -22,14 +22,14 @@ Nikdo další z občanů se po Janě Syrovátkové už do diskuse nepřihlásil.
 
 ### Nové logo města
 
-Zastupitelé se seznámili s prezentací [nového městského loga](https://ohlasy.info/clanky/2020/08/z-radnice.html). To vytvořila firma Artron a její majitel Jaroslav Vítek zastupitelům logo představil. Nové logo je pouze první částí procesu, který bude pokračovat vytvořením kompletního jednotného vizuálního stylu města.
+Zastupitelé se seznámili s prezentací [nového městského loga](https://ohlasy.info/clanky/2020/08/z-radnice.html). To vytvořila firma Artron a její majitel Jaromír Vítek zastupitelům logo představil. Nové logo je pouze první částí procesu, který bude pokračovat vytvořením kompletního jednotného vizuálního stylu města.
 
-„Vytváření pozitivní image je v zájmu každého města, instituce i firmy,“ řekl v úvodu Jaroslav Vítek. Boskovice jsou podle něj návštěvníky vnímány pozitivně díky památkám i akcím, které zde probíhají. K dobrému obrazu města pak může přispět i kvalitní vizuální komunikace města. A to jak v rovině konkrétních výstupů radnice, tak ve veřejném prostoru, jako je označení budov, a také při propagaci nejrůznějších akcí. Zde je podle majitele Artronu úroveň kolísavá. „Dnes nemáme žádná pravidla, aby byl grafik dejme tomu z druhého konce republiky schopen prezentovat město jednotným stylem,“ vysvětlil Jaroslav Vítek. Město ke své prezentaci doposud používalo hlavně svůj úřední heraldický znak – sedmizubý hřeben. Přesnější pravidla však nebyla dosud stanovena.
+„Vytváření pozitivní image je v zájmu každého města, instituce i firmy,“ řekl v úvodu Jaromír Vítek. Boskovice jsou podle něj návštěvníky vnímány pozitivně díky památkám i akcím, které zde probíhají. K dobrému obrazu města pak může přispět i kvalitní vizuální komunikace města. A to jak v rovině konkrétních výstupů radnice, tak ve veřejném prostoru, jako je označení budov, a také při propagaci nejrůznějších akcí. Zde je podle majitele Artronu úroveň kolísavá. „Dnes nemáme žádná pravidla, aby byl grafik dejme tomu z druhého konce republiky schopen prezentovat město jednotným stylem,“ vysvětlil Jaromír Vítek. Město ke své prezentaci doposud používalo hlavně svůj úřední heraldický znak – sedmizubý hřeben. Přesnější pravidla však nebyla dosud stanovena.
 
 Nové logo dle potřeby může a nemusí být kombinováno právě s městským znakem, kterým zůstává sedmizubý hřeben. Nový vizuální styl má Boskovice prezentovat jako moderní a svěží město. Tvůrci loga se shodli s radnicí na tom, že by se mohlo využít slovního spojení *Bosko–více*, které vychází z pověsti o založení Boskovic. A slovo více se pak dá dále využít.
 
-Městský znak je podle Jaroslava Vítka jednoduchý a dobře graficky využitelný. Při výzkumech se však setkali s tím, že mladší generace a lidé, kteří nejsou z Boskovic, neznají jeho význam, který není vysvětlen třeba ani na Wikipedii.
-Poté Jaroslav Vítek představil jednotlivé varianty, ze kterých se logo vybíralo. Výhoda vítězného loga, které vybírala dvanáctičlenná komise složená ze zástupců politických stran, spočívá podle něj v tom, že není doprovozeno žádným složitým grafickým znakem a je tak dobře a univerzálně použitelné.
+Městský znak je podle Jaromíra Vítka jednoduchý a dobře graficky využitelný. Při výzkumech se však setkali s tím, že mladší generace a lidé, kteří nejsou z Boskovic, neznají jeho význam, který není vysvětlen třeba ani na Wikipedii.
+Poté Jaromír Vítek představil jednotlivé varianty, ze kterých se logo vybíralo. Výhoda vítězného loga, které vybírala dvanáctičlenná komise složená ze zástupců politických stran, spočívá podle něj v tom, že není doprovozeno žádným složitým grafickým znakem a je tak dobře a univerzálně použitelné.
 
 ### Dotace
 
