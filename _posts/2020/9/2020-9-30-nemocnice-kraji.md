@@ -60,7 +60,7 @@ Se zhoršující se ekonomickou situací si dokážeme představit mnohé. Je t�
 
 ---
 
-<img class="profile-picture" src="" alt="">
+<img class="profile-picture" src="https://i.ohlasy.info/i/95fd0829.jpg" alt="">
 
 **Kristýna Znamenáčková, opoziční zastupitelka, Piráti**
 
