@@ -4,7 +4,6 @@ cover-photo: https://i.ohlasy.info/i/lllezgo.jpg
 perex: Letošní krajské volby jsou jako celý letošní rok poněkud specifické, rok před klíčovými volbami do Poslanecké sněmovny jsou ale velmi důležité.
 author: Tomáš Trumpeš
 category: názory a komentáře
-published: false
 ---
 
 *Letošní krajské volby jsou jako celý letošní rok poněkud specifické, mimo jiné jsou v důsledku toho mimořádně nevypočitatelné a také nám asi vzhledem k očekávané nízké účasti nepodají příliš přesnou zprávu o tom, jaká je politická nálada a aktuální názorový profil společnosti. Otázka těchto voleb ani tak nezní, koho budou lidé volit, jako spíš čí voliči k nim přijdou. Přesto a možná paradoxně právě proto jsou důležité, protože nejspíš právě takto budou navzdory zmíněnému zkreslení interpretovány. Rok před klíčovými volbami do Poslanecké sněmovny to ani nemůže být jiné.*
