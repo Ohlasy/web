@@ -1,5 +1,5 @@
 ---
-title: Jak jsme volili v krajských volbách
+title: Jak jsme volili v krajských volbách
 cover-photo: https://i.ohlasy.info/i/474bc9a8.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -8,7 +8,7 @@ tags:
     - krajské volby 2020
 ---
 
-*Volby do krajského zastupitelstva jsou za námi. Kromě celkových výsledků se můžeme podrobněji podívat na to, jak jsme volili v Boskovicích a v regionu a jak si vedli místní kandidáti.*
+*Volby do krajského zastupitelstva jsou za námi. Kromě celkových výsledků se můžeme podrobněji podívat na to, jak jsme volili v Boskovicích a v regionu a jak si vedli místní kandidáti.*
 
 {% photo src="https://i.ohlasy.info/i/474bc9a8.jpeg" author="Tomáš Znamenáček" %}
 
