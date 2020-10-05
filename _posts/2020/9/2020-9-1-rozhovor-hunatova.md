@@ -46,7 +46,7 @@ Zahraniční politiku neustále sledoval, byl to jeho koníček od dětství. By
 
 **Jaký to byl šéf?**
 
-Velice laskavý, velice hodný. Někdy až příliš. A velice pracovitý. Takže vyžadoval stejné nasazení i od svého okolí.Tvrdil, že diplomacie není práce od do, ale že je to poslání. Zkrátka práce na 24 hodin denně, že neustále musí vědět, co se kde děje. A tak, jak on se tomu naplno věnoval, tak předpokládal, že stejný vztah k tomu mají všichni ostatní. Vždycky byl překvapen, když si třeba někdo chtěl vzít dovolenou.
+Velice laskavý, velice hodný. Někdy až příliš. A velice pracovitý. Takže vyžadoval stejné nasazení i od svého okolí. Tvrdil, že diplomacie není práce od do, ale že je to poslání. Zkrátka práce na 24 hodin denně, že neustále musí vědět, co se kde děje. A tak, jak on se tomu naplno věnoval, tak předpokládal, že stejný vztah k tomu mají všichni ostatní. Vždycky byl překvapen, když si třeba někdo chtěl vzít dovolenou.
 
 **Zahraniční politika a renomé Československa byly velmi důležité i pro prezidenta Václava Havla. Dostávali se do konfliktů, nebo mezi nimi panovala shoda?**
 
