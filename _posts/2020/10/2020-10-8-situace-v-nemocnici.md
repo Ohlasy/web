@@ -15,7 +15,7 @@ V nemocnici už [na jaře vytvořili speciální oddělení](https://ohlasy.info
 
 Pro obsluhu oddělení v nejpřísnějších podmínkách musela nemocnice mobilizovat značnou část personálu. Proto přistoupila k omezení následné lůžkové péče a k omezení plánovaných operací. „Zaměstnanci na oddělení podávají mimořádné výkony na hranici fyzických a psychických sil,“ popisuje situaci Dan Štěpánský. Pracovní režim je podle něj extrémně náročný a personál pracuje v situaci, se kterou se dosud nikdy nesetkal.
 
-Ve čtvrtek ráno bylo v boskovické nemocnici 15 pozitivně testovaných pacientů. Kapacity tedy byla naplněna. V případě nutnosti má nemocnice ještě možnost umístit pozitivně testované v pokojích, které nyní slouží pacientům čekajícím na výsledky testů.
+Ve čtvrtek ráno bylo v boskovické nemocnici 15 pozitivně testovaných pacientů. Kapacita tedy byla naplněna. V případě nutnosti má nemocnice ještě možnost umístit pozitivně testované v pokojích, které nyní slouží pacientům čekajícím na výsledky testů.
 
 Ve srovnání s celorepublikovým průměrem je počet pacientů, kteří potřebují hospitalizaci, na okrese Blansko poměrně vysoký. Ve čtvrtek bylo aktuálně pozitivně testovaných na okrese asi čtyři sta lidí a kromě pacientů v Boskovicích má své covidové oddělení také blanenská nemocnice, kde je situace podobná. Při udávaných čtyřech procentech hospitalizovaných by tedy mělo být šestnáct hospitalizovaných na celém okrese, reálný stav je ale mnohem vyšší. „Právě proto jsme už nyní překročili kapacity, které po nás vyžadoval Jihomoravský kraj na základě modelů ministerstva zdravotnictví,“ vysvětluje Dan Štěpánský.
 
