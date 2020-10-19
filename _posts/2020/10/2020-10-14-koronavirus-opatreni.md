@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Česká republika i náš region vstoupily do nového režimu, neboť začala platit přísná opatření, která proti šíření nemoci covid-19 přijala vláda. Čísla ukazují, že k silnému nárůstu nemocných dochází i na okrese Blansko, konkrétně na Boskovicku je šíření nemoci ještě intenzivnější.*
 
-{% photo src="https://i.ohlasy.info/i/de56f4a2.png" caption="Vývoj situace v okresu Blansko" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/fbb1352f.png" caption="Vývoj situace v okresu Blansko. Počty pozitivních na levé svislé ose, počty obětí na pravé svislé ose." author="Marek Osouch" %}
 
 Byly uzavřeny všechny školy s výjimkou mateřských, svoje služby nesmějí v interiérech poskytovat restaurace. Lidé se nesmějí setkávat ve větším počtu než 6 osob, i tak by měli dodržovat bezpečnou dvoumetrovou vzdálenost. Platí příkaz nosit roušky ve vnitřních prostorách a nově také na zastávkách hromadné dopravy.
 
