@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Rozhovor s lékařkou Pavlou Tesaříkovou, vedoucí covid oddělení boskovické nemocnice. Mluvili jsme o aktuální situaci, která se velmi rychle mění, proto je třeba uvést, že rozhovor probíhal v pondělí 19. října.*
 
-{% photo src="https://i.ohlasy.info/i/73d72f80.jpeg" caption="Pavla Tesaříková" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/73d72f80.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" %}
 
 **Před necelými dvěma týdny jsme [mluvili s jednatelem nemocnice panem Štěpánským](https://ohlasy.info/clanky/2020/10/situace-v-nemocnici.html), který říkal: „Zatím to zvládáme, ale jak to bude za týden, nikdo neví.“ Jaká je tedy situace nyní?**
 
