@@ -82,7 +82,7 @@ Takže na atmosféře je to znát. Jsme unavení, podráždění, protože jsme 
 
 **Zhoršení epidemické situace už tedy výrazně pociťujete? Přibývá případů, které potřebují hospitalizaci?**
 
-Rozhodně. A problémem je to, o čem se mluví celou dobu – domovy seniorů a ústavy sociální péče. Oni jsou tam velmi dobří a jsou skvěle nachystaní, ale troufnu si říct, že je otázka času, kdy se to mezi nimi rozšíří. Třeba v sociálním zařízení Paprsek teď mají poměrně hodně pozitivních pacientů a starají se o ně s velmi málo početným personálem, ne zdravotnickým, ale ošetřujícím. Posílají nám opravdu jen pacienty ve špatném stavu. To bych vyzdvihla, že spolupráce je v tomto dobrá. Ale zase v Paprsku mají klientů podstatně míň, než je třeba na Sadové. Tam se to začíná objevovat a to teprve uvidíme.
+Rozhodně. A problémem je to, o čem se mluví celou dobu – domovy seniorů a ústavy sociální péče. Oni jsou tam velmi dobří a jsou skvěle nachystaní, ale troufnu si říct, že je otázka času, kdy se to mezi nimi rozšíří. Třeba v sociálním zařízení Paprsek teď mají poměrně hodně pozitivních pacientů a perfektně se o ně starají. Posílají nám opravdu jen pacienty ve špatném stavu. To bych vyzdvihla, že spolupráce je v tomto dobrá. Ale zase v Paprsku mají klientů podstatně míň, než je třeba na Sadové. Tam se to začíná objevovat a to teprve uvidíme.
 
 **Tím se dostáváme k otázce, která se také nepokládá snadno, ale v jakém stavu jsou pacienti v boskovické nemocnici. Šíří se teď různé teorie o tom, že nemocnice jsou sice plné, ale jsou tam lidé, kteří hospitalizaci vlastně nepotřebují.**
 
