@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Rada Jihomoravského kraje jmenovala nového ředitele boskovické základní umělecké školy. Od 1. prosince letošního roku se jím stane Petr Prosser z Velkých Opatovic, který nyní působí jako učitel bicích na ZUŠ v Letovicích a Jevíčku.*
 
-{% photo src="https://i.ohlasy.info/i/2673c2ad.jpg" author="archiv Petra Prossera" %}
+{% photo src="https://i.ohlasy.info/i/2673c2ad.jpg" author="Jan Košťál" %}
 
 „Rada při svém rozhodování vycházela z výsledků jednání konkurzní komise, podle které byl Petr Prosser nejvhodnějším ze všech devíti uchazečů,“ uvedla tisková mluvčí kraje Monika Brindzáková.
 
