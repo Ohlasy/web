@@ -11,7 +11,7 @@ category: zpravodajství
 
 „Rada při svém rozhodování vycházela z výsledků jednání konkurzní komise, podle které byl Petr Prosser nejvhodnějším ze všech devíti uchazečů,“ uvedla tisková mluvčí kraje Monika Brindzáková.
 
-Petr Prosser vystudoval bicí nástroje na Církevní konzervatoři v Opavě a posléze na Konzervatoři Evangelické akademie v Olomouci. Od roku 1998 do roku 2011 učil na základní umělecké škole ve Velkých Opatovicích, poté přešel do Letovic a do Jevíčka, kde působí dodnes.
+Petr Prosser vystudoval nejprve zobcovou flétnu na Církevní konzervatoři v Opavě a posléze  bicí nástroje na Konzervatoři Evangelické akademie v Olomouci. Od roku 1998 do roku 2011 učil na základní umělecké škole ve Velkých Opatovicích, poté přešel do Letovic a do Jevíčka, kde působí dodnes.
 
 Do konkurzu na ředitele boskovické ZUŠ se přihlásil na základě doporučení ředitele letovické ZUŠ Petra Křivinky. „Někdy v srpnu mi Petr Křivinka zavolal a zeptal se mě, jestli bych o tom nechtěl přemýšlet, že si mě na tom místě dovede představit,“ popsal čerstvě jmenovaný ředitel. Ten tuto možnost nejprve odmítl, ale když následně o celé věci přemýšlel, rozhodl se, že to přece jen zkusí. „Přehodnotil jsem svůj postoj a řekl si, že bych to mohl zkusit. Petr Křivinka mi říkal, že je to dobrá možnost, aby po mně zůstala nějaká stopa. Samozřejmě v dobrém. To mě oslovilo a začal jsem se o to zajímat,“ uvedl Petr Prosser.
 
