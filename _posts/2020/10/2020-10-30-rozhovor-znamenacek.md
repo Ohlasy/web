@@ -6,7 +6,7 @@ author: Tomáš Trumpeš
 category: rozhovory
 ---
 
-*Vedení boskovického pobočného spolku Unijazz, který provozuje kulturní a komunitní centrum Prostor v panském dvoře, si po roce zvolilo nové vedení. Do čela nového výkonného výboru byl jako nový předseda zvolen náš redakční kolega Tomáš Znamenáček. S Prostorem Ohlasy spolupracují a je to dnes už významná kulturní instituce ve městě, a tak jsme Tomášovi Znamenáčkovi při této příležitosti položili několik otázek.*
+*Boskovický pobočný spolek Unijazz, který provozuje kulturní a komunitní centrum Prostor v panském dvoře, si po roce zvolil nové vedení. Do čela nového výkonného výboru byl jako nový předseda zvolen náš redakční kolega Tomáš Znamenáček. S Prostorem Ohlasy spolupracují a je to dnes už významná kulturní instituce ve městě, a tak jsme Tomášovi Znamenáčkovi při této příležitosti položili několik otázek.*
 
 {% photo src="https://i.ohlasy.info/i/9532aa3b.jpeg" author="Magda Arnoštová" %}
 
