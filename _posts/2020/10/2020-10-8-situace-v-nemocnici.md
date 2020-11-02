@@ -1,6 +1,6 @@
 ---
 title: "Boskovická nemocnice: kapacity se plní, personál pracuje na hranici sil"
-cover-photo: https://i.ohlasy.info/i/3dee25db.jpeg
+cover-photo: https://i.ohlasy.info/i/f4f6e2bb.jpeg
 perex: Jako vážnou označil na tiskové konferenci situaci v boskovické nemocnici starosta Jaroslav Dohnálek. Konkrétně ji pro Ohlasy popsal jednatel nemocnice Dan Štěpánský.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Jako vážnou označil na tiskové konferenci situaci v boskovické nemocnici starosta Jaroslav Dohnálek. Konkrétně ji pro Ohlasy popsal jednatel nemocnice Dan Štěpánský. Počet pacientů s nemocí covid-19, kteří potřebují hospitalizaci, je na Boskovicku vysoký a kapacita přestává stačit. Pod enormním tlakem je podle jednatele zdravotnický personál.*
 
-{% photo src="https://i.ohlasy.info/i/3dee25db.jpeg" caption="Veřejné odběrové místo pro testování objednaných pacientů" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/f4f6e2bb.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" %}
 
 V nemocnici už [na jaře vytvořili speciální oddělení](https://ohlasy.info/clanky/2020/03/rozhovor-stepansky.html) pro pacienty, u kterých byl covid-19 již pozitivně testován, a také pro ty, u kterých je podezření na tuto diagnózu a čeká se na výsledky testů. Uzavřeli jedno oddělení v prvním patře nemocnice a právě zde tyto pacienty soustřeďují. Přiváží je obvykle záchranná služba nebo se do nemocnice dostávají přes pohotovost. Kapacita oddělení činí 15 lůžek pro pozitivní pacienty.
 
