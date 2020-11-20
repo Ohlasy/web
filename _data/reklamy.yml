@@ -1,3 +1,8 @@
+- name: KZMB
+  image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?11
+  alt: Boskovické kino promítá online
+  url: https://www.kulturaboskovice.cz/kino
+  priority: 900
 - name: Muzeum
   image: https://i.ohlasy.info/i/3dcf4c06.png
   alt: Výstava Šlechtický rod pánů z Boskovic
