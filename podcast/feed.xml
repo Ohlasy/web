@@ -22,6 +22,8 @@ why: A dummy front matter to make Jekyll process this document
     <item>
       <title>{{ episode.title | xml_escape }}</title>
       <description>{{ episode.description | markdownify | xml_escape }}</description>
+      <itunes:subtitle>{{ episode.description | markdownify | xml_escape }}</itunes:subtitle>
+      <itunes:summary>{{ episode.description | markdownify | xml_escape }}</itunes:summary>
       <itunes:image href="{{ episode.image }}"/>
       <itunes:duration>{{ episode.duration }}</itunes:duration>
       <pubDate>{{ episode.date }}</pubDate>
