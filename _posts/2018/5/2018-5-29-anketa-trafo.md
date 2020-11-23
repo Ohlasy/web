@@ -20,9 +20,9 @@ Nynější návrhy mají sice nějaký nápad, provedení je ale amatérské, ne
 
 {% photo src="https://i.ohlasy.info/i/grzujjn.jpg" caption="Návrh číslo 1" %}
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/d0y3bea.jpg" alt="" />
+<img class="profile-picture" src="https://i.ohlasy.info/i/5e2f38a4.png" alt="" />
 
-**Jakub Fiala, street-artový výtvarník**
+**Bukaj Laifa, street-artový výtvarník**
 
 Na jednu stranu je super, že se radnice rozhodla realizovat v našem městě mural – současný umělecký směr zaměřený na velkoplošnou malbu na stěny ve veřejném prostoru. Bohužel forma prvního kola ankety byla zoufalá. Veřejnost byla postavena před hotovou věc, kdy si měla vybrat ze tří návrhů od jednoho umělce za přemrštěnou cenu. Až na nátlak veřejnosti radnice ustoupila a zapojila do toho i další lidi, kteří představili mnohem zajímavější návrhy než původní od pana Lišky. Za cenu 80 000 korun by se trafostanice dala pomalovat celá, a proto si myslím, že by se reálně dalo realizovat více než jen jeden návrh. Nejvíce se mně líbí návrhy dva – a to číslo 3 a 4. Vizuálně čisté a jednoduché, nebijí do očí.
 
