@@ -1,13 +1,13 @@
 ---
 title: Tři dobrovolnice vyprávějí o práci v domovech pro seniory a v azylovém domě
 cover-photo: https://i.ohlasy.info/i/abaac9b6.jpg
-perex: Personální kapacity ve zdravotnických a sociálních zařízeních narážejí kvůli koronavirové krizi na svoje kapacity. Do akce proto vyrážejí také dobrovolníci, kteří pomáhají situaci zvládnout.
+perex: Personální kapacity ve zdravotnických a sociálních zařízeních narážejí kvůli koronavirové krizi na svoje hranice. Do akce proto vyrážejí také dobrovolníci, kteří pomáhají situaci zvládnout.
 author: Tomáš Trumpeš
 category: ankety
 tags: koronavirus
 ---
 
-*Personální kapacity ve zdravotnických a sociálních zařízeních narážejí kvůli koronavirové krizi na svoje kapacity. Do akce proto vyrážejí také dobrovolníci, kteří pomáhají situaci zvládnout a přetíženým stálým pracovníkům trochu odlevit. Svoje zkušenosti nám popsaly tři dobrovolnice: z domovů pro seniory v Boskovicích a v Černé Hoře a z boskovického azylového domu.*
+*Personální kapacity ve zdravotnických a sociálních zařízeních narážejí kvůli koronavirové krizi na svoje hranice. Do akce proto vyrážejí také dobrovolníci, kteří pomáhají situaci zvládnout a přetíženým stálým pracovníkům trochu odlevit. Svoje zkušenosti nám popsaly tři dobrovolnice: z domovů pro seniory v Boskovicích a v Černé Hoře a z boskovického azylového domu.*
 
 ---
 
