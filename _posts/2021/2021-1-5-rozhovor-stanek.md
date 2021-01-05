@@ -37,7 +37,7 @@ To je věc, která mě mrzí a trápí. My jsme i jmenovali člověka pro market
 
 **Aktivita městského parlamentu byla vidět hlavně předloni, tedy první rok fungování. Loňský rok, kterým byl svým průběhem kvůli covidu dost specifický, jste ale žádná aktivitu nevyvíjeli. Proč jste se nezapojili třeba do pomoci kolem covidu?**
 
-Narovinu říkám, že parlament opravdu asi od února nefungoval, nebyla touha se potkávat, měli jsme jiné starosti. Souhlasím, že ta pomoc mohla být, byly myšlenky, ale nezapojili jsme se. Naše minus. Tady se toho skvěle chopili skauti. Ti mají výhodu, že jsou zběhlí a organizování.
+Na rovinu říkám, že parlament opravdu asi od února nefungoval, nebyla touha se potkávat, měli jsme jiné starosti. Souhlasím, že ta pomoc mohla být, byly myšlenky, ale nezapojili jsme se. Naše minus. Tady se toho skvěle chopili skauti. Ti mají výhodu, že jsou zběhlí a organizování.
 
 **Co bude s parlamentem teď?**
 
