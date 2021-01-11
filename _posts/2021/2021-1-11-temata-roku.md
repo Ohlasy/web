@@ -30,7 +30,7 @@ Prověří výrazné navýšení peněz za vybudování CZT Boskovice střed nez
 
 ### Konkurz na ředitele KZMB
 
-Po dvou desetiletích má letos skončit v pozici ředitele Kulturních zařízení města Boskovice (KZMB) Oldřich Kovář. Radnice deklarovala, že konkurz by měl proběhnout hned v předjaří. Po zjevně neuspokojivých debatách ohledně koncepce městské kulturní organizace je pravděpodobné, že se od nového ředitele či ředitelky bude očekávat významnější změna kurzu.
+Po dvou desetiletích má letos skončit v pozici ředitele Kulturních zařízení města Boskovice (KZMB) Oldřich Kovář, který odchází do důchodu. Radnice deklarovala, že konkurz by měl proběhnout hned v předjaří. Po debatách ohledně koncepce městské kulturní organizace je pravděpodobné, že změna na ředitelském postu bude pro město impulsem k diskusi o větších změnách.
 
 Jak velký bude o konkurz zájem? Kdo stane nově v čele KZMB a nahradí dlouholetého a vůbec prvního ředitele? Jaká bude koncepce vítěze? Začne docházet k razantnějším změnám v městské kulturní organizaci?
 
