@@ -15,7 +15,7 @@ Běžně v těchto ambulancích bývají dětští pacienti, teď se tam stříd
 
 Proočkování personálu pomůže stabilizovat situaci, protože zatím je každý týden zhruba dvacítka zaměstnanců kvůli nemoci covid-19 v pracovní neschopnosti nebo preventivní karanténě z důvodu kontaktu. I proto na základě vyhlášené pracovní povinnosti vyzvala nemocnice šestnáct středoškoláků k pomoci. Nastupují tento týden a pomůžou na jednotlivých odděleních, kde bude potřeba.
 
-Očkovací látka dorazila do Boskovic, na rozdíl od nemocnice v Blansku, až nyní. V Blansku se začalo očkovat už na konci minulého roku. Do začátku minulého týdne dostalo vakcínu 120 zaměstnanců ze zhruba 500,  včetně ředitelky Vladimíry Danihelkové. Blanenská nemocnice je také v tuto chvíli stejně jako zdravotnická zařízení v dalších okresních městech v Jihomoravském kraij určená krajským krizovým štábem jako očkovací centrum pro veřejnost. Ta boskovická nejspíš přijde na řadu v budoucnu.
+Očkovací látka dorazila do Boskovic, na rozdíl od nemocnice v Blansku, až nyní. V Blansku se začalo očkovat už na konci minulého roku. Do začátku minulého týdne dostalo vakcínu 120 zaměstnanců ze zhruba 500,  včetně ředitelky Vladimíry Danihelkové. Blanenská nemocnice je také v tuto chvíli stejně jako zdravotnická zařízení v dalších okresních městech v Jihomoravském kraji určená krajským krizovým štábem jako očkovací centrum pro veřejnost. Ta boskovická nejspíš přijde na řadu v budoucnu.
 
 „Očkování můžu jednoznačně doporučit každému, kdo chce přispět k návratu společnosti do normálního života,“ prohlásil Dan Štěpánský. Od 15. ledna má začít fungovat státní registrační formulář pro zájemce na očkování starší 80 let, od února pak pro všechny ostatní.
 
