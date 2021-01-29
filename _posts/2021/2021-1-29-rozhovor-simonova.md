@@ -1,5 +1,5 @@
 ---
-title: „Adopace byla citlivé téma, ale je to nejlepší, co mě v životě potkalo.“
+title: „Adopce byla citlivé téma, ale je to nejlepší, co mě v životě potkalo.“
 cover-photo: https://i.ohlasy.info/i/84817e3d.jpg
 perex: Rozhovor s Teou Šimonovou, která si založila facebookový profil nazvaný Jako liči a reflektuje na něm svou zkušenost adoptovaného a etnicky odlišného člověka v Česku.
 author: Tomáš Trumpeš
