@@ -81,7 +81,7 @@ Loňský rok nakonec dopadl pro pro rozpočet města ještě o něco pozitivněj
 
 Hospodaření Boskovic skončilo podle údajů v [rozklikávacím rozpočtu](http://rozpocet.boskovice.cz/greportviewer/) za minulý rok v plusu zhruba 41 milionů korun. I proto, že řadu investičních akcí vedení Boskovic během roku škrtlo, protože kvůli koronaviru očekávalo výpadek daňových příjmů. Ten ale nakonec v plné výši nahradily kompenzace. Na účtu města tak bylo na začátku roku zhruba 53 milionů korun.
 
-Nyní se do rozpočtu zapracovává také nová předpověď počítaná na základě upraveného daňového balíčku souvisejícího se zrušením superhrubé mzdy. Po započítání všech těchto změn by zůstatek na městských účtech, původně plánovaný na pouhého 1,5 milionu, měl narůst na 20 milionů. „Nyní budeme spíš balancovat a čekat na vývoj ekonomiky a daňových příjmů, a podle toho to budeme korigovat,“ uvedl starosta s tím, že je možné v rozpočtu v případě nutnosti škrtat, ale také tam zařadit další investice. Nejdůležitější podle něj bude první půlrok.
+Nyní se do rozpočtu zapracovává také nová předpověď daňových příjmů, která už počítá s kompenzacemi dopadů schváleného daňového balíčku souvisejícího se zrušením superhrubé mzdy. Po započítání všech těchto změn by zůstatek na městských účtech, původně plánovaný na pouhého 1,5 milionu, měl narůst na 20 milionů. „Nyní budeme spíš balancovat a čekat na vývoj ekonomiky a daňových příjmů, a podle toho to budeme korigovat,“ uvedl starosta s tím, že je možné v rozpočtu v případě nutnosti škrtat, ale také tam zařadit další investice. Nejdůležitější podle něj bude první půlrok.
 
 ### Rozpočtový výhled
 
