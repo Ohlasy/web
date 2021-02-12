@@ -8,11 +8,6 @@
   alt: Výstava Šlechtický rod pánů z Boskovic
   url: http://www.muzeum-boskovicka.cz/vystava-slechticky-rod-panu-z-boskovic/a-1324/p1=1098
   priority: 900
-- name: Ohlasy naživo
-  image: https://i.ohlasy.info/i/cb6d8700.png
-  alt: Ohlasy naživo s Janem Bočkem
-  url: https://www.facebook.com/events/432825081300621/
-  priority: 900
 - name: Podcast
   image: https://i.ohlasy.info/i/waibo6c.png
   url: https://ohlasy.info/podcast/
