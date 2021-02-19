@@ -1,3 +1,8 @@
+- name: Festival
+  image: https://i.ohlasy.info/i/fab4b8f4.jpg
+  alt: Festival Boskovice 2021
+  url: https://www.boskovice-festival.cz/
+  priority: 900
 - name: KZMB
   image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?11
   alt: Boskovické kino promítá online
