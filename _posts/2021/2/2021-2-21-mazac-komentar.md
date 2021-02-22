@@ -11,7 +11,7 @@ tags: politika
 
 {% photo src="https://i.ohlasy.info/i/1136c832.jpeg" caption="Místostarosta Radek Mazáč" author="Tomáš Znamenáček" %}
 
-K vyvození politické odpovědnosti místostarostu Radka Mazáče nejen za prazvláštní přístup ke kauze, v níž figuruje jeho domovská firma Energochem, ale také za prodražení investice do CTZ střed a za postup v přípravě stavby sportovní haly, nevyzval nikdo. Pojďme si shrnout důvody, které takový požadavek opravňují.
+K vyvození politické odpovědnosti místostarostu Radka Mazáče nejen za prazvláštní přístup ke kauze, v níž figuruje jeho domovská firma Energochem, ale také za prodražení investice do CZT střed a za postup v přípravě stavby sportovní haly, nevyzval nikdo. Pojďme si shrnout důvody, které takový požadavek opravňují.
 
 ### CZT střed: střet zájmů a prodražení
 
