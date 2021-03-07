@@ -1,6 +1,6 @@
 ---
 title: "Procházky po památkách: Děkanský kostel sv. Jakuba Většího v Boskovicích"
-cover-photo: https://i.ohlasy.info/i/7750abd6.jpeg
+cover-photo: https://i.ohlasy.info/i/acb1b0a2.jpeg
 author: Zuzana Slačálková
 category: seriály
 tags: historie
