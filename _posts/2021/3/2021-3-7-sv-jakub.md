@@ -1,6 +1,7 @@
 ---
 title: "Procházky po památkách: Děkanský kostel sv. Jakuba Většího v Boskovicích"
 cover-photo: https://i.ohlasy.info/i/acb1b0a2.jpeg
+perex: Nový seriál pro všechny milovníky památek pro Ohlasy připravila Zuzana Slačálková. Na první procházku po památkách nás zve do kostela sv. Jakuba.
 author: Zuzana Slačálková
 category: seriály
 serial: prochazky
