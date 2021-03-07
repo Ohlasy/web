@@ -3,6 +3,7 @@ title: "Procházky po památkách: Děkanský kostel sv. Jakuba Většího v B
 cover-photo: https://i.ohlasy.info/i/acb1b0a2.jpeg
 author: Zuzana Slačálková
 category: seriály
+serial: prochazky
 tags: historie
 ---
 
