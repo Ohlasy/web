@@ -25,7 +25,7 @@ Sám místostarosta Radek Mazáč se v lednu pro Ohlasy vyjádřil, že celou v�
 
 Vyjádření Ohlasům neposkytl ani starosta Jaroslav Dohnálek (ODS). „Na uvedené téma nebudu odpovídat, protože aniž by se mě autor článku na cokoliv v uvedené věci ptal, svůj názor a komentář uveřejnil již 21. února,“ zdůvodnil své stanovisko s odkazem na [námi publikovaný komentář](https://ohlasy.info/clanky/2021/02/mazac-komentar.html).
 
-Příliš sdílný nebyl ani místostarosta Lukáš Holík (ANO). Ten ale jako jediný připustil, že v koalici se téma řeší a že je to právě hnutí ANO, které nad tématem nechce mávnou rukou. „Za náš klub jsme otevřeli tuto otázku mezi koaličními partnery, přičemž budou probíhat další jednání. Jelikož je to *živá* záležitost, omluvte nás, ale vyjádříme se až po skončení jednání,“ popsal situaci ve vedení města a postoj svého hnutí.
+Příliš sdílný nebyl ani místostarosta Lukáš Holík (ANO). Ten ale jako jediný připustil, že v koalici se téma řeší a že je to právě hnutí ANO, které nad tématem nechce mávnout rukou. „Za náš klub jsme otevřeli tuto otázku mezi koaličními partnery, přičemž budou probíhat další jednání. Jelikož je to *živá* záležitost, omluvte nás, ale vyjádříme se až po skončení jednání,“ popsal situaci ve vedení města a postoj svého hnutí.
 
 Alespoň stručné vyjádření poskytl radní za TOP 09 Dominik Božek. Uvedl, že místostarostův střet zájmů by se řešit měl, zároveň si však nemyslí, že záležitost narušuje či ohrožuje fungování koalice nebo že by mělo dojít k nějakým kompetenčním, personálním či politickým změnám ve vedení města.
 
