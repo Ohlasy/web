@@ -1,3 +1,8 @@
+- name: Ohlasy naživo
+  image: https://i.ohlasy.info/i/51071d23.png
+  alt: Ohlasy naživo s Ondřejem Dostálem
+  url: https://www.facebook.com/events/276349230680675
+  priority: 900
 - name: Festival
   image: https://i.ohlasy.info/i/fab4b8f4.jpg
   alt: Festival Boskovice 2021
