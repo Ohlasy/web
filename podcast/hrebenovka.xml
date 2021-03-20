@@ -1,0 +1,35 @@
+---
+why: A dummy front matter to make Jekyll process this document
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Hřebenovka</title>
+        <language>cs</language>
+        <copyright>Ohlasy</copyright>
+        <link>https://ohlasy.info/podcast.html</link>
+        <ttl>10080</ttl>
+        <description>Rozhovory z nadhledu se zajímavými lidmi z Boskovic a okolí o důležitých tématech, která pálí naše město. Na kulturu, sport, architekturu, školství nebo komunitní dění se ptají moderátoři Marek Čech a David Liber. O zvuk se stará Jiří Krajíček.</description>
+        <image href="https://i.ohlasy.info/i/ae6bbca4.jpg"/>
+        <itunes:category text="News &amp; Politics"/>
+        <itunes:image href="https://i.ohlasy.info/i/ae6bbca4.jpg"/>
+        <itunes:author>Ohlasy</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:owner>
+            <itunes:email>tomas.znamenacek@ohlasy.info</itunes:email>
+        </itunes:owner>
+    {% for episode in site.data.hrebenovka %}
+        <item>
+            <title>{{ episode.title | xml_escape }}</title>
+            <description>{{ episode.description | xml_escape }}</description>
+            <itunes:subtitle>{{ episode.description | xml_escape }}</itunes:subtitle>
+            <itunes:summary>{{ episode.description | xml_escape }}</itunes:summary>
+            <itunes:image href="{{ episode.image }}"/>
+            <itunes:duration>{{ episode.duration }}</itunes:duration>
+            <pubDate>{{ episode.date }}</pubDate>
+            <enclosure url="{{ episode.url }}" type="audio/mpeg" length="{{ episode.bytes }}"/>
+            <guid>{{ episode.url }}</guid>
+        </item>
+    {% endfor %}
+    </channel>
+</rss>
