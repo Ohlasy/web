@@ -1,5 +1,6 @@
 ---
 title: Boskovická koalice se rozpadla. ANO nepřekouslo střet zájmů místostarosty Mazáče
+cover-photo: https://i.ohlasy.info/i/f6187fdc.jpg
 perex: "Rok a půl před komunálními volbami se rozpadla koalice vládnoucí boskovické radnici: ODS, ANO, Sportovci, TOP 09 a Boskováci."
 author: Tomáš Trumpeš
 category: zpravodajství
