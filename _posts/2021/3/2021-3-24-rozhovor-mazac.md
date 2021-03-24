@@ -101,7 +101,7 @@ V podstatě tak, jak jste odpověděl, tak si myslím, že to je, co jste chtěl
 
 Tak vy jste popsal tu situaci, ať si ji každý vyhodnotí.
 
-Jaký je smluvní vztah mezi městem Boskovice a tou firmou, když píšete o nekonání výběrového řízení?
+**Jaký je smluvní vztah mezi městem Boskovice a tou firmou, když píšete o nekonání výběrového řízení?**
 
 To se musíte zeptat pana Holíka, který to má v gesci.
 
