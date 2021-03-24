@@ -3,6 +3,7 @@ title: „Střet zájmů? To se musíte zeptat pana Holíka.“
 cover-photo: https://i.ohlasy.info/i/obsjenk.jpg
 perex: V Boskovicích se po rozpadu koalice rozběhla jednání o novém koaličním uspořádání. Ohlasy v této souvislosti vyzpovídaly místostarostu za uskupení STAN a Sportovci Boskovice Radka Mazáče, kvůli němuž hnutí ANO vypovědělo koaliční smlouvu.
 author: Marek Osouch
+date: 2021-03-24 8:00:45
 category: rozhovory
 tags: politika
 ---
