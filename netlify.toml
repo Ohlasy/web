@@ -12,3 +12,7 @@
 [[redirects]]
     from = "/podcast.html"
     to = "/podcast/"
+
+[[redirects]]
+    from = "/odpady.ics"
+    to = "https://calendar.google.com/calendar/ical/66le85f8os6tp1fnf8k2mtfunc%40group.calendar.google.com/public/basic.ics"
