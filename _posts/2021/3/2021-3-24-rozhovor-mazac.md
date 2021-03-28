@@ -32,7 +32,7 @@ Nepůsobím tam jako jeden z ředitelů, pane Osouchu.
 
 Nejsem tam uvedený, pane Osouchu.
 
-**[Já mám ty stránky před sebou](http://energochem.cz/cs/kontakt-new/), jak spolu teď telefonujeme.**
+**[Já mám ty stránky před sebou](http://energochem.cz/cs/kontakt-new/), jak spolu teď telefonujeme.** *(Odkaz přestal fungovat po vydání rozhovoru, screenshot zmíněné stránky níže – pozn. red.)*
 
 To asi těžko.
 
