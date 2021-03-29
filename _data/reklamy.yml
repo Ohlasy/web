@@ -1,8 +1,3 @@
-- name: Ohlasy naživo
-  image: https://i.ohlasy.info/i/20d69f0f.png
-  alt: Ohlasy naživo s Ondřejem Dostálem
-  url: https://www.facebook.com/events/276349230680675
-  priority: 900
 - name: Festival
   image: https://i.ohlasy.info/i/fab4b8f4.jpg
   alt: Festival Boskovice 2021
@@ -17,6 +12,11 @@
   image: https://i.ohlasy.info/i/3dcf4c06.png
   alt: Výstava Šlechtický rod pánů z Boskovic
   url: http://www.muzeum-boskovicka.cz/vystava-slechticky-rod-panu-z-boskovic/a-1324/p1=1098
+  priority: 900
+- name: Muzeum 2
+  image: https://i.ohlasy.info/i/71b20f4a.png
+  alt: Veřejné čtení jmen obětí holokaustu
+  url: http://www.muzeum-boskovicka.cz/jom-ha-soa-verejne-cteni-jmen-obeti-holocaustu/a-1330/p1=1098
   priority: 900
 - name: Hřebenovka
   image: https://i.ohlasy.info/i/c0d00f3a.png
