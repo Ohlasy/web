@@ -18,6 +18,11 @@
   alt: Veřejné čtení jmen obětí holokaustu
   url: http://www.muzeum-boskovicka.cz/jom-ha-soa-verejne-cteni-jmen-obeti-holocaustu/a-1330/p1=1098
   priority: 900
+- name: Darujme
+  image: https://i.ohlasy.info/i/8a306eb5.png
+  alt: Přispějte nám prosím na provoz
+  url: https://www.darujme.cz/projekt/1202392
+  priority: 900
 - name: Hřebenovka
   image: https://i.ohlasy.info/i/c0d00f3a.png
   url: https://ohlasy.info/clanky/2021/03/hrebenovka.html
