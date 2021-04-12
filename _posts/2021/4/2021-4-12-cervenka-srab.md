@@ -11,7 +11,7 @@ tags: architektura
 
 {% photo src="https://i.ohlasy.info/i/099f9580.jpg" author="Spolek za rozvoj architektury Boskovic" %}
 
-Impulsem ke společné práci byla příprava na působení v pracovní skupině, kterou město vytvořilo ke stavbě sportovní haly. Architekti se bavili nejen o hale, ale i o jejím okolí, protože je podle nich umístění haly velmi úzce souvisí s tím, co na ni bude navazovat, a při přípravě stavby by v tom mělo být jasno. „Proto slovo dalo slovo a místo takzvané verbální architektury jsme začali konat,“ popisuje začátek práce architekt Petr Ondráček.
+Impulsem ke společné práci byla příprava na působení v pracovní skupině, kterou město vytvořilo ke stavbě sportovní haly. Architekti se bavili nejen o hale, ale i o jejím okolí, protože podle nich umístění haly velmi úzce souvisí s tím, co na ni bude navazovat, a při přípravě stavby by v tom mělo být jasno. „Proto slovo dalo slovo a místo takzvané verbální architektury jsme začali konat,“ popisuje začátek práce architekt Petr Ondráček.
 
 Členové SRABu podle něj chtěli upozornit také na to, že město mohlo a mělo použít transparentnější postup, který by jistě přinesl i další podobná řešení a ta by sloužila k inspiraci, jak dál v areálu pokračovat. Zadání je podle něj pro architekty velmi atraktivní. Boskovičtí architekti se tak nakonec pustili sami do komplexní práce, kterou vytvořili a zveřejnili bez nároku na jakýkoliv honorář. „V neposlední řadě jsme si chtěli toto území sami důkladně prověřit, než začneme něco veřejně komentovat,“ dodává Petr Ondráček.
 
