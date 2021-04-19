@@ -1,7 +1,7 @@
 ---
 title: „Smrt je součást života, součást naší práce, ale zvyknout se na to nedá.“
 perex: Rozhovor s vrchní sestrou ARO a JIP Martinou Zemánkovou a staniční sestrou ARO Alenou Trnovou o aktuální situaci a průběhu pandemické krize v nemocnici v Boskovicích.
-cover-photo: https://i.ohlasy.info/i/a9fda93b.jpg
+cover-photo: https://i.ohlasy.info/i/e73287c8.jpeg
 author: Nikol Halamásková
 category: rozhovory
 tags: koronavirus
