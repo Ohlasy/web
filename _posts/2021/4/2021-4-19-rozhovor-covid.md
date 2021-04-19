@@ -95,7 +95,7 @@ Ale všichni se bojíme. Když člověk vidí spektrum pacientů, kteří tady l
 
 ALENA TRNOVÁ: Samozřejmě, že někdo váhal. Někdo si v sobě nese nějaké onemocnění a neví o tom, někdo ví, že má chronickou nemoc a je to pro něj bohužel překážka v očkování. Není to jen o tom, že by zdravotníci nechtěli. Očkování je čistě dobrovolná věc, nicméně si myslím, že na obou našich oddělení je proočkovanost velmi vysoká, a možná je to i z toho důvodu, že se staráme o ty nejhorší případy a vidíme, jak to končí, nebo může končit.
 
-{% photo src="https://i.ohlasy.info/i/26c65085.jpg" author="Alena Trnová" %}
+{% photo src="https://i.ohlasy.info/i/33b50f81.jpg" author="Martina Zemánková" %}
 
 ### Jen bychom je provedly oddělením
 
