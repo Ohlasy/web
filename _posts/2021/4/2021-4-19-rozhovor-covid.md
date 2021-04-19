@@ -73,7 +73,7 @@ ALENA TRNOVÁ: Zaučit někoho, aby věděl, co ví arová nebo jipková sestra,
 
 MARTINA ZEMÁNKOVÁ: Situace s personálem se od počátku pandemie vyvíjela. Ze začátku nám v podstatě nepřišlo na mysl, že by nám přišel pomoct někdo z jiného oddělení, protože všichni jsou „doma“ někde jinde – na ortopedii, gynekologii, na operačním sálech, sterilizaci, … Všichni měli své mateřské pracoviště. Ale teď nám pomáhá každý, kdo má volné ruce a nohy. Já mám třeba už půl roku na oddělení sestřičky z ortopedie a rehabilitace, fyzioterapeutky, takže najednou to jejich doma je na intenzivní péči, což i pro ně bylo těžké.
 
-{% photo src="https://i.ohlasy.info/i/97cd03a6.jpg" %}
+{% photo src="https://i.ohlasy.info/i/97cd03a6.jpg" author="Martina Zemánková" %}
 
 **Jaký vliv měla pandemie na vztahy mezi pracovníky? Jak byste popsali atmosféru ve vašich týmech?**
 
