@@ -10,9 +10,9 @@ why: A dummy front matter to make Jekyll process this document
         <link>https://ohlasy.info/podcast.html</link>
         <ttl>10080</ttl>
         <description>Rozhovory z nadhledu se zajímavými lidmi z Boskovic a okolí o důležitých tématech, která pálí naše město. Na kulturu, sport, architekturu, školství nebo komunitní dění se ptají moderátoři Marek Čech a David Liber. O zvuk se stará Jiří Krajíček.</description>
-        <image href="https://i.ohlasy.info/i/d8a2e3f8.jpg"/>
+        <image href="https://i.ohlasy.info/i/2e70d674.png"/>
         <itunes:category text="News &amp; Politics"/>
-        <itunes:image href="https://i.ohlasy.info/i/d8a2e3f8.jpg"/>
+        <itunes:image href="https://i.ohlasy.info/i/2e70d674.png"/>
         <itunes:author>Ohlasy</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:owner>
