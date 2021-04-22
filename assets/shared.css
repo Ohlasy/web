@@ -425,7 +425,8 @@ iframe.vimeo, iframe[src*="youtube"] {
 }
 
 iframe[src*="datawrapper"],
-iframe[src*="radiopublic"] {
+iframe[src*="datawrapper"],
+iframe[src*="spotify"] {
   margin-top: 20px;
   margin-bottom: 20px;
 }
