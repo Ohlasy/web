@@ -1,6 +1,6 @@
 ---
 title: "Podcast Hřebenovka: Se skautkou Ludmilou Dobrozemskou a pionýrem Janem Dufkem"
-cover-photo: https://i.ohlasy.info/i/d71b1b4b.jpeg
+cover-photo: https://i.ohlasy.info/i/d03852de.jpeg
 perex: Představujeme vám Hřebenovku, náš nový podcast, ve kterém najdete rozhovory z nadhledu se zajímavými lidmi z Boskovic a okolí.
 author: David Liber
 category: podcast
