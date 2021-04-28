@@ -19,7 +19,7 @@ Na druhou stranu ODS může prodávat svou verzi příběhu, ve které se dva ml
 
 Nové dělení politické scény je ovšem jistým způsobem mnohem zajímavější než to předchozí. Volby se blíží a rýsuje se nám velice zajímavý souboj o další směřování Boskovic.
 
-Hodně zjednodušeně řečeno to vypadá, že v nové koalici usednou zastánci tradiční politiky, kteří by si mohli dát heslo Budeme pokračovat tak, jak jsme v Boskovicích zvyklí, zatímco v opozici se soustředí síly progresivců, jejichž motto by mohlo znít: Chceme politiku dělat jinak. Toto dělení je převážně generační, i když ne zcela. K progresivcům se přidává další z matadorů Vladimír Farský a tradiční politické proudy dnes reprezentují i mladí politici Petr Malach, Michaela Žejšková či Michal Knödl.
+Hodně zjednodušeně řečeno to vypadá, že v nové koalici usednou zastánci tradiční politiky, kteří by si mohli dát heslo *Budeme pokračovat tak, jak jsme v Boskovicích zvyklí*, zatímco v opozici se soustředí síly progresivců, jejichž motto by mohlo znít: *Chceme politiku dělat jinak*. Toto dělení je převážně generační, i když ne zcela. K progresivcům se přidává další z matadorů Vladimír Farský a tradiční politické proudy dnes reprezentují i mladí politici Petr Malach, Michaela Žejšková či Michal Knödl.
 
 Otázka samozřejmě je, jak se bude vyvíjet celková situace, vztahy mezi politiky, které hrají v Boskovicích obvykle silnou roli, a taky situace v jednotlivých stranách. Porozumí si Lukáš Holík jako opoziční politik s Piráty? Zbaví se on i Vladimír Farský politických značek, které je můžou začít táhnout ke dnu či do izolace? Co se stane s hnutím STAN a Sportovci? Najde nového lídra a politický styl, který by nešel přímo proti tomu, co stále populárnější značka reprezentuje na celostátní úrovni?
 
