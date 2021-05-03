@@ -17,11 +17,11 @@ Zastupitelstvo potvrdilo novou boskovickou koalici ODS, ČSSD, TOP 09, KDU-ČSL 
 
 Post neuvolněné místostarostky na půl úvazku po něm připadl Michaele Žejškové (TOP 09), uvolněným a prvním místostarostou se místo Lukáše Holíka (ANO) stal Petr Malach (ČSSD). 
 
-Bez připomínek či návrhů zastupitelstvo schválilo i tři nové členy rady města: Karla Ošlejška za ČSSD, Michala Knödla, Karla Ošlejška a Jaromíru Vítkovou za KDU-ČSL.
+Bez připomínek či návrhů zastupitelstvo schválilo i tři nové členy rady města: Karla Ošlejška za ČSSD, Michala Knödla a Jaromíru Vítkovou za KDU-ČSL.
 
 Opozice v novém složení ANO, Piráti, STAN a Sportovci a KSČM se k volbě postavila různým způsobem. Zástupci ANO se zdrželi hlasování u volby místostarostů i radních, stejně tak Vladimír Farský za KSČM. Pirátští zastupitelé Jan Nádvorník a Radek Šamšula hlasovali pro nové místostarosty, ale zdrželi se hlasování u volby radních. Jiří Pevný spolu s Radkem Mazáčem byli v obou hlasováních pro.  
 
-Politikům ve vedení města zastupitelstvo schválilo také rozdělení gescí. Petr Malach převzal školství, grantový systém, sport, rodinnou politiku a participativní řízení, Michaela Žejšková bude mít na starosti životní prostředí, územní rozvoj, kulturu, cestovní ruch nebo strategický rozvoj města. Starosta města Jaroslav Dohnálek pod sebe nově přebírá také dopravu a dohled nad městskou firmou Služby Boskovice. 
+Politikům ve vedení města zastupitelstvo schválilo také rozdělení gescí. Petr Malach převzal životní prostředí, územní rozvoj, kulturu, cestovní ruch nebo strategický rozvoj města. Michaela Žejšková bude mít na starosti školství, grantový systém, sport, rodinnou politiku a participativní řízení. Starosta města Jaroslav Dohnálek pod sebe nově přebírá také dopravu a dohled nad městskou firmou Služby Boskovice.
 
 Bývalým místostarostům také zastupitelstvo ponechalo pravomoc oddávat páry. Nový místostarosta Petr Malach rezignoval ze své funkce předsedy kontrolního výboru a dle dohody jej nahradil Lukáš Holík.
 
