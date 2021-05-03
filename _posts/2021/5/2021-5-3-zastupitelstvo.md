@@ -37,7 +37,7 @@ Filip Neterda, zástupce společnosti Deloitte, vyzdvihl jako nejvýhodnější 
 
 Zastupitelé Milan Janáč (ČSSD) a Radek Stříž (ODS) se ptali na rozdíly mezi nemocnicí provozovanou městem a soukromníkem, protože jim nebylo jasné, na čem soukromý provozovatel oproti městu tolik ušetří. 
 
-Filip Neterda uvedl, že nemocnice má v rukou soukromníka především lepší vyjednávací pozici díky větší velikosti subjektu a lepší pozici na trhu „V té prezentaci vidíte, že například soukromá nemocnice ve Valašském Meziříčí generuje zisk na nájmu, a nepotřebuje dotace ze strany města, ale zároveň to soukromému provozovateli stále dává ekonomický smysl tam působit,“ uvedl příklad Filip Neterda s tím, že díky plošnému řízení je podle nej soukromý provozovatel schopný zvýšit provozní efektivitu nemocnice a s ní i zisk. 
+Filip Neterda uvedl, že nemocnice má v rukou soukromníka především lepší vyjednávací pozici díky větší velikosti subjektu a lepší pozici na trhu „V té prezentaci vidíte, že například soukromá nemocnice ve Valašském Meziříčí generuje zisk na nájmu, a nepotřebuje dotace ze strany města, ale zároveň to soukromému provozovateli stále dává ekonomický smysl tam působit,“ uvedl příklad Filip Neterda s tím, že díky plošnému řízení je podle něj soukromý provozovatel schopný zvýšit provozní efektivitu nemocnice a s ní i zisk. 
 
 Na dotazy následně reagoval i jednatel boskovické nemocnice Dan Štěpánský. „Podíl nákladů, o kterých hovořil pan Neterda, je ve srovnání se mzdovými náklady menší. Ta efektivita, která vyplývá ze synergií při nákupech, je samozřejmě významná, ale v porovnání s navyšováním mzdových nákladů je malá,“ odpověděl Dan Štěpánský. Jinými slovy soukromník sice může ušetřit z pozice většího subjektu u nákupů, ale stejně mu to ke zisku nebude stačit, pokud významně neoseká platy zdravotníků.  
 
@@ -53,13 +53,13 @@ Auditu a jednotlivým možnostem Ohlasy věnují ještě samostatný článek.
 
 Zastupitelstvo schválilo dotaci 2 miliony korun pro svou společnost Služby, dále 200 tisíc na letošní ročník festivalu pro židovskou čtvrť a 80 tisíc pro hasičský sbor. Schválilo také dotační program na obnovu projektů nacházejících se na území městské památkové zóny a dotaci ze státního rozpočtu na regeneraci městských památkových rezervací a zón. O tom, na jaké objekty peníze budou směřovat, jsme psali v [reportu z radnice](https://ohlasy.info/clanky/2021/04/z-radnice.html).
 
-Služby Boskovice zažádaly o dotaci na výměnu dvou kotlů ve výši 2 milionů korun v kotelně na ulici Komenského. „Toto je taková první injekce. Zásobujeme 2400 bytových jednotek a není zájem ani města ani náš, aby lidé nemohli topit,“ uvedl Milan Stria. V roce 2022 se plánuje podobná investice v kotelně Na Vyhlídce. Tu by už financovala sama městská společnost a náklady posléze promítla do ceny tepla.
+Služby Boskovice zažádaly o dotaci na výměnu dvou kotlů ve výši 2 milionů korun v kotelně na ulici Komenského. „Toto je taková první injekce. Zásobujeme 2400 bytových jednotek a není zájem ani města ani náš, aby lidé nemohli topit,“ uvedl Milan Strya. V roce 2022 se plánuje podobná investice v kotelně Na Vyhlídce. Tu by už financovala sama městská společnost a náklady posléze promítla do ceny tepla.
 
-Podle starosty Jaroslava Dohnálka jsou Služby momentálně v bodě nula. „Nejsou tam naakumulovaný finance z plateb tepla, tak proto se volila tato varianta,“ vysvětlil starosta, proč teď městská firma dostane dotaci od města. 
+Podle starosty Jaroslava Dohnálka jsou Služby momentálně v bodě nula. „Nejsou tam naakumulované finance z plateb tepla, tak proto se volila tato varianta,“ vysvětlil starosta, proč teď městská firma dostane dotaci od města. 
 
 Dotaci ze strany města obdrží i festival Boskovice 2021, který by se měl konat 8.–11. července. K tomuto bodu nahlásili možný střet zájmů kvůli členství v pobočném spolku Unijazz Boskovice hned čtyři zastupitelé: Jan Nádvorník, Radek Šamšula, Dagmar Hamalová a místostarostka Michaela Žejšková.
 
-O dotaci ve výši 80 tisíc korun zažádal hasičský záchranný sbor jihomoravského kraje. Peníze poslouží jako investice do budovy hasičů, která slouží také jako zázemí k technické a odborné způsobilosti jednotek sborů dobrovolných hasičů.
+O dotaci ve výši 80 tisíc korun zažádal Hasičský záchranný sbor Jihomoravského kraje. Peníze poslouží jako investice do budovy hasičů, která slouží také jako zázemí k technické a odborné způsobilosti jednotek sborů dobrovolných hasičů.
 
 ### Odpadová vize 2030
 
