@@ -3,10 +3,10 @@
   alt: Festival Boskovice 2021
   url: https://www.boskovice-festival.cz/
   priority: 900
-- name: Bozako sobě
-  image: https://i.ohlasy.info/i/52d1494a.png
-  alt: Bozako sobě – live stream ze skleníku
-  url: https://www.kulturaboskovice.cz/kultura/akce/bozako-sobe-live-stream-ze-skleniku
+- name: Ohlasy naživo
+  image: https://i.ohlasy.info/i/3a5c38b3.png
+  alt: Ohlasy naživo s Jendou Nádvorníkem
+  url: https://www.facebook.com/events/1094866084357744
   priority: 900
 - name: KZMB
   image: https://www.kulturaboskovice.cz/img/ohlasy.jpg?11
