@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: ankety
 ---
 
-*Jak hodnotíte návrh řešení areálu Červená zahrada od Spolku za rozvoj architektury Boskovic? Které konkrétní věci vás zaujaly, co vám připadá přínosné a inspirativní, kde naopak vidíte rizika a nedostatky?*
+*Jak hodnotíte [návrh řešení areálu](https://ohlasy.info/clanky/2021/04/cervenka-srab.html) Červená zahrada od Spolku za rozvoj architektury Boskovic? Které konkrétní věci vás zaujaly, co vám připadá přínosné a inspirativní, kde naopak vidíte rizika a nedostatky?*
 
 {% photo src="https://i.ohlasy.info/i/099f9580.jpg" caption="Vizualizace návrhu" author="SRAB" %}
 
