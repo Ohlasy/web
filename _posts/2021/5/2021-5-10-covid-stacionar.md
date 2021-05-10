@@ -17,9 +17,7 @@ Kritéria, které musí pacient splňovat, aby mohl podstoupit léčbu, jsou jas
 
 Zájem o léčbu je ale v regionu prozatím velmi malý. „K dnešnímu dni jsme léky aplikovali pouze čtyřem pacientům,“ uvedl Luděk Pluháček, i když léčbu nemocnice nabízí už zhruba měsíc. Léků má nemocnice dostatek a může je aktuálně podávat dvěma pacientům zároveň v prostorách covidového stacionáře, který se nachází v zadním traktu nemocnice. Přístup do stacionáře je bezbariérový a vede přes vrátnici, takže pacient vůbec neprochází samotnou budovou nemocnice.
 
-Zkušenosti s dosavadní léčbou jsou dobré. „Naši pacienti léčbu tolerovali velmi dobře a stejné informace máme i z jiných pracovišť.
-
-Z možných nežádoucích účinků pak literatura uvádí alergickou reakci,“ sdělil Ohlasům Luděk Pluháček. Podle něj je prokázáno, že správně indikovaná a včas podaná léčba monoklonálními protilátkami významně snižuje pravděpodobnost těžkého průběhu onemocnění.
+Zkušenosti s dosavadní léčbou jsou dobré. „Naši pacienti léčbu tolerovali velmi dobře a stejné informace máme i z jiných pracovišť. Z možných nežádoucích účinků pak literatura uvádí alergickou reakci,“ sdělil Ohlasům Luděk Pluháček. Podle něj je prokázáno, že správně indikovaná a včas podaná léčba monoklonálními protilátkami významně snižuje pravděpodobnost těžkého průběhu onemocnění.
 
 Protilátky se podávají ve formě infuze během jedné hodiny, poté následuje zhruba hodinové pozorování, které má za úkol zachytit možné nežádoucí účinky. Podle svého stavu pacient po dvou až třech hodinách odchází. Podání léků je bezplatné, nemocnice si je nakupuje sama a po aplikaci jsou náklady účtovány zdravotní pojišťovně.
 
