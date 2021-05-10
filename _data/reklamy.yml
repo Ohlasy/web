@@ -1,3 +1,8 @@
+- name: Darujme
+  image: https://i.ohlasy.info/i/8a306eb5.png
+  alt: Přispějte nám prosím na provoz
+  url: https://www.darujme.cz/projekt/1202392
+  priority: 901
 - name: Festival
   image: https://i.ohlasy.info/i/fab4b8f4.jpg
   alt: Festival Boskovice 2021
@@ -17,11 +22,6 @@
   image: https://i.ohlasy.info/i/3dcf4c06.png
   alt: Výstava Šlechtický rod pánů z Boskovic
   url: http://www.muzeum-boskovicka.cz/vystava-slechticky-rod-panu-z-boskovic/a-1324/p1=1098
-  priority: 900
-- name: Darujme
-  image: https://i.ohlasy.info/i/8a306eb5.png
-  alt: Přispějte nám prosím na provoz
-  url: https://www.darujme.cz/projekt/1202392
   priority: 900
 - name: Hřebenovka
   image: https://i.ohlasy.info/i/c0d00f3a.png
