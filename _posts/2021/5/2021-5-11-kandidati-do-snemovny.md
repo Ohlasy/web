@@ -33,7 +33,7 @@ Z lidovců je nejvýše na třináctém místě starosta Kotvrdovic Jindřich Ko
 
 Piráti a Starostové a nezávislí utvořili také vlastní koaliční kandidátku stejně jako předchozí trojice stran a mají stejný cíl jako SPOLU – vyhrát volby a ukončit vládu Andreje Babiše. Na jihu Moravy se do jejího čela postaví stávající poslanec Radek Holomčík, který vedl Piráty na jihu Moravy do voleb i před čtyřmi lety. Druhé místo pak získala taktéž minulá jihomoravská lídryně hnutí STAN Jana Krutáková. V minulých volbách Piráti dosáhli na jihu Moravy na dva mandáty, STAN na jeden.
 
-Piráti na předních místech jasně převažují, další kandidát Starostů totiž obsadil až desáté místo. Z pirátských kandidátů jde vedle Holomčíka a druhého poslance z Jihomoravského kraje Tomáše Vymazala většinou o politiky, kteří dosud v žádných volbách nezískali mandát. Z okresu Blansko se z Pirátů nejvýše na 11. místo dostal Filip Vítek z Kunic nedaleko Kunštátu, na 21. místě pak je také ještě Anna Trávníková z Boskovic.
+Piráti na předních místech jasně převažují, další kandidáti Starostů totiž obsadili až sedmé a desáté místo. Z pirátských kandidátů jde vedle Holomčíka a druhého poslance z Jihomoravského kraje Tomáše Vymazala většinou o politiky, kteří dosud v žádných volbách nezískali mandát. Z okresu Blansko se z Pirátů nejvýše na 11. místo dostal Filip Vítek z Kunic nedaleko Kunštátu, na 21. místě pak je také ještě Anna Trávníková z Boskovic.
 
 Hnutí STAN tak bude mít na jihomoravské kandidátce méně kandidátů, a tak i na ty z regionu se dostalo až ke konci kandidátky. Až ve třetí desítce podporuje za STAN tuto koaliční kandidátku starosta Suchého Jakub Hlubinka a také Filip Jimramovský z Boskovic. 
 
