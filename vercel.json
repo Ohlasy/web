@@ -1,0 +1,16 @@
+{
+    "redirects": [
+        {
+            "source": "/podcast.xml",
+            "destination": "/podcast/feed.xml"
+        },
+        {
+            "source": "/podcast.html",
+            "destination": "/podcast/"
+        },
+        {
+            "source": "/odpady.ics",
+            "destination": "https://calendar.google.com/calendar/ical/66le85f8os6tp1fnf8k2mtfunc%40group.calendar.google.com/public/basic.ics"
+        }
+    ]
+}
