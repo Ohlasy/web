@@ -4,11 +4,9 @@ Kód je uvolněn pod [licencí MIT](https://opensource.org/licenses/MIT). Na tex
 
 ## Technické řešení
 
-Web je statický, hostovaný na [Netlify](https://www.netlify.com) a generovaný pomocí [Jekylla](http://jekyllrb.com). Zde je uložené pouze HTML a související data, zejména tedy nikoliv fotky a větší data.
+Web je statický, hostovaný na [Vercelu](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss) a generovaný pomocí [Jekylla](http://jekyllrb.com). Zde je uložené pouze HTML a související data, zejména tedy nikoliv fotky a větší data.
 
-Po pushnutí nového commitu na GitHub (nebo úpravě souboru přes webové rozhraní GitHubu) se spustí Netlify a postará se o přeložení a nasazení nové verze webu:
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fecaf98d-dab6-4ca9-9dbf-6e1ce8fbeaf4/deploy-status)](https://app.netlify.com/sites/ohlasy/deploys)
+Po pushnutí nového commitu na GitHub (nebo úpravě souboru přes webové rozhraní GitHubu) se spustí Vercel a postará se o přeložení a nasazení nové verze webu.
 
 ## Fotky
 
@@ -16,7 +14,7 @@ Fotky nejsou uložené v repository, protože mají stovky a stovky megabajtů, 
 
 Ve výsledku tedy fotky chodí směrem od klienta cestou prohlížeč → CDN (thumbs-cdn.ohlasy.info) → náhledový server (thumbs.ohlasy.info) → CDN (i.ohlasy.info) → S3. Ta poslední CDN (i.ohlasy.info) by asi šla vynechat, ale takhle máme k dispozici i pěkná HTTPS URL k obrázkům v původním rozlišení.
 
-Náhledový server vyžaduje autentizaci, aby ho nemohl používat kdokoliv mimo tohoto webu. Autentizace se dělá kryptografickým podpisem obrázkových URL, viz [dokumentaci imgproxy](https://github.com/imgproxy/imgproxy/blob/master/docs/signing_the_url.md). Aby se tenhle podpis správně vygeneroval během překladu, je nutné nastavit proměnné prostředí `IMGPROXY_KEY` a `IMGPROXY_SALT`. (Pokud nastavené nejsou, překlad webu skončí chybou.) Na Netlify jsou oba parametry nastavené.
+Náhledový server vyžaduje autentizaci, aby ho nemohl používat kdokoliv mimo tohoto webu. Autentizace se dělá kryptografickým podpisem obrázkových URL, viz [dokumentaci imgproxy](https://github.com/imgproxy/imgproxy/blob/master/docs/signing_the_url.md). Aby se tenhle podpis správně vygeneroval během překladu, je nutné nastavit proměnné prostředí `IMGPROXY_KEY` a `IMGPROXY_SALT`. (Pokud nastavené nejsou, překlad webu skončí chybou.) Ve Vercelu jsou oba parametry nastavené.
 
 ## Další servery
 
@@ -27,3 +25,5 @@ Náhledový server vyžaduje autentizaci, aby ho nemohl používat kdokoliv mimo
 ### forum.ohlasy.info
 
 Virtuální server u [Digital Ocean](https://digitalocean.com), ručně instalovaná instance [Discourse](https://www.discourse.org).
+
+[![Powered by Vercel](/assets/vercel.svg?raw=true)](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss)
