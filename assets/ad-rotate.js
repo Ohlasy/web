@@ -51,7 +51,7 @@ function isValidAd(ad) {
 
 async function loadAds() {
   try {
-    const response = await fetch("/static-api/ads.js");
+    const response = await fetch("/api/bannery");
     const adList = await response.json();
     var list = adList.filter(isValidAd).sort(compareAds);
     // Repeat the ads if there’s not enough of them to fill the page
