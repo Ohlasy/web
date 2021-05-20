@@ -21,7 +21,6 @@ defaults:
 
 future: false
 exclude: ["README.md", "Gemfile*", "package.json", "netlify.toml", "yarn.lock"]
-include: ["node_modules"]
 
 # https://talk.jekyllrb.com/t/324
 array: []
