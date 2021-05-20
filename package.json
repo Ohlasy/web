@@ -8,5 +8,12 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "@notionhq/client": "^0.1.3",
+    "@vercel/node": "^1.10.0"
+  },
+  "prettier": {
+    "quoteProps": "consistent"
   }
 }
