@@ -1,6 +1,6 @@
 ---
 title: Majitelé bytů na Lidické se potýkají s problémy. Město nepřevzalo cestu, chybí hřiště
-cover-photo: https://i.ohlasy.info/i/09ffdb4b.jpeg
+cover-photo: https://i.ohlasy.info/i/077e5cad.jpeg
 perex: Město odmítá převzít pozemky okolo nových bytových domů na Lidické, takže se o ně budou muset starat majitelé bytů, mezi které byly podílně rozparcelovány.
 author: Nikol Halamásková
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Město odmítá převzít pozemky okolo nových bytových domů na Lidické, takže se o ně budou muset starat majitelé bytů, mezi které byly podílně rozparcelovány. Také doposud nevzniklo dětské hřiště, které bylo součástí stavebního povolení. Majitelé řeší v bytových domech, které postavil developer Tomáš Kindermann, i další problémy.*
 
-{% photo src="https://i.ohlasy.info/i/09ffdb4b.jpeg" caption="Zábrany na dosud neprodaných parkovacích místech" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/077e5cad.jpeg" caption="Zábrany na dosud neprodaných parkovacích místech" author="Tomáš Trumpeš" %}
 
 Majitelé bytů na Lidickou přicházeli s nadějí, že se přestěhují do krásného nového bytu, kde nebudou muset řešit žádné problémy – opak je ale pravdou. Největší starost jim dělá to, že město nepřevzalo příjezdovou cestu spolu s dalším prostranstvím okolo bytových domů. Majitelé si tak zároveň s bytem koupili neplánovaně i podíl na příjezdové cestě a zeleni. S tím se pro ně pojí starosti o údržbu těchto prostranství. „Když tady někdo uklouzne, protože nestihneme cestu v zimě posypat, tak bude žalovat nás. Když se cesta rozbije, tak ji musíme opravit na vlastní náklady,“ popisuje problémy majitel jednoho z bytů Vítězslav Kulíšek. „V budoucí kupní smlouvě to nebylo a v kupní smlouvě jsme byli postaveni před hotovou věc, že si ty pozemky musíme vzít,“ pokračuje majitel, který byt zaplatil při podpisu budoucí kupní smlouvy a chtěl se nastěhovat.
 
