@@ -55,10 +55,7 @@ export default async (
   const key = process.env.ANALYTICS_KEY;
   const report = await queryTopArticles(mail, key);
   const out = JSON.stringify(report, null, 2);
-  response.setHeader(
-    "Cache-Control",
-    "max-age=0, s-maxage=86400, stale-while-revalidate"
-  );
+  response.setHeader("Cache-Control", "max-age=0, s-maxage=86400");
   response.setHeader("Content-Type", "application/json");
   response.status(200).send(out);
 };

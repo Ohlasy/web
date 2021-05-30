@@ -138,10 +138,7 @@ export default async (
   const oneYearBack = 365;
   const report = await getDonationsReport(apiId, apiSecret, oneYearBack);
   const out = JSON.stringify(report, null, 2);
-  response.setHeader(
-    "Cache-Control",
-    "max-age=0, s-maxage=86400, stale-while-revalidate"
-  );
+  response.setHeader("Cache-Control", "max-age=0, s-maxage=86400");
   response.setHeader("Content-Type", "application/json");
   response.status(200).send(out);
 };
