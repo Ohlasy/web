@@ -11,7 +11,7 @@ tags: nemocnice
 
 {% photo src="https://i.ohlasy.info/i/5a0ec4e6.jpeg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
 
-Po dlouhém předchozí období, kdy nemocnici provázely politické spory, neustálé diskuse a napětí, to vypadalo, že nemocnice pod vedením Dana Štěpánského konečně prochází obdobím personální stability a klidnější atmosféry mezi zaměstnanci, mezi vedením nemocnice a města i směrem k veřejnosti. Toto období však poněkud nečekaně končí.
+Po dlouhém předchozím období, kdy nemocnici provázely politické spory, neustálé diskuse a napětí, to vypadalo, že nemocnice pod vedením Dana Štěpánského konečně prochází obdobím personální stability a klidnější atmosféry mezi zaměstnanci, mezi vedením nemocnice a města i směrem k veřejnosti. Toto období však poněkud nečekaně končí.
 
 Podle starosty Jaroslava Dohnálka odchází Dan Štěpánský z osobních důvodů, kterým starosta rozumí, ačkoliv ho odchod jednatele mrzí. Situací se zabývala městská rada, která je zároveň valnou hromadou společnosti Nemocnice Boskovice. „Žádný z členů valné hromady z toho neměl radost,“ uvedl starosta Jaroslav Dohnálek. Ten byl již od podzimu informován o tom, že Dan Štěpánský bude asi muset Boskovice opustit. „Před časem mi sdělil, že už je nevyhnutelné tu situaci řešit. Opravdu se nejedná o souvislost s ekonomickým posouzením nemocnice a podobně, jsou to ryze osobní důvody,“ popsal starosta s tím, že s jednatelem mají nepsanou dohodu, že nemocnici bude řídit ještě po dobu výběrového řízení. Kdyby tomu tak být nemohlo, musela by rada někoho funkcí pověřit. Na rozdíl od svých dvou předchůdců tak stávající jednatel nekončí po volbách kvůli nesouladu s vedením města.
 
