@@ -88,7 +88,7 @@ V červnu si Boskovice stihnou střihnout ještě jeden filmový festival, a to 
 
 ### Vernisáž grafika Jana Vičara: Umění zblízka
 
-*Prostor, 25. června v 17.00*
+*Prostor, 25. června v 17.00, výstava do 6. srpna*
 
 Nová výstava začne tento měsíc také v Prostoru. Můžeme se těšit na Jana Vičara a jeho velkoformátové grafiky, jejichž vernisáž doplní výkladem o své tvorbě a technice. Jan Vičar také [letos získal cenu Vladimíra Boudníka](https://magazin.aktualne.cz/kultura/umeni/boudnikovu-cenu-dostal-grafik-jan-vicar-vystava-prazsky-hrad/r~d91d3fe0a77711eb9a61ac1f6b220ee8/) za přínos grafice za celoživotní dílo.
 
