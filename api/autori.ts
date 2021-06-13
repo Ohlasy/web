@@ -13,7 +13,10 @@ export default async (
     const fetchResponse = await fetch("https://ohlasy.info/assets/articles.js");
     const articles: Article[] = await fetchResponse.json();
     const out = JSON.stringify(countStats(articles), null, 2);
-    response.setHeader("Cache-Control", "max-age=0, s-maxage=86400");
+    response.setHeader(
+      "Cache-Control",
+      "max-age=0, s-maxage=60, stale-while-revalidate=86400"
+    );
     response.setHeader("Content-Type", "application/json");
     response.status(200).send(out);
   } catch {
