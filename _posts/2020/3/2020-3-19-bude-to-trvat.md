@@ -2,7 +2,7 @@
 title: Připravme se, může to trvat
 cover-photo: https://i.ohlasy.info/i/f0fc7d26.JPG
 author: Tomáš Trumpeš
-category: komentáře
+category: názory a komentáře
 tags: koronavirus
 ---
 
