@@ -10,9 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/node-fetch": "^2.5.10",
     "axios": "^0.21.1",
     "bootstrap": "^3.3.7",
-    "google-auth-library": "^7.0.4"
+    "google-auth-library": "^7.0.4",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@notionhq/client": "^0.1.3",
