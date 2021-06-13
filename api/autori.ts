@@ -17,6 +17,7 @@ export default async (
       "Cache-Control",
       "max-age=0, s-maxage=60, stale-while-revalidate=86400"
     );
+    response.setHeader("Access-Control-Allow-Origin", "*");
     response.setHeader("Content-Type", "application/json");
     response.status(200).send(out);
   } catch {
