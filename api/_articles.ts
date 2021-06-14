@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 export interface Article {
   title: string;
   author: string;
-  category: string;
+  category?: string;
   pubDate: string;
   coverPhoto: string;
   perex: string;
