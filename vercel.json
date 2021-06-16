@@ -15,6 +15,10 @@
         {
             "source": "/go/cisla",
             "destination": "https://www.notion.so/ohlasy/Ohlasy-v-slech-0cce47372104440485ff3ddeb90705c3"
+        },
+        {
+            "source": "/go/petiletka",
+            "destination": "https://data.ohlasy.info/2019/vyrocni-zprava.pdf"
         }
     ],
     "headers": [
