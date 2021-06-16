@@ -11,6 +11,10 @@
         {
             "source": "/odpady.ics",
             "destination": "https://calendar.google.com/calendar/ical/66le85f8os6tp1fnf8k2mtfunc%40group.calendar.google.com/public/basic.ics"
+        },
+        {
+            "source": "/go/cisla",
+            "destination": "https://www.notion.so/ohlasy/Ohlasy-v-slech-0cce47372104440485ff3ddeb90705c3"
         }
     ],
     "headers": [
