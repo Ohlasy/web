@@ -1,5 +1,6 @@
 ---
 title: „Mým krédem bylo, že management nemocnice poskytuje službu zdravotníkům.“
+perex: Rozhovor s Danem Štěpánským, končícím jednatelem boskovické nemocnice, který byl hostem červnových Ohlasů naživo.
 cover-photo: https://i.ohlasy.info/i/fd3cba6d.jpg
 author: Tomáš Trumpeš
 category: podcast
