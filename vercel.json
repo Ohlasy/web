@@ -19,6 +19,10 @@
         {
             "source": "/go/petiletka",
             "destination": "https://data.ohlasy.info/2019/vyrocni-zprava.pdf"
+        },
+        {
+            "source": "/go/pripadovka",
+            "destination": "https://data.ohlasy.info/2021/pripadovka.pdf"
         }
     ],
     "headers": [
