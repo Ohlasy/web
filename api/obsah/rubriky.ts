@@ -1,5 +1,10 @@
-import { getArticleIndex, getArticlesByCategory, sum } from "./_articles";
-import { send, renderCSV } from "./_utils";
+import {
+  getArticleIndex,
+  getArticlesByCategory,
+  sum,
+  send,
+  renderCSV,
+} from "./_shared";
 
 export default send("text/csv", async () => {
   const articles = await getArticleIndex();
