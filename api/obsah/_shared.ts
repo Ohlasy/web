@@ -11,6 +11,7 @@ export interface Article {
   serial?: string;
   relativeURL: string;
   tags: string[];
+  numberOfWords: number;
 }
 
 export async function getArticleIndex(): Promise<Article[]> {
