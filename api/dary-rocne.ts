@@ -68,14 +68,8 @@ export default async (
   response.status(200);
   response.write("měsíc; pravidelné dary; jednorázové dary\n");
   for (const month of report) {
-    const fmtc = new Intl.NumberFormat("cs-CZ", {
-      style: "currency",
-      currency: "CZK",
-      maximumFractionDigits: 0,
-      minimumFractionDigits: 0,
-    }).format;
-    const recurring = fmtc(getRecurrentDonations(month.transactions));
-    const oneTime = fmtc(getOneTimeDonations(month.transactions));
+    const recurring = getRecurrentDonations(month.transactions);
+    const oneTime = getOneTimeDonations(month.transactions);
     response.write(
       `${month.month.month}/${month.month.year}; ${recurring}; ${oneTime}\n`
     );
