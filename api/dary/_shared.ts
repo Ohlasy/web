@@ -20,17 +20,6 @@ export interface Pledge {
   isRecurrent: boolean;
 }
 
-export interface GiftReport {
-  fromDate: Date;
-  toDate: Date;
-  timestamp: Date;
-  totalTransactions: number;
-  recurrentDonations: number;
-  oneTimeDonations: number;
-  totalDonations: number;
-  summary?: string;
-}
-
 async function call<T>(
   apiId: string,
   apiSecret: string,

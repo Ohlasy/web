@@ -1,10 +1,14 @@
-import { getRecurrentDonations, getOneTimeDonations } from "../api/_darujme";
+import {
+  getRecurrentDonations,
+  getOneTimeDonations,
+  Transaction,
+  formatDate,
+} from "../api/dary/_shared";
 import {
   firstDayOfMonth,
   getPastFullMonths,
   lastDayOfMonth,
-} from "../api/dary-rocne";
-import { Transaction, formatDate } from "../api/_darujme";
+} from "../api/dary/rocne";
 
 test("Date formatting", () => {
   expect(formatDate(new Date("2020-4-1"))).toBe("2020-04-01");

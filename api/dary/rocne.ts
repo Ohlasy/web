@@ -4,7 +4,7 @@ import {
   getRecurrentDonations,
   getTransactions,
   Transaction,
-} from "./_darujme";
+} from "./_shared";
 
 export interface Month {
   /** Number of month, 1-based */
