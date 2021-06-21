@@ -63,6 +63,7 @@ export default async (
     "Cache-Control",
     "max-age=0, s-maxage=60, stale-while-revalidate=86400"
   );
+  response.setHeader("Access-Control-Allow-Origin", "*");
   response.setHeader("Content-Type", "text/csv");
   response.status(200);
   response.write("měsíc; pravidelné dary; jednorázové dary\n");
