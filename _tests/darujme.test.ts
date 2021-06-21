@@ -1,9 +1,5 @@
-import {
-  Transaction,
-  getRecurrentDonations,
-  getOneTimeDonations,
-  formatDate,
-} from "../api/dary";
+import { getRecurrentDonations, getOneTimeDonations } from "../api/dary";
+import { Transaction, formatDate } from "../api/_darujme";
 
 test("Date formatting", () => {
   expect(formatDate(new Date("2020-4-1"))).toBe("2020-04-01");
