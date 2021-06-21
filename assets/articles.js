@@ -13,7 +13,8 @@ why: A dummy comment to make Jekyll process this file
         "perex": {{ article.excerpt | strip_html | jsonify }},
         "serial": {{ article.serial | jsonify }},
         "relativeURL": {{ article.url | jsonify }},
-        "tags": {{ article.tags | jsonify }}
+        "tags": {{ article.tags | jsonify }},
+        "numberOfWords": {{ article.content | number_of_words }}
     }
     {% if forloop.last == false %},{% endif %}
 {% endfor %}
