@@ -1,5 +1,10 @@
 import { VercelRequest, VercelResponse } from "@vercel/node";
-import { getTransactions, GiftReport, Transaction } from "./_darujme";
+import {
+  getOneTimeDonations,
+  getRecurrentDonations,
+  getTransactions,
+  GiftReport,
+} from "./_darujme";
 
 export async function getDonationsReport(
   apiId: string,
@@ -22,15 +27,6 @@ export async function getDonationsReport(
   report.summary = renderDonationReportSummary(report);
   return report;
 }
-
-export const getRecurrentDonations = (txs: Transaction[]) =>
-  sumTransactions(txs.filter((t) => t.pledge.isRecurrent));
-
-export const getOneTimeDonations = (txs: Transaction[]) =>
-  sumTransactions(txs.filter((t) => !t.pledge.isRecurrent));
-
-export const sumTransactions = (txs: Transaction[]) =>
-  txs.map((t) => t.sentAmount?.cents || 0).reduce((a, b) => a + b, 0) / 100;
 
 export function renderDonationReportSummary(report: GiftReport): string {
   const locale = "cs-CZ";

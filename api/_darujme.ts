@@ -68,6 +68,15 @@ export async function getTransactions(
   );
 }
 
+export const getRecurrentDonations = (txs: Transaction[]) =>
+  sumTransactions(txs.filter((t) => t.pledge.isRecurrent));
+
+export const getOneTimeDonations = (txs: Transaction[]) =>
+  sumTransactions(txs.filter((t) => !t.pledge.isRecurrent));
+
+export const sumTransactions = (txs: Transaction[]) =>
+  txs.map((t) => t.sentAmount?.cents || 0).reduce((a, b) => a + b, 0) / 100;
+
 /** Format date to a string used in the Darujme API (YYYY-MM-dd) */
 export function formatDate(date: Date): string {
   const year = date.getFullYear();

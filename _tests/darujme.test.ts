@@ -1,4 +1,9 @@
-import { getRecurrentDonations, getOneTimeDonations } from "../api/dary";
+import { getRecurrentDonations, getOneTimeDonations } from "../api/_darujme";
+import {
+  firstDayOfMonth,
+  getPastFullMonths,
+  lastDayOfMonth,
+} from "../api/dary-rocne";
 import { Transaction, formatDate } from "../api/_darujme";
 
 test("Date formatting", () => {
@@ -51,4 +56,18 @@ test("Stats calculation", () => {
   ];
   expect(getRecurrentDonations(txs)).toEqual(300);
   expect(getOneTimeDonations(txs)).toEqual(400);
+});
+
+test("Date calculations", () => {
+  expect(getPastFullMonths(new Date("2021-2-13"), 3)).toEqual([
+    { month: 1, year: 2021 },
+    { month: 12, year: 2020 },
+    { month: 11, year: 2020 },
+  ]);
+  expect(firstDayOfMonth({ month: 1, year: 2021 })).toEqual(
+    new Date("2021-1-1")
+  );
+  expect(lastDayOfMonth({ month: 2, year: 2021 })).toEqual(
+    new Date("2021-2-28")
+  );
 });
