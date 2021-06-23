@@ -6,7 +6,7 @@ author: Tomáš Trumpeš
 category: rozhovory
 ---
 
-*Rozhovor s Inou Liškovou a Bárou Danielovou z kunštátského spolku Na Slunci. Ten mimo jiné provozuje lesní školku Jelínek v areálu Jelínkovy chaty v Kunštátě. A nyní zde připravuje větší proměnu. Klíčové je setkání ke komunitnímu plánování, které se koná v sobotu 26. června od 15 do 18 hodin přímo v Jelínkově areálu. V rozhovoru jsme se ptali právě na to, co se v areálu chystá.*
+*Rozhovor s Inou Liškovou a Bárou Danielovou z kunštátského spolku Na Slunci. Ten nyní mimo jiné připravuje větší proměnu areálu Jelínkovy chaty v Kunštátě, kde působí také lesní školka Jelínek. Klíčové setkání ke komunitnímu plánování se koná v sobotu 26. června od 15 do 18 hodin přímo v Jelínkově areálu. V rozhovoru jsme se ptali právě na to, co se v areálu chystá.*
 
 {% photo src="https://i.ohlasy.info/i/3797d034.jpg" caption="Ina Lišková a Bára Danielová" author="Lucie Kalová" %}
 
