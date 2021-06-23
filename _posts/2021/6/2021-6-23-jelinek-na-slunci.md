@@ -1,7 +1,7 @@
 ---
 title: „Rádi bychom celkovou proměnu areálu Jelínkovy chaty. Už víme, co by si tam přály děti!“
 cover-photo: https://i.ohlasy.info/i/3797d034.jpg
-perex: Rozhovor s Inou Liškovou a Bárou Danielovou z kunštátského spolku Na Slunci, který mimo jiné provozuje lesní školku Jelínek v areálu Jelínkovy chaty v Kunštátě.
+perex: Rozhovor s Inou Liškovou a Bárou Danielovou z kunštátského spolku Na Slunci, který připravuje větší proměnu areálu Jelínkovy chaty v Kunštátě.
 author: Tomáš Trumpeš
 category: rozhovory
 ---
