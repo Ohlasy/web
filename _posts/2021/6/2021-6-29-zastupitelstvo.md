@@ -42,7 +42,7 @@ Zastupitelka za Piráty Kristýna Znamenáčková navrhla, aby město v rámci 
 
 Zastupitelstvo schválilo účetní závěrku města za rok 2020. Součástí zprávy je i závěr auditorky, že při přezkoumání hospodaření se nezjistily žádné chyby ani nedostatky. Bez diskuse prošel hlasováním i závěrečný účet města za loňský rok.
 
-Projednána a schválena byla také dotace pro Služby Boskovice na obnovu trialových tras ve Sportparku v Doubravách, poničených kácením kůrovcového dřeva. Dotace Službám se tak zvýší o více než jeden milion korun.
+Projednána a schválena byla také dotace pro Služby Boskovice na obnovu trailových tras ve Sportparku v Doubravách, poničených kácením kůrovcového dřeva. Dotace Službám se tak zvýší o více než jeden milion korun.
 
 V rozpočtovém opatření město muselo zohlednit, že nakonec nedosáhlo na dotaci více než 3 miliony korun na rekonstrukci ulice Hybešova. O 6 milionů méně oproti původním předpokladům zřejmě dostane město na přislíbených kompenzacích ze strany státu.
 
