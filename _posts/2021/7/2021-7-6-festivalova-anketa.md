@@ -42,7 +42,7 @@ A je tu poslední den, bude klidný a vzhledem k rodinným povinnostem bych to v
 
 <img class="profile-picture" src="https://i.ohlasy.info/i/bd42b2a4.jpg" alt="">
 
-**Ludmila Odehnalová, dramaturgická rada Prostoru**
+**Ludmila Čerbáková, dramaturgická rada Prostoru**
 
 Z letošního programu festivalu Boskovice jsem nadšená, přinese několik mých nedávných hudebních objevů, které jsem zatím neměla možnost slyšet živě, i tak se je ale nebojím doporučit.
 
