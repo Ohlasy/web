@@ -1,7 +1,7 @@
 ---
 title: "ANKETA: Co doporučujete z festivalového programu?"
 cover-photo: https://i.ohlasy.info/i/342157a6.jpeg
-perex: Jak se vám líbí letošní program festivalu Boskovice a co byste především doporučili navštívit? Odpovídají Hana Kvapilová, Ondřej Dostál, Ludmila Odehnalová a David Liber.
+perex: Jak se vám líbí letošní program festivalu Boskovice a co byste především doporučili navštívit? Odpovídají Hana Kvapilová, Ondřej Dostál, Ludmila Čerbáková a David Liber.
 author: Tomáš Trumpeš
 category: ankety
 ---
