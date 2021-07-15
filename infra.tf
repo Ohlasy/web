@@ -43,6 +43,18 @@ resource "aws_acm_certificate" "i-ohlasy-info" {
   validation_method = "DNS"
 }
 
+resource "aws_acm_certificate" "data-ohlasy-info" {
+  provider          = aws.us-east-1
+  domain_name       = "data.ohlasy.info"
+  validation_method = "DNS"
+}
+
+resource "aws_acm_certificate" "thumbs-cdn-ohlasy-info" {
+  provider          = aws.us-east-1
+  domain_name       = "thumbs-cdn.ohlasy.info"
+  validation_method = "DNS"
+}
+
 resource "aws_cloudfront_distribution" "i-ohlasy-info" {
   enabled             = true
   is_ipv6_enabled     = true
