@@ -1,5 +1,5 @@
 ---
-title: Výstavy rozvíjí vnímání souvislostí a úcty k hodnotám vytvořeným předcházejícími generacemi
+title: Výstavy rozvíjí úctu ke kulturním hodnotám vytvořeným předchozími generacemi
 cover-photo: https://i.ohlasy.info/i/084fb749.jpeg
 perex: Zajděte se podívat na výstavy uspořádané v rámci festivalu pro židovskou čtvrť.
 author: Helena Musilová
