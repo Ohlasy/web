@@ -1,7 +1,7 @@
 ---
-title: Prostor řeší problémy s kolaudací, provoz omezovat nechce
+title: Prostor řeší problémy s kolaudací, provoz omezovat nechce
 cover-photo: https://i.ohlasy.info/i/44c61b96.jpeg
-perex: Na červnovém jednání zastupitelstva poukázal zastupitel Jiří Pevný na nesrovnalosti v provozu kulturního a komunitního centra Prostor. Provozovatelé potíže částečně uznávají a říkají, že pracují na nápravě.
+perex: Na červnovém zastupitelstvu poukázal zastupitel Jiří Pevný na nesrovnalosti v provozu kulturního centra Prostor. Provozovatelé potíže částečně uznávají a říkají, že pracují na nápravě.
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
