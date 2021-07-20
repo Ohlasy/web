@@ -29,7 +29,7 @@ V případě, že jsou porušeny podmínky pro užívání stavby, jedná se o p
 
 Předseda Unijazzu Boskovice Tomáš Znamenáček říká, že spolek už nějakou dobu problém řeší a je už několik měsíců v kontaktu se stavebním úřadem i hygienou a snaží se najít řešení, ze kterého by bylo zřejmé, že jsou akce v Prostoru formálně v pořádku. „Z pohledu stavebního úřadu to skutečně vypadá, že současný způsob užívání stavby neodpovídá povolení; na hygieně jsme ještě nedošli k jasnému závěru. Oba úřady jsou ale velmi vstřícné. Naším cílem je aktualizovat projekt podle jejich požadavků a případně i provést stavební úpravy tak, aby bylo všechno formálně v pořádku,“ uvedl Tomáš Znamenáček.
 
-Dotace a přístup zastupitele
+### Dotace a přístup zastupitele
 
 Problémy Prostoru by se mohly odrazit i ve vztazích s radnicí, která v rámci dotačního titulu pro kulturu přispěla desetitisíce korun jednotlivým pořadatelům právě na akce, které mají proběhnout v kulturním a komunitním centru v panském dvoře. Jiří Pevný totiž na zastupitelstvu přednesl v souvislosti s Prostorem podnět, aby městská rada ověřila, zda byly dotace v kultuře rozděleny těm, kteří na ně doopravdy mají nárok. Podle Tomáše Znamenáčka je pro většinu akcí podpořených z městského grantového systému tato diskuze tak či onak irelevantní – některé akce jako koncertní cykly Amplitudy či Folks! se odehrávají venku, další mají návštěvnost rozloženou do několika týdnů či měsíců, jako výtvarný cyklus Umění zblízka, jiné mají z principu komorní charakter s menším počtem diváků, jako například divadla nebo autorská čtení.
 
