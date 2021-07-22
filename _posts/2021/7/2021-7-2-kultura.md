@@ -72,17 +72,17 @@ Nová formace učitelů hudby ze ZUŠ Letovice, Velké Opatovice a Boskovice se 
 
 Není to poprvé, co Jarek Nohavica vystoupí v amfiteátru letního kina. I tentokrát vystoupí se svými spoluhráči, varšavským Robertem Kusmierskym (akordeon a piano) a plzeňským Pavlem Plánkou (perkuse). Koncert Jarka Nohavici je prostě sázka na jistotu, pokaždé lidi dojme a zároveň pobaví. Takový zážitek, který je ještě umocněný prostředím letního kina, stojí za to.
 
+### RAVEYARD FESTIVAL Warm-up
+
+*Prostor, 23. července 17.00*
+
+Raveyard festival se nezadržitelně blíží, a proto kluci z Mindicted udělali takovou malou předehru k celé akci. Příprava na Raveyard festival v režii Mindicted crew stejně jako celý festival Raveyard na Prostoru určitě nezklame.
+
 ### Promenádní koncert: Vlasťa Šafařík trio
 
 *Park u zámeckého skleníku, 25. července 17.00*
 
 Letovický Hendrix Vlasta Šafařík se představí v divokých polohách písní Jimmiho Hendrixe, Black Pummas a Binga Crosbyho a dalších legend. Dejte si pořádnou nálož rock'n'rollu nebo si v klidu zadumejte u ambientnější polohy písní od Nicka Cavea a Neila Younga, kterou jsme nově společně ladili s bubeníkem Matyášem Hoklem.
-
-### RAVEYARD FESTIVAL Warm-up
-
-*Prostor, 25. července 17.00*
-
-Raveyard festival se nezadržitelně blíží, a proto kluci z Mindicted udělali takovou malou předehru k celé akci. Příprava na Raveyard festival v režii Mindicted crew stejně jako celý festival Raveyard na Prostoru určitě nezklame.
 
 ### Festival 3+1 
 
