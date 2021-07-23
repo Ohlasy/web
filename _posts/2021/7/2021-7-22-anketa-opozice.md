@@ -10,7 +10,7 @@ tags: politika
 
 {% photo src="https://i.imgur.com/4ZPcC0l.jpg" caption="Model sportovní haly v Červené zahradě podle návrhu Alberto Kalacha" author="T.A.X." %}
 
-**Jak se vám líbí návrh sportovní haly od Alberto Kalacha a jak jste spokojeni s procesem přípravy investičního záměru?**
+**Jak se vám líbí [návrh sportovní haly od Alberto Kalacha](https://ohlasy.info/clanky/2021/07/predstaveni-haly.html) a jak jste spokojeni s procesem přípravy investičního záměru?**
 
 LUKÁŠ HOLÍK (ANO): Podstatné je, jestli je projekt provozně funkční a cenově reálný. Stavba haly má být 25 metrů vysoká a lezecká stěna pouze 9 metrů, tohle je prohra pro lezce a nevyužití potenciálu budovy. Po jednání pracovní skupiny nás hlavně zneklidňuje přístup koalice, pokračovat v projektu bez důkladného dokončení Investičního záměru, který by měl zodpovědět i otázky finanční, tj. náklady na výstavbu a provoz, a následně provést zodpovědné a obhajitelné rozhodnutí. Pamatujme na to, že máme udržitelné limity – 150 milionů na vše – a už teď jsou překročeny.
 
@@ -70,7 +70,7 @@ RADEK MAZÁČ (STAN a Sportovci): V minulosti probíhalo velké množství akcí
 
 VLADIMÍR FARSKÝ (KSČM): Je to věčný spor mezi těmi, co chtějí či musí spát, a těmi, co se chtějí bavit. Takže je to o vzájemné toleranci. Nelíbí se mi nekompromisní politika „ode zdi ke zdi“. Domnívám se, že několik akcí ročně – zvláště těch tradičních a vyhlášených, navíc konaných v letních měsících – by šlo tolerovat a výjimku udělit. Zvláště na vnitřní akce, které nikoho neruší. Za rok po komunálních volbách snad dojde ke změně.
 
-**V městské radě zazněl návrh radního Karla Ošlejška (ČSSD) na snížení počtu boskovických zastupitelů. Souhlasili byste? Jaká je vaše představa?**
+**V městské radě zazněl návrh radního Karla Ošlejška (ČSSD) na snížení [počtu boskovických zastupitelů](https://ohlasy.info/clanky/2018/11/pocet-zastupitelu.html). Souhlasili byste? Jaká je vaše představa?**
 
 LUKÁŠ HOLÍK (ANO): Obě varianty mají své výhody i nevýhody. Je to popřípadě na širší diskuzi. Osobně jsem spíše přikloněn ke stávajícímu modelu. Důvod je jednoduchý, zastupitelstvo i rada města schvaluje důležité materiály a vždy chcete ten nejlepší výsledek. Snížením počtu zastupitelů bychom se automaticky připravili nejen o zastupitele, ale i o s nimi spojené názory, nápady, podněty k diskusi.
 
