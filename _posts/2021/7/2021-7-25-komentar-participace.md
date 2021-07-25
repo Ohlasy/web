@@ -1,7 +1,7 @@
 ---
 title: Jedním z témat příštích voleb by mohla být participace
 cover-photo: https://i.imgur.com/mmTGvY0.png
-perex: Sněmovní volby jsou za dva a půl měsíce a budou mít značný vliv i na příští uspořádání radnic. Proběhnou ve chvíli, kdy bude do dalších obecních voleb zbývat poslední rok. Co by mohlo být štěpícím tématem v Boskovicích?
+perex: Sněmovní volby budou mít značný vliv i na příští uspořádání radnic. Proběhnou ve chvíli, kdy bude do obecních voleb zbývat poslední rok. Co by mohlo být štěpícím tématem v Boskovicích?
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags: politika
