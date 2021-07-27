@@ -1,5 +1,6 @@
 ---
 title: Pandemie polevila také na Boskovicku, odborníci varují před podzimem
+perex: Pandemie nemoci covid-19 v letních měsících polevila také na Boskovicku. Statistiky hlásí pouze jednotky případů. Klesá ale zájem o očkování, nemocnice nyní očkuje zejména druhé dávky.
 cover-photo: https://i.imgur.com/Yymomz0.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
