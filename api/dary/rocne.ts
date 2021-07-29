@@ -58,6 +58,10 @@ export default async (
 ): Promise<void> => {
   const apiId = process.env.DARUJME_ID;
   const apiSecret = process.env.DARUJME_SECRET;
+  if (!apiId || !apiSecret) {
+    response.status(500).send("Missing Darujme auth in env");
+    return;
+  }
   const report = await getPastYearTransactionsByMonth(apiId, apiSecret);
   response.setHeader(
     "Cache-Control",

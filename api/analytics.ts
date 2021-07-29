@@ -53,6 +53,10 @@ export default async (
 ): Promise<void> => {
   const mail = process.env.ANALYTICS_MAIL;
   const key = process.env.ANALYTICS_KEY;
+  if (!mail || !key) {
+    response.status(500).send("Missing Analytics auth in env");
+    return;
+  }
   const report = await queryTopArticles(mail, key);
   const out = JSON.stringify(report, null, 2);
   response.setHeader("Cache-Control", "max-age=0, s-maxage=86400");

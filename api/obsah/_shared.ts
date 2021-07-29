@@ -27,7 +27,7 @@ export async function getArticleIndex(): Promise<Article[]> {
 
 export function groupBySelector<Key extends keyof any, Value>(
   values: Value[],
-  sel: (_: Value) => Key | null
+  sel: (_: Value) => Key | null | undefined
 ): Record<Key, Value[]> {
   const out = {} as Record<Key, Value[]>;
   for (const v of values) {
