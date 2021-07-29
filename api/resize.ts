@@ -9,12 +9,12 @@
  * Security:
  *
  * + Check for reasonable input image size
- * + Check for reasonable output image size?
+ * + Check for reasonable output image size
  * + Hash input params with a shared secret to prevent unauthorized callers
  *
- * Bonus features TBD:
+ * Bonus features:
  *
- * - Output progressive PNGs and JPEGs?
+ * + Output progressive PNGs and JPEGs
  */
 import { VercelRequest, VercelResponse } from "@vercel/node";
 import fetch from "node-fetch";
@@ -105,7 +105,11 @@ export default async (
       img = img.resize({ width });
     }
 
-    const out = await img.toBuffer();
+    const out = await img
+      .png({ force: false, progressive: true })
+      .jpeg({ force: false, quality: 90, progressive: true })
+      .toBuffer();
+
     response.setHeader("Content-Type", contentType);
     response.status(200).send(out);
   } catch (e) {
