@@ -27,7 +27,7 @@ const maxOutputPixelSize = 7_000;
 
 const hashSecret = process.env.IMGPROXY_KEY;
 
-async function shasum(message: string) {
+function shasum(message: string) {
   var shasum = crypto.createHash("sha1");
   shasum.update(message);
   return shasum.digest("hex");
@@ -41,8 +41,8 @@ export default async (
     //
     // Validate arguments
     //
-    if (request.method !== "GET") {
-      throw "Only GET supported";
+    if (request.method !== "GET" && request.method !== "HEAD") {
+      throw "Only GET/HEAD supported";
     }
 
     const srcUrl = request.query.src;
@@ -62,15 +62,15 @@ export default async (
 
     const payload = `${srcUrl}:${strWidth}:${hashSecret}`;
     const proof = request.query.proof;
-    if (typeof proof !== "string" || proof !== (await shasum(payload))) {
-      throw "Authentization proof missing or invalid";
+    if (typeof proof !== "string" || proof !== shasum(payload)) {
+      throw "Authentication proof missing or invalid";
     }
 
     //
     // Load and validate input image
     //
     const src = await fetch(srcUrl);
-    const img = sharp(Buffer.from(await src.arrayBuffer()));
+    let img = sharp(Buffer.from(await src.arrayBuffer()));
     const metadata = await img.metadata();
 
     const contentType = src.headers.get("Content-Type");
@@ -95,20 +95,19 @@ export default async (
     // Ship it!
     //
 
-    response.setHeader("Content-Type", contentType);
     response.setHeader(
       "Cache-Control",
       "max-age=0, s-maxage=60, stale-while-revalidate=60"
     );
 
-    if (metadata.width <= width) {
-      // Image is already smaller, no upscaling done
-      response.status(200).send(src.buffer);
-    } else {
-      // Downscale and serve
-      const out = await img.resize({ width }).toBuffer();
-      response.status(200).send(out);
+    // Downscale if needed
+    if (metadata.width > width) {
+      img = img.resize({ width });
     }
+
+    const out = await img.toBuffer();
+    response.setHeader("Content-Type", contentType);
+    response.status(200).send(out);
   } catch (e) {
     response.status(500).send(`Error: ${e}`);
   }
