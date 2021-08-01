@@ -10,17 +10,17 @@ Po pushnutí nového commitu na GitHub (nebo úpravě souboru přes webové rozh
 
 ## Fotky
 
-Fotky nejsou uložené v repository, protože mají stovky a stovky megabajtů, což by nefungovalo dobře. Plné rozlišení je uložené v AWS S3 a klientům nabízíme několik různých menších rozlišení, které pak generujeme/konvertujeme za běhu ([imgproxy](https://github.com/imgproxy/imgproxy) u Digital Ocean) a kešujeme (AWS CloudFront).
+Fotky nejsou uložené v repository, protože jich máme moc a jsou příliš velké. Plné rozlišení je uložené v AWS S3 a klientům nabízíme několik různých menších rozlišení, které pak generujeme/konvertujeme za běhu a kešujeme.
 
-Ve výsledku tedy fotky chodí směrem od klienta cestou prohlížeč → CDN (thumbs-cdn.ohlasy.info) → náhledový server (thumbs.ohlasy.info) → CDN (i.ohlasy.info) → S3. Ta poslední CDN (i.ohlasy.info) by asi šla vynechat, ale takhle máme k dispozici i pěkná HTTPS URL k obrázkům v původním rozlišení.
+Ve výsledku tedy fotky chodí směrem od klienta cestou prohlížeč → CDN (nahledy.ohlasy.info) → náhledová služba (`/api/resize`) → CDN (i.ohlasy.info) → S3. Ta poslední CDN (i.ohlasy.info) by asi šla vynechat, ale takhle máme k dispozici i pěkná HTTPS URL k obrázkům v původním rozlišení.
 
-Náhledový server vyžaduje autentizaci, aby ho nemohl používat kdokoliv mimo tohoto webu. Autentizace se dělá kryptografickým podpisem obrázkových URL, viz [dokumentaci imgproxy](https://github.com/imgproxy/imgproxy/blob/master/docs/signing_the_url.md). Aby se tenhle podpis správně vygeneroval během překladu, je nutné nastavit proměnné prostředí `IMGPROXY_KEY` a `IMGPROXY_SALT`. (Pokud nastavené nejsou, překlad webu skončí chybou.) Ve Vercelu jsou oba parametry nastavené.
+Podrobně je infrastruktura popsaná v souboru [infra.tf](https://github.com/Ohlasy/web/blob/master/infra.tf).
 
 ## Další servery
 
 ### data.ohlasy.info
 
-Úložiště větších dat, například příloh, záznamů a podobně. AWS S3 + AWS CloudFront kvůli HTTPS.
+Úložiště větších dat, například příloh, záznamů a podobně. AWS S3 + AWS CloudFront.
 
 ### forum.ohlasy.info
 
