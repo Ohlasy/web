@@ -37,33 +37,39 @@ export default async (
   request: VercelRequest,
   response: VercelResponse
 ): Promise<void> => {
+  const send = (code: number, msg: string) => response.status(code).send(msg);
   try {
     //
     // Validate arguments
     //
     if (request.method !== "GET" && request.method !== "HEAD") {
-      throw "Only GET/HEAD supported";
+      send(400, "Only GET/HEAD supported");
+      return;
     }
 
     const srcUrl = request.query.src;
     if (typeof srcUrl !== "string") {
-      throw "Missing or invalid “src” argument";
+      send(400, "Missing or invalid “src” argument");
+      return;
     }
 
     const strWidth = request.query.width;
     if (typeof strWidth !== "string") {
-      throw "Missing or invalid “width” argument";
+      send(400, "Missing or invalid “width” argument");
+      return;
     }
 
     const width = parseInt(strWidth);
     if (isNaN(width) || width <= 0 || width > maxOutputPixelSize) {
-      throw "Invalid output width";
+      send(400, "Invalid output width");
+      return;
     }
 
     const payload = `${srcUrl}:${strWidth}:${hashSecret}`;
     const proof = request.query.proof;
     if (typeof proof !== "string" || proof !== shasum(payload)) {
-      throw "Authentication proof missing or invalid";
+      send(401, "Authentication proof missing or invalid");
+      return;
     }
 
     //
