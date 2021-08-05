@@ -261,11 +261,10 @@ resource "aws_cloudfront_distribution" "nahledy-ohlasy-info" {
       }
     }
 
-    # TBD: Bump the TTL once things are smoothed out
     viewer_protocol_policy = "redirect-to-https"
-    min_ttl                = 60
-    default_ttl            = 60
-    max_ttl                = 60
+    min_ttl                = 31536000
+    default_ttl            = 31536000
+    max_ttl                = 31536000
   }
 
   restrictions {
