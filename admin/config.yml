@@ -1,0 +1,33 @@
+backend:
+  name: github
+  repo: Ohlasy/web
+media_folder: "static/images/uploads"
+publish_mode: editorial_workflow
+site_url: "https://ohlasy.info"
+collections:
+  - label: "Články"
+    label_singular: "Článek"
+    name: "clanky"
+    folder: "_posts"
+    path: '{{year}}/{{month}}/{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: "Titulek"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Fotka"
+        name: "cover-photo"
+        widget: "string"
+        required: true
+      - label: "Autor"
+        name: "author"
+        widget: "string"
+        required: true
+      - label: "Rubrika"
+        name: "category"
+        widget: "select"
+        options: ["zpravodajství", "názory a komentáře", "seriály", "ankety", "rozhovory"]
+        default: "zpravodajství"
+      - label: "Text"
+        name: "body"
+        widget: "markdown"
