@@ -1,8 +1,18 @@
+.DS_Store
+.vercel
+.terraform*
+.env
+
+# Jekyll
 _site
 .jekyll-cache
 .jekyll-metadata
-.DS_Store
-.vercel
-node_modules
-.terraform*
-.env
+
+# https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
