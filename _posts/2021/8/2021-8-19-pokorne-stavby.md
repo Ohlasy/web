@@ -1,6 +1,6 @@
 ---
 title: I důležité stavby mohou být navrženy s pokorou a skromností
-perex: 
+perex: Svou činnost završila pracovní skupina, která připravovala zadání sportovní haly. Stavbu městské radě doporučila, pro ale nehlasovali členové Spolku za rozvoj architektury Boskovic (SRAB). Svůj dojem shrnul architekt a člen SRABu Petr Ondráček.
 cover-photo: https://i.imgur.com/2aUpttD.jpg
 author: Petr Ondráček
 category: názory a komentáře
