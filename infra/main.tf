@@ -28,194 +28,30 @@ provider "aws" {
 }
 
 #
-# Data Storage / data.ohlasy.info
-#
-# This is where we store “attachments” or large files we need a nice public URL to.
-# It’s an S3 bucket behind a CloudFront distribution.
+# DNS
 #
 
-resource "aws_s3_bucket" "data" {
-  bucket = "data.ohlasy.info"
-  acl    = "public-read"
-  website {
-    index_document = "index.html"
-  }
+resource "aws_route53_zone" "ohlasy-info" {
+  name          = "ohlasy.info"
+  comment       = "Managed by Terraform"
+  force_destroy = false
 }
 
-resource "aws_acm_certificate" "data-ohlasy-info" {
-  provider          = aws.us-east-1
-  domain_name       = "data.ohlasy.info"
-  validation_method = "DNS"
+resource "aws_route53_record" "ohlasy-info-NS" {
+  zone_id = aws_route53_zone.ohlasy-info.zone_id
+  name    = "ohlasy.info"
+  type    = "NS"
+  ttl     = "172800"
+  records = ["ns-406.awsdns-50.com.", "ns-1477.awsdns-56.org.", "ns-613.awsdns-12.net.", "ns-1911.awsdns-46.co.uk."]
 }
 
-resource "aws_cloudfront_distribution" "data-ohlasy-info" {
-  enabled             = true
-  is_ipv6_enabled     = true
-  default_root_object = "index.html"
-  price_class         = "PriceClass_100"
-
-  aliases = ["data.ohlasy.info"]
-
-  origin {
-    domain_name = aws_s3_bucket.data.bucket_domain_name
-    origin_id   = "S3-data.ohlasy.info"
-  }
-
-  default_cache_behavior {
-    allowed_methods  = ["GET", "HEAD"]
-    cached_methods   = ["GET", "HEAD"]
-    target_origin_id = "S3-data.ohlasy.info"
-
-    forwarded_values {
-      query_string = false
-
-      cookies {
-        forward = "none"
-      }
-    }
-
-    viewer_protocol_policy = "redirect-to-https"
-    min_ttl                = 0
-    default_ttl            = 86400
-    max_ttl                = 31536000
-  }
-
-  restrictions {
-    geo_restriction {
-      restriction_type = "none"
-    }
-  }
-
-  viewer_certificate {
-    acm_certificate_arn      = aws_acm_certificate.data-ohlasy-info.arn
-    minimum_protocol_version = "TLSv1.1_2016"
-    ssl_support_method       = "sni-only"
-  }
+resource "aws_route53_record" "ohlasy-info-SOA" {
+  zone_id = aws_route53_zone.ohlasy-info.zone_id
+  name    = "ohlasy.info"
+  type    = "SOA"
+  ttl     = "900"
+  records = [
+    "ns-406.awsdns-50.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+  ]
 }
 
-#
-# Master image store / i.ohlasy.info
-#
-# This is where we store image “masters”, ie. full-resolution photos. An S3 bucket behind
-# a CloudFront distribution. Most of the time we don’t refer to these images directly, but
-# through a rescaling service (see below) that creates appropriate lower-resolution images.
-#
-
-resource "aws_s3_bucket" "img" {
-  bucket = "i.ohlasy.info"
-  acl    = "public-read"
-  website {
-    index_document = "index.html"
-  }
-}
-
-resource "aws_acm_certificate" "i-ohlasy-info" {
-  provider          = aws.us-east-1
-  domain_name       = "i.ohlasy.info"
-  validation_method = "DNS"
-}
-
-resource "aws_cloudfront_distribution" "i-ohlasy-info" {
-  enabled             = true
-  is_ipv6_enabled     = true
-  default_root_object = "index.html"
-  price_class         = "PriceClass_100"
-
-  aliases = ["i.ohlasy.info"]
-
-  origin {
-    domain_name = aws_s3_bucket.img.bucket_domain_name
-    origin_id   = "S3-i.ohlasy.info"
-  }
-
-  default_cache_behavior {
-    allowed_methods  = ["GET", "HEAD"]
-    cached_methods   = ["GET", "HEAD"]
-    target_origin_id = "S3-i.ohlasy.info"
-
-    forwarded_values {
-      query_string = false
-
-      cookies {
-        forward = "none"
-      }
-    }
-
-    viewer_protocol_policy = "redirect-to-https"
-    min_ttl                = 0
-    default_ttl            = 86400
-    max_ttl                = 31536000
-  }
-
-  restrictions {
-    geo_restriction {
-      restriction_type = "none"
-    }
-  }
-
-  viewer_certificate {
-    acm_certificate_arn      = aws_acm_certificate.i-ohlasy-info.arn
-    minimum_protocol_version = "TLSv1.1_2016"
-    ssl_support_method       = "sni-only"
-  }
-}
-
-#
-# Low-res image cache
-#
-
-resource "aws_acm_certificate" "nahledy-ohlasy-info" {
-  provider          = aws.us-east-1
-  domain_name       = "nahledy.ohlasy.info"
-  validation_method = "DNS"
-}
-
-resource "aws_cloudfront_distribution" "nahledy-ohlasy-info" {
-  enabled         = true
-  is_ipv6_enabled = true
-  price_class     = "PriceClass_100"
-
-  aliases = ["nahledy.ohlasy.info"]
-
-  origin {
-    domain_name = "ohlasy.info"
-    origin_id   = "ohlasy.info"
-    origin_path = "/api/resize"
-    custom_origin_config {
-      http_port              = 80
-      https_port             = 443
-      origin_protocol_policy = "https-only"
-      origin_ssl_protocols   = ["TLSv1"]
-    }
-  }
-
-  default_cache_behavior {
-    allowed_methods  = ["GET", "HEAD"]
-    cached_methods   = ["GET", "HEAD"]
-    target_origin_id = "ohlasy.info"
-
-    forwarded_values {
-      query_string = true
-      cookies {
-        forward = "none"
-      }
-    }
-
-    viewer_protocol_policy = "redirect-to-https"
-    min_ttl                = 31536000
-    default_ttl            = 31536000
-    max_ttl                = 31536000
-  }
-
-  restrictions {
-    geo_restriction {
-      restriction_type = "none"
-    }
-  }
-
-  viewer_certificate {
-    acm_certificate_arn      = aws_acm_certificate.nahledy-ohlasy-info.arn
-    minimum_protocol_version = "TLSv1.1_2016"
-    ssl_support_method       = "sni-only"
-  }
-}
