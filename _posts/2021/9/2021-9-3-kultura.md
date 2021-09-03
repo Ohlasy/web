@@ -79,6 +79,8 @@ Zdá se, že boskovické kulturní září bude bohaté na dvě věci: inspirace
 
 ### Setkání s Milošem Štědroněm a hudbou
 
+*Galerie Otakara Kubína, pátek 24. září v 18.00*
+
 Galerie Otakara Kubína obnovuje nejen svou výstavní činnost, ale také oblíbený přednáškový cyklus brněnského muzikologa Miloše Štědroně. Popravdě bych se rád pochlubil tím, že jsem u něj absolvoval zkoušku z dějin hudby 20. století, ale upřímně řečeno, pan profesor nebyl při uzavírání předmětu zrovna přísný. Navzdory tomu měl na přednáškách vždy narváno a naučil nás toho mnohem víc než leckdo z těch, kteří o to s přísností usilovali. Především nám otevíral cesty k náročnější a soudobé hudbě, svým originálním, vtipným a poutavým způsobem. Že mají možnost nechat se takto pravidelně rozvíjet i boskovičtí posluchači, je unikátní.
 
 ### Husí slavnosti 2021
