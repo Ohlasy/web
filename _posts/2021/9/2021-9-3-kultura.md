@@ -67,7 +67,7 @@ Bez kunštátského jarmarku by snad ani nezačal podzim! Program je jako vždy 
 
 ### Zvuky a barvy židovské čtvrti – Vnímáme židovské tradice všemi smysly
 
-*Proluka U Koupadel, synagoga a židovský obecní dům, 10.00–18.00*
+*Proluka U Koupadel, synagoga a židovský obecní dům, sobota 18. září, 10.00–18.00*
 
 Boskovická ekologická iniciativa Zelená peřina se mimo jiné věnuje oživení proluky U Koupadel. S projektem celkové úpravy uspěla v loňském ročníku participativního rozpočtu a teď na konci léta (nejen) zde s dalšími partnery připravila také speciální akci. Zve na ochutnávku specialit židovské kuchyně, připravena bude literární dílna, dětské tvoření, botanická vycházka městem, prohlídka židovské čtvrti nebo outdoorová fotografická výstava. Se zástavbou proluky to zatím moc nadějně nevypadá, takže je určitě dobře, že se zajímavému místu někdo zatím snaží vdechnout duši a dát tomuto opomíjenému kusu veřejného prostoru smysl.
 
