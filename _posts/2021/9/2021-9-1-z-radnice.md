@@ -18,7 +18,7 @@ Vedení města na tiskové konferenci oznámilo, že v čele boskovické nemocni
 
 Od září začíná hlasování v dalším ročníku participativního rozpočtu. Z přihlášených 23 projektů jich nakonec radice sedm vyřadila, protože podle posouzení úředníků nesplňovaly nutné podmínky pro realizaci. Konkrétně byly vyřazeny tyto návrhy: Mostek pro pěší přes říčku Bělá, Stromy na parkovišti Bezručova, Lavička Václava Havla, Odstranění výjimky pro vjezd do odpočinkové zóny v horní části náměstí, Výhled na Boskovice, Samoobslužné WC, Oprava přístupové komunikace – zahrádkářská kolonie Rovná.
 
-O zbývajících šestnácti projektech se hlasuje na [webové platformě PinCity](https://boskovice.pincity.cz/participativni-rozpocet/2021) nebo pomocí anketního lístku, který je součástí městského zpravodaje. Hlasování je určeno pouze pro občany města a každý z nich má k dispozici pouze jeden hlas. Soutěž se uzavře 15. října.
+O zbývajících šestnácti projektech se hlasuje na [webové platformě PinCity](https://boskovice.pincity.cz/participativni-rozpocet/2021) nebo pomocí anketního lístku, který je součástí městského zpravodaje. Hlasování je určeno pouze pro občany města a každý z nich má k dispozici pouze jeden hlas. Soutěž se uzavře 10. října.
 
 Vedení města předpokládá, že pro příští rok bude participativní rozpočet připraven v podobných parametrech jako letos, kdy na něj radnice vyčlenila 400 tisíc korun. Mírné navýšení není vyloučeno, ale o nějaké skokové změně se podle starosty neuvažuje. Platforma PinCity, na které participativní rozpočet běží, uspěla v dalším ročníku soutěže Zlatý erb.
 
