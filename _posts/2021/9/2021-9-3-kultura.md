@@ -49,7 +49,7 @@ Druhý den navíc proběhne od 10.00 s autorkou výtvarná dílna pro veřejnost
 
 ### Ještě jsem tady – výstava fotografií Ondřeje Pokorného
 
-*Kino Panorama, vernisáž 17. září v 17.00*
+*Kino Panorama, vernisáž 17. září v 18.00*
 
 Ondřej Pokorný rozšiřuje škálu svých uměleckých aktivit autorskou výstavou fotografií. Jedná se o soubor fotografií klientů charity, který vznikal v letech 2018 až 2021 v Olomouci a v Brně. Za fotografii, kterou jsme použili jako ilustrační k tomuto článku, získal ocenění z rukou Jindřicha Štreita. Takže nejen DJ, nejen herec divadla NABOSO a filmů Michala Grigy, ale také fotograf. Ostatně pro Ohlasy už v minulosti vytvořil titulní stranu jednoho z tištěných vydání. 
 
