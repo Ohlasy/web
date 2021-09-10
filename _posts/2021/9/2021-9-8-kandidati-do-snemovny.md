@@ -29,7 +29,7 @@ Za stranu Levice kandiduje na 13. místě vědec a vysokoškolský učitel Milan
 
 Robert Šlachta sice vystudoval v Boskovicích, ale na kandidátce svého hnutí Přísaha má zástupce pouze z Blanska – na 13. pozici zdravotní sestru Zdeňku Hlavičkovou.
 
-Tři regionální zástupce má na kandidátní listině koalice ODS, TOP 09 a KDU-ČSL nazvaná SPOLU. Jsou to na 22. místě blanenská primářka rehabilitace Jana Novotná, na 28. místě student Martin Staněk (oba za ODS) a na 29. místě zástupkyně lidovců a bývalá boskovická místostarostka Dagmar Hamalová. TOP 09 tak z regionu nikoho nenominovala. Dnes mají tyto tři strany dohromady šest poslanců z jihu Moravy – tři občanští demokraté, dva lidovci, jeden za TOP 09.
+Čtyři regionální zástupce má na kandidátní listině koalice ODS, TOP 09 a KDU-ČSL nazvaná SPOLU. Jsou to na 13. místě starosta Kotvrdovic Jindřich Kocour za KDU-ČSL, na 22. místě blanenská primářka rehabilitace Jana Novotná, na 28. místě student Martin Staněk (oba za ODS) a na 29. místě zástupkyně lidovců a bývalá boskovická místostarostka Dagmar Hamalová. TOP 09 tak z regionu nikoho nenominovala. Dnes mají tyto tři strany dohromady šest poslanců z jihu Moravy – tři občanští demokraté, dva lidovci, jeden za TOP 09.
 
 Na 29. místě kandiduje za Monarchisty grafik ze Svitávky Jakub Pernes.
 
