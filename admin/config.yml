@@ -4,13 +4,14 @@ backend:
   base_url: https://auth.ohlasy.info
   auth_endpoint: /auth
 media_folder: "static/images/uploads"
+logo_url: https://ohlasy.info/assets/favicon.png
 publish_mode: editorial_workflow
 site_url: "https://ohlasy.info"
 collections:
   - label: "Články"
     label_singular: "Článek"
     name: "clanky"
-    folder: "_posts"
+    folder: "_posts/2021"
     path: '{{year}}/{{month}}/{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - label: "Titulek"
