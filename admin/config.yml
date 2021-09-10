@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Ohlasy/web
   base_url: https://auth.ohlasy.info
-  auth_endpoint: /oauth/auth
+  auth_endpoint: /auth
 media_folder: "static/images/uploads"
 publish_mode: editorial_workflow
 site_url: "https://ohlasy.info"
