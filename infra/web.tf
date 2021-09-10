@@ -17,6 +17,14 @@ resource "aws_route53_record" "archiv-ohlasy-info" {
   records = ["cname.vercel-dns.com"]
 }
 
+resource "aws_route53_record" "auth-ohlasy-info" {
+  zone_id = aws_route53_zone.ohlasy-info.zone_id
+  name    = "auth.ohlasy.info"
+  type    = "CNAME"
+  ttl     = "300"
+  records = ["cname.vercel-dns.com"]
+}
+
 resource "aws_route53_record" "forum-ohlasy-info" {
   zone_id = aws_route53_zone.ohlasy-info.zone_id
   name    = "forum.ohlasy.info"
