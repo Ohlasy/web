@@ -4,7 +4,6 @@ cover-photo: https://i.ohlasy.info/i/e3da23aa.jpeg
 perex: Iniciativa Zelená peřina nadále pracuje na projektu Louka v proluce. Jak přípravy probíhají a kdy bude hotovo?
 author: Tomáš Trumpeš
 category: zpravodajství
-published: false
 ---
 
 *V proluce U Koupadel proběhne v sobotu 18. září celodenní akce [Zvuky a barvy židovské čtvrti](https://www.facebook.com/events/4208208779296992). Připravila ji iniciativa Zelená peřina, která také nadále pracuje na projektu, který zvítězil v prvním ročníku boskovického participativního rozpočtu. Jak přípravy probíhají a kdy bude hotovo?*
@@ -47,4 +46,4 @@ Mezitím byly vybrány firmy na jednotlivé práce a také dodavatel infopanelů
 
 V létě už se definitivně ukázalo, že práce v proluce mohou začít až na podzim, po vydání souhlasu stavebního úřadu, a dokončeny budou na jaře příštího roku, kdy by měl být pozemek oset a osazen.
 
-Práce na přípravě projektu tak byla nakonec pro navrhovatelku a celou iniciativu Zelená peřina poměrně náročná a hlavně trvala déle, než se zpočátku domnívali. Přesto Hana Kvapilová zdůrazňuje, že je ráda, že se mohli společně s městem, které je realizátorem vítězného projektu, na přípravě podílet. A také se jim podařilo připravit alespoň některé další dílčí aktivity, jako je umístění ježkovníku nebo záhon před židovským obecním domem. A právě akci Zvuky a barvy židovské čtvrti. „V uplynulém období jsme rozhodně nezaháleli. Je za námi spousta času stráveného nad přípravou realizace projektu, bohužel je to většinou práce málo viditelná,“ uzavřela Hana Kvapilová.
+Práce na přípravě projektu tak byla nakonec pro navrhovatelku a celou iniciativu Zelená peřina poměrně náročná a hlavně trvala déle, než se zpočátku domnívali. Přesto Hana Kvapilová zdůrazňuje, že je ráda, že se mohli společně s městem, které je realizátorem vítězného projektu, na přípravě podílet. A také se jim podařilo připravit alespoň některé další dílčí aktivity, jako je umístění ježkovníku nebo založení okrasného záhonu před židovským obecním domem. A právě akci [Zvuky a barvy židovské čtvrti](https://www.facebook.com/events/4208208779296992). „V uplynulém období jsme rozhodně nezaháleli. Je za námi spousta času stráveného nad přípravou realizace projektu, bohužel je to většinou práce málo viditelná,“ uzavřela Hana Kvapilová.
