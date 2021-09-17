@@ -3,8 +3,6 @@ title: "Nic dobrého neděláte, dovedete jenom věšet a střílet nevinné lid
 cover-photo: https://i.ohlasy.info/i/47fe477e.jpg
 author: Jiří Řezníček
 category: zpravodajství
-published: false
-
 ---
 
 *Příběh Františka Hrubého ze Skalice nad Svitavou z 50. let 20. století pro Ohlasy sepsal historik a bývalý pracovník boskovického muzea Jiří Řezníček.*
