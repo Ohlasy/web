@@ -13,7 +13,7 @@ serial: ghetto
 
 Rodák ze slovenských Malacek přišel do Brna se svojí židovskou rodinou jako osmiletý chlapec a s tímto městem pak spojil nejlepší léta svého života. Po maturitě odešel do Vídně, kde po studiích na technice zamířil na Akademii výtvarných umění do Mistrovské školy architektury. Jeho velkým vzorem a později přítelem se stal světoznámý architekt Adolf Loos.
 
-Po první světové válce a krátkém působení ve Vídni se vrátil do Brna a přiřadil se k moderním, zejména funkcionalistickým architektům, díky nimž se Brno stalo dynamicky se rozvíjejícím městem evropského formátu. Ernst Wiesner k tomuto přispěl řadou svých projektů, z nichž vybírám jen ty zásadní: Moravská zemská pojišťovna, banka Union na Beethovenově ulici (v budově dnes sídlí brněnský rozhlas, na domě má Wiesner svou pamětní desku), brněnské krematorium, palác Morava v Divadelní ulici. Na náměstí Svobody realizoval společně s architektem Bedřichem Fuchsem budovu Moravské banky, dnes sídlo Komerční banky. 
+Po první světové válce a krátkém působení ve Vídni se vrátil do Brna a přiřadil se k moderním, zejména funkcionalistickým architektům, díky nimž se Brno stalo dynamicky se rozvíjejícím městem evropského formátu. Ernst Wiesner k tomuto přispěl řadou svých projektů, z nichž vybírám jen ty zásadní: Moravská zemská pojišťovna, banka Union na Beethovenově ulici (v budově dnes sídlí brněnský rozhlas, na domě má Wiesner svou pamětní desku), brněnské krematorium, palác Morava v Divadelní ulici. Na náměstí Svobody realizoval společně s architektem Bohuslavem Fuchsem budovu Moravské banky, dnes sídlo Komerční banky. 
 
 Kromě toho Wiesner navrhoval vily, činžovní domy, interiéry. Orientoval se především na bohatou židovskou klientelu, pro niž vytvářel originální stavby plně odpovídající jejím nárokům na luxusní bydlení. 
 
@@ -31,7 +31,8 @@ Překvapivě se počátkem 40. let oženil. Jeho ženou se stala německá here�
 
 Ernst Wiesner se vrací do Anglie a úspěšně vyučuje na vysokých školách – nejdříve v Oxfordu, posléze v Liverpoolu, kde učiní další překvapivý krok, konvertuje ke katolické církvi. Snad k tomu přispělo přátelství s liverpoolským arcibiskupem, snad i vidina nových pracovních příležitostí, kterých se mu pak vskutku dostalo. Mimo jiné vybudoval soubor škol svatého Mikuláše v blízkosti liverpoolské katedrály. V roce 1954 dostal nejvyšší britské vyznamenání – titul Master of Architecture.
 
-V Brně se mezitím kolem jména Ernst Wiesner rozhostilo ticho. Veškeré kontakty byly zpřetrhány, mnozí z jeho přátel se domnívali, že je již mrtev, autorství nejlepšího Wiesnerova díla – brněnského krematoria – bylo připisováno Bedřichu Fuchsovi. Zapomenutý, ztracený Ernst Wiesner. 
+V Brně se mezitím kolem jména Ernst Wiesner rozhostilo ticho. Veškeré kontakty byly zpřetrhány, mnozí z jeho přátel se domnívali, že je již mrtev, autorství nejlepšího Wiesnerova díla – brněnského krematoria – bylo připisováno Bohuslavu Fuchsovi. Zapomenutý, ztracený Ernst Wiesner.
+
 Znovu objeven byl v Brně v 60. letech zásluhou architekta Bedřicha Rozehnala. Tehdy obdržel pamětní medaili a čestný doktorát Univerzity Jana Evangelisty Purkyně (dnešní Masarykovy univerzity), uvažovalo se o spolupráci brněnské a liverpoolské univerzity. Srpnové události roku 1968 všechny tyto plány zhatily.
 
 {% photo src="https://i.ohlasy.info/i/61362d07.jpg" %}
