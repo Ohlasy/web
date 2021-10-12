@@ -4,7 +4,6 @@ cover-photo: https://i.imgur.com/2hLnNqsl.jpg
 perex: Nemocnice Boskovice nemusí do budoucna zůstat v rukách města. Jihomoravský kraj si nechává vypracovat studii, jak městská zdravotnická zařízení včetně boskovického začlenit do připravovaného holdingu.
 author: Marek Osouch
 category: zpravodajství
-
 ---
 
 *Nemocnice Boskovice nemusí do budoucna zůstat v rukách města. Jihomoravský kraj si nechává vypracovat studii, jak by se mohla městská zdravotnická zařízení včetně toho boskovického začlenit do připravovaného holdingu devíti krajských nemocnic.*

@@ -4,7 +4,6 @@ cover-photo: https://i.ohlasy.info/i/0mmg63t.jpg
 perex: Do 50. let minulého století se v Boskovicích vařilo pivo. Pak už ale místní pivovar sloužil jen jako sklad a poslední roky zeje prázdnotou. Teď ho jeho majitel prodává.
 author: Marek Osouch
 category: zpravodajství
-
 ---
 
 *Do 50. let minulého století se v Boskovicích vařilo pivo. Pak už ale místní pivovar sloužil jen jako sklad a poslední roky zeje prázdnotou. Teď ho však jeho majitel prodává, realitní makléřce už se hlásí zájemci.*

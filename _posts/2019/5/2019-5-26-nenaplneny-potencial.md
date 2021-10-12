@@ -4,7 +4,6 @@ perex: Skončily volby do Evropského parlamentu. Můžeme přemýšlet o tom, c
 cover-photo: https://i.ohlasy.info/i/ceqs0bp.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
-
 ---
 
 *Skončily volby do Evropského parlamentu. Ve chvíli, kdy píšu tento komentář, ale ještě neznáme výsledky, protože musíme čekat, až se uzavře poslední volební místnost v celé Evropské unii. Zatím můžeme přemýšlet třeba o tom, co pro nás myšlení na evropské úrovni vlastně znamená. Třeba pro nás v Boskovicích.*
