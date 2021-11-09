@@ -3,7 +3,7 @@ title: „Ta kniha je konzerva lesa, kterou si otevřeš doma a ten chrám do te
 perex: Rozhovor s tvůrci fotokomiksu Potíže s Mirečkem – autorem příběhu Michalem Grigou, výtvarnicí Lenkou Dokoupilovou a fotografem Tomášem Znamenáčkem.
 cover-photo: https://i.ohlasy.info/i/92ed73c3.jpg
 author: Marek Čech
-category: rozhovor
+category: rozhovory
 ---
 
 *Rozhovor s tvůrci fotokomiksu Potíže s Mirečkem aneb Příběh z lesních tišin – autorem příběhu Michalem Grigou, výtvarnicí Lenkou Dokoupilovou a fotografem Tomášem Znamenáčkem. Fotokomiks vydávají Ohlasy, vyjít by měl ještě letos a objednat si ho či podpořit jeho vydání můžete ještě několik dnů v [kampani na Hithitu](https://www.hithit.com/cs/project/9813/potize-s-mireckem-aneb-pribeh-z-lesnich-tisin).*
