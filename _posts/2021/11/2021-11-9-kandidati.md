@@ -5,6 +5,7 @@ perex: Rok před komunálními a senátními volbami jsme zmapovali situaci a n
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
+    - politika
     - volby 2022
 ---
 
