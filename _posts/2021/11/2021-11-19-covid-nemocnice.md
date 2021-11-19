@@ -24,7 +24,7 @@ Na dotaz, kolik leží v nemocnici očkovaných a kolik neočkovaných, Dan Št�
 
 Nemocnice ale nepomáhá jen hospitalizovaným, dochází sem i další na podávání monoklonálních protilátek. Jde o ambulantní léčbu, která je účinná v počátečním stádiu nemoci. Pokud se tyto protilátky podají včas, zvyšuje se šance, že člověk nebude muset být na lůžku pod dohledem zdravotníků. „Jsme domluveni s praktickými lékaři, že nám budou pozitivní pacienty posílat,“ přiblížil jednatel.
 
-V nemocnici také nadále pokračuje očkování veřejnosti, a to ať už s registrací, nebo bez ní. Lidé mohou přijít i na třetí dávku. „Po navýšení zájmu začátkem listopadu zůstává poptávka stabilní, zhruba 650 aplikací týdně,“ dodal jednatel. Očkování probíhá vždy v úterý a bude v tento den pokračovat i nadále. Je možné, že zájem s novými nařízeními vlády znovu stoupne. V takovém případě by nemocnice navýšila počet dávek aplikovaných během úterý. Jiné dny jako očkovací jednatel i kvůli organizaci další práce nechce.
+V nemocnici také nadále pokračuje očkování veřejnosti, a to ať už s registrací, nebo bez ní. Lidé mohou přijít i na třetí dávku. „Po navýšení zájmu začátkem listopadu zůstává poptávka stabilní, zhruba 650 aplikací týdně,“ dodal jednatel. Očkování probíhá vždy v úterý a bude v tento den pokračovat i nadále. Je možné, že zájem s novými nařízeními vlády znovu stoupne. V takovém případě by nemocnice navýšila počet dávek aplikovaných během úterý. I kvůli organizaci další práce ale jednatel nechce jiné dny určit jako očkovací.
 
 ### V domovech pro seniory je situace klidná
 
