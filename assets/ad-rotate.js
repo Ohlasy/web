@@ -36,17 +36,8 @@ async function loadAds() {
     // Repeat the ads if there’s not enough of them to fill the page
     list = list.concat(list);
     for (const container of document.getElementsByClassName("box")) {
-      // Insert ad
       var ad = list.shift();
       container.append(renderAd(ad));
-      // Log ad view
-      if (ad.name) {
-        try {
-          ga("send", "event", "reklama", "zobrazení", ad.name);
-        } catch (err) {
-          console.error(err);
-        }
-      }
     }
   } catch (err) {
     console.error(err);
