@@ -1,29 +1,8 @@
-// https://support.google.com/analytics/answer/1136920
-// https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide
-function trackLink(link, category, action, label) {
-  try {
-    ga("send", "event", category, action, label);
-  } catch (err) {
-    console.error(err);
-  }
-  setTimeout(function() {
-    document.location.href = link.href;
-  }, 100);
-  return false;
-}
-
 function renderAd(ad) {
   const link = document.createElement("a");
-  link.href = ad.url;
-
-  if (ad.name) {
-    link.onclick = function(event) {
-      event.preventDefault();
-      trackLink(this, "reklama", "klik", ad.name);
-    };
-  }
-
   const img = document.createElement("img");
+
+  link.href = ad.url;
   img.src = ad.image;
   img.className = "img-responsive";
   img.alt = ad.alt || "";
