@@ -1,64 +1,62 @@
 import { VercelRequest, VercelResponse } from "@vercel/node";
-import { JWT } from "google-auth-library";
+import fetch from "node-fetch";
 
-export async function queryAnalytics<Response>(
-  email: string,
-  privateKey: string,
-  options: Record<string, string>
-): Promise<Response> {
-  const client = new JWT({
-    email,
-    key: privateKey,
-    scopes: ["https://www.googleapis.com/auth/analytics.readonly"],
-  });
-  const response = await client.request<Response>({
-    url: buildAnalyticsUrl(options),
-  });
-  return response.data;
+interface PlausibleResponse {
+  results: {
+    page: string;
+    visitors: number;
+  }[];
 }
 
-export async function queryTopArticles(email: string, privateKey: string) {
-  interface Response {
-    rows: string[][];
-  }
-
-  const options = {
-    "ids": "ga:97173197",
-    "start-date": "60daysAgo",
-    "end-date": "yesterday",
-    "metrics": "ga:pageviews",
-    "dimensions": "ga:pagePath,ga:pageTitle",
-    "sort": "-ga:pageviews",
-    "filters": "ga:pagePath=@/clanky/20",
-    "max-results": "10",
-  };
-  const response: Response = await queryAnalytics(email, privateKey, options);
-  return response.rows.map((row) => {
-    return {
-      url: row[0],
-      title: row[1],
-    };
+async function queryTopPages(
+  apiKey: string,
+  siteId = "ohlasy.info",
+  period = "30d",
+  property = "event:page",
+  limit = 15
+): Promise<PlausibleResponse> {
+  const root = "https://plausible.io/api/v1/stats/breakdown";
+  const url = `${root}?site_id=${siteId}&period=${period}&property=${property}&limit=${limit}`;
+  const response = await fetch(url, {
+    headers: { Authorization: `Bearer ${apiKey}` },
   });
+  return await response.json();
 }
 
-export function buildAnalyticsUrl(options: Record<string, string>): string {
-  const baseUrl = "https://www.googleapis.com/analytics/v3/data/ga";
-  const params = new URLSearchParams(options);
-  return baseUrl + "?" + params.toString();
+// TBD: This is a sorry hack, we should get the titles locally or from Plausible.
+async function getPageTitle(url: string) {
+  const response = await fetch(url);
+  const src = await response.text();
+  const matches = src.match(/<title>([^<]*)<\/title>/);
+  return matches ? matches[1] : "";
 }
 
 export default async (
   request: VercelRequest,
   response: VercelResponse
 ): Promise<void> => {
-  const mail = process.env.ANALYTICS_MAIL;
-  const key = process.env.ANALYTICS_KEY;
-  if (!mail || !key) {
-    response.status(500).send("Missing Analytics auth in env");
+  const apiKey = process.env.PLAUSIBLE_KEY;
+  if (!apiKey) {
+    response.status(500).send("Missing API key in env");
     return;
   }
-  const report = await queryTopArticles(mail, key);
-  const out = JSON.stringify(report, null, 2);
+  const report = await queryTopPages(apiKey);
+  const topArticles = report.results
+    // We only want regular articles
+    .filter((item) => item.page.match("^/clanky"))
+    // Convert to expected format
+    .map((item) => ({
+      url: item.page,
+    }))
+    // Only take 10
+    .slice(0, 10);
+  const articlesWithTitles = await Promise.all(
+    topArticles.map(async (item) => ({
+      title: await getPageTitle("https://ohlasy.info" + item.url),
+      ...item,
+    }))
+  );
+  const out = JSON.stringify(articlesWithTitles, null, 2);
   response.setHeader("Cache-Control", "max-age=0, s-maxage=86400");
   response.setHeader("Content-Type", "application/json");
   response.status(200).send(out);
