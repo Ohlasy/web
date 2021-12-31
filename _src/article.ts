@@ -24,6 +24,14 @@ const withDefault = <T>(decoder: DecoderFunction<T>, defaultValue: T) => {
   };
 };
 
+const date = (value: Pojo): Date => {
+  if (Object.prototype.toString.call(value) === "[object Date]") {
+    return value as any;
+  } else {
+    throw `Expected a date, got ${typeof value} instead`;
+  }
+};
+
 /** Article metadata such as title, author, category, etc. */
 export type Metadata = decodeType<typeof decodeMetadata>;
 
@@ -40,6 +48,7 @@ export const decodeMetadata = record({
   coverPhoto: field("cover-photo", optional(string)),
   tags: withDefault(array(string), []),
   slug: string,
+  date: date,
   category: optional(
     union(
       "zpravodajství",
@@ -82,6 +91,7 @@ export function readArticle(path: string): Article {
   const src = fs.readFileSync(path, { encoding: "utf-8" });
   return decodeArticle(src, {
     slug: getSlugFromPath(path),
+    date: fs.statSync(path).ctime,
   });
 }
 
