@@ -1,16 +1,20 @@
-import { decodeArticle } from "./article";
+import { getSlugFromPath, readArticle } from "./article";
 import { getFilesRecursively } from "./utils";
-import fs from "fs";
 
 test("Decode all articles", () => {
   const articlePaths = getFilesRecursively("_posts");
   for (const path of articlePaths) {
-    const src = fs.readFileSync(path, { encoding: "utf-8" });
     try {
-      const _ = decodeArticle(src);
+      const _ = readArticle(path);
     } catch (e) {
       fail(`Article fails to decode: ${path}`);
     }
   }
   console.log(`Successfully decoded ${articlePaths.length} articles.`);
+});
+
+test("Get slug from path", () => {
+  const s = getSlugFromPath;
+  expect(s("2021-2-26-vystavba-chmelnice.md")).toBe("vystavba-chmelnice");
+  expect(s("/foo/2021-2-26-vystavba-chmelnice.md")).toBe("vystavba-chmelnice");
 });

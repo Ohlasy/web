@@ -1,4 +1,6 @@
 import matter from "gray-matter";
+import { getFilesRecursively } from "./utils";
+import fs from "fs";
 import {
   array,
   DecoderFunction,
@@ -10,7 +12,6 @@ import {
   string,
   union,
 } from "typescript-json-decoder";
-import { getFilesRecursively } from "./utils";
 
 /** Try decoding with the provided decoder and return a default value if it fails */
 const withDefault = <T>(decoder: DecoderFunction<T>, defaultValue: T) => {
@@ -38,6 +39,7 @@ export const decodeMetadata = record({
   perex: optional(string),
   coverPhoto: field("cover-photo", optional(string)),
   tags: withDefault(array(string), []),
+  slug: string,
   category: optional(
     union(
       "zpravodajství",
@@ -51,14 +53,38 @@ export const decodeMetadata = record({
 });
 
 /** Decode article from a standard frontmatter + body text file */
-export function decodeArticle(src: string): Article {
+export function decodeArticle(
+  src: string,
+  defaults: Record<string, any> = {}
+): Article {
   const { content, data } = matter(src);
+  const mergedMeta = { ...defaults, ...data };
   return {
     body: content,
-    ...decodeMetadata(data),
+    ...decodeMetadata(mergedMeta),
   };
 }
 
+/**
+ * Return the “slug” part of a path
+ *
+ * The file name must be in the `2021-2-26-vystavba-chmelnice.md` format.
+ */
+export function getSlugFromPath(path: string): string {
+  return path
+    .replace(/^.*[\\\/]/, "") // 2021-2-26-vystavba-chmelnice.md
+    .replace(/^\d+-\d+-\d+-/, "") // vystavba-chmelnice.md
+    .replace(/\.md$/, ""); // vystavba-chmelnice
+}
+
+export function readArticle(path: string): Article {
+  // TODO: Validate the path format?
+  const src = fs.readFileSync(path, { encoding: "utf-8" });
+  return decodeArticle(src, {
+    slug: getSlugFromPath(path),
+  });
+}
+
 export function getAllArticles(root = "_posts"): Article[] {
-  return getFilesRecursively(root).map(decodeArticle);
+  return getFilesRecursively(root).map(readArticle);
 }
