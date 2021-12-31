@@ -24,6 +24,7 @@ const withDefault = <T>(decoder: DecoderFunction<T>, defaultValue: T) => {
   };
 };
 
+/** Decode a live Date object (ie. not a date stamp string) */
 const date = (value: Pojo): Date => {
   if (Object.prototype.toString.call(value) === "[object Date]") {
     return value as any;
@@ -86,6 +87,12 @@ export function getSlugFromPath(path: string): string {
     .replace(/\.md$/, ""); // vystavba-chmelnice
 }
 
+/**
+ * Read article from a file
+ *
+ * This also automatically fills in the correct values for
+ * `slug` and `date`.
+ */
 export function readArticle(path: string): Article {
   // TODO: Validate the path format?
   const src = fs.readFileSync(path, { encoding: "utf-8" });
@@ -95,6 +102,15 @@ export function readArticle(path: string): Article {
   });
 }
 
+/** Read all articles under a given directory root */
 export function getAllArticles(root = "_posts"): Article[] {
   return getFilesRecursively(root).map(readArticle);
+}
+
+/** Return the path used for an article given its date and slug */
+export function getArticlePath(meta: Pick<Metadata, "date" | "slug">): string {
+  const year = meta.date.getFullYear();
+  const month = meta.date.getMonth() + 1;
+  const paddedMonth = String(month).padStart(2, "0");
+  return `/clanky/${year}/${paddedMonth}/${meta.slug}.html`;
 }
