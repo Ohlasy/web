@@ -36,8 +36,7 @@
   },
   "jest": {
     "roots": [
-      "_src",
-      "_tests"
+      "_src"
     ],
     "transform": {
       "(ts|tsx)$": "ts-jest"
