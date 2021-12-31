@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Končící rok 2021 vybízí opět k tomu, abychom si jej připomněli také pohledem do statistik čtenosti našeho webu. Jaké události a zajímavosti vás čtenáře v roce 2021 nejvíc zajímaly? Vedle pandemie byla letos dominantní politika – střet zájmů místostarosty Radka Mazáče a výměna koalice na boskovické radnici.*
 
-{% photo src="https://i.imgur.com/kEbVoE5.png" caption="Jedna z nejlajkovanějších letošních fotografií na nařem facebookovém profilu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.imgur.com/kEbVoE5.png" caption="Jedna z nejlajkovanějších letošních fotografií na našem facebookovém profilu" author="Tomáš Znamenáček" %}
 
 O dominantních tématech roku asi nejlépe vypovídá, že politická krize na boskovické radnici je mezi našimi deseti nejčtenějšími články v roce 2021 zastoupena čtyřikrát a pandemie koronaviru třikrát. O zbylá místa se podělilo téma adopce, které jsme probrali v rozhovoru s Teou Šimonovou, komplikovaná dopravní situace pro cestující do Brna a také nový jednotný vizuální styl města.
 
