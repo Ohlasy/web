@@ -1,4 +1,4 @@
-import { getArticlePath, getSlugFromPath, readArticle } from "./article";
+import { getArticlePath, parsePath, readArticle } from "./article";
 import { getFilesRecursively } from "./utils";
 
 test("Decode all articles", () => {
@@ -13,10 +13,16 @@ test("Decode all articles", () => {
   console.log(`Successfully decoded ${articlePaths.length} articles.`);
 });
 
-test("Get slug from path", () => {
-  const s = getSlugFromPath;
-  expect(s("2021-2-26-vystavba-chmelnice.md")).toBe("vystavba-chmelnice");
-  expect(s("/foo/2021-2-26-vystavba-chmelnice.md")).toBe("vystavba-chmelnice");
+test("Parse article path", () => {
+  expect(parsePath("2021-2-26-vystavba-chmelnice.md")).toEqual([
+    new Date("2021-2-26"),
+    "vystavba-chmelnice",
+  ]);
+  expect(() => parsePath("2021-2-90-vystavba-chmelnice.md")).toThrow();
+  expect(() => parsePath("2021-2-vystavba-chmelnice.md")).toThrow();
+  expect(() => parsePath("2021-2-12-.md")).toThrow();
+  expect(() => parsePath("2021-2-12-křeč.md")).toThrow();
+  expect(() => parsePath("2021-2-12-sleva-50%.md")).toThrow();
 });
 
 test("Article paths", () => {

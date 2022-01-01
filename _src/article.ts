@@ -76,30 +76,42 @@ export function decodeArticle(
 }
 
 /**
- * Return the “slug” part of a path
+ * Parse article path to get article date and slug
  *
- * The file name must be in the `2021-2-26-vystavba-chmelnice.md` format.
+ * The expected filename format is `2021-2-26-vystavba-chmelnice.md`.
  */
-export function getSlugFromPath(path: string): string {
-  return path
-    .replace(/^.*[\\\/]/, "") // 2021-2-26-vystavba-chmelnice.md
-    .replace(/^\d+-\d+-\d+-/, "") // vystavba-chmelnice.md
-    .replace(/\.md$/, ""); // vystavba-chmelnice
+export function parsePath(path: string): [Date, string] {
+  const filename = path.replace(/^.*[\\\/]/, "");
+  const matches = filename.match(/^(\d+-\d+-\d+)-(.*)\.md$/);
+
+  if (!matches || matches.length < 2) {
+    throw `Invalid file name format: ${filename}`;
+  }
+
+  const date = new Date(matches[1]);
+  const slug = matches[2];
+
+  if (isNaN(date.getTime())) {
+    throw `Invalid date ${date} in ${filename}`;
+  }
+
+  if (!slug.match(/^[a-z0-9-_]+$/i)) {
+    throw `Invalid slug “${slug}” in ${filename}`;
+  }
+
+  return [date, slug];
 }
 
 /**
  * Read article from a file
  *
- * This also automatically fills in the correct values for
+ * This also automatically fills in the correct default values for
  * `slug` and `date`.
  */
 export function readArticle(path: string): Article {
-  // TODO: Validate the path format?
   const src = fs.readFileSync(path, { encoding: "utf-8" });
-  return decodeArticle(src, {
-    slug: getSlugFromPath(path),
-    date: fs.statSync(path).ctime,
-  });
+  const [date, slug] = parsePath(path);
+  return decodeArticle(src, { date, slug });
 }
 
 /** Read all articles under a given directory root */
