@@ -28,31 +28,22 @@ Jako nadregionální téma a silný lidský příběh se prosadil rozhovor s Teo
 
 Žebříček nejčtenějších textů za rok 2021 vypadá tedy takto:
 
-[Rozhovor s Radkem Mazáčem](https://ohlasy.info/clanky/2021/03/rozhovor-mazac.html)
-
-[Střet zájmů Radka Mazáče](https://ohlasy.info/clanky/2021/01/stret-zajmu-mazac.html)
-
-[Rozhovor se sestrami ARO a JIP Martinou Zemánkovou a Alenou Trnovou](https://ohlasy.info/clanky/2021/04/rozhovor-covid.html)
-
-[CZT a Energochem](https://ohlasy.info/clanky/2021/01/czt-energochem.html)
-
-[Očkování začíná](https://ohlasy.info/clanky/2021/01/ockovani-zacina.html)
-
-[Rozhovor s Teou Šimonovou](https://ohlasy.info/clanky/2021/01/rozhovor-simonova.html)
-
-[Výluka na trati do Brna](https://ohlasy.info/clanky/2021/12/vyluka-vyluk.html)
-
-[Rozhovor s Lukášem Holíkem](https://ohlasy.info/clanky/2021/04/rozhovor-holik.html)
-
-[Anketa k jednotnému vizuálnímu stylu](https://ohlasy.info/clanky/2021/03/jvs-anketa.html)
-
-[Rozhovor s šéfem nemocnice Danem Štěpánským](https://ohlasy.info/clanky/2021/03/nemocnice-covid.html)
+1. [Rozhovor s Radkem Mazáčem](https://ohlasy.info/clanky/2021/03/rozhovor-mazac.html)
+2. [Střet zájmů Radka Mazáče](https://ohlasy.info/clanky/2021/01/stret-zajmu-mazac.html)
+3. [Rozhovor se sestrami ARO a JIP Martinou Zemánkovou a Alenou Trnovou](https://ohlasy.info/clanky/2021/04/rozhovor-covid.html)
+4. [CZT a Energochem](https://ohlasy.info/clanky/2021/01/czt-energochem.html)
+5. [Očkování začíná](https://ohlasy.info/clanky/2021/01/ockovani-zacina.html)
+6. [Rozhovor s Teou Šimonovou](https://ohlasy.info/clanky/2021/01/rozhovor-simonova.html)
+7. [Výluka na trati do Brna](https://ohlasy.info/clanky/2021/12/vyluka-vyluk.html)
+8. [Rozhovor s Lukášem Holíkem](https://ohlasy.info/clanky/2021/04/rozhovor-holik.html)
+9. [Anketa k jednotnému vizuálnímu stylu](https://ohlasy.info/clanky/2021/03/jvs-anketa.html)
+10. [Rozhovor s šéfem nemocnice Danem Štěpánským](https://ohlasy.info/clanky/2021/03/nemocnice-covid.html)
 
 Kromě celkového pořadí je také zajímavé podívat se na to, co vás zajímalo postupně během roku, jak šly jednotlivé měsíce.
 
 ### Leden
 
-Měsíc leden byl opravdu unikátní, protože v něm vznikly hned čtyři nejúspěšnější texty: [střet zájmů Radka Mazáče](https://ohlasy.info/clanky/2021/01/stret-zajmu-mazac.html), [propojení jeho firmy s CZT](https://ohlasy.info/clanky/2021/01/czt-energochem.html), [začátek očkování v nemocnici](https://ohlasy.info/clanky/2021/01/ockovani-zacina.html) a [rozhovor s Teou Šimonovou](https://ohlasy.info/clanky/2021/01/rozhovor-simonova.html). S mírným odstupem následoval rovněž dost úspěšný[ rozhovor s mladým politikem Martinem Staňkem](https://ohlasy.info/clanky/2021/01/rozhovor-stanek.html).
+Měsíc leden byl opravdu unikátní, protože v něm vznikly hned čtyři nejúspěšnější texty: [střet zájmů Radka Mazáče](https://ohlasy.info/clanky/2021/01/stret-zajmu-mazac.html), [propojení jeho firmy s CZT](https://ohlasy.info/clanky/2021/01/czt-energochem.html), [začátek očkování v nemocnici](https://ohlasy.info/clanky/2021/01/ockovani-zacina.html) a [rozhovor s Teou Šimonovou](https://ohlasy.info/clanky/2021/01/rozhovor-simonova.html). S mírným odstupem následoval rovněž dost úspěšný [rozhovor s mladým politikem Martinem Staňkem](https://ohlasy.info/clanky/2021/01/rozhovor-stanek.html).
 
 ### Únor
 
@@ -72,7 +63,7 @@ Květnovým článkům vévodí [text o problémech majitelů bytů na Lidické 
 
 ### Červen
 
-Nejúspěšnější červnový text nás zavedl mimo Boskovice. Jedná se o [rozhovor s Inou Liškovou a Bárou Danielovou](https://ohlasy.info/clanky/2021/06/jelinek-na-slunci.html) z kunštátského spolku Na Slunci, který mimo jiné připravuje větší proměnu areálu Jelínkovy chaty v Kunštátě. I v červnu hodně zarezonoval komentář –[ tentokrát věnovaný přímo Ohlasům](https://ohlasy.info/clanky/2021/06/pevny-komentar.html), neboť jsme museli reagovat na osobní nařčení ze strany jednoho ze zastupitelů. Hodně se četla i zpravodajská informace o tom, že [končí jednatel boskovické nemocnice Dan Štěpánský](https://ohlasy.info/clanky/2021/06/stepansky-konci.html). Ten se však posléze rozhodl v nemocnici zůstat. Hojně se četl i[ rozhovor s Janou Krajčovičovou Tajovskou](https://ohlasy.info/clanky/2021/06/rozhovor-krajcovicova-tajovska.html) o její proměně ze zpěvačky v operní režisérku.
+Nejúspěšnější červnový text nás zavedl mimo Boskovice. Jedná se o [rozhovor s Inou Liškovou a Bárou Danielovou](https://ohlasy.info/clanky/2021/06/jelinek-na-slunci.html) z kunštátského spolku Na Slunci, který mimo jiné připravuje větší proměnu areálu Jelínkovy chaty v Kunštátě. I v červnu hodně zarezonoval komentář – [tentokrát věnovaný přímo Ohlasům](https://ohlasy.info/clanky/2021/06/pevny-komentar.html), neboť jsme museli reagovat na osobní nařčení ze strany jednoho ze zastupitelů. Hodně se četla i zpravodajská informace o tom, že [končí jednatel boskovické nemocnice Dan Štěpánský](https://ohlasy.info/clanky/2021/06/stepansky-konci.html). Ten se však posléze rozhodl v nemocnici zůstat. Hojně se četl i [rozhovor s Janou Krajčovičovou Tajovskou](https://ohlasy.info/clanky/2021/06/rozhovor-krajcovicova-tajovska.html) o její proměně ze zpěvačky v operní režisérku.
 
 ### Červenec
 
@@ -84,11 +75,11 @@ V srpnu zemřela legenda mezi boskovickými sportovci Olga Oldřichová a práv�
 
 ### Září
 
-Hitem mezi zářijovými texty se stal článek, který nám poslal z ničeho nic bývalý historik boskovického muzea Jiří Řezníček – popsal v něm [příběh Františka Hrubého ze Skalice nad Svitavou](https://ohlasy.info/clanky/2021/09/frantisek-hruby.html) z 50. let 20. století. Velmi vás zaujal také [rozhovor o připravované nové základní a mateřské škole v Sudicích](https://ohlasy.info/clanky/2021/09/rozhovor-skola.html). Dále [rozhovor se zakladatelkou spolku Ječmen Radkou Krejčířovou](https://ohlasy.info/clanky/2021/09/rozhovor-krejcirova.html) o volnočasových aktivitách dětí a do třetice [rozhovor s porodní asistentkou Barborou Brzobohatou a dulou Markétou Nedbalovou](https://ohlasy.info/clanky/2021/09/rozhovor-porody.html) o festivalu o těhotenství, porodu a rodičovství.
+Hitem mezi zářijovými texty se stal článek, který nám z ničeho nic poslal bývalý historik boskovického muzea Jiří Řezníček – popsal v něm [příběh Františka Hrubého ze Skalice nad Svitavou](https://ohlasy.info/clanky/2021/09/frantisek-hruby.html) z 50. let 20. století. Velmi vás zaujal také [rozhovor o připravované nové základní a mateřské škole v Sudicích](https://ohlasy.info/clanky/2021/09/rozhovor-skola.html). Dále [rozhovor se zakladatelkou spolku Ječmen Radkou Krejčířovou](https://ohlasy.info/clanky/2021/09/rozhovor-krejcirova.html) o volnočasových aktivitách dětí a do třetice [rozhovor s porodní asistentkou Barborou Brzobohatou a dulou Markétou Nedbalovou](https://ohlasy.info/clanky/2021/09/rozhovor-porody.html) o festivalu o těhotenství, porodu a rodičovství.
 
 ### Říjen
 
-V říjnu vás nejvíce zajímaly [bližší informace o stavbě okružní křižovatky pod poštou](https://ohlasy.info/clanky/2021/10/kruhac.html). Dále článek o tom, že [boskovičtí strážníci posílí hlídky v terénu a budou mít i novou služebnu](https://ohlasy.info/clanky/2021/10/sluzebna-policie.html). A zaujal vás i [rozhovor s tvůrci fotokomiksu](https://ohlasy.info/clanky/2021/10/potize-s-mireckem.html), který vychází v Ohlasech – Michalem Grigou, Lenkou Dokoupilovou a Tomášem Znamenáčkem. A po volbách do Poslanecké sněmovny čtenáře také zajímalo,[ jak jsme volili zde v Boskovicích a v regionu](https://ohlasy.info/clanky/2021/10/jak-jsme-volili.html).
+V říjnu vás nejvíce zajímaly [bližší informace o stavbě okružní křižovatky pod poštou](https://ohlasy.info/clanky/2021/10/kruhac.html). Dále článek o tom, že [boskovičtí strážníci posílí hlídky v terénu a budou mít i novou služebnu](https://ohlasy.info/clanky/2021/10/sluzebna-policie.html). A zaujal vás i [rozhovor s tvůrci fotokomiksu](https://ohlasy.info/clanky/2021/10/potize-s-mireckem.html), který vychází v Ohlasech – Michalem Grigou, Lenkou Dokoupilovou a Tomášem Znamenáčkem. A po volbách do Poslanecké sněmovny čtenáře také zajímalo, [jak jsme volili zde v Boskovicích a v regionu](https://ohlasy.info/clanky/2021/10/jak-jsme-volili.html).
 
 ### Listopad
 
@@ -96,7 +87,7 @@ Listopadovým tématem číslo jedna se stal [vstup Jany Syrovátkové do politi
 
 ### Prosinec
 
-Prosinci dominovalo [téma výluky vlaků](https://ohlasy.info/clanky/2021/12/vyluka-vyluk.html) na trase z Boskovic do Brna. Hojně se četl [report z prosincového zastupitelstva](https://ohlasy.info/clanky/2021/12/zastupitelstvo.html) a z tiskové konference [po prosincovém jednání rady](https://ohlasy.info/clanky/2021/12/z-radnice.html) Zaujal vás také komentář o tom, že [boskovičtí politici selhávají ve svém hlavním úkolu – ve vyjednávání shody](https://ohlasy.info/clanky/2021/12/umeni-neshody.html). A také [text o pamětníkovi důležitých událostí 20. století Zdeňku Komárkovi](https://ohlasy.info/clanky/2021/12/zdenek-komarek.html).
+Prosinci dominovalo [téma výluky vlaků](https://ohlasy.info/clanky/2021/12/vyluka-vyluk.html) na trase z Boskovic do Brna. Hojně se četl [report z prosincového zastupitelstva](https://ohlasy.info/clanky/2021/12/zastupitelstvo.html) a z tiskové konference [po prosincovém jednání rady](https://ohlasy.info/clanky/2021/12/z-radnice.html). Zaujal vás také komentář o tom, že [boskovičtí politici selhávají ve svém hlavním úkolu – ve vyjednávání shody](https://ohlasy.info/clanky/2021/12/umeni-neshody.html). A také [text o pamětníkovi důležitých událostí 20. století Zdeňku Komárkovi](https://ohlasy.info/clanky/2021/12/zdenek-komarek.html).
 
 ### Rok v Ohlasech
 
