@@ -40,7 +40,7 @@ Petr Ondráček postrádá koncepční práci s předprostorem haly a nešťastn
 
 Za praktické nepokládá umístění zázemí pro televizní štáb, a to vzhledem k viditelnosti na hrací plochu a k možnému vedení kabeláže. Nevhodné je i umístění nářaďoven, které neústí přímo na sportovní plochu. Nejasná je také konstrukce basketbalových košů, což je důležité pro jejich případné stěhování. Také on postrádá šatnu pro diváky a nevidí jako vhodné umístění dětského koutku.
 
-Petr Ondráček také upozorňuje na změnu v zadání rozměrů sportovní haly a v návrhu mu chybí řez stěny s okótovanou výškou. Chybí také sklad pro zázemí lezců.
+Petr Ondráček také upozorňuje na změnu v zadání výšky lezecké stěny a v návrhu mu chybí řez stěny s okótovanou výškou. Chybí také sklad pro zázemí lezců.
 
 {% photo src="https://i.ohlasy.info/i/36596409.jpeg" caption="Nový návrh sportovní haly" author="AV Atelier" %}
 
