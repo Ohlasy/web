@@ -1,5 +1,5 @@
 ---
-title: „S lezením se dá začít v každém věku. U dětí asi když začnou chodit."
+title: „S lezením se dá začít v každém věku. U dětí asi když začnou chodit.“
 cover-photo: https://i.ohlasy.info/i/0eeb2020.jpg
 author: Tomáš Trumpeš
 category: rozhovory
@@ -73,7 +73,7 @@ Děti navštěvující oddíl by tedy neměly (alespoň v začátcích) potřebo
 
 Nyní jsme úplně na začátku, učíme svoje svěřence se bezpečně jistit, lézt a zacházet s lezeckým vybavením. Přesto nevylučuji, že bychom se už letos na podzim nemohli poměřit v nějaké soutěži lezeckých oddílů z regionu.
 
-Jak ale říkají v našem spřáteleném oddílu Lezčata Kuřim: „Našim cílem přesto není vychovávat vrcholové sportovce, ale lezce, pro které bude lezení zábava, koníček, životní styl či příležitost, jak se dostat na maximum svých možností."
+Jak ale říkají v našem spřáteleném oddílu Lezčata Kuřim: „Našim cílem přesto není vychovávat vrcholové sportovce, ale lezce, pro které bude lezení zábava, koníček, životní styl či příležitost, jak se dostat na maximum svých možností.“
 
 **Budete v létě lézt venku? Nebo to je vlastně jiný sport či disciplína?**
 
