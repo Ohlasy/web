@@ -33,7 +33,7 @@ Scházíme se dvakrát týdně v pondělí 15.30–16.30 a ve středu 18.00–19
 
 **Jaké podmínky pro lezení máte? Je stěna vyhovující?**
 
-Jsme vděční, že máme kde lézt a že nám přátelské vedení školy umožnilo stěnu využívat. Stěna je ale navržená pro studenty starší 14 let a není tak úplně vyhovující pro mladší děti, které vedeme my. Mohlo by na ní být mnohem více lezeckých cest a chytů. Také výška stěny je pouze 7,30 metru. Průměrná výška lezeckých stěn je zhruba 12–16 metrů.
+Jsme vděční, že máme kde lézt a že nám přátelské vedení školy umožnilo stěnu využívat. Stěna je ale navržená pro studenty starší 14 let a není tak úplně vyhovující pro mladší děti, které vedeme my. Mohlo by na ní být mnohem více lezeckých cest a chytů. Také výška stěny je pouze 7,03 metru. Průměrná výška lezeckých stěn je zhruba 12–16 metrů.
 
 **Získali jste nějakou podporu pro začátek?**
 
