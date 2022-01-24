@@ -8,6 +8,8 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady v polovině ledna. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
+{% photo src="https://i.ohlasy.info/i/jef3oka.jpg" caption="Zdeněk Fránek na přednášce v Boskovicích" author="Tomáš Znamenáček" %}
+
 ### Prostory po záchrance
 
 K narovnání majetkových vztahů mezi městem a Jihomoravským krajem dojde po dostavbě nové záchranné stanice v areálu nemocnice. Město kraji věnovalo pozemky pro tuto stavbu, samo v té době získalo od kraje pozemky pro stavbu haly na Hybešově. Halu ale nakonec bude stavět v Červené zahradě, pozemky proto kraji vrací. K určitému vyrovnání proto dojde tak, že po dostavbě nové základny pro záchranku kraj městu bezúplatně převede prostory stávající záchranné stanice, které jsou součástí areálu nemocnice, a také sklad, který je nedaleko heliportu. Darovací smlouva bude podle dohody uzavřena do šesti měsíců po dostavbě nové výjezdové základny, která má být hotová nejpozději do konce roku 2025.
