@@ -16,7 +16,7 @@ export interface Article {
 
 export async function getArticleIndex(): Promise<Article[]> {
   const response = await fetch("https://ohlasy.info/assets/articles.js");
-  let articles: Article[] = await response.json();
+  let articles: Article[] = (await response.json()) as any;
   for (let i = 0; i < articles.length; i++) {
     if (articles[i].author == "Anna Dudková") {
       articles[i].author = "Anna Dušilová";
