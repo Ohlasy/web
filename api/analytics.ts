@@ -20,7 +20,7 @@ async function queryTopPages(
   const response = await fetch(url, {
     headers: { Authorization: `Bearer ${apiKey}` },
   });
-  return await response.json();
+  return (await response.json()) as any;
 }
 
 // TBD: This is a sorry hack, we should get the titles locally or from Plausible.
