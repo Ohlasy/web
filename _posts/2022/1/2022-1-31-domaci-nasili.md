@@ -12,7 +12,7 @@ category: zpravodajství
 
 Týrané ženě se nakonec po dlouhých letech trápení podařilo alespoň částečně se osvobodit a díky zásahu své rodiny ze vztahu odejít, postavit se na vlastní nohy a rozvést se. Soud uznal i skutečnost, že docházelo k domácímu násilí, kdy manžel svou ženu bil, a to často i před dětmi. Vyvázl s podmínkou, měl zákaz se k rodině přiblížit.
 
-Rozvodem ale případ a trápení pro matkou dvou dětí zdaleka nekončí. Právě o děti se nyní jedná. Probíhá totiž soud, který má nastavit další možnost a podobu kontaktů otce s dětmi. Týraná žena usiluje o to, aby se traumatizované děti nemusely vídat s otcem vůbec. Zatím se jí to ale nedaří.
+Rozvodem ale případ a trápení pro matkou tří dětí zdaleka nekončí. Právě o děti se nyní jedná. Probíhá totiž soud, který má nastavit další možnost a podobu kontaktů otce s dětmi. Týraná žena usiluje o to, aby se traumatizované děti nemusely vídat s otcem vůbec. Zatím se jí to ale nedaří.
 
 „Já to u soudu slyším pořád, že se týrané děti potřebují vídat s rodiči,“ [poznamenala nedávno na Twitteru](https://twitter.com/JulieMontek/status/1484851101748932609?s=20&t=hFfJlQ2IMUPYfLOpo5SylA) advokátka Lucie Hrdá, která se zaměřuje na případy domácího a sexuálního násilí a provozuje také iniciativu [Bez trestu](https://www.beztrestu.cz/). Podobně Ohlasům situaci popsala i jedna z místních oslovených právniček. Pro soudy je zákaz styku s rodičem extrémní varianta, ke které se nerady uchylují, a pokud ano, tak až po velmi silném přesvědčování, nashromáždění posudků a podpůrných argumentů.
 
