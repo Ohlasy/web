@@ -8,6 +8,8 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo na začátku února po zasedání městské rady. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
+{% photo src="https://i.ohlasy.info/i/22df7b08.jpeg" caption="Nové parkoviště u Zelené školy" author="Tomáš Trumpeš" %}
+
 Kromě témat zpracovaných v následujícím textu vedení města odpovědělo i na otázky Ohlasů týkající se okružní křižovatky u pošty a projektu Louka v proluce. Obě tyto témata přiblížíme postupně v samostatných článcích.
 
 ### Změna územního plánu
