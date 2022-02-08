@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Po další odmlce – upřímně doufám že poslední – je tu kulturní výběr. I přes obecný kulturní útlum na začátku roku a útlum covidový je únorový výběr plný zajímavých akcí. Ať už budete mít chuť na dobrý film, koncert nebo dokonce balet, v únoru si přijde každý na své. Zajímavými jmény se to jenom hemží. Navíc slavíme v tomto měsíci hned dvoje hudební narozeniny – Free Jazz Tria Olomouc a Michala Pavlíčka.*
 
-{% photo src="https://i.ohlasy.info/i/5f8ac97f.jpg" caption="Martin Pavlíček zahraje v boskovické sokolovně na konci února" %}
+{% photo src="https://i.ohlasy.info/i/5f8ac97f.jpg" caption="Michal Pavlíček zahraje v boskovické sokolovně na konci února" %}
 
 ### Jim Jarmusch v boskovickém kině (Noc na Zemi, Mrtvý muž, Mimo zákon)
 
