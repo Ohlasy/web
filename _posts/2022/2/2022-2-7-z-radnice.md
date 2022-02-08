@@ -24,7 +24,7 @@ Už po pololetních prázdninách začíná fungovat nové parkoviště Kiss&Rid
 
 ### Změny v komisi pro výstavbu
 
-Zastupitel za ANO Pavel Schwarzer rezignoval na svoji funkci člena a předsedy Komise pro výstavbu a územní plánování. Jako členka ho za hnutí ANO nahradí architektka Petra Houdová, předsedou komise byl zvolen nominant TOP 09 Vladimír Klement.
+Zastupitel za ANO Pavel Schwarzer rezignoval na svoji funkci člena a předsedy Komise pro výstavbu a územní plánování. Jako členka komise ho nahradí architektka Petra Houdová, nominovaná jako nestranice hnutím ANO, předsedou komise byl zvolen nominant TOP 09 Vladimír Klement.
 
 ### Boskovické běhy a vyhlášení Sportovce roku
 
