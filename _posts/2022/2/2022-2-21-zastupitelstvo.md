@@ -34,7 +34,7 @@ Město Boskovice se v roce 2016 stalo členem Sdružení obcí a měst Jižní M
 
 ### Osadní výbor Hrádkov
 
-Předseda osadního výboru Hrádkov vznesl podnět k navýšení počtu členů ze stávajících tří na sedm. Stávající členové jsou: Miroslav Bartoň – předseda, Daniel Boreček a Kamil Haupt. Zastupitelé souhlasili a nově jmenovali tyto členy: Andrea Henslová, Květa Přibylová, František Kovařík a Rudolf Senal.
+Předseda osadního výboru Hrádkov vznesl podnět k navýšení počtu členů ze stávajících tří na sedm. Stávající členové jsou: Miroslav Bartoň – předseda, Daniel Boreček a Kamil Haupt. Zastupitelé souhlasili a nově jmenovali tyto členy: Andrea Henslová, Květa Přibylová, František Kovařík a Rudolf Sehnal.
 
 ### Změna územního plánu
 
