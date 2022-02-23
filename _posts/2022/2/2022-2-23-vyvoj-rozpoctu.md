@@ -1,5 +1,6 @@
 ---
 title: Jak se vyvíjel loňský městský rozpočet a jaký je výhled na letošek a další roky?
+perex: Od prvního návrhu po závěrečné rozpočtové opatření, které ukáže reálné hospodaření města v uplynulém roce. Taková je cesta městského rozpočtu. Jak vlastně prvním návrhům a práci s rozpočtem rozumět?
 cover-photo: https://i.ohlasy.info/i/69144485.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
