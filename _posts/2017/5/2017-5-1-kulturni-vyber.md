@@ -62,7 +62,7 @@ Muzejní noc je název akce, která má svůj původ v Berlíně, přičemž od 
 
 *Židovská čtvrť Boskovice, 27. května 13:30*
 
-V sobotu 27. května bude mít v Boskovicích možnost zúčastnit se akce s názvem Odpoledne v židovském ghettu. Čekají nás vyprávění, vzpomínky a autorské čtení spisovatelky Eriky Bezdíčkové, ukázka z filmu Olgy Sommerové Sedm světel, prohlídka synagogy s výkladem [Heleny Janíkové](http://archiv.ohlasy.info/#autor=Helena%20Jan%C3%ADková), přednáška Terezy Dvořákové a na závěr představení Chudí v Lodži v podání [Jaroslava „Achaba“ Haidlera](http://www.ohlasy.info/clanky/2016/05/rozhovor-achab.html). Program připravil Unijazz Brno ve spolupráci s Nadačním fondem obětem holokaustu a s podporou Regionálního muzea Boskovicka.
+V sobotu 27. května bude mít v Boskovicích možnost zúčastnit se akce s názvem Odpoledne v židovském ghettu. Čekají nás vyprávění, vzpomínky a autorské čtení spisovatelky Eriky Bezdíčkové, ukázka z filmu Olgy Sommerové Sedm světel, prohlídka synagogy s výkladem [Heleny Janíkové](http://archiv.ohlasy.info/?autor=Helena%20Jan%C3%ADková), přednáška Terezy Dvořákové a na závěr představení Chudí v Lodži v podání [Jaroslava „Achaba“ Haidlera](http://www.ohlasy.info/clanky/2016/05/rozhovor-achab.html). Program připravil Unijazz Brno ve spolupráci s Nadačním fondem obětem holokaustu a s podporou Regionálního muzea Boskovicka.
 
 ### Zpěvobraní
 
