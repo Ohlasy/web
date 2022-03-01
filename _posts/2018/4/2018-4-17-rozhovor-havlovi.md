@@ -182,7 +182,7 @@ IRENA: Záznam zvuku byl dříve jednodušší. S příchodem počítačů se mn
 
 VOJTĚCH: Dnes se do nahrávek často vkládá umělý dozvuk. Pro nás je to, jako když vám vezmou život.
 
-IRENA: Smažou nám tím ty alikvótní tóny. jsme jako studna bez vody, pták bez křídel, růže, co nevoní. Nemůžeme dál pracovat.
+IRENA: Smažou nám tím ty alikvótní tóny. Jsme jako studna bez vody, pták bez křídel, růže, co nevoní. Nemůžeme dál pracovat.
 
 VOJTĚCH: Ten digitální dozvuk je úplně něco jiného, než když to opravdu natočíte v chrámu. 
 
