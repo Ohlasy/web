@@ -36,7 +36,7 @@ Městská rada schválila harmonogram třetího ročníku boskovického particip
 
 ### Oprava mostu na Dukelské
 
-Oprava mostu na ulici Dukelská se dostává do další fáze, byl vybrán zpracovatel projektové dokumentace za více než 300 tisíc korun. Oprava by měla proběhnout příští rok. Podle starosty projekt také ukáže, kolik financí si město musí nachystat.
+Oprava mostu na ulici Dukelská se dostává do další fáze, byl vybrán zpracovatel projektové dokumentace za více než 300 tisíc korun. Oprava by měla proběhnout příští rok. Podle starosty projekt také ukáže, kolik financí si město musí nachystat. Pro upřesnění nejedná se o most na hlavní komunikaci, který vlastní Jihomoravský kraj, ale menší most s povrchem z žulových kostek o několik set metrů dál.
 
 ### Střecha rezidence, výtah na úřadě, zahrada v MŠ Lidická
 
