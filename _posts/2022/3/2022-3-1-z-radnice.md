@@ -20,7 +20,7 @@ Boskovičtí radní se zabývali bezpečnostní situací ve městě, obdrželi z
 
 Oslavy zahájí 27. března koncert Symfonického orchestru města Boskovice a pěveckého sboru Janáček. V dubnu proběhne memoriál dvou významných osobností Josefa Augusty a Karla Absolona, dojde k zahájení turistické sezóny a připravuje se vystoupení folklórního souboru Velen s novým pásmem. V květnu oslavy Boskovic připomene také zahajovací koncert festivalu Concentus Moraviae. V červnu se chystá Den dětí se sportem a kulturou a 100 let bude slavit boskovický klubový fotbal.
 
-„Nejdůležitější a nejhlavnější část oslav je směřována na prázdniny. Dokument, ve kterém se zmiňuje existence Jimrama z Boskovic, byl vydán 26. srpna 1222, proto i naše aktivity směřují k tomuto datu,“ vysvětlil Ondřej Dostál. V létě se bude konat výstava boskovických umělců a hlavní oslavy proběhnou v posledním prázdninovém týdnu od 19. do 28. srpna. „Vrchlem by měl být koncert ostravské filharmonie s interpretací Smetanovy Mé vlasti,“ popsal ředitel KZMB. Proběhne také koncert Pražského výběru, baletní vystoupení nebo sraz rodáků.
+„Nejdůležitější a nejhlavnější část oslav je směřována na prázdniny. Dokument, ve kterém se zmiňuje existence Jimrama z Boskovic, byl vydán 26. srpna 1222, proto i naše aktivity směřují k tomuto datu,“ vysvětlil Ondřej Dostál. V létě se bude konat výstava boskovických umělců a hlavní oslavy proběhnou v posledním prázdninovém týdnu od 19. do 28. srpna. „Vrcholem by měl být koncert ostravské filharmonie s interpretací Smetanovy Mé vlasti,“ popsal ředitel KZMB. Proběhne také koncert Pražského výběru, baletní vystoupení nebo sraz rodáků.
 
 Ve zbytku roku ještě oslavy připomenou tradiční Husí slavnosti, rozsvícení vánočního stromu nebo vánoční jarmark. Na říjen se také připravuje koncert významných boskovických umělců. 
 
@@ -60,7 +60,7 @@ Po mnoha letech se rozhodl ukončit nájemní vztah s městem Nábytek Idyla, kt
 
 Město podalo tradiční žádosti o každoroční dotace z Jihomoravského kraje. První se týká následné péče o zeleň, tedy podpory již vysazených porostů, druhý přispívá na údržbu cyklostezek.
 
-Dále město žádá kraj o individuální dotaci na projekt Podnikni to. Ten by měl směřovat k podpoře lokálního podnikání a ve spolupráci s městem ho připravuje firma TJ Group. „Na rovinu říkám, že pokud bychm nebyli úspěšní se žádostí u kraje, nepředpokládám, že by to město financovalo ze svého rozpočtu,“ uvedl starosta Jaroslav Dohnálek.
+Dále město žádá kraj o individuální dotaci na projekt Podnikni to. Ten by měl směřovat k podpoře lokálního podnikání a ve spolupráci s městem ho připravuje firma TJ Group. „Na rovinu říkám, že pokud bychom nebyli úspěšní se žádostí u kraje, nepředpokládám, že by to město financovalo ze svého rozpočtu,“ uvedl starosta Jaroslav Dohnálek.
 
 ### Dar dechovému orchestru
 
@@ -76,7 +76,7 @@ A do Boskovic se vrací i noční život. Podle starosty měla policie o víkend
 
 ### Jednání o odkupu panského dvora
 
-V zápise z předchozího jednání městské rady je popsáno, že vedení města znovu jednalo s podnikatelem Luďkem Řehořem o možném odkupu budovy panského dvora. Starosta Jaroslav Dohnálek upřesnil, že nejprve jednalo města přímo s luďkem Řehořem, poté ještě s Janem Tajovským z realitní kanceláře, která prodej budovy zprostředkovává. Na první schůzce byla požadovaná cena stanovená na 70 milionů korun, na druhé schůzce to bylo 45 milionů, ale část měla být kryta formou výměn. Zápis z rady konkrétně hovoří o zájmu o pozemky za nemocnicí, které se připravují pro obytnou výstavbu. Starosta se vyjádřil, že rada se dál záležitostí nezabývala a on sám by pro odkup budovy v tomto stavu za tuto částku ruku nezvedl.
+V zápise z předchozího jednání městské rady je popsáno, že vedení města znovu jednalo s podnikatelem Luďkem Řehořem o možném odkupu budovy panského dvora. Starosta Jaroslav Dohnálek upřesnil, že nejprve jednalo města přímo s Luďkem Řehořem, poté ještě s Janem Tajovským z realitní kanceláře, která prodej budovy zprostředkovává. Na první schůzce byla požadovaná cena stanovená na 70 milionů korun, na druhé schůzce to bylo 45 milionů, ale část měla být kryta formou výměn. Zápis z rady konkrétně hovoří o zájmu o pozemky za nemocnicí, které se připravují pro obytnou výstavbu. Starosta se vyjádřil, že rada se dál záležitostí nezabývala a on sám by pro odkup budovy v tomto stavu za tuto částku ruku nezvedl.
 
 ### Boskovická koalice SPOLU
 
