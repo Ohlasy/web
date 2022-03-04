@@ -4,6 +4,8 @@ perex: Od vedení Boskovic zatím za celý týden konfliktu nezaznělo ani slovo
 cover-photo: https://i.ohlasy.info/i/8e494a8f.jpg
 author: Marek Osouch
 category: zpravodajství
+tags:
+    - válka na Ukrajině
 ---
 
 *Z válkou sužované Ukrajiny už dorazily na jižní Moravu tisíce uprchlíků. Místní pomáhají – jak ženám s dětmi, které tvoří převážnou skupinu migrantů z Ukrajiny, tak i prostřednictvím materiální pomoci přímo do míst konfliktu. Od vedení Boskovic ale za celý týden konfliktu nezaznělo ani slovo o tom, zda a jak se město připravuje na pomoc.*
@@ -23,3 +25,5 @@ Boskovice v této „vyčkávací taktice“ zůstávají relativně osamoceny. 
 Prchající rodiny z Ukrajiny už jsou i v Boskovicích. Pokoje na své ubytovně jim [kupříkladu poskytne boskovická firma LD Seating](https://www.facebook.com/LDSeating/photos/a.164287230380643/2344392329036778/). Těžko říct, jakou roli v této pomoci, případně u již ubytovaných, sehrálo přímo město. Pomoc pro ukrajinskou rodinu totiž [přes Facebook paradoxně hledal místostarosta Boskovic Petr Malach (ČSSD)](https://www.facebook.com/petr.malach/posts/10224594412001469). „Někteří už jsou v Boskovicích i okolí, což se řešilo v sobotu. Takže nespíme, ale reagujeme na podněty místních firem a jejich zaměstnanců, respektive jejich rodinných příslušníků,“ odpověděl Petr Malach na dotaz, proč on jako místostarosta hledá pomoc místo toho, aby z pozice zástupce vedení Boskovic nabízel alespoň nějaké řešení pro tyto lidi v nouzi. Rádi by se například zapojili boskovičtí skauti, v úterý tak poslali vedení města e-mail, od té doby však marně čekají na odpověď.
 
 Autor tohoto článku položil Petru Malachovi na Facebooku stejnou sérii dotazů, nicméně ani on neodpověděl. Napsal jen, že v pondělí zasedala bezpečnostní rada města a v pátek, tedy dnes, bude zasedat krizový štáb. K tomu ještě zkopíroval část prohlášení z webu města, že „vedení města v současné době participuje na vyhledávání ubytovacích kapacit pro občany Ukrajiny a je připraveno ve spolupráci s Jihomoravským krajem a příslušnými ministerstvy řešit také další záležitosti týkající se pomoci ukrajinským občanům, které v blízké budoucnosti budou vznikat, zejména v oblastech sociálního zabezpečení, zdravotnictví a školství.“
+
+Do pomoci se zapojila už také boskovická nemocnice. Ve spolupráci s Jihomoravským krajem poslala na Ukrajinu zdravotnický materiál v hodnotě téměř 100 tisíc korun. Jedná se především o obvazový materiál, pomůcky k ošetření ran, dezinfekce, léky proti horečce a nachlazení, kapky do očí, spreje do nosu a další základní potřeby jak pro dospělé, tak pro děti.
