@@ -8,7 +8,7 @@ tags:
     - válka na Ukrajině
 ---
 
-*Z válkou sužované Ukrajiny už dorazily na jižní Moravu tisíce uprchlíků. Místní pomáhají – jak ženám s dětmi, které tvoří převážnou skupinu migrantů z Ukrajiny, tak i prostřednictvím materiální pomoci přímo do míst konfliktu. Od vedení Boskovic ale za celý týden konfliktu nezaznělo ani slovo o tom, zda a jak se město připravuje na pomoc.*
+*Z válkou sužované Ukrajiny už dorazily na jižní Moravu tisíce uprchlíků. Místní pomáhají – jak ženám s dětmi, které tvoří převážnou skupinu migrantů z Ukrajiny, tak i prostřednictvím materiální pomoci do míst konfliktu. Od vedení Boskovic ale za celý týden konfliktu nezaznělo ani slovo o tom, zda a jak se město připravuje na pomoc.*
 
 {% photo src="https://i.ohlasy.info/i/8e494a8f.jpg" caption="Ukrajinská vlajka na boskovické radnici" author="Tomáš Trumpeš" %}
 
