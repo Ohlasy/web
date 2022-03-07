@@ -9,7 +9,7 @@ tags:
     - volby 2022
 ---
 
-*Rozhovor s Filipem Jimramovským, čerstvě zvoleným předsedou nové boskovické místní organizace hnutí Starostové a nezávislí (STAN). Bavili jsme se o vzniku boskovické STANu, o jeho vlastních politických motivacích, o sportovní hale a jeho pohledu na místní politickou scénu.*
+*Rozhovor s Filipem Jimramovským, čerstvě zvoleným předsedou nové boskovické místní organizace hnutí Starostové a nezávislí (STAN). Bavili jsme se o vzniku boskovického STANu, o jeho vlastních politických motivacích, o sportovní hale a jeho pohledu na místní politickou scénu.*
 
 {% photo src="https://i.ohlasy.info/i/e11a6231.jpg" caption="Filip Jimramovský" author="archiv Filipa Jimramovského" %}
 
