@@ -4,6 +4,7 @@ cover-photo: https://i.ohlasy.info/i/0b9aea97.jpeg
 perex: Ve věku 94 let zemřel Jiří Bušina, významná osobnost boskovické kultury. Přinášíme krátkou osobní vzpomínku a archivní rozhovor z roku 2008, kdy slavil osmdesátku.
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags: nekrolog
 ---
 
 *Pana Bušinu jsem měl moc rád. Potkávali jsme se jednu dobu poměrně intenzivně, když jsem pracoval jako kulturní redaktor v regionálních novinách Boskovicko, byl v redakci častým a vítaným hostem. Možná by se dalo říct, že byl jejím nehrajícím členem.*
