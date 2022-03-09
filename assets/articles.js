@@ -10,6 +10,7 @@ why: A dummy comment to make Jekyll process this file
         "category": {{ article.category | jsonify }},
         "pubDate": {{ article.date | jsonify }},
         "cover-photo": {{ article.cover-photo | thumb_url: 640 | jsonify }},
+        "cover-photo-src": {{ article.cover-photo | jsonify }},
         "perex": {{ article.excerpt | strip_html | jsonify }},
         "serial": {{ article.serial | jsonify }},
         "relativeURL": {{ article.url | jsonify }},
