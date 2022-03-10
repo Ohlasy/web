@@ -4,7 +4,7 @@ cover-photo: https://i.ohlasy.info/i/9b60e3f9.jpg
 perex: Přímé železniční spojení mezi Boskovicemi a Brnem je stále předmětem politických jednání. Nedávno dokonce Jihomoravský kraj varoval, že bez nové tratě nemusí vlaky v budoucnu do Boskovic zajíždět vůbec.
 author: Marek Osouch
 category: zpravodajství
-tags: doprava
+tags: doprava spojka
 ---
 
 *Boskovická spojka, neboli přímé železniční spojení mezi Boskovicemi a Brnem, je stále předmětem politických jednání. Nedávno dokonce Jihomoravský kraj varoval, že pokud se nová trať nepostaví, nemusí vlaky v budoucnu do Boskovic zajíždět vůbec.*
