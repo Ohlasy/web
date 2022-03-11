@@ -3,6 +3,8 @@ title: Jak pejsek s kočičkou vařili sportovní halu
 cover-photo: https://i.ohlasy.info/i/5ca8c51b.jpg
 author: Tomáš Znamenáček
 category: názory a komentáře
+tags:
+    - sportovní hala
 ---
 
 *Diletantismus. Při všem respektu k práci politiků už nejde pro vývoj stavby sportovní haly volit jiné slovo. Po letech nevydařených improvizací se schyluje… k další improvizaci. Vyhodíme další peníze, nebo se konečně něco změní?*

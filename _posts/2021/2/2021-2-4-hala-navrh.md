@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/536758ae.jpg
 perex: Místo toho, aby nejprve vzniklo nové zadání, byly propočítány investiční náklady a teprve poté vznikal návrh, budou všechny tři kroky sloučeny do jedné zakázky pro městského architekta.
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *Boskovická městská rada ukončila debatu o hledání nejvhodnější cesty k architektonickému řešení sportovní haly v Červené zahradě. Vytvoření studie zadala městskému architektu Zdeňku Fránkovi, který bude na návrhu spolupracovat s mexickým kolegou Alberto Kalachem.*

@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/mycprve.jpg
 perex: Poslední roky práce na stavbě sportovní haly ukazují, že si s veřejnými stavbami stále nevíme rady a příliš nám v tom nepomohl ani městský architekt.
 author: Tomáš Znamenáček
 category: názory a komentáře
+tags:
+    - sportovní hala
 ---
 
 *Jako občané evropského města ve třetím tisíciletí si zasloužíme mít přiměřeně nákladné, funkční a krásné veřejné budovy, které budou odpovídat našim potřebám a budou dotvářet město jako celek. Zatím je nemáme – proč?*

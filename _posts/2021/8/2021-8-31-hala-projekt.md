@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/4c024381.jpg
 perex: K dalšímu milníku se blíží příprava boskovické sportovní haly v Červené zahradě, městská rada by měla vyhlásit soutěž na zhotovitele projektu.
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *K dalšímu významnému milníku se blíží příprava stavby boskovické sportovní haly v Červené zahradě. Svou činnost ukončila pracovní skupina, která na investičním záměru pracovala, a návrh mexického architekta Alberto Kalacha, který pracoval s přispěním boskovického městského architekta Zdeňka Fránka, by se měl posunout do další fáze – městská rada by nyní měla vyhlásit výběrové řízení na zhotovitele projektu.*

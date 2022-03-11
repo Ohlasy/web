@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/6d03a8df.jpg
 perex: Poslední jednání boskovického zastupitelstva ukázalo, že rozpory a rozdíly mezi boskovickými politiky jsou velké a doplácí na ně celé město.
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags:
+    - sportovní hala
 ---
 
 *[Poslední jednání boskovického zastupitelstva](https://ohlasy.info/clanky/2021/12/zastupitelstvo.html) ukázalo, že rozpory a rozdíly mezi boskovickými politiky jsou velké. Přestože se u kontroverzního tématu sportovní haly čistě věcně shoda jeví jako možná – mohla by to být třeba malá vyzvaná architektonická soutěž – brání v ní spousta argumentačních faulů, zjevných nesmyslů a celkově nepřátelská atmosféra.*

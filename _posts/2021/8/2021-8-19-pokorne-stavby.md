@@ -6,8 +6,8 @@ author: Petr Ondráček
 category: názory a komentáře
 tags:
     - architektura
-    - červená zahrada
-    - investice
+    - Červená zahrada
+    - sportovní hala
 ---
 
 *Svou činnost tento týden završila pracovní skupina, která připravovala zadání investičního záměru sportovní haly podle návrhu, který ve spolupráci s městským architektem Zdeňkem Fránkem připravil mexický architekt Alberto Kalach. Pracovní skupina stavbu městské radě doporučila ke schválení, pro ale nehlasovali členové místního Spolku za rozvoj architektury Boskovic (SRAB). Svůj dojem v komentáři pro Ohlasy shrnul architekt a člen SRABu Petr Ondráček.*

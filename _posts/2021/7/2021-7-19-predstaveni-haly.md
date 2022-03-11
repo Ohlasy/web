@@ -3,6 +3,8 @@ title: Město představilo návrh sportovní haly v Červené zahradě od Alber
 cover-photo: https://i.ohlasy.info/i/4c024381.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *Na setkání s veřejností v zámeckém skleníku představilo vedení města a městský architekt Zdeněk Fránek [návrh sportovní haly](https://data.ohlasy.info/2021/studie-haly.pdf), která má vyrůst v Červené zahradě.*

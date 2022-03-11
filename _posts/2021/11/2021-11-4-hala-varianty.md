@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/6a1ffb14.jpg
 perex: Vedení boskovické radnice prezentovalo svou představu o dalším řešení problematiky sportovní haly zastupitelům na uzavřeném semináři. Jaké varianty nabízí?
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *Vedení boskovické radnice prezentovalo svou představu o dalším řešení problematiky sportovní haly zastupitelům na uzavřeném semináři. Zaznělo několik variant, přičemž jako preferovaná byla uvedena ta, která počítá s přepracováním studentské architektonické práce z roku 2016. Opozice je ostře proti této cestě.*

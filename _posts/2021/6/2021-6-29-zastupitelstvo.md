@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/d0d284b0.jpeg
 perex: Červnové jednání boskovického zastupitelstva proběhlo v úterý v sokolovně, hlavním tématem se stal návrh sportovní haly.
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *Červnové jednání boskovického zastupitelstva proběhlo v úterý v sokolovně. Hlavním tématem se stal návrh sportovní haly, ačkoliv v původním plánu schůze vůbec nebyl a dosud není ani veřejný.*

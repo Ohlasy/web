@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/19277c1e.jpeg
 perex: Rozhovor s Michaelou Žejškovou, boskovickou místostarostkou za TOP 09. Byla hostem dalšího dílu našeho cyklu Ohlasy naživo ve čtvrtek 9. září, tématem debaty byl její vstup na radnici, sportovní hala, pohled na lokální politickou scénu a školství.
 author: Tomáš Trumpeš
 category: podcast
+tags:
+    - sportovní hala
 ---
 
 *Rozhovor s Michaelou Žejškovou, boskovickou místostarostkou za TOP 09. Byla hostem dalšího dílu našeho cyklu Ohlasy naživo ve čtvrtek 9. září, tématem debaty byl její vstup na radnici, sportovní hala, pohled na lokální politickou scénu a školství. Rozhovor nabízíme v přepisu a zvukovém záznamu, najdete ho také v podcastových aplikacích.*

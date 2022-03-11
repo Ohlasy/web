@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/a13f9624.jpg
 perex: Zkušenosti s přípravami sportovní haly a hlavně pohled na výslednou studii shrnuje v komentáři pro Ohlasy za SRAB architektka Jana Syrovátková.
 author: Jana Syrovátková
 category: názory a komentáře
-tags: architektura
+tags:
+    - architektura
+    - sportovní hala
 ---
 
 *V pracovní skupině pro přípravu sportovní haly zasedli hned čtyři členové [Spolku za rozvoj architektury Boskovic](https://www.sraboskovice.cz) (SRAB). Jejich zkušenost s přípravným procesem a hlavně pohled na výslednou studii shrnuje v komentáři pro Ohlasy za SRAB architektka Jana Syrovátková.*

@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/588389c6.jpg
 perex: Posun v přípravách stavby sportovní haly oznámila boskovická radnice; navzdory kritice pokračuje ve variantě úpravy studentského návrhu.
 category: zpravodajství
 author: Tomáš Trumpeš
+tags:
+    - sportovní hala
 ---
 
 *Posun v přípravách stavby sportovní haly oznámila boskovická radnice. Navzdory kritice pokračuje ve variantě úpravy studentského návrhu. Kromě toho vedení města zařadilo do návrhu rozpočtu na příští rok 4 miliony korun na nákup nafukovací haly, která bude stát na kurtech a sloužit tenistům.*
