@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/6ae563c8.jpg
 perex: Debata zastupitelů o sportovní hale trvala téměř dvě hodiny, během kterých především opoziční zastupitelé vyjádřili své připomínky k aktuálnímu návrhu.
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *Debata o sportovní hale byla i tentokrát dominantním tématem jednání boskovického zastupitelstva. Trvala téměř dvě hodiny, během kterých především opoziční zastupitelé vyjádřili své pochybnosti a kritické připomínky k [aktuálnímu návrhu z dílny AV Atelieru](https://www.boskovice.cz/vystavba-sportovni-haly-v-boskovicich/d-43103).*

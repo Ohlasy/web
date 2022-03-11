@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/a1a971cf.jpeg
 perex: Tak dlouho se snaží odborníci i poučení laici vysvětlovat, že architektura není jen starost o vzhled budov, ale mnohem komplexnější a velmi praktická disciplína, až mě trochu jala obava, abychom na ten estetický aspekt zase úplně nezapomněli.
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags:
+    - sportovní hala
 ---
 
 *Tak dlouho se snaží odborníci i poučení laici vysvětlovat, že architektura opravdu není jen starost o vzhled budov, ale úloha architekta je mnohem komplexnější a v posledku velmi praktická, až mě trochu jala obava, abychom na ten estetický aspekt zase úplně nezapomněli.*

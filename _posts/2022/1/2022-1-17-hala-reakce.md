@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/b7fe0ad8.jpeg
 perex: Co říkají na poslední návrhy boskovické sportovní haly oslovení odborníci a architekti?
 author: Tomáš Trumpeš
 category: zpravodajství
+tags:
+    - sportovní hala
 ---
 
 *Koncem loňského roku zveřejnilo vedení města Boskovice [rozpracované návrhy nové sportovní haly](https://www.boskovice.cz/vystavba-sportovni-haly-v-boskovicich/d-43103) od místní projektantské firmy AV Atelier. Místostarostka Michaela Žejšková zároveň vyzvala, aby jí zainteresovaní zájemi poslali do 7. ledna své připomínky. Svoje podněty následně zveřejnil Spolek za rozvoj architektury Boskovic, Ohlasům se kromě toho podařilo získat připomínky dalších odborníků a oslovili jsme také některé architekty s vazbou na Boskovice. Z reakcí vyplývá, že nad aktuálním návrhem nadšení nepanuje.*
