@@ -5,8 +5,7 @@ cover-photo: https://i.ohlasy.info/i/mycprve.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
-    - investice
-    - červená zahrada
+    - Červená zahrada
     - architektura
 ---
 

@@ -5,8 +5,7 @@ cover-photo: https://i.ohlasy.info/i/m3nh0sh.jpg
 category: zpravodajství
 tags:
     - politika
-    - investice
-    - červená zahrada
+    - Červená zahrada
     - kino
     - knihovna
     - nemocnice

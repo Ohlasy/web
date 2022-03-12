@@ -4,7 +4,7 @@ cover-photo: https://i.ohlasy.info/i/61sncas.jpg
 category: zpravodajství
 author: Tomáš Trumpeš
 tags:
-    - červená zahrada
+    - Červená zahrada
     - politika
 ---
 

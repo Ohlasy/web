@@ -5,10 +5,9 @@ perex: Vedení Boskovic se domluvilo s blanenským advokátem Janem Paroulkem, z
 author: Marek Osouch
 category: zpravodajství
 tags:
-    - červená zahrada
+    - Červená zahrada
     - sportovní hala
     - sport
-    - investice
 ---
 
 *Vedení Boskovic se domluvilo s majitelem pozemků po lihovaru a bývalého hotelu Velen, blanenským advokátem Janem Paroulkem, za jakých podmínek město získá zmíněné parcely u sportovního areálu v Červené zahradě. Zastupitelé by o odkupu mohli hlasovat už za měsíc.*

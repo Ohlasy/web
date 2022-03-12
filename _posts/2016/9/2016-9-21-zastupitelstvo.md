@@ -4,7 +4,7 @@ cover-photo: https://i.ohlasy.info/i/ovacacq.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
-    - červená zahrada
+    - Červená zahrada
     - nemocnice
 ---
 

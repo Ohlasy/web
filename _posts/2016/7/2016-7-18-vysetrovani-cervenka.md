@@ -4,7 +4,7 @@ cover-photo: https://i.ohlasy.info/i/gi2lckh.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
-    - červená zahrada
+    - Červená zahrada
     - investice
 ---
 

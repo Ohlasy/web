@@ -5,8 +5,7 @@ author: Petr Ondráček
 category: názory a komentáře
 tags:
     - architektura
-    - červená zahrada
-    - investice
+    - Červená zahrada
 ---
 
 *[Čtyři varianty umístění sportovní haly](/clanky/2015/11/varianty-haly.html) v areálu Červená zahrada představila boskovická radnice. Architekt Petr Ondráček pro nás kromě [anketní odpovědi](/clanky/2015/11/anketa-cervenka.html) napsal rozsáhlejší text o potřebě řešit celý areál v širších souvislostech. Město by podle něj mělo mít především ambici na vytvoření kvalitní urbanistické studie, doplněné o moderně zpracované sadové úpravy se soudobou architekturou vlastní sportovní haly.*

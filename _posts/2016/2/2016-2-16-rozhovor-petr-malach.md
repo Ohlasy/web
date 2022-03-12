@@ -6,14 +6,12 @@ author: Tomáš Trumpeš
 date: 2016-02-16 10:00:45
 tags:
     - politika
-    - volby
-    - investice
     - sportovní hala
     - knihovna
     - kino
     - lezecká stěna
     - sokolovna
-    - červená zahrada
+    - Červená zahrada
 ---
 
 *Rozhovor s místostarostou Petrem Malachem z ČSSD, který má na starosti sport a kulturu, což jsou oblasti, pod které spadá hned několik větších a palčivých problémů Boskovic – sportovní hala, letní kino, knihovna, kulturní dům. Kromě těchto ryze boskovických otázek jsme mluvili také o situaci v ČSSD před krajskými volbami. Petr Malach je rovněž asistentem premiéra Bohuslava Sobotky. V krajských volbách bude kandidovat.*

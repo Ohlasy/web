@@ -5,8 +5,7 @@ cover-photo: https://i.ohlasy.info/i/zlb1mkh.jpg
 category: rozhovory
 tags:
     - politika
-    - investice
-    - červená zahrada
+    - Červená zahrada
     - sportovní hala
 ---
 

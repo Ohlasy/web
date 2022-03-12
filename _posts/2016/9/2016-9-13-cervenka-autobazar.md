@@ -5,8 +5,7 @@ cover-photo: https://i.ohlasy.info/i/agdxsob.jpg
 author: Marek Osouch
 category: zpravodajství
 tags:
-    - investice
-    - červená zahrada
+    - Červená zahrada
 ---
 
 *Další pozemek u sportovního areálu v Červené zahradě doporučili radní zastupitelům k výkupu. Město by za něj mělo zaplatit 5,5 milionu korun. Oba posudky objednané městem přitom navrhují cenu o více než milion nižší, posudek majitele pozemku naopak o milion vyšší.*

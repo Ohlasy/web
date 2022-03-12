@@ -4,7 +4,7 @@ cover-photo: https://i.ohlasy.info/i/t4f08z8.jpg
 category: zpravodajství
 author: Marek Osouch
 tags:
-    - červená zahrada
+    - Červená zahrada
 ---
 
 *Znalec ocenil pozemek s mlýnem Jiřího Dvořáčka v Červené zahradě na 8,7 milionu, město ale nakonec přistoupilo na cenu čtrnáct milionů navrženou majitelem. Odchylka od ceny stanovené znalcem je podle města akceptovatelná a zdůvodnitelná „převyšujícími zájmy města na dalším rozvoji sportovních a zájmových aktivit“. Nejvíce je s tamní lokalitou spojována výstavba sportovní haly. Jestli tam skutečně vyroste ale vedení Boskovic stále neřeklo. Pro důstojný sportovní stánek s víceúčelovým využitím by plocha nestačila a musely by se přikoupit i další pozemky.*
