@@ -4,7 +4,7 @@ perex: Kvůli krácení dotací na stavbu Centra polytechnické výchovy musí m
 cover-photo: https://i.ohlasy.info/i/0rwefjh.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: cpv politika dotace
+tags: politika 
 ---
 
 *Kvůli krácení dotací na stavbu Centra polytechnické výchovy musí město zaplatit miliony navíc ze svého rozpočtu, podobně jako již dříve u přístavby mateřské školky. Obě zakázky, v nichž byly údajně chyby v zadávací dokumentaci pro výběrové řízení, připravovala firma exmístostarosty za ČSSD a obě také vyhrála stejná stavební společnost.*
