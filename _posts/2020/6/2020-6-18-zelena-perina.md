@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/57cb41fb.jpeg
 perex: V Boskovicích vznikla nová občanská iniciativa, která si jako předmět svého zájmu zvolila stav městských trávníků a městské zeleně.
 author: Hana Kvapilová
 category: názory a komentáře
-tags: klima zeleň
+tags:
+    - zeleň
+    - klimatická změna
 ---
 
 *V Boskovicích vznikla nová občanská iniciativa, která si jako předmět svého zájmu zvolila stav městských trávníků a městské zeleně. Zrod a aktivity iniciativy pro Ohlasy popsala její spoluzakladatelka Hana Kvapilová.*
