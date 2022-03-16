@@ -4,6 +4,8 @@ perex: Cenu centrálního tepla řešili radní na jednání těsně před Váno
 cover-photo: https://i.ohlasy.info/i/eswiguy.jpg
 author: Marek Osouch
 category: zpravodajství
+tags:
+    - centrální zásobování teplem
 ---
 
 *Cenu tepla ze systému Centrálního zásobování teplem (CZT), řešili boskovičtí radní na jednání těsně před Vánoci více než 2,5 hodiny. Šlo o zásadní bod, protože příští rok končí smlouvy na odběr tepla více než tisícovce domácností a vedení města chce, aby v systému CZT zůstaly.*

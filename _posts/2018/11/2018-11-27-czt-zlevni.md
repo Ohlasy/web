@@ -4,6 +4,8 @@ perex: Tisícovka domácností se může těšit na to, že od příštího roku
 cover-photo: https://i.ohlasy.info/i/og06ydy.jpg
 author: Marek Osouch
 category: zpravodajství
+tags:
+    - centrální zásobování teplem
 ---
 
 *Tisícovka domácností odebírajících teplo z centrálního zásobování teplem se může těšit na to, že od příštího roku nebude platit více než ty, kde mají vlastní kotel. Podle starosty Boskovic Jaroslava Dohnálka (ODS) by měla být cena po mnoha letech srovnatelná s ostatními zdroji tepla.*

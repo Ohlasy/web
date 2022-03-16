@@ -4,7 +4,8 @@ perex: Kolik stojí a bude stát systém centrálního zásobování teplem, na 
 cover-photo: https://i.ohlasy.info/i/eswiguy.jpg
 author: Marek Osouch
 category: zpravodajství
-tags: investice
+tags:
+    - centrální zásobování teplem
 ---
 
 *Příští rok se dočkáme opraveného letního kina, singletreků v Doubravách nebo sokolovny v rukou města. Mimo hlavní dění se ale má začít vypracovávat také analýza perspektivy provozu systému CZT, tedy Centrálního zásobování teplem. Na ten jsou napojená velká sídliště Pod Oborou nebo na Čížovkách.*
