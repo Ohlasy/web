@@ -5,7 +5,8 @@ cover-photo: https://i.ohlasy.info/i/uapxdyk.jpg
 author: Marek Osouch
 category: zpravodajství
 date: 2019-6-4 13:00:45
-tags: czt
+tags:
+    - centrální zásobování teplem
 ---
 
 *Tlak na snížení ceny tepla v Boskovicích se přelil v právnický boj mezi městem a provozovatelem tepelné soustavy, firmou ZT Energy. I po výrazném snížení nájmu pro tuto společnost je totiž letošní cena tepla pro koncové spotřebitele velmi podobná té loňské. Město si proto na provozovatele stěžuje přímo u Energetického regulačního úřadu.*

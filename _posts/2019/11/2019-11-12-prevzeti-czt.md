@@ -4,7 +4,8 @@ cover-photo: https://i.ohlasy.info/i/jeqrreb.jpg
 perex: Boskovické Služby se připravují na převzetí soustavy rozvodů a centrálních zdrojů tepla ve městě. Příští rok část kotelen propojí a nejpozději na konci roku celou soustavu převezmou.
 author: Marek Osouch
 category: zpravodajství
-tags: czt
+tags:
+    - centrální zásobování teplem
 ---
 
 *Boskovické Služby se připravují na převzetí soustavy rozvodů a centrálních zdrojů tepla ve městě. Příští rok část kotelen propojí a nejpozději na konci roku celou soustavu převezmou. Cena tepla by tím měla klesnout zhruba o stovku na částku kolem 550 korun za gigajoul tepla.*

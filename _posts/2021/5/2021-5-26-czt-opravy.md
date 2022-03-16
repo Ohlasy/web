@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/eswiguy.jpg
 perex: Někteří odběratelé tepla z boskovického městského systému centrálního zásobování teplem věří, že mohou ušetřit, pokud si budou vytápění řešit sami. Město nesouhlasí.
 author: Marek Osouch
 category: zpravodajství
+tags:
+    - centrální zásobování teplem
 ---
 
 *Obyvatelé jednoho z osmipatrových domů na Komenského ulici v Boskovicích se už před téměř třemi roky rozhodli vybudovat vlastní zdroj vytápění pomocí tepelného čerpadla. Stavební úřad ale dva roky vyřizoval povolení a nakonec je letos zamítl. Nájemníci se proti tomuto rozhodnutí odvolali.*

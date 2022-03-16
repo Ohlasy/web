@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/1136c832.jpeg
 perex: Nenahlásil střet zájmů, ale firma, v jejímž vedení působí, se podílela na budování rozvodů tepla a on měl za město tuto investici na starosti.
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - centrální zásobování teplem
 ---
 
 *Nenahlásil střet zájmů, ale firma, v jejímž vedení boskovický místostarosta Radek Mazáč (Sportovci) působí, se podílela na budování rozvodů tepla a on měl za město tuto investici na starosti. Stavba se navíc výrazně prodražila a město za ni zaplatí o 8 milionů víc, než plánovalo.*

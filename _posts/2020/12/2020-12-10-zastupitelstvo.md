@@ -3,7 +3,9 @@ title: "Ze zastupitelstva: lidovci prosadili projekt na park u skleníku, CZT 
 cover-photo: https://i.ohlasy.info/i/3eead4e7.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - centrální zásobování teplem
 ---
 
 *Poslední letošní jednání boskovického zastupitelstva proběhlo v úterý 8. prosince v zámeckém skleníku. Zúčastnilo se tentokrát všech 27 zastupitelů.*

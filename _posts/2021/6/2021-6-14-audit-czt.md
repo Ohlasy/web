@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/bc9a3044.jpg
 perex: Zakázka byla předmětem diskuzí mezi zastupiteli a nakonec byla i jedním z důvodů pádů koalice.
 author: Marek Osouch
 category: zpravodajství
+tags:
+    - centrální zásobování teplem
 ---
 
 *O třetinu se oproti původním plánům prodražila stavba rozvodů tepla v části Boskovic. I proto byla tato zakázka předmětem [diskuzí mezi zastupiteli](https://ohlasy.info/clanky/2020/12/zastupitelstvo.html) a nakonec byla i jedním z důvodů [pádů koalice](https://ohlasy.info/clanky/2021/03/pad-koalice.html). Vedení města zadalo zpracovat kontrolní audit, kontroloři ale na zásadní pochybení nepřišli. Za zakázkou navíc zůstávají dluhy.*

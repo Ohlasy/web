@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/bc9a3044.jpg
 perex: Místostarosta Radek Mazáč nesedí jen v představenstvu společnosti, která na zakázce pracovala, ale firmu řídí a donedávna vlastnil i část jejích akcií.
 author: Marek Osouch
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - centrální zásobování teplem
 ---
 
 *Kolem prodražené zakázky na rozvody tepla v Boskovicích a nařčení místostarosty Radka Mazáče (Sportovci) ze střetu zájmů se vynořují nové informace. Místostarosta nesedí jen v představenstvu společnosti, která na zakázce pracovala, ale firmu jako jeden ze tří vrcholových manažerů přímo řídí a donedávna vlastnil i část jejích akcií.*
