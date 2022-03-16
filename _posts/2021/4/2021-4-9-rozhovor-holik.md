@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/4537e537.jpeg
 perex: Rozhovor s místostarostou Lukášem Holíkem (ANO), jehož strana vypověděla koaliční smlouvu a do nové boskovické koalice nebyla přizvána, takže na radnici končí.
 author: Tomáš Trumpeš
 category: rozhovory
-tags: politika
+tags:
+    - politika
+    - střet zájmů Radka Mazáče
 ---
 
 *Rozhovor s končícím místostarostou Lukášem Holíkem (ANO). Ten se svými kolegy vypověděl koaliční smlouvu, když jejich partneři z ODS, TOP 09, Boskováků a zejména STAN a Sportovců nechtěli z jeho pohledu dostatečně řešit problém střetu zájmů místostarosty Radka Mazáče. Do nové koalice hnutí ANO přizváno nebylo, takže Lukáš Holík po dvou a půl letech funkci místostarosty opustí.*

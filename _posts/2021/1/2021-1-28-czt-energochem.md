@@ -7,6 +7,7 @@ category: zpravodajství
 tags:
     - politika
     - centrální zásobování teplem
+    - střet zájmů Radka Mazáče
 ---
 
 *Kolem prodražené zakázky na rozvody tepla v Boskovicích a nařčení místostarosty Radka Mazáče (Sportovci) ze střetu zájmů se vynořují nové informace. Místostarosta nesedí jen v představenstvu společnosti, která na zakázce pracovala, ale firmu jako jeden ze tří vrcholových manažerů přímo řídí a donedávna vlastnil i část jejích akcií.*

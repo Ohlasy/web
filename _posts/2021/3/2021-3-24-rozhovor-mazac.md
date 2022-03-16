@@ -5,7 +5,9 @@ perex: V Boskovicích se po rozpadu koalice rozběhla jednání o novém koalič
 author: Marek Osouch
 date: 2021-03-24 8:00:45
 category: rozhovory
-tags: politika
+tags:
+    - politika
+    - střet zájmů Radka Mazáče
 ---
 
 *V Boskovicích se po [rozpadu koalice](https://ohlasy.info/clanky/2021/03/pad-koalice.html) rozběhla jednání o novém koaličním uspořádání. Ohlasy v této souvislosti vyzpovídaly místostarostu za uskupení STAN a Sportovci Boskovice Radka Mazáče, kvůli němuž hnutí ANO vypovědělo koaliční smlouvu. Požadovalo totiž jeho rezignaci, na kterou on ale nepřistoupil.*

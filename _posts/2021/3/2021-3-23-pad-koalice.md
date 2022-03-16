@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/f6187fdc.jpg
 perex: "Rok a půl před komunálními volbami se rozpadla koalice vládnoucí boskovické radnici: ODS, ANO, Sportovci, TOP 09 a Boskováci."
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - střet zájmů Radka Mazáče
 ---
 
 *Rok a půl před komunálními volbami se rozpadla široká a křehká koalice vládnoucí boskovické radnici: ODS, ANO, Sportovci, TOP 09 a Boskováci. Koaliční smlouvu vypovědělo hnutí ANO, nechtělo pokračovat s místostarostou Radkem Mazáčem (STAN a Sportovci), [který čelí nařčení ze střetu zájmů](https://ohlasy.info/clanky/2021/01/stret-zajmu-mazac.html).*

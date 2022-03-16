@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/1136c832.jpeg
 perex: Komentář k politické odpovědnosti místostarosty Radka Mazáče za kauzu Energochem, prodražení investice do CZT střed a postup v přípravě stavby sportovní haly.
 author: Tomáš Trumpeš
 category: názory a komentáře
-tags: politika
+tags:
+    - politika
+    - střet zájmů Radka Mazáče
 ---
 
 *Kdo sleduje boskovickou politiku, ten se v posledních týdnech a měsících opravdu nenudí. Vyvstalo v nich hned několik docela závažných kauz, které se setkávají u osoby neuvolněného místostarosty Radka Mazáče (STAN a Sportovci Boskovice). Na zastupitelstvu místostarostu opozice nesměle požádala o vyjádření ke střetu zájmů. A to je málo.*

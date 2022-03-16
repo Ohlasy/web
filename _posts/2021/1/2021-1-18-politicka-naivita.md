@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/f6187fdc.jpg
 perex: Aktuálně se v Boskovicích řeší několik vážných politických kauz. Zamyšlení nad celkovou situací a jejich dopady napsal Tomáš Trumpeš.
 author: Tomáš Trumpeš
 category: názory a komentáře
-tags: politika
+tags:
+    - politika
+    - střet zájmů Radka Mazáče
 ---
 
 *„Vy jste hrozní idealisté, takhle politika fungovat nikdy nebude! To víte, že to politikům zase projde, jako vždycky a všechno, nebuďte naivní!“ – Argument či výtka, se kterou se asi nejen my v Ohlasech setkáváme poměrně často. Netajíme se tím, že k politice a vůbec veřejnému dění přistupujeme s pořádnou dávkou idealismu a také s pořádnou dávkou optimismu. Věci se totiž mění a to dost často k lepšímu. Nepočítat s tím je politicky dosti neprozíravé, spíše by se hodilo říct: naivní.*

@@ -5,7 +5,9 @@ perex: Boskovičtí politici se dohodli na nové koalici. Kromě hnutí ANO, kte
 author: Marek Osouch
 category: zpravodajství
 date: 2021-04-07 8:00:45
-tags: politika
+tags:
+    - politika
+    - střet zájmů Radka Mazáče
 ---
 
 *Boskovičtí politici se dohodli na nové koalici. Kromě hnutí ANO, které nedávno [vypovědělo koaliční smlouvu kvůli místostarostovi Radku Mazáčovi](https://ohlasy.info/clanky/2021/03/pad-koalice.html) (STAN a Sportovci Boskovice), končí ve vedení města i Radek Mazáč  a jeho uskupení. Obě strany se teď přesouvají do opozice.*

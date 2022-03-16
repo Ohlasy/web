@@ -4,6 +4,8 @@ perex: Městská společnost Služby Boskovice vybrala auditorskou firmu, která
 cover-photo: https://i.ohlasy.info/i/3b488f53.jpeg
 author: Marek Osouch
 category: zpravodajství
+tags:
+    - střet zájmů Radka Mazáče
 ---
 
 *Městská společnost Služby Boskovice vybrala auditorskou firmu, která prověří postup při stavbě rozvodů tepla v Boskovicích. Zakázka, kterou mají Služby na starost, je totiž proti předpokládané ceně ve výsledku o třetinu dražší a městská firma chce auditem zjistit, zda za takový nárůst není odpovědný zhotovitel, projektant či někdo jiný.*

@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/f7586321.jpg
 perex: Je střet zájmů v Boskovicích jen módní slovo, nebo reálný politický problém? Ohlasy se pokusily zjistit názory jednotlivých politických uskupení. Názory nejsou jednotné, ani uvnitř koalice, ani v opozici.
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: politika
+tags:
+    - politika
+    - střet zájmů Radka Mazáče
 ---
 
 *Je střet zájmů v Boskovicích jen módní slovo, nebo reálný politický problém? Ohlasy se pokusily zjistit názory reprezentantů jednotlivých politických uskupení. Názory nejsou zjevně zcela jednotné, a to ani uvnitř koalice, ani v opozici. Zdá se ale, že zametená pod kobercem zatím celá záležitost není.*
