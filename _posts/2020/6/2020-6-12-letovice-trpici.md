@@ -3,7 +3,7 @@ title: Letovice trpící
 cover-photo: https://i.ohlasy.info/i/1769a147.jpg
 author: Hynek Skořepa
 category: názory a komentáře
-tags: Letovice doprava
+tags: doprava
 ---
 
 *Dopravní stavby jsou nezbytné a zároveň působí komplikace řadě lidí. Letos se nimi vypořádávají také v Letovicích, odkud nám své zkušenosti popsal a poslal Hynek Skořepa. Ten si klade zásadní otázku, jestli by práce nešlo lépe připravit a koordinovat.*
