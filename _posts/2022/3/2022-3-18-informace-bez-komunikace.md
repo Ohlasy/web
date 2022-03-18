@@ -14,7 +14,7 @@ Oznámení, které se ve středu na facebookovém profilu města objevilo, [je a
 
 Formálně celá věc vznikla tak, že městská rada schválila nová [Pravidla využití informačních prostředků města Boskovice](http://data.ohlasy.info/2022/pravidla-diskuze.rtf), a v nich se píše mimo jiné toto: *Facebookový profil /mestoboskovice slouží jako INFORMAČNÍ prostředek, nejedná se o oficiální KOMUNIKAČNÍ prostředek. Proto osoba odpovědná za vkládání příspěvků na FB profil neumožňuje vkládání komentářů k příspěvkům.* 
 
-„Informační prostředek, který není komunikačním prostředkem“ milovníka absurdního dramatu potěší a snaha „informovat, aniž bychom museli komunikovat“, možná pro někoho dobře vystihne podstatu přístupu funkcionářů určitého druhu k lidem, kteří jsou v jejich hierarchických představách ti níže postavení. V demokratické společnosti to ale má a věřme že i bude fungovat trochu jinak. 
+„Informační prostředek, který není komunikačním prostředkem“ milovníka absurdního dramatu potěší a snaha „informovat, aniž bychom museli komunikovat“ možná pro někoho dobře vystihne podstatu přístupu funkcionářů určitého druhu k lidem, kteří jsou v jejich hierarchických představách ti níže postavení. V demokratické společnosti to ale má a věřme že i bude fungovat trochu jinak. 
 
 Vypnutí facebookové diskuse je takový úlet, že se k němu těžko hledají metafory. Je to jako by vedení města vyhlásilo, že po chodníku před radnicí můžete chodit a mluvit nahlas jen po obdržení speciálního povolení? Nebo spíš jako by na úřadě přestali brát telefony a šlo se tam dovolat jen po vyplnění příslušného formuláře na internetu, případně doručeného písemně do podatelny? Je to zkrátka úplně absurdní.
 
@@ -42,6 +42,6 @@ Jistým způsobem je to pochopitelné a musel bych se zastat tiskového mluvčí
 
 Místo toho by radnice měla výrazně zredukovat nesmyslnou podobu zpravodaje a tím ušetřit peníze a čas svých mediálních pracovníků. Za uvolněné minimálně desítky tisíc by jistě šlo sehnat třeba brigádnickou pracovní sílu, která moderní komunikaci s veřejností na internetu rozumí a umí ji dělat. Ideálně někoho mladšího, vybaveného potřebnými dovednostmi. Místo *vypnutí Facebooku* by spíš město mělo uvažovat o zřízení Instagramu.
 
-Samostatnou otázkou je také vlastní obsah, který radnice dnes na Facebooku sdílí a nepřiměřená četnost příspěvků. I zde je velký prostor pro úspory času i prostoru pro podstatné.
+Samostatnou otázkou je také vlastní obsah, který radnice dnes na Facebooku sdílí, a nepřiměřená četnost příspěvků. I zde je velký prostor pro úspory času i prostoru pro podstatné.
 
 Že je potřeba, aby se radničních informačních prostředků chopil také někdo, kdo chápe, že vypnout v roce 2022 facebookovou diskuzi na městském profilu je zcela nepřípustné, je nasnadě. Zároveň to není pro případné hledání vhodného zájemce nijak náročný požadavek – skoro bych řekl, že kromě boskovické radnice to totiž chápou úplně všichni.
