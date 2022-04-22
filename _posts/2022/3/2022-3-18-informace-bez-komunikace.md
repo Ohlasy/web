@@ -12,7 +12,7 @@ category: názory a komentáře
 
 Oznámení, které se ve středu na facebookovém profilu města objevilo, [je až příliš prosté](https://www.facebook.com/mestoboskovice/posts/pfbid0EzfvJrL3Rgci1xP9HAC9XGcMMv5nybnux78qNmgwikMLfR8W5dEkah3AXigVPUDMl): *Oficiální facebooková stránka města Boskovice není diskuzní platformou města Boskovice. Příspěvky mohou komentovat jen subjekty označené v textu.* Vysvětlení žádné.
 
-Formálně celá věc vznikla tak, že městská rada schválila nová [Pravidla využití informačních prostředků města Boskovice](http://data.ohlasy.info/2022/pravidla-diskuze.rtf), a v nich se píše mimo jiné toto: *Facebookový profil /mestoboskovice slouží jako INFORMAČNÍ prostředek, nejedná se o oficiální KOMUNIKAČNÍ prostředek. Proto osoba odpovědná za vkládání příspěvků na FB profil neumožňuje vkládání komentářů k příspěvkům.* 
+Formálně celá věc vznikla tak, že městská rada schválila nová [Pravidla využití informačních prostředků města Boskovice](https://data.ohlasy.info/2022/pravidla-diskuze.rtf), a v nich se píše mimo jiné toto: *Facebookový profil /mestoboskovice slouží jako INFORMAČNÍ prostředek, nejedná se o oficiální KOMUNIKAČNÍ prostředek. Proto osoba odpovědná za vkládání příspěvků na FB profil neumožňuje vkládání komentářů k příspěvkům.* 
 
 „Informační prostředek, který není komunikačním prostředkem“ milovníka absurdního dramatu potěší a snaha „informovat, aniž bychom museli komunikovat“ možná pro někoho dobře vystihne podstatu přístupu funkcionářů určitého druhu k lidem, kteří jsou v jejich hierarchických představách ti níže postavení. V demokratické společnosti to ale má a věřme že i bude fungovat trochu jinak. 
 
