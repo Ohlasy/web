@@ -22,7 +22,7 @@ Městská rada se zabývala dotací určenou pro domy, které nejsou prohlášen
 
 ### Opravy chodníků
 
-Rada schválila dodavatele velkoplošných oprav chodníků. Ty budou letos probíhat na těchto místech: na pravé straně ulice Bedřicha Smetany, na Gagarinově, na Sokolské od ulice Bedřicha Smetny po Kras, na Mánesově od světelné křižovatky ke COOPu, na pravé straně ulice Svatopluka Čecha od Hybešovy po Legionářskou a také schodiště před bytovými domy číslo 50, 46 a 48 na Hybešově ulici.
+Rada schválila dodavatele velkoplošných oprav chodníků. Ty budou letos probíhat na těchto místech: na pravé straně ulice Bedřicha Smetany, na Gagarinově, na Sokolské od ulice Bedřicha Smetany po Kras, na Mánesově od světelné křižovatky ke COOPu, na pravé straně ulice Svatopluka Čecha od Hybešovy po Legionářskou a také schodiště před bytovými domy číslo 50, 46 a 48 na Hybešově ulici.
 
 ### Nafukovací hala
 
