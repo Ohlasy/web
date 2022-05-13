@@ -41,7 +41,7 @@ Rozdíly mezi našimi jazyky jsou také v zápisu **samohlásky [e] a její kom
 
 Ruština se tedy úplně shoduje s běloruštinou, zatímco v ukrajinštině se grafém e využívá jinak a je zde speciální písmeno є. Opět tedy jedno varování: pokud znáte ruštinu a jste zvyklí na měkkou výslovnost e jako [je] (respektive na to, že e změkčuje předchozí souhlásku), pamatujte, že v ukrajinštině se stejné písmeno vyslovuje pouze jako [e] a neměkčí. Jednodušší pro nás může být ukrajinština v tom, že nepoužívá znak ё, který ruštináři znají pro zápis sekvence hlásek [jo]. Ta se v ukrajinštině zapisuje prostě jako sled j + o, v azbuce tedy йо.
 
-V oblasti **souhlásek** existuje jeden výrazný rozdíl mezi ukrajinštinou a běloruštinou na jedné straně a ruštinou na straně druhé. Týká se existence a zápisu **hlásek [h] a [g]**. Ruština hlásku [h] vůbec nemá a [g] zapisuje pomocí písmene г. Ukrajinština s běloruštinou mají obě hlásky, přičemž [h] zapisují pomocí г, zatímco [h] pomocí ґ, tedy písmene, které má vpravo nahoře navíc malou, celkem dost nenápadnou čárku směrem vzhůru. Celkově tedy vypadá situace takto:
+V oblasti **souhlásek** existuje jeden výrazný rozdíl mezi ukrajinštinou a běloruštinou na jedné straně a ruštinou na straně druhé. Týká se existence a zápisu **hlásek [h] a [g]**. Ruština hlásku [h] vůbec nemá a [g] zapisuje pomocí písmene г. Ukrajinština s běloruštinou mají obě hlásky, přičemž [h] zapisují pomocí г, zatímco [g] pomocí ґ, tedy písmene, které má vpravo nahoře navíc malou, celkem dost nenápadnou čárku směrem vzhůru. Celkově tedy vypadá situace takto:
 
 |hláska|ruština|ukrajinština|běloruština|
 |---|---|---|---|
