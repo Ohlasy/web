@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/34712a94.jpg
 perex: Rozhovor s Janou Syrovátkovou, která v Boskovicích zakládá novou nezávislou kandidátku.
 author: Tomáš Trumpeš
 category: rozhovory
-tags: politika
+tags:
+    - politika
+    - volby 2022
 ---
 
 *Rozhovor s Janou Syrovátkovou, která v Boskovicích zakládá novou nezávislou kandidátku. Z Boskovic pochází a před časem se do nich opět i s rodinou vrátila. Jako architektka a projektová manažerka se začala nejprve angažovat profesně ve Spolku za rozvoj architektury Boskovic. Nyní se rozhodla spolu s dalšími vytvořit v Boskovicích nové politické uskupení a kandidovat příští rok na podzim v komunálních volbách.*
