@@ -49,6 +49,9 @@ why: A dummy header to make Jekyll process this file.
     <div class="container">
         {% include grid/nine.html items=site.posts %}
 
+        <h2 class="section-divider">komunální volby</h2>
+        {% include grid/nine.html items=politics %}
+
         <h2 class="section-divider">názory &amp; komentáře</h2>
         {% include grid/nine.html items=opinions %}
 
@@ -114,9 +117,6 @@ why: A dummy header to make Jekyll process this file.
 
         <h2 class="section-divider">seriály</h2>
         {% include grid/nine.html items=serials %}
-
-        <h2 class="section-divider">komunální volby</h2>
-        {% include grid/nine.html items=politics %}
 
         <h2 class="section-divider">vybíráme z <a href="https://archiv.ohlasy.info">archivu</a></h2>
         {% assign random_featured = featured | shuffle %}
