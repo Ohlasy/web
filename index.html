@@ -38,7 +38,7 @@ why: A dummy header to make Jekyll process this file.
     {% if post.category == 'seriály' %}
     {% assign serials = serials | push: post %}
     {% endif %}
-    {% if post.tags contains 'politika' %}
+    {% if post.tags contains 'volby 2022' %}
     {% assign politics = politics | push: post %}
     {% endif %}
     {% if post.featured %}
@@ -115,7 +115,7 @@ why: A dummy header to make Jekyll process this file.
         <h2 class="section-divider">seriály</h2>
         {% include grid/nine.html items=serials %}
 
-        <h2 class="section-divider">politika</h2>
+        <h2 class="section-divider">komunální volby</h2>
         {% include grid/nine.html items=politics %}
 
         <h2 class="section-divider">vybíráme z <a href="https://archiv.ohlasy.info">archivu</a></h2>
