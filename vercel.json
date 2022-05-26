@@ -23,6 +23,14 @@
         {
             "source": "/go/pripadovka",
             "destination": "https://data.ohlasy.info/2021/pripadovka.pdf"
+        },
+        {
+            "source": "/darujte",
+            "destination": "https://www.darujme.cz/projekt/1202392"
+        },
+        {
+            "source": "/darujme",
+            "destination": "https://www.darujme.cz/projekt/1202392"
         }
     ],
     "headers": [
