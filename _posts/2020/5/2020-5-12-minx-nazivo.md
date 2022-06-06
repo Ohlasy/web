@@ -4,7 +4,9 @@ cover-photo: https://i.ohlasy.info/i/7ecbcab6.jpeg
 perex: Hostem dalšího setkání z cyklu Ohlasy naživo byl ve čtvrtek 7. května Tomáš Minx, ředitel společnosti MP Lesy. Ptali jsme se ho na současný stav lesů a na to, jak pokračují snahy o jejich záchranu.
 author: Tomáš Trumpeš
 category: podcast
-tags: krajina klima
+tags:
+    - krajina
+    - klimatická změna
 ---
 
 *Hostem dalšího setkání z cyklu Ohlasy naživo byl ve čtvrtek 7. května Tomáš Minx, ředitel společnosti MP Lesy. Ta se stará nejen o lesy patřící rodině Mensdorff-Pouilly, ale také o boskovické městské lesy. Před necelými dvěma lety Tomáš Minx Ohlasům řekl, že [v některých oblastech do tří let zmizí lesy](https://ohlasy.info/clanky/2018/08/rozhovor-minx.html). Dnes už vidíme, že to nebyla nadsázka. Nyní jsme se tedy ptali na současný stav lesů a na to, jak pokračují snahy o jejich záchranu.*

@@ -4,6 +4,8 @@ cover-photo: https://i.ohlasy.info/i/cj0nzxr.jpg
 author: Tomáš Trumpeš
 category: rozhovory
 featured: true
+tags:
+    - klimatická změna
 ---
 
 *Rozhovor s Tomášem Minxem, ředitelem společnosti MP Lesy. Ta se stará nejen o lesy patřící rodině Mensdorff-Pouilly, ale také o boskovické městské lesy. Mluvili jsme o kalamitě v českých lesích, o jejích příčinách i následcích a o možnostech, jak jí čelit.*
