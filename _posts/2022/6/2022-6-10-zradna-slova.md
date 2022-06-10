@@ -5,6 +5,8 @@ perex: Vzhledem k pokračující válce na Ukrajině se stále častěji setkáv
 author: Vít Boček
 category: seriály
 serial: jazyk
+tags:
+    - válka na Ukrajině
 ---
 
 *Vzhledem k pokračující válce na Ukrajině se stále častěji setkáváme s ukrajinským jazykem. Náš přispěvatel, jazykovědec Vít Boček, proto pokračuje v miniseriálu o ukrajinštině. Po prvním dílu věnovaném [grafice a výslovnosti ukrajinštiny](https://ohlasy.info/clanky/2022/05/ukrajinska-grafika.html) dnes následuje přehled slov, která by vás přes zdánlivou známost mohla snadno zmást.*
