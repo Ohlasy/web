@@ -1,7 +1,7 @@
 ---
 title: „ArchiMapa by měla vést lidi k tomu, že si začnou ve městě domů víc všímat.“
 cover-photo: https://i.imgur.com/AUhY2iPl.jpg
-perex: Beseda s architektem Petrem Ondráčkem, fotografem Kamilem Vočko Altrichterem a koordinátorkou Brněnského architektonického manuálu Veronikou Jičínskou se uskutečnila v rámci křtu boskovické ArchiMapy.
+perex: Beseda s architektem Petrem Ondráčkem, fotografem Kamilem Vočko Altrichterem a koordinátorkou Brněnského architektonického manuálu Veronikou Jičínskou.
 author: Tomáš Trumpeš
 category: rozhovory
 tags:
