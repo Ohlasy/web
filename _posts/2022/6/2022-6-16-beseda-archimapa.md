@@ -36,7 +36,7 @@ Jinak je to za poslední dobu trošku tristní. [Psal o tom v Ohlasech i Petr V�
 
 **Jaká je situace v soukromých stavbách? Jsou tady třeba zajímavé rodinné domy z posledních let?**
 
-Takové stavby tady máme. Když začnu těsně po revoluci, tak dům od architekta Habiny – nedá se k němu běžně dostat, ale když stojíte u Betany, ja na pískovcovém ostrohu ta až jakoby barokní stavba vidět. Potom rodinný dvojdomek od architekta Fránka na ulici K Lipníkům. A rodinné domky od Edy Štěrbáka – dům na Bělé, který nahradil pilon, který tam stál od druhé světové války a měla na něm pokračovat extrateritoriální dálnice z Plzně do Moravské Ostravy.
+Takové stavby tady máme. Když začnu těsně po revoluci, tak dům od architekta Habiny – nedá se k němu běžně dostat, ale když stojíte u Betany, ja na pískovcovém ostrohu ta až jakoby barokní stavba vidět. Potom rodinný dvojdomek od architekta Fránka na ulici K Lipníkům. A rodinné domky od Edy Štěrbáka – dům na Bělé, který nahradil pylon, který tam stál od druhé světové války a měla na něm pokračovat extrateritoriální dálnice z Plzně do Moravské Ostravy.
 
 **ArchiMapa je na světě – co by mělo následovat teď?**
 
