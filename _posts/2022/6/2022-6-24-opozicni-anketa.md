@@ -9,7 +9,7 @@ category: ankety
 
 {% photo src="https://i.imgur.com/bdkHIui.jpg" caption="Nové trampolíny ve vnitrobloku sídliště na Bílkově ulici" author="Tomáš Trumpeš" %}
 
-**Návrh knihovny dostál poměrně výrazných změn. Jste pro knihovnu v této podobě postavit?**
+**Návrh knihovny [dostál poměrně výrazných změn](https://ohlasy.info/clanky/2022/05/z-radnice.html). Jste pro knihovnu v této podobě postavit?**
 
 LUKÁŠ HOLÍK (ANO): Učiňme všechny kroky pro co nejrychlejší realizaci. Dotace na zafinancování knihovny bude v pár týdnech vypsaná, přihlasme se o ni, získejme ji a konečně po více než 20 letech postavme knihovnu. Tečka.
 
