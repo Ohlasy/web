@@ -63,7 +63,7 @@ VLADIMÍR FARSKÝ (KSČM): Ano, tento záměr se mi líbí. Jako malý jsem ve �
 
 LUKÁŠ HOLÍK (ANO): Už stop těmto útržkovitým řešením, ale začněme město řešit jako celek. A vytvořme plán rozvoje dopravy, tak jak jsem ve funkci místostarosty chtěl. Například tak jak v Kuřimi.
 
-RADEK ŠAMŠULA (PIRÁTI): Podporujeme. Ulice v Zahradách jsou už dnes de facto jednosměrky, je proto dobré tento stav oficiálně potvrdit. Lokalit pro zavedení jednosměrných ulic bychom určitě našli víc, třeba i v Mladkově. Nezapomeňme ale na značení pro obousměrný provoz cyklistů, zvlášť v takto klidných lokalitách.
+RADEK ŠAMŠULA (PIRÁTI): Podporujeme. Ulice v Zahradách jsou už dnes de facto jednosměrky, je proto dobré tento stav oficiálně potvrdit. Lokalit pro zavedení jednosměrných ulic bychom určitě našli víc. Nezapomeňme ale na značení pro obousměrný provoz cyklistů, zvlášť v takto klidných lokalitách.
 
 RADEK MAZÁČ (STAN A SPORTOVCI): Se zjednosměrněním ulic v Zahradách souhlasíme. Tato lokalita by mohla být vzorem pro dopravní řešení v dalších částech města. Dle našeho názoru mohou vést úpravy v dalších vybraných ulicích ve městě ke zlepšení dopravní situace.
 
