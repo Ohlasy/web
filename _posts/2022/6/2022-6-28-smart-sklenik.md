@@ -4,16 +4,15 @@ cover-photo: https://i.imgur.com/tbNifOil.jpg
 perex: Propojit technologie a zahrádkaření – nápad studentek boskovického gymnázia, u kterého nyní funguje smart skleník. Přes technologie 21. století by mohl podle studentek vést návrat k zahradničení.
 author: Tomáš Trumpeš
 category: zpravodajství
-published: false
 ---
 
 *Propojit technologie a zahrádkaření – nápad studentek boskovického gymnázia uspěl v projektové soutěži environmentálního zařízení Lipka a u školy tak nyní funguje smart skleník. Přes technologie 21. století by mohl podle studentek vést návrat k zahradničení.*
 
-{% photo src="https://i.imgur.com/tbNifOi.jpg" caption="" author="Tomáš Trumpeš" %}
+{% photo src="https://i.imgur.com/tbNifOi.jpg" caption="Studentky ve svém chytrém skleníku" author="Tomáš Trumpeš" %}
 
 Pokud patříte k lidem, kteří na zahradničení nemají dost času, ale zároveň by rádi jedli to, co si sami vypěstují, mohl by pro vás být řešením právě smart skleník. „Když může být chytrá domácnost, proč by nemohl být chytrý skleník? Děláme první krok k chytrému lokálnímu zemědělství i na zahrádkách a ke zmírnění dopadů globálního oteplování. Náš hlavní cíl je zmodernizovat a usnadnit zahradničení tak, aby bylo lákavým, efektivním a psychohygienickým koníčkem,“ říkají studentky s tím, že vyšší míra samopěstitelství by mohla zmírnit dovážení plodin přes půl světa. A proto je třeba hledat nové cesty k zahradničení.
 
-Nápad by autorky rády šířily hlavně mezi svými vrstevníky. „Chtěli bychom, aby tato generace zjistila, že pěstování rostlin může být zábavné, uklidňující a vymýšlení nových technologických vychytávek velmi zajímavé,“ říkají Lucie Honzátková, Sabina Meluzínová, Štěpánka Fialová, Simona Přikrylová, Vendula 
+Nápad by autorky rády šířily hlavně mezi svými vrstevníky. „Chtěli bychom, aby tato generace zjistila, že pěstování rostlin může být zábavné, uklidňující a vymýšlení nových technologických vychytávek velmi zajímavé,“ říkají Lucie Honzátková, Sabina Meluzínová, Štěpánka Fialová, Simona Přikrylová, Vendula Kejíková a Monika Odehnalová.
 
 Smart skleník si studentky 1. B vymyslely, když centrum Lipka vyhlásilo projektovou soutěž pro školy a jejich třídní profesorka Izabela Štěpánková je oslovila, aby se zúčastnily. Zpočátku nevěřily, že by mohly uspět, a dokonce už vymýšlely náhradní variantu. Jenže v Lipce byli z nápadu nadšení, projekt zvítězil a smart skleník tak na gymnáziu nakonec stojí.
 
