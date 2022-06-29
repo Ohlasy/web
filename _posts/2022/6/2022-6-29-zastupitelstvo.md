@@ -5,7 +5,6 @@ perex: Na předposledním jednání se sešla aktuální sestava boskovických z
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
-published: false
 ---
 
 *Na svém předposledním jednání se sešla na konci června aktuální sestava boskovických zastupitelů. Poslední jednání bude pouhých deset dnů před komunálními volbami.*
@@ -40,7 +39,7 @@ Za pouhou hodinu se zastupitelé dostali k závěrečnému bloku finančních z�
 
 Třetí rozpočtové opatření přináší navýšení příjmů o něco přes 31 milionů korun, více než polovinu tvoří aktualizace předpokladu výběru daní. Výdaje se zvedají o více než 30 milionů.
 
-Ve výdajích přibyla položka čištění a oprava dešťových vpustí za 360 tisíc na ulici Švermově, kde probíhá rekonstrukce. Zjistilo se, že vpusti jsou v havarijním stavu. Výrazně dražší je nakonec most u Šmelcovny a ke značnému navýšení dochází u nákladů na Městskou správu sociálních služeb, a to na 25 milionů. Do rozpočtu se vrátilo dokončení oprav komunikací na Bačově. Podle starosty se rada shodla, aby se opravy dokončily. Nová položka je také zpevnění plochy za bytovkou na Sušilově ulici za 200 tisíc korun. Sloužit bude jako odstavná plocha během oprav kanalizace, které se u bytového domu plánují. O 1,4 milionu korun se navyšují výdaje na vybudování nafukovací haly na tenisových kurtech, ta má nakonec přijít na necelých 5,5 milionu korun.
+Ve výdajích přibyla položka čištění a oprava dešťových vpustí za 360 tisíc na ulici Švermově, kde probíhá rekonstrukce. Zjistilo se, že vpusti jsou v havarijním stavu. Výrazně dražší je nakonec most u Šmelcovny, jehož cena se zvedá z 12 na 18 milionů, a ke značnému navýšení dochází u nákladů na Městskou správu sociálních služeb, a to o 4 miliony na takřka 25 milionů. Do rozpočtu se vrátilo dokončení oprav komunikací na Bačově za 2,4 milionu korun. Podle starosty se rada shodla, aby se opravy dokončily. Nová položka je také zpevnění plochy za bytovkou na Sušilově ulici za 200 tisíc korun. Sloužit bude jako odstavná plocha během oprav kanalizace, které se u bytového domu plánují. O 1,4 milionu korun se navyšují výdaje na vybudování nafukovací haly na tenisových kurtech, ta má nakonec přijít na necelých 5,5 milionu korun.
 
 Právě vybudování nafukovací sportovní haly zpochybnil opoziční zastupitel Petr Axman (ANO), a to i s ohledem na navyšující se ceny energií. Obával se také, že hala bude sloužit jen malé skupince lidí. „Osobně si nemyslím, že kvůli tenistům má cenu tu nafukovací halu dělat,“ vyjádřil se Petr Axman. Starosta reagoval, že vyčíslit dnes předem náklady na energie je nemožné. Podle Lukáše Holíka by bylo nejlepší s investicí do nafukovací haly raději rok počkat.
 
