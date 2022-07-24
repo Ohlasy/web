@@ -1,6 +1,6 @@
 ---
 title: „Zkoušíme Boskovicím vrátit to, co jsme od nich dostali.“
-cover-photo: https://i.imgur.com/HuMJ3PYl.jpg
+cover-photo: https://i.imgur.com/NSiobo9l.jpg
 perex: Rozhovor s Vojtěchem Sedlákem a Janem Kárlem, organizátory festivalu Raveyard, který se v panském dvoře v Boskovicích bude konat letos potřetí.
 author: Nikol Halamásková
 category: rozhovory
@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Vojtěchem Sedlákem a Janem Kárlem, organizátory festivalu [Raveyard](https://www.facebook.com/events/1153453961727546), který se v panském dvoře v Boskovicích bude konat letos potřetí a kterého se minulý rok zúčastnilo přes 550 lidí. Mluvili jsme o počátcích festivalu, organizační náročnosti a dramaturgii festivalu, o tom, pro koho je festival určený, ale i o kultuře a jejím místě v náročných časech. Vojta je dramaturg festivalu a Honza produkční.*
 
-{% photo src="https://i.imgur.com/NSiobo9.jpg" caption="Jan Kárl a Vojtěch Sedlák" author="Nikol Halamásková" %}
+{% photo src="https://i.imgur.com/HuMJ3PY.jpg" caption="Jan Kárl a Vojtěch Sedlák" author="Nikol Halamásková" %}
 
 **Kdy a kde vznikl nápad udělat festival?**
 
@@ -60,7 +60,7 @@ Jinak do budoucna bychom chtěli doprovodný program nějak rozšířit, nicmén
 
 **Na festivalu bude d’n’b, český rap, pozvali jste i zástupce techna. To jsou všechno elektronické styly, které jsou pro některé spojené s užíváním návykových látek. Nemyslíte si, že pořádáním elektronických akcí/festivalu tuto konzumaci podporujete?**
 
-VOJTA: To si nemyslíme. Naprosto upřímně, ti lidé by ty látky konzumovali, i kdyby tady ten festival nebyl. Naopak si myslíme, že nežijeme ve středověku a fungujeme v rámci moderního přístupu, kdy se celosvětově upouští od restrikce drog. Moderní trendy se teď soustředí na harm-reduction, tedy minimalizaci negativních dopadů konzumace drog – jak zdravotních, tak sociálních. Díky tomu spolupracujeme se skvělou organizací Podané ruce, jejichž projekt Hard & Smart u nás na festivalu bude. Za jejich terénními pracovníky může přijít kdokoli, kdo se nebude cítit dobře po požití nějaké látky, ať už legální nebo nelegální. Jejich tým tvoří školení psychologové, kteří ví, co mají dělat, je tam i informační stránka, kdy se člověk něco dozví o látkách, k dispozici jsou bezpečnostní pomůcky, občerstvení. Lidé drogy prostě berou, samozřejmě se to dá shodit na to, že je to kvůli elektronickým festivalům, ale rozhodně si nemyslím, že je to pravda. Ale když už se to děje, pojďme se soustředit na to, aby to bylo co nejbezpečnější.
+VOJTA: To si nemyslíme. Naprosto upřímně, ti lidé by ty látky konzumovali, i kdyby tady ten festival nebyl. Naopak si myslíme, že nežijeme ve středověku a fungujeme v rámci moderního přístupu, kdy se celosvětově upouští od restrikce drog. Moderní trendy se teď soustředí na harm-reduction, tedy minimalizaci negativních dopadů konzumace drog – jak zdravotních, tak sociálních. Díky tomu spolupracujeme se skvělou organizací Podané ruce, jejichž projekt [Hard & Smart](https://podaneruce.cz/centra-sluzby/program-hardsmart/) u nás na festivalu bude. Za jejich terénními pracovníky může přijít kdokoli, kdo se nebude cítit dobře po požití nějaké látky, ať už legální nebo nelegální. Jejich tým tvoří školení psychologové, kteří ví, co mají dělat, je tam i informační stránka, kdy se člověk něco dozví o látkách, k dispozici jsou bezpečnostní pomůcky, občerstvení. Lidé drogy prostě berou, samozřejmě se to dá shodit na to, že je to kvůli elektronickým festivalům, ale rozhodně si nemyslím, že je to pravda. Ale když už se to děje, pojďme se soustředit na to, aby to bylo co nejbezpečnější.
 
 **Město Boskovice finančně podpořilo Raveyard, stejně tak učinilo Ministerstvo kultury, Státní fond kultury a Jihomoravský kraj. Jaký je přesah pro Boskovice a okolí nebo i dál?**
 
