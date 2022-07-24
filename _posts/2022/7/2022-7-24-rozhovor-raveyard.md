@@ -70,7 +70,7 @@ VOJTA: Tím pádem to má blahodárný účinek ze dvou důvodů: prvním z nich
 
 Nabízíme program, který je v našem regionu naprosto bezkonkurenční v rámci daných žánrů a náklady na všechno jsou poměrně vysoké. My se samozřejmě snažíme nechat festival finančně přístupný lidem z co nejširších sociálních vrstev. Dotace tvoří asi třetinu našeho rozpočtu, a kdybychom je neměli, tak by ty vstupenky musely být minimálně o třetinu dražší.
 
-{% photo src="https://i.imgur.com/8VuqWlg.jpg" caption="Raveyard 2021" author="Josef Šindelka" %}
+{% photo src="https://i.imgur.com/LBE3nTa.jpg" caption="Raveyard 2021" author="Josef Šindelka" %}
 
 ### Organizace festivalu
 
