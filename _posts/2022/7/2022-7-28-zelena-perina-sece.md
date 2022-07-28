@@ -1,7 +1,7 @@
 ---
 title: Zelená peřina o sečích městských trávníků a otevřený dopis místostarostovi
 cover-photo: https://i.imgur.com/i7eZT9vl.jpg
-perex: Iniciativa Zelená peřina reaguje na aktuální seče městských trávníků. K článku připojujeme otevřený dopis, který Zelená peřina adresovala odpovědnému místostarostovi Petru Malachovi.
+perex: Iniciativa Zelená peřina reaguje na aktuální seče městských trávníků. Připojujeme otevřený dopis, který Zelená peřina adresovala místostarostovi Petru Malachovi.
 author: Hana Kvapilová
 category: názory a komentáře
 tags:
