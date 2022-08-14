@@ -31,6 +31,10 @@
         {
             "source": "/darujme",
             "destination": "https://www.darujme.cz/projekt/1202392"
+        },
+        {
+            "source": "/rozhovory",
+            "destination": "https://www.darujme.cz/vyzva/1203372"
         }
     ],
     "headers": [
