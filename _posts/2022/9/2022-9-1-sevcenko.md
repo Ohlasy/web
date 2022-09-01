@@ -1,6 +1,7 @@
 ---
 title: "Ukrajinistické minimum pro Čechy: národní hrdina Ševčenko"
 cover-photo: https://i.ohlasy.info/i/4fa2e855.jpg
+perex: Řád Národní legenda Ukrajiny nedávno získal bývalý nejlepší ukrajinský fotbalista Andrij Ševčenko. Nejedná se ovšem o jediného ukrajinského národního hrdinu s tímto příjmením.
 author: Vít Boček
 category: seriály
 serial: jazyk
