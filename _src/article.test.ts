@@ -3,7 +3,7 @@ import { getFilesRecursively } from "./utils";
 
 test("Decode all articles", () => {
   const articlePaths = getFilesRecursively("_posts");
-  for (const path of articlePaths) {
+  for (const path of articlePaths.filter((path) => path.endsWith(".md"))) {
     try {
       const _ = readArticle(path);
     } catch (e) {
