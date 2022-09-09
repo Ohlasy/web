@@ -8,7 +8,7 @@ category: zpravodajství
 
 *V září nás čeká fakt hodně velká spousta krásných koncertů. Jedna super stará filmová klasika, jeden dvoudenní hudební festival v Prostoru, jedno dětské divadlo, jedna opera, jedna cestovatelská přednáška v kině a nesmím zapomenout na tradiční Husí slavnosti, kde vystoupí například stará dobrá Mňága a Žďorp nebo třeba kapela Docuku. No prostě kulturní léto pomalu odchází a pozvolna uvolňuje místo kulturnímu podzimu.*
 
-{% photo src="https://i.ohlasy.info/i/77ae40ce.jpg" caption="Hudebník Tomáš Vtípil v září zahraje na již tradičním minifestivalu Melomania" %}
+{% photo src="https://i.ohlasy.info/i/77ae40ce.jpg" caption="Hudebník Tomáš Vtípil zahraje na přelomu září a října na již tradičním minifestivalu Melomania" %}
 
 ### Lauren Henderson Quartet (USA/A/D/CZ)
 
