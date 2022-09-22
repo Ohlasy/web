@@ -1,5 +1,6 @@
 ---
 title: Ve Velkých Opatovicích odhalí pomník sochaři Karlu Otáhalovi
+perex: Před 50 lety zemřel sochař, malíř, grafik a medailér Karel Otáhal. Jeho jméno je spojeno s Velkými Opatovicemi, kde se jej rozhodli uctít nově otevřenou výstavou a slavnostním odhalením jeho busty.
 cover-photo: https://i.ohlasy.info/i/a242eeac.jpg
 author: Martina Vašková
 category: zpravodajství
