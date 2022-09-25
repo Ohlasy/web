@@ -27,4 +27,4 @@ Také Lukáš Holík z uskupení Naše Boskovice se domnívá, že voliči dali 
 
 Rozdělení oblastí, které budou mít politici na starosti, zatím neproběhlo. Příští starostka se netají tím, že by vzhledem ke své profesi měla ráda v gesci rozvoj města, investice a dopravu. 
 
-Rozděleno už je zastoupení stran v městské radě. Čtyři místa připadnou Změně22, dalšítaké čtyři místa jsou určena pro Naše Boskovice a jedno místoa získají Piráti.
+Rozděleno už je zastoupení stran v městské radě. Čtyři místa připadnou Změně22, další čtyři místa jsou určena pro Naše Boskovice a jedno místo získají Piráti.
