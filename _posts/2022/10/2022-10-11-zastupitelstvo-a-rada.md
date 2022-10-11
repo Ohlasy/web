@@ -16,7 +16,7 @@ tags:
 
 Poslední jednání zastupitelstva se konalo v úterý 13. září, tedy pouhých deset dnů před volbami. Nutno dodat, že proběhlo v celkem poklidném duchu a politici předvolební napětí neventilovali formou nějakých závěrečných přestřelek.
 
-V úvodu jednání zastupitele informoval Štěpán Brus z firmy MixMax Energetika o nákupu energií pro město, které firma pro boskovické Služby zajišťuje. Popsal, že cely energií se v průběhu roku neustále zvyšovaly a posléze už distributoři přestali jakékoliv nabídky poskytovat. Řešení přinesla až vláda, která nyní městům garantuje nákup za zastropované ceny. V tuto chvíli má město nakoupené ceny do konce letošního roku.
+V úvodu jednání zastupitele informoval Štěpán Brus z firmy MixMax Energetika o nákupu energií pro město, které firma pro boskovické Služby zajišťuje. Popsal, že ceny energií se v průběhu roku neustále zvyšovaly a posléze už distributoři přestali jakékoliv nabídky poskytovat. Řešení přinesla až vláda, která nyní městům garantuje nákup za zastropované ceny. V tuto chvíli má město nakoupené energie do konce letošního roku.
 
 Na návrh Kulturních zařízení města Boskovice schválili zastupitelé udělení čestného občanství třem osobnostem: atletce [Olze Oldřichové](https://ohlasy.info/clanky/2021/08/olga-oldrichova.html) in memoriam, fotografu [Josefu Koudelkovi](https://ohlasy.info/clanky/2017/01/koudelka-dokument.html) a pořadateli festivalu Boskovice [Čestmíru Huňátovi](https://ohlasy.info/clanky/2017/05/rozhovor-hunat.html).
 
