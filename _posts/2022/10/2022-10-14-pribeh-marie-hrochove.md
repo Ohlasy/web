@@ -2,7 +2,8 @@
 title: "Každý má svůj příběh: Pamatuj si do smrti, že tvého tatínka zatkli komunisti"
 cover-photo: https://i.ohlasy.info/i/457a90b4.jpg
 author: Ladislav Oujeský
-category: pribehy
+category: seriály
+serial: pribehy
 ---
 
 *„Udělám to pro své rodiče, ale hlavně kvůli památce mého tatínka,“ odpověděla paní Maria Hrochová, když jsem ji požádal, jestli by byla ochotná vyprávět svůj životní příběh pro Paměť národa.*
