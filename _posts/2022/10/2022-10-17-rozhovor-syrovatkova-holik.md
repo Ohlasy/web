@@ -1,5 +1,5 @@
 ---
-title: „Volby rozhodlo, že lidé mají na politiky větší nároky, chtějí otevřenost“
+title: „Volby rozhodlo, že lidé mají na politiky větší nároky, chtějí otevřenost.“
 cover-photo: https://i.ohlasy.info/i/55d3c2e5.jpg
 perex: Rozhovor s příští boskovickou starostkou Janou Syrovátkovou (Změna22) a prvním místostarostou Lukášem Holíkem (Naše Boskovice)
 author: Tomáš Trumpeš
