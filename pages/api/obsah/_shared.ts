@@ -1,4 +1,4 @@
-import { VercelRequest, VercelResponse } from "@vercel/node";
+import { NextApiRequest, NextApiResponse } from "next";
 import fetch from "node-fetch";
 
 export interface Article {
@@ -66,7 +66,7 @@ export function renderCSV(stats: Record<string, number>): string {
 export function send(
   contentType: string,
   producer: () => Promise<string>
-): (req: VercelRequest, res: VercelResponse) => Promise<void> {
+): (req: NextApiRequest, res: NextApiResponse) => Promise<void> {
   return async (_, response) => {
     try {
       const value = await producer();

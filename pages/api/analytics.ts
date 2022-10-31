@@ -1,4 +1,4 @@
-import { VercelRequest, VercelResponse } from "@vercel/node";
+import { NextApiRequest, NextApiResponse } from "next";
 import fetch from "node-fetch";
 
 interface PlausibleResponse {
@@ -32,8 +32,8 @@ async function getPageTitle(url: string) {
 }
 
 export default async (
-  request: VercelRequest,
-  response: VercelResponse
+  request: NextApiRequest,
+  response: NextApiResponse
 ): Promise<void> => {
   const apiKey = process.env.PLAUSIBLE_KEY;
   if (!apiKey) {

@@ -16,7 +16,7 @@
  *
  * + Output progressive PNGs and JPEGs
  */
-import { VercelRequest, VercelResponse } from "@vercel/node";
+import { NextApiRequest, NextApiResponse } from "next";
 import fetch from "node-fetch";
 import sharp from "sharp";
 import crypto from "crypto";
@@ -34,8 +34,8 @@ function shasum(message: string) {
 }
 
 export default async (
-  request: VercelRequest,
-  response: VercelResponse
+  request: NextApiRequest,
+  response: NextApiResponse
 ): Promise<void> => {
   const send = (code: number, msg: string) => response.status(code).send(msg);
   try {
