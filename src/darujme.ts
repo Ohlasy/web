@@ -74,3 +74,49 @@ export function formatDate(date: Date): string {
   const fmt = (x: number) => x.toString().padStart(2, "0");
   return [year, month, day].map(fmt).join("-");
 }
+
+export interface Month {
+  /** Number of month, 1-based */
+  month: number;
+  /** Full year */
+  year: number;
+}
+
+export interface MonthlyReport {
+  month: Month;
+  transactions: Transaction[];
+}
+
+export function getPastFullMonths(fromDate: Date, count: number): Month[] {
+  let out: Month[] = [];
+  for (let m = 1; m <= count; m++) {
+    const date = new Date(fromDate.getFullYear(), fromDate.getMonth() - m, 1);
+    out.push({ month: date.getMonth() + 1, year: date.getFullYear() });
+  }
+  return out;
+}
+
+export function firstDayOfMonth(month: Month): Date {
+  return new Date(month.year, month.month - 1, 1);
+}
+
+export function lastDayOfMonth(month: Month): Date {
+  return new Date(month.year, month.month, 0);
+}
+
+export async function getPastYearTransactionsByMonth(
+  apiId: string,
+  apiSecret: string
+): Promise<MonthlyReport[]> {
+  let report: MonthlyReport[] = [];
+  for (const month of getPastFullMonths(new Date(), 12)) {
+    const fromDate = firstDayOfMonth(month);
+    const toDate = lastDayOfMonth(month);
+    const txs = await getTransactions(apiId, apiSecret, fromDate, toDate);
+    report.push({
+      month: month,
+      transactions: txs,
+    });
+  }
+  return report;
+}

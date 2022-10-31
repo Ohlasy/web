@@ -1,13 +1,13 @@
-import { VercelRequest, VercelResponse } from "@vercel/node";
+import { NextApiRequest, NextApiResponse } from "next";
 import {
   getOneTimeDonations,
   getRecurrentDonations,
   getTransactions,
-} from "./_shared";
+} from "src/darujme";
 
 export default async (
-  request: VercelRequest,
-  response: VercelResponse
+  request: NextApiRequest,
+  response: NextApiResponse
 ): Promise<void> => {
   const apiId = process.env.DARUJME_ID;
   const apiSecret = process.env.DARUJME_SECRET;

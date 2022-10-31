@@ -1,9 +1,9 @@
-import { VercelRequest, VercelResponse } from "@vercel/node";
+import { NextApiRequest, NextApiResponse } from "next";
 import fetch from "node-fetch";
 
 export default async (
-  request: VercelRequest,
-  response: VercelResponse
+  request: NextApiRequest,
+  response: NextApiResponse
 ): Promise<void> => {
   const apiToken = process.env.FIO_API_KEY as string;
   const msPerDay = 1000 * 3600 * 24;

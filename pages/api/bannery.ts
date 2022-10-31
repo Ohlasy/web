@@ -1,4 +1,4 @@
-import { VercelRequest, VercelResponse } from "@vercel/node";
+import { NextApiRequest, NextApiResponse } from "next";
 import { Client } from "@notionhq/client";
 import {
   CheckboxPropertyValue,
@@ -29,8 +29,8 @@ interface Banner {
 }
 
 export default async (
-  request: VercelRequest,
-  response: VercelResponse
+  request: NextApiRequest,
+  response: NextApiResponse
 ): Promise<void> => {
   const notion = new Client({ auth: process.env.NOTION_API_KEY });
   const databaseId = "50c3e92b4f7d44ee9cc5a139d81b07b5";
