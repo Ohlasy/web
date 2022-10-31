@@ -2,8 +2,10 @@ import { getArticlePath, parsePath, readArticle } from "./article";
 import { getFilesRecursively } from "./utils";
 
 test("Decode all articles", () => {
-  const articlePaths = getFilesRecursively("_posts");
-  for (const path of articlePaths.filter((path) => path.endsWith(".md"))) {
+  const articlePaths = getFilesRecursively("content/articles")
+    // Only take Markdown posts
+    .filter((path) => path.endsWith(".md"));
+  for (const path of articlePaths) {
     try {
       const _ = readArticle(path);
     } catch (e) {
