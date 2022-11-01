@@ -1,4 +1,4 @@
-import { getArticlePath, parsePath, readArticle } from "./article";
+import { parsePath, readArticle } from "./article";
 import { getFilesRecursively } from "./utils";
 
 test("Decode all articles", () => {
@@ -25,13 +25,4 @@ test("Parse article path", () => {
   expect(() => parsePath("2021-2-12-.md")).toThrow();
   expect(() => parsePath("2021-2-12-křeč.md")).toThrow();
   expect(() => parsePath("2021-2-12-sleva-50%.md")).toThrow();
-});
-
-test("Article paths", () => {
-  expect(
-    getArticlePath({
-      date: new Date("2021-3-30"),
-      slug: "bagr-lopata",
-    })
-  ).toBe("/clanky/2021/03/bagr-lopata.html");
 });
