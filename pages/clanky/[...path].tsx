@@ -1,7 +1,7 @@
 import { GetStaticProps, GetStaticPaths, NextPage } from "next";
 import { ParsedUrlQuery } from "querystring";
 import { Article, parsePath, readArticle } from "src/article";
-import { getFilesRecursively } from "src/utils";
+import { filterUndefines, getFilesRecursively } from "src/utils";
 import { marked } from "marked";
 
 export type PageProps = {
@@ -42,7 +42,7 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async (
   if (!filePath) {
     throw `Cannot find article path for “${path.join("/")}”.`;
   }
-  const article = readArticle(filePath);
+  const article = filterUndefines(readArticle(filePath));
   return {
     props: { article },
     revalidate: 300, // update every 5 minutes
@@ -77,7 +77,6 @@ export const getStaticPaths: GetStaticPaths<QueryParams> = async () => {
         path: fragments,
       },
     }));
-  console.log(`Successfully created paths for ${paths.length} articles.`);
   return {
     paths,
     fallback: false,
