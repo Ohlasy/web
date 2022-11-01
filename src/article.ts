@@ -1,12 +1,13 @@
 import matter from "gray-matter";
 import { getFilesRecursively } from "./utils";
-import { decodeDate, withDefault } from "./decoding";
+import { withDefault } from "./decoding";
 import fs from "fs";
 import {
   array,
   decodeType,
   field,
   optional,
+  Pojo,
   record,
   string,
   union,
@@ -19,6 +20,15 @@ export type Metadata = decodeType<typeof decodeMetadata>;
 export interface Article extends Metadata {
   body: string;
 }
+
+/** Decode a live Date object (ie. not a date stamp string), returning a string timestamp */
+export const decodeDate = (value: Pojo): string => {
+  if (Object.prototype.toString.call(value) === "[object Date]") {
+    return `${value}`;
+  } else {
+    throw `Expected a date, got ${typeof value} instead`;
+  }
+};
 
 /** Decode article metadata from an object */
 export const decodeMetadata = record({
@@ -94,14 +104,6 @@ export function readArticle(path: string): Article {
 }
 
 /** Read all articles under a given directory root */
-export function getAllArticles(root = "_posts"): Article[] {
+export function getAllArticles(root: string): Article[] {
   return getFilesRecursively(root).map(readArticle);
-}
-
-/** Return the path used for an article given its date and slug */
-export function getArticlePath(meta: Pick<Metadata, "date" | "slug">): string {
-  const year = meta.date.getFullYear();
-  const month = meta.date.getMonth() + 1;
-  const paddedMonth = String(month).padStart(2, "0");
-  return `/clanky/${year}/${paddedMonth}/${meta.slug}.html`;
 }

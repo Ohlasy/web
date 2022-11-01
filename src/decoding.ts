@@ -34,12 +34,3 @@ export const withDefault = <T>(
     }
   };
 };
-
-/** Decode a live Date object (ie. not a date stamp string) */
-export const decodeDate = (value: Pojo): Date => {
-  if (Object.prototype.toString.call(value) === "[object Date]") {
-    return value as any;
-  } else {
-    throw `Expected a date, got ${typeof value} instead`;
-  }
-};
