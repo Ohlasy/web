@@ -8,6 +8,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
+    "lint": "next lint",
     "test": "jest"
   },
   "dependencies": {
@@ -50,6 +51,12 @@
     ],
     "transform": {
       "(ts|tsx)$": "ts-jest"
+    }
+  },
+  "eslintConfig": {
+    "extends": "next/core-web-vitals",
+    "rules": {
+      "import/no-anonymous-default-export": "off"
     }
   }
 }
