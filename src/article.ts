@@ -1,37 +1,16 @@
 import matter from "gray-matter";
 import { getFilesRecursively } from "./utils";
+import { decodeDate, withDefault } from "./decoding";
 import fs from "fs";
 import {
   array,
-  DecoderFunction,
   decodeType,
   field,
   optional,
-  Pojo,
   record,
   string,
   union,
 } from "typescript-json-decoder";
-
-/** Try decoding with the provided decoder and return a default value if it fails */
-const withDefault = <T>(decoder: DecoderFunction<T>, defaultValue: T) => {
-  return (value: Pojo) => {
-    try {
-      return decoder(value);
-    } catch (_) {
-      return defaultValue;
-    }
-  };
-};
-
-/** Decode a live Date object (ie. not a date stamp string) */
-const date = (value: Pojo): Date => {
-  if (Object.prototype.toString.call(value) === "[object Date]") {
-    return value as any;
-  } else {
-    throw `Expected a date, got ${typeof value} instead`;
-  }
-};
 
 /** Article metadata such as title, author, category, etc. */
 export type Metadata = decodeType<typeof decodeMetadata>;
@@ -49,7 +28,7 @@ export const decodeMetadata = record({
   coverPhoto: field("cover-photo", optional(string)),
   tags: withDefault(array(string), []),
   slug: string,
-  date: date,
+  date: decodeDate,
   category: optional(
     union(
       "zpravodajství",
