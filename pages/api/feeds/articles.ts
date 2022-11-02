@@ -1,5 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import { Feed } from "feed";
+import { siteUrl } from "src/routing";
 import {
   compareByDate,
   feedItemFromArticle,
@@ -14,8 +15,8 @@ export default async (
   const feed = new Feed({
     title: "Ohlasy",
     description: "Noviny pro Boskovice a okolí",
-    id: "https://ohlasy.info",
-    link: "https://ohlasy.info",
+    id: siteUrl,
+    link: siteUrl,
     language: "cs",
     copyright: "Ohlasy, z.s.",
   });

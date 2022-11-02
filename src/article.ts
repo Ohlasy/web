@@ -3,6 +3,7 @@ import { getFilesRecursively } from "./utils";
 import { withDefault } from "./decoding";
 import { Item as FeedItem } from "feed";
 import { marked } from "marked";
+import { absolute, Route } from "./routing";
 import fs from "fs";
 import {
   array,
@@ -136,14 +137,13 @@ export function feedItemFromArticle(article: Article): FeedItem {
       pedantic: false,
       smartypants: false,
     });
-  // TBD: Add proper link
   // TBD: Add image?
   // TBD: Add author
   // TBD: Automatically add perex if not set explicitly
   // TBD: Render custom image tag in article body
   return {
     title: article.title,
-    link: "https://ohlasy.info/TBD",
+    link: absolute(Route.toArticle(article)),
     description: article.perex,
     date: new Date(article.date),
     content: markdownToHTML(article.body),
