@@ -1,6 +1,8 @@
 import matter from "gray-matter";
 import { getFilesRecursively } from "./utils";
 import { withDefault } from "./decoding";
+import { Item as FeedItem } from "feed";
+import { marked } from "marked";
 import fs from "fs";
 import {
   array,
@@ -12,6 +14,10 @@ import {
   string,
   union,
 } from "typescript-json-decoder";
+
+//
+// Types and decoding
+//
 
 /** Article metadata such as title, author, category, etc. */
 export type Metadata = decodeType<typeof decodeMetadata>;
@@ -64,6 +70,10 @@ export function decodeArticle(
   };
 }
 
+//
+// Reading from files
+//
+
 /**
  * Parse article path to get article date and slug
  *
@@ -105,5 +115,37 @@ export function readArticle(path: string): Article {
 
 /** Read all articles under a given directory root */
 export function getAllArticles(root: string): Article[] {
-  return getFilesRecursively(root).map(readArticle);
+  return getFilesRecursively(root)
+    .filter((path) => path.endsWith(".md"))
+    .map(readArticle);
+}
+
+//
+// Helpers
+//
+
+/** Compare articles by publish date, sorting last published first */
+export const compareByDate = <A extends Pick<Article, "date">>(a1: A, a2: A) =>
+  Date.parse(a2.date) - Date.parse(a1.date);
+
+/** Convert article into an RSS feed item with full article text */
+export function feedItemFromArticle(article: Article): FeedItem {
+  const markdownToHTML = (md: string) =>
+    marked.parse(md, {
+      breaks: true,
+      pedantic: false,
+      smartypants: false,
+    });
+  // TBD: Add proper link
+  // TBD: Add image?
+  // TBD: Add author
+  // TBD: Automatically add perex if not set explicitly
+  // TBD: Render custom image tag in article body
+  return {
+    title: article.title,
+    link: "https://ohlasy.info/TBD",
+    description: article.perex,
+    date: new Date(article.date),
+    content: markdownToHTML(article.body),
+  };
 }
