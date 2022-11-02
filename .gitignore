@@ -1,7 +1,8 @@
 .DS_Store
 .vercel
 .terraform*
-.env
+.env*
+.next
 _site
 .jekyll-cache
 .jekyll-metadata
