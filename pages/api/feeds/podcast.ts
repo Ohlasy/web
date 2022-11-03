@@ -17,7 +17,7 @@ export default async (
     selfLink: absolute(Route.toPodcastFeed),
     description: "Dění na Boskovicku, záznamy debat a rozhovorů",
     image: "https://i.ohlasy.info/i/waibo6c.png",
-    category: "News & Politics",
+    category: "News",
     explicit: false,
     language: "cs",
     ttl: 10080,
