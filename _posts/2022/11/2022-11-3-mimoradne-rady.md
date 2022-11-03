@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Nesouhlas s omezením vlaků, energie, projektor do kina a eGovernment"
-cover-photo: https://i.ohlasy.info/i/0dd8515c.jpg
+cover-photo: https://i.ohlasy.info/i/b838055b.jpg
 perex: První řádná schůze s tiskovou konferencí bude až 8. listopadu, ale na základě tiskové zprávy přinášíme aspoň základní informace o tom, co už nově zvolené vedení Boskovic řeší.
 author: Tomáš Trumpeš
 category: zpravodajství
