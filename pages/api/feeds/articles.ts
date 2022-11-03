@@ -1,6 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import { Feed } from "feed";
-import { siteUrl } from "src/routing";
+import { absolute, Route, siteUrl } from "src/routing";
+import { renderFeed, RSSFeed } from "src/feeds";
 import {
   compareByDate,
   feedItemFromArticle,
@@ -12,20 +12,20 @@ export default async (
   request: NextApiRequest,
   response: NextApiResponse
 ): Promise<void> => {
-  const feed = new Feed({
+  const feed: RSSFeed = {
     title: "Ohlasy",
-    description: "Noviny pro Boskovice a okolí",
-    id: siteUrl,
     link: siteUrl,
+    selfLink: absolute(Route.toArticleFeed),
+    description: "Noviny pro Boskovice a okolí",
     language: "cs",
     copyright: "Ohlasy, z.s.",
-  });
-
-  getAllArticles("content/articles")
-    .sort(compareByDate)
-    .slice(0, 10)
-    .map(feedItemFromArticle)
-    .forEach(feed.addItem);
+    managingEditor: "tomas.trumpes@ohlasy.info (Tomáš Trumpeš)",
+    webMaster: "tomas.znamenacek@ohlasy.info (Tomáš Znamenáček)",
+    items: getAllArticles("content/articles")
+      .sort(compareByDate)
+      .slice(0, 10)
+      .map(feedItemFromArticle),
+  };
 
   response.setHeader(
     "Content-Type",
@@ -35,5 +35,5 @@ export default async (
     "Cache-Control",
     "max-age=0, s-maxage=60, stale-while-revalidate=86400"
   );
-  response.status(200).send(feed.rss2());
+  response.status(200).send(renderFeed(feed));
 };

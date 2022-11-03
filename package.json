@@ -16,7 +16,6 @@
     "axios": "^0.21.1",
     "eslint": "^8.26.0",
     "eslint-config-next": "^13.0.0",
-    "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "marked": "^4.2.0",
@@ -25,7 +24,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sharp": "^0.30.5",
-    "typescript-json-decoder": "^1.0.6"
+    "typescript-json-decoder": "^1.0.6",
+    "xmlbuilder2": "^3.0.2"
   },
   "devDependencies": {
     "@notionhq/client": "^0.1.3",

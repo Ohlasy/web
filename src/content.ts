@@ -1,6 +1,7 @@
 import { readFile } from "fs/promises";
 import yaml from "js-yaml";
 import { decodeObject, decodeUrl } from "./decoding";
+import { iTunesShowEpisode } from "./feeds";
 import {
   array,
   decodeType,
@@ -57,3 +58,19 @@ export const getPodcastEpisodes = async (path: string) =>
   await readFile(path, "utf-8")
     .then((str) => yaml.load(str))
     .then(array(decodePodcastEpisode));
+
+export function convertEpisodeToPodcastItem(
+  episode: PodcastEpisode
+): iTunesShowEpisode {
+  const { title, description, duration, url, bytes } = episode;
+  return {
+    title,
+    description,
+    duration,
+    enclosure: {
+      url,
+      type: "audio/mpeg",
+      length: bytes,
+    },
+  };
+}
