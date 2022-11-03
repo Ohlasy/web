@@ -7,6 +7,9 @@ export const siteUrl = "https://ohlasy.info";
 /** Get relative routes to frequently used places */
 export const Route = {
   toHomePage: "/",
+  toArticleFeed: "/feed.xml",
+  toPodcast: "/podcast.html",
+  toPodcastFeed: "/podcast.xml",
   toArticle: getArticlePath,
 };
 

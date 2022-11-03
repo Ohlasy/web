@@ -8,6 +8,14 @@ const nextConfig = {
         source: "/feed.xml",
         destination: "/api/feeds/articles",
       },
+      {
+        source: "/podcast.xml",
+        destination: "/api/feeds/podcast",
+      },
+      {
+        source: "/podcast/feed.xml",
+        destination: "/api/feeds/podcast",
+      },
     ];
   },
 };

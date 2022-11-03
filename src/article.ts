@@ -1,9 +1,9 @@
 import matter from "gray-matter";
 import { getFilesRecursively } from "./utils";
 import { withDefault } from "./decoding";
-import { Item as FeedItem } from "feed";
 import { marked } from "marked";
 import { absolute, Route } from "./routing";
+import { RSSFeedItem } from "./feeds";
 import fs from "fs";
 import {
   array,
@@ -130,22 +130,24 @@ export const compareByDate = <A extends Pick<Article, "date">>(a1: A, a2: A) =>
   Date.parse(a2.date) - Date.parse(a1.date);
 
 /** Convert article into an RSS feed item with full article text */
-export function feedItemFromArticle(article: Article): FeedItem {
+export function feedItemFromArticle(article: Article): RSSFeedItem {
+  const link = absolute(Route.toArticle(article));
   const markdownToHTML = (md: string) =>
     marked.parse(md, {
       breaks: true,
       pedantic: false,
       smartypants: false,
     });
-  // TBD: Add image?
   // TBD: Add author
-  // TBD: Automatically add perex if not set explicitly
   // TBD: Render custom image tag in article body
   return {
     title: article.title,
-    link: absolute(Route.toArticle(article)),
-    description: article.perex,
-    date: new Date(article.date),
-    content: markdownToHTML(article.body),
+    description: markdownToHTML(article.body),
+    pubDate: new Date(article.date),
+    link,
+    guid: {
+      value: link,
+      isPermaLink: true,
+    },
   };
 }

@@ -1,10 +1,6 @@
 {
   "redirects": [
     {
-      "source": "/podcast.xml",
-      "destination": "/podcast/feed.xml"
-    },
-    {
       "source": "/podcast.html",
       "destination": "/podcast/"
     },
