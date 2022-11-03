@@ -68,6 +68,10 @@ export function convertEpisodeToPodcastItem(
     description,
     duration,
     pubDate: new Date(date),
+    guid: {
+      value: url,
+      isPermaLink: true,
+    },
     enclosure: {
       url,
       type: "audio/mpeg",
