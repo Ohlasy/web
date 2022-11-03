@@ -1,6 +1,7 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import { absolute, Route, siteUrl } from "src/routing";
 import { renderFeed, RSSFeed } from "src/feeds";
+import { join } from "path";
 import {
   compareByDate,
   feedItemFromArticle,
@@ -12,6 +13,7 @@ export default async (
   request: NextApiRequest,
   response: NextApiResponse
 ): Promise<void> => {
+  const dataRoot = join(process.cwd(), "content/articles");
   const feed: RSSFeed = {
     title: "Ohlasy",
     link: siteUrl,
@@ -21,7 +23,7 @@ export default async (
     copyright: "Ohlasy, z.s.",
     managingEditor: "tomas.trumpes@ohlasy.info (Tomáš Trumpeš)",
     webMaster: "tomas.znamenacek@ohlasy.info (Tomáš Znamenáček)",
-    items: getAllArticles("content/articles")
+    items: getAllArticles(dataRoot)
       .sort(compareByDate)
       .slice(0, 10)
       .map(feedItemFromArticle),

@@ -2,12 +2,14 @@ import { NextApiRequest, NextApiResponse } from "next";
 import { convertEpisodeToPodcastItem, getPodcastEpisodes } from "src/content";
 import { absolute, Route } from "src/routing";
 import { iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
+import { join } from "path";
 
 export default async (
   request: NextApiRequest,
   response: NextApiResponse
 ): Promise<void> => {
-  const episodes = await getPodcastEpisodes("content/podcast.yml");
+  const dataFile = join(process.cwd(), "content/podcast.yml");
+  const episodes = await getPodcastEpisodes(dataFile);
   const feed: iTunesPodcastShow = {
     title: "Ohlasy Podcast",
     author: "Ohlasy",
