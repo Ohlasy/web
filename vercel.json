@@ -47,5 +47,6 @@
   "github": {
     "silent": true
   },
-  "devCommand": "next dev"
+  "devCommand": "next dev",
+  "framework": "nextjs"
 }
