@@ -127,7 +127,6 @@ test("Render podcast feed", () => {
             <link>https://ohlasy.info</link>
             <atom:link href="https://ohlasy.info/feed.xml" rel="self" type="application/rss+xml"/>
             <language>cs</language>
-            <image href="https://i.ohlasy.info/i/waibo6c.png"/>
             <copyright>Ohlasy, z.s.</copyright>
             <ttl>1</ttl>
             <itunes:image href="https://i.ohlasy.info/i/waibo6c.png"/>

@@ -280,7 +280,6 @@ export function renderPodcastFeed(feed: iTunesPodcastShow): string {
   }
 
   node.ele("language").txt(feed.language);
-  node.ele("image", { href: feed.image });
 
   addIf(node, "copyright", feed.copyright);
   addIf(node, "managingEditor", feed.managingEditor);
