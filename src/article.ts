@@ -132,17 +132,10 @@ export const compareByDate = <A extends Pick<Article, "date">>(a1: A, a2: A) =>
 /** Convert article into an RSS feed item with full article text */
 export function feedItemFromArticle(article: Article): RSSFeedItem {
   const link = absolute(Route.toArticle(article));
-  const markdownToHTML = (md: string) =>
-    marked.parse(md, {
-      breaks: true,
-      pedantic: false,
-      smartypants: false,
-    });
   // TBD: Add author
-  // TBD: Render custom image tag in article body
   return {
     title: article.title,
-    description: markdownToHTML(article.body),
+    description: renderArticleBody(article.body),
     pubDate: new Date(article.date),
     link,
     guid: {
@@ -150,4 +143,18 @@ export function feedItemFromArticle(article: Article): RSSFeedItem {
       isPermaLink: true,
     },
   };
+}
+
+export function renderArticleBody(body: string): string {
+  const html = marked.parse(body, {
+    pedantic: false,
+    smartypants: false,
+  });
+  return (
+    html
+      // Remove double quote escaping
+      .replaceAll("&quot;", '"')
+      // Remove single quote escaping
+      .replaceAll("&#39;", "'")
+  );
 }
