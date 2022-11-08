@@ -1,5 +1,6 @@
-import { readArticle, renderArticleBody } from "src/article";
+import { readArticle } from "src/article";
 import { getFilesRecursively } from "src/utils";
+import { ArticleContent } from "components/ArticleContent";
 import {
   articleRoot,
   getFileSystemPathForUrlPathFragments,
@@ -20,15 +21,15 @@ const Page = ({ params }: PageProps) => {
   if (!articlePath) {
     throw `Cannot find article path for “${path.join("/")}”.`;
   }
+
   // TBD: Do we still need to filter undefineds here? If not, can we
   // start using regular objects such as Date without keeping them in strings?
   const article = readArticle(articlePath);
-  const html = renderArticleBody(article.body);
   return (
-    <div>
-      <h1>{article.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: html }}></div>
-    </div>
+    <>
+      <h2>{article.title}</h2>
+      <ArticleContent src={article.body} />
+    </>
   );
 };
 
