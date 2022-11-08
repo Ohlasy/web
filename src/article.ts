@@ -2,6 +2,7 @@ import matter from "gray-matter";
 import { getFilesRecursively } from "./utils";
 import { withDefault } from "./decoding";
 import { marked } from "marked";
+import Markdoc from "@markdoc/markdoc";
 import { absolute, Route } from "./routing";
 import { RSSFeedItem } from "./feeds";
 import fs from "fs";
@@ -146,15 +147,7 @@ export function feedItemFromArticle(article: Article): RSSFeedItem {
 }
 
 export function renderArticleBody(body: string): string {
-  const html = marked.parse(body, {
-    pedantic: false,
-    smartypants: false,
-  });
-  return (
-    html
-      // Remove double quote escaping
-      .replaceAll("&quot;", '"')
-      // Remove single quote escaping
-      .replaceAll("&#39;", "'")
-  );
+  const ast = Markdoc.parse(body);
+  const content = Markdoc.transform(ast);
+  return Markdoc.renderers.html(content);
 }

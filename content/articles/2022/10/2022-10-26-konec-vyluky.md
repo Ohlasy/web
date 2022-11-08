@@ -10,7 +10,7 @@ tags:
 
 *Cestujícím mezi Boskovicemi a Brnem se blíží důležitý a mnohými asi toužebně očekávaný termín – neděle 11. prosince. Ten den začne platit nový jízdní řád a skončí [roční výluka](https://ohlasy.info/clanky/2021/12/vyluka-vyluk.html) na trati z Blanska do Brna. Jihomoravský kraj kromě toho představil záměr několika změn v dopravě na Boskovicku.*
 
-{% photo src="https://i.ohlasy.info/i/61c1e270.jpg" caption="Lokálka z Boskovic do Skalice nad Svitavou" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/61c1e270.jpg" caption="Lokálka z Boskovic do Skalice nad Svitavou" author="Tomáš Znamenáček" /%}
 
 Pro cestující je tedy zásadní, že od 11. prosince už nebudou používat náhradní autobusovou dopravu. Kromě toho začal nyní Jihomoravský kraj a jeho firma Kordis, která provozuje integrovaný dopravní systém, jednat s obcemi o změnách, z nichž některé by měly přinést rychlejší a praktičtější spojení mezi Boskovicemi a Brnem.
 
