@@ -40,10 +40,10 @@ export function groupBySelector<Key extends keyof any, Value>(
   return out;
 }
 
-export function sum<Key extends keyof any, Value>(
-  values: Record<Key, Value[]>
-): Record<Key, number> {
-  let counts = {} as Record<Key, number>;
+export function sum<Value>(
+  values: Record<string, Value[]>
+): Record<string, number> {
+  let counts = {} as Record<string, number>;
   for (const [key, vals] of Object.entries(values)) {
     counts[key] = (vals as Value[]).length;
   }
