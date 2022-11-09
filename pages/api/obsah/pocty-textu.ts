@@ -1,4 +1,4 @@
-import { getArticleIndex, send, renderCSV } from "./_shared";
+import { getArticleIndex, send, renderCSV } from "src/content-stats";
 
 export default send("text/csv", async () => {
   let stats: Record<string, number> = {};

@@ -1,4 +1,4 @@
-import { parsePath, readArticle, renderArticleBody } from "./article";
+import { parsePath, readArticle } from "./article";
 import { getFilesRecursively } from "./utils";
 
 test("Decode all articles", () => {
