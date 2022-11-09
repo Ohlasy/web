@@ -36,7 +36,7 @@ export const decodeAuthors = (value: Pojo) => {
 
 export const getAllAuthors = async () =>
   await readFile("content/autori.yml", "utf-8")
-    .then((str) => yaml.load(str))
+    .then((str) => yaml.load(str) as Pojo)
     .then(decodeAuthors);
 
 //
@@ -56,7 +56,7 @@ export const decodePodcastEpisode = record({
 
 export const getPodcastEpisodes = async (path: string) =>
   await readFile(path, "utf-8")
-    .then((str) => yaml.load(str))
+    .then((str) => yaml.load(str) as Pojo)
     .then(array(decodePodcastEpisode));
 
 export function convertEpisodeToPodcastItem(
