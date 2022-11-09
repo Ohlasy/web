@@ -1,10 +1,6 @@
 import matter from "gray-matter";
 import { getFilesRecursively } from "./utils";
 import { withDefault } from "./decoding";
-import { marked } from "marked";
-import Markdoc from "@markdoc/markdoc";
-import { absolute, Route } from "./routing";
-import { RSSFeedItem } from "./feeds";
 import fs from "fs";
 import {
   array,
@@ -129,25 +125,3 @@ export function getAllArticles(root: string): Article[] {
 /** Compare articles by publish date, sorting last published first */
 export const compareByDate = <A extends Pick<Article, "date">>(a1: A, a2: A) =>
   Date.parse(a2.date) - Date.parse(a1.date);
-
-/** Convert article into an RSS feed item with full article text */
-export function feedItemFromArticle(article: Article): RSSFeedItem {
-  const link = absolute(Route.toArticle(article));
-  // TBD: Add author
-  return {
-    title: article.title,
-    description: renderArticleBody(article.body),
-    pubDate: new Date(article.date),
-    link,
-    guid: {
-      value: link,
-      isPermaLink: true,
-    },
-  };
-}
-
-export function renderArticleBody(body: string): string {
-  const ast = Markdoc.parse(body);
-  const content = Markdoc.transform(ast);
-  return Markdoc.renderers.html(content);
-}
