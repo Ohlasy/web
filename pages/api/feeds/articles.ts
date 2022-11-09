@@ -1,12 +1,10 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import { absolute, Route, siteUrl } from "src/routing";
-import { renderFeed, RSSFeed } from "src/feeds";
+import { renderFeed, RSSFeed, RSSFeedItem } from "src/feeds";
 import { join } from "path";
-import {
-  compareByDate,
-  feedItemFromArticle,
-  getAllArticles,
-} from "src/article";
+import { compareByDate, getAllArticles, Article } from "src/article";
+import { ArticleContent } from "components/ArticleContent";
+import * as ReactDOMServer from "react-dom/server";
 
 /** Serve last 10 articles as an RSS feed with full article text */
 export default async (
@@ -39,3 +37,21 @@ export default async (
   );
   response.status(200).send(renderFeed(feed));
 };
+
+/** Convert article into an RSS feed item with full article text */
+function feedItemFromArticle(article: Article): RSSFeedItem {
+  const permalink = absolute(Route.toArticle(article));
+  const renderContent = (body: string) =>
+    ReactDOMServer.renderToStaticMarkup(ArticleContent({ src: body }));
+  return {
+    title: article.title,
+    description: renderContent(article.body),
+    pubDate: new Date(article.date),
+    author: article.author,
+    link: permalink,
+    guid: {
+      value: permalink,
+      isPermaLink: true,
+    },
+  };
+}
