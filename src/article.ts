@@ -41,6 +41,7 @@ export const decodeMetadata = record({
   perex: optional(string),
   coverPhoto: field("cover-photo", optional(string)),
   tags: withDefault(array(string), []),
+  serial: optional(string),
   slug: string,
   date: decodeDate,
   category: optional(

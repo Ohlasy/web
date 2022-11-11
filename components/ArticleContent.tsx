@@ -27,11 +27,7 @@ const Photo = ({ src, alt, author, caption }: PhotoProps) => {
   return (
     <div>
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={src}
-        alt={alt ?? caption ?? ""}
-        style={{ width: "400px", display: "block" }}
-      />
+      <img src={src} alt={alt ?? caption ?? ""} className="img-responsive" />
       {author && <span>foto: {author}</span>}
     </div>
   );
