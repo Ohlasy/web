@@ -3,25 +3,97 @@ import { ParsedUrlQuery } from "querystring";
 import { Article, readArticle } from "src/article";
 import { filterUndefines, getFilesRecursively } from "src/utils";
 import { ArticleContent } from "components/ArticleContent";
+import { Layout } from "components/Layout";
+import { Author, getAllAuthors } from "src/content";
+import Head from "next/head";
+import Script from "next/script";
 import {
   articleRoot,
   getFileSystemPathForUrlPathFragments,
   getUrlPathFragmentsForFileSystemPath,
 } from "src/routing";
 
-export type PageProps = {
+//
+// Page
+//
+
+type PageProps = {
+  author: Author;
   article: Article;
 };
 
 interface QueryParams extends ParsedUrlQuery {
   path: string[];
 }
-const Page: NextPage<PageProps> = ({ article }) => (
-  <>
-    <h2>{article.title}</h2>
-    <ArticleContent src={article.body} />
-  </>
+
+const Page: NextPage<PageProps> = ({ article, author }) => (
+  <Layout title={article.title}>
+    <Head>
+      {/* eslint-disable-next-line @next/next/no-css-tags */}
+      <link href="/article.css" rel="stylesheet" />
+    </Head>
+    <Script src="/ad-rotate.js" />
+    <main className="container">
+      <div className="row article-row">
+        <article className="col-md-8">
+          <Title article={article} />
+          <ArticleContent src={article.body} />
+          <InfoBox article={article} author={author} />
+        </article>
+        <Sidebar article={article} />
+      </div>
+    </main>
+  </Layout>
 );
+
+const Title: React.FC<Pick<PageProps, "article">> = ({ article }) =>
+  article.category === "názory a komentáře" ? (
+    <h2 className="main-header">
+      {article.author}: {article.title}
+    </h2>
+  ) : (
+    <h2 className="main-header">{article.title}</h2>
+  );
+
+const Sidebar: React.FC<Pick<PageProps, "article">> = ({ article }) =>
+  !!article.serial ? (
+    <aside className="col-md-4 text-muted">
+      <h2 className="sidebar-header">O seriálu</h2>
+      <p>TBD: Serial sidebar</p>
+    </aside>
+  ) : (
+    <aside className="col-md-4 hidden-sm hidden-xs">
+      <div className="box"></div>
+      <div className="box"></div>
+    </aside>
+  );
+
+// TBD: Add minimum box height for authors with no e-mail?
+const InfoBox: React.FC<PageProps> = ({ author, article }) => {
+  const date = new Date(article.date).toLocaleDateString("cs-CZ", {
+    dateStyle: "long",
+  });
+  return (
+    <div className="article-info">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src={author.profilePhotoUrl} alt="" className="profile-picture" />
+      <ul className="list-unstyled">
+        <li>{article.author}</li>
+        {author.mail && (
+          <li>
+            <a href={`mailto:${author.mail}`}>{author.mail}</a>
+          </li>
+        )}
+        {author.bio && <li className="text-muted">{author.bio}</li>}
+        <li>vyšlo {date}</li>
+      </ul>
+    </div>
+  );
+};
+
+//
+// Data loading
+//
 
 export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
   params,
@@ -31,9 +103,12 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
   if (!articlePath) {
     throw `Cannot find article path for “${path.join("/")}”.`;
   }
-  const article = filterUndefines(readArticle(articlePath));
+  const article = readArticle(articlePath);
+  const author = await getAllAuthors().then(
+    (authors) => authors.find((a) => a.name === article.author)!
+  );
   return {
-    props: { article },
+    props: filterUndefines({ article, author }),
     revalidate: 300, // update every 5 minutes
   };
 };
