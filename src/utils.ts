@@ -33,3 +33,16 @@ export function getSignedResizedImage(
   const proof = shasum.digest("hex");
   return `${root}/?src=${sourceImageUrl}&width=${targetWidth}&proof=${proof}`;
 }
+
+export function getImageSrcSet(
+  sourceUrl: string,
+  signingSecret: string,
+  widths = [3000, 2000, 1000, 500]
+): string {
+  return widths
+    .map((w) => {
+      const resizedUrl = getSignedResizedImage(sourceUrl, w, signingSecret);
+      return `${resizedUrl} ${w}w`;
+    })
+    .join(", ");
+}
