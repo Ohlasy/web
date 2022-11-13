@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá starosta Blanska Ivo Polák, který do senátu kandiduje za stranu ČSSD.*
 
-{% photo src="https://i.ohlasy.info/i/jaslejy.jpg" %}
+{% photo src="https://i.ohlasy.info/i/jaslejy.jpg" /%}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěl navrhnout a prosadit?**
 

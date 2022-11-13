@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Vedení Boskovic od roku 2019 připravuje [zásadní rekonstrukci a úpravy Lidické ulice](https://ohlasy.info/clanky/2021/02/opravy-lidicka.html). Teď má město už téměř v ruce stavební povolení a mohlo by teoreticky začít s pracemi. Jenže se nic dít nebude. Radnice chce nejdříve postavit kruhový objezd u pošty. Na něj se ale povolení ještě ani nevyřizuje.*
 
-{% photo src="https://i.ohlasy.info/i/d3db430d.jpg" caption="Lidická ulice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/d3db430d.jpg" caption="Lidická ulice" author="Tomáš Trumpeš" /%}
 
 Na úřední desce boskovického úřadu se už v lednu objevilo oznámení o vydání stavebního povolení na rekonstrukci Lidické ulice v Boskovicích. Ještě se sice čeká na nabytí právní moci, ale ani poté se opravy rozbité ulice nerozběhnou. Projekt nespočívá jen v položení nového asfaltu a výměny dlažby na chodníku, opravy jsou mnohem rozsáhlejší. Loni na začátku roku se náklady odhadovaly na částku kolem 30 milionů korun, které by šly přímo z rozpočtu města – ale na letošek v něm nejsou připravené. Stejně tak s touto opravou nepočítají ani její spoluinvestoři.
 

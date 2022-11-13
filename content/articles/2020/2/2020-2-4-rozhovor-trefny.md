@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s Karlem Trefným, předsedou nově vzniklého místního sdružení politického hnutí Trikolóra v Boskovicích. Byl zakládajícím a dlouholetým členem boskovické ODS, pracuje v sauně, kterou provozují městské Služby, a známý je také jako keramik. Nyní se rozhodl opět aktivně vstoupit do politiky.*
 
-{% photo src="https://i.ohlasy.info/i/5f2bd3f7.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5f2bd3f7.jpeg" author="Tomáš Znamenáček" /%}
 
 **Ustavili jste boskovické sdružení Trikolóry, vy jste se stal předsedou. Znamená to, že budete volebním lídrem v Boskovicích v komunálních volbách v roce 2022?**
 
@@ -83,7 +83,7 @@ Aikido je moje osobní věc, velice osobní. A já jsem tam pana Klause mladší
 
 Myslím, že to nebylo nic proti ničemu. Politika se tahá i do kostela, a to nikomu nevadí? Pro mě je pocta, že tento člověk řekl, že se v rámci návštěvy Boskovicka podívá na trénink. Předtím jsme byli v ústavu v Šebetově. Nevidím v tom nic kontroverzního.
 
-{% photo src="https://i.ohlasy.info/i/5a591051.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5a591051.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Chtěli bychom vládnout sami
 
@@ -205,7 +205,7 @@ Jak chcete vyřešit třídění odpadů v bytě 2+1? Kam má člověk ty popeln
 
 Já nevím. Není to moje parketa, ale zůstal bych u svážení odpadu, jak to je. Neházíme to do moře, nezaplavujeme tím indické ulice. 
 
-{% photo src="https://i.ohlasy.info/i/80448791.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/80448791.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Nevěřím průzkumům
 

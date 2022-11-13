@@ -8,7 +8,7 @@ tags: kultura
 
 *Po dlouhé kulturní abstinenci způsobené pandemií koronaviru je tu konečně pomyslný restart. Určitě se těšíte na měsíční porci boskovické kultury, a proto je třeba se po dlouhé době zorientovat v kulturním dění pomocí pravidelného kulturního výběru, který je tentokrát i přes pandemická omezení pořádně našlapaný.*
 
-{% photo src="https://i.ohlasy.info/i/6d17c1f6.jpeg" caption="Václav Havelka vystoupí v Prostoru v pátek 19. června" %}
+{% photo src="https://i.ohlasy.info/i/6d17c1f6.jpeg" caption="Václav Havelka vystoupí v Prostoru v pátek 19. června" /%}
 
 ### Kino naslepo
 

@@ -10,7 +10,7 @@ tags:
 
 *První ustavující schůze nového boskovického zastupitelstva, které vzešlo z komunálních voleb na konci září, se konala ve čtvrtek 20. října v zámeckém skleníku. Proběhla rychle a hladce, zvoleno bylo nové vedení města a všichni radní.*
 
-{% photo src="https://i.ohlasy.info/i/4833321c.jpg" caption="Nově zvolené nejužší vedení města, zleva Radek Šamšula, Lukáš Holík a Jana Syrovátková" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4833321c.jpg" caption="Nově zvolené nejužší vedení města, zleva Radek Šamšula, Lukáš Holík a Jana Syrovátková" author="Tomáš Znamenáček" /%}
 
 Jednání zpočátku řídil Oldřich Kovář (ČSSD), jakožto nejstarší člen nového zastupitelského sboru. Ten se ovšem napoprvé nesešel kompletní, chyběli Hana Nedomová (ČSSD) a Jan Nádvorník (Piráti). Tajemník boskovického úřadu David Škvařil, který byl rovněž předsedou mandátové komise, v úvodu potvrdil, že mandáty všech přítomných zastupitelů byly řádně ověřeny.
 

@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s porodní asistentkou Barborou Brzobohatou a dulou Markétou Nedbalovou o festivalu o těhotenství, porodu a rodičovství, který právě probíhá v boskovickém Prostoru a který spolu s dalšími pořádají k příležitosti Světového týdne respektu k porodu. Mluvili jsme o cílech festivalu, podmínkách v porodnictví u nás, ale i o přípravách k porodu nebo o tom, co dělat po něm.*
 
-{% photo src="https://i.ohlasy.info/i/f29557a4.jpg" caption="Barbora Brzobohatá a Markéta Nedbalová" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/f29557a4.jpg" caption="Barbora Brzobohatá a Markéta Nedbalová" author="Tomáš Trumpeš" /%}
 
 **Jak vlastně vznikl Týden respektu k porodu a šestinedělí? Jaká je hlavní myšlenka festivalu?**
 
@@ -46,7 +46,7 @@ BARBORA: Jsou porodnice, které mají výborné jméno, a porodnice, které nema
 
 A ještě také záleží na jedné věci, která už asi úplně neplatí. Já jsem původně z Čech a přišla jsem sem za prací. Až tady mi kolegyně řekly, že existuje česká a moravská škola porodnictví, a také jsem to tady pocítila. V Čechách mají porody více v rukách lékaři a tady více porodní asistentky. To v praxi znamená, že v Čechách jsem zažívala více medicínsky vedených porodů, a tady jich bylo o dost méně a víc byl dáván důraz na individuální přání dané ženy.
 
-{% photo src="https://i.ohlasy.info/i/bde30f65.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/bde30f65.jpg" author="Tomáš Trumpeš" /%}
 
 ### Nežádoucí praktiky
 
@@ -88,7 +88,7 @@ BARBORA: Je pravda, že když člověk čte v doporučeních, jak dlouho může 
 
 MARKÉTA: Ale i u žen, které mají rychlý porod, je tendence do toho vstoupit a ještě to urychlit, ač ten porod běží hezky a v klidu a všechno je v pořádku. Tak to vnímám sama za sebe.
 
-{% photo src="https://i.ohlasy.info/i/3969f500.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/3969f500.jpg" author="Tomáš Trumpeš" /%}
 
 ### Příprava na porod
 

@@ -9,7 +9,7 @@ featured: true
 
 *Rozhovor s památkářem a architektem Romanem Čerbákem, který má jako pracovník Národního památkového ústavu na starosti i boskovickou památkovou zónu. Mluvili jsme o konkrétních aspektech změn především v židovské čtvrti, ale také o obecnějším vztahu současné společnosti k architektuře, veřejnému prostoru a vývoji měst.*
 
-{% photo src="https://i.ohlasy.info/i/jdwkajx.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jdwkajx.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak dlouho děláš památkáře v Boskovicích?**
 
@@ -39,7 +39,7 @@ V urbanismu se spíše mluví o stabilních prvcích sídla a logicky na druhé 
 
 Přijde mi, že je tady tolik poničených míst, kde jsou proluky a měly by tam být domy, že bych se primárně snažil stavět tam, kde je vidět, že si o to místo samo říká. Kdyby se tohle všechno zastavělo, město se zacelí a už možná ani nikoho nenapadne, že by se mělo stavět jinde, bylo by to na úkor veřejného prostoru. Parcel je dost. Otázka je, co čím nahrazovat a doplňovat. Špatné je, když se kvalitní dům nahradí něčím horším. To ale vyžaduje nejen součinnost a pochopení památkářů, ale především osvíceného investora, kvalitního architekta, součinnost s městským architektem – aby tady nevznikaly domy, jako je třeba ta novostavba nahoře na Plačkově ulici.
 
-{% photo src="https://i.ohlasy.info/i/v3jtalm.jpg" caption="Novostavba na horním konci Plačkovy ulice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/v3jtalm.jpg" caption="Novostavba na horním konci Plačkovy ulice" author="Tomáš Znamenáček" /%}
 
 **Dá se obecně říct, jak by měly nové domy v památkové zóně vypadat? Jaká jsou kritéria?**
 
@@ -59,7 +59,7 @@ Něco definuje obecně závazná vyhláška 06/2006, která odkazuje na regulač
 
 Podle mě se nedá úplně říct, že by něco nemělo být. Třeba ve vyhlášce je myslím napsáno, že by neměly být použity skleněné tvárnice v převládající ploše nebo velkoplošné obklady. Dokážu si ale představit, že šikovný projektant může navrhnout dům, který toto nesplní, ale zároveň bude pokorný, citlivý a vhodný.
 
-{% photo src="https://i.ohlasy.info/i/srrqzao.jpg" caption="Novostavba nad synagogou" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/srrqzao.jpg" caption="Novostavba nad synagogou" author="Tomáš Znamenáček" /%}
 
 **Do jaké míry by měly nové domy svou velikostí odpovídat těm předešlým? Vadí třeba u Špitálku, propojujícího Bílkovu a Joštovu ulici, že místo drobné stavby nalepené na dům vznikla patrová stavba? Nebo že se postavil vyšší dům nad synagogou?**
 
@@ -85,7 +85,7 @@ Nevnímám to tak. Měl bych problém, kdyby měl vedle synagogy vyrůst osmipat
 
 U domů v zóně, pokud nejsou prohlášeny za kulturní památku, je to mimo naši gesci. U památek, když se objeví něco zajímavého, je snaha nenechat to zničit. Třeba nějaké malované trámy. To souvisí s obecnou kultivovaností. Já vlastně nechápu, jak může někoho napadnout třeba vymlátit a provalit komínem malované dveře nebo trámy. To ani nemluvím za památkáře, mluvím z nějaké obecně kulturní roviny. Přijde mi samozřejmé, že by se podobné věci měly zachovávat. Ale takovýchto prvků už moc není a ani jsem takový problém nemusel řešit.
 
-{% photo src="https://i.ohlasy.info/i/mnuhbuc.jpg" caption="Ulice od synagogy k farské zahradě" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mnuhbuc.jpg" caption="Ulice od synagogy k farské zahradě" author="Tomáš Znamenáček" /%}
 
 **Charakter některých ulic se úplně proměnil. Když člověk vyjde ze synagogy, na jednom z domů je obrázek, jak vypadala protější strana ulice směrem k farské zahradě. Tohle je v pořádku?**
 
@@ -111,7 +111,7 @@ Regulační plán se snaží základní věci podchytit. Na jednu stranu jsou to
 
 Toho taky. Ten se ale zase potřebuje o něco opřít, aby to nebylo na vodě. Dobré je mít oboje.
 
-{% photo src="https://i.ohlasy.info/i/svh0xju.jpg" caption="Fasáda domu s kafírnou a čajovnou" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/svh0xju.jpg" caption="Fasáda domu s kafírnou a čajovnou" author="Tomáš Znamenáček" /%}
 
 ### Pět čtverců na fasádě
 
@@ -153,7 +153,7 @@ Ta zelená není vhodné řešení. A moc nerozumím tomu elkovému řešení.
 
 Klasická obyčejná fajnová omítka se dělala a pořád dělá třeba 0,3 milimetru. To lze ale jen velmi těžko udělat v dnes tak často používané tenkovrstvé probarvené omítce. Pak je u toho domu průšvih, že jsou tam zvýrazněné šedé linky. Dříve to mohly být profilované římsy, asi vše bylo monochromní a mohlo to vypadat dobře. Jak se to oholí, zateplí a pak se to udělá jen v barvě, vypadá to spíš jako dětské omalovánky.
 
-{% photo src="https://i.ohlasy.info/i/ogfeije.jpg" caption="Fasáda domu pod synagogou" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/ogfeije.jpg" caption="Fasáda domu pod synagogou" author="Tomáš Trumpeš" /%}
 
 **Pod synagogou je dům s prazvláštní modrou omítkou a plastovými okny (EDIT: Jedná se o bílá okna z lepených dřevěných profilů, tzv. eurookna). To je věc, která mě v památkové zóně opravdu překvapila.**
 
@@ -185,7 +185,7 @@ To by nebylo dobré. V mé sociální bublině se to dost řeší a existují i 
 
 Vzpomínám si na zateplení Paličkovy vily v Praze, popsané v [dokumentu Zelené památky](http://www.opzp2007-2013.cz/soubor-ke-stazeni/41/12366-zelene_pamatky_web_final.pdf), tam jsou i další zdařilé příklady. Z novější doby pak [zateplení činžáku v Přerově](https://www.cka.cz/cs/svet-architektury/seznam-architektu/ing-arch-horky-jan/zatepleni-bytoveho-domu) a zateplení a tím paradoxně návrat k původnímu vzhledu [Domu dětí a mládeže v Českém Krumlově](https://magazin.aktualne.cz/bydleni/zateplovani-domova-deti-a-mladeze-v-pamatkove-zone-ceskeho-k/r~2cc6a402b8ce11e7a8460025900fea04/).
 
-{% photo src="https://i.ohlasy.info/i/etnonal.jpg" caption="Vikýř na domě u Vážné studny" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/etnonal.jpg" caption="Vikýř na domě u Vážné studny" author="Tomáš Znamenáček" /%}
 
 **Jak se díváš na střešní okna a vikýře? Lidé, kteří v památkové zóně bydlí, půdy využívat logicky chtějí. Jaké je ale správné řešení prosvětlení?**
 
@@ -233,7 +233,7 @@ Takže žulová kostka, možná nějaký štípaný kámen… Ale teď vlastně 
 
 Dá se zlepšit. I když zde taky mohla být ta nejklasičtější zámkovka íčkového tvaru… Mohlo to být ještě horší.
 
-{% photo src="https://i.ohlasy.info/i/ottug2h.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ottug2h.jpg" author="Tomáš Znamenáček" /%}
 
 ### Památkář to nezachrání
 

@@ -12,7 +12,7 @@ tags:
 
 *Po sérii zpravodajských textů a anket a před klíčovým jednáním zastupitelstva, které bude rozhodovat o umístění boskovické sportovní haly, jsme se rozhodli vydat komentář, který shrnuje názor nejužší redakce Ohlasů. Text jsme vypracovali ve složení Marek Osouch, Tomáš Trumpeš a Tomáš Znamenáček. Vyjadřuje náš společný postoj, ke kterému jsme dospěli poté, co se tématu dlouhodobě věnujeme.*
 
-{% photo src="https://i.ohlasy.info/i/wkdymfo.jpg" caption="Hřiště za ZŠ Sušilova" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wkdymfo.jpg" caption="Hřiště za ZŠ Sušilova" author="Tomáš Znamenáček" /%}
 
 ### Máme na víc než na opravy chodníků?
 

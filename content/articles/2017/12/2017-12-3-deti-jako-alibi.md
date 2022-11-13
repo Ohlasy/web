@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Městské investice politici často obhajují zájmem dětí. Jde nám skutečně v první řadě o děti, nebo nám děti slouží spíš jako pohodlný rukojmí?*
 
-{% photo src="https://i.ohlasy.info/i/ov3ofif.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ov3ofif.jpg" author="Tomáš Znamenáček" /%}
 
 „Hala tady musí být. Když se dnes podíváte okolo bytovek, nikde nejsou žádná děcka, všichni sedí u počítače,“ říká v [rozhovoru o sportovní hale](http://www.ohlasy.info/clanky/2017/11/rozhovor-malach.html) místostarosta Petr Malach. Není sám, kdo takto argumentuje – podobně děti posloužily jako pádný argument při prosazování stavby centra polytechnické výchovy na Slovákově ulici nebo sportparku v Doubravách. Skutečně ale děti k tomu, aby vstaly od počítačů a zlepšily své technické dovednosti, nutně potřebují budovy za desítky miliónů?
 

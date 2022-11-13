@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady v polovině května. Po delším čase byly obnoveny i tiskové konference, té první se zúčastnili všichni zástupci nového vedení města – tedy starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/cf94f305.jpeg" caption="Vedení města se zabývalo také situací v Pilském údolí, kde došlo k rozsáhlejší těžbě dřeva v soukromých lesích rodiny Mensdorff-Pouilly a práce zasáhly i veřejné komunikace" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/cf94f305.jpeg" caption="Vedení města se zabývalo také situací v Pilském údolí, kde došlo k rozsáhlejší těžbě dřeva v soukromých lesích rodiny Mensdorff-Pouilly a práce zasáhly i veřejné komunikace" author="Tomáš Trumpeš" /%}
 
 ### Epidemická situace a návštěvy v nemocnici
 
@@ -92,7 +92,7 @@ Zatím se nejednalo o osudu pozemků u školy na Hybešově ulici, kde měla st�
 
 Řešení by mohlo být kvalitnější, ale je to lepší než nic – tak by se dal shrnout postoj vedení města k plánovanému kruhovému objezdu na křižovatce pod Sebranicemi. „Ta křižovatka je hrozná, méně zkušený řidič tam hraje ruskou ruletu. Jakékoliv řešení je lepší než stávající stav, ale jakýkoliv kruháč dopravu zpomalí,“ uvedl starosta s tím, že ideální by byl velký kruháč, který by umožnil plynulou dopravu pro hlavní tah mezi Svitavami a Brnem.
 
-{% photo src="https://i.ohlasy.info/i/dbbe2876.jpeg" caption="Poškozený plot na křižovatce ulic Legionářská a Bedřicha Smetany" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/dbbe2876.jpeg" caption="Poškozený plot na křižovatce ulic Legionářská a Bedřicha Smetany" author="Tomáš Trumpeš" /%}
 
 ### Křižovatka na Legionářské
 

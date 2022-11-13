@@ -8,7 +8,7 @@ tags: politika volby
 
 *Letos na podzim nás čekají po čtyřech letech krajské volby, již páté od vzniku samosprávného krajského uspořádání. Osm let stojí v čele Jihomoravského kraje hejtman Michal Hašek z ČSSD a vést by ho chtěl i další čtyři roky. Největším soupeřem jako v ostatních krajích mu bude zřejmě nevyzpytatelné hnutí ANO, které si jako lídra zvolilo šéfa brněnských strážníků Bohumila Šimka. Ambice mají také na jižní Moravě tradičně silní lidovci.*
 
-{% photo src="https://i.ohlasy.info/i/twp2p6m.jpg" author="Martin Strachoň" %}
+{% photo src="https://i.ohlasy.info/i/twp2p6m.jpg" author="Martin Strachoň" /%}
 
 Michal Hašek pro setrvání ve své funkci dělá vše, co může. Pravidelně navštěvuje po celé volební období obce na jižní Moravě a finančně podporuje nebo odměňuje dobrovolné hasiče. Po požáru v Jiráskově ulici v Boskovicích napsal jihomoravský hejtman na svůj Facebook, že hasiče čeká za jejich odvážnou práci odměna. „Blahopřeji boskovickým hasičům k úspěšné akci a záchraně dvou lidských životů. Hasiče vyznamenám jako hejtman kraje ještě tento týden,“ napsal Hašek 9. února. Bronzové medaile dostali o tři dny později. Vůbec poprvé před členy krajské rady.
 

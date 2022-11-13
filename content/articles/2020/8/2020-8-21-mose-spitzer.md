@@ -10,7 +10,7 @@ tags: historie
 
 *V letošním roce uplynulo 120 let od narození významného židovského rodáka z Boskovic Mošeho Spitzera, který spatřil světlo světa dne 8. července 1900.*
 
-{% photo src="https://i.imgur.com/fBMe1iq.jpg" %}
+{% photo src="https://i.imgur.com/fBMe1iq.jpg" /%}
 
 Narodil se do rodiny obchodníka Maxe Spitzera a jeho ženy Henrietty, společně s celou řadou sourozenců vyrůstal na náměstí Františka Josefa I. (dnes Masarykovo náměstí) v domě číslo 15, na jehož místě v současnosti stojí funkcionalistická budova České spořitelny. Max Spitzer v domě provozoval obchod s koloniálním a střižním zbožím.
 

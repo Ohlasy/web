@@ -9,7 +9,7 @@ tags: kultura
 
 *Festival pro židovskou čtvrť Boskovice 2021 by měl podle pořadatelů proběhnout víceméně tak, jak jsme byli zvyklí z předchozích let. Po loňském omezeném ročníku na konci srpna se tak vrací i ke svému obvyklému termínu na počátku prázdnin – koná se od 8. do 11. července.*
 
-{% photo src="https://i.ohlasy.info/i/c716de23.jpg" caption="Do Boskovic se letos vrátí jazzová legenda Günter Baby Sommer, který zde na festivalu vystoupil už v roce 2015" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/c716de23.jpg" caption="Do Boskovic se letos vrátí jazzová legenda Günter Baby Sommer, který zde na festivalu vystoupil už v roce 2015" author="Tomáš Znamenáček" /%}
 
 „Po zimních a jarních měsících konečně můžeme říct, že festival proběhne v normální podobě. Nebudou žádná omezení programu ani festivalových scén,“ uvedla PR manažerka festivalu Zuzana Kolouchová. Pro letošní 29. ročník festivalu pořadatelé zvolili heslo „Čas se konečně vrátit. Do Boskovic i do života.“
 

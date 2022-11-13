@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Boskovická nemocnice musela před časem kvůli nedostatku sester omezit provoz na jednotce intenzivní péče. Uchazečkám o pozici zdravotní sestry chce kromě náborového příspěvku do budoucna nabízet také byt v bytovém domě sousedícím s nemocnicí. Pokračuje i tlak na zvyšování mezd.*
 
-{% photo src="https://i.ohlasy.info/i/xi6jtet.jpg" caption="Nemocniční „svobodárna“" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/xi6jtet.jpg" caption="Nemocniční „svobodárna“" author="Marek Osouch" /%}
 
 Nedostatek zdravotních sester a dalšího středního zdravotního personálu se nevyhýbá ani nemocnici v Boskovicích. Už několik měsíců na webových stránkách stále visí nabídka volné pozice zdravotní sestry na dětské oddělení, ARO nebo JIP. Tam všude sestry chybí. Nástup je možný ihned. Podobně jsou v nabídce volná místa i pro zdravotnické asistenty nebo sanitáře.
 

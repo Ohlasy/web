@@ -10,7 +10,7 @@ tags: historie
 
 *V závěrečné části naší minisérie o Hermannu Ungarovi bychom se, moji milí přátelé, měli po [bádání o autorovi](https://ohlasy.info/clanky/2020/04/hermann-ungar.html) a po [jeho životě](https://ohlasy.info/clanky/2020/06/hermann-ungar.html) podívat trochu blíže na jeho dílo. A přiznávám se, že vůbec nevím, jak na to. Volám tedy na pomoc Jaroslava Bránského a po krátké imaginární poradě s tímto největším, bohužel již zesnulým, odborníkem na boskovickou židovskou tématiku je rozhodnuto – zaměřím se v Ungarově díle především na boskovické reminiscence, které jsou někdy dobře čitelné, jindy však skryté v různých šifrách, které se doktoru Bránskému podařilo důvtipně rozluštit.*
 
-{% photo src="https://i.ohlasy.info/i/f8e657b1.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/f8e657b1.jpeg" author="Tomáš Trumpeš" /%}
 
 Začněme povídkou „Muž a služka“, v níž hlavní postava první část svého života prožívá v ponurém prostředí sirotčince, druhou pak jako boháč v Americe. Sirotčinec umístil Ungar do nejmenovaného města, veškeré popisované reálie však odpovídají boskovické skutečnosti. V židovském městě v Boskovicích stával nadační dům továrníka Löw-Beera, kde židovská obec pečovala o tři sirotky a tři starce. Dům stál nedaleko synagogy, dvorem sousedil s domy křesťanů na náměstí a jeho zevnějšek byl do detailů převzat do povídky. Velmi živě je popisován správce chudobince, jehož Ungar pojmenoval po Josefu Mayerovi, svém učiteli v židovské škole. Skutečný správce jménem Samuel Zobel se ovšem v literárním portrétu poznal a cítil se jím velmi dotčen. V povídce je zmiňován také nový zájezdní hostinec u nádraží, což je dnešní hotel Slávie.
 

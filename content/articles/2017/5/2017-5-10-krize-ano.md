@@ -9,7 +9,7 @@ tags: politika
 
 *Sledovat současnou vládní krizi je možné z mnoha úhlů. Zřejmé ovšem je, že se hraje především o budoucnost hnutí, které se stalo hlavní politickou silou v zemi. A jeho budoucnost tudíž má a bude mít velký vliv i na tu vrstvu politiky, která je nám bližší – třeba na komunální volby v roce 2018 a povolební uspořádání v Boskovicích. Necelý rok a půl není zase tak dlouhá doba.*
 
-{% photo src="https://i.ohlasy.info/i/v5yzgsm.jpg" caption="Andrej Babiš s Adrianou Krnáčovou při rozdávání rybí polévky v Praze" author="David Sedlecký" %}
+{% photo src="https://i.ohlasy.info/i/v5yzgsm.jpg" caption="Andrej Babiš s Adrianou Krnáčovou při rozdávání rybí polévky v Praze" author="David Sedlecký" /%}
 
 Premiér Bohuslav Sobotka v [obsáhlém rozhovoru pro časopis Respekt](https://www.respekt.cz/tydenik/2017/19/nenapadlo-me-ze-to-muze-byt-jeste-horsi) pronesl velmi trefná slova na adresu Babišova hnutí ANO, se kterým se ocitl ve vážném konfliktu: „…k ANO se přidala spousta slušných, úspěšných, rozumných, zajímavých lidí, ale víte, co mě na nich mrzí? Že teď mlčí a opakují jenom to, co říká Andrej Babiš. A spousta těch lidí se chovala liberálně, než se stali poslušnými členy hnutí ANO. Vyznávali určité otevřené hodnoty, hlásili se k Václavu Havlovi, a dnes prostě využívají možnosti dělat kariéru v hnutí ANO a mlčí. Tihle lidé jsou pro mě zklamáním. A je to pro mě velké varování, jaký je vlastně charakter hnutí ANO.“
 

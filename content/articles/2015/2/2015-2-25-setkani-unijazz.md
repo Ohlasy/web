@@ -8,7 +8,7 @@ tags: kultura
 
 *Pražské sdružení Unijazz, které už více než 20 let pořádá také festival Boskovice, založilo před časem svou brněnskou pobočku. A k prvním aktivitám nového spolku na podporu kulturních aktivit bude patřit i cyklus setkání v Židovském obecním domě v Boskovicích. To první se koná dnes, tedy ve středu 25. února od 17 hodin.*
 
-{% photo src="https://i.ohlasy.info/i/2k61i9t.jpg" %}
+{% photo src="https://i.ohlasy.info/i/2k61i9t.jpg" /%}
 
 Datum setkání nebylo vybráno náhodně, tématem večera bude připomínka 25. února 1948. Promítnuty budou dva dokumentární filmy: Ta krásná holka z vily nad řekou režisérky Aleny Hynkové a Sny o tátovi Josefa Císařovského. 
 

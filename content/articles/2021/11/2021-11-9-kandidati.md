@@ -11,7 +11,7 @@ tags:
 
 *Rok před komunálními a senátními volbami jsme se pokusili zmapovat situaci a náladu v jednotlivých stranách. Postupně se věnujeme plánům a ambicím politiků, volebním tématům a roztříštěnosti boskovické politické scény. Díl první: Kdo už je rozhodnutý obhajovat a kdo ještě váhá, případně se otázkou zatím nezabývá?*
 
-{% photo src="https://i.ohlasy.info/i/889a9498.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/889a9498.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" /%}
 
 ### ODS
 

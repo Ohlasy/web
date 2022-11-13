@@ -8,7 +8,7 @@ tags: politika podnikání investice
 
 *Rozhovor s Pavlem Schwarzerem, podnikatelem a radním za hnutí ANO. Z budovy bývalé fabriky Kras vytváří obchodní centrum, vede firmu EKO-DOMOV, jako bezpartijní byl za hnutí ANO zvolen do zastupitelstva a stal se také radním. S Pavlem Schwarzerem jsme mluvili o podnikání a politice v Boskovicích.*
 
-{% photo src="https://i.ohlasy.info/i/ivkp3b4.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ivkp3b4.jpg" author="Tomáš Znamenáček" /%}
 
 **Rád bych začal od vašeho podnikání a navázal tak na výsledky ankety Město pro byznys. Jak se vám podniká v Boskovicích?**
 
@@ -28,7 +28,7 @@ Radnice tomu může prospět a do jisté míry tomu prospívá. Je zde jiný pro
 
 Co může radnice pro podnikatele, je naprosto jasně dané – umožnit jim rozvojové plochy a vybojovat, aby Boskovice měly napojení na infrastrukturu. To tady kolísá už mnoho let, nejsme schopni prosadit R 43, problematické je i vlakové spojení. Jenže tyto nadstavbové věci jsou spíše záležitostí státu a kraje, takže radnice nemá sílu, aby je prosadila. Dnešní vedení města má kontakty a snaží se, ale třeba R 43 je stále v nedohlednu. Ale aby politik mohl podnikatelům pomoci nějak přímo, to si myslím, že nejde.
 
-{% photo src="https://i.ohlasy.info/i/xafuaot.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xafuaot.jpg" author="Tomáš Znamenáček" /%}
 
 ### Tady má každý nějaký zájem 
 
@@ -64,7 +64,7 @@ To je právě způsobeno tím, že je koalice, je nějaký volební program a te
 
 Stojí to na prioritě volebního programu, který je daný. A v těch prioritách knihovna není. Přesto se na tom pracuje, ale trvá to určitou dobu. My se snažíme to protlačit, takže třeba se na tom koalice dohodne a bude knihovna. Nebo bude něco jiného, pokud to zase někdo nebude brzdit. Jsme v Boskovicích, tady má každý nějaký zájem a dohodnout se je problematické.
 
-{% photo src="https://i.ohlasy.info/i/hatbnbb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hatbnbb.jpg" author="Tomáš Znamenáček" /%}
 
 ### Pokračování postupů z minulosti 
 
@@ -136,7 +136,7 @@ Boskovičtí voliči, když je vezmeme jako celek, si v tom určitě udělají s
 
 Někteří vidí všechno pozitivně, vidí, že se spousta věcí změnila k lepšímu. A jsou zase druzí, kterým se pořád něco nelíbí. Ale tak to je, neexistuje člověk ten, který by se zavděčil lidem všem.
 
-{% photo src="https://i.ohlasy.info/i/e5u8vic.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e5u8vic.jpg" author="Tomáš Znamenáček" /%}
 
 ### Nemocnice jako fabrika 
 

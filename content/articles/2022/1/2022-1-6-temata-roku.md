@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Jakkoli je to ošidné, také na začátku letošního roku se pokusíme předeslat deset témat, u kterých lze předpokládat, že bude důležité je v následujícím roce sledovat a budou budit zájem nás novinářů i vás čtenářů. Přehled spojujeme s otázkami, které nad tématy vyvstávají. Tentokrát je náš seznam velmi málo originální, jako by se kumulovaly problémy, které se dlouhodobě nedaří vyřešit. Tak třeba letos?*
 
-{% photo src="https://i.ohlasy.info/i/57b191dd.jpg" author="Sanjay Acharya, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/57b191dd.jpg" author="Sanjay Acharya, Wikimedia Commons" /%}
 
 ### Pandemická situace
 

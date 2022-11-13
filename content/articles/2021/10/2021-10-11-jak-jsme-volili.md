@@ -8,7 +8,7 @@ tags: politika
 
 *Volby do Poslanecké sněmovny skončily vítězstvím koalice SPOLU, kterou tvoří strany ODS, TOP 09 a KDU-ČSL. Celostátní výsledek je oproti hnutí ANO velice těsný, v Jihomoravském kraji i v Boskovicích je vítězství SPOLU o něco přesvědčivější.*
 
-{% photo src="https://i.ohlasy.info/i/0d86ba60.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0d86ba60.jpg" author="Tomáš Znamenáček" /%}
 
 Do Poslanecké sněmovny nakonec pronikla jen čtyři uskupení: vítězná koalice SPOLU získala necelých 28 procent, což představuje 71 poslaneckých mandátů. Hnutí ANO získalo o necelé procento méně, ale vzhledem k přepočtům o jeden mandát víc – obsadí tedy 72 poslaneckých křesel.
 

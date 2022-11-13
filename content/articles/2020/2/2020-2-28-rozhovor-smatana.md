@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Ľubomírem Smatanou, autorem rozhlasového dokumentu [Důchodce na tripu](https://plus.rozhlas.cz/duchodce-na-tripu-rozhlasovy-dokument-o-tom-jak-cesky-penzista-naletel-6516732) o oběti takzvaných scammerů – tedy lidí, kteří rozesílají podvodné e-maily. Povídali jsme si před zahřívací projekcí na festival Jeden svět, který se koná v kině Panorama od 17. do 22. března. Ľubomír Smatana absolvoval v Boskovicích besedu, jejímž tématem byl stejně jako u našeho rozhovoru námět zmíněného dokumentu – neuvěřitelný příběh obyčejného důchodce ze Šumavy, který bez peněz a bez znalosti jazyků odletěl do Afriky, do Jižní Ameriky a posléze do Hongkongu, kde byl zadržen s kufrem, ve kterém bylo ukryto šest kilo kokainu. Dnes si v hongkongském vězení už dva roky odpykává celkem sedmadvacetiletý trest.*
 
-{% photo src="https://i.ohlasy.info/i/6e9a1b1a.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6e9a1b1a.jpeg" author="Tomáš Znamenáček" /%}
 
 **Natočil jste rozhlasový dokument Důchodce na tripu. Jak jste na to téma, respektive na tento konkrétní příběh přišel?**
 
@@ -58,7 +58,7 @@ Pan Vladimír nám pak z vězení psal úplně bizarně, ať napíšeme Sonye, �
 
 Vůbec. Domníval se, že to na něj někdo nastražil a že ho Sonya z toho vytáhne.
 
-{% photo src="https://i.ohlasy.info/i/541917a6.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/541917a6.jpeg" author="Tomáš Znamenáček" /%}
 
 **To jsme na konci příběhu, ale přece jen se ještě zeptám na ten začátek. To toho člověka motivovalo? Jak se to teda stane, že obyčejný chlapík z vesnice sedne do letadla a odletí do Afriky, do Jižní Ameriky a do Hongkongu?**
 

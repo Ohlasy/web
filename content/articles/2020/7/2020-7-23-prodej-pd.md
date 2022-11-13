@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Deset let patří panský dvůr na Hradní ulici v Boskovicích podnikateli Luďku Řehořovi. Ten ho teď nabízí v realitní kanceláři k prodeji. Za budovu na ploše více než šesti tisíc metrů čtverečních v městské památkové zóně chce získat 69 milionů korun. Na druhé straně ulice stojí prázdný hotel, který firma MP Holding nabízí k pronájmu. Dvě památky v srdci města těžko hledají své budoucí využití.*
 
-{% photo src="https://i.ohlasy.info/i/dffaaeb5.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/dffaaeb5.jpg" author="Tomáš Trumpeš" /%}
 
 S panským dvorem měl podnikatel Řehoř velké plány, rád o nich [veřejně mluvil už před pěti lety](https://ohlasy.info/clanky/2015/03/rekonstrukce-panskeho-dvora.html). „Využití směřuji zhruba ke dvěma typům účelu. První je kultura a vzdělávání, což s sebou nese přítomnost vhodného sálu a také možnost pořádat venkovní akce v uzavřeném areálu na nádvoří. Druhá oblast je využití prostor k léčebným a rehabilitačním účelům. Zde vidím velký potenciál, který by to mohlo do Boskovic přinést. Nemáme v Boskovicích lázeňský pramen, ale máme přírodu, krásu okolí i města,“ říkal tehdy Luděk Řehoř a neskrýval ambice mít rekonstrukci kompletně hotovou v roce 2017 či 2018.
 

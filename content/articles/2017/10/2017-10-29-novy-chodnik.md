@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Neustále slýchávám, že jsou naše noviny velmi kritické a nikdy nikoho nepochválí. Jedním z mnoha důkazů budiž tento komentář. Tady je totiž pochvala skutečně na místě a myslím, že se mnou budou souhlasit zastánci současné boskovické koalice i její odpůrci.*
 
-{% photo src="https://i.ohlasy.info/i/zbssh23.jpg" caption="Dokončený chodník ke hřbitovu" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/zbssh23.jpg" caption="Dokončený chodník ke hřbitovu" author="Tomáš Trumpeš" /%}
 
 Ta pochvala bude mířit ke stavbě, o které se mluví už spoustu let a dosud se jí nikdo příliš nezabýval. Až současné vedení města se do tohoto problému skutečně opřelo s cílem ho vyřešit. Poprvé měla současná rada na stole materiál zabývající se touto stavbou v listopadu 2015, podruhé v dubnu následujícího roku, poté v červnu a dále v září, kdy zastupitelé nakonec jednohlasně souhlasili s odkupem řady pozemků.
 

@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Danou Huňátovou, diplomatkou a autorkou knihy Sametová diplomacie. V té vzpomíná na období, kdy pracovala jako šéfka kabinetu prvního porevolučního ministra zahraničí Jiřího Dienstbiera. Kniha nese podtitul Výjimečné roky 1989–1992 a právě o téhle době, kdy se formovala svobodná zahraniční politika naší země, a také o diplomacii obecně, jsme si povídali na festivalu Boskovice 2020. Tedy na festivalu, který spoluzaložil a donedávna vedl její manžel [Čestmír](https://ohlasy.info/clanky/2017/05/rozhovor-hunat.html).*
 
-{% photo src="https://i.ohlasy.info/i/bff99057.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bff99057.jpeg" author="Tomáš Znamenáček" /%}
 
 **17\. listopadu 1989 začala Sametová revoluce, a vy jste už 11. prosince nastupovala do služeb sametové diplomacie. Jak se to tak rychle seběhlo?**
 
@@ -58,7 +58,7 @@ Každopádně měli stejný pohled na věc. To, co bylo asi nejdůležitější,
 
 Myslím, že to bylo dáno těmi osobnostmi, které se po Listopadu dostaly na vysoká místa, do vlády a do parlamentu. Byla tam řada silných osobností, které celá léta obětovaly svoji kariéru nebo kariéru svých dětí pro to, aby byla dosažena svoboda. V tom je obsažen ten zájem obecný, nikoliv vlastní. K moci – i když tento výraz mi úplně nesedí – se dostali lidé, kteří pro tu zemi už něco udělali, sami se obětovali a teď mohli konečně udělat konkrétní kroky díky novému postavení i na vyšší úrovni. To v posledních letech bohužel postrádám.
 
-{% photo src="https://i.ohlasy.info/i/50cac317.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/50cac317.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Nejsilnější zážitek: Havel v Kongresu
 
@@ -102,7 +102,7 @@ Mně osobně připadalo, že je to škoda, bylo mi to líto. Byla jsem z toho sp
 
 Určitě. Myslím, že byla velká chyba, že ty volby byly tak brzo. Dva roky jsou hrozně krátká doba. Myslím, že vláda neměla šanci udělat všechno, co bylo potřeba. Kdyby byly volby alespoň po třech letech, a ještě lépe po čtyřech, podařilo by se zakotvit daleko víc potřebných změn – třeba v justici a tak dále, nejen na ministerstvu zahraničí. Takže to mě určitě mrzelo, protože byla řada věcí, které jsem považovala za nedodělané. Včetně té personalistiky, protože bylo krátké období, kdy začal platit lustrační zákon, na základě kterého jsme mohli dělat ráznější kroky. Neměli jsme šanci si vybudovat nové diplomaty, třeba v rámci diplomatické akademie, kterou ministr Dienstbier založil. Byla to příliš krátká doba, spousta věcí se mohla ještě udělat lépe.
 
-{% photo src="https://i.ohlasy.info/i/4e83e196.jpeg" caption="Autorské čtení na letošním festivalu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4e83e196.jpeg" caption="Autorské čtení na letošním festivalu" author="Tomáš Znamenáček" /%}
 
 ### Jediná, kdo byl u všeho
 

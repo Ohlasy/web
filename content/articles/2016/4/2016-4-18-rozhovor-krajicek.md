@@ -8,7 +8,7 @@ tags: kultura hudba
 
 *Rozhovor s mandolinistou Martinem Krajíčkem. Hraje hned v několika hudebních uskupeních, působí jako pedagog na základní umělecké škole, pořádá mandolinové workshopy. Ve středu 27. dubna bude mít koncert v Boskovicích, kde se představí se svými novými spoluhráči. Právě triu s Jurajem Valenčíkem a Jurajem Stierankou chce do budoucna věnovat svou hlavní autorskou energii, v Boskovicích se takto společně představí úplně poprvé. Zásadní muzikantské setkání s kontrabasistou Jurajem Valenčíkem zachycují také nahrávky, které k rozhovoru přikládáme.*
 
-{% photo src="https://i.ohlasy.info/i/43zeifv.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/43zeifv.jpg" author="Tomáš Znamenáček" /%}
 
 **Martine, v dubnu chystáš v Boskovicích koncert – můžeš představit, s kým budeš hrát?**
 
@@ -88,7 +88,7 @@ Někdy jo, někdy ne. Většinou ne.
 
 Termín, kdy se kam jede. A přislíbenou jednu zkoušku. Ale to by bych nerad, kdyby to teď padlo na Nataliku, tam jsem se dozvěděl všechno včas a proběhla i náročná zkouška. Ale u kapel world music nebo tam, kde je vliv lidové hudby, nemá smysl psát si něco do not. Možná nějakou poznámku, ale stejně to potom záleží na tom živém hraní.
 
-{% photo src="https://i.ohlasy.info/i/7x8jkhj.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7x8jkhj.jpg" author="Tomáš Znamenáček" /%}
 
 ### Mandolína je obvykle osvěžením
 
@@ -156,7 +156,7 @@ To, o čem teď mluvím, je ladění, které se změnilo jen v oktávách. Ale j
 
 Ano, je to taková hra.
 
-{% photo src="https://i.ohlasy.info/i/xse3nyb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xse3nyb.jpg" author="Tomáš Znamenáček" /%}
 
 ### Skoro všichni hrají dál
 

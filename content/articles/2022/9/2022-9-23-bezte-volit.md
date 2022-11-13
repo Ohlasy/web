@@ -10,7 +10,7 @@ tags:
 
 *Komunální a senátní volby probíhají v pátek 23. a v sobotu 24. září. Tradiční předvolební komentář napsal za Ohlasy Tomáš Trumpeš.*
 
-{% photo src="https://i.ohlasy.info/i/2067a845.jpg" caption="Debata kandidátů na starost(k)u" author="Nikol Halamásková" %}
+{% photo src="https://i.ohlasy.info/i/2067a845.jpg" caption="Debata kandidátů na starost(k)u" author="Nikol Halamásková" /%}
 
 Na politiku je laciným zvykem spíše nadávat. I pro novináře může být někdy výhodné líčit ji jako zlého a hladového draka, se kterým chrabře bojují. Ve skutečnosti je to ale přesně naopak – jak řekl kdosi moudrý, *alternativou politiky je násilí*. Demokratická politika je nejlepší způsob správy společných věcí, proto jí nepotřebujeme stínat hlavy, ale musíme ji kultivovat.
 

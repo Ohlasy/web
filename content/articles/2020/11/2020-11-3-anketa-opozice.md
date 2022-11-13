@@ -9,7 +9,7 @@ tags: politika
 
 *Jsme v polovině volebního období. Jak hodnotíte dosavadní práci vedení města – tedy koalice ODS, ANO, Sportovců, TOP 09 a Boskováků? Jak z vašeho pohledu fungují vztahy koalice s opozicí? Co vidíte jako hlavní úkoly, které před koalicí zůstávají pro zbývající dva roky do voleb v roce 2022?*
 
-{% photo src="https://i.ohlasy.info/i/ea3b976a.jpg" caption="Opozice na ustavujícím jednání zastupitelstva v roce 2018" author="Monika Šindelková" %}
+{% photo src="https://i.ohlasy.info/i/ea3b976a.jpg" caption="Opozice na ustavujícím jednání zastupitelstva v roce 2018" author="Monika Šindelková" /%}
 
 ---
 

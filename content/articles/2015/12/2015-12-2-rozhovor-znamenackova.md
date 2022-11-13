@@ -8,7 +8,7 @@ tags: kultura hudba
 
 *Rozhovor s klavíristkou Kristýnou Znamenáčkovou, která minulý týden zvítězila v soutěži Nadace Bohuslava Martinů. Soutěž je určená pro interprety do 28 let, Kristýna hrála skladby Josepha Haydna, Johannese Brahmse a samozřejmě především Bohuslava Martinů – včetně náročné Sonáty (H 350) z roku 1954, tedy z konce skladatelova tvůrčího období. Kristýna letos přešla z pražské HAMU na brněnskou JAMU, kde studuje klavírní hru v magisterském programu, kromě toho učí na ZUŠ v Blansku.*
 
-{% photo src="https://i.ohlasy.info/i/gorcuik.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/gorcuik.jpg" author="Tomáš Znamenáček" /%}
 
 **[Hudební soutěže nadělají často víc škody než užitku](/clanky/2015/04/hudebni-soutezeni.html) – napsala pro Ohlasy na jaře jistá Kristýna Znamenáčková. To se samozřejmě týkalo hlavně dětí, ale i tak mě zajímá, jak se na to díváš dneska?**
 
@@ -34,7 +34,7 @@ Bylo předepsáno penzum skladeb, které člověk musí zvládnout. Letos to byl
 
 Hrála.
 
-{% photo src="https://i.ohlasy.info/i/454nhid.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/454nhid.jpg" author="Tomáš Znamenáček" /%}
 
 ### Oddat se naplno hudbě
 
@@ -62,7 +62,7 @@ Je.
 
 Je to možná trochu únik. Člověk má kolem sebe spoustu okolností, sedí v sále před lidmi, kteří tomu rozumí a poslouchají ho, má hrát zpaměti, není mu dobře a pak nezbývá nic jiného, než se spolehnout jen na hudbu. Když jsem chodila do zušky, říkala mi moje učitelka Lydyia Golubková větu, které jsem tehdy moc nerozuměla: „Ta hudba tě zachrání.“ Nechápala jsem, jak mě může zachránit, ale ve chvíli, kdy člověk přestane prožívat sebe a myslet na to, že je na nějaké soutěži a že je nervní a o něco mu jde, a začne poslouchat hudbu, to, kvůli čemu to dělá a kvůli čemu tam je, tak to hrozně osvobozuje.
 
-{% photo src="https://i.ohlasy.info/i/lpo6vrm.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lpo6vrm.jpg" author="Tomáš Znamenáček" /%}
 
 ### Odpadne alespoň část pochyb
 
@@ -98,7 +98,7 @@ To asi pořád platí. Rozhodně nechci hrát pouze sama, to je hrozná zodpově
 
 Myslím si, že ne. Kdybych to dělala častěji, asi bych do toho nedávala všechno a nejela tak naplno. Jenže to možná dělá část mého specifického uměleckého projevu, že vždycky hraju, jako by to bylo poprvé a naposledy. A to úplně nejde dělat pravidelně.
 
-{% photo src="https://i.ohlasy.info/i/meunwlr.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/meunwlr.jpg" author="Tomáš Znamenáček" /%}
 
 ### Není to suchopárný akademický Martinů
 

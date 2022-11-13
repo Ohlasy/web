@@ -12,7 +12,7 @@ tags:
 
 *Popravdě řečeno, působení Chatama Sofera v Boskovicích představuje jen krátkou epizodu v životě tohoto slavného židovského učence, rabína a talmudisty. Nicméně minimálně dva roky v našem městě skutečně strávil, a tak si myslím, že do našeho cyklu Příběhy z ghetta po zásluze patří.*
 
-{% photo src="https://i.ohlasy.info/i/48852079.jpg" caption="Chatam Sofer" %}
+{% photo src="https://i.ohlasy.info/i/48852079.jpg" caption="Chatam Sofer" /%}
 
 Dovolte mi osobní vzpomínku na velmi zajímavé setkání, které se uskutečnilo asi před dvěma lety. Do Boskovic tehdy zavítal Michael Sofer, profesor z Hebrejské univerzity v Jeruzalémě, který patří k potomkům onoho proslulého Sofera. V Boskovicích pátral po ješivě, vysoké náboženské škole, v níž jeho předek studoval a byl poněkud zklamán, že již neexistuje ani škola, ani budova synagogy minor, ve které byla ješiva umístěna. Ale zato jej potěšilo, že Chatam Sofer není v Boskovicích zapomenut a jeho jméno figuruje i v publikacích Jaroslava Bránského; knihu Židé v Boskovicích si ochotně zakoupil a pasáže o svém předkovi si nechal označit.
 

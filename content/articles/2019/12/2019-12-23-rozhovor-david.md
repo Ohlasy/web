@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Jiřím Davidem. S manželkou Veronikou se před několika lety přistěhoval do Kunštátu, pracuje jako vedoucí knihovny v Památníku písemnictví v Rajhradě. Náš rozhovor, vedený původně pro časopis Na rozcestí, se týkal Jiřího křesťanské víry, osobní angažovanosti a zkušenosti s církevní praxí.*
 
-{% photo src="https://i.ohlasy.info/i/3832d926.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/3832d926.jpg" author="Tomáš Trumpeš" /%}
 
 **Jiří, pocházíš z katolické rodiny? Nebo jak ses dostal ke křesťanství?**
 
@@ -68,7 +68,7 @@ To asi ne.
 
 Ano. Tehdy taky ještě neexistovaly RFK nebo Prázdné trůny, Umlaufoviny byly hodně pionýrské. Dnes člověk vnímá katolický disent, který o sobě dává docela vědět, ale ten tehdy nebyl, takže jsem se v tom cítil spolu s kolegy z Umlaufovin hodně osamocený. To na tom bylo nepříjemné.
 
-{% photo src="https://i.ohlasy.info/i/7718c4d0.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/7718c4d0.jpg" author="Tomáš Trumpeš" /%}
 
 **Nakonec to ale dopadlo tak, že jsi odešel z obou těch světů – opustil jsi Umlaufoviny i život praktikujícího katolíka. Jak to?**
 
@@ -120,7 +120,7 @@ I z praktického důvodu. Ne že bych si nechával zadní vrátka, ale uvědomuj
 
 Většinou to respektovali. Narazil jsem na jediný případ člověka, kterého to nepříjemně zaskočilo a měli jsme o tom delší rozmluvu. Ale i to bylo způsobeno hlavně tím, že toho člověka opravdu mrzelo, že odcházíme. Jinak se k tomu všichni postavili tolerantně. Spíš bych řekl, že vnímali pozitivněji přechod k jiné církvi než přechod k ateismu. To mi říkali explicitně: Je lepší, že chodíte do jiné církve, než kdybyste zapomněli na Pána Boha.
 
-{% photo src="https://i.ohlasy.info/i/a4f5c317.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/a4f5c317.jpg" author="Tomáš Trumpeš" /%}
 
 **Jak hledíš do budoucnosti? Jaký vidíš možný vývoj církví k ekumeně a vůbec pozici křesťanů v české společnosti?**
 

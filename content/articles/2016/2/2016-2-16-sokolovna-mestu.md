@@ -9,7 +9,7 @@ tags: sokolovna investice kultura
 
 *Zanedbaný interiér boskovické sokolovny člověka odrazuje hned po vstupu. Budovu vlastní Česká obec sokolská, pro kterou je ale její provoz v poslední době ekonomicky téměř neudržitelný. O nutných opravách interiérů není možné mluvit už vůbec. Podle jednatele boskovických sokolů Karla Malacha je jediným východiskem převod budovy na město.*
 
-{% photo src="https://i.ohlasy.info/i/pr9rxn3.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pr9rxn3.jpg" author="Tomáš Znamenáček" /%}
 
 „Jsme jakž takž schopni udržet provoz, ale nejsme schopni investovat,“ uvedl jednatel Sokolu Boskovice Karel Malach. Roční náklady boskovické sokolovny dosahují 1,25 milionu korun, což zhruba pokryjí příjmy z nájmů. Milionové investice do vnitřních prostor sokolovny nemají sokoli kde vzít. Pomoci jim nemůže ani celostátní Česká obec sokolská. „Po pádu Sazky už nemá prostředky, aby financovala větší opravy kdekoliv v Česku,“ doplnil Malach.
 

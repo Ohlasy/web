@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Adamem Honzírkem, prvním kontrabasistou České filharmonie a nyní laureátem Ceny města Boskovic za kulturu. Adam je z Mladkova, v Boskovicích studoval základní uměleckou školu a krátce gymnázium, z něhož odešel na konzervatoř Jana Deyla do Prahy. Jeho profesor kontrabasu v magazínu Opera plus řekl: „V osobě Adama Honzírka se sešly všechny aspekty potřebné k tomu, aby z něj byl nejlepší kontrabasista současnosti, tzn. neobyčejný talent provázený nevšední pílí podpořený velkou inteligencí.“ S Adamem jsme mluvili o jeho úspěších, ale třeba i jeho pohledu na boskovickou kulturu.*
 
-{% photo src="https://i.ohlasy.info/i/45e5c378.jpeg" caption="Adam Honzírek na koncertě v boskovickém zámeckém skleníku" author="Monika Šindelková" %}
+{% photo src="https://i.ohlasy.info/i/45e5c378.jpeg" caption="Adam Honzírek na koncertě v boskovickém zámeckém skleníku" author="Monika Šindelková" /%}
 
 **V současnosti jsi profesionální muzikant, filharmonik a první kontrabasista právě v České filharmonii.  Vždy si chtěl hrát na kontrabas ve velkém orchestru, věnovat se takovým způsobem vážné hudbě a živit se tím?**
 
@@ -51,7 +51,7 @@ Momentálně nic takového neplánuji. Vždy, když jsem se něčeho takového �
 
 Prostě se snažím hrát hezky a být lepší, než jsem byl minule. Nic většího, nebo lepšího být asi ani nemůže. 
 
-{% photo src="https://i.ohlasy.info/i/5ce3c3d8.jpeg" caption="Adam Honzírek na koncertě v boskovickém zámeckém skleníku" author="Vladimír Friš" %}
+{% photo src="https://i.ohlasy.info/i/5ce3c3d8.jpeg" caption="Adam Honzírek na koncertě v boskovickém zámeckém skleníku" author="Vladimír Friš" /%}
 
 **Nedávno jsi od města Boskovice dostal cenu za přínos pro kulturu. Jak takové věci vnímáš a myslíš si, že má smysl oceňovat takto lidi za kulturu na malém městě?**
 

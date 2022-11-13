@@ -8,7 +8,7 @@ tags: politika
 
 *Přerod hnutí ANO z protestního uskupení stavícího víceméně jen na svém lídrovi a na puncu novosti ve standardně a celostátně fungující politickou organizaci neprobíhá zcela hladce a beze ztrát. Na celostátní úrovni zmizely některé tváře, které byly s Babišovým hnutím v počátku výrazně spojeny, další mizí postupně. Nejinak je tomu i v regionech a také v Boskovicích. Zde už ANO opustili dokonce dva předsedové. Nejprve Vladimír Jakubec, který zde hnutí zakládal, nyní i Luděk Řehoř, který je vedl do komunálních voleb.*
 
-{% photo src="https://i.ohlasy.info/i/hdnfdrw.jpg" %}
+{% photo src="https://i.ohlasy.info/i/hdnfdrw.jpg" /%}
 
 „Po několikaměsíční úvaze o smyslu a podstatě mého členství v politickém hnutí ANO jsem dospěl ke konečnému rozhodnutí dále členství neužívat,“ napsal Luděk Řehoř v prohlášení, ve kterém své členství ukončuje. „Důvody, které mne k tomuto rozhodnutí vedou, jsou vepsány v mém nitru a nechci je zveřejňovat,“ uvádí dále v e-mailu, který mají Ohlasy k dispozici. Nyní se chce boskovický podnikatel věnovat svým projektům, které by měly rovněž sloužit veřejnosti. Přímé politické angažmá však ukončuje a ostatním členům hnutí přeje, aby své kroky vedli s čistými úmysly a správným směrem.
 

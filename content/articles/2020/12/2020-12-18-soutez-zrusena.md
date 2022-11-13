@@ -9,7 +9,7 @@ tags: architektura
 
 *Boskovičtí radní zrušili i druhý pokus o architektonickou soutěž na sportovní halu. Z vybraných pěti uchazečů odevzdal plnohodnotný návrh jen jeden, což neumožňuje soutěž dokončit. Řízení k soutěži navíc zahájil Úřad pro ochranu hospodářské soutěže. A vítězný ateliér překročil finanční zadání – město chtělo halu za 120 milionů, ale kalkulace návrhu vyšla na dvojnásobek.*
 
-{% photo src="https://i.ohlasy.info/i/8c073b73.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/8c073b73.jpg" author="Tomáš Trumpeš" /%}
 
 Jaký bude další postup města, není zatím jasné. Radnice chce rozhodnout během ledna, už nyní však od starosty Jaroslava Dohnálka (ODS) a místostarosty Radka Mazáče (Sportovci) zaznívá poměrně jasně, že na třetí pokus o vyhlášení soutěže to nevypadá.
 
@@ -19,7 +19,7 @@ Do druhé soutěže se přihlásilo šestnáct uchazečů, ze kterých komise vy
 
 A nad soutěží se také opět vznášelo riziko zásahu ÚOHS. Úřad v průběhu soutěže provedl šetření a shledal důvody pro to, aby bylo zahájeno správní řízení. „V uvedeném případě zahájil Úřad na základě prošetření podnětu prvostupňové správní řízení, které v současné době probíhá. Úřad v rámci řízení prověřuje zejména otázku složení poroty, která má hodnotit návrhy předložené v této architektonické soutěži. Nicméně podle našich informací zadavatel mezitím soutěž o návrh zrušil. Obvykle se v takových případech správní řízení zastavuje. Obdobný postup lze nejspíše očekávat i u Boskovic,“ popsal pro Ohlasy tiskový mluvčí ÚOHS Martin Švanda. Konečného verdiktu, zda byla městem vypsaná soutěž nezákonná, se tedy nedočkáme.
 
-{% photo src="https://i.ohlasy.info/i/02263e6d.jpg" caption="Návrh od ateliéru K4" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/02263e6d.jpg" caption="Návrh od ateliéru K4" author="Tomáš Trumpeš" /%}
 
 ### Cena haly a projektu
 
@@ -37,7 +37,7 @@ Přestože tento hlavní argument proti soutěži přes komoru padá, neskrývá
 
 Vedení města nevylučuje, že by k přepracování návrhu mohlo vyzvat ateliér K4, případně, ale už méně pravděpodobně, ateliér Omega, který odevzdal jen grafický návrh. Vzhledem k zákonu o zadávání veřejných zakázek by takto mohlo město získat pouze finální architektonickou studii a zpracování projektové dokumentace by muselo vzhledem k výši zakázky následně soutěžit samostatně, jak potvrdil městský právník Martin Moučka.
 
-{% photo src="https://i.ohlasy.info/i/8af7a310.jpg" caption="Návrh od ateliéru Omega" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/8af7a310.jpg" caption="Návrh od ateliéru Omega" author="Tomáš Trumpeš" /%}
 
 ### Hodnocení návrhů a další postup
 

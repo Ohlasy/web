@@ -10,7 +10,7 @@ tags: historie
 
 *Ovšemže žije stejně jako jiní autoři ve svém literárním díle, po delší době však ožil opět také na jevišti, a to na scéně pražského divadla X10, které loni uvedlo dramatizaci Ungarova románu Zmrzačení. A přicházím s dobrou zprávou, že tato inscenace by měla být v letošním roce uvedena i v Boskovicích. V této souvislosti jsem se rozhodla, milí přátelé, že se opět již poněkolikáté vrátím k tématu „Hermann Ungar“, a sice formou třídílné minisérie, kdy si společně uděláme jakési opáčko z Hermanna Ungara.*
 
-{% photo src="https://i.ohlasy.info/i/0ca8e250.jpg" caption="Z inscenace Ungarova románu Zmrzačení divadla X10" author="Dita Havránková" %}
+{% photo src="https://i.ohlasy.info/i/0ca8e250.jpg" caption="Z inscenace Ungarova románu Zmrzačení divadla X10" author="Dita Havránková" /%}
 
 A bezpochyby se s tímto nejvýznamnějším rodákem z židovských Boskovic budeme setkávat i v budoucnu, neboť téma Hermann Ungar v sobě skrývá vrstvy ještě zdaleka ne plně prozkoumané.
 

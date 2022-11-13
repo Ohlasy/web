@@ -9,7 +9,7 @@ tags: koronavirus nemocnice
 
 *Boskovická nemocnice zatím odeslala k analýze něco přes devadesát vzorků svých pacientů. Pozitivní byl pouze jeden z nich. Na okrese je celkem sedmnáct případů pozitivně testovaných. Pro urychlení testů chtějí v Boskovicích pořídit vlastní analyzátor.*
 
-{% photo src="https://i.ohlasy.info/i/313d9311.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/313d9311.jpg" author="Tomáš Trumpeš" /%}
 
 „Od zavedení kontroly pacientů do dnešního dne jsme se setkali s devadesáti dvěma podezřelými pacienty, kterým jsme provedli testy. Pozitivní byl jeden,“ uvedl v úterý 14. dubna odpoledne jednatel boskovické nemocnice Dan Štěpánský. Kromě přímých příznaků jako vysoká teplota, dušnost či suchých kašel se hlavně v počátcích řešila také cestovatelská anamnéza – tedy lidé, kteří se vrátili z oblastí s vysokým výskytem nemoci covid-19. Velká část pacientů s podezřením na nemoc covid-19 jsou pacienti přivezení záchrannou službou. Mají jiné zdravotní potíže, které mohou být kombinovány s nákazou.
 
@@ -23,7 +23,7 @@ Personál v boskovické nemocnici zatím netestovali, vzhledem k tomu, že zde n
 
 Zároveň je možné, že v Boskovicích jsou další pozitivně testovaní lidé s nemocí covid-19, kteří neprošli nemocnicí a byli testováni kupříkladu v Brně. Jejich počet ale podle Dana Štěpánského nebude nijak vysoký – podle informací, které poskytuje krajská hygienická stanice, je na okrese Blansko ke 14. dubnu zatím celkem sedmnáct pacientů s pozitivním výsledkem testu. „O těchto pacientech neznáme detaily, ale lze předpokládat, že ti s vážným průběhem se nacházejí na lůžkách s intenzivní péčí v Brně, ti s méně vážným průběhem na klinice infekčních chorob a ti s bezpříznakoví či s minimálními příznaky jsou v domácím léčení,“ vysvětlil jednatel nemocnice.
 
-{% photo src="https://i.ohlasy.info/i/572a893c.jpg" caption="Jednatel nemocnice Dan Štěpánský" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/572a893c.jpg" caption="Jednatel nemocnice Dan Štěpánský" author="Tomáš Trumpeš" /%}
 
 ### Vývoj pandemie a přípravy
 

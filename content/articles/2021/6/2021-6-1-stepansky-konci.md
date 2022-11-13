@@ -9,7 +9,7 @@ tags: nemocnice
 
 *Po dvou letech se rozhodl ukončit své působení v čele Nemocnice Boskovice jednatel Dan Štěpánský. Do nemocnice nastoupil už na podzim roku 2016 jako ekonomický náměstek tehdejšího jednatele Miloše Janečka. Po jeho odchodu se v únoru 2019 nejvyšší funkce v nemocnici [ujal nejprve z pověření rady](https://ohlasy.info/clanky/2019/02/stepansky-jednatelem.html), poté uspěl v konkurzu.*
 
-{% photo src="https://i.ohlasy.info/i/5a0ec4e6.jpeg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5a0ec4e6.jpeg" caption="Dan Štěpánský" author="Tomáš Znamenáček" /%}
 
 Po dlouhém předchozím období, kdy nemocnici provázely politické spory, neustálé diskuse a napětí, to vypadalo, že nemocnice pod vedením Dana Štěpánského konečně prochází obdobím personální stability a klidnější atmosféry mezi zaměstnanci, mezi vedením nemocnice a města i směrem k veřejnosti. Toto období však poněkud nečekaně končí.
 

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Nového ředitele boskovické základní umělecké školy nakonec nejmenovala na svém jednání v pondělí 3. srpna krajská rada Jihomoravského kraje. Ta namísto toho celé výběrové řízení zrušila a vyhlásí nové.*
 
-{% photo src="https://i.ohlasy.info/i/4ldhvc3.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4ldhvc3.jpg" author="Tomáš Znamenáček" /%}
 
 „Výběrová komise sice doporučila jednoho uchazeče z celkem deseti přihlášených, který po odborné stránce nejvíce splňoval předpoklady pro funkci ředitele, nicméně s ohledem na to, že tento návrh vzbudil vlnu negativních ohlasů mezi odbornou i laickou veřejností, Rada Jihomoravského kraje se rozhodla vyhlásit nové výběrové řízení,“ informovala v pondělí po jednání krajské rady Ohlasy tisková mluvčí kraje Monika Brindzáková. A doplnila: „Důvodem je, že s ohledem na vyhrocenou situaci na škole nejevil žádný z uchazečů způsobilost tuto situaci zklidnit.“
 

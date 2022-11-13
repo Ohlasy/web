@@ -8,7 +8,7 @@ tags: podnikání
 
 *Jako město pro byznys Boskovice příliš nebodují. Alespoň ve stejnojmenné soutěži, kterou pořádá každoročně agentura Datank. V Jihomoravském kraji letos skončily Boskovice na 17. místě z 21 hodnocených měst, v celkovém hodnocení za celou republiku jsou až na 181. místě z 205 obcí z rozšířenou působností. Pojďme se tedy podívat, jak si město stálo v jednotlivých kritériích hodnocení. K tématu připojujeme anketu s místními podnikateli, kterých jsme se zeptali, jak jsou s místním podnikatelským prostředím spokojeni.*
 
-{% photo src="https://i.ohlasy.info/i/qgjltsp.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/qgjltsp.jpg" author="Tomáš Znamenáček" /%}
 
 [Celá soutěž má dva základní hodnotící okruhy](http://www.mestoprobyznys.cz/download/2014/8.Jihomoravsky_2015.pdf), prvním je podnikatelské prostředí a druhým přístup veřejné správy. Některé obce dosahují v těchto dvou oblastech výrazně odlišných výsledků, ne tak Boskovice, které skončily v první oblasti na 16. a ve druhé na 17. příčce v kraji. 
 

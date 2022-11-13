@@ -9,7 +9,7 @@ tags: kultura
 
 *Dva festivaly, křest nového alba, DJs, letní projekce a několik samostatných koncertů, je toho zase spousta. Letní kulturní sezona v Boskovicích pokračuje a je to jízda i přes omezení, která byla a pravděpodobně zase budou. Všechna čest organizátorům, kteří se nebojí a kulturu i přesto dělají. Jenže všechno zlé pro něco dobré a tady to platí taky. Dle mého pohledu dostal větší pozornost po dlouhé době domácí Festiválek bez bojů a válek a spousta menších jednotlivých akcí, které by kdekdo nechal bez povšimnutí. Lidi, choďte na kulturu, protože to je ten nejlepší způsob, jak můžete tento už tak podhodnocený sektor podpořit.*
 
-{% photo src="https://i.ohlasy.info/i/fbf1f2c2.jpg" caption="Festiválek bez bojů a válek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/fbf1f2c2.jpg" caption="Festiválek bez bojů a válek" author="Tomáš Trumpeš" /%}
 
 ### Alen: Křest alba
 

@@ -10,7 +10,7 @@ tags:
 
 *Vedení boskovické radnice prezentovalo svou představu o dalším řešení problematiky sportovní haly zastupitelům na uzavřeném semináři. Zaznělo několik variant, přičemž jako preferovaná byla uvedena ta, která počítá s přepracováním studentské architektonické práce z roku 2016. Opozice je ostře proti této cestě.*
 
-{% photo src="https://i.ohlasy.info/i/6a1ffb14.jpg" caption="Studentský návrh Terezy Jílkové z roku 2016, který radní navrhují dále upravit a použít" author="Tereza Jílková" %}
+{% photo src="https://i.ohlasy.info/i/6a1ffb14.jpg" caption="Studentský návrh Terezy Jílkové z roku 2016, který radní navrhují dále upravit a použít" author="Tereza Jílková" /%}
 
 Místostarostka Michaela Žejšková (TOP 09) zastupitelům připravila prezentaci více variant. První se týkala dosavadního návrhu mexického architekta Alberto Kalacha. Ten s ním připravuje boskovický městský architekt Zdeněk Fránek, z pracovní skupiny ale vzešly pochybnosti týkající se objemu stavby, její ceny a také umístění na městských pozemcích. Jako druhá možnost byla prezentovaná architektonická soutěž a jako třetí právě dopracování [existující studie Terezy Jílkové](https://data.ohlasy.info/2021/hala-jilkova.pdf), která ji vytvořila v roce 2016 jako studentka architektury v ateliéru Zdeňka Fránka na Technické univerzitě v Liberci. 
 

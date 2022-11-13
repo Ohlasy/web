@@ -11,7 +11,7 @@ tags:
 
 *Je střet zájmů v Boskovicích jen módní slovo, nebo reálný politický problém? Ohlasy se pokusily zjistit názory reprezentantů jednotlivých politických uskupení. Názory nejsou zjevně zcela jednotné, a to ani uvnitř koalice, ani v opozici. Zdá se ale, že zametená pod kobercem zatím celá záležitost není.*
 
-{% photo src="https://i.ohlasy.info/i/f7586321.jpg" caption="Zasedání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/f7586321.jpg" caption="Zasedání zastupitelstva" author="Tomáš Trumpeš" /%}
 
 O kauze boskovického místostarosty Radka Mazáče (STAN a Sportovci Boskovice) Ohlasy [poprvé informovaly na začátku roku](https://ohlasy.info/clanky/2021/01/stret-zajmu-mazac.html). Tehdy vyšlo najevo, že místostarosta má za město na starosti stavbu nového okrsku centrálního zásobování teplem a firma Energochem, v jejímž vedení působí, se na zakázce podílí jako subdodavatel v rozsahu více než osmi milionů korun. Kromě toho se již loni ukázalo, že zakázka nakonec město přijde výrazně dráž, než původně předpokládalo, ale vedení radnice nejprve odmítalo důvody prodražení prověřit auditem.
 

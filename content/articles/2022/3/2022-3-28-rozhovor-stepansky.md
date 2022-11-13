@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Rozhovor s Danem Štěpánským, jednatelem boskovické nemocnice. Ptali jsme se na průběh letošní omikronové vlny covidu, na aktuální situaci v nemocnici a také na návštěvu ministra zdravotnictví Vlastimila Válka (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak moc zasáhla boskovickou nemocnici omikronová vlna covidu, která začala přibližně v polovině ledna?**
 

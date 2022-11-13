@@ -9,7 +9,7 @@ tags:
 
 *Kde budou domy, kde jen zeleň, kam se bude moci rozšiřovat průmyslová zóna? Na tyto a další otázky odpovídá nedávno dokončený návrh nového územního plánu Boskovic. Vedení města chce ještě o jeho podobě diskutovat s veřejností. Setkání se bude konat 19. března od 16 hodin ve velké zasedací místnosti na radnici.  V následujícím textu přinášíme přehled největších aktuálně plánovaných změn.*
 
-{% photo src="https://i.ohlasy.info/i/idwxp1t.png" %}
+{% photo src="https://i.ohlasy.info/i/idwxp1t.png" /%}
 
 ### Bydlení
 
@@ -25,7 +25,7 @@ Další územní rezerva je vyčleněna pro silnici na Jevíčko, která by se n
 
 Nová ulice má vzniknout mezi Chrudichromskou a Nádražní. Kamionová doprava by se tak mohla částečně odklonit z nepřehledné křižovatky u Slavie. Otázkou je, jestli se situace jen nepřesune jinam, totiž na křižovatku Nádražní a Sokolské. Případně po zprůjezdnění Štefánikovy ulice, které je v plánu také zakresleno, je možné, že těžká doprava z průmyslové zóny pojede právě tudy jakožto nejkratší cestou. 
 
-{% photo src="https://i.ohlasy.info/i/oeb4ftz.png" %}
+{% photo src="https://i.ohlasy.info/i/oeb4ftz.png" /%}
 
 ### Průmysl
 
@@ -37,7 +37,7 @@ Průmysl se bude moci rozšiřovat ale i jinde než jen v zóně. Své budovy le
 
 Parků a zeleně v centru Boskovic nepřibude, ale ani neubude. Na sídlišti Pod Oborou, kde jsou zvyklí na zeleň mezi domy, ale nemusí být zeleň navždy. Všechny bytovky včetně školky, školy a penzionu pro seniory jsou v územním plánu pod několika odstíny růžové barvy, což bylo i dosud. Žádná zelená barva na plochách mezi domy není. Podobná situace je i u bytovek na Čížkovách. Podle Milana Štulpy, který má na městském úřadě na starost územní plánování, se zeleň mezi bytovými domy nezakresluje. Bylo by to moc podrobné a v případě nějakých změn složité kvůli nutnosti úprav plánu. Jediná zeleň, o kterou by obyvatelé města skutečně měli přijít, je proluka v židovské čtvrti v ulici U Koupadel. V plánu je její zastavění. Ochranný zelený pás má naopak vzniknout za kolejemi, kde se plánuje průmyslová plocha, jak je zmíněno dříve.
 
-{% photo src="https://i.ohlasy.info/i/wslvv2r.png" %}
+{% photo src="https://i.ohlasy.info/i/wslvv2r.png" /%}
 
 ### Rekreace
 

@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Již nějakou dobu poměrně poklidné vody boskovické politiky a zejména veřejné diskuse rozvířila v minulém týdnu iniciativa Miloše Pachla na [záchranu takzvaného Dvořáčkova mlýna v Červené zahradě](http://www.ohlasy.info/clanky/2017/09/dvorackuv-mlyn.html). O jeho demolici se mluvilo delší dobu, konkrétní ortel by nad mlýnem mohlo vyřknout nejbližší zářijové zastupitelstvo.*
 
-{% photo src="https://i.ohlasy.info/i/b49kiph.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/b49kiph.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" /%}
 
 Koalici ČSSD, KDU-ČSL a hnutí ANO, která ještě s účastí nestraníka Vladimíra Farského zvoleného za KSČM vládne Boskovicím už skoro tři roky, se výraznější konfrontace s odporem veřejnosti zatím vyhýbala. Po předchozím volebním období, kdy si Boskovice zažily masivní petici proti záměru vybudovat Dinopark v Doubravách, noční demonstraci proti vyhlášce omezující provoz hospod a referendum o stavbě sportovní haly, tak došlo k výraznému zklidnění. Jistě, politické střety byly zejména zpočátku po výměně sil na radnici poměrně ostré, ale odehrávaly se především na zastupitelstvu a v politických kruzích. Hlas veřejnosti se proti konkrétnímu záměru radnice zvedl až dnes.
 

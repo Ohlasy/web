@@ -10,7 +10,7 @@ tags:
 
 *O třetinu se oproti původním plánům prodražila stavba rozvodů tepla v části Boskovic. I proto byla tato zakázka předmětem [diskuzí mezi zastupiteli](https://ohlasy.info/clanky/2020/12/zastupitelstvo.html) a nakonec byla i jedním z důvodů [pádů koalice](https://ohlasy.info/clanky/2021/03/pad-koalice.html). Vedení města zadalo zpracovat kontrolní audit, kontroloři ale na zásadní pochybení nepřišli. Za zakázkou navíc zůstávají dluhy.*
 
-{% photo src="https://i.ohlasy.info/i/bc9a3044.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/bc9a3044.jpg" author="Tomáš Trumpeš" /%}
 
 O [výsledcích auditu](https://data.ohlasy.info/2021/audit-czt.pdf), který prováděla teplická firma Garnets Consulting, už Ohlasy informovaly [v reportu zpráv z radnice](https://ohlasy.info/clanky/2021/05/z-radnice.html). Vedení města informovalo o tom, že podle závěrů auditu se vícepráce nedaly předvídat. „Práce byly provedeny v obvyklé kvalitě, vícepráce jsou podle našeho názoru oprávněné a bez jejich provedení by nebylo možné projekt dokončit,“ stojí v posudku podepsaném Jakubem Jursou ze zmíněné společnosti. Ta měla k dispozici kompletní projektovou dokumentaci, zápisy z kontrolních dnů, fotodokumentaci i smlouvu o dílo včetně všech dodatků.
 

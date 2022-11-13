@@ -9,7 +9,7 @@ tags: nemocnice koronavirus
 
 *Rozhovor s Danem Štěpánským, jednatelem boskovické nemocnice. Ta po kompletním zákazu návštěv a kontrole všech příchozích vytvořila v souvislosti s epidemií koronaviru nové oddělení. Bude na něj umisťovat všechny pacienty, u kterých se objeví jakékoliv příznaky nemoci COVID-19. Tímto způsobem je chce co nejvíce izolovat od ostatních.*
 
-{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" author="Tomáš Znamenáček" /%}
 
 **Poslední dny důsledně kontrolujete vstup do nemocnice. Jsou povoleny vůbec nějaké návštěvy?**
 

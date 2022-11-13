@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Kauza vyhazovu Tomáše Julínka z boskovické nemocnice neskončila pravomocným rozsudkem o neplatné výpovědi. Exministr zdravotnictví za ODS chce po nemocnici za dobu dvou let od vyhazovu do rozsudku ušlou mzdu.*
 
-{% photo src="https://i.ohlasy.info/i/pbhcdr7.jpg" caption="Tomáš Julínek u soudu" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/pbhcdr7.jpg" caption="Tomáš Julínek u soudu" author="Marek Osouch" /%}
 
 Julínek se chtěl původně na ušlé mzdě domluvit s nemocnicí mimosoudně. Jenže takový postup se nelíbil většině boskovických radních, kteří jsou zároveň členy valné hromady, a naopak doporučili vedení nemocnice, aby postupovalo soudní cestou.
 

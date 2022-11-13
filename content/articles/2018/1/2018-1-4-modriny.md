@@ -9,7 +9,7 @@ serial: stromy
 
 *Už několik týdnů nosím z lesa chvojí z popadaných stromů po nedávné bouři. Prodírám se mezi zlámanými kmeny a bezradně hledím na vyvrácené kořeny. Potěšující je, že všude kolem roste mnoho malých stromečků. I kdyby lidé nezasáhli, za několik let tu bude nový hustý smíšený les. Jen jeden padlý modřín jsem objevila mezi ležícími smrky v kopci nad Červenou zahradou.*
 
-{% photo src="https://i.ohlasy.info/i/zwx6kyl.jpg" author="Martina Lukešová" %}
+{% photo src="https://i.ohlasy.info/i/zwx6kyl.jpg" author="Martina Lukešová" /%}
 
 Modříny si vytvořily mimořádnou schopnost obnovovat své jehlice, přiblížily se tak listnatým stromům. Proto modřín *opadavý*, *Larix decidua*. Pro svůj růst však modříny potřebují dostatek světla jako břízy, kterým se také podobají schopností přizpůsobovat se. Ačkoli jsou to stromy horské až vysokohorské (původně se vyskytovaly jen v Alpách a Karpatech), dobře rostou i v nižších polohách, kde jsou popisovány jako samostatný druh, modřín polský. Zvláštnost a jedinečnost modřínů se projevuje nejen v každoroční výměně jehlic, ale také v jejich dřevě, které je pevnější a odolnější, protože má vyšší obsah pryskyřice než dřevo smrků, jedlí i borovic. Tato pryskyřice se využívala k výrobě takzvaného benátského terpentýnu. Modříny jsou proto obecně vysoce ceněny jako lesnické a krajinotvorné dřeviny. 
 
@@ -25,7 +25,7 @@ Vždy, když se dívám do kopců v okolí Boskovic, pohladí mě po duši, že 
 
 Často jsou vysázeny v řadách nebo ve skupinách tak pravidelných, že je zřejmé, že je vysázely ruce lesních dělníků. Daly by se takto vytvářet obrazce utajené pro běžné návštěvníky lesa, ale z výšky by na jaře z temné zeleně smrků najednou vystoupily. Zjara zářivě zelené, na podzim zlatavé. Jako tahy štětcem čínských a japonských kaligrafů by nám mohly připadat.
 
-{% photo src="https://i.ohlasy.info/i/omqueds.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/omqueds.jpg" author="Tomáš Znamenáček" /%}
 
 Často jsem na pochybách, když vidím nádheru přírody, čistou bez lidského zásahu, a stejně tak mě uchvacuje krása tvořivosti člověka. Stejně jako se nám může zdát drsná divočina a přežití v ní, tak drsná je i lidská společnost. To, co vidím v moudrosti modřínů, je ukázka individuality v tom nejněžnějším provedení. Žádné pichlavé jehlice. Žádné ostré hrany. Modřín se nezdá být vyhraněný a jeho rašící větévky s načervenalými šišticemi (samičí květy) připomínají spíš plyš než nějaký projev jehličnatého stromu. Proto nás potěší mezi stromy v parcích a v sídlištní zelení. Ačkoli je to lesnická dřevina, může stejně jako borovice městské klima snášet. Potřebuje však prostor, dorůstá až padesáti metrů. Pro zahrady je vhodné použít nějaký jeho okrasný kultivar.
 
@@ -37,7 +37,7 @@ Jeden z nejzajímavějších a nejmohutnějších modřínů roste v CHKO Moravs
 
 Mohutný modřín najdeme v zámeckém parku ve Velkých Opatovicích a velice zajímavá je alej mohutných modřínů ve Valticích na Břeclavsku.
 
-{% photo src="https://i.ohlasy.info/i/zmctohh.jpg" author="Martina Lukešová" %}
+{% photo src="https://i.ohlasy.info/i/zmctohh.jpg" author="Martina Lukešová" /%}
 
 ### Léčení a tradování
 

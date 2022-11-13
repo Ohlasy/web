@@ -10,7 +10,7 @@ tags:
 
 *S odsouzením se nechtěli smířit obžalovaní, které předloni na podzim potrestal Krajský soud v Brně kvůli podvodům při stavbě boskovické solární elektrárny na Chrudichromské ulici. Téměř všichni se odvolali, a tak se spis přesunul k odvolací instanci na Vrchní soud do Olomouce. Ten ale jejich odvolání veskrze zamítl a tresty se tak staly pravomocnými.*
 
-{% photo src="https://i.ohlasy.info/i/38827466.jpg" caption="Boskovická solární elektrárna" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/38827466.jpg" caption="Boskovická solární elektrárna" author="Tomáš Znamenáček" /%}
 
 Boskovická solární elektrárna byl jeden velký podvod. Tak se dá shrnout rozhodnutí krajského i vrchního soudu. Díky nepravdivým údajům, revizím a zprávám získal tehdejší provozovatel fotovoltaických panelů firma AKAM Bosko licenci na provoz elektrárny v poslední možný den vysokých výkupních cen 31. 12. 2010. Pokud by ji společnost provozovala následujících dvacet let, jak stálo v nájemní smlouvě s městem Boskovice, mohla státu způsobit škodu přesahující astronomických 386 milionů korun. Nakonec to sice bylo méně, nicméně i tak škoda vznikla a stal se trestný čin, jak konstatoval soud.
 

@@ -9,7 +9,7 @@ tags: nemocnice
 
 *Boskovická městská rada zrušila probíhající výběrové řízení na jednatele nemocnice, která funguje jako společnost s ručením omezeným stoprocentně vlastněná městem. Dosavadní jednatel Dan Štěpánský stáhl svou abdikaci a rozhodl se ve funkci pokračovat.*
 
-{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" /%}
 
 Odchod z jednatelské pozice oznámil Dan Štěpánský koncem jara. „Problémy převážily nad přínosy toho, že jsem mohl řídit takto skvělou organizaci. Nemocnici se podařilo provést covidovou krizí, ta teď ustupuje a nemocnice si tak může najít nového energického manažera,“ [uvedl tehdy pro Ohlasy](https://ohlasy.info/clanky/2021/06/stepansky-konci.html). V obsáhlém rozhovoru, který jsme s ním vedli [v Ohlasech naživo](https://ohlasy.info/clanky/2021/06/rozhovor-stepansky.html), pak dodal: „Každý manažer, každý přístroj nebo i dostihový chrt má určitou životnost, kdy je schopen poskytovat výkon, který se od něho očekává. To je na manažerské práci asi nejtěžší, najít ten správný okamžik, kdy nějakým sebezpytováním zjistíte, že už je toho velmi málo, co můžete té organizaci nabídnout, aniž byste sami sebe přivedli do nějaké kolapsové situace. Já jsem to vyhodnotil tak, že se skončením covidu pro mě osobně ta situace nastala.“
 

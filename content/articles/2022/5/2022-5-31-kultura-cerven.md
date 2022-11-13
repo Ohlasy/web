@@ -8,7 +8,7 @@ category: zpravodajství
 
 *V červnovém kulturním výběru všeho zajímavého, co se v Boskovicích koná, se dějí opět pozoruhodné věci. Začínáme zostra, a to koncertem Stromboli a kapely Trio Ponk. Za zmínku stojí také Kristina Bárta, která zahraje v Letovicích, nebo další díl pořadu Jazz and Blues v boskovickém skleníku. Také nás čeká spousta přednášek a jeden křest, protože Petr Ondráček a spolek architektů SRAB budou křtít takzvanou ArchiMapu. Nebude chybět ani Impro nebo filmová nabídka.*
 
-{% photo src="https://i.ohlasy.info/i/efde4208.jpg" caption="V závěru června se můžeme v Boskovicích těšit na Ivu Bittovou" %}
+{% photo src="https://i.ohlasy.info/i/efde4208.jpg" caption="V závěru června se můžeme v Boskovicích těšit na Ivu Bittovou" /%}
 
 ### Stromboli
 

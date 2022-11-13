@@ -11,7 +11,7 @@ tags:
 
 *„Vy jste hrozní idealisté, takhle politika fungovat nikdy nebude! To víte, že to politikům zase projde, jako vždycky a všechno, nebuďte naivní!“ – Argument či výtka, se kterou se asi nejen my v Ohlasech setkáváme poměrně často. Netajíme se tím, že k politice a vůbec veřejnému dění přistupujeme s pořádnou dávkou idealismu a také s pořádnou dávkou optimismu. Věci se totiž mění a to dost často k lepšímu. Nepočítat s tím je politicky dosti neprozíravé, spíše by se hodilo říct: naivní.*
 
-{% photo src="https://i.ohlasy.info/i/f6187fdc.jpg" caption="Vedení města: místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/f6187fdc.jpg" caption="Vedení města: místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Tomáš Trumpeš" /%}
 
 Zrovna v těchto dnech se v Boskovicích naplno rozbíhá nová podoba dotačního titulu pro kulturu. Celý systém je vstřícnější a hlavně má o podpoře kultury rozhodovat namísto politiků nezávislá, odborná komise. O potřebnosti této změny jsem psal už před mnoha lety v Boskovicku, [vloni jsme se tématu intezivněji věnovali](https://ohlasy.info/clanky/2020/05/grantovy-system.html), když se svévolné a neodborné hodnocení komise už úplně vymklo kontrole. Celé roky jsem v různých debatách slýchal, že jsem naivní a politici nikdy rozhodovací pravomoc u grantů z rukou nepustí. Právě to se ale ukázalo jako naivní, tlak kulturní veřejnosti se postupně zvyšoval, přišla nová generace politiků a dosavadní model už byl neobhajitelný a neudržitelný. Ke změně k lepšímu došlo.
 

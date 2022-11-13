@@ -8,7 +8,7 @@ author: David Liber
 
 *Dubnový výběr je tu. Tentokrát dost pozdě, ale přece. Pozdní vydání výběru u mě způsobilo mimo jiné pozvolné probouzení kultury z pandemického a koneckonců i obyčejného každoročního zimního spánku. Tentokrát bych vás rád pozval na oslavy kulatého výročí města Boskovice, které proběhnou například formou přednášek o Karlu Absolonovi a Josefovi Augustovi a vystoupením folklorní taneční skupiny Velen. Za zmínku stojí také další díl koncertního cyklu FOLKS! a rockový koncert v sokolovně. Proběhnou taky další Ohlasy naživo.*
 
-{% photo src="https://i.ohlasy.info/i/e98b8f81.png" caption="Marek Bělohlávek: Euforia (výřez)" author="Marek Bělohlávek" %}
+{% photo src="https://i.ohlasy.info/i/e98b8f81.png" caption="Marek Bělohlávek: Euforia (výřez)" author="Marek Bělohlávek" /%}
 
 ### Memoriál Karla Absolona a Josefa Augusty k oslavám 800 let města Boskovice
 

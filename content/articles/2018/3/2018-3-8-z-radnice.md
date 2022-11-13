@@ -7,7 +7,7 @@ category: zpravodajství
 
 Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady na konci února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.
 
-{% photo src="https://i.ohlasy.info/i/wqwyeq1.jpg" caption="Městská policie" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/wqwyeq1.jpg" caption="Městská policie" author="Město Boskovice" /%}
 
 ### Méně kriminality, více násilí
 

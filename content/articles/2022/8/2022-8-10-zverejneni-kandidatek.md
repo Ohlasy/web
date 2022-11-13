@@ -11,7 +11,7 @@ tags:
 
 *Český statistický úřad zveřejnil na své doméně volby.cz kompletní podobu kandidátních listin pro komunální volby v jednotlivých obcích. Volby proběhnou v pátek 23. a v sobotu 24. září a rozhodnou o podobě zastupitelstev na další čtyři roky.*
 
-{% photo src="https://i.ohlasy.info/i/0d86ba60.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0d86ba60.jpg" author="Tomáš Znamenáček" /%}
 
 V Boskovicích se potvrdila podoba politických sil, jak ji [Ohlasy představily](https://ohlasy.info/clanky/2022/07/deset-kandidatek.html) po uzávěrce termínu pro odevzdání kandidátek. O přízeň voličů se tedy bude ucházet stejně jako před čtyřmi lety 10 politických uskupení, [sestava je však proměněná](https://volby.cz/pls/kv2022/kv2211?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=6201&xobec=581372). Ne všechny strany také doteď zveřejnily úplnou a jasnou podobu své kandidátní listiny, takže ty si můžeme prohlédnout až nyní.
 

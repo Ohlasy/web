@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Po jednání městské rady na začátku července se tentokrát výjimečně kvůli státním svátkům a následným dovoleným nekonala tisková konference. Stejně tak po mimořádném jednání rady o čtyři dny později. Přinášíme alespoň stručný výběr zpráv na základě zápisů, podrobnější informace na základě dotazů na vedení města doplníme po příští tiskové konferenci.*
 
-{% photo src="https://i.imgur.com/ISzSIaV.jpg" caption="Husí slavnosti" author="Kulturní zařízení města Boskovice" %}
+{% photo src="https://i.imgur.com/ISzSIaV.jpg" caption="Husí slavnosti" author="Kulturní zařízení města Boskovice" /%}
 
 ### Hospodaření nemocnice
 

@@ -10,7 +10,7 @@ featured: true
 
 *Dnes si, milí čtenáři Ohlasů, povíme něco o tom, jak se stravují ortodoxní židé, neboť těmto je dovoleno jíst jen to, co je takzvaně košer, tedy rituálně čisté. Soubor pravidel a předpisů košer kuchyně se nazývá kašrut a tvoří jej zhruba 50 ze 613 zákazů a příkazů Tóry. Dodržování těchto příkazů je nedílnou součástí každodenního života židů a zároveň důležitá služba Bohu.*
 
-{% photo src="https://i.ohlasy.info/i/lcfefyq.jpg" caption="Masné krámy" author="Archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/lcfefyq.jpg" caption="Masné krámy" author="Archiv Muzea regionu Boskovicka" /%}
 
 Hlavní zásady kašrutu, to jest rozdělení mezi čistými a nečistými zvířaty, rituální porážka, oddělování masitých a mléčných pokrmů, zákaz požívání krve, jsou motivovány hlubokou úctou k životu všech Božích tvorů. Zabíjení zvířat v judaismu nikdy nesmí být bezdůvodné, lov pro zábavu je přísně zakázán, k rybolovu se vždy používají sítě, nikdy udice.
 

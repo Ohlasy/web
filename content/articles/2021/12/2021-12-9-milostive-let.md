@@ -8,7 +8,7 @@ author: Tomáš Trumpeš
 
 *Rozhovor o dluzích, exekucích a Milostivém létu s pracovnicemi blanenské Charity Kateřinou Korbelovou a Martou Šosovou. Probrali jsme podobu a přínosy speciální akce na pomoc některým dlužníkům – [Milostivé léto](https://milostiveleto.cz/) běží ještě do 28. ledna. A také obecně situaci lidí v dluzích a dluhovou legislativu.*
 
-{% photo src="https://i.ohlasy.info/i/cf093944.jpg" caption="Kateřina Korbelová a Marta Šosová" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/cf093944.jpg" caption="Kateřina Korbelová a Marta Šosová" author="Tomáš Trumpeš" /%}
 
 **Co to vlastně je – Milostivé léto?**
 

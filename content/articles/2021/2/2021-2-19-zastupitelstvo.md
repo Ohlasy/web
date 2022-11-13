@@ -9,7 +9,7 @@ tags: politika
 
 *K třináctému jednání se sešli v úterý 16. února boskovičtí zastupitelé vzešlí z voleb v roce 2018. Hlavními diskutovanými tématy byly pozemky v lokalitě Na Chmelnici, kde má vyrůst nový bytový dům a do budoucna nová ulice. A také sportovní hala a úsilí města získat na ni architektonický návrh.*
 
-{% photo src="https://i.ohlasy.info/i/26588721.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/26588721.jpeg" author="Tomáš Trumpeš" /%}
 
 Zastupitelstvo se konalo v sokolovně za zpřísněných protiepidemických opatření. K jeho sledování tentokrát dorazilo i několik občanů, ale žádný z nich se do diskuse nezapojil.
 

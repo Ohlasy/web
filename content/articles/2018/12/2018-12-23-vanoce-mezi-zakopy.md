@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Jeden z nejcitovanějších vánočních příběhů se odehrál za první světové války, na sklonku roku 1914. Po úvodních měsících mobilní války se vojáci na západní frontě zakopali ve svých pozicích. V té době válečná kampaň přinesla už statisíce mrtvých a ještě více raněných.*
 
-{% photo src="https://i.ohlasy.info/i/3ob5foc.jpg" caption="Vánoční příměří roku 1914" author="The Illustrated London News" %}
+{% photo src="https://i.ohlasy.info/i/3ob5foc.jpg" caption="Vánoční příměří roku 1914" author="The Illustrated London News" /%}
 
 Když nastal Štědrý večer, stal se zázrak. Z německých i britských zákopů vztyčili vojáci transparenty s nápisy Veselé Vánoce. Němci začali zdobit větve svíčkami a zpívat Tichou noc. Na druhé straně jim odpověděli Britové svými koledami. Vojáci po krátkém váhání vešli do „země nikoho“, jak se přezdívalo prostorům mezi zákopy. Pohřbívali své mrtvé. Vzájemně si nabízeli cigarety, připíjeli na zdraví. Jinde se podařilo narychlo zorganizovat koncert. Fotbalové utkání, uspořádané mezi Skoty a Němci, dopadlo 2:3. Během několika hodin všichni poznali, že nepřátelé nejsou takoví, jaké je vykreslovala jejich národní propaganda.
 

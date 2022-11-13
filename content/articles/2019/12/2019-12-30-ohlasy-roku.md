@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Končící rok 2019 vybízí opět k tomu, abychom si jej připomněli také pohledem do statistik čtenosti našeho webu. Jaké události a zajímavosti dění na Boskovicku vás čtenáře v roce 2019 nejvíc zajímaly? Letos zde nebyla jedna hlavní událost, ke které se směřovala naše hlavní pozornost, jako to byly v roce 2018 komunální volby. Těší nás, že přesto byl zájem čtenářů o naše texty také letos velmi silný. Díky!*
 
-{% photo src="https://i.ohlasy.info/i/181f53d9.jpg" caption="Rekonstruované hlediště letního kina" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/181f53d9.jpg" caption="Rekonstruované hlediště letního kina" author="Tomáš Znamenáček" /%}
 
 Bez dominantního politického tématu se zájem našich čtenářů o nejrůznější témata zdá ještě pestřejší. Hodně prostoru jsme samozřejmě věnovali sportovní hale – rozhodnutí o jejím umístění bylo klíčovým aktem boskovického zastupitelstva v letošním roce. Mezi nejčtenější články se ale vyšvihlo především téma školství, byznysu, kauza odmítnutí postižených spoluobyvatel ve Svitávce a také odpadové hospodářství.
 

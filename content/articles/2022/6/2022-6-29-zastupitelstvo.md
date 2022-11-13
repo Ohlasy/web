@@ -9,7 +9,7 @@ tags: politika
 
 *Na svém předposledním jednání se sešla na konci června aktuální sestava boskovických zastupitelů. Poslední jednání bude pouhých deset dnů před komunálními volbami.*
 
-{% photo src="https://i.imgur.com/QCO31mw.jpg" caption="Boskovice ještě s hotelem Velen" author="Zdeněk Tesař" %}
+{% photo src="https://i.imgur.com/QCO31mw.jpg" caption="Boskovice ještě s hotelem Velen" author="Zdeněk Tesař" /%}
 
 ### Rychlý úvod
 

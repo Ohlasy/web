@@ -8,7 +8,7 @@ serial: krajiny
 
 *O krasových územích na Boskovicku jsem psal na stránkách Ohlasů již několikrát. Věnoval jsem se nejen proslulému [Moravskému krasu](https://ohlasy.info/clanky/2016/01/holstejn.html), nýbrž i [drobným vápencovým ostrůvkům v blízkém okolí Boskovic](https://ohlasy.info/clanky/2017/12/vratikovsky-kras.html). Jedna zajímavá lokalita mi však ještě zbývá – Mojetínský kras.*
 
-{% photo src="https://i.ohlasy.info/i/92c9607b.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/92c9607b.jpg" author="Hynek Skořepa" /%}
 
 Nachází se nad Vážany (součást Knínic) severně od Boskovic. Jeho existence souvisí s průběhem výrazného zlomu, lemujícího východní okraj Boskovické brázdy. Ve škole sice ještě i mne učili, že zlom je plocha, podél které došlo k pohybu, je to však mnohem složitější. Dnes je studium zlomů celá věda, geologové u významných z nich popisují takzvanou architekturu, jakousi vnitřní stavbu. Často se totiž jedná o širší horninové pásmo, postižené tektonickými pohyby. Během nich ve zmíněném pásmu může dojít k vyvlečení hornin z podloží, které se tak dostanou na zemský povrch. Jedná-li se o horniny relativně odolné (v tomto případě devonské vápence), dotvoří je často následná eroze do podoby nápadných skalních útvarů.
 

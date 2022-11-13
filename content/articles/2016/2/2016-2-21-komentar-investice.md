@@ -8,7 +8,7 @@ tags: politika investice
 
 *Při pohledu na aktuální seznam chystaných boskovických investic se až tají dech: sportovní hala a celý sportovní areál Červená zahrada, letní kino, nová knihovna, bikepark, dům polytechnického vzdělávání, brzy možná oprava sokolovny. Nabízí se otázka, kde na to všechno vzít peníze – a jestli si Boskovice vůbec takové investice mohou dovolit. Když se podíváme na zimní stadion, krytý bazén, koupaliště, zámecký skleník nebo nemocnici, je evidentní, že Boskovice peníze najít umí. Podstatnější otázka ale zní, jestli je umí utratit.*
 
-{% photo src="https://i.ohlasy.info/i/rc7quf5.jpg" author="Kristýna Znamenáčková" %}
+{% photo src="https://i.ohlasy.info/i/rc7quf5.jpg" author="Kristýna Znamenáčková" /%}
 
 Naše výchozí pozice je výborná. Boskovice leží v krásné krajině; jsou městem s dlouhou historií, která zde na mnoha místech v dobrém vyplouvá na povrch. Byly a stále jsou v nejlepším slova smyslu živým městem. Nikoliv jen satelitní noclehárnou, ale skutečným prostředím pro barevný, bohatý život. Město je obrovský setrvačník: jakmile se jednou dá do pohybu a ožije, i bez pozitivních impulzů může trvat desítky let, než se zastaví, než přestane být radost v něm žít. Měli bychom být vděčni za to, že Boskovice stále ještě jsou v pohybu, že před námi není sisyfovský úkol je roztlačit.
 

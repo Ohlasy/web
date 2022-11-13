@@ -8,7 +8,7 @@ tags: politika koronavirus
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady ve druhé půli září. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/bc9a3044.jpg" caption="Pokračující práce na novém okrsku centrálního zásobování teplem" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/bc9a3044.jpg" caption="Pokračující práce na novém okrsku centrálního zásobování teplem" author="Tomáš Trumpeš" /%}
 
 ### Chodník u lázní a CZT střed
 

@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Janem Hockem, hudebním publicistou a v poslední době také aktivním účastníkem boskovického kulturního života. Specializuje se na jazz a soudobou vážnou hudbu a při našem povídání se ukázalo, že má za sebou velmi pestrý osobní příběh, v němž se slévají básník s horníkem v uranových dolech.*
 
-{% photo src="https://i.ohlasy.info/i/00d53f61.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/00d53f61.jpg" author="Tomáš Znamenáček" /%}
 
 **Odkud, Honzo, pocházíš?**
 
@@ -89,7 +89,7 @@ Ale ty jsi se ptal na to společenství. Měl jsem ještě kamaráda, který mě
 
 Ne. Otec mě vyloženě nutil, což byla možná i chyba. Nejdřív chtěl, abych se naučil hrát na saxofon, protože to je hlavní jazzový nástroj. Já jsem tvrdě odmítal. Když zjistil, že ujíždím na bigbítu, chtěl, ať se naučím aspoň na kytaru. Dodneška lituju toho, že jsem neposlechl.
 
-{% photo src="https://i.ohlasy.info/i/4c8ba3a6.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4c8ba3a6.jpg" author="Tomáš Znamenáček" /%}
 
 **Co pro tebe zlom v roce 1989 znamenal pracovně? Skončil jsi jako horník na uranu?**
 
@@ -127,7 +127,7 @@ Vůbec. Ani novinařinu jsem nedělal. Nic. To jsem začal dělat, až když jse
 
 Ještě to docela šlo, ale víceméně jo. Ale zase byly vinyly. Měsíc co měsíc jsme museli rozšiřovat místo, kde jsme měli vinyly. Některé tituly už vycházely dokonce jen na vinylu. Takže ty se zase vracely, byť byly třikrát čtyřikrát dražší, a docela se prodávaly. Ale i ta cédéčka byla v té době ještě docela dobrá, pak to skončilo.
 
-{% photo src="https://i.ohlasy.info/i/60c9e317.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/60c9e317.jpg" author="Tomáš Znamenáček" /%}
 
 **Potom jsi šel do hornického důchodu a začal se věnovat psaní?**
 

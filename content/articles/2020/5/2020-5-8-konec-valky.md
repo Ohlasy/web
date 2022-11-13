@@ -10,13 +10,13 @@ tags: historie
 
 *Fotoalbum z roku 1945 představuje první ucelenější soubor fotografické dokumentace historických událostí v Boskovicích ve sbírce muzea. Přes jeho mimořádnost je nelze označit za unikátní, obdobné fotoalbum se totiž nachází i na městském úřadě, ani za zcela neproblematické: bylo nepochybně uspořádáno až s určitým časovým odstupem a fotografie nejsou řazeny chronologicky ani tematicky, často spíš nahodile a s víceméně vágními popisky, někdy i chybnými. I přes tyto výhrady se však jedná o nenahraditelný obrazový dokument doby.*
 
-{% photo src="https://i.ohlasy.info/i/08670ffb.jpg" caption="Odstřel pancerfaustů v Doubravách" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/08670ffb.jpg" caption="Odstřel pancerfaustů v Doubravách" author="Muzeum regionu Boskovicka" /%}
 
 Ve spojení s kronikářskými zápisy a s archivními dokumenty můžeme získat plastičtější obraz o průběhu posledních týdnů německé okupace a konce války v Boskovicích. (Následující text vychází z kronikářských záznamů a z textu připraveného Mgr. Jiřím Řezníčkem, tehdy historikem Muzea Boskovicka, k 60 . výročí konce 2. světové války.) 
 
 Přelom let 1944/45 dával tušit brzký konec války. Podél silnice do Hrádkova ukládali němečtí vojáci munici a do Pilského údolí navozili sudy s benzínem. Ve městě i za městem na silnici do Lhoty Rapotiny stavěli vojáci zvláštních oddílů obranné zátarasy, nuceně jim v tom pomáhali také obyvatelé města. V únoru projížděli přes Boskovice němečtí vystěhovalci ze Slezska, původem rumunští Němci.
 
-{% photo src="https://i.ohlasy.info/i/707cbb77.jpg" caption="Besarabové" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/707cbb77.jpg" caption="Besarabové" author="Muzeum regionu Boskovicka" /%}
 
 ### Besarabové
 
@@ -24,7 +24,7 @@ Přelom let 1944/45 dával tušit brzký konec války. Podél silnice do Hrádko
 
 Koncem března začali Němci odvážet dříve nahromaděnou munici. Polní nemocnice zřízená v budově gymnázia začala v březnu přijímat těžce raněné k převazům. Kdo z nich zemřel, byl pochován u nového hřbitova v Doubravách. Na Záložně bylo zřízeno vojenské velitelství a v dnešní střední pedagogické škole a v přilehlých budovách si Němci zřídili zásobovací skladiště. Od druhé poloviny března byly kolem Boskovic rozestaveny také protiletadlové hlídky s kulomety.
 
-{% photo src="https://i.ohlasy.info/i/3d5246f8.jpg" caption="Záseky" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/3d5246f8.jpg" caption="Záseky" author="Muzeum regionu Boskovicka" /%}
 
 ### Záseky
 
@@ -34,7 +34,7 @@ Dne 5. 5. po poledni oznámil pražský rozhlas, že v Praze vypuklo povstání.
 
 Ústup německé armády přes Boskovice začal ráno 7. 5. [Poražená německá armáda prchala](https://ohlasy.info/clanky/2015/05/osvobozeni-boskovic.html) nejen po všech silnicích od východu k západu, ale celé houfy německých vojáků utíkaly na vlastní pěst polními a lesními cestami. Ústup pokračoval také v úterý 8. 5. Mnozí obyvatelé Boskovic si pro jistotu upravili sklepy na obydlí, u kterých zazdili okna, aby tam němečtí vojáci nevhodili ruční granáty. Dne 8. 5. 1945 vyslal ilegální revoluční národní výbor k německému posádkovému veliteli deputaci s výzvou, aby německé velitelství opustilo město a předalo veškerou moc zástupcům revolučního NV. To však Němci odmítli a pohrozili sankcemi v případě nepokojů.
 
-{% photo src="https://i.ohlasy.info/i/9f9993da.jpg" caption="Útěk Němců" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/9f9993da.jpg" caption="Útěk Němců" author="Muzeum regionu Boskovicka" /%}
 
 ### Útěk Němců
 
@@ -48,7 +48,7 @@ I ve středu 9. 5. stále přes Boskovice ustupovala německá armáda. V 8:00 p
 
 Kolem 22:00 přijeli do Boskovic první tři vojáci, kteří patřili do 1. čs. armádního sboru – poručík Karel Krejčí, Volyňský Čech Andrej Kovač a Slovák Michal Stafura. Asi půl hodiny po nich přijely hlavní oddíly Rudé armády a rumunské armády, které přes Boskovice pokračovaly směrem na Poličku a Svitavy. V Boskovicích zanechaly pouze menší posádku pod velením kapitána Boltunova; rezidenci obsadilo NKVD.
 
-{% photo src="https://i.ohlasy.info/i/30b2e3a9.jpg" caption="Příjezd vojska" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/30b2e3a9.jpg" caption="Příjezd vojska" author="Muzeum regionu Boskovicka" /%}
 
 ### Příjezd vojska
 
@@ -68,7 +68,7 @@ Bylo potřeba se vypořádat s pozůstatky války, zlikvidovat zanechané zbran�
 
 Z koncentračních táborů se navrátili boskovičtí občané – Boháček, Živný, Skopal, Kopeček, Ludvík Vojtěch ad., a i přes poznamenání přestálými útrapami se zapojovali do veřejného života. Euforie z ukončení války a nabyté svobody vedla k nevídané aktivaci společenského a kulturního života. Spolky obnovovaly svoji činnost, za okupace nuceně utlumenou. Byly pořádány veřejné koncerty, slavnosti a jako slavnost bylo pojato i rozloučení se sovětskými vojáky a jejich velitelem, kteří odjeli z Boskovic 10. července.
 
-{% photo src="https://i.ohlasy.info/i/ad3dd780.jpg" caption="Loučení s velitelem Boltunovem" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/ad3dd780.jpg" caption="Loučení s velitelem Boltunovem" author="Muzeum regionu Boskovicka" /%}
 
 ### Odjez Rudé armády
 

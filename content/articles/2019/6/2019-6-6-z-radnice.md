@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci května. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/8chwzgg.jpg" caption="Dokončený amfiteátr u centra polytechnické výchovy" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/8chwzgg.jpg" caption="Dokončený amfiteátr u centra polytechnické výchovy" author="Tomáš Trumpeš" /%}
 
 ### Efektivní veřejná správa
 

@@ -8,7 +8,7 @@ tags: kultura
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/i/zfdlzto.jpg" caption="London Haydn Quartet v Boskovicích vystoupí v neděli 2. června v rámci festivalu Concentus Moraviae" author="archiv festivalu" %}
+{% photo src="https://i.ohlasy.info/i/zfdlzto.jpg" caption="London Haydn Quartet v Boskovicích vystoupí v neděli 2. června v rámci festivalu Concentus Moraviae" author="archiv festivalu" /%}
 
 ### Hohřicefest 2019
 

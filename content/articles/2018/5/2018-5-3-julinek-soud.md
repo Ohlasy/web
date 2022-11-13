@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Kauza vyhazovu Tomáše Julínka z boskovické nemocnice se vrátila k soudu. Tentokrát kvůli náhradě mzdy za neplatnou výpověď, kterou dostal v roce 2015 od boskovické starostky a tehdejší jednatelky nemocnice Hany Nedomové (ČSSD).*
 
-{% photo src="https://i.ohlasy.info/i/bjrqhew.jpg" caption="Tomáš Julínek" author="Jiří „Frettie“ Sedláček" %}
+{% photo src="https://i.ohlasy.info/i/bjrqhew.jpg" caption="Tomáš Julínek" author="Jiří „Frettie“ Sedláček" /%}
 
 Současné vedení nemocnice v čele s Milošem Janečkem původně plánovalo s exministrem zdravotnictví za ODS Tomáše Julínkem uzavřít dohodu o vyrovnání s náhradou mzdy. Nakonec ale boskovičtí radní loni na podzim doporučili jednateli, aby dohodu neuzavíral a šlo se soudní cestou. Ten na doporučení nakonec přistoupil, a tak se Tomáš Julínek o výplatu ušlé mzdy začal soudit.
 

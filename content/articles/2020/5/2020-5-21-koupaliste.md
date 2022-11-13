@@ -9,7 +9,7 @@ tags: koronavirus
 
 *V rámci rozvolňování opatření proti šíření koronaviru se připravuje otevření boskovických městských lázní a také koupaliště Červená zahrada. Kryté lázně otevřou už 25. května, venkovní koupaliště počátkem června. Boskovické Služby, které obě sportovní a rekreační zařízení provozují, představily opatření, která budou v provozech platit.*
 
-{% photo src="https://i.ohlasy.info/i/6c54bf5a.jpeg" caption="Koupaliště Červená zahrada" author="Archiv města Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/6c54bf5a.jpeg" caption="Koupaliště Červená zahrada" author="Archiv města Boskovice" /%}
 
 „V maximálně možné míře zabezpečíme vše, co je možné, a naplníme všechna nařízení. Pokud s tím má někdo i tak problém, ať tam nechodí,“ reagoval starosta Jaroslav Dohnálek (ODS) na nespokojené komentáře občanů, které se objevily na facebookovém profilu města po zveřejnění informace, že se lázně a koupaliště budou otevírat.
 

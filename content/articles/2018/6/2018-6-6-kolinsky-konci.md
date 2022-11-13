@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *Radní za ČSSD Milan Kolínský se rozhodl, že z osobních důvodů nebude na podzim v komunálních volbách kandidovat ani se dál podílet na politice. Dům na Havlíčkově, kde bydlel, prodává a údajně už nějakou dobu do Boskovic dojíždí z Jeseníků.*
 
-{% photo src="https://i.ohlasy.info/i/pskkksx.jpg" caption="Milan Kolínský" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pskkksx.jpg" caption="Milan Kolínský" author="Tomáš Znamenáček" /%}
 
 Kdyby se někdo zeptal boskovických politiků na osobu Milana Kolínského, odpoví, že je to opravdu důležitý hráč místního dění. Hrál velkou roli ve změně ČSSD ze spolehlivého partnera ODS ve stranu kritizující pravici a usilující o vlastní dominantní úlohu. To se nakonec podařilo, ve volbách v roce 2014 strana drtivě zvítězila, a tak i Milan Kolínský dosáhl na svůj nejvyšší vrchol politické moci v Boskovicích, kdy se stal jedním z devíti radních. Jeho postavení je ale neformálně mnohem silnější.
 

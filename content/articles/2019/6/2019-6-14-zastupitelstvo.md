@@ -9,7 +9,7 @@ tags: politika
 
 *V úterý 11. června se k jednání sešli boskovičtí zastupitelé. Hlavním tématem se stal evergreen – sportovní hala, ačkoliv se zatím konkrétně nerozhodovalo ani o lokalitě pro její stavbu. Opět se ukázalo, že křehká koaliční většina potřebuje výpomoc opozice. Tentokrát pomohli lidovci.*
 
-{% photo src="https://i.ohlasy.info/i/uw7wffg.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/uw7wffg.jpg" author="Tomáš Trumpeš" /%}
 
 Jednání zastupitelů trvalo skoro tři a půl hodiny. Netradičně dlouhý čas si vyžádal už jeden z obvyklých prvních bodů – dotazy a připomínky občanů. Tentokrát jich zaznělo hned několik a diskuse se protáhla na tři čtvrtě hodiny.
 

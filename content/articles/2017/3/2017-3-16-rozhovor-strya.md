@@ -9,7 +9,7 @@ tags: investice
 
 *Milan Strya sedí v čele městské firmy Služby Boskovice už téměř deset let. Za tu dobu se firma rozvinula do organizace, která se zdaleka nestará jen o městská sportoviště. Jak je firma pro město skutečně užitečná a jak se její šéf dívá na plány vedení města s Červenou zahradou?*
 
-{% photo src="https://i.ohlasy.info/i/v8wctqv.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/v8wctqv.jpg" author="Tomáš Znamenáček" /%}
 
 **Pane Stryo, v čele městské firmy Služby Boskovice stojíte téměř po celou dobu, konkrétně deset let, jen dva roky před vámi v křesle seděl pan Jaroslav Dohnálek. Jak se za tu dobu firma proměnila?**
 
@@ -55,7 +55,7 @@ Na stávající poměry je to dostačující. To, že nejsou zděné tribuny, ne
 
 V roce 2016 se nám podařilo v pokojích kompletně vymalovat, vyměnili jsme světla, zásuvky nebo koberce. Podle mě to není tak špatné. Dvou až pětilůžkové pokoje jsou vybaveny vlastním sociálním zařízením, televizorem, ledničkou a cenově jsme v rozmezí od 180 od 260 korun za noc podle délky pobytu. Se stravovacím zařízením si ale neporadíme. Když se dělalo koupaliště, v jedné verzi bylo, že by se vstup protáhl až k ubytovně a postavila by se tam restaurace. Pak se ale zjistilo, že se tam nemůže vejít, že to není možné kvůli hygienickým požadavkům. Možná kdyby město koupilo v minulosti kuželnu, tak třeba mohla být restaurace tam, ale to je coby kdyby.
 
-{% photo src="https://i.ohlasy.info/i/wcl55ic.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wcl55ic.jpg" author="Tomáš Znamenáček" /%}
 
 ### Atletický ovál by mohl být i jinde na Července
 
@@ -101,7 +101,7 @@ Materiál zpracovává město. O to, kolik to bude stát, by nám na letošní p
 
 Ziskový být nemůže. Kvůli dotaci. Jen tam mohou být mincovníky na sprchy, záchody nebo umývání kol.
 
-{% photo src="https://i.ohlasy.info/i/hcju9bd.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hcju9bd.jpg" author="Tomáš Znamenáček" /%}
 
 ### Jízdárna by byla dobrá jako tréninková hala
 

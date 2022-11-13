@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na samém konci června. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference, které se tentokrát z politiků účastnil jen místostarosta Lukáš Holík (ANO).*
 
-{% photo src="https://i.ohlasy.info/i/bb681903.jpeg" caption="Nové kontejnerové stání na Bílkově ulici" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bb681903.jpeg" caption="Nové kontejnerové stání na Bílkově ulici" author="Tomáš Znamenáček" /%}
 
 ### Sportovní hala na Července
 

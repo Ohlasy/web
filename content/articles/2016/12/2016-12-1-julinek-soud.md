@@ -9,7 +9,7 @@ tags: nemocnice politika
 
 *Druhé stání absolvoval u blanenského okresního soudu Tomáš Julínek, který považuje svůj vyhazov z boskovické nemocnice za účelový kvůli své politické minulosti v barvách ODS. Starostka Boskovic Hana Nedomová (ČSSD), která ho z nemocnice jako dočasná jednatelka propustila, něco takového od začátku popírá.*
 
-{% photo src="https://i.ohlasy.info/i/hzyx7lx.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/hzyx7lx.jpg" author="Marek Osouch" /%}
 
 Na soud k projednávání případu propuštění Tomáše Julínka z boskovické nemocnice dorazili na začátku prosince další svědkové, které si vyžádal Tomáš Julínek se svým advokátem Ludvíkem Juřičkou, aby před soudem řekli, jak skutečně proběhalo zrušení pozice ekonomického náměstka, kterou Julínek před rokem opouštěl.
 

@@ -8,7 +8,7 @@ serial: jazyk
 
 *V těchto dnech si můžeme připomenout výročí 120 let od narození významného překladatele a literárního vědce, rusisty Bohuslava Ilka (9. 4. 1902 – 5. 1. 1988), který svá gymnaziální léta prožil v Boskovicích.*
 
-{% photo src="https://i.ohlasy.info/i/a51d5b78.jpg" source="Československá rusistika VII, 1962, č. 4" %}
+{% photo src="https://i.ohlasy.info/i/a51d5b78.jpg" source="Československá rusistika VII, 1962, č. 4" /%}
 
 Bohuslav Ilek přichází na svět v Rovečném (tehdy zní ovšem název obce Rovečín) nedaleko Olešnice, v č. p. 56, jako jedno z devíti dětí Františka Ilka, místního faráře českobratrské církve evangelické. Bohuslavova středoškolská studia jsou poznamenána atmosférou první světové války: boskovické gymnázium navštěvuje mezi roky 1914–1922. Studia vysokoškolská tráví na pražské filozofické fakultě, kde v letech 1922–1927 studuje slovanskou filologii a anglistiku (jeden semestr roku 1923 je na studijním pobytu na univerzitě v Berlíně). Mezi jeho učitele patří i významný anglista Vilém Mathesius, který jej přivádí do nově založeného Pražského lingvistického kroužku, kde Ilek již v roce 1926 vystoupí s přednáškou o jazykové kultuře.
 

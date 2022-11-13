@@ -8,7 +8,7 @@ tags: kultura sokolovna
 
 *Zástupci boskovického Sokola před časem oslovili vedení města s výzvou k jednání o dalším osudu sokolovny, která se pod sokolskou správou dostala během posledních let do značně neutěšeného stavu, který už je prakticky za hranou únosnosti pro jakékoliv využívání ke kulturním a společenským účelům. Nutno dodat, že budova sama ve špatném technickém stavu není, sokolům se podařilo i díky státní a městské pomoci zajistit opravu fasády, střechy a výměnu oken. Katastrofální je však interiér budovy, a to po stránce estetické i funkční.*
 
-{% photo src="https://i.ohlasy.info/i/fvn6f7w.jpg" %}
+{% photo src="https://i.ohlasy.info/i/fvn6f7w.jpg" /%}
 
 V sokolovně se přesto řada akcí děje, a to především proto, že prostor samotný ve městě prakticky nemá alternativu. Zámecký skleník jako hlavní sál pro dvanáctitisícové město s ambicí být kulturním centrem širšího regionu kapacitně naprosto nedostačuje, navíc k podobnému účelu ani není koncipován. Je to pěkná prostora, která by kulturnímu městu formátu Boskovic slušela jako druhý, komornější sál určený pro akce, které nepotřebují náročnější technické a prostorové podmínky.
 

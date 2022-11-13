@@ -10,7 +10,7 @@ tags:
 
 *Červnové jednání boskovického zastupitelstva proběhlo v úterý v sokolovně. Hlavním tématem se stal návrh sportovní haly, ačkoliv v původním plánu schůze vůbec nebyl a dosud není ani veřejný.*
 
-{% photo src="https://i.ohlasy.info/i/d0d284b0.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/d0d284b0.jpeg" author="Tomáš Trumpeš" /%}
 
 ### Dotace pro památky
 

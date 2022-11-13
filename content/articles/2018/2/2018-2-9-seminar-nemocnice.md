@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Současné vedení města si poslední dobou zvyká k ožehavým tématům svolávat takzvané zastupitelské semináře. Za pár dní se jeden takový seminář koná k tématu, které hýbe Boskovicemi dlouhodobě, a to nemocnice.*
 
-{% photo src="https://i.ohlasy.info/i/miei5mh.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/miei5mh.jpg" author="Tomáš Znamenáček" /%}
 
 Do Boskovic přijedou už v pondělí zástupci firmy Agel prezentovat svůj zájem o boskovickou nemocnici. [Rádi by se jí ujali a v budoucnu provozovali](http://www.ohlasy.info/clanky/2017/12/nemocnice-agel.html), slibují velké investice. Co bude ale firma přesně prezentovat a jaké případné plány má s největším zdravotnickým zařízením na okrese, to se veřejnost ani novináři zatím nedozví. Vše se bude odehrávat za zavřenými dveřmi boskovické radnice.
 

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Rozdělení zakázky na dvě či více, aby každá z nich byla za nižší cenu a mohla se zadat snadnější cestou bez soutěže jen formou přímé objednávky. Takto řeší na boskovickém úřadě některé investiční akce ve městě. Před lety si totiž svázali ruce směrnicí, která je přísnější než zákon, a teď se jí snaží různými kličkami vyhnout.*
 
-{% photo src="https://i.ohlasy.info/i/3ew4mva.jpg" author="André Karwath, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/3ew4mva.jpg" author="André Karwath, Wikimedia Commons" /%}
 
 Podle zákona o veřejných zakázkách mohou stavební práce v hodnotě do šesti milionů zadávat města klidně bez soutěže napřímo, Boskovice si ale tuto možnost zpřísnily směrnicí, která je už nejméně od roku 2012 stejná.
 

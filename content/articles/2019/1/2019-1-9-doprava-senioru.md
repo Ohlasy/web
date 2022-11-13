@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Nové vedení boskovické radnice se rozhodlo ukončit systém veřejné dopravy zdarma pro seniory starší 70 let. Rozhodnutí potvrdilo i nové zastupitelstvo, které se nepřipojilo k protinávrhu bývalé starostky Hany Nedomové (ČSSD), aby systém zůstal zachován.*
 
-{% photo src="https://i.ohlasy.info/i/lcfb8pq.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/lcfb8pq.jpg" author="Tomáš Trumpeš" /%}
 
 [Na zastupitelstvu](http://www.ohlasy.info/clanky/2018/12/zastupitelstvo.html) se o problematice čile diskutovalo a od vedení města bohužel zaznívaly argumenty, které vypovídaly spíše o sociální necitlivosti či přímo alibismu jejich původců. Ano, skutečně nelze nastolit systém absolutní spravedlnosti, na což se odvolávali starosta Jaroslav Dohnálek (ODS) i místostarosta Lukáš Holík (ANO). Taková logika by však vedla nejspíš k tomu, že bychom nakonec nepomáhali nikomu. Otázka spíše je, jestli existují argumenty, které výjimečné zvýhodnění dopravy právě pro seniory ospravedlňují. Domnívám se, že ano.
 

@@ -8,7 +8,7 @@ tags: kultura koronavirus
 
 *Prakticky všechny velké festivaly a další koncerty, které se měly konat v Boskovicích či nejbližším okolí, letos nebudou nebo jsou ve velké nejistotě. Ohrožené jsou i náhradní termíny po prázdninách.*
 
-{% photo src="https://i.ohlasy.info/i/6dppoy0.jpg" caption="Zůstane boskovické letní kino v létě prázdné?" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/6dppoy0.jpg" caption="Zůstane boskovické letní kino v létě prázdné?" author="Tomáš Trumpeš" /%}
 
 V pátek 1. května měli už tradičně městem probíhat sportovci na Boskovických bězích, jenže Masarykovo náměstí, kde závod startuje, tentokrát zůstalo prázdné. Kvůli koronaviru je novým předběžným termínem 6. září. Teprve se však uvidí, zda bude možné tuto sportovně-kulturní akci, na kterou dorazí 1200 běžců a další tisíce lidí se pohybují po centru města, na sklonku léta pořádat. „O podmínkách v září potřebujeme mít jasno do konce června, to je náš nejzazší termín,“ řekla za pořadatele Irena Marková.
 

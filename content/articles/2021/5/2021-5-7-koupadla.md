@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Společnost Lenx chce koupit pozemky u dvou domů, které ona a její jednatel Viktor Pavlů vlastní. Jedná se o bývalé židovské lázně na adrese U Koupadel 8 a bývalou tovární budovu U Koupadel 6. Společnost plánuje opravit okolí domů a dokončit opravy tovární budovy, které před lety načala.*
 
-{% photo src="https://i.ohlasy.info/i/35c2a55f.jpeg" caption="U Koupadel, nalevo bývalé židovské lázně, napravo bývalá továrna" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/35c2a55f.jpeg" caption="U Koupadel, nalevo bývalé židovské lázně, napravo bývalá továrna" author="Tomáš Znamenáček" /%}
 
 Tovární budovu vlastnila v 19. století rodina Baschova, která zde provozovala obchod s obilím a sladem. Později dům přestavěla rodina Brüllova na konfekční továrnu. Jednopatrová nárožní budova se pyšní například pravoúhlými okny s empírovými půlslunci nebo vchodem s kamenným ostěním a stylovými vraty. V druhém domě hned přes cestu bývaly židovské lázně, jejichž existence je doložena až k roku 1684. 
 

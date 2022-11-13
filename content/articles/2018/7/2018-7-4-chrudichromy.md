@@ -8,7 +8,7 @@ serial: jazyk
 
 *Obec Chrudichromy leží asi 3 kilometry severozápadně od Boskovic. Její jméno patří k názvům, které se v průběhu staletí moc neměnily, ale původ příliš jasný není.*
 
-{% photo src="https://i.ohlasy.info/i/ekc6qsm.jpg" author="Lukáš Malý" %}
+{% photo src="https://i.ohlasy.info/i/ekc6qsm.jpg" author="Lukáš Malý" /%}
 
 První písemná zmínka o obci pochází z roku 1368 ve spojení *de Chrudichrom*. V dalších stoletích se pak vyskytly následující tvary: *de Chrudiechrom* (1402), *z Chudyechrom* (1405), *de Chudyechrom* (1407), *in villa Chrudyechrom* (1437), *de Chrudychrom* (1447), *z Chrudichrom* (1460), *z Chrudiechrom* (1464), *z Chruděchrom* (1480), *v Chrudiechromich* (1497), *v Chrudiechromech* (1499), *na ves Chrudiechromy* (1512), *ze vsí Chrudichrom* (1525), *fojta z Chrudichrom* (1528), *ves Chrudiechromy* (1547, 1569, 1573), *Chrudichromy* (1677), *Chrudichrom* (1718, 1720), *Chudichrom* (1751), *Chrudichrom* (1846, 1872), *Chrudichromy* (1885).
 

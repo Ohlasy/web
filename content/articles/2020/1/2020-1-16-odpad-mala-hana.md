@@ -9,7 +9,7 @@ tags: odpady
 
 *Nová odpadová firma Technické služby Malá Haná založená spolkem obcí se za rok rozrostla na dvojnásobek a dál se rozšiřuje. Mimo jiné nabízí svoz tříděného odpadu přímo od jednotlivých domů, který si obce nemohou vynachválit – směsný odpad totiž tímto krokem poklesl na polovinu.*
 
-{% photo src="https://i.ohlasy.info/i/vd8vunj.jpg" caption="Svozové auto Technických služeb Malá Haná" author="Olga Dočkalová" %}
+{% photo src="https://i.ohlasy.info/i/vd8vunj.jpg" caption="Svozové auto Technických služeb Malá Haná" author="Olga Dočkalová" /%}
 
 Technické služby Malá Haná mají za sebou první rok provozu, během kterého zaznamenaly raketový rozvoj. Zatímco na začátku bylo ve spolku zhruba dvacet obcí, dnes jich je takřka padesát a sváží odpad pro 35 tisíc obyvatel, zejména v malých obcích.
 

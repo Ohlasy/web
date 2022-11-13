@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Cesta prvního vítězného projektu boskovického participativního rozpočtu (PaRo) k uskutečnění je vskutku komplikovaná. Příprava projektu Louka v proluce trvá skoro dva roky a nakonec bude uskutečněn v omezené podobě. Co to vypovídá o fungování celého systému participativního rozpočtu?*
 
-{% photo src="https://i.ohlasy.info/i/e3da23aa.jpeg" caption="Jedna z prvních brigád v proluce proběhla zhruba před rokem" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/e3da23aa.jpeg" caption="Jedna z prvních brigád v proluce proběhla zhruba před rokem" author="Tomáš Trumpeš" /%}
 
 Na konci ledna se na pracovní schůzce sešli zástupci radnice a iniciativy [Zelená peřina](https://ohlasy.info/clanky/2020/06/zelena-perina.html), která stojí za projektem na oživení a zušlechtění prostoru v proluce U Koupadel v židovském městě. Místostarostka Michaela Žejšková (TOP 09) na začátku února na tiskové konferenci informovala, že dokončení projektu bylo odsunuto až na jaro letošního roku. „Měli jsme koordinační schůzku, abychom se vypořádali s tím, co přineslo nacenění prací, a udělali krok směrem vpřed k realizaci,“ uvedla místostarostka. Schůzka podle jejího vyjádření ještě nedala jasný závěr diskusi o tom, v jaké konkrétní podobě by se měl projekt dokončit. „Ještě je to v jednání,“ popsala. 
 

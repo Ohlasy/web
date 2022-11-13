@@ -10,7 +10,7 @@ tags: historie
 
 *Formou třídílné série si připomínáme osobnost spisovatele Hermanna Ungara. Po [prvním díle, který přiblížil ungarovská bádání](https://ohlasy.info/clanky/2020/04/hermann-ungar.html), se dnes dostáváme k jeho životu – a to trochu netradiční formou, jako by nám sám spisovatel odpovídal na titulní otázku: Kdo jste, Hermanne Ungare?*
 
-{% photo src="https://i.ohlasy.info/i/9458e27d.jpeg" caption="Rodný dům Hermanna Ungara" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/9458e27d.jpeg" caption="Rodný dům Hermanna Ungara" author="Tomáš Znamenáček" /%}
 
 Kdo jsem? To opravdu někoho zajímá? No, řekl bych, že jsem spisovatel, dramatik a publicista, ale to nechť posuzují čtenáři a kritikové. Také jsem bývalý nudný státní úředník, k tomu by se mohli zase vyjádřit mí nadřízení a kolegové. Do třetice jsem zajisté manžel a otec, což by nejlépe zhodnotila má žena Grete. A tak zbývá už jenom Hermann Ungar člověk, pramálo zajímavá osoba, která má ale své pocity, zážitky a vzpomínky. Možná právě vzpomínky na dětství strávené v Boskovicích budou tím, co čtenáře zaujme.
 

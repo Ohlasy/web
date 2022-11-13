@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na samém konci března. Přinášíme výběr toho nejzajímavějšího – z důvodů karanténních opatření se nekonala tisková konference, vycházeli jsme proto jen z tiskové zprávy a z odpovědí, které na naše doplňující otázky písemně vypracovali zástupci vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/ca91f4da.jpg" caption="Jednání rady města v nouzovém režimu" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/ca91f4da.jpg" caption="Jednání rady města v nouzovém režimu" author="Jaroslav Parma" /%}
 
 ### Dotace pro památkovou zónu
 

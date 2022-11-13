@@ -8,7 +8,7 @@ tags: knihovna architektura investice
 
 *Boskovická knihovna pobývá v provizoriu už dlouhých devatenáct let. Za tu dobu se vynořilo několik variant řešení, za které se utratilo několik milionů korun, ale skutečnost je taková, že se nic nikam neposunulo ani o píď. Je to strašlivé, ale zároveň to lze uchopit i jako výhodu. Z bodu nula se pořád ještě dá vykročit dobrým směrem. A možná je to svým způsobem snazší než se kus cesty vracet nebo vehementně pokračovat slepou uličkou.*
 
-{% photo src="https://i.ohlasy.info/i/cad0hdf.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/cad0hdf.jpg" author="Tomáš Trumpeš" /%}
 
 Tohle si myslím Boskovice velmi dobře vyzkoušely v případě sportovní haly. Tam bylo mléko rozlito, někdo nad tím plakal, někdo se nad ním hádal a někdo se zoufale snažil dostat ho zpátky do sklenice. Dnes vidíme, že vrátit se k čistému stolu není zrovna snadné; pokud se má najít rozumné řešení, je třeba nejen utřít rozlité mléko, ale také zastavit pláč a uklidnit hádky. A pak začít znovu plnit sklenici, aniž bychom se vystavovali nebezpečí, že ji při první příležitosti zase převrhneme.
 

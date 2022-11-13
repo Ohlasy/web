@@ -11,7 +11,7 @@ tags:
 
 *V našem volebním obvodu se v pátek 23. a v sobotu 24. září uskuteční nejen komunální volby, ale také první kolo voleb senátních. Ohlasy na konci května [představily pětici uchazečů](https://ohlasy.info/clanky/2022/06/senatori.html) o senátorský post. Postupně je doplnili ještě dva muži – Antonín Žirovnický za ANO a Martin Sklář za Soukromníky.*
 
-{% photo src="https://i.ohlasy.info/i/5362a289.jpg" caption="Martin Sklář (Soukromníci) a Antonín Žirovnický (ANO)" %}
+{% photo src="https://i.ohlasy.info/i/5362a289.jpg" caption="Martin Sklář (Soukromníci) a Antonín Žirovnický (ANO)" /%}
 
 Možnost registrovat se jako kandidát do senátních voleb se již uzavřela a blanenský úřad Ohlasům potvrdil, že kandidátů je celkem sedm. Zopakujme si, že kandidovat budou Jaromíra Vítková za SPOLU, která funkci obhajuje, Drago Sukalovský za STAN, Filip Vítek za Piráty, Zdeněk Wetter za ČSSD a Jiří Rokos za SPD. Nyní k nim tedy přibyli Antonín Žirovnický za ANO, které dlouho vypadalo, že vlastního kandidáta nenasadí, a Martin Sklář za Soukromníky. Zbývající dva kandidáty jsme proto oslovili stejně jako předchozí pětici a jejich kandidaturu představíme. I jich jsme se zeptali, jaká je jejich motivace ke kandidatuře, jaké je jejich hlavní téma a jakou mají představu o případném výkonu funkce v letech 2022–2028.
 

@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Vzpomínku na starý boskovický hřbitov a zamyšlení nad aktuálním plánem na zástavbu tohoto pietního místa napsal pro Ohlasy Petr Michálek. Záměrem zastavět část bývalého hřbitova mimo dnešní park kolem kostela Všech svatých se zabývalo [květnové zastupitelstvo](https://ohlasy.info/clanky/2020/05/zastupitelstvo.html). Na [historické mapě z 50. let](https://lms.cuzk.cz/lms/LMS_wms_02e.html?mapfile=WMSA08.1950.BOSK64.02413&viewExtent=-591819.0113%2C-1130516.87986%2C-588286.637284%2C-1126984.50591&image_dir=d%3A%2Fconfms%2Flms%2FWMSA08%2F1950%2FBOSK) si lze po přiblížení snímku prohlédnout původní rozlohu hřbitova.*
 
-{% photo src="https://i.ohlasy.info/i/47d5d5d5.jpeg" caption="Park u kostela Všech svatých" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/47d5d5d5.jpeg" caption="Park u kostela Všech svatých" author="Tomáš Znamenáček" /%}
 
 Nebyl to pěkný pohled. Otevřené hroby s kosterními pozůstatky, povalující se kamenné kříže, některé z nich otočené vzhůru nohama, zřejmě následek nočních návštěv místní omladiny. Pozdní jaro roku 1993. Na starém hřbitově v Boskovicích, v bezprostřední blízkosti kostela Všech svatých, již nějaký ten pátek probíhá – po téměř dvaceti letech od jeho zrušení (1975) – dlouho odkládaná proměna tohoto pietního místa v městský park. 
 

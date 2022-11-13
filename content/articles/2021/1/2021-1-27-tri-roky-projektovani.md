@@ -9,7 +9,7 @@ tags: knihovna
 
 *V souvislosti s přípravou velkých investičních akcí – v boskovickém případě hlavně sportovní haly a knihovny – se často mluví o tom, kolik času je potřeba na jednotlivé kroky a jak moc se natahují. A jak moc lze věřit politikům, když šermují různými, obvykle optimistickými termíny. Zajímavým příkladem si můžeme projít u vzniku projektové dokumentace na novou knihovnu, která má vzniknout přestavbou obchodní budovy na ulici Kapitána Jaroše podle návrhu architekta Zdeňka Fránka. Vznik projektové dokumentace pro stavební úřad trval necelé tři roky a stále se ještě dopracovává.*
 
-{% photo src="https://i.ohlasy.info/i/caa850e4.jpg" caption="Aktuální vizualizace nové knihovny" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/caa850e4.jpg" caption="Aktuální vizualizace nové knihovny" author="Město Boskovice" /%}
 
 Studii s architektonickým návrhem věnoval Zdeněk Fránek svému rodnému městu [na jaře roku 2017](https://ohlasy.info/clanky/2017/03/knihovna-zzn.html). V té době ještě nebyl městským architektem. Následovala roční přetržka a v únoru roku 2018 vyhlásila městská rada v čele se starostkou Hanou Nedomovou (ČSSD) zadávací řízení na zpracovatele zbývající projektové dokumentace. V rozpočtu byla na tento účel vyhrazena částka 3,3 milionu korun. Vítězem výběrového řízení se stal Jiří Železný z Doubravníku, který nabídl cenu něco přes 2,6 milionu korun. Městská rada jeho výběr schválila 10. dubna 2018.
 

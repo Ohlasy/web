@@ -9,7 +9,7 @@ serial: ghetto
 
 *Možná si pomyslíte, moji milí čtenáři, jak asi patří tento představitel křesťanské šlechty, první Mensdorff na boskovickém panství, čestný občan města Boskovice a podvakrát jeho starosta, do našich Příběhů z ghetta? Vězte, že alespoň částečně skutečně patří, neboť byl také čestným občanem Židovského města Boskovice a jeho starostou, a to rovněž dvakrát.*
 
-{% photo src="https://i.ohlasy.info/i/59f83368.jpg" caption="Alfons Friedrich Mensdorff-Pouilly" author="Zámek Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/59f83368.jpg" caption="Alfons Friedrich Mensdorff-Pouilly" author="Zámek Boskovice" /%}
 
 Připomeňme si, že Židé v Boskovicích měli v letech 1850 až 1919 svou politickou samostatnost s názvem Židovské město Boskovice s vlastním zastupitelstvem, radou, starostou a také právem udělovat svá čestná občanství. V uvedeném období jmenovala boskovická židovská obec celkem dvacet čestných občanů. Za tutéž dobu křesťanské Boskovice propůjčily čestné občanství 26 osobnostem; pouze 4 z nich byli nositeli tohoto titulu obou částí Boskovic, mezi nimi i hrabě Mensdorff-Pouilly. Z čestných občanů Židovského města Boskovice bylo jen 8 boskovických rodáků. Podle profesí byli tři z nich lékaři, tři učitelé, tři podnikatelé, dva rabíni, dva majitelé panství, šest politiků a státních úředníků a jeden novinář. Podle náboženství bylo třináct židů a sedm katolíků.
 

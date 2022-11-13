@@ -9,7 +9,7 @@ tags: politika
 
 *Třináctá schůze boskovického zastupitelstva se konala v úterý posledního února. Úvod zasedání se obešel bez jakýchkoliv dotazů a připomínek občanů. Zastupitelská diskuse postupně gradovala, zejména kvůli dalším nákladům spojenými s rekonstrukcí letního kina, výstavbou sportparku a demolicí mlýna v Červené zahradě. Poněkud bizarně se pak zastupitelstvem vinulo téma pověření zastupitelů pro vykonávání pravomoci oddávajícího.*
 
-{% photo src="https://i.ohlasy.info/i/svvbhi2.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/svvbhi2.jpg" author="Tomáš Trumpeš" /%}
 
 ### Rozdělení peněz pro sportovce
 

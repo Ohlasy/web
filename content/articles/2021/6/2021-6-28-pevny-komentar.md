@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Jako novináři si od politického dění držíme určitý odstup a ačkoliv nám to nikdo přímo neukládá, kupříkladu na jednáních zastupitelstva nevstupujeme do diskusí a nesnažíme se jejich průběh nijak ovlivnit. Naším úkolem je referovat, případně projednávanou problematiku rozebrat v dalších textech, třeba i názorového charakteru. Ovšem vždy věcně, nikoliv formou osobního zápolení. Pokusím se o to i v případě, který je poněkud výjimečný, protože terčem takového osobního útoku se na poslední zastupitelstvu staly mimo jiné i naše noviny, a to ze strany nyní již opozičního zastupitele Jiřího Pevného (STAN a Sportovci).*
 
-{% photo src="https://i.ohlasy.info/i/131277cc.jpg" caption="Zastupitel Jiří Pevný (STAN a Sportovci)" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/131277cc.jpg" caption="Zastupitel Jiří Pevný (STAN a Sportovci)" author="Město Boskovice" /%}
 
 Obvykle ani na osobní invektivy nereagujeme, jsme na ně do značné míry zvyklí a taky by nám to bralo příliš mnoho pracovního času. Tady je ale odpověď nutná nejen proto, že obvinění jsou nesmyslná – vypovídají totiž o hlubším problému, který může městu přinést další komplikace.
 

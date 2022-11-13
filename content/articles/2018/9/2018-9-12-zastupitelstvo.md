@@ -8,7 +8,7 @@ tags: politika
 
 *Boskovičtí zastupitelé ukončili ve středu své čtyřleté působení bez konfliktů a bez vážnějších debat. Dali jméno nové ulici, upravili rozpočet a rozešli se se starostčiným přáním úspěchu v blížících se komunálních volbách.*
 
-{% photo src="https://i.ohlasy.info/i/12wh2my.jpg" caption="Končí poslední zastupitelstvo" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/12wh2my.jpg" caption="Končí poslední zastupitelstvo" author="Tomáš Trumpeš" /%}
 
 Klidný průběh zastupitelstva předznamenal už úvodní bod dotazů a připomínek občanů – na zastupitele se totiž nikdo neobrátil. Poté zastupitelé opět bez diskusí schválili smlouvu, na základě které město poskytne nemocnici investiční dotaci ve výši 8 milionů korun. Částku schválili zastupitelé už na minulém jednání, nyní tedy už jen posvětili smlouvu, na základě které nemocnice obdrží peníze na nákup konkrétního přístrojového vybavení.
 

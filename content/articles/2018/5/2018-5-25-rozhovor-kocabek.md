@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Antonínem Kocábkem, který od [Čestmíra Huňáta](http://www.ohlasy.info/clanky/2017/05/rozhovor-hunat.html) přebírá roli programového ředitele a hlavního koordinátora festivalu Boskovice. Kromě toho působí jako hudební publicista. Mluvili jsme o jeho vztahu k festivalu a o jeho představách, jakým směrem by se měl festival dál ubírat.*
 
-{% photo src="https://i.ohlasy.info/i/gtmtinc.jpg" caption="Antonín Kocábek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/gtmtinc.jpg" caption="Antonín Kocábek" author="Tomáš Trumpeš" /%}
 
 **Ujal ses role hlavního koordinátora festivalu, to ale není tvůj první kontakt s festivalem Boskovice?**
 

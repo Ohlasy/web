@@ -10,7 +10,7 @@ tags:
 
 *Z válkou sužované Ukrajiny už dorazily na jižní Moravu tisíce uprchlíků. Místní pomáhají – jak ženám s dětmi, které tvoří převážnou skupinu migrantů z Ukrajiny, tak i prostřednictvím materiální pomoci do míst konfliktu. Od vedení Boskovic ale za celý týden konfliktu nezaznělo ani slovo o tom, zda a jak se město připravuje na pomoc.*
 
-{% photo src="https://i.ohlasy.info/i/8e494a8f.jpg" caption="Ukrajinská vlajka na boskovické radnici" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/8e494a8f.jpg" caption="Ukrajinská vlajka na boskovické radnici" author="Tomáš Trumpeš" /%}
 
 „Prosím, kdo by zítra ubytoval ukrajinskou rodinu? (…) Nemáte někdo doma postele navíc? (…) Sháním pro tříletého ukrajinského chlapce mikinu, hračky, omalovánky, hodila by se i tříkolka.“ Tyto věty se objevují v nejrůznějších skupinách na Facebooku, kde se sdružují obyvatelé Boskovic a chtějí pomoci uprchlíkům z Ukrajiny. Ptají se také na sbírky a jak pomoci, [jedna z nich se koná v Prostoru v Boskovicích teď v sobotu](https://www.facebook.com/FilipVitekDobrodruh/posts/126035976652910). Vše se ale děje spíš spontánně a živelně, ze strany vedení Boskovic regionální pomoc nikdo nezastřešil, neřídí, ani dál neorganizuje.
 

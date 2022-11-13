@@ -13,7 +13,7 @@ tags:
 
 *Velmi dlouhou a na důležitá rozhodnutí poměrně bohatou schůzi absolvovalo boskovické zastupitelstvo. Rozhodlo o rozpočtu na příští rok, ale také o bikeparku v Doubravách, o sportovní hale a strategickém plánu, diskutovalo se i o odkupu pozemků v Červené zahradě a o odvolání jednatele nemocnice. Přinášíme stručný výběr toho nejpodstatnějšího, co podle Ohlasů na zastupitelstvu zaznělo, a především bylo rozhodnuto.*
 
-{% photo src="https://i.ohlasy.info/i/m3nh0sh.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/m3nh0sh.jpg" author="Tomáš Trumpeš" /%}
 
 ### Sportpark v Doubravách chceme
 

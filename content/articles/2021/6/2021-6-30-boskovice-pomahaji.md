@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Vedení města se shodlo na finanční pomoci obcím postiženým tornádem. V budoucnu je připraveno organizovat i materiální sbírky, zatím je s touto pomocí ale potřeba vyčkat, momentálně není nutná. V postižené oblasti pomáhají také boskovičtí hasiči.*
 
-{% photo src="https://i.ohlasy.info/i/48526ac7.jpg" caption="Poškozený kostel sv. Bartoloměje v obci Hrušky na Břeclavsku" author="Tadeáš Bednarz" %}
+{% photo src="https://i.ohlasy.info/i/48526ac7.jpg" caption="Poškozený kostel sv. Bartoloměje v obci Hrušky na Břeclavsku" author="Tadeáš Bednarz" /%}
 
 Každé z pěti nejvíce postižených obcí okamžitě po 20 tisících a další větší dary v září. Tak se dohodla boskovická městská rada na svém jednání na konci června. Rada může rozhodovat o částkách do výše 50 tisíc korun a k vyřízení první vlny pomoci zpravomocnila starostu Jaroslava Dohnálka (ODS). Vyšší částky musí schválit zastupitelstvo a vedení města má v úmyslu mu předložit návrh pravděpodobně mířící někam na 200 tisíc korun pro každou obec, tedy celkově by Boskovice přispěly 100 tisíc korun nyní a 1 milion korun po prázdninách. „Rozhodli jsme se, že nebudeme svolávat mimořádné zastupitelstvo, pomoc bude potřeba poměrně dlouhou dobu,“ vysvětlil starosta Boskovic.
 

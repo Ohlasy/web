@@ -9,7 +9,7 @@ tags: architektura
 
 *Boskovice budou mít svou ArchiMapu, která zájemce provede po nejzajímavějších historických i současných stavbách ve městě. K vydání mapu připravil architekt Petr Ondráček s kolegy, [slavnostní křest](https://www.facebook.com/events/587942579594212) proběhne v úterý 14. června od 19.00 v kulturním a komunitním centru Prostor.*
 
-{% photo src="https://i.ohlasy.info/i/975e2548.jpg" author="Kamil Altrichter" %}
+{% photo src="https://i.ohlasy.info/i/975e2548.jpg" author="Kamil Altrichter" /%}
 
 Mapa představuje první ucelenější výběr zajímavých staveb ve městě. Až doposud bylo podle architektů možné při návštěvě města v informačním centru získat samostatně letáčky k pár obecně známým stavbám a zvlášť pak ucelenější informace k židovské čtvrti. „Naším záměrem bylo konečně propojit obě části v jeden celek. Aby byl výčet ještě komplexnější, doplnili jsme navíc do mapy i umělecká díla a pamětní desky umístěné ve veřejném prostoru,“ říká autor konceptu a místní rodák, architekt Petr Ondráček.
 

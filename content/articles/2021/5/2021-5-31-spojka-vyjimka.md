@@ -9,7 +9,7 @@ tags: doprava spojka
 
 *Boskovická spojka, neboli přímé železniční spojení mezi Boskovicemi a Brnem, je stále předmětem politických jednání. Nedávno dokonce Jihomoravský kraj varoval, že pokud se nová trať nepostaví, nemusí vlaky v budoucnu do Boskovic zajíždět vůbec.*
 
-{% photo src="https://i.ohlasy.info/i/9b60e3f9.jpg" caption="Boskovické vlakové nádraží, ilustrační foto" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/9b60e3f9.jpg" caption="Boskovické vlakové nádraží, ilustrační foto" author="Marek Osouch" /%}
 
 O konci vlakové dopravy na stávající trati se psalo v koncepci železniční dopravy, kterou se zabývali jihomoravští zastupitelé na posledním zasedání. „Od prosince 2022 je nutno řešit stav, že stanice Skalice nad Svitavou již vlivem husté dálkové a nákladní dopravy nevyhovuje efektivnímu provozu linky S21 *(do Boskovic pozn. red.)* a bude nutné v dopravních špičkách pracovních dnů přesunout část spojů na souběžné autobusové linky,“ píše se v materiálu, který měli zastupitelé k dispozici.
 

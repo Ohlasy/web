@@ -8,7 +8,7 @@ serial: pribehy
 
 *Nový seriál připravuje pro Ohlasy spolupracovník brněnské pobočky Paměti národa Ladislav Oujeský. Vychází z vlastní dokumentační práce, v rámci které zachycuje vzpomínky pamětníků, kterým do života zasáhly totalitní režimy minulého století.*
 
-{% photo src="https://i.ohlasy.info/i/758cb857.jpg" caption="Z ročního pracovního pobytu Miroslava Riessnera v Africe" author="Archiv Paměti národa" %}
+{% photo src="https://i.ohlasy.info/i/758cb857.jpg" caption="Z ročního pracovního pobytu Miroslava Riessnera v Africe" author="Archiv Paměti národa" /%}
 
 ### To nemáte zdání, jak člověk o svůj život bojuje
 
@@ -20,7 +20,7 @@ Ovlivněný leteckými stíhači v Anglii byl po maturitě v roce 1948 přijat
 
 V roce 1952 se oženil a krátce na to se manželům narodili dva synové. Před odchodem z armády byl v roce 1958 poslán i s rodinou na rok do Guinei v Africe, kde zajišťoval letecké spojení po celé zemi. V roce 1961 odešel z armády definitivně a nastoupil bezmála třicetiletou kariéru leteckého navigátora v ČSA (Československé aerolinie). Tam také prožil dramatické události 21. srpna 1968 a jako nestraník se dočkal Sametové revoluce i odchodu do důchodu. Celý život byl velmi činný sportovec, konferenciér, pracoval s dětmi ve sportovních oddílech a obec Soutice mu v roce 2017 udělila čestné občanství. Miroslav Riessner zemřel 1. června 2018.
 
-{% photo src="https://i.ohlasy.info/i/3c278b8d.jpg" caption="Miroslav Riessner" author="Archiv Paměti národa" %}
+{% photo src="https://i.ohlasy.info/i/3c278b8d.jpg" caption="Miroslav Riessner" author="Archiv Paměti národa" /%}
 
 ### Pokus o únos letadla
 
@@ -40,7 +40,7 @@ V té době už ženatý pamětník s manželkou a dvěma syny zažívali v A
 
 „On se najednou zastavil, ten Tito, a říkal něco překladateli a ten mu odpověděl, soudruhu, to jsou Češi, a on říká, Češi? S bolševikama nelítám, otočil se a šel nazpátek,“ dodává pamětník.
 
-{% photo src="https://i.ohlasy.info/i/a084b49c.jpg" caption="Zápisky v deníku" author="Archiv Paměti národa" %}
+{% photo src="https://i.ohlasy.info/i/a084b49c.jpg" caption="Zápisky v deníku" author="Archiv Paměti národa" /%}
 
 ### Odchod k aerolinkám a rok 1968
 

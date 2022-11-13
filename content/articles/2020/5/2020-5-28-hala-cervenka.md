@@ -12,7 +12,7 @@ tags:
 
 *Vedení Boskovic se domluvilo s majitelem pozemků po lihovaru a bývalého hotelu Velen, blanenským advokátem Janem Paroulkem, za jakých podmínek město získá zmíněné parcely u sportovního areálu v Červené zahradě. Zastupitelé by o odkupu mohli hlasovat už za měsíc.*
 
-{% photo src="https://i.ohlasy.info/i/c4fdb3fa.jpg" caption="Pozemky na Červené zahradě" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/c4fdb3fa.jpg" caption="Pozemky na Červené zahradě" author="Tomáš Trumpeš" /%}
 
 Blížící se dohoda s majitelem pozemků Janem Paroulkem, naznačovaná starostou Boskovic Jaroslavem Dohnálkem (ODS) na květnové schůzi zastupitelů a následně i na tiskové konferenci, se stala skutečností. „Dohodli jsme se a teď se to bude projednávat,“ potvrdil Ohlasům boskovický starosta s tím, že dohoda počítá se získáním pozemku po lihovaru i hotelu Velen. Blíže se však nevyjádřil, protože podle svých slov slíbil, že nebude detailní informace prozatím sdělovat. Sám Jan Paroulek telefon Ohlasům nezvedal.
 

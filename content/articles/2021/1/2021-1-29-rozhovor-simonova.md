@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Teou Šimonovou, která si založila facebookový profil nazvaný [Jako liči](https://www.facebook.com/jako.lici) a reflektuje na něm svou zkušenost adoptovaného a etnicky odlišného člověka v Česku. Vyrůstala v Boskovicích, studovala a bydlela v Olomouci, dnes žije v Rakousku.*
 
-{% photo src="https://i.ohlasy.info/i/84817e3d.jpg" author="David Liam Nachlinger" %}
+{% photo src="https://i.ohlasy.info/i/84817e3d.jpg" author="David Liam Nachlinger" /%}
 
 **Proč jsi svůj profil nazvala Jako liči?**
 
@@ -54,7 +54,7 @@ Naši mají na celé tohle téma velmi jednoduchou odpověď: *Seš prostě naš
 
 Naprosto otevřeně. To, že jsem adoptovaná, vlastně vím odjakživa, s tímhle vědomím jsem vyrostla. Odpověděli mi vždycky na všechny otázky, i když pro ně některé musely být asi bolestivé. Zase se tak ale hezky vyhnuli odpovědím na dotaz: *A kde se berou děti?* Oni si mě jednoduše domů přinesli z kojeneckého ústavu a hotovo.
 
-{% photo src="https://i.ohlasy.info/i/ea7e3981.jpg" author="David Liam Nachlinger" %}
+{% photo src="https://i.ohlasy.info/i/ea7e3981.jpg" author="David Liam Nachlinger" /%}
 
 ### Jako bych byla leguán
 

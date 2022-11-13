@@ -9,7 +9,7 @@ tags: sport
 
 *Boskovický oddíl vzpěračů dostal od města peníze na přípravu svého závodníka na mezinárodní soutěže, jenže ten na ně nakonec nejel či nepojede. Dotace však vzpěračům zůstala a vracet ji nechtějí.*
 
-{% photo src="https://i.ohlasy.info/i/10f7cb79.jpg" caption="Vzpěrač Petr Mareček" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/10f7cb79.jpg" caption="Vzpěrač Petr Mareček" author="Jaroslav Parma" /%}
 
 Boskovice byly vždy městem spojeným se vzpěrači, kteří sbírali úspěchy napříč Českou republikou. Loni jeden z nich, Petr Mareček, dostal možnost probojovat se na letošní olympiádu, a tak šéf boskovických vzpěračů Čestmír Sekanina požádal město o finanční podporu. Na svou činnost dostává oddíl od města peníze pravidelně každý rok, loni získal 110 tisíc, letos to bude ještě zhruba o 35 tisíc více. U přípravy na olympijské hry v Tokiu šlo o mimořádný stotisícový příspěvek.
 

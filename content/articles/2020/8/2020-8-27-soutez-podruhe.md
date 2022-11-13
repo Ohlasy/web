@@ -9,7 +9,7 @@ tags: investice architektura
 
 *Novou architektonickou soutěž vyhlásí Boskovice na návrh sportovní haly v Červené zahradě. Po kritice České komory architektů (ČKA), [která původní soutěž označila za neregulérní a její podmínky za nevyhovující zákonu](https://ohlasy.info/clanky/2020/07/nezakonna-soutez.html), město v nové soutěži odstraní některé chyby, ale přímo s komorou na soutěži nadále spolupracovat nebude.*
 
-{% photo src="https://i.ohlasy.info/i/cb4885ba.png" caption="Z urbanistické studie areálu Červená zahrada, kde má nová sportovní hala stát" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/i/cb4885ba.png" caption="Z urbanistické studie areálu Červená zahrada, kde má nová sportovní hala stát" author="Fránek Architects" /%}
 
 „Předchozí soutěž jsme zrušili a vyhlásili soutěž novou. S novou porotou a inovovanými podmínkami,“ uvedl starosta města Jaroslav Dohnálek (ODS). Právě počet členů poroty byl podle starosty hlavním pochybením, kterého se město v původní soutěži dopustilo. Členové poroty se totiž dělí na nezávislé a závislé na vyhlašovateli, přičemž podle zákona musejí mít nezávislí porotci početní převahu. V původní boskovické soutěži tomu bylo naopak. „Ano, tady došlo k pochybení. Kdo nic nedělá, nic nezkazí,“ komentoval situaci starosta.
 

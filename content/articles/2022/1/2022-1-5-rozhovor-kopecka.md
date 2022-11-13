@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Markétou Kopeckou, boskovickou studentkou z olomoucké katedry sociologie. Markéta se ve své [magisterské diplomové práci](https://library.upol.cz/arl-upol/cs/detail-upol_us_cat.17-0323131-Vnimani-problematiky-sexualniho-a-genderoveho-obtezovani-z-pohledu-studentu-a-pedagogu-na-vysoko-sko/?disprec=4&iset=1) zabývala sexuálním a genderovým obtěžováním ve vysokoškolském prostředí. Práce zaujala i časopis Heroine, který o jejím výzkumu napsal [článek](https://www.heroine.cz/zena-a-svet/6626-jak-vedet-kdy-to-mam-nahlasit-mlhavost-hranic-je-jen-jednim-z-problemu-studentu-vysokych-skol). My jsme s Markétou mluvili o výsledcích výzkumu, o možné prevenci, ale třeba i o její motivaci se tématem zabývat. Neopomenuli jsme ani obecný postoj k obtěžování v českém prostředí.*
 
-{% photo src="https://i.ohlasy.info/i/f09f5772.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/f09f5772.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak jsi vlastně došla na téma sexuálního a genderového obtěžování? Zabývala ses něčím podobným i v bakalářské práci?**
 

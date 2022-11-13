@@ -13,19 +13,19 @@ Narodil se 22. října 1883 v Boskovicích. Jeho otec Jan Kubín, městský důc
 
 Mladý Otakar Kubín odešel v 15 letech studovat na sochařsko-kamenickou školu v Hořicích (1898–1900), kde byl tehdy ředitelem jiný boskovický rodák Vilém Dokoupil. Na doporučení rodinného přítele a hybatele boskovického kulturního dění MUDr. Karla Snětiny se rozhodl pro studium na Akademii výtvarných umění v Praze, kde byl v letech 1900–1904 žákem Václava Brožíka, Vojtěcha Hynaise, Hanuše Schwaigera a Františka Thieleho. Z období jeho studií pochází studie sedícího starce věnovaná autorem muzeu v Boskovicích v roce 1904 a signovaná pouze iniciálami K. O. Jedná se tedy o jeden z nejstarších známých Kubínových obrazů a vůbec první získaný do sbírky boskovického muzea. Po absolvování akademie se vydal na studijní cestu, navštívil Antverpy, Brusel, Paříž, Brindisi, Neapol, Řím, Florencii aj. 
 
-{% photo src="https://i.ohlasy.info/i/nscba4d.jpg" caption="Studie sedícího starce" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/nscba4d.jpg" caption="Studie sedícího starce" author="Muzeum regionu Boskovicka" /%}
 
 Na zahradě rodinného domu v Boskovicích si postavil skromný ateliér, přezdívaný „bouda“. Ještě v roce 1950 při návštěvě svého bratra, zřejmě již při úvahách o návratu do vlasti, si na svůj první ateliér zavzpomínal: 
 
 > Bylo půl desáté byli jsme ve Skalici kde nás bratr čekal. Za chvíli jsme byli doma, kde nás ubytovali ve světnici, kterou jsme už kdysi obývali…. My po obědě šli za Slávkem a ve společnosti s jeho ženou a Olgou se Žankem jsme vykládali. Procházeli po zahradě a v místech, kde stávala kdysi má bouda, Slávek ukazoval místo, v němž se snažil najít zakopaný popis stavby. Vím dobře, že bylo vše hodně hluboko umístěno, což bylo příčinou, že nic se nenašlo. Stromy dnes jsou mohutné a je vidět jejich stáří. Když jsem tenkráte stavěl atelier, stromky byly zasázené a nesly ovoce. Jak se vše od té doby změnilo.
 
-{% photo src="https://i.ohlasy.info/i/ksjqia5.jpg" caption="Bouda" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/ksjqia5.jpg" caption="Bouda" author="Muzeum regionu Boskovicka" /%}
 
 V roce 1907 se Otakar účastnil legendární Výstavy osmi v Praze, která je považována za počátek formování kánonu českého moderního umění. „Kubínův projev lze charakterizovat jako méně spekulativní co do struktury obrazové plochy, ale o to více živelný, užívající metody barevných impresionistických skvrn. Své inspirační zdroje nalézá v syntéze maleb Vincenta van Gogha a Paula Gauguina,“ říká dnes kurátor Petr Ingerle.
 
 Kubistické období Kubínovo je ve sbírce muzea dokumentováno sérií dřevorytů s názvem Lidské bídy, jež představují vrchol geometricky schematizovaného pojetí lidského těla v jeho tvorbě.
 
-{% photo src="https://i.ohlasy.info/i/q1lurgs.jpg" caption="Z cyklu Lidské bídy" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/q1lurgs.jpg" caption="Z cyklu Lidské bídy" author="Muzeum regionu Boskovicka" /%}
 
 Na rozdíl od svých druhů v Osmě byl kubismem ovlivněn jen velmi krátce. Po 1. světové válce, kdy přesídlil do Aix-en-Provence a pak do Simiane, se obrátil k novoklasicismu. Byl jedním z představitelů „Pařížské školy“ a ve Francii si získal velkou proslulost. Od roku 1919 pravidelně vystavoval na Salonu nezávislých (Salon de Indepéndants) a od roku 1924 také na salonu v Tuilleriích (Paříž).
 

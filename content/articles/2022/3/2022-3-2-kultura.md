@@ -8,7 +8,7 @@ category: zpravodajství
 
 *V březnu nás toho čeká mnoho a kulturní program Boskovic se tak pozvolna vrací do zaběhnutých kolejí. Například březnový výběr filmů je skutečně bohatý. To máte: v rámci jednoho světa třeba film Zatracená práce o ruských novinářích, v rámci filmového klubu Zprávu o záchraně mrtvého muže s hudbou Ireny a Vojtěcha Havlových, dále Havelkův druhý počin Mimořádná událost nebo třeba černobílý film Únos bankéře Fuxe s doprovodem Veřejně nepřístupné vodní plochy. Neměli byste vynechat ani křest komiksové knihy Potíže s Mirečkem nebo jazzový koncert Tomáše Hobzka z cyklu Jazz and Blues. Ovšem obzvlášť velkou pozornost bych věnoval zbrusu nové akci Bozacon, která by měla být v hledáčku všech sci-fifilů a fantasyfilů, nebo prostě jen lidí, kteří si rádi zahrají dobrou deskovku.*
 
-{% photo src="https://i.ohlasy.info/i/ff10de5b.jpg" caption="Film Zpráva o záchraně mrtvého přijede v březnu do Boskovic představit jeho režisér Václav Kadrnka, součástí projekce bude koncert manželů Havlových" %}
+{% photo src="https://i.ohlasy.info/i/ff10de5b.jpg" caption="Film Zpráva o záchraně mrtvého přijede v březnu do Boskovic představit jeho režisér Václav Kadrnka, součástí projekce bude koncert manželů Havlových" /%}
 
 ### Belfast
 

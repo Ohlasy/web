@@ -8,7 +8,7 @@ tags: krajina
 
 *Přívalový déšť, který spadl na pole jižně od obce Velká Roudka mezi Letovicemi a Velkými Opatovicemi, způsobil bleskovou povodeň. Co se to, po několika suchých letech, děje? Hrozí nám místo sucha opět povodně?*
 
-{% photo src="https://i.ohlasy.info/i/d6ff39a3.jpeg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/d6ff39a3.jpeg" author="Hynek Skořepa" /%}
 
 Měsíc červen po několika suchých letech zase „voní deštěm“, jak říkávali naši dědové. Ne nadarmo se s 8. červnem pojí jedna z vůbec nejznámějších pranostik („Medardova kápě, čtyřicet dní kape“). Kolem 10. června totiž obvykle začínají tzv. vítské deště, jedna z výrazných vln medardovského deštivého období (sv. Vít má svátek 15. června). Jistě jste v médiích zaznamenali zprávy o extrémních srážkách, které se v neděli 14. června 2020 prohnaly Čechami a Moravou. K největším komplikacím došlo v Železných horách na Chrudimsku, v obci Míčov tam bylo evakuováno asi deset domů. V Heřmanově Městci se obyvatelé penzionu pro důchodce museli přesunout do vyšších pater. V blízkosti přetekl rybník, policie ve městě dokonce uzavřela některé ulice. Živel řádil také v Pusté Rybné na Svitavsku (Žďárské vrchy), v Litomyšli či Lanškrouně (kanalizace nezvládala pobrat vodu). Jen o pár dnů dříve přinesla rozbouřená voda zkázu do několika obcí poblíž Uničova v Olomouckém kraji. Z potoků stékajících ze svahů Nízkého Jeseníku se ve chvíli staly divoké bystřiny, beroucí vše, co jim stálo v cestě. A jak dál prší, což je pro obnovu klesajících zásob podzemních vod dobré, problémy se zvýšenými vodními stavy na menších tocích pokračují.
 

@@ -10,7 +10,7 @@ tags:
 
 *Volby do krajského zastupitelstva jsou za námi. Kromě celkových výsledků se můžeme podrobněji podívat na to, jak jsme volili v Boskovicích a v regionu a jak si vedli místní kandidáti.*
 
-{% photo src="https://i.ohlasy.info/i/474bc9a8.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/474bc9a8.jpeg" author="Tomáš Znamenáček" /%}
 
 Celkové výsledky voleb byly známé už v sobotu navečer. Zvítězilo hnutí ANO, které těsně nedosáhlo na 20 procent a získalo 15 zastupitelských mandátů. Druzí nakonec byli lidovci s více než 15 procenty a 11 mandáty. Třetí Piráti dostali necelých 14 procent hlasů, a to jim vyneslo 10 mandátů. Až čtvrtá skončila ODS se ziskem pod 13 procent hlasů a 9 mandáty. Pátí byli Starostové, kteří mají za více než 10 procent hlasů 7 mandátů.
 

@@ -11,7 +11,7 @@ tags:
 
 *Druhé kolo senátních voleb probíhá už nyní: v pátek 30. září a v sobotu 1. října. Volí se tradičně v pátek od 14 do 22 hodin a v sobotu od 8 do 14 hodin, hlasovací lístky voliči obdrží až ve velebních místnostech. Senátorka Jaromíra Vítková  (SPOLU) svůj post obhajuje proti kandidátovi hnutí ANO Antonínu Žirovnickému. Senátora volíme na šest let, výsledky budou známy v sobotu odpoledne.*
 
-{% photo src="https://i.imgur.com/8SCo2FM.jpg" caption="Senátorka Jaromíra Vítková" %}
+{% photo src="https://i.imgur.com/8SCo2FM.jpg" caption="Senátorka Jaromíra Vítková" /%}
 
 Z prvního kola si Jaromíra Vítková odnáší značný náskok – [získala v něm přes 30 procent hlasů](https://www.datawrapper.de/_/74oyd/), zatímco Antonín Žirovnický necelých osmnáct. Druhé kolo senátních voleb je ale zrádné, protože se tradičně potýká s nízkou volební účastí, takže teď bude záležet hlavně na tom, kdo dokáže své voliče lépe mobilizovat.
 

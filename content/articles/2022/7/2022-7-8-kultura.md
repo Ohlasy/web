@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Festival! Festival! Festival! Pokud to ještě nevíte, tak nás čeká opět Festival Boskovice pro židovskou čtvrť. Tentokrát jsem se snažil rozdělit program Festivalu do takových třech šuflat, z kterých jsem vybral akce, které by podle mého stály za to vidět nebo které jsou mému srdci blízké. Ale festivalem to nekončí ani zdaleka. Čekají nás promenádní koncerty, další vernisáž výstavy, koncert Pražského výběru v Letním kině nebo další projekce v letňáku. Letní prázdniny začínají a s ním i intenzivní kulturní festivalový maraton, ve kterém naše městečko nezůstává pozadu.*
 
-{% photo src="https://i.imgur.com/Z5JtlIc.jpg" caption="Vladimír Kokolia: Slow Looking" %}
+{% photo src="https://i.imgur.com/Z5JtlIc.jpg" caption="Vladimír Kokolia: Slow Looking" /%}
 
 ### FESTIVALOVÉ VÝSTAVY
 

@@ -9,7 +9,7 @@ tags: kultura
 
 *Součástí oslavy Pět let Ohlasů je také výstava fotografií Tomáše Znamenáčka, který kromě mnoha dalších funkcí zastává v našich novinách i úlohu kmenového fotografa. Výstava představuje téma, ke kterému si od žurnalistiky odjíždí spíše čistit hlavu – hory. Probíhá od soboty 8. února v kulturním a komunitním centru Prostor a u její příležitosti vznikl i tento text poodhalující Tomášovu cestu k fotografiím.*
 
-{% photo src="https://i.ohlasy.info/i/c223af83.jpeg" caption="Großvenediger, Vysoké Taury" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/c223af83.jpeg" caption="Großvenediger, Vysoké Taury" author="Tomáš Znamenáček" /%}
 
 Tomáš Znamenáček (1981) se narodil v melancholické krajině Prahy 1, kde v raném mládí chodil s dědečkem potajmu tisknout bílé troubicí tlačítko elektrických dopravních ještěrek na blízkém vlakovém nádraží Praha střed. Měkký chod bílého tlačítka následovaný krátkým zatroubením a útěkem v něm zůstal jako definující vzpomínka dětství; od té doby miluje všechny fyzické ovládací prvky: tlačítka, páčky, mikrospínače, čudlíky, přepínače, enkodéry, joysticky, kroužky, pojistky, šoupadla, atd.
 

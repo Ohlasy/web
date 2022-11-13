@@ -9,7 +9,7 @@ tags: vzdělávání
 
 *Rada Jihomoravského kraje na svém pondělním jednání vyslyšela přání části pedagogů a dalších petentů a odvolala ředitelku boskovické základní umělecké školy Stanislavu Matuškovou. Ta byla obviňována z bossingu a šikany zaměstnanců.*
 
-{% photo src="https://i.ohlasy.info/i/eab1tr9.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eab1tr9.jpg" author="Tomáš Znamenáček" /%}
 
 Rozhodnutí krajské rady podpořilo svým hlasem všech deset přítomných radních. V usnesení je jako důvod uvedeno *závažné porušení, respektive neplnění povinností vedoucího zaměstnance zaměstnavatele a ředitelky školy*. Odvolání je platné k patnáctému dni ode dne doručení.
 

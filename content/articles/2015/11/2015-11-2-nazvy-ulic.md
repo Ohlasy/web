@@ -9,7 +9,7 @@ tags: historie
 
 *V poslední době se v Ohlasech objevila zamyšlení nad boskovickými urbanonymy, tedy názvy veřejných městských prostranství, jako jsou zejména ulice a náměstí. Tak Petr Vítámvás se ve svém [přehledu map a plánů Boskovic](/clanky/2015/09/mapy-boskovic.html) dotkl i historického vývoje názvů boskovických ulic a náměstí. V souvislosti s tím pak Tomáš Trumpeš připomněl [nelichotivý stav kauzy (ne)uctění památky kardinála Špidlíka](/clanky/2015/09/pocta-spidlikovi.html) (ne)pojmenováním budovy či ulice po této osobnosti. Podívejme se proto na ožehavou otázku pojmenovávání ulic a jiných veřejných prostranství z lingvistického hlediska.*
 
-{% photo src="https://i.ohlasy.info/i/ewfnq2j.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/ewfnq2j.jpg" author="Tomáš Trumpeš" /%}
 
 Vývojem našich pojmenování obcí a jejich částí se v české jazykovědě v poslední době intenzivně zabývá Jaroslav David, který o tomto tématu napsal knížku s lákavým titulem [Smrdov, Brežněves a Rychlonožkova ulice](http://www.academia.cz/smrdov-brezneves-a-rychlonozkova-ulice.html): Kapitoly z moderní české toponymie.
 
@@ -30,7 +30,7 @@ Přemýšlení o užití jména osoby v názvu přináší vlastně otázky dvoj
 
 I pokud se omezíme na zmíněnou otázku negativní, každý má jistě jiný „práh bolesti“, tj. bod snesitelnosti nebo nesnesitelnosti konkrétních osob. Jak už bylo uvedeno výše, každá doba se určitým způsobem vymezuje oproti dobám předchozím, zejména vůči době bezprostředně předcházející, a nejinak je tomu ještě stále i nyní. I v dnešní době se ještě přirozeně vztahujeme hlavně k období komunistické totality a mohou vznikat otázky, jak naložit s jejím dědictvím, co se týče názvů míst. Osobně bych zde patřil do tábora spíše kompromisního. Nevadí mi například názvy ulic jako *Kosmonautů* či *Gagarinova*, které by možná radikální antikomunisté rádi zrušili. Takové bizarní názvy vnímám spíše jakou vcelku milou připomínku toho, co kdysi hýbalo společností, jež byla odsouzena žít – abychom se přidrželi astronautické terminologie – v sovětském satelitu. Ponechání takových názvů je možná stejně smysluplné jako ochrana některých architektonických skvostů z doby minulého režimu, neboť v obou případech se jedná o svědectví o charakteru této doby.
 
-{% photo src="https://i.ohlasy.info/i/vhln6e2.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/vhln6e2.jpg" author="Tomáš Trumpeš" /%}
 
 Větší problém vidím v názvech připomínajících politiky dob minulých, neboť zde se již honorifikační motiv výrazně dotýká toho, co tito lidé mají na svědomí, a vzniká otázka, zda to byly činy, k nimž je dobré se hlásit. Konkrétně v Boskovicích mám na mysli ulici *Ludvíka Vojtěcha*. Ačkoli uznávám, že tento boskovický rodák byl jakožto učitel a později i ředitel gymnázia a jako náměstek starosty města a posléze i předseda okresního národního výboru výraznou postavou Boskovic, která si navíc po zatčení gestapem prošla trýznivou zkouškou nucené práce v nacistické káznici, přece u mě při hodnocení této osoby převažují negativní konotace. Vojtěch byl přece také vysokým funkcionářem KSČ a v prvních letech po Únoru i poslancem Národního shromáždění. V této funkci zvedal ruku pro zákony vedoucí v konečném důsledku k nejrůznějším zvěrstvům komunistického režimu. (Z podobných důvodů příliš nerozumím tomu, proč je v tolika našich městech včetně Boskovic stále připomínán názvem ulice či náměstí Josef Hybeš, jeden z průkopníků dělnického hnutí, které po mém soudu lidstvu nepřineslo v zásadě nic pozitivního.)
 

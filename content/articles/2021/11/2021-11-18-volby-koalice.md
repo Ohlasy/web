@@ -11,7 +11,7 @@ tags:
 
 *Rok před komunálními a senátními volbami jsme se pokusili zmapovat situaci a náladu v jednotlivých stranách. Postupně se věnujeme [plánům a ambicím politiků](https://ohlasy.info/clanky/2021/11/kandidati.html), [volebním tématům](https://ohlasy.info/clanky/2021/11/temata-voleb.html) a roztříštěnosti boskovické politické scény. Díl třetí: Chtějí se strategicky spojovat, nebo bude naopak politická nabídka v Boskovicích ještě roztříštěnější?*
 
-{% photo src="https://i.ohlasy.info/i/a5c62deb.jpg" caption="Ilustrační foto" author="Zdeněk Tesař" %}
+{% photo src="https://i.ohlasy.info/i/a5c62deb.jpg" caption="Ilustrační foto" author="Zdeněk Tesař" /%}
 
 Boskovická politická scéna je dosti roztříštěná a nové subjekty dál přibývají. Pokud by STAN a Sportovci kandidovali samostatně, vzniklo samostatné Moravské zemské hnutí a objevila se nová občanská kandidátka, o jejímž vzniku se zatím spekuluje, mohlo by se o 27 mandátů v boskovickém zastupitelstvu ucházet až rekordních 14 subjektů.
 

@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Janou Tajovskou Krajčovičovou, kterou jsme dlouho znali jako vynikající operní zpěvačku. Její pěveckou kariéru uzavřela vážná nemoc, kterou Jana překonala, ale ve zpívání nemohla pokračovat. Nyní se před ní otevírá nová budoucnost, rovněž spjatá s operou – studuje na JAMU operní režii a na konci května byla v Divadle na Orlí uvedena její inscenace opery Bohuslava Martinů [Hlas lesa](http://divadlonaorli.jamu.cz/index.php?a=repertoar-pripravujeme/veselohra-na-moste-hlas-lesa).*
 
-{% photo src="https://i.ohlasy.info/i/56eb7243.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/56eb7243.jpeg" author="Tomáš Znamenáček" /%}
 
 **Janko, už sis na svou novou roli zvykla a když se podíváš do zrcadla, vidíš operní režisérku?**
 
@@ -37,7 +37,7 @@ Ale když jsme teď dělali Hlas lesa, sešla se taková super skupina, kde ty j
 
 Bylo to super a pro mě to byla i velká škola, protože před tím, když jsem režírovala, jsem se s takovou skupinou nesetkala – která by chtěla tolik komunikovat. Bylo to opravdu spíš: *kam máme jít a co máme udělat?* Toto byla nová zkušenost, ale velmi příjemná. Určitě bych se tomu nebránila.
 
-{% photo src="https://i.ohlasy.info/i/61d49aa7.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/61d49aa7.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Vyšlo mi, že to musí být pohádka, že to musí být sen
 
@@ -95,7 +95,7 @@ To byl trošku problém, protože v koroně to skoro nešlo. Všechno jsme konzu
 
 Já nepotřebuji zaplňovat jeviště nějakými rekvizitami nebo kulisami. Je pro mě spíš důležité vyplnit ho lidmi. Tím, jak to prožívají, jak se chovají, jak jednají. To je pro mě důležitější a celkově tíhnu k tomu, nepodávat divákovi informace přímo, ale spíš je nechat trochu utajené, aby nad tím musel přemýšlet. Proto se mi tak dobře dělal ten Hlas lesa, protože byl celý takový kouzelný, byl takový mystický, nebylo tam všechno prozrazené. Pracovalo se se šerosvitem, nebyla přesvícená scéna. Bylo tam hodně stínů. Prostě ne něco nadiktovat – podle mě je důležité, aby divák zapojil hlavu, musel přemýšlet a nechal fungovat svou fantazii.
 
-{% photo src="https://i.ohlasy.info/i/69e9dcc6.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/69e9dcc6.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Hudba je prostě jednička
 

@@ -11,7 +11,7 @@ tags:
 
 *Hlasování boskovických zastupitelů o lokalitě pro sportovní halu nakonec patem neskončilo. Nejednotné koalici pomohli lidovci a většinou šestnácti hlasů byla schválena hala u národohospodářské školy na Hybešově ulici. Zůstává otázkou, jestli stavbu nezablokují občané, a jestli hlasování přežije koalice.*
 
-{% photo src="https://i.ohlasy.info/i/tov0uw5.jpg" caption="Klíčové hlasování zastupitelstva" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tov0uw5.jpg" caption="Klíčové hlasování zastupitelstva" author="Tomáš Znamenáček" /%}
 
 Předzvěst debaty o umístění haly přinesl bod, ve kterém zastupitelé rozhodovali o revokaci dosud platného usnesení o tom, že hala má stát v Červené zahradě. Podle právních rozborů sice nebylo nezbytně nutné toto usnesení minulého zastupitelstva revokovat a i tak by nová varianta byla platná, přesto nakonec po debatě – a pokusu opozice revokaci usnesení zvrátit – k hlasování došlo. O dramatickou či možná spíše humornou zápletku se postaralo selhání hlasovacího zařízení starosty města, kvůli kterému se nejprve potřebný počet hlasů pro revokaci nenašel. Při opakovaném hlasování už revokace usnesení získala potřebných čtrnáct hlasů.
 

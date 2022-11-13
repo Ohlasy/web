@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku června. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/b2afcb61.jpg" caption="Boskovická pouť" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/b2afcb61.jpg" caption="Boskovická pouť" author="Tomáš Trumpeš" /%}
 
 ### Odměny pracovníkům v sociálních službách
 

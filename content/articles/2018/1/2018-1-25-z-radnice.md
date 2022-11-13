@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedené města oznámilo po prvním letošním zasedání městské rady. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/2wpwvlf.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2wpwvlf.jpg" author="Tomáš Trumpeš" /%}
 
 ### Výsledek hospodaření města za rok 2017
 
@@ -38,7 +38,7 @@ Také v letošním roce budou pokračovat farmářské trhy na náměstí. prob�
 
 Jihomoravský kraj ustoupil od svého záměru vybudovat v budově bývalého oděvního učiliště na Havlíčkově ulici dům pro [komunitní bydlení seniorů a mladých rodin](http://www.ohlasy.info/clanky/2015/10/komunitni-dum-havlickova.html). Nyní kraj plánuje budovu rekonstruovat pro potřebu svých příspěvkových organizací, které sídlí na území města. Především by se mělo jednat o depozitáře pro boskovické muzeum, prostory by mohly využívat i střední školy. Městská rada tento záměr podpořila. „Využití objektu tímto způsobem je daleko lepší, než kdyby se objekt dostal do veřejné dražby,“ uvedla boskovická starostka.
 
-{% photo src="https://i.ohlasy.info/i/oixzj0m.jpg" caption="Vizualizace rekonstruovaného parku u skleníku" %}
+{% photo src="https://i.ohlasy.info/i/oixzj0m.jpg" caption="Vizualizace rekonstruovaného parku u skleníku" /%}
 
 ### Rekonstrukce parku u skleníku
 

@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Na konci podivuhodného a asi pro všechny obtížného roku 2020 jsme lidem, o kterých jsme v průběhu roku psali, položili následující otázku: Co vám nejvíc pomáhalo zvládnout letošní rok a nepropadat trudomyslnosti?*
 
-{% photo src="https://i.ohlasy.info/i/6fde5b39.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6fde5b39.jpeg" author="Tomáš Znamenáček" /%}
 
 ---
 

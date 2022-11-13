@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Přinášíme tradiční shrnutí boskovického zastupitelstva. Chybí v něm téměř dvouhodinová debata o sportovní hale, kterou jsme podrobněji prezentovali [v samostatném textu](https://ohlasy.info/clanky/2022/02/kritika-haly.html). Kromě haly se probíralo i několik dalších, důležitých témat.*
 
-{% photo src="https://i.ohlasy.info/i/90c5f41a.jpg" caption="Ilustrační foto" author="Zdeněk Tesař" %}
+{% photo src="https://i.ohlasy.info/i/90c5f41a.jpg" caption="Ilustrační foto" author="Zdeněk Tesař" /%}
 
 V bodu věnovaném dotazům a připomínkám zastupitelů vystoupila nejprve Lída Živná, která zastupitelům přiblížila vznik a fungování lezeckého kroužku [Polez s námi](https://ohlasy.info/clanky/2022/01/polez-s-nimi.html). Na základě dosavadní zkušenosti popsala, že v Boskovicích je o lezení skutečně velký zájem, který vzhledem k aktuálním kapacitám spolek není schopen uspokojit. „Když vyšel v Ohlasech článek o našem spolku, strhla se lavina e-mailů a žádostí, zda by mohli rodiče svoje děti k nám přihlásit,“ popsala Lída Živná. Dále vysvětlila počáteční limity ve financování spolku a zajišťování potřebného materiálu. Za spolek vyjádřila podporu vybudování lezecké stěny v nové sportovní hale. Hostování ve škole André Citroëna chápou jako dočasnou záležitost. „Určitě bychom uvítali, kdyby v Boskovicích vznikla fungující dostatečně vysoká stěna pro lezecké sporty. Opravdu si nemyslím, že by tato stěna sloužila jen našemu kroužku. Rozhodně by zaujala i rodiny s dětmi, lezení zajímá i seniory a starší lidi,“ vysvětlila Lída Živná. Zastupitelům doporučila návštěvu [horolezecké stěny v Kuřimi](https://www.lezeckastenakurim.cz/), kde to podle ní funguje perfektně.
 

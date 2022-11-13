@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Jak zatím probíhá letní sezóna? Pozorovali jste v červenci nějaké větší rozdíly oproti předchozím letům? Mění se nějak nejen počet, ale třeba i skladba lidí, kteří k vám přicházejí?*
 
-{% photo src="https://i.ohlasy.info/i/e4684e0e.jpeg" caption="Premiéra opraveného letního kina" author="Monika Šindelková" %}
+{% photo src="https://i.ohlasy.info/i/e4684e0e.jpeg" caption="Premiéra opraveného letního kina" author="Monika Šindelková" /%}
 
 ---
 

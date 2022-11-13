@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s architektem Petrem Ondráčkem, který inicioval petici za vybudování lezecké stěny v nové sportovní hale plánované na Hybešově ulici v Boskovicích.*
 
-{% photo src="https://i.ohlasy.info/i/ivlmomy.jpg" caption="Architekt Petr Ondráček" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ivlmomy.jpg" caption="Architekt Petr Ondráček" author="Tomáš Znamenáček" /%}
 
 **Proč by měla být v nové hale i lezecká stěna?**
 

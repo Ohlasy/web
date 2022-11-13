@@ -8,7 +8,7 @@ category: ankety
 
 *Jak se vám líbí letošní program festivalu Boskovice a co byste především doporučili navštívit?*
 
-{% photo src="https://i.ohlasy.info/i/342157a6.jpeg" caption="Boskovice 2020" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/342157a6.jpeg" caption="Boskovice 2020" author="Tomáš Znamenáček" /%}
 
 ---
 

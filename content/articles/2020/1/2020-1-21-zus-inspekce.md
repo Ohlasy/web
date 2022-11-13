@@ -9,7 +9,7 @@ tags: zuš vzdělávání
 
 *Dění na boskovické základní umělecké škole pokročilo o další stupeň. Česká školní inspekce provedla šetření [na základě stížnosti](https://ohlasy.info/clanky/2019/12/sikana-zus.html) a hned v několika oblastech označila důvody za oprávněné. Stěžovatelé přesto nejsou s hodnocením inspekce zcela spokojeni.*
 
-{% photo src="https://i.ohlasy.info/i/4ldhvc3.jpg" caption="Základní umělecká škola Boskovice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4ldhvc3.jpg" caption="Základní umělecká škola Boskovice" author="Tomáš Znamenáček" /%}
 
 Stížnost  byla České školní inspekci doručena v srpnu loňského roku a postupně byla doplňována o další tvrzení ještě do druhé poloviny října. Stížnost podali pedagogičtí pracovníci a zákonný zástupce jednoho z žáků.
 

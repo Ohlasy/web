@@ -8,7 +8,7 @@ tags: zeleň
 
 *Dva články věnující se loukám v zastavěných oblastech napsala pro Ohlasy botanička Deana Láníková, členka [Zelené peřiny](https://www.facebook.com/Zelená-peřina-107878017606462). První díl pojednává o problematice obecně, druhá část se zaměří na konkrétní příklad v boskovické průmyslové zóně.*
 
-{% photo src="https://i.ohlasy.info/i/1262ccaa.jpg" caption="Ilustrační foto" author="archiv autorky" %}
+{% photo src="https://i.ohlasy.info/i/1262ccaa.jpg" caption="Ilustrační foto" author="archiv autorky" /%}
 
 Asi netřeba opakovat, jaký význam mají zelené plochy v zastavěných oblastech. Zatravněné plochy ve městech a na vesnicích významně zadržují vodu a udržují v zástavbě příjemné mikroklima. Trávníky také snižují prašnost a omezují negativní vliv hluku, na svazích jejich porosty zabraňují vodní erozi. Nalézají zde útočiště živočichové, kterých v krajině stále víc a víc ubývá, zvláště hmyz a další druhy v navazujícím potravním řetězci (ptáci, drobní hmyzožravci a další). V neposlední řadě je dokázané, že zelené plochy ve městě působí pozitivně na naši psychiku.
 

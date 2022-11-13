@@ -9,7 +9,7 @@ tags: doprava
 
 *Vedení Boskovic chce protáhnout cyklostezku z Boskovic a postavit nový úsek z Mladkova do Svitávky. Projekt už je hotový, řeší se pozemky, ovšem zádrhel je na samém začátku nové části cyklostezky u mostu, jenž je v dezolátním stavu a k jehož vlastnictví se nikdo nehlásí.*
 
-{% photo src="https://i.ohlasy.info/i/a0256906.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/a0256906.jpg" author="Marek Osouch" /%}
 
 Protáhnutí cyklostezky z Mladkova do Svitávky by přivítalo nemálo milovníků kol i pěších, kteří dnes využívají tu stávající mezi Boskovicemi a Mladkovem a při cestě dál do Svitávky musí jít po kraji frekventované silnice nebo se vydat oklikou přes polní cesty u Chrudichrom. [Úsek mezi Mladkovem a Svitávkou](https://mapy.cz/s/barenunete) je dnes jediná chybějící část [trasy mezi Boskovicemi a Letovicemi](https://mapy.cz/s/catukunoze), kde cyklostezka končí nedaleko přehrady.
 

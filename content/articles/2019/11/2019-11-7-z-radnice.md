@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci října. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference, které se tentokrát účastnil jen místostarosta Lukáš Holík (ANO).*
 
-{% photo src="https://i.ohlasy.info/i/30a442bb.jpg" caption="Dvořáčkův mlýn obsadí načas skauti" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/30a442bb.jpg" caption="Dvořáčkův mlýn obsadí načas skauti" author="Tomáš Znamenáček" /%}
 
 ### Centrální zásobování teplem
 

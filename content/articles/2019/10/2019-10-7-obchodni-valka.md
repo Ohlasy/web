@@ -9,7 +9,7 @@ tags: podnikání
 
 *Nejistotu, klesající zakázky nebo také propouštění zažívají některé z [velkých podniků na Boskovicku](https://ohlasy.info/clanky/2019/03/prehled-firem.html). Na vině je mimo jiné nižší ekonomický růst Číny způsobený obchodní válkou mezi asijskou velmocí a Spojenými státy.*
 
-{% photo src="https://i.ohlasy.info/i/gg2vfcu.jpg" caption="Ilustrační foto" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/gg2vfcu.jpg" caption="Ilustrační foto" author="Tomáš Trumpeš" /%}
 
 Když se letos v srpnu vrátili zaměstnanci boskovické Minervy po celozávodní dovolené do práce, čekalo na ně nepříjemné překvapení. Jejich mateřská německá společnost Dürkopp Adler jim oznámila, že bude mít pro Minervu méně zakázek, než se na letošek plánovalo.
 

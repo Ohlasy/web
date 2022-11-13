@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Vedení Boskovic chce už letos začít se stavbou kruhového objezdu u pošty. Podrobnou dokumentaci má sice v ruce, jenže teď vyšlo najevo, že se projektanti nezabývali kanalizací a vodovody. Na jejich obnovu a opravu se tak musí zpracovat doplňující projekt.*
 
-{% photo src="https://i.ohlasy.info/i/b4ea6e46.jpg" caption="Křižovatka pod poštou, kde má vzniknout kruhový objezd" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/b4ea6e46.jpg" caption="Křižovatka pod poštou, kde má vzniknout kruhový objezd" author="Tomáš Trumpeš" /%}
 
 „Odbor rozvoje města a investic provedl v souladu se směrnicí 5/2017 průzkum trhu na zhotovitele projektové dokumentace na opravu vodovodu a kanalizace,“ stojí v zápisu z jednání radních z konce letošního ledna. Tento bod by na první pohled nebyl ničím zvlášť zajímavým, protože jde o přípravu rekonstrukce klíčové infrastruktury. Nesmělo by se ovšem jednat o opravu v místě křižovatky u pošty, o jejíž přestavbě na kruhový objezd se poslední roky velmi intenzivně hovoří. Dalo by se očekávat, že oprava byla již zahrnutá do projektu za 745 tisíc, který má město v rukou od podzimu 2020 – tento termín je alespoň ve zveřejněné smlouvě.
 

@@ -9,7 +9,7 @@ tags: koronavirus nemocnice
 
 *Boskovická nemocnice kvůli koronaviru stále kontroluje každého příchozího, měří mu teplotu a vyptává se na jeho zdravotní stav. V blízké době toto pravidlo zruší, jiná však zůstanou v platnosti. A organizátoři kulturních akcí přes léto postupně oznamují, které se budou konat, když se stále zvyšuje maximální počet návštěvníků.*
 
-{% photo src="https://i.ohlasy.info/i/313d9311.jpg" caption="Měření teploty v boskovické nemocnici" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/313d9311.jpg" caption="Měření teploty v boskovické nemocnici" author="Tomáš Trumpeš" /%}
 
 Nemocnice přísná pravidla rozvolnila už minulý týden tím, že po více než třech měsících otevřela hlavní vchod. S koncem měsíce pak zmizí od hlavního i bočního vstupu i fyzické kontroly. „Od července přecházíme na automatické měření teploty u hlavního i bočního vchodu,“ uvedl jednatel boskovické nemocnice Dan Štěpánský. Návštěvník nemocnice tak uvidí, jakou má teplotu. Kdyby ji měl vyšší než 37 stupňů Celsia, bude tam pro něj jasné doporučení, aby vyhledal lékaře, který posoudí jeho zdravotní stav. Už to však bude na odpovědnosti každého jednotlivce.
 

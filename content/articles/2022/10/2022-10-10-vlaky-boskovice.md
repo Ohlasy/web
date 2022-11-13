@@ -8,7 +8,7 @@ tags: doprava
 
 *Na trati ze Skalice do Boskovic po letní tříměsíční výluce jezdí daleko méně vlaků než letos na jaře. Situace se nezmění ani po dokončení oprav koridoru z Blanska do Brna letos v prosinci.*
 
-{% photo src="https://i.ohlasy.info/i/6a75794e.jpg" caption="Boskovická lokálka čeká ve Skalici na Svitavou na cestující" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6a75794e.jpg" caption="Boskovická lokálka čeká ve Skalici na Svitavou na cestující" author="Tomáš Znamenáček" /%}
 
 Už na konci srpna se milovníci vlaků dočkali – skončilo omezení provozu na boskovické lokálce a na trať se vrátily vlaky. Jenže kdo se podíval do jízdního řádu, našel ho značně proškrtaný. „Ubyla necelá polovina spojů,“ uvedl Květoslav Havlík, mluvčí společnosti Kordis, která koordinuje veřejnou dopravu v Jihomoravském kraji.
 

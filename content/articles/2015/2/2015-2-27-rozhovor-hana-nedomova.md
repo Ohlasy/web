@@ -8,7 +8,7 @@ tags: politika
 
 *Hana Nedomová se na podzim stala první boskovickou starostkou. Od jejího zvolení uplynulo pověstných sto dní, nová městská rada navíc vydala své programové prohlášení. Logicky jsme tedy mluvili o jejích prvních dojmech z úřadu a o konkrétnějších plánech na zbytek volebního období.*
 
-{% photo src="https://i.ohlasy.info/i/6ommmgt.jpg" %}
+{% photo src="https://i.ohlasy.info/i/6ommmgt.jpg" /%}
 
 **Dovolte nám začít trochu osobně. Starostkou jste už něco přes pověstných sto dní, co pro vás osobně tato změna znamenala a znamená? Jak se s novou funkcí a novou prací sžíváte?**
 
@@ -66,7 +66,7 @@ Pak bychom mohli stát před problémem, že budou stále napadat nějaké forma
 
 Myslím, že do té doby budou určitě podklady připraveny tak, aby se dala podat adekvátní informace zastupitelům. Protože ti na to čekají také. Rozhodnout musí zastupitelstvo.
 
-{% photo src="https://i.ohlasy.info/i/3adsicz.jpg" %}
+{% photo src="https://i.ohlasy.info/i/3adsicz.jpg" /%}
 
 **Velké téma je v Boskovicích samozřejmě nemocnice. Velké a těžko uchopitelné. Nicméně z prohlášení je jasné, že cestu k převodu na kraj minimálně nezavíráte. Vy sama jste krajskou zastupitelkou, členkou strany, která je hlavní politickou silou na krajské úrovni. Je podle vás možné, že by ještě před krajskými volbami došlo k tak zásadnímu kroku jako převzetí nemocnice krajem? Vyvoláte sami taková jednání?**
 
@@ -108,7 +108,7 @@ To, co říkáte, se týká pouze ředitelů středních škol.
 
 Nad tím jsem ještě nepřemýšlela. Nicméně stojí to za úvahu.
 
-{% photo src="https://i.ohlasy.info/i/6xjmj4o.jpg" %}
+{% photo src="https://i.ohlasy.info/i/6xjmj4o.jpg" /%}
 
 **Knihovnu chcete přemístit do budovy v majetku města. To trochu vypadá, že o výsledné variantě je už rozhodnuto. Diskuse o knihovně úplně od nuly tedy nebude? Neobáváte se, že to dopadne jako s halou, když se bude tlačit jedna varianta, vyvolá to vlnu nesouhlasu?**
 

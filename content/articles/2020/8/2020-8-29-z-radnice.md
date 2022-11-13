@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci srpna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/eefd523b.png" caption="Návrh nového loga Boskovic" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/eefd523b.png" caption="Návrh nového loga Boskovic" author="Město Boskovice" /%}
 
 Mezi hlavní body na jednání rady patřilo vyhlášení nové architektonické soutěže na sportovní halu v Červené zahradě. Po kritice České komory architektů město odstranilo oproti původnímu návrhu některé chyby, ale soutěž chce i nadále pořádat bez přispění komory. Ta ji pravděpodobně označí za neregulérní, protože nebude splňovat požadované parametry, a podle zákona se jí nebudou smět účastnit autorizovaní architekti. O problematice jsme [podrobněji informovali v samostatném textu](https://ohlasy.info/clanky/2020/08/soutez-podruhe.html).
 

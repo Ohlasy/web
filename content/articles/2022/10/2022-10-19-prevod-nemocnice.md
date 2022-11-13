@@ -10,7 +10,7 @@ tags:
 
 *Jihomoravský kraj se posunul ve svém plánu centralizovat řízení krajských nemocnic do jedné velké organizace. Se začleněním boskovické nemocnice se zatím přímo nepočítá, kraj předpokládá, že jednání bude teď po komunálních volbách pokračovat.*
 
-{% photo src="https://i.ohlasy.info/i/s9w7vnc.jpg" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/s9w7vnc.jpg" author="Jaroslav Parma" /%}
 
 Z devíti krajem zřizovaných nemocnic by se měla v budoucnu stát jedna velká akciová společnost. Tento záměr optimalizace provozu nemocnic odsouhlasili v polovině října krajští radní na svém jednání.
 

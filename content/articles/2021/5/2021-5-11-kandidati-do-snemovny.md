@@ -9,7 +9,7 @@ tags: politika
 
 *Za pět měsíců budou voliči vybírat nové složení dvousetčlenné Poslanecké sněmovny. V současnosti v ní z okresu Blansko zasedají pouze tři politici: Lenka Dražilová z hnutí ANO a Jan Hrnčíř z SPD, kteří jsou zároveň také blanenskými zastupiteli, a krátce také zastupitel Lipůvky Libor Hoppe z ODS. Přímo z Boskovicka není ve sněmovně nikdo. Připravili jsme přehled známých kandidátů z okresu ze sněmovních politických stran, které se utkají o 23 křesel připadající na Jihomoravský kraj.*
 
-{% photo src="https://i.ohlasy.info/i/474bc9a8.jpeg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/474bc9a8.jpeg" caption="Ilustrační foto" author="Tomáš Znamenáček" /%}
 
 ### Hnutí ANO
 

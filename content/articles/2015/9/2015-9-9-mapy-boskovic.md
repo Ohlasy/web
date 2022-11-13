@@ -14,13 +14,13 @@ Nejstarší slovanské osídlení Boskovic, jež je z pozdní doby hradištní a
 
 Vlastní městečko bylo vysazeno asi ve 13.–14. století. V téže době byl postaven hrad na východní hraně Hradního kopce. Takzvaná Bašta byla postavena později, patrně v 15. století, jako předsunuté opevnění. Nejstarší uliční síť sestávala z náměstí (rynek), ze severní strany jej obkružovala ulice Kobylí (kpt. Jaroše), z náměstí vycházely ulice ve směru západním (původně Německá, dnes Komenského), severním (Chloustná – 17. listopadu a Havlíčkova) a východním (Bělá – Sušilova), a je doplňovaly ulice Růžová (Bezručova), Žabokrky (Dr. Svěráka), Doubravská (Bílkova) a Hradská (Hradní). Tato uliční síť zůstala v podstatě zachována od středověku až do 19. století. Přibližný stav je zachycen na rukopisném, kolorovaném plánu boskovického panství z 2. poloviny 18. století (ještě bez názvů ulic).
 
-{% photo src="https://i.ohlasy.info/i/eicvg9f.jpg" author="Muzeum Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/eicvg9f.jpg" author="Muzeum Boskovicka" /%}
 
 Město se do té doby rozrůstalo pouze prodlužováním zmíněných ulic – s výjimkou židovské čtvrti, která se od 16. století vytvářela v proláklině jižně od náměstí pod Hradským kopcem, a protože neměla možnost dalšího rozvoje, stále více se zahušťovala. 
 
 Plán Boskovic z druhé poloviny 19. století v podstatě zachycuje tutéž uliční síť, kdy k rozvoji docházelo pouze prodloužením stávajících ulic ve volném směru, doplněnou ovšem o kolonii dělnických domů Na Zahradách (vznikla 1829, dnes Nerudova, Velenova, Zástřizlova a Žerotínova) a o Novou ulici (1869, dnes Slovákova). Plánek také přináší první změny v názvech některých ulic, k nimž došlo asi v roce 1870: Německá ulice byla přejmenována na Brněnskou, Chloustná na Jevíčskou (tedy obě podle směru, kterým vedly), Žabokrky na Vodní a Kobylí na Kobližnou (rozlišenou ještě na horní a dolní). Proč ke změnám názvů došlo, nevíme, ale po staletí neměnné názvy ulic se od této doby budou měnit stále častěji, zejména při dějinných zvratech. 
 
-{% photo src="https://i.ohlasy.info/i/lpmdmdt.jpg" author="Muzeum Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/lpmdmdt.jpg" author="Muzeum Boskovicka" /%}
 
 Původní názvy plnily především orientační funkci a vycházely z nějaké výrazné vlastnosti postihující polohu, směr, osídlení nebo charakter ulice. Obecně pak od poloviny 19. století docházelo k pojmenování ulic po osobnostech, jako projev uznání dané osobnosti. K původní orientační funkci názvu ulice tak přibývá honorifikační prvek a názvy ulic, náměstí a veřejných prostranství odrážejí hodnotová měřítka doby – a zastupitelů města. 
 
@@ -51,17 +51,17 @@ Oficiálně pak byly ulice pojmenovány Sadová, Jiráskova, Tyršova, Bedřicha
 
 Ve 30. letech byl položen základ dalšímu rozvoji výstavbou administrativních budov, hospodářské a chlapecké školy a evangelického kostela severovýchodně od náměstí (na dnešním náměstí 9. května). Uvedenou situaci, jakož i změnu některých názvů ulic, zachycuje plán města od ing. J. Kouby vydaný J. Kubínem r. 1938.
 
-{% photo src="https://i.ohlasy.info/i/zc4ndy6.jpg" author="Muzeum Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/zc4ndy6.jpg" author="Muzeum Boskovicka" /%}
 
 V době německé okupace byly názvy ulic poněmčeny a pouze u těch, kde jméno vadilo, došlo k přejmenování. Na prvním místě bylo Masarykovo náměstí, které místo odkazu na prvního prezidenta Osvoboditele získalo neutrální název: Grosser Platz, Velké náměstí. Po atentátu na říšského protektora Heydricha bylo náměstí přejmenováno na jeho počest a od funkcionářů obce se vyžadovala účast na slavnostním aktu jako projev loajality. Po válce náměstí opět získalo jméno Masarykovo, ovšem nezůstalo u něj. Ještě přišlo několik vln přejmenovávání, jež postihly nejvíce právě náměstí: 1956 Gottwaldovo, 1959 Obránců míru, 1968 Masarykovo, 1968 Obránců míru, 1990 Masarykovo náměstí.
 
 V poválečném období se město dále rozrůstalo severovýchodním směrem od historického jádra výstavbou obytných domů Na Vyhlídce; koncem 50. let byla postavena nemocnice na západním okraji města, v 60. letech byla založena průmyslová zóna, v dalších letech byly postupně budovány čtvrti rodinných domků Květná, Čížovky a sídliště Pod Oborou. Zatímco sídliště Na Vyhlídce zachovává vhodné měřítko, výstavba obytného souboru Pod Oborou byla necitlivým zásahem do historické části města. 
 
-{% photo src="https://i.ohlasy.info/i/ogve8me.jpg" author="Muzeum Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/ogve8me.jpg" author="Muzeum Boskovicka" /%}
 
 Komunistická „budovatelská“ éra zanechala v Boskovicích bizarní jména ulic jako Kosmonautů nebo Gagarinova. Po roce 1989 byly přejmenovány některé názvy ulic na návrh MěNV. Jednalo se o ty nejkřiklavější: náměstí Obránců míru na Masarykovo, ulice Vítězného února na Sušilovu, Gottwaldova na Sokolskou, Lidových milicí na Štefánikovu, Leninova na Mánesovu, Zápotockého na Bílkovu, Fučíkova na 17. listopadu. Situaci zachycuje plánek ze 70. let, původním majitelem fixou ručně „kolorovaný“:
 
-{% photo src="https://i.ohlasy.info/i/0nr1nzp.jpg" author="Muzeum Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/0nr1nzp.jpg" author="Muzeum Boskovicka" /%}
 
 Představitelé OF tehdy na tento návrh přistoupili, aniž by se nad ním více zamysleli, a tak zůstala v názvech ulic zachována jména komunisty prosazovaných hrdinů – Švermova, kpt. Jaroše, míst spojených s válečnými událostmi Dukelská, Lidická (nechci tu zpochybňovat hrdinství vojáků u Dukly, ani tragičnost osudu lidických obyvatel, ale proč by měly být ulice s jejich jmény v Boskovicích?), či s datem významné události osvobození 9. května, pod vlivem sovětské propagandy ovšem odlišného od skutečného data kapitulace – 8. května.
 

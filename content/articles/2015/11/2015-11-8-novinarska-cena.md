@@ -8,7 +8,7 @@ tags: ohlasy
 
 *Vážené čtenářky a vážení čtenáři, v pátek večer se v prostorách Fakulty sociálních studií Masarykovy univerzity v Brně konala konference Lokální politika a lokální média, pořádaná u příležitosti vyhlášení výsledků XIII. regionální novinářské ceny Konrad-Adenauer-Stiftung 2015. Akce se zúčastnila také výprava členů naší redakce, která ze soutěže nevyšla naprázdno.*
 
-{% photo src="https://i.ohlasy.info/i/gy4pojj.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/gy4pojj.jpg" author="Tomáš Trumpeš" /%}
 
 Máme velkou radost, že Žaneta Ondroušková a Marek Osouch dosáhli na významná ocenění. Jako vítěze v kategorii tisk určila porota, kterou tvořili renomovaní novináři, Marka Osoucha a jeho text o boskovické solární elektrárně [Boskovice už rok nemají ze solární elektrárny ani korunu. Z 60 milionů bude nejspíš jen osm](/clanky/2015/04/solarni-elektrarna.html).
 

@@ -9,7 +9,7 @@ tags: kultura dotace
 
 *Více než jeden milion korun rozdělilo letos město Boskovice v dotačním programu pro kulturu a volnočasové aktivity. Rozdělení peněz však provázejí pochybnosti a nespokojenost části žadatelů. A to především proto, že hodnocení je netransparentní, neposkytuje zpětnou vazbu a velký počet projektů nebyl vůbec podpořen, což v minulosti nebývalo zvykem.*
 
-{% photo src="https://i.ohlasy.info/i/4537e537.jpeg" caption="Místostarosta pro kulturu Lukáš Holík" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4537e537.jpeg" caption="Místostarosta pro kulturu Lukáš Holík" author="Tomáš Znamenáček" /%}
 
 Ohlasy rovněž zjistily, že v bodování členů hodnotící komise byly velké rozdíly a existuje podezření, že část hodnotitelů rozdělení peněz výrazně ovlivnila mimo rámec hodnotících pravidel. Tím, že celkem osmi projektům přidělila extrémně nízké ohodnocení, je stáhla pod požadovaný průměr, i když ostatní členové komise jim přisoudili dobré hodnocení. Městská rada, která má v rozdělení dotací poslední slovo, tento přístup posvětila.
 
@@ -21,7 +21,7 @@ Otázka ovšem je, jestli se grantová komise právě těchto pravidel, podle kt
 
 Členové komise udělují maximálně 15 bodů, a to podle manuálu, který je součástí [pravidel dotačního titulu](https://boskovice.cz/assets/File.ashx?id_org=832&id_dokumenty=37976). Mohou tedy udělit maximálně šest bodů za zhodnocení významu projektu, dále šest bodů za hospodárnost a efektivnost rozpočtu projektu a tři body za zkušenosti s pořádáním akcí a odbornost žadatele.
 
-{% photo src="https://i.ohlasy.info/i/2d00fe14.png" caption="Barevná mapa hodnocení projektů. Na vodorovné ose jednotliví hodnotitelé podle celkového počtu rozdaných bodů, na svislé ose projekty podle získaných bodů, pod čarou nepodpořené projekty s bodovým průměrem pod 9. Jak je vidět, sedm z osmi projektů pod čarou podporu nezískalo kvůli nízkému bodovému hodnocení čtyř porotců." author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2d00fe14.png" caption="Barevná mapa hodnocení projektů. Na vodorovné ose jednotliví hodnotitelé podle celkového počtu rozdaných bodů, na svislé ose projekty podle získaných bodů, pod čarou nepodpořené projekty s bodovým průměrem pod 9. Jak je vidět, sedm z osmi projektů pod čarou podporu nezískalo kvůli nízkému bodovému hodnocení čtyř porotců." author="Tomáš Znamenáček" /%}
 
 Radnice nám nejprve hodnocení jednotlivých členů komise vydat odmítla. Nakonec jsme je získali [v anonymizované podobě](https://docs.google.com/spreadsheets/d/1IYTWfDQbYX_L7S5tXK3kERtAwiuoH9wvY745SlBByys/edit?usp=sharing). Z tabulky zřetelně vyplývá, že uvnitř komise došlo k jasné neshodě. Čtyři z jejích členů přidělili části projektů tak nízké body, že průměrné či vysoké ohodnocení ostatních už zkrátka nestačilo. 
 
@@ -33,7 +33,7 @@ Praxe tomu ale neodpovídá, což je vidět především na velkých rozdílech 
 
 A podobně se vyjadřuje i další člen hodnotící komise a opoziční zastupitel za Piráty Radek Šamšula. S letošním výsledkem spokojený není, ale nepokládá jej za pochybení. „Když budu mluvit za sebe jako člena grantové komise, tak spokojen nejsem, jelikož výsledky nedopadly tak, jak jsem si za sebe představoval. Moje osobní hlasování bylo jiné. Nicméně vše proběhlo podle pravidel stávajícího systému, a proto bychom měli hledat chyby v nastavení těchto pravidel. Grantový systém pro volnočasové aktivity zahrnuje široké spektrum činností, které podporuje: od sportovních přes volnočasové až po kulturní. Z výsledků je zjevné, že současné složení komise upřednostňuje spíše první dva okruhy,“ vyjádřil se Radek Šamšula.
 
-{% photo src="https://i.ohlasy.info/i/uw7axjn.jpg" caption="Dagmar Hamalová, zastupitelka za KDU-ČSL" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/uw7axjn.jpg" caption="Dagmar Hamalová, zastupitelka za KDU-ČSL" author="Tomáš Znamenáček" /%}
 
 ### Všechno, nebo nic
 
@@ -74,7 +74,7 @@ Otázkou tak zůstává, jestli je hlasování členů komise už nyní z podsta
 
 Alespoň do budoucna by změnu k transparentnosti podpořili právě Piráti. Pokud by měl systém bodování zůstat v současné podobě, kdy každý člen komise boduje sám za sebe a následně se body zprůměrují, mělo by být podle Radka Šamšuly toto bodování veřejné a odůvodněné. „Jiný způsob by mohl být například takový, že by komise nejdříve konsenzuálně rozhodla o tom, jestli žadatel grant dostane, nebo ne, a pak by ve druhém kroku rozhodovala o výši podpory, třeba individuálním procentuálním ohodnocením,“ uvedl pirátský zastupitel Radek Šamšula.
 
-{% photo src="https://i.ohlasy.info/i/sbg4evn.jpg" caption="Radek Pernica, předseda kulturní komise" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/sbg4evn.jpg" caption="Radek Pernica, předseda kulturní komise" author="Tomáš Znamenáček" /%}
 
 ### Změna systému
 

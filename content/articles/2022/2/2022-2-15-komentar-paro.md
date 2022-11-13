@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Když se něco nedaří, je důležité a potřebné podrobit to třeba i tvrdé, leč konstruktivní kritice. V Boskovicích se nedaří první dva roky s participativním rozpočtem (PaRo). Co nevidět se bude vyhlašovat třetí ročník – a výsledky dosavadních dvou zatím nikde.*
 
-{% photo src="https://i.ohlasy.info/i/0ecb0397.jpg" caption="Ilustrace k jednomu z projektů nominovaných v roce 2021" author="Deana Láníková" %}
+{% photo src="https://i.ohlasy.info/i/0ecb0397.jpg" caption="Ilustrace k jednomu z projektů nominovaných v roce 2021" author="Deana Láníková" /%}
 
 U kritiky je zároveň nutné přihlédnout k motivacím jednotlivých aktérů. Když se nedaří, ne vždy je za tím zvůle, prospěchářství, lhostejnost, neochota naslouchat odborným hlasům či vůbec ke komunikaci nebo šlendriánství. 
 

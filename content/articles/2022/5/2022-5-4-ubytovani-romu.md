@@ -11,7 +11,7 @@ tags:
 
 *V průběhu předchozího týdne hýbala Boskovicemi kauza případného ubytování romských válečných uprchlíků v budově bývalého hasičského štábu na ulici Svatopluka Čecha. Po bouřlivém týdnu to nyní vypadá, že stát předběžný záměr stahuje.*
 
-{% photo src="https://i.ohlasy.info/i/f212130b.jpg" caption="Bývalý hasičský štáb na ulici Svatopluka Čecha" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/f212130b.jpg" caption="Bývalý hasičský štáb na ulici Svatopluka Čecha" author="Tomáš Znamenáček" /%}
 
 Debatu rozvířila reportáž televize CNN Prima News, která informovala, že nevyužívaný boskovický objekt, který je nyní ve vlastnictví Úřadu pro zastupování státu ve věcech majetkových (ÚZSVM), je na seznamu možných míst, kam by se mohla tato skupina uprchlíků směřovat.
 

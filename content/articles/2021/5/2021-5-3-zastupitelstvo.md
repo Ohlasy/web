@@ -9,7 +9,7 @@ tags: politika
 
 *Zastupitelstvo jednalo v úterý 27. dubna poprvé po rozpadu koalice, takže ANO se STAN a Sportovci usedli do opozičních lavic. Zastupitelé potvrdili novou koalici, byly představeny výsledky auditu nemocnice. Nejdelším bodem jednání byl návrh smlouvy pozemků na Chmelnici.*
 
-{% photo src="https://i.ohlasy.info/i/9f551245.jpeg" caption="Nové vedení města, zleva místostarostka Michaela Žejšková (TOP 09), místostarosta Petr Malach (ČSSD) a starosta Jaroslav Dohnálek (ODS)" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/9f551245.jpeg" caption="Nové vedení města, zleva místostarostka Michaela Žejšková (TOP 09), místostarosta Petr Malach (ČSSD) a starosta Jaroslav Dohnálek (ODS)" author="Jaroslav Parma" /%}
  
 ### Zvolení nových místostarostů a členů rady
 
@@ -99,7 +99,7 @@ Další podmínky výstavby, které si město vyjednalo právě v Blansku, ale p
 
 Pozměněný návrh podpořilo pouze osm zastupitelů: mezi nimi Jan Nádvorník, Radek Šamšula (oba Piráti), Petr Axman, Lukáš Holík, Martina Přichystalová, Pavel Schwarzer (všichni z ANO), Jiří Pevný a Milan Janáč (ČSSD). Protinávrh tedy neprošel a návrh směnné smlouvy byl následně schválen 18 zastupiteli, viz foto výsledku hlasování.
 
-{% photo src="https://i.ohlasy.info/i/09bd447e.jpg" %}
+{% photo src="https://i.ohlasy.info/i/09bd447e.jpg" /%}
 
 Město tak smění 10 tisíc metrů čtverečních, na kterých vzniknou nové bytové domy. Od společnosti BK Invest město získá tři tisíce metrů čtverečních v lokalitě nad ulicí Lipovou, kde chce město scelit pozemky. Podle Pavla Musila město nabídlo odkup pozemků jejich majitelům za 550 korun za metr čtvereční a z deseti majitelů probíhá jednání s pěti z nich, kteří s odkupem pozemků souhlasí, z nichž ale někteří majitelé požadují cenu vyšší, a to 700 korun za metr čtvereční.
 

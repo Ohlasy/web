@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Pavlem Hubeným, šachistou a spoluzakladatelem boskovického šachového klubu. Roky stál v jeho čele, dnes stále aktivně hraje a podílí se na pořádání turnajů. Jeden z nich – [O putovní pohár Boskovic ](https://www.chess.cz/wp-content/uploads/2021/07/BLITZ-BOSKOVICE_28_8_2021.pdf) – se uskuteční na konci srpna v zámeckém skleníku. Pavel Hubený aktuálně uspěl na Mistrovství České republiky seniorů, kde získal bronzovou medaili. A chystá se na Mistrovství Evropy družstev.*
 
-{% photo src="https://i.ohlasy.info/i/61fae38a.jpg" caption="Pavel Hubený" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/61fae38a.jpg" caption="Pavel Hubený" author="Tomáš Trumpeš" /%}
 
 **Kdy jsi začal hrát šachy? Kdo tě k tomu přivedl?**
 
@@ -122,7 +122,7 @@ Mám tady pohár za první místo na okresním turnaji v Lipovci. Byl jsem desá
 
 Minulý týden v Rychnově nad Kněžnou. To byla bronzová medaile na mistrovství České republiky seniorů. Ve vážné partii a v bleskovkách jsem pohořel, ale ve fischerkách se mi zadařilo.
 
-{% photo src="https://i.ohlasy.info/i/7febd6c0.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/7febd6c0.jpg" author="Tomáš Trumpeš" /%}
 
 ### Pokračovatelé jsou
 
@@ -180,7 +180,7 @@ Buď jednorázové, těm se říká víkendové, buď je to bleskáč, nebo rapi
 
 Jsou to kamarádi, které jsem dával dohromady, senioři – Tomáš Baránek ze Sloupu, Pavel Sysr z Letohradu a Honza Zemánek z Jevíčka.
 
-{% photo src="https://i.ohlasy.info/i/4cc35155.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/4cc35155.jpg" author="Tomáš Trumpeš" /%}
 
 ### Výhra v šachu je ztráta času
 

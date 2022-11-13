@@ -8,7 +8,7 @@ tags: politika
 
 *Rozhovor s Michaelou Žejškovou, která 11. června uspořádala v Boskovicích [demonstraci na podporu iniciativy Milion chvilek pro demokracii](https://www.facebook.com/pg/ohlasy/photos/?tab=album&album_id=2199962543391182). Ptali jsme se, co ji k tomu vedlo a jak se chce angažovat dál.*
 
-{% photo src="https://i.ohlasy.info/i/brqavgj.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/brqavgj.jpg" author="Tomáš Znamenáček" /%}
 
 **Uspořádala jste v Boskovicích demonstraci iniciativy Milion chvilek pro demokracii. Proč?**
 
@@ -26,7 +26,7 @@ Dle mého názoru se s tím nelze smířit a i regionální protesty by měly sm
 
 Dle mého názoru je to jakási zhmotněná hydra, která nemusí vůbec platit. Je pravda, že jsem spíše pravicový volič, zklamání z ODS už jistě proběhlo a člověk dál na pravici hledá. Co se týká toho, co předvádí ČSSD, tak to by se člověk těžko uchyloval k tomu je volit. Ale nemůžu přece volit lháře, estébáka a trestně stíhaného člověka. Nemůže moje morálka upadnout tímhle směrem, byť nejsem s tradičními stranami spokojena.
 
-{% photo src="https://i.ohlasy.info/i/g4sfpxk.jpg" caption="Demonstrace v Boskovicích" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/g4sfpxk.jpg" caption="Demonstrace v Boskovicích" author="Tomáš Znamenáček" /%}
 
 **Jak jste byla spokojená s výsledkem boskovické demonstrace?**
 
@@ -52,7 +52,7 @@ Málo.
 
 Myslím si, že aspoň tisícovku bychom mohli dát.
 
-{% photo src="https://i.ohlasy.info/i/te31j0l.jpg" caption="Demonstrace na Letné" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/te31j0l.jpg" caption="Demonstrace na Letné" author="Tomáš Znamenáček" /%}
 
 **Byla jste na Letné?**
 

@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Rozhovor s kavárnicí Kateřinou Buriánovou, která provozuje KaKaBu v Boskovicích a Krátký kafe v Brně. Mluvili jsme právě o situaci kaváren a vůbec o podnikání v gastru, které bylo koronakrizí silně zasaženo.*
 
-{% photo src="https://i.ohlasy.info/i/8eb2b8c0.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/8eb2b8c0.jpeg" author="Tomáš Znamenáček" /%}
 
 **První titulek, který mi dnes ráno padl do očí, zněl, že podnikatelům v gastru dochází trpělivost a plánují neposlušnost. Plánujete taky neposlušnost?**
 

@@ -11,7 +11,7 @@ tags:
 
 *Velmi rychle postoupila jednání o nové boskovické koalici. Už v neděli odpoledne podepsali koaliční smlouvu vítězná Změna22 a těsně druhé Naše Boskovice s Piráty. Strany [mají dohromady většinu](https://ohlasy.info/clanky/2022/09/vysledky-voleb.html) 16 mandátů v sedmadvacetičlenném zastupitelstvu.*
 
-{% photo src="https://i.ohlasy.info/i/3d3f4112.jpg" caption="Nové vedení města, zleva Radek Šamšula, Jana Syrovátková, Lukáš Holík" author="FB Lukáše Holíka" %}
+{% photo src="https://i.ohlasy.info/i/3d3f4112.jpg" caption="Nové vedení města, zleva Radek Šamšula, Jana Syrovátková, Lukáš Holík" author="FB Lukáše Holíka" /%}
 
 Sčítání hlasů bylo napínavé až do posledního okrsku, po jehož započtení se do čela dostala právě Změna22, vedená architektkou Janou Syrovátkovou. Vítězství nad druhým uskupením Naše Boskovice je ale velice těsné, představuje rozdíl asi třiceti voličů. Lídr Našich Boskovic Lukáš Holík byl úspěšnější v individuální disciplíně preferenčních hlasů – získal jich 1448, zatímco lídryně Změny22 dostala od voličů 1233 křížků. Starostkou se ale stane Jana Syrovátková.
 

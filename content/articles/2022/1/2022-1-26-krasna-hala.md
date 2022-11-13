@@ -10,7 +10,7 @@ tags:
 
 *Tak dlouho se snaží odborníci i poučení laici vysvětlovat, že architektura opravdu není jen starost o vzhled budov, ale úloha architekta je mnohem komplexnější a v posledku velmi praktická, až mě trochu jala obava, abychom na ten estetický aspekt zase úplně nezapomněli.*
 
-{% photo src="https://i.ohlasy.info/i/a1a971cf.jpeg" caption="Vizualizace posledního návrhu sportovní haly" author="AV Atelier" %}
+{% photo src="https://i.ohlasy.info/i/a1a971cf.jpeg" caption="Vizualizace posledního návrhu sportovní haly" author="AV Atelier" /%}
 
 Tím nechci nijak snižovat vyjádření architektů a dalších odborníků k návrhu boskovické sportovní haly. Jejich [stanoviska a postřehy](https://ohlasy.info/clanky/2022/01/hala-reakce.html) jsou brilantní a jsou právě nejlepším dokladem toho, jak hluboce praktické je jejich uvažování.
 

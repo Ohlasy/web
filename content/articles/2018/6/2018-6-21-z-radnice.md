@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedené města oznámilo po červnovém zasedání městské rady. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/682afyv.jpg" caption="Stavební práce na Štefánikově ulici" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/682afyv.jpg" caption="Stavební práce na Štefánikově ulici" author="Tomáš Trumpeš" /%}
 
 ### Hospodaření nemocnice
 

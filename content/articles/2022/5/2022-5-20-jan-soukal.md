@@ -9,7 +9,7 @@ serial: ghetto
 
 *S panem Soukalem se známe již několik let. Potkáváme se na židovském hřbitově, zdravíme se, ale na nějaké řeči není nikdy čas. Já se musím věnovat svým návštěvníkům, pan Soukal je vždy v pilné práci, buď seče trávu anebo opravuje náhrobky. A tak mne napadlo, že by možná bylo zajímavé udělat s tímto pánem, který má sice inženýrský titul, ale všude se uvádí jako hrobník Jan Soukal, rozhovor pro naše Příběhy z ghetta. Na mé otázky odpovídal emailem a jeho povídání bylo tak hezké a autentické, že jsem se rozhodla ponechat je  v původní podobě, jen s nepatrnými úpravami. A tak předávám slovo ing. Janu Soukalovi, hrobníkovi na židovském hřbitově v Boskovicích i jinde.*
 
-{% photo src="https://i.ohlasy.info/i/93aaa210.jpg" caption="Zvedání náhrobků pomocí kamenického jeřábu" author="Jan Soukal" %}
+{% photo src="https://i.ohlasy.info/i/93aaa210.jpg" caption="Zvedání náhrobků pomocí kamenického jeřábu" author="Jan Soukal" /%}
 
 Narodil jsem se v Brně, letos mi bude 68 let. Vystudoval jsem lesnictví na Vysoké škole zemědělské v Brně a po studiích jsem působil v dřevařské výrobě, speciálně se jednalo o výrobu sudů, úlů pro včely a pak nábytku. Později jsem přešel do oblasti obchodu a výstavnictví a ve čtyřiceti jsem se začal naplno věnovat prodeji nábytkového kování. Tato činnost s sebou nesla každodenní cestování po širokém okolí Brna, hodně na Boskovicko a Blanensko. 
 

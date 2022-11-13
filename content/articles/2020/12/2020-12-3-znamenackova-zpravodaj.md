@@ -9,7 +9,7 @@ tags: politika
 
 *Zastupitelka za Piráty Kristýna Znamenáčková se rozhodla odejít z redakční rady Boskovického zpravodaje. Dva roky po volbách zjistila, že se jí nepodaří prosadit změny, se kterými do redakční rady šla. Na její místo nastoupí jiný opoziční zastupitel, Vladimír Farský, zvolený za KSČM.*
 
-{% photo src="https://i.ohlasy.info/i/d9263b7a.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/d9263b7a.jpg" author="Tomáš Znamenáček" /%}
 
 „Do redakční rady jsem po volbách vstupovala s vizí toho, že se budu podílet na tom, aby zpravodaj fungoval lépe. Ale byla jsem asi jediná. Myslím si, že ve zpravodaji jsou určité věci špatně, a doufala jsem, že bude společná vůle ho nějak vyvíjet a posouvat. Ale to jsem se teda mýlila,“ popisuje situaci Kristýna Znamenáčková. 
 

@@ -9,7 +9,7 @@ tags: kultura
 
 *Hledá se nový ředitel Kulturních zařízení města Boskovice (KZMB). Město [vyhlásilo konkurz na začátku února](https://www.culturenet.cz/prace/kulturni-zarizeni-mesta-boskovice-konkurz-reditel-ka/), na zpracování koncepce a odevzdání přihlášky jsou pouhé tři týdny. To je málo, ale není to jediný problém výběrového řízení. Ten hlavní je, že nevíme, co od instituce chceme, a nevedeme o tom pořádnou diskusi. Uchazeči to za nás nevyřeší.*
 
-{% photo src="https://i.ohlasy.info/i/e0618abe.jpeg" caption="Sokolovna, budoucí kulturní středisko?" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/e0618abe.jpeg" caption="Sokolovna, budoucí kulturní středisko?" author="Marek Osouch" /%}
 
 KZMB sleduji po celou dobu jejich působení. Když organizace vznikala, bylo mi okolo dvaceti a naše kulturní parta byla už tehdy, mám dojem, k tomuto počinu poměrně nedůvěřivá. Během dalších let jsme s KZMB vedli často kritický, ale věřím, že věcný dialog. A v mnohém taky spolupracovali. Otázka, zda bylo sloučení kina, knihovny a kulturního střediska do jedné organizace dobrým krokem, se mi za těch dvacet let vracela mnohokrát. Upřímně řečeno, nemám na ni jasnou odpověď. Ve své době možná mělo svou logiku a svůj přínos. Každopádně dalo městské kultuře jasný rámec a mantinely a v podstatě i kurz, který ředitel Oldřich Kovář držel.
 

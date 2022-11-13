@@ -12,7 +12,7 @@ tags:
 
 *Kolem prodražené zakázky na rozvody tepla v Boskovicích a nařčení místostarosty Radka Mazáče (Sportovci) ze střetu zájmů se vynořují nové informace. Místostarosta nesedí jen v představenstvu společnosti, která na zakázce pracovala, ale firmu jako jeden ze tří vrcholových manažerů přímo řídí a donedávna vlastnil i část jejích akcií.*
 
-{% photo src="https://i.ohlasy.info/i/bc9a3044.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/bc9a3044.jpg" author="Tomáš Trumpeš" /%}
 
 Celá zakázka na modernizaci kotelen a propojení do jedné soustavy nejdříve běžela hladce. Logicky znělo i vysvětlení, že než za třetinu ceny pouze vyměnit kotle, bude lepší za 24 milionů postavit nový okrsek centrální tepelné soustavy, díky kterému se provoz celého systému zlevní a investice se vrátí. Ministerstvo průmyslu městské firmě Služby Boskovice, která stavbu prováděla, dokonce přikleplo dotaci ve výši 5,8 milionu.
 

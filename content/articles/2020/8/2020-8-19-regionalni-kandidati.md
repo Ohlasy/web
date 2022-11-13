@@ -11,7 +11,7 @@ tags:
 
 *Do krajských voleb zbývá něco přes šest týdnů a Český statistický úřad zveřejnil [na adrese volby.cz](https://volby.cz/) jmenné seznamy kandidátů. Ohlasy proto připravily stručný přehled regionálních kandidátů, kteří se ucházejí o krajský mandát.*
 
-{% photo src="https://i.imgur.com/PXmrydR.jpg" caption="Místostarosta Lukáš Holík a starosta Jaroslav Dohnálek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.imgur.com/PXmrydR.jpg" caption="Místostarosta Lukáš Holík a starosta Jaroslav Dohnálek" author="Tomáš Trumpeš" /%}
 
 Aktuálně zasedá v krajském zastupitelstvu z Boskovicka pouze senátorka Jaromíra Vítková za KDU-ČSL. Její strana se však po minulých volbách ocitla v opozici, společně s ODS, Piráty a Zelenými, KSČM, SPD a SPO. V končícím volebním období vládla na kraji koalice hnutí ANO s ČSSD, TOP 09 a Starosty. Za Blansko seděli v krajském zastupitelstvu Jiří Crha (ODS), Jan Hrnčíř (SPD) a Stanislav Navrkal (KSČM).
 

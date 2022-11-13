@@ -8,7 +8,7 @@ tags: politika
 
 *V polovině volebního období není čas jen na hodnocení práce vedení města a tím celé koalice, ale také opozice. Ptáte se koho? Není divu. O opozici není poslední dva roky příliš slyšet a schůzemi zastupitelů se její zástupci často jen promlčí.*
 
-{% photo src="https://i.ohlasy.info/i/ea3b976a.jpg" caption="Opozice na ustavujícím jednání zastupitelstva v roce 2018" author="Monika Šindelková" %}
+{% photo src="https://i.ohlasy.info/i/ea3b976a.jpg" caption="Opozice na ustavujícím jednání zastupitelstva v roce 2018" author="Monika Šindelková" /%}
 
 Devět hlasů držel v minulém volebním období opoziční blok ODS, TOP 09 a sdružení Sportovců, tedy stran současné koalice, které dokázaly v letech 2014 až 2018 vystupovat poměrně jednotně. S touto malou silou blok několikrát narušil osmnáctihlavou koalici ČSSD, ANO a lidovců s podporou komunistů.
 

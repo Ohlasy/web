@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Denní nárůst více než tisíc nakažených, povinné roušky ve vnitřních prostorách a očekávání dalších celoplošných opatření. To přinesly první zářijové dny v České republice. A čísla rostou i v Jihomoravském kraji a na okrese Blansko.*
 
-{% photo src="https://i.ohlasy.info/i/3ce7bee4.png" caption="Vývoj počtu nakažených v okrese Blansko" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/3ce7bee4.png" caption="Vývoj počtu nakažených v okrese Blansko" author="Marek Osouch" /%}
 
 „Počet případů v posledních týdnech akceleruje. Za první tři zářijové dny je více případů než za celý měsíc květen, kdy byl nouzový stav, a více než za měsíc březen,“ informovala už 4. září Krajská hygienická stanice v Brně (KHS). Ta už během prázdnin přešla z týdenních hlášení zpět ke každodennímu zveřejňování informací. Nejmenší jednotka, za kterou se počty nakažených zveřejňují, jsou okresy.
 

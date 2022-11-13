@@ -8,7 +8,7 @@ category: rozhovory
 
 *Kamil Vočko Altrichter je fotograf samouk a s trochou nadsázky by se dalo říct, že je to dvorní fotograf Boskovic. Fotí nejrůznější místa ve městě i v okolní přírodě, jeho fotky jsou velmi oblíbené ve [facebookové skupině Boskovice a okolí](https://www.facebook.com/groups/boskoviceaokoli). Rozhovor jsme s ním proto vedli právě o focení, o Boskovicích a o tom, jak město svýma fotografickýma očima vidí.*
 
-{% photo src="https://i.ohlasy.info/i/dc7aecf0.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/dc7aecf0.jpg" author="Tomáš Trumpeš" /%}
 
 **Kamile, kdy jsi začal fotit?**
 
@@ -28,7 +28,7 @@ Ještě jsem si dálkově udělal kurz grafiky, práce v grafickém studiu. Hlav
 
 Fotíval jsem. Měl jsem německého Beiretta, ale nerozuměl jsem tomu. Jenom jsem cvakal, ale nechápal jsem duši toho fotoaparátu. Měl jsem vynikajícího otce, který se mně to snažil přiblížit, ale já jsem měl takové brzdy, jak jsem měl pocit, že mě někdo do něčeho nutí. Jsem skopec. Pak jsem ještě párkrát fotil na internátě.
 
-{% photo src="https://i.ohlasy.info/i/929f292d.jpg" author="Kamil Altrichter" %}
+{% photo src="https://i.ohlasy.info/i/929f292d.jpg" author="Kamil Altrichter" /%}
 
 ### Tréninkové město
 
@@ -64,7 +64,7 @@ Na počasí moc nehledím, to je proměnlivé. Moc nefotím v létě. To je pro 
 
 To souvisí s tím, o čem jsme se bavili, že se mi Boskovice už tolik nelíbí. Začalo mě bavit fotit je večer, při soumraku. Osvětlení má dneska spousty barev, jak jsem si všiml. Mizí škaredá oranžovožlutá a začínají být sodíkové lampy, které dělají zvláštní efekty. Takže boskovické focení budu směřovat do večerního tónu. Měl jsem taky vždycky rád gotiku a tyto temné věci, byl jsem dřív noční živočich, mám rád tmu. Boskovice se mi nejlíp fotí večer. Je to famózní pocit, stoupnout si do lesa na kopec úplně sám, slunce zapadá, město se rozžíhá. Vydržet až do tmy, to je nádherné. Je to osvobozující pocit. Noční fotografie mě teď baví nejvíc.
 
-{% photo src="https://i.ohlasy.info/i/a346ffab.jpg" author="Kamil Altrichter" %}
+{% photo src="https://i.ohlasy.info/i/a346ffab.jpg" author="Kamil Altrichter" /%}
 
 ### Dát fotkám duši
 
@@ -114,7 +114,7 @@ Ano. Tam teda kolikrát čekám, tam to zase záleží na počasí. Můžu se po
 
 Opak je focení na vnitřních akcích v Prostoru. Tam jsem ve svém živlu. To mě baví a je to i výzva kvůli světlu, protože je tam špatné osvětlení. Člověk se musí zase zdokonalit, i v nastavení fotoaparátu, i potom v postprodukci. Hodně mě to posunulo a od té doby mě hrozně baví fotit koncerty.
 
-{% photo src="https://i.ohlasy.info/i/33e12a0d.jpg" author="Kamil Altrichter" %}
+{% photo src="https://i.ohlasy.info/i/33e12a0d.jpg" author="Kamil Altrichter" /%}
 
 ### Nejsem sběrač lajků
 
@@ -144,7 +144,7 @@ Mám radši kritiku. Když někdo řekne: máš to nahlé. To už se teda dnes n
 
 Jelikož chodím pořád do práce, o to víc mě láká chodit ven. Mám spousty přátel a těší mě, že se to někomu líbí. Opravdu mě to u srdce těší. Někdo ty fotky i sdílí, vy jste mně otiskli fotku. To všechno je pro mě odměna. Každý se honí za lajky, ale mně jde spíš o to srdce.
 
-{% photo src="https://i.ohlasy.info/i/3b964174.jpg" author="Kamil Altrichter" %}
+{% photo src="https://i.ohlasy.info/i/3b964174.jpg" author="Kamil Altrichter" /%}
 
 ### Každé město mělo Stínadla
 

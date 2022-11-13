@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s tvůrci fotokomiksu Potíže s Mirečkem aneb Příběh z lesních tišin – autorem příběhu Michalem Grigou, výtvarnicí Lenkou Dokoupilovou a fotografem Tomášem Znamenáčkem. Fotokomiks vydávají Ohlasy, vyjít by měl ještě letos a objednat si ho či podpořit jeho vydání můžete ještě několik dnů v [kampani na Hithitu](https://www.hithit.com/cs/project/9813/potize-s-mireckem-aneb-pribeh-z-lesnich-tisin).*
 
-{% photo src="https://i.ohlasy.info/i/92ed73c3.jpg" caption="Výtvarnice Lenka Dokoupilová, autor příběhu Michal Griga a fotograf Tomáš Znamenáček" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/92ed73c3.jpg" caption="Výtvarnice Lenka Dokoupilová, autor příběhu Michal Griga a fotograf Tomáš Znamenáček" author="Tomáš Trumpeš" /%}
 
 **Čtete komiksy?**
 
@@ -60,7 +60,7 @@ TOMÁŠ: Jsou tam dva kamarádi Monínek a Biben. Pak je tam Kroutvor, takový l
 
 MICHAL: Plus jsme tam ještě něco dokreslovali v postprodukci graficky.
 
-{% photo src="https://i.ohlasy.info/i/e2c4767b.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e2c4767b.jpg" author="Tomáš Znamenáček" /%}
 
 **Jaké byly problémy při focení fotokomiksu s takovými postavičkami?**
 
@@ -114,7 +114,7 @@ TOMÁŠ: V ideálním případě by měl fotograf při plánování focení post
 
 MICHAL: Já si představuji, že jiné fotokomiksy vznikají tak, že si někdo vyhlédne místo a počkají tam na světlo nebo na atmosféru. My jsme to měli naopak. My jsme tu atmosféru hledali na místě. Protože na to nebyl čas, si to takhle vychytat dopředu. Ale máme to ulehčené v tom, že tam nebyla žádná obydlí, žádné vyrobené věci, s kterými bychom se museli piplat. Jen oživlé kousky lesa, které prožívají tento příběh.
 
-{% photo src="https://i.ohlasy.info/i/d69adf91.jpg" author="Luboš Valčik" %}
+{% photo src="https://i.ohlasy.info/i/d69adf91.jpg" author="Luboš Valčik" /%}
 
 **Kdo kompletoval komiks do podoby, ve které vyjde?**
 
@@ -138,7 +138,7 @@ TOMÁŠ: Vypadá to senzačně. Vybrali jsme přes 40 tisíc, což znamená, že
 
 TOMÁŠ: Rozpočet je řádově okolo 80 tisíc korun, z toho nadpoloviční většinu, asi 50 tisíc, tvoří tisk. Ten šel teď cenově nahoru kvůli nedostatku papíru. Takže momentálně z těch odhadovaných 80 tisíc stojí 50 tisíc jenom tisk, 10 tisíc tvoří honorář pro grafika, pak jsou tam nějaké drobnější částky. Důležitý prvotní příspěvek, díky kterému to mohlo jít všechno dopředu, byl od města Boskovice, které nám v grantovém systému dalo 40 tisíc. Díky tomu jsme věděli, že vůbec má smysl se do toho pouštět. To byl první klíčový příspěvek. 
 
-{% photo src="https://i.ohlasy.info/i/26fe8ed0.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/26fe8ed0.jpg" author="Tomáš Znamenáček" /%}
 
 **Jaké zkušenosti si z projektu odnášíte? Co to pro vás znamenalo?**
 

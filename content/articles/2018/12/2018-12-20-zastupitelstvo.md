@@ -8,7 +8,7 @@ tags: politika
 
 *Na prosincovém jednání se sešlo nové boskovické zastupitelstvo. Nejdůležitějším úkolem bylo jako obvykle v tuto dobu schválit rozpočet na příští rok, ale diskutovala se i jiná důležitá témata.*
 
-{% photo src="https://i.ohlasy.info/i/26wdqev.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/26wdqev.jpg" author="Tomáš Znamenáček" /%}
 
 Na začátku jednání složily svůj zastupitelský slib Jaromíra Vítková (KDU-ČSL) a Kristýna Znamenáčková (Piráti), které na ustavujícím zastupitelstvu na konci října chyběly. Tentokrát se na podstatnou část programu zastupitelé sešli v plném počtu.
 

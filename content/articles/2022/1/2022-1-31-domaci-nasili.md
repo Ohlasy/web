@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Omezování svobody, odebírání veškerých peněz, ponižování a opakované bití. Tak líčí svoje manželství oběť v jednom boskovickém případu, se kterým měly Ohlasy možnost se seznámit a který s příslibem anonymity publikujeme. Jméno oběti i dalších oslovených redakce zná.*
 
-{% photo src="https://i.ohlasy.info/i/728238ec.jpg" caption="Ilustrační foto" author="Joanna Bourne" %}
+{% photo src="https://i.ohlasy.info/i/728238ec.jpg" caption="Ilustrační foto" author="Joanna Bourne" /%}
 
 Týrané ženě se nakonec po dlouhých letech trápení podařilo alespoň částečně se osvobodit a díky zásahu své rodiny ze vztahu odejít, postavit se na vlastní nohy a rozvést se. Soud uznal i skutečnost, že docházelo k domácímu násilí, kdy manžel svou ženu bil, a to často i před dětmi. Vyvázl s podmínkou, měl zákaz se k rodině přiblížit.
 

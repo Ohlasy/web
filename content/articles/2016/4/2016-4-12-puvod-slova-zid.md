@@ -8,7 +8,7 @@ serial: jazyk
 
 *Zájemce o dějiny boskovických židů může sáhnout po několika souhrnných historických publikacích, zejména od Jaroslava Bránského. Přestože některé poznatky budou asi průběžně upřesňovány, hlavní rámec příběhu je vcelku dobře znám. Pro jazykovědce je zde zajímavá otázka, odkud se vůbec v češtině vzalo slovo žid. Odpověď není úplně snadná a její hledání nás zavede až do dávných dob raného středověku. Nevyhneme se přitom představení základních principů etymologie, jazykovědné disciplíny pátrající po původu slov, ani historickému přehledu o kontaktu různých etnik v raně středověké Evropě.*
 
-{% photo src="https://i.ohlasy.info/i/wdj8y6z.jpg" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/wdj8y6z.jpg" author="Muzeum regionu Boskovicka" /%}
 
 Podoby odpovídající českému tvaru *žid* jsou doloženy i v ostatních slovanských jazycích, více v jazycích jihoslovanských (bulharské *žid*, srbochorvatské *žȉd*, *žìdov*, *židovin*, slovinské *žȉd*) a západoslovanských (slovenské *žid*, hornolužické *žid*, dolnolužické *žyd*, polabské *zaid*, kašubské *žid*, polské *żyd*, *żydowin*), méně v jazycích východoslovanských (staroběloruské *židъ*, *žydъ*, archaické ukrajinské *žyd*, staroruské *židъ*). Vůbec nejstarším dokladem tohoto slova u Slovanů je staroslověnská forma *židovinъ*, jež se vyskytuje ve větším množství literárních památek, které patrně vznikly už v době Velkomoravské říše, tedy ke konci 9. století. Ve všech případech mají uvedená slova dva základní významy, jednak „příslušník židovského národa“, jednak „vyznavač židovského náboženství“, tj. význam etnický v prvním případě a význam náboženský v případě druhém (čeština oba významy rozlišuje i formálně, psaním velkého, nebo malého počátečního písmene).
 
@@ -16,13 +16,13 @@ Existuje-li pro určitý konkrétní význam slovo víceméně shodného či ale
 
 Uvedená hypotéza dobře odpovídá historickým kontaktům románského (severoitalského) a slovanského obyvatelstva. Ve druhé polovině prvního tisíciletí po Kristu, nejspíše od 7. století, docházelo k šíření křesťanství mezi Slovany. Misie ke Slovanům byly vedeny hlavně z měst na pobřeží Dalmácie, ale kromě toho také z takzvaného akvilejského patriarchátu, církevního území nacházejícího se v severovýchodní Itálii, zhruba mezi Benátkami a Istrií. Misionáři z této oblasti byli posíláni zejména k Chorvatům a Slovincům, ale pravděpodobně i na Velkou Moravu, a to v první polovině 9. století, ještě před byzantskou misií Konstantina a Metoděje. O kontaktech Velké Moravy se severoitalským prostředím svědčí archeologické i historické prameny:
 
-{% photo src="https://i.ohlasy.info/i/tk7ssbb.jpg" %}
+{% photo src="https://i.ohlasy.info/i/tk7ssbb.jpg" /%}
 
 *Velkomoravský kostel v Sadech u Uherského Hradiště vykazoval typické architektonické prvky užívané v severní Itálii. (Vladimír Vavřínek, Církevní misie v dějinách Velké Moravy, Praha 1963, str. 33.)*
 
 Soudí se, že právě misionáři ze severní Itálie užívali ve svých kázáních prvky svého rodného nářečí. Případ slova *žid* přitom není ojedinělý, kromě něj se touto cestou do nejstarších stadií češtiny a ostatních slovanských jazyků pravděpodobně dostaly i další křesťanské termíny, například *kříž* (z nějaké severoitalské podoby vycházející z latinského *crux*), *mše* (z nějakého pokračování latinského missa) nebo *kmotra* (z pokračování latinského *commāter*). (Kdo se chce o této problematice dozvědět více a nebojí se suchopárného vědeckého textu, [může se podívat sem](https://dl.dropboxusercontent.com/u/461826/SEB9.pdf).)
 
-{% photo src="https://i.ohlasy.info/i/sf3mmk2.jpg" %}
+{% photo src="https://i.ohlasy.info/i/sf3mmk2.jpg" /%}
 
 *Do tzv. Cividalského evangelia byla během osmého až desátého století vpisována jména význačných poutníků, kteří se na své cestě do Říma zastavili právě v severoitalském městě Cividale (na obrázku slovanské jméno Rastisclao, tedy Rastislav).*
 

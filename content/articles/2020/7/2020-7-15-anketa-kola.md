@@ -8,7 +8,7 @@ tags: doprava
 
 *Jak se vám jezdí po Boskovicích na kole? Jak je město k cyklistům vstřícné a co by zasloužilo zlepšit?*
 
-{% photo src="https://i.ohlasy.info/i/59c287ca.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/59c287ca.jpg" author="Tomáš Trumpeš" /%}
 
 ---
 

@@ -9,7 +9,7 @@ serial: osmicky
 
 *Devět let od Sametové revoluce, kdy padl komunistický režim, se po komunálních volbách v roce 1998 do vedení Boskovic dostal také kandidát koalice KSČM a Strany demokratického socialismu (SDS). Strana, se kterou do té doby kvůli dědictví z minulosti nikdo nepočítal, získala znovu podíl na moci.*
 
-{% photo src="https://i.ohlasy.info/i/ec4bp9d.jpg" caption="Dušan Sušil" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/ec4bp9d.jpg" caption="Dušan Sušil" author="Město Boskovice" /%}
 
 Po volbách v roce 1990 skončili komunisté mimo radu, o čtyři roky později však už měla koalice KSČM a tehdejšího Levého bloku ambice znovu se podílet na vedení města. I proto, že komunální volby v roce 1994 v Boskovicích komunisté vyhráli. Ostatní strany je však jako vítěze voleb vyšachovaly.
 

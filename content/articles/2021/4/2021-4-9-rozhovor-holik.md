@@ -11,7 +11,7 @@ tags:
 
 *Rozhovor s končícím místostarostou Lukášem Holíkem (ANO). Ten se svými kolegy vypověděl koaliční smlouvu, když jejich partneři z ODS, TOP 09, Boskováků a zejména STAN a Sportovců nechtěli z jeho pohledu dostatečně řešit problém střetu zájmů místostarosty Radka Mazáče. Do nové koalice hnutí ANO přizváno nebylo, takže Lukáš Holík po dvou a půl letech funkci místostarosty opustí.*
 
-{% photo src="https://i.ohlasy.info/i/4537e537.jpeg" caption="Lukáš Holík, ilustrační foto ze staršího rozhovoru" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4537e537.jpeg" caption="Lukáš Holík, ilustrační foto ze staršího rozhovoru" author="Tomáš Znamenáček" /%}
 
 **Proč jste vypověděli koaliční smlouvu minulé koalice?**
 

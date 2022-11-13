@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Zapálenou svící si z [impulzu boskovického muzea](https://www.facebook.com/events/285571722917501) připomínáme v neděli 14. a v pondělí 15. března výročí 79 let od transportu židovského obyvatelstva z Boskovic do koncentračních táborů. Zrovna před nedávnem se mi dostala do rukou kniha Viktora Emanuela Frankla „A přesto říct životu ano“, s podtitulem Psycholog prožívá koncentrační tábor. Nad Franklovou hlubokou reflexí vlastních zážitků si člověk klade otázku: Je vůbec možné hledat v této nejtemnější části moderní evropské historie přímé ponaučení a stavět jakékoliv paralely se současností? Sám Frankl se domnívá, že ano.*
 
-{% photo src="https://i.ohlasy.info/i/8b5a279b.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/8b5a279b.jpeg" author="Tomáš Znamenáček" /%}
 
 Led je to ale velmi tenký. Hrůzy koncentračních táborů jsou pro nás nepředstavitelné a neuchopitelné. Viktor Frankl ovšem protestuje proti tomu, že by na základě vězeňských prožitků – sám prošel tábory v Terezíně, Osvětimi a Türkheimu – nemohlo dojít k předání zkušenosti člověka v extrémní situaci, zbaveného svobody a zcela omezeného v možnostech žít takzvaný normální lidský život. Odmítá tedy ono okřídlené *Kdo to nezažil, ten to nemůže pochopit*. Naopak, snaha o pochopení a sdílení je důležitá. Právě proto Frankl přes svůj odpor k *zážitkovému exhibicionismu* svou knihu nakonec napsal a vydal.
 

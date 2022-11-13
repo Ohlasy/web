@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo na začátku května po zasedání městské rady. Tiskové konference se zúčastnili starosta Jaroslav Dohnálek (ODS) a místostarosta Petr Malach (ČSSD), pro nemoc se omluvila místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/cb68d506.png" caption="Poslední verze návrhu nové boskovické knihovny" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/i/cb68d506.png" caption="Poslední verze návrhu nové boskovické knihovny" author="Fránek Architects" /%}
 
 Vedení města na tiskové konferenci informovalo také o tom, že stát stahuje záměr ubytovat v Boskovicích část romských válečných uprchlíků z Ukrajiny. Záležitost jsme pojednali [v samostatném textu](https://ohlasy.info/clanky/2022/05/ubytovani-romu.html). Samostatně se budeme věnovat také vybudování druhého kinosálu v kině Panorama.
 

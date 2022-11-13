@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Jak se vyvíjí epidemie koronaviru na okrese Blansko a v Boskovicích? Přinášíme přehled základních dat a také stručnou informaci o situaci v nejsledovanějších zařízeních – v boskovické nemocnici a Městské správě sociálních služeb.*
 
-{% photo src="https://i.ohlasy.info/i/4e41581c.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4e41581c.jpeg" author="Tomáš Znamenáček" /%}
 
 Vyznat se v číslech, která jsou publikována v souvislosti s probíhající pandemií, je obtížné. V posledních týdnech navíc došlo k tomu, že Krajská hygienická stanice v Brně (KHS) přestala zveřejňovat údaje o vyléčených osobách, tudíž se ani nelze dopočítat toho, kolik je aktuálně pozitivně testovaných. V hlášení KHS tak zůstávají klíčová především čísla udávající kumulativní počet celkově nakažených v kraji a na okrese a také počet úmrtí.
 

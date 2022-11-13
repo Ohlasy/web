@@ -9,7 +9,7 @@ tags: kultura
 
 *A je tu další měsíc a s ním i kulturní výběr, který nám tentokrát půlí letní prázdniny. Na programu máme u nás v Boskovicích tři festivaly, čtyři samostatné koncerty – z toho jeden legendární kapely – a pak ještě letní projekce, výstavy, vernisáže a baletní vystoupení. Letní kino praská ve švech a lidi už neví kam dřív. Prostě kulturní Boskovice, jak je známe.*
 
-{% photo src="https://i.ohlasy.info/i/6a7f92f9.jpg" caption="Nultý ročník festivalu Raveyard v Boskovicích proběhl v roce 2020, těšit se můžeme i letos" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6a7f92f9.jpg" caption="Nultý ročník festivalu Raveyard v Boskovicích proběhl v roce 2020, těšit se můžeme i letos" author="Tomáš Znamenáček" /%}
 
 ### Festiválek bez bojů a válek
 

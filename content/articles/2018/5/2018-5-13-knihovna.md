@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *[Poslední jednání boskovického zastupitelstva](http://www.ohlasy.info/clanky/2018/04/zastupitelstvo.html) vneslo mimo jiné neklid mezi příznivce stavby nové boskovické knihovny. V debatě o prodeji budovy O2 na ulici Kapitána Jaroše totiž ze strany některých opozičních zastupitelů zaznívalo zpochybňování stavby knihovny o kus výše na téže ulici, [jak ji připravuje současné vedení města](http://www.ohlasy.info/clanky/2017/03/knihovna-zzn.html) podle návrhu [architekta Zdeňka Fránka](http://www.ohlasy.info/clanky/2017/10/rozhovor-franek.html).*
 
-{% photo src="https://i.ohlasy.info/i/vw8holo.jpg" caption="Návrh nové knihovny od Zdeňka Fránka" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/i/vw8holo.jpg" caption="Návrh nové knihovny od Zdeňka Fránka" author="Fránek Architects" /%}
 
 Část opozice dala jasně najevo, že záměr nepokládá za finální a v případě vítězství v podzimních volbách hodlá debatu o hledání nové lokality znovu otevřít – a dost možná prosazovat jinou variantu. Tím bychom se ovšem jednak vrátili o několik let zpět, a zejména bychom opustili připravený projekt mimořádné architektonické kvality. Knihovnu bychom měli později a horší.
 

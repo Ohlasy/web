@@ -10,7 +10,7 @@ tags:
 
 *K dalšímu významnému milníku se blíží příprava stavby boskovické sportovní haly v Červené zahradě. Svou činnost ukončila pracovní skupina, která na investičním záměru pracovala, a návrh mexického architekta Alberto Kalacha, který pracoval s přispěním boskovického městského architekta Zdeňka Fránka, by se měl posunout do další fáze – městská rada by nyní měla vyhlásit výběrové řízení na zhotovitele projektu.*
 
-{% photo src="https://i.ohlasy.info/i/4c024381.jpg" caption="Model chystané sportovní haly" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/4c024381.jpg" caption="Model chystané sportovní haly" author="Tomáš Trumpeš" /%}
 
 Původně vedení města na tento krok spěchalo a ještě na červnovém zastupitelstvu místostarostka Michaela Žejšková (TOP 09), která má přípravu stavby na starosti, říkala, že po jednání pracovní skupiny se kvůli tomu možná sejde mimořádná rada, aby se nemuselo čekat až na řádný termín v pondělí 23. srpna. 
 

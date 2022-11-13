@@ -9,7 +9,7 @@ tags: politika
 
 *Nová boskovická koalice ODS, ČSSD, TOP 09, KDU-ČSL a Boskováků podepsala koaliční smlouvu a oznámila personální obsazení postů ve vedení města a v městské radě. Vedle starosty Jaroslava Dohnálka (ODS) usedne jako první a uvolněný místostarosta Petr Malach (ČSSD) a jako neuvolněná místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/7098e16e.jpg" caption="Nové vedení města: místostarostka Michaela Žejšková (TOP 09), starosta Jaroslav Dohnálek (ODS) a místostarosta Petr Malach (ČSSD)" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/7098e16e.jpg" caption="Nové vedení města: místostarostka Michaela Žejšková (TOP 09), starosta Jaroslav Dohnálek (ODS) a místostarosta Petr Malach (ČSSD)" author="Jaroslav Parma" /%}
 
 Koaliční smlouvu strany podepsaly v pondělí a jejich dohodu stvrdí zastupitelstvo 27. dubna. V nové městské radě bude mít ODS tři členy, KDU-ČSL dva členy, ČSSD také dva členy a zbylá uskupení TOP 09 a Boskováci po jednom členovi. Koaliční partneři se dohodli, že vydají programové prohlášení nové rady do konce května.
 

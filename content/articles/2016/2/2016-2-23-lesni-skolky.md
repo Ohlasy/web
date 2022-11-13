@@ -8,7 +8,7 @@ author: Anna Dudková
 
 *Snad všichni znají staré pravidlo, že není špatné počasí, jen špatné oblečení. Málokdo se jím ale ve skutečnosti řídí. Výjimkou se snaží být takzvané lesní školky, kde je tato myšlenka chápána jako jedna z hlavních zásad. Také u nás v regionu působí navzdory legislativní nepřízni hned několik školek, které se úplně nebo alespoň částečně o tento přístup snaží. Zájem mezi rodiči je evidentně značný, problémem zůstávají finance.*
 
-{% photo src="https://i.ohlasy.info/i/ldxxqpi.jpg" author="Anna Dudková" %}
+{% photo src="https://i.ohlasy.info/i/ldxxqpi.jpg" author="Anna Dudková" /%}
 
 Lesní mateřské školy (LMŠ) začaly nejprve vznikat ve skandinávských zemích, odkud se rozšířily po celé Evropě. Velké množství školek tohoto typu funguje například v Německu, kde se české lesní školky často inspirují. Prvotní myšlenky LMŠ jsou jednoduché – dopřát dětem co nejvíc pohybu v přírodě za každého počasí, sledovat koloběh roku přímo venku a ne jen za oknem, pracovat a hrát si hlavně s přírodními materiály, být dětem spíše průvodcem a partnerem než autoritou. 
 

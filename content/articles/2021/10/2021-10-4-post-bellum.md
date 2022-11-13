@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Boskovičtí zastupitelé se [na svém posledním zasedání](https://ohlasy.info/clanky/2021/09/zastupitelstvo.html) rozhodli připojit se k názoru a doporučení městské rady a nepodpořit projekt společnosti Post Bellum, jehož náplní bylo zaznamenat vzpomínky několika místních pamětníků, do jejichž životů zasáhly totalitní režimy 20. století. Od vládnoucí koalice i od zastupitelstva jako celku je to vzhledem k rozložení politických sil tak trochu nepochopitelné. A hlavně je to smutné.*
 
-{% photo src="https://i.ohlasy.info/i/ft2xzbu.jpg" caption="Deportace židovských obyvatel Boskovic v roce 1942" author="Sbírky Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/ft2xzbu.jpg" caption="Deportace židovských obyvatel Boskovic v roce 1942" author="Sbírky Muzea regionu Boskovicka" /%}
 
 Ještě ke všemu je to i trochu záhadné a zvláštní, protože na přímou otázku opoziční zastupitelky Kristýny Znamenáčkové (Piráti), proč rada doporučuje projekt nepodpořit, odpověděl místostarosta Petr Malach (ČSSD): „Přiznám se, že na tuto otázku neznám odpověď." 
 

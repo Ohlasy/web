@@ -11,7 +11,7 @@ tags:
 
 *Před čtyřmi lety jsem se velmi krátce po volbách [pokusil o zamyšlení, jaká koalice by nejlépe respektovala výsledek boskovických voleb](https://ohlasy.info/clanky/2018/10/volby-komentar.html). Nyní se pokusím o podobné zamyšlení, protože mám dojem, že se jistým způsobem nacházíme ve stejné situaci.*
 
-{% photo src="https://i.ohlasy.info/i/5tcxkvt.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5tcxkvt.jpg" author="Tomáš Znamenáček" /%}
 
 Stejně jako před čtyřmi lety si beru pro svou úvahu dvě základní východiska. To první říká, že uspořádání koalice a vedení města by mělo co nejlépe odrážet výsledek voleb. A to druhé, že na komunální úrovni není dobré pracovat s těsnými většinami, ale má smysl snažit se o konsenzuálnější politiku.
 

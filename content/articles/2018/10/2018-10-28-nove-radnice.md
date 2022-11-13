@@ -8,7 +8,7 @@ category: zpravodajství
 
 *O novém vedení města či obce už mají jasno nejen Boskovice. Ustavující zastupitelstva, kde se nová vláda nad obcí potvrdí, plánují v tomto týdnu kromě Boskovic i další města. Redakce Ohlasů proto zjišťovala, jak výsledky komunálních voleb promění po tomto týdnu vedení radnic v regionu.*
 
-{% photo src="https://i.ohlasy.info/i/2u4cpnx.jpgg" caption="Kunštát" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2u4cpnx.jpgg" caption="Kunštát" author="Tomáš Znamenáček" /%}
 
 ### Blansko
 

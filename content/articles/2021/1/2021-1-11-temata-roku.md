@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Asi málokterý rok ukázal tak jasně jako ten loňský, jak omezená je naše možnost odhadovat, co nám příští měsíce přinesou, co bude jejich hlavními událostmi a dominantním tématem. Přesto jsou tu pořád témata, u kterých lze aspoň do jisté míry předpokládat, že bude důležité je v následujícím roce sledovat a budou budit zájem nás novinářů i vás čtenářů. Proto i letos na začátku roku takový přehled přinášíme a spojujeme ho s otázkami, které nad tématy vyvstávají.*
 
-{% photo src="https://i.ohlasy.info/i/8a577689.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/8a577689.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Pandemie koronaviru
 

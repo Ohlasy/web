@@ -9,7 +9,7 @@ tags: nekrolog
 
 *Krátce po svých šedesátých pátých narozeninách odešel 8. července do hudebního nebe bývalý ředitel boskovické Základní umělecké školy Zdeněk Jindra. Vzpomínkový text pro Ohlasy napsala pedagožka ZUŠ Michaela Pál, která zároveň požádala o pár vzpomínkových slov i své další kolegy.*
 
-{% photo src="https://i.ohlasy.info/i/e70871f2.jpeg" author="Josef Žemla" %}
+{% photo src="https://i.ohlasy.info/i/e70871f2.jpeg" author="Josef Žemla" /%}
 
 Zdeněk Jindra hned po studiích na konzervatoři a krátké pedagogické praxi na rodné Vysočině nastoupil ve svých čtyřiadvaceti letech coby ředitel tehdy ještě Lidové školy umění ve Svitávce.
 

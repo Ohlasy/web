@@ -9,7 +9,7 @@ tags: kultura
 
 *Do výstavního programu festivalu pro židovskou čtvrť Boskovice 2020 zařadila kurátorka Helena Musilová také výstavu Karikatura 1936–1945 jako nástroj manipulace a změny veřejného mínění. Výstava je umístěna v židovském obecním domě a potrvá do konce srpna. Série karikatur odráží dobovou mentalitu a názory a ukazuje mimo jiné rostoucí antisemitismus v Československu. Výstavu připravil ředitel městského archivu Ústí nad Labem Petr Karlíček, pro Ohlasy o ní napsala speciální glosu Alice Hrbková.*
 
-{% photo src="https://i.ohlasy.info/i/efc02627.jpg" caption="Karikatura Voskovce a Wericha" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/efc02627.jpg" caption="Karikatura Voskovce a Wericha" author="Tomáš Trumpeš" /%}
 
 Považujeme se za vtipálky a okřídlenou větu „Češi jsou smějící se bestie“ bereme jako lichotku. I když jsou mezi námi i suchaři, škarohlídové, vrahouni dobrých nápadů a jedinci s dlouhým vedením, to je jasné.
 

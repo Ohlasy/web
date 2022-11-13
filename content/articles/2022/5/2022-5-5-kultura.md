@@ -10,7 +10,7 @@ tags:
 
 *A je tu začátek května a s ním i další dávka kulturního výběru z Boskovic a okolí. Nebude chybět výstava, filmy, křest knihy nebo třeba přednášky. S rozkvetlými stromy přichází letovický BiGy fest – tento festival pro mě znamenal vždy takovou ochutnávku kulturního léta, jako by se esence boskovického festivalu přenesla na chvíli do Letovic. Letos navíc program na Bigy festu vypadá fakt velice chutně.*
 
-{% photo src="https://i.ohlasy.info/i/c6742307.jpg" caption="Na BiGy Festu v Letovicích zahrají mimo jiné Michal Rataj a Oskar Török" %}
+{% photo src="https://i.ohlasy.info/i/c6742307.jpg" caption="Na BiGy Festu v Letovicích zahrají mimo jiné Michal Rataj a Oskar Török" /%}
 
 ### Posláni na sever
 

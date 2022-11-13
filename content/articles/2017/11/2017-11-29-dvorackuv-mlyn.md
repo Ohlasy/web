@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Svůj pohled na plán zbourat Dvořáčkův mlýn nabízí náš čtenář Ondřej Fiala. Pokud zastupitelé rozhodnou o stavbě haly v Červené zahradě, bourání mlýna bude znovu aktuální.*
 
-{% photo src="https://i.ohlasy.info/i/y8wb2ij.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/y8wb2ij.jpg" caption="Dvořáčkův mlýn" author="Tomáš Znamenáček" /%}
 
 Ať přemýšlím, jak přemýšlím, stále mi uniká důvod, proč by měl být Dvořáčkův mlýn zbourán. 
 

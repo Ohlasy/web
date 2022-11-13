@@ -9,7 +9,7 @@ tags:
 
 *Minulý týden se o Popeleční středě konalo v boskovickém evangelickém kostele setkání nazvané Modlitba za mír na Ukrajině. Publikujeme řeč, kterou při té příležitosti pronesl farář Jiří Bureš.*
 
-{% photo src="https://i.ohlasy.info/i/53173baa.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/53173baa.jpg" author="Tomáš Trumpeš" /%}
 
 ### 1
 

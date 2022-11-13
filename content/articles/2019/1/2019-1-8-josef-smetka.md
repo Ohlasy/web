@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Minulý týden proběhlo smuteční rozloučení s bývalým pedagogem boskovického gymnázia Josefem Šmétkou, který zemřel o Vánocích. Na pohřbu promluvil jeho kolega Josef Pros, jehož řeč publikujeme jako vzpomínku na legendárního pedagoga, který gymnáziu zasvětil dlouhá léta svého života.*
 
-{% photo src="https://i.ohlasy.info/i/1xitwfp.jpg" caption="Josef Šmétka" author="Luboš Sušil" %}
+{% photo src="https://i.ohlasy.info/i/1xitwfp.jpg" caption="Josef Šmétka" author="Luboš Sušil" /%}
 
 Vážení přítomní, dovolte mi proslovit několik vzpomínek na svého milého kolegu Ing. Josefa Šmétku.
 

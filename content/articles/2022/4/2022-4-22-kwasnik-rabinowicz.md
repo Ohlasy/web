@@ -9,7 +9,7 @@ serial: ghetto
 
 *V březnu letošního roku jsme si připomněli [výročí tragické události](https://ohlasy.info/clanky/2022/03/odsun.html), kdy před osmdesáti lety boskovičtí židé nastoupili do transportu, aby se v naprosté většině domů již nikdy nevrátili. V roce 1942 nastoupil do transportu také Jehuda Leib Kwasnik Rabinowicz se svojí manželkou Genendel. Nebylo to v březnu a nebylo to v Boskovicích. Jehudu jeho osud dostihl v Praze, odkud byl i se svou ženou odvlečen transportem AAr 16. 7. 1942 do Terezína, poté transportem Bx do koncentračního tábora Treblinka, kde 22. 10. 1942 oba manželé zemřeli. Z celého tohoto transportu, čítajícího 2018 osob, nepřežil nikdo.*
 
-{% photo src="https://i.ohlasy.info/i/c1eb7767.jpg" caption="Rodina Kwasnik Rabinowicz bydlela v Boskovicích nejdříve na Plačkově ulici, pak U Vážné studny, nakonec v domě č. 27 ve Školní ulici (dnes Bílkova č. 6). Zde se roku 1914 narodil nejmladší syn Kurt. Rodina v tomto domě žila do roku 1927, kdy se odstěhovala do Brna." author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/c1eb7767.jpg" caption="Rodina Kwasnik Rabinowicz bydlela v Boskovicích nejdříve na Plačkově ulici, pak U Vážné studny, nakonec v domě č. 27 ve Školní ulici (dnes Bílkova č. 6). Zde se roku 1914 narodil nejmladší syn Kurt. Rodina v tomto domě žila do roku 1927, kdy se odstěhovala do Brna." author="Tomáš Znamenáček" /%}
 
 Možná to tak na první pohled nevypadá, ale Jehuda Leib zcela určitě patří do našich Příběhů z ghetta, neboť on i jeho rodina téměř třetinu svého života spojili s boskovickou židovskou komunitou. Tak mi tedy, dovolte, milí čtenáři, abych dnešní vyprávění věnovala právě příslušníkům zajímavé rodiny Kwasnik Rabinowicz.
 
@@ -17,7 +17,7 @@ Jehuda Leib se narodil 30. 7. 1877 ve vsi Rohozna v Bukovině do chasidského r
 
 Rodina Kwasnik Rabinowicz bydlela v Boskovicích nejdříve na Plačkově ulici, pak U Vážné studny, nakonec v domě č. 27 ve Školní ulici (dnes Bílkova č. 6). Zde se roku 1914 narodil nejmladší syn Kurt. Rodina v tomto domě žila do roku 1927, kdy se odstěhovala do Brna. Celá Kwasnikova rodina byla hluboce přesvědčena o správnosti sionistického hnutí. Jehuda Leib se s oběma syny pravidelně zúčastňoval sionistických kongresů, zároveň byl však plně loajální k nově vzniklému Československu a byl považován za respektovanou autoritu v otázce židů v ČSR. Krátce před nacistickou okupací odešli manželé Kwasnikovi s nejmladším synem Kurtem do Prahy, kde již delší dobu žil starší syn Oskar. Oběma synům se podařilo emigrovat; rodiče zahynuli v táboře Treblinka, jak bylo již uvedeno. V táboře Malý Trostinec zahynula i dcera Rose, provdaná Feder; štěstí měla mladší Martha, provdaná Goldach, která přežila vězení ve francouzském Vitelle a setkala se s manželem i malým dítětem.
 
-{% photo src="https://i.ohlasy.info/i/3f1b3a4f.jpg" caption="Jehuda Leib Kwasnik Rabinowicz s manželkou Gendenel před transportem do Treblinky" author="J. Bránský, Židé z Boskovic" %}
+{% photo src="https://i.ohlasy.info/i/3f1b3a4f.jpg" caption="Jehuda Leib Kwasnik Rabinowicz s manželkou Gendenel před transportem do Treblinky" author="J. Bránský, Židé z Boskovic" /%}
 
 Jaké byly osudy Oskara a Kurta, kteří část svého života prožili v Boskovicích?
 

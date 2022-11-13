@@ -8,7 +8,7 @@ tags: kultura kino
 
 *Tento nadpis je samozřejmě nadsázkou, ale podívejme se na to optikou města, které má dostatek odvahy nazývat samo sebe kulturním, byť se mně zdá toto označení značně problematické. Mezi kulturu jistě nepočítáme jen koncerty, festivaly, ale například i kulturu urbanismu – a zde Boskovice značně selhávají. Mohli bychom termín „kulturní město“ analyzovat dále, ale to není předmětem tohoto sloupku.*
 
-{% photo src="https://i.ohlasy.info/i/c3vbzid.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/c3vbzid.jpg" author="Tomáš Trumpeš" /%}
 
 Vraťme se však k letnímu kinu. Tento prostor je zcela zásadní pro srocování lidí, a tím pádem pro tvorbu města jako takového, města, kde se lidé hojně setkávají, komunikují, sdílejí (nikoli na webu, ale skutečně). Nemyslím si totiž, že město tvoří chodníky, silnice a domy, ale především komunikující lidé. A právě pro tyto účely nám zbylo jen letní kino. Náměstí je parkovací zónou, koupaliště po své rekonstrukci tento potenciál jaksi neuchopilo, opravený zimní stadion jaksi netáhne (samozřejmě mimo sport), sportovní hala je v nedohlednu. Na sokolovnu se stydíte kohokoli vzít. Dobře, máme Panoramu a zámecký skleník, ale tam myslím není dostačující kapacita. Co nám zbývá, je pouze letní kino.
 

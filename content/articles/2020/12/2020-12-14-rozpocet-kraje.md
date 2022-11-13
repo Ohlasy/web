@@ -9,7 +9,7 @@ tags: politika
 
 *Koronavirová krize a snižování daní v důsledku zrušení superhrubé mzdy připraví příští rok krajskou kasu o spoustu peněz. V návrhu rozpočtu Jihomoravského kraje se počítá s výpadkem daňových příjmů ve výši 1,18 miliardy korun. Škrty se dotkly téměř všech oblastí, které má kraj na starosti, což je především doprava, zdravotnictví, sociální služby a školství.*
 
-{% photo src="https://i.ohlasy.info/i/dd24a131.jpg" author="Jihomoravský kraj" %}
+{% photo src="https://i.ohlasy.info/i/dd24a131.jpg" author="Jihomoravský kraj" /%}
 
 Nové vedení Jihomoravského kraje v čele s hejtmanem Janem Grolichem (KDU-ČSL) se chopilo před měsícem funkcí ve velmi složité době. Musí řešit pandemii nemoci covid-19 a zároveň skládat rozpočet na příští rok, tedy škrtat v jednotlivých položkách. Hejtman Grolich svým tradičním stylem stand-up komika rozpočet nazval „Hrou o přežití“. Zastupitelé o něm budou hlasovat 17. prosince.
 

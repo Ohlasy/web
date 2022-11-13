@@ -9,7 +9,7 @@ tags: kultura
 
 *V neděli 7. března proběhne další [online debata v rámci cyklu Film a spiritualita](https://www.facebook.com/events/1278735885842830/), který spoluorganizuje boskovický sbor ČCE a komunitní centrum Prostor. Tématem tentokrát bude jeden z výrazných tuzemských filmových počinů loňského roku – film Krajina ve stínu od režiséra Bohdana Slámy. Následující poznámky nejsou míněny jako kritika či recenze filmu, nýbrž jako pozvánka k jeho zhlédnutí a připojení se k diskuzi. Popřípadě jako vstupní diskuzní impuls.*
 
-{% photo src="https://i.ohlasy.info/i/e81f1f68.jpg" %}
+{% photo src="https://i.ohlasy.info/i/e81f1f68.jpg" /%}
 
 *Krajina ve stínu* se vrací k velkému tématu českých poválečných dějin – vysídlování německého obyvatelstva a k aktům hromadného násilí páchaného na Němcích či osobách za Němce považovaných. Činí tak prostřednictvím zpracování konkrétní historické události, jíž byla exekuce 14 osob (12 mužů a 2 žen) v obci Tušť na Vitorazsku dne 24. května 1945. Tato tragédie je však pouze jedním z dějových vrcholů, neboť film zasahuje mnohem širší časové období (1938–1952) a jeho těžiště nespočívá ani tak v prezentaci historické události, jako spíše v analýze lidských charakterů uprostřed dějinného mikroprostoru konkrétní vesnice, kterou během celého filmu takřka vůbec neopustíme. Ačkoli rozhodující dějové impulsy dodávají vnější „velké dějiny“, film se ptá především po jejich dopadech na vesnickou pospolitost a jednotlivé lidské osudy. A snaží se klást otázky mnohem obecnějšího rázu – po povaze lidské identity, spravedlnosti, viny či trestu.
 

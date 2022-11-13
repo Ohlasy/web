@@ -9,7 +9,7 @@ tags: politika
 
 *Bývalý boskovický místostarosta za ČSSD Petr Malach po menší pauze znovu pracuje pro město. V městské firmě Služby Boskovice zastává od začátku ledna pozici vedoucího sportovních zařízení. Má na starosti správu zimního stadionu nebo veřejného osvětlení.*
 
-{% photo src="https://i.ohlasy.info/i/qrcente.jpg" caption="Petr Malach" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/qrcente.jpg" caption="Petr Malach" author="Tomáš Znamenáček" /%}
 
 Petr Malach se po komunálních volbách v roce 2014 jako úplný nováček v zastupitelstvu vyšvihl rovnou na post místostarosty. Za tuto práci sice neměl plný plat, v té době byl ovšem zároveň také jedním z asistentů tehdejšího premiéra a svého stranického kolegy Bohuslava Sobotky. Hlavním zdrojem obživy tak pro něj v té době byla politika.
 

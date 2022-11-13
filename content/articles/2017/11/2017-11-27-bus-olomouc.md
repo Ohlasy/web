@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Dostat se do Olomouce bez přestupu bude po novém roce téměř nemožné. Autobusy, které doposud jezdily až do největšího města sousedního kraje, totiž už nepojedou. Cestující čeká přestupování v Prostějově.*
 
-{% photo src="https://i.ohlasy.info/i/2fni45c.jpg" caption="Autobusové nádraží Boskovice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2fni45c.jpg" caption="Autobusové nádraží Boskovice" author="Tomáš Trumpeš" /%}
 
 Tradiční dopravce Vydosbus, který ještě před několika lety jezdil na Boskovicku, z regionu definitivně odchází. S koncem roku 2012 ho na regionálních linkách vystřídaly společnosti ČAD Blansko, Dopaz a Zdar. Nově přišel Vydosbus i o linky z Boskovic do Olomouce.
 

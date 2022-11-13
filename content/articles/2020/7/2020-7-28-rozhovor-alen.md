@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s písničkářkou Alen, vlastním jménem Alenou Pohlovou, která právě vydává album Až se řeky vylijí z břehů. Křest a první z řady koncertů se uskuteční v sobotu 1. srpna v boskovickém Prostoru. Album obsahuje sedm písní.*
 
-{% photo src="https://i.ohlasy.info/i/5b5d27dd.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5b5d27dd.jpeg" author="Tomáš Znamenáček" /%}
 
 **Co stane v lidském životě, když se *řeky vylijí z břehů*? Kam nás ta metafora vede?**
 

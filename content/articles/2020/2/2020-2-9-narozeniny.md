@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Oslavy pátého výročí založení našich novin jsou za námi. Děkujeme všem, kdo přišli na akci do Prostoru, děkujeme za všechny přání a vzkazy a publikujeme úvodní slovo Tomáše Trumpeše ze sobotního narozeninového večera. Záznamy živých rozhovorů a besedy budou brzy následovat.*
 
-{% photo src="https://i.ohlasy.info/i/244f066e.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/244f066e.jpeg" author="Tomáš Znamenáček" /%}
 
 Snad se pokusit při této příležitosti vyvrátit jednu rozšířenou mylnou představu o novinařině; představu, se kterou se dost často setkávám. Ta představa vidí novináře jako člověka, kterého napadne nějaké téma, který si pak o něm zjistí informace, rozhodne se, jakou formou ho zpracuje, napíše text a ten text pak publikuje, případně mu jej někdo publikuje.
 

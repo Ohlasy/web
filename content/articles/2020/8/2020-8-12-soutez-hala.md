@@ -11,7 +11,7 @@ tags:
 
 *Město Boskovice vyhlásilo architektonickou soutěž na sportovní halu. Česká komora architektů (ČKA) následně [označila soutěž za neregulérní](https://ohlasy.info/clanky/2020/07/nezakonna-soutez.html) a upozornila, že odporuje i zákonu o zadávání veřejných zakázek. Boskovická radnice přesto trvá na tom, že soutěž je v pořádku, a pokud ji bude muset vyhlásit znovu, bude postupovat stejně.*
 
-{% photo src="https://i.ohlasy.info/i/78acd78a.png" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/78acd78a.png" author="Město Boskovice" /%}
 
 Důvodem k vyhlášení nové soutěže by podle místostarosty Radka Mazáče (Sportovci) mohlo být to, že po zveřejnění stanoviska ČKA odstoupili z hodnotící komise někteří členové. Podle regulí komory se totiž autorizovaní architekti nejen nemůžou soutěže účastnit, ale nesmí ani sedět v porotě. „Vzhledem k tomu, že někteří členové poroty odstoupili, je nutno tyto členy nahradit. Na dalším zasedání rady města dojde ke změně v obsazení poroty. Zvažujeme vyhlášení nové architektonické soutěže,“ uvedl místostarosta Radek Mazáč.
 

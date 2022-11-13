@@ -9,7 +9,7 @@ tags: doprava
 
 *Rekonstrukce Lidické ulice v Boskovicích je po plánovaném kruhovém objezdu u pošty druhým stěžejním dopravním projektem ve městě. Radnice však u Lidické nepočítá jen s opravou silnice a chodníků, ale i okolních ulic, zejména jejich napojení. Z jedné se například stane jednosměrka.*
 
-{% photo src="https://i.ohlasy.info/i/28e84aa7.jpg" caption="Lidická ulice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/28e84aa7.jpg" caption="Lidická ulice" author="Tomáš Trumpeš" /%}
 
 Denně tudy projede přes pět tisíc aut, stav silnice na Lidické je už ale tristní několik let. Podobné je to i u chodníků, na nichž je rozbitá a vyviklaná dlažba. I proto chce vedení Boskovic ulici v celé délce opravit, fakticky celý úsek až ke křižovatce ulic Sokolské a Havlíčkovy, kde se chystá kruhový objezd.
 

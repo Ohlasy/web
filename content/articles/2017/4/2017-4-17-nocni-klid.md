@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Města a obce po celém Česku přijímají postupně vyhlášky, které vymezují, které konkrétní dny bude zrušen noční klid kvůli různým společenským akcím. V Boskovicích, které každý rok žijí řadou kulturních akcí včetně festivalu i v pozdních nočních hodinách, se ale nic podobného nepřipravuje.*
 
-{% photo src="https://i.ohlasy.info/i/dll9o5z.jpg" caption="Noční provoz na ulici Hradní o festivalu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/dll9o5z.jpg" caption="Noční provoz na ulici Hradní o festivalu" author="Tomáš Znamenáček" /%}
 
 Je to pět let, co se bývalé vedení města rozhodlo přijmout vyhlášku o omezení provozu boskovických restaurací a nočních klubů. Důvodem byly opakované stížnosti na hluk a rušení nočního klidu, především kolem občerstvení Brutus v ulici Antonína Trapla. Vyhlášku, která strhla proti městu jak provozovatele restaurací, tak část obyvatel, nakonec zastupitelé brzy zrušili.
 

@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Když jsem dnes ráno vyvářela v hrnci na plotně další dávku podomácku vyráběných roušek, zaplnila prostor ta zvláštní vůně vyvářeného prádla a vytáhla z mojí paměti hluboce zasunutou vzpomínku na dětství.*
 
-{% photo src="https://i.ohlasy.info/i/2564d928.jpeg" author="Kristýna Znamenáčková" %}
+{% photo src="https://i.ohlasy.info/i/2564d928.jpeg" author="Kristýna Znamenáčková" /%}
 
 Takhle to vonívalo v naší bytovkové prádelně. Ta místnost mě jako dítě přitahovala a děsila zároveň, protože to byl prostor naplněný párou a hlukem obrovské bubnové pračky, která zde byla nejdůležitější. Řvala a sténala a její víko nadzvihovala mydlinová pěna valící se na zem. A já jsem v těch mydlinách poskakovala v gumáčkách a představovala si ledacos – třeba moře a mořský příboj – a těšila se, až bude dopráno a ten obrovský stříbrný buben maminka vyndá, budeme ho vytírat hadříkem a já si do něj vlezu!
 

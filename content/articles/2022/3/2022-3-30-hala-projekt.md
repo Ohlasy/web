@@ -11,7 +11,7 @@ tags:
 
 *Vedení města už podruhé odložilo vyhlášení výběrového řízení na zhotovitele projektové dokumentace sportovní haly podle návrhu AV Atelieru. Opozice i architekti ze spolku SRAB žádají radní, aby od tohoto kroku upustili. Politici chtějí návrh prověřit, odborníci úplně opustit.*
 
-{% photo src="https://i.ohlasy.info/i/a1a971cf.jpeg" caption="Vizualizace posledního návrhu haly" author="AV Atelier" %}
+{% photo src="https://i.ohlasy.info/i/a1a971cf.jpeg" caption="Vizualizace posledního návrhu haly" author="AV Atelier" /%}
 
 Místostarostka Michaela Žejšková (TOP 09), která má přípravu stavby sportovní haly na starosti, původně avizovala, že rada výběrové řízení vyhlásí v polovině března. To se ale nestalo. „V posledních dvou třech týdnech jsme se ještě zabývali dořešením některých aspektů zadání, aby to bylo opravdu precizní. A minulý týden byly dovolené v důsledku jarních prázdnin. Takže jsme se rozhodli připravit to v klidu na příští radu,“ [vysvětlila tehdy místostrostka](https://ohlasy.info/clanky/2022/03/z-radnice-2.html).
 

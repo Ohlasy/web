@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Město Boskovice se rozhodlo vypnout diskusi pod příspěvky na svém facebookovém profilu. Informace, která jako by pocházela z jiného světa, možná jiného vesmíru. Přesto se tak ve středu poněkud nečekaně a bez řádného vysvětlení stalo.*
 
-{% photo src="https://i.ohlasy.info/i/14f3109f.jpg" caption="Ilustrační foto" %}
+{% photo src="https://i.ohlasy.info/i/14f3109f.jpg" caption="Ilustrační foto" /%}
 
 Oznámení, které se ve středu na facebookovém profilu města objevilo, [je až příliš prosté](https://www.facebook.com/mestoboskovice/posts/pfbid0EzfvJrL3Rgci1xP9HAC9XGcMMv5nybnux78qNmgwikMLfR8W5dEkah3AXigVPUDMl): *Oficiální facebooková stránka města Boskovice není diskuzní platformou města Boskovice. Příspěvky mohou komentovat jen subjekty označené v textu.* Vysvětlení žádné.
 

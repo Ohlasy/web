@@ -10,7 +10,7 @@ tags:
 
 *Na anketní otázky odpovídají kandidáti ANO, Pirátů, ODS, KDU-ČSL, ČSSD, Spolu pro Moravu, Starostů pro jižní Moravu, Demokratické strany zelených – Za práva zvířat, KSČM a Trikolóry.*
 
-{% photo src="https://i.ohlasy.info/i/e60946da.jpg" caption="Zasedací síň krajského úřadu v Brně" author="Martin Strachoň / Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/e60946da.jpg" caption="Zasedací síň krajského úřadu v Brně" author="Martin Strachoň / Wikimedia Commons" /%}
 
 1. Mají podle vás krajské volby na jižní Moravě nějaké specifické klíčové téma, nebo budou spíš referendem o celostátní politické náladě a rozhodovat budou hlavně celospolečenská témata?
 2. Co bude podle vás v příštím volebním období kraje nejdůležitější pro boskovický region?

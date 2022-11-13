@@ -8,7 +8,7 @@ tags: politika
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ČSSD, Pirátů, KDU-ČSL a KSČM.*
 
-{% photo src="https://i.ohlasy.info/i/0077de67.jpg" caption="Město se rozhodlo zrušit pronájem plakátovacích ploch a pořídit plochy nové" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/0077de67.jpg" caption="Město se rozhodlo zrušit pronájem plakátovacích ploch a pořídit plochy nové" author="Tomáš Trumpeš" /%}
 
 **Na květnovém zastupitelstvu vedení města představilo první návrh škrtů v městském rozpočtu s ohledem na pokles příjmů kvůli koronakrizi. Jak navržený výběr toho, co ponechat a co oželet, hodnotíte?**
 

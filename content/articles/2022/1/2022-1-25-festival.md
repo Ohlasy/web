@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Jubilejní 30. ročník festivalu pro židovskou čtvrť Boskovice proběhne od čtvrtka 7. do neděle 10. července. Hlavní pořadatel akce pražský Unijazz kromě termínu představil první jména účinkujících a běží už i zvýhodněný předprodej vstupenek.*
 
-{% photo src="https://i.ohlasy.info/i/7a31bfa3.jpg" caption="Na festivalu vystoupí mimo jiné legenda české alternativní scény, kapela Už jsme doma" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7a31bfa3.jpg" caption="Na festivalu vystoupí mimo jiné legenda české alternativní scény, kapela Už jsme doma" author="Tomáš Znamenáček" /%}
 
 Už potřicáté pozve Unijazz na začátku prázdnin milovníky letních festivalů do Boskovic na pestrou přehlídku hudby, divadel, filmů, výstav a dalších akcí. Právě svou multižánrovostí je boskovický festival pověstný – a pořadatelé jeho bohatou a pestrou historii dosavadních devětadvaceti ročníků dokládají i v několika nashromážděných číslech.
 

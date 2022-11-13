@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Schvalování směny pozemků Na Chmelnici mezi městem a společností BK Invest čeká na aktuální dubnové schůzi boskovické zastupitele. Město by v případě schválení získalo pozemky, které chce kvůli přípravě stavby další ulice, BK Invest zase [pozemky pro stavbu několika bytových domů](https://ohlasy.info/clanky/2021/02/vystavba-chmelnice.html). Část zastupitelů a někteří občané směnu kritizují.*
 
-{% photo src="https://i.ohlasy.info/i/4d5ec47f.jpeg" caption="Pozemky, na kterých mají vyrůst nové bytové domy" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/4d5ec47f.jpeg" caption="Pozemky, na kterých mají vyrůst nové bytové domy" author="Tomáš Trumpeš" /%}
 
 Záměr směny pozemků [schválilo zastupitelstvo v únoru](https://ohlasy.info/clanky/2021/02/zastupitelstvo.html), ale už tam se stalo předmětem debaty, zda je celá záležitost dobře připravená. Kritici upozorňují především na to, že město by si mělo lépe ošetřit, co developer na získaných pozemcích skutečně postaví. A také se jim nelíbí cena, kterou má BK Invest zaplatit za rozdíl mezi hodnotou směňovaných pozemků. 
 

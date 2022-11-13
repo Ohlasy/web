@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Kostelík Všech svatých nedaleko pošty je už od roku 2018 veřejně nepřístupný kvůli špatnému stavu. Park kolem něj zatím otevřený zůstává, ovšem jen ve vymezeném čase o víkendech a státních svátcích od května do září. Charakteristickou kovovou bránu, která do parku vedla, farnost již několik let vlastními silami opravuje.*
 
-{% photo src="https://i.ohlasy.info/i/e2a21663.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/e2a21663.jpg" author="Tomáš Trumpeš" /%}
 
 Kostelík Všech svatých je podle technika stavebních investic boskovického děkanství Josefa Kánského nepřístupný návštěvníkům proto, že se v obvodovém plášti objevily znaky aktivních statických poruch, které vyžadují zásah. „Ve špatném stavu je také střecha. Z toho důvodu je uzavřené také bezprostřední okolí kostela,“ uvedl Josef Kánský. Podle jeho odhadu by základní statické zajištění, díky němuž by se kostel mohl zpřístupnit, stálo minimálně 100 tisíc korun. Kostel by si ale zasloužil celkovou rekonstrukci, kde by se částky pohybovaly v řádech milionů. „Stavba je kulturní památkou, takže se k ní musí takto přistupovat i co do technologií a použitých materiálů,“ upřesnil Josef Kánský. V současné době se podle něj uvažuje o přípravě úvodních kroků ke zpracování studie a následně projektu podle možností a potřeb církve.
 

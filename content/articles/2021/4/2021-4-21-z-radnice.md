@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedáních městské rady na konci března a v polovině dubna. Obvyklé tiskové konference se kvůli protiepidemickým opatřením nekonaly, vyjádření politiků jsme proto získali pouze korespondenčně. A také vzhledem k politickému dění na radnici tentokrát spojujeme informace ze dvou jednání, která byla zároveň posledními jednáními dosavadní městské rady.*
 
-{% photo src="https://i.ohlasy.info/i/9b39932d.jpeg" caption="Nové separační stanoviště pro kontejnery na odpad postaví město na náměstí 9. května" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/9b39932d.jpeg" caption="Nové separační stanoviště pro kontejnery na odpad postaví město na náměstí 9. května" author="Tomáš Trumpeš" /%}
 
 ### Epidemická situace
 

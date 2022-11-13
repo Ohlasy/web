@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s Kristýnou Znamenáčkovou, která aktuálně čeká na přijetí mezi členy Pirátské strany a zvažuje vytvoření kandidátky v Boskovicích. Možná pirátské, možná nezávislé. Mluvili jsme o tom, v jaké fázi příprav záměr je a co by měl do boskovické politiky vnést.*
 
-{% photo src="https://i.ohlasy.info/i/vn9dcaq.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/vn9dcaq.jpg" author="Tomáš Znamenáček" /%}
 
 **Vznikne v Boskovicích pirátská kandidátka do komunálních voleb?**
 

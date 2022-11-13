@@ -8,7 +8,7 @@ tags: kultura
 
 *Měsíc září nabízí v Boskovicích a v okolí kulturní akce, které rozhodně stojí za pozornost. Gianniho kulturní výběr opět přináší výčet toho, co by bylo opravdu škoda přehlédnout. K úplným špičkám zářijového programu patří Michaela Koudelková na zámku nebo Lenka Filipová či Marilyn Oliver v zámeckém skleníku, Vltava nebo Žlutý pes na kunštátském Jarmarku, případně The Wall Rogera Waterse či Vetřelci v kině Panorama. Dále nás čeká spousta jazzových, folkových, klubových i klasických koncertů, několik vernisáží, besed a divadelních představení. V září také probíhají tradiční Dny evropského dědictví.*
 
-{% photo src="https://i.ohlasy.info/i/k3njifn.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/k3njifn.jpg" author="Tomáš Znamenáček" /%}
 
 ### Hudba
 

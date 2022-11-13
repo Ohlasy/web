@@ -10,7 +10,7 @@ tags:
 
 *Další významný krok na cestě k převzetí správy Jihomoravského kraje udělala ve středu odpoledne koalice KDU-ČSL, Pirátů, ODS a Starostů – ve vile Tugendhat podepsala koaliční smlouvu.*
 
-{% photo src="https://i.ohlasy.info/i/9f878e76.jpg" caption="Podpis koaliční smlouvy ve vile Tugendhat" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/9f878e76.jpg" caption="Podpis koaliční smlouvy ve vile Tugendhat" author="Marek Osouch" /%}
 
 Hejtmanem Jihomoravského kraje se stane lidovec Jan Grolich. Přímo ve své gesci bude mít ekonomiku a sport. Jako náměstek vedle něj v radě usedne nakonec už jen jeden další lidovec – Jan Zámečník, který bude mít na starosti regionální rozvoj. Post prvního náměstka hejtmana obsadí Piráti, kteří ve volbách skončili za lidovci, svým lídrem Lukášem Dubcem. Na starosti bude mít životní prostředí a oblast participace a transparentnosti. Piráti budou mít ještě další dvě místa v radě: Jana Leitnerová bude mít v gesci sociální a rodinnou politiku, Jiří Hlavenka vědu a inovace a IT. Čtyři místa si v radě vyjednala ODS. Její lídr Jiří Nantl bude náměstkem s péčí o vzdělávání, Vladimír Šmerda bude mít na starosti investice, Jiří Kasala zdravotnictví a Jiří Crha dopravu. Za Starosty bude náměstkem hejtmana lídr František Lukl s gescí kultura, cestovní ruch a památková péče, radním pro územní rozvoj bude Martin Maleček.
 

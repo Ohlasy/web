@@ -11,7 +11,7 @@ tags:
 
 *Podle čeho se rozhodnout? Možná si s blížícími se volbami kladete stále častěji tuto otázku. Ohlasy nabízí pět důležitých boskovických témat, na kterých je vidět, jak se liší postoje lídrů jednotlivých stran. Můžete je porovnat s těmi vlastními.*
 
-{% photo src="https://i.ohlasy.info/i/a5c62deb.jpg" author="Zdeněk Tesař" %}
+{% photo src="https://i.ohlasy.info/i/a5c62deb.jpg" author="Zdeněk Tesař" /%}
 
 *(Při zpracování témat jsme vycházeli z našich [předvolebních videorozhovorů](https://volby.ohlasy.info/), ve kterých odmítl účast lídr KSČM Ladislav Topínka. Proto jeho stanoviska chybí i v tomto článku.)*
 

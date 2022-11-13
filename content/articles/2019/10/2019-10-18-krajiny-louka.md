@@ -9,7 +9,7 @@ serial: krajiny
 
 *Nad vsí Loukou nedaleko Olešnice se zdvíhá nápadný kopec, o kterém si nezasvěcený pozorovatel může myslet, že se jedná o sopku. Podobných kuželovitých kopců je na Boskovicku hned několik, ani jeden však sopkou není.*
 
-{% photo src="https://i.ohlasy.info/i/b6750ccb.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/b6750ccb.jpg" author="Hynek Skořepa" /%}
 
 Nejbližší výchozy sopečných hornin jsou totiž známy až za Protivanovem (mezi Repechami a Stínavou), nejde však o klasickou sopku, spíš o podmořský výlev lávy. Výchoz je to plošně nepatrný, přesto jsou tam na devonský (prvohorní) vulkanismus vázána v minulosti využívaná naleziště železných rud.
 
@@ -19,7 +19,7 @@ Hradiskem se kopec nazývá proto, že na něm stával středověký hrad. Naši
 
 První zmínka o hradě je v zemských deskách k roku 1360, kdy na něm Procek z Lomnice zapsal věno své manželky. Páni z Lomnice hrad založili na severním okraji svého panství. V 15. století hrad krátce vlastnili Boskovicové, pak se vrátil zpátky do rukou rodu z Lomnice (u Tišnova). Tento starý moravský rod měl ve znaku černé křídlo na stříbrném poli. V r. 1496 hrad získal Vilém II. z Pernštejna. V jeho závěti (1521) je sice hrad uváděn jako obyvatelný, při prodeji a přičlenění ke kunštátskému panství roku 1560 však už byl pustý. Zadlužený Vratislav z Pernštejna musel tehdy rozprodávat své majetky. Dvůr renesančního velmože se vyrovnal královskému, což stálo obrovské peníze. Nákladná byla také svatba jedné z Vratislavových dcer – Polyxeny, které se zúčastnil sám císař Rudolf II. Jen nevěstiny šperky prý vážily skoro tolik, co ona sama. Brala si Viléma z Rožmberka a od své matky, španělské šlechtičny Marie Manrique de Lara získala vzácný svatební dar – Pražské jezulátko (dnes vystavené v chrámu P. Marie Vítězné na Malé Straně v Praze). Šťastné manželství to však nebylo, už kvůli více než třicetiletému věkovému rozdílu novomanželů. Vilém předtím pohřbil již tři ženy, ani Polyxena mu však potomka nepřinesla a rožmberský rod před zánikem nezachránila (také Vilémův bratr Petr Vok zemřel bezdětný).
 
-{% photo src="https://i.ohlasy.info/i/ee88e6dc.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/ee88e6dc.jpg" author="Hynek Skořepa" /%}
 
 Vraťme se ale na Louku. Na největším skalisku se patrně nacházel menší palác či hranolová obytná věž. Zbytky zdiva jsou na skále dosud patrné. Na východní straně k paláci přiléhalo nádvoří s několika budovami, z nichž se zachovaly zbytky zdí a dokonce sklepů, včetně základů štíhlé válcové věže. *Na Hradisku, s něhož je pěkná vyhlídka do Čech a na Moravu, vyskytují se posud železné šípy*, napsal před více než sto lety kunštátský rodák, římskokatolický kněz a církevní historik Jan Tenora ve Vlastivědě moravské (Kunštátský okres, 1908).
 

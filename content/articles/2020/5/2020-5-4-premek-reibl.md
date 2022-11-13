@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Deset let uplynulo 3. května od smrti bývalého ředitele boskovického muzea a významné osobnosti boskovické porevoluční kultury Přemysla Reibla. Vzpomínku na něj nám napsal jeho kamarád, spolupracovník a také souputník od počátků festivalu Boskovice Petr Michálek.*
 
-{% photo src="https://i.ohlasy.info/i/05ff3fd9.jpg" author="Karel Šuster" %}
+{% photo src="https://i.ohlasy.info/i/05ff3fd9.jpg" author="Karel Šuster" /%}
 
 Konečně sobota! Patnáctý březen 1986. Odjíždím lokálkou do nedalekých Velkých Opatovic, kde místní Hi-fi klub pořádá další z řady folkových koncertů. Tentokrát má vystoupit – snad – Jarek Nohavica. Před místním „kulturákem“ se tlačí dav lidí. Dovnitř zatím nepouštějí. A nakonec ani nepustí. Prý zákaz z okresu či co, sděluje nám jeden z pořadatelů. Koncert je naštěstí rychle přeložen do nedalekého Úsobrna, kam nás s mírným zpožděním odváží pendlující autobus. Stojím vzadu u zdi přeplněného sálu, když se mi za zády ozve: „Pane kolego, tady máte židli.“ Otočím se a vidím povědomou tvář, kterou někdy potkávám na brněnských seminářích paní profesorky Rusínové či doktora Jeřábka. Poděkuji a marně přemýšlím, jak se ten menší, energický a rozčepýřený student s „lenonkami“ jmenuje.
 

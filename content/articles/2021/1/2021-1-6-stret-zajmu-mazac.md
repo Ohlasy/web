@@ -12,7 +12,7 @@ tags:
 
 *Nenahlásil střet zájmů, ale firma, v jejímž vedení boskovický místostarosta Radek Mazáč (Sportovci) působí, se podílela na budování rozvodů tepla a on měl za město tuto investici na starosti. Stavba se navíc výrazně prodražila a město za ni zaplatí o 8 milionů víc, než plánovalo.*
 
-{% photo src="https://i.ohlasy.info/i/1136c832.jpeg" caption="Místostarosta Radek Mazáč" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1136c832.jpeg" caption="Místostarosta Radek Mazáč" author="Tomáš Znamenáček" /%}
 
 Informaci o střetu zájmů rozeslal všem boskovickým zastupitelům koncem prosince dlouhodobý lídr boskovických Nestraníků Vladimír Jakubec, který se svým uskupením v minulých komunálních volbách nepronikl do zastupitelstva. Zároveň formuloval otázky na vedení města, které posléze rozeslalo zastupitelům odpovědi.
 

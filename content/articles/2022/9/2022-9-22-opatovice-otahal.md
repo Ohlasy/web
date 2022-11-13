@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Před padesáti lety zemřel sochař, malíř, grafik a medailér Karel Otáhal, jehož jméno je spojeno s Velkými Opatovicemi. I když studoval sochařství v Praze, Paříži i v Římě, pravidelně a rád se vracel do Velkých Opatovic.*
 
-{% photo src="https://i.ohlasy.info/i/a242eeac.jpg" %}
+{% photo src="https://i.ohlasy.info/i/a242eeac.jpg" /%}
 
 „Jednou sem přijel na návštěvu za svým přítelem a tolik se mu zde zalíbilo, že si u nás vybudoval ateliér a jezdil sem třicet let. A nakonec tady i zemřel,“ vysvětluje vedoucí odboru kultury ve Velkých Opatovicích Anna Kaderková. 
 

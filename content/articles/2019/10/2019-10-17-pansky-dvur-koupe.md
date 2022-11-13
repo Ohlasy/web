@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Nový investiční záměr města odkryl na tiskové konferenci starosta Boskovic Jaroslav Dohnálek (ODS). Popsal, že jedná s majitelem panského dvora Luďkem Řehořem o možnosti odkupu této barokní památky v centru města.*
 
-{% photo src="https://i.ohlasy.info/i/quei5ahp.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/quei5ahp.jpg" author="Tomáš Trumpeš" /%}
 
 Svá jednání v této věci starosta dokonce označil za urgentní. Ve vedení města je podle něj jednoznačná vůle objekt koupit a věří, že by našel podporu i u opozice. Pokud by došlo k dohodě, mohla by celá transakce podle starosty proběhnout poměrně rychle.
 

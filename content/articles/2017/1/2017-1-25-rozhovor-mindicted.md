@@ -9,7 +9,7 @@ tags: kultura hudba
 
 *Rozhovor s Vojtěchem Sedlákem a Davidem Jeřábkem, zakladateli [Mindicted Crew](https://www.facebook.com/Mindicted), známými na drum’n’bassové scéně pod DJ jmény Void.Sec a Dejfunk. Pod hlavičkou Mindicted proběhlo již mnoho úspěšných párty především v Boskovicích a v Blansku, jejich význam však stále roste a postupně přesahuje nejen náš region, ale i celý kraj. Povídali jsme si o jejich začátcích, o organizačních záležitostech v rámci skupiny, ale také o tom, co drum’n’bassová hudba přináší jak interpretům, tak posluchačům. Nejbližší akcí v jejich režii bude další vydání Neurology v pátek 27. ledna v blanenském klubu Bass.*
 
-{% photo src="https://i.ohlasy.info/i/jv3h8z8.jpg" author="Jan Kárl" %}
+{% photo src="https://i.ohlasy.info/i/jv3h8z8.jpg" author="Jan Kárl" /%}
 
 **Začněme úplně od začátku. Jak jste se dostali k aktivnímu provozování elektronické hudby a jak a proč vás napadlo založit DJskou a promotérskou skupinu Mindicted?**
  

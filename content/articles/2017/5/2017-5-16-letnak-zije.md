@@ -12,7 +12,7 @@ tags:
 
 Nám novinářům se často vyčítá, že málo píšeme pozitivně. Do značné míry s tím souhlasím a myslím si, že je to dobře, podstata naší profese je skutečně spíše ve vyhledávání nedostatků a upozorňování na ně. Alespoň co se týče záležitostí ve veřejném sektoru. To je ale v důsledku také *pozitivní psaní*, jehož smyslem je pomáhat obracet věci k dobrému. Pokud píšeme o věcech kriticky, neznamená to, že si přejeme jejich zmar, ale naopak právě to, aby se je podařilo zvládnout co nejlépe. A to bez kritické reflexe, prozkoumávání rizik a ochoty odpovídat na nepříjemné otázky obvykle není možné.
 
-{% photo src="https://i.ohlasy.info/i/0ipmigq.jpg" caption="Nové hlediště letního kina" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/0ipmigq.jpg" caption="Nové hlediště letního kina" author="Tomáš Trumpeš" /%}
 
 Nakonec to někdy není příjemné ani pro nás. Naopak podělit se o radost z něčeho vydařeného není ani pro novináře žádný nepříjemný úkol. V oblasti větších veřejných investic k něčemu podobnému v Boskovicích bohužel delší dobu nebyla příležitost. Nad investicemi se často vznášely závažné otazníky ohledně rozpočtů nebo vlastního provedení, případně skončily úplnou blamáží a rozkolem jako sportovní hala.
 

@@ -9,7 +9,7 @@ tags: nekrolog
 
 *Pana Bušinu jsem měl moc rád. Potkávali jsme se jednu dobu poměrně intenzivně, když jsem pracoval jako kulturní redaktor v regionálních novinách Boskovicko, byl v redakci častým a vítaným hostem. Možná by se dalo říct, že byl jejím nehrajícím členem.*
 
-{% photo src="https://i.ohlasy.info/i/ca279776.jpeg" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/ca279776.jpeg" author="Jaroslav Parma" /%}
 
 Probírali jsme boskovické dění, o které se pořád živě zajímal, měl k němu co říct a hlavně byl stále aktivní v Klubu přátel Boskovic a v ochotnickém divadle. To mu bylo okolo osmdesátky, u příležitosti jubilea jsem s ním pořídil rozhovor, který připojujeme níže.
 

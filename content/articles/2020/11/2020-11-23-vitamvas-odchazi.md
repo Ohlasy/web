@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Zvykli jsme si, že v novinách informujeme o změnách na řídících postech ve významných institucích ve městě. Jsou posty, které nejsou na špici organizační hierarchie, ale pro život města mají ještě větší význam. Jedním z nich je i historik v boskovickém muzeu. Po takřka dvaceti letech ho opouští Petr Vítámvás.*
 
-{% photo src="https://i.ohlasy.info/i/semrgpd.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/semrgpd.jpg" author="Tomáš Znamenáček" /%}
 
 Petr Vítámvás přišel do Boskovic za ředitele [Přemysla Reibla](https://ohlasy.info/clanky/2020/05/premek-reibl.html), v průběhu let vykonával také funkci zástupce ředitele a v jednom z komplikovaných období, kdy se vedení města nedařilo shodnout se a vybrat nového ředitele, muzeum také řídil.
 

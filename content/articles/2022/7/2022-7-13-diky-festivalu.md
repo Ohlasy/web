@@ -9,7 +9,7 @@ tags:
 
 *Po představení boskovického divadla NABOSO na letošním festivalu se konala krátká beseda, na které mimo jiné zaznělo poděkování festivalu Boskovice. Mírně dopracovanou řeč režiséra divadla NABOSO a našeho redaktora Tomáše Trumpeše publikujeme.*
 
-{% photo src="https://i.imgur.com/kJngtnv.jpg" caption="Divadlo NABOSO na festivalu Boskovice" author="Nikol Halamásková" %}
+{% photo src="https://i.imgur.com/kJngtnv.jpg" caption="Divadlo NABOSO na festivalu Boskovice" author="Nikol Halamásková" /%}
 
 Divadlo NABOSO za několik měsíců oslaví 20 let, takže když vznikalo, slavil festival desáté narozeniny. Od počátků nám festival pravidelně poskytuje možnost vystoupit, což pro nás znamená cestu ke skvělému publiku a během let nám to přineslo i několik velmi zajímavých pozvání na další akce.
 

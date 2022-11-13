@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *Volební systém pro komunální volby má svá specifika a není úplně snadné mu porozumět. Často dochází k mylnému dojmu, že můžeme rozdat hlasy lidem napříč stranami a kdo jich nasbírá nejvíc, uspěje. Pro objasnění, jak to celé skutečně funguje, jsme zvolili formu otázek a odpovědí.*
 
-{% photo src="https://i.ohlasy.info/i/lllezgo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lllezgo.jpg" author="Tomáš Znamenáček" /%}
 
 **Volíme v komunálních volbách lidi, nebo strany?**
 

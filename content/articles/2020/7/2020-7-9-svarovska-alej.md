@@ -10,7 +10,7 @@ tags: krajina voda
 
 *K české a moravské krajině neodmyslitelně patří také aleje podél cest. Můžeme se s nimi samozřejmě setkat i jinde v Evropě, jen málokde však mají pro charakter krajiny tak velký význam jako u nás. Bohužel staré aleje v posledních letech z mnoha míst mizí. Zvlášť kolem silnic, kde k tomu přispěly mírné zimy bez sněhu. Silničáři neměli do čeho píchnout, a tak káceli, řezali…*
 
-{% photo src="https://i.imgur.com/dnmRk6y.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.imgur.com/dnmRk6y.jpg" author="Hynek Skořepa" /%}
 
 Veřejnost se bouřila, ministerstvo životního prostředí reagovalo vydáním tzv. „kácecí vyhlášky“ (č. 189/2013 Sb.), která podrobněji rozvádí základní ustanovení Zákona č. 114/1992 Sb. o ochraně přírody a krajiny, zaměřená na ochranu dřevin rostoucích mimo les. Tento zákon byl přijat v době porevoluční euforie, kdy ochrana přírody ještě nebyla sprostým slovem a existoval v podstatě celospolečenský konsensus, že s přírodou a krajinou musíme zacházet mnohem citlivěji, než se dělo za totality. Budování socialismu (o komunistické utopii se v závěru normalizace již raději moc nemluvilo) přece nesmělo nic stát v cestě. V postsametové době se zdálo, že v demokracii to bude jinak. Je však zjevné, že bezohlední technokraté nebyli spojeni jen s centrálně plánovaným hospodářstvím, nýbrž že vždy byli, jsou a budou mezi námi, bez ohledu na režim.
 
@@ -42,7 +42,7 @@ Pokud to nevezmeme v potaz, budeme sice mít široké silnice, nebude však již
 
 A Svárovská alej podle mého názoru nepochybně je jak významným krajinným prvkem (byť oficiálně dle zákona nevyhlášeným), tak kulturní dominantou krajiny. Už dávno měla být tato alej prohlášena za skupinu památných (státem chráněných) stromů!
 
-{% photo src="https://i.imgur.com/rdtKpos.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.imgur.com/rdtKpos.jpg" author="Hynek Skořepa" /%}
 
 Při nahlédnutí do prvorepublikových (či ještě starších rakouských) vojenských map člověk zjistí, kde všude byly aleje (nejen lipové) a dnes už nejsou. Aleje byly vysazovány dokonce na popud státu, mimo jiné „vojanských pánů“. Ti potřebovali, aby se v letním horku mohly pěší jednotky přesunovat a pochodující vojáci nedošli na místo určení zcela vyčerpaní, doslova vysátí palčivým sluncem. Aleje stíní cesty ve středoevropské krajině minimálně od doby panování osvícených vládců Marie Terezie a Josefa II., tedy od závěru 18. století.
 

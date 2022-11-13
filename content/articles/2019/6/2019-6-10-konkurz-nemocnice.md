@@ -8,7 +8,7 @@ tags: nemocnice
 
 *Jen jedna obálka přišla do boskovické nemocnice s přihláškou na pozici jednatele. Dokument do vedlejší kanceláře odnesl jen dosavadní šéf Dan Štěpánský.*
 
-{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mnirdk7.jpg" caption="Dan Štěpánský" author="Tomáš Znamenáček" /%}
 
 Do minulého pátku se mohli hlásit uchazeči o post jednatele v boskovické nemocnici, o vedení však nakonec usiluje pouze stávající jednatel Dan Štěpánský. „Můžu potvrdit, že jsem se přihlásil,“ uvedl.
 

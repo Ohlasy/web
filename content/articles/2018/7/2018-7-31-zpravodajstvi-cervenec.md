@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Výběr nejdůležitějších událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v červenci na Boskovicku událo.*
 
-{% photo src="https://i.ohlasy.info/i/mlqgwgx.jpg" caption="Nová náves v Mladkově" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/mlqgwgx.jpg" caption="Nová náves v Mladkově" author="Jaroslav Parma" /%}
 
 V Boskovicích bude v říjnových komunálních volbách kandidovat celkem 10 politických uskupení. Konkrétní podoba kandidátek bude oficiálně zveřejněna až za dva tři týdny, nyní mají strany ještě možnost dělat změny a opravit případné chyby, na které je upozorní úřad.
 

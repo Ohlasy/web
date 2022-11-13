@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo před polovinou dubna po zasedání městské rady. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/fa2a2a20.jpeg" caption="Zahrádka nad masnými krámy v židovském městě, tedy v místě zvaném „na asfaltě“" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/fa2a2a20.jpeg" caption="Zahrádka nad masnými krámy v židovském městě, tedy v místě zvaném „na asfaltě“" author="Tomáš Znamenáček" /%}
 
 V úvodu tiskové konference vedení města informovalo také o opatřeních a plánech souvisejících se zvládáním vlny válečných uprchlíků z Ukrajiny. K tématu připravujeme samostatný článek.
 

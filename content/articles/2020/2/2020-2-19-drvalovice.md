@@ -8,7 +8,7 @@ serial: jazyk
 
 *Před pár lety došlo k malé změně v pojmenování Drválovic – byla přidána čárka v druhé slabice. S jazykovědcem Vítem Bočkem se podíváme na ještě starší podoby názvu a především na jeho původ.*
 
-{% photo src="https://i.ohlasy.info/i/0dc6131e.jpg" author="Archiv obce Drválovice" %}
+{% photo src="https://i.ohlasy.info/i/0dc6131e.jpg" author="Archiv obce Drválovice" /%}
 
 Drválovice jsou dnes místní částí obce Vanovice, leží asi 10 km severně od Boskovic. Před pár lety zde došlo k [malé změně v pojmenování](https://blanensky.denik.cz/zpravy_region/drvalovice-nebo-drvalovice-obec-ma-nove-v-nazvu-carku-20140113.html), když byla do oficiálního názvu Drvalovice přidána čárka v druhé slabice, aby se tak vyhovělo zažitému výslovnostnímu úzu a deklarované preferenci místních obyvatel. My se však podíváme na ještě starší podoby názvu a především na jeho původ.
 

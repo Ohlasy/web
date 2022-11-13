@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Libanonská režisérka Nadine Labaki [v jednom rozhovoru vzpomíná](http://www.pbs.org/wnet/amanpour-and-company/video/nadine-labaki-on-her-new-film-capernaum/), jak ji odmalička ve škole učili, že její země představuje na mapě světa jen nepatrnou a naprosto bezvýznamnou tečku. To se ale začíná pomalu měnit. Nadine Labaki totiž na loňském festivalu v Cannes získala prestižní Cenu poroty za svůj film [Kafarnaum](https://www.csfd.cz/film/617446-kafarnaum/prehled/) (v originále Capharnaüm, což znamená chaos) a 15minutový potlesk ve stoje. Jedná se o vůbec první libanonský film s tak velkým mezinárodním ohlasem.*
 
-{% photo src="https://i.ohlasy.info/i/ktv9ewa.jpg" %}
+{% photo src="https://i.ohlasy.info/i/ktv9ewa.jpg" /%}
 
 Není čemu se divit – Labaki filmem podala autentickou výpověď o živoření dětí ve slumu uprostřed Bejrútu a otevřela otázky, které rezonují nejen v současné Evropě. Má vůbec smysl lidský život v totální chudobě a bez jakékoliv perspektivy? Proč takový život podporovat? A kdo má právo o tom rozhodovat?
 

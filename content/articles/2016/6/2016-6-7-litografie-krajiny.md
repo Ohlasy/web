@@ -8,7 +8,7 @@ tags: kultura krajina
 
 *Ve čtvrtek 9. června 2016 bude v 18 hodin zahájena vernisáží výstava [Krajina starých sídel](http://www.mks-letovice.cz/mks/akce/krajina-starych-sidel). Výstavu pořádá Městské kulturní středisko Letovice v kulturním domě v Letovicích, průvodní slovo na vernisáži bude mít Mgr. Eva Nečasová, historička a bývalá ředitelka blanenského muzea. Výstava je zapůjčena z Vědecké knihovny v Olomouci a nabídne návštěvníkům více než sedmdesát grafických listů krajiny Moravy a Slezska. Jejich autorem je převážně Friedrich Adolph Kunike (1777–1838), považovaný za „otce rakouské litografie“.*
 
-{% photo src="https://i.ohlasy.info/i/6e4tj4f.jpg" %}
+{% photo src="https://i.ohlasy.info/i/6e4tj4f.jpg" /%}
 
 Mezi mnoha památkami, uchovávanými ve vědecké knihovně v Olomouci, se totiž nachází také album [vedut](https://cs.wikipedia.org/wiki/Veduta) z monumentálního cyklu *Mahlerishe Darstellung aller vorzüglicher Schloesser und Ruinen der oesterreichischen Monarchie* (volně přeloženo Malebné představení všech pozoruhodných zámků a hradních zřícenin rakouské monarchie). Album si nechala zhotovit hrabata ze Žerotína a přestože obsahuje jen část z asi dvou stovek Kunikeho rytin, je jedinečným dokladem k poznání sídel i krajiny Moravy a Slezska v první polovině 19. století.
 
@@ -16,7 +16,7 @@ F. A. Kunike sice pocházel z Německa, studoval však na proslulé vídeňské 
 
 Veduta coby poměrně přesný malířský či grafický záznam části krajiny s bočním pohledem na město a podobně, obvykle v širším zorném úhlu, získala od začátku 17. století velkou oblibu. Na Kunikeho vedutách se hojně objevuje idylická pastýřská krajina, doplněná výrazným místním motivem (hrad, zámek, přírodní zajímavost). Vše dokreslují postavy venkovanů při práci, pasáčků, myslivců a samozřejmě také urozeného panstva. Kromě hradů a zámků byla zachycena také některá další zajímavá místa, například propast Macocha či jeskyně Býčí skála nebo Jáchymka v Josefovském údolí (tehdy Adamsthal).
 
-{% photo src="https://i.ohlasy.info/i/fsyunf2.jpg" %}
+{% photo src="https://i.ohlasy.info/i/fsyunf2.jpg" /%}
 
 Před časem jsem měl možnost výstavu zhlédnout v olomoucké vědecké knihovně a velmi mne zaujala. Na rozdíl od jiných historických pramenů, které jsou mnohdy přístupné jen odborníkům (německy či latinsky tištěné staré tisky), jsou veduty přístupné každému, kdo o ně projeví zájem a nechá se jimi okouzlit. Právě proto si je autoři výstavy zvolili k tomu, aby připomněli výročí jedné z nejvýznamnějších knihoven u nás, která letos slaví 450 let svojí existence (navazuje na knihovnu jezuitské akademie, založené v Olomouci roku 1566).
 

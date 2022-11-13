@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Od pondělí je možné hlasovat o sedmi projektech, které navrhli občané v rámci takzvaného participativního projektu. Boskovice testují tento systém poprvé, investovat do něj v prvním kole chtějí 300 tisíc korun.*
 
-{% photo src="https://i.ohlasy.info/i/1d15742c.jpg" caption="Jedním z navrhovaných projektů jsou i nové koše na tříděný odpad" author="Viktor Jurdič" %}
+{% photo src="https://i.ohlasy.info/i/1d15742c.jpg" caption="Jedním z navrhovaných projektů jsou i nové koše na tříděný odpad" author="Viktor Jurdič" /%}
 
 Pro hlasování je nutné přihlásit se do [platformy PinCity](https://boskovice.pincity.cz), kterou si město pořídilo nejen pro řízení participativního rozpočtu, ale celkově pro podporu většího zapojení občanů do fungování a řízení města. Jednoduchá registrace je možná třeba i přes profil na Facebooku a každý přihlášený má k dispozici dva hlasy. Ty může dát dvěma různým projektům, podpořit oběma hlasy stejný projekt není možné. Hlasuje se prostřednictvím tlačítka v podobě palce nahoru v pravém horním rohu karty projektu. 
 

@@ -9,7 +9,7 @@ tags: kino
 
 *V minulosti jsem se několikrát veřejně vyjadřoval k rekonstrukci letního kina v Boskovicích. Nyní se jeho rekonstrukce blíží ke konci a dostavily se první výsledky. Nejde však o měkká čísla a emocionální pocity, co vše se tam děje a jak je to hezké. Jde především o tvrdá data, která – ať se nám to líbí, nebo ne – vždy přinášejí konkrétní zprávu o stavu. Právě v souvislosti s mými veřejnými komentáři k této rekonstrukci mám nyní morální nutkání se k problematice vrátit.*
 
-{% photo src="https://i.ohlasy.info/i/fuy2aiwu.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/fuy2aiwu.jpg" author="Tomáš Znamenáček" /%}
 
 Z několika zdrojů se můžeme dozvědět, že je naše letní kino za rok 2019 nejnavštěvovanější v republice. To je skvělá zpráva! Myslím, že je však třeba říci, co to vlastně znamená, a postavit tuto zprávu do souvislostí. 
 

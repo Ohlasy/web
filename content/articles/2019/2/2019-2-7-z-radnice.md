@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/2f2vjcw.jpg" caption="Stavba polytechnického centra" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2f2vjcw.jpg" caption="Stavba polytechnického centra" author="Tomáš Trumpeš" /%}
 
 ### Problémy s polytechnickým centrem
 

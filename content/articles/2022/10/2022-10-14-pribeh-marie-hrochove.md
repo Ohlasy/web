@@ -8,7 +8,7 @@ serial: pribehy
 
 *„Udělám to pro své rodiče, ale hlavně kvůli památce mého tatínka,“ odpověděla paní Maria Hrochová, když jsem ji požádal, jestli by byla ochotná vyprávět svůj životní příběh pro Paměť národa.*
 
-{% photo src="https://i.ohlasy.info/i/457a90b4.jpg" caption="Maria Hrochová, rozená Drkalová" author="Ladislav Oujeský" %}
+{% photo src="https://i.ohlasy.info/i/457a90b4.jpg" caption="Maria Hrochová, rozená Drkalová" author="Ladislav Oujeský" /%}
 
 Maria Hrochová se narodila 22. dubna 1939 v Brně jako nejstarší dcera Jakuba a Štěpánky Drkalových. Oba rodiče dostali učitelská místa v Boskovicích, kde potom celá rodina žila. V lednu roku 1949 byl otec Jakub Drkal zatčen a jako funkcionář tělovýchovné organizace Orel ve skupině Koukal a spol. nakonec odsouzen na tři roky nepodmíněně. 
 
@@ -18,7 +18,7 @@ Jako dcera politického vězně a praktikující katolička měla Maria Drkalov�
 
 Celá rodina s úlevou přivítala události roku 1989. Otec Jakub Drkal se dožil svobody s podlomeným zdravím, ale své druhé rehabilitace už se nedočkal. Maria Hrochová příležitostně učila na různých školách až do roku 2011 a v současné době žije v rodinném domě v Boskovicích.
 
-{% photo src="https://i.ohlasy.info/i/32899396.jpg" caption="Jakub Drkal" %}
+{% photo src="https://i.ohlasy.info/i/32899396.jpg" caption="Jakub Drkal" /%}
 
 ### Proces Koukal a spol.
 
@@ -38,7 +38,7 @@ Pamětnice a její mladší sestra vzpomínaly, jak s maminkou jezdily za tatí
 
 *Vzpomínám si, že někdy to bylo i venku. To tam nebyly ty ploty, jenom jsme k sobě nemohli blíž, něco si dát to nešlo, maminka potom měla takový ostře zelený šátek. A až vězni odjížděli na nákladních autech, tak tím zeleným šátkem mávala, aby tatínek věděl, že jsme ještě neodešly.*
 
-{% photo src="https://i.ohlasy.info/i/8b3effc3.jpg" caption="Sestry Drkalovy" %}
+{% photo src="https://i.ohlasy.info/i/8b3effc3.jpg" caption="Sestry Drkalovy" /%}
 
 ### Amnestie a vnitřní boj
 

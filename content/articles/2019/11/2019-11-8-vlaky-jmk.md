@@ -9,7 +9,7 @@ tags: železnice doprava
 
 *Každý den od brzkého rána do pozdního večera si mohou cestující v Boskovicích na vlakovém nádraží koupit lístek a případně vyřídit i předplatní jízdenky. Jenže za měsíc se situace změní a provoz bude omezený. Například o víkendech bude pokladna fungovat jen půl dne.*
 
-{% photo src="https://i.ohlasy.info/i/1c748f5b.jpg" caption="Pokladna na boskovickém vlakovém nádraží" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/1c748f5b.jpg" caption="Pokladna na boskovickém vlakovém nádraží" author="Marek Osouch" /%}
 
 Dosud jsou cestující vlakem z Boskovic zvyklí, že kdykoliv přijdou na nádraží, prodá jim jízdenku buď přímo pokladní, nebo výpravčí, který k okénku vejde ze sousední kanceláře. Ten už ale nově lístky přestane prodávat.
 

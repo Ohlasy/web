@@ -10,7 +10,7 @@ tags:
 
 *V předvolebním informačním a pracovním náporu jsme v Ohlasech minuli zpracování dvou akcí, kterým se standardně věnujeme – jedná se o poslední jednání minulého zastupitelstva a také poslední řádnou předvolební schůzi končící městské rady. K jejich důležitým závěrům se nakonec vracíme ve stručném přehledu.*
 
-{% photo src="https://i.ohlasy.info/i/e1fa5615.jpeg" caption="Na tomto místě u „školičky“ u lázní vznikne nové hřiště, projekt vyhrál druhý ročník participativního rozpočtu" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/e1fa5615.jpeg" caption="Na tomto místě u „školičky“ u lázní vznikne nové hřiště, projekt vyhrál druhý ročník participativního rozpočtu" author="Tomáš Trumpeš" /%}
 
 ### Ze zastupitelstva
 

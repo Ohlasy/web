@@ -9,7 +9,7 @@ tags: doprava
 
 *Po několika letech postupné opravy silnice v Pilském údolí vrcholí rekonstrukce posledním úsekem v ulici Podhradí napojením na Dukelskou. Rozbitá komunikace dostane nový povrch, sportovci a další návštěvníci sportovního areálu Červená zahrada ale budou stále chodit po kraji vozovky jako dosud.*
 
-{% photo src="https://i.ohlasy.info/i/e4636440.jpeg" caption="Oprava silnice podél pivovaru" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/e4636440.jpeg" caption="Oprava silnice podél pivovaru" author="Tomáš Trumpeš" /%}
 
 Poslední roky se neustále řeší studie a koncepce rozvoje areálu Červená zahrada. Všichni boskovičtí politici se shodují na tom, že současné dopravní napojení sportovního areálu je velmi špatné a je potřeba je zlepšit. Zvlášť pěším nezbývá nic jiného, než jít přes širokou křižovatku nebo podél pivovaru po silnici. Žádný chodník tady není.
 

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Veřejně myšlenku na vybudování nákupního centra otevřel zastupitel za hnutí ANO Petr Axman, který oslovil zastupitele s návrhem, aby nákupní centrum bylo součástí příprav stavby nové sportovní haly. Místostarostka Michaela Žejšková (TOP 09) tuto možnost odmítá, ale potvrdila, že se vedení města myšlenkou zabývá a obchod by mohl stát samostatně.*
 
-{% photo src="https://i.ohlasy.info/i/bc3789c7.jpg" caption="Červená zahrada" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/bc3789c7.jpg" caption="Červená zahrada" author="Tomáš Trumpeš" /%}
 
 Zastupitel Petr Axman se ve svém návrhu opírá o skutečnost, že součástí aktuálního záměru na stavbu sportovní haly je umístění parkovacích míst pod halou, což je možné díky profilu terénu a čímž se ušetří prostor vedle haly. „A tento prostor by se mohl využít pro jiné účely, jako je nabídnutí a odprodej jisté plochy pro výstavbu menšího nákupního centra,“ domnívá se Petr Axman.
 

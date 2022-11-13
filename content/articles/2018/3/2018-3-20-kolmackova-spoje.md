@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Výtvarnice Jana Kolmačková vystavuje v Galerii Otakara Kubína cyklus obrazů vytvořených zvláštní technikou, respektive za použití velmi neobvyklého materiálu – deskových spojů.*
 
-{% photo src="https://i.ohlasy.info/i/yz6tok0.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/yz6tok0.jpg" author="Tomáš Trumpeš" /%}
 
 Práci s deskovými spoji započala před třemi lety, kdy dostala možnost podílet se na výtvarné výzdobě nových kancelářských prostor boskovické firmy Gatema, která se zabývá právě výrobou plošných spojů. Využití desek plošných spojů bylo součástí zadání. „Příležitosti jsem se chopila a udělala pro firmu cyklus obrazů pojatých jako průhledy z pracovního prostoru do vnějšího světa, kde se vše odehrává nezávisle na lidském snažení,“ popisuje Jana Kolmačková.
 

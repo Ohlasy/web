@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku října. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/ojoynln.jpg" caption="Kostelík Všech Svatých" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/ojoynln.jpg" caption="Kostelík Všech Svatých" author="Tomáš Trumpeš" /%}
 
 ### Úpravy zeleně do konce roku
 

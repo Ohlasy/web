@@ -8,7 +8,7 @@ featured: true
 
 *Rozhovor se skautskými vedoucími Václavem Klíčem a Ludmilou Dobrozemskou. Povídali jsme si o boskovickém skautu a jeho fungování a také o záměru, se kterým skauti nedávno přišli – postavit v Boskovicích skautský dům.*
 
-{% photo src="https://i.ohlasy.info/i/09rqeud.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/09rqeud.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak se daří skautingu v Boskovicích?**
 
@@ -40,7 +40,7 @@ VÁCLAV: Přesně tak. A také se říká, že Junák má oproti jiným organiza
 
 LUDMILA: Ano.
 
-{% photo src="https://i.ohlasy.info/i/kpkkcmj.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/kpkkcmj.jpg" author="Tomáš Znamenáček" /%}
 
 ### Čtyři dětské oddíly, 362 skautů
 
@@ -90,7 +90,7 @@ VÁCLAV: Není to úplně stejné. Liduš má hodně družin a velké družiny, 
 
 LUDMILA: Pro nás je to problém jet někam jako celý oddíl, abychom se někam vešli. Je nás něco málo pod devadesát, jsme největší oddíl v Boskovicích. Jako celý oddíl se setkáváme jen v Boskovicích.
 
-{% photo src="https://i.ohlasy.info/i/rs3vmxx.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/rs3vmxx.jpg" author="Tomáš Znamenáček" /%}
 
 ### Do kluboven se nevejdeme
 
@@ -134,7 +134,7 @@ VÁCLAV: Na druhou stranu Boskovice nejsou tak velké, aby se do lesa nebo na po
 
 LUDMILA: Takže prioritní to pro nás není.
 
-{% photo src="https://i.ohlasy.info/i/petw4hs.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/petw4hs.jpg" author="Tomáš Znamenáček" /%}
 
 ### Skautský dům na Bílkově ulici
 
@@ -234,7 +234,7 @@ VÁCLAV: Taky si to myslím. Když se o tom bavíme ve středisku, tak se toho s
 
 VÁCLAV: Skautské domy mají i mnohem menší střediska. My s naším počtem členů patříme k třeba dvaceti největším skautským střediskům v České republice. Nevím to teď přesně, ale tak nějak za první desítkou jsme se v posledních letech pohybovali.
 
-{% photo src="https://i.ohlasy.info/i/bd2q6ek.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bd2q6ek.jpg" author="Tomáš Znamenáček" /%}
 
 ### GPS místo buzoly
 

@@ -11,7 +11,7 @@ tags:
 
 *Veřejné projednání variant umístění sportovní haly v Boskovicích se konalo ve čtvrtek 8. srpna na radnici. Aktuálně zvažované varianty na ulicích Sušilova a Hybešova nejprve představil místostarosta Radek Mazáč (Sportovci), který víceméně zopakoval informace, které známe z [rozhovoru pro Ohlasy](https://ohlasy.info/clanky/2019/07/rozhovor-mazac.html) a také z [prezentace pro zastupitele](https://data.ohlasy.info/2019/hala-prezentace.pdf). Následovala diskuse, jejíž nejzajímavější momenty přinášíme v následujícím textu.*
 
-{% photo src="https://i.ohlasy.info/i/buitu7h.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/buitu7h.jpg" author="Tomáš Trumpeš" /%}
 
 ### Cena
 

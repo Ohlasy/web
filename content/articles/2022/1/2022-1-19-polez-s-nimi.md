@@ -7,7 +7,7 @@ category: rozhovory
 
 *Rozhovor s Lídou Živnou, spoluzakladatelkou spolku Polez s námi. O fungování spolku, podmínkách pro lezení v Boskovicích, o lezeckém sportu, jeho popularitě, přínosech a náročnosti.*
 
-{% photo src="https://i.ohlasy.info/i/e9e2257a.jpg" author="Archiv Lídy Živné" %}
+{% photo src="https://i.ohlasy.info/i/e9e2257a.jpg" author="Archiv Lídy Živné" /%}
 
 **Kdy váš oddíl vznikl a z jakého popudu?**
 
@@ -41,7 +41,7 @@ Na začátku jsme neměli nic. Vybavení využíváme naše vlastní rodinné, d
 
 Naším cílem je vrátit všechen vypůjčený materiál a vybavit oddíl vlastním. Hledáme proto případné sponzory, kteří by nás chtěli podpořit. Za každý finanční či materiálový dar budeme vděčni.
 
-{% photo src="https://i.ohlasy.info/i/e017e396.jpg" author="Archiv Lídy Živné" %}
+{% photo src="https://i.ohlasy.info/i/e017e396.jpg" author="Archiv Lídy Živné" /%}
 
 **Jaký je o lezení zájem?**
 
@@ -59,7 +59,7 @@ Ortopedové dnes doporučují lezení na skoliózu páteře nebo jako kompenzač
 
 Jak už jsem zmínila, zájem veřejnosti je velký a určitě bychom se mohli dále rozrůstat. Potřebovali bychom však zlepšit podmínky materiální i personální. Získat vybavení a odpovídající zázemí, proškolit další instruktory, aby mohli vést další kroužky. Jeden dospělý instruktor může mít na starosti maximálně 5 svěřenců – taková jsou bezpečnostní pravidla. Do svých řad  bychom rádi uvítali další dospělé, kteří by měli zájem vést děti a ideálně mají už nějakou zkušenost s lezením.
 
-{% photo src="https://i.ohlasy.info/i/7831b4d1.jpg" author="Archiv Lídy Živné" %}
+{% photo src="https://i.ohlasy.info/i/7831b4d1.jpg" author="Archiv Lídy Živné" /%}
 
 **Jak náročný sport je to z hlediska výbavy? Potřebují si děti nakoupit vybavení?**
 

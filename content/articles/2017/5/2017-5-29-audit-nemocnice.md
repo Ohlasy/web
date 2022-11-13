@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Před rokem předal auditor vedení boskovické nemocnice finanční audit. Teprve nedávno ale dozorčí rada vše uzavřela se slovy, že je hospodaření nemocnice v pořádku, ačkoliv auditor poukazoval na řadu vážných nedostatků.*
 
-{% photo src="https://i.ohlasy.info/i/a03jxln.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/a03jxln.jpg" author="Tomáš Znamenáček" /%}
 
 Audit uložila zpracovat jednateli boskovické nemocnice Miloši Janečkovi dozorčí rada loni v únoru, sama ho ale viděla až několik měsíců po jeho dokončení. Vedení nemocnice byl předán už v květnu, dozorčí rada se jím ale zabývala až v srpnu. S jeho výsledky byla velmi znepokojená – a ne sama.
 

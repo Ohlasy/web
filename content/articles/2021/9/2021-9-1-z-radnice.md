@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady po prázdninové přestávce ve druhé půli srpna. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/1e28b41d.jpeg" caption="Pokroku by se konečně mohl dočkat projekt skateparku, který město chystá již přes 15 let" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/1e28b41d.jpeg" caption="Pokroku by se konečně mohl dočkat projekt skateparku, který město chystá již přes 15 let" author="Tomáš Trumpeš" /%}
 
 Vedení města na tiskové konferenci oznámilo, že v čele boskovické nemocnice bude jako jednatel pokračovat Dan Štěpánský, který původně oznámil svůj odchod. Rada proto zrušila výběrové řízení. O celé záležitosti jsme podrobněji informovali [v samostatném textu](https://ohlasy.info/clanky/2021/08/stepansky-zustava.html). Starosta také v této souvislosti potvrdil, že nemocnice dostane dotace ve výši 150 milionů korun z takzvaných evropských peněz.
 

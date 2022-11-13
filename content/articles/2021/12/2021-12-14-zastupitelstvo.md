@@ -9,7 +9,7 @@ tags: politika
 
 *Bezmála pětihodinové jednání si před Vánocemi nadělili boskovičtí zastupitelé. Jedním z hlavních témat byla opět sportovní hala, celkově jednání proběhlo v dosti konfrontačním duchu mezi koalicí a opozicí.*
 
-{% photo src="https://i.ohlasy.info/i/8ee9ff77.jpg" author="Zdeněk Tesař" %}
+{% photo src="https://i.ohlasy.info/i/8ee9ff77.jpg" author="Zdeněk Tesař" /%}
 
 V úvodní části věnované dotazům a připomínkám občanů se na zastupitele [obrátila nejprve Jana Syrovátková](https://youtu.be/GRdWwRVfOa0?t=660) ze Spolku za rozvoj architektury Boskovic (SRAB). Zajímalo ji pokračování příprav sportovní haly, konkrétně proč byl vybrán studentský projekt k přepracování. Místostarostka Michaela Žejšková (TOP 09) odpověděla, že za dobu, co se stavba haly řeší, vznikla spousta návrhů a tento vyhovuje požadavkům města a vyžaduje jen drobné dopracování. O to se má postarat AV Atelier, se kterým bude spolupracovat skupina, v níž usednou kromě místostarostky ještě František Učeň, vedoucí investičního odboru Petr Zouhar a lezecká část bude konzultována s Adamem Kožouškem. Ten je sice členem SRABu, ale spolek jako takový ke spolupráci osloven nebyl, místostarostka to zdůvodnila také tím, že nechtěla práci skupiny politizovat a Jana Syrovátková [oznámila vstup do politiky](https://ohlasy.info/clanky/2021/11/rozhovor-syrovatkova.html). Do skupiny si přitom vzala svého stranického kolegu Františka Učně, jak vzápětí připomněli Piráti.
 

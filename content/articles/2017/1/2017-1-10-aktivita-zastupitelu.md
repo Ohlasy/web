@@ -9,7 +9,7 @@ tags: politika
 
 *Více než dva roky mandátu mají za sebou současní boskovičtí zastupitelé. Někteří jsou ale na zasedání aktivnější než jiní. Redakce Ohlasů se jejich aktivitu a docházku rozhodla obodovat: za účast a příspěvky do diskuze jedním bodem, za pasivní účast nulou, za absenci mínus bodem.*
 
-{% photo src="https://i.ohlasy.info/i/u8zit0z.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/u8zit0z.jpg" author="Tomáš Znamenáček" /%}
 
 Od ustavujícího zastupitelstva v listopadu 2014 se zastupitelé sešli ještě jedenáckrát. Ani na jednom z jednání kromě starostky Hany Nedomové (ČSSD), která schůzi řídí, nechyběli dva opoziční zastupitelé za sdružení Sportovci Boskovice – Radek Mazáč a Jiří Pevný. Oba navíc nebyli jen pasivními zastupiteli, ale aktivně se dotazovali starostky a dalších členů boskovické koalice. Za každé zastupitelstvo jsme jim proto udělili jeden bod. Dohromady tak mají starostka a oba zastupitelé dvanáct bodů. Nikdo další na toto hodnocení nedosáhl.
 

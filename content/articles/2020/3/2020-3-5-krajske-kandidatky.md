@@ -11,7 +11,7 @@ tags:
 
 *Něco málo přes půl roku zbývá do krajských voleb, ve kterých si lidé znovu zvolí své zastupitele a určí tak podobu budoucí koalice na hejtmanství. Kdo se utká o krajská křesla z regionu a jaké mají dotyční politici šance na zvolení?*
 
-{% photo src="https://i.ohlasy.info/i/dac8bc15.jpeg" caption="Krajský úřad v Brně" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/dac8bc15.jpeg" caption="Krajský úřad v Brně" author="Marek Osouch" /%}
 
 I když kraj mnoho lidí nevnímá za až tak důležitou instituci, už dvacet let má vliv například na podobu sociálních služeb v regionu a jejich financování. Stejné je to u nemocnic. Tyto případy se příliš netýkají Boskovic, protože zde provozuje domov pro seniory i nemocnici město, další sociální služby však kraj platí a příspěvky na provoz posílá i do nemocnice.
 

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Boskovická radnice připravuje prodej 10 tisíc čtverečních metrů pozemků Na Chmelnici za stávajícími bytovými domy. Má o ně zájem soukromý developer, který postavil Terasy na Výsluní, dokončuje výstavbu v bývalé Slámově pile a Na Chmelnici by také chtěl stavět bytové domy. Jak ukazuje příklad Blanska, město v takových případech může ovlivnit podobu a kvalitu výstavby. Jak si v tomto případě poradí Boskovice?*
 
-{% photo src="https://i.ohlasy.info/i/4d5ec47f.jpeg" caption="Pozemky Na Chmelnici určené k zastavění" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/4d5ec47f.jpeg" caption="Pozemky Na Chmelnici určené k zastavění" author="Tomáš Trumpeš" /%}
 
 Boskovická radnice připravuje prodej deset tisíc metrů čtverečních pozemků Na Chmelnici za stávajícími bytovými domy. Soukromý developer tady chce navázat vlastní výstavbou na stávající sídliště. Žádnými podmínkami nad rámec územního plánu a zákonů ho ale město nesvázalo.
 
@@ -18,7 +18,7 @@ Boskovická radnice připravuje prodej deset tisíc metrů čtverečních pozemk
 
 Tyto pozemky neleží jen za bytovými domy Na Chmelnici, ale úzkým pruhem se táhnou až k silnici vedoucí ke hřbitovu přesně uprostřed městských pozemků – tedy v místě, kde radnice usiluje o scelení plochy, aby tady mohla do budoucna vybudovat další novou ulici. Developer tak Boskovicím narušil plány. Podle starosty Jaroslava Dohnálka mělo město tyto parcely nad Lipovou koupit v minulém volebním období, ale nestalo se tak. Jenže společnost BK Invest se pozemky koupila až na konci minulého roku, tedy za současného vedení. „Město v tomto volebním období jednalo intenzivně o výkupu pozemků pouze pro výstavbu sportovní haly. S majiteli pozemků Na Chmelnici bylo jednáno ve chvíli, kdy se město dozvědělo, že o pozemky usiluje BK Invest. Výsledek znáte. Město nemá možnost něco koupit okamžitě bez předchozího schválení v zastupitelstvu a bez peněz v rozpočtu,“ poznamenal vedoucí majetkového odboru městského úřadu Pavel Musil.
 
-{% photo src="https://i.ohlasy.info/i/2ee79a8f.png" caption="Majitelé pozemků Na Chmelnici a v okolí" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/2ee79a8f.png" caption="Majitelé pozemků Na Chmelnici a v okolí" author="Město Boskovice" /%}
 
 Z veřejně dostupných dat je navíc zřejmé, že zápis na katastru byl po nezbytných úkonech dokončen až 18. ledna. Už 5. ledna, tedy před dokončením převodu vlastnictví, se ale firma BK Invest obrátila na město s nabídkou, že mu přenechá pozemky, které radnice potřebuje na scelení plochy pro budoucí ulici – ale výměnou za to chce městské parcely za bytovými domy Na Chmelnici.
 
@@ -36,7 +36,7 @@ Radnice však chce vytvořit pracovní skupinu, která bude na výstavbu a proce
 
 „Nám je celkem jedno, co tam vybudujeme, ale přišlo nám to vhodnější pro obyvatele postavit tam 24 parkovacích míst, než plochu, kterou by možná někdo využil a možná taky ne. Hřiště je Na Vyhlídce, což není zas tak daleko. Zkuste si to hřiště povolit, lidi budou říkat, že jej nechtějí, aby jim někdo nekřičel pod okny,“ prohlásil Pavel Zatloukal s tím, že podle něj dostačuje vnitroblok s dětským hřištěm ve starší části Teras.
 
-{% photo src="https://i.ohlasy.info/i/3d2d39dc.png" caption="Budoucí podoba zástavby v bývalé Slámově pile" author="BK Invest" %}
+{% photo src="https://i.ohlasy.info/i/3d2d39dc.png" caption="Budoucí podoba zástavby v bývalé Slámově pile" author="BK Invest" /%}
 
 Nová zástavba BK Investu na místě Slámovy pily nebude mít vnitroblok vůbec. Není na něj místo, bytové domy jsou tam namačkané těsně vedle sebe. „To nesla doba, je to nějaký vývoj,“ komentoval jednatel společnosti BK Invest budoucí podobu vznikající zástavby, která by měla být dokončená do dvou let. Společnost totiž počítala s tím, že koupí i východní polovinu Slámovy pily, jenže to se jí nepovedlo a dnes tam vzniká soukromý domov pro seniory. Developer tak musel vměstnat co nejvíce plochy k bydlení na západní část, aby se mu investice vyplatila. „Kdyby lokalita měla dvanáct tisíc metrů čtverečních a ne osm jako teď, určitě by se zástavba rozprostřela,“ přiznal Pavel Zatloukal. Podle něj je ale v Boskovicích dalším problémem i to, že je možné stavět maximálně čtyři nadzemní podlaží. „Kdyby tam byl jeden osmi či desetipatrový dům, je spousta zeleně okolo a nikomu by to nevadilo,“ dodal.
 

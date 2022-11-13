@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/v44fv6w.jpg" caption="Městský bytový dům na Wolkerově ulici dostal nedávno nový vzhled, nyní město přistoupí k opravě stupaček a elektroinstalace" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/v44fv6w.jpg" caption="Městský bytový dům na Wolkerově ulici dostal nedávno nový vzhled, nyní město přistoupí k opravě stupaček a elektroinstalace" author="Tomáš Trumpeš" /%}
 
 ### Programové prohlášení
 

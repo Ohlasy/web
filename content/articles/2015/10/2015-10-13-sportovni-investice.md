@@ -8,7 +8,7 @@ tags: sport
 
 *Téměř devatenáct set registrovaných sportovců evidují sportovní kluby a spolky v Boskovicích. Každý rok dostávají od města příspěvek na svou činnost a na úhradu nájemného. Kromě toho každoročně odchází z městského rozpočtu miliony na investice a opravy stávajících sportovišť. Značná část peněz určených pro kluby se ovšem městu vrací formou nájemného.*
 
-{% photo src="https://i.ohlasy.info/i/wjbrvk2.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/wjbrvk2.jpg" author="Tomáš Trumpeš" /%}
 
 Sedm milionů stál nový umělý povrch na fotbalovém stadionu. Z městského rozpočtu šly na tuto investici více než tři miliony korun. Další miliony v minulosti spolykala oprava koupaliště nebo úpravy zimního stadionu. Jen loni tam město investovalo pět milionů a další investice ho ještě čekají, například výstavba sněžných jam neboli úložišť odřezaného ledu z kluziště. V současné době vysypává rolba led do Bělé. To se ale nelíbí Povodí Moravy. Vedení města odhaduje, že výstavba sněžných jam bude stát dva miliony, a počítá s touto částkou v rozpočtu na příští rok.
 

@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/i/pjqsk2t.jpg" caption="Z loňského mandolínového festivalu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pjqsk2t.jpg" caption="Z loňského mandolínového festivalu" author="Tomáš Znamenáček" /%}
 
 ### HohřiceFest 2018
 

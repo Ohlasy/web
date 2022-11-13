@@ -10,13 +10,13 @@ tags: historie
 
 *První procházkou zamíříme do boskovického farního kostela sv. Jakuba Většího. Tato památka, která byla prakticky až do dvacátých let dvacátého století středobodem života a zájmu vrchnosti, měšťanů i poddaných, má příznačně svůj příběh nejkošatější: její hmota pulsuje s rozvojem i propady města, společenským a hospodářským úspěchem vrchnosti a v charakteru změn zrcadlí dobovou situaci.*
 
-{% photo src="https://i.ohlasy.info/i/7750abd6.jpeg" caption="Kostel sv. Jakuba, pohled od jihozápadu, převzato z katalogu výstavy Šlechtický rod ze Zástřizl na Boskovicích. Podoba kostela mezi lety 1605–1772. Pozdně gotická stavba Václava a Ladislava z Boskovic z doby kolem roku 1520, s vysokou stanovou střechou lodi zakončenou vížkou a vysokým sanktusníkem nad presbytářem. V pozadí následně přistavěná severní věž, zvýšená členitou střechou za Václava st. Morkovského ze Zástřizl v letech 1600–1602." author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/7750abd6.jpeg" caption="Kostel sv. Jakuba, pohled od jihozápadu, převzato z katalogu výstavy Šlechtický rod ze Zástřizl na Boskovicích. Podoba kostela mezi lety 1605–1772. Pozdně gotická stavba Václava a Ladislava z Boskovic z doby kolem roku 1520, s vysokou stanovou střechou lodi zakončenou vížkou a vysokým sanktusníkem nad presbytářem. V pozadí následně přistavěná severní věž, zvýšená členitou střechou za Václava st. Morkovského ze Zástřizl v letech 1600–1602." author="Muzeum regionu Boskovicka" /%}
 
 První písemné zmínky o Boskovicích jsou spojeny s hradem pánů z Boskovic, u kterého se předpokládá dnes už zcela zaniklá osada. V důsledku růstu majetku rodu za klidného a bohatého 14. století bylo v podhradí rozměřeno a založeno městečko, sloužící jako hospodářské centrum panství. Nezbytný kostel stál samostatně v dolní části náměstí, která je mírně rozšířená a kostel pootočený, aby byl správně orientován presbytářem k východu. Také zasvěcení jednomu z dvanácti apoštolů, sv. Jakubovi Většímu, je u kostelů nově založených vrchnostenských měst této doby velmi časté. Tato nejstarší, vrcholně gotická stavba, však později prakticky celá ustoupila novému, pozdně gotickému kostelu. 
 
 V průběhu 15. století nabývá rod pánů z Boskovic na významu. Jeho členové zastávají významné církevní i politické posty nejprve v rámci Moravy, později i u českého a uherského královského dvora. Rodové panství, přičleněné po bojích mezi moravskými Lucemburky Joštem a Prokopem k majetku královské komory, vrací Jiří z Poděbrad roku 1458 do držení Boskovicům.
 
-{% photo src="https://i.ohlasy.info/i/2fb8ee80.jpeg" caption="Půdorys s vyznačením stavebního vývoje. Diagonální šrafy označují pozdně gotickou stavbu Václava a Ladislava z Boskovic, včetně prakticky ihned přistavěné severní věže. Tečkované plochy označují raně barokní Loretánskou kapli, postavenou před severním vstupem za Zuzany Kateřiny Liborie Prakšické ze Zástřizl. Nešrafované jsou novogotické romantické dostavby Františka Josefa z Dietrichsteina." author="Převzato z Uměleckých památek Moravy, heslo Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/2fb8ee80.jpeg" caption="Půdorys s vyznačením stavebního vývoje. Diagonální šrafy označují pozdně gotickou stavbu Václava a Ladislava z Boskovic, včetně prakticky ihned přistavěné severní věže. Tečkované plochy označují raně barokní Loretánskou kapli, postavenou před severním vstupem za Zuzany Kateřiny Liborie Prakšické ze Zástřizl. Nešrafované jsou novogotické romantické dostavby Františka Josefa z Dietrichsteina." author="Převzato z Uměleckých památek Moravy, heslo Boskovice" /%}
 
 ### Pozdně gotická přestavba
 
@@ -28,7 +28,7 @@ Do Václavovy smrti byl hotový presbytář se sakristií. Stavba pokračovala d
 
 Pozdně gotická stavba pánů z Boskovic je pod úpravou v 19. století stále dobře čitelná. Patří k ní také jednotně provedené portály v místech původních vstupů do trojlodí: západní, přesunutý do nové pozice jako součást novogotického vstupu, severní, nacházející se dnes v interiéru Loretánské kaple, a jižní v interiéru kaple Srdce Kristova pod panskou tribunou. Pozdně gotická proplétaná žebra portálů mají v případě původně nejpoužívanějšího jižního vstupu po obou stranách v patě štítonoše se znaky Boskoviců a Berků z Dubé, rodu Ladislavovy manželky. Přestavba pokračovala i po Ladislavově smrti, kdy byla zbudována nad původní sakristií věž, dokončená v roce 1531. Po roce 1520 však nastává úpadek rodu pánů z Boskovic, který končí prodejem panství v roce 1547.
 
-{% photo src="https://i.ohlasy.info/i/1b91ff71.jpeg" caption="Klenba kostela" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1b91ff71.jpeg" caption="Klenba kostela" author="Tomáš Znamenáček" /%}
 
 ### Náhrobky Morkovských ze Zástřizl
 
@@ -42,7 +42,7 @@ Osobní a rodová reprezentace však byla součástí humanistického světonáz
 
 Poslední pár z rodu boskovických Zástřizlů, Jan Bohuš Morkovský ze Zástřizl a jeho žena Zuzana Kateřina Liborie Prakšická ze Zástřizl, [byl velkým stavebním mecenášem](https://ohlasy.info/clanky/2015/06/obraz-zalozeni-klastera.html). Mimo dalších stavebních aktivit nechali v letech 1670--1679 zaklenout do té doby zřejmě plochostropý farní kostel.
 
-{% photo src="https://i.ohlasy.info/i/766b4127.jpeg" caption="Pozdně renesanční klenba plynoucí bez přerušení z lodi do presbytáře z let 1670–1679" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/766b4127.jpeg" caption="Pozdně renesanční klenba plynoucí bez přerušení z lodi do presbytáře z let 1670–1679" author="Tomáš Znamenáček" /%}
 
 ### Zaklenutí kostela a požár
 
@@ -52,7 +52,7 @@ Ovdovělá bezdětná Zuzana Kateřina Liborie Prakšická ze Zástřizl se podr
 
 V roce 1772 postihl Boskovice opět rozsáhlý požár, při kterém shořelo zastřešení kostela i vysoká členitá střecha věže, zbudovaná po roce 1600 za Václava st. Morkovského ze Zástřizl. Vládnoucí kníže Karel Maxmilián z Dietrichsteina nechává střechy opravit, přičemž původní vysokou stanovou střechu lodi zřejmě tehdy nahradila sedlová, vysoký sanktusník nad presbytářem nižší s cibulovou střechou a na věži provádí nízkou stanovou, snad provizorní střechu, která je na věži dodnes.
 
-{% photo src="https://i.ohlasy.info/i/9b878ace.jpeg" caption="Romanticky novogotické západní průčelí z úprav za Františka Josefa z Dietrichsteina z let 1845–47" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/9b878ace.jpeg" caption="Romanticky novogotické západní průčelí z úprav za Františka Josefa z Dietrichsteina z let 1845–47" author="Tomáš Znamenáček" /%}
 
 ### Poslední rozsáhlé přestavby
 
@@ -68,7 +68,7 @@ Podle vzoru původních architektonických článků je regotizován celý inter
 
 Sedlová střecha je nad západní stěnou pročleněna štítem – otázkou je, proč stavebník ponechal nízkou, těžkopádnou stanovou střechu na věži nebo dokonce neobnovil vysokou stanovou střechu lodi, kterou jistě znal z rytinek města.
 
-{% photo src="https://i.ohlasy.info/i/9b90fe66.jpeg" caption="Výhled z oken kostela do židovského města" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/9b90fe66.jpeg" caption="Výhled z oken kostela do židovského města" author="Tomáš Znamenáček" /%}
 
 ### Víra a mecenášství
 

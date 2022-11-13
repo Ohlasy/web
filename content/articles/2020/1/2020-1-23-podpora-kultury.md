@@ -8,7 +8,7 @@ tags: kultura
 
 *Zamyšlení nad letošní změnou městského grantového systému, jeho celkovým fungováním a hlavně podporou neoficiální kultury.*
 
-{% photo src="https://i.ohlasy.info/i/397a805f.jpg" caption="Festiválek bez bojů a válek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/397a805f.jpg" caption="Festiválek bez bojů a válek" author="Tomáš Trumpeš" /%}
 
 Občas se na sebe v novinách zlobíme, že nám nějaká důležitá informace uteče. Přesně to se mi stalo u změn dotačního programu pro kulturu a volnočasové aktivity. Změny byly letos jen kosmetické, komplexnější proměnu celého systému má připravit kulturní komise, která k tomu určila speciální pracovní skupinu.
 

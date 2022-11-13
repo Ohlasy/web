@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Koronavirová krize a její dopady na ekonomiku. Téma, o kterém slyšíme denně. Vedle dopadů na firmy a na peněženky občanů jsou zde také města a obce – a ty už pocítily výpadky daňových příjmů ve svých rozpočtech. Každý měsíc totiž dostávají svůj podíl z toho, co vybere stát. Daňové příjmy obcí tedy záleží na celkové síle ekonomiky.*
 
-{% photo src="https://i.ohlasy.info/i/6769cec4.jpg" caption="Letovický klášter" author="Petr Novák, Wikipedia" %}
+{% photo src="https://i.ohlasy.info/i/6769cec4.jpg" caption="Letovický klášter" author="Petr Novák, Wikipedia" /%}
 
 O situaci v Boskovicích jsme už několikrát informovali. Město mělo na letošní rok naplánovaný rozpočet, který počítal z celkovými příjmy přes 350 milionů korun, hned první rozpočtové opatření v únoru je však upravilo na 395 milionů. Daňové příjmy z toho tvoří asi polovinu. Výdaje si město schválilo ve výši něco přes 390 milionů korun.
 

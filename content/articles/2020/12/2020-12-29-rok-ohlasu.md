@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Končící rok 2020 vybízí opět k tomu, abychom si jej připomněli také pohledem do statistik čtenosti našeho webu. Jaké události a zajímavosti vás čtenáře v roce 2020 nejvíc zajímaly? Letos je dominantní téma roku jasné – pandemie koronaviru a její dopady na život v regionu.*
 
-{% photo src="https://i.ohlasy.info/i/484ae6d1.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/484ae6d1.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" /%}
 
 Téma koronaviru je jasně dominantní, ale není jediné, takže určitě stojí za to podívat se i na další témata, která v celém roce i v jednotlivých měsíci silněji rezonovala. Vedle pandemie to byla hlavně situace na boskovické základní umělecké škole, plány na vznik nového boskovického pivovaru, letní povodeň, další působení bývalého místostarosty Petra Malacha (ČSSD) ve službách městu, elektrické koloběžky, vizuální identita města, osud panského dvora, založení místní Trikolóry, plánovaná výstavba na místě bývalého hřbitova, soutěž na sportovní halu a odpadové hospodářství v regionu.
 

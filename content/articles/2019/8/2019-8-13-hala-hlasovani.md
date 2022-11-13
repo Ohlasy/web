@@ -12,7 +12,7 @@ tags:
 
 *Nejméně šestnáct let se vede v Boskovicích debata se sportovci o tom, kde by měla stát nová sportovní hala. Dnes jsou na stole dvě varianty: hala na Hybešově a hala na Sušilově, vedle čehož však je stále platné [usnesení z roku 2015](https://ohlasy.info/clanky/2015/12/zastupitelstvo.html), že má sportovní stánek vyrůst v areálu Červená zahrada.*
 
-{% photo caption="Boskovické zastupitelstvo, ilustrační foto" src="https://i.ohlasy.info/i/cls88fz.jpg" author="Tomáš Trumpeš" %}
+{% photo caption="Boskovické zastupitelstvo, ilustrační foto" src="https://i.ohlasy.info/i/cls88fz.jpg" author="Tomáš Trumpeš" /%}
 
 I když s poslední variantou, umístěním v Červené zahradě, vlastně nikdo z boskovické koalice nepočítá, zdá se čím dál více pravděpodobné, že čtyři roky staré usnesení zůstane i po zářijové schůzi zastupitelů nadále v platnosti. Boskovičtí zastupitelé jsou totiž rozděleni tak, že jejich hlasování může skončit patem.
 

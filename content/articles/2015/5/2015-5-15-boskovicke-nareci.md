@@ -10,11 +10,11 @@ tags: historie
 
 *V roce 1941 vyšla v Brně publikace s názvem Boskovické nářečí. Je to první a zatím stále jediná monografie, která podrobně popisuje nářečí Boskovicka. Jejím autorem byl rodák ze Lhoty Rapotiny František Svěrák (1906–1976), jazykovědec, který po většinu své profesní dráhy působil na pedagogické fakultě Masarykovy univerzity v Brně.*
 
-{% photo src="https://i.ohlasy.info/i/0c7n66c.jpg" %}
+{% photo src="https://i.ohlasy.info/i/0c7n66c.jpg" /%}
 
 Autor ve své knize v prvé řadě provedl přesnější rozdělení nářečí, kterými se hovořilo v tehdejším boskovickém okrese. Na základě různých jazykových rysů zde rozlišil čtyři dílčí nářeční oblasti. Názorně je ukazuje doprovodná mapka. (Jedná se o mapu popisující stav v roce 1941, a tak zde jsou vidět jednak hranice tehdejších protektorátních okresů, jednak hranice protektorátu s německou třetí říší, jež kromě Polska zabrala také Sudety.)
 
-{% photo src="https://i.ohlasy.info/i/hbuv2cg.png" %}
+{% photo src="https://i.ohlasy.info/i/hbuv2cg.png" /%}
 
 Vidíme, že vlastní boskovické nářečí se kromě samotných Boskovic vyskytuje pouze v několika dalších obcích na jihozápad a severozápad od Boskovic. Konkrétně se jedná o obce Újezd (u Boskovic), Lhota Rapotina, Obora, Jabloňany, Krhov, Lysice, Drnovice, Voděrady, Sebranice, Skalice (nad Svitavou), Mladkov, Chrudichromy, Svitávka, Míchov a Podolí. Na západě sousedí boskovické nářečí s nářečím letovickým, kunštátským a olešnickým, na jihu a jihovýchodě s tzv. nářečím horským (oblast Blanenska a Sloupska) a na severovýchodě a východě s tzv. nářečím malohanáckým (Jevíčsko) a horáckým (obce Valchov, Žďárná, Protivanov, Benešov, Vratíkov, Okrouhlá, Kořenec a Buková).
 

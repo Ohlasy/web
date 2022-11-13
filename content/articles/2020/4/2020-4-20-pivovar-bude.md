@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Pivo uvařené v panském pivovaru v Pohradí v Boskovicích lidé ochutnají už příští rok. Takové jsou alespoň plány nového majitele celého objektu a boskovického podnikatele Luďka Řehoře. Pivovar vyměnil za jízdárnu, už letos chce začít s opravami neudržované historické památky a příští rok zde po 70 letech rozjet výrobu piva.*
 
-{% photo src="https://i.ohlasy.info/i/0mmg63t.jpg" caption="Panský pivovar" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0mmg63t.jpg" caption="Panský pivovar" author="Tomáš Znamenáček" /%}
 
 Několik měsíců visel inzerát na [prodej panského pivovaru](https://ohlasy.info/clanky/2019/08/prodej-pivovaru.html) na stránkách realitní kanceláře, nakonec se ale na přelomu minulého a letošního roku domluvil dosavadní majitel Josef Hlaváček přímo s Luďkem Řehořem, že právě on se stane novým vlastníkem.
 

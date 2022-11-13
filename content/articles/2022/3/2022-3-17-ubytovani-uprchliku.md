@@ -11,7 +11,7 @@ tags:
 
 *Do České republiky míří váleční uprchlíci z Ukrajiny. Jihomoravský kraj patří k těm, kam přichází nejvíce lidí. O část z nich se musí postarat také Boskovice. Vedení města popsalo, jak se na zvládnutí krize připravuje.*
 
-{% photo src="https://i.ohlasy.info/i/wjbrvk2.jpg" caption="Mezi místy zvažovanými pro ubytování uprchlíků je i boskovický zimní stadion" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/wjbrvk2.jpg" caption="Mezi místy zvažovanými pro ubytování uprchlíků je i boskovický zimní stadion" author="Tomáš Trumpeš" /%}
 
 Veškerá opatření související s řešením uprchlické krize se provádí v režimu nouzového stavu, který vyhlásila vláda. Nouzový stav především umožňuje řešit některé věci rychle a bez výběrových řízení, jinak se občanů na rozdíl od covidové krize příliš nedotkne, tvrdí Petr Novák, boskovický referent pro obranu.
 

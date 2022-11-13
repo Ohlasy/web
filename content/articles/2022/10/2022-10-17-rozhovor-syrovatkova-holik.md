@@ -11,7 +11,7 @@ tags:
 
 *Rozhovor s příští boskovickou starostkou Janou Syrovátkovou (Změna22) a prvním místostarostou Lukášem Holíkem (Naše Boskovice). Koalici uzavřela obě uskupení ještě s Piráty, celkově budou mít v sedmadvacetičlenném zastupitelstvu většinu šestnácti zastupitelů. Mluvili jsme o výsledku voleb, ustavení koalice, rozdělení funkcí i gescí a o programové shodě na některých důležitých tématech.*
 
-{% photo src="https://i.ohlasy.info/i/55d3c2e5.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/55d3c2e5.jpg" author="Tomáš Znamenáček" /%}
 
 **Věřili jste tomu, že byste mohli ve volbách jako vyzyvatelé dosavadního vedení radnice dosáhnout na takto jasnou většinu? Jaká byla vaše nálada v sobotu ve 14 hodin, když se zavřely volební místnosti?**
 
@@ -57,7 +57,7 @@ JANA SYROVÁTKOVÁ: Zrovna včera jsem odevzdávala jeden velký projekt, který
 
 LUKÁŠ HOLÍK: Jsem na to připraven, že rozvážu pracovní poměry a budu zpět na full time v pozici místostarosty.
 
-{% photo src="https://i.ohlasy.info/i/b8dfc376.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/b8dfc376.jpg" author="Tomáš Znamenáček" /%}
 
 ### Chceme vést město týmově
 
@@ -121,7 +121,7 @@ JANA SYROVÁTKOVÁ: Nějakou představu máme, samozřejmě si chceme nechat rez
 
 LUKÁŠ HOLÍK: Přesně tak. Avizuje se zastropování ceny energií, ale pořád to nemáme dané na papíře. Až od toho můžeme tvořit rozpočet. Jasná priorita je knihovna.
 
-{% photo src="https://i.ohlasy.info/i/9bda9498.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/9bda9498.jpg" author="Tomáš Znamenáček" /%}
 
 ### Starat se o nemocnici jako o vlastní
 
@@ -163,7 +163,7 @@ JANA SYROVÁTKOVÁ: Samozřejmě bychom byli rádi, abychom se v pohledu na ří
 
 LUKÁŠ HOLÍK: Naše vize je vytvořit vstřícný úřad pro lidi, pro občany města. Tohle je směr, kam chceme směřovat. Takhle to nastavíme a pak už je na každém, jestli do toho chce jít s námi a být vstřícný a pracovitý pro občany města. Pokud ne, zřejmě to dál nemůže fungovat.
 
-{% photo src="https://i.ohlasy.info/i/7d9a43f2.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7d9a43f2.jpg" author="Tomáš Znamenáček" /%}
 
 ### Odpočinout si od haly
 

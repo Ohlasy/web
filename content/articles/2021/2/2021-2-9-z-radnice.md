@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/520c6b5c.jpg" caption="Sochu u kostela sv. Jakuba pod náměstím čeká rekonstrukce" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/520c6b5c.jpg" caption="Sochu u kostela sv. Jakuba pod náměstím čeká rekonstrukce" author="Tomáš Trumpeš" /%}
 
 Jedním z klíčových témat tiskové konference bylo rozhodnutí města zadat architektonický návrh sportovní haly v Červené zahradě přímo městskému architektovi Zdeňku Fránkovi, který na jeho vyhotovení bude spolupracovat s mexickým kolegou Alberto Kalachem. Podrobněji jsme o tématu informovali [v samostatném článku](https://ohlasy.info/clanky/2021/02/hala-navrh.html).
 

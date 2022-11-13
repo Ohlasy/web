@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci října. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/0vyte5s.jpg" caption="Zvyšování nájmu čeká obecní byty, například v tomto domě na Zborovské ulici" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/0vyte5s.jpg" caption="Zvyšování nájmu čeká obecní byty, například v tomto domě na Zborovské ulici" author="Marek Osouch" /%}
 
 ### Sportovní hala
 

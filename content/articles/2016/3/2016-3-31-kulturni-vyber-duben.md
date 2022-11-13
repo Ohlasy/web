@@ -8,7 +8,7 @@ tags: kultura
 
 *Růže pro Algernon v hlavní roli s Janem Potměšilem, koncerty věnované Zuzaně Navarové nebo Suchému a Šlitrovi, přehlídka westernových filmů, spousta dalších koncertů, divadel, výstav a besed – z toho všeho si můžou zájemci o kulturní dění v našem regionu v dubnu vybírat. Gianniho kulturní výběr přináší přehled akcí, které by bylo škoda v nadcházejícím měsíci minout, a ohlíží se i za měsícem uplynulým.*
 
-{% photo src="https://i.ohlasy.info/i/ygvwzay.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ygvwzay.jpg" author="Tomáš Znamenáček" /%}
 
 ### Hudba
 

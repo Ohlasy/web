@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *Rozhovor s Jaroslavem Dohnálkem, lídrem boskovické ODS, vítězem voleb a příštím boskovickým starostou. Město už vedl v letech 2006–2014, nyní uzavřel koalici s ANO, STAN a Sportovci, Volbou pro Boskovice s podporou TOP 09 a Boskováky. Ve vedení radnice ho doplní místostarostové Lukáš Holík (ANO) a Radek Mazáč (Sportovci).*
 
-{% photo src="https://i.ohlasy.info/i/qh3yqtf.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/qh3yqtf.jpg" author="Tomáš Znamenáček" /%}
 
 **Když jsme spolu mluvili po spočítání hlasů, říkal jste, že chcete nejprve jednat postupně se všemi stranami, které skončily za vámi. To se nakonec nestalo. Proč?**
 
@@ -67,7 +67,7 @@ Nevyčítají. Jsem skoro příjemně překvapen. Možná se stýkám s jinou sk
 
 To by se mohlo brát i obráceně – ANO je tam teď s námi a pomáhá nám. Je to obousměrné. Nebojím se toho a řeknu to tak: ta značka tady je, existuje a již má své místo na slunci. Z tohoto strach nemám.
 
-{% photo src="https://i.ohlasy.info/i/u3p9b9w.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/u3p9b9w.jpg" author="Tomáš Znamenáček" /%}
 
 ### Programové prohlášení na konci ledna
 
@@ -157,7 +157,7 @@ Teď se hodně mluví ještě o Hybešově, ale já mám ještě jeden tajný ti
 
 Ale aby sportovci mohli sportovat – a teď to nazvu slovy inženýra Pevného – postavme jim malou halu nebo velkou tělocvičnu s hledištěm. Ať sportují. A jestli se ve vizi Červené zahrady najde místo a jednou i peníze, že by tam byla nějaká větší a originálnější hala – asi ne typu jako v Kuřimi, ta je naprosto nadstandardní – tak ať tam klidně za dalších deset nebo patnáct let je. Vidíme to v tomto modelu. Červenou zahradu vykoupit, namodelovat, udělat tam smysluplné dopravní napojení včetně parkování a postupně ji zastavovat.
 
-{% photo src="https://i.ohlasy.info/i/dsd97rs.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/dsd97rs.jpg" author="Tomáš Znamenáček" /%}
 
 ### Knihovnu nic nebrzdí
 
@@ -193,7 +193,7 @@ Ale kdo ho dál a na co může ještě využít? Teď jde o to si ty potřeby se
 
 V hrubých rysech ano. Dohodli jsme se, až bude ten projekt hotov a budou tam i projektantské ceny, musí být na miskách vah jednoznačně: dobře, máme na to, máme na to z tohoto. Když zjistíme, že ty misky jsou vyrovnané a je konsenzus, tak se může stavět. Ale opravdu tady není v koalici nějaký principiální rozklad kvůli knihovně.
 
-{% photo src="https://i.ohlasy.info/i/kvry3kw.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/kvry3kw.jpg" author="Tomáš Znamenáček" /%}
 
 ### Nemíníme sejít z cesty
 

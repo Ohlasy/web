@@ -9,7 +9,7 @@ tags: politika
 
 *Boskovice mají novou koalici, nové místostarosty, novou městskou radu a nyní také [nové programové prohlášení](https://data.ohlasy.info/2021/programove-prohlaseni.docx), kterým si právě nová rada vymezila svou činnost pro necelý rok a půl, který zbývá do komunálních voleb.*
 
-{% photo src="https://i.ohlasy.info/i/9e58c802.jpeg" caption="Nové vedení města" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/9e58c802.jpeg" caption="Nové vedení města" author="Jaroslav Parma" /%}
 
 „Prioritou je harmonický rozvoj Boskovic. Vycházíme přitom z tradičního bohatého historického odkazu, silných stránek města s přihlédnutím k potřebám obyvatel a životním trendům 21. století. Chceme zvýšit prosperitu města, kvalitu života obyvatel a zachovat regionální význam Boskovic,“ píše v obecném úvodu dokumentu koalice ODS, ČSSD, TOP 09, KDU-ČSL a Boskováků s tím, že její snahou je zajistit kvalitní život občanů všech věkových a sociálních skupin v co nejširším spektru jejich potřeb a zájmů.
 
