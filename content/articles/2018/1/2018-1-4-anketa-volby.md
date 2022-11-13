@@ -9,7 +9,7 @@ tags: politika
 
 *V roce 2018 nás čekají komunální volby. Jaké téma by podle Vás nemělo chybět v kampani a předvolebních diskusích? Co pokládáte pro Boskovice za důležité (a třeba opomíjené) pro příští roky?*
 
-{% photo src="https://i.ohlasy.info/i/dal59ti.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/dal59ti.jpg" author="Tomáš Znamenáček" /%}
 
 ---
 

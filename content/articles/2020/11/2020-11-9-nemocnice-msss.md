@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Druhá vlna pandemie nemoci covid-19 prochází Českou republikou, čísla nových nakažených zatím neklesají a nejklíčovějšími místy, kde boj s nemocí probíhá, jsou nemocnice a domovy seniorů. Na aktuální situaci jsme se proto vyptali jednatele boskovické nemocnice Dana Štěpánského a ředitelky Městské správy sociálních služeb Marie Sáňkové.*
 
-{% photo src="https://i.ohlasy.info/i/5a0ec4e6.jpeg" caption="Dan Štěpánský, jednatel boskovické nemocnice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5a0ec4e6.jpeg" caption="Dan Štěpánský, jednatel boskovické nemocnice" author="Tomáš Znamenáček" /%}
 
 ### Nemocnice Boskovice
 
@@ -41,7 +41,7 @@ Začátkem listopadu došlo k navýšení kapacit odběrového místa, kam se ch
 
 Pro urgentní případy a vlastní pacienty má nemocnice k dispozici svůj analyzér, zde se však potýká s nedostatkem testovacích sad. Pokud nejsou k dispozici, musí se vzorky posílat do Brna.
 
-{% photo src="https://i.ohlasy.info/i/4211c749.jpeg" caption="Marie Sáňková, ředitelka Městské správy sociálních služeb" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4211c749.jpeg" caption="Marie Sáňková, ředitelka Městské správy sociálních služeb" author="Tomáš Znamenáček" /%}
 
 ### Městská správa sociálních služeb
 

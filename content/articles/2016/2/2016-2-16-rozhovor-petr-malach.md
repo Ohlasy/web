@@ -16,7 +16,7 @@ tags:
 
 *Rozhovor s místostarostou Petrem Malachem z ČSSD, který má na starosti sport a kulturu, což jsou oblasti, pod které spadá hned několik větších a palčivých problémů Boskovic – sportovní hala, letní kino, knihovna, kulturní dům. Kromě těchto ryze boskovických otázek jsme mluvili také o situaci v ČSSD před krajskými volbami. Petr Malach je rovněž asistentem premiéra Bohuslava Sobotky. V krajských volbách bude kandidovat.*
 
-{% photo src="https://i.ohlasy.info/i/osw6uds.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/osw6uds.jpg" author="Tomáš Znamenáček" /%}
 
 *(Poznámka autora rozhovoru: s Petrem jsme vrstevníci a tykáme si, což snad celkové vyznění rozhovoru a vztah novináře a politika nijak nenarušuje.)*
 
@@ -94,7 +94,7 @@ Já si myslím, že je to dobrý nápad, ale jsem trochu skeptický. Viděl bych
 
 Centrum se bude usazovat do svahu, bylo by tam asi devět metrů.
 
-{% photo src="https://i.ohlasy.info/i/3uukmdl.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3uukmdl.jpg" author="Tomáš Znamenáček" /%}
 
 ### Sokolovna? Je potřeba vzít to do rukou
 
@@ -168,7 +168,7 @@ My samozřejmě máme nějakou bezpečností prověrku a musíme dodržovat něj
 
 Když člověk čte těch asi 80 mejlů denně, tak mu to uvnitř občas scvakává, jak se říká, protože nikdy neví, co se stane. Třeba volal pán a řekl: V pondělí si pro tebe přijedu, buď tebe, nebo Sobotku. Takže jsem samozřejmě volal na ochrannou službu, že máme ve Vyškově takový a takový problém, kdyby se cokoliv stalo. Takže tam byla hlídka a čekala, co se bude dít. Člověk neví, může si říct, že je to nějaký blázen, ale na druhou stranu vidí, jak to dneska ve společnosti funguje.
 
-{% photo src="https://i.ohlasy.info/i/uuelqtt.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/uuelqtt.jpg" author="Tomáš Znamenáček" /%}
 
 **Zpátky ke kraji – jsou i věcné a konkrétní problémy – neselhalo Haškovo vedení kraje při přípravě Zásad územního rozvoje? Není tohle opravdu velký problém a zásadní pochybení?**
 

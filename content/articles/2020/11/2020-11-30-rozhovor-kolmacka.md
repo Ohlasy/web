@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Rozhovor s Pavlem Kolmačkou, ředitelem Oblastní charity Blansko. Mluvili jsme hlavně o tom, jak organizace pomáhající nejrůznějším lidem na okrese Blansko funguje v době pandemie a jak současná situace dopadá na lidi, kteří jsou v obtížných situacích a potřebují pomoc.*
 
-{% photo src="https://i.ohlasy.info/i/dd5154c4.jpeg" caption="Pavel Kolmačka" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/dd5154c4.jpeg" caption="Pavel Kolmačka" author="Tomáš Znamenáček" /%}
 
 **Jak moc se kvůli pandemii změnila práce Charity? Do jaké míry je to pro vás dnes jiné?**
 
@@ -34,7 +34,7 @@ My jsme opět nečekali a díky naší nadřízené Diecézní Charitě Brno jsm
 
 Plošné testování se u nás týká pěti služeb, tří sociálních a dvou zdravotních. Ty sociální jsou pečovatelská služba, týdenní stacionář Emanuel v Doubravici a chráněné bydlení Betany v Boskovicích. Zdravotní jsou domácí zdravotní péče a domácí hospicová péče. Tam tedy plošně testujeme a už máme i nějaké záchyty. Ty opět posíláme k praktikovi a řešíme, jestli je nutná izolace, což při pozitivitě testů je. Takže to funguje a taky je to náročné, protože nám to může vyřadit bezpříznakové pracovníky, které musíme nahradit Testy musí provádět naše zdravotní sestry, týká se to šedesáti lidí. Otestovat je každých pět dnů není vůbec jednoduché. Ale běží to. Uvidíme, jak to bude probíhat dál, teď je to v počátcích.
 
-{% photo src="https://i.ohlasy.info/i/76ab960d.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/76ab960d.jpeg" author="Tomáš Znamenáček" /%}
 
 **Provozujete také krizovou linku. Do jaké míry se zde projevila koronavirová krize? Obracejí se na vás lidé se specifickými problémy způsobenými pandemií a karanténou?**
 
@@ -76,7 +76,7 @@ V Blansku máme noclehárnu pro muže. Nyní jsme ji dočasně změnili v podsta
 
 Ne. Pro ženy máme nízkoprahové denní centrum, kam mohou taky přijít za účelem osobní hygieny a případně se poradit, co potřebují a co je tíží. Noclehárna pro ženy tady není. Do jaké míry je, či není potřeba, se těžko odhaduje. Když pořádáme takzvané mrazivé noci, moc žen se tam nevyskytuje. Jedna nebo dvě a ne úplně každý den. Takže zatím pro ně tuto službu nemáme, nicméně v roce 2022 by měl být dostavěn v Blansku nový azylový dům. Ten bude sloužit pro matky s dětmi, ale i pro samotné ženy. Budou tam pro ně dvě nebo tři lůžka, takže do budoucna to bude řešeno. V tuto chvíli tady ale nic pro ženy neexistuje.
 
-{% photo src="https://i.ohlasy.info/i/76c65f0f.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/76c65f0f.jpeg" author="Tomáš Znamenáček" /%}
 
 **Provozujete také poradnu pro lidi v exekucích. Těm mohla dnešní doba také přinést prohloubení problémů, ne?**
 

@@ -9,7 +9,7 @@ tags: historie
 
 *Před pěti sty lety druhý den po svátku Jana Křtitele, tedy 26. června 1520, zemřel na zámku v Letovicích jeden z nejvzdělanějších mužů své doby, muž s pestrým osudem, šlechtic a mecenáš Ladislav z Boskovic.*
 
-{% photo src="https://i.ohlasy.info/i/acb9cecf.jpeg" caption="Faksimile listiny z 21. října 1477, kterou pro městečko Boskovice vydal Václav z Boskovic a spolupečetili jeho synové Jaroslav a Ladislav" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/acb9cecf.jpeg" caption="Faksimile listiny z 21. října 1477, kterou pro městečko Boskovice vydal Václav z Boskovic a spolupečetili jeho synové Jaroslav a Ladislav" author="Muzeum regionu Boskovicka" /%}
 
 Ladislav byl předurčen pro duchovní dráhu, studoval na nejvýznamnějších universitách tehdejší Evropy, v čemž následoval svého strýce, olomouckého biskupa Tasa (Prothasia) Černohorského z Boskovic. Narodil se asi v roce 1455, což se usuzuje ze skutečnosti, že se v roce 1470 zapsal ke studiu na universitě ve Vídni, kdy mu patrně muselo být již 15 let, což bylo ve středověku považováno u chlapců za práh dospělosti (u dívek  to bylo 12–13 let). Následně studoval v Itálii ve Ferraře, kde byl jeho studijním kolegou jiný a v českých kulturních dějinách snad o něco známější humanista Bohuslav Hasištejnský z Lobkovic.
 

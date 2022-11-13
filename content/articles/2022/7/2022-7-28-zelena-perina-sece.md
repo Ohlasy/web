@@ -11,7 +11,7 @@ tags:
 
 *Boskovická iniciativa Zelená peřina reaguje ve společně vytvořeném textu na aktuální seče městských trávníků v Boskovicích. K článku připojujeme také otevřený dopis, který Zelená peřina adresovala odpovědnému místostarostovi Petru Malachovi (ČSSD). Pokud se ztotožňujete s názorem Zelené peřiny a chtěli byste se k otevřenému dopisu připojit, můžete tak učinit buďto podpisem v Knihkupectví Tomáše Špidlíka na Masarykově nám. 8/6 v Boskovicích anebo [online na této adrese](https://www.petice.com/oteveny_dopis_mistostarostovi_boskovic_odpovdnemu_za_plnni_ukol_na_useku_ivotniho_prostedi). Iniciativa připravila také [video, které stav sečí mapuje](https://www.youtube.com/watch?v=gPl_R0m2CXU).*
 
-{% photo src="https://i.imgur.com/i7eZT9v.jpg" caption="Trávník U Koupadel po městské seči" author="Tomáš Trumpeš" %}
+{% photo src="https://i.imgur.com/i7eZT9v.jpg" caption="Trávník U Koupadel po městské seči" author="Tomáš Trumpeš" /%}
 
 Minulý pátek 23. července a následující pondělí, kdy v Boskovicích panovaly tropické teploty, byla v celém městě (s opravdu drobnými výjimkami) provedena seč všech trávníků, a to i nízkých kvetoucích, na naprosto minimální výšku. Řadu obyvatel vyděsil výsledný stav trávníků – žluté plochy v celém městě, vydřené místy až na hlínu.
 

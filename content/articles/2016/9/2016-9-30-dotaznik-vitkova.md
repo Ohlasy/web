@@ -11,7 +11,7 @@ tags:
 
 *Před nadcházejícími volbami do senátu jsme oslovili kandidáty z našeho okrsku krátkou anketou na témata, která by pro voliče mohla být zajímavá. Odpovídá Jaromíra Vítková, místostarostka Boskovic kandidující do senátu za stranu KDU-ČSL.*
 
-{% photo src="https://i.ohlasy.info/i/asdpyzu.jpg" %}
+{% photo src="https://i.ohlasy.info/i/asdpyzu.jpg" /%}
 
 **1. Senátoři mohou podávat vlastní návrhy zákonů. Máte připravený nějaký konkrétní zákon, který byste chtěla navrhnout a prosadit?**
 

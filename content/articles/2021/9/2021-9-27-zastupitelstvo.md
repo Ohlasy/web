@@ -9,7 +9,7 @@ tags: politika
 
 *Třetí rok svého funkčního období uzavřeli boskovičtí zastupitelé jednáním, které se konalo v úterý 21. září v sokolovně. Hlavním tématem byla opět sportovní hala, diskusi ovšem poznamenalo, že navzdory předpokladům vedení města nebyly stále k dispozici podrobné podklady k návrhu architektů Alberto Kalacha a Zdeňka Fránka.*
 
-{% photo src="https://i.ohlasy.info/i/37206630.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/37206630.jpeg" author="Tomáš Trumpeš" /%}
 
 Hned na začátku jednání navrhl opoziční zastupitel a bývalý místostarosta Lukáš Holík (ANO) změnu v plánovaném programu jednání – chtěl, aby byl bod věnovaný informacím o sportovní hale projednán ještě před schvalováním rozpočtového opatření. V rámci toho totiž měli zastupitelé hlasovat o navýšení prostředků na projektovou dokumentaci sportovní haly, a proto chtěla mít opozice nejprve k dispozici informace. Vyjít vstříc opozici chtěli při hlasování dva koaliční zastupitelé – Karel Ošlejšek z ČSSD a Dagmar Hamalová z KDU-ČSL, s koalicí naopak hlasovali dva opoziční zastupitelé za STAN a Sportovce, takže návrh potřebnou podporu nezískal.
 

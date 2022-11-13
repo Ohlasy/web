@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Bude sportovní hala na Sušilově? Cenu 8,5 milionu za odkup potřebných soukromých nemovitostí, kterou stanovil znalec, považuje radnice za vysokou a chce o ní dál vyjednávat. Situace kolem sportovní haly se tak od jara prakticky nikam neposunula.*
 
-{% photo src="https://i.ohlasy.info/i/vizabjn.jpg" caption="Jízdárna" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/vizabjn.jpg" caption="Jízdárna" author="Tomáš Znamenáček" /%}
 
 Když se zhruba před půl rokem [objevil nápad](http://www.ohlasy.info/clanky/2017/05/hala-susilova.html), že by sportovní hala mohla stát u základní školy Sušilova na místě stávajících tělocvičen společně s propojením do bývalé haly v Jízdárně, jevilo se to jako [dobrý kompromis](http://www.ohlasy.info/clanky/2017/05/hala-reakce.html) mezi pohledem koalice, která od začátku vládnutí chce halu v Červené zahradě, a opozice, která naopak chce halu v centru města v blízkosti škol.
 
@@ -36,7 +36,7 @@ Otázkou je, zda město skutečně potřebuje Jízdárnu a nemůže halu v dané
 
 Problém ale není jen u pozemků Luďka Řehoře. Město v případě výstavby haly na Sušilově potřebuje také pozemek od majitele klubu Jízdárna Pavla Stary. Zmíněná parcela o velikosti 220 metrů čtverečních leží mezi tělocvičnou základní školy a bývalými šatnami haly v Jízdárně, které Pavel Stara také vlastní. A právě v tomto průchodu vede cesta, která je pro něj zásadní. „Je tam jediná cesta, po které se k mým nemovitostem dostanou auta nad 3,5 tuny. Zastavěním by město popřelo rozhodnutí hasičů, kteří by se tam jinak nedostali. Po silnici mezi Panským dvorem a skleníkem totiž s obtížemi projede větší dodávka,“ tvrdí Pavel Stara, jemuž město podle jeho slov nabídlo odkup za 500 korun za metr, dohromady tedy 110 tisíc.
 
-{% photo src="https://i.ohlasy.info/i/uupyeb9.png" caption="Přístupové cesty pro hasiče" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/uupyeb9.png" caption="Přístupové cesty pro hasiče" author="Mapy.cz" /%}
 
 Jedinou možností, jak vyhovět podmínce Pavla Stary, je vybudovat zcela novou komunikaci, která by vedla mezi Panským dvorem a hřištěm u základní školy směrem od parkoviště za muzeem. Podle Luďka Řehoře taková cesta nakonec může pomoci i samotné hale z druhé strany. „Celá ta lokalita, která je teď zanedbaná, by se tím i rekultivovala,“ řekl majitel Jízdárny a také Panského dvora.
 

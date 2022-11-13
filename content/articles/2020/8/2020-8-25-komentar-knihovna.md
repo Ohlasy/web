@@ -9,7 +9,7 @@ tags: knihovna
 
 *Boskovice stojí v současné době před důležitým rozhodnutím, zda se pustit do významné investiční akce, kterou je stavba nové knihovny. Projekt je v pokročilé fázi přípravy a podle předběžných odhadů by jeho cena měla přesáhnout 100 milionů korun. Vzhledem k závažnosti tohoto kroku není, myslím, od věci vrátit se znovu na úplný začátek a říct si, co za vynaložené prostředky město a region získají, co lze očekávat a hlavně, jestli se to celé vlastně vyplatí.*
 
-{% photo src="https://i.ohlasy.info/i/caa850e4.jpg" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/i/caa850e4.jpg" author="Fránek Architects" /%}
 
 Hned na úvod však musím předeslat, že se v následujícím textu nehodlám nijak zabývat konkrétním boskovickým projektem, jde mi mnohem spíše o postižení obecných principů a trendů vycházejících z proměnlivé role knihoven uprostřed měnícího se světa. Samozřejmě tím riskuji, že se budu pouze lámat do otevřených dveří a přesvědčovat přesvědčené, věřím však, že někdy je dobré připomenout si i uprostřed rozdělané práce, k čemu je to celé vlastně dobré.
 

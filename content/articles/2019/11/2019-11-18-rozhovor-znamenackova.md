@@ -8,7 +8,7 @@ tags: politika
 
 *Rozhovor s Kristýnou Znamenáčkovou, zastupitelkou za Piráty. Ti jako nováčci na místní politické scéně získali v minulých volbách tři zastupitelské mandáty, ale skončili v opozici. Mluvili jsme hlavně o tom, jakou zkušenost během prvního roku v politice udělali.*
 
-{% photo src="https://i.ohlasy.info/i/d9263b7a.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/d9263b7a.jpg" author="Tomáš Znamenáček" /%}
 
 **Pořádáte setkání s voliči, nazvali jste je Rok na radnici. Neměla by se ta akce jmenovat spíš Rok ve skleníku, kde probíhají jednání zastupitelstva?**
 
@@ -76,7 +76,7 @@ Třeba. A pak samozřejmě horolezecká stěna.
 
 Ano. Bylo by to super, ale v tomto ohledu jsme s ostatními stranami nekomunikovali, nebo jen neformálně. Teď je varianta, že by horolezecká stěna byla ve sportovní hale na Hybešově. To mi přijde jako kompromis, který už nepovede k tomu, aby pak stála stěna i na letním kině, což je škoda. Ale pořád je to lepší než drátem do oka.
 
-{% photo src="https://i.ohlasy.info/i/d2154f1a.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/d2154f1a.jpg" author="Tomáš Znamenáček" /%}
 
 ### Participativní rozpočet
 
@@ -112,7 +112,7 @@ Asi zatím není. Na schůzkách opozice to několikrát v konkrétních přípa
 
 Myslím, že ano. My zrovna ano, pokud by to nebylo úplně v rozporu s naším přesvědčením.
 
-{% photo src="https://i.ohlasy.info/i/272bde3e.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/272bde3e.jpg" author="Tomáš Znamenáček" /%}
 
 ### Naše soukromé komise
 

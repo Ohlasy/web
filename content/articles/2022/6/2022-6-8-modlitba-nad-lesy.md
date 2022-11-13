@@ -10,7 +10,7 @@ tags:
 
 *Krátká úvodní řeč Tomáše Trumpeše a rozhovor s malířem Vítem Ondráčkem u příležitosti zahájení jeho výstavy v brněnské [galerii Platinium](https://www.galerieplatinium.cz/) na ulici Veveří. Výstava zde potrvá do konce srpna.*
 
-{% photo src="https://i.ohlasy.info/i/8ccf6f0a.jpg" caption="Z cyklu Modlitba nad lesy, výřez" %}
+{% photo src="https://i.ohlasy.info/i/8ccf6f0a.jpg" caption="Z cyklu Modlitba nad lesy, výřez" /%}
 
 Při jednom z přátelských posezení v boskovické hospodě Turbína – podle autora návrhu stavby, v níž se nachází, někdy zvané *U Jurkoviče* – zasáhl malíř Vít Ondráček před několika lety do probíhající debaty slovy: „No jo, ale věci jsou bolestně ambivalentní.“ Už nevím, na čí a jaká příliš jednostranná a zjednodušující tvrzení reagoval, ale ta věta mi uvízla v paměti a v různých situacích se mi stále vrací: „Věci jsou bolestně ambivalentní.“
 

@@ -9,7 +9,7 @@ tags: politika
 
 *Další pravidelná schůze boskovického zastupitelstva se konala v úterý odpoledne v zámeckém skleníku. Hlavním tématem diskusí byla nemocnice, ale jednání se dotklo i dalších pro město důležitých bodů, jako je dopravní situace, rekonstrukce letního kina, Boskovická spojka či sportpark. Celkově se jednání neslo v poměrně klidném a bezkonfliktním duchu.*
 
-{% photo src="https://i.ohlasy.info/i/cls88fz.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/cls88fz.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" /%}
 
 Úvod zastupitelstva jako v poslední době obvykle provázelo mlčení v bodu Dotazy a připomínky občanů. Diskutovat se zvolenými zástupci nepřišel nikdo z obyvatel.
 

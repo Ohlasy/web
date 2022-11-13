@@ -9,7 +9,7 @@ tags: politika
 
 *Už polovinu mandátu senátorky má za sebou boskovická politička Jaromíra Vítková. Podívali jsme se na to, jak si stojí po třech letech v horní komoře českého parlamentu a zda dokázala prosadit některé ze slibů, které voličům dala.*
 
-{% photo src="https://i.ohlasy.info/i/f7e43583.jpg" caption="Jaromíra Vítková v Senátu" author="Kancelář Senátu" %}
+{% photo src="https://i.ohlasy.info/i/f7e43583.jpg" caption="Jaromíra Vítková v Senátu" author="Kancelář Senátu" /%}
 
 Stěžejním bodem kampaně Jaromíry Vítkové byl [tlak na výstavbu alespoň severní části dálnice D43](https://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html). I když je senátorkou, začala v regionu jako běžná občanka sbírat podpisy pod petici, kterou pak donesla do Senátu. Ten ji loni v červenci projednal a uzavřel apelem na ministerstvo dopravy či Ředitelství silnic a dálnic, aby kroky k výstavbě D43 činily co nejrychleji. Jak je však v usnesení uvedené, jedná se pouze o žádost, senátoři nemohou zmíněným institucím nic nařizovat.
 

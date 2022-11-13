@@ -9,7 +9,7 @@ tags: historie koronavirus
 
 *Rozhovor s Milanem Vaněrkou, kastelánem boskovického zámku i hradu. Na novou pozici nastoupil v říjnu minulého roku s vizemi změn. Začátek jeho první sezóny zasáhla karanténní opatření, takže jsme si povídali o tom, co plánoval, jaká je situace na zámku a na hradě, co už se změnilo a co dalšího se chystá.*
 
-{% photo src="https://i.ohlasy.info/i/013037b5.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/013037b5.jpeg" author="Tomáš Znamenáček" /%}
 
 **Milane, máte otevřeno pár dní tady na zámku, na hradě pár týdnů. Ale přece jenom se tě zeptám, jaké jsou první signály, jak se chovají lidé po karanténě – vyrazili na památky, nebo jsou opatrní?**
 
@@ -33,7 +33,7 @@ To je jedna věc, ale já si myslím, že zahraniční destinace sníží ceny, 
 
 Problém jsou kulturní akce, protože všichni mají strach a v podstatě všechno je zatím zrušeno na dobu neurčitou. A bude se to řešit v průběhu sezóny. Firemní a komerční akce se začínají pomalu rozjíždět. Ale firmy obrací každou korunu a snaží se ušetřit i tady tímto směrem. Takže uvidíme. My samozřejmě upravujeme nabídku, ceny máme smluvní, tím pádem se dá domluvit vždy na všem. Celkově to nedokážu odhadnout, jestli budeme mít vyšší, nebo nižší návštěvnost oproti loňskému roku. Je to opravdu sázka do loterie.
 
-{% photo src="https://i.ohlasy.info/i/3a27bd04.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3a27bd04.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Živý objekt, ne mrtvá expozice
 
@@ -55,7 +55,7 @@ Do některých místností se sáhlo víc a změna je tam hodně citelná. V ně
 
 Přesně tak. Trend vracet hrady a zámky do té původní podoby, kdy je v určité době využívali majitelé, je trendem památkového ústavu už více než deset let. Z toho důvodu jsem sem byl přijatý, abych to takto změnil, protože jsem na památkovém ústavu pracoval. Chceme se tím dorovnat a ještě oproti státním objektům přidat hodnotu toho, že zámek je v soukromých rukou a neustále se zde žije, majitelé zde bydlí. Návštěvníci mohou o to víc zavnímat, že objekt je opravdu živý a není to pouze mrtvá expozice. Proto jsou i v prohlídkové trase nové věci, které doplňují stávající majitelé, ať už je to pan Dominik nebo pan Hugo.
 
-{% photo src="https://i.ohlasy.info/i/74343b48.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/74343b48.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Do tří let soběstačný hrad a zámek
 
@@ -85,7 +85,7 @@ Toto je moje vize do tří let, aby hrad a zámek byly v podstatě soběstačné
 
 Havárie může bohužel přijít kdykoliv a nechci, aby něco takového nastalo. Je nachystaných několik projektů, tady na zámku aktuálně hlavní rekonstrukce kanalizace a s tím spojená právě rekonstrukce sociálního zařízení pro návštěvníky. Na hradě probíhají běžné údržbářské práce. Musím říct, že oba dva objekty jsou v relativně dobrém stavu, když to srovnám s některými státními hrady a zámky. Máme novou fasádu, novou střechu, zámek je staticky v pořádku. Hrad až na pár detailů v podstatě taky, ale je to zřícenina, tam se pořád něco řítí, my se pouze snažíme prodloužit ten poločas rozpadu. Ale mým úkolem je právě i chystat projekty, abychom mohli dosáhnout na státní dotace, které jsou určeny pro kulturní památky.
 
-{% photo src="https://i.ohlasy.info/i/368585cd.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/368585cd.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Podřídit se 21. století
 

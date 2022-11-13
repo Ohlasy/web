@@ -10,7 +10,7 @@ tags:
 
 *Jedenadvacet schůzí mají za sebou boskovičtí zastupitelé za končící volební období. Ohlasy se proto podívaly, jak právě na těchto schůzích, které jsou ze zákona povinné, jsou volení zástupci aktivní, či naopak jak často se omlouvají.*
 
-{% photo src="https://i.ohlasy.info/i/5419bc3b.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/5419bc3b.jpeg" author="Tomáš Trumpeš" /%}
 
 K porovnání aktivity jednotlivých zastupitelů jsme zvolili stejnou metodu jako už v předcházejícím volebním období, kdy jsme podobně [zaznamenali aktivitu](https://ohlasy.info/clanky/2017/01/aktivita-zastupitelu.html) zhruba v polovině mandátu tehdy zvolených politiků. Jeden bod jsme udělili za to, když byl zastupitel nejen přítomen, ale aktivně se zapojil do debaty a nesloužil jen jako spolehlivý mačkač hlasovacího tlačítka či zvedač ruky. Pokud zastupitel celou dobu mlčel, nedostal bod žádný, a pokud nebyl přítomen vůbec, jeden bod se mu odečetl. Na výsledky se můžete podívat v následujícím grafu a případně také v [kompletní tabulce výsledků](https://docs.google.com/spreadsheets/d/1y-dlpD01e1y4WdwQOkrz6YUY_nt71HO6cTYLmu9AHcA/edit?usp=sharing):
 

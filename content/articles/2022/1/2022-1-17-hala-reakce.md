@@ -10,7 +10,7 @@ tags:
 
 *Koncem loňského roku zveřejnilo vedení města Boskovice [rozpracované návrhy nové sportovní haly](https://www.boskovice.cz/vystavba-sportovni-haly-v-boskovicich/d-43103) od místní projektantské firmy AV Atelier. Místostarostka Michaela Žejšková zároveň vyzvala, aby jí zainteresovaní zájemi poslali do 7. ledna své připomínky. Svoje podněty následně zveřejnil Spolek za rozvoj architektury Boskovic, Ohlasům se kromě toho podařilo získat připomínky dalších odborníků a oslovili jsme také některé architekty s vazbou na Boskovice. Z reakcí vyplývá, že nad aktuálním návrhem nadšení nepanuje.*
 
-{% photo src="https://i.ohlasy.info/i/b7fe0ad8.jpeg" caption="Nový návrh sportovní haly" author="AV Atelier" %}
+{% photo src="https://i.ohlasy.info/i/b7fe0ad8.jpeg" caption="Nový návrh sportovní haly" author="AV Atelier" /%}
 
 Předmětem kritiky není ani tak estetika stavby, i když i k té se odborníci částečně vyjadřují, ale především její funkční řešení. Vedle toho se především architekti znovu pozastavují nad procesem, jakým stavba v Boskovicích vzniká. 
 
@@ -28,7 +28,7 @@ K uvážení je podle SRABu velkorysé řešení restaurace, mimo jiné s přihl
 
 „Zvolený obvodový plášť působí těžkopádně, nedoporučujeme takový kontrast s historickými budovami a drobnými stavbami okolní zástavby,“ vyjádřili se členové SRABu také ke vnějšímu vzezření stavby. Na závěr doporučují konzultovat návrh s požárním specialistou.
 
-{% photo src="https://i.ohlasy.info/i/a1a971cf.jpeg" caption="Nový návrh sportovní haly" author="AV Atelier" %}
+{% photo src="https://i.ohlasy.info/i/a1a971cf.jpeg" caption="Nový návrh sportovní haly" author="AV Atelier" /%}
 
 Samostatně svoje připomínky vypracoval architekt Petr Ondráček. Prezentovaný návrh podle něj potvrzuje skutečnost, jak moc v hledání nejlepšího řešení schází možnost porovnat v jeden okamžik vícero řešení a z nich vybrat to opravdu nejlepší. „Je škoda, že v lepším případě tu budeme teď opět nějaký čas upravovat a přepracovávat – mnohdy možná i docela zásadně – navržené řešení, místo toho, abychom si vybrali z více řešení to, které požadavkům zadání a kvalitou vnitřní dispozice a exteriérového řešení vyhovuje už nyní a tento návrh pak pouze dle potřeby kosmeticky doladili.“
 
@@ -44,7 +44,7 @@ Za praktické nepokládá umístění zázemí pro televizní štáb, a to vzhle
 
 Petr Ondráček také upozorňuje na změnu v zadání výšky lezecké stěny a v návrhu mu chybí řez stěny s okótovanou výškou. Chybí také sklad pro zázemí lezců.
 
-{% photo src="https://i.ohlasy.info/i/36596409.jpeg" caption="Nový návrh sportovní haly" author="AV Atelier" %}
+{% photo src="https://i.ohlasy.info/i/36596409.jpeg" caption="Nový návrh sportovní haly" author="AV Atelier" /%}
 
 Seznam dvaceti připomínek zaslali městu také zástupci boskovické politické divize Sportovců. Opět se jedná především o ryze praktické připomínky a požadavky. Kupříkladu přemístit kancelář správce ze druhého patra ke vstupu, řešit odpadové hospodářství, špatný přístup k nářaďovnám a jejich malý rozměr či absenci úklidové místnosti. Dále požadují přemístit časomíru a střídačky.
 
@@ -60,7 +60,7 @@ V úterý 11. ledna se na radnici k návrhu AV Atelieru konal také speciální 
 
 A jasně také rozporuje, že by se předložený návrh mohl vejít do stanoveného limitu 150 milionů korun. „Jsem dostatečně zdatný na to, abych si spočítal obestavěný prostor stavby, když mně na semináři nebyl sdělen. Ten je cca 45 tisíc metrů krychlových,“ spočítal zastupitel Jiří Pevný. Při jednotkové ceně asi 7 tisíc korun za kubík, což odpovídá zvolené konstrukci, tak vychází cena asi na 320 milionů korun.
 
-{% photo src="https://i.ohlasy.info/i/09948c6b.png" caption="Nový návrh sportovní haly" author="AV Atelier" %}
+{% photo src="https://i.ohlasy.info/i/09948c6b.png" caption="Nový návrh sportovní haly" author="AV Atelier" /%}
 
 Také architekt Mirko Lev, absolvent boskovického gymnázia, který působí v České komoře architektů, se pozastavuje především nad tím, že městem prezentovaný návrh není kompletním návrhem stavby dle standardů profese architektů a inženýrů. „Základem pro každý kvalitní návrh stavby je řešení urbanismu, umístění, vazby na okolí a s tím spojený dopad – potenciál pro blízké okolí a město. Toto není součásti prezentované části návrhu, jehož výkresy nemají ani severku. Bez umístění nelze odpovědně projektovat ani vnitřní vazby budovy. Není ani známo, zda je návrh v souladu s územní studií, která byla zpracovaná na toto území, respektive její poslední verzi prezentovanou a odsouhlasenou městem,“ upozorňuje Mirko Lev.
 

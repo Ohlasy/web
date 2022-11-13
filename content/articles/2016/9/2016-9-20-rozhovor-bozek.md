@@ -8,7 +8,7 @@ tags: kultura
 
 *Rozhovor s Dominikem Božkem, ředitelem společnosti MP Holding, která spravuje majetek rodiny Mensdorff-Pouilly, mimo jiné i boskovický hrad. Ten po více než třech desítkách let opouští kastelán Jiří Mazal, který v posledních takřka dvaceti letech hrad provozoval jako soukromý nájemce. Majitelé hradu se rozhodli tuto spolupráci ukončit. Dominika Božka jsme se proto zeptali na důvody a také na další plány s touto unikátní památkou tyčící se nad Boskovicemi.*
 
-{% photo src="https://i.ohlasy.info/i/o1ijqgo.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/o1ijqgo.jpg" author="Tomáš Trumpeš" /%}
 
 **Proč došlo po tolika letech k ukončení spolupráce s Jiřím Mazalem, který měl hrad v pronájmu?**
 

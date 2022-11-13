@@ -9,7 +9,7 @@ tags: vzdělávání
 
 *Rozhovor se Zorou Javorskou z kunštátské [lesní školky Jelínek](http://www.lsjelinek.cz/). Lesní školky získaly od státu možnost vstoupit do oficiálního vzdělávacího systému pro předškoláky a právě v Kunštátě se na tuto změnu také připravují. Proto nás zajímalo, v čem změna spočívá, co pro ně bude znamenat a jak vlastně lesní školky fungují a jaký mají pro děti přínos.*
 
-{% photo src="https://i.ohlasy.info/i/xqzboyt.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xqzboyt.jpg" author="Tomáš Znamenáček" /%}
 
 **Legislativa týkající se lesní školek se významně změnila. V čem změna spočívá?**
 
@@ -99,7 +99,7 @@ V rozpočtu to zakalkulované není a rezerva, kterou máme, by na roční náje
 
 Máme díky městu super zázemí. Když vidíte ten areál, úplně k tomu vybízí. Je to nádherný oplocený pozemek na konci obce a krásná chata.
 
-{% photo src="https://i.ohlasy.info/i/w0iiwnw.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/w0iiwnw.jpg" author="Tomáš Znamenáček" /%}
 
 **Jaký je mezi rodiči zájem o lesní školky?**
 
@@ -159,7 +159,7 @@ My teď máme hudební kroužek a ten kluk, co ho vede, chodí i do klasických 
 
 Ano. Záleží, jak se na to díváte. Přístupů, pohledů a koncepcí je spousta. Rozhodně jsou naše děti své. Ale o to se snažíme. Chceme dát maximální prostor dětem, aby to někam vedlo, plus to neohrožovalo nikoho jiného. Les je na to velmi dobrý. Vzniká zde spousta „dramatických“ situací, děti se například zamotají v ostružinách nebo si sednou do mraveniště. V těchto situacích vidíte, jak kolektiv perfektně funguje. Starší děti řeší krizi, ví, co mají dělat, pomáhají menším. Děti jsou zvyklé řešit věci, které nepředvídaly, protože jsou v lese, ne v ohrádce, kterou dobře znají. Mají různá prostředí, v různých ročních obdobích. To pořád zkoumají – led, který se rozpouští, bahníčka – vodní koloběh je pro ně skvělý.
 
-{% photo src="https://i.ohlasy.info/i/hp54520.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hp54520.jpg" author="Tomáš Znamenáček" /%}
 
 **Den, který tráví ve školce, ale tedy není jen potloukání se po lese? Jak takový den v lesní školce vypadá? Má nějakou strukturu?**
 

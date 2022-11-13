@@ -9,7 +9,7 @@ tags: historie
 
 *Minulý měsíc jsme si připomněli 170 let od narození prvního československého prezidenta T. G. Masaryka. Je pozoruhodné, jak byl nejen za svého života, ale i po smrti objektem jak značné až nekritické úcty, tak i nenávisti.*
 
-{% photo src="https://i.ohlasy.info/i/6f8fce27.jpeg" caption="Rok 1934" author="archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/6f8fce27.jpeg" caption="Rok 1934" author="archiv Muzea regionu Boskovicka" /%}
 
 Fotografie ze sbírky Muzea regionu Boskovicka, které dokumentují zejména slavnostní odhalování Masarykovy sochy v Boskovicích, netvoří sice ucelený soubor, některé jsou součástí alb, jiné byly získány jako jednotliviny či menší celky, ale alespoň zčásti dokládají spletité osudy sochy zakladatele československého státu. 
 
@@ -19,7 +19,7 @@ Základní kámen byl slavnostně položen v pátek 28. září 1934, vystoupil 
 
 Za okupace byla Masarykova socha odstraněna a v utajení, aby se zabránilo jejímu zničení, byla ukryta na Dvou dvorech, kde přečkala až do konce války.
 
-{% photo src="https://i.ohlasy.info/i/a02935d1.jpeg" caption="Rok 1945" author="archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/a02935d1.jpeg" caption="Rok 1945" author="archiv Muzea regionu Boskovicka" /%}
 
 V neděli 15. července 1945 dopoledne byl znovu odhalen před budovou okresního úřadu pomník presidenta Osvoboditele za velké účasti tisíců občanů z města a okolí. „Velký průvod seřadil se u nádraží, odkud za řízných pochodů městské hudby kráčel ulicemi po náměstí k místu slavnosti, kde na původním místě zářil vkusně růžemi a kvítím ozdobený pomník, oslněný zlatými paprsky letního slunce a vítal mnohé svoje známé a dávné ctitele,“ zapsal tehdejší kronikář Josef Korec. Učitel a kandidát filosofie Antonín Sychra ve svém projevu probral „životní dílo prezidenta Osvoboditele, jeho postoj ke světovým a národním otázkám, jeho boj za pravdu a očistu národního života a odstranění klamů a omylů.“ „Studiem spisů a děl velikého myslitele zušlechtíme svoje myšlení a zušlechtíme svůj život,“ zakončil projev Sychra. Slavnost, z níž „účastníci odcházeli potěšeni jako z návštěvy od dobrého tatíčka“, byla ukončena národní hymnou.
 
@@ -35,7 +35,7 @@ Zcela se vytratily připomínky spjaté s naší státností, na úkor výročí
 
 Třebaže osobnost prvního československého prezidenta se stala v novém komunistickém režimu nežádoucí, jeho socha vydržela stát před okresním úřadem ještě celých 10 let, než „v noci z 20. na 21. dubna 1959 skupinka komunistů a členů Lidových milicí sochu s pomocí traktoru vandalsky strhla a úlomky rozemlela v pískovém lomu v Doubravech,“ jak zapsal do kroniky dr. Jaroslav Bránský pozdější osudy Masarykova pomníku.
 
-{% photo src="https://i.ohlasy.info/i/af7b71c8.jpeg" caption="Rok 1991" author="archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/af7b71c8.jpeg" caption="Rok 1991" author="archiv Muzea regionu Boskovicka" /%}
 
 V roce 1990 přišel s návrhem na obnovení Masarykova pomníku Karel Kovář, ředitel městských kin, který ve své kanceláři v kině ukrýval původní třetinový model sochy a se svým záměrem seznámil dr. Jaroslava Bránského, nápomocen při tom byl i místopředseda MěstNV Jaroslav Vodák.  K vytvoření nové sochy byl použit kvádr hořického pískovce, který byl přivezen v roce 1934 jako rezerva a nacházel se na dvoře Drbalova domu, na jehož na půdě byl nalezen i sádrový model hlavy T. G. Masaryka, kterou Schmidt vytvořil jako studii pro původní sochu. Práci na kopii sochy provedli kamenosochaři Josef Leitgeb a jeho syn Jan z Blanska, kteří navrhli a zajistili i osazení sochy. O umístění nové Masarykovy sochy proběhla tehdy anketa – ze tří návrhů: před radnicí, v parku u základní školy na náměstí 9. května, nebo na původním místě před budovou bývalého okresního úřadu, nejvíce hlasů obdržela varianta zachovávající původní umístění. Na uhrazení nákladů se složili občané téměř 10 000 Kčs, podnik Minerva 69 000 Kčs a 30 000 Kčs Městský úřad. Slavnostní projev při odhalení Masarykovy sochy 28. října 1991 přednesl univ. prof. Jaroslav Mezník z Masarykovy univerzity v Brně; s projevem vystoupil i starosta města ing. Zdeněk Měcháček, přítomno bylo asi 1000 občanů. V podvečer se sešli účinkující a přizvaní hosté v hotelu Velen k přátelskému posezení, jehož náklady uhradil sochař Josef Leitgeb.
 

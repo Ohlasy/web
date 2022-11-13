@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Vývoj opatření proti šíření koronaviru zatím postupuje velice rychle. A společnost ukazuje, jak může být flexibilní. Jeden den vypadáte při nákupu s rouškou trochu jako vetřelec, za dva dny už jako vetřelec vypadá ten, kdo roušku nemá, a za další den už jsou roušky povinné.*
 
-{% photo src="https://i.ohlasy.info/i/f0fc7d26.JPG" author="Kamila Hrnčířová" %}
+{% photo src="https://i.ohlasy.info/i/f0fc7d26.JPG" author="Kamila Hrnčířová" /%}
 
 Další a další opatření postupně nabíhají, nejsou příjemná, ale neprožíváme zrovna epochu doby příjemné a musíme se s tím vyrovnat. Z úst odborníků opatrně zaznívá, že v různých obměnách může tato epocha trvat docela dlouho. Někdo mluví o třech měsících, někdo o pěti měsících a někdo dokonce o dvou letech.
 

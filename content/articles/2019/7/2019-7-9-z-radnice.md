@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku července. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři starosty Jaroslava Dohnálka (ODS) z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/md9nhat.jpg" caption="Vizualizace budovy pod plátnem letního kina" %}
+{% photo src="https://i.ohlasy.info/i/md9nhat.jpg" caption="Vizualizace budovy pod plátnem letního kina" /%}
 
 ### Dokončení letního kina
 

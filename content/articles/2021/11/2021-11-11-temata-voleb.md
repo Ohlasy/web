@@ -11,7 +11,7 @@ tags:
 
 *Rok před komunálními a senátními volbami jsme se pokusili zmapovat situaci a náladu v jednotlivých stranách. Postupně se věnujeme plánům a ambicím politiků, volebním tématům a roztříštěnosti boskovické politické scény. V [prvním dílu](https://ohlasy.info/clanky/2021/11/kandidati.html) jsme zjišťovali, kdo z politiků hodlá znovu kandidovat. Díl druhý: Co vidí politici jako důležitá témata?*
 
-{% photo src="https://i.ohlasy.info/i/0cd85a0f.jpg" caption="Ilustrační foto" author="Zdeněk Tesař" %}
+{% photo src="https://i.ohlasy.info/i/0cd85a0f.jpg" caption="Ilustrační foto" author="Zdeněk Tesař" /%}
 
 Osloveným politikům jsme položili rovněž otázku, jaká vidí hlavní témata, která by mohla v boskovických volbách za necelý rok rezonovat.
 

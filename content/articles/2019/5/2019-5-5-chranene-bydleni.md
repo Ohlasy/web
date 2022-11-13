@@ -10,7 +10,7 @@ tags:
 
 *Soužití s lidmi se zdravotním postižením se stalo tématem, kvůli kterému se na náš region a hlavně na Svitávku upřela pozornost celé republiky. Komentář pro Ohlasy napsala Irena Přibylová, vedoucí sociálně terapeutických dílen z boskovického zařízení Betany.*
 
-{% photo src="https://i.ohlasy.info/i/jabwx9m.jpg" author="Vladěna Jarůšková" %}
+{% photo src="https://i.ohlasy.info/i/jabwx9m.jpg" author="Vladěna Jarůšková" /%}
 
 V posledních dnech občany napříč celou republikou zasáhla [vyhrocená diskuze o výstavbě chráněného bydlení ve Svitávce](https://ohlasy.info/clanky/2019/02/rozhovor-wetterova.html). Svůj nový domov tam mělo nalézt několik lidí s mentálním postižením bydlících v současné době v zařízení sociálních služeb ve Velkých Opatovicích.
 

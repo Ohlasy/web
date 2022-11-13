@@ -8,7 +8,7 @@ tags: kultura
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z poměrně bohaté nabídky akcí. Gianniho kulturní výběr přináší tipy na několik událostí, které autor této rubriky pokládá za obzvlášť zajímavé a o kterých se domnívá, že by je bylo škoda v nadcházejícím měsíci minout.*
 
-{% photo src="https://i.ohlasy.info/i/20491056.jpg" caption="Flétnistka Michaela Koudelková zahraje s klavíristou Jiřím Hrubým v neděli 5. ledna v Galerii Otakara Kubína" author="Jarosław Budzyński" %}
+{% photo src="https://i.ohlasy.info/i/20491056.jpg" caption="Flétnistka Michaela Koudelková zahraje s klavíristou Jiřím Hrubým v neděli 5. ledna v Galerii Otakara Kubína" author="Jarosław Budzyński" /%}
 
 ### Novoroční koncert s přípitkem starostky
 

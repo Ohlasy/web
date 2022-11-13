@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Poslední roky trpí česká krajina nedostatkem vody. Výjimkou není ani Boskovicko, kde byla i letos vydávána opatření na omezení odběru pitné vody, například k napouštění bazénů či mytí aut. V redakci jsme se proto rozhodli, že bychom o situaci měli informovat.*
 
-{% photo caption="Suchá tráva na hřišti, ilustrační foto" src="https://i.ohlasy.info/i/im96qwa.jpg" author="Tomáš Znamenáček" %}
+{% photo caption="Suchá tráva na hřišti, ilustrační foto" src="https://i.ohlasy.info/i/im96qwa.jpg" author="Tomáš Znamenáček" /%}
 
 A jak lépe informovat než formou rozhovoru s ředitelem boskovické divize Vodárenské akciové společnosti Petrem Fialou, tedy šéfem společnosti, která má na starosti dodávky pitné vody v celém regionu. Kdo jiný by k této problematice měl vědět více než právě on.
 

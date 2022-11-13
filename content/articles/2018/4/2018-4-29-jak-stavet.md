@@ -9,7 +9,7 @@ featured: true
 
 *Veřejné stavby by měly vznikat na míru těm, kdo je budou používat. Zní to triviálně, ale u těch boskovických se to příliš nedaří. Tentýž problém existuje i na celostátní úrovni, ale u nás na malém městě máme lepší šanci jej překonat. Nejde totiž o tlaky velkých zájmových skupin, jako spíš o schopnost a ochotu našich zastupitelů se dohodnout, nechtít rozhodovat o všem a dodržovat u veřejných investic jasný, systematický postup.*
 
-{% photo src="https://i.ohlasy.info/i/ehfnmc9.jpg" caption="Jáma po zrušené stavbě sportovní haly" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ehfnmc9.jpg" caption="Jáma po zrušené stavbě sportovní haly" author="Tomáš Znamenáček" /%}
 
 Když jsme před více než deseti lety rekonstruovali krytý bazén, [s plavci ho prakticky nikdo nekonzultoval](http://stare.boskovicko.cz/cislo.phtml?iss_id=68#art_2216). Když zhruba před dvěma lety začala rekonstrukce letního kina, ani místní kinaři do poslední chvíle nevěděli, jaká je [plánovaná kapacita nového hlediště](http://www.ohlasy.info/clanky/2016/09/letni-kino-kapacita.html). A dnes projektujeme komunitní centrum s knihovnou, aniž by ona *komunita*, která je přímo v názvu stavby, vlastně věděla, jak má centrum fungovat. (Natož aby o tom mohla rozhodovat!)
 

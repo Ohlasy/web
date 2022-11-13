@@ -9,7 +9,7 @@ serial: ghetto
 
 *Dne 14. května 1948 vyhlásil v sále telavivského muzea David Ben Gurion samostatný stát Izrael a stal se jeho prvním premiérem. Za státní znak byla zvolena menora, sedmiramenný svícen, státní vlajka dostala barvy modlitebního šálu, talitu, modrou a bílou s Davidovou hvězdou uprostřed. Sen mnoha generací Židů byl splněn. Cesta k němu byla dlouhá a strastiplná.*
 
-{% photo src="https://i.ohlasy.info/i/ddgks7s.jpg" caption="David Ben Gurion čte Deklaraci nezávislosti Státu Izrael, 14. května 1948" author="Rudi Weissenstein" %}
+{% photo src="https://i.ohlasy.info/i/ddgks7s.jpg" caption="David Ben Gurion čte Deklaraci nezávislosti Státu Izrael, 14. května 1948" author="Rudi Weissenstein" /%}
 
 Svou byť v té době už jen formální samostatnost ztratila římská provincie Judea po prohrané Židovské válce v letech 66–70 n.l., kdy se nejednotní, početně slabí a nedostatečně vyzbrojení Židé pokoušeli zvítězit nad mocným Římem, pod jehož faktickou nadvládou již delší dobu žili. Válka skončila prohrou Židů, zničením jeruzalémského chrámu v roce 70 n.l. a postupným odcházením Židů do takzvané diaspory čili vyhnanství do nejrůznějších částí světa. Římané usilovali o úplné zapomenutí na Judeu a začali toto území nazývat Palestina, jako připomínku tehdy již dávno neexistujícího národa Pelištejců, kdysi úhlavních nepřátel Židů.
 

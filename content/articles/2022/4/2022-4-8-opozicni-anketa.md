@@ -7,7 +7,7 @@ category: ankety
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ANO, Pirátů, Sportovců a KSČM.*
 
-{% photo src="https://i.ohlasy.info/i/03a0fc90.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/03a0fc90.jpg" author="Tomáš Znamenáček" /%}
 
 **Pokud městská rada zadá [vypracování projektové dokumentace na sportovní halu](https://ohlasy.info/clanky/2022/03/hala-projekt.html) za více než 8 milionů korun, znamená to pro vás, že pokud byste po volbách usedli ve vedení města, halu podle návrhu AV Atelieru dokončíte? Nebo byste byli ochotní projekt i tak zrušit a hledat pro halu jiné řešení?**
 

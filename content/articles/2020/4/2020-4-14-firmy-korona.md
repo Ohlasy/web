@@ -9,7 +9,7 @@ tags: koronavirus podnikání
 
 *Firmy v Boskovicích se přizpůsobují poptávce po rouškách a dezinfekci a rozšiřují svou výrobu či nabídku o tento sortiment. Část z nich předpokládá, že bude zboží nabízet i po odeznění koronavirové krize.*
 
-{% photo src="https://i.ohlasy.info/i/b8e1d6c6.jpg" caption="Výroba roušek ve firmě LS Seating" author="Archiv LD Seating" %}
+{% photo src="https://i.ohlasy.info/i/b8e1d6c6.jpg" caption="Výroba roušek ve firmě LS Seating" author="Archiv LD Seating" /%}
 
 Vedení Boskovic se pochlubilo zejména spoluprací s boskovickým výrobcem kancelářských židlí – firmou LD Seating, podobných společností, které reagovaly na vývoj koronaviru, je však ve městě více. U LD Seating to navíc byla jednorázová akce, v rámci které zaměstnanci šili roušky jako dar městu. „Pokud by bylo i v budoucnu potřeba, můžeme se k tomu vrátit, ale opět by to bylo jako dar, nechystáme roušky šít dál a přímo prodávat. Museli jsme se už vrátit k našim klasickým zakázkám židlí, u nichž teď máme menší skluz,“ vysvětlil vedoucí marketingu firmy Jakub Huráb.
 

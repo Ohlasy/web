@@ -7,7 +7,7 @@ author: Jiří Bureš
 
 *Rozžíháme svíce, hoří v kruhu na adventním věnci, později na vánočním stromu. Plápolající knoty se chvějí, působí křehce, a tím připomínají Kristovu pozemskou cestu; namísto Všemocného přichází dítě, poselství lásky nese do nebezpečného světa nepatrný tvor. I tam, kde svíce nahradila bezpečnější elektrická verze, kde se po stromku vinou hadi s žárovkami, připomínají malá světla zářící ve ztemnělých pokojích pokoru, jakou znala doba našich předků, kdy se ještě muselo světlem šetřit. Trocha vosku, knot, jedna chemická reakce, kolik z toho mála člověk dostává?*
 
-{% photo src="https://i.ohlasy.info/i/pr729t2.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/pr729t2.jpg" author="Tomáš Trumpeš" /%}
 
 Závěr roku 2015 dal svícím ještě jiný význam. Hořely před pařížským hudebním klubem Battaclan, u francouzského národního stadionu, a následně i v mnoha městech světa na památku obětí vražedného útoku. Desetitisíce světel a tichých, důstojných vzpomínek. A mohlo těch světel být víc, ve vřavě a vášních zaniklo, že teror zasáhl i libanonský Bejrút nebo malijské Bamako. Těžko odhadnout, zda se, dřív než tyto řádky budete číst, nerozroste počet obětí teroristické organizace, jež se pyšně tituluje „Islámský stát“ (přesnější by bylo něco jako „Třicet tisíc fanatiků“).
 

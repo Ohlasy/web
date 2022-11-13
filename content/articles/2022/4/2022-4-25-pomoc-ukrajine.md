@@ -10,7 +10,7 @@ tags:
 
 *Podle [aktuálních dat ministerstva vnitra](https://www.mvcr.cz/clanek/informativni-pocty-obyvatel-v-obcich.aspx) je přímo v Boskovicích registrováno přes 265 válečných uprchlíků z Ukrajiny, která čelí ruské vojenské invazi. Z toho 175 dospělých, převážně žen, a 90 dětí. Další větší počty pravděpodobně ještě přijdou.*
 
-{% photo src="https://i.ohlasy.info/i/05b8a5fc.jpg" caption="Vzkaz ruským vojákům na Císařské ulici v boskovické židovské čtvrti" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/05b8a5fc.jpg" caption="Vzkaz ruským vojákům na Císařské ulici v boskovické židovské čtvrti" author="Tomáš Znamenáček" /%}
 
 Stále totiž není jasné, kolik válečných uprchlíků dorazí do Boskovic v rámci systému, který organizuje Jihomoravský kraj. Zatím jsou zde uprchlíci, kteří sem zamířili po vlastní ose. Boskovice kraji nabídly asi šedesát míst v bývalé traktorce a pro další se zvažovalo vybudování kontejnerového bydlení na pozemcích po hotelu Velen.
 

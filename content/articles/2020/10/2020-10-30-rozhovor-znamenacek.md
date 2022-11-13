@@ -8,7 +8,7 @@ category: rozhovory
 
 *Boskovický pobočný spolek Unijazz, který provozuje kulturní a komunitní centrum Prostor v panském dvoře, si po roce zvolil nové vedení. Do čela nového výkonného výboru byl jako nový předseda zvolen náš redakční kolega Tomáš Znamenáček. S Prostorem Ohlasy spolupracují a je to dnes už významná kulturní instituce ve městě, a tak jsme Tomášovi Znamenáčkovi při této příležitosti položili několik otázek.*
 
-{% photo src="https://i.ohlasy.info/i/9532aa3b.jpeg" author="Magda Arnoštová" %}
+{% photo src="https://i.ohlasy.info/i/9532aa3b.jpeg" author="Magda Arnoštová" /%}
 
 **Obecná otázka na úvod: Proč ses rozhodl se o vedení boskovického Unijazzu ucházet a s čím do toho jdeš?**
 
@@ -68,7 +68,7 @@ Ještě je to hodně křehké. V ideálním případě teď využijeme vynucenou
 
 Je to velmi pestrá skupina aktivních lidí, které spojuje vědomí, že kultura není třešnička na dortu, ale zásadní součást našich životů. Něco, co nám dává smysl. Ačkoliv ji někdo z nás vidí v Zábranovi a někdo ve slam poetry, někdo v křiklavém pop artu a někdo v tlumených leptech lesa, někdo v živelném improvizačním divadle a někdo v nekonečných melancholických severských dramatech, někdo v Martinů a někdo v Mindicted crew. A tím, že se tohle všechno musí vejít pod jednu střechu, se nám naštěstí daří ty hranice stírat.
 
-{% photo src="https://i.ohlasy.info/i/806b8641.jpeg" caption="Nový výkonný výbor spolku Unijazz Boskovice. Shora zleva Jiří Bureš, Ludmila Čerbáková, Tomáš Znamenáček, Hana Kvapilová, Igor Láník, Jenda Nádvorník, Radek Šamšula" author="Kristýna Znamenáčková" %}
+{% photo src="https://i.ohlasy.info/i/806b8641.jpeg" caption="Nový výkonný výbor spolku Unijazz Boskovice. Shora zleva Jiří Bureš, Ludmila Čerbáková, Tomáš Znamenáček, Hana Kvapilová, Igor Láník, Jenda Nádvorník, Radek Šamšula" author="Kristýna Znamenáčková" /%}
 
 **Vedení spolku se po roce docela obměnilo, ze sedmi členů dosavadního výboru pokračují dva. Znamená to nějakou významnou změnu ve fungování? Jaký tým budeš mít okolo sebe?**
 

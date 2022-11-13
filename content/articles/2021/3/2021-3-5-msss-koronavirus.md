@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Většina seniorů žijících v zařízeních sociálních služeb v Boskovicích je už naočkována a žádný z nich ke konci února nebyl nakažený covidem. Život v pečovatelských domech se tak zvolna navrací do starých kolejí. Klienti začínají fungovat v běžném režimu a mohou se v malých skupinách věnovat společným aktivitám.*
 
-{% photo src="https://i.ohlasy.info/i/c8da2f1d.jpg" caption="V létě zpestřil obyvatelům domova pro seniory pandemickou dobu dechový soubor Consonare" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/c8da2f1d.jpg" caption="V létě zpestřil obyvatelům domova pro seniory pandemickou dobu dechový soubor Consonare" author="Tomáš Trumpeš" /%}
 
 Zatímco v každodenním životě je dnes kvůli neustále zpřísňovaným protiepidemickým opatřením potřeba potvrzení na opuštění okresu, v domově pro seniory už se pomalu vrací k běžnému režimu. V zařízeních boskovické Městské správy sociálních služeb (MSSS) se senioři účastní turnajů, společně cvičí v tělocvičně nebo trénují paměť. „Všechny aktivity probíhají v malých skupinkách. Nemohli jsme ale obnovit všechny události – například ty, kdy se za klienty stavovaly děti ze školek a škol nebo dobrovolníci, kteří vytvářeli pro seniory prostor, kde se cítí dobře a mají sociální kontakt,“ uvedla Marie Sáňková, ředitelka MSSS v Boskovicích, do které spadá domov pro seniory, domov se zvláštním režimem a pečovatelská služba.
 

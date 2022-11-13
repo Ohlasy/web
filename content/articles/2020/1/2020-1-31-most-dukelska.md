@@ -9,7 +9,7 @@ tags: doprava
 
 *Odborníci zjistili, že most na Dukelské ulici na hlavním tahu přes Boskovice ve směru na Prostějov je v horším stavu, než si dosud silničáři mysleli. Současné cedule s nápisem o průjezdu aut do 18 tun vymění za nové povolující vjezd pouze vozidlům o mnoho lehčím.* 
 
-{% photo src="https://i.ohlasy.info/i/mm4qndv.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/mm4qndv.jpg" author="Tomáš Trumpeš" /%}
 
 Je to teprve dva roky, co byla Dukelská od začátku března až do podzimu uzavřená [kvůli rozsáhlé rekonstrukci](https://ohlasy.info/clanky/2018/02/dukelska-objizdka.html). Ulicí mohly projet jen autobusy a [někteří místní](https://ohlasy.info/clanky/2018/02/dukelska-informace.html), kteří měli nárok na výjimku.
 

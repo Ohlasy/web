@@ -8,7 +8,7 @@ tags: kultura
 
 *Kunštátský výtvarník Vít Ondráček byl v posledních letech života mnohostranného literáta Ludvíka Kundery jeho blízkým přítelem. V Kunštátě bydleli kousek od sebe a spojovalo je mnohé. U příležitosti výročí 95 let od narození této významné osobnosti české kultury jsme proto s Vítkem mluvili právě o jeho vzpomínkách na pana Ludvíka. Připomenutí Ludvíka Kundery, s Kunštátem a s Františkem Halasem neodmyslitelně spjatého, je věnován i letošní Halasův Kunštát. Právě Vít Ondráček připravil dramatický text, který zde provede v rámci večerního kulturního programu divadlo NABOSO.*
 
-{% photo src="https://i.ohlasy.info/i/xb4wtro.jpg" author="Bohdan Holomíček" %}
+{% photo src="https://i.ohlasy.info/i/xb4wtro.jpg" author="Bohdan Holomíček" /%}
 
 **Vítku, vzpomeneš si, kdys poprvé uslyšel jméno Ludvík Kundera a v jaké souvislosti?**
 
@@ -54,7 +54,7 @@ Nevím, jestli to bral jako satisfakci, to slovo by se mu asi nelíbilo. Ale rad
 
 Laskavý. A ačkoliv o sobě prohlašoval, že neumí vyprávět, měl skvělý smysl pro humor a nesmál se svým vtipům. 
 
-{% photo src="https://i.ohlasy.info/i/vzufpxk.jpg" author="Jana Ondráčková" %}
+{% photo src="https://i.ohlasy.info/i/vzufpxk.jpg" author="Jana Ondráčková" /%}
 
 **Co ti ho dnes nejvíc přibližuje a připomíná?**
 

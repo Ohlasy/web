@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Boskovická městská rada se na svém jednání na konci března zabývala také vypnutím facebookové diskuze pod příspěvky [na městském profilu](https://www.facebook.com/mestoboskovice/). K tomu došlo poté, co na předchozím zasedání radní schválili nová Pravidla využití informačních prostředků města. Nyní se rada tématem zabývala pouze informativně, nepřijala žádné usnesení a diskuse zůstává vypnutá.*
 
-{% photo src="https://i.ohlasy.info/i/42be7474.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/42be7474.jpeg" author="Tomáš Trumpeš" /%}
 
 Aktualizaci pravidel před městskou radou posvětila už redakční rada zpravodaje, hlasování je neveřejné a není známá ani jmenovitá účast členů, pro byli všichni čtyři přítomní [z pěti](https://boskovice.cz/komise-vybory/d-21863/p1=30896). Také rada pravidla včetně vypnutí diskuse schválila [v bodě 5 souhlasem všech přítomných](https://boskovice.cz/assets/File.ashx?id_org=832&id_dokumenty=43749), na jednání chyběl jen starosta Jaroslav Dohnálek.
 

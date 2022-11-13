@@ -8,7 +8,7 @@ tags: investice kultura kino
 
 *Přibližně za měsíc začne rekonstrukce hlediště v letním kině. Tato etapa celkové obnovy areálu by měla být hotova před příští sezónou, areál po ní bude mít kapacitu 1800 míst k sezení – nikoliv 3000, [jak radnice dříve deklarovala](http://blanensky.denik.cz/zpravy_region/oprava-letniho-kina-v-boskovicich-nove-hlediste-pojme-tri-tisice-divaku-20160706.html). Náklady by měly činit něco přes dvanáct milionů korun, městská rada nyní vyhlásila výběrové řízení na zhotovitele.*
 
-{% photo src="https://i.ohlasy.info/i/srnvlj9.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/srnvlj9.jpg" author="Tomáš Trumpeš" /%}
 
 Práce budou probíhat podle projektu, který nechalo vypracovat ještě minulé vedení města. Projekt [stále není veřejný](http://www.infoprovsechny.cz/request/projekt_na_rekonstrukci_letniho). Zahrnuje kompletní rekonstrukci sítí, které pod hledištěm vedou, a renovaci hlediště, které bude osazeno lavičkami z dřevoplastu.
 

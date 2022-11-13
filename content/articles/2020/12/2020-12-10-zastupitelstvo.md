@@ -10,7 +10,7 @@ tags:
 
 *Poslední letošní jednání boskovického zastupitelstva proběhlo v úterý 8. prosince v zámeckém skleníku. Zúčastnilo se tentokrát všech 27 zastupitelů.*
 
-{% photo src="https://i.ohlasy.info/i/3eead4e7.jpg" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/3eead4e7.jpg" author="Jaroslav Parma" /%}
 
 ### Dotační tituly
 

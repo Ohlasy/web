@@ -9,7 +9,7 @@ tags:
 
 *Diletantismus. Při všem respektu k práci politiků už nejde pro vývoj stavby sportovní haly volit jiné slovo. Po letech nevydařených improvizací se schyluje… k další improvizaci. Vyhodíme další peníze, nebo se konečně něco změní?*
 
-{% photo src="https://i.ohlasy.info/i/5ca8c51b.jpg" caption="Ilustrační foto" author="Josef Čapek" %}
+{% photo src="https://i.ohlasy.info/i/5ca8c51b.jpg" caption="Ilustrační foto" author="Josef Čapek" /%}
 
 Snaha postavit halu rychle a levně nás už stála [miliony](https://ohlasy.info/clanky/2021/01/naklady-na-halu.html) a více než 15 let průtahů. Poslední pokus v této řadě slepých odboček přišel letos na jaře, kdy jsme – opět ve jménu rychlosti a nízkých nákladů – [zadali studii](https://ohlasy.info/clanky/2021/02/hala-navrh.html) haly městskému architektovi Zdeňku Fránkovi, který na projektu pracoval s architektem Alberto Kalachem. Výsledný návrh o desítky až stovky procent překročil finanční limit zadání, původně se ani nevešel na městské pozemky (!) a při prvním představení uváděl zcela mylnou kubaturu stavby a nereálné náklady. Jinými slovy jde o dokonalé fiasko – před kterým nás měl ochránit městský architekt, kdyby ovšem nebyl spoluautorem návrhu. Nejspíš jen díky oponentuře z řad veřejnosti (!) jsme se nepustili do dalších projekčních prací, kterými bychom vyhodili další miliony.
 

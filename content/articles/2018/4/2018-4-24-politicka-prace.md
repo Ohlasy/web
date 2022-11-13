@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *S blížícími se komunálními volbami se i v Boskovicích objevuje volání po nových tvářích. A nových stranách. Je to logické – tradiční strany obecně ve společnosti ztrácejí podporu a do značné míry zanedbaly generační obměnu. Pro mladé aktivní občany nejsou moc atraktivní, a ti mají tudíž větší tendenci sdružovat se v nových uskupeních.*
 
-{% photo src="https://i.ohlasy.info/i/fqcrbba.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/fqcrbba.jpg" caption="Jednání zastupitelstva" author="Tomáš Trumpeš" /%}
 
 Problém je samozřejmě nejen lidský. Můžeme se jen přít, jestli ke generační obměně nedochází, protože mladí nemají zájem, nebo protože je staří matadoři mezi sebe nepustí. Navíc to rozhodně neplatí paušálně, v některých stranách se pestřejší věkové prostředí a kandidátky vytvářet daří.
 

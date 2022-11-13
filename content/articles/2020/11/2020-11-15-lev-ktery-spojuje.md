@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Lvi, vpád Hunů do Itálie, působení římského biskupa a pandemie koronaviru – ptáte se, co to může mít společného? Ve svém duchovním zamyšlení, psaném původně pro církevní cyklus Slovo na doma, nachází inspirativní paralely boskovický evangelický farář Jiří Bureš.*
 
-{% photo src="https://i.ohlasy.info/i/70c66f90.jpg" caption="Lev před jeskyní Blanických rytířů v Kunštátě" author="Jiří Komárek" %}
+{% photo src="https://i.ohlasy.info/i/70c66f90.jpg" caption="Lev před jeskyní Blanických rytířů v Kunštátě" author="Jiří Komárek" /%}
 
 Máte rádi lvy? 
 

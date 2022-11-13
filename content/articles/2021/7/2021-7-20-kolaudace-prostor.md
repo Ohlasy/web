@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Na [červnovém jednání zastupitelstva](https://ohlasy.info/clanky/2021/06/zastupitelstvo.html) poukázal zastupitel Jiří Pevný (STAN a Sportovci) na nesrovnalosti v provozu kulturního a komunitního centra Prostor, které působí pod hlavičkou Unijazzu Boskovice v panském dvoře na Hradní ulici v Boskovicích. Provozovatelé potíže částečně uznávají a říkají, že pracují na nápravě.*
 
-{% photo src="https://i.ohlasy.info/i/44c61b96.jpeg" caption="V kulturním centru probíhají mimo jiné veřejné besedy – zde s českým publististou, scénáristou a spisovatelem Pavlem Kosatíkem" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/44c61b96.jpeg" caption="V kulturním centru probíhají mimo jiné veřejné besedy – zde s českým publististou, scénáristou a spisovatelem Pavlem Kosatíkem" author="Tomáš Znamenáček" /%}
 
 Kulturní a komunitní centrum Prostor zahrnuje kavárnu a kulturní sál, kde probíhají početné akce, některé z nich se v letních měsících odehrávají venku na nádvoří. Zastupitel Jiří Pevný uvedl, že z podkladů, které si vyžádal na stavebním úřadě na základě zákona o svobodném přístupu k informacím, vyplývá, že v sále může být maximálně 15 lidí, v kavárně rovněž 15 lidí, hudební produkce mohou být pouze akustické a provoz zde může probíhat pouze od 8.00 do 20.00. V takto přísných omezeních však provoz Prostoru reálně neprobíhá.
 

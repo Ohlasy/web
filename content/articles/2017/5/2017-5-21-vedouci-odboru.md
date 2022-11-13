@@ -8,7 +8,7 @@ tags: politika
 
 *Personální obsazení vedoucích odborů městského úřadu v Boskovicích se za posledního 2,5 roku, kdy nastoupilo na radnici nové vedení města, výrazně proměnilo. Z devíti vedoucích odborů zůstanou zanedlouho na úřadě už jen čtyři.*
 
-{% photo src="https://i.ohlasy.info/i/ltt7t6o.jpg" caption="Radniční věž" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ltt7t6o.jpg" caption="Radniční věž" author="Tomáš Znamenáček" /%}
 
 Změny na postech vedoucích odborů začaly krátce po výměně na boskovické radnici, kdy do kanceláře starosty nastoupila Hana Nedomová (ČSSD). První se z úřadu poroučel Pavel Musil, který šéfoval tehdejšímu majetkovému odboru, a Eva Siverová, která vedla sociální odbor.
 

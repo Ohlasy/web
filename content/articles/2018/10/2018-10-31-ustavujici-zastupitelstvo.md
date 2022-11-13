@@ -9,7 +9,7 @@ tags: politika
 
 *Ustavující jednání boskovického zastupitelstva, zvoleného na počátku října, se konalo v úterý v zámeckém skleníku. Noví zastupitelé složili svůj slib a bylo zvoleno nové vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/dkd7uww.jpg" caption="Zastupitelé po prvním jednání" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/dkd7uww.jpg" caption="Zastupitelé po prvním jednání" author="Tomáš Trumpeš" /%}
 
 Na jednání se sešlo 25 zastupitelů, neboť dvě zastupitelky – Jaromíra Vítková (KDU-ČSL) a Kristýna Znamenáčková (Piráti) – se omluvily. Na úvodní schůzi se zastupitelé sešli v nekompletní sestavě poprvé po dvaceti letech. Jednání zpočátku řídil Josef Opatřil (KSČM), jako nejstarší zvolený člen nového zastupitelstva.
 

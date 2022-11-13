@@ -11,7 +11,7 @@ tags:
 
 *V pracovní skupině pro přípravu sportovní haly zasedli hned čtyři členové [Spolku za rozvoj architektury Boskovic](https://www.sraboskovice.cz) (SRAB). Jejich zkušenost s přípravným procesem a hlavně pohled na výslednou studii shrnuje v komentáři pro Ohlasy za SRAB architektka Jana Syrovátková.*
 
-{% photo src="https://i.ohlasy.info/i/a13f9624.jpg" caption="Z prezentace studie v pracovní skupině" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/a13f9624.jpg" caption="Z prezentace studie v pracovní skupině" author="Jaroslav Parma" /%}
 
 V Boskovicích se plánuje největší investiční akce v posledních desetiletích – výstavba sportovní haly. Po dvou zrušených architektonických soutěžích se vedení města rozhodlo přijmout návrh městského architekta Zdeňka Fránka, aby zpracovatelem studie stavby byl mexický architekt Alberto Kalach, kterého Zdeněk Fránek osobně zná. Architekt Fránek pak má být garantem kvality, úplnosti a kompatibility Kalachova návrhu s českými normami a prostředím. Za tuto činnost byla vedením města odsouhlasena cena 300 tisíc korun.
 

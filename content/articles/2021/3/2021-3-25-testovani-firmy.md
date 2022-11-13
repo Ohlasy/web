@@ -9,7 +9,7 @@ tags: koronavirus
 
 *V průmyslu vláda od března zavedla celoplošné testování pro firmy, které mají více než padesát zaměstnanců. Počet pozitivně testovaných zaměstnanců v boskovických firmách byl malý, firmy testují dle vládního nařízení antigenními testy jednou týdně. Odborníci varují, že to nestačí.*
 
-{% photo src="https://i.ohlasy.info/i/e1ed3d98.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/e1ed3d98.jpg" author="Tomáš Trumpeš" /%}
 
 Boskovické firmy Gatema, ITAB, Vodárenská akciová společnost, ALPS, Minerva, Junker, LD Seating a Lanik se rozhodly vzájemně sdílet své zkušenosti spojené s testováním a jednou týdně se za tímto účelem scházejí na online schůzce. A také výsledky testování zveřejňují kumulativně. V prvním týdnu odhalily 12 pozitivních z 2116 testovaných. V druhém kole, kdy se do skupiny připojily společnosti COLORprofi a Novibra, testování odhalilo 13 pozitivních osob z celkových 2741 testovaných zaměstnanců. Testují už i některé firmy, které mají méně než padesát zaměstnanců.
 

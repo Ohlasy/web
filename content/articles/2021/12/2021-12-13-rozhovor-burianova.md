@@ -9,7 +9,7 @@ tags: vzdělávání
 
 *Rozhovor s ředitelkou boskovické mateřské školy Dagmar Burianovou. Pod MŠ Boskovice spadají hned tři pracoviště: na Lidické, Na Dolech a na ulici Komenského. Mluvili jsme o tom, co obnáší řízení školky, o vzdělávací činnosti nebo o začleňování dětí se speciálními výchovnými potřebami. Nevyhnuli jsme se ani tématům týkajícím se kapacity školky, investic či požadavků rodičů.*
 
-{% photo src="https://i.ohlasy.info/i/52524ddc.jpg" author="Nikol Halamásková" %}
+{% photo src="https://i.ohlasy.info/i/52524ddc.jpg" author="Nikol Halamásková" /%}
 
 **Jak dlouho jste ředitelkou boskovické mateřské školy?**
 

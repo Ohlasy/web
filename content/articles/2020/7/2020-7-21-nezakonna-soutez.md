@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Nejen neregulérní, ale přímo nezákonné – takové jsou podle komory architektů podmínky [architektonické soutěže](https://www.boskovice.cz/architektonicka-soutez-na-sportovni-halu/d-39833), kterou vyhlásilo město Boskovice na sportovní halu. Soutěž odporuje hned v několika bodech jak etickému řádu České komory architektů, tak zákonu o zadávání veřejných zakázek. Město by se tak mohlo dostat do konfliktu s Úřadem pro ochranu hospodářské soutěže.*
 
-{% photo src="https://i.ohlasy.info/i/78acd78a.png" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/78acd78a.png" author="Město Boskovice" /%}
 
 Přímo v [zadání soutěže](https://data.ohlasy.info/2020/soutez-hala-zadani.pdf) sice stojí, že podmínky jsou v souladu s českým právním řádem, ale člen dozorčí rady a pracovní skupiny pro soutěže České komory architektů Mirko Lev upozorňuje, že to není pravda. A poukazuje na několik aspektů, ve kterých se boskovická soutěž stává neregulérní a protizákonnou.
 

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci září. Tiskové konference se zúčastnili starosta Jaroslav Dohnálek (ODS) a místostarosta Petr Malach (ČSSD).*
 
-{% photo src="https://i.ohlasy.info/i/1389162b.jpeg" caption="Stavební práce na ulici Kapitána Jaroše" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/1389162b.jpeg" caption="Stavební práce na ulici Kapitána Jaroše" author="Tomáš Trumpeš" /%}
 
 ### Informační centrum
 

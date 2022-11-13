@@ -13,7 +13,7 @@ tags:
 
 *Rozhovor s Janem Machačem, primářem boskovické nemocnice, který postoupil do druhého kola senátních voleb jako kandidát ODS. Názory Jana Machače jsme představili už v [dotazníku](https://ohlasy.info/clanky/2016/09/dotaznik-machac.html) před prvním kolem voleb. Před druhým kolem jsme se setkali k živému rozhovoru. Rozhodující volba, ve které se Jan Machač střetne s boskovickou místostarostkou [Jaromírou Vítkovou](http://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html) kandidující za KDU-ČSL, se koná v pátek 14. a v sobotu 15. října.*
 
-{% photo src="https://i.ohlasy.info/i/0jt1jjv.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0jt1jjv.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak jste prožíval průběh sčítání prvního kola voleb? Bylo to docela dramatické, zejména ve vašem případě souboje o druhé postupové místo.**
 
@@ -41,7 +41,7 @@ Třeba v Americe můžete říct, že je někdo běloch, ale nemůžete říct, 
 
 U nás naštěstí politická korektnost v tomto špatném slova smyslu není. Je pravda, že u nás politici začínají být čím dál neslušnější. Ale to není otázka korektnosti, ale slušnosti, to jsou dva trošku odlišné pojmy. Korektnost je, že nebudu nazývat věci pravými jmény, abych se náhodou někoho nedotkl. Slušnost je, že budu mluvit tak, jak si myslím, že by to mělo být, aniž bych kohokoliv urážel. A to se u nás neděje. Politické slušnosti se u nás asi nedočkáme, pokud to bude pokračovat tímto stylem. 
 
-{% photo src="https://i.ohlasy.info/i/x1mvne6.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/x1mvne6.jpg" author="Tomáš Znamenáček" /%}
 
 **Zdravotnictví, kterému se chcete věnovat, je velké a pro laika těžko uchopitelné téma. Zajímal by mě ale váš názor na boskovickou nemocnici – souhlasil jste s konceptem, který sem přineslo minulé vedení, tedy pánové Navrátil a Julínek, nebo je podle vás dobře, že došlo ke změně?**
 
@@ -57,7 +57,7 @@ Jsem opakovaně a dlouhá léta předsedou České lékařské komory, mám tud�
 
 Ale to zdravotnictví má své limity. Největšími mecenáši jsou v něm lékaři a sestry, kteří jsou hluboce podfinancováni. A z toho plyne ta ekonomická migrace do zahraničí. Dnes říkáme, že bychom akutně potřebovali tisíc lékařů. A tisíc jich je v Německu, tisíc pět set v Rakousku a tisíc v Anglii. Tak to už máte tři a půl tisíce českých doktorů v zahraničí. Je to jejich chyba? Samozřejmě, že ne. Je to chyba systému, který vychovává absolventy pro západní Evropu. V Rakousku dostanou základní plat 3 tisíce euro, u nás v Boskovicích donedávna 18 tisíc korun, teď se to s nástupem pana doktora Janečka zvedlo na 26 tisíc, což nás aspoň trochu přiblížilo. Jestliže si stát neváží své budoucnosti, přestane platit učitele, jestliže se přestane starat o svou přítomnost, přestane platit lékaře a zdravotní sestry.
 
-{% photo src="https://i.ohlasy.info/i/94ubrot.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/94ubrot.jpg" author="Tomáš Znamenáček" /%}
 
 **Rád bych se zastavil ještě u jednoho politického momentu vašeho působení. Vy jste byl zvolen do boskovického zastupitelstva za KDU-ČSL, poté jste odstoupil, abyste oznámil kandidaturu do Senátu za ODS. Nezlobte se, ale není to trochu zvláštní krok a příklad určitého politického pragmatismu, kdy nejde o ideje, ale o osobní postup?**
 

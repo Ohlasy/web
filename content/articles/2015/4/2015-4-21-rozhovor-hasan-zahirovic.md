@@ -9,7 +9,7 @@ tags: kultura
 
 *Čapkovský badatel Hasan Zahirović pochází z Bosny, v České republice žije už skoro deset let. Dokončuje doktorská studia na pražské DAMU, vede obor kulturní dramaturgie na Slezské univerzitě v Opavě a vedle toho se intenzivně věnuje čapkovskému bádání. Podílí se na práci ve vile Karla Čapka, kterou nedávno získala Praha 10. Minulý týden přijel Hasan do Skalice přednášet o rodině Skoupilových a o jejich mlýně, kam se přivdala Čapkova láska Věra Hrůzová. Té slavný spisovatel adresoval krásné dopisy, které vyšly až po její smrti jako Dopisy ze zásuvky. Pro mnoho lidí byla tehdy existence skalické Princezny z Krakatitu velkým překvapením.*
 
-{% photo src="https://i.ohlasy.info/i/jbeu8n7.jpg" %}
+{% photo src="https://i.ohlasy.info/i/jbeu8n7.jpg" /%}
 
 **Hasane, kdy jsi poprvé uslyšel jméno Čapek?**
 
@@ -47,7 +47,7 @@ Zájem je obrovský. Byla vlna Bílé nemoci, pak byl obrovský boom Věci Makro
 
 Ono ani nejde vnímat jednoho bez druhého. Tvořili spolu, žili spolu, cestovali. Prvotiny psali většinou dohromady, pak přestali, ale ke společné tvorbě se zase vrátili. Radili se spolu, jejich životy i tvorba se neustále prolínají. Dost lidí stále dělá chybu a neví, že slovo „robot“ vymyslel Josef, nikoli Karel. Ten pak roboty pustil do světa, ale název přísluší Josefovi. Josef Čapek byl uzavřenější, svým štětcem promlouval trochu jinak. Říká se, že byl hlubší. Ale Karel má samozřejmě také svou hloubku, jinak by se ani dnes už tolik nečetl, jen byl pragmatičtější.
 
-{% photo src="https://i.ohlasy.info/i/w6lkvon.jpg" %}
+{% photo src="https://i.ohlasy.info/i/w6lkvon.jpg" /%}
 
 **Ptal jsem se tě, kdy jsi poprvé slyšel jméno Čapek. A kdy jsi poprvé slyšel o Věře Hrůzové a o Skalici? Byla pro tebe existence Věry překvapením?**
 
@@ -85,7 +85,7 @@ Karel zničil veškerou korespondenci. On na to moc nedbal, dochovalo se velmi m
 
 Velice smutné. Všechno, co měli, stát znárodnil. Jedna dcera žila v Praze, druhá byla v cizině. Věra zde ve Skalici byla s nejmladší Petrou, nemohla pořádně ani za dětmi. Po roce 1950 ji pořád kontrolovali, z mlýna je vystěhovali do malého domku naproti. V roce 1956 se přestěhovali do Prahy. Josef Skoupil pracoval na nádraží v Boskovicích, pak už měl velice špatné zdraví. Zemřel nakonec v Praze, připravili ho naprosto o všechno. Bydleli u dcery ve velmi skromných podmínkách, všichni pohromadě.
 
-{% photo src="https://i.ohlasy.info/i/jljdhim.jpg" %}
+{% photo src="https://i.ohlasy.info/i/jljdhim.jpg" /%}
 
 **Ty se dnes jako čapkolog podílíš také na pracích, které probíhají v Karlově části vily bratří Čapků. V jakém stavu se zařízení vily dochovalo?**
 

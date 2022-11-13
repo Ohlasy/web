@@ -8,7 +8,7 @@ tags: doprava
 
 *Ve středu 21. února se na boskovické radnici konalo setkání s občany nad tématem rekonstrukce ulice Dukelská. Z besedy přinášíme soupis informací, které jinde buď nejsou, nebo jsou jen obtížně k dohledání.*
 
-{% photo src="https://i.ohlasy.info/i/b1e73784.png" caption="Jižní objížďka přes Rájec-Jestřebí" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/b1e73784.png" caption="Jižní objížďka přes Rájec-Jestřebí" author="Mapy.cz" /%}
 
 * Termín uzavírky ulice Dukelská je naplánován od 5. března do 31. října.
 * Rekonstruovat se bude část ulice od Betany po most a od mostu po splav na Bělé, zavřená bude už od křižovatky s Lidickou.
@@ -38,7 +38,7 @@ tags: doprava
 * O posílení veřejné dopravy město uvažuje, v případě potřeby o ni provozovatele požádá.
 * Specifické potřeby obyvatel lokality je třeba řešit individuálně; to se týká kupříkladu zákazníků drobných podnikatelů v lokalitě nebo dodavatelů na domluvené opravy domů a podobně.
 
-{% photo src="https://i.ohlasy.info/i/ykdyab2.png" caption="Neoficiální objížďka přes ulici Ludvíka Vojtěcha a Kamenici" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/ykdyab2.png" caption="Neoficiální objížďka přes ulici Ludvíka Vojtěcha a Kamenici" author="Město Boskovice" /%}
 
 ### Objízdné trasy
 

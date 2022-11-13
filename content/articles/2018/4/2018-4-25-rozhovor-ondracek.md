@@ -9,7 +9,7 @@ featured: true
 
 *Rozhovor s výtvarníkem Vítem Ondráčkem o jeho grafickém cyklu Křížová cesta. Ta je vystavena v boskovickém evangelickém kostele až do konce listopadu, prohlídka je možná při akcích v kostele nebo po předchozí domluvě. S autorem jsme mluvili o zrodu tohoto díla a také o zvláštní technice, kterou vyvíjí celý život.*
 
-{% photo src="https://i.ohlasy.info/i/6twkhdu.jpg" caption="Vít Ondráček (vlevo)" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6twkhdu.jpg" caption="Vít Ondráček (vlevo)" author="Tomáš Znamenáček" /%}
 
 **Nejen pro mě bylo překvapivé, že ses pustil do tématu křížové cesty. Jak jsi k tomu přišel, případně jak to přišlo k tobě?**
 
@@ -63,7 +63,7 @@ Je tam opuštěné tělo vržené do prostoru. To tělo je v poloze, kterou má 
 
 To tělo levituje. Mizí postavy kolem, mizí i tomba. Tělo už se možná vznáší, aby vzápětí stoupalo vzhůru. Jestli v tom je naděje, tak proč ne.
 
-{% photo src="https://i.ohlasy.info/i/g1sy6sf.jpg" caption="Vernisáž cyklu v evangelickém kostele" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/g1sy6sf.jpg" caption="Vernisáž cyklu v evangelickém kostele" author="Tomáš Znamenáček" /%}
 
 ### Specifikum chyby a všemocná náhoda
 

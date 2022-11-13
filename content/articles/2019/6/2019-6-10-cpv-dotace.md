@@ -9,7 +9,7 @@ tags: politika
 
 *Kvůli krácení dotací na stavbu Centra polytechnické výchovy musí město zaplatit miliony navíc ze svého rozpočtu, podobně jako již dříve u přístavby mateřské školky. Obě zakázky, v nichž byly údajně chyby v zadávací dokumentaci pro výběrové řízení, připravovala firma exmístostarosty za ČSSD a obě také vyhrála stejná stavební společnost.*
 
-{% photo src="https://i.ohlasy.info/i/0rwefjh.jpg" caption="Centrum polytechnické výchovy" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/0rwefjh.jpg" caption="Centrum polytechnické výchovy" author="Tomáš Trumpeš" /%}
 
 Největší investice Boskovic za poslední roky, Centrum polytechnické výchovy za více než 70 milionů, už se dokončuje, nicméně peníze z dotací do města tečou velmi pomalu. Jak už dříve oznámil starosta Boskovic Jaroslav Dohnálek (ODS), bude jich dokonce méně, než kolik původně městu přiklepli.
 

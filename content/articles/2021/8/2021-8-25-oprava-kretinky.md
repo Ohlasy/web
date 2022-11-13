@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Přehradu Křetínka nedaleko Letovic čeká od září zásadní rekonstrukce podobně jako před pár lety tu boskovickou. Investice do oprav hráze či odvozu bahna vyjde na 230 milionů korun.*
 
-{% photo src="https://i.ohlasy.info/i/3d599120.jpeg" caption="Přehrada Křetínka" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3d599120.jpeg" caption="Přehrada Křetínka" author="Tomáš Znamenáček" /%}
 
 Kdo jezdí poslední roky na Křetínku koupat se nebo rybařit, nemohl si nevšimnout, že její hladina nedosahuje ke břehům jako dříve. Poloostrůvky na hlavní pláži, které dříve omývala voda ze tří stran, jsou teď na suchu a do vody musí člověk dojít několik desítek metrů.
 

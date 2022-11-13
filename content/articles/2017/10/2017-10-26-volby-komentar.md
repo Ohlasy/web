@@ -9,7 +9,7 @@ tags: politika
 
 *Volby do Poslanecké sněmovny překreslily politickou mapu České republiky, jak zní jedna z hojně užívaných novinářských floskulí. Ano, změna je zřetelná a nespokojenost s dosavadní politikou vyjádřili voliči jasně. Do jaké míry má tato nespokojenost obecnější charakter a jak se promítne do komunálních voleb, uvidíme přesně za rok.*
 
-{% photo src="https://i.ohlasy.info/i/lllezgo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lllezgo.jpg" author="Tomáš Znamenáček" /%}
 
 Celostátní nálady se do komunální politiky přelévají různě, vždycky se ale přelévají. Ostatně ne nadarmo nám aktuálně v Boskovicích vládne koalice kopírující tu celostátní. Co udělá s místní politikou tak razantní zemětřesení, jakého jsme byli svědky (a strůjci) o minulém volebním víkendu, je těžké odhadovat. Otázek se ale nabízí hned několik:
 

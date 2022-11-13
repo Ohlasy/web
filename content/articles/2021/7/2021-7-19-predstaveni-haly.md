@@ -9,7 +9,7 @@ tags:
 
 *Na setkání s veřejností v zámeckém skleníku představilo vedení města a městský architekt Zdeněk Fránek [návrh sportovní haly](https://data.ohlasy.info/2021/studie-haly.pdf), která má vyrůst v Červené zahradě.*
 
-{% photo src="https://i.ohlasy.info/i/4c024381.jpg" caption="Model sportovní haly" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/4c024381.jpg" caption="Model sportovní haly" author="Tomáš Trumpeš" /%}
 
 Osobně se nakonec nemohl zúčastnit autor návrhu, mexický architekt Alberto Kalach, kterého zčásti zastoupil jeho španělský spolupracovník Gonzalo Mauleon. Sám autor okomentoval návrh alespoň díky zvukovému spojení přes internet. Na dotazy veřejnosti odpovídal zejména Zdeněk Fránek.
 

@@ -8,7 +8,7 @@ serial: pribehy
 
 *Většina obyvatel Boskovic zná pana Jiřího Rožka jako obětavého veterináře, který se velkou část svého života staral o všechny němé tváře z blízkého okolí. Málokdo tuší, co prožíval jako malý kluk v 50. letech, když mu odsoudili otce a on musel se svými sourozenci a nevlastní matkou opustit ze dne na den rodný dům.*
 
-{% photo src="https://i.ohlasy.info/i/20bc35d0.jpg" caption="Jiří Rožek společně s tatínkem, maminkou a sestrou" author="archiv Jiřího Rožka" %}
+{% photo src="https://i.ohlasy.info/i/20bc35d0.jpg" caption="Jiří Rožek společně s tatínkem, maminkou a sestrou" author="archiv Jiřího Rožka" /%}
 
 Jiří Rožek se narodil 23. července 1946 v Osíku u Litomyšle. Krátce po narození mu zemřela matka, a tak zpočátku žil na statku společně s otcem, starším bratrem a prarodiči. V roce 1950 se otec podruhé oženil a za dva roky se manželům narodila dcera. 
 
@@ -22,7 +22,7 @@ V roce 1969 se oženil, v roce 1972 promoval a poté absolvoval roční vojensko
 
 Po sametové revoluci byl jeho otec plně rehabilitován; rodina dostala zpět polnosti a ve špatném stavu i bývalý statek, za který museli dát tehdejšímu majiteli finanční náhradu. Později si pan Rožek v Boskovicích otevřel soukromou veterinární praxi, kterou dnes provozuje jeho syn.
 
-{% photo src="https://i.ohlasy.info/i/f061cff5.jpg" caption="Jiří Rožek dnes" author="archiv Jiřího Rožka" %}
+{% photo src="https://i.ohlasy.info/i/f061cff5.jpg" caption="Jiří Rožek dnes" author="archiv Jiřího Rožka" /%}
 
 ### Domovní prohlídka
 

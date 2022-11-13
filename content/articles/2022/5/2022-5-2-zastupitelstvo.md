@@ -9,7 +9,7 @@ tags: politika
 
 *Na dubnovém jednání se sešli boskovičtí zastupitelé a debatovali opět čtyři hodiny. Opozici se podařilo zvrátit záměr prodeje větší části městského lesa, ale neprosadila obnovení diskuse na městském facebookovém profilu. Tradičně se diskutovalo také o hale.*
 
-{% photo src="https://i.ohlasy.info/i/ce38eaa7.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ce38eaa7.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" /%}
 
 V úvodu starosta Jaroslav Dohnálek zmínil, že město obdrželo [cenu Historické město roku 2021 za nejlepší využití peněz na obnovu památek z programu ministerstva kultury](https://ohlasy.info/clanky/2022/04/historicke-mesto.html). Podle starosty porota ocenila dlouhodobou práci Boskovic v tomto dotačním programu.
 

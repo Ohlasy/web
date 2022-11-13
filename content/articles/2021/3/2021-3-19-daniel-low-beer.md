@@ -9,7 +9,7 @@ serial: ghetto
 
 *S Danielem Low-Beerem jsem se určitě alespoň jedenkrát v životě viděla. Bylo to na jaře roku 2017, kdy brněnský magistrát uspořádal historicky první setkání potomků kdysi významných židovských rodin, jejichž nesmazatelnou stopu nalézáme v moravské metropoli dodnes, a díky jimž bylo Brno nazýváno „moravským Manchestrem“, neboť tamní židovská textilní výroba nabyla v 19. století světové proslulosti.*
 
-{% photo src="https://i.ohlasy.info/i/b1963eed.jpg" caption="Daniel Low-Beer na festivalu Meeting Brno" author="Jakub Šnajdr" %}
+{% photo src="https://i.ohlasy.info/i/b1963eed.jpg" caption="Daniel Low-Beer na festivalu Meeting Brno" author="Jakub Šnajdr" /%}
 
 V roce 2017 se tak setkala zhruba stovka příslušníků rodin Löw-Beer, Tugendhat a Stiassny, kteří v oněch májových dnech strávili dojemné společné chvíle především v Brně, na závěr svého pobytu se pak odebrali do Svitávky, Brněnce a také do Boskovic, kde jsem měla tu čest německy hovořící část rodin provázet po boskovické židovské čtvrti. Pan Daniel byl bezpochyby přítomen, ovšem žádný kontakt jsme nenavázali, zůstala jen hezká vzpomínka na nevšední setkání se zajímavými lidmi. A ejhle, najednou se mi před pár týdny dostala do rukou kniha s názvem Archy života, s podtitulem Historie rodu Löw-Beerů mezi Schindlerovým seznamem a vilou Tugendhat, jejímž autorem je právě Daniel Low-Beer, a která nesmírně osobním, sugestivním a doslova strhujícím způsobem mapuje osudy některých příslušníků bohatě rozvětvené rodiny Löw-Beerů.
 

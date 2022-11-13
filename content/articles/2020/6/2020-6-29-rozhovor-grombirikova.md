@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Rozhovor s Hanou Grombiříkovou, která vystudovala biochemii a nyní pracuje jako přírodovědná analytička a diagnostička v molekulárně-genetické laboratoři Centra kardiovaskulární a transplantační chirurgie v Brně. Laboratoř se dlouhodobě věnuje diagnostice patogenů metodami založenými na detekci DNA a RNA. Nyní se věnovala také testům na přítomnost koronaviru, takže rozhovor se týká aktuální situaci, se zvláštním zřetelem na situaci církví a průběh bohoslužeb – vznikal pro evangelický časopis Na rozcestí. Hana je evangelička, členka sboru Brno I. V Boskovicích ji můžeme znát díky občasným rodinným návštěvám, na které přijíždí. Rozhovor Jiří Bureš – Hana Grombiříková je totiž rozhovor sourozenecký.*
 
-{% photo src="https://i.ohlasy.info/i/f8a1d1de.jpeg" author="Petra Burešová" %}
+{% photo src="https://i.ohlasy.info/i/f8a1d1de.jpeg" author="Petra Burešová" /%}
 
 **První polovinu letošního roku ovlivnila pandemická situace. Překvapila tě, nebo jsi něco podobného očekávala?**
 

@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Zákazy a přerušení provozu řady služeb, firem či obchodů jako opatření proti šířícímu se koronaviru postupně přestávají platit. Co už obnovilo svůj provoz v Boskovicích a jaké zákazy už neplatí, přinášíme v následujícím souhrnu, který byl vydaný 11. května v 8 hodin.*
 
-{% photo src="https://i.ohlasy.info/i/556b518b.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/556b518b.jpeg" author="Tomáš Znamenáček" /%}
 
 Stále sice platí nouzový stav, který je prodloužený do 17. května, už je však například odvolaný zákaz volného pohybu, který platil na vše s výjimkou cest do obchodu či zaměstnání a vyřízení nezbytných potřeb. Lidé se mohou na veřejnosti pohybovat ve skupinách do deseti osob, stále jsou povinni všude na veřejnosti nosit roušku či mít jinou formou zakrytá ústa a nos.
 

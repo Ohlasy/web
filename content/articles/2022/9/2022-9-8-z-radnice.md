@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Po prázdninové přetržce se na konci srpna sešla ke svému řádnému jednání boskovická městská rada. Novinky následně na tiskové konferenci vedení města představili a okomentovali starosta Jaroslav Dohnálek (ODS) a místostarostové Petr Malach (ČSSD) a Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/b57185b3.jpeg" caption="Opravená Lidická ulice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/b57185b3.jpeg" caption="Opravená Lidická ulice" author="Tomáš Trumpeš" /%}
 
 ### Knihovna
 

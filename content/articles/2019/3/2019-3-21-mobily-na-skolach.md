@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Každý čtvrtek mám o hlavní přestávce dozor na chodbě. Při pohledu na primány sedící na lavičce a hrající hry si vzpomenu na diskuzi, která se strhla po zákazu používání mobilních telefonů v boskovické základní škole. Je očividné, že téma vzbudilo pozornost. Dokázalo zaujmout rodiče žáků, učitele i ty, kteří ve škole nebyli už roky. V diskuzi zaznívala různá stanoviska, padala i silná slova o svobodě či nesvobodě.*
 
-{% photo src="https://i.ohlasy.info/i/7uipxky.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7uipxky.jpg" author="Tomáš Znamenáček" /%}
 
 Domnívám se, že jedno mají zastánci i odpůrci společné – zdá se, že chtějí pro své děti jen to nejlepší.
 

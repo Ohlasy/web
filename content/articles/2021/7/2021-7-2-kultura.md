@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Je to tady! Festivalová sezóna začala, projekce v letním kině jsou už dávno v plném proudu a čeká nás moc moc moc velká spousta elektronické hudby v Prostoru. Ani tento měsíc nepřijdeme o Ohlasy naživo nebo pořádnou nálož jazzu! V červenci nás čeká totiž velice speciální jazzová událost v Letovicích, koncert za účelem vzpomínky na jazzového [dědka Miloše Winklera](https://ohlasy.info/clanky/2020/04/vzpominka-winkler.html). Na koncertě vystoupí skutečné hvězdy současné české jazzové scény a já už teď cítím, že to bude opravdu výjimečné. Určitě se běžte podívat na První krávu do letního kina, nebo se stavte na festival 3+1, který má letos skutečně výborný program. Je toho hodně a bude to výborné. Možná až moc.*
 
-{% photo src="https://i.ohlasy.info/i/ac0a531d.jpeg" caption="Na konci července nás v Prostoru čeká zahřívací kolečko festivalu Raveyard, takhle vypadal jeho loňský ročník" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ac0a531d.jpeg" caption="Na konci července nás v Prostoru čeká zahřívací kolečko festivalu Raveyard, takhle vypadal jeho loňský ročník" author="Tomáš Znamenáček" /%}
 
 ### Tanzkaffee: Oneiro & OldBoy
 

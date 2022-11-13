@@ -8,7 +8,7 @@ tags: kultura
 
 *Červnový kulturní výběr jsem vnímal vždycky jako takovou předehru festivalové sezóny, tento červen zároveň předznamenává úplně nový začátek se špetkou naděje, že má kultura tu největší krizi za sebou. Čeká nás filmový festival Jeden svět, koncerty, výstavy, autorské čtení a spousta dalšího. Po delší odmlce píšu další kulturní výběr a musím říct, že tento pravidelný rituál mi vážně chyběl. Tak nám všem přeji do budoucna co nejméně takových kulturních přestávek.*
 
-{% photo src="https://i.ohlasy.info/i/bb79df0e.jpg" caption="Nová výstava začne tento měsíc v Prostoru. Můžeme se těšit na Jana Vičara a jeho velkoformátové grafiky, jejichž vernisáž doplní výkladem o své tvorbě a technice." %}
+{% photo src="https://i.ohlasy.info/i/bb79df0e.jpg" caption="Nová výstava začne tento měsíc v Prostoru. Můžeme se těšit na Jana Vičara a jeho velkoformátové grafiky, jejichž vernisáž doplní výkladem o své tvorbě a technice." /%}
 
 ### Jeden svět: Čhadar, cesta po řece
 

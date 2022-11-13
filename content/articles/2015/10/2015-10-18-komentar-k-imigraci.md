@@ -8,7 +8,7 @@ tags: migrace
 
 *Besedu o imigraci, která se konala v pátek v podvečer v zámeckém skleníku, jsem opouštěl s pocity hlubokého smutku. Postupem hodin pak tento smutek ještě sílil. Přesto je v prvé řadě třeba organizátorům setkání se senátorem a bývalým rektorem Univerzity Karlovy Václavem Hamplem a europoslancem Pavlem Svobodou poděkovat. Podobné debaty mají velký význam a uspořádat je si jistě žádá nejen organizační zátěž, ale i určitou dávku odvahy. Můj osobní pocit není podstatný, ostatně celá debata o imigraci ukazuje, jak důležité je neutvářet z osobních pocitů příliš snadno postoje a stanoviska.*
 
-{% photo src="https://i.ohlasy.info/i/ex05csq.jpg" %}
+{% photo src="https://i.ohlasy.info/i/ex05csq.jpg" /%}
 
 Boskovické setkání se i díky na můj vkus až přílišné diplomacii a zkušené opatrnosti hlavních řečníků vyhnulo otevřeným projevům nenávisti. I když i to je nejspíš jen zdání, vyhnout se spíše podařilo jen vulgárním projevům; temné lidské myšlenky a emoce mohou být totiž servírovány i v relativně úhledném balení. A nejsem si jistý, jestli jim lze s podobnou úhledností čelit, jako to činili pan Hampl s panem Svobodou.
 

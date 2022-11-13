@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Ondřejem Štefaňákem, divadelním režisérem, který přiveze 16. října do Boskovic svou inscenaci Zmrzačení. Jedná se o dramatizaci [textu boskovického rodáka Hermanna Ungara](https://ohlasy.info/clanky/2020/07/ungar-potreti.html), přičemž setkání režiséra, který je absolventem boskovického gymnázia, a Hermanna Ungara bylo kupodivu nezáměrné. Mluvili jsme právě o Zmrzačení a o divadle obecně. Dnes je Ondřej Štefaňák uměleckým šéfem Divadla X10, ale výrazně se prosazuje i na dalších scénách.*
 
-{% photo src="https://i.ohlasy.info/i/2100a264.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2100a264.jpg" author="Tomáš Trumpeš" /%}
 
 **Vážně to byla náhoda, žes začal zkoušet text Hermanna Ungara?**
 
@@ -73,7 +73,7 @@ Myslím si, že ano. Rozhodně je to z mých dosavadních věcí největší pek
 
 No a když se vrátím k tomu členění, tak další části jsou nazírané optikou jiných postav. Takže i scénická stylizace je trochu otočená, ale hlavní úlohu v tom hraje zmrzačený člověk. V jádru stojí otázka, čím může být člověk zmrzačený, a je to nazíráno z různých úhlů. To se prolíná celou hrou.
 
-{% photo src="https://i.ohlasy.info/i/65ed461d.jpg" caption="Zmrzačení" author="Dita Havránková" %}
+{% photo src="https://i.ohlasy.info/i/65ed461d.jpg" caption="Zmrzačení" author="Dita Havránková" /%}
 
 **Zároveň jsou ty postavy přes všechnu krutost místy i trochu komické, nejsou? Vycházel jsi z toho nějak?**
 
@@ -105,7 +105,7 @@ Pořád si myslím, že ano. Jinak bych to nedělal. Nemyslím si, že se divadl
 
 Nemyslím, ale jsem teď třeba hrozně potěšený, když za mnou přijde po představení nějaký divák – chodím na většinu repríz svých věcí – a začne se o tom se mnou bavit: to mě zasáhlo, nebo: s tím nesouhlasím, tohle bylo přestřelené, tohle jste vystihli skvěle. To mě baví. Mám rád velké divadlo, myslím si, že divadlo patří do divadla – v tom smyslu, že je to platforma pro diskusi, a to nejen během představení, což tedy dělám velice často, ale zároveň po tom představení. Baví mě potkávat lidi a hovořit s nimi. A myslím si, že tohle je to, co může něco změnit. V našich podmínkách rozhodně. Třeba německé divadlo má podle mě úplně jinou devizu, polské divadlo s tím pracuje zase jinak. České divadlo myslím umí vytvářet ten skvělý český divadelní fanklub, který je na divadlo nalepený a reflektuje inscenace, zná se s tvůrci, komunikuje s nimi a tvůrci zpětně komunikují s lidmi. Když se tohle děje, je to pro mě strašně hezké.
 
-{% photo src="https://i.ohlasy.info/i/a6be8e4d.jpg" caption="Zmrzačení" author="Dita Havránková" %}
+{% photo src="https://i.ohlasy.info/i/a6be8e4d.jpg" caption="Zmrzačení" author="Dita Havránková" /%}
 
 **Jak bys popsal styl divadla, které děláš?**
 
@@ -135,7 +135,7 @@ No… Já mám takovou přezdívku.
 
 Štěkaňák. A myslím, že to naprosto vystihuje. Na herce řvu poměrně často. Mám pár momentů, kdy jsem si myslel, že mi půjde o kejhák, protože jsem to přehnal, že jsem byl fakt zlej. Ale jde o to, že když sleduju zkoušku a začne mě to bavit, tak se do toho poměrně s vervou přidávám. Začnu hrát s nimi nebo řvát, co mají říkat za texty a tak. Vkládám do toho momentální nápady, někdo to teda musí někam psát a musí se to vkládat do textů. Expresivní jsem, nestydím se za to, naopak mě to strašně baví. Tu přezdívku jsem dostal od herců a přijde mi to skvělé. Vážím si jí, je výborná.
 
-{% photo src="https://i.ohlasy.info/i/a7f9f0d8.jpg" caption="Zmrzačení" author="Dita Havránková" %}
+{% photo src="https://i.ohlasy.info/i/a7f9f0d8.jpg" caption="Zmrzačení" author="Dita Havránková" /%}
 
 **Na čem pracuješ teď?**
 

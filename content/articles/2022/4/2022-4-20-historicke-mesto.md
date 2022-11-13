@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *[Boskovice se staly historickým městem roku 2021](https://boskovice.cz/boskovice-promenily-treti-mecbol-a-staly-se-historickym-mestem-roku-2021/d-43897), přesněji a nepoměrně méně honosně řečeno: získaly cenu za nejlepší využití peněz na obnovu památek z programu ministerstva kultury. Asi by stálo za to hlouběji se zamyslet nad tím, jaký smysl a jakou hodnotu má toto ocenění, stejně tak je dobré se ptát, co udělat s milionovou odměnou, která je s ní spojená. Hlavní otázka je ale jiná: co dál s boskovickou památkovou zónou?*
 
-{% photo src="https://i.ohlasy.info/i/a048b6e6.jpg" caption="Studie zástavby proluky U Koupadel" author="EA architekti" %}
+{% photo src="https://i.ohlasy.info/i/a048b6e6.jpg" caption="Studie zástavby proluky U Koupadel" author="EA architekti" /%}
 
 Zpochybňovat získané ocenění ve chvíli, kdy se oslavuje vítězství, není zrovna atraktivní pozice, ale ano, přiznám se, že cena ve mně důvěru nebudí. Začíná to už jejím názvem, protože když se jedná o cenu za nejlepší uplatnění dotací z Programu regenerace městských památkových rezervací a zón, je mírně řečeno zavádějící šermovat termínem historické město roku. Pod tím si asi každý představí něco víc než jistě chvályhodnou opravu rumpálu hradní studny a dvě v podstatě běžné opravy fasád v židovské čtvrti. A to je přitom přesně to, co Boskovice vloni z asi tři čtvrtě milionu korun dotace zaplatily. 
 

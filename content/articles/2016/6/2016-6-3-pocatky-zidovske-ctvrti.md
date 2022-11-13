@@ -9,7 +9,7 @@ tags: historie
 
 *Zažitá tradice, ale i literatura – vlastivědná i odborná – uvádí, že Židé sídlili v Boskovicích již ve středověku. Podíváme-li se však na údaje uváděné jednotlivými autory blíže a pročteme-li prameny, z nichž vycházejí, důkladněji, musíme nutně dojít k jinému závěru.*
 
-{% photo src="https://i.ohlasy.info/i/suchhy6.jpg" author="archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/suchhy6.jpg" author="archiv Muzea regionu Boskovicka" /%}
 
 A. V. Šembera ve svém spisu o rodu pánů z Boskovic píše, že „Židé usadili se v Boskovicích beze vší pochyby hned při založení města“, a to klade Šembera na začátek 13. století, v analogii k založení královských měst Brna, Znojma a Uničova. Není třeba dodávat, že toto srovnání Boskovic s královskými městy není na místě, už proto, že na rozdíl od výše uvedených královských měst byly Boskovice jen poddanským městečkem, a to nejspíš až od 14. století. Bez dalších dokladů tedy nelze vyvozovat podobné závěry, k jakým Šembera dospěl. Od Šembery tyto informace převzali i někteří další autoři.
 
@@ -23,7 +23,7 @@ Boskovice – stejně jako další města a městečka spadající do brněnské
 
 Na problematičnost Bretholzových závěrů upozornil již Jaroslav Bránský, který v knize Židé v Boskovicích píše: „… při pozorné analýze této zprávy nás napadne pochybnost, zda vůbec šlo o Žida usedlého v Boskovicích. Vždyť to mohl být jakýkoliv Žid, který měl obchodní styky s boskovickým obyvatelstvem, a proto se octl před soudem v Boskovicích…“ A dále zmiňuje i protokol z roku 1727, který „dokazuje starobylost židovské komunity v Boskovicích argumenty týkajícími se až druhé poloviny 16. století…“ I když si Bránský díky své obeznámenosti s prameny uvědomoval vratkost argumentů pro židovské osídlení v Boskovicích od 14. století, k formulování nových závěrů se neodhodlal.
 
-{% photo src="https://i.ohlasy.info/i/bdbty7k.jpg" author="archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/bdbty7k.jpg" author="archiv Muzea regionu Boskovicka" /%}
 
 ### Opatrnější stanoviska
 

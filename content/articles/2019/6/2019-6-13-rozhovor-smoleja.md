@@ -9,7 +9,7 @@ tags: politika
 
 *Z Boskovic nečekaně zmizel v roce 2000, na úřadě nechal jen rezignační dopis a odstěhoval se pryč. Někdejší starosta Boskovic Vratislav Smoleja dnes žije v Sokolově a redakci Ohlasů po takřka dvaceti letech od svého odchodu poskytl rozhovor. Původně měl vzniknout při osobním setkání v Boskovicích, nakonec si ale bývalý starosta nechal poslat otázky e-mailem.*
 
-{% photo src="https://i.ohlasy.info/i/dp2ffrj.jpg" author="archiv Vratislava Smoleji" %}
+{% photo src="https://i.ohlasy.info/i/dp2ffrj.jpg" author="archiv Vratislava Smoleji" /%}
 
 **V čele Boskovic jste byl od roku 1995 do roku 2000. Jak vzpomínáte na svou politickou kariéru v Boskovicích?**
 

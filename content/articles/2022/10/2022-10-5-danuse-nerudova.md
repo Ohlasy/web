@@ -9,7 +9,7 @@ tags: politika
 
 *Krátký rozhovor s prezidentskou kandidátkou Danuší Nerudovou, ekonomkou a bývalou rektorkou brněnské Mendelovy univerzity. Boskovice navštívila v rámci své předvolební kampaně na konci září – sbírala podpisy, setkávala se s lidmi a odpověděla na několik otázek, které chtějí Ohlasy položit všem kandidátům, kteří k nám do města zavítají.*
 
-{% photo src="https://i.ohlasy.info/i/907fa03f.jpg" caption="Prezidentská kandidátka Danuše Nerudová na předvolební kampani v Boskovicích" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/907fa03f.jpg" caption="Prezidentská kandidátka Danuše Nerudová na předvolební kampani v Boskovicích" author="Tomáš Znamenáček" /%}
 
 **Co bylo vaší hlavní motivací přihlásit se do této soutěže a usilovat o post prezidentky České republiky?**
 

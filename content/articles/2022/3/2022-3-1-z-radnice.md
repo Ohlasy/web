@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo ve druhé polovině února po zasedání městské rady. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/ku3vkna.jpg" caption="Budova ZZN, jejíž rekonstrukcí má vzniknout nová knihovna" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ku3vkna.jpg" caption="Budova ZZN, jejíž rekonstrukcí má vzniknout nová knihovna" author="Tomáš Znamenáček" /%}
 
 ### Činnost policie
 

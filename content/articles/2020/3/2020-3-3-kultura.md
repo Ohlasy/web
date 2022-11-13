@@ -8,7 +8,7 @@ tags: kultura
 
 *Zájemci o kulturní dění v našem regionu si můžou obvykle vybírat z bohaté nabídky akcí. Kulturní výběr přináší tipy na události, které by bylo škoda v březnu minout. Aspoň se tak domnívá autor rubriky, kterým je nově David Liber. Střídá Gianniho Bařinku, který Kulturní výběr připravoval bezmála pět let, za což mu moc děkujeme!*
 
-{% photo src="https://i.ohlasy.info/i/4d0eecb1.jpeg" caption="V březnu se můžete mimo jiné těšit na reprízu představení Parcela č. 1736 souboru Masobeton" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4d0eecb1.jpeg" caption="V březnu se můžete mimo jiné těšit na reprízu představení Parcela č. 1736 souboru Masobeton" author="Tomáš Znamenáček" /%}
 
 ### Autorské čtení Petry Braunové
 

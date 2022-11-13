@@ -8,7 +8,7 @@ tags: politika
 
 *První razantnější změny v uspořádání radnice schválila minulý týden boskovická městská rada. Změny jsou koncipovány jako organizační, ale mají především zcela konkrétní personální dopady. Ve svých funkcích končí hned dva šéfové odborů: Pavel Musil jakožto vedoucí odboru majetkového, a vedoucí odboru sociálních věcí, zdravotnictví a školství Eva Siverová.*
 
-{% photo src="https://i.ohlasy.info/i/q4sxzzl.jpg" %}
+{% photo src="https://i.ohlasy.info/i/q4sxzzl.jpg" /%}
 
 Rada využila své pravomoci a s platností od 1. července změnila strukturu úřadu tak, že oba odbory zaniknou a jejich vedoucí tak mohou dostat výpověď z důvodů organizační změny. Místo dvou zrušených odborů vzniknou v nové struktuře úřadu hned tři nové odbory a jedno nové oddělení. „Za účelem zefektivnění a zkvalitnění řízení lidských zdrojů městského úřadu je navrhováno provedení organizační změny spočívající ve zrušení odboru majetkového a zřízení odboru rozvoje města a investic a odboru správy majetku, zrušení odboru sociálních věcí, zdravotnictví a školství a zřízení odboru sociálních věcí a oddělení školství, cestovního ruchu a volnočasových aktivit, které bude organizačně zařazeno do odboru kancelář tajemníka,“ zněl návrh, který předložila radě starostka a který byl následně schválen. Podobná změna je plně v kompetenci rady a nemusí ji schvalovat zastupitelstvo.
 

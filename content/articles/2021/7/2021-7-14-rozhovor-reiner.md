@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Martinem Reinerem, spisovatelem, nakladatelem a politikem. Na festival Boskovice 2021 přijel představit projekt Dokumentačního centra holocaustu na Moravě, které má vyrůst v Brně a které se právě držitel ceny Magnesia Litera, majitel nakladatelství Druhé město a opoziční zastupitel na Brně-střed za Žít Brno snaží prosadit.*
 
-{% photo src="https://i.ohlasy.info/i/26e618a6.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/26e618a6.jpeg" author="Tomáš Znamenáček" /%}
 
 **Co je hlavním cílem dokumentačního centra, které chcete v Brně vytvořit?**
 
@@ -44,7 +44,7 @@ Nebudeme. Důvodů je hned několik. Zaprvé to není cesta, kterou má dnes smy
 
 Určitě. Název jsem převzal bezproblémově z hlavy a z původní myšlenky Michala Konečného. Představuju si, že skutečné dokumentační centrum holocaustu by byl jen kousek celku a že by tam byl tým tří, čtyř, pěti zaměstnanců, kteří by skutečně bádali, protože je o čem. Věcí, které ještě lze odhalit nebo se na ně podívat novým způsobem, je poměrně hodně. Mělo by to být součástí tohoto domu a dokonce si představuju, že by tam mohly sídlit i organizace jako je třeba [Post Bellum](https://www.postbellum.cz/), nějaká brněnská nebo krajská pobočka, a podobně. To, že by tento dům soustředil tyto paměťové instituce, je součástí záměru.
 
-{% photo src="https://i.ohlasy.info/i/2cd5e32c.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2cd5e32c.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Bude to tady velmi živé téma
 
@@ -82,7 +82,7 @@ Musíme to udělat tak, aby to fungovalo. Musíme dokázat vyprávět ten příb
 
 To je poměrně ožehavá otázka. Ožehavá přinejmenším z toho důvodu, že představitelé židovských obcí to slyší velmi neradi, když se to spojuje dohromady. Velmi neradi. Řekl bych, že jsem v tomhle už dvakrát nebo třikrát silně narazil. Pokud jde čistě o mě osobně, vidím ty věci samozřejmě jako spojité. Pokud jde o mě ve vztahu k tomu projektu, tak tady se na to musím dívat trochu diferencovaně, protože zaprvé, jak už jsem řekl, my chceme udělat muzeum židovské historie – holocaust představíme jako součást židovské historie. Neděláme muzeum romské historie, nicméně si docela dobře umím představit, že i v tomhle domě bude aspoň malá část patřit romskému holocaustu. Naštěstí, zaplaťpánbůh, konečně došlo k průlomu v Letech, muzeum romského holocaustu se staví a v této zemi bude. Což nás do určité míry zbavuje této tíhy rozhodování, že by tady tato velká šance byla a my bychom ji nevyužili. To by se mi osobně neslo mnohem hůř, než když teď vím, že ty Lety vzniknou, to už je teď jisté. Ale pořád to vidím jako otázku, která se bude průběžně řešit a sám si nejsem jistý, jak to celé dopadne.
 
-{% photo src="https://i.ohlasy.info/i/1b9a3417.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1b9a3417.jpeg" author="Tomáš Znamenáček" /%}
 
 ### Rok 2028 je hratelný
 

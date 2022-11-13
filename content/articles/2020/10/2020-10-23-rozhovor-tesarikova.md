@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Rozhovor s lékařkou Pavlou Tesaříkovou, vedoucí covid oddělení boskovické nemocnice. Mluvili jsme o aktuální situaci, která se velmi rychle mění, proto je třeba uvést, že rozhovor probíhal v pondělí 19. října.*
 
-{% photo src="https://i.ohlasy.info/i/ebd61089.jpeg" caption="Pavla Tesaříková" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ebd61089.jpeg" caption="Pavla Tesaříková" author="Tomáš Znamenáček" /%}
 
 **Před necelými dvěma týdny jsme [mluvili s jednatelem nemocnice panem Štěpánským](https://ohlasy.info/clanky/2020/10/situace-v-nemocnici.html), který říkal: „Zatím to zvládáme, ale jak to bude za týden, nikdo neví.“ Jaká je tedy situace nyní?**
 
@@ -34,7 +34,7 @@ Přesně tak.
 
 Kraji jsme museli garantovat myslím šest intenzivních lůžek, takže se o ně starají lékaři na JIP i na ARO. Ve chvíli, kdy je kapacita přesažena, se pacienti posílají do Brna. Ale máme tady v nemocnici i těžké případy.
 
-{% photo src="https://i.ohlasy.info/i/484ae6d1.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/484ae6d1.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" /%}
 
 **Mluvíme o kapacitách prostor a počtu lůžek, jak je to s kapacitami zaměstnanců? Plánujete další oddělení – máte dost personálu?**
 
@@ -68,7 +68,7 @@ Nejnáročnější je to, jak se dramaticky zvyšuje počet případů. Konkrét
 
 Ale zažíváme i pěkné a úsměvné situace. Třeba v jednu chviličku, když byl lehce klid, jsme byly na sesterně a najednou se z chodby ozval pacient, který jen nesměle otevřel dveře od pokoje a volal, jestli tady není nějaký tučňáček. To nás pobavilo, bylo to milé.
 
-{% photo src="https://i.ohlasy.info/i/0fb0b5e4.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0fb0b5e4.jpeg" caption="Covidové oddělení boskovické nemocnice" author="Tomáš Znamenáček" /%}
 
 **Říkala jste, že zaměstnanci si musejí brát častější a delší služby. Jaká je mezi nimi dnes atmosféra? Je tam cítit stres a vyčerpání?**
 

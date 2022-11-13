@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady v polovině března. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/sbvyozm.jpg" caption="Hrad Boskovice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/sbvyozm.jpg" caption="Hrad Boskovice" author="Tomáš Znamenáček" /%}
 
 ### Zahájení turistické sezóny a 100 let republiky
 

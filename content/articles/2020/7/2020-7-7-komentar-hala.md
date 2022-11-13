@@ -12,7 +12,7 @@ tags:
 
 *Boskovičtí zastupitelé schválili nákup pozemků v Červené zahradě a shodli se též na tom, že sem přesunou stavbu nové sportovní haly. Od roku 2005 tedy zatím evidujeme čtyři reálně zvažované lokality, tři přesuny a nula postavených sportovních hal. Které z těchto čísel poroste tentokrát? Sledujte s námi.*
 
-{% photo src="https://i.ohlasy.info/i/5acfc3aa.jpg" caption="Sportovní areál Červená zahrada" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/5acfc3aa.jpg" caption="Sportovní areál Červená zahrada" author="Tomáš Trumpeš" /%}
 
 Nechci tady celou historii sportovní haly rozebírat podrobně – už to za mě udělal kolega Marek Osouch [před čtyřmi lety](https://ohlasy.info/clanky/2016/05/historie-haly.html), když jsme měli naposledy dojem, že se schyluje k definitivnímu rozhodnutí. Zatímco ale doposud zastupitelé halu po mapě stěhovali rozhodnutími těsné většiny, na posledním přesunu do Červené zahrady se shodli bez jediného hlasu proti. To nám dává naději, že hala na tomto místě skutečně aspoň pár let postojí.
 

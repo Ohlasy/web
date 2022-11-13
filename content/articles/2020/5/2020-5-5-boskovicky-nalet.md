@@ -9,7 +9,7 @@ tags: historie
 
 *75\. výročí tragického náletu na Boskovice si připomínáme právě v těchto dnech na počátku května. Text o události pro Ohlasy napsal Ladislav Oujeský – spolupracovník neziskové organizace Post Bellum, která stojí za projektem [Paměť národa – největší sbírka natočených pamětníků v Evropě](http://www.pametnaroda.cz). Také následující text je založen především na osobních vzpomínkách pamětníků.*
 
-{% photo src="https://i.ohlasy.info/i/e0165d45.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e0165d45.jpeg" author="Tomáš Znamenáček" /%}
 
 Pokud vynecháme rok 1942 a deportaci židovských obyvatel do Terezína nebo osudy dalších boskovických občanů během nacistické okupace a komunistické totality, můžeme 5. květen 1945 označit pro Boskovice jedním z nejtragičtějších dní ve 20. století.
 

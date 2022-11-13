@@ -10,7 +10,7 @@ tags:
 
 *Městská společnost Služby Boskovice vybrala auditorskou firmu, která prověří postup při stavbě rozvodů tepla v Boskovicích. Zakázka, kterou mají Služby na starost, je totiž proti předpokládané ceně ve výsledku o třetinu dražší a městská firma chce auditem zjistit, zda za takový nárůst není odpovědný zhotovitel, projektant či někdo jiný.*
 
-{% photo src="https://i.ohlasy.info/i/3b488f53.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/3b488f53.jpeg" author="Tomáš Trumpeš" /%}
 
 Běžně by se členové dozorčí rady městské firmy Služby Boskovice v těchto dnech scházeli jen kvůli kontrole výsledků hospodaření za uplynulý rok, tentokrát se ale na program dostal i zásadnější bod, a to stavba rozvodů tepla neboli centrálního zásobování teplem ve středu města.
 

@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Rozhovor s Marií Sáňkovou, ředitelkou boskovické Městské správy sociálních služeb. Mluvili jsme o aktuální situaci v pobytové i terénní péči o seniory a také o tom, jak karanténní opatření prožívají a zvládají klienti i zaměstnanci.*
 
-{% photo src="https://i.ohlasy.info/i/b1a63281.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/b1a63281.jpg" author="Tomáš Trumpeš" /%}
 
 **Začnu aktuálním tématem – máte dost roušek?**
 
@@ -68,7 +68,7 @@ My jako sociální služby teď můžeme pracovat ve zjednodušeném administrat
 
 Na druhou stranu zase musím říct, že spousta rodin je dneska doma a po určitou dobu jsou schopni si péči o seniory zajistit. Snažíme se pružně domlouvat, udělají to na dobu dočasnou a neztratí tím nárok na poskytování pečovatelské služby. Jakmile bude rodina potřebovat, zase tam naběhneme. Ale teď nám tím uvolní ruce pro tuto dobu a my můžeme poskytovat péči někomu dalšímu. Zatím nedochází k tomu, že bychom museli odmítat. Když se nám někdo ozve, jsme ještě schopni službu zavést. Neřešíme mladší seniory, kteří třeba jen potřebují dovézt oběd. Ty odkazujeme na komerční sféru – na restaurace a poskytovatele stravovacích služeb. Rodině poradíme a odkážeme je na internet, kde jsou kontakty. Pokud už tam nabíhá nějaká péče, zvlášť zdravotní, snažíme se hlavně seniorům, kteří jsou sami, hodně pomáhat. Hodně často se teď řeší, že jsou omezené ambulance a lékaři a vyzývá se, aby tam lidé nechodili. Osmdesátiletý člověk si nevyřídí po internetu e-recept. To teď děvčata hodně řeší, že někomu docházejí léky a potřebuje to zařídit. Domluvíme se s lékaři, aby to poslali přes nás, vyzvedneme to v lékárně a doručíme. Snažíme se myslet na ty nejdůležitější věci.
 
-{% photo src="https://i.ohlasy.info/i/2fd206f6.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2fd206f6.jpg" author="Tomáš Trumpeš" /%}
 
 **Jak by se měli dnes senioři hlavně chránit? Nejdůležitější je zákaz vycházení?**
 

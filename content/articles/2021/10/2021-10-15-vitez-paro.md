@@ -7,7 +7,7 @@ category: zpravodajství
 
 *O výsledcích letošního ročníku boskovického participativního rozpočtu (PaRo) rozhodly především písemné hlasy. Vítězem se staly [prolejzky ve vnitrobloku](https://boskovice.pincity.cz/participativni-projekt/122-prolejzky-ve-vnitrobloku) na Wolkerově náměstí, které navrhla Barbora Brzobohatá.*
 
-{% photo src="https://i.ohlasy.info/i/453b9d30.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/453b9d30.jpeg" author="Tomáš Trumpeš" /%}
 
 Projekt s rozpočtem vyčísleným na 220 tisíc korun navrhuje umístění menší prolézačky na trávník ve vnitrobloku za Wolkerovým náměstím. „Mobiliář by měl být z estetického i funkčního hlediska dřevěný, bez využití plastových a překližkových prvků, a měl by zábavnou formou rozvíjet fyzickou zdatnost, vůli a sebevědomí a podněcovat děti ke společné hře,“ uvedla autorka Barbora Brzobohatá v návrhu.
 

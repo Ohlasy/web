@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Adélou Komrzý, režisérkou dokumentu o paliativní péči s názvem [Jednotka intenzivního života](https://dafilms.cz/film/13996-jednotka-intenzivniho-zivota), který byl před pár dny oceněn Českým lvem. Adéla vystoupila na Smrtfestu, třetím ročníku festivalu o smrti, během kterého jsme pořídili i tento rozhovor. Mluvili jsme o Adélině motivaci se tématem zabývat, průběhu natáčení, o paliativní péči u nás, ale i o smrti.*
 
-{% photo src="https://i.ohlasy.info/i/fd816cb4.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/fd816cb4.jpg" author="Tomáš Znamenáček" /%}
 
 **Adélo, ty máš s paliativní léčbou zkušenost z natáčení tvého dokumentu, mohla bys našim čtenářům přiblížit, kdo podle tebe je paliatr?**
 
@@ -37,7 +37,7 @@ Vztahy fungovaly dobře. Kateřina má současně s medicínou vystudovanou DAMU
 
 A co se týče té druhé otázky, na kterou se v dokumentu ptá i medička, tak to já jsem se Kateřiny ptala často. Říkala jsem si: sakra, přeci jsou v tom prostředí dennodenně, sama vím, co to se mnou udělá, když jdu domů. Vím, že jsem ráda za ty pacienty, že ten tým u sebe měli, ale jsou to velké emoce. I na diskuzích se na to lidé hodně ptali. Podle mě je to opravdu hodně o tom, že se lékaři nesetkávají jen se smrtí a s negativními emocemi. Jde o pomoc, a to je drží nad vodou, vytahuje nahoru a posouvá dopředu v té práci. Není tam beznaděj, naopak je tam hodně prostoru, kde můžou být platní. Ať už jako prostředníci, komunikátoři, nebo v pomoci pacientům, třeba i v praktických věcech. Setkali jsme se během natáčení třeba s paní, které bylo asi devadesát a už opravdu nechtěla být na žádných přístrojích, chtěla přirozeně umřít. Hodně ji ale trápilo, že nemohla přepsat dům na syna. Takže jí zprostředkovali notáře, který tam přišel. I to je hrozně důležité.
 
-{% photo src="https://i.ohlasy.info/i/cec6da20.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/cec6da20.jpg" author="Tomáš Znamenáček" /%}
 
 ### Natáčení
 
@@ -63,7 +63,7 @@ Vůbec netuším, kolik hodin materiálu jsme měli, ale natáčeli jsme zhruba 
 
 Já tam ze začátku chtěla mít hodně tu systémovou linku, jak se ten tým etabluje, to jsme se nakonec rozhodli úplně vyndat. Říkali jsme si, že to nejvíc podléhá času, že když ten film doděláme, tak tyhle věci snad už budou vyřešené. Řekli jsme si, že se budeme soustředit jen na ty rozhovory, které jsou opravdu nadčasové a vždycky se nás budou jako lidí týkat. Snažili jsme se v dokumentu vytvořit  takový dramaturgický oblouk, který není úplně viditelný na první dobrou, ale snad působí na nějaké emocionální úrovni. Spočívá v nedůsledném kopírování pěti stádií vyrovnávání se se smrtí od psycholožky Kübler-Ross, od odmítnutí, šoku, až po nějaké přijetí skutečnosti závěru života nebo smrti. Podle tohoto klíče jsem intuitivně pracovala, na paměti jsme ten klíč určitě měli, ale nedrželi jsme se jej úplně striktně.
 
-{% photo src="https://i.ohlasy.info/i/d1a1b684.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/d1a1b684.jpg" author="Tomáš Znamenáček" /%}
 
 ### K tématu dokumentu
 

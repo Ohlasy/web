@@ -11,7 +11,7 @@ tags:
 
 *V Boskovicích vznikla nová občanská iniciativa, která si jako předmět svého zájmu zvolila stav městských trávníků a městské zeleně. Zrod a aktivity iniciativy pro Ohlasy popsala její spoluzakladatelka Hana Kvapilová.*
 
-{% photo src="https://i.ohlasy.info/i/57cb41fb.jpeg" caption="Jeden z trávníků spravovaných Zelenou peřinou U Koupadel" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/57cb41fb.jpeg" caption="Jeden z trávníků spravovaných Zelenou peřinou U Koupadel" author="Tomáš Znamenáček" /%}
 
 Několik let mne trápil stav trávníků v Boskovicích. Podle mého názoru docházelo k jejich sekání právě ve chvíli, kdy začaly vypadat trošku k světu – tedy sotva stačily trošku povyrůst. Přitom konkrétně na sídlišti Pod Oborou jsou trávníky plné kvetoucích rostlin, o to víc mi bylo líto, že nestačí vykvést, případně se dále vysemenit.
 

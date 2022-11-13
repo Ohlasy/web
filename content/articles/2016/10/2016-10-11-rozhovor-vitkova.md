@@ -12,7 +12,7 @@ tags:
 
 *Rozhovor s Jaromírou Vítkovou, boskovickou místostarostkou, která postoupila do druhého kola senátních voleb jako kandidátka KDU-ČSL. Názory Jaromíry Vítkové jsme představili už v [dotazníku](https://ohlasy.info/clanky/2016/09/dotaznik-vitkova.html) před prvním kolem voleb. Před druhým kolem jsme se setkali k živému rozhovoru. Rozhodující volba, ve které se Jaromíra Vítková střetne s primářem [Janem Machačem](https://ohlasy.info/clanky/2016/09/dotaznik-machac.html) kandidujícím za ODS, se koná v pátek 14. a v sobotu 15. října.*
 
-{% photo src="https://i.ohlasy.info/i/h9y4pko.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/h9y4pko.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak jste prožívala průběh sčítání prvního kola voleb? Bylo to docela dramatické, i když ve vašem případě přeci jen méně než u souboje o druhé postupové místo.**
 
@@ -40,7 +40,7 @@ Hodně jsem teď spolupracovala s Charitou, které chyběly velké peníze. Byla
 
 Celkově je ta sociální oblast široká škála problémů, stejně jako prorodinná politika. Dnes se mě zrovna někdo ptal, jak bych v některých věcech pomáhala. Odpovídala jsem, že je to někdy jako v pohádce o kohoutkovi a slepičce. Slepička jde od jedněch dveřím ke druhý. Cesta bývá klikatá, ale člověk se nesmí vzdát a musí jít za svým cílem. To jsem tady na radnici myslím předvedla. Mnohokrát to vypadalo, že je něco passé, ale nakonec jsem se k cíli dostala.
 
-{% photo src="https://i.ohlasy.info/i/7rlssam.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7rlssam.jpg" author="Tomáš Znamenáček" /%}
 
 **Vaše další téma jsou památky a kulturní dědictví – a opět: k boskovické památkové zóně se [nezávislí odborníci vyjadřují velmi kriticky](http://ohlasy.info/clanky/2016/07/anketa-zidovska-ctvrt.html). Nebo nám do Ohlasů zrovna nedávno přišla zpráva od čtenářky, která zde byla na návštěvě a pohoršovala se nad reklamami na náměstí.**
 
@@ -60,7 +60,7 @@ To je pravda, ten vývoj je rychlý. Já to řeknu z několika pohledů. Mě hod
 
 Vede mě k tomu i další věc: aby děti neztrácely manuální zručnost. A aby měly také nějakou vlastní zkušenost a nespoléhaly jen na to, že se všechno dá najít na internetu. To je velmi důležité. A poslední věc je propojení na seniory, je spousta lidí, kteří mají chuť předávat své znalosti, včetně manuální zručnosti.
 
-{% photo src="https://i.ohlasy.info/i/m0vdvk0.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/m0vdvk0.jpg" author="Tomáš Znamenáček" /%}
 
 **Rád bych se zastavil ještě u jednoho politického momentu vašeho působení. Máme po krajských volbách, ve kterých dali voliči jasně najevo, že se jim nelíbí chování dosavadního hejtmana Michala Haška – který mimo jiné opakovaně lhal veřejnosti a provázejí ho i další skandály. I v těch nejvypjatějších momentech jste v minulosti jako jeho koaliční partneři mlčeli. Bylo to v pořádku? Zrovna u křesťanských demokratů? Nejste až příliš stabilní koaliční partner?**
 

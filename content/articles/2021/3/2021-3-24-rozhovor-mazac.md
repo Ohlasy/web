@@ -12,7 +12,7 @@ tags:
 
 *V Boskovicích se po [rozpadu koalice](https://ohlasy.info/clanky/2021/03/pad-koalice.html) rozběhla jednání o novém koaličním uspořádání. Ohlasy v této souvislosti vyzpovídaly místostarostu za uskupení STAN a Sportovci Boskovice Radka Mazáče, kvůli němuž hnutí ANO vypovědělo koaliční smlouvu. Požadovalo totiž jeho rezignaci, na kterou on ale nepřistoupil.*
 
-{% photo src="https://i.ohlasy.info/i/obsjenk.jpg" caption="Radek Mazáč" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/obsjenk.jpg" caption="Radek Mazáč" author="Tomáš Znamenáček" /%}
 
 **Co říkáte na to, že se kvůli vám rozpadla boskovická koalice?**
 
@@ -42,7 +42,7 @@ To asi těžko.
 
 Já jsem tam v představenstvu, ostatní funkce v této společnosti nesdílím.
 
-{% photo src="https://i.ohlasy.info/i/c30165fe.png" caption="Snímek z webu energochem.cz v den vydání rozhovoru" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/c30165fe.png" caption="Snímek z webu energochem.cz v den vydání rozhovoru" author="Tomáš Znamenáček" /%}
 
 **Pojďme k druhému bodu prohlášení hnutí ANO, kde se píše, že jste dostatečně nevysvětlil veřejnosti možný střet zájmů, o kterém říkáte, že se v něm necítíte. Jak vy byste na to reagoval?**
 

@@ -9,7 +9,7 @@ tags: architektura
 
 *Rozhovor s architekty Janou Syrovátkovou a Petrem Ondráčkem. Ti spolu s dalšími kolegy založili Spolek za rozvoj architektury Boskovic s půvabnou zkratkou SRAB. Chtějí nabídnout své profesní zkušenosti a síly, aby se ve městě k architektuře přistupovalo lépe.*
 
-{% photo src="https://i.ohlasy.info/i/71d23e21.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/71d23e21.jpeg" author="Tomáš Znamenáček" /%}
 
 **Co je to SRAB?**
 
@@ -39,7 +39,7 @@ PETR ONDRÁČEK: Dnes už se takové soutěže bez komory moc nedělají, takže
 
 JANA SYROVÁTKOVÁ: Samozřejmě jsem jako garanta vnímala pana architekta Fránka, městského architekta. Soutěž byla ale neregulérní, tím pádem jsme se nezúčastnili. A když jsme koukali na zadání a bylo tam, že cena za projekční práce včetně průzkumů jsou tři miliony, tak jsem si říkala: tady je něco špatně. Ať je to pod komorou, nebo ne, za tohle se nedá udělat poctivý projekt. Potom se vyhlásila druhá soutěž a pochopila jsem, že je potřeba, aby tady do toho někdo vnesl odbornost. V té době jsem taky pomáhala v muzeu s výstavou o rodu pánů z Boskovic a říkala jsem si, že Boskovice byly na tak vysoké úrovni, tak proč by to mělo teď směřovat takto… Takže jsem začala kontaktovat různé lidi z profese a začalo to.
 
-{% photo src="https://i.ohlasy.info/i/ec251aca.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ec251aca.jpeg" author="Tomáš Znamenáček" /%}
 
 **Co konkrétně by vaše iniciativa chtěla dělat?**
 
@@ -91,7 +91,7 @@ PETR ONDRÁČEK: Tohle musí někdo udělat, nachystat to, ale výsledek pak sto
 
 PETR ONDRÁČEK: Myslím, že ano. Před pěti lety se tady sousloví městský architekt skoro ani nesmělo vyslovit, říkalo se, že pro město velikosti Boskovic je to zbytečná instituce. O architektonických soutěžích se ani nemluvilo. Teď zrovna toto sice ještě nefunguje úplně dobře, ale to by bylo na jinou debatu. Byli bychom rádi, aby město pořád jen netěžilo z historie a nevracelo se do minulosti, ale aby se tady taky něco nového podařilo.
 
-{% photo src="https://i.ohlasy.info/i/ed9f3517.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ed9f3517.jpeg" author="Tomáš Znamenáček" /%}
 
 **Jak to vidí člověk, který z Boskovic na čas odešel a pak se do nich zase vrátil?**
 

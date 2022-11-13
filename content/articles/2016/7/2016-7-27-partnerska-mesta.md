@@ -8,7 +8,7 @@ tags: politika
 
 *Polsko, Belgie, Slovensko, Bosna. Tam všude mají Boskovice svá partnerská města. Nejdéle je partnerem Boskovic polská Rawa Mazowiecka, se kterou probíhá intenzivní spolupráce už deset let. Častěji byli ale Boskovičtí v partnerských městech než naopak jejich zástupci v Boskovicích. Platí to zejména o uměleckých souborech.*
 
-{% photo src="https://i.ohlasy.info/i/kckf3jt.jpg" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/kckf3jt.jpg" author="Město Boskovice" /%}
 
 Myšlenka mít partnerské město sahá v Boskovicích ještě dál než deset let do minulosti. Boskovičtí se snažili získat partnera už před rokem 2006, ale neúspěšně. Přitom nedaleké Blansko má svá partnerská města z mnohem dřívější doby. V roce 2005, kdy Boskovice ještě neměly žádné takové město, podepisovali Blanenští už čtvrtou smlouvu o spolupráci. „Už si přesně nepamatuji, proč jsme byli tenkrát neúspěšní. Partnerské město jsme ale chtěli kvůli možnostem dotačních titulů na různé projekty,“ říká dnes místostarostka Boskovic Jaromíra Vítková (KDU-ČSL).
 
@@ -58,7 +58,7 @@ Letos boskovická starostka se svými kolegy navštívila bosenské město při 
 
 Postupně se ale začíná rýsovat spolupráce středních škol. „Kontakty začíná navazovat s Prnjavorem gymnázium a odborné učiliště Citroën,“ poodhalil Parma. V Prnjavoru totiž chtějí společné projekty s Boskovicemi, protože Česká republika, na rozdíl od Bosny, je členem Evropské unie. Bosna a Hercegovina není ani kandidátskou zemí, teprve letos v únoru podala žádost o vstup do unie. Ředitel střední odborné školy André Citroëna Karel Ošlejšek potvrdil, že se zástupci Prnjavoru hovořili při loňské návštěvě Boskovic. „Ukázali jsme jim naši školu, ale další posun od té doby zatím nebyl,“ sdělil ředitel školy. Žádný konkrétní společný projekt zatím ani není v plánu.
 
-{% photo src="https://i.ohlasy.info/i/le8tpbc.jpg" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/le8tpbc.jpg" author="Město Boskovice" /%}
 
 ### Přínosy a myšlenka partnerství
 

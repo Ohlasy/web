@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Pavlem Kolmačkou, ředitelem Oblastní charity Blansko, která hraje od počátku v našem regionu důležitou roli ve zvládání uprchlické krize související s válkou na Ukrajině.*
 
-{% photo src="https://i.ohlasy.info/i/dd5154c4.jpeg" caption="Pavel Kolmačka" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/dd5154c4.jpeg" caption="Pavel Kolmačka" author="Tomáš Znamenáček" /%}
 
 **Jak velká stávající vlna uprchlíků z Ukrajiny je a jak moc jste ji pocítili?**
 

@@ -9,7 +9,7 @@ serial: historie
 
 *Za první známé držitele Boskovic je bez výhrad považován šlechtický rod pánů z Boskovic. Přehlédneme-li však důkladněji dostupné prameny, z nichž se toto vyvozuje, bude nutné takový závěr přehodnotit a rozšířit výčet šlechtických rodů, které v Boskovicích v minulosti sídlily. S počátky Boskovic je totiž spjat rod Pernštejnů.*
 
-{% photo src="https://i.ohlasy.info/i/oc5hone.jpg" caption="Scéna z erbovní pernštejnské pověsti na zámku v Pardubicích" author="Archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/oc5hone.jpg" caption="Scéna z erbovní pernštejnské pověsti na zámku v Pardubicích" author="Archiv Muzea regionu Boskovicka" /%}
 
 Roku 1222 je v listině z 26. srpna mezi svědky uveden Jimram z Boskovic – Emmeramus de Bozcowiz, čímž se tak poprvé zmiňují Boskovice a Jimram z Boskovic jako jejich první známý držitel. Ze stejného období, přesněji z let 1213–1225, je znám znojemský kastelán Jimram, o němž historik František Palacký nepochyboval, že je totožný s Jimramem z Boskovic. Ovšem A. V. Šembera, autor první a dosud jediné monografie o pánech z Boskovic, upozornil na listinu datovanou přibližně do roku 1220, v níž znojemský kastelán Jimram, syn Etlejův, daroval louckému klášteru ve Znojmě patronátní právo kostela v Příměticích a při tom užil pečeť se zubří hlavou v erbu. Nepochybně tedy náležel k rodu Pernštejnů. Z toho Šembera vyvodil, že tento Jimram nemohl být týž, který se roku 1222 psal po Boskovicích a byl tak prvním známým členem rodu pánů z Boskovic.
 

@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Rozhovor s Danem Štěpánským, jednatelem boskovické nemocnice. Mluvili jsme s ním na sklonku února, tedy přesně rok po vypuknutí covidové krize. Ptali jsme se na současnou situaci v nemocnici, která se připravuje na čtvrtou vlnu epidemie.*
 
-{% photo src="https://i.ohlasy.info/i/572a893c.jpg" caption="Dan Štěpánský, jednatel boskovické nemocnice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/572a893c.jpg" caption="Dan Štěpánský, jednatel boskovické nemocnice" author="Tomáš Trumpeš" /%}
 
 **Jaká je teď situace v nemocnici?**
 

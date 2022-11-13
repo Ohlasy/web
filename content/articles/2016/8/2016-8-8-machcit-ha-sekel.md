@@ -11,7 +11,7 @@ tags:
 
 *V dnešní Traplově ulici, která se dříve jmenovala Školní, stával do 50. let minulého století řadový jednopatrový dům, jehož součástí byla synagoga minor a bylo zde také sídlo židovského školství. Židovské děti zde navštěvovaly školu cheder, kde se v hebrejštině učily zejména základům tóry a judaismu, mladým talentovaným mužům pak byla určena ješiva, náboženská škola, zaměřená na náročné studium talmudu. Proslulost boskovické ješivy byla značná, z mnoha významných mužů, kteří zde studovali či vyučovali, je za nejvýznamnějšího považován učenec a autor náboženských spisů, jehož celé jméno zní Samuel ben Nathan Kell ha-levi.*
 
-{% photo src="https://i.ohlasy.info/i/kxxtext.jpg" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/kxxtext.jpg" author="Muzeum regionu Boskovicka" /%}
 
 Od jeho smrti uplynulo letos 210 let, je pochován na čestném místě takzvaného rabínského okrsku na boskovickém židovském hřbitově a jeho hrob je poutním místem mnoha Židů ze zahraničí, v drtivé většině se jedná o příslušníky ortodoxní komunity z New Yorku. O Samuelově životě a díle psal ve své knize Die Geschichte der Chewra Kadischa poslední boskovický rabín Isidor Reich, jsou zde však určité mezery a nepřesnosti, které před časem doplnil a opravil Jaroslav Bránský ve své knize Židé z Boskovic.
 
@@ -23,7 +23,7 @@ Samuel je dodnes známý a uctívaný pod jménem Machcít ha-šekel v ortodoxn�
 
 Samuel v Boskovicích plnil i další úkoly, byl předsedou židovského náboženského soudu a významným funkcionářem pohřebního bratrstva Chevra kadiša. Se svou ženou Elkele měl pět dětí, existenci tří synů potvrzuje Reich Samuelovým výrokem: „Kdybych měl hlavu svého Wolfa, píli svého Jokeva, a kdybych byl tak zbožný jako můj Jehuda, pak teprve bych byl dobrý Balbos, dobrý Žid.“ Rodina bydlela v dnešní Zborovské ulici č. 5,  v současnosti se zde nachází obchod se zdravou výživou.
 
-{% photo src="https://i.ohlasy.info/i/xlotfbf.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/xlotfbf.jpg" author="Tomáš Trumpeš" /%}
 
 Bylo již řečeno, že Samuel je pochován na boskovickém židovském hřbitovu. Vypráví se pověst, že před smrtí zakázal, aby na jeho náhrobku byl oslavný text, jak to bývalo zvykem. Přál si jen své jméno a titul díla Machcít ha-šekel. Pozůstalí však nechali na náhrobek vytesat chválu jeho skvělých znalostí tóry. Ale druhý den ráno nalezli náhrobní desku vyvrácenou na hrobě. Proto nechali zhotovit desku novou dle přání zesnulého. Při opravách synagogy minor v roce 1931, kterou inicioval rabín Reich k 125. výročí úmrtí Samuela, byla nalezena polovina náhrobního kamene, který bezesporu patřil ke hrobu Samuela, pravdivé jádro pověsti se tak potvrdilo. Bohužel dnes je tento kámen ztracený a jeho existenci dokládá již jen fotografie v Reichově publikaci. 
 

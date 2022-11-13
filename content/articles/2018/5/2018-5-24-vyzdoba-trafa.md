@@ -10,11 +10,11 @@ category: zpravodajství
 
 V prvním kole občané vybírali jeden ze tří návrhů streetartového výtvarníka Pavla Lišky. „Vzhledem k tomu, že se v průběhu ankety přihlásili další zájemci, kteří jsou ochotni zdarma věnovat městu svoje nápady a návrhy a kterým chceme dát příležitost, a také k tomu, že se v komentářích na facebookovém profilu města objevily i názory, že se nelíbí ani jeden návrh, rozhodli jsme se pro pokračování ankety druhým kolem,“ vysvětlil tiskový mluvčí radnice Jaroslav Parma.
 
-{% photo src="https://i.ohlasy.info/i/grzujjn.jpg" caption="Návrh číslo 1, vítěz prvního kola" %}
-{% photo src="https://i.ohlasy.info/i/o1x1a7i.jpg" caption="Návrh číslo 2" %}
-{% photo src="https://i.ohlasy.info/i/3adlyyi.jpg" caption="Návrh číslo 3" %}
-{% photo src="https://i.ohlasy.info/i/bmsu0lr.jpg" caption="Návrh číslo 4" %}
-{% photo src="https://i.ohlasy.info/i/36mr5re.jpg" caption="Návrh číslo 5" %}
+{% photo src="https://i.ohlasy.info/i/grzujjn.jpg" caption="Návrh číslo 1, vítěz prvního kola" /%}
+{% photo src="https://i.ohlasy.info/i/o1x1a7i.jpg" caption="Návrh číslo 2" /%}
+{% photo src="https://i.ohlasy.info/i/3adlyyi.jpg" caption="Návrh číslo 3" /%}
+{% photo src="https://i.ohlasy.info/i/bmsu0lr.jpg" caption="Návrh číslo 4" /%}
+{% photo src="https://i.ohlasy.info/i/36mr5re.jpg" caption="Návrh číslo 5" /%}
 
 
 Do druhého kola postoupil vítězný návrh Pavla Lišky z prvního kola a je doplněn novými návrhy. Hlasování probíhá [na webu](http://www.mojeanketa.cz/pruzkum/264776482/) a [na Facebooku](https://www.facebook.com/mestoboskovice/posts/1697953603620596) do 15. června 2018. Hlasovat je možné také formou SMS ve tvaru: „TRAFO navrh cislo X“, odeslané na číslo 777 254 232 nebo odesláním čísla vašeho návrhu na <jaroslav.parma@boskovice.cz>, a to rovněž do 15. června.

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *V proluce U Koupadel proběhne v sobotu 18. září celodenní akce [Zvuky a barvy židovské čtvrti](https://www.facebook.com/events/4208208779296992). Připravila ji iniciativa Zelená peřina, která také nadále pracuje na projektu, který zvítězil v prvním ročníku boskovického participativního rozpočtu. Jak přípravy probíhají a kdy bude hotovo?*
 
-{% photo src="https://i.ohlasy.info/i/e3da23aa.jpeg" caption="Drobné práce na úpravě proluky proběhly na jaře" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/e3da23aa.jpeg" caption="Drobné práce na úpravě proluky proběhly na jaře" author="Tomáš Trumpeš" /%}
 
 Sobotní akce bude předcházet důležitému kroku, který by měl umožnit posunout projekt blíže uskutečnění. Tím důležitým krokem je jednání boskovického zastupitelstva, které bude schvalovat smlouvy, na základě kterých dojde k majetkovému vypořádání a městu se konečně podaří scelit pozemky v proluce na Bílkově ulici do svého vlastnictví.
 

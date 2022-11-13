@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Příběh Františka Hrubého ze Skalice nad Svitavou z 50. let 20. století pro Ohlasy sepsal historik a bývalý pracovník boskovického muzea Jiří Řezníček.*
 
-{% photo src="https://i.ohlasy.info/i/47fe477e.jpg" caption="František Hrubý na fotografii pořízené Krajským velitelstvím StB v Brně krátce po jeho druhém zatčení v lednu 1952" author="Archiv bezpečnostních složek" %}
+{% photo src="https://i.ohlasy.info/i/47fe477e.jpg" caption="František Hrubý na fotografii pořízené Krajským velitelstvím StB v Brně krátce po jeho druhém zatčení v lednu 1952" author="Archiv bezpečnostních složek" /%}
 
 Padesátá léta 20. století se v komunistickém totalitním Československu nesla ve znamení různých podob perzekuce, jež zasáhla všechny vrstvy obyvatelstva. Mezi postižené patřil také selský stav i drobní rolníci. Ty totiž Komunistická strana Československa (KSČ) nutila ke vstupu do Jednotných zemědělských družstev (JZD). Dříve prosperující soukromá hospodářství měla být násilně přetvořena v zemědělské kolosy. Statisíce lidí tak měly přijít o svou půdu, na které po celé generace hospodařili a k níž měli velmi silný citový vztah.
 

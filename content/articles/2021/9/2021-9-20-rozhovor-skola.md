@@ -9,7 +9,7 @@ tags: vzdělávání
 
 *Rozhovor s pedagožkou Dagmar Hamalovou a farářem Jiřím Burešem o připravovaném projektu [Sudické školy](https://www.sudickaskola.cz/). Ta by měla být otevřená už od příštího školního roku, evangelická církev chce v Sudicích zřídit školu základní i mateřskou. Mluvili jsme hlavně o tom, jak by měla škola vypadat a co její založení obnáší. Sídlit má škola v budově, která byla kdysi jako evangelická škola postavena.*
 
-{% photo src="https://i.ohlasy.info/i/b76bc215.jpeg" caption="Jiří Bureš a Dagmar Hamalová před budovou Sudické školy" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/b76bc215.jpeg" caption="Jiří Bureš a Dagmar Hamalová před budovou Sudické školy" author="Tomáš Znamenáček" /%}
 
 **Jak záměr obnovit v Sudicích školu vznikl?**
 
@@ -43,7 +43,7 @@ Tím už naznačuji odpověď: Nepočítáme s tím, že by škola byla nějakou
 
 JIŘÍ BUREŠ: Mám dobrou zkušenost z doby, kdy moje děti začaly chodit do menší školy, která právě takto vznikla. Bylo hned vidět, jak blízko mají učitelé k dětem, jak je ta škola přehledným místem a jak se tam děti cítí bezpečně. Jak tam prostě tvoří dohromady trošku jednu partu. Tady bude jedna věc, kterou neznám a na kterou se těším – děti budou pohromadě i napříč věkovými skupinami, protože škola bude malotřídní. Od toho si slibujeme, že děti budou víc spolupracovat, budou se učit navzájem, budeme jim moci trošičku přenechat iniciativu. Člověk se nenaučí lépe látku než tím, že ji musí druhému vysvětlit nebo ho v ní vede. Tyto motivy a prvky jsou velmi dobré, zdravé a přirozené. Pořád se v životě potkáváme s lidmi, kteří toho vědí víc než my nebo třeba zase míň než my, a dohromady tvoříme jedno společenství.
 
-{% photo src="https://i.ohlasy.info/i/77835b53.jpeg" caption="Víkendová zahradní slavnost pro zájemce o projekt" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/77835b53.jpeg" caption="Víkendová zahradní slavnost pro zájemce o projekt" author="Tomáš Trumpeš" /%}
 
 ### Škola nejen pro křesťany
 
@@ -69,7 +69,7 @@ DAGMAR HAMALOVÁ: A co se týká biblických příběhů, tak příběh je práv
 
 JIŘÍ BUREŠ: To je nám naprosto cizí.
 
-{% photo src="https://i.ohlasy.info/i/0aacb4d9.jpeg" caption="Prohlídka budovy" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/0aacb4d9.jpeg" caption="Prohlídka budovy" author="Tomáš Trumpeš" /%}
 
 ### Sociálně dostupná škola
 

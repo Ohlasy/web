@@ -9,7 +9,7 @@ tags: doprava
 
 *Už zanedlouho začne výluka vlaků na hlavním koridoru do Brna. Mezi Blanskem a Brnem nebudou rok jezdit žádné vlaky; hojně využívané spoje nahradí desítky autobusů, které budou jezdit po vytížené silnici I/43 mezi Brnem a Svitavami. Cestování z Boskovic do Brna navíc už na začátku listopadu zkomplikovalo zrušení poslední přímé autobusové linky.*
 
-{% photo src="https://i.ohlasy.info/i/ad81c69e.jpeg" caption="Vlakové nádraží ve Skalici nad Svitavou" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ad81c69e.jpeg" caption="Vlakové nádraží ve Skalici nad Svitavou" author="Tomáš Znamenáček" /%}
 
 Až v neděli 12. prosince přesednou cestující z Boskovic ve Skalici nad Svitavou na vlak do Brna, dojedou nejdále do Blanska. Celý zbývající úsek až do Brna budou totiž železničáři rekonstruovat. Už od září se proto na části trati jezdí po jedné koleji. Kromě pokládky nových kolejí budou opraveny i mosty a tunely. Naposledy tady byla větší rekonstrukce v 90. letech, ale ani tehdy se neopravilo tolik, co je v plánu teď. V Blansku proto budou muset pasažéři přesednout na autobus. Budou mít přitom na výběr rovnou ze dvou různých linek:
 

@@ -9,7 +9,7 @@ tags: politika
 
 *Do sněmovních voleb zbývá poslední měsíc a Český statistický úřad už zveřejnil kompletní kandidátní listiny stran v jednotlivých krajích. Prošli jsme proto podrobněji, kdo z regionálních politiků se pokouší dostat do Poslanecké sněmovny za jižní Moravu – či spíše svou kandidaturou podporuje některou ze stran. Na volitelných místech je totiž víceméně nenajdeme.*
 
-{% photo src="https://i.ohlasy.info/i/712e0f42.jpeg" caption="Na 28. místě kandidátky SPOLU se o přízeň voličů uchází student Martin Staněk z boskovické ODS" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/712e0f42.jpeg" caption="Na 28. místě kandidátky SPOLU se o přízeň voličů uchází student Martin Staněk z boskovické ODS" author="Tomáš Trumpeš" /%}
 
 Volby proběhnou v pátek 8. a v sobotu 9. října. Voliči mohou na zvolené kandidátce udělit konkrétním kandidátům celkem 4 preferenční hlasy. Za jižní Moravu bylo v roce 2017 zvoleno 23 poslanců.
 

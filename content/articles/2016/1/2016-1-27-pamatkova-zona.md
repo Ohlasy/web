@@ -10,7 +10,7 @@ tags:
 
 *Vstřícný krok vůči vlastníkům nemovitostí v Městské památkové zóně (MPZ) připravily od letošního roku Boskovice. Konkrétně se jedná o nový dotační program, který je určen majitelům těch nemovitostí, které jsou součástí MPZ, ale samostatně nemají status kulturní památky. Majitelé těchto domů musejí při rekonstrukcích dodržovat pravidla daná [regulačním plánem MPZ](http://www.boskovice.cz/VismoOnline_ActionScripts/File.ashx?id_org=832&id_dokumenty=27409), doteď však neměli žádnou příležitost dosáhnout na příspěvky, které by jim pomohly finančně nákladnější opravy hradit.*
 
-{% photo src="https://i.ohlasy.info/i/ddm4oqq.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ddm4oqq.jpg" author="Tomáš Znamenáček" /%}
 
 Městská památková zóna nezahrnuje jen bývalé židovské ghetto, ale celé historické jádro Boskovic včetně náměstí a památkových budov na hradním kopci. „Nepřípustné je užití konstrukcí z plastů,“ stojí kupříkladu stručně v části regulačního plánu týkajícího se oken a dveří. Majitelé jsou tak nuceni zvolit dřevěné, nákladnější varianty řešení. Další omezení se týkají kupříkladu fasád domů: „Pro fasády objektů v řešeném území jsou přípustné omítky hladké a štukové, opatřené barevným nátěrem, nebo omítky probarvené ve hmotě. Barevnost bude vycházet z historicky doložené barevnosti objektu, případně bude vycházet z daného slohu a architektonického řešení.“ A podobných omezení je samozřejmě více.
 
@@ -28,6 +28,6 @@ Městská památková zóna by ovšem potřebovala investice za další desítky
 
 Za Městskou památkovou zónu bylo historické jádro Boskovic včetně náměstí, zámku, rezidence, bývalého kláštera, skleníku, hradu a torza židovského ghetta se synagogou prohlášeno v listopadu 1990. MPZ zahrnuje téměř 40 nemovitostí vedených v Ústředním seznamu kulturních památek.
 
-{% photo src="https://i.ohlasy.info/i/idiqs12.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/idiqs12.png" author="Mapy.cz" /%}
 
 Městská památková zóna je vymezena od západu ulicí Antonína Trapla, horní částí ulice Komenského, náměstím Dr. Snětiny, ulicí kpt. Jaroše a ul. Sušilovou. Dále hranice vede východně od rezidence po budovu panského dvora včetně jízdárny, kopíruje linii zámeckého parku až k silnici v Pilském údolí. Dále vede po této silnici až k mostu, odtud přímo na sever lesem k hradu. Od hradu po hřebenu kopce a Oborou na úroveň konce zámeckého parku. Dále hranici tvoří zeď zámeckého parku až po ulici Pod Klášterem, odtud na západ ulicemi Pod Klášterem, Velenova, Joštova. Západní hranici tvoří pozemky následujících domů (včetně): Bílkova 17, 26, U Koupadel 8, které navazují na ulici Antonína Trapla.

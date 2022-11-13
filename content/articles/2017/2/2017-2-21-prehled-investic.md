@@ -11,7 +11,7 @@ featured: true
 
 *Boskovická radnice chce letos investovat celkově více než 130 milionů korun, příští rok by měly být investice díky polytechnickému centru ještě vyšší. Jak moc současná koalice pod vedením ČSSD investuje ve srovnání s minulou koalicí pod vedením ODS?*
 
-{% photo src="https://i.ohlasy.info/i/hvcl7ww.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/hvcl7ww.jpg" author="Marek Osouch" /%}
 
 Městské výdaje se dají rozdělit na dvě skupiny, *běžné výdaje* a *kapitálové výdaje* neboli investice. Běžné výdaje jsou to, co takzvaně projíme, tedy například platy, energie, služby, převody peněz na provoz příspěvkových organizací a podobně. Kapitálové výdaje tvoří především investice do dlouhodobějšího majetku.
 
@@ -27,7 +27,7 @@ Tato investice se dá počítat za hlavní i v následujícím volebním období
 
 V dalších čtyřech letech ale žádná podobná akce neproběhla. Hlavním tahákem se měla stát nová sportovní hala, která nakonec nevznikla, právě kvůli sporům s částí obyvatel Boskovic a následné změně vedení města po posledních komunálních volbách. Investice tak v letech 2013 a 2014 výrazně stagnovaly. V roce 2014 se dokonce propadly pod 50 milionů, zatímco loni i předloni převýšily 100 milionů. Z následujícího grafu je také patrné, že postupně rostou i běžné výdaje města.
 
-{% photo src="https://i.ohlasy.info/i/80vmzxh.png" author="Tomáš Znamenáček, Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/80vmzxh.png" author="Tomáš Znamenáček, Marek Osouch" /%}
 
 ### Největší investiční akce jednotlivých let
 
@@ -40,13 +40,13 @@ V dalších čtyřech letech ale žádná podobná akce neproběhla. Hlavním ta
 
 Pro letošek je nejvyšší položkou v rozpočtu přístavba mateřské školy na Bílkově za 26,7 milionů. Dalších 10 milionů spolyká rekonstrukce hlediště letního kina a 13 milionů vyhradilo vedení Boskovic na revitalizace městských bytovek na Wolkerově, Jiráskově a u nemocnice. Polytechnické centrum, na které chce město získat dotaci, má začít vznikat až v roce 2018. Jeho plánovaná cena se prozatím vyšplhala na 74 milionů.
 
-{% photo src="https://i.ohlasy.info/i/mmglzdo.png" author="Tomáš Znamenáček, Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/mmglzdo.png" author="Tomáš Znamenáček, Marek Osouch" /%}
 
 Z rozpočtového hlediska je podstatné, že zdvojnásobení kapitálových výdajů v posledních dvou letech nešlo na úkor rozpočtových schodků. Při porovnání roků 2014 a 2015 nebyly výrazně vyšší ani daňové příjmy, to až loni, kdy narostly o 17 milionů ve srovnání s rokem 2014. Pokles investic v roce 2013 a 2014 a následný nárůst je tak hodně ovlivněn dotacemi, které ve zmiňovaných letech činily přibližně 60 milionů, zatímco loni už přesáhly 100 milionů. Podobné výše dotací však dosáhly Boskovice i za minulé koalice v roce 2011, poté ale byly až do změny vedení mnohem nižší.
 
 Výrazným pozitivem pro město je růst daňových příjmů, na což však nemá vliv vedení radnice, ale jen dobrý vývoj ekonomiky a zákonem stanovené rozpočtové určení daní.
 
-{% photo src="https://i.ohlasy.info/i/kpglhsh.png" author="Tomáš Znamenáček, Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/kpglhsh.png" author="Tomáš Znamenáček, Marek Osouch" /%}
 
 Minulá koalice peníze spíše šetřila na horší časy. A na sportovní halu, kterou se jí ale nakonec postavit nepodařilo. Od roku 2011 do roku 2014 dokázala díky přebytkům každý rok našetřit desítky milionů. Současná koalice už tolik nespoří, ale zatím ani nerozhazovala – za roky 2015 i 2016 vykázala i přes významné navýšení investic přebytkový rozpočet. Pro letošek však [počítá s utracením i všech dosavadních městských úspor](http://www.ohlasy.info/clanky/2016/11/novy-rozpocet.html), které převyšují 60 milionů, a v takové výši je naplánován i rozpočtový schodek.
 

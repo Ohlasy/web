@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Pavlínou Čechovou a Ondřejem Tajovským z folklorního souboru Velen. Ten slaví jubilejní 70. výročí od založení – i když trochu opožděně, protože musel oslavy kvůli pandemii odložit. Letos Velen připravil hned několik akcí a pracuje na novém pásmu Vojna.*
 
-{% photo src="https://i.ohlasy.info/i/5b4effdf.jpg" author="Julian Veverica" %}
+{% photo src="https://i.ohlasy.info/i/5b4effdf.jpg" author="Julian Veverica" /%}
 
 **Velen slaví 70 let od založení. První část oslav bude v sobotu 30. dubna – co přesně chystáte?**
 
@@ -49,7 +49,7 @@ ONDŘEJ TAJOVSKÝ: Je to takový evoluční proces. Řekli jsme si, že chceme u
 
 PAVLÍNA ČECHOVÁ: Je to trochu vyústění lockdownu. My jsme si o tom teoreticky vykládali a najednou jsme se vůbec nemohli scházet. Tanec je strašně kontaktní, takže opravdu nešlo dělat nic. Jako vedení jsme zoomovali a začali jsme to na online poradách vymýšlet. Pak už jsme se mohli začít scházet a myslím, že bylo důležité, že se potkaly dvě věci: Laďa Matuška měl už dlouho v hlavě nějakou choreografickou myšlenku a přišel Ondra, který přinesl svěží hudební nápady a zkušenosti z divadla. Na tomto si můžeme zkusit postupy, které ve folkloru běžně nevyužíváme, což je pro nás strašně fajn.
 
-{% photo src="https://i.ohlasy.info/i/1d84fa23.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1d84fa23.jpg" author="Tomáš Znamenáček" /%}
 
 **A muzika vzniká jak?**
 
@@ -83,7 +83,7 @@ ONDŘEJ TAJOVSKÝ: Chodím hrát tanečníkům na zkoušky, řešíme hudbu, tem
 
 ONDŘEJ TAJOVSKÝ: S příchodem [nového ředitele KZMB](https://ohlasy.info/clanky/2021/03/dostal-nazivo.html) se zájem o soubor a podpora velmi zlepšily. Je zde vůle podporovat nás v našich potřebách a ze strany souboru je zde zase vůle poskytnout nejen KZMB, ale celkově městu to nejvíc, co takový soubor může dát.
 
-{% photo src="https://i.ohlasy.info/i/2223f2a0.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2223f2a0.jpg" author="Tomáš Znamenáček" /%}
 
 **Co a kdy vás osobně přivedlo do Velenu?**
 

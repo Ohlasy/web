@@ -8,7 +8,7 @@ serial: pribehy
 
 *Nový seriál připravil pro Ohlasy spolupracovník brněnské pobočky Paměti národa Ladislav Oujeský. Vychází z vlastní dokumentační práce, v rámci které zachycuje vzpomínky pamětníků, kterým do života zasáhly totalitní režimy minulého století.*
 
-{% photo src="https://i.ohlasy.info/i/c18f7be0.jpeg" author="Ladislav Oujeský" %}
+{% photo src="https://i.ohlasy.info/i/c18f7be0.jpeg" author="Ladislav Oujeský" /%}
 
 První pamětnicí je Marie Henzlová, kterou druhá světová válka připravila o téměř celou rodinu. Narodila se 15. října 1930 v [Bukové na Drahanské vrchovině](https://mapy.cz/s/mulucugoma) jako čtvrté dítě manželům Anežce a Tomáši Švecovým. Celá rodina, včetně starší sestry Anežky a jejího manžela Pravoslava Kováře, pomáhala partyzánům.
 

@@ -9,7 +9,7 @@ tags: nemocnice
 
 *Boskovice mají hotový [audit nemocnice](https://data.ohlasy.info/2021/nemocnice-audit.pdf), který hodnotí budoucí vývoj a dopad jejího provozu na městský rozpočet. Auditoři radnici jednoznačně doporučují provoz soukromým subjektem, což ale vzhledem k boskovické zkušenosti může být rizikem. Naopak příliš podrobně neřeší různé možnosti kooperace s Jihomoravským krajem. Představené varianty i možné další alternativy rozebíráme v tomto analytickém textu.*
 
-{% photo src="https://i.ohlasy.info/i/a4yoilu.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/a4yoilu.jpg" author="Tomáš Znamenáček" /%}
 
 Starosta Boskovic Jaroslav Dohnálek (ODS) loni na podzim oznámil, že si město nechá zpracovat komplexní audit nemocnice ze všech možných pohledů, aby radnice věděla, jak na tom městské zdravotnické zařízení je – respektive aby bylo černé na bílém, že z boskovického rozpočtu bude ukrajovat čím dál více peněz.
 

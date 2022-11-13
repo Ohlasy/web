@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Může se společnost, která je kompletně vlastněná městem a čerpá desítky miliónů dotací z veřejných rozpočtů, tvářit jako soukromník?*
 
-{% photo src="https://i.ohlasy.info/i/wv5hsdn.jpg" caption="Boskovická nemocnice" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wv5hsdn.jpg" caption="Boskovická nemocnice" author="Tomáš Znamenáček" /%}
 
 Začátkem roku 2016 nechala dozorčí rada Nemocnice Boskovice vypracovat audit jejího hospodaření. Starostka Boskovic, Hana Nedomová (ČSSD), nebyla s jeho výsledky příliš spokojena, mluvila hned o několika problematických zjištěních a o tom, že pokud je nevysvětlí doplňující informace od zaměstnanců, rada zváží podání žaloby. Doplňující informace dorazily během října a zřejmě byly dostatečné, protože rada města na výsledky auditu nijak dál nereagovala.
 

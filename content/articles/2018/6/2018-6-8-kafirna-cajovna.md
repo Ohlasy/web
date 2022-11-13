@@ -10,7 +10,7 @@ featured: true
 
 *Chcete-li strávit skutečně příjemné chvíle ve voňavém, stylovém prostředí s konvičkou výborného čaje či šálkem kvalitní kávy, vřele vám doporučuji návštěvu starobylého domu na nároží ulic Zborovská a U Císařské, kde se nachází Literární čajovna Hermanna Ungara a Kafírna Dogvill. Jaká byla historie tohoto domu a vlastně i celé ulice, je vskutku zajímavé vyprávění.*
 
-{% photo src="https://i.ohlasy.info/i/0fzgeep.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0fzgeep.jpg" author="Tomáš Znamenáček" /%}
 
 Na počátku 18. století stál u vchodu do náměstí z dnešní ulice Zborovská měšťanský dům (dnes zde stojí secesní Traplův dům), jehož zahrada sahala až ke křižovatce nynější ulice U Císařské. Tehdejší majitel domu Václav Fiala chtěl využít zájmu boskovických Židů o získání nových stavebních parcel, a začal tedy po kouskách svou zahradu pronajímat. Činil tak „potajobnie“ (tedy potají), neboť podle tehdejších zákonů nesměli měšťané Židům své pozemky prodávat, ale i Fialova aktivita v podobě pronájmu sklidila značnou nevoli v křesťanských Boskovicích.
 

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Od prvního návrhu po závěrečné rozpočtové opatření, které ukáže reálné hospodaření města v uplynulém roce. Taková je cesta městského rozpočtu. V loňském roce byla hodně proměnlivá a to nám může pomoci pochopit, jak vlastně prvním návrhům a práci s rozpočtem rozumět.*
 
-{% photo src="https://i.ohlasy.info/i/69144485.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/69144485.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" /%}
 
 „Loňský rok dopadl dobře. Nedošlo k propadu daňových příjmů. Byly obavy, jaký bude mít vliv covidová situace, naštěstí v té příjmové stránce neměla,“ uvedl k finální výsledkům roku 2021 starosta Jaroslav Dohnálek (ODS).
 

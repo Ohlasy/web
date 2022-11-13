@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Stavba sportovní haly je v nedohlednu i po 15 letech od opuštění jízdárny. Ohlasy se pokusily vyčíslit náklady, které už město hala stála, aniž by byla jasná její podoba a náplň. A jak dokládají zkušenosti z minulosti, jistota nemůže být ani ohledně vybrané lokality.*
 
-{% photo src="https://i.ohlasy.info/i/ba91f47e.jpg" caption="Započatá a nedokončená stavba haly na Slovákově ulici, kde dnes stojí Centrum polytechnické výchovy, tvoří v doposud vynaložených nákladech největší část" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/ba91f47e.jpg" caption="Započatá a nedokončená stavba haly na Slovákově ulici, kde dnes stojí Centrum polytechnické výchovy, tvoří v doposud vynaložených nákladech největší část" author="Marek Osouch" /%}
 
 V roce 2016 Ohlasy publikovaly článek s titulkem, že [sportovcům hala chybí už deset let](https://ohlasy.info/clanky/2016/05/historie-haly.html). Dnes by se tento článek mohl publikovat znovu, jen s tím rozdílem, že by v něm přibylo pár řádků a v titulku se číslovka deset změnila na patnáct.
 

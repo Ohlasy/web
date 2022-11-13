@@ -9,7 +9,7 @@ tags: kultura
 
 *Touto dobou jsou Boskovice normálně plné kulturního očekávání, protože začíná festival pro židovskou čtvrť. Z celé republiky se sjíždí vyznavači všemožných kulturních směrů, aby zažili boskovickou atmosféru a poslechli si to nejlepší, co festival v Boskovicích nabízí. Jenomže nová doba přináší nové situace a festival byl, jako mnoho dalších, odložen. Některé festivaly, například KVIFF, nám situace okolo covidu paradoxně donesla až pod nos, a některé nám odložila nebo bohužel pro tento rok úplně zrušila. O to více mě potěšilo, jak jsou Boskovice i přes to všechno kulturně činné. Kulturní výběr je tak i tentokrát plný zajímavých koncertů, divadel, filmů a výstav.*
 
-{% photo src="https://i.ohlasy.info/i/1fa63e71.jpg" caption="Na obnovenou premiéru po 20 letech se chystají Samotáři, jeden z kultovních snímků přelomu tisíciletí" %}
+{% photo src="https://i.ohlasy.info/i/1fa63e71.jpg" caption="Na obnovenou premiéru po 20 letech se chystají Samotáři, jeden z kultovních snímků přelomu tisíciletí" /%}
 
 ### Tady Vary
 

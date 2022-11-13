@@ -9,7 +9,7 @@ tags: politika
 
 *Do sněmovních voleb zbývají jen dva a půl měsíce, kampaně už začínají požírat poslední zbytky veřejného prostoru a na náměstích se začínají objevovat vrcholní politici. Výsledky jsou vzhledem k tomu, kolik lidí se rozhoduje na poslední chvíli, obtížně predikovatelné, jedno je ale jisté – budou mít značný vliv i na komunální volby a příští uspořádání radnic. Sněmovní volby totiž mimo jiné proběhnou ve chvíli, kdy bude do dalších obecních voleb zbývat poslední rok.*
 
-{% photo src="https://i.imgur.com/mmTGvY0.png" caption="Pracovní skupina ke sportovní hale" author="Jaroslav Parma" %}
+{% photo src="https://i.imgur.com/mmTGvY0.png" caption="Pracovní skupina ke sportovní hale" author="Jaroslav Parma" /%}
 
 Celostátní politika se na té komunální vždy odrazí a pro strany bude důležité, z jakých startovních pozic budou do komunální kampaně vstupovat. Je jistě výhodou jít do komunálních voleb pod značkou vládní strany, případně rovnou strany premiérské. I na místní volby bude mít vliv, jestli v premiérském křesle usedne zástupce ANO, Pirátů nebo ODS, případně překvapivě někdo úplně jiný. Možná ještě větší vliv na sílu některých stran ale bude mít skutečnost, jestli se ve sněmovně vůbec udrží. Odchod hrozí hlavně ČSSD a komunistům, protože TOP 09 a KDU-ČSL se pojistily vstupem do koalice SPOLU – i u nich však výsledný počet mandátů může znamenat, že se definitivně zapíšou jako strany marginálního významu, nad smyslem jejichž samostatné existence se vznáší otazníky.
 

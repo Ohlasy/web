@@ -9,7 +9,7 @@ tags: politika koronavirus
 
 *Odložené jednání boskovického zastupitelstva proběhlo namísto obvyklého dubnového termínu v úterý 12. května. A měnilo se i místo konání, kvůli lepší možnosti nachystat zasedání s dostatečnými rozestupy usedli zastupitelé v sokolovně. Jednání bylo relativně krátké, zastupitelé se nepouštěli do delších diskusí.*
 
-{% photo src="https://i.ohlasy.info/i/5419bc3b.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/5419bc3b.jpeg" author="Tomáš Trumpeš" /%}
 
 Zastupitelstvo se sešlo takřka v plném počtu, chyběla jen senátorka Jaromíra Vítková (KDU-ČSL), která se ten den účastnila schůze Senátu. V tomto volebním období tak z devíti jednání zastupitelstva chyběla už počtvrté. Pro veřejnost byla vyhrazena místa na galerii, ale hned na počátku se v bodě určeném právě dotazům občanů ukázalo, že nikdo z veřejnosti možnosti účastnit se zastupitelstva nevyužil.
 

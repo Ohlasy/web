@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Boskovický radní za ČSSD Milan Kolínský má před svým domem za peníze z rozpočtu města nové pohodlné parkovací stání bez výtluků. Sousedé však i přes úpravy v tamní lokalitě parkují jen na štěrku jako dřív.*
 
-{% photo src="https://i.ohlasy.info/i/lhzjicm.jpg" caption="Stav silnice po opravách" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/lhzjicm.jpg" caption="Stav silnice po opravách" author="Marek Osouch" /%}
 
 Od začátku letošního roku visel v plánech údržby zeleně v Boskovicích bod, který počítal se skácením jeřábu ptačího u výjezdu z Boskovic v Havlíčkově ulici. Strom byl totiž už podle vyjádření úředníků odumřelý, a tak ho město nechalo z bezpečnostních důvodů odstranit, aby neohrožoval chodce ani auta.
 
@@ -17,7 +17,7 @@ Na úpravě zeleně by nebylo nic zvláštního, kdyby se zároveň s ní neopra
 
 „Byl to podnět mě jako občana a návrh včetně fotodokumentace s upozorněním na stav na městském pozemku před mým domem, nic dalšího jsem nepožadoval,“ prohlásil radní a tvrdí, že sám před domem neparkuje. V zaslaném podnětu podle svých slov navrhoval dvě možné varianty úprav. „První možnost byla zřídit legální parkovací stání včetně mobiliáře, jako je odpadkový koš, druhá možnost vysadit podél chodníku keře a zabránit tak parkování na chodníku a bourání mého plotu,“ doplnil radní. Nakonec nastaly obě varianty, s výjimkou umístění zmíněného koše.
 
-{% photo src="https://i.ohlasy.info/i/dlizrmn.png" caption="Původní stav před opravami" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/dlizrmn.png" caption="Původní stav před opravami" author="Mapy.cz" /%}
 
 Hned v sousedství domu radního, kde končí upravený pás zeleně, ovšem vše zůstalo nedotčené. Místo je přitom velmi podobné tomu, které bylo ještě loni před domem Kolínského. Silnice zde volně přechází v parkovací stání na hrubém štěrku a ten dále v trávník, takže do něj mohou auta bez problému vjet a stát tam nebo se i otáčet v místě, které radnice jen o pár metrů výše nazývá nevhodným a nepřehledným.
 

@@ -8,7 +8,7 @@ tags: politika
 
 *Rozhovor s Michaelou Žejškovou, která se stala předsedkyní boskovické TOP 09. V poslední době [organizovala boskovické protesty Milionu chvilek pro demokracii](https://ohlasy.info/clanky/2019/06/rozhovor-zejskova.html), nyní se rozhodla přímo vstoupit do strany, za kterou kandidovala už v minulých komunálních volbách.*
 
-{% photo src="https://i.ohlasy.info/i/89864cd5.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/89864cd5.jpeg" author="Tomáš Znamenáček" /%}
 
 **V minulých komunálních volbách jsi kandidovala za Volbu pro Boskovice s podporou TOP 09, teď ses rozhodla přímo do TOP 09 vstoupit a rovnou ses stala i předsedkyní. Co tě přimělo k tomu, že ses rozhodla pro přímé politické angažmá?**
 
@@ -46,7 +46,7 @@ Jak už jsem naznačila, v některých konkrétních věcech si myslím, že už
 
 Nevím, jestli bych použila slovo spokojený, ale určitě tichý. To asi může zaznít, jsem si toho vědoma.
 
-{% photo src="https://i.ohlasy.info/i/f808e520.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/f808e520.jpeg" author="Tomáš Znamenáček" /%}
 
 **Zaujal mě [odlišný pohled starosty za TOP 09 v Letovicích](https://ohlasy.info/clanky/2020/08/koronavirus-skrty.html) na chování města v současné krizi. Říká, že město by mělo právě nyní investovat, protože se dají vysoutěžit nízké ceny a podobně. V Boskovicích vítězí opačný trend – být opatrní a škrtat. Jak to vidíš ty?**
 

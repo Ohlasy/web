@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Do 50. let minulého století se v Boskovicích vařilo pivo. Pak už ale místní pivovar sloužil jen jako sklad a poslední roky zeje prázdnotou. Teď ho však jeho majitel prodává, realitní makléřce už se hlásí zájemci.*
 
-{% photo src="https://i.ohlasy.info/i/0mmg63t.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0mmg63t.jpg" author="Tomáš Znamenáček" /%}
 
 Už několik generací obyvatel Boskovic při cestě do sportovního areálu v Červené zahradě míjí bývalý panský pivovar. Jen málokdo si však už pamatuje, že by byl pivovar někdy zcela využit nebo sloužil svému účelu. Zvenku nejsou viditelné žádné opravy a stav celého objektu se zjevně zhoršuje.
 
@@ -28,7 +28,7 @@ Památkáři pivovar i s okolím popsali jako nedílný doplněk historického j
 
 Architekt Štěpán Mosler v [disertační práci z roku 2017](https://www.vutbr.cz/studenti/zav-prace/detail/77147?zp_id=77147) poukazuje také na hodnotnou střechu nad varnou, která je charakteristická podélnými otvory pro odvod horkého vzduchu. „Ta je však v kritickém stavu, stejně tak stropní konstrukce v půdním prostoru – v některých místech se zcela propadá,“ upozorňuje.
 
-{% photo src="https://i.ohlasy.info/i/drcpryn.jpg" author="archiv Muzea regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/drcpryn.jpg" author="archiv Muzea regionu Boskovicka" /%}
 
 Výroba piva má v Boskovicích dlouhou tradici, o čemž píší i památkáři. „Ve stavebním komplexu je dochována celá řada detailů, mezi nimiž vyniká kamenné ostění oken sladovny s iniciálami a heraldickými znameními Morkovských ze Zástřizl s datací 1674,“ pokračují v dokumentu. I proto jim nevadí, že se nezachovalo vybavení pivovaru.
 

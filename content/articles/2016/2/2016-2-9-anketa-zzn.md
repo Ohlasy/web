@@ -8,7 +8,7 @@ tags: architektura investice knihovna
 
 *Boskovice zvažují přestavět pro knihovnu [budovu bývalé normalizační prodejny domácích potřeb](/clanky/2016/01/budova-zzn.html). Dokázala by podle vás důkladná přestavba vytvořit z tohoto objektu důstojnou, reprezentativní a funkční stavbu? Nebo by bylo lepší budovu zbourat, pokud takovou knihovnu chceme na tomto místě mít?*
 
-{% photo src="https://i.ohlasy.info/i/bzngzf7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/bzngzf7.jpg" author="Tomáš Znamenáček" /%}
 
 ---
 

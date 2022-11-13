@@ -8,7 +8,7 @@ tags: politika volby
 
 *Na podzim se budou opět po čtyřech letech konat krajské volby. Svůj post hejtmana chce napotřetí obhájit dosavadní hejtman Michal Hašek (ČSSD), [o čemž jsme psali už dříve](/clanky/2016/02/krajske-volby.html). O křesla v krajském zastupitelstvu se však chtějí poprat i politici z okresu Blansko. Nabízíme přehled prozatím známých jmen.*
 
-{% photo src="https://i.ohlasy.info/i/5d1uvu3.jpg" author="Mercy from Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/5d1uvu3.jpg" author="Mercy from Wikimedia Commons" /%}
 
 ### ČSSD
 

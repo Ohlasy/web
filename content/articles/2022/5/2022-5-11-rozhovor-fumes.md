@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s MC Louisem de Fumésem, respektive Janem Královcem, který před časem vydal autorské album Nesnesitelná lehkost beatů a nyní se v Letovicích, odkud pochází, představí živě na festivalu [BiGy Fest](https://bigyfestletovice.cz/).*
 
-{% photo src="https://i.ohlasy.info/i/a28c9581.jpg" caption="Křest nové desky Nesnesitelná lehkost beatů" %}
+{% photo src="https://i.ohlasy.info/i/a28c9581.jpg" caption="Křest nové desky Nesnesitelná lehkost beatů" /%}
 
 **Bylo vydání autorského alba taková tvoje Meka, jak zní název [jedné z ústředních skladeb](https://www.youtube.com/watch?v=Jwu6qs-7uuo)? Míněno něco, cos chtěl nejméně jednou za život vykonat, taková povinná pouť pro MC Fumése?**
 

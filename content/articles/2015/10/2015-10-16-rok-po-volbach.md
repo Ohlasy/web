@@ -8,7 +8,7 @@ tags: politika
 
 *Rok uplynul od komunálních voleb, boskovická koalice ČSSD + KDU-ČSL + ANO 2011 má tak za sebou první čtvrtinu plánovaného vládnutí. A nic nenasvědčuje tomu, že by se síly na radnici měly nějak přeskupovat. „Koalice funguje tak, jak má. Nemáme mezi sebou zásadní rozpory,“ říká stručně starostka Hana Nedomová s tím, že hodnotit práci radnice musí hlavně občané. Pochvaluje si, že spolu ve vedení města hodně komunikují, nad stěžejními otázkami se schází všichni koaliční zastupitelé.*
 
-{% photo src="https://i.ohlasy.info/i/dzr0k8j.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/dzr0k8j.jpg" author="Tomáš Trumpeš" /%}
 
 Její slova potvrzuje i místostarostka Jaromíra Vítková, která je ve funkci již čtvrté období, nyní však v podstatně proměněném uspořádání. „Objevily se novinky, které jsem dříve nezažívala. Setkáváme se jako celá koalice, na radnici se potkáváme, kdykoliv je potřeba, probíhá to konstruktivně, a mohu-li to tak říct, tak v příjemné atmosféře,“ uvedla Jaromíra Vítková. 
 

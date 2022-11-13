@@ -9,7 +9,7 @@ tags: doprava politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci srpna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři starosty Jaroslava Dohnálka (ODS) z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/6lykyrx.jpg" caption="Vizualizace kruhového objezdu pod poštou" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/6lykyrx.jpg" caption="Vizualizace kruhového objezdu pod poštou" author="Město Boskovice" /%}
 
 ### Křižovatka u pošty
 

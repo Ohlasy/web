@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady koncem listopadu. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/0e3e2d1f.jpg" caption="Jedním projektů připravovaných na příští rok je rekonstrukce Hybešovy ulice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/0e3e2d1f.jpg" caption="Jedním projektů připravovaných na příští rok je rekonstrukce Hybešovy ulice" author="Tomáš Trumpeš" /%}
 
 ### Epidemická situace
 

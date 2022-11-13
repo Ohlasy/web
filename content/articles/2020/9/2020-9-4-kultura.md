@@ -9,7 +9,7 @@ tags: kultura
 
 *Je to tak! Končí letní kulturní sezona. Pojďme si tedy užít ještě poslední zbytky open air koncertů, letních výstav, projekcí a divadel tohoto roku a také tu letní pohodu, která byla letos obzvlášť ohrožená. Tento měsíc je skutečně bohatý na zajímavá a známá jména. Jan Němec, Karel Gregor, nebo Václav Neckář je jen slabý výčet z kulturní nabídky tohoto měsíce. Pokračujeme také ve festivalech.*
 
-{% photo src="https://i.ohlasy.info/i/776a1a45.jpg" author="Karel Gregor" %}
+{% photo src="https://i.ohlasy.info/i/776a1a45.jpg" author="Karel Gregor" /%}
 
 ### Zlatíčka / Vernisáž obrazů Karla Gregora
 

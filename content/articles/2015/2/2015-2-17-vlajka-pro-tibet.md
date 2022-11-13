@@ -8,7 +8,7 @@ tags: politika
 
 *K mezinárodní kampani Vlajka pro Tibet se letos připojí také boskovická radnice. Tibetská vlajka na ní bude vyvěšena 10. března u příležitosti 56. výročí povstání Tibeťanů proti čínské okupaci. Toto povstání bylo násilně potlačeno čínskou armádou, což stálo život téměř milion Tibeťanů.*
 
-{% photo src="https://i.ohlasy.info/i/b9eakbh.jpg" %}
+{% photo src="https://i.ohlasy.info/i/b9eakbh.jpg" /%}
 
 Vyvěšení Tibetské vlajky tentokrát schválilo boskovické zastupitelstvo. V minulosti Boskovice připojení ke kampani vždy zamítly, i když počet zastupitelů, kteří chtěli tímto způsobem vyjádřit symbolickou podporu okupovanému Tibetu, se během posledních let postupně zvyšoval. Ve městě se 10. března konaly také akce s tibetskou tematikou. Vlajka tak pravidelně vlála aspoň před radnicí, kde se vždy 10. března shromáždil hlouček aktivistů.
 

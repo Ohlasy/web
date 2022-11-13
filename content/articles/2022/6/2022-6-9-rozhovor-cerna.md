@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Janou Černou z pražského Unijazzu, která je společně s Monikou Šikulovou koordinátorkou festivalu pro židovskou čtvrť Boskovice. Festival letos slaví jubilejní 30. ročník, a tak jsme probrali nejen aktuální přípravy a program, ale i samotnou akci v širším kontextu.*
 
-{% photo src="https://i.ohlasy.info/i/51e1fa5f.jpg" caption="Jana Černá" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/51e1fa5f.jpg" caption="Jana Černá" author="Tomáš Trumpeš" /%}
 
 **Jaký bude jubilejní třicátý ročník festivalu Boskovice?**
 

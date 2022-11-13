@@ -10,7 +10,7 @@ tags: krajina historie
 
 *Mezi Valchovem a Němčicemi se skrývá nenápadný, 638 metrů vysoký Perný vrch. Kromě místních ho málokdo zná, přestože po jeho západním úbočí prochází žlutá turistická značka z Valchova přes Němčice do Sloupu. Jestliže od Němčic se Perný jen mírně zvedá nad náhorní rovinu Drahanské vrchoviny, směrem na západ jej od o něco vyššího Holíkova ([o něm jsem již psal](https://ohlasy.info/clanky/2016/04/holikov.html)) odděluje výrazný žleb. Mezi Perným a Holíkovem se také nachází louka Randulová, známá skautům ze širokého okolí, kteří na ní pořádají letní tábory.*
 
-{% photo src="https://i.ohlasy.info/i/15723a5d.JPG" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/15723a5d.JPG" author="Hynek Skořepa" /%}
 
 Stráň Perného je opravdu příkrá a špatně schůdná, nikoliv náhodou byla proto za války vybrána jako místo pro vybudování partyzánského bunkru. Dnes je místo bunkru pietně upraveno a pamětní deska uvádí jeho tehdejší obyvatele. Vznikl zde první partyzánský bunkr na Boskovicku.
 
@@ -20,7 +20,7 @@ Stráň Perného je opravdu příkrá a špatně schůdná, nikoliv náhodou byl
 
 Další bunkr vznikl o něco později u Drválovic. Drválovická odbojová skupina se naneštěstí seznámila se Šmídem, takzvaným Černým Frantou. Ten přivedl ještě Chalupu a Ryšánka. Všichni se vydávali za členy komunistické organizace z Ostravy, ve skutečnosti však byli agenty gestapa. V dobrém úmyslu je spojky dovedly až do Valchova. V krásném podzimním dni 2. 10. 1943 obkličují Valchov vojáci v šedých uniformách. Od Perné je slyšet výbuchy granátů, Němci vybírají bunkr…
 
-{% photo src="https://i.ohlasy.info/i/23636558.JPG" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/23636558.JPG" author="Hynek Skořepa" /%}
 
 Paní Cecílie Staňková (Ludíkov 23) obdržela od Okresního úřadu v Boskovicích dopis datovaný 8. prosince 1944, ve kterém byl původně německy psaný text přeložen do češtiny:
 
@@ -34,6 +34,6 @@ Vzpomínky na válečné události byly uveřejněny například v brožuře *Od
 
 Na jaře roku 1989 jsem skládal spolu s dalšími novými členy oddílu u bunkru na Perné pionýrský slib. Nestydím se za to. Jedním z vedoucích oddílu byl právě onen člověk, který jako náctiletý mladík praktikoval ve zdejších lesích, měl se stát hajným. Do lesa chodíval ještě předtím, les živil jejich rodinu. Tatínek pracoval coby dřevorubec, maminka sázela na pasekách stromky a čerstvých pasek bylo tenkrát na stráních Perného i Holíkova hned několik. Němci hned po vzniku Protektorátu nařídili zvýšené těžby, aby mělo válečné hospodářství dostatek dřeva. Ten pionýrský oddíl měl spíše skautský program, formoval děti v duchu lesní moudrosti. Nemluvilo se v něm o politice ani ideologii. Jak propastný to byl rozdíl proti fungování pionýra ve škole. I tam byly pro žáky organizovány různé zajímavé mimoškolní aktivity, ideově-politickým vlivům se však nebylo možné vyhnout.
 
-{% photo src="https://i.ohlasy.info/i/1cb8e934.jpeg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/1cb8e934.jpeg" author="Hynek Skořepa" /%}
 
 Vraťme se ale na Pernou. Staří lesáci prý nazývali tento kout lesa „komorou zvěře“. V myslivecké hantýrce se komora říká srdci, zasáhnout zvěř (třeba srnčí) na komoru, aby se netrápila, je uměním. V případě Perné jde o vyjádření toho, že se v těchto místech zdržovalo množství lovné zvěře. I při své nedávné zimní výpravě jsem zde nacházel hodně stop – srnčích, zaječích, liščích a hlavně od divokých prasat. Perná zvěř dodnes láká. V nepřístupných příkrých svazích není rušena, houštiny jí poskytují úkryt a blízké louky i pole potravu. V okolí někdejšího partyzánského bunkru dnes roste vzrostlý les. Za války zde však převládaly husté mlaziny, pro vodu k potoku i do vesnic, odkud byli jeho ilegální obyvatelé zásobováni, Valchova, Ludíkova i Němčic, bylo nedaleko. Dobré místo pro něj vybrali místní odbojáři. Uprchlí sovětští zajatci měli naději, že se zde dočkají doby, než se přiblíží fronta. Osud však rozhodl jinak a jejich životy ukrátila zrada…

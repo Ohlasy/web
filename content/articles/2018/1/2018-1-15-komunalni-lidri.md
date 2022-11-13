@@ -8,7 +8,7 @@ tags: politika
 
 *Strany už postupně volí své lídry do komunálních voleb. ČSSD znovu povede současná starostka Hana Nedomová. U jiných stran nejspíš dojde ke generačním obměnám.*
 
-{% photo src="https://i.ohlasy.info/i/jtfgtgv.jpg" caption="Hana Nedomová, starostka Boskovic, bude v podzimních komunálních volbách obhajovat svůj post" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jtfgtgv.jpg" caption="Hana Nedomová, starostka Boskovic, bude v podzimních komunálních volbách obhajovat svůj post" author="Tomáš Znamenáček" /%}
 
 Komunální volby budou sice až na podzim, už teď ale politické strany a další uskupení postupně přemýšlí nad svými lídry. Vládnoucí ČSSD už rozhodla, že ji do voleb povede současná starostka Hana Nedomová. Pokusí se tak obhájit své křeslo. „Usilovala jsem už před stranickým výborem a jsem ráda, že mě následně členská schůze v tajné volbě zvolila lídrem a kandidátkou na starostku,“ sdělila.
 

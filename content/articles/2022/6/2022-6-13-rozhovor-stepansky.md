@@ -9,7 +9,7 @@ tags: nemocnice
 
 *Jednatel boskovické nemocnice Dan Štěpánský hned na úvod rozhovoru pro Ohlasy říká, že už v křesle nemusel být. Má na mysli [své loňské oznámení](https://ohlasy.info/clanky/2021/06/stepansky-konci.html), že už nechce městskému zdravotnickému zařízení šéfovat. [Nakonec ale setrval](https://ohlasy.info/clanky/2021/08/stepansky-zustava.html). „S panem starostou jsme si plácli do konce volebního období. Co bude dál, to nevím,“ vysvětluje Dan Štěpánský, který k sobě na místo ekonomické náměstkyně na přelomu roku přilákal dosavadní vedoucí finančního odboru na boskovickém úřadu.*
 
-{% photo src="https://i.imgur.com/iATd543.jpg" author="Marek Osouch" %}
+{% photo src="https://i.imgur.com/iATd543.jpg" author="Marek Osouch" /%}
 
 **Nové vedení po volbách vás už tedy nepřemluví?**
 

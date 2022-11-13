@@ -10,7 +10,7 @@ tags:
 
 *Debata o sportovní hale byla i tentokrát dominantním tématem jednání boskovického zastupitelstva. Trvala téměř dvě hodiny, během kterých především opoziční zastupitelé vyjádřili své pochybnosti a kritické připomínky k [aktuálnímu návrhu z dílny AV Atelieru](https://www.boskovice.cz/vystavba-sportovni-haly-v-boskovicich/d-43103).*
 
-{% photo src="https://i.ohlasy.info/i/6ae563c8.jpg" caption="Jedna z posledních vizualizací haly" author="AV Atelier" %}
+{% photo src="https://i.ohlasy.info/i/6ae563c8.jpg" caption="Jedna z posledních vizualizací haly" author="AV Atelier" /%}
 
 Aktuální verzi investičního záměru sportovní haly od AV Atelieru představila v úvodní prezentaci místostarostka Michaela Žejšková (TOP 09). „Tyto podklady slouží jako podklad pro přípravu zadání práce projektanta,“ uvedla místostarostka. A zopakovala, že hala byla posunuta z místa po hotelu Velen blíže na pozemek po bývalém lihovaru, zejména aby nedocházelo ke kolizi se sousední stavbou kuželny patřící Tadeuszu Wilkovi. A doplnila, že ve studii je namalován ovál se čtyřmi drahami, ale vejde se jich šest, takže bude záležet na rozhodnutí vedení města, které bude investici provádět.
 

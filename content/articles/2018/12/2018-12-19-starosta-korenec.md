@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Do čela Kořence po volbách místní zastupitelé znovu zvolili Miroslava Zemánka. Jeho letošní volební klání už bylo jedenácté. Kořenec začal spravovat už za minulého režimu a od té doby ho nikdo jiný nevystřídal. Stal se tak matadorem a rekordmanem celého okresu.*
 
-{% photo src="https://i.ohlasy.info/i/un32gr4.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/un32gr4.jpg" author="Marek Osouch" /%}
 
 Malou vesničku Kořenec v kopcích Drahanské vrchoviny dnes zná mnoho lidí díky golfovému areálu, v minulosti ji proslavil zejména umělec a akademický malíř František Řehořek, jehož jméno se vrylo do pojmenování významné přírodní lokality v okolí – Řehořkovo Kořenecko.
 
@@ -27,7 +27,7 @@ Práce vidí stále dost nejen na následující čtyři roky, spoustu jí má v
 
 Cesta do čela obce a vůbec místní politiky nevedla jinudy než přes KSČ. A tak když se rozhodl v roce 1976 dělat pro obec něco více než povinné socialistické brigády, neměl na výběr, než vstoupit do strany. Jak říká, když se o jeho kroku dozvěděli rodiče, nenesli to vůbec dobře. Celý život byl vychováván v křesťanské rodině a až do svých 23 let chodil pravidelně do kostela. „Kdyby to bylo možné, tak jsem nikdy ve straně nebyl,“ říká.
 
-{% photo src="https://i.ohlasy.info/i/xj7s9as.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/xj7s9as.jpg" author="Marek Osouch" /%}
 
 ### Vesnice „na konci světa“
 
@@ -47,7 +47,7 @@ Spor jménem golfové hřiště měl svůj dopad také v následujících volbá
 
 Jeho historie se prakticky začala psát už před revolucí, když v 60. letech chtěli věřící v obci vybudovat kapličku. Kvůli nedostatku peněz vybraných ve sbírkách a následné normalizaci byl budování konec. Když se následně dostal do vedení obce Miroslav Zemánek, nechtěl, aby centrum obce hyzdila hrubá stavba. „Udělali jsme z ní proto síň tradic. Byla to taková znouzectnost, především jsme ale nechtěli, aby to spadlo. Vystavili jsme tam kořenecký kroj a další památky, jak se žilo na Kořenci,“ popisuje. Po revoluci už vznikla vysněná kaplička a exponáty připomínající historii Kořence se přestěhovaly. Obci se naskytla příležitost je umístit do jiné budovy, kde jsou dodnes.
 
-{% photo src="https://i.ohlasy.info/i/qxtwb3e.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/qxtwb3e.jpg" author="Marek Osouch" /%}
 
 ### Podpora bydlení pro mladé jako naděje obce do budoucna
 

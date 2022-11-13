@@ -8,7 +8,7 @@ tags: politika
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ČSSD, Pirátů, KDU-ČSL a KSČM.*
 
-{% photo src="https://i.ohlasy.info/i/5d3c2d95.jpg" author="Romary / Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/5d3c2d95.jpg" author="Romary / Wikimedia Commons" /%}
 
 **Podporujete zařazení lezecké stěny do zadání na sportovní halu na Hybešově?**
 

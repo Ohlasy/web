@@ -10,7 +10,7 @@ tags:
 
 *Krajský soud v Brně letos v říjnu potrestal bývalého šéfa stavebního odboru na Městském úřadě v Boskovicích Slavoje Horečku dvěma roky vězení, podmíněně odloženými na zkušební dobu čtyř let. Podle rozsudku zanedbal kontrolu při kolaudaci boskovické solární elektrárny.*
 
-{% photo src="https://i.ohlasy.info/i/6bpqqdo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6bpqqdo.jpg" author="Tomáš Znamenáček" /%}
 
 Psal se 8. prosinec roku 2010. V Boskovicích bylo sychravo, země byla rozblácená, místy ležel sníh. Ten den ráno se před osmou hodinou vydal tehdejší šéf boskovického stavebního úřadu Slavoj Horečka se svou kolegyní Radmilou Malachovou na kolaudační prohlídku budované solární elektrárny, která rostla v Boskovicích na Chrudichromské ulici za rozvodnou energetické společnosti E.ON.
 

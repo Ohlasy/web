@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s místostarostkou Dagmar Hamalovou z KDU-ČSL, která má na starosti mimo jiné dvě momentálně velmi exponované oblasti: dopravu a školství. Kromě opravy Dukelské ulice a konkurzů na ředitele škol jsme mluvili i o její politické budoucnosti.*
 
-{% photo src="https://i.ohlasy.info/i/lxnxdha.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lxnxdha.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" /%}
 
 **Rekonstrukce Dukelské ulice se dotkla velkého počtu lidí. Je to silné téma a lidé často nerozlišují, jakou roli zde hraje město. Může podle vás Dukelská ovlivnit i letošní komunální volby?**
 
@@ -121,7 +121,7 @@ V současné době nevidím možnost, jak přimět Svazek, aby svůj postoj změ
 
 Uvidí se, kam stavba postoupí. Pro nás je důležité o prázdninách nějakým způsobem Dukelskou zprůjezdnit, tím by odpadla i tato záležitost.
 
-{% photo src="https://i.ohlasy.info/i/zyerqss.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/zyerqss.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" /%}
 
 ### S parkováním si musíme poradit my
 
@@ -181,7 +181,7 @@ Probíhají jednání v této věci, to je v gesci paní starostky.
 
 Souvisí, ano, můžu proto říct, že děláme maximum a probíhají jednání. Byl i názor vybudovat parkovací dům místo parku u Alberta. Jsem ráda, že k tomu nedošlo a že se o tom zatím neuvažuje, protože přece jen ubírat zeleň by nebylo nejlepší.
 
-{% photo src="https://i.ohlasy.info/i/iahi6iy.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/iahi6iy.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" /%}
 
 ### Podívat se dopředu
 
@@ -233,7 +233,7 @@ Důležité je, že funguje školská rada, kde má město jako zřizovatel zast
 
 Jsme taky v kontaktu s rodiči, řešíme jejich individuální podněty. Navíc každá školní budova má své směřování, svou tvář, a zřizovatel tyto informace potřebuje. Potřebuje vědět, kam se škola ubírá, souvisí to například s doporučenými investicemi pro jednotlivá pracoviště.
 
-{% photo src="https://i.ohlasy.info/i/t5a5rs7.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/t5a5rs7.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" /%}
 
 ### Koncepce zveřejňovat nebudeme
 
@@ -269,7 +269,7 @@ Jak říkám, pravidla výběrového řízení jsou taková, že se to nezveřej
 
 Je to dáno v metodice Jihomoravského kraje.
 
-{% photo src="https://i.ohlasy.info/i/q2d9qi8.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/q2d9qi8.jpg" caption="Dagmar Hamalová" author="Tomáš Znamenáček" /%}
 
 ### Návrat do muzea
 

@@ -9,7 +9,7 @@ tags: vzdělávání
 
 *Ministerstvo školství po delších průtazích způsobených rozpočtovým provizoriem zapsalo do rejstříku škol a školských zařízení Církevní mateřskou školu a základní školu Sudice. Nová malotřídka s mateřskou školou a družinou tak má konečně jistotu, že může od příštího školního roku otevřít a stát bude podporovat její provoz. Nyní probíhá rekonstrukce budovy a byla vyhlášena veřejná sbírka.*
 
-{% photo src="https://i.ohlasy.info/i/a51454eb.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/a51454eb.jpg" author="Tomáš Trumpeš" /%}
 
 [Sudickou školu](https://www.sudickaskola.cz) bude provozovat Českobratrská církev evangelická, a to v budově původní evangelické školy z 19. století. Vzhledem k finanční náročnosti oprav bude pro školu důležité získat nyní finanční podporu veřejnosti. Proto byla spuštěna [veřejná sbírka na platformě Donio.cz](https://www.donio.cz/sudicka-skola). 
 

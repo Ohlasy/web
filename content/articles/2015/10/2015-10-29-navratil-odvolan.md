@@ -8,7 +8,7 @@ tags: nemocnice politika
 
 *Jednatele boskovické nemocnice Dana Navrátila odvolala na svém úterním zasedání městská rada, která je zároveň valnou hromadou nemocnice. Podle starostky Hany Nedomové rada využila svého práva a podle obchodního zákoníku ředitele odvolala bez udání důvodu. Starostka pouze uvedla, že jednatel Navrátil ztratil u vedení města důvěru. „Víc vám k tomu neřeknu,“ sdělila na pravidelné tiskové konferenci.*
 
-{% photo src="https://i.ohlasy.info/i/twmau3f.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/twmau3f.jpg" author="Tomáš Trumpeš" /%}
 
 Řízením nemocnice je pověřena právě starostka Hana Nedomová, která ji má převzít již tento pátek ráno. Výběrové řízení na nového jednatele bude vypsáno v nejbližší době.
 

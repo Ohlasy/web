@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *[Omezování železniční dopravy](https://ohlasy.info/clanky/2022/10/vlaky-boskovice.html) v regionu inspirovalo lektora globálního vzdělávání [Lukáše Pokorného](https://ohlasy.info/clanky/2017/06/beseda-klima.html) k zamyšlení nad výhodami železniční dopravy.*
 
-{% photo src="https://i.ohlasy.info/i/464fb95e.jpg" author="Lukáš Pokorný" %}
+{% photo src="https://i.ohlasy.info/i/464fb95e.jpg" author="Lukáš Pokorný" /%}
 
 Sedím zrovna v rychlíku linky R8 z Ostravy do Brna, sleduji krajinu Poodří a přemýšlím zas a znovu nad tím, jaké různé benefity pro mne má cestování vlakem. Za okamžik již stavíme ve Studénce a já otvírám svůj laptop. Je tu poměrně stabilní internetové připojení, a tak vyřizuju e-maily a odškrtávám drobné pracovní úkoly. Jindy, když internet nefunguje, koukám z okna, otevřu knihu, povídám si s lidmi nebo si dám lahváče. Jsou to pro mě kvalitně strávené chvíle.
 

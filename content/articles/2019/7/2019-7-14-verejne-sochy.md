@@ -9,7 +9,7 @@ tags: kultura
 
 *Letošní ročník festivalu Boskovice byl výjimečnější, než se mi na první pohled zdálo. Celkově je pro nás, co ve městě žijeme, tento festival důležitější, než si sami uvědomujeme. Letos tu výjimečnost způsobila drobnost – pro někoho možná nikterak výrazná, pro někoho možná iritující a pro někoho možná opravdu důležitá jako podnět k zamyšlení. Snad poprvé v historii festivalu opustily čistě umělecké formy muzeum a vnikly do veřejného prostoru. Někde nenápadně, někde vyzývavě, ale stoprocentně v ulicích.*
 
-{% photo src="https://i.ohlasy.info/i/aii7cy6.jpg" caption="Pavlína Kvita: Torzo (2018), sklocement" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/aii7cy6.jpg" caption="Pavlína Kvita: Torzo (2018), sklocement" author="Tomáš Znamenáček" /%}
 
 Pracuji v Brně a projekt sochy v ulicích a debaty o sochách v kampusu Masarykovy univerzity beru jako samozřejmou součást života v tomto městě. Ovšem v Boskovicích? Sochy v ulicích? Jak osvěžující. Do této doby jsem si neuvědomoval, jak moc sochy v našem městě potřebujeme a jak mi chybí. Vlastně jak moc je potřebujeme ve všech městech. A jak nám globálně chybí.
 

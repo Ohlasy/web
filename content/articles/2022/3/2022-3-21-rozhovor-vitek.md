@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Filipem Vítkem, který se hned po napadení Ukrajiny Ruskem pustil do organizování pomoci v našem regionu a podílel se i na převozu válečných uprchlíků, založil také facebookovou skupinu [Pomoc pro Ukrajinu z Boskovicka a Blanenska](https://www.facebook.com/groups/1107536703329431/). Jinak je Filip Vítek dobrodruh, cestovatel a lektor, ale také politik – za Piráty bude kandidovat v letošních senátních volbách.*
 
-{% photo src="https://i.ohlasy.info/i/0692ff62.jpg" caption="Filip Vítek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/0692ff62.jpg" caption="Filip Vítek" author="Tomáš Trumpeš" /%}
 
 **Když začala válka na Ukrajině, bylo ti hned jasné, že se zapojíš do pomoci, nebo co bylo tím impulsem?**
 
@@ -36,7 +36,7 @@ Pak to zrealizovat tady, to už bylo to poslední. Prostor nám poskytl prostor 
 
 Bylo to boží. Sobota byla ještě slabší, desítky lidí. Ale v neděli se tvořily opravdu fronty. Podařilo se mi třeba dvacet lidí, co něco přinesli, zapojit, takže začali třídit. Protože my bychom to naprosto nestíhali. Bylo to silné. A chci moc poděkovat všem lidem, co nejen darovali, ale taky se zapojili v Boskovicích i v Blansku jako dobrovolníci s organizací.
 
-{% photo src="https://i.ohlasy.info/i/f804ea11.jpg" caption="Materiální sbírka na Panském dvoře" author="archiv Filipa Vítka" %}
+{% photo src="https://i.ohlasy.info/i/f804ea11.jpg" caption="Materiální sbírka na Panském dvoře" author="archiv Filipa Vítka" /%}
 
 **A co jste tedy v té první fázi sbírali?**
 
@@ -66,7 +66,7 @@ Přijde mi důležité vypíchnout, že naše očekávání, která od nich mám
 
 Bylo to hrozné. Ti lidi jsou prostě fakt v pr**li. Pardon, asi to po mně nějak přepíšeš. Ale ti lidi… jak to pořád slyšíš a čteš, tak dokud to nevidíš – aspoň u mě to tak bylo – že opravdu někdo jde se dvěma kabelama a děckem, které neunese, protože je to šestiletá holka, kterou ale musíš přenášet… Do té doby mně úplně nedošlo, jak je to opravdu strašné.
 
-{% photo src="https://i.ohlasy.info/i/778a70fe.jpg" author="Filip Vítek" %}
+{% photo src="https://i.ohlasy.info/i/778a70fe.jpg" author="Filip Vítek" /%}
 
 **Myslíš, že to vnímají tak, že jedou na nějakou nejkrizovější dobu, nebo nadlouho či napořád?**
 
@@ -96,7 +96,7 @@ Asi ne na zimáku… Spousta lidí má výborné nápady. S čím se mi třeba o
 
 Opatrně bych řekl, že ano. Já jsem nadšený, že lidi chtějí pomáhat. Vidíme to asi všichni kolem sebe, dělá mi to radost. Mám pocit, že jako společnost maturujeme.
 
-{% photo src="https://i.ohlasy.info/i/f98a4f12.jpg" author="Filip Vítek" %}
+{% photo src="https://i.ohlasy.info/i/f98a4f12.jpg" author="Filip Vítek" /%}
 
 **Jaký máš dojem z přístupu státu a měst? Byla na to společnost nachystaná a reaguje dobře?**
 

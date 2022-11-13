@@ -11,7 +11,7 @@ tags:
 
 *Vzhledem k pokračující válce na Ukrajině a silné imigrační vlně se stále častěji setkáváme s ukrajinským jazykem, ať už přímo při kontaktu s ukrajinskými uprchlíky v naší zemi, nebo nepřímo skrze sdělovací prostředky. Přestože příčiny, které k takovému styku s ukrajinštinou vedly, jsou ryze negativní, můžeme tuto situaci vnímat a využít i jako příležitost blíže se seznámit se zajímavým jazykem, který u nás z politických a historických důvodů vždy stál ve stínu svého velkého bratra, ruštiny.*
 
-{% photo src="https://i.ohlasy.info/i/296d6a6e.jpg" caption="Peresopnycké evangelium, památka z 16. století, na kterou při inauguraci přísahají ukrajinští prezidenti a která jako jeden z prvních textů systematicky používá písmeno ґ" author="Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/296d6a6e.jpg" caption="Peresopnycké evangelium, památka z 16. století, na kterou při inauguraci přísahají ukrajinští prezidenti a která jako jeden z prvních textů systematicky používá písmeno ґ" author="Wikimedia Commons" /%}
 
 Přibližně vzato, generace Čechů narozených před rokem 1980 ještě zažily přinejmenším na základní škole výuku ruštiny, což jim může při porozumění ukrajinštině výrazně pomoci. Ale přestože jsou ruština s ukrajinštinou velmi blízce příbuzné jazyky, když obě patří ještě společně s běloruštinou do východní větve slovanských jazyků, jsou mezi nimi pochopitelně i výrazné rozdíly. Mladším generacím nezbývá než začínat od nuly. Jejich výhodou ale může být právě nezatíženost ruštinou, neexistence mylného očekávání, že v ukrajinštině bude všechno více méně stejné jako v ruštině.
 

@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Pavlem Těžkým, frontmanem kapely Trní a učitelem hudby, který provozuje svoji vlastní hudební školu coby alternativu k základní umělecké škole. Povídali jsme si o situaci v kultuře, tvůrčí krizi, vývoji kapely Trní a její čerstvé obměně složení. Mluvili jsme také o učení hudby, ale i o současných Pavlových niterných hudebních pocitech.*
 
-{% photo src="https://i.ohlasy.info/i/05b7d06e.jpeg" author="archiv autora" %}
+{% photo src="https://i.ohlasy.info/i/05b7d06e.jpeg" author="archiv autora" /%}
 
 **V současnosti je v kultuře dost specifická situace kvůli koronavirové krizi. Jak jsi prožíval jaro a léto?**
 
@@ -49,7 +49,7 @@ Jo. Po těch třech měsících jsem se na to fakt těšil. Když hraje někdo i
 
 To záleží. Vlastní muzika mě samozřejmě baví, lidi kolem mě taky, ale hrát po těch letech někde šest hodin v kuse není sranda. Buď to musí být hodně dobře sehrané, aby tě to hudebně bavilo, anebo musí být hodně dobrá parta lidí na podiu i pod ním. Jinak tady ty countrybály člověk vnímá jako šichtu. Když jedeš někam na festival hrát svoji muziku, tak to je moc fajn. Ale hraní někde celou noc mi, abych řekl pravdu, moc nechybí.
 
-{% photo src="https://i.ohlasy.info/i/3cad8e24.jpeg" caption="Koncert Trní v rámci promenádní sezóny" author="Vladimír Friš" %}
+{% photo src="https://i.ohlasy.info/i/3cad8e24.jpeg" caption="Koncert Trní v rámci promenádní sezóny" author="Vladimír Friš" /%}
 
 ### Novou desku chystám deset let
 
@@ -133,7 +133,7 @@ Příroda a okolní přirozené věci. Dávám do toho hlavně svůj pocit. Spou
 
 Dřív jsme měli bluegrassové složení kapely a hráli jsme folk. To byl taky můj záměr. Tenkrát jsme to nazývali „nová akustická hudba“. Teď se ale za označení folková hudba už nestydím. Ale beru si inspiraci z bluegrassu, jazzu, country, rocku, swingu, takže to může být široké.
 
-{% photo src="https://i.ohlasy.info/i/90b73496.jpg" caption="Trní" author="archiv autora" %}
+{% photo src="https://i.ohlasy.info/i/90b73496.jpg" caption="Trní" author="archiv autora" /%}
 
 ### Vyučování trochu víc polidštit
 

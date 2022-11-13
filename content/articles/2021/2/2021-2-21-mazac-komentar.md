@@ -11,7 +11,7 @@ tags:
 
 *Kdo sleduje boskovickou politiku, ten se v posledních týdnech a měsících opravdu nenudí. Vyvstalo v nich hned několik docela závažných kauz, které se setkávají u osoby neuvolněného místostarosty Radka Mazáče (STAN a Sportovci Boskovice). Na zastupitelstvu místostarostu opozice nesměle požádala o vyjádření ke střetu zájmů. A to je málo.*
 
-{% photo src="https://i.ohlasy.info/i/1136c832.jpeg" caption="Místostarosta Radek Mazáč" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1136c832.jpeg" caption="Místostarosta Radek Mazáč" author="Tomáš Znamenáček" /%}
 
 K vyvození politické odpovědnosti místostarostu Radka Mazáče nejen za prazvláštní přístup ke kauze, v níž figuruje jeho domovská firma Energochem, ale také za prodražení investice do CZT střed a za postup v přípravě stavby sportovní haly, nevyzval nikdo. Pojďme si shrnout důvody, které takový požadavek opravňují.
 

@@ -7,7 +7,7 @@ category: ankety
 
 *Město Boskovice si nechalo zpracovat nový [jednotný vizuální styl](https://data.ohlasy.info/2021/brand-manual.pdf), jehož součástí je i nové logo. Jak výsledek hodnotíte, v čem vidíte jeho přednosti a v čem nedostatky? Odpovídá podle vás výsledný návrh současným požadavkům na jednotný vizuální styl města?*
 
-{% photo src="https://i.ohlasy.info/i/474de628.jpeg" caption="Jedna z aktuálních aplikací nového vizuálního stylu" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/474de628.jpeg" caption="Jedna z aktuálních aplikací nového vizuálního stylu" author="Město Boskovice" /%}
 
 ---
 

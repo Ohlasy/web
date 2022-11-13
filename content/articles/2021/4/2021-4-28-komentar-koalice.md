@@ -9,7 +9,7 @@ tags: politika
 
 *Boskovická politická krize skončila. A zároveň vytvořila nové a velmi zajímavé startovací pozice pro příští komunální volby, které se konají už za necelý rok a půl. ODS si možná trochu nepochopitelně vyrobila silné soupeře.*
 
-{% photo src="https://i.ohlasy.info/i/8f26b3d7.jpeg" caption="Dubnové zasedání zastupitelstva" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/8f26b3d7.jpeg" caption="Dubnové zasedání zastupitelstva" author="Tomáš Trumpeš" /%}
 
 Když jsme se před půl rokem v komentářích zamýšleli nad boskovickou politikou, zdála se situace poměrně stabilní. Radnici vládlo funkční duo Jaroslav Dohnálek (ODS) a Lukáš Holík (ANO), obklopeno nevýraznými koaličními partnery a víceméně neškodně pozorováno konformní či nezkušenou opozicí. Slabinou koalice byl pouze druhý místostarosta Radek Mazáč (STAN a Sportovci), jenže z této slabiny se poměrně rychle stala rozbuška, která celou koalici odpálila.
 

@@ -8,7 +8,7 @@ tags: kultura
 
 *Boskovické kino Panorama bude mít od podzimu kromě hlavního sálu ještě druhý, komorní promítací sál s kapacitou 20–30 diváků. Ten by měl být vybaven digitální technologií DCI a kinařům kromě komornějších projekcí umožní i efektivnější využití hlavního sálu.*
 
-{% photo src="https://i.ohlasy.info/i/91df7e42.jpeg" caption="Šéf kina Tomáš Marvan v budoucím kinosále" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/91df7e42.jpeg" caption="Šéf kina Tomáš Marvan v budoucím kinosále" author="Tomáš Trumpeš" /%}
 
 Nový malý sál vznikne v jedné z učeben v prvním patře katolického domu, kde kino Panorama sídlí. V současnosti je zde hlavní sál pro 153 diváků a ten podle vedoucího kina Tomáše Marvana na pokrytí místní divácké poptávky nestačí.
 

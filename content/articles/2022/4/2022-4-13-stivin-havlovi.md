@@ -9,7 +9,7 @@ tags:
 
 *V evangelickém kostele v Boskovicích  se ve čtvrtek 28. dubna od 19.00 uskuteční Benefiční koncert pro Ukrajinu. Jeho aktéry budou Jiří Stivín a Irena & Vojtěch Havlovi.*
 
-{% photo src="https://i.ohlasy.info/i/eb0ed895.jpeg" %}
+{% photo src="https://i.ohlasy.info/i/eb0ed895.jpeg" /%}
 
 Koncert slibuje výjimečný zážitek. Bude mít tři části: sólové vystoupení Jiřího Stivína, malý koncert Havlových a posléze společná improvizace všech tří aktérů. Koncert vzešel z iniciativy manželů Havlových a koná se ve spolupráci s Prostorem čili boskovickým Unijazzem, místním evangelickým sborem Českobratrské církve evangelické a Diecézní charitou Blansko, která bude rovněž příjemcem benefice. Umělci zahrají bez nároku na honorář a výtěžek bude věnován na podporu služeb souvisejících s pomocí ukrajinským válečným uprchlíkům v našem regionu.
 

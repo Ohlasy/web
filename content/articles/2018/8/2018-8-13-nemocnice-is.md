@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Nemocnice Boskovice se po čase dostala do bližšího kontaktu se svým bývalým jednatelem Danem Navrátilem. Firma, ve které dnes Navrátil šéfuje, totiž nemocnici plánuje ukončit podporu klíčového informačního systému. Posledního července se kvůli tomu sešli mimořádně i boskovičtí radní.*
 
-{% photo src="https://i.ohlasy.info/i/jgea7di.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jgea7di.jpg" author="Tomáš Znamenáček" /%}
 
 Nemocniční informační systém, zkráceně NIS, je pro každou nemocnici naprosto nepostradatelným. Výjimkou není ani nemocnice v Boskovicích. „NIS je srdcem IT nemocnice, uchovává veškerá data pacientů za minulá období, umožňuje komunikaci mezi odděleními, nemocnicemi a co je klíčové, i mezi nemocnicemi a zdravotními pojišťovnami,“ vysvětlil statutární zástupce jednatele boskovické nemocnice Dan Štěpánský.
 

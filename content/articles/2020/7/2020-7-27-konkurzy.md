@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *V oblasti transparentnosti politiky a veřejné správy udělala společnost za poslední roky velký krok dopředu. Dnes už se nám ani nechce vzpomínat, že jsme dělali novinařinu bez registru smluv, bez zákona o svobodném přístupu k informacím, bez rozklikávacích rozpočtů, bez záznamů ze zastupitelstev či bez informací o jmenovitém hlasování radních. Dobrým příkladem toho, že je stále co zlepšovat, jsou nejrůznější výběrová řízení na řídící posty ve veřejných institucích, a to nejen ve školství.*
 
-{% photo src="https://i.ohlasy.info/i/4ldhvc3.jpg" caption="Boskovická ZUŠ" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4ldhvc3.jpg" caption="Boskovická ZUŠ" author="Tomáš Znamenáček" /%}
 
 Aktuálně probíhá na krajském úřadě konkurz na ředitele boskovické Základní umělecké školy (ZUŠ). Vzhledem ke [komplikované a lidsky nepříjemné situaci](https://ohlasy.info/clanky/2019/12/sikana-zus.html), která vedla ke konci bývalé ředitelky, je atmosféra okolo konkurzu logicky napjatá a pozornost zainteresované části veřejnosti značná. Po problematických letech je důležité, aby byl vybrán někdo, kdo situaci na škole zklidní a zároveň přijde s dobrou koncepcí, která bude odrazem k příštímu rozvoji.
 

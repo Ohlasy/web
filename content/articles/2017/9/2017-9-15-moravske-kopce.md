@@ -9,7 +9,7 @@ serial: krajiny
 
 *Moravskými kopci bývá výstižně nazýván kopcovitý terén v okolí Olešnice. Městečko je označováno též jako Olešnice na Moravě, leží totiž na moravské straně bývalé zemské hranice, která probíhá nedaleko. A mnoho dalších Olešnic, většinou se táhnoucích podél potoka, kolem kterého rostou či aspoň dříve rostly olše, ještě najdeme po celých českých zemích.*
 
-{% photo src="https://i.ohlasy.info/i/grroaye.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/grroaye.jpg" author="Hynek Skořepa" /%}
 
 Moravské kopce jsou z geologického hlediska součástí tzv. svratecké klenby, náležející k jednotce zvané moravikum (podle Moravy). Aby se geologické názvy nepletly se zeměpisnými, píší se s malým počátečním písmenem. Moravikum je poměrně úzkou, ale významnou geologickou jednotkou jihovýchodního okraje Českého masivu (ten je pravopisnou výjimkou, obvykle se píše s velkým Č). Moravikum se táhne od Svojanova poblíž Poličky v délce více než 130 km k jihu až do Rakouska.
 
@@ -19,7 +19,7 @@ Svrateckou klenbu zkoumali již na přelomu 19. a 20. století geologové tehdej
 
 Zbývá snad ještě dodat, že mramor je vlastně přeměněný vápenec, kvarcit je hornina složená z křemene a grafit (tuha) vznikl přeměnou organických zbytků. Grafit byl v minulosti těžen, především v okolí Velkého Tresného.
 
-{% photo src="https://i.ohlasy.info/i/eqzzoc9.jpg" caption="Černýš český, Melampyrum bohemicum" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/eqzzoc9.jpg" caption="Černýš český, Melampyrum bohemicum" author="Hynek Skořepa" /%}
 
 Opusťme už ale raději chladný svět kamenů a věnujme se živé přírodě. I ta má v Moravských kopcích co nabídnout. Koncem 19. století zde olešnický učitel Tomáš Člupek objevil černýš český, *Melampyrum bohemicum*. Rostlinu, která byla popsána z Čech. Černýše jsou jednoleté poloparazitické byliny, z nichž některé (nejlépe je to patrné u známého černýše hajního) mají kromě nepříliš nápadných žlutých květů křiklavě fialové listeny (přeměněné listy). Právě ty slouží k lákání hmyzu, který rostliny opyluje. Zvláštností černýšů jsou též semena, která se tvarem, hmotností a zpočátku i barvou nápadně podobají mravenčím kuklám. Však je také mravenci rozšiřují po okolí. A proč je to vlastně černýš, když na něm není nic černého? Jméno je to už staročeské. Již naši předkové si totiž všimli, že po utržení schnoucí rostlina zčerná.
 

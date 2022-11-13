@@ -11,7 +11,7 @@ tags:
 
 *Komentář přírodovědce Hynka Skořepy byl psán původně pro [časopis Listy, dvouměsíčník pro kulturu a dialog](http://www.listy.cz/profil.php). Text našeho přispěvatele na téma významné regionální dopravní stavby rovněž publikujeme.*
 
-{% photo src="https://i.ohlasy.info/i/03a0fc90.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/03a0fc90.jpg" author="Tomáš Znamenáček" /%}
 
 Nemohu se zbavit dojmu, že cílem některých dopravních projektů je především proinvestovat peníze, teprve v dalším plánu posloužit cestujícím. Jedním z nich je takzvaná Boskovická spojka, přímé napojení Boskovic na hlavní trať do Brna bez přestupu ve Skalici nad Svitavou. Stavba chystaná na roky 2023 až 2024 má stát „pouhých“ 1,8 miliardy korun – reálně to vzhledem k vývoji cen bude zřejmě mnohem víc.
 

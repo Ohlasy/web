@@ -8,13 +8,13 @@ serial: krajiny
 
 *V rozlehlých lesích jižně od Boskovic, zhruba na půl cesty mezi Újezdem a Valchovem, se nachází vrch Škatulec (656 m), nazývaný též Na Babylóně. Z Boskovic tam vede zelená turistická značka, pokračující pak směrem na Kuničky.*
 
-{% photo src="https://i.ohlasy.info/i/ktybnod.png" author="Mapy.cz" %}
+{% photo src="https://i.ohlasy.info/i/ktybnod.png" author="Mapy.cz" /%}
 
 Škatulec se jmenuje i celý geomorfologický okrsek (součást podcelku Adamovská vrchovina v rámci Drahanské vrchoviny). Geomorfolog Mojmír Hrádek o něm ve Vlastivědě Boskovicka (svazek Přírodní poměry, 2008) napsal: *Tento okrsek je složený převážně z granodioritu. Získal tvar asymetricky vyvinutého hřbetu – k JZ ukloněného kvádru či tektonické kry, jejíž příkré zlomové svahy spadají k severu – do Valchovského prolomu a k J ukloněný povrch se sklání do Blanenského prolomu u Doubravice nad Svitavou. Nejvyšší bod okrsku Škatulec je Holíkov (665 m) ve východním cípu kvádru… K údolí Bělé na Z spadá Škatulec vysokými erozními srázy, na nichž morfologicky vystupují tektonické útržky vápenců…*
 
 K tomu je třeba dodat, že nejvýraznějším takovým vápencovým útržkem je [Bílá skála u Újezdu](http://www.ohlasy.info/clanky/2016/02/bila-skala.html), o které jsem již psal. Další miniaturní vápencový ostrůvek lze nalézt na severovýchodním svahu [Holíkova nad Valchovem](http://www.ohlasy.info/clanky/2016/04/holikov.html), který měl v našem seriálu také vlastní kapitolu.
 
-{% photo src="https://i.ohlasy.info/i/ej4ustu.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/ej4ustu.jpg" author="Hynek Skořepa" /%}
 
 Ale vraťme se k vlastnímu vrcholu Škatulce či Babylonu, jednomu z hraničních bodů rozlehlého katastrálního území Újezdu u Boskovic. Prochází přes něj nejen hranice katastrů, ale zároveň hranice lesních majetků – někdejších panství boskovického a rájeckého. Sem tam lze v lesích ještě najít staré hraniční kameny s iniciálami HB či HR, jak jsem se již zmiňoval v kapitole o okolí Holíkova.
 
@@ -24,7 +24,7 @@ Zřejmě nejznámějším moravským Babylonem je však nejspíš 491 metrů vys
 
 Původ názvu Babylon jsem již vysvětlil a také podivné jméno Škatulec nejspíš souvisí s prací zeměměřičů v minulosti. Zdejší geodetický bod zřejmě býval označen nějakou dřevěnou konstrukcí, které místní říkali kvůli neobvyklému vzhledu „škatule“. Vrchol byl nejspíš v té době bezlesý, nebylo zde tedy třeba postavit klasickou dřevěnou triangulační věž. Jak taková věž vypadala a jak se na ní pracovalo, to už jsem popsal v kapitole věnované [Skalám, nejvyššímu bodu Drahanské vrchoviny](http://www.ohlasy.info/clanky/2016/07/skalky.html). I v současnosti je v okolí vrcholu Škatulce paseka, výhled však neposkytuje. Aby se mohl člověk aspoň trochu rozhlédnout do kraje, musí popojít pár set metrů jihozápadním směrem, aby se mu otevřel alespoň omezený výhled na lesy někdejšího rájeckého velkostatku, dnes spravované státem, byť zatížené restitučním sporem.
 
-{% photo src="https://i.ohlasy.info/i/xb7pyds.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/xb7pyds.jpg" author="Hynek Skořepa" /%}
 
 Jsou to lesy nepěkné, převážně smrkové (o příčinách jejich dnešního stavu jsem již psal [v souvislosti se zmíněným Holíkovem](http://www.ohlasy.info/clanky/2016/04/holikov.html)). Navíc dost necitlivě těžené, jak je u nás v současnosti bohužel zvykem na státních i mnohých soukromých majetcích. Není to radostný pohled. Raději obraťme svůj zrak ke skalám na Škatulci, budovaných granodioritem brněnského masivu. O granodioritu, hornině podobné žule (granitu), jsem se zmiňoval v kapitole věnované [kopci Zlatníku](http://www.ohlasy.info/clanky/2015/04/zlatnik.html). 
 

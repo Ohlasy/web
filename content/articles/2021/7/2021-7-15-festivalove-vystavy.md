@@ -8,17 +8,17 @@ category: názory a komentáře
 
 *Výstavy pořádané v rámci festivalu pro židovskou čtvrť trvají v Boskovicích i po skončení samotné akce, a to včetně výtvarných instalací přímo ve městě. Jako pozvánku k jejich prohlídce publikujeme text kurátorky Heleny Musilové, který připravila pro festivalové noviny. Na instalacích ve veřejném prostoru se kurátorsky podílela také [Magdaléna Roztočilová](https://ohlasy.info/clanky/2019/07/rozhovor-roztocilova.html).*
 
-{% photo src="https://i.ohlasy.info/i/28fc0e93.jpg" caption="Mapka festivalových výstav" %}
+{% photo src="https://i.ohlasy.info/i/28fc0e93.jpg" caption="Mapka festivalových výstav" /%}
 
 Program výtvarné části festivalu nabízí zapojení umělců a umělkyň od začínající generace až po etablované autory. V roce 2021 jsou v Boskovicích tři autorské výstavy, dvanáct projektů pro veřejný prostor či site-specific instalace pro konkrétní místa v židovské čtvrti, dvě výstavy reflektující historii 2. poloviny 20. století. Jednotlivá podtémata výtvarných realizací můžeme shrnout názvy jako Paměť místa, paměť lidí, Osobní výzkumy a soukromé mytologie či Nejsoučasnější realita. Většina z nich rozvíjí původní poslání festivalu, tedy vnímání historických souvislostí a úcty ke kulturním hodnotám vytvořeným předcházejícími generacemi, k čemuž se váže schopnost oslovených autorů a autorek reagovat na okolní dění a kriticky se vyjadřovat k naší společnosti prostřednictvím různých forem současného vizuálního umění.
 
-{% photo src="https://i.ohlasy.info/i/6a829a52.jpeg" caption="Pavel Dušek: šest reliéfů" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6a829a52.jpeg" caption="Pavel Dušek: šest reliéfů" author="Tomáš Znamenáček" /%}
 
 Do Boskovic letos zavítají dvě legendy českého vizuálního umění, Kurt Gebauer a Jaroslav Róna, každý v poněkud netypické poloze – sochař Róna jako fenomenální kreslíř a sochař Gebauer jako fotograf a malíř. Možná překvapujícím nováčkem mezi vystavujícími je hudebník, textař a spisovatel Jakub König aka Kittchen, představující se jako malíř pozoruhodných meditativněfantaskních obrazů.
 
 O dílech pro veřejný prostor a site-specific instalacích blíže pojednává navazující text, nicméně jedna poznámka: pandemie covidu sice znemožnila navštěvovat lidem umělecké produkce včetně výstav, na druhou stranu obrátila jejich pozornost k místům, kde žijí, a často tak iniciovala právě vznik děl pro různá prostranství, fasády a další volně přístupné prostory. Zároveň s přítomností viru se neustále měnily termíny a domluvené akce. V Boskovicích měl během středy 7. července realizovat na fasádě jednoho domu v židovské čtvrti velkoformátovou kresbu Jakub Janovský – který se nečekaně dostal do karantény a kresbu tak přijel vytvořit až 9. července. Diváci festivalu tak, navzdory okolnostem, měli jedinečnou možnost být přítomni vzniku uměleckého díla – a pateticky řečeno – zažít pocit, že kulturu nic nezastaví.
 
-{% photo src="https://i.ohlasy.info/i/5ccab25b.jpeg" caption="Jakub Janovský: Dívka (možná Ruth)" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5ccab25b.jpeg" caption="Jakub Janovský: Dívka (možná Ruth)" author="Tomáš Znamenáček" /%}
 
 ### Nejsoučasnější realita
 
@@ -30,7 +30,7 @@ Při realizaci instalací v roce 2020 jsme si uvědomili, že stálá proměna,
 
 Na génia loci židovské čtvrti vysloveně reaguje velkoformátová kresba Jakuba Janovského, která v sobě nese esenci velikosti i tragiky židovského národa, v podtextu zpřítomňuje i to, že natěsnaná ghetta byla plná schodišť a různých strmých vstupů – pozůstatkem v Boskovicích je třeba schodiště v hostinci U Rudyho. Z jiné strany přistupuje k židovské kultuře instalace Mileny Dopitové vytvořená pro prostor boskovické mikve, tedy místo související s intimní očistou, s rituály nedílně svázanými s životem. Instalace je tvořena reliéfy – zdeformovanou hmotou, ve které, jak poznamenala autorka: „Části oblečení – neznámých identit, otisk doby a s ní někde uvnitř tušíme příběhy, tajemství, které tento prostor ukrývá. Zároveň připomíná i podivné stolování, oltářní plochu nebo muzeální sbírku.“ V obecnější rovině poukazuje na to cosi, co přesahuje všechny materiální hodnoty světa, slovenský multimediální vizuální performer Erik Binder, v na něj nečekaně střízlivé, o to působivější textové instalaci. Radikální vstup do židovské čtvrti představuje práce plzeňského autora Benedikta Tolara s provokativním názvem *TadySUVole*: reflexe toho, že se na jednu stranu snažíme o omezení dopadu konání lidské rasy na planetu, ale jenom do té míry, kde by neomezovalo naše osobní pohodlí. Rozměrné „auto“ je „zaparkované“ na dopravně frekventovaně využívaném místě uprostřed židovské čtvrti, ale stejně tak by mohlo stát na stále rozšiřujícím se „parkovišti“ před synagogou, na historickém náměstí v Litomyšli nebo v pražské Kaprově ulici.
 
-{% photo src="https://i.ohlasy.info/i/200ac865.jpeg" caption="Benedikt Tolar: TadySUVole" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/200ac865.jpeg" caption="Benedikt Tolar: TadySUVole" author="Tomáš Znamenáček" /%}
 
 Pro prostor židovské čtvrti vznikly i akrylové malby Market Lamoš Žitňanské, které akcentují již nevyužívaná místa – zazděná okna. I Markétiny zářivě barevné práce se dotýkají obecnějších témat každodenního života, (zní to jako klišé, nicméně to tak je) se všemi jeho radostmi i strastmi. Markéta má specifický autorský rukopis, někdy pracuje s výraznou gestickou malbou, jindy odkazuje k různým grafickým technikám či až k naivnímu malířství.
 
@@ -38,15 +38,15 @@ Výrazný vizuální vstup do prostoru židovské čtvrti představují reliéfy
 
 Vedle Benedikta Tolara asi nejaktuálnější reakci na současné dění představuje instalace *Špatné zprávy* Milana Mikuláštíka sestavená z často používaných emotikonů vyjadřující negativní a spíše záporně udivené postoje. Tato zdánlivě hravě vypadající instalace (z dálky jsou vidět žluté smajlíky, až zblízka člověk vidí to množství negace) v sobě skrývá celou řadu témat a otázek – vizualizace naší komunikace a jakési její „zkomunitnění“, deklarativnost našich projevů, které se od emotikonů na sociálních sítích dostávají i do běžného života, repetitivnost (nestačí jeden smajlík, pro zdůraznění prožitku pisatele je jich potřeba udělat celou řadu…) aj. Podle autora je tato instalace i určitým zhmotněním všeho špatného, co se v poslední krátké době děje, co začalo pandemií covidu, pokračuje stále sílící klimatickou krizí, která úplně nedávno vyvrcholila tornádem prošlým jižní Moravou. Mikuláštíkovi se vlastně velmi jednoduchými prostředky podařilo vytvořit práci, která je nejenom bytostně aktuálním dílem, ale zároveň se, neplánovaně, jak sám poznamenal, stala reflexí děl zejména šedesátých let, která pracují s náhodou a s permutací; asi nejvíc jsou *Špatné zprávy* propojeny se strukturami Zdeňka Sýkory, který při jejich realizaci používal hrací kostku nebo počítač.
 
-{% photo src="https://i.ohlasy.info/i/e7df34a2.jpeg" caption="Milan Mikuláštík: Špatné zprávy" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e7df34a2.jpeg" caption="Milan Mikuláštík: Špatné zprávy" author="Tomáš Znamenáček" /%}
 
 Princip obrazu vytvořeného z více izolovaných částí využívá i grafička Marija Kulina – dílky obrazu, podobně jako puzzle, uzavřela do samostatných rámů – dílo nelze tak zhlédnout jako celek, bez omezujících prvků. Divák je tak postaven před rozhodnutí – zničit autorskou instalaci a sestavit sám finální dílo nebo si jeho definitivní podobu pouze představovat. Autorka nabízí divákovi ještě třetí cestu – vytvořit si vlastní kopii díla (pomocí fotografie či nějaké jiné formy kopírování…), ořezání a samostatné sestavení. A možná existuje i čtvrtá cesta…
 
-{% photo src="https://i.ohlasy.info/i/3645cfc9.jpeg" caption="Marija Kulina: 100 PCS" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3645cfc9.jpeg" caption="Marija Kulina: 100 PCS" author="Tomáš Znamenáček" /%}
 
 Kolekci instalací a děl prezentovaných v Boskovicích doplňují i práce dvou sochařek, Magdalény Roztočilové, která je jako boskovická rodačka i spolukurátorka výtvarných instalací, a Barbory Vovsové. Obě autorky představují různé polohy současného sochařství, zatímco Magdalena Roztočilová se profiluje jako výrazná figurativní sochařka vyprávějící příběhy postavené na vlastní mytologii, která stimuluje divákovu fantazii a otevírá celé spektrum možností pro vlastní imaginaci – je to i v případě mnohohlavého Lovce, který radiálně opanoval kašnu U Koupadel a… vyhlíží kořist? (ať si pod pojmem kořist představujeme cokoliv či kohokoliv)… brání toto místo? je sám vystaven k lovu? Naopak Barbora Vovsová vychází ve svých pracích z přírody, z procesů, energií, které v ní žijí a které se ztrácí a zase obnovují. Jak píše na svých webových stránkách: „Zajímá mě především vše, co souvisí se vznikem, růstem, koloběhem a skladbou hmoty v její elementární podobě.“ Práce s detaily přírodnin je stejně stará jako lidstvo samo, nicméně znovu a znovu nás jejich variabilita a dokonalost udivuje. Jako bychom skrze pochopení celistvého procesu přirozeně opakujících se přírodních cyklů mohli urovnat, potlačit fragmentalizovanou zkušenost našeho těžce pochopitelného světa, kde vedle sebe stojí tisíce či miliony úhlů pohledu, nesoucí tu jedinou, pravdivou pravdu. A vrátíme­­-li se obloukem na začátek, tak právě vizuální umění může ukázat jiné cesty poznání světa a pomoci jinak řešit jeho problémy.
 
-{% photo src="https://i.ohlasy.info/i/e0d139bd.jpeg" caption="Janča Trnová, Terka Francková, Jakub Hubený: Vidět krásu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e0d139bd.jpeg" caption="Janča Trnová, Terka Francková, Jakub Hubený: Vidět krásu" author="Tomáš Znamenáček" /%}
 
 ### Vidět krásu
 

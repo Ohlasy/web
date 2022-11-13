@@ -9,7 +9,7 @@ tags: sport
 
 *Rozhovor s Ladislavem Čížkem, předsedou hokejového klubu SK Minerva Boskovice, který letos dosáhl velkého úspěchu: vyhrál krajskou ligu. Povídali jsme si o průběhu sezóny, play-off a situaci zdejšího hokeje.*
 
-{% photo src="https://i.ohlasy.info/i/ypgsxhb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ypgsxhb.jpg" author="Tomáš Znamenáček" /%}
 
 **Při domlouvání rozhovoru jste říkal, že pro nás nemáte žádnou senzaci. Vyhrát krajskou ligu není senzace?**
 
@@ -57,7 +57,7 @@ Podívejte se, Svaťa Vařeka je borec, kterého my tady známe dvacet let. Hrá
 
 Určitě, bez toho to nejde. Je nějaký Erat a nějaký Špok, vždycky někdo takový musí být.
 
-{% photo src="https://i.ohlasy.info/i/stui84f.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/stui84f.jpg" author="Tomáš Znamenáček" /%}
 
 ### Druhá liga je jinde
 
@@ -91,7 +91,7 @@ A v tom je i to navýšení peněz: je tam větší počet zápasů, musíte dr�
 
 Sehrajeme takových třicet zápasů. A ve druhé lize je to i s play-off třeba padesát. To je moc.
 
-{% photo src="https://i.ohlasy.info/i/florxhi.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/florxhi.jpg" author="Tomáš Znamenáček" /%}
 
 ### Tři sta diváků dobrých
 
@@ -147,7 +147,7 @@ Bylo. Pamatuju, že na odkrytém zimáku bylo třeba tisíc lidí. Ale to už je
 
 Výborných.
 
-{% photo src="https://i.ohlasy.info/i/vzcqidu.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/vzcqidu.jpg" author="Tomáš Znamenáček" /%}
 
 ### Chybí urputnost
 

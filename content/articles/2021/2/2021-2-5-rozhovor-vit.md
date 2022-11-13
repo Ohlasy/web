@@ -8,7 +8,7 @@ category: rozhovory
 
 *Letos v lednu uplynulo 52 let od [objevu Amatérské jeskyně](https://ohlasy.info/clanky/2021/01/amaterska-jeskyne.html), nejdelšího jeskynního systému Moravského krasu i České republiky – někdy se mluví dokonce o nejdelším jeskynním systému ve střední Evropě. Výročí připomínáme rozhovorem s jeskyňářem Janem Vítem (narozeným 12. 12. 1941 v Brně), který se účastnil výzkumu systému Amatérské jeskyně v době objevu Staré Amatérské jeskyně. Rozhovoru byl přítomen také Ing. Bohuslav Koutecký, zvaný Kocour, narozený 1951, lesník, jeskyňář Plánivské skupiny a jednu dobu pracovník Správy CHKO Moravský kras. Leccos doplnil, i když u průniku do podzemí z Cikánského závrtu dne 18. 1. 1969 nebyl.*
 
-{% photo src="https://i.ohlasy.info/i/29a92496.jpg" caption="Zleva Jan Vít a Bohuslav Koutecký" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/29a92496.jpg" caption="Zleva Jan Vít a Bohuslav Koutecký" author="Hynek Skořepa" /%}
 
 **Jak jste se vlastně dostal ke speleologii? Tuším, že jste byl povoláním tiskař?**
 

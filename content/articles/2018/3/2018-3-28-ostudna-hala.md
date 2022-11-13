@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *S blížícími se komunálními volbami se stále intenzivněji vynořuje téma stavby boskovické sportovní haly. V městském zpravodaji se k tématu vyjádřili nejprve radní za ČSSD Milan Kolínský, [poté radní za hnutí ANO Pavel Schwarzer](http://www.boskovice.cz/assets/File.ashx?id_org=832&id_dokumenty=33065). Možná nám politici dávají najevo, že halu považují za hlavní téma letošních voleb. A možná má vládnoucí koalice jen černé svědomí, že po zrušení výstavby haly na Slovákově ulici nedokázala nastalou situaci vyřešit a přijít s funkčním záměrem. Toto černé svědomí je ovšem zcela namístě.*
 
-{% photo src="https://i.ohlasy.info/i/garzppi.jpg" caption="Jáma po plánované sportovní hale na ulici Slovákova" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/garzppi.jpg" caption="Jáma po plánované sportovní hale na ulici Slovákova" author="Marek Osouch" /%}
 
 Myslím si, že největší chyba nastala hned na začátku, tedy bezprostředně po oficiálním ukončení stavby na Slovákově. Na rozdíl od těch, kdo nad ní stále lkají, jsem stále přesvědčen, že to v dané situaci bylo správné rozhodnutí. Pokud to někdo dnes staví jako čistě politické rozhodnutí, nemá pravdu – problémy s podložím byly reálné a stejně tak reálná byla možnost a chuť okolních obyvatel stavbu blokovat. Projekt nebyl dobře připravený a už vůbec nebyl dobře projednán s veřejností. 
 

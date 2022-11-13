@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Velikonoce roku 2020 slavíme nezvykle, bez kostelních slavností, bez tradic, bez návštěv přátel, bez větších rodinných setkání. Zákeřný virus přes sociální izolaci nepronikne, velikonoční evangelium však ano – připomíná farář Jiří Bureš.*
 
-{% photo src="https://i.ohlasy.info/i/039eb51b.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/039eb51b.jpeg" author="Tomáš Znamenáček" /%}
 
 Jsou Velikonoce roku 2020. Asi na letošní svátky jen tak nezapomene: slavíme je nezvykle, bez kostelních slavností Zeleného čtvrtka, Velkého pátku i neděle Vzkříšení, bez tradic, bez návštěv přátel, bez větších rodinných setkání. Zavřeni ve svých domech, odkázáni na čtyři stěny a opatrné vycházky ven, čekáme na zlepšení. Někdo se strachuje o své zdraví, jiný o zdraví svých blízkých, někdo další o svoji jasnou hlavu a klid v rodině. Někteří s prosbou na rtech pročítáme zprávy z míst přímo ohrožených nemocí: z nemocnic, ze zařízení pro seniory, z uprchlických táborů či vězení, z Itálie, USA i z Česka. Čekáme, modlíme se, pracujeme, bavíme se, žijeme, jak to jde. Schováni za rouškami a dveřmi.
 

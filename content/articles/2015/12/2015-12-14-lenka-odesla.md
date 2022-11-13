@@ -8,7 +8,7 @@ tags: nekrolog
 
 *Jakkoli je obtížné tomu uvěřit, v sobotu nad ránem v Praze po krátké těžké nemoci tiše zemřela Lenka Bařinková. Odešla, jako odcházejí velcí hudebníci z pódia, totiž v momentě, kdy máme pocit, že koncert by měl ještě dlouho pokračovat. A navzdory tomuto dojmu pak rychle shledáváme, že intenzita prožitku a míra sděleného byla tak veliká, že je vlastně s podivem, jak se to do jednoho koncertu, tedy do jednoho života mohlo vejít. Lenka Bařinková nám zde předala a zanechala víc, než vůbec lze vyjádřit.*
 
-{% photo src="https://i.ohlasy.info/i/7m9oyvc.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7m9oyvc.jpg" author="Tomáš Znamenáček" /%}
 
 Podobně nelze lidským okem přehlédnout a popsat, jak bohaté plody přinesla její pedagogická a muzikantská činnost. Byla to vynikající a přísná učitelka, nesmírně talentovaná a pracovitá hudebnice, a pominuta nesmí být ani její erudice literární a jazyková. Kulturu milovala a také jí rozuměla. Nepletla si citlivost s citovostí, její soudy byly stejně přísné jako její pedagogické vedení.
 

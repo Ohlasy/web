@@ -8,7 +8,7 @@ serial: ghetto
 
 *Sedmnáctého března tohoto roku uplynulo 140 let od narození významného vídeňského kunsthistorika, boskovického rodáka Maxe Eislera.*
 
-{% photo src="https://i.ohlasy.info/i/99dc7101.jpg" caption="Max Eisler" %}
+{% photo src="https://i.ohlasy.info/i/99dc7101.jpg" caption="Max Eisler" /%}
 
 Patřil do podnikatelské rodiny Eislerů, kteří v Boskovicích zavedli moderní kovovýrobu, a to od skromných počátků prodeje železářského zboží na boskovickém náměstí (nyní je zde Elektro MiRa) až po prosperující továrny na dnešní Havlíčkově ulici a u nádraží. 
 

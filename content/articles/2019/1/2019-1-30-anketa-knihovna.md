@@ -9,7 +9,7 @@ tags: politika
 
 *O tématu knihovny se na tiskových konferencích pravidelně bavíme se starostou Jaroslavem Dohnálkem (ODS) a místostarostou Lukášem Holíkem (ANO). Jejich názory tak pravidelně zprostředkováváme. Nyní jsme se zeptali na postoj ke stavbě knihovny také druhého místostarosty a ostatních radních. Z účasti se omluvil Karel Tlamka (ODS), kterého jsme zastihli esemeskou na dovolené, kde nebyl dostupný na e-mailu. Radní Jaroslav Oldřich (Boskováci) na otázky zaslané e-mailem neodpověděl, nereagoval na sms a nezvedal telefon.*
 
-{% photo src="https://i.ohlasy.info/i/xhgnxfi.jpg" caption="Aktuální vizualizace nové knihovny v budově ZZN" author="Fránek Architects" %}
+{% photo src="https://i.ohlasy.info/i/xhgnxfi.jpg" caption="Aktuální vizualizace nové knihovny v budově ZZN" author="Fránek Architects" /%}
 
 1. Vidíte stavbu knihovny jako jednu z hlavních investičních priorit v Boskovicích?
 2. Podporujete stavbu knihovny v bývalém ZZN podle návrhu architekta Zdeňka Fránka?

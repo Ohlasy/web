@@ -10,7 +10,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku března. Přinášíme výběr toho nejzajímavějšího z tiskové konference, kde starostu Jaroslava Dohnálka (ODS) a místostarostu Lukáše Holíka (ANO) doplnila také ředitelka Městské správy sociálních služeb Marie Sáňková.*
 
-{% photo src="https://i.ohlasy.info/i/sckaliu.jpg" caption="Lípy na Sokolské čeká letos pravidelný ořez" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/sckaliu.jpg" caption="Lípy na Sokolské čeká letos pravidelný ořez" author="Tomáš Trumpeš" /%}
 
 ### Opatření týkající se koronaviru
 

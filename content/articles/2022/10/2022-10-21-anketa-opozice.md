@@ -11,7 +11,7 @@ tags:
 
 *Komunální volby v Boskovicích [vyhrála Změna22](https://ohlasy.info/clanky/2022/09/vysledky-voleb.html), těsně následovaná uskupením Naše Boskovice. Velmi záhy po volbách oznámili lídři Jana Syrovátková a Lukáš Holík, že se na nové koalici [domluvili spolu](https://ohlasy.info/clanky/2022/09/nova-koalice.html) a přiberou ještě Piráty. Vedle [rozhovoru s příští starostkou a místostarostou](https://ohlasy.info/clanky/2022/10/rozhovor-syrovatkova-holik.html) jsme ještě před ustavujícím jednáním zastupitelstva lídrům stran, které končí v opozici, položili otázku: Jak hodnotíte vznik a uspořádání nové koalice a jaká jsou podle vás hlavní rizika jejího vedení Boskovic v příštích čtyřech letech?*
 
-{% photo src="https://i.ohlasy.info/i/5be7ec3e.jpg" caption="Opoziční strany na ustavujícím zastupitelstvu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5be7ec3e.jpg" caption="Opoziční strany na ustavujícím zastupitelstvu" author="Tomáš Znamenáček" /%}
 
 ### Michaela Žejšková, SPOLU
 

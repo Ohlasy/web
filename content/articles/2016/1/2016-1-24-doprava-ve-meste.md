@@ -8,7 +8,7 @@ tags: doprava architektura
 
 *Položme si jednoduchou otázku: Jaké město chceme obývat? Pro koho plánujeme město? Chceme město plné aut, nebo dáme přednost ulicím plným lidí, kteří se potkávají, zdraví, povídají si – zkrátka žijí? Aniž bychom si to uvědomovali, jsou naše zvyky a způsob života značně ovlivněny prostředím, ve kterém se pohybujeme. Původně to prostředí vznikalo podle našich zvyků, ale dnes už většinou nepoznáme, co je ten určující faktor, zda zvyky, nebo prostředí.*
 
-{% photo src="https://i.ohlasy.info/i/ekjwkh1.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ekjwkh1.jpg" author="Tomáš Znamenáček" /%}
 
 *„Musíme v sobě probudit radosti chodce, radosti obyvatele veřejných prostorů a budovat obyvatelná města. Musíme je upravit tak, aby se v nich dalo žít, volně a bezpečně se pohybovat, procházet se, klidně nakupovat, pozorovat jejich krásu a památky, hrát si na hřištích, shromažďovat se, odpočívat, sedět v kavárnách venku, když je krásně, slunit se, koupat se…, musíme se naučit města obývat.“ (Karel Honzík, 1944)*
 
@@ -30,7 +30,7 @@ Jeden ze zásadních kamenů pohodlného pohybu je takzvaná prostupnost území
 
 Kvalitní návrh města musí počítat s pěším pohybem odkudkoli kamkoli. V Boskovicích nám to bohužel na několika klíčových místech vůbec nevychází. Jedním z nich je například cesta za nákupy z bytovek na Komenské do Lidlu, Tesca či nedejbože do Kauflandu – křižovatka u Slavie není nic moc, ale přejezd a křižovatka s Chrudichromskou a Dřevařskou jsou pro chodce peklo. Hřebíček do rakve byl zasazen povolením oplocení mezi Lidlem a Tescem bez stavby chodníku, zřejmě původně plánovaný pokus skončil dosti nešťastně za prodejnou zahradní techniky.
 
-{% photo src="https://i.ohlasy.info/i/lykcpoh.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lykcpoh.jpg" author="Tomáš Znamenáček" /%}
 
 Další krizovou situací, která je dle mého mnohem problematičtější, je dopravní neřešení celého areálu v Červené zahradě. Pominu teď samotný areál, protože největší problém je, že se k němu nedá z města pohodlně vůbec dostat! Úzký profil v Jankáči bezpečný pohyb chodců vylučuje a samotný příchod ke stadionu či koupališti je ještě horší.
 

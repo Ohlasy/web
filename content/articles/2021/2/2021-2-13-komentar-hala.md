@@ -10,7 +10,7 @@ tags:
 
 *Jako občané evropského města ve třetím tisíciletí si zasloužíme mít přiměřeně nákladné, funkční a krásné veřejné budovy, které budou odpovídat našim potřebám a budou dotvářet město jako celek. Zatím je nemáme – proč?*
 
-{% photo src="https://i.ohlasy.info/i/mycprve.jpg" caption="Sportovní areál Červená zahrada" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mycprve.jpg" caption="Sportovní areál Červená zahrada" author="Tomáš Znamenáček" /%}
 
 Pojďme si rekapitulovat práci, kterou na sportovní hale odvedlo současné vedení města. To po svém zvolení v roce 2018 prohlásilo, že chce halu postavit [do konce volebního období](https://ohlasy.info/clanky/2019/02/hala.html). Stavbu původně plánovanou na Červenou zahradu zastupitelé v září 2019 [přesunuli na Hybešovu ulici](https://ohlasy.info/clanky/2019/09/hala-hybesova.html) a vedení města vzápětí oznámilo, že na architektonickou studii haly [vypíše vyzvanou soutěž](https://ohlasy.info/clanky/2019/11/hala-soutez.html). Podle harmonogramu místostarosty Radka Mazáče se měla hala začít stavět v březnu 2021, tedy teď.
 

@@ -12,7 +12,7 @@ tags:
 
 *Boskovičtí politici se dohodli na nové koalici. Kromě hnutí ANO, které nedávno [vypovědělo koaliční smlouvu kvůli místostarostovi Radku Mazáčovi](https://ohlasy.info/clanky/2021/03/pad-koalice.html) (STAN a Sportovci Boskovice), končí ve vedení města i Radek Mazáč  a jeho uskupení. Obě strany se teď přesouvají do opozice.*
 
-{% photo src="https://i.ohlasy.info/i/qh3yqtf.jpg" caption="Pevné místo v koalici zůstává nejsilnější straně ODS a jejímu lídrovi Jaroslavu Dohnálkovi" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/qh3yqtf.jpg" caption="Pevné místo v koalici zůstává nejsilnější straně ODS a jejímu lídrovi Jaroslavu Dohnálkovi" author="Tomáš Znamenáček" /%}
 
 „Starosta města Boskovice Jaroslav Dohnálek oznámil, že na jednání dne 6. dubna byla dohodnuta koaliční spolupráce těchto stran a hnutí: ODS, KDU-ČSL, Volba pro Boskovice s podporou TOP 09, ČSSD a Boskováci,“ stojí ve stručné zprávě z boskovické radnice. Nová koalice bude mít většinu šestnácti mandátů v sedmadvacetičlenném zastupitelstvu.
 

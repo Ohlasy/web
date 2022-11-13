@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Oprava hlediště boskovického letního kina je hotová. A jak dál? Přesný plán zatím neexistuje a výstavbu zázemí pod promítací plochou navíc komplikuje ochranná lhůta, která se vztahuje na stromy revitalizované z dotace v roce 2010. Pokácet se totiž smí až v roce 2020.*
 
-{% photo src="https://i.ohlasy.info/i/9mzzlfz.jpg" caption="Zázemí letního kina" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/9mzzlfz.jpg" caption="Zázemí letního kina" author="Tomáš Trumpeš" /%}
 
 Letní kino by mohlo sloužit jako ukázkový příklad investiční akce města, na které je všeobecná shoda a těší se významné podpoře veřejnosti. Ostatně záměr nastartovalo už bývalé vedení města, to současné pak právě dokončilo rozsáhlou etapu zahrnující především kompletní opravu hlediště. Pokud někdo očekával, že nadšení, pozitivní ohlasy a také zvyšující se počet akcí v areálu se přetaví v chuť dokončit rekonstrukci areálu co nejdříve, musí být zklamán. 
 

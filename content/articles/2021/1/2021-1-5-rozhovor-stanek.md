@@ -9,7 +9,7 @@ tags: politika
 
 *Absolvent boskovického gymnázia, dvaadvacetiletý Martin Staněk, je mladou silou boskovické ODS. Před dvěma roky inicioval vznik městského parlamentu, dnes v něm končí a říká, že se chce v politice posunout dál. V rozhovoru pro Ohlasy hodnotí dosavadní fungování parlamentu a nevyloučil ani to, že by jednou mohl kandidovat na starostu Boskovic.*
 
-{% photo src="https://i.ohlasy.info/i/b7d88e1f.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/b7d88e1f.jpeg" author="Tomáš Znamenáček" /%}
 
 **Před dvěma roky jsi inicioval vznik Městského parlamentu mládeže, od té doby jsi v pozici koordinátora, jakéhosi prostředníka mezi touto platformou a vedením města. Teď končíš. Proč?**
 

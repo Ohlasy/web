@@ -8,7 +8,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady v polovině února. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/mycprve.jpg" caption="Červená zahrada" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mycprve.jpg" caption="Červená zahrada" author="Tomáš Znamenáček" /%}
 
 ### Most na Dukelské
 

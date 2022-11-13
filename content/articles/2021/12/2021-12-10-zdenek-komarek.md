@@ -9,7 +9,7 @@ serial: pribehy
 
 *Byl to můj první pamětník, kterého jsem natočil v roce 2017. S  jeho příběhem jsme se umístili na 3. místě v soutěži Příběhy 20. století a když si ho přečtete celý na webu Paměti národa, tak pochopíte proč. V archivu mám víc jak deset hodin zajímavého vyprávění z války, období nástupu komunistické totality, vojenskou službu u Pohraniční stráže, působení pana Komárka v bytové komisi nebo podrobný popis kdejakého obchůdku na náměstí včetně zákulisí vztahů boskovických obyvatel. Pan Komárek má neuvěřitelnou paměť na jména i události a v dobré kondici se letos v říjnu dožil 92 let.*
 
-{% photo src="https://i.ohlasy.info/i/6f91f83c.jpg" author="Ladislav Oujeský" %}
+{% photo src="https://i.ohlasy.info/i/6f91f83c.jpg" author="Ladislav Oujeský" /%}
 
 Zdeněk Komárek se narodil 3. října 1929 v malé obci Buková na Drahanské vrchovině. Jeho rodiče museli opustit rodné Boskovice poté, co se otec zapojil do stávky v jedné z boskovických továren. V roce 1936 se rodina vrátila do Boskovic, kde Zdeněk Komárek začal navštěvovat chlapeckou školu. Na konci války byl svědkem [náletu, při kterém zahynulo několik obyvatel a další byli zraněn](https://ohlasy.info/clanky/2020/05/boskovicky-nalet.html)i. Poslední den války na vlastní oči viděl polní soud a následnou popravu šestnácti německých vojáků kousek od svého bydliště. 
 
@@ -19,7 +19,7 @@ V srpnu 1968 při nehodě autobusu utrpěl těžká zranění a několik týdnů
 
 Během normalizace několikrát navštívil příbuzné ve Vídni a tajně odtud převážel léky a cennosti pro své známé. Po smrti své ženy v roce 1984 prodal dům a v jiné části města si postavil malý domek s vysněnou zahrádkou, kde žije dodnes.
 
-{% photo src="https://i.ohlasy.info/i/f102a948.jpg" caption="Mrskut; Zdeněk Komárek vpravo" author="archiv Zdeňka Komárka" %}
+{% photo src="https://i.ohlasy.info/i/f102a948.jpg" caption="Mrskut; Zdeněk Komárek vpravo" author="archiv Zdeňka Komárka" /%}
 
 ### Vzpomínky na válku
 
@@ -35,7 +35,7 @@ Událost, které byl pamětník očitým svědkem, dnes už posledním žijící
 
 > Zavedli je na místo, kde si museli sundat oblečení až do spodního prádla, nastavěli je ke stromům, na pařez postavili kulomet. Já ještě s Jardem Paděrovým jsme stáli kousek od nich, a pak je stříleli. Nejdřív do hlavy a pak po celým těle. Když to do hlavy prásklo, tak se ten mozek roztříštil o borovici, to byla hrůza. Pak ten poslední na kraji, to byl zřejmě důstojník, se snažil utéct, ale po takových 20–30 metrech ho taky trefili.
 
-{% photo src="https://i.ohlasy.info/i/42907847.jpg" caption="Rok 1936, druhá třída, Komenského náměstí. V první lavici v bílé košili hrabě Hugo Mensdorff, za ním Zdeněk Komárek" author="archiv Zdeňka Komárka" %}
+{% photo src="https://i.ohlasy.info/i/42907847.jpg" caption="Rok 1936, druhá třída, Komenského náměstí. V první lavici v bílé košili hrabě Hugo Mensdorff, za ním Zdeněk Komárek" author="archiv Zdeňka Komárka" /%}
 
 ### Služba u Pohraniční stráže
 

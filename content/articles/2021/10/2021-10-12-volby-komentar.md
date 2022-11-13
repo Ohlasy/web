@@ -9,7 +9,7 @@ tags: politika
 
 *Velká část hlasů ve sněmovních volbách propadla. Tyto voliče musí nová vláda přesvědčit o výhodách demokracie – nikoliv řečmi, ale praktickou politikou a ohleduplností. Jinak mohou příští volby dopadnout velmi špatně.*
 
-{% photo src="https://i.ohlasy.info/i/78495de2.jpg" caption="Budoucí premiér Petr Fiala na volební kampani v Boskovicích" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/78495de2.jpg" caption="Budoucí premiér Petr Fiala na volební kampani v Boskovicích" author="Tomáš Trumpeš" /%}
 
 Volby skončily jasnou sněmovní většinou pro pravicové a středové strany. Získaly 108 poslaneckých křesel a dříve či později na tomto půdorysu vznikne vláda, která na rozdíl od té stávající nebude menšinová. 
 

@@ -9,7 +9,7 @@ tags: architektura
 
 *Komplexní [návrh řešení sportovního a volnočasového areálu Červená zahrada](https://www.sraboskovice.cz/sportovni-volnocasovy-areal-cervena-zahrada-jaky-bychom-si-tu-prali) připravili v posledních týdnech a následně zveřejnili místní architekti sdružení do spolku SRAB (Spolek za rozvoj architektury Boskovic). Na návrhu pracoval celý tým několik týdnů.*
 
-{% photo src="https://i.ohlasy.info/i/099f9580.jpg" author="Spolek za rozvoj architektury Boskovic" %}
+{% photo src="https://i.ohlasy.info/i/099f9580.jpg" author="Spolek za rozvoj architektury Boskovic" /%}
 
 Impulsem ke společné práci byla příprava na působení v pracovní skupině, kterou město vytvořilo ke stavbě sportovní haly. Architekti se bavili nejen o hale, ale i o jejím okolí, protože podle nich umístění haly velmi úzce souvisí s tím, co na ni bude navazovat, a při přípravě stavby by v tom mělo být jasno. „Proto slovo dalo slovo a místo takzvané verbální architektury jsme začali konat,“ popisuje začátek práce architekt Petr Ondráček.
 

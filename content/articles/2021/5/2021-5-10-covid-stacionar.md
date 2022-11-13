@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Pacienti, kterým hrozí vážný průběh covidu, mohou kontaktovat svého praktického lékaře a dostat v Boskovicích protilátky ve formě léků Bamlanivimab a Regeneron. Léky je třeba podat brzy po onemocnění a měly by předejít zhoršení průběhu nemoci a vzniku závažných komplikací. Léčba probíhá v prostorách zhruba měsíc zřízeného stacionáře v boskovické nemocnici.*
 
-{% photo src="https://i.ohlasy.info/i/f8c8d107.jpg" author="Nemocnice Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/f8c8d107.jpg" author="Nemocnice Boskovice" /%}
 
 Léčba je určena pro pacienty s covidem, kteří trpí dalšími vážnými chorobami a očekává se u nich komplikovaný průběh. „Monoklonální protilátky se po aplikaci navážou na povrchové struktury koronaviru a znemožňují či komplikují jeho proniknutí do buněk hostitele,“ vysvětlil Luděk Pluháček, primář interního oddělení boskovické nemocnice, který má stacionář na starosti. Důležité je podle něj především včasné zachycení pacienta, protože u těch, jejichž aktuální stav vyžaduje hospitalizaci, už léčba není přínosná.
 

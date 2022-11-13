@@ -12,7 +12,7 @@ tags:
 
 *Boskovičtí zastupitelé se sešli ke svému desátému jednání v tomto volebním období. Zasedli opět v sokolovně, kde je víc místa na bezpečnostní rozestupy. Hlavní body programu byly tentokrát jasné: odkup pozemků v Červené zahradě a rozhodnutí postavit zde sportovní halu.*
 
-{% photo src="https://i.ohlasy.info/i/636ecf93.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/636ecf93.jpeg" author="Tomáš Trumpeš" /%}
 
 ### Osud Dvořáčkova mlýna
 

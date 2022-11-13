@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Rozhovor s vrchní sestrou ARO a JIP Martinou Zemánkovou a staniční sestrou ARO Alenou Trnovou o aktuální situaci a průběhu pandemické krize v nemocnici v Boskovicích. Obě mají na svých odděleních pacienty, kteří onemocněli covidem a jsou v kritickém stavu. Mluvily jsme také o tom, jak je pro zdravotníky lidsky náročné zátěž posledního roku zvládat.*
 
-{% photo src="https://i.ohlasy.info/i/e73287c8.jpeg" caption="Martina Zemánková a Alena Trnová" author="Nikol Halamásková" %}
+{% photo src="https://i.ohlasy.info/i/e73287c8.jpeg" caption="Martina Zemánková a Alena Trnová" author="Nikol Halamásková" /%}
 
 **Procházíme čtvrtou vlnou pandemie. Jaká je momentálně situace na vašich odděleních? Zvládáte to?**
 
@@ -55,7 +55,7 @@ MARTINA ZEMÁNKOVÁ: Já jsem tady třeba teď měla dva své sousedy – manže
 
 MARTINA ZEMÁNKOVÁ: Pokud lékaři usoudí, že pacientovi už nejde více pomoci, tak velmi pečlivě komunikují s rodinou. Vysvětlí jim situaci, někdy s nimi i několikrát denně volají, dělají se i osobní schůzky. Návštěva je rodině umožněna při dodržování mimořádných opatření, aby nedošlo k přenosu infekce. Sestřička celou dobu blízkého doprovází, kompletně jej obleče do ochranného obleku. Vysvětlí mu, co smí a nesmí dělat, že si například nesmí sahat na obličej. Poté je sestřička poblíž příbuzného nebo blízkého pacienta, protože i pro něj je to obrovský stres a je často psychicky vyčerpaný. Když návštěva skončí, pomáhá sestřička bezpečně odložit pomůcky, protože to je nejdůležitější pro to, aby se člověk nenakazil.
 
-{% photo src="https://i.ohlasy.info/i/a9fda93b.jpg" author="Alena Trnová" %}
+{% photo src="https://i.ohlasy.info/i/a9fda93b.jpg" author="Alena Trnová" /%}
 
 ### Pomáhá každý, kdo má volné ruce a nohy
 
@@ -73,7 +73,7 @@ ALENA TRNOVÁ: Zaučit někoho, aby věděl, co ví arová nebo jipková sestra,
 
 MARTINA ZEMÁNKOVÁ: Situace s personálem se od počátku pandemie vyvíjela. Ze začátku nám v podstatě nepřišlo na mysl, že by nám přišel pomoct někdo z jiného oddělení, protože všichni jsou „doma“ někde jinde – na ortopedii, gynekologii, na operačním sálech, sterilizaci, … Všichni měli své mateřské pracoviště. Ale teď nám pomáhá každý, kdo má volné ruce a nohy. Já mám třeba už půl roku na oddělení sestřičky z ortopedie a rehabilitace, fyzioterapeutky, takže najednou to jejich doma je na intenzivní péči, což i pro ně bylo těžké.
 
-{% photo src="https://i.ohlasy.info/i/97cd03a6.jpg" author="Martina Zemánková" %}
+{% photo src="https://i.ohlasy.info/i/97cd03a6.jpg" author="Martina Zemánková" /%}
 
 **Jaký vliv měla pandemie na vztahy mezi pracovníky? Jak byste popsali atmosféru ve vašich týmech?**
 
@@ -95,7 +95,7 @@ Ale všichni se bojíme. Když člověk vidí spektrum pacientů, kteří tady l
 
 ALENA TRNOVÁ: Samozřejmě, že někdo váhal. Někdo si v sobě nese nějaké onemocnění a neví o tom, někdo ví, že má chronickou nemoc a je to pro něj bohužel překážka v očkování. Není to jen o tom, že by zdravotníci nechtěli. Očkování je čistě dobrovolná věc, nicméně si myslím, že na obou našich oddělení je proočkovanost velmi vysoká, a možná je to i z toho důvodu, že se staráme o ty nejhorší případy a vidíme, jak to končí, nebo může končit.
 
-{% photo src="https://i.ohlasy.info/i/33b50f81.jpg" author="Martina Zemánková" %}
+{% photo src="https://i.ohlasy.info/i/33b50f81.jpg" author="Martina Zemánková" /%}
 
 ### Jen bychom je provedly oddělením
 

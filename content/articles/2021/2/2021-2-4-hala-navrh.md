@@ -10,7 +10,7 @@ tags:
 
 *Boskovická městská rada ukončila debatu o hledání nejvhodnější cesty k architektonickému řešení sportovní haly v Červené zahradě. Vytvoření studie zadala městskému architektu Zdeňku Fránkovi, který bude na návrhu spolupracovat s mexickým kolegou Alberto Kalachem.*
 
-{% photo src="https://i.ohlasy.info/i/536758ae.jpg" caption="Biblioteca Vasconcelos, knihovna v Mexico City postavená podle návrhu Alberto Kalacha a Juana Palomara" author="Astrojunta, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/536758ae.jpg" caption="Biblioteca Vasconcelos, knihovna v Mexico City postavená podle návrhu Alberto Kalacha a Juana Palomara" author="Astrojunta, Wikimedia Commons" /%}
 
 Konkrétně rada zadala vytvoření investičního záměru, který má obsahovat finančně přijatelný, architektonicky i dispozičně kvalitní návrh, který bude posléze sloužit jako podklad pro vytvoření projektové dokumentace. Její vyhotovení už bude město podle zákona o zadávání veřejných zakázek nuceno samostatně vysoutěžit. 
 

@@ -11,7 +11,7 @@ tags:
 
 *Rok a půl před komunálními volbami se rozpadla široká a křehká koalice vládnoucí boskovické radnici: ODS, ANO, Sportovci, TOP 09 a Boskováci. Koaliční smlouvu vypovědělo hnutí ANO, nechtělo pokračovat s místostarostou Radkem Mazáčem (STAN a Sportovci), [který čelí nařčení ze střetu zájmů](https://ohlasy.info/clanky/2021/01/stret-zajmu-mazac.html).*
 
-{% photo src="https://i.ohlasy.info/i/f6187fdc.jpg" caption="Vedení města: místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/f6187fdc.jpg" caption="Vedení města: místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Tomáš Trumpeš" /%}
 
 ### ANO
 

@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady na konci ledna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/pwwjfym.jpg" caption="Koncert v letním kině" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pwwjfym.jpg" caption="Koncert v letním kině" author="Tomáš Znamenáček" /%}
 
 ### Nafukovací hala
 

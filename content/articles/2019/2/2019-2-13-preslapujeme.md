@@ -9,7 +9,7 @@ tags: politika
 
 *Více než sto dnů už je na boskovické radnici nové vedení. Na konci října se po čtyřletém působení ČSSD v čele města vrátila na výsluní ODS. Poprvé od roku 1989, jehož výročí si letos připomínáme, se na post starosty vrátil někdo, kdo už tuto funkci zastával a má s ní i největší zkušenosti – Jaroslav Dohnálek.*
 
-{% photo src="https://i.ohlasy.info/i/lex8yed.jpg" caption="Nejužší vedení města: zleva místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/lex8yed.jpg" caption="Nejužší vedení města: zleva místostarostové Radek Mazáč a Lukáš Holík, starosta Jaroslav Dohnálek" author="Město Boskovice" /%}
 
 Po sto dnech jsou ale Boskovice se zkušeným prvním mužem města paradoxně stále v jakési křečovité poloze. Nikdo neříká, že by mělo nové vedení vyřešit lusknutím prstů všechny problémy, co lidi ve městě trápí. Na radnici ale jako by nevěděli, kam a jak se mají vydat, což je patrné i z vyjádření jednotlivých politických představitelů.
 

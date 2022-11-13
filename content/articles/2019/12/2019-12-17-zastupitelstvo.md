@@ -9,7 +9,7 @@ tags: politika
 
 *Poslední letošní jednání boskovického zastupitelstva se konalo v úterý 10. prosince v zámeckém skleníku. Zahájil je starosta Jaroslav Dohnálek (ODS) a na úvod zastupitele a další přítomné požádal, aby minutou ticha uctili oběti střeleckého útoku v ostravské nemocnici.*
 
-{% photo src="https://i.ohlasy.info/i/0e037c50.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/0e037c50.jpg" author="Marek Osouch" /%}
 
 Na začátku jednání zastupitelé schválili program, a to s drobnou úpravou – byl stažen bod týkající se vyhlášky o čipování psů, neboť podrobnosti jejího znění musí město ještě dojednat s ministerstvem vnitra. Sladění vyhlášky se státní legislativou je důvodem k jejím úpravám, jinak Boskovice už delší dobu všechny psy čipují.
 

@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Končí kalendářní rok, Ohlasy ještě v jeho závěru spustily dárcovskou sbírku na svůj provoz nazvanou [Dobré noviny do Boskovic](https://www.darujme.cz/vyzva/1202765). Dobré noviny se pro vás dělat snažíme a také ekonomicky chceme stavět hlavně na čtenářích. Nyní tedy pár informací o tom, jak si stojíme a jak se nám to daří.*
 
-{% photo src="https://i.ohlasy.info/i/fed747ed.jpg" caption="Ilustrační foto" author="Avij, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/fed747ed.jpg" caption="Ilustrační foto" author="Avij, Wikimedia Commons" /%}
 
 Snažíme se být maximálně skromní, ale novinařina je řemeslo jako každé jiné a úplně na dobrovolnické bázi noviny fungovat nemůžou a nesmí – jedním z principů profesionální novinařiny je systematičnost a soustavnost. Novináři, podobně jako hasiči, nemohou pracovat, jen když se jim to zrovna hodí. Náš roční rozpočet činí okolo 300 tisíc korun. Z toho drtivou většinu tvoří právě náklady na honoráře, provozně jsme maximálně úsporní.
 

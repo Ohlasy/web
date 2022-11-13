@@ -10,7 +10,7 @@ date: 2019-6-6 12:00:45
 
 *Rozhovor s Oldřichem Brzobohatým, jedním ze členů skupiny, která připravuje v panském dvoře start Prostoru – nového kulturního a komunitního centra s kavárnou. Ptali jsme se, co vše zde má vzniknout a jak má centrum fungovat. Je třeba dodat, že Ohlasy se na vzniku Prostoru částečně personálně podílejí a měly by přispívat i do programu.*
 
-{% photo src="https://i.ohlasy.info/i/s6lhret.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/s6lhret.jpg" author="Tomáš Znamenáček" /%}
 
 **V Boskovicích na panském dvoře vzniká nové kulturní a komunitní centrum s názvem Prostor. Můžete lidem podstatu Prostoru přiblížit?**
 
@@ -44,7 +44,7 @@ I na tyto lidi jsme mysleli. Pokud budou chtít Prostor jen podpořit, protože 
 
 Máme dramaturgickou radu, která může mít právo veta, pokud nebudeme s nějakou akcí souhlasit. Ale nemyslím si, že by k tomu mohlo někdy dojít. Máme to spíš jako takovou záchrannou brzdu, kdyby někdo přišel s něčím pro nás eticky nepřijatelným.
 
-{% photo src="https://i.ohlasy.info/i/gxeawhg.jpg" caption="Početná rodina Brzobohatých v sálu Prostoru" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/gxeawhg.jpg" caption="Početná rodina Brzobohatých v sálu Prostoru" author="Tomáš Znamenáček" /%}
 
 **Když se k vám tedy člověk bude chtít přidat, co má dělat?**
 

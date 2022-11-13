@@ -7,7 +7,7 @@ tags: koronavirus nemocnice
 
 *Do Boskovic v pondělí dorazily první vakcíny proti nemoci covid-19. Mezi prvními se nechal naočkovat také šéf nemocnice Dan Štěpánský nebo jeho náměstek Vladimír Zemánek. Spolu s nimi dostane v nejbližších dne očkování téměř polovina pracovníků.*
 
-{% photo src="https://i.ohlasy.info/i/401b9e95.jpeg" caption="Mezi prvními byla očkována mimo jiné hygienička nemocnice Iva Šamšulová" author="Nemocnice Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/401b9e95.jpeg" caption="Mezi prvními byla očkována mimo jiné hygienička nemocnice Iva Šamšulová" author="Nemocnice Boskovice" /%}
 
 Běžně v těchto ambulancích bývají dětští pacienti, teď se tam střídají jednotliví zdravotníci a další pracovníci nemocnice a jejich kolegové jim do paže píchají vakcínu proti koronaviru. Za dobu trvání pandemie se touto nemocí nakazilo už 150 zaměstnanců z celkového počtu zhruba pěti stovek.
 

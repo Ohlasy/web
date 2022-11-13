@@ -9,7 +9,7 @@ serial: ghetto
 
 *Dnes se, milí čtenáři Ohlasů, opět podíváme do světa židovských tradic. 22. nisanu 5779, tedy 27. dubna 2019, skončil židovský svátek Pesach a blíží se svátek Šavuot. Pesach i Šavuot spadají do nejkrásnějšího období v roce, kdy vrcholící jaro pomalu přechází do raného léta, a právě tehdy Židé slaví své dvě významné biblické události – odchod z egyptského otroctví a přijetí Tóry.*
 
-{% photo src="https://i.ohlasy.info/i/pffgtgc.jpg" caption="Před oslavou svátku Šavuot v boskovické synagoze" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/pffgtgc.jpg" caption="Před oslavou svátku Šavuot v boskovické synagoze" author="Tomáš Znamenáček" /%}
 
 Během svátku Pesach si celý židovský svět připomíná vysvobození z egyptské poroby a počátek nového svobodného života. V hebrejštině znamená slovo *pesach* překročení a odkazuje tak k oné památné noci, kdy Hospodin rozhodl o usmrcení všech prvorozených egyptských synů a domy židovské přitom překročil a uchránil je před zkázou. A tak konečně mohli Židé pod vedením Mojžíše vyjít z Egypta a vydat se na dlouhou pouť do země zaslíbené. 
 

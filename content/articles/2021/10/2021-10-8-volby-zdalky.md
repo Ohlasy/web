@@ -9,7 +9,7 @@ tags: politika
 
 *Předvolební komentář je speciální novinářská disciplína a musím se přiznat, že ji mám docela rád. Tentokrát si dovolím být trochu osobnější. Letošní volby jsou vyhrocené v mnoha ohledech, z mnoha stran slyšíme, že jsou mimořádně důležité, a tomu odpovídá i míra pozornosti, kterou předvolební klání přitahuje.*
 
-{% photo src="https://i.ohlasy.info/i/474bc9a8.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/474bc9a8.jpeg" author="Tomáš Znamenáček" /%}
 
 Pro nás, co máme politiku rádi, zabýváme se jí profesně a kromě samotného obsahu nás zajímá i kampaň, formáty a úroveň různých novinářských médií, měnící se společenské nálady a celková atmosféra, je to trochu nebezpečné. Obecně mám dojem, že při sledování politiky ledaskomu hrozí, že se dostane moc blízko, nechá se zahltit nejrůznějšími jednotlivostmi a ztrácí potřebnou perspektivu. Mně se to letos nejspíš stalo.
 

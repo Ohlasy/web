@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s opozičním zastupitelem Radkem Mazáčem (Sportovci pro Boskovice), který se stal možná trochu nečekaným vítězem jednání zastupitelstva o sportovní hale. A to s neméně nečekaným návrhem, totiž aby zastupitelé bod úplně stáhli z programu. Především díky hlasům hnutí ANO, lidovců a některých komunistů se opozici podařilo prosadit tento návrh proti vůli ČSSD.*
 
-{% photo src="https://i.ohlasy.info/i/tihanjn.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tihanjn.jpg" author="Tomáš Znamenáček" /%}
 
 **Co vás vedlo k tomu, že jste navrhl stažení bodu týkajícího se projednání sportovní haly z programu zastupitelstva?**
 

@@ -8,7 +8,7 @@ tags: doprava
 
 *Dopravní stavby jsou nezbytné a zároveň působí komplikace řadě lidí. Letos se nimi vypořádávají také v Letovicích, odkud nám své zkušenosti popsal a poslal Hynek Skořepa. Ten si klade zásadní otázku, jestli by práce nešlo lépe připravit a koordinovat.*
 
-{% photo src="https://i.ohlasy.info/i/1769a147.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/1769a147.jpg" author="Hynek Skořepa" /%}
 
 V květnu letošního roku začala v Letovicích rekonstrukce kruhového objezdu poblíž náměstí spolu s přilehlými úseky frekventované silnice I/43, spojující Brno se Svitavami. Doprava ve směru Brno – Svitavy je nadále vedena po upraveném kruhovém objezdu, výjezdy do stran (včetně k náměstí) jsou uzavřeny. Objízdná trasa směru Svitavy – Brno je ovšem vedena ulicí Nádražní na náměstí a pak ulicí Tyršovou. Především Nádražní ulice naprosto není na takové zatížení dimenzována. Trpí tím nejen řidiči vozidel, popojíždějících v kolonách, ale především lidé v Letovicích. A to nejen na Nádražní ulici, přejít vozovku v západní části letovického náměstí je problém. Právě tam se nacházejí autobusové zastávky. Objížďka má fungovat do konce června, možná déle. Ve vyhlášce (opatření obecné povahy), vydané krajským úřadem, jsem žádné konkrétní datum zprůjezdnění kruhového objezdu v Letovicích nenašel.
 

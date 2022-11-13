@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Radkou Krejčířovou, zakladatelkou nového spolku Ječmen, který se bude zaměřovat na volnočasové aktivity dětí. Nabízet chce neobyčejné aktivity pro obyčejné děti. Povídali jsme si o tom, co přesně to znamená, jak bude Ječmen fungovat a na jakém přístupu k dětem bude založen.*
 
-{% photo src="https://i.ohlasy.info/i/e33716a9.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e33716a9.jpeg" author="Tomáš Znamenáček" /%}
 
 **Co tě vedlo k tomu, že ses rozhodla vytvořit v Boskovicích další zařízení pro děti?**
 
@@ -42,7 +42,7 @@ Naším záměrem ale bude právě hodně to, aby se děti dostaly ven. Třeba i
 
 A v plánu je i propojování jednotlivých kroužků. Třeba fotografický kroužek si domluví hodinu výjimečně na čas, kdy má hodinu agility, a budou fotit děti při práci s pejsky. A takto různě bychom to chtěli prolínat, aby se děti poznaly a využívaly svoje zkušenosti.
 
-{% photo src="https://i.ohlasy.info/i/3805b3f2.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3805b3f2.jpeg" author="Tomáš Znamenáček" /%}
 
 **S jakou odezvou se nabídka Ječmenu zatím setkala? Je v Boskovicích poptávka po další aktivitě tohoto typu?**
 

@@ -9,7 +9,7 @@ tags: koronavirus vzdělávání
 
 *Rozhovor s Pavlem J. Michelem, středoškolským pedagogem, který učí němčinu na Cyrilometodějském gymnáziu a střední odborné škole pedagogické v Brně. Nyní ovšem vyučuje jako prakticky všichni pedagogové distančně, a to ze svého lysického domova. Povídali jsme si právě o tom, jak distanční výuka probíhá a co se díky ní mohou učitelé naučit.*
 
-{% photo src="https://i.ohlasy.info/i/c3c535e7.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/c3c535e7.jpg" author="Tomáš Trumpeš" /%}
 
 **Mluvíme spolu zrovna na Den učitelů. Váš učitelský stav teď prochází dost specifickou situací. Myslíš, že ho to trvale promění?**
 

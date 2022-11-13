@@ -11,7 +11,7 @@ tags:
 
 *Tlak na snížení ceny tepla v Boskovicích se přelil v právnický boj mezi městem a provozovatelem tepelné soustavy, firmou ZT Energy. I po výrazném snížení nájmu pro tuto společnost je totiž letošní cena tepla pro koncové spotřebitele velmi podobná té loňské. Město si proto na provozovatele stěžuje přímo u Energetického regulačního úřadu.*
 
-{% photo src="https://i.ohlasy.info/i/uapxdyk.jpg" caption="Kogenerační jednotka" author="ZT Energy" %}
+{% photo src="https://i.ohlasy.info/i/uapxdyk.jpg" caption="Kogenerační jednotka" author="ZT Energy" /%}
 
 Slova jako *podraz* a *vydírání* zaznívají z úst představitelů boskovické radnice v souvislosti s provozovatelem Centrálního zásobování teplem (CZT) v Boskovicích, blanenskou firmou ZT Energy. Této společnosti totiž po patnácti letech příští rok končí smlouva na provoz boskovické tepelné soustavy. Loni na podzim proto firma po vedení města chtěla, aby jí nájem alespoň část zařízení prodloužilo. Jenže z radnice zaznělo, že to vůbec nepřichází v úvahu.
 

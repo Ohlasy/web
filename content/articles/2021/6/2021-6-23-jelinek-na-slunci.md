@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Inou Liškovou a Bárou Danielovou z kunštátského spolku Na Slunci. Ten nyní mimo jiné připravuje větší proměnu areálu Jelínkovy chaty v Kunštátě, kde působí také lesní školka Jelínek. Klíčové setkání ke komunitnímu plánování se koná v sobotu 26. června od 15 do 18 hodin přímo v Jelínkově areálu. V rozhovoru jsme se ptali právě na to, co se v areálu chystá.*
 
-{% photo src="https://i.ohlasy.info/i/3797d034.jpg" caption="Ina Lišková a Bára Danielová" author="Lucie Kalová" %}
+{% photo src="https://i.ohlasy.info/i/3797d034.jpg" caption="Ina Lišková a Bára Danielová" author="Lucie Kalová" /%}
 
 **Lesní školka Jelínek funguje v Jelínkově chatě už nějakou dobu. Vnímali jste to jako provizorium a vždycky plánovali nějaké rozšíření činnosti, nebo to najednou přišlo jako nový nápad?**
 
@@ -30,7 +30,7 @@ INA: Jelínkova chata je největší stavbou, za podpory města Kunštátu a ně
 
 BÁRA: Celková rozloha areálu, který vlastní město Kunštát, je asi 12 tisíc metrů čtverečních. Kromě zmiňované Jelínkovy chaty se zde nachází ještě takzvaná Horní chata, kuželna, garáž a malá lesní chata, v které sídlí Správa lesů. Většina objektů je ve špatném technickém stavu. Na stav stromů v areálu jsme nechali vypracovat dendrologický posudek.
 
-{% photo src="https://i.ohlasy.info/i/c00e9cdb.jpg" author="Josef Bělehrádek" %}
+{% photo src="https://i.ohlasy.info/i/c00e9cdb.jpg" author="Josef Bělehrádek" /%}
 
 **A teď zkusme obecně říct, co je vlastně jádrem vašeho aktuálního záměru.**
 
@@ -74,7 +74,7 @@ Nakonec jsme alespoň pro děti uspořádali v areálu komunitní plánování f
 
 BÁRA: I děti z Jelínka měly skvělé nápady! V areálu by si přály skluzavku, bazén nebo jezírko, velké náklaďáky a tanky jako prolízačky, chatu, stromy a borůvčí. To vše namalovaly na banner, který teď na kunštátském náměstí zve kolemjdoucí k účasti na komunitním plánování.
 
-{% photo src="https://i.ohlasy.info/i/df8d8efd.jpg" %}
+{% photo src="https://i.ohlasy.info/i/df8d8efd.jpg" /%}
 
 **Jak tedy bude probíhat sobotní komunitní plánování a co od něj čekáte?**
 
@@ -106,7 +106,7 @@ INA: Nejbližším krokem je již několikrát zmiňované komunitní plánován
 
 BÁRA: S tím souvisí i náš další krok – a to sestavit tým pro fundraising. Čeká na nás úkol vytvořit kampaň na platformě Darujme.cz, což je aktuálně největší platforma pro online dárcovství v České republice. Stojí za ní právě Nadace Via, která nám nad rámec grantu v rámci účasti v programu *Místo, kde žijeme* přislíbila zdvojnásobit vybranou částku do výše 50 tisíc korun. Získané peníze přidáme v rozpočtu na realizaci toho vybraného prvku.
 
-{% photo src="https://i.ohlasy.info/i/2cb43bf1.jpg" author="Josef Bělehrádek" %}
+{% photo src="https://i.ohlasy.info/i/2cb43bf1.jpg" author="Josef Bělehrádek" /%}
 
 **Jedna věc je takto velkou věc vybudovat a druhá ji pak udržovat při životě. Budete mít dost financí na provoz? Jak to má celé fungovat?**
 

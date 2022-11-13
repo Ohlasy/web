@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Letošní krajské volby jsou jako celý letošní rok poněkud specifické, mimo jiné jsou v důsledku toho mimořádně nevypočitatelné a také nám asi vzhledem k očekávané nízké účasti nepodají příliš přesnou zprávu o tom, jaká je politická nálada a aktuální názorový profil společnosti. Otázka těchto voleb ani tak nezní, koho budou lidé volit, jako spíš čí voliči k nim přijdou. Přesto a možná paradoxně právě proto jsou důležité, protože nejspíš právě takto budou navzdory zmíněnému zkreslení interpretovány. Rok před klíčovými volbami do Poslanecké sněmovny to ani nemůže být jiné.*
 
-{% photo src="https://i.ohlasy.info/i/lllezgo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/lllezgo.jpg" author="Tomáš Znamenáček" /%}
 
 Proč jsou krajské volby důležité z hlediska své samotné podstaty, tedy vzhledem k významu krajských samospráv, popsal plnohodnotně kolega Marek Osouch [ve svém textu o tom, jak konkrétně kraje ovlivňují důležité oblasti](https://ohlasy.info/clanky/2020/09/co-dela-kraj.html), které zasahují do životů nás všech. V [anketě s regionálními kandidáty](https://ohlasy.info/clanky/2020/09/nemocnice-kraji.html) pak převažoval názor, že i přesto bude v krajských volbách rozhodující také celostátní faktor – ostatně krajské volby byly vždy tak trochu referendem o spokojenosti s aktuální vládou.
 

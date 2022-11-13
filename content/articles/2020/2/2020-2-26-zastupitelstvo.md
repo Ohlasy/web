@@ -9,7 +9,7 @@ tags: politika
 
 *První letošní jednání boskovického zastupitelstva mělo jedno dominantní téma, a to zařazení lezecké stěny do zadání na novou sportovní halu na Hybešově ulici. Zastupitelstvo poprvé jednalo v novém složení, Tomáše Pléhu vystřídal Michal Knödl (oba KDU-ČSL). Z jednání se omluvili Hana Nedomová (ČSSD) a Vladimír Farský (KSČM).*
 
-{% photo src="https://i.ohlasy.info/i/044fc189.jpg" caption="Hugo Mensdorff-Pouilly přebírá čestné občanství města" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/044fc189.jpg" caption="Hugo Mensdorff-Pouilly přebírá čestné občanství města" author="Tomáš Trumpeš" /%}
 
 Hned na začátku jednání zastupitelé projednávali zařazení dalšího bodu do programu, a to bodu věnovaného právě zahrnutí lezecké stěny do zadání na sportovní halu na Hybešově. Samostatný bod chtěli tématu věnovat opoziční Piráti, zastupitelstvo však jejich návrh odmítlo.
 

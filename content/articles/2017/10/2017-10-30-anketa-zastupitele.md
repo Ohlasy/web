@@ -9,7 +9,7 @@ tags: politika
 
 *Už jen necelý rok zbývá do komunálních voleb. Současná boskovická koalice ve složení ČSSD, KDU-ČSL, ANO 2011 a Vladimíra Farského za KSČM má tak většinu mandátu za sebou. V rozsáhlé anketě jsme se proto na její dosavadní práci zeptali všech 27 zastupitelů.*
 
-{% photo src="https://i.ohlasy.info/i/v48obt6.jpg" caption="Zasedání zastupitelstva" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/v48obt6.jpg" caption="Zasedání zastupitelstva" author="Tomáš Znamenáček" /%}
 
 Otázky byly následující: 1. Co považujete za největší úspěch současné koalice či její nejlepší krok za dosavadní tři roky vládnutí? 2. Co naopak považujete za největší neúspěch či co se současné koalici nepovedlo? 3. Budete v komunálních volbách, které se konají za rok, znovu kandidovat a usilovat o obhajobu mandátu zastupitele?
 

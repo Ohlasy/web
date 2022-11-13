@@ -9,7 +9,7 @@ serial: ghetto
 
 *Pod tímto názvem uvedla Česká televize v loňském roce [zdařilý dokumentární film](https://www.ceskatelevize.cz/porady/12232133992-ztraceny-architekt-ernst-wiesner/31929434004/), který byl natočen k 130. výročí narození této mimořádné tvůrčí osobnosti. Ernsta Wiesnera si připomínáme i letos, neboť 15. července uplynulo rovných 50 let od jeho úmrtí. Proč ztracený architekt? Svého času to tak skoro vypadalo, ale k tomu se dostaneme.*
 
-{% photo src="https://i.ohlasy.info/i/h5xjejv.jpg" caption="Podle návrhu Ernsta Wiesnera vznikla „Zelená“ škola v Boskovicích" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/h5xjejv.jpg" caption="Podle návrhu Ernsta Wiesnera vznikla „Zelená“ škola v Boskovicích" author="Muzeum regionu Boskovicka" /%}
 
 Rodák ze slovenských Malacek přišel do Brna se svojí židovskou rodinou jako osmiletý chlapec a s tímto městem pak spojil nejlepší léta svého života. Po maturitě odešel do Vídně, kde po studiích na technice zamířil na Akademii výtvarných umění do Mistrovské školy architektury. Jeho velkým vzorem a později přítelem se stal světoznámý architekt Adolf Loos.
 
@@ -23,7 +23,7 @@ Münzova vila bohužel prošla tolika radikálními zásahy, že dnes prakticky 
 
 V soukromí byl Ernst Wiesner uzavřený, introvertní člověk, žijící jako starý mládenec stále v rodičovském domě, milující svou samotu a  procházky se psem. Patrně na tomto stavu nehodlal nic měnit. Ale nakonec musel, neboť jej k tomu donutily okolnosti. A tak se tento plachý člověk na prahu padesátky odhodlává v březnu 1939 k emigraci, aby se ocitl v Anglii, v zemi, která jej sice přijala, ale jejíž jazyk neovládal. 
 
-{% photo src="https://i.ohlasy.info/i/246eaad6.JPG" caption="Wiesner je také autorem posledních úprav interiéru boskovické synagogy" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/246eaad6.JPG" caption="Wiesner je také autorem posledních úprav interiéru boskovické synagogy" author="Tomáš Znamenáček" /%}
 
 Zdá se to neuvěřitelné, ale Wiesnerovi se jeho restart podařil. Zcela jistě k tomu přispěl fakt, že za války se stal správcem budov, v nichž sídlila československá exilová vláda, po válce pak pomáhal s jejich obnovou. 
 
@@ -35,7 +35,7 @@ V Brně se mezitím kolem jména Ernst Wiesner rozhostilo ticho. Veškeré konta
 
 Znovu objeven byl v Brně v 60. letech zásluhou architekta Bedřicha Rozehnala. Tehdy obdržel pamětní medaili a čestný doktorát Univerzity Jana Evangelisty Purkyně (dnešní Masarykovy univerzity), uvažovalo se o spolupráci brněnské a liverpoolské univerzity. Srpnové události roku 1968 všechny tyto plány zhatily.
 
-{% photo src="https://i.ohlasy.info/i/61362d07.jpg" %}
+{% photo src="https://i.ohlasy.info/i/61362d07.jpg" /%}
 
 Ernst Wiesner zemřel v Liverpoolu 15. července 1971 krátce poté, co požádal svou ženu, aby mu na klavír zahrála část Mozartova Rekviem. A tím vlastně příběh architekta Ernsta Wiesnera končí. Ale jak může skončit, říkáte si zajisté, moji milí čtenáři, vždyť postrádá jakoukoliv souvislost s Boskovicemi a Příběhy z ghetta. A přece tady je! 
 

@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Jak se cítíte ve veřejném prostoru našeho města? Je pro vás místem, kde rádi trávíte čas, nebo v něm trávíte jen nezbytně nutnou dobu? Na tyto a podobné otázky chtějí boskovičtí Piráti získat odpovědi během akce, kterou nazvali Týden veřejného prostoru a pořádají ji od 18. do 21. října. Součástí je přednáška, procházka s architektem, [anketní dotazník](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAPFbYLRUOFgyUjMzMVc0VTA2VzBSOUQ1NUtJNjVVVy4u), online lajkovací souboj vybraných zákoutí i společné setkávání na různých místech ve městě.*
 
-{% photo src="https://i.ohlasy.info/i/08822562.jpg" caption="Zadní trakt supermarketu Albert, hlavní kulisa boskovického autobusového nádraží" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/08822562.jpg" caption="Zadní trakt supermarketu Albert, hlavní kulisa boskovického autobusového nádraží" author="Tomáš Znamenáček" /%}
 
 Podle pirátské zastupitelky Kristýny Znamenáčkové je veřejný prostor důležité téma, které ale pro současné vedení města není prioritní. „Kvůli velkým projektům, kterým je potřeba věnovat energii, na ně není čas,“ vysvětluje si a dodává, že ji samotnou téma provází každodenně, protože se po městě pohybuje výhradně pěšky a o problematiku se tak začala víc zajímat. Podle studenta sociologie Viktora Jurdiče je akce příležitostí ke sdílení zkušeností, jak lidé veřejný prostor využívají. „Abychom si řekli, co se nám líbí a co ne, a mohli si tak zatím alespoň v našich hlavách vytvořit Boskovice, které se potkají s očekáváním většiny,“ dodává.
 

@@ -9,7 +9,7 @@ tags: kultura
 
 *Boskovice rozdělují finance v dotačním programu pro kulturu a volnočasové aktivity. Letos výsledky soutěže vyvolaly řadu otázek, hodně názorů a málo odpovědí. Žádný systém, jak už to tak bývá, není dokonalý, a všechny v sobě skrývají prostor ke zlepšení. Ale co je cílem toho zlepšení? A jak na to?*
 
-{% photo src="https://i.ohlasy.info/i/3346e3cc.jpg" caption="Mezi akce podporované z městského grantového systému patří například Festiválek bez bojů a válek" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/3346e3cc.jpg" caption="Mezi akce podporované z městského grantového systému patří například Festiválek bez bojů a válek" author="Tomáš Trumpeš" /%}
 
 Město Boskovice podporuje kulturní a volnočasové aktivity různými způsoby. Boskovičtí občané mohou mít radost z investování do rekonstrukce areálu letního kina nebo z dotací Boskovickým běhům. Podporovat je ale dobré i další či nové občanské aktivity. K tomu se obvykle používá funkční grantový systém. Ten pracuje k všeobecné spokojenosti, jen pokud jsou splněny některé základní podmínky.
 

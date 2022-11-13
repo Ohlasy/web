@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Tři a čtvrt roku vydržel ve funkci jednatele boskovické nemocnice bývalý senátor za ČSSD a bývalý šéf brněnské Úrazové nemocnice Miloš Janeček. Toho do čela [dosadilo minulé vedení města](http://www.ohlasy.info/clanky/2015/12/novy-jednatel-nemocnice.html). Po odchodu ČSSD z radnice a návratu ODS se teď Janeček s nemocnicí loučí.*
 
-{% photo src="https://i.ohlasy.info/i/eeundam.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/eeundam.jpg" author="Tomáš Trumpeš" /%}
 
 Informaci redakci Ohlasů o odchodu potvrdil sám šéf nemocnice Miloš Janeček. Blíže ale svůj konec nekomentoval. „Ještě to nemám černé na bílém, snad zítra,“ uvedl.
 

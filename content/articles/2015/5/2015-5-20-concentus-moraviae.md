@@ -7,7 +7,7 @@ tags: kultura hudba
 
 *Mezinárodní hudební festival 13 měst Concentus Moraviae slaví letos jubilejní 20. ročník. Zvolil si k tomu i jasné téma: Pojďme slavit! A slavit se bude jako obvykle také v Boskovicích, v Lysicích a v Rájci-Jestřebí, kam zavítají festivalové koncerty. Během let se festival rozrostl, ale tato tři místa v našem regionu jsou součástí festivalu již pod prvního ročníku v roce 1996.*
 
-{% photo src="https://i.ohlasy.info/i/6so93yf.jpg" %}
+{% photo src="https://i.ohlasy.info/i/6so93yf.jpg" /%}
 
 Letošní ročník se koná od 30. května do 25. června, zahájen bude v brněnské bazilice Nanebevzetí Panny Marie. „Oslavy v roce 2015 se zúčastní řada hudebních hrdinů minulých festivalových ročníků: Magdalena Kožená, Marco Beasley a Accordone, Jos Van Immerseel, BL!NDMAN a mnozí další. Na festivalu se ale další pozoruhodní hudebníci a soubory představí poprvé. Mezi všemi hudebními lahůdkami budou dominovat tři happeningy: lednicko-valtický areál budete moci projet na kole s řadou hudebních zastávek, ve Slavkově u Brna se uskuteční Festa Teatrale a zámek ve Žďáru nad Sázavou bude zaplaven harfami,“ popisují pořadatelé jubilejní ročník.
 

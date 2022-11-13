@@ -11,7 +11,7 @@ tags:
 
 *Studenti stávkovali za klima. Kdyby se jejich požadavky neměly týkat celoplanetárních, evropských či celostátních řešení, ale opatření realizovatelných na úrovni měst a obcí – co by podle vás měli od samospráv požadovat?*
 
-{% photo src="https://i.ohlasy.info/i/wnqtl1i.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wnqtl1i.jpg" author="Tomáš Znamenáček" /%}
 
 ---
 

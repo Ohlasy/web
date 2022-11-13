@@ -9,7 +9,7 @@ tags:
 
 *Asi třicítka lidí se sešla v pondělí ve čtyři hodiny odpoledne v zámeckém skleníku, aby se zúčastnila veřejného projednání záměru na využití stavební jámy, která zbyla po nezdařeném pokusu postavit sportovní halu na rohu ulic Bílkova a Slovákova. Když odpočteme zastupitele, zaměstnance úřadu a novináře, ukáže se, že zájem veřejnosti byl mizivý. Představeny byly tři varianty na využití prostoru staveniště, jasnou prioritu má však evidentně ta poslední – vybudovat na místě centrum polytechnické výchovy a vzdělávání.*
 
-{% photo src="https://i.ohlasy.info/i/ocqtdps.jpg" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/ocqtdps.jpg" author="Město Boskovice" /%}
 
 Vedení města představilo stručně také zbylé dva záměry: odpočinkový park s jezírkem za 7,5 milionu korun a hřiště pro tenis a volejbal za 9 milionů. Obě tyto varianty by město muselo financovat z vlastních zdrojů. Třetí možnost je sice nejdražší, vzdělávací centrum má stát 35 milionů korun, je však velká šance, že by na něj Boskovice získaly dotaci z takzvaných evropských peněz ve výši 90 procent nákladů. Snaha vymyslet projekt, který by se dal napasovat na předpokládané dotační tituly v novém plánovacím období, také stála u zrodu celé myšlenky. „Toto řešení není práce jednotlivce, navrhl ho vedoucí odboru pan Zouhar, ale až na základě toho, že jsme byli konzultovat možnosti na Jihomoravském kraji v Centru regionálního rozvoje, abychom věděli, jaké jsou možnosti. Nejprve jsme posháněli informace ohledně nových dotačních titulů, pročetli jsme si nové programovací období a podle toho jsme přizpůsobovali naše myšlenky,“ odpověděla starostka Hana Nedomová na dotaz, jak záměr vzniknul a kdo je jeho autorem.
 

@@ -9,7 +9,7 @@ tags: politika
 
 *Městští radní jednou za dva týdny rozhodují o mnoha bodech na svých jednáních. Ne všichni se ale každého zúčastní. Nejmenší docházku má radní za hnutí ANO Pavel Schwarzer. Za čtyři měsíce letošního roku nebyl na jednání rady dokonce ani jednou.*
 
-{% photo src="https://i.ohlasy.info/i/tbyirbi.jpg" caption="Pavel Schwarzer" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tbyirbi.jpg" caption="Pavel Schwarzer" author="Tomáš Znamenáček" /%}
 
 „Měl jsem větší zdravotní problémy, tak proto jsem chyběl na jednáních rady. Nebyl v tom žádný záměr,“ vysvětluje Pavel Schwarzer, proč se nezúčastnil letošních sedmi schůzí rady. O svých problémech jednal i se starostkou Boskovic Hanou Nedomovou (ČSSD). „Řešili jsme to, ale podrobnosti sdělovat nebudu. On jako radní měl povinnost se omluvit, což vždy udělal,“ sdělila starostka.
 

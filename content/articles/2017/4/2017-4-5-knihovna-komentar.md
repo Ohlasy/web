@@ -9,7 +9,7 @@ tags: architektura
 
 *Na titulní straně aktuálního [tištěného vydání](http://www.ohlasy.info/tisk.html) Ohlasů najdete model nové knihovny tak, jak si ji představuje přední český architekt a boskovický rodák Zdeněk Fránek. Oproti předchozím měsícům jde o fotografii místa, které ve skutečnosti neexistuje a není ani jisté, jestli v této podobě existovat bude. Přesto jsme o zařazení modelu na titulku neváhali ani okamžik.*
 
-{% photo src="https://i.ohlasy.info/i/zwo4fyc.png" caption="Vizualizace nové knihovny" author="Fránek Architects & Lukáš Hynek" %}
+{% photo src="https://i.ohlasy.info/i/zwo4fyc.png" caption="Vizualizace nové knihovny" author="Fránek Architects & Lukáš Hynek" /%}
 
 V Boskovicích za poslední desítky let nejen že nevznikla jediná architektonicky kvalitní veřejná stavba – nepostavili jsme dokonce ani jedinou veřejnou stavbu, kterou by vůbec mělo smysl po stránce architektury hodnotit. Sportovní terminologií řečeno jsme zápas o kvalitu svého okolí prohráli kontumačně, jelikož jsme do něj vůbec nenastoupili.
 

@@ -9,7 +9,7 @@ tags: politika
 
 *Na celostátní úrovni jsou to úhlavní političtí soupeři. V Boskovicích se zatím zdá, že koaliční spolupráce i vzájemná chemie fungují mezi ODS a hnutím ANO velice dobře. Vládnou spokojeně, neohroženě a v klidu. Příliš je neruší ani koaliční partneři, ani opozice.*
 
-{% photo src="https://i.imgur.com/PXmrydR.jpg" caption="Místostarosta Lukáš Holík (ANO) a starosta Jaroslav Dohnálek (ODS)" author="Tomáš Trumpeš" %}
+{% photo src="https://i.imgur.com/PXmrydR.jpg" caption="Místostarosta Lukáš Holík (ANO) a starosta Jaroslav Dohnálek (ODS)" author="Tomáš Trumpeš" /%}
 
 Chování opozice [rozebral v minulém komentáři kolega Marek Osouch](https://ohlasy.info/clanky/2020/11/vlada-bez-opozice.html). Nyní se můžeme zamyslet nad samotným fungováním koalice. Podstatné je právě to, že ji dnes do značné míry reprezentují dva nejsilnější subjekty, které zároveň obsadily dva nejviditelnější posty. Tedy ODS a hnutí ANO. Jaroslav Dohnálek a Lukáš Holík vytvořili funkční a přesvědčivou dvojici s poměrně jasně rozdělenými gescemi, ale i jasnou hierarchií a mírou vlivu. Za dosavadní dva roky jsme nezaznamenali žádný pozorovatelný konflikt a ani z kuloárů se nešíří zprávy o těch neviditelných. Oba dva také velmi dobře a poměrně otevřeně komunikují – s námi novináři i s veřejností. Horší je to jen na jednáních zastupitelstva.
 

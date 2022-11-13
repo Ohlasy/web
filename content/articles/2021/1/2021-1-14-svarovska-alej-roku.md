@@ -9,7 +9,7 @@ tags: krajina
 
 *Svárovská alej je jednou z posledních velkých alejí na Boskovicku. Je dlouhá šest set metrů, tvoří ji osmdesát lip a vysazena byla zřejmě v roce 1920 v rámci celonárodní výsadby Stromů svobody. Nyní [uspěla v jubilejním desátém ročníku hlasování Alej roku](https://www.alejroku.cz/2020/vysledky-2020), zvítězila v Jihomoravském kraji a stala se i celonárodní vítězkou. Padesátce stromů ale stále hrozí vykácení.*
 
-{% photo src="https://i.ohlasy.info/i/4891c141.jpg" caption="Svárovská alej" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/4891c141.jpg" caption="Svárovská alej" author="Hynek Skořepa" /%}
 
 „Cílem ankety Alej roku je přitáhnout pozornost lidí k alejím, které patří ke zdravé a fungující krajině. Nezáleží, zda jde o aleje známé, neznámé, vzrostlé, mladinké, ve městech, v krajině, kolem silnic nebo turistických tras. O vítězství může nakonec rozhodnout mimořádná krása, silný příběh, snaha o záchranu nebo úsilí místních patriotů uspět v konkurenci z celé republiky,“ uvádí pořádající nezisková organizace Arnika, která spojuje lidi usilující o lepší životní prostředí. Krajina bez alejí je podle pořadatelů jako obraz bez rámu.
 

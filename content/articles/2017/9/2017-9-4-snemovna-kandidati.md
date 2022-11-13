@@ -9,7 +9,7 @@ tags: politika
 
 *Kandidátní listiny do sněmovních voleb jsou odevzdány. Je tudíž jasné, na jaká místa se dostali kandidáti z okresu Blansko. Rozhodli jsme se, že u deseti stran, které mají potenciál získat křesla ve sněmovně, nejvýše postavené politiky z okresu stručně představíme.*
 
-{% photo src="https://i.ohlasy.info/i/mtnsvzo.jpg" caption="Budova poslanecké sněmovny ČR" author="Jan Polák, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/mtnsvzo.jpg" caption="Budova poslanecké sněmovny ČR" author="Jan Polák, Wikimedia Commons" /%}
 
 ---
 

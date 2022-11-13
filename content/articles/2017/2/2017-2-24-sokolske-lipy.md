@@ -9,7 +9,7 @@ tags: zeleň
 
 *Lipová alej na ulici Sokolská dnes čítá necelých sedmdesát stromů a jednou za tři roky ji vždy čeká radikální ořez. Podle odborníků už tento způsob ošetření stromů nelze změnit. Lípy by měly vydržet ještě desítky let, místo pokácených stromů už se ale nové sázet nesmějí.*
 
-{% photo src="https://i.ohlasy.info/i/sckaliu.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/sckaliu.jpg" author="Tomáš Trumpeš" /%}
 
 Přesné stáří lipové aleje na Sokolské není známé, některé stromy ale mají více než osmdesát let. Zcela jistě alej nestála ještě v roce 1912, jak prozrazují fotografie pořízené po dostavění sokolovny. Některé stromy jsou výrazně mladší, protože v průběhu let docházelo k obměně. Dnes kromě stáří čelí stromy i požadavkům motoristů, kteří požadují skácení některých z nich s poukazem na to, že jim brání ve výhledu při vjíždění do Sokolské.
 
@@ -17,7 +17,7 @@ Jiným občanům se zase nelíbí, že je o lípy pečováno pomocích opakujíc
 
 „Problematika zeleně ve městě není jednoduchá. Zvláště tady na Sokolské narážíme na střet toho, co my jako lidé chceme pro náš komfort bydlení, dopravy a dalších oblastí, a na druhé straně je zájem, který bychom měli vidět a který se týká ochrany přírody a krajiny. A konkrétně i jednotlivých stromů ve městě,“ zahájila boskovická místostarostka Dagmar Hamalová setkání s občany, které se týkalo právě aleje na Sokolské.
 
-{% photo src="https://i.ohlasy.info/i/rqqftmx.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/rqqftmx.jpg" author="Tomáš Trumpeš" /%}
 
 Poslední případ podobného *střetu zájmů* se odehrál při opravách samoobsluhy a budování nového přechodu. Jedna z lip musela záměrům takzvaně ustoupit, čili byla pokácena. A v dopravní komisi aktuálně vznikl podnět, aby se zlepšily rozhledové podmínky na některých křižovatkách s tím, že by se zvažovalo i vykácení dalších stromů. „Zatím o tom rozhodně nejsme přesvědčeni, ale podněty jdou z různých stran. Rozhodně to není tak, že by se na odboru životního prostředí všem požadavkům vyhovělo, všechny podněty je třeba vážit. Každé kácení pečlivě posuzujeme,“ dodala k tomu boskovická místostarostka.
 

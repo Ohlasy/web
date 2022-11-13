@@ -9,7 +9,7 @@ tags: politika
 
 *Před prvním kolem jsem se [pokusil vysvětlit](http://www.ohlasy.info/clanky/2018/01/zeman-odchazi.html), proč pokládám případné opětovné zvolení Miloše Zemana prezidentem České republiky za krok, který by znamenal pouze pomalejší a bolestnější rozloučení s politikou, která je tak jako tak politikou minulosti. Kromě děkovných ohlasů jsem sklidil také očekávanou kritiku, že na prezidenta a jeho příznivce útočím a stavím se na stranu pražské kavárny proti venkovské hospodě. Hned další dny kampaně ukázaly, jak moc je tento konflikt falešný.*
 
-{% photo src="https://i.ohlasy.info/i/ccl0p3q.jpg" caption="Jiří Drahoš na kampani v Boskovicích" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/ccl0p3q.jpg" caption="Jiří Drahoš na kampani v Boskovicích" author="Tomáš Trumpeš" /%}
 
 Naše únava z kampaně, jejíž atmosféra před druhým kolem ještě houstne, se někdy projevuje tím, že propadáme dojmu vyhrocené bitvy, v níž létá špína z obou stran. Není to ale pravda. Z hlediska skutečné politické korektnosti, čímž myslím prachobyčejnou lidskou slušnost, jsou způsob vedení kampaní a rétorika jednotlivých kandidátů nesouměřitelné. A právě to by pro naše rozhodování nemělo být nepodstatné. Mimo jiné proto, že prezident má daleko více než konkrétní pravomoci vliv na atmosféru v zemi a v politice.
 

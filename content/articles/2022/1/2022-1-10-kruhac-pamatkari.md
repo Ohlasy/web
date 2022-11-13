@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Jako urbanisticky zcela nevhodné řešení označili boskovický plán na zlepšení dopravní situace křižovatky pod poštou formou kruhového objezdu brněnští památkáři. Ti se však k záměru pouze vyjadřují, není v jejich pravomoci jej zastavit či pozdržet.*
 
-{% photo src="https://i.ohlasy.info/i/b192e2cd.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/b192e2cd.jpg" author="Tomáš Trumpeš" /%}
 
 Souhlasné závazné stanovisko vydala úřednice Alena Dvořáková, která je na boskovické radnici oprávněnou osobou pro výkon státní památkové péče. Stavbu okružní křižovatky označila za přípustnou, ale za splnění dvou podmínek: nedojde k poškození kulturní památky areálu kostela Všech svatých, který se stavbou těsně sousedí, a budou zachovány vzrostlé stromy u kostela, přičemž všechny práce musí být provedeny tak, aby nedošlo k poškození jejich kořenového systému. To se týká především smuteční vrby, které se bude nová komunikace dotýkat poměrně těsně.
 

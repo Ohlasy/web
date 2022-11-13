@@ -10,7 +10,7 @@ tags: železnice historie doprava
 
 *Deset let už jezdily vlaky mezi Skalicí nad Svitavou a Boskovicemi, když vzniklo Československo. Trať mezi Skalicí a Velkými Opatovicemi tak vyrostla ještě za dob Rakouska-Uherska a letos slaví rovných 110 let. Tímto článkem zároveň končíme seriál o osmičkových výročích spojených s Boskovicemi.*
 
-{% photo src="https://i.ohlasy.info/i/wte84pq.jpg" caption="Historický vlak" author="Archiv Marka Říhy" %}
+{% photo src="https://i.ohlasy.info/i/wte84pq.jpg" caption="Historický vlak" author="Archiv Marka Říhy" /%}
 
 Psal se rok 1850, Boskovice se staly okresním městem a ve městě se začal rozvíjet průmysl a také služby. Jenže chybělo rychlé dopravní spojení. Železnice, která v té době zažívala obrovský rozmach díky první průmyslové revoluci, do Boskovic nevedla. Trať z Brna na Českou Třebovou sice už rok fungovala, ale Boskovice míjela a procházela pět kilometrů vzdálenou Skalicí nad Svitavou.
 

@@ -9,7 +9,7 @@ tags: koronavirus politika
 
 *Opatření přijatá proti šíření koronaviru se začínají uvolňovat. Jestli jsme doteď sledovali počty nakažených a hospitalizovaných s napětím, nyní je můžeme začít sledovat s ještě větším napětím. Máme za sebou první kolo zápasu, ale nevíme, jestli to byl první poločas, první třetina nebo první stadionový okruh ve vytrvalostním běhu na deset kilometrů s překážkami.*
 
-{% photo src="https://i.ohlasy.info/i/373f8f21.jpeg" author="Pražský hrad" %}
+{% photo src="https://i.ohlasy.info/i/373f8f21.jpeg" author="Pražský hrad" /%}
 
 Z toho důvodu by bylo dobré být spíše trpěliví, nedat se do sprintu, natožpak popustit uzdu oslavám vítězství.
 

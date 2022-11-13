@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady ve druhé polovině listopadu. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/e250a0b7.jpg" caption="„Školička“ u lázní je nakonec vítězem letošního ročníku participativního rozpočtu, díky kterému dojde k opravě přilehlého hřiště." author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/e250a0b7.jpg" caption="„Školička“ u lázní je nakonec vítězem letošního ročníku participativního rozpočtu, díky kterému dojde k opravě přilehlého hřiště." author="Tomáš Trumpeš" /%}
 
 V úvodu tiskové konference vedení města představilo návrh rozpočtu na rok 2022. Rozpočet počítá se schodkem 158 milionů korun a kompletním utracením sjednaného úvěru 120 milionů korun. Podrobně jej [v samostatném textu](https://ohlasy.info/clanky/2021/11/rozpocet.html) rozebral Marek Osouch.
 

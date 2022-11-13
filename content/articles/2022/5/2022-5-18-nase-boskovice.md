@@ -11,7 +11,7 @@ tags:
 
 *Hnutí ANO, které podle průzkumů stále zůstává u voličů nejoblíbenějším samostatným politickým subjektem, nebude mít v komunálních volbách v Boskovicích své zastoupení. Jeho místní předseda Lukáš Holík totiž zakládá novou občanskou kandidátku, která sbírá podpisy a bude kandidovat pod značkou [Naše Boskovice](https://naseboskovice.cz/).*
 
-{% photo src="https://i.ohlasy.info/i/5b03b47a.jpeg" caption="Lukáš Holík a Petr Axman" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/5b03b47a.jpeg" caption="Lukáš Holík a Petr Axman" author="Tomáš Trumpeš" /%}
 
 Sám Lukáš Holík členem hnutí zůstává a je za ně také krajským zastupitelem. Změnu volební značky pro komunální volby a vytvoření občanské kandidátky vysvětluje požadavky lidí, kteří se k němu chtěli připojit po jeho [odchodu z radnice v minulém roce](https://ohlasy.info/clanky/2021/04/rozhovor-holik.html). 
 

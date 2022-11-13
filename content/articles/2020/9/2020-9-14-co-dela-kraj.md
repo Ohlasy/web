@@ -12,7 +12,7 @@ tags:
 
 *Před dvaceti lety vzniklo čtrnáct krajských samospráv jako mezičlánek mezi obcemi a státem. Část jejich obyvatel jim ale ani po dvou dekádách nedůvěřuje, nechápe, proč vznikly, a neví, co mají na starost. Přitom mají řadu důležitých kompetencí – pojďme si je shrnout.*
 
-{% photo src="https://i.ohlasy.info/i/hvcl7ww.jpg" caption="Jihomoravský kraj se v Boskovicích stará například o silnici na Chrudichromy, kterou před několika lety rekonstruoval" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/hvcl7ww.jpg" caption="Jihomoravský kraj se v Boskovicích stará například o silnici na Chrudichromy, kterou před několika lety rekonstruoval" author="Marek Osouch" /%}
 
 Jihomoravský kraj má každoročně k dispozici zhruba osm miliard korun. Velká část proudí na provoz organizací, které hejtmanství zřizuje, část se ale vynakládá i na investice a rozvoj regionu.
 

@@ -12,7 +12,7 @@ tags:
 
 *Ke čtvrtému jednání se sešli boskovičtí zastupitelé, kteří vzešli z podzimních komunálních voleb. Schůze se tentokrát protáhla na více než tři hodiny a opozice poprvé ukázala, že nechce novému vedení města jen pasivně přihlížet.*
 
-{% photo src="https://i.ohlasy.info/i/emxkab2.jpg" caption="Taktická porada opozice v přestávce před hlasováním" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/emxkab2.jpg" caption="Taktická porada opozice v přestávce před hlasováním" author="Tomáš Znamenáček" /%}
 
 Začátek zastupitelstva přitom probíhal poměrně poklidně. V jednom z tradičních úvodních bodů, kdy dostávají prostor k podnětům a připomínkám občané, se o slovo nepřihlásil nikdo. 
 

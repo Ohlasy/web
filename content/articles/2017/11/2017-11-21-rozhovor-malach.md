@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s místostarostou Petrem Malachem, který má na starosti boskovický sport. Večer před klíčovým jednáním rady o sportovní hale jsme mluvili o tom, k jaké lokalitě se přiklání a jak vidí přípravu stavby, která už stála Boskovice hodně sporů i peněz.*
 
-{% photo src="https://i.ohlasy.info/i/hq1hpyr.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/hq1hpyr.jpg" author="Tomáš Znamenáček" /%}
 
 **Je to možná kacířská otázka, ale potřebují Boskovice sportovní halu?**
 
@@ -61,7 +61,7 @@ Už někdy před rokem či dvěma jsme se bavili s Českým hokejovým svazem, k
 
 Když jsme se bavili se zástupci hokejového svazu, říkali, že největší problém pro ně je, že potřebují mít pro děti na soustředěních všechno tak, aby tam došly – zimní stadion, halu, ale i zázemí pro stravování. Nemůžeme je poslat třeba po silnici na Lasák. Pro nás by bylo nejlepší mít všechno v jednom areálu.
 
-{% photo src="https://i.ohlasy.info/i/dv0uer3.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/dv0uer3.jpg" author="Tomáš Znamenáček" /%}
 
 ### 350 milionů je moc
 
@@ -153,7 +153,7 @@ Určitě. Tyto materiály jsou u Petra Zouhara.
 
 Určitě ano.
 
-{% photo src="https://i.ohlasy.info/i/7jbbh6y.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/7jbbh6y.jpg" author="Tomáš Znamenáček" /%}
 
 ### Do stolu bouchat nechci
 

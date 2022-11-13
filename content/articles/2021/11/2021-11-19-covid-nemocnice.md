@@ -8,7 +8,7 @@ tags: koronavirus
 
 *Vysoký nárůst pozitivních případů nemoci covid-19 se už znovu výrazně projevil v boskovické nemocnici. Ta už minulý týden zrušila veškerou neakutní péči, protože očekává další růst pacientů s covidem. Okres Blansko patří mezi ty nejzasaženější.*
 
-{% photo src="https://i.ohlasy.info/i/3b231fdc.jpg" caption="Očkování v boskovické nemocnici" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3b231fdc.jpg" caption="Očkování v boskovické nemocnici" author="Tomáš Znamenáček" /%}
 
 Počet aktuálně zachycených případů covidu na okrese Blansko už je dnes mnohem výš než v nejhorším období na jaře, kdy statistika ukazovala kolem 1600 aktuálně pozitivních případů. [Dnes už je patrné](https://www.covdata.cz/okresy.php#CZ0641), že je číslo o sedm set vyšší. To se viditelně projevuje i na situaci v boskovické nemocnici, která znovu zavedla omezený režim, protože se musí věnovat covidovým pacientům a nemá kapacitu na běžnou neakutní péči, kterou je možné odložit.
 

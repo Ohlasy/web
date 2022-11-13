@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedené města oznámilo po zasedání městské rady na konci května. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/uvaghuf.jpg" caption="Na místě bývalé Slámovy pily by mělo dojít k výstavbě domu seniorů" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/uvaghuf.jpg" caption="Na místě bývalé Slámovy pily by mělo dojít k výstavbě domu seniorů" author="Tomáš Trumpeš" /%}
 
 ### Závěrečný účet za rok 2017 a rozpočtové opatření
 

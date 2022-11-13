@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Město Boskovice oznámilo, že pořídí nový jednotný vizuální styl; oslovilo pět tiskáren a zakázku přidělilo na základě nejnižší ceny. Zvolený postup komentuje Ondřej Dostál, bývalý ředitel boskovického muzea a Mendelova muzea v Brně, nyní nově vedoucí oddělení pro strategie a vnější vztahy Lékařské fakulty Masarykovy univerzity.*
 
-{% photo src="https://i.ohlasy.info/i/96839664.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/96839664.jpg" caption="Ilustrační foto" author="Tomáš Znamenáček" /%}
 
 Pravidelný [report Ohlasů z radnice](https://ohlasy.info/clanky/2020/01/z-radnice.html) přinesl zprávu o soutěži a pořízení takzvaného JVS – jednotného vizuálního stylu pro Město Boskovice. Zpráva, nad kterou se pozastaví málokdo. Výběrem prošla a zakázku získala firma Artron s částkou blížící se půl milionu korun. Celá soutěž byla postavena na nejnižší ceně, nikoliv na hodnocení grafických návrhů předem. Ve své úvaze nebudu zpochybňovat vítěze, ale celý nápad a samotnou cestu, kterou mohu nazvat snad jen jediným slovem – diletantství.
 

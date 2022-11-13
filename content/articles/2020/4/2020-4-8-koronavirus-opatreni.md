@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Poslanecká sněmovna prodloužila trvání nouzového stavu v České republice do konce dubna. Také v Boskovicích nás tedy čeká pokračování opatření, která byla ve snaze zabránit šíření koronaviru přijata. Nabízíme přehled některých nových informací a také shrnutí obecnějších platných opatření a aktuálních změn.*
 
-{% photo src="https://i.ohlasy.info/i/e3eab2e8.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/e3eab2e8.jpeg" author="Tomáš Znamenáček" /%}
 
 Město Boskovice zřídilo non-stop informační telefonní linku 725 112 573.
 

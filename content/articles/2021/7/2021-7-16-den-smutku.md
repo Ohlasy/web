@@ -9,7 +9,7 @@ serial: ghetto
 
 *Dnes po delší době, moji milí čtenáři, nahlédneme opět do světa židovských tradic a připomeneme si jeden z nejsmutnějších dnů v židovské historii – Tiš’a be-av čili 9. den židovského měsíce avu. V letošním roce připadá podle křesťanského kalendáře na 18. červenec.*
 
-{% photo src="https://i.ohlasy.info/i/26096ac3.jpg" caption="Zeď nářků" author="Ralf Roletschek" %}
+{% photo src="https://i.ohlasy.info/i/26096ac3.jpg" caption="Zeď nářků" author="Ralf Roletschek" /%}
 
 Při hledání počátku Tiš’a be-av musíme jít až do biblických dob, kdy židé v druhém roce po svém odchodu z Egypta 9. avu odmítli Kanaán jako svoji zemi zaslíbenou, rozhněvaný Hospodin je poté potrestal čtyřicetiletým putováním a určil 9. av jako datum budoucích tragédií. A skutečně, těch neblahých událostí se pak onoho dne odehrála celá řada. Židé především vzpomínají na 1. a 2. churban, tedy na dvojí zničení jeruzalémského Chrámu. Poprvé k němu došlo roku 586 př.n.l. a způsobila je vojska babylonského krále Nebukadnesara, která zpustošila Jeruzalém, zničila Chrám, ten pak 9. avu zcela podlehl své zkáze v plamenech. Příslušníci židovské elity byli odvlečeni do takzvaného babylonského zajetí, po svém návratu Chrám znovu vybudovali.
 

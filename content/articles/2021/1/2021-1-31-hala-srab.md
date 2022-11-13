@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Město Boskovice čeká v nejbližší době rozhodnutí, jakým způsobem po zrušení dvou architektonických soutěží postupovat ve snaze získat návrh na sportovní halu v Červené zahradě. Věcný rozbor hlavních variant a své stanovisko zastupitelům zaslali také architekti a inženýři sdružení do nedávno vzniklého [Spolku za rozvoj architektury Boskovic](https://ohlasy.info/clanky/2020/12/prichazi-srab.html). Jejich společné prohlášení zveřejňujeme v podobě upravené do komentáře i na Ohlasech.*
 
-{% photo src="https://i.ohlasy.info/i/8a527efe.jpg" caption="Studie areálu Červená zahrada" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/8a527efe.jpg" caption="Studie areálu Červená zahrada" author="Město Boskovice" /%}
 
 Navrhnout, vyprojektovat a realizovat stavbu sportovní haly není otázka několika měsíců. Budova tu s námi bude stát a fungovat desetiletí. Nyní máme příležitost podniknout všechny kroky k nalezení její nejlepší podoby, a to jak z hlediska funkčnosti, tak vzhledu. Další šanci budou mít až následující generace.
 

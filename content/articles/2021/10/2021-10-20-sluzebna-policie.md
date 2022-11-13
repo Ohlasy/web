@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Řadu let stála městská policie mimo větší pozornost vedení Boskovic, poslední roky ale naopak představuje oblast, kam se každý rok dává čím dál více peněz z rozpočtu, přidává se na mzdy a také se zvyšují počty úvazků. Teď v říjnu se navíc rozběhla stavba nové služebny.*
 
-{% photo src="https://i.ohlasy.info/i/fcdd7752.jpeg" caption="Budoucí služebna městské policie" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/fcdd7752.jpeg" caption="Budoucí služebna městské policie" author="Tomáš Trumpeš" /%}
 
 Nové zázemí městské policie vyroste v areálu boskovického úřadu, tedy v místech, kde dnes sídlí. Nebudou to ale stejné prostory, protože ty už bezpečnostním složkám dlouhodobě nestačí. Přestěhují se do domu na výjezdu z Masarykova náměstí mezi bývalým sportbarem Hokejka a galerií Otakara Kubína. Vchod bude přímo z ulice, takže služebna už nebude schovaná na dvoře městského úřadu.
 

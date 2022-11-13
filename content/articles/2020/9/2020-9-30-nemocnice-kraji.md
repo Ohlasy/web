@@ -8,7 +8,7 @@ tags: nemocnice
 
 *Jak se vaše politické uskupení staví k tomu, že by boskovickou nemocnici mohl provozovat potenciální krajský holding? Byli byste ochotní to podpořit, nebo chcete udržet nemocnici v rukou města?*
 
-{% photo src="https://i.ohlasy.info/i/a4yoilu.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/a4yoilu.jpg" author="Tomáš Znamenáček" /%}
 
 ---
 

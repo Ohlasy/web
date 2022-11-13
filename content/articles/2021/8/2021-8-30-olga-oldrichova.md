@@ -9,7 +9,7 @@ tags: nekrolog
 
 *Legenda zdaleka nejen mezi boskovickými sportovci, olympionička Olga Oldřichová, rozená Šicnerová, zemřela v sobotu 21. srpna ve věku 93 let. Přátelskou vzpomínku na ni napsala pro Ohlasy její kolegyně z kultury, kde se Olga Oldřichová rovněž uplatnila, Helena Janíková.*
 
-{% photo src="https://i.ohlasy.info/i/9d32c892.jpg" caption="Olga Oldřichová při oslavě svých 90. narozenin na boskovické radnici" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/9d32c892.jpg" caption="Olga Oldřichová při oslavě svých 90. narozenin na boskovické radnici" author="Jaroslav Parma" /%}
 
 Potkaly jsme se poprvé v roce 1985, kdy Vy už jste byla zkušenou průvodkyní v Památníku Otakara Kubína a já začínající pracovnicí Městského kulturního střediska Boskovice, která kromě jiného dostala na starost i Památník. Měly jsme k sobě od počátku velmi blízko, a to i doslova, neboť kanceláře MKS a Památník sídlily vedle sebe v areálu panského dvora na adrese Hradní 3.
 

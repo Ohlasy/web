@@ -8,7 +8,7 @@ tags: politika
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ČSSD, Pirátů, KDU-ČSL a KSČM.*
 
-{% photo src="https://i.ohlasy.info/i/5236cf5e.jpg" caption="Hotel Velen na Červené zahradě čeká brzy demolice, aby uvolnil místo chystané sportovní hale" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/5236cf5e.jpg" caption="Hotel Velen na Červené zahradě čeká brzy demolice, aby uvolnil místo chystané sportovní hale" author="Marek Osouch" /%}
 
 **Jak hodnotíte základní parametry [návrhu rozpočtu na rok 2021](https://ohlasy.info/clanky/2020/11/rozpocet.html)? Tedy schodek 50 milionů při čerpání úvěru 14 milionů, prodeji městského majetku za 30 milionů a utracení naspořených financí?**
 

@@ -8,7 +8,7 @@ tags: kultura hudba nekrolog
 
 *V neděli v poledne zemřel Pavel Koudelka, přezdívaný Silver. Kytarista a hlavní představitel legendární kapely S–band. Jeho odchod oznámila skupina na svých facebookových stránkách.*
 
-{% photo src="https://i.ohlasy.info/i/dbrjcu1.jpg" author="archiv skupiny S–band" %}
+{% photo src="https://i.ohlasy.info/i/dbrjcu1.jpg" author="archiv skupiny S–band" /%}
 
 Vzpomínku na Pavla Silvera Koudelku by měl psát někdo mnohem povolanější a také starší. Přesto si dovolím říct pár slov, ačkoliv pro lidi mé generace už byl Silver spíše legendou, o které jsme slýchali, než kterou jsme slýchali. I tak je asi i nám mladším jasné, že opravdu odešla skutečná legenda a jedna z nejvýraznějších a nejvlivnějších postav boskovické kultury. Vždyť asi nelze popřít, že rocková hudba byla určujícím fenoménem několika desetiletí světové kultury, a Silver byl minimálně zde na Boskovicku největším z rockerů, nejvěhlasnějším majitelem nástroje, který změnil svět – elektrické kytary.
 

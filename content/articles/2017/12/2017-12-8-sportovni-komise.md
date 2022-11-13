@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Klíčové rozhodnutí ve věci sportovní haly se čeká od nastávajícího zasedání zastupitelstva. Jasné slovo by mělo padnout ve výběru lokality. Směr, kterým se město vydá, mělo naznačit už zasedání sportovní komise, na které byly přizvány i sportovní kluby.*
 
-{% photo src="https://i.ohlasy.info/i/0dnvjyl.jpg" caption="Sportovní areál Červená zahrada" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/0dnvjyl.jpg" caption="Sportovní areál Červená zahrada" author="Tomáš Znamenáček" /%}
 
 Otázka ovšem nestojí pouze tak, jestli hala bude stát u základní školy na Sušilově, nebo v areálu Červená zahrada. S umístěním haly do Červené zahrady je spojená řada podotázek, především ochota vykupovat další pozemky a vůle mít zde také atletický ovál. Pro sportovce je důležitá nejen lokalita, ale také čas. Na halu čekají už dlouho, některé sporty se proto potýkají s obtížemi a jejich protagonisté logicky tlačí na rychlé řešení. Proti tomu stojí varování odborníků, aby se případné řešení areálu Červené zahrady neuspěchalo a dobře rozmyslelo a připravilo.
 

@@ -8,7 +8,7 @@ tags: politika
 
 *Po zavedení rubriky novinek Z radnice jsme se rozhodli dát vyhrazený prostor také boskovické opozici a požádat je o vyjádření k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci ODS, TOP 09 a sdružení Sportovci pro Boskovice.*
 
-{% photo src="https://i.ohlasy.info/i/oisqgfk.jpg" caption="Ústí Štefánikovy ulice" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/oisqgfk.jpg" caption="Ústí Štefánikovy ulice" author="Tomáš Trumpeš" /%}
 
 **Jak se vám líbí záměr radnice [vydávat městský Zpravodaj v novém formátu](http://www.ohlasy.info/clanky/2017/07/novy-zpravodaj.html) a distribuovat ho zdarma do všech domácností?**
 

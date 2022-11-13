@@ -9,7 +9,7 @@ tags: kultura
 
 *Vedení města čeká na novou koncepci, kterou mají zpracovat Kulturní zařízení města Boskovice (KZMB). Městskou kulturní organizaci ale v dohledné době čeká ještě jedna podstatná změna, protože řediteli Oldřichu Kovářovi, který ji vede po celých 20 let, se blíží důchodový věk. Příspěvek, který s předstihem otevírá debatu o příštím řediteli, nám zaslal šéf kulturní komise Radek Pernica.*
 
-{% photo src="https://i.ohlasy.info/i/933444e7.jpg" caption="Katolický dům" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/933444e7.jpg" caption="Katolický dům" author="Tomáš Trumpeš" /%}
 
 V několika posledních měsících jsem v Boskovicích zaznamenal zvýšenou debatu o možném nástupci ředitele KZMB Oldřicha Kováře. Olda (dovolím si přátelské oslovení, s Oldou jsme letití kolegové a tykáme si) se přiblížil věku, kdy je přirozené a prospěšné předat štafetu ředitelování dále. Tak to zkrátka chodí a je to dobře.
 

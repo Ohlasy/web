@@ -10,7 +10,7 @@ tags:
 
 *Posun v přípravách stavby sportovní haly oznámila boskovická radnice. Navzdory kritice pokračuje ve variantě úpravy studentského návrhu. Kromě toho vedení města zařadilo do návrhu rozpočtu na příští rok 4 miliony korun na nákup nafukovací haly, která bude stát na kurtech a sloužit tenistům.*
 
-{% photo src="https://i.ohlasy.info/i/588389c6.jpg" caption="Tenisové kurty v Červené zahradě" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/588389c6.jpg" caption="Tenisové kurty v Červené zahradě" author="Tomáš Trumpeš" /%}
 
 ### Sportovní hala
 

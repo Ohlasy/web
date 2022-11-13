@@ -8,13 +8,13 @@ category: zpravodajství
 
 *Město odmítá převzít pozemky okolo nových bytových domů na Lidické, takže se o ně budou muset starat majitelé bytů, mezi které byly podílně rozparcelovány. Také doposud nevzniklo dětské hřiště, které bylo součástí stavebního povolení. Majitelé řeší v bytových domech, které postavil developer Tomáš Kindermann, i další problémy.*
 
-{% photo src="https://i.ohlasy.info/i/077e5cad.jpeg" caption="Zábrany na dosud neprodaných parkovacích místech" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/077e5cad.jpeg" caption="Zábrany na dosud neprodaných parkovacích místech" author="Tomáš Trumpeš" /%}
 
 Majitelé bytů na Lidickou přicházeli s nadějí, že se přestěhují do krásného nového bytu, kde nebudou muset řešit žádné problémy – opak je ale pravdou. Největší starost jim dělá to, že město nepřevzalo příjezdovou cestu spolu s dalším prostranstvím okolo bytových domů. Majitelé si tak zároveň s bytem koupili neplánovaně i podíl na příjezdové cestě a zeleni. S tím se pro ně pojí starosti o údržbu těchto prostranství. „Když tady někdo uklouzne, protože nestihneme cestu v zimě posypat, tak bude žalovat nás. Když se cesta rozbije, tak ji musíme opravit na vlastní náklady,“ popisuje problémy majitel jednoho z bytů Vítězslav Kulíšek. „V budoucí kupní smlouvě to nebylo a v kupní smlouvě jsme byli postaveni před hotovou věc, že si ty pozemky musíme vzít,“ pokračuje majitel, který byt zaplatil při podpisu budoucí kupní smlouvy a chtěl se nastěhovat.
 
 Pozemky jsou nyní rozděleny mezi majitele, kteří spadají pod šest různých společenství vlastníků jednotek (SVJ). Domlouvat se na správě těchto pozemků je proto podle Vítězslava Kulíška velmi problematické, majitelé bytů navíc nevlastní veškeré pozemky ve vnitrobloku. „Zrovna dnes ráno zde posekali travnaté plochy na základě smlouvy, kterou sjednal pan Kindermann. Dopadlo to tak, že je posekaná jen část pozemků, které vlastníme my jako SVJ, a zbytek posekaný není, takže to samozřejmě vypadá hrozně,“ objasnil Vítězslav Kulíšek s tím, že současné řešení je podle něj nelogické. „Chápal bych, kdybychom tedy byli majiteli vší zeleně a i začátku příjezdové cesty. Takhle ani nemůžeme zabránit tomu, aby nám sem veřejnost jezdila,“ vysvětlil.
 
-{% photo src="https://i.ohlasy.info/i/f4f1633a.png" caption="Barevně vyznačené pozemky patří městu" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/f4f1633a.png" caption="Barevně vyznačené pozemky patří městu" author="Město Boskovice" /%}
 
 „Pan Kindermann nám tvrdil, že město slíbilo, že si ty pozemky převezme, a najednou to odmítlo,“ uvedl další z majitelů Martin Ježek. Tomáš Kindermann, jednatel stavební firmy Kindermann, jeho tvrzení potvrdil. „Pozemky v okolí nové zástavby měly být původně převedeny městu, ale nové vedení města je převzít odmítlo, proto byly převedeny podílem k jednotlivým bytům,“ uvedl Tomáš Kindermann s tím, že začátek příjezdové komunikace k vnitrobloku městu Boskovice převedl.
 

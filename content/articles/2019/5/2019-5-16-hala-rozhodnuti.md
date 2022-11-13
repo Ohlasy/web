@@ -11,7 +11,7 @@ tags:
 
 *Při zpracovávání zcela jiného tématu jsem v archivu Ohlasů narazil na zajímavý titulek: O hale se rozhodne až v červnu. Zajímavé na něm bylo to, že je čtyři roky starý. A mohl by být ještě starší, v archivu Boskovicka by se podobný titulek našel možná z doby před více než deseti lety. Člověka napadá otázka, co bychom mohli udělat pro to, abychom v Boskovicích podobné titulky nemuseli psát a číst ještě třeba za dalších pět let.*
 
-{% photo src="https://i.ohlasy.info/i/nui09w4.jpg" caption="Jízdárna, jejíž rekonstrukce by mohla být součástí projektu nové haly na Sušilově" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/nui09w4.jpg" caption="Jízdárna, jejíž rekonstrukce by mohla být součástí projektu nové haly na Sušilově" author="Tomáš Trumpeš" /%}
 
 Letos to navíc vypadá, že o hale se nerozhodne až v červnu, ale v lepším případě už v červnu, v horším až v září. Příčin je jistě mnoho, ale musím přiznat, že čistě politicky je to pro mě více než překvapivé. Těsně po komunálních volbách jsme nově vznikající koalici říkali pracovně koalice pro halu a očekávali jsme, že bývalá opozice, která stále nese trauma krachu stavby haly na Slovákově ulici, bude mít reparát jako svou hlavní a jasnou prioritu. Jinými slovy, že si politici plácnou nad koaliční dohodou s tím, že halu postaví co nejdříve na konkrétním místě, a na všem ostatním se můžou domluvit postupně. 
 

@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Patrikem Slezákem, který pod jménem „leafur“ vydal EP [Upcoming Wave](https://leafur.bandcamp.com/album/upcoming-wave). Vzniklo během lockdownu a Patrik ho prakticky celé nahrál sám. Mluvili jsme o hudbě, o zvuku a taky o tom, že se albem vlastně rozloučil se studentskými léty v Boskovicích.*
 
-{% photo src="https://i.ohlasy.info/i/29922868.jpeg" caption="Patrik Slezák aka leafur" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/29922868.jpeg" caption="Patrik Slezák aka leafur" author="Tomáš Znamenáček" /%}
 
 **Patriku, můžeš říct něco o sobě? Co jsi studoval a studuješ teď a čím se hlavně zabýváš?**
 

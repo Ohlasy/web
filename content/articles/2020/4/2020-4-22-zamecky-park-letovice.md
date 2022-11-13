@@ -10,7 +10,7 @@ tags: krajina historie
 
 *Nastal ten pravý čas, abychom při putování zajímavými místy Boskovicka navštívili také některý ze zdejších zámeckých parků. Hned několik parků či bývalých obor má nejen historickou hodnotu, ale navíc jsou chráněny jako přírodní památky. Nejsou totiž jen ukázkami historického vývoje parků a zahrad, nýbrž hostí i ohrožené druhy rostlin a živočichů.*
 
-{% photo src="https://i.ohlasy.info/i/2050854b.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/2050854b.jpg" author="Hynek Skořepa" /%}
 
 Přírodní památka je tou „nejméně přísnou“ kategorií zvláště chráněných území u nás, jak je definuje Zákon č. 114/1992 Sb. o ochraně přírody a krajiny. Dle představy zákonodárce je přírodní památkou možné prohlásit *přírodní útvar menší rozlohy, zejména geologický či geomorfologický útvar, naleziště vzácných nerostů nebo ohrožených druhů ve fragmentech ekosystémů, s regionálním ekologickým, vědeckým či estetickým významem, a to i takový, který vedle přírody formoval svou činností člověk*. Právě to je případ zámeckých parků.
 
@@ -26,7 +26,7 @@ Víc než ztráta ambroně mne však mrzí vymizení medvědího česneku. V kap
 
 Park vznikl vedle zámku, původně hradu, jehož počátky jsou nepříliš jasné. Zakladatelem hradu byl v polovině 13. století patrně jistý Heřman, o němž však není jasné, ke kterému rodu patřil. Od roku 1322 se jako držitelé Letovic uvádějí páni z Ronova, honosící se erbem se zkříženými ostrvemi (německy Ronne, kmínky s osekanými větvemi, které sloužily například jako primitivní žebříky v rudných dolech). Ostrve na žlutém (původně zlatém) poli jsou dodnes v letovickém městském znaku. Posledním Ronovcem na Letovicích byl můj jmenovec Hynek, o němž není jasné, zda se dožil dobytí hradu husity v roce 1424.
 
-{% photo src="https://i.ohlasy.info/i/1787b31b.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/1787b31b.jpg" author="Hynek Skořepa" /%}
 
 Následně se o Letovice dělili příslušníci místní větve pánů z Boskovic a pány z Lomnice. Až známému humanistovi Ladislavovi z Boskovic se podařilo roku 1505 panství scelit. Jeho syn letovické zboží prodal a pak se majitelé střídali. Za třicetileté války dobyli hrad Švédové. Od roku 1724 vlastnili panství Blümegenové, kteří v Letovicích založili textilní manufakturu (v podobě zmíněné továrny Tylex vlastně existuje dodnes). V té době byl již hrad asi sto padesát let přestavěný na renesanční a později barokní zámek. V roce 1820 získal zámek maďarský rod Kálnoky. Jindřich Kálnoky nechal zrušit velkou část opevnění a postaral se o pseudogotickou úpravu stavby, která dala zámku současný vzhled.
 
@@ -42,7 +42,7 @@ Letos v květnu od těch událostí uplyne tři čtvrtě století. Podle Benešo
 
 Pan hrabě letovický zámek znovu uviděl až jako starý člověk, většinu života prožil v Austrálii. Poprvé si troufl přijet do Letovic v létě 1989. Po sametové revoluci pak usiloval o navrácení majetku cestou restitucí. Zámek po určité době skutečně získal, ostatní majetek (zemědělskou půdu a především lesy) se mu však vysoudit nepodařilo. Svědčí to o pochybném řešení některých restitučních kauz v České republice. Pokud totiž jako Maďaři Kálnokyové opravdu podléhali Benešovým dekretům, neměli získat nic. Jestliže se však na ně dekrety nevztahují, protože, jak tvrdí, za války pomáhali francouzskému odboji, měli získat majetek celý. Jedině z výnosu majetku totiž mohli rekonstruovat letovický zámek, který byl po roce 1945 účelově využit a značně zdevastován (mimo jiné se v něm vystřídala armáda či učňovský internát). Po několika letech Alexander (či Šándor, jak byl v rodině nazýván), tahanice kolem letovického majetku vzdal, a zámek s parkem prodal jinému soukromému majiteli. Zámecký park později za symbolickou částku odkoupilo město. Pamatuji si pana hraběte jako sympatického obtloustlého pána v kalhotách se šlemi, který jezdil trabantem! Na lepší auto zřejmě neměl. Můj strýc si s ním ještě dlouho vyměňoval vánoční přání, než pan hrabě v roce 2017 zemřel.
 
-{% photo src="https://i.ohlasy.info/i/bb02b877.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/bb02b877.jpg" author="Hynek Skořepa" /%}
 
 Nakonec se musím zmínit o bobrech. Tento zajímavý hlodavec byl v českých zemích vyhuben počátkem 18. století, nejpozději na Třeboňsku. V jižních Čechách ale kníže Schwarzenberg ještě nějakou dobu choval bobry přivezené z Polska. Žili v takzvaných bobrovnách, obdélníkových domcích obehnaných silnou zdí, zapuštěnou hluboko do země, aby se bobři nemohli podhrabat. Poslední bobr z bobrovny na rybníce Rožmberk pošel roku 1882. Na více než sto let naše řeky osiřely. V roce 1991 však byli zásluhou hydrobiologa profesora Otakara Štěrby vysazeni bobři v Litovelském Pomoraví na Olomoucku. Opět se k nám dostali z Polska. A daří se jim díky přísné ochraně obsazovat další a další území. Šíří se nejen z Litovelského Pomoraví, ale také z Rakouska či Německa (například do Českého lesa). Řeku Svitavu oživili hned v několika úsecích. Jsou to tvorové velice přizpůsobiví a vynalézaví. Vůbec jim nevadí žít v blízkosti člověka, v Letovicích lze nalézt známky jejich pobytu (ohryzané stromy, skluzy do vody) hned na několika místech. Zahlédnout se mi je však dosud nepodařilo, jsou velice plaší.
 

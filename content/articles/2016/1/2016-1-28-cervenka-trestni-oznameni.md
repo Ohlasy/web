@@ -10,7 +10,7 @@ tags:
 
 *Anonymní trestní oznámení obdržela Policie České republiky. Jeho autor v něm viní neznámého pachatele z maření úkolu úřední osoby při nákupu pozemku a takzvaného Dvořáčkova mlýna v Červené zahradě. Oznámení tak směřuje proti vedení města a boskovickému zastupitelstvu, které [nákup za 14 milionů korun schválilo](/clanky/2015/10/dvorackuv-mlyn.html). Případ vyšetřuje kriminální policie, její závěry by mohly být známy asi za měsíc.*
 
-{% photo src="https://i.ohlasy.info/i/2qebiut.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/2qebiut.jpg" author="Tomáš Trumpeš" /%}
 
 „Je to hospodářská kauza. Přišlo to jako anonymní oznámení koncem roku na Státní zastupitelství v Blansku, na začátku roku jsme to dostali my a nyní provádíme úkony v souladu s trestním řízením. Věc se prověřuje,“ uvedl mluvčí blanenské policie Petr Nečesánek. Policisté si nyní zvou dotčené osoby k podání vysvětlení, lidově řečeno na výslechy. První závěry z vyšetřování by mohly být podle Petra Nečesánka známy asi za měsíc. Bližší informace k celé kauze policisté zatím sdělovat nechtějí. Vedení města potvrdilo, že bylo kontaktováno policií a poskytlo jí podklady a dokumenty k vyšetřované kauze.
 

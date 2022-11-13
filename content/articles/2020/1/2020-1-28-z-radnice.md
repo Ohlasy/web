@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady ve druhé půli ledna. Přinášíme výběr toho nejzajímavějšího z tiskové konference, které se tentokrát z politiků účastnil jen místostarosta Lukáš Holík (ANO). Doplnil ho šéf majetkového odboru Pavel Musil.*
 
-{% photo src="https://i.ohlasy.info/i/ae03b8ce.jpg" caption="U Zelené školy se chystají změny v parkování" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/ae03b8ce.jpg" caption="U Zelené školy se chystají změny v parkování" author="Tomáš Trumpeš" /%}
 
 ### Cena CZT
 

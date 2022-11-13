@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Rozhovor s Ondřejem Dostálem, který žil rok a čtvrt na Tchaj-wanu. Zná tamní poměry a sledoval ohlasy na návštěvu české delegace pod vedením předsedy Senátu Miloše Vystrčila. Kromě této cesty a jejího významu jsme mluvili i o tom, jak Tchajwanci zvládají pandemii koronaviru.*
 
-{% photo src="https://i.ohlasy.info/i/8375b95a.jpeg" caption="Ondřej Dostál žil na Tchaj-wanu 15 měsíců s celou rodinou" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/8375b95a.jpeg" caption="Ondřej Dostál žil na Tchaj-wanu 15 měsíců s celou rodinou" author="Tomáš Znamenáček" /%}
 
 **S jakými pocity jsi sledoval cestu Miloše Vystrčila na Tchaj-wan?**
 
@@ -83,7 +83,7 @@ Stíhačky měly cvičení každý den. Mají F16 plus svoje vlastní stroje. Ka
 
 No tak samozřejmě. Proti té miliardě a čtvrt.
 
-{% photo src="https://i.ohlasy.info/i/9bb9d28c.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/9bb9d28c.jpeg" author="Tomáš Znamenáček" /%}
 
 **Proč Číně na Tchaj-wanu tak záleží? Je to jen snaha neukázat slabinu a neustoupit zkrátka nikde, nebo má Tchaj-wan nějaký specifický význam?**
 
@@ -121,7 +121,7 @@ Myslím, že těch přínosů je hned několik. Je to zvýšení naší pozice v
 
 Protože se bojí, co by se stalo, kdyby si naštvali velkou Čínu a kdyby s nimi přestala kamarádit. Tak to bohužel je, když začne převažovat ekonomický zájem nějakých skupin nad demokratickými zájmy společenství. Zaklínáme se obrovskými investicemi, které mají přijít z Číny, ale když se podíváme, co se děje v Číně ve vztahu k Tibetu nebo k ujgurské menšině, tak myslím, že bychom neměli mlčet. Jako západní společenství pak někde mlčíme, a někde nemlčíme. A mlčíme většinou více tam, kde máme ekonomické zájmy. Opravdu nejsem specialista, ale takto mi to připadá. A Čína se snaží. Vždyť o tom píše i BIS, že se Čína v Česku snaží potlačovat debaty o Tibetu a o Tchaj-wanu. Očividně jim to leží v žaludku, jako to, že radnice vyvěšují Tibetskou vlajku. Já se těším, že až bude v říjnu slavit státnost Tchaj-wan, vyvěsím si vlaječku na okno. Pojďme si říct, že ta země má nárok na život.
 
-{% photo src="https://i.ohlasy.info/i/f968ab7d.jpeg" caption="Večerní trh v Tainanu, 2018" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/f968ab7d.jpeg" caption="Večerní trh v Tainanu, 2018" author="Tomáš Znamenáček" /%}
 
 **Na závěr se ještě zeptám na to, co jsi zmínil – že Tchaj-wan by pro nás mohl být příkladem toho, jak se vyrovnávat s epidemií covidu. Jak se s ním vyrovnávají oni?**
 

@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na počátku května. Přinášíme výběr toho nejzajímavějšího – z důvodů karanténních opatření se nekonala tisková konference, vycházeli jsme proto jen z tiskové zprávy a z odpovědí, které na naše doplňující otázky vypracovali zástupci vedení města.*
 
-{% photo src="https://i.ohlasy.info/i/54fa90b7.jpg" author="Město Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/54fa90b7.jpg" author="Město Boskovice" /%}
 
 ### Pořízení přístrojů do nemocnice
 

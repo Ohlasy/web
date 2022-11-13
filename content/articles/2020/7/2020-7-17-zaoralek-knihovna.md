@@ -9,7 +9,7 @@ tags: knihovna
 
 *Více peněz pro rozvoj kultury v regionech, tedy i na stavbu knihoven včetně té boskovické, chce do rozpočtu ministerstva kultury na příští rok získat jeho šéf Lubomír Zaorálek (ČSSD). Redakce Ohlasů s ním o přípravách boskovické knihovny a významu knihoven obecně mluvila při jeho návštěvě města ve čtvrtek 16. července.*
 
-{% photo src="https://i.ohlasy.info/i/b88cc147.jpeg" author="FB Lubomíra Zaorálka" %}
+{% photo src="https://i.ohlasy.info/i/b88cc147.jpeg" author="FB Lubomíra Zaorálka" /%}
 
 Knihovnictví zjevně patří k ministrovým stěžejním tématům. Jestli se však tento zájem přetaví v konkrétní dotační titul, ze kterého by na stavbu mohly čerpat i Boskovice, není zatím jisté. 
 

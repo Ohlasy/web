@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Obvyklý autor kulturního výběr David Liber je tentokrát zaměstnán vlastními kulturními aktivitami a počátkem školního roku, seznam svých kulturních tipů na příští měsíc proto výjimečně připravil Tomáš Trumpeš. Vynechat rubriku by totiž byla velká škoda – kulturní sezóna se rozjíždí a rozjíždí se velmi slibně.*
 
-{% photo src="https://i.ohlasy.info/i/5145b4b3.jpg" caption="Z výstavy „Ještě jsem tady“ fotografa Ondřeje Pokorného" author="Ondřej Pokorný" %}
+{% photo src="https://i.ohlasy.info/i/5145b4b3.jpg" caption="Z výstavy „Ještě jsem tady“ fotografa Ondřeje Pokorného" author="Ondřej Pokorný" /%}
 
 ### Výstava Židovské tradice a zvyky
 

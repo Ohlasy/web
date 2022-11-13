@@ -8,7 +8,7 @@ tags: migrace
 
 *Tomáš Znamenáček se tento týden vrátil ze své druhé dobrovolnické mise v uprchlických táborech na jihu Evropy. Pod hlavičkou neziskové organizace Magna zde pomáhal v týmu poskytujícím migrantům lékařskou pomoc. Kromě oficiálního chorvatského tábora v Opatovaci krátce navštívil také hraniční přechod u Bapské, kde jsou podmínky zřejmě nejkritičtější. Rozhovor jsme vedli o jeho přímých zkušenostech s uprchlíky a jejich situací.*
 
-{% photo src="https://i.ohlasy.info/i/k9nkyuq.jpg" author="Petra Vinklerová" %}
+{% photo src="https://i.ohlasy.info/i/k9nkyuq.jpg" author="Petra Vinklerová" /%}
 
 **Uprchlické tábory jsi navštívil už podruhé, s odstupem několika týdnů. Změnilo se během té doby něco zásadně?**
 
@@ -22,7 +22,7 @@ V Opatovaci jsou podmínky docela snesitelné. Velké vojenské stany, dostatek 
 
 Už na vstupu do tábora je velká informační cedule, na které se několika jazyky píše, že by v táboře nikdo neměl zůstat zavřený déle než 48 hodin. Co jsem viděl, v praxi to skutečně funguje, většina lidí byla do 24 hodin na další cestě. Ale situace se může změnit klidně z hodiny na hodinu – Maďaři už během našeho pobytu žádné uprchlíky nepřijímali a kdyby totéž udělali Slovinci, zůstanou zřejmě všichni rázem trčet tam, kde momentálně jsou. Což v horším případě znamená srbsko-chorvatský hraniční přechod Bapska, kam jsme se jeli na dvě hodiny podívat. Tam je situace katastrofální – nejde o tábor v nějakém systematickém slova smyslu, je to jen fronta lidí natažená na několik stovek metrů. V bahně, dešti, hromadách odpadků a bez jakékoliv patrné oficiální státní pomoci tam čekají stovky lidí, včetně matek s nemluvňaty.
 
-{% photo src="https://i.ohlasy.info/i/mljdso7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/mljdso7.jpg" author="Tomáš Znamenáček" /%}
 
 **Jaké je složení migrantů? Podle věku, sociálního statusu, národnosti…**
 
@@ -36,7 +36,7 @@ Na to těžko odpovědět přesně, mám jen dojmy. Převládají Afghánci a Sy
 
 Nejvíc chybí to, co je zároveň nejtěžší obstarat: systém. Tábory denně protečou tisícovky lidí, kteří nutně potřebují suché oblečení, jídlo, lékařské ošetření a další služby. Zvládnout tohle všechno na malé ploše v provizorních podmínkách je těžké a pro neorganizované dobrovolníky prakticky nemožné. Ten, kdo může udělat nejvíc, je vláda daného státu. Pokud tedy někdo chce pomoct, nejlepší by podle mě bylo tlačit na vládu, aby se přestala tvářit, že se jí migrace netýká, a reálně něco dělala. Pokud se tohle nestane, s příchodem zimy začnou na cestě umírat lidé. Naší vinou.
 
-{% photo src="https://i.ohlasy.info/i/3fg7yuk.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/3fg7yuk.jpg" author="Tomáš Znamenáček" /%}
 
 **Tys působil v týmu poskytujícím zdravotnickou pomoc. Je tato péče na místě dostatečná?**
 
@@ -50,7 +50,7 @@ Měli jsme velký vojenský stan s polními lůžky a plynovými kamny, takže s
 
 Situace v Bapské je s příchodem zimy naprosto neudržitelná. Opatovac je lepší, ale ani ten by zimu beze změn nezvládl. Dneska se noc na štěrku mezi stany pod alufólií přežít dá, za měsíc už bych si tím tak jistý nebyl.
 
-{% photo src="https://i.ohlasy.info/i/cxsygvi.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/cxsygvi.jpg" author="Tomáš Znamenáček" /%}
 
 **Jaká panuje v táborech nálada, jak lidé snášejí svou situaci psychicky?**
 
@@ -68,7 +68,7 @@ Můj hlavní postřeh je úplně pitomý: jsou to lidé jako my. Ani nevím, co 
 
 Chorvatští policisté v Opatovaci zvládají situaci bezvadně. Z principu věci nemůžou dělat hodné strýčky, občas pochopitelně hulákají, ale neviděl jsem, že by se jim někde situace vymkla z ruky. Pro zbytek personálu platí plus mínus totéž. Drobné slovní potyčky jsou takhle pod tlakem asi nevyhnutelné, celek je podle mě zdravý.
 
-{% photo src="https://i.ohlasy.info/i/jibdoey.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jibdoey.jpg" author="Tomáš Znamenáček" /%}
 
 **A jaký je tvůj dojem z toho, jak situaci oficiální instituce zvládají? Působí na místě řešení uprchlické krize organizovaně, racionálně a efektivně?**
 

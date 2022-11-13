@@ -8,7 +8,7 @@ tags: kultura knihovna sokolovna kino
 
 *Rozhovor s Radkem Pernicou, bývalým vedoucím boskovického kina, dnes šéfem univerzitního kina Scala v Brně a nově také předsedou boskovické kulturní komise. Právě jeho obnoveného angažmá v boskovické kultuře se týkalo i naše povídání.*
 
-{% photo src="https://i.ohlasy.info/i/sbg4evn.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/sbg4evn.jpg" author="Tomáš Znamenáček" /%}
 
 **Radku, ty ses teď několik let poté, cos Boskovice pracovně opustil, rozhodl začít se zde znovu angažovat a stal ses členem a posléze i předsedou kulturní komise. Co tě k tomu rozhodnutí vedlo?**
 
@@ -54,7 +54,7 @@ Ano. Nebyl na to moc čas, ale zápisy budou vznikat a samozřejmě budou zveře
 
 Padaly návrhy, aby se komise scházela jednou za čtvrt roku, jak bývalo zvykem. To je pro mě úplně mimo, komise se musí scházet minimálně jednou měsíčně, a potom se uvidí, jestli je to dostačující, nebo se musí frekvence ještě zvýšit. Na tom jsme se shodli.
 
-{% photo src="https://i.ohlasy.info/i/2ohuxdw.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2ohuxdw.jpg" author="Tomáš Znamenáček" /%}
 
 ### Přehodnocení KZMB
 
@@ -98,7 +98,7 @@ Taková je struktura podniku. Já teď neumím říct, co systémově změnit, a
 
 Mně tam bylo dobře. Měl jsem zvláštní pozici, byl jsem po dlouhých letech první mladý člověk, který se do boskovické kultury dostal, a otvíral jsem dveře dalším mladým lidem, co šli za mnou. A pak jsem odešel. Netrpěl jsem tam a neúpěl, neměl jsem vnitřní potřebu vymýšlet a navrhovat reorganizace. Moje pozice byla poměrně samostatná a pracovalo se. Teď bychom se ale měli zamyslet a pojmenovat hlubší reorganizaci, začít musíme u toho, jestli se osvědčilo to spojení, ke kterému před 20 lety došlo. A pak pokračovat dál. Dokážu si představit samostatnou knihovnu ve svém solitérním novém objektu. Ale hotové myšlenky nemám.
 
-{% photo src="https://i.ohlasy.info/i/ecrcwxt.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ecrcwxt.jpg" author="Tomáš Znamenáček" /%}
 
 ### Podmínky pro další generaci
 

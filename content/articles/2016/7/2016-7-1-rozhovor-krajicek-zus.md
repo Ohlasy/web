@@ -8,7 +8,7 @@ tags: kultura vzdělávání
 
 *Rozhovor s Martinem Krajíčkem, který odchází po jednadvaceti letech z boskovické základní umělecké školy. Po rozhovoru s ředitelkou školy Stanislavou Matuškovou jsme oslovili také jeho, aby svůj odchod vysvětlil a přiblížil svůj pohled na situaci ve škole.*
 
-{% photo src="https://i.ohlasy.info/i/onzmqmc.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/onzmqmc.jpg" author="Tomáš Znamenáček" /%}
 
 **Martine, [dělali jsme spolu rozhovor](http://ohlasy.info/clanky/2016/04/rozhovor-krajicek.html) asi před dvěma měsíci, během té doby ses rozhodl odejít z boskovické ZUŠ. Proč?**
 
@@ -102,7 +102,7 @@ Protože mají strach. Včera jsme se o tom bavili. Na základní umělecké šk
 
 Od paní Keršnerové a [od Magdy Markové u soudu](http://ohlasy.info/clanky/2015/11/soud-zus.html). Přesně tohle.
 
-{% photo src="https://i.ohlasy.info/i/w3kf736.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/w3kf736.jpg" author="Tomáš Znamenáček" /%}
 
 **Jaký máš odhad toho, jak ta situace bude pokračovat dál? Pedagogický sbor, který opouštíš, znáš. Myslíš, že se ty odchody zastaví?**
 
@@ -146,7 +146,7 @@ Tomu rozumím. To se tam stalo a na některé věci nezbývá než říct: ano, 
 
 Když se na to podívám zpětně, tak ze všeho nejvíc mi tam chyběl nějaký cit. Navíc jsme umělecká škola, některé učitelky mají takřka křídla a svatozář, potřebují klid a ten teď nemají. Důvod, proč odcházím, je i to, aby bylo jasné, že to tam takhle je. Aby to bylo jasné. Protože nikdo z těch lidí, co tam dnes jsou, neřekne ani slovo. Bojí se o svou práci.
 
-{% photo src="https://i.ohlasy.info/i/wba5vpq.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wba5vpq.jpg" author="Tomáš Znamenáček" /%}
 
 **My jsme s paní ředitelkou vedli rozhovor předevčírem, mezitím jste spolu mluvili i vy?**
 

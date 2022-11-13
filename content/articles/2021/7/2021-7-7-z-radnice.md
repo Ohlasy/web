@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na konci června. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/7d134de8.jpg" caption="Vedení města se mimo jiné snaží vyjasnit vztahy s firmou Bolt, která v Boskovicích už rok provozuje elektrické koloběžky" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/7d134de8.jpg" caption="Vedení města se mimo jiné snaží vyjasnit vztahy s firmou Bolt, která v Boskovicích už rok provozuje elektrické koloběžky" author="Tomáš Trumpeš" /%}
 
 V úvodu tiskové konference vedení města popsalo plán, jak se Boskovice připojí k pomoci obcím zasaženým tornádem. O podrobnostech jsme informovali [v samostatném textu](https://ohlasy.info/clanky/2021/06/boskovice-pomahaji.html).
 

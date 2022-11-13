@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo na konci května po zasedání městské rady. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/6265b78d.jpg" caption="Architektonická studie nové podoby výletiště v Mladkově" author="ZARI architects" %}
+{% photo src="https://i.ohlasy.info/i/6265b78d.jpg" caption="Architektonická studie nové podoby výletiště v Mladkově" author="ZARI architects" /%}
 
 ### Navýšení kapacity v MŠ Na Dolech
 

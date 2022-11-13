@@ -9,7 +9,7 @@ tags: politika
 
 *Po roce ve funkci zamířil do Boskovic jihomoravský hejtman Jan Grolich (KDU-ČSL). Na debatě s místními řešil několik témat týkající se regionu, ať už je to oprava silnice vedoucí Svárovskou alejí nebo potenciální převod boskovické nemocnice do rukou Jihomoravského kraje.*
 
-{% photo src="https://i.ohlasy.info/i/65ffa33d.jpg" caption="Hejtman Jihomoravského kraje Jan Grolich na návštěvě Boskovic" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/65ffa33d.jpg" caption="Hejtman Jihomoravského kraje Jan Grolich na návštěvě Boskovic" author="Marek Osouch" /%}
 
 Pandemie covidu a červnové tornádo. Dvě největší události, které jihomoravský hejtman Jan Grolich od nástupu do své funkce musel a stále musí řešit. Zopakoval je i na debatě v Boskovicích, zmínil ale i své dlouhodobější téma, a to podfinancovaní Jihomoravského kraje, tedy že dostává v přepočtu na obyvatele méně peněz než jiné regiony. 
 

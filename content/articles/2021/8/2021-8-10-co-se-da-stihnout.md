@@ -9,7 +9,7 @@ tags: politika
 
 *Za čtyři roky se nedá nic stihnout! Za celou dobu nic neudělali! Tihle udělali za čtyři roky víc než ti před nimi! – Takové a podobné výroky slýcháme ve vztahu k volebním obdobím a k politickým reprezentacím, které město vedou, poměrně často. Kolik se toho tedy dá stihnout za jedno volební období a kolik toho politici za čtyři roky změní? Rozhodli jsme se podívat na jeden konkrétní příklad a s již docela bezpečným odstupem tří let prozkoumat výsledky předchozího vedení boskovické radnice – tedy koalice ČSSD, ANO a KDU-ČSL, která v čele se starostkou Hanou Nedomovou řídila město v letech 2014–2018.*
 
-{% photo src="https://i.ohlasy.info/i/ca39819e.jpg" caption="Centrum polytechnické výchovy, které na Bílkově ulici vzniklo prakticky během jednoho volebního období" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ca39819e.jpg" caption="Centrum polytechnické výchovy, které na Bílkově ulici vzniklo prakticky během jednoho volebního období" author="Tomáš Znamenáček" /%}
 
 Samozřejmě nejde o to, pořídit výčet všech rozhodnutí, investic a drobných počinů, které město udělalo. Rozhodli jsme se spíše vypustit provozní a standardní záležitosti a zaměřit se na to, co přinášelo do Boskovic nějakou změnu, něco nového, případně k něčemu novému otevíralo cestu. Jinými slovy nezaměřujeme se na to, kolik se opravilo chodníků či která se opravila ulice, i když i to jsou samozřejmě také důležité věci. Nás ale tentokrát zajímá proměna města i způsobu vládnutí; ostatně sledovaná koalice v roce 2014 nastupovala sama s tím, že chce být koalicí změny.
 
@@ -31,7 +31,7 @@ Radnice rozhodla o zřízení funkce městského architekta, která připadla bo
 
 Zapomenout bychom rozhodně neměli ani na další počin v estetizaci veřejného prostoru, a to výzdobu trafostanice za finančním úřadem, kde svého Nočního potápěče vymaloval legendární brněnský streetartový umělec TIMO.
 
-{% photo src="https://i.ohlasy.info/i/xlm1ujf.jpg" caption="Noční potápěč" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xlm1ujf.jpg" caption="Noční potápěč" author="Tomáš Znamenáček" /%}
 
 Po nástupu na radnici v roce 2014 slibovala nová koalice pod vedením ČSSD hodně změn v oblasti transparentnosti, komunikace s veřejností a zapojování občanů do rozhodování. Učinila několik změn, mezi které patřilo doplnění zápisů z jednání městské rady o jmenovitá hlasování radních a také zavedení přímých přenosů z jednání zastupitelstva. Kromě toho vznikl nový, responzivní web města, který počítá i se zobrazením na mobilních telefonech. A na webu byla zřízena sekce otázek na vedení města. Výrazným krokem pak bylo zrušení radničních listů a velkorysá proměna zpravodaje, který se nově distribuuje do všech domácností zdarma, na křídovém papíře, zčásti barevný a v rozsahu dvaceti stran A4. Kromě toho se pořádala speciální plánovací setkání s veřejností – kulaté stoly k rozpočtu a fórum zdravého města – a radnice se snažila využívat také podnětů z nejrůznějších anket.
 

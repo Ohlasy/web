@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Evangelický farář Jiří Bureš se ohlíží za letním táborem, na kterém se každoročně setkává v Bělči nad Orlicí s rodinami, jež pečují o postižené děti. Tato zkušenost ho přivádí k zamyšlení, jestli jejich těžký úděl nemá také svůj druhý pól.*
 
-{% photo src="https://i.ohlasy.info/i/gwonjgk.jpg" author="archiv Jiřího Bureše" %}
+{% photo src="https://i.ohlasy.info/i/gwonjgk.jpg" author="archiv Jiřího Bureše" /%}
 
 Zamáčknu budík a vyrážím do sprchy. Ve spěchu na sebe hážu oblečení, hledám kytaru a buben, přemýšlím o písni vhodné k probouzení. Do budíčku zbývají minuty. Rozcvičku vede Marta, naše dobrovolná rehabka. V kruhu před chatkami se protahuje dvacítka lidí včetně několika klientů. Vprostřed pobíhá Martin, co chvíli vezme někoho z cvičících za ruku a vydá radostný hrdelní zvuk. V náhlém popudu vyráží daleko mimo kruh, jeho asistentka ho dobíhá a vede zpět; tohle ji čeká až do večera.
 

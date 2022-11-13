@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Více než pět milionů nevyplatil stát Boskovicím na dotacích na stavbu Centra polytechnické výchovy, protože město údajně špatně vypsalo tendr na zhotovitele. Radnice s tím od začátku nesouhlasí a brání se, ale Městský soud v Praze, který žaloby posuzoval, Boskovicím nevyhověl.*
 
-{% photo src="https://i.ohlasy.info/i/6ad8e974.jpeg" caption="Centrum polytechnické výchovy" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6ad8e974.jpeg" caption="Centrum polytechnické výchovy" author="Tomáš Znamenáček" /%}
 
 Kdo by si otevřel rozpočet města, uvidí, že v příjmech je stále účtována položka dotace na Centrum polytechnické výchovy. To je přitom [už tři roky v provozu](https://ohlasy.info/clanky/2019/09/cpv-otevreno.html). Celkem jde o 5,2 milionu korun – které ovšem zůstávají celou dobu jen na papíře. Právě o tuto částku se totiž město pře s ministerstvem pro místní rozvoj, které ji v minulosti odmítlo vyplatit.
 

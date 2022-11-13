@@ -8,7 +8,7 @@ category: ankety
 
 *Další díl opoziční ankety jsme se tentokrát rozhodli věnovat jednomu tématu: návrhu rozpočtu města na rok 2022. Návrh už schválila městská rada, Ohlasy ho [představily v podrobném rozboru](https://ohlasy.info/clanky/2021/11/rozpocet.html) a nyní ho bude schvalovat zastupitelstvo. Svůj názor v anketě prezentují zástupci ANO, Pirátů a komunistů. Lídr STAN a Sportovců reagoval souhrnně jedinou odpovědí, kterou jsme přiřadili k první otázce.*
 
-{% photo src="https://i.ohlasy.info/i/c009f390.jpg" caption="Ilustrační foto" author="Jericho, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/c009f390.jpg" caption="Ilustrační foto" author="Jericho, Wikimedia Commons" /%}
 
 **1) Jak hodnotíte hlavní parametry návrhu rozpočtu na rok 2022? Jste ochotní ho podpořit?**
 

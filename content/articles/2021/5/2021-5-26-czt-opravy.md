@@ -10,7 +10,7 @@ tags:
 
 *Obyvatelé jednoho z osmipatrových domů na Komenského ulici v Boskovicích se už před téměř třemi roky rozhodli vybudovat vlastní zdroj vytápění pomocí tepelného čerpadla. Stavební úřad ale dva roky vyřizoval povolení a nakonec je letos zamítl. Nájemníci se proti tomuto rozhodnutí odvolali.*
 
-{% photo src="https://i.ohlasy.info/i/eswiguy.jpg" caption="Kotelna na Komenského ulici, ilustrační foto" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eswiguy.jpg" caption="Kotelna na Komenského ulici, ilustrační foto" author="Tomáš Znamenáček" /%}
 
 S letošním rokem přešel provoz centrálního zásobování teplem (CZT) pod městskou firmu Služby Boskovice. Cena tepla sice klesla, nicméně alespoň někteří odběratelé věří, že mohou ušetřit ještě více, pokud si budou vytápění řešit sami bez závislosti na odběru z městských teplovodů. Plánují alternativní zdroj v podobě tepelného čerpadla.
 

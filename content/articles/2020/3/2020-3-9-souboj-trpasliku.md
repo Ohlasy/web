@@ -9,7 +9,7 @@ tags: politika volby
 
 *Více než půl roku před krajskými volbami máme už [celkem jasno o lídrech a kandidátkách](https://ohlasy.info/clanky/2020/03/krajske-kandidatky.html) jednotlivých uskupení, a především už víme, že demokratické strany zde na jižní Moravě ukázkově předvedly, že se neumějí nebo nechtějí dohodnout na spolupráci.*
 
-{% photo src="https://i.ohlasy.info/i/4d6d29ee.jpg" author="Julio Cesar" %}
+{% photo src="https://i.ohlasy.info/i/4d6d29ee.jpg" author="Julio Cesar" /%}
 
 Samostatně tak kandidují i ti, kteří jsou k vytvoření volebních bloků často vyzývání: Starostové, ODS, Piráti, KDU-ČSL a TOP 09. Posledně jmenovaná strana sice dohodla koalici se Zelenými a dalšími menšími subjekty, to ale nejsou politické síly, které by představovaly relevantní partnery pro snahu překreslit spojenectvím stávající politickou mapu. Rozhodující je, že k žádné dohodě nedošlo mezi pěti stranami sněmovní demokratické opozice.
 

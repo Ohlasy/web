@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *V Muzeu regionu Boskovicka probíhá výstava Magdaléna Roztočilová: Pod povrchem. Autorka tak po několika letech představuje své dílo v Boskovicích, odkud pochází. Jako pozvánku na výstavu publikujeme doprovodný text kurátorky Heleny Musilové.*
 
-{% photo src="https://i.ohlasy.info/i/uencrqx.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/uencrqx.jpg" author="Tomáš Znamenáček" /%}
 
 Magdaléna Roztočilová patří k nejzajímavějším autorkám mladé generace české výtvarné scény. Věnuje se soše, prostorovým instalacím, plastikám ve veřejném prostoru, vytváří malby; zároveň se podílí na chodu Studia PRÁM sdružujícím mladé absolventy UMPRUM a AVU. Je ve šťastném období, kdy se nemusí omezovat potřebou zařadit se do určitého směru nebo proudu, naopak s obrovskou energií a tvůrčí invencí zkoumá a využívá různé techniky a možnosti, které současné umění nabízí. 
 

@@ -10,7 +10,7 @@ tags:
 
 *„Sedím v hospodě, ve které se kdysi motal chlap a přesvědčoval všechny stoly, že v jednom ze svých minulých životů byl dozorcem v Osvětimi… jako by nevěděl, že tím jsme byli všichni,“ píše v knize Jedna věta básník Petr Hruška, který, snad to mohu prozradit, zanedlouho zavítá do Boskovic. Do města, ze kterého v ne tak dávno minulém životě odvezli 458 lidí do koncentračních a následně vyhlazovacích táborů. Ba právě i do té Osvětimi. Smrt zde čekala na 444 z nich.*
 
-{% photo src="https://i.ohlasy.info/i/2fqamj3.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/2fqamj3.jpg" author="Tomáš Znamenáček" /%}
 
 Básník se neobává říct to, co je politicky neúnosné, jak se nedávno ukázalo v [případě brněnského náměstka Hollana](http://www.denik.cz/z_domova/namestek-hollan-se-omluvil-za-slova-o-poslani-lidi-do-plynu-20150927-512c.html) – totiž že my všichni, celá současná společnost, si v sobě neseme stín těchto události. Můžeme stokrát argumentovat tím, že my Češi jsme přece za nic nemohli a že vše bylo jen dílem nacistické krutovlády. Ten stín tady stejně je, stejně jako tady jsou vzpomínky na to, že někteří Boskováci Židy doprovázeli 14. a 15. března 1942 k deportačnímu vlaku s výkřiky, že to židákům patří. A nemáme ani žádný příběh boskovické Anne Frankové, který bychom položili na druhou misku vah, jak si při návštěvě Boskovic vloni posteskla paní [Eva Morris, dcera posledního boskovického rabína](/clanky/2015/09/navsteva-evy-morris.html).
 

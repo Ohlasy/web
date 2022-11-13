@@ -8,7 +8,7 @@ tags: politika koronavirus
 
 *Jedenácté zasedání boskovického zastupitelstva vzešlého z voleb před dvěma lety se konalo v úterý 15. září v sokolovně. Nejdiskutovanější otázkou se stala architektonická soutěž na sportovní halu.*
 
-{% photo src="https://i.ohlasy.info/i/7772d52a.jpg" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/7772d52a.jpg" author="Jaroslav Parma" /%}
 
 Z jednání se omluvili Petr Axman (ANO), Jan Machač (ODS) a Hana Nedomová (ČSSD). To mimo jiné znamenalo, že křehká koalice ODS + ANO + TOP 09 + Sportovci + Boskováci, která v zastupitelstvu disponuje převahou právě dvou hlasů, neměla potřebnou většinu. V průběhu jednání však nedošlo k hlasování, při kterém by to koalici způsobilo problémy.
 

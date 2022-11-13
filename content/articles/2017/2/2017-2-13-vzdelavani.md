@@ -9,7 +9,7 @@ tags: vzdělávání školství
 
 *Je vždycky dobře, když se z pěny dní a mnohdy únavných a nepodstatných kauz každodenní politické reality vynoří opravdu důležité téma a dostane se  mu patřičné pozornosti. Jedním z takových témat je určitě vzdělávání. I v tomto případě se však jako v mnoha jiných bohužel nezřídka ukáže, že jakkoliv se v poslední době nejrůznější řečníci ohánějí našimi hodnotami, elementární důvěra v tyto hodnoty jako by chyběla.*
 
-{% photo src="https://i.ohlasy.info/i/zsh8nmc.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/zsh8nmc.jpg" author="Tomáš Trumpeš" /%}
 
 A tak se zpochybňuje také hodnota vzdělávání, případně se vzdělávací proces redukuje na jakousi povinnou přípravku, ve které si má člověk osvojit soubor dovedností, které pak uplatní při své obživě. To je velmi smutné a při zkoumavějším pohledu na dynamicky se proměňující společnost – ano, včetně trhu práce – je to také mírně řečeno neprozíravé. Přitom zásadní reforma našeho školství je nutná a nevyhnutelná. A spoustu zbytečného přešlapování a prozkoumávání slepých cest bychom si možná mohli ušetřit, kdybychom opravdu věřili, že vzdělání je dobré a že je pro každého jedince přínosné, když se mu dostane co nejlepší příležitosti co nejkvalitnějšího vzdělání dosáhnout.
 

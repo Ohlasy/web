@@ -9,7 +9,7 @@ tags: nemocnice
 
 *Necelé dva roky uplynuly od [rozsudku](https://ohlasy.info/clanky/2017/08/julinek-vyhozen-nepravem.html), který označil výpověď pro exnáměstka boskovické nemocnice Tomáše Julínka za neplatnou. Nedávno se exnáměstek na zdravotnickém zařízení domohl náhrady ušlé mzdy a odškodnění za protiprávní krok proti své osobě, jak jako první [upozornil Regionpress](http://www.regionpress.cz/Dohodli-se-na-mimosoudnim-vyrovnani-id-22128.aspx). Kolik peněz Tomáš Julínek dostal, je ale tajné.*
 
-{% photo src="https://i.ohlasy.info/i/hzyx7lx.jpg" caption="Tomáš Julínek (vlevo) u blanenského soudu" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/hzyx7lx.jpg" caption="Tomáš Julínek (vlevo) u blanenského soudu" author="Marek Osouch" /%}
 
 „Podepsali jsme mlčenlivost, nicméně vzhledem k tomu, že jde o kompromis, tak lze vyvodit, že je méně než maximální požadavek protistrany,“ uvedl jednatel boskovické nemocnice Dan Štěpánský.
 

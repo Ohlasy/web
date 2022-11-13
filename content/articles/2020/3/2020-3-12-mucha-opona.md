@@ -10,7 +10,7 @@ tags: historie
 
 *Když byl před lety [náhodně objeven](https://ohlasy.info/clanky/2016/07/muchova-opona.html) záznam z roku 1938 o předání divadelní opony z Doubravice s uvedením autorství Alfonse Muchy do boskovického muzea, následný průzkum opony souvisící s jejím restaurováním a navazující archivní výzkumy vedly k řadě překvapivých zjištění.*
 
-{% photo src="https://i.ohlasy.info/i/1067791e.jpg" caption="Doubravická divadelní opona od Alfonse Muchy" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/1067791e.jpg" caption="Doubravická divadelní opona od Alfonse Muchy" author="Muzeum regionu Boskovicka" /%}
 
 Po zjištění záznamu o původu a autorství opony (v roce 2012) jsme s kolegyní Janou Bayerovou oslovili restaurátora akademického malíře Igora Fogaše s žádostí o pomoc s výzkumem. Restaurátor odebral vzorky, avšak provedení analýz bylo neustále oddalováno z důvodu nedostatku financí; až se změnou zřizovatele muzea bylo možné významněji pokročit s průzkumnými pracemi i restaurátorským ošetřením opony, ke kterému se přikročilo ihned po zjištění první orientační materiálové analýzy: Muchovo autorství není vyloučeno.
 
@@ -26,7 +26,7 @@ Oponu bylo třeba nejdříve zachránit – dezinfikovat, fixovat opadávající
 > 
 > Pro obnovení funkce nosné plátěné podložky malby opony (…) byla využita metoda časově náročnější, ale vhodnější pro zachování autenticity díla. Jedná se o uplatnění principu napojování jednotlivých vláken a doplněk se pak stává funkční součástí díla. Velmi důležité bylo zejména scelení okrajů plátna a jeho zpevnění v místech větších perforací. Speciální technikou šití byla nitěmi tenčími než originál vytvořena zpevňující nosná mřížka a na ní se přichytila původní vlákna poškozeného plátna opony. Jako nejpevnější byl vyhodnocen a uplatněn spoj nití s přesahem, kombinovaný šitím a lepením. Poškozené nitě byly často zdeformované, zkřehlé a rozvlákněné. Pro udržení správného tvaru a zákrutu nití i lepší výsledek slepení bylo nutné jejich konce zpevnit penetračním roztokem (vyzina). Při vlastním lepení se používaly jemné pinzety, preparační jehly a tenké tepelné jehly s termoregulací. Průběžně byly rovinné deformace plátna vyrovnávány žehlením při změkčení napařováním suchou párou.
 
-{% photo src="https://i.ohlasy.info/i/b9a7cd82.jpg" caption="Signatura Alfons M. P. Mucha / 1881 na rubu opony" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/b9a7cd82.jpg" caption="Signatura Alfons M. P. Mucha / 1881 na rubu opony" author="Muzeum regionu Boskovicka" /%}
 
 Zcela zásadní objev učinil restaurátor Igor Fogaš, když odstranil nepůvodní pytlovinovou podšívku ze zadní strany originálního plátna opony – byly zde odhaleny dvě signatury, sokolský nápis i nečitelné zbytky několika záznamů:
 
@@ -38,7 +38,7 @@ Zcela zásadní objev učinil restaurátor Igor Fogaš, když odstranil nepůvod
 
 Nalezený letopočet 1881 potvrzuje názor již dříve vyslovený specialistou na danou problematiku Pavlem Noskem: „Pokusíme-li se o datování opony podle obrazu Národního divadla na ní, pak můžeme využít toho, že na průčelí divadla jsou zobrazeny trigy. Víme, že model trig 1:1 vytvořil Schnirch v roce 1877 a byl pomocí jeřábu umístěn na pylony. Tento model byl zničen při požáru roce 1881 a znovu byly trigy umístěny na pylonech až v roce 1911. Je tedy jednoznačné, že malíř kreslil ND ve stavu před požárem v roce 1881.“
 
-{% photo src="https://i.ohlasy.info/i/5e309a64.jpg" caption="Budova Národního divadla se sousoším trigy, detail opony" author="Muzeum regionu Boskovicka" %}
+{% photo src="https://i.ohlasy.info/i/5e309a64.jpg" caption="Budova Národního divadla se sousoším trigy, detail opony" author="Muzeum regionu Boskovicka" /%}
 
 Monogram R. K. s datací 1905 dle archivního výzkumu kronikářky z Doubravice Evy Sáňkové může patřit Rudolfu Kočvarovi, který bydlel v Doubravici nad Svitavou na čísle popisném 32, kde měl hospodu jeho otec a býval zde i divadelní sál. Vše nasvědčuje tomu, že právě Kočvara mohl být autorem přemalby již dříve silně poškozené opony.
 

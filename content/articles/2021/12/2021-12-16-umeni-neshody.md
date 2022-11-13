@@ -10,7 +10,7 @@ tags:
 
 *[Poslední jednání boskovického zastupitelstva](https://ohlasy.info/clanky/2021/12/zastupitelstvo.html) ukázalo, že rozpory a rozdíly mezi boskovickými politiky jsou velké. Přestože se u kontroverzního tématu sportovní haly čistě věcně shoda jeví jako možná – mohla by to být třeba malá vyzvaná architektonická soutěž – brání v ní spousta argumentačních faulů, zjevných nesmyslů a celkově nepřátelská atmosféra.*
 
-{% photo src="https://i.ohlasy.info/i/6d03a8df.jpg" caption="Marija Kulina: Spory, reductio ad absurdum; výtvarná instalace v rámci festivalu Boskovice 2020" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/6d03a8df.jpg" caption="Marija Kulina: Spory, reductio ad absurdum; výtvarná instalace v rámci festivalu Boskovice 2020" author="Tomáš Znamenáček" /%}
 
 Především koaliční politici nejdou pro ostré slovo daleko, přestože se zatím mohou pochlubit jen řadou na sebe navazujících nezdarů. Namísto sebereflexe tvrdě kritizují opozici i aktivní odbornou veřejnost a obviňují je z destruktivního přístupu. Opozice je přitom zcela bezmocná, stejně jako Spolek za rozvoj architektury Boskovic. 
 

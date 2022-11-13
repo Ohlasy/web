@@ -8,7 +8,7 @@ serial: jazyk
 
 *V těchto dnech uplyne 80. let od úmrtí boskovického rodáka Jana Vojtěcha Sedláka, meziválečného spisovatele a literárního vědce.*
 
-{% photo src="https://i.ohlasy.info/i/670b1704.jpg" author="Vít Boček" %}
+{% photo src="https://i.ohlasy.info/i/670b1704.jpg" author="Vít Boček" /%}
 
 Byl synem Jana Sedláka z Boskovic („barvířského pomocníka“, jak se praví v matričním zápisu) a jeho ženy Veroniky, rozené Vachové, pocházející z Okrouhlé (jako každý správný básník později na matku několikrát vzpomenul i ve vlastní tvorbě, například: *…na loučce pod lesem často jste stála, / šumotu věčnému naslouchala, / jímž hučela Bělá / v údolí pod Melkovem*). V rodném městě navštěvoval nedávno vzniklé gymnázium. Maturoval zde v roce 1909, přičemž jak se dozvídáme z výroční zprávy gymnázia, na dvoustupňové škále „stupně dospělosti“ dosáhl té lepší známky: „dospělý s vyznamenáním“. Studoval pak na pražské filozofické fakultě filologii a po zisku doktorátu v roce 1914 vyučoval češtinu a němčinu na obchodní škole. Ale už následujícího roku byl povolán do vojenské služby a odvelen na ruskou frontu, kde byl pak v roce 1916 raněn. Po vzniku československé republiky nastoupil dráhu státního úředníka: nejprve byl zaměstnancem ministerstva národní obrany, kde se stal přednostou oddělení pro vojenské názvosloví a jazykové kurzy při hlavním štábu (podílel se zde významně na tvorbě české vojenské terminologie) a přednostou skupiny pro vydávání úředních publikací. Od roku 1939 působil ve vysoké funkci vládního rady ministerstva školství a národní osvěty. Zemřel náhle, po záchvatu mrtvice ve věku nedožitých 52 let v Praze.
 

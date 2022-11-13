@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor se sochařkou Magdalénou Roztočilovou, rozenou Staňkovou. Magdaléna pochází z Boskovic a letos se jako kurátorka i jako autorka podílela na výstavě současných soch ve veřejném prostoru v rámci festivalu pro židovskou čtvrť. Ve festivalovém rozhovoru jsme ale nemluvili jen o této výstavě, ale i o sochařčině další práci a připravovaném památníku kardinála Špidlíka, který bude v Boskovicích odhalen v srpnu.*
 
-{% photo src="https://i.ohlasy.info/i/h62eqyd.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/h62eqyd.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak vznikl nápad udělat na festivalu výstavu soch ve veřejném prostoru?**
 
@@ -35,7 +35,7 @@ Je. I když výkyvy tam jsou, rozptyl mezi námi je asi dvacetiletý. Nejstarš�
 
 Výhoda je, že ty prostory tady znám. Když člověk vytváří sochu, přemýšlí o tom, kde ji bude prezentovat, prostor to také definuje. Když mě Helena oslovila, jako první dvě věci mě napadly ten Patrikův sloup v muzeu a psi v zámecké zahradě. Přišlo mi to zajímavé spojení, díky historii zámku a armádě. A ještě nám přišlo pěkné, že pod tím pak povstala ještě armáda stanů – bavili jsme se o tom, že armáda je definovaná řádem, zatímco v kempu se lidi chaoticky hemží a najednou to má přijemné vztahy mezi sebou.
 
-{% photo src="https://i.ohlasy.info/i/md0vak7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/md0vak7.jpg" author="Tomáš Znamenáček" /%}
 
 **Podle čeho jsi vybírala lokality? Respektive nejdřív jsi vybírala lokality a pak teprve umělce, nebo se to prolínalo?**
 
@@ -69,7 +69,7 @@ Myslím, že Boskovice je hodně nadchly. Nadchl je festival, protože má skvě
 
 Ano, ano! Volá mi celá široká rodina, všichni se ptají. Je to docela vtipné, třeba: Já jsem se chtěl zeptat na ta prasátka, co jsou pod zámkem. Vznikají různé nové přídomky, je to zábavné. Říkám si, že by bylo výborné naplánovat ještě komentovanou prohlídku s autory, ale letos jsme to nezvládly. Třeba v příštím ročníku by to bylo skvělé.
 
-{% photo src="https://i.ohlasy.info/i/i2efm0d.jpg" caption="Adam Velíšek: Armáda (2013 a dále), litá keramika; spodní zámecká zahrada" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/i2efm0d.jpg" caption="Adam Velíšek: Armáda (2013 a dále), litá keramika; spodní zámecká zahrada" author="Tomáš Znamenáček" /%}
 
 ### Pořád je tady ostych
 
@@ -97,7 +97,7 @@ Já si myslím, že ano. Ono s těmi veřejnými soutěžemi je to pro nás soch
 
 Tohle je těžké. Pro galerie na menších městech je asi obtížné reflektovat současné věci, které by mladou generaci bavily. Možná proto je trochu úpadek. Ale celkově si myslím, že je naše společnost hrozně přehlcená akcemi. Máme v Praze prostor s galerií, nejsme úplně na periferii, jsme ve Vysočanech, a jsou tam další dva takové kulturní prostory, které se zabývají vystavováním současného umění. Natáhnout lidi je těžké. Ale myslím si, že celkově to lidi zajímá a vyhledávají to. Je tam ostych. Každý má dojem, že jakékoliv dílo musí být strašně drahé. Ale když to beru generačně – tak moji kamarádi jsou nadšení, když jim dám obraz. Nebo mě oslovují. Já nejsem malíř, takže je to pro mě trochu… nechci říct hobby, to by bylo těžkopádné, ale není to pro mě jako socha, kterou chci prodat jako artefakt. Takže myslím, že chuť a poptávka tady určitě jsou, ale ještě pořád je tady ostych, protože se ty dva světy neznají.
 
-{% photo src="https://i.ohlasy.info/i/fluyti2.jpg" caption="Magdaléna Roztočilová: Baybayboy II (2017), epoxid, akryl; antikvariát" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/fluyti2.jpg" caption="Magdaléna Roztočilová: Baybayboy II (2017), epoxid, akryl; antikvariát" author="Tomáš Znamenáček" /%}
 
 ### Chybění je silný moment 
 
@@ -137,7 +137,7 @@ Ono to taky není zas tak sexy – když bych použila tohle slovo – když ta 
 
 Především jde ale o tu konfrontaci. Já si na tom uvědomuju, že v tom kolektivu je síla. Hodně nás to učí, na spoustě věcí se musíme domluvit. Je to vlastně takový malý model městečka. Tohle je pro mě hrozně sympatické a myslím, že jsem se z toho hrozně moc naučila. Člověk má přirozeně tu svoji bublinu, za kterou nechce jít, má různé ostychy a říká si: tam v životě nic nedám, protože mi to ukradnou nebo něco takového. Pak přijde někdo další a řekne: prosím tě, jseš paranoidní, to je úplná blbost, musíš těm lidem trošku důvěřovat, musíš být otevřený. To jsou skvělé momenty. Když je tam víc lidí, tak šance dobrých nápadů je myslím větší.
 
-{% photo src="https://i.ohlasy.info/i/wllt79d.jpg" caption="Irena Armutidisová: Charaktery (2017–19), sádra; poblíž farské zahrady" %}
+{% photo src="https://i.ohlasy.info/i/wllt79d.jpg" caption="Irena Armutidisová: Charaktery (2017–19), sádra; poblíž farské zahrady" /%}
 
 ### Jen jsem tomu dala tvary
 

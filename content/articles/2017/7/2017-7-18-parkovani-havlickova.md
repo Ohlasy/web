@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Redakce Ohlasů [před měsícem upozornila](http://www.ohlasy.info/clanky/2017/06/kolinsky-parkovani.html), že boskovický radní za ČSSD Milan Kolínský má před svým domem za peníze z rozpočtu města nové pohodlné parkovací stání bez výtluků, zatímco sousedé i přes úpravy v tamní lokalitě parkují jen na štěrku. Po zveřejnění článku však bylo místo upraveno i u domu souseda.*
 
-{% photo src="https://i.ohlasy.info/i/fj88lr9.jpg" caption="Dvě různé opravy parkovacích stání" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/fj88lr9.jpg" caption="Dvě různé opravy parkovacích stání" author="Tomáš Trumpeš" /%}
 
 Už i soused radního Milana Kolínského Antonín Horák může parkovat pohodlně na asfaltu. Po upozornění redakce Ohlasů na poněkud zvláštní opravu, kdy byl vyasfaltovaný jen prostor před domem radního v Havlíčkově ulici v Boskovicích, byla do týdne po zveřejnění článku na webu Ohlasů zaasfaltována i plocha před domem jeho souseda.
 

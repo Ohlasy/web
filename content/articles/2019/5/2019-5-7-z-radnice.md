@@ -11,7 +11,7 @@ tags:
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na samém konci dubna. Přinášíme výběr toho nejzajímavějšího se stručnými komentáři vedení města z tiskové konference.*
 
-{% photo src="https://i.ohlasy.info/i/ck6jvqz.jpg" caption="Kontejnery U Vážné studny, které by mohly být nahrazeny podzemními" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/ck6jvqz.jpg" caption="Kontejnery U Vážné studny, které by mohly být nahrazeny podzemními" author="Tomáš Znamenáček" /%}
 
 ### Nové sociální byty
 

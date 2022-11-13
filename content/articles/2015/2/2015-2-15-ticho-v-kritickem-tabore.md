@@ -10,7 +10,7 @@ tags:
 
 *Boskovice opět zvítězily v krajském kole soutěže o nejlepší městskou památkovou zónu. Znamená to jistě pozitivní přísun peněz určených na opravy památek, ale také povzbuzení pro ty, kteří snaze o zvelebování nejen židovské čtvrti, ale celé zóny zahrnující 36 nemovitých památek, věnují nemalé úsilí.*
 
-{% photo src="https://i.ohlasy.info/i/10clofc.jpg" %}
+{% photo src="https://i.ohlasy.info/i/10clofc.jpg" /%}
 
 Nežijeme už sice v době, kdy se vážně uvažovalo o srovnání celé čtvrti se zemí, ale jistě je stále nezanedbatelný počet těch, kteří by bez citu pro věc a ve jménu investic a rozvoje natolik rozvolnili pravidla, podle kterých musí stavební činnost v památkové zóně probíhat, že by pozvolnou cestou došlo prakticky k témuž. Možná by sice kdesi zůstávala ukrytá podstatná část původní starobylé hmoty historických domů, avšak charakter čtvrti, duch místa, atmosféra uliček a řada detailů, bez nichž by celek ztratil svou tvář – to vše by bylo rozmetáno.
 

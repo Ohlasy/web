@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady v polovině ledna. Tiskové konference se zúčastnili všichni zástupci vedení města – starosta Jaroslav Dohnálek (ODS), místostarosta Petr Malach (ČSSD) a místostarostka Michaela Žejšková (TOP 09).*
 
-{% photo src="https://i.ohlasy.info/i/jef3oka.jpg" caption="Zdeněk Fránek na přednášce v Boskovicích" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/jef3oka.jpg" caption="Zdeněk Fránek na přednášce v Boskovicích" author="Tomáš Znamenáček" /%}
 
 ### Prostory po záchrance
 

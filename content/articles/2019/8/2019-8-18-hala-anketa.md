@@ -10,7 +10,7 @@ tags:
 
 *Vedení města se rozhoduje mezi stavbou sportovní haly na Hybešově ulici u národohospodářské školy, nebo na místě dvou stávajících tělocvičen u základní školy na Sušilově ulici. Kterou z těchto variant byste vybrali a proč? Nebo preferujete jiné řešení?*
 
-{% photo src="https://i.ohlasy.info/i/xnueisu.jpg" caption="Tři varianty místa pro halu: Hybešova, Červená zahrada, Sušilova" author="Tomáš Trumpeš & Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xnueisu.jpg" caption="Tři varianty místa pro halu: Hybešova, Červená zahrada, Sušilova" author="Tomáš Trumpeš & Tomáš Znamenáček" /%}
 
 ---
 

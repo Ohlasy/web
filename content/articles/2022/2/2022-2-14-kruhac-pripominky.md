@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Plánovaná stavba okružní křižovatky pod poštou se zásadním způsobem dotkne také ulice 17. listopadu. Zdejší obyvatelé vznesli vůči projektu konkrétní připomínky a také chtějí podrobněji vysvětlit, jak bude doprava v lokalitě dál fungovat. Jednání budou pokračovat.*
 
-{% photo src="https://i.ohlasy.info/i/437ea7e7.jpg" author="Jaroslav Parma" %}
+{% photo src="https://i.ohlasy.info/i/437ea7e7.jpg" author="Jaroslav Parma" /%}
 
 „Ti obyvatelé celkem logicky požádali o schůzku. Já jsem jim vyhověl. Bylo tam asi třicet lidí,“ popsal starosta Jaroslav Dohnálek. Schůzka se konala na radnici 19. ledna. Do té doby vedení města, které rekonstrukci křižovatky a navazujícího dopravního napojení připravuje, s obyvateli nijak nejednalo a jednání neiniciovalo. Aktuálně už je přitom zažádáno o stavební řízení, které se ale podle informací od starosty rozběhne právě až po vypořádání připomínek občanů.
 

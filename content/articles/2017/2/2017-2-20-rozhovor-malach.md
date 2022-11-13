@@ -9,7 +9,7 @@ tags: historie muzeum
 
 *Rozhovor s Romanem Malachem, novým ředitelem boskovického muzea. Tím se stal namísto Dagmar Hamalové na vymezenou dobu – do podzimu roku 2018, kdy bývalé ředitelce vyprší mandát uvolněné místostarostky a do ředitelské funkce se bude moci vrátit. Roman Malach vystudoval etnologii na brněnské Masarykově univerzitě, kde letos získal také doktorát. Jako druhý obor vystudoval v bakalářském stupni archeologii. Do muzea nastoupil v roce 2011, nejprve jako archeolog na záskok za mateřskou dovolenou, poté byl na dělený úvazek správcem židovského obecního domu a etnologem.*
 
-{% photo src="https://i.ohlasy.info/i/xv7lfoo.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/xv7lfoo.jpg" author="Tomáš Znamenáček" /%}
 
 **Plánoval jste stát se ředitelem muzea, nebo to přišlo jako blesk z čistého nebe?**
 
@@ -53,7 +53,7 @@ O jeden a půl úvazku. Ještě jsme navýšili jeden úvazek – měli jsme zde
 
 To ukáže čas. Jsme poměrně malé muzeum, žádný zaměstnanec dnes nedělá pouze svou práci. Etnograf musí dejme tomu řešit nějakou administrativu, to stejné historik. Část práce, která by šla vyřešit někým jiným, si mezi sebe rozdělují odborní pracovníci, protože se to udělat musí. V tomto je trochu problém. Současně bychom rádi přemýšleli právě nad místem přírodovědce, který zde původně byl a rozhodně by bylo vhodné, aby se sem opět vrátil. Jinak rozvojových plánů je určitě spousta. Asi největší trn v patě, který nás trápí, je stav depozitářů.
 
-{% photo src="https://i.ohlasy.info/i/fgk76po.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/fgk76po.jpg" author="Tomáš Znamenáček" /%}
 
 ### Kapacita depozitářů nestačí
 
@@ -119,7 +119,7 @@ Určitě. Důležitá věc je, že naše muzeum má poměrně velkou knihovnu, k
 
 Co se týče badatelů – dost často se ozývají studenti bakalářských programů zaměřených na historii a sociologii. Oslovují nás a zjišťují, jaký materiál zde máme a co by mohli využít. Takových studentů je dost, zájem je velký. A také ze strany odborníků – v odborných kruzích se ví, že zde máme kupříkladu materiál ze Starého Hradiska, takže pokud se někdo zabývá laténem (*mladší doba železná, pozn. red.*), kontaktuje nás. A my mu to samozřejmě zpřístupníme.
 
-{% photo src="https://i.ohlasy.info/i/q9fjlxb.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/q9fjlxb.jpg" author="Tomáš Znamenáček" /%}
 
 ### Začali jsme s digitalizací sbírkových předmětů
 

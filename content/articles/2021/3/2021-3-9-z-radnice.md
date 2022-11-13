@@ -9,7 +9,7 @@ tags: politika
 
 *Novinky z boskovické radnice, které vedení města oznámilo po zasedání městské rady na začátku března. Obvyklá tisková konference se kvůli protiepidemickým opatřením nekonala, vyjádření politiků jsme proto získali pouze korespondenčně.*
 
-{% photo src="https://i.ohlasy.info/i/75724912.jpg" caption="Opravy silnice v ulici Podhradí" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/75724912.jpg" caption="Opravy silnice v ulici Podhradí" author="Tomáš Trumpeš" /%}
 
 Kromě informací z jednání rady vedení města ještě minulý týden zveřejnilo dvě důležité informace k fungování úřadu. Zejména radnice žádá občany, aby zvážili osobní návštěvu úřadu, a pokud je to možné, své záležitosti vyřizovali telefonicky nebo elektronicky. V nezbytně nutném případě lze objednat návštěvu pomocí [online registrace](https://bit.ly/30bRXpk). Pro veřejnost je úřad otevřen v pondělí a středu od 8.00 do 17.00.
 

@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Danou Makovskou, předsedkyní spolku Unijazz, který pořádá festival pro židovskou čtvrť Boskovice. Letošní ročník se měl konat právě na začátku července, ale nakonec byl kvůli koronakrizi odložen a proběhne v trochu pozměněném formátu na konci srpna. Mluvili jsme tedy právě o letošní situaci, srpnovém festivalu a o Unijazzu, jehož vedení Dana Makovská před rokem a něco převzala po [Čestmíru Huňátovi](https://ohlasy.info/clanky/2017/05/rozhovor-hunat.html).*
 
-{% photo src="https://i.ohlasy.info/i/c1c5bbff.jpeg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/c1c5bbff.jpeg" author="Tomáš Znamenáček" /%}
 
 **Mluvíme spolu přesně ve chvíli, kdy měl probíhat letošní ročník festivalu Boskovice. A neprobíhá. Kdy padlo tohle rozhodnutí a jak těžké bylo je udělat?**
 

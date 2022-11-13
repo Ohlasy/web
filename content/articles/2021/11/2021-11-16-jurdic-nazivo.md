@@ -40,7 +40,7 @@ Snažili jsme se na to asi takto dívat, nemůžu říct, že ne. Ale když jsme
 
 Druhá perspektiva je ta, že veřejný prostor samotný utváří chování a jednání lidí v něm. Proto jsme úplně nemohli vyzpovídat lidi, kteří ráno nasednou do auta, odjedou mimo Boskovice a večer se vrátí, protože jsme je na té ulici prostě nepotkali. Takže těch faktorů, jak se nad tím zamýšlet a jak zjistit, jak lidé veřejný prostor využívají, je spousta. Nevím, jestli se nám povedlo zachytit všechny, asi spíš ne, zase tak obsáhlá ta naše anketa nebyla.
 
-{% photo src="https://i.ohlasy.info/i/fba2dd00.jpg" author="Kristýna Znamenáčková" %}
+{% photo src="https://i.ohlasy.info/i/fba2dd00.jpg" author="Kristýna Znamenáčková" /%}
 
 **Jedna ze součástí vaší akce bylo, že lidé zapichovali špendlíky do mapky Boskovic – kde se cítí nejlíp a kde se cítí špatně. Kam bys své dva špendlíky umístil ty?**
 

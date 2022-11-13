@@ -10,7 +10,7 @@ tags:
 
 *Se závěrem, že se nestal žádný trestný čin, policisté odložili zhruba půlroční vyšetřování odkupu takzvaného Dvořáčkova mlýna v Červené zahradě. V lednu na město totiž kvůli jeho koupi někdo neznámý [podal trestní oznámení](http://ohlasy.info/clanky/2016/01/cervenka-trestni-oznameni.html).*
 
-{% photo src="https://i.ohlasy.info/i/gi2lckh.jpg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/gi2lckh.jpg" author="Tomáš Trumpeš" /%}
 
 „Vyšetřování této záležitosti jsme odložili s tím, že skutek není trestným činem,“ uvedl mluvčí blanenské policie Bohumil Malášek. Na městském úřadě zatím výsledek vyšetřování nemají. Stejně tak tajemník boskovického úřadu David Škvařil neví o nikom z úředníků, že by byl na policii u výslechu. Podobně hovoří i boskovický místostarosta Petr Malach z ČSSD. „Já osobně jsem na policii nebyl. Jestli byl někdo z kolegů, to netuším,“ vyjádřil se.
 

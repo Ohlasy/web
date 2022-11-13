@@ -8,7 +8,7 @@ tags: odpady
 
 *Na třicet obcí z boskovického regionu kvůli dlouhodobé nespokojenosti odešlo od firmy Suez a založilo si vlastní společnost na svoz odpadu. O vývoji v regionu a plánech Suezu jsme hovořili s brněnským ředitelem Igorem Laštůvkou.*
 
-{% photo src="https://i.ohlasy.info/i/ffd1a777.jpg" caption="Igor Laštůvka" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/ffd1a777.jpg" caption="Igor Laštůvka" author="Marek Osouch" /%}
 
 **Bude se měnit zákon o odpadech, výrazně zdražovat skládkování toho komunálního. Jak vy jako velká svozová firma obcím pomáháte? Co jim nabízíte, aby je odpadové hospodářství po připravovaných změnách nestálo mnohem víc?**
 
@@ -68,7 +68,7 @@ Nikoho nechceme strašit, to ne. Jen říkáme, že my jim nabízíme komplexní
 
 Víte, ona největší rétorika byla, že teď si to budeme dělat sami a budeme to mít levnější, protože Suez dává peníze do Francie. To jsem slyšel pořád. Jsme sice nadnárodní společnost, ale ročně v Česku investujeme 250 milionů korun. Chápu, že jsme nevyvezli, chápu, že jsou naštvaní, že zdražujeme, ale lidi musíme zaplatit, jak se zvedají mzdy. Budeme dál investovat, jiná cesta nevede. Nebráním se žádné spolupráci s nikým, ani Technickými službami Malé Hané.
 
-{% photo src="https://i.ohlasy.info/i/b6fa3ce0.jpg" author="Marek Osouch" %}
+{% photo src="https://i.ohlasy.info/i/b6fa3ce0.jpg" author="Marek Osouch" /%}
 
 ### Separace není recyklace
 

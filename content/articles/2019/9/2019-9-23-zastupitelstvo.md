@@ -9,7 +9,7 @@ tags: politika
 
 *V úterý 10. září se sešli boskovičtí zastupitelé. Hlavním bodem schůze bylo rozhodnutí o umístění sportovní haly, o čemž jsme informovali bezprostředně po jednání [v samostatném textu](https://ohlasy.info/clanky/2019/09/hala-hybesova.html). Nyní přinášíme informace o dalším průběhu a rozhodnutích zářijového zasedání.*
 
-{% photo src="https://i.ohlasy.info/i/4kq0zjm.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/4kq0zjm.jpg" author="Tomáš Znamenáček" /%}
 
 O trochu bizarní začátek se ještě v jindy čistě formálních procesních bodech postaral spor zastupitelů o to, kdo bude dělat návrhovou komisi. Původně byli před zastupitelstvem osloveni dva zastupitelé za Piráty, ale nakonec se starosta rozhodl navrhnout dva své spolustraníky z ODS. Opozici se to nelíbilo a koalice vzhledem k tomu, že všichni její členové ještě nebyli přítomni, nenašla ve vlastních řadách dostatečnou podporu. Průchodným kompromisem nakonec bylo sestavení komise z lidovců. Celá debata okolo návrhové komise však možná nebyla až tak absurdní – podle jednacího řádu totiž návrhová komise při variantním hlasování určuje pořadí jednotlivých variant a může tak v některých případech ovlivnit výsledky hlasování. Nemá tedy jen čistě formální úlohu.
 

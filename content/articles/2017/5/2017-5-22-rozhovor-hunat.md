@@ -9,7 +9,7 @@ featured: true
 
 *Rozhovor s Čestmírem Huňátem, předsedou Unijazzu a hlavním pořadatelem festivalu Boskovice. Festival letos oslaví čtvrt století; s jeho šéfem jsme si povídali nejen o této akci na podporu boskovické židovské čtvrti, ale i o jeho osobní životní cestě kulturním světem. Čestmír Huňát byl aktivní už od sedmdesátých let v Jazzové sekci, za což byl odsouzen a vězněn. V roce 2009 obdržel Cenu Revolver revue za „náročnou, nevděčnou a do značné míry anonymní práci iniciátora a organizátora projektů, které dávají prostor druhým“.*
 
-{% photo src="https://i.ohlasy.info/i/wtdzzc7.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wtdzzc7.jpg" author="Tomáš Znamenáček" /%}
 
 **Vzpomeneš si, kdys poprvé slyšel jméno Boskovice?**
 
@@ -29,7 +29,7 @@ Na vysokou jsem nastoupil v roce ’69, to byli ještě všichni plní vzdoru a 
 
 Přes muziku jsem se dostal mezi lidi, kteří už byli v Jazzové sekci, která byla založena v roce ’71 jako sdružení fanoušků jazzu, který taky neměl na růžích ustláno. Já jsem se tam dostal někdy v roce ’75, byli tam i moji spolužáci z vejšky, kteří dělali muziku aktivně. Zjistil jsem, že už tam nejde jen o jazz, sám jsem se ale paradoxně přes bigbít, kvůli kterému jsem tam začal fungovat, k jazzu dostal. Je to pro mě zásadní muzika, teď na stará kolena člověku dává asi nejvíc.
 
-{% photo src="https://i.ohlasy.info/i/1acg5ra.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/1acg5ra.jpg" author="Tomáš Znamenáček" /%}
 
 ### Zašeptal jsem Mardošovi: Zavolej do práce
 
@@ -63,7 +63,7 @@ Přesně tak. V práci už byly taky nějaké tlaky, to by bylo na dlouhé vypr�
 
 Necelý půlrok. Sebrali nás 2. září a pustili 22. ledna. Vykopli nás z Ruzyně v teniskách a v letním oblečení. Po zatčení bylo hlavně nepříjemné, že člověk neměl žádné informace, jak jsou na tom ostatní, snažili se nás co nejvíc izolovat a zkoušeli ty svoje hry. Ale o mně se říkalo, že snad umím sedět. Nejvíc mi dodávalo sílu, že jsem věděl, že jsme fakt nic neudělali. Že pravda je na naší straně a jednou se ukáže. Taky jsem nekouřil a neměl žádnou závislost, i to je výhoda. Blbý bylo, že jsem měl rodinu, dvě malé děti. Na to samozřejmě taky tlačili. Ale myslím, že jsme to ustáli, i ten proces. Zvedla se vlna solidarity i ve světě, podpisové akce, novináři… a už bylo období perestrojky, kdy ani oni už nebyli úplně tak jistí.
 
-{% photo src="https://i.ohlasy.info/i/eb09746c.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/eb09746c.jpg" author="Tomáš Znamenáček" /%}
 
 ### Akt kulturní sebeobrany
 
@@ -113,7 +113,7 @@ Zvažovali jsme, jak dál, jestli to má v nových podmínkách vůbec smysl. A 
 
 Klubů jako Prostor v Boskovicích bylo víc. Říkali jsme jim kluby, ale ne všude měly vlastní prostory, byly to skupinky lidí, které se o něco snažily – dělaly výstavy, vydávaly knížky, pořádaly koncerty. Bylo důležité, že až do úpravy spolčovacího zákona v roce ’93 jsme jim poskytli své IČO. Bylo to riskantní, protože jakýkoliv průšvih padal na naši hlavu. Neslo to velká rizika, jezdil jsem i po soudech, protože někde byly problémy – někdo neplatil nájem nebo nezaplatil autorské poplatky. Ale v té době sis bez fungující organizace nemohl založit ani účet v bance, nemohl jsi podnikat, pořádat akci. Takže tyto kluby vznikly ze sítě, kterou jsme původně vytvářeli možná pro jiné účely. Umožnili jsme jim fungovat okamžitě. Občas se nám pro ně podařilo získat i nějaké dotace, ale za to jsme pak odpovídali taky my, dostat třeba i odsud doklady a vyúčtování byl samozřejmě problém. Některé kluby fungují dodnes, ale když došlo k úpravě spolčovacího zákona, osamostatnily se. Strukturu Unijazzu jsme rozvolnili a nabídli jim spolupráci, pomáhali jsme jim zřídit si vlastní registraci. To se povedlo třeba tady v Boskovicích a osamostatnil se Prostor.
 
-{% photo src="https://i.ohlasy.info/i/si10c9n.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/si10c9n.jpg" author="Tomáš Znamenáček" /%}
 
 ### Upozornit na čtvrť a přivést sem lidi
 
@@ -175,7 +175,7 @@ Nevím, jestli festival, ale určitě lidé, kteří sem přijedou. Byl bych rá
 
 Trošku mě mrzí, že někteří lidé si to obracejí, že je to proti nim, že sem někdo přijede, něco tady uvidí, kritizuje, a neví, jak je to těžké. Ale já neříkám, že ty věci jsou lehké, je s nimi spojena spousta problémů, ale proč když se něco nepovede, neříkat, že se to nepovedlo.
 
-{% photo src="https://i.ohlasy.info/i/isupk3v.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/isupk3v.jpg" author="Tomáš Znamenáček" /%}
 
 ### Stát si za svým
 

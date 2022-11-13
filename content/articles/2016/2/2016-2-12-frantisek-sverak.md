@@ -8,7 +8,7 @@ serial: jazyk
 
 *V těchto dnech je tomu právě sto deset let ode dne, kdy se ve Lhotě Rapotině narodil František Svěrák, budoucí jazykovědec, autor významných prací o moravských nářečích. Jeho knihu Boskovické nářečí z roku 1941 jsme si již představili [v jednom z minulých dílů](/clanky/2015/05/boskovicke-nareci.html) našeho seriálu. Dnes si připomeneme jeho životní dráhu a přiblížíme hlavní zaměření a přínos jeho vědeckého díla.*
 
-{% photo src="https://i.ohlasy.info/i/pzriduz.jpg" %}
+{% photo src="https://i.ohlasy.info/i/pzriduz.jpg" /%}
 
 Zdá se, že důležitým obdobím majícím vliv na Svěrákův zájem o jazyky bylo už jeho gymnaziální studium v Boskovicích. Vzpomínku na své vědecké začátky, publikovanou na sklonku života – v roce 1972 – v revue Universitas, zahajuje totiž František Svěrák právě zmínkou o svých středoškolských studiích na boskovickém gymnáziu v letech 1918–1926: „Gymnasijní studium mně dalo dobrou znalost němčiny, francouzštiny, latiny a základů staré řečtiny, a co je hlavní, vzbudilo ve mně lásku k filologii“. Stranou poznamenejme, že v úryvku se nenápadně ukazují dva rozdíly středoškolského vzdělávání za první republiky oproti dnešku: studium tehdy poskytovalo obsáhlou jazykovou výbavu, takže na vysoké škole už se mohl student soustředit na odborné studium (zatímco dnes filologické obory připomínají spíše lepší jazykové školy), a mnohdy se již při něm rozhodovalo o budoucím směřování mladého člověka (kdežto dnes většinou ani vysokoškolští studenti ještě v posledních ročnících nevědí, co chtějí v životě dělat). 
 

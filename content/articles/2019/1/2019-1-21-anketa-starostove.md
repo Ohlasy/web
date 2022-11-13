@@ -9,7 +9,7 @@ tags: politika
 
 *Jaké hlavní cíle si kladete pro toto volební období? Co je nejvíc potřeba řešit ve vašem městě či obci, jaké jsou vaše priority a jaké konkrétní věci byste rádi stihli?*
 
-{% photo src="https://i.ohlasy.info/i/jwyjpf0.jpg" caption="Aktuální podoba letovického náměstí" author="Radek Musil" %}
+{% photo src="https://i.ohlasy.info/i/jwyjpf0.jpg" caption="Aktuální podoba letovického náměstí" author="Radek Musil" /%}
 
 ---
 

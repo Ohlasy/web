@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *Než jsme v Ohlasech stihli kompletně připravit a publikovat miniseriál Rok do voleb, ukrojil se z času, který do komunálních voleb zbývá, další měsíc. A nyní už skoro dva. Politický čas běží rychle a s každým dalším měsícem bude tlak na politiky stoupat. Připravit dobrý program, dobrou kampaň a sestavit dobré kandidátky dá hodně práce. A uspět se bez této práce nedá, voliči jen tak zadarmo obvykle hlasy nerozdávají.*
 
-{% photo src="https://i.ohlasy.info/i/69c1aba2.jpg" author="Zdeněk Tesař" %}
+{% photo src="https://i.ohlasy.info/i/69c1aba2.jpg" author="Zdeněk Tesař" /%}
 
 Ačkoliv se často ozývalo, že naše otázky jsou předčasné, dozvěděli jsme se toho o boskovické politické scéně nakonec celkem dost. Pro rekapitulaci: ptali jsme se na [odhodlání kandidovat](https://ohlasy.info/clanky/2021/11/kandidati.html), na [témata voleb](https://ohlasy.info/clanky/2021/11/temata-voleb.html) a na [ochotu spojovat se](https://ohlasy.info/clanky/2021/11/volby-koalice.html) v předvolebních koalicích.
 

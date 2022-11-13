@@ -9,7 +9,7 @@ tags: politika volby2018
 
 *Nový boskovický zpravodaj jsme v Ohlasech [kritizovali už ve fázi záměru](http://www.ohlasy.info/clanky/2017/08/komentar-zpravodaj.html) a jeho konkrétní podoba naplnila naše pesimistické předpoklady. Zneužívání městského média, které platí všichni voliči, pro jednostrannou propagaci vedení města ovšem před volbami nabralo zcela nehorázných rozměrů. Radnice nejspíš nepřekračuje zákon, který je v tomto ohledu poměrně slabý, ale pohybuje se na jeho hraně. Hranici novinářské a politické etiky však překračuje o koňské délky.*
 
-{% photo src="https://i.ohlasy.info/i/rz5dcrl.jpg" author="Monika Šindelková" %}
+{% photo src="https://i.ohlasy.info/i/rz5dcrl.jpg" author="Monika Šindelková" /%}
 
 [Srpnové vydání zpravodaje](http://www.boskovice.cz/assets/File.ashx?id_org=832&id_dokumenty=34317) uvádí obsáhlý materiál, který se ohlíží za volebním obdobím a programovým prohlášením města. Vůbec se nechci zabývat obsahem jednotlivých bodů. Podstatné je, že samotný formát takovéto prezentace je v městském médiu placeném z veřejných peněz nepřípustný. Hodnotit sami sebe mohou politici ve své kampani, nikoliv v prostoru, který jim platíme my všichni.
 

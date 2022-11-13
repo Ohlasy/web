@@ -8,7 +8,7 @@ tags: nemocnice zdravotnictví
 
 *Miloš Janeček má za sebou sto dní v křesle jednatele boskovické nemocnice. Jakým směrem se bude boskovická nemocnice ubírat a jaké investice plánuje? A uvažuje o znovuzřízení postu ekonomického náměstka? Na to vše a mnoho dalšího jsme se ho ptali v obsáhlém rozhovoru.*
 
-{% photo src="https://i.ohlasy.info/i/zh1ayeg.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/zh1ayeg.jpg" author="Tomáš Znamenáček" /%}
 
 **Česká lékařská komora i odbory varují před rozkladem českého zdravotnictví. Jak je na tom boskovická nemocnice, když slyšíme tato prohlášení?**
 
@@ -38,7 +38,7 @@ Je to velmi složitá otázka.  Já se pohybuji v medicíně 40 let, takže polo
 
 Souhlasím, že by to mělo být adekvátní kupní síle u nás. Vidíte to ale i v jiných oblastech. V Německu udělají kontrolu potravin a zjistí, že při jejich vyšší kupní síle tam koupí levněji i Čech.
 
-{% photo src="https://i.ohlasy.info/i/km4ymar.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/km4ymar.jpg" author="Tomáš Znamenáček" /%}
 
 **Když to shrneme, tak měli by zdravotníci dostat více?**
 
@@ -54,7 +54,7 @@ Už to běží, je to naprojektované, kope se. I kdybychom chtěli, cesta zpát
 
 Já to tak vidím. Starší říkají: My jsme to dělali dvacet let určitým způsobem, tak proč to měnit. Chirurgické obory se navíc považovaly vždycky za takovou elitu, tak také měly problém. Minulý týden jsme MIRP diskutovali a abych uklidnil vášně mezi lékaři, navrhl jsem, že chirugie a interna bude mít částečnou autonomii. Udělali jsme tedy kompromis, byla jim dána určitá samostatnost, a uvidím, jestli je to uspokojí. MIRP chceme také přejmenovat, protože jsme se setkávali s tím, že někteří nevěděli, kam se dovolali. Dokonce i krajská záchranka sem volala, jestli jsme zrušili ARO, protože zkratce MIRP nerozuměli. 
 
-{% photo src="https://i.ohlasy.info/i/zkb4gwt.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/zkb4gwt.jpg" author="Tomáš Znamenáček" /%}
 
 **V křesle jednatele sedíte čtyři měsíce, takže už jste se s nemocnicí nejspíš seznámil. Jaké nedostatky má boskovická nemocnice?**
 
@@ -84,7 +84,7 @@ Pak tady máme ještě patologii, která je stísněná, a vedle pitevnu. Podle 
 
 Současnou situaci bych přirovnal k tomu, že jsem vystřelil z brokovnice a čekám, který brok bude úspěšný. Nemocnice potřebuje hodně peněz a věřím, že se postupem času vše podaří. 
 
-{% photo src="https://i.ohlasy.info/i/liw993m.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/liw993m.jpg" author="Tomáš Znamenáček" /%}
 
 **Jaké nejbližší kroky v křesle jednatele chystáte?**
 
@@ -118,7 +118,7 @@ Zatím je to v jednání. Věřím, že když bude vyjednávat kraj, tak vyjedn�
 
 Nad tím už je asociace nemocnic. Ta by se měla postarat, aby byly úhrady všude stejné. 
 
-{% photo src="https://i.ohlasy.info/i/wktntax.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/wktntax.jpg" author="Tomáš Znamenáček" /%}
 
 **Velkým tématem skloňovaným od loňského podzimu, kdy byl odvolán pan Navrátil z pozice jednatele, je post ekonomického náměstka, který zastával Tomáš Julínek. Tato funkce existuje v Úrazové nemocnici, které jste šéfoval, i v menší nedaleké blanenské. V boskovické ji ale minulá jednatelka zrušila, z toho důvodu, že byla podle ní zbytečná. Neplánujete tuto pozici obnovit?**
 

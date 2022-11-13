@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Boskovická městská rada nakonec ani nehlasovala o tom, kde by měla stát nová sportovní hala. Dvě diskutované varianty – na Hybešově a na Sušilově ulici – předloží 10. září zastupitelům a rozhodnout mají oni. Starosta města Jaroslav Dohnálek (ODS) nevylučuje, že shodu nenajdou ani zastupitelé.*
 
-{% photo src="https://i.ohlasy.info/i/tfelsy9.jpg" caption="Jaroslav Dohnálek" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/tfelsy9.jpg" caption="Jaroslav Dohnálek" author="Tomáš Znamenáček" /%}
 
 „Otázkou sportovní haly už jsem do značné míry vyčerpán,“ komentoval situaci starosta Jaroslav Dohnálek na tiskové konferenci a připomněl, že on osobně už se otázkou sportovní haly zabývá od roku 2005. Diskuse o hale byla podle něj na jednání rady dlouhá. Shodu nalezli radní na tom, že chtějí, aby zastupitelstvo revokovalo usnesení z minulého volebního období, že hala má stát v Červené zahradě. Dát doporučení jedné z nyní připravovaných variant, jak vedení města dříve avizovalo, to už se radním vydiskutovat nepodařilo. Nakonec tedy pouze uložili předložit zastupitelům obě varianty.
 
