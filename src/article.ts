@@ -4,6 +4,7 @@ import { withDefault } from "./decoding";
 import fs from "fs";
 import {
   array,
+  boolean,
   decodeType,
   field,
   optional,
@@ -42,6 +43,7 @@ export const decodeMetadata = record({
   coverPhoto: field("cover-photo", optional(string)),
   tags: withDefault(array(string), []),
   serial: optional(string),
+  featured: withDefault(boolean, false),
   slug: string,
   date: decodeDate,
   category: optional(
