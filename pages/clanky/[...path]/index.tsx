@@ -6,12 +6,11 @@ import { ArticleContent } from "components/ArticleContent";
 import { Layout } from "components/Layout";
 import { Author, getAllAuthors } from "src/content";
 import Head from "next/head";
-import Script from "next/script";
 import {
   articleRoot,
   getFileSystemPathForUrlPathFragments,
   getUrlPathFragmentsForFileSystemPath,
-} from "src/routing";
+} from "src/path-conversion";
 
 //
 // Page
@@ -32,7 +31,6 @@ const Page: NextPage<PageProps> = ({ article, author }) => (
       {/* eslint-disable-next-line @next/next/no-css-tags */}
       <link href="/article.css" rel="stylesheet" />
     </Head>
-    <Script src="/ad-rotate.js" />
     <main className="container">
       <div className="row article-row">
         <article className="col-md-8">

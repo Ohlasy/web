@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
+import Script from "next/script";
 
 export type LayoutProps = {
   title: string;
@@ -23,6 +24,7 @@ export const Layout: React.FC<LayoutProps> = ({ title, children }) => {
       <NavBar />
       {children}
       <Footer />
+      <Script src="/ad-rotate.js" />
     </>
   );
 };
