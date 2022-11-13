@@ -1,6 +1,8 @@
 import matter from "gray-matter";
 import { getFilesRecursively } from "./utils";
 import { withDefault } from "./decoding";
+import { remark } from "remark";
+import strip from "strip-markdown";
 import fs from "fs";
 import {
   array,
@@ -39,7 +41,7 @@ export const decodeDate = (value: Pojo): string => {
 export const decodeMetadata = record({
   title: string,
   author: string,
-  perex: optional(string),
+  perex: string,
   coverPhoto: field("cover-photo", optional(string)),
   tags: withDefault(array(string), []),
   serial: optional(string),
@@ -64,7 +66,9 @@ export function decodeArticle(
   defaults: Record<string, any> = {}
 ): Article {
   const { content, data } = matter(src);
-  const mergedMeta = { ...defaults, ...data };
+  const firstParagraph = content.split("\n\n")[0];
+  const perex = stripMarkdown(firstParagraph);
+  const mergedMeta = { ...defaults, perex, ...data };
   return {
     body: content,
     ...decodeMetadata(mergedMeta),
@@ -128,3 +132,13 @@ export function getAllArticles(root: string): Article[] {
 /** Compare articles by publish date, sorting last published first */
 export const compareByDate = <A extends Pick<Article, "date">>(a1: A, a2: A) =>
   Date.parse(a2.date) - Date.parse(a1.date);
+
+/**
+ * Remove Markdown tags, leaving just plain text
+ *
+ * TBD: We only import remark to do this, can we unify the Markdown processing
+ * on a single package? Or can we leave the Markdown in and only remove it during
+ * rendering?
+ */
+const stripMarkdown = (mdown: string) =>
+  String(remark().use(strip).processSync(mdown));

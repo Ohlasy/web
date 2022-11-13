@@ -16,9 +16,7 @@ export const BigArticlePreview: React.FC<ArticlePreviewProps> = ({
         <div className="col-sm-4">
           <div className="article-preview-text">
             <Title {...article} />
-            <p className="article-perex hidden-md hidden-sm">
-              {article.perex /* TBD: or first paragraph */}
-            </p>
+            <p className="article-perex hidden-md hidden-sm">{article.perex}</p>
           </div>
         </div>
         <div className="col-sm-8">

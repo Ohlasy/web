@@ -25,7 +25,9 @@
     "node-fetch": "^2.6.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "remark": "^14.0.2",
     "sharp": "^0.30.5",
+    "strip-markdown": "^5.0.0",
     "typescript-json-decoder": "^1.0.6",
     "xmlbuilder2": "^3.0.2"
   },
