@@ -28,13 +28,15 @@ export interface Banner {
   priority: number;
 }
 
-export async function getAllBanners(apiKey: string): Promise<Banner[]> {
+export async function getAllBanners(
+  apiKey: string = process.env.NOTION_API_KEY ?? ""
+): Promise<Banner[]> {
   const notion = new Client({ auth: apiKey });
   const database = "50c3e92b4f7d44ee9cc5a139d81b07b5";
   const results = await notion.databases
     .query({ database_id: database })
     .then((response) => response.results);
-  return results.map(bannerFromPage).filter(notEmpty);
+  return results.map(bannerFromPage).filter(notEmpty).sort(compareByPriority);
 }
 
 function bannerFromPage(page: Page): Banner | null {
@@ -56,4 +58,16 @@ function bannerFromPage(page: Page): Banner | null {
   }
 
   return { name, image, alt, url, priority };
+}
+
+function compareByPriority(a: Banner, b: Banner) {
+  var ap = a.priority || 0;
+  var bp = b.priority || 0;
+  if (ap > bp) {
+    return -1;
+  } else if (bp > ap) {
+    return +1;
+  } else {
+    return Math.random() > 0.5 ? -1 : 1;
+  }
 }
