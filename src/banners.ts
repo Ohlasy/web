@@ -39,6 +39,18 @@ export async function getAllBanners(
   return results.map(bannerFromPage).filter(notEmpty).sort(compareByPriority);
 }
 
+let cache: Banner[] | undefined = undefined;
+
+// TBD: Come up with a generalized `getStaticProps` caching schema?
+export async function getAllBannersCached(
+  apiKey: string = process.env.NOTION_API_KEY ?? ""
+): Promise<Banner[]> {
+  if (cache === undefined) {
+    cache = await getAllBanners(apiKey);
+  }
+  return cache;
+}
+
 function bannerFromPage(page: Page): Banner | null {
   const props = (page as BannerPage).properties;
 
