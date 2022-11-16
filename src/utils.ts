@@ -58,3 +58,9 @@ export function shuffleInPlace<T>(array: T[]): T[] {
 
 /** Return a shuffled copy of the input array */
 export const shuffled = <T>(array: readonly T[]) => shuffleInPlace([...array]);
+
+export function notEmpty<TValue>(
+  value: TValue | null | undefined
+): value is TValue {
+  return value !== null && value !== undefined;
+}
