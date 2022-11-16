@@ -39,6 +39,7 @@ export const ArticlePreview: React.FC<ArticlePreviewProps> = ({
   <div className={`article-preview article-preview-middle ${type}`}>
     <Link href={Route.toArticle(article)}>
       <div className="force-hd-aspect">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src={article.coverPhoto} className="img-responsive" alt="" />
       </div>
       <Title {...article} />
