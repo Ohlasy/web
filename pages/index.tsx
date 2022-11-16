@@ -1,10 +1,12 @@
 import { Layout } from "components/Layout";
 import { PreviewNest5, PreviewNest9 } from "components/PreviewNest";
 import { GetStaticProps, NextPage } from "next";
-import { filterUndefines, shuffleInPlace } from "src/utils";
 import { Article, compareByDate, getAllArticles, Metadata } from "src/article";
+import { Banner, getAllBanners } from "src/banners";
+import { filterUndefines, shuffleInPlace } from "src/utils";
 
 export type PageProps = {
+  banners: Banner[];
   mostRecentArticles: Metadata[];
   opinions: Metadata[];
   interviews: Metadata[];
@@ -15,6 +17,7 @@ export type PageProps = {
 
 const Page: NextPage<PageProps> = (props) => {
   const {
+    banners,
     mostRecentArticles,
     opinions,
     interviews,
@@ -22,30 +25,33 @@ const Page: NextPage<PageProps> = (props) => {
     serials,
     archive,
   } = props;
+  const bannerGenerator = endlessGeneratorOf(banners);
+  const getNextBanner = () => bannerGenerator.next().value;
   return (
     <Layout title="Ohlasy dění na Boskovicku">
       <div className="container">
-        <PreviewNest9 articles={mostRecentArticles} />
+        <PreviewNest9 articles={mostRecentArticles} getBanner={getNextBanner} />
         <h2 className="section-divider">názory &amp; komentáře</h2>
-        <PreviewNest9 articles={opinions} />
+        <PreviewNest9 articles={opinions} getBanner={getNextBanner} />
         <h2 className="section-divider">rozhovory</h2>
-        <PreviewNest5 articles={interviews} />
+        <PreviewNest5 articles={interviews} getBanner={getNextBanner} />
         <h2 className="section-divider">
           <a href="/podcast/">podcast</a>
         </h2>
-        <PreviewNest5 articles={podcast} />
+        <PreviewNest5 articles={podcast} getBanner={getNextBanner} />
         <h2 className="section-divider">seriály</h2>
-        <PreviewNest9 articles={serials} />
+        <PreviewNest9 articles={serials} getBanner={getNextBanner} />
         <h2 className="section-divider">
           vybíráme z <a href="https://archiv.ohlasy.info">archivu</a>
         </h2>
-        <PreviewNest5 articles={archive} />
+        <PreviewNest5 articles={archive} getBanner={getNextBanner} />
       </div>
     </Layout>
   );
 };
 
 export const getStaticProps: GetStaticProps<PageProps> = async () => {
+  const banners = await getAllBanners();
   const stripBody = (article: Article): Metadata => {
     const { body, ...metadata } = article;
     return metadata;
@@ -66,6 +72,7 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
   const serials = filterCategory("seriály");
   return {
     props: filterUndefines({
+      banners,
       mostRecentArticles,
       opinions,
       interviews,
@@ -76,5 +83,17 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
     revalidate: 300, // update every 5 minutes
   };
 };
+
+//
+// Helpers
+//
+
+function* endlessGeneratorOf<T>(items: T[]): Generator<T, T, unknown> {
+  let index = 0;
+  while (true) {
+    yield items[index];
+    index = (index + 1) % items.length;
+  }
+}
 
 export default Page;

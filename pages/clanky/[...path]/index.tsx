@@ -5,6 +5,8 @@ import { filterUndefines, getFilesRecursively } from "src/utils";
 import { ArticleContent } from "components/ArticleContent";
 import { Layout } from "components/Layout";
 import { Author, getAllAuthors } from "src/content";
+import { Banner, getAllBanners } from "src/banners";
+import { BannerBox } from "components/BannerBox";
 import Head from "next/head";
 import {
   articleRoot,
@@ -19,13 +21,14 @@ import {
 type PageProps = {
   author: Author;
   article: Article;
+  banners: Banner[];
 };
 
 interface QueryParams extends ParsedUrlQuery {
   path: string[];
 }
 
-const Page: NextPage<PageProps> = ({ article, author }) => (
+const Page: NextPage<PageProps> = ({ article, author, banners }) => (
   <Layout title={article.title}>
     <Head>
       {/* eslint-disable-next-line @next/next/no-css-tags */}
@@ -38,7 +41,7 @@ const Page: NextPage<PageProps> = ({ article, author }) => (
           <ArticleContent src={article.body} />
           <InfoBox article={article} author={author} />
         </article>
-        <Sidebar article={article} />
+        <Sidebar article={article} banners={banners} />
       </div>
     </main>
   </Layout>
@@ -53,7 +56,10 @@ const Title: React.FC<Pick<PageProps, "article">> = ({ article }) =>
     <h2 className="main-header">{article.title}</h2>
   );
 
-const Sidebar: React.FC<Pick<PageProps, "article">> = ({ article }) =>
+const Sidebar: React.FC<Pick<PageProps, "article" | "banners">> = ({
+  article,
+  banners,
+}) =>
   !!article.serial ? (
     <aside className="col-md-4 text-muted">
       <h2 className="sidebar-header">O seriálu</h2>
@@ -61,13 +67,20 @@ const Sidebar: React.FC<Pick<PageProps, "article">> = ({ article }) =>
     </aside>
   ) : (
     <aside className="col-md-4 hidden-sm hidden-xs">
-      <div className="box"></div>
-      <div className="box"></div>
+      <div className="box">
+        <BannerBox banner={banners[0]} />
+      </div>
+      <div className="box">
+        <BannerBox banner={banners[1]} />
+      </div>
     </aside>
   );
 
 // TBD: Add minimum box height for authors with no e-mail?
-const InfoBox: React.FC<PageProps> = ({ author, article }) => {
+const InfoBox: React.FC<Pick<PageProps, "author" | "article">> = ({
+  author,
+  article,
+}) => {
   const date = new Date(article.date).toLocaleDateString("cs-CZ", {
     dateStyle: "long",
   });
@@ -105,8 +118,9 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
   const author = await getAllAuthors().then(
     (authors) => authors.find((a) => a.name === article.author)!
   );
+  const banners = await getAllBanners();
   return {
-    props: filterUndefines({ article, author }),
+    props: filterUndefines({ article, author, banners }),
     revalidate: 300, // update every 5 minutes
   };
 };

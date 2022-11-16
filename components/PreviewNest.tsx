@@ -1,4 +1,6 @@
 import { Metadata } from "src/article";
+import { Banner } from "src/banners";
+import { BannerBox } from "./BannerBox";
 import {
   ArticlePreview,
   BigArticlePreview,
@@ -6,10 +8,14 @@ import {
 } from "./ArticlePreview";
 
 export type PreviewNestProps = {
+  getBanner: () => Banner;
   articles: Metadata[];
 };
 
-export const PreviewNest9: React.FC<PreviewNestProps> = ({ articles }) => (
+export const PreviewNest9: React.FC<PreviewNestProps> = ({
+  articles,
+  getBanner,
+}) => (
   <div className="article-grid">
     <div className="row">
       <div className="col-sm-8 hidden-xs">
@@ -19,7 +25,9 @@ export const PreviewNest9: React.FC<PreviewNestProps> = ({ articles }) => (
         <ArticlePreview article={articles[0]} type="fullheight" />
       </div>
       <div className="col-sm-4 hidden-xs">
-        <div className="box"></div>
+        <div className="box">
+          <BannerBox banner={getBanner()} />
+        </div>
       </div>
     </div>
     <div className="row">
@@ -43,7 +51,10 @@ export const PreviewNest9: React.FC<PreviewNestProps> = ({ articles }) => (
   </div>
 );
 
-export const PreviewNest5: React.FC<PreviewNestProps> = ({ articles }) => (
+export const PreviewNest5: React.FC<PreviewNestProps> = ({
+  articles,
+  getBanner,
+}) => (
   <div className="article-grid">
     <div className="row">
       <div className="col-sm-8 hidden-xs">
@@ -53,7 +64,9 @@ export const PreviewNest5: React.FC<PreviewNestProps> = ({ articles }) => (
         <BigArticlePreview article={articles[0]} />
       </div>
       <div className="col-sm-4 hidden-xs">
-        <div className="box"></div>
+        <div className="box">
+          <BannerBox banner={getBanner()} />
+        </div>
       </div>
     </div>
     <div className="row">
