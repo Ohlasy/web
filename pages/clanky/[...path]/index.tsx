@@ -5,7 +5,7 @@ import { filterUndefines, getFilesRecursively } from "src/utils";
 import { ArticleContent } from "components/ArticleContent";
 import { Layout } from "components/Layout";
 import { Author, getAllAuthors } from "src/content";
-import { Banner, getAllBanners } from "src/banners";
+import { Banner, getAllBanners, getAllBannersCached } from "src/banners";
 import { BannerBox } from "components/BannerBox";
 import Head from "next/head";
 import {
@@ -118,7 +118,7 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
   const author = await getAllAuthors().then(
     (authors) => authors.find((a) => a.name === article.author)!
   );
-  const banners = await getAllBanners();
+  const banners = await getAllBannersCached();
   return {
     props: filterUndefines({ article, author, banners }),
     revalidate: 300, // update every 5 minutes
