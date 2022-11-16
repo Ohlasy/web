@@ -68,7 +68,7 @@ const Footer = () => (
               <a href="https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304">
                 inzerce
               </a>{" "}
-              /<a href="http://archiv.ohlasy.info">archiv článků</a> /
+              / <a href="http://archiv.ohlasy.info">archiv článků</a> /{" "}
               <a href="/podcast.html">podcast</a>
             </li>
             <li>
