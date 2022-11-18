@@ -1,8 +1,13 @@
 import { ArticlePreview } from "components/ArticlePreview";
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
-import { compareByDate, getAllArticles, Metadata } from "src/article";
 import { filterUndefines } from "src/utils";
+import {
+  compareByDate,
+  getAllArticles,
+  Metadata,
+  stripBody,
+} from "src/article";
 
 type PageProps = {
   articles: Metadata[];
@@ -71,7 +76,8 @@ const PodcastPage = ({ articles }: PageProps) => {
 export const getStaticProps: GetStaticProps<PageProps> = async () => {
   const articles = getAllArticles("content/articles")
     .filter((a) => a.category === "podcast")
-    .sort(compareByDate);
+    .sort(compareByDate)
+    .map(stripBody);
   return {
     props: filterUndefines({ articles }),
     revalidate: 300, // update every 5 minutes

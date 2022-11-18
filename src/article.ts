@@ -133,6 +133,11 @@ export function getAllArticles(root: string): Article[] {
 export const compareByDate = <A extends Pick<Article, "date">>(a1: A, a2: A) =>
   Date.parse(a2.date) - Date.parse(a1.date);
 
+export const stripBody = (article: Article): Metadata => {
+  const { body, ...metadata } = article;
+  return metadata;
+};
+
 /**
  * Remove Markdown tags, leaving just plain text
  *
