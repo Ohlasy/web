@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
+import { Route } from "src/routing";
 
 export type LayoutProps = {
   title: string;
@@ -67,7 +68,7 @@ const Footer = () => (
                 inzerce
               </a>{" "}
               / <a href="http://archiv.ohlasy.info">archiv článků</a> /{" "}
-              <a href="/podcast.html">podcast</a>
+              <a href={Route.toPodcast}>podcast</a>
             </li>
             <li>
               <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
