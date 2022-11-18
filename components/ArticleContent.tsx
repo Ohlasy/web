@@ -1,6 +1,7 @@
 import React from "react";
 import Markdoc from "@markdoc/markdoc";
 import { photo } from "src/markdoc-schema";
+import { getImageSrcSet, IMAGE_SIGNING_KEY } from "src/utils";
 
 export type ArticleBodyProps = {
   /** Markdoc source */
@@ -27,7 +28,12 @@ const Photo = ({ src, alt, author, caption }: PhotoProps) => {
   return (
     <div>
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={src} alt={alt ?? caption ?? ""} className="img-responsive" />
+      <img
+        src={src}
+        srcSet={getImageSrcSet(src, IMAGE_SIGNING_KEY)}
+        alt={alt ?? caption ?? ""}
+        className="img-responsive"
+      />
       {(author || caption) && (
         <span className="img-meta">
           {caption}
