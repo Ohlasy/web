@@ -3,6 +3,7 @@ import { PreviewNest5, PreviewNest9 } from "components/PreviewNest";
 import { GetStaticProps, NextPage } from "next";
 import { Article, compareByDate, getAllArticles, Metadata } from "src/article";
 import { Banner, getAllBanners } from "src/banners";
+import { Route } from "src/routing";
 import { filterUndefines, shuffleInPlace } from "src/utils";
 
 export type PageProps = {
@@ -36,13 +37,13 @@ const Page: NextPage<PageProps> = (props) => {
         <h2 className="section-divider">rozhovory</h2>
         <PreviewNest5 articles={interviews} getBanner={getNextBanner} />
         <h2 className="section-divider">
-          <a href="/podcast/">podcast</a>
+          <a href={Route.toPodcast}>podcast</a>
         </h2>
         <PreviewNest5 articles={podcast} getBanner={getNextBanner} />
         <h2 className="section-divider">seriály</h2>
         <PreviewNest9 articles={serials} getBanner={getNextBanner} />
         <h2 className="section-divider">
-          vybíráme z <a href="https://archiv.ohlasy.info">archivu</a>
+          vybíráme z <a href={Route.toArchive}>archivu</a>
         </h2>
         <PreviewNest5 articles={archive} getBanner={getNextBanner} />
       </div>
