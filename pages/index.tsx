@@ -1,10 +1,15 @@
 import { Layout } from "components/Layout";
 import { PreviewNest5, PreviewNest9 } from "components/PreviewNest";
 import { GetStaticProps, NextPage } from "next";
-import { Article, compareByDate, getAllArticles, Metadata } from "src/article";
 import { Banner, getAllBanners } from "src/banners";
 import { Route } from "src/routing";
 import { filterUndefines, shuffleInPlace } from "src/utils";
+import {
+  compareByDate,
+  getAllArticles,
+  Metadata,
+  stripBody,
+} from "src/article";
 
 export type PageProps = {
   banners: Banner[];
@@ -53,10 +58,6 @@ const Page: NextPage<PageProps> = (props) => {
 
 export const getStaticProps: GetStaticProps<PageProps> = async () => {
   const banners = await getAllBanners();
-  const stripBody = (article: Article): Metadata => {
-    const { body, ...metadata } = article;
-    return metadata;
-  };
   const articles = getAllArticles("content/articles")
     .sort(compareByDate)
     .map(stripBody);
