@@ -1,8 +1,8 @@
 import matter from "gray-matter";
-import { getFilesRecursively } from "./utils";
 import { withDefault } from "./decoding";
 import { remark } from "remark";
 import strip from "strip-markdown";
+import { getFilesRecursively } from "./server-utils";
 import fs from "fs";
 import {
   array,

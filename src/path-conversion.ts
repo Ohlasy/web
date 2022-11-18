@@ -1,5 +1,5 @@
 import { parsePath } from "./article";
-import { getFilesRecursively } from "./utils";
+import { getFilesRecursively } from "./server-utils";
 
 //
 // Filesystem paths
