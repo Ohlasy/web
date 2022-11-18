@@ -32,7 +32,7 @@ const NavBar = () => (
   <nav className="navbar navbar-default">
     <div className="container">
       <h1>
-        <Link href="/">
+        <Link href={Route.toHomePage}>
           Ohlasy <small>dění na Boskovicku</small>
         </Link>
       </h1>
@@ -53,41 +53,32 @@ const Footer = () => (
               </em>
             </li>
             <li>
-              vydává{" "}
-              <a href="https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e">
-                spolek šílenců
-              </a>
-              ,{" "}
+              vydává <Link href={Route.toCompanyInfo}>spolek šílenců</Link>,{" "}
               <span className="nobreak">
                 protože kdo jiný by dneska dělal noviny
               </span>
             </li>
             <li>nepoužíváme žádné cookies, respektujeme vaše soukromí</li>
             <li>
-              <a href="https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304">
-                inzerce
-              </a>{" "}
-              / <a href="http://archiv.ohlasy.info">archiv článků</a> /{" "}
-              <a href={Route.toPodcast}>podcast</a>
+              <Link href={Route.toAdsInfo}>inzerce</Link> /{" "}
+              <Link href={Route.toArchive}>archiv článků</Link> /{" "}
+              <Link href={Route.toPodcast}>podcast</Link>
             </li>
             <li>
               <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
             </li>
             <li>+420 608 763 954</li>
             <li>
-              <a href="https://forum.ohlasy.info">Diskuzní fórum</a>
+              <Link href={Route.toForum}>Diskuzní fórum</Link>
             </li>
             <li>
-              <a href="https://www.facebook.com/ohlasy">Facebook</a>
+              <Link href={Route.toFacebook}>Facebook</Link>
             </li>
             <li>
-              <a
-                href="https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss"
-                className="powered-by"
-              >
+              <Link href={Route.toVercel} className="powered-by">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src="/vercel.svg" alt="Powered by Vercel" />
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

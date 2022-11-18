@@ -5,11 +5,20 @@ export const siteUrl = "https://ohlasy.info";
 
 /** Get relative routes to frequently used places */
 export const Route = {
+  // Static routes
   toHomePage: "/",
   toArticleFeed: "/feed.xml",
   toPodcast: "/podcast",
   toPodcastFeed: "/podcast.xml",
+  // Dynamic routes
   toArticle: getArticlePath,
+  // External routes
+  toFacebook: "https://www.facebook.com/ohlasy",
+  toVercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
+  toArchive: "http://archiv.ohlasy.info",
+  toForum: "https://forum.ohlasy.info",
+  toAdsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
+  toCompanyInfo: "https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e",
 };
 
 /**
