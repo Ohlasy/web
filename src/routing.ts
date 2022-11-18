@@ -7,7 +7,7 @@ export const siteUrl = "https://ohlasy.info";
 export const Route = {
   toHomePage: "/",
   toArticleFeed: "/feed.xml",
-  toPodcast: "/podcast.html",
+  toPodcast: "/podcast",
   toPodcastFeed: "/podcast.xml",
   toArticle: getArticlePath,
 };
