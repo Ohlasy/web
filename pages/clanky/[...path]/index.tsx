@@ -1,7 +1,7 @@
 import { GetStaticProps, GetStaticPaths, NextPage } from "next";
 import { ParsedUrlQuery } from "querystring";
 import { Article, readArticle } from "src/article";
-import { filterUndefines, getFilesRecursively } from "src/utils";
+import { filterUndefines } from "src/utils";
 import { ArticleContent } from "components/ArticleContent";
 import { Layout } from "components/Layout";
 import { Author, getAllAuthors } from "src/content";
@@ -13,6 +13,7 @@ import {
   getFileSystemPathForUrlPathFragments,
   getUrlPathFragmentsForFileSystemPath,
 } from "src/path-conversion";
+import { getFilesRecursively } from "src/server-utils";
 
 //
 // Page

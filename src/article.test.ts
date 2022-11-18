@@ -1,5 +1,5 @@
 import { parsePath, readArticle } from "./article";
-import { getFilesRecursively } from "./utils";
+import { getFilesRecursively } from "./server-utils";
 
 test("Decode all articles", () => {
   const articlePaths = getFilesRecursively("content/articles")
