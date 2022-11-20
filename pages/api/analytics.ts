@@ -1,27 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
+import { queryTopPages } from "src/data-source/plausible";
 import fetch from "node-fetch";
-
-interface PlausibleResponse {
-  results: {
-    page: string;
-    visitors: number;
-  }[];
-}
-
-async function queryTopPages(
-  apiKey: string,
-  siteId = "ohlasy.info",
-  period = "30d",
-  property = "event:page",
-  limit = 15
-): Promise<PlausibleResponse> {
-  const root = "https://plausible.io/api/v1/stats/breakdown";
-  const url = `${root}?site_id=${siteId}&period=${period}&property=${property}&limit=${limit}`;
-  const response = await fetch(url, {
-    headers: { Authorization: `Bearer ${apiKey}` },
-  });
-  return (await response.json()) as any;
-}
 
 // TBD: This is a sorry hack, we should get the titles locally or from Plausible.
 async function getPageTitle(url: string) {
