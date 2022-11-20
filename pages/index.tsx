@@ -4,6 +4,8 @@ import { GetStaticProps, NextPage } from "next";
 import { Banner, getAllBanners } from "src/banners";
 import { Route } from "src/routing";
 import { filterUndefines, shuffleInPlace } from "src/utils";
+import { getLatestTopicsSummary, LatestTopicsSummary } from "src/forum";
+import { ForumOverviewBox } from "components/ForumBox";
 import {
   compareByDate,
   getAllArticles,
@@ -13,6 +15,7 @@ import {
 
 export type PageProps = {
   banners: Banner[];
+  latestForumSummary: LatestTopicsSummary;
   mostRecentArticles: Metadata[];
   opinions: Metadata[];
   interviews: Metadata[];
@@ -24,6 +27,7 @@ export type PageProps = {
 const Page: NextPage<PageProps> = (props) => {
   const {
     banners,
+    latestForumSummary,
     mostRecentArticles,
     opinions,
     interviews,
@@ -39,6 +43,13 @@ const Page: NextPage<PageProps> = (props) => {
         <PreviewNest9 articles={mostRecentArticles} getBanner={getNextBanner} />
         <h2 className="section-divider">názory &amp; komentáře</h2>
         <PreviewNest9 articles={opinions} getBanner={getNextBanner} />
+        <h2 className="section-divider">
+          <a href={Route.toForum}>diskuzní fórum</a>
+        </h2>
+        <ForumOverviewBox
+          latestForumSummary={latestForumSummary}
+          banner={getNextBanner()}
+        />
         <h2 className="section-divider">rozhovory</h2>
         <PreviewNest5 articles={interviews} getBanner={getNextBanner} />
         <h2 className="section-divider">
@@ -58,6 +69,7 @@ const Page: NextPage<PageProps> = (props) => {
 
 export const getStaticProps: GetStaticProps<PageProps> = async () => {
   const banners = await getAllBanners();
+  const latestForumSummary = await getLatestTopicsSummary();
   const articles = getAllArticles("content/articles")
     .sort(compareByDate)
     .map(stripBody);
@@ -75,6 +87,7 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
   return {
     props: filterUndefines({
       banners,
+      latestForumSummary,
       mostRecentArticles,
       opinions,
       interviews,
