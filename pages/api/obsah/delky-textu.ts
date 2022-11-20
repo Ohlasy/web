@@ -1,4 +1,8 @@
-import { getArticleIndex, send, renderCSV } from "src/content-stats";
+import {
+  getArticleIndex,
+  send,
+  renderCSV,
+} from "src/data-source/content-stats";
 
 const readingSpeedInWordsPerMinute = 200;
 

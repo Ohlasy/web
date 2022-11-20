@@ -1,4 +1,4 @@
-import { Banner } from "src/banners";
+import { Banner } from "src/data-source/banners";
 
 export type BannerProps = {
   banner: Banner;

@@ -1,11 +1,14 @@
 import { Layout } from "components/Layout";
 import { PreviewNest5, PreviewNest9 } from "components/PreviewNest";
 import { GetStaticProps, NextPage } from "next";
-import { Banner, getAllBanners } from "src/banners";
+import { Banner, getAllBanners } from "src/data-source/banners";
 import { Route } from "src/routing";
 import { filterUndefines, shuffleInPlace } from "src/utils";
-import { getLatestTopicsSummary, LatestTopicsSummary } from "src/forum";
 import { ForumOverviewBox } from "components/ForumBox";
+import {
+  getLatestTopicsSummary,
+  LatestTopicsSummary,
+} from "src/data-source/forum";
 import {
   compareByDate,
   getAllArticles,

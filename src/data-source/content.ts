@@ -1,7 +1,7 @@
 import { readFile } from "fs/promises";
 import yaml from "js-yaml";
-import { decodeObject, decodeUrl } from "./decoding";
-import { iTunesShowEpisode } from "./feeds";
+import { decodeObject, decodeUrl } from "../decoding";
+import { iTunesShowEpisode } from "../feeds";
 import {
   array,
   decodeType,

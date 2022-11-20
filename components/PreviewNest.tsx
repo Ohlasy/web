@@ -1,5 +1,5 @@
 import { Metadata } from "src/article";
-import { Banner } from "src/banners";
+import { Banner } from "src/data-source/banners";
 import { BannerBox } from "./BannerBox";
 import {
   ArticlePreview,
