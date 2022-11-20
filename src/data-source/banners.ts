@@ -1,5 +1,5 @@
 import { Client } from "@notionhq/client";
-import { notEmpty } from "./utils";
+import { notEmpty } from "../utils";
 import {
   CheckboxPropertyValue,
   NumberPropertyValue,

@@ -3,7 +3,7 @@ import {
   getOneTimeDonations,
   getRecurrentDonations,
   getTransactions,
-} from "src/darujme";
+} from "src/data-source/darujme";
 
 export default async (
   request: NextApiRequest,

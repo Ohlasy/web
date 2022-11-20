@@ -1,5 +1,5 @@
-import { Banner } from "src/banners";
-import { getUserAvatar, LatestTopicsSummary } from "src/forum";
+import { Banner } from "src/data-source/banners";
+import { getUserAvatar, LatestTopicsSummary } from "src/data-source/forum";
 import { Route } from "src/routing";
 import { BannerBox } from "./BannerBox";
 

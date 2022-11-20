@@ -4,16 +4,18 @@ import { Article, readArticle } from "src/article";
 import { filterUndefines } from "src/utils";
 import { ArticleContent } from "components/ArticleContent";
 import { Layout } from "components/Layout";
-import { Author, getAllAuthors } from "src/content";
-import { Banner, getAllBanners, getAllBannersCached } from "src/banners";
+import { Author, getAllAuthors } from "src/data-source/content";
+import { Banner, getAllBannersCached } from "src/data-source/banners";
 import { BannerBox } from "components/BannerBox";
 import Head from "next/head";
 import {
+  getFilesRecursively,
+  getUrlPathFragmentsForFileSystemPath,
+} from "src/server-utils";
+import {
   articleRoot,
   getFileSystemPathForUrlPathFragments,
-  getUrlPathFragmentsForFileSystemPath,
-} from "src/path-conversion";
-import { getFilesRecursively } from "src/server-utils";
+} from "src/server-utils";
 
 //
 // Page

@@ -4,7 +4,7 @@ import {
   sum,
   send,
   renderCSV,
-} from "src/content-stats";
+} from "src/data-source/content-stats";
 
 export default send("text/csv", async () => {
   const articles = await getArticleIndex();

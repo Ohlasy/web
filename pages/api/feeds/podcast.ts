@@ -1,5 +1,8 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import { convertEpisodeToPodcastItem, getPodcastEpisodes } from "src/content";
+import {
+  convertEpisodeToPodcastItem,
+  getPodcastEpisodes,
+} from "src/data-source/content";
 import { absolute, Route } from "src/routing";
 import { iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
 import { join } from "path";

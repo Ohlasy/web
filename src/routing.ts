@@ -1,5 +1,5 @@
 import { Article } from "./article";
-import { getTopicUrl } from "./forum";
+import { getTopicUrl } from "./data-source/forum";
 
 /** Site URL without trailing slash */
 export const siteUrl = "https://ohlasy.info";
