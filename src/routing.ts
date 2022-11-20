@@ -1,4 +1,5 @@
 import { Article } from "./article";
+import { getTopicUrl } from "./forum";
 
 /** Site URL without trailing slash */
 export const siteUrl = "https://ohlasy.info";
@@ -12,6 +13,7 @@ export const Route = {
   toPodcastFeed: "/podcast.xml",
   // Dynamic routes
   toArticle: getArticlePath,
+  toForumTopic: getTopicUrl,
   // External routes
   toFacebook: "https://www.facebook.com/ohlasy",
   toVercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
