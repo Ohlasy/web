@@ -1,6 +1,10 @@
 import Head from "next/head";
 import Link from "next/link";
 import { Route } from "src/routing";
+import { Dosis } from "@next/font/google";
+
+// https://nextjs.org/docs/basic-features/font-optimization
+const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
 
 export type LayoutProps = {
   title: string;
@@ -28,17 +32,19 @@ export const Layout: React.FC<LayoutProps> = ({ title, children }) => {
   );
 };
 
-const NavBar = () => (
-  <nav className="navbar navbar-default">
-    <div className="container">
-      <h1>
-        <Link href={Route.toHomePage}>
-          Ohlasy <small>dění na Boskovicku</small>
-        </Link>
-      </h1>
-    </div>
-  </nav>
-);
+const NavBar = () => {
+  return (
+    <nav className="navbar navbar-default">
+      <div className="container">
+        <h1 className={mainHeadingFont.className}>
+          <Link href={Route.toHomePage}>
+            Ohlasy <small>dění na Boskovicku</small>
+          </Link>
+        </h1>
+      </div>
+    </nav>
+  );
+};
 
 const Footer = () => (
   <footer className="text-muted">

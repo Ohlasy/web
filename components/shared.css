@@ -1,10 +1,5 @@
-/* prettier-ignore */
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700&subset=latin-ext);
-/* prettier-ignore */
-@import url(https://fonts.googleapis.com/css?family=Dosis:400,600&subset=latin,latin-ext);
-
 body {
-  font-family: "PT Serif", serif;
+  font-family: serif;
   font-size: 19px;
   line-height: 1.5em;
   color: #444;
@@ -18,7 +13,6 @@ body {
 }
 
 h1 {
-  font-family: "Dosis";
   font-weight: 600;
   text-transform: uppercase;
   color: rgb(148, 82, 0);
@@ -246,27 +240,6 @@ footer a {
 }
 
 .powered-by:hover {
-  border: none;
-}
-
-/* Promotion Ribbon */
-
-.promo-ribbon {
-  font-family: "Dosis";
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 130%;
-  display: block;
-  width: 100%;
-  background-color: #4b607b;
-  color: white;
-  padding: 1em;
-}
-
-.promo-ribbon:hover {
-  background-color: #a94442;
-  text-decoration: none;
-  color: white;
   border: none;
 }
 

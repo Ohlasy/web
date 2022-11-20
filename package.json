@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.2.1",
+    "@next/font": "^13.0.4",
     "axios": "^0.21.1",
     "eslint": "^8.26.0",
     "eslint-config-next": "^13.0.0",
