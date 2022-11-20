@@ -18,7 +18,6 @@ export const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
 
   const getAvatarForUserId = (id: number) => {
     const user = users.find((u) => u.id === id)!;
-    console.log(user);
     return getUserAvatar(user, 50);
   };
 
