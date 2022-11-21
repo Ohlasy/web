@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Banner } from "src/data-source/banners";
 import { TopArticles } from "src/data-source/plausible";
 import { BannerBox } from "./BannerBox";
@@ -13,7 +14,7 @@ export const TopArticleBox = ({ topArticles, banner }: Props) => (
       <ol className="article-list">
         {topArticles.slice(0, 5).map((entry) => (
           <li key={entry.title}>
-            <a href={entry.path}>{entry.title}</a>
+            <Link href={entry.path}>{entry.title}</Link>
           </li>
         ))}
       </ol>
@@ -22,7 +23,7 @@ export const TopArticleBox = ({ topArticles, banner }: Props) => (
       <ol className="article-list" start={5}>
         {topArticles.slice(5, 10).map((entry) => (
           <li key={entry.title}>
-            <a href={entry.path}>{entry.title}</a>
+            <Link href={entry.path}>{entry.title}</Link>
           </li>
         ))}
       </ol>
