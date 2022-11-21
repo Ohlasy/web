@@ -5,6 +5,8 @@ import { Banner, getAllBanners } from "src/data-source/banners";
 import { Route } from "src/routing";
 import { filterUndefines, shuffleInPlace } from "src/utils";
 import { ForumOverviewBox } from "components/ForumBox";
+import { getTopArticles, TopArticles } from "src/data-source/plausible";
+import { TopArticleBox } from "components/TopArticles";
 import {
   getLatestTopicsSummary,
   LatestTopicsSummary,
@@ -19,6 +21,7 @@ import {
 export type PageProps = {
   banners: Banner[];
   latestForumSummary: LatestTopicsSummary;
+  topArticles: TopArticles;
   mostRecentArticles: Metadata[];
   opinions: Metadata[];
   interviews: Metadata[];
@@ -28,43 +31,49 @@ export type PageProps = {
 };
 
 const Page: NextPage<PageProps> = (props) => {
-  const {
-    banners,
-    latestForumSummary,
-    mostRecentArticles,
-    opinions,
-    interviews,
-    podcast,
-    serials,
-    archive,
-  } = props;
-  const bannerGenerator = endlessGeneratorOf(banners);
+  const bannerGenerator = endlessGeneratorOf(props.banners);
   const getNextBanner = () => bannerGenerator.next().value;
   return (
     <Layout title="Ohlasy dění na Boskovicku">
       <div className="container">
-        <PreviewNest9 articles={mostRecentArticles} getBanner={getNextBanner} />
+        {/* Most recent */}
+        <PreviewNest9
+          articles={props.mostRecentArticles}
+          getBanner={getNextBanner}
+        />
+
         <h2 className="section-divider">názory &amp; komentáře</h2>
-        <PreviewNest9 articles={opinions} getBanner={getNextBanner} />
+        <PreviewNest9 articles={props.opinions} getBanner={getNextBanner} />
+
         <h2 className="section-divider">
           <a href={Route.toForum}>diskuzní fórum</a>
         </h2>
         <ForumOverviewBox
-          latestForumSummary={latestForumSummary}
+          latestForumSummary={props.latestForumSummary}
           banner={getNextBanner()}
         />
+
         <h2 className="section-divider">rozhovory</h2>
-        <PreviewNest5 articles={interviews} getBanner={getNextBanner} />
+        <PreviewNest5 articles={props.interviews} getBanner={getNextBanner} />
+
         <h2 className="section-divider">
           <a href={Route.toPodcast}>podcast</a>
         </h2>
-        <PreviewNest5 articles={podcast} getBanner={getNextBanner} />
+        <PreviewNest5 articles={props.podcast} getBanner={getNextBanner} />
+
+        <h2 className="section-divider">nejčtenější články</h2>
+        <TopArticleBox
+          topArticles={props.topArticles}
+          banner={getNextBanner()}
+        />
+
         <h2 className="section-divider">seriály</h2>
-        <PreviewNest9 articles={serials} getBanner={getNextBanner} />
+        <PreviewNest9 articles={props.serials} getBanner={getNextBanner} />
+
         <h2 className="section-divider">
           vybíráme z <a href={Route.toArchive}>archivu</a>
         </h2>
-        <PreviewNest5 articles={archive} getBanner={getNextBanner} />
+        <PreviewNest5 articles={props.archive} getBanner={getNextBanner} />
       </div>
     </Layout>
   );
@@ -72,6 +81,7 @@ const Page: NextPage<PageProps> = (props) => {
 
 export const getStaticProps: GetStaticProps<PageProps> = async () => {
   const banners = await getAllBanners();
+  const topArticles = await getTopArticles();
   const latestForumSummary = await getLatestTopicsSummary();
   const articles = getAllArticles("content/articles")
     .sort(compareByDate)
@@ -90,6 +100,7 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
   return {
     props: filterUndefines({
       banners,
+      topArticles,
       latestForumSummary,
       mostRecentArticles,
       opinions,
