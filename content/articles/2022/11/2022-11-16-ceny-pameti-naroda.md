@@ -7,7 +7,7 @@ category: názory a komentáře
 
 *Jedním z pěti laureátů Cen Paměti národa se letos 17. listopadu stane žena, která také většinu svého života prožila v Boskovicích. Osobně laděný text o ocenění Marie Henzlové napsal Ladislav Oujeský.*
 
-{% photo src="https://i.ohlasy.info/i/3f3b5d57.jpg" caption="Marie Henzlová a Ladislav Oujeský" %}
+{% photo src="https://i.ohlasy.info/i/3f3b5d57.jpg" caption="Marie Henzlová a Ladislav Oujeský" /%}
 
 Když v roce 2012 dostal Cenu Paměti národa rodák z Boskovic [Leopold Färber](https://www.pametnaroda.cz/cs/farber-leopold-1928) přezdívaný Hurvínek, poslouchal jsem se zaujetím jeho příběh v rádiu a cítil hrdost i proto, že moji rodiče se s ním znali osobně. Současně mi bylo líto, že jsem se s ním nikdy v pozdějších letech nesetkal. Věděl jsem od rodičů, že to byl často právě on, kdo převlečený za hodného Mikuláše v boskovickém skleníku na pravidelných besídkách Lidové strany rozdával nám dětem dárky. Vyprávění Leopolda, ale i dalších podobně osudem zkoušených lidí v rozhlasovém pořadu [Příběhy 20. století](https://plus.rozhlas.cz/pribehy-20-stoleti-6504756) mě přivedlo k většímu zájmu o historii. Tehdy jsem netušil, že se nakonec shodou okolností stanu členem jedinečné rodiny Post Bellum, která vytváří největší sbírku natočených pamětníků – [Paměť národa](https://www.pametnaroda.cz/cs). 
 

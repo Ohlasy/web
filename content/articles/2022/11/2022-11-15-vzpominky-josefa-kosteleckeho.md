@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Představujeme novou knihu, kterou Ohlasy vydávají společně s boskovickým evangelickým sborem. Vznikla na základě rozhovorů, které s Josefem Kosteleckým vedli farář Jiří Bureš a novinář Tomáš Trumpeš. Níže přinášíme několik ukázek.*
 
-{% photo src="https://i.ohlasy.info/i/f7d6266f.jpg" %}
+{% photo src="https://i.ohlasy.info/i/f7d6266f.jpg" /%}
 
 Josef Kostelecký je rodák z Telecího na Vysočině, prožil pestrý a aktivní život, jako dítě vypovídal na gestapu, vojnu odpracoval v dolech jako příslušník technických praporů. Do Boskovic přišel na konci padesátých let, působil jako učitel na zemědělské škole, ale také jako zpěvák, muzikant v dechovce, zahrádkář, fotograf, politik a celoživotní věrný evangelík.
 
@@ -16,7 +16,7 @@ Vzpomínky Josefa Kosteleckého Povinen být ve víře pevný vyjdou v omezeném
 
 Kniha bude k vyzvednutí a zakoupení při slavnostním uvedení v neděli 20. listopadu v 11 hodin v evangelickém kostele a poté v Knihkupectví Tomáše Špidlíka na horním konci náměstí. Zaplatit předem můžete převodem na účet 2601715895/2010 a zprávou pro příjemce Kniha JK.
 
-{% photo src="https://i.ohlasy.info/i/44036aae.jpg" %}
+{% photo src="https://i.ohlasy.info/i/44036aae.jpg" /%}
 
 ### Narození a původ
 
@@ -50,7 +50,7 @@ Výslech probíhal u starosty Kamenského. Byl tam Obersturm Gruppenführer gest
 
 Ani jsem se pak nebál, dřív u mě uzrál takový pocit správného skutku nebo hrdinství, až takového nemístného, na ten věk.
 
-{% photo src="https://i.ohlasy.info/i/0b9748e6.jpg" %}
+{% photo src="https://i.ohlasy.info/i/0b9748e6.jpg" /%}
 
 ### Na vojnu do dolů
 
@@ -74,7 +74,7 @@ Nás posílali tam, kde to bylo nebezpečné a kde civilové nevydělali a podob
 
 Ale někteří se dostali do Nové Huti a tam vybuchl plyn a jeden tam zahynul, zůstala z něho noha. Snažili se to utajit, ututlat, zažehlit a tak dál. Řešilo se to tak, že se uvedlo: *Padl při řešení bojových úkolů.*
 
-{% photo src="https://i.ohlasy.info/i/df422938.jpg" %}
+{% photo src="https://i.ohlasy.info/i/df422938.jpg" /%}
 
 ### Do Boskovic
 
@@ -96,7 +96,7 @@ Měl jsem tu angažovanost takovou rozporuplnou na více stranách. Na jednu str
 
 Ale za Hlaváčka jsme hráli věci, které by se jinak hrát nemohly. Nejenom vánoční mše, ale třeba *Orfeus v podsvětí* a řada takových věcí, i poměrně náročných. Natáčeli jsme i pro televizi.
 
-{% photo src="https://i.ohlasy.info/i/42cc723a.jpg" %}
+{% photo src="https://i.ohlasy.info/i/42cc723a.jpg" /%}
 
 ### Křesťanskodemokratická strana
 

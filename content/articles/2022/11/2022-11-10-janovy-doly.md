@@ -8,7 +8,7 @@ serial: krajiny
 
 *Mezi Boskovicemi a Chrudichromy leží polní trať Janovy doly. Pomístní jméno připomíná doby před sto lety, kdy se na řadě míst Boskovicka těžilo nekvalitní uhlí. Koneckonců bylo dobýváno i na samém okraji města, což připomíná dnešní ulice Na Dolech.*
 
-{% photo src="https://i.ohlasy.info/i/b3b02246.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/b3b02246.jpg" author="Hynek Skořepa" /%}
 
 Uhelné slojky o mocnosti půl metru až metr jsou spolu s pískovci a jílovci druhohorního stáří, o pískovcích usazených na dně křídového moře jsem psal podrobněji v souvislosti s [lokalitou Kříb](https://ohlasy.info/clanky/2020/11/krib.html) mezi Nýrovem a Rudkou u Kunštátu. Zmíněné vrstvy v Janových dolech jsou ovšem o něco starší, náleží k sladkovodnímu cenomanu (nejstarší stupeň svrchní křídy, pojmenovaný podle galského čili keltského kmene Cenomanů, obývajícího dnešní Francii). Vznikly tedy ještě před křídovou mořskou záplavou. Pískovce jsou šedobílé, narezavělé či nažloutlé barvy. Mocnost pískovcových vrstev v okolí Boskovic se pohybuje kolem 35 metrů, což je proti stovkám metrů v jádru křídové pánve nic. Přesto poskytovaly nejen stavební kámen, nýbrž i uhlí s obsahem pyritu (kyz železný, FeS2) a fosilních („zkamenělých“) pryskyřic, které ovšem mělo vysokou popelnatost a nízkou výhřevnost.
 
@@ -20,7 +20,7 @@ O tom, jak Janovy doly vypadaly téměř před půlstoletím, mi vyprávěl [Pet
 
 V sedmdesátých a především osmdesátých letech děti s prarodiči trhali třešně do výkupu, tak jak postupně zrály. Bylo jich zde několik druhů, od májovek přes bělky, křupky či napoleonky až po černice a srdcovky. V dobách Petrova mládí také žali trávu králíkům, děti s babičkou obracely a kupily seno a část z něj v plachtě-trávnici na trakaři odváželi domů. „Přesněji kosil táta. Koncem května brzy ráno jel na motorce-pionýru do Janových dolů – muselo to  být krátce po čtvrté hodině ranní, při rozednění – posekal kosou, co stihl, a my jsme po návratu ze školy šli trávu obracet.“
 
-{% photo src="https://i.ohlasy.info/i/d0c19d19.jpg" author="Hynek Skořepa" %}
+{% photo src="https://i.ohlasy.info/i/d0c19d19.jpg" author="Hynek Skořepa" /%}
 
 Jejich pozemek z jedné strany sousedil s polem pana Prchala z Kollárovy ulice, o kus dál ve svahu vedle mysliveckého posedu měl svoji louku Stanislav Schneeweis, pan Chlup z Chrudichrom byl druhým sousedem. Do jeho vzrostlého, ale ještě nezralého obilí Petr s tátou od počátku let osmdesátých večer „uklízeli“ téměř pětimetrový žebřík, který jim vždy dobře posloužil při česání třešní.  
 

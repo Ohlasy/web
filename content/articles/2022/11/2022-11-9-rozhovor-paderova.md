@@ -8,7 +8,7 @@ category: rozhovory
 
 *Rozhovor s Petrou Paděrovou, zakladatelkou prvního jógového studia v Boskovicích. Povídaly jsme si o tom, jaké cesty vedly ke splnění jejího snu a jaké překážky musela překonat, než si před dvěma lety mohla otevřít své vlastní jógové studio.*
 
-{% photo src="https://i.ohlasy.info/i/90cff0ba.jpg" author="Martina Vašková" %}
+{% photo src="https://i.ohlasy.info/i/90cff0ba.jpg" author="Martina Vašková" /%}
 
 **Proč ses rozhodla právě pro jógové studio? Věnuješ se cvičení jógy dlouhodobě?**
 
@@ -48,7 +48,7 @@ Ano, všechno sama. Za pomoci a podpory mé blízké rodiny. Stavaři z naší r
 
 Otvírali jsme po půl roce intenzivní práce. Byla jsem opravdu šťastná, že jsme to zvládli tak rychle. Měla jsem domluvených šest lektorek a Peťu Hynkovou Sedlákovou, která mi studio pomáhala rozjet. Problémem bylo, že právě začínal covid. My studio otevřeli mezi prvními dvěma vlnami covidu. Měli jsme otevřeno asi čtyři měsíce a pak přišla druhá vlna, která trvala osm měsíců. Cesta to byla hodně trnitá. Po druhé vlně covidu, kdy se studio mohlo začít konečně rozjíždět, hodně onemocněla moje kolegyně Peťa, dvě lektorky mi otěhotněly a já zrovna porodila první dítě. Takže jsem vlastně najednou mohla pořádně otevřít, ale nebyly lektorky. Dopadlo to tak, že jsem měla snad osm hodin týdně cvičení pro různě pokročilé, aby to cvičení bylo opravdu pro všechny. Nebyla jsem ani moc připravená na to, že tělo po porodu funguje jinak, než jsem byla zvyklá, a mezi jednotlivými lekcemi jsem odbíhala kojit malého. Nebyla to jednoduchá doba.
 
-{% photo src="https://i.ohlasy.info/i/a523232f.jpg" author="archiv Petry Paděrové" %}
+{% photo src="https://i.ohlasy.info/i/a523232f.jpg" author="archiv Petry Paděrové" /%}
 
 **Neuvažovala jsi, že bys prostě zavřela?**
 

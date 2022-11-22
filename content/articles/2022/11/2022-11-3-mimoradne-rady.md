@@ -10,7 +10,7 @@ tags:
 
 *Nová městská rada byla zvolena na [ustavujícím zastupitelstvu](https://ohlasy.info/clanky/2022/10/ustavujici-zastupitelstvo.html) 20\. října. A hned zasedla k mimořádnému jednání a další takové proběhlo i v pondělí 31. října. První řádná schůze následovaná tiskovou konferencí bude až 7. listopadu, ale na základě tiskové zprávy přinášíme aspoň základní informace o tom, co už nově zvolené vedení Boskovic řeší.*
 
-{% photo src="https://i.ohlasy.info/i/b838055b.jpg" caption="Mimořádná schůze nově zvolené rady města po ustavujícím zastupitelstvu" author="FB Piráti Boskovice" %}
+{% photo src="https://i.ohlasy.info/i/b838055b.jpg" caption="Mimořádná schůze nově zvolené rady města po ustavujícím zastupitelstvu" author="FB Piráti Boskovice" /%}
 
 ### Změny na železnici
 

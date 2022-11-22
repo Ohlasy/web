@@ -9,7 +9,7 @@ tags:
 
 *Připomínáme si studentskou demonstraci 17. listopadu 1989 a slavíme Kristova léta naší obnovené demokracie. Do toho veřejnou debatou v posledních dnech příznačně zahýbala vlna studentských stávek. Příznačně a patřičně.*
 
-{% photo src="https://i.ohlasy.info/i/2dddd5bb.jpg" caption="Školní stávky pro klima probíhají po celém světě, zde v Berlíně v září 2021" author="Molgreen, Wikimedia Commons" %}
+{% photo src="https://i.ohlasy.info/i/2dddd5bb.jpg" caption="Školní stávky pro klima probíhají po celém světě, zde v Berlíně v září 2021" author="Molgreen, Wikimedia Commons" /%}
 
 Stávky pořádá iniciativa Univerzity za klima a nespokojení studenti cílí svůj protest na nečinnost a strnulost společnosti v nejdůležitějším tématu naší současnosti – sílící klimatické krizi.
 

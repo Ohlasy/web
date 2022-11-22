@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Iniciativa Zelená peřina se rozhodla neváhat a brzy po volbách oslovila nové boskovické radní s dopisem, ve kterém žádá o změnu přístupu k živé přírodě v Boskovicích. Nový místostarosta Radek Šamšula (Piráti), který má péči o zeleň v gesci, chce vytvořit novou komisi.*
 
-{% photo src="https://i.ohlasy.info/i/94b1d44a.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/94b1d44a.jpg" author="Tomáš Znamenáček" /%}
 
 „Chceme apelovat na to, že vedle nutné údržby by bylo dobré posílit aktivity, které má odpovědný odbor v názvu – tedy péči a ochranu,“ píše Zelená peřina v úvodu svého dopisu. A vysvětluje, že s tímto úmyslem  iniciativa [před dvěma roky vznikla](https://ohlasy.info/clanky/2020/06/zelena-perina.html) a snažila se přinášet náměty právě na schůzky se zástupci odboru tvorby a ochrany životního prostředí.
 

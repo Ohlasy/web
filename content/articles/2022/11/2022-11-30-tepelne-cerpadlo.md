@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Tři roky se obyvatelé jednoho osmipatrového bytového domu na ulici Komenského ulici potýkali s boskovickým stavebním úřadem. Chystají se totiž postavit tepelné čerpadlo, které by nahradilo stávající připojení na centrální rozvody tepla známé pod zkratkou CZT. Stavební úřad jim vloni po dvou letech [odmítl na projekt vydat povolení](https://ohlasy.info/clanky/2021/05/czt-opravy.html) – a názor změnil až letos na základě odvolání.*
 
-{% photo src="https://i.ohlasy.info/i/ed2e0d77.jpeg" author="Tomáš Trumpeš" %}
+{% photo src="https://i.ohlasy.info/i/ed2e0d77.jpeg" author="Tomáš Trumpeš" /%}
 
 Odvolání ke krajskému úřadu podali obyvatelé domu, kteří nesouhlasili se zamítavým stanoviskem. A nadřízený orgán nakonec odmítavé rozhodnutí boskovického stavebního úřadu zrušil. „Věc mu vrátil k novému projednání,“ uvedla krajská mluvčí Alena Knotková s tím, že rozhodnutí krajského úřadu nabylo právní moci loni 22. prosince.
 
