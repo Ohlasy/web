@@ -74,7 +74,7 @@ Bavíme se tady o dotacích a chci jen za sebe říct, že nepřijímáme dotace
 
 A musím odpovědět, že ano. Stát podporuje i touto formou digitalizaci úřadu, protože kdybychom měli utratit třeba 16 milionů za zajištění kyberbezpečnosti, byla by to pro rozpočet poměrně velká částka. Co by tedy byl takový trochu postesk – administrace je z mého pohledu velmi náročná. Pokud by stát trošku zjednodušil dotační podmínky nebo požadavky na administraci, bylo by to ku prospěchu. Protože o dotace samozřejmě žádají i menší obce, které nemají takový odborný aparát a takové možnosti jako Boskovice.
 
-{% photo src="https://i.ohlasy.info/i/3836c643.png" caption="Boskovický Portál občana" %}
+{% photo src="https://i.ohlasy.info/i/3836c643.png" caption="Boskovický Portál občana" /%}
 
 ### Úřad jako služba občanům
 

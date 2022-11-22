@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Výrazně zvýšené ceny energií nedopadají jen na rozpočty domácností a firem, ale také na rozpočty měst a obcí, plus samozřejmě na všechny městské organizace. V Boskovicích může zdražení představovat několik desítek milionů korun.*
 
-{% photo src="https://i.ohlasy.info/i/og06ydy.jpg" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/og06ydy.jpg" author="Tomáš Znamenáček" /%}
 
 Boskovice mají energie nakoupené do konce letošního roku. Nyní řeší nákup na další rok přes svou společnost Služby, samostatně pak postupuje nemocnice. „Město“ v tomto případě neznamená jen městský úřad – nákup a zvýšená cena energií se týkají také Městské správy sociálních služeb, KZMB s několika budovami, všech provozů Služeb či základní a mateřské školy.
 
