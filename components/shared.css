@@ -362,8 +362,66 @@ a:hover {
   padding-bottom: -3px;
 }
 
-a.fancybox-close {
-  border: none;
+article hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Headers */
+
+.header-indented {
+  margin-bottom: 25px;
+}
+
+.main-header,
+.sidebar-header {
+  margin-top: 0;
+  line-height: 1.2em;
+}
+
+.sidebar-header {
+  font-weight: normal;
+  color: gray;
+}
+
+/* Tables */
+
+table {
+  border-collapse: collapse;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+td,
+th {
+  border-bottom: 1px solid #ddd;
+  padding: 0.5ex 1ex 0.5ex 1ex;
+}
+
+th {
+  border-bottom: 2px solid #ddd;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #eee;
+}
+
+/* Article Infobox */
+
+.article-info {
+  padding: 20px;
+  background: rgb(240, 240, 240);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-top: 1px solid silver;
+}
+
+.article-info ul {
+  margin-top: 10px;
+}
+
+.article-info .profile-picture {
+  margin-left: 0;
 }
 
 /* Image Captions */
@@ -382,6 +440,15 @@ a.fancybox-close {
 }
 
 /* Images & Video */
+
+.img-framed {
+  border: 1px solid #ddd;
+}
+
+article .img-responsive {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
 
 .profile-picture {
   background-repeat: no-repeat;
