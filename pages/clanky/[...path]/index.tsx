@@ -7,12 +7,13 @@ import { ParsedUrlQuery } from "querystring";
 import {
   Article,
   compareByDate,
-  getAllArticles,
   Metadata,
   readArticle,
+  stripBody,
 } from "src/article";
-import { Banner, getAllBannersCached } from "src/data-source/banners";
-import { Author, getAllAuthors } from "src/data-source/content";
+import { Banner } from "src/data-source/banners";
+import { getCachedData } from "src/data-source/cache";
+import { Author } from "src/data-source/content";
 import {
   articleRoot,
   getFilesRecursively,
@@ -136,15 +137,17 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
     throw `Cannot find article path for “${path.join("/")}”.`;
   }
   const article = readArticle(articlePath);
-  const author = await getAllAuthors().then(
-    (authors) => authors.find((a) => a.name === article.author)!
-  );
-  const banners = await getAllBannersCached();
-  const relatedArticles = getAllArticles(articleRoot)
+
+  const { banners, articles, authors } = await getCachedData();
+
+  const author = authors.find((a) => a.name === article.author)!;
+  const relatedArticles = articles
     .filter((a) => a.category === article.category)
     .filter((a) => a.date !== article.date)
     .sort(compareByDate)
+    .map(stripBody)
     .slice(0, 10);
+
   return {
     props: filterUndefines({ article, author, banners, relatedArticles }),
     revalidate: 300, // update every 5 minutes
