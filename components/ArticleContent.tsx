@@ -36,11 +36,11 @@ const Photo = ({ src, alt, author, caption }: PhotoProps) => {
         className="img-responsive"
       />
       {(author || caption) && (
-        <span className="img-meta">
+        <div className="img-meta">
           {caption}
           {caption && "  "}
           {author && <span className="img-author">foto: {author}</span>}
-        </span>
+        </div>
       )}
     </div>
   );
