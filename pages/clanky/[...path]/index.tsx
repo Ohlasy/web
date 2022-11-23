@@ -7,7 +7,6 @@ import { Layout } from "components/Layout";
 import { Author, getAllAuthors } from "src/data-source/content";
 import { Banner, getAllBannersCached } from "src/data-source/banners";
 import { BannerBox } from "components/BannerBox";
-import Head from "next/head";
 import {
   getFilesRecursively,
   getUrlPathFragmentsForFileSystemPath,
@@ -33,10 +32,6 @@ interface QueryParams extends ParsedUrlQuery {
 
 const Page: NextPage<PageProps> = ({ article, author, banners }) => (
   <Layout title={article.title}>
-    <Head>
-      {/* eslint-disable-next-line @next/next/no-css-tags */}
-      <link href="/article.css" rel="stylesheet" />
-    </Head>
     <main className="container">
       <div className="row article-row">
         <article className="col-md-8">
