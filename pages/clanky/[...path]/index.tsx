@@ -1,20 +1,25 @@
-import { GetStaticProps, GetStaticPaths, NextPage } from "next";
-import { ParsedUrlQuery } from "querystring";
-import { Article, readArticle } from "src/article";
-import { filterUndefines } from "src/utils";
 import { ArticleContent } from "components/ArticleContent";
-import { Layout } from "components/Layout";
-import { Author, getAllAuthors } from "src/data-source/content";
-import { Banner, getAllBannersCached } from "src/data-source/banners";
 import { BannerBox } from "components/BannerBox";
+import { Layout } from "components/Layout";
+import { PreviewNest9 } from "components/PreviewNest";
+import { GetStaticPaths, GetStaticProps, NextPage } from "next";
+import { ParsedUrlQuery } from "querystring";
 import {
-  getFilesRecursively,
-  getUrlPathFragmentsForFileSystemPath,
-} from "src/server-utils";
+  Article,
+  compareByDate,
+  getAllArticles,
+  Metadata,
+  readArticle,
+} from "src/article";
+import { Banner, getAllBannersCached } from "src/data-source/banners";
+import { Author, getAllAuthors } from "src/data-source/content";
 import {
   articleRoot,
+  getFilesRecursively,
   getFileSystemPathForUrlPathFragments,
+  getUrlPathFragmentsForFileSystemPath,
 } from "src/server-utils";
+import { endlessGeneratorOf, filterUndefines } from "src/utils";
 
 //
 // Page
@@ -24,26 +29,42 @@ type PageProps = {
   author: Author;
   article: Article;
   banners: Banner[];
+  relatedArticles: Metadata[];
 };
 
 interface QueryParams extends ParsedUrlQuery {
   path: string[];
 }
 
-const Page: NextPage<PageProps> = ({ article, author, banners }) => (
-  <Layout title={article.title}>
-    <main className="container">
-      <div className="row article-row">
-        <article className="col-md-8">
-          <Title article={article} />
-          <ArticleContent src={article.body} />
-          <InfoBox article={article} author={author} />
-        </article>
-        <Sidebar article={article} banners={banners} />
-      </div>
-    </main>
-  </Layout>
-);
+const Page: NextPage<PageProps> = ({
+  article,
+  author,
+  banners,
+  relatedArticles,
+}) => {
+  const bannerGenerator = endlessGeneratorOf(banners);
+  const getNextBanner = () => bannerGenerator.next().value;
+  return (
+    <Layout title={article.title}>
+      <main className="container">
+        <div className="row article-row">
+          <article className="col-md-8">
+            <Title article={article} />
+            <ArticleContent src={article.body} />
+            <InfoBox article={article} author={author} />
+          </article>
+          <Sidebar article={article} getBanner={getNextBanner} />
+        </div>
+      </main>
+      {relatedArticles.length >= 9 && (
+        <div className="container">
+          <h2 className="section-divider">další {article.category}</h2>
+          <PreviewNest9 articles={relatedArticles} getBanner={getNextBanner} />
+        </div>
+      )}
+    </Layout>
+  );
+};
 
 const Title: React.FC<Pick<PageProps, "article">> = ({ article }) =>
   article.category === "názory a komentáře" ? (
@@ -54,10 +75,12 @@ const Title: React.FC<Pick<PageProps, "article">> = ({ article }) =>
     <h2 className="main-header">{article.title}</h2>
   );
 
-const Sidebar: React.FC<Pick<PageProps, "article" | "banners">> = ({
-  article,
-  banners,
-}) =>
+type SidebarProps = {
+  article: Article;
+  getBanner: () => Banner;
+};
+
+const Sidebar: React.FC<SidebarProps> = ({ article, getBanner }) =>
   !!article.serial ? (
     <aside className="col-md-4 text-muted">
       <h2 className="sidebar-header">O seriálu</h2>
@@ -66,10 +89,10 @@ const Sidebar: React.FC<Pick<PageProps, "article" | "banners">> = ({
   ) : (
     <aside className="col-md-4 hidden-sm hidden-xs">
       <div className="box">
-        <BannerBox banner={banners[0]} />
+        <BannerBox banner={getBanner()} />
       </div>
       <div className="box">
-        <BannerBox banner={banners[1]} />
+        <BannerBox banner={getBanner()} />
       </div>
     </aside>
   );
@@ -117,8 +140,13 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
     (authors) => authors.find((a) => a.name === article.author)!
   );
   const banners = await getAllBannersCached();
+  const relatedArticles = getAllArticles(articleRoot)
+    .filter((a) => a.category === article.category)
+    .filter((a) => a.date !== article.date)
+    .sort(compareByDate)
+    .slice(0, 10);
   return {
-    props: filterUndefines({ article, author, banners }),
+    props: filterUndefines({ article, author, banners, relatedArticles }),
     revalidate: 300, // update every 5 minutes
   };
 };

@@ -50,3 +50,11 @@ export function notEmpty<TValue>(
 ): value is TValue {
   return value !== null && value !== undefined;
 }
+
+export function* endlessGeneratorOf<T>(items: T[]): Generator<T, T, unknown> {
+  let index = 0;
+  while (true) {
+    yield items[index];
+    index = (index + 1) % items.length;
+  }
+}

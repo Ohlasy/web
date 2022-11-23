@@ -3,7 +3,7 @@ import { PreviewNest5, PreviewNest9 } from "components/PreviewNest";
 import { GetStaticProps, NextPage } from "next";
 import { Banner, getAllBanners } from "src/data-source/banners";
 import { Route } from "src/routing";
-import { filterUndefines, shuffleInPlace } from "src/utils";
+import { endlessGeneratorOf, filterUndefines, shuffleInPlace } from "src/utils";
 import { ForumOverviewBox } from "components/ForumBox";
 import { getTopArticles, TopArticles } from "src/data-source/plausible";
 import { TopArticleBox } from "components/TopArticles";
@@ -112,17 +112,5 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
     revalidate: 300, // update every 5 minutes
   };
 };
-
-//
-// Helpers
-//
-
-function* endlessGeneratorOf<T>(items: T[]): Generator<T, T, unknown> {
-  let index = 0;
-  while (true) {
-    yield items[index];
-    index = (index + 1) % items.length;
-  }
-}
 
 export default Page;
