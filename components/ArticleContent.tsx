@@ -29,6 +29,7 @@ const Photo = ({ src, alt, author, caption }: PhotoProps) => {
     <div>
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
+        key={src}
         src={src}
         srcSet={getImageSrcSet(src, IMAGE_SIGNING_KEY)}
         alt={alt ?? caption ?? ""}
