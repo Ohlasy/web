@@ -3,7 +3,7 @@ title: „Přál bych si, aby prestiž úřednického statusu byla vyšší.“
 cover-photo: https://i.ohlasy.info/i/8dd508c1.jpg
 perex: Rozhovor s tajemníkem boskovického městského úřadu Davidem Škvařilem – o digitalizaci i samotném fungování úřadu, reputaci úředníků a trochu tajemné roli tajemníka.
 author: Tomáš Trumpeš
-category: podcasty
+category: podcast
 ---
 
 *Rozhovor s tajemníkem boskovického městského úřadu Davidem Škvařilem jsme točili pro podcast Ohlasů. Pozvali jsme ho u příležitosti spuštění [Portálu občana](https://www.boskovice.cz/portal-obcana-boskovice/d-45031), takže jsme se nejprve bavili o digitalizaci, pak o samotném fungování úřadu, reputaci úředníků a trochu tajemné roli tajemníka.*
