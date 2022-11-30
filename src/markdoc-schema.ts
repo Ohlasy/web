@@ -20,3 +20,15 @@ export const photo: Schema = {
     },
   },
 };
+
+export const spotify_episode: Schema = {
+  render: "SpotifyEpisode",
+  selfClosing: true,
+  attributes: {
+    id: {
+      type: String,
+      required: true,
+      errorLevel: "error",
+    },
+  },
+};

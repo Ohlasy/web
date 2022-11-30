@@ -1,6 +1,6 @@
 import React from "react";
 import Markdoc from "@markdoc/markdoc";
-import { photo } from "src/markdoc-schema";
+import { photo, spotify_episode } from "src/markdoc-schema";
 import { getImageSrcSet, IMAGE_SIGNING_KEY } from "src/utils";
 
 export type ArticleBodyProps = {
@@ -10,9 +10,11 @@ export type ArticleBodyProps = {
 
 export const ArticleContent = ({ src }: ArticleBodyProps) => {
   const syntaxTree = Markdoc.parse(src);
-  const content = Markdoc.transform(syntaxTree, { tags: { photo } });
+  const content = Markdoc.transform(syntaxTree, {
+    tags: { photo, spotify_episode },
+  });
   const node = Markdoc.renderers.react(content, React, {
-    components: { Photo },
+    components: { Photo, SpotifyEpisode },
   });
   return <>{node}</>;
 };
@@ -45,3 +47,19 @@ const Photo = ({ src, alt, author, caption }: PhotoProps) => {
     </div>
   );
 };
+
+type SpotifyEpisodeProps = {
+  id: string;
+};
+
+const SpotifyEpisode = ({ id }: SpotifyEpisodeProps) => (
+  <iframe
+    src={`https://open.spotify.com/embed/episode/${id}`}
+    width="100%"
+    height="352"
+    frameBorder="0"
+    allowFullScreen
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"
+  />
+);
