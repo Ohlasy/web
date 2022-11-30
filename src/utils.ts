@@ -1,3 +1,4 @@
+import Markdoc, { RenderableTreeNodes, Tag } from "@markdoc/markdoc";
 import crypto from "crypto";
 
 // TBD: We intentionally leak the key here, replace with server compontents
@@ -57,4 +58,29 @@ export function* endlessGeneratorOf<T>(items: T[]): Generator<T, T, unknown> {
     yield items[index];
     index = (index + 1) % items.length;
   }
+}
+
+export const stripMarkdown = (mdown: string) =>
+  renderPlainText(Markdoc.transform(Markdoc.parse(mdown)));
+
+function renderPlainText(node: RenderableTreeNodes): string {
+  if (typeof node === "string" || typeof node === "number") {
+    return String(node);
+  }
+
+  if (Array.isArray(node)) {
+    return node.map(renderPlainText).join("");
+  }
+
+  if (node === null || typeof node !== "object" || !Tag.isTag(node)) {
+    return "";
+  }
+
+  const { name, children = [] } = node;
+
+  if (!name) {
+    return renderPlainText(children);
+  }
+
+  return children.length ? renderPlainText(children) : "";
 }
