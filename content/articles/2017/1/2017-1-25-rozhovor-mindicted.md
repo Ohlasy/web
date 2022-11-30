@@ -81,7 +81,7 @@ tags: kultura hudba
 
 **Dejfunk:** Kdybych to dělal sám, tak nezvládnu ani zlomek toho, co zvládneme všichni dohromady.
 
-{% photo src="https://i.ohlasy.info/i/exdw1mc.jpg" author="Jan Kárl" %} 
+{% photo src="https://i.ohlasy.info/i/exdw1mc.jpg" author="Jan Kárl" /%} 
 
 **Dokázali byste nějak popsat hudbu, co děláte? Co vám přináší, a co by mohla přinášet lidem, kteří třeba ani nemají s tímto žánrem nějakou zkušenost?**
  

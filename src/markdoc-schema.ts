@@ -1,4 +1,4 @@
-import { Schema } from "@markdoc/markdoc";
+import { Schema, Config } from "@markdoc/markdoc";
 
 export const photo: Schema = {
   render: "Photo",
@@ -31,4 +31,8 @@ export const spotify_episode: Schema = {
       errorLevel: "error",
     },
   },
+};
+
+export const defaultMarkdocConfig: Config = {
+  tags: { photo, spotify_episode },
 };
