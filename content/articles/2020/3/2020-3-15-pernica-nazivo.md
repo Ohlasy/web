@@ -8,7 +8,7 @@ tags: kultura
 
 *Hostem dalšího setkání z cyklu Ohlasy naživo byl ve čtvrtek 12. března šéf brněnského kina Scala a předseda boskovické kulturní komise Radek Pernica. K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-podcast-6nVazZ&ge=s1!18a33a0100516c983ad0b5f3109799fc8ae2b107"></iframe>
+{% spotify_episode id="51hWlpSt1MU5Ox0hhzAYem" /%}
 
 S Radkem Pernicou jsme mluvili o jeho práci ve Scale a následně o jeho pohledu na boskovickou kulturu a její budoucí podobu a rozvoj. Rozhovor probíhal večer poté, co musel Radek přistoupit k jednomu z nejnepříjemnějších opatření své kinařské kariéry – kino uzavřít. Vláda vyhlásila nouzový stav a také Scala tím pádem musela přestat plánovat projekce alespoň pro diváky do 100 lidí. Co to bude pro kino, které za sebou nemá velkou instituci, ale provozuje ho malá soukromá firma, znamenat? To bylo logicky naším prvním tématem.
 

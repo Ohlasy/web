@@ -13,7 +13,7 @@ tags:
 
 *Hostem prvního setkání nového cyklu Ohlasy naživo byl ve čtvrtek 12. září boskovický místostarosta Lukáš Holík. K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-6nVazZ&ge=s1!98012a16f9976f2d5501c258f082457b204efd37"></iframe>
+{% spotify_episode id="3befQxG0SU1unTnGzklhDF" /%}
 
 Vzhledem k tomu, že se setkání konalo jen dva dny po jednání zastupitelstva, které rozhodlo o umístění sportovní haly na Hybešově ulici, nebylo možné vyhnout se tomuto tématu a bezprostředním reakcím na možná trochu nečekaný výsledek, kdy nejednotné koalici pomohli prosadit výslednou variantu lidovci. Jak Lukáš Holík prožíval vítězství varianty, kterou prosazoval? A může vůbec stávající koalice pokračovat po takovém rozporu?
 

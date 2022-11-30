@@ -1,7 +1,7 @@
 import React from "react";
 import Markdoc from "@markdoc/markdoc";
-import { photo, spotify_episode } from "src/markdoc-schema";
 import { getImageSrcSet, IMAGE_SIGNING_KEY } from "src/utils";
+import { defaultMarkdocConfig } from "src/markdoc-schema";
 
 export type ArticleBodyProps = {
   /** Markdoc source */
@@ -10,9 +10,7 @@ export type ArticleBodyProps = {
 
 export const ArticleContent = ({ src }: ArticleBodyProps) => {
   const syntaxTree = Markdoc.parse(src);
-  const content = Markdoc.transform(syntaxTree, {
-    tags: { photo, spotify_episode },
-  });
+  const content = Markdoc.transform(syntaxTree, defaultMarkdocConfig);
   const node = Markdoc.renderers.react(content, React, {
     components: { Photo, SpotifyEpisode },
   });
