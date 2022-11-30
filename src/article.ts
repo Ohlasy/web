@@ -1,8 +1,7 @@
 import matter from "gray-matter";
 import { withDefault } from "./decoding";
-import { remark } from "remark";
-import strip from "strip-markdown";
 import { getFilesRecursively } from "./server-utils";
+import { stripMarkdown } from "./utils";
 import fs from "fs";
 import {
   array,
@@ -137,13 +136,3 @@ export const stripBody = (article: Article): Metadata => {
   const { body, ...metadata } = article;
   return metadata;
 };
-
-/**
- * Remove Markdown tags, leaving just plain text
- *
- * TBD: We only import remark to do this, can we unify the Markdown processing
- * on a single package? Or can we leave the Markdown in and only remove it during
- * rendering?
- */
-const stripMarkdown = (mdown: string) =>
-  String(remark().use(strip).processSync(mdown));
