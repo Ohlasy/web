@@ -1,16 +1,22 @@
 import { parsePath, readArticle } from "./article";
 import { getFilesRecursively } from "./server-utils";
+import { defaultMarkdocConfig } from "./markdoc-schema";
+import Markdoc from "@markdoc/markdoc";
 
-test("Decode all articles", () => {
-  const articlePaths = getFilesRecursively("content/articles")
-    // Only take Markdown posts
-    .filter((path) => path.endsWith(".md"));
-  for (const path of articlePaths) {
-    try {
-      const _ = readArticle(path);
-    } catch (e) {
-      fail(`Article fails to decode: ${path}`);
-    }
+const allArticlePaths = getFilesRecursively("content/articles")
+  // Only take Markdown posts
+  .filter((path) => path.endsWith(".md"));
+
+test.each(allArticlePaths)("Decode %s", (path) => {
+  try {
+    const article = readArticle(path);
+    const syntaxTree = Markdoc.parse(article.body);
+    const bodyErrors = Markdoc.validate(syntaxTree, defaultMarkdocConfig)
+      // TBD: fix later
+      .filter((e) => e.error.id !== "child-invalid");
+    bodyErrors.forEach((e) => fail(e));
+  } catch (e) {
+    fail(`Article fails to decode`);
   }
 });
 

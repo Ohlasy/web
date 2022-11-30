@@ -16,11 +16,11 @@ Pověsti vyprávějí o mnoha podobných místech v krajině Čech a Moravy, kte
 
 V obrozeneckých časech devatenáctého století, kdy se snaha povznést vlastní národ na úroveň ostatních významných evropských národů prolínala s romantickými náladami návratu k přírodě, byla podobná (třeba jen zdánlivě) památná místa hojně navštěvována. Dělo se tak zřejmě i v případě Žižkova stolu u Lysic. Do jedné ze skalek je tam vyryt nápis: Saller 1832. Těžko říct, kdo oním návštěvníkem, který na skále zanechal svoje jméno, mohl být. Možná šlo o někoho z hostů na lysickém zámku. Vždyť z lysické Obory, v té době jistě mnohem upravenější než dnes a sloužící k romantickým procházkám, je to k Žižkovu stolu jen coby kamenem dohodil.
 
-{% photo src="https://i.ohlasy.info/i/8im3teq.jpg" %} 
+{% photo src="https://i.ohlasy.info/i/8im3teq.jpg" /%} 
 
 Rulové skály Žižkova stolu poznamenaly chladné klimatické výkyvy starších čtvrtohor. Mrazové zvětrávání je přemodelovalo v tzv. mrazové sruby. V jednom z nich se nachází dokonce náznak miniaturní jeskyňky. Štěňátko, které jsem si nedlouho před tím přivezl z Balkánů, muselo samozřejmě všechna tato místa důkladně prozkoumat. Vždyť na světě je toho tolik nového! Geomorfolog RNDr. Mojmír Hrádek v příslušné kapitole publikace Přírodní poměry Boskovicka upozorňuje, že na stěnách některých zdejších skal lze pozorovat i ležaté vrásy. Ty však smyslům štěněte unikají. Tak kdyby tam bylo něco voňavého.
 
-{% photo src="https://i.ohlasy.info/i/rsktf7e.jpg" %} 
+{% photo src="https://i.ohlasy.info/i/rsktf7e.jpg" /%} 
 
 Koruny buků v tom starém lese byly onoho srpnového dne již notně prořídlé. Dlouhotrvající sucho stromům na mělké půdě očividně neprospělo. Listí jim žloutlo, přestože do skutečného podzimu zbývalo ještě několik týdnů. Kromě buků rostou v tom ostrůvku suťového lesa ještě javor klen i mléč, jilm drsný čili horský a habr. Pozoruhodný je pak výskyt poměrně teplomilného keře brslene bradavičnatého, kterému se zde daří ve výšce téměř 600 metrů nad mořem!
 
