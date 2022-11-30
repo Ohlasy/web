@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s Janem Nádvorníkem, zastupitelem za Piráty. Mluvili jsme o opoziční pirátské politice v Boskovicích, o jeho osobní zkušenosti s politikou i pohledu na další vývoj v Boskovicích. Rozhovor proběhl v živém streamu Ohlasy naživo, kromě zvukového záznamu nabízíme i kompletní přepis.*
 
-<iframe src="https://open.spotify.com/embed/episode/53bFiyoBwRIWvc1UbA4wSt" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% spotify_episode id="53bFiyoBwRIWvc1UbA4wSt" /%}
 
 **Co tě přitáhlo ke komunální politice? Proč ses rozhodl do toho jít?**
 

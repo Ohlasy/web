@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Hanou Kvapilovou, spoluzakladatelkou občanské iniciativy Zelená peřina a také spoluautorkou návrhu, který zvítězil v loňském roce participativního rozpočtu – Louky v proluce. Rozhovor proběhl v živém streamu Ohlasy naživo, kromě zvukového záznamu nabízíme i kompletní přepis.*
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/4sREfe8Crqd6yRyOgEfszw" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% spotify_episode id="4sREfe8Crqd6yRyOgEfszw" /%}
 
 **Hanko, ty vlastníš malé knihkupectví v Boskovicích, jak ses vlastně od knih dostala k městské zeleni a ke svému občanskému angažmá?**
 

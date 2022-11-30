@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Viktorem Jurdičem, studentem sociologie, který se podílel na Týdnu veřejného prostoru, pořádaném boskovickými Piráty. Probrali jsme [výsledky](https://data.ohlasy.info/2021/verejny-prostor.pdf) a zjištění, které akce a s ní spojené sbírání názorů boskovických občanů přinesly, a taky Viktorův osobní pohled na Boskovice a na fungování veřejného prostoru. Rozhovor nabízíme v přepisu a zvukovém záznamu, najdete ho také v podcastových aplikacích.*
 
-<iframe src="https://open.spotify.com/embed/episode/4niEBb5wVtPe8mgNkprzg5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% spotify_episode id="4niEBb5wVtPe8mgNkprzg5" /%}
 
 **Co to vlastně je veřejný prostor?**
 

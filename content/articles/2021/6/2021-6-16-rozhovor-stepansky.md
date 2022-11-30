@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Danem Štěpánským, končícím jednatelem boskovické nemocnice, který byl hostem červnových Ohlasů naživo. Když jsme rozhovor plánovali, ještě jsme netušili, že bude nakonec bilanční. O to víc nám ale připadalo přínosné Dana Štěpánského na závěr jeho působení vyzpovídat. Rozhovor proběhl ve čtvrtek 10. června živém streamu, kromě zvukového záznamu nabízíme i kompletní přepis.*
 
-<iframe src="https://open.spotify.com/embed/episode/1OUKWPvcXbgF1DhIbrIAoT" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% spotify_episode id="1OUKWPvcXbgF1DhIbrIAoT" /%}
 
 **Pojďme se nejprve vrátit na začátek vašeho boskovického příběhu: jak jste se dostal k práci v boskovické nemocnici? Pokud se nepletu, jste přírodovědec – pracoval jste už předtím ve zdravotnictví? Nebo jak to přišlo?**
 
