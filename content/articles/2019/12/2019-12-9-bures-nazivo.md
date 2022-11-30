@@ -7,7 +7,7 @@ category: podcast
 
 *Hostem dalšího setkání nového cyklu Ohlasy naživo byl ve čtvrtek 5. prosince boskovický evangelický farář Jiří Bureš. K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-podcast-6nVazZ&ge=s1!33934fa4c2bf2e88e18b094230701a320e45a163"></iframe>
+{% spotify_episode id="1cUivYnhxyeTzS2KXPRdtI" /%}
 
 Rozhovor proběhl na počátku adventu a advent byl také úvodním tématem. Na co to v adventu vlastně čekáme? Na světlo? Nebo má advent také svůj hlubší význam a křesťané v něm předjímají i čekání na konec věků? A jaký význam může mít advent pro osobní duchovní cestu člověka?
 

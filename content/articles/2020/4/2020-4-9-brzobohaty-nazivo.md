@@ -9,7 +9,7 @@ tags: kultura koronavirus
 
 *Hostem dalšího setkání z cyklu Ohlasy naživo byl ve středu 8. dubna spoluzakladatel a ředitel firmy smsticket.cz a také jeden z členů výboru boskovického Unijazzu Oldřich Brzobohatý. K poslechu nabízíme rozhovor, který proběhl v kulturním a komunitním centru Prostor, tentokrát bez publika, ale jako součást [non-stop streamu Krmelec Prostor](http://krmelec.prostor.wtf).*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-podcast-6nVazZ&ge=s1!35b7c5c822f7becd75e7ca60e3dd47b6b83b424f"></iframe>
+{% spotify_episode id="3RENb9eK90KN08h5LYr6Gh" /%}
 
 Oldřich Brzobohatý ve své práci spojuje dvě oblasti silně postižené současnou koronavirovou krizí – byznys a kulturu. Jeho firma se zabývá prodejem vstupenek na společenské a kulturní akce. V úvodu rozhovoru jsme ho požádali, aby smsticket.cz krátce představil, zajímalo nás, jak dlouho firma funguje, jak je velká a také v jaké situaci a kondici ji zastihlo vyhlášení nouzového stavu v březnu.
 

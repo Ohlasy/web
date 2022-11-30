@@ -9,7 +9,7 @@ tags: politika
 
 *Hostem dalšího setkání cyklu Ohlasy naživo byl ve čtvrtek 16. ledna boskovický místostarosta Radek Mazáč (Sportovci). K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-podcast-6nVazZ&ge=s1!c140fdb5dfbedfdb146a7d3377656f8f26bd9cb7"></iframe>
+{% spotify_episode id="5a802Ss0KTbiz8LrZAlvWf" /%}
 
 Rozhovor místostarostou Radkem Mazáčem proběhl ve chvíli, kdy vrcholí příprava zadání klíčové sportovní investice – nové sportovní haly, která má stát na Hybešově ulici u národohospodářské školy.
 

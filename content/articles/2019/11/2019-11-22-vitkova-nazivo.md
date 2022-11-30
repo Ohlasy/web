@@ -9,7 +9,7 @@ tags: politika D43
 
 *Hostem dalšího setkání nového cyklu Ohlasy naživo byla ve čtvrtek 21. října senátorka Jaromíra Vítková (KDU-ČSL). K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-podcast-6nVazZ&ge=s1!6b19d7284fdea339412d137bba990c2f9545d112"></iframe>
+{% spotify_episode id="5GDbdXslkdYyR0zP0NTDsY" /%}
 
 Jaromíra Vítková působila po několik volebních období jako místostarostka Boskovic, po vítězných volbách v roce 2016 se přesunula do Senátu. Na debatě v Prostoru jsme jí proto na úvod ptali, co pro ni osobně znamenala tato životní a profesní změna.
 

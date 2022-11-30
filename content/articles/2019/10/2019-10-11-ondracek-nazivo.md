@@ -8,7 +8,7 @@ tags: architektura
 
 *Hostem dalšího setkání nového cyklu Ohlasy naživo byl ve čtvrtek 10. října architekt Petr Ondráček. K poslechu nabízíme úvodní rozhovor, který proběhl v kulturním a komunitním centru Prostor.*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-podcast-6nVazZ&ge=s1!6a99d92bdfed475b088e2734874a45821344898e"></iframe>
+{% spotify_episode id="1fQQ7gFSkgJGBy0tkt6ES7" /%}
 
 Petr Ondráček kromě samotného vykonávání své profese věnuje hodně přemýšlení a úsilí její popularizaci a snaze trochu nás tady v Boskovicích posunout ve vnímání architektury a veřejného prostoru. Návštěvníci našeho diskusního fóra dobře znají jeho poctivé a podrobné příspěvky, příklady úspěšných a pozoruhodných staveb z jiných měst a neúnavné vysvětlování všeho, co s architekturou a vůbec snahou dělat město lepším souvisí.
 

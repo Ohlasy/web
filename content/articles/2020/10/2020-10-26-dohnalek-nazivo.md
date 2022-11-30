@@ -9,7 +9,7 @@ tags: politika
 
 *Hostem Ohlasů naživo byl tentokrát boskovický starosta Jaroslav Dohnálek (ODS). V říjnu se volební období komunálních politiků přehouplo do své druhé poloviny, což je pravá chvíle na rozhovor s nejvýše postaveným politikem ve městě. Mluvili jsme o fungování koalice, dosavadní práci radnice a také o výhledu na komunální volby v roce 2022.*
 
-<iframe sandbox="allow-scripts allow-top-navigation" scrolling="no" width="100%" height="200" frameborder="0" src="https://embed.radiopublic.com/e?if=ohlasy-podcast-6nVazZ&ge=s1!47e05253b9470ebfa08f92a5a5eae3f2effc3986"></iframe>
+{% spotify_episode id="5xTeJ5wVdvjKnz2EpON5B0" /%}
 
 Na začátku rozhovoru jsme se ptali, jestli byla polovina volebního období pro starostu Boskovic příležitostí k zamyšlení a hodnocení a jestli si sám v poločase dělal bilanci dosavadního vládnutí. Především nás zajímalo, jak je spokojený s fungováním koalice, s jejím pracovním výkonem, ale také s tím, jak spojenectví ODS, ANO, Sportovců, TOP 09 a Boskováků funguje lidsky.
 
