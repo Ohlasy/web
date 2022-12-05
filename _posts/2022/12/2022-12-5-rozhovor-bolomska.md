@@ -76,7 +76,7 @@ Ne, naopak, my tu máme být od toho, aby se děti rozečetly, abychom je respek
 
 Stará literatura úplně nemizí, měla bych dodat, že máme určitý zlatý fond dětské literatury, který je stále živý a stále čtený. Akorát bychom potřebovali nová vydání těch knih. Protože pokud půjčuji Děti z Bullerbynu, které jsou staré třeba 40 let, tak si dovolím říct, že ta kniha je nechutná. 
 
-**Už prošla příliš mnoho čtenářskými rukami.**
+**Už prošla příliš mnoho čtenářskýma rukama.**
 
 Opravdu nevyhovuje z hygienických důvodů. A pokud bych měla nové vydání, tak je okamžitě čtenější než to starší vydání. 
 
