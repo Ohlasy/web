@@ -8,8 +8,7 @@ tags: koronavirus
 
 *Přesně před rokem se na Boskovicku poprvé prokázala nákaza koronavirem. Od té doby se potvrdila zhruba u desetiny všech obyvatel okresu a nemálo z nich také zemřelo. Ohlasy připomínají hlavní milníky i grafy vývoje epidemie.*
 
-<iframe title="Vývoj epidemie na Blanensku" aria-label="Interactive line chart" id="datawrapper-chart-2njGk" src="https://datawrapper.dwcdn.net/2njGk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+{% datawrapper_chart id="2njGk" title="Vývoj epidemie na Blanensku" /%}
 
 První březen roku 2020 se už nesmazatelně zapíše do historie České republiky jako den, kdy byly v zemi potvrzeny první případy nákazy koronavirem. Po jednotkách postupně přibývaly další případy, lidé i s mírnými příznaky okamžitě mířili do nemocnice. Okresu a celé jižní Moravě se ale nákaza ještě vyhýbala.
 

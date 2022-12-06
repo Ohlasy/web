@@ -42,9 +42,33 @@ export const youtube_video: Schema = {
       required: true,
       errorLevel: "error",
     },
+    aspect: {
+      type: Number,
+    },
+    title: {
+      type: String,
+    },
+  },
+};
+
+export const datawrapper_chart: Schema = {
+  render: "DatawrapperChart",
+  selfClosing: true,
+  attributes: {
+    id: {
+      type: String,
+      required: true,
+      errorLevel: "error",
+    },
+    version: {
+      type: Number,
+    },
+    title: {
+      type: String,
+    },
   },
 };
 
 export const defaultMarkdocConfig: Config = {
-  tags: { photo, spotify_episode, youtube_video },
+  tags: { photo, spotify_episode, youtube_video, datawrapper_chart },
 };

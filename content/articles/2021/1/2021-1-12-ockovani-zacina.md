@@ -37,7 +37,6 @@ Pokud se podíváme na statistiky onemocnění covidem, které vedou krajští h
 
 První úmrtí kvůli koronaviru na okrese Blansko zaznamenali hygienici na konci září, za tři měsíce se tento počet vyšplhal na necelé dvě stovky. Od jara, kdy se objevil první případ, se dosud na okrese nakazilo více než sedm tisíc lidí, necelých šest tisíc se jich vyléčilo.
 
-<iframe title="Vývoj epidemie na Blanensku na konci roku 2020" aria-label="Interactive line chart" id="datawrapper-chart-8dmHd" src="https://datawrapper.dwcdn.net/8dmHd/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+{% datawrapper_chart id="8dmHd" version="2" title="Vývoj epidemie na Blanensku na konci roku 2020" /%}
 
 Nemocní dál přibývají i v posledních prosincových a prvních lednových dnech. Na okrese Blansko hlásili krajští hygienici k pátku za uplynulý týden dalších téměř 800 nakažených, v celém Jihomoravském kraji téměř 8500. A plní se i nemocnice. „V absolutních číslech byl nárůst hospitalizovaných patrný velmi zřetelně v první polovině měsíce listopadu, následovaný pozvolným poklesem, stagnací a přechodnou nestabilitou. Během aktuálního týdne dochází k opětovnému nárůstu počtu hospitalizovaných.,“ hlásili hygienici k pátku 8. ledna. Na konci minulého týdne bylo v nemocnicích 818 pacientů s covidem, z toho 119 ve vážném stavu.

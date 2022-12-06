@@ -8,7 +8,7 @@ tags: odpady
 
 *Odpadová firma založená loni spolkem obcí na Malé Hané se nejspíš už od příštího roku rozroste o řadu obcí směrem na západ včetně sedmitisícových Letovic. V tak velkém městě zatím popeláři Malé Hané nejezdí.*
 
-<iframe title="Nakl&aacute;d&aacute;n&iacute; s odpady na Boskovicku" aria-label="choropleth map" id="datawrapper-chart-r7cK6" src="//datawrapper.dwcdn.net/r7cK6/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+{% datawrapper_chart id="r7cK6" version="6" title="Nakládání s odpady na Boskovicku" /%}
 
 „Všichni teď řeší staré smlouvy, je to docela euforie, denně mám čtyři až pět starostů na telefonu, chodím na zastupitelstva,“ uvedla před časem [v rozhovoru pro Ohlasy](https://ohlasy.info/clanky/2019/04/rozhovor-dockalova.html) Olga Dočkalová, sudická starostka a šéfka [Technických služeb Malá Haná](https://www.tsmh.cz), které fungují od začátku letošního roku. Starostka svými slovy narážela na fakt, že se jim podařilo rozjet odpadovou společnost a vyvázat se tak z područí v regionu dominantní nadnárodní firmy Suez.
 
