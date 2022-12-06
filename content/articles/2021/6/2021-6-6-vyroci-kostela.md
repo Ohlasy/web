@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Dokumentární film Místo, kde se mluví s Bohem vznikl u příležitosti 80. výročí postavení boskovického evangelického kostela. Zachycuje historické okolnosti, architektonické zajímavosti a také minulé i současné dění v kostele a jeho význam pro město.*
 
-<div class="force-hd-aspect"><iframe width="560" height="315" src="https://www.youtube.com/embed/kEnCtVnSIEI" title="YouTube video player" frameborder="0" allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{% youtube_video id="kEnCtVnSIEI" /%}
 
 Ve filmu účinkují farář Jiří Bureš, architekt Petr Ondráček, kurátorka farního sboru Marta Pražanová, muzejnice a politička Dagmar Hamalová a také pamětníci: Miloslav Daněk, který se otevření kostela účastnil jako devítiletý chlapec, Jana Boháčková ze Sudic a bývalý kurátor Josef Kostelecký, který se mimo jiné léta staral o zahradu u kostela.
 

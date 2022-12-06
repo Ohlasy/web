@@ -12,7 +12,7 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
   const syntaxTree = Markdoc.parse(src);
   const content = Markdoc.transform(syntaxTree, defaultMarkdocConfig);
   const node = Markdoc.renderers.react(content, React, {
-    components: { Photo, SpotifyEpisode },
+    components: { Photo, SpotifyEpisode, YouTubeVideo },
   });
   return <>{node}</>;
 };
@@ -60,4 +60,26 @@ const SpotifyEpisode = ({ id }: SpotifyEpisodeProps) => (
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
     loading="lazy"
   />
+);
+
+type YouTubeVideoProps = {
+  id: string;
+  aspect?: number;
+  title?: string;
+};
+
+const YouTubeVideo = ({
+  id,
+  aspect = 16 / 9,
+  title = "Přehrávač videa",
+}: YouTubeVideoProps) => (
+  <iframe
+    width="100%"
+    frameBorder="0"
+    style={{ aspectRatio: aspect, marginTop: "20px", marginBottom: "20px" }}
+    src={`https://www.youtube-nocookie.com/embed/${id}`}
+    title={title}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
 );
