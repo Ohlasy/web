@@ -33,6 +33,18 @@ export const spotify_episode: Schema = {
   },
 };
 
+export const youtube_video: Schema = {
+  render: "YouTubeVideo",
+  selfClosing: true,
+  attributes: {
+    id: {
+      type: String,
+      required: true,
+      errorLevel: "error",
+    },
+  },
+};
+
 export const defaultMarkdocConfig: Config = {
-  tags: { photo, spotify_episode },
+  tags: { photo, spotify_episode, youtube_video },
 };

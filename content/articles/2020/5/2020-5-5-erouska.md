@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Každý lék má vedlejší účinky. Platí to i pro plošná karanténní opatření, kterými jsme sice úspěšně zabránili nekontrolovanému šíření koronaviru, ale zároveň nás poškozují nejen ekonomicky, ale i společensky, kulturně nebo sociálně. Po úspěšném zvládnutí prvních týdnů epidemie proto musíme opatření co nejlépe zacílit tam, kde jsou skutečně potřeba.*
 
-<div class="force-hd-aspect"><iframe width="560" height="315" src="https://www.youtube.com/embed/q_3LmwoM7V8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{% youtube_video id="q_3LmwoM7V8" /%}
 
 Klíčovým úkolem této „chytré karantény“ je izolovat co nejrychleji všechny, kdo mohou být s vysokou pravděpodobností nakaženi, a nechat ostatní víceméně bez omezení. Když se nám to podaří, udržíme u nás dosavadní mírný průběh epidemie, aniž bychom museli dál výrazně omezovat běžný chod společnosti.
 

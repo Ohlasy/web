@@ -26,7 +26,7 @@ Byl bych rád, kdyby to pokračovalo. Na letošní léto máme naplánovaných n
 
 Budeme hrát můj repertoár, kluci mě doprovodí a dostanou určitě i svůj prostor. Vybral jsem svoje skladby, z nichž některé jsme hráli s Jurajem Valenčíkem, takže už je boskovičtí posluchači můžou znát. Ale některé skladby budou úplně nové. Plus přidáme můj obvyklý mandolinový repertoár a jazzové standardy, které oba muzikanti dobře znají. Rozhodně se pustíme i do úplné improvizace a budeme hrát opravdu svobodně.
 
-<div class="force-hd-aspect"><iframe class="vimeo" src="https://www.youtube.com/embed/q109UxgZJSw?showinfo=0"></iframe></div>
+{% youtube_video id="q109UxgZJSw" /%}
 
 ### Zásadní souznění
 
@@ -68,7 +68,7 @@ To by právě mohlo být. Takže uvidíme, co ukáže léto.
 
 Mám. Ten je připravený.
 
-<div class="force-hd-aspect"><iframe class="vimeo" src="https://www.youtube.com/embed/y0_KFaJN38M?showinfo=0"></iframe></div>
+{% youtube_video id="y0_KFaJN38M" /%}
 
 ### Všude se dá něco najít
 
@@ -124,7 +124,7 @@ Tady je díky tomu mandolinistů hodně, ale celkově myslím, že je to stejné
 
 Je to dost ojedinělé. Sem tam se někde v České republice objeví nějaká druhá výjimka, ale netrvá to obvykle dlouho. To, že to kdysi ředitel boskovické zušky Zdeněk Jindra povolil, byla výjimečná a úžasná věc. Mandolína takové rozšíření opravdu běžně nemá.
 
-<div class="force-hd-aspect"><iframe class="vimeo" src="https://www.youtube.com/embed/xc1uUz-SWCc?showinfo=0"></iframe></div>
+{% youtube_video id="xc1uUz-SWCc" /%}
 
 ### Čistý zvuk
 
