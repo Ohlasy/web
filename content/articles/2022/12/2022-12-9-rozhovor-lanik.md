@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Igorem Láníkem, výkonným ředitelem firmy Láník. Ta v posledních letech zaznamenala značný růst a kupříkladu letos koupila další firmu – tentokrát ve Spojených státech amerických. S Igorem Láníkem, který je spoluzakladatelem našich novin a v prvních letech je výrazně podporoval, jsme se proto v našem podcastu tentokrát bavili o firmě a také o energetické krizi a jejím dopadu na průmysl. Rozhovor nabízíme k četbě i poslechu.*
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7FdLZ01EmuqUSPWMGFuJ3Y" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% spotify_episode id="7FdLZ01EmuqUSPWMGFuJ3Y" /%}
 
 **Jak velká je dnes celkově firma Láník? V Boskovicích vidíme jen její část. Kolik máte zaměstnanců a jakého dosahujete obratu?**
 

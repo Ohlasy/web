@@ -10,7 +10,7 @@ tags:
 
 *Další díl opoziční ankety věnujeme jednomu tématu: návrhu rozpočtu města na rok 2023. Návrh už schválila městská rada, Ohlasy ho představily [v podrobném rozboru](https://ohlasy.info/clanky/2022/11/rozpocet.html) a nyní ho bude schvalovat zastupitelstvo. Svůj názor v anketě prezentují za koalici SPOLU Michaela Žejšková a za ČSSD Petr Malach. Zastupitel za SPD a Trikoloru svou odpověď Ohlasům nezaslal.*
 
-{% photo src="https://i.ohlasy.info/i/5be7ec3e.jpg" caption="Opoziční strany na ustavujícím zastupitelstvu" author="Tomáš Znamenáček" %}
+{% photo src="https://i.ohlasy.info/i/5be7ec3e.jpg" caption="Opoziční strany na ustavujícím zastupitelstvu" author="Tomáš Znamenáček" /%}
 
 **Jak hodnotíte návrh rozpočtu na rok 2023? Jste ochotní ho podpořit? Chybí vám v rozpočtu něco, nebo naopak přebývá? Jak hodnotíte základní parametry rozpočtu, přístup k investicím a jejich rozvržení?**
 

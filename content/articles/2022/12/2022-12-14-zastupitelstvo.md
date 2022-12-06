@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Na druhém jednání se sešli boskovičtí zastupitelé, kteří vzešli z podzimních komunálních voleb. Vzhledem k tomu, že první zastupitelstvo bylo ustavující, byla to tentokrát pro nové vedení města fakticky premiéra. Ústředním tématem zastupitelské diskuse byl [rozpočet na rok 2023](https://ohlasy.info/clanky/2022/11/rozpocet.html).*
 
-{% photo src="https://i.ohlasy.info/i/8ee9ff77.jpg" author="Zdeněk Tesař" %}
+{% photo src="https://i.ohlasy.info/i/8ee9ff77.jpg" author="Zdeněk Tesař" /%}
 
 V úvodu jednání složili zastupitelský slib dva zastupitelé, kteří na úvodním zastupitelstvu chyběli – Jan Nádvorník (Piráti) a Hana Nedomová (ČSSD).
 
