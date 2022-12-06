@@ -61,7 +61,7 @@ export const datawrapper_chart: Schema = {
       errorLevel: "error",
     },
     version: {
-      type: Number,
+      type: String,
     },
     title: {
       type: String,
