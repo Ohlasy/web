@@ -72,3 +72,10 @@ export function renderPlainText(doc: Node): string {
   }
   return output;
 }
+
+export function map<T, U>(
+  val: T | undefined | null,
+  f: (_: T) => U
+): U | undefined {
+  return val ? f(val) : undefined;
+}
