@@ -1,29 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import fetch from "node-fetch";
-
-export interface Article {
-  title: string;
-  author: string;
-  category?: string;
-  pubDate: string;
-  coverPhoto: string;
-  perex: string;
-  serial?: string;
-  relativeURL: string;
-  tags: string[];
-  numberOfWords: number;
-}
-
-export async function getArticleIndex(): Promise<Article[]> {
-  const response = await fetch("https://ohlasy.info/assets/articles.js");
-  let articles: Article[] = (await response.json()) as any;
-  for (let i = 0; i < articles.length; i++) {
-    if (articles[i].author == "Anna Dudková") {
-      articles[i].author = "Anna Dušilová";
-    }
-  }
-  return articles;
-}
+import { Article } from "src/article";
 
 export function groupBySelector<Key extends keyof any, Value>(
   values: Value[],
@@ -72,7 +48,7 @@ export function send(
       const value = await producer();
       response.setHeader(
         "Cache-Control",
-        "max-age=0, s-maxage=60, stale-while-revalidate=86400"
+        `s-maxage=3600, stale-while-revalidate`
       );
       response.setHeader("Access-Control-Allow-Origin", "*");
       response.setHeader("Content-Type", contentType);
