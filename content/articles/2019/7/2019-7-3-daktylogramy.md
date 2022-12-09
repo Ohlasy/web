@@ -9,7 +9,7 @@ tags: muzeum kultura
 
 *Daktylogramy – termín z oboru kriminalistiky – použil kunštátský malíř Vít Ondráček pro označení výtvarné techniky, již sám před lety vyvinul. Je to technika vyžadující mimořádnou virtuozitu.*
 
-<div class="force-43-aspect"><iframe class="vimeo" src="https://player.vimeo.com/video/172243877" allowfullscreen></iframe></div>
+{% youtube_video id="bnwACyQtZtU" aspect="4/3" /%}
 
 Vít Ondráček vystudoval obor grafika na Střední uměleckoprůmyslové škole u profesorů Ivana a Dalibora Chatrných. Soukromě se výtvarně vzdělával u svého strýce Raimunda Ondráčka, profesora restaurátorství na AVU v Praze, a Petra Skácela (bratra básníka Jana).  Věnuje se volné tvorbě v malbě, grafice, kresbě a ilustraci. Od roku 1997 žije a tvoří se svou ženou Janou v Kunštátě.
 
