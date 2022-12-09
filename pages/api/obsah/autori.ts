@@ -1,5 +1,6 @@
+import { getAllArticles } from "src/article";
+import { articleRoot } from "src/server-utils";
 import {
-  getArticleIndex,
   getArticlesByAuthor,
   sum,
   send,
@@ -7,7 +8,7 @@ import {
 } from "src/data-source/content-stats";
 
 export default send("text/csv", async () => {
-  const articles = await getArticleIndex();
+  const articles = getAllArticles(articleRoot);
   const stats = sum(getArticlesByAuthor(articles));
   return renderCSV(stats);
 });
