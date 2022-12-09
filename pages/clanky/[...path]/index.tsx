@@ -1,9 +1,12 @@
+import Markdoc from "@markdoc/markdoc";
 import { ArticleContent } from "components/ArticleContent";
 import { BannerBox } from "components/BannerBox";
 import { Layout } from "components/Layout";
 import { PreviewNest9 } from "components/PreviewNest";
+import fs from "fs";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import { ParsedUrlQuery } from "querystring";
+import React from "react";
 import {
   Article,
   compareByDate,
@@ -31,6 +34,7 @@ type PageProps = {
   article: Article;
   banners: Banner[];
   relatedArticles: Metadata[];
+  serialIntroPost?: string;
 };
 
 interface QueryParams extends ParsedUrlQuery {
@@ -42,6 +46,7 @@ const Page: NextPage<PageProps> = ({
   author,
   banners,
   relatedArticles,
+  serialIntroPost,
 }) => {
   const bannerGenerator = endlessGeneratorOf(banners);
   const getNextBanner = () => bannerGenerator.next().value;
@@ -54,7 +59,10 @@ const Page: NextPage<PageProps> = ({
             <ArticleContent src={article.body} />
             <InfoBox article={article} author={author} />
           </article>
-          <Sidebar article={article} getBanner={getNextBanner} />
+          <Sidebar
+            serialIntroPost={serialIntroPost}
+            getBanner={getNextBanner}
+          />
         </div>
       </main>
       {relatedArticles.length >= 9 && (
@@ -77,26 +85,33 @@ const Title: React.FC<Pick<PageProps, "article">> = ({ article }) =>
   );
 
 type SidebarProps = {
-  article: Article;
+  serialIntroPost?: string;
   getBanner: () => Banner;
 };
 
-const Sidebar: React.FC<SidebarProps> = ({ article, getBanner }) =>
-  !!article.serial ? (
-    <aside className="col-md-4 text-muted">
-      <h2 className="sidebar-header">O seriálu</h2>
-      <p>TBD: Serial sidebar</p>
-    </aside>
-  ) : (
-    <aside className="col-md-4 hidden-sm hidden-xs">
-      <div className="box">
-        <BannerBox banner={getBanner()} />
-      </div>
-      <div className="box">
-        <BannerBox banner={getBanner()} />
-      </div>
-    </aside>
-  );
+const Sidebar: React.FC<SidebarProps> = ({ serialIntroPost, getBanner }) => {
+  if (serialIntroPost) {
+    const document = Markdoc.transform(Markdoc.parse(serialIntroPost));
+    const renderTree = Markdoc.renderers.react(document, React);
+    return (
+      <aside className="col-md-4 text-muted">
+        <h2 className="sidebar-header">O seriálu</h2>
+        {renderTree}
+      </aside>
+    );
+  } else {
+    return (
+      <aside className="col-md-4 hidden-sm hidden-xs">
+        <div className="box">
+          <BannerBox banner={getBanner()} />
+        </div>
+        <div className="box">
+          <BannerBox banner={getBanner()} />
+        </div>
+      </aside>
+    );
+  }
+};
 
 // TBD: Add minimum box height for authors with no e-mail?
 const InfoBox: React.FC<Pick<PageProps, "author" | "article">> = ({
@@ -140,6 +155,12 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
 
   const { banners, articles, authors } = await getCachedData();
 
+  const serialIntroPost =
+    article.category === "seriály"
+      ? // TBD: Add path routing similar to Route
+        fs.readFileSync(`content/serials/${article.serial}.md`, "utf-8")
+      : undefined;
+
   const author = authors.find((a) => a.name === article.author)!;
   const relatedArticles = articles
     .filter((a) => a.category === article.category)
@@ -149,7 +170,13 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
     .slice(0, 10);
 
   return {
-    props: filterUndefines({ article, author, banners, relatedArticles }),
+    props: filterUndefines({
+      article,
+      author,
+      banners,
+      relatedArticles,
+      serialIntroPost,
+    }),
     revalidate: 300, // update every 5 minutes
   };
 };
