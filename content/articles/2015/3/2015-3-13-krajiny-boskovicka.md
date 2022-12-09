@@ -3,6 +3,7 @@ title: Krajiny Boskovicka
 category: seriály
 cover-photo: https://i.ohlasy.info/i/xlpcsrk.jpg
 author: Hynek Skořepa
+serial: krajiny
 ---
 
 *Následujícím seriálem článků bych rád přiblížil některé zajímavé lokality Boskovicka. Myslím, že i mnozí obyvatelé Boskovic se tak budou moci dočíst o zajímavých místech, která třeba vůbec neznají. Nebo je znají, ale dohromady o nich nic neví. Poslední pamětníci z časů, kdy mnozí místní lidé trávívali většinu dne prací na poli či v lese, nás postupně opouštějí. A s nimi se nenávratně ztrácejí i jejich vzpomínky. Nemnoho toho lze vyčíst o krajině Boskovicka v mapách a knihách.*
