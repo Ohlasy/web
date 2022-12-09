@@ -16,7 +16,7 @@ Rodina rabína Reicha opouštěla Československo za velmi dramatických okolnos
 
 Podrobnosti z útěku a z obtížných začátků v Anglii popisuje Eva Morris v dokumentu Naděje, který natočili před 10 lety studenti boskovického gymnázia. Tento dokument se souhlasem gymnázia i boskovického muzea zveřejňujeme:
 
-<div class="force-hd-aspect"><iframe class="vimeo" src="https://player.vimeo.com/video/138508742" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+{% youtube_video id="d348Hyi-U_k" /%}
 
 Po válce Eva Morris odjela do ustavujícího se státu Izrael. Na besedě v židovském obecním domě vzpomínala na moment, kdy pochopila, že do svého rodného města už se nevrátí, protože Boskovice už budou prázdné, už v nich nebudou žádní Židé. Nakonec se Eva Morris do Boskovic znovu podívala na konci 80. let, ale tato návštěva nedopadla příliš dobře. „Společnost na to tehdy ještě nebyla připravená,“ konstatovala na besedě boskovická přítelkyně paní Morris, Jaroslava Patloková.
 
