@@ -1,4 +1,4 @@
-import axios from "axios";
+import fetch from "node-fetch";
 
 export interface TransactionResponse {
   transactions: Transaction[];
@@ -29,14 +29,17 @@ async function call<T>(
 ): Promise<T> {
   const baseUrl = "https://www.darujme.cz/api/v1/organization/1200499";
   const endpoint = baseUrl + "/" + path;
-  const response = await axios.get(endpoint, {
-    params: {
-      apiId,
-      apiSecret,
-      ...params,
-    },
-  });
-  return extract(response.data);
+  const response = await fetch(
+    endpoint +
+      "?" +
+      new URLSearchParams({
+        apiId,
+        apiSecret,
+        ...params,
+      })
+  );
+  const json = await response.json();
+  return extract(json);
 }
 
 export async function getTransactions(
