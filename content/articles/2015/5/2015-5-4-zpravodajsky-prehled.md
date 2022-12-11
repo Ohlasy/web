@@ -1,10 +1,13 @@
 ---
 title: "Zpravodajský přehled: duben"
 cover-photo: https://i.ohlasy.info/i/vfs7cn4.jpg
-excerpt: "Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v dubnu na Boskovicku událo."
 category: zpravodajství
 author: Tomáš Trumpeš
 ---
+
+*Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v dubnu na Boskovicku událo.*
+
+{% photo src="https://i.ohlasy.info/i/vfs7cn4.jpg" /%}
 
 První [razantnější změny v uspořádání boskovické radnice](/clanky/2015/04/personalni-zmeny-radnice.html) schválilo nové vedení města. Odcházejí tak dva dosavadní šéfové odborů: Eva Siverová a Pavel Musil.
 

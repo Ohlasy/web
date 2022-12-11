@@ -3,8 +3,9 @@ title: Zpravodajský přehled za prosinec
 category: zpravodajství
 author: Tomáš Trumpeš
 cover-photo: https://i.ohlasy.info/i/m97i7mh.jpg
-excerpt: "Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v prosinci na Boskovicku událo."
 ---
+
+*Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v prosinci na Boskovicku událo.*
 
 {% photo src="https://i.ohlasy.info/i/m97i7mh.jpg" author="Marek Osouch" /%}
 

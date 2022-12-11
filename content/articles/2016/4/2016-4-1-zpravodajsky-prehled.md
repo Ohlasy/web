@@ -3,8 +3,11 @@ title: Zpravodajský přehled za březen
 author: Tomáš Trumpeš
 cover-photo: https://i.ohlasy.info/i/p7tqfrp.jpg
 category: zpravodajství
-excerpt: Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v březnu na Boskovicku událo.
 ---
+
+*Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v březnu na Boskovicku událo.*
+
+{% photo src="https://i.ohlasy.info/i/p7tqfrp.jpg" /%}
 
 Po únorovém zastupitelstvu se v Boskovicích řešila kauza znaleckého posudku na pozemek tzv. Dvořáčkova mlýna. Posudek zpracoval opoziční zastupitel [Jiří Pevný](/clanky/2016/03/rozhovor-pevny.html), na kterého vzápětí boskovičtí radní na námět [Milana Kolínského](/clanky/2016/03/rozhovor-kolinsky.html) podali podnět ke krajskému soudu. Rozhovory s oběma muži rozkrývají jejich přístup k celé věci a hlavně dosti beznadějně zablokované vztahy boskovické opozice a koalice.
 

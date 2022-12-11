@@ -3,7 +3,7 @@ title: Podávání přihlášek na střední školy finišuje
 category: zpravodajství
 cover-photo: https://i.ohlasy.info/i/cwhf2yf.jpg
 author: Andrea Šrámková
-excerpt: "Povinná školní docházka jim v červnu skončí. Nyní stojí před definitivním rozhodnutím, kterou školu vyplní na přihlášku k přijímacím zkouškám, respektive na které škole by rádi získali odborné vzdělání a nasměrovali tak své profesní uplatnění. Řeč je o současných deváťácích."
+perex: "Povinná školní docházka jim v červnu skončí. Nyní stojí před definitivním rozhodnutím, kterou školu vyplní na přihlášku k přijímacím zkouškám, respektive na které škole by rádi získali odborné vzdělání a nasměrovali tak své profesní uplatnění. Řeč je o současných deváťácích."
 tags: vzdělávání
 ---
 

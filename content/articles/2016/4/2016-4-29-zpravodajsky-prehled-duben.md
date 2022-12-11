@@ -3,8 +3,11 @@ title: Zpravodajský přehled za duben
 author: Tomáš Trumpeš
 category: zpravodajství
 cover-photo: https://i.ohlasy.info/i/zdsgeo2.jpg
-excerpt: Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v dubnu na Boskovicku událo.
 ---
+
+*Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v dubnu na Boskovicku událo.*
+
+{% photo src="https://i.ohlasy.info/i/zdsgeo2.jpg" /%}
 
 Jasnější podobu dostává projekt na [výstavbu Centra polytechnického vzdělávání](/clanky/2016/04/centrum-technicke-vychovy.html) v jámě po zrušené stavbě haly na Slovákově ulici. Stojí Centrum za investici desítek milionů korun, nebo je [stavíme jen proto, že jsou na ně zrovna dotace](/clanky/2016/04/rozhovor-provaznik.html)?
 
