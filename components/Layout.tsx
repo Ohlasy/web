@@ -18,6 +18,7 @@ export const Layout: React.FC<LayoutProps> = ({ title, children }) => {
         <meta charSet="utf-8" />
         <title>{title}</title>
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+        <link rel="me" href={Route.toMastodon} />
       </Head>
       <NavBar />
       {children}
