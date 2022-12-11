@@ -16,6 +16,7 @@ export const Route = {
   toForumTopic: getTopicUrl,
   // External routes
   toFacebook: "https://www.facebook.com/ohlasy",
+  toMastodon: "https://boskovice.social/@ohlasy",
   toVercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
   toArchive: "http://archiv.ohlasy.info",
   toForum: "https://forum.ohlasy.info",
