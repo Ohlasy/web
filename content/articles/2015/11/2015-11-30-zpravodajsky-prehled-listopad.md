@@ -2,9 +2,12 @@
 title: Zpravodajský přehled za listopad
 author: Tomáš Trumpeš
 cover-photo: https://i.ohlasy.info/i/rr3lmkp.jpg
-excerpt: "Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v listopadu na Boskovicku událo."
 category: zpravodajství
 ---
+
+*Výběr nejdůležitější událostí minulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v listopadu na Boskovicku událo.*
+
+{% photo src="https://i.ohlasy.info/i/rr3lmkp.jpg" /%}
 
 Krajský úřad [potvrdil nesouhlasné stanovisko](/clanky/2015/11/pansky-dvur.html), kterým boskovická úřednice pro výkon státní památkové péče zamezila rekonstrukci Panského dvora. Firma Pražská 5 má již prakticky jedinou možnost, pokud chce rekonstrukci v plánované podobě prosadit – obrátit se na soud.
 

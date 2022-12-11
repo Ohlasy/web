@@ -1,10 +1,13 @@
 ---
 title: "Zpravodajský přehled: březen"
 cover-photo: https://i.ohlasy.info/i/sn5psyd.jpg
-excerpt: Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v březnu na Boskovicku událo.
 category: zpravodajství
 author: Tomáš Trumpeš
 ---
+
+*Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v březnu na Boskovicku událo.*
+
+{% photo src="https://i.ohlasy.info/i/sn5psyd.jpg" /%}
 
 Boskovická rada oznámila, že o osudu sportovní haly na Slovákově ulici rozhodne červnová schůze zastupitelstva. Do té doby mají být shromážděny a vyhodnoceny všechny podklady tak, aby zastupitelé mohli fundovaně určit, zda se od stavby upustí, nebo se bude pokračovat. [Názory samotných sportovců se evidentně různí](/clanky/2015/03/anketa-sportovni-hala.html).
 

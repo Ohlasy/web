@@ -1,10 +1,13 @@
 ---
 title: Zpravodajský přehled za únor
 cover-photo: https://i.ohlasy.info/i/pr9rxn3.jpg
-excerpt: Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v únoru na Boskovicku událo.
 category: zpravodajství
 author: Tomáš Trumpeš
 ---
+
+*Výběr nejdůležitější událostí uplynulého měsíce v Boskovicích a okolí podle redakce Ohlasů. Přečtěte si stručný zpravodajský přehled toho nejpodstatnějšího, co se v únoru na Boskovicku událo.*
+
+{% photo src="https://i.ohlasy.info/i/pr9rxn3.jpg" /%}
 
 Na zasedání zastupitelstva se [vyhrotily vztahy koalice a opozice](/clanky/2016/02/zastupitelstvo.html). Slib složil nový zastupitel Tomáš Pléha, byly schváleny změny rozpočtu představující mimo jiné investici do letního kina.
 

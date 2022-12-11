@@ -2,7 +2,7 @@
 title: „Rumunská kultura je současně tradiční i moderní, západní i východní, klasicky harmonická i romanticky bouřlivá.“
 author: Vít Boček
 cover-photo: https://i.ohlasy.info/i/1pofjaj.jpg
-excerpt: "Rozhovor s PhDr. Libuší Valentovou, CSc., rodačkou z Knínic, která většinu svého života zasvětila studiu rumunské kultury a její propagaci v naší zemi. Libuše Valentová se věnuje především rumunské literatuře, vedle vlastní vědecké práce v oboru literární historie a kritiky se zabývá rovněž překlady z díla vybraných rumunských (a také francouzských) autorů."
+perex: "Rozhovor s Libuší Valentovou, rodačkou z Knínic, která většinu svého života zasvětila studiu rumunské kultury a její propagaci v naší zemi."
 category: seriály
 serial: jazyk
 tags: kultura
