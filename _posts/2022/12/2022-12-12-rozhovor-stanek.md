@@ -1,6 +1,7 @@
 ---
 title: „Vypnutí diskuse na Facebooku byla naprostá hloupost.“
 cover-photo: https://i.ohlasy.info/i/5583cfa7.jpg
+perex: Rozhovor s Martinem Staňkem, studentem práv a členem boskovické ODS. Bavili jsme se o příčinách volební porážky koalice SPOLU a také o její budoucnosti.
 author: Tomáš Trumpeš
 category: podcast
 ---
