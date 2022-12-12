@@ -17,6 +17,7 @@
  * + Output progressive PNGs and JPEGs
  */
 import { NextApiRequest, NextApiResponse } from "next";
+import { IMAGE_SIGNING_KEY } from "src/utils";
 import fetch from "node-fetch";
 import sharp from "sharp";
 import crypto from "crypto";
@@ -24,8 +25,6 @@ import crypto from "crypto";
 const maxInputFileSize = 30_000_000;
 const maxInputPixelSize = 7_000;
 const maxOutputPixelSize = 7_000;
-
-const hashSecret = process.env.IMGPROXY_KEY;
 
 function shasum(message: string) {
   var shasum = crypto.createHash("sha1");
@@ -65,7 +64,7 @@ export default async (
       return;
     }
 
-    const payload = `${srcUrl}:${strWidth}:${hashSecret}`;
+    const payload = `${srcUrl}:${strWidth}:${IMAGE_SIGNING_KEY}`;
     const proof = request.query.proof;
     if (typeof proof !== "string" || proof !== shasum(payload)) {
       send(401, "Authentication proof missing or invalid");
