@@ -62,12 +62,13 @@ export const getPodcastEpisodes = async (path: string) =>
 export function convertEpisodeToPodcastItem(
   episode: PodcastEpisode
 ): iTunesShowEpisode {
-  const { title, description, duration, url, bytes, date } = episode;
+  const { title, description, duration, url, bytes, date, image } = episode;
   return {
     title,
     description,
     duration,
     pubDate: new Date(date),
+    image,
     guid: {
       value: url,
       isPermaLink: true,
