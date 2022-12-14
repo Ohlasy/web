@@ -154,10 +154,11 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
   const { path } = params!;
   const articlePath = getFileSystemPathForUrlPathFragments(path);
   if (!articlePath) {
-    throw `Cannot find article path for “${path.join("/")}”.`;
+    console.error(`Cannot find article path for “${path.join("/")}”.`);
+    return { notFound: true };
   }
-  const article = readArticle(articlePath);
 
+  const article = readArticle(articlePath);
   const { banners, articles, authors } = await getCachedData();
 
   const serialIntroPost =
