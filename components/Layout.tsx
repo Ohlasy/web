@@ -2,6 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import { Route } from "src/routing";
 import { Dosis } from "@next/font/google";
+import Script from "next/script";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
@@ -20,6 +21,10 @@ export const Layout: React.FC<LayoutProps> = ({ title, children }) => {
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         <link rel="me" href={Route.toMastodon} />
       </Head>
+      <Script
+        data-domain="ohlasy.info"
+        src="https://plausible.io/js/script.outbound-links.js"
+      />
       <NavBar />
       {children}
       <Footer />
