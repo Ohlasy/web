@@ -1,0 +1,32 @@
+---
+title: "Příběhy z ghetta: Moje stolpersteine"
+cover-photo: https://i.ohlasy.info/i/dbd41187.jpg
+category: seriály
+serial: ghetto
+author: Helena Janíková
+tags:
+    - židovská čtvrť
+    - historie
+---
+
+*Aby nedošlo k omylu, milí přátelé, stolpersteine, o kterých vám dnes chci vyprávět, nejsou moje. Název jsem si vypůjčila od paní Blanky Dvořáčkové, která tak nazvala vzpomínky na své židovské boskovické předky, jejichž osud se tragicky naplnil v době holocaustu.*
+
+{% photo src="https://i.ohlasy.info/i/7c32b7c1.jpg" caption="Zleva Terezie, Leopold, Sofie, Moris a Hanuš Grünwaldovi" author="archiv Muzea regionu Boskovicka" /%}
+
+Právě z iniciativy paní Dvořáčkové byly v Boskovicích na ulici Plačkova před domem č. 35 umístěny čtyři stolpersteine, věnované příslušníkům rodiny Grünwaldů, ze které pochází maminka boskovické rodačky, paní Dvořáčkové. Mnozí z vás slovo stolpersteine a jeho význam znají, pro ty ostatní si dovolím malé vysvětlení.
+
+Slovo *stolpersteine* je německého původu a skládá se ze slovesa *stolpern* (klopýtnout) a *Steine* (kameny). V kostrbatém překladu do češtiny se tedy jedná o kameny, o něž by měl člověk klopýtnout. V našem prostředí se však používá termín *kameny zmizelých*. Jedná se o dlažební kostky vsazené do chodníků před domy obětí holocaustu a nacistického režimu. Na povrchu betonové kostky je mosazná destička se základními životními údaji o zavražděných obyvatelích příslušného domu. Původně šlo o projekt německého výtvarníka Guntera Demniga, který své první kameny vsadil do dlažby v roce 1995 v Kolíně nad Rýnem a v Berlíně; postupně se tento nápad rozšířil nejen v Německu, ale i v mnoha zemích Evropy.
+
+V Česku se začaly kameny zmizelých umisťovat od roku 2008, poprvé v pražském Josefově, dnes je nalézáme například v Brně, Olomouci, Liberci, Kroměříži a řadě dalších měst. Od 12. září 2018 mají své místo rovněž v Boskovicích.
+
+Dejme teď slovo paní Blance Dvořáčkové, která s rodiči strávila nejranější dětství v Boskovicích, tatínek Eduard Dvořáček vyučoval češtinu na boskovickém gymnáziu, později se rodina přestěhovala do Brna, kde paní Blanka stále žije, pracuje jako zdravotní sestra a pečuje o svou maminku.
+
+„Cesta k položení kamenů zmizelých – stolpersteine naší rodiny nebyla jednoduchá. Podobně jako v jiných rodinách, i v naší panovalo určité tabu o hrůzách 2. světové války, které rodina prožila. O židovství jsem v dětství neměla žádné povědomí, až postupně, s přibývajícím věkem a jinými okolnostmi, jsem se s touto skutečností začala seznamovat. Někde hluboko ve skříni leželo album fotek krásných lidí, o kterých jsem nic nevěděla, jen to, že z jejich života zůstaly zašlé fotografie, jinak nic… Občas jsem album vytáhla na světlo, ale nedokázala ani otočit pár stránek. Ta představa, co prožili, byla tak bolestná, že jsem album zavřela a uložila opět na dno skříně. Jen zřídka a opatrně jsem se pokoušela od maminky získat informace, jak to vlastně bylo s celou naší rodinou Grünwaldových. Informace byly velmi kusé: nevrátili se z koncentráku. A tak šel čas, a já cítila, že je třeba pro tyto zmizelé rodinné příslušníky alespoň něco udělat. Začala jsem pátrat v dostupných pramenech a s pomocí informací z databáze holocaust.cz, z archívů a také z knihy Jaroslava Bránského Osud židů z Boskovic a bývalého okresu boskovického 1939–1945 jsem dala dohromady potřebné informace.
+
+Rodina Grünwaldova pocházela z Boskovic. Můj praděda Leopold Grünwald se oženil s Terezií Goldstern, která také pocházela z Boskovic. Leopold zemřel v roce 1933 a je pohřben na boskovickém židovském hřbitově. Na jeho pomníku je vytesán znak levitů. Leopold a Terezie měli 7 dětí: Kamilu, Davida, Malvínu, Mořice, Lea, Armina a Siegfrida. David zemřel před válkou a Siegfridovi se podařilo složitými cestami uprchnout do Anglie a zachránil si tak život. Po válce žil s rodinou v Austrálii. Armin měl mezinárodní pas, se kterým by pravděpodobně mohl včas odjet do zahraničí, avšak zůstal s rodinou. Se svojí ženou Lilly byl rozveden, podařilo se jí včas uprchnout do Švýcarska. Armin už tolik štěstí neměl. Tento rodák z Boskovic (narozen 1895) byl deportován z Brna do Terezína a posléze do tábora Izbica, kde zahynul. Jeho kámen můžeme spatřit v Brně na náměstí Svobody č. 12. 
+
+Jaké byly osudy dalších členů početné rodiny Grünwaldů? Do transportu navzdory vysokému věku musela nastoupit matka Terezie, ročník 1860, kterou smrt zastihla 1942 v Treblince; svůj kámen má v Boskovicích. Bylo uvedeno, že syn David zemřel již před válkou, zůstala však jeho vdova Malvína, rozená Mandlová, žijící tehdy v Tišnově, zavražděna byla v táboře Rejowiec a památka na ni v podobě kamene je v Tišnově, Dvořáčkova 66. Další z dětí Leopolda a Terezie Grünwaldových byla dcera, která se jmenovala rovněž Malvína, provdaná Haderová, žijící v této přetěžké době v Brně. Odtud se přes Terezín dostala do tábora Izbica, kde nepřežila. Svůj stolpersteine má v Brně, na náměstí Svobody č. 12. Z Boskovic pocházel také syn Mořic, narozen 1890, transporty se z Boskovic dostal nejdříve do Brna, pak do Terezína, nakonec umučen ve Varšavě. Kámen zmizelých v Boskovicích, Plačkova 35. Mořic měl manželku Žofii, rozenou Solomnowitz, narozena 1888 v Bučovicích, z Boskovic deportována stejným způsobem jako manžel Mořic, stejně tak zahynula ve Varšavě. Stolpersteine v Boskovicích. Neméně krutý byl i osud jejich syna Hanuše, ten se narodil roku 1925 v Ostravě, naposledy však bydlel v Boskovicích, odkud byl deportován rovněž přes Terezín do Varšavy, kde zahynul a jeho kámen se nachází také v Boskovicích.
+
+A tak z celé mé rodiny přežil hrůzy holocaustu pouze můj dědeček Leo a má maminka Gertruda. Oba byli deportováni nejprve do Prahy do Hagiboru, následně do Terezína, kde je osvobodila Rudá armáda. S pomocí Červeného kříže se dostali do Prahy a pak do Boskovic. Dědečka Lea jsem zažila už jen v jeho seniorském věku, vím, že vystudoval reálné gymnázium, pracoval v bance a jako mladý se zúčastnil 1. světové války. Moje maminka vystudovala obchodní školu a živila se jako účetní.“
+
+Tolik ze vzpomínek paní Blanky Dvořáčkové, která neúnavně pátrá po osudech svých předků a díky ní jsou stolpersteine umístěny v Brně i v Boskovicích a ona ve své činnosti pokračuje dál. A tak, moji milí čtenáři těchto řádků, až budete procházet ulicí Plačkovou, zastavte se, prosím, před domem číslo 35 a věnujte tichou vzpomínku rodině Grünwaldů, která zde kdysi žila a byla ve své většině krutě vyvražděna.

@@ -1,0 +1,36 @@
+---
+title: "Ministr kultury Zaorálek: V knihovnách se jen nepůjčují knihy, pěstuje se tam kultura"
+cover-photo: https://i.ohlasy.info/i/52d5ae8c.jpg
+perex: Boskovice navštívil ministr kultury Lubomír Zaorálek (ČSSD), dostali jsme příležitost promluvit s ním o přípravách stavby boskovické knihovny a významu knihoven obecně.
+author: Tomáš Trumpeš
+category: zpravodajství
+tags: knihovna
+---
+
+*Více peněz pro rozvoj kultury v regionech, tedy i na stavbu knihoven včetně té boskovické, chce do rozpočtu ministerstva kultury na příští rok získat jeho šéf Lubomír Zaorálek (ČSSD). Redakce Ohlasů s ním o přípravách boskovické knihovny a významu knihoven obecně mluvila při jeho návštěvě města ve čtvrtek 16. července.*
+
+{% photo src="https://i.ohlasy.info/i/b88cc147.jpeg" author="FB Lubomíra Zaorálka" /%}
+
+Knihovnictví zjevně patří k ministrovým stěžejním tématům. Jestli se však tento zájem přetaví v konkrétní dotační titul, ze kterého by na stavbu mohly čerpat i Boskovice, není zatím jisté. 
+
+S projektem na boskovické komunitní centrum s knihovnou měl ministr kultury možnost seznámit se už před časem, když ho na ministerstvu navštívila delegace z Boskovic vedená místostarostou Lukášem Holíkem (ANO). Boskovice plánují postavit knihovnu odhadem za 114 milionů korun, a to se těžko obejde bez podpory státu. „Pro mě je tento požadavek Boskovic důležitý argument, který používám i na vládě. Boskovice jsou jedním z více míst, které se obracejí na stát s tím, že jim chybí peníze na budování společenského a kulturního centra a že stát nemá pravidelný dotační titul, který by jim v tom pomohl,“ vysvětluje Lubomír Zaorálek. Nyní existuje program na podporu kulturní regionální infrastruktury, ale doteď fungoval s minimem peněz a ministr by si přál ho povýšit. V srpnu povede jednání s ministryní financí o rozpočtu na příští rok a bude se snažit, aby do programu přišly „nějaké slušné peníze“.
+
+Rozhovory s ministryní financí nebudou podle Lubomíra Zaorálka jednoduché – už proto, že sám má podobných záměrů víc. Mimo jiné navýšení fondu na podporu regionální kultury, kupříkladu orchestrů, divadel či muzeí. „Pro mě je velké téma a priorita právě podpora regionů,“ říká ministr kultury. A to jak podpora uměleckých souborů, tak podpora výstavby kulturních stánků. „Toto jsou dva důležité pilíře pro podporu regionální kultury. Vycházím z toho, že tady žije deset milionů lidí a kultura nemůže být jen v hlavních centrech.“ Proto není podle ministra možné strpět, že poslední, kdo tady budoval kulturní domy, byli komunisté v šedesátých letech. Boskovice mu slouží jako jeden z příkladů, že tady je tlak a zájem zespodu, aby stát něco dělal.
+
+### Knihovny jako místo setkávání
+
+Význam knihoven v životě měst a obcí si Lubomír Zaorálek silně uvědomil během posledních měsíců, když jako ministr kultury jezdí po republice. Proto rozhodně nesouhlasí s názorem, že knihovny patří do minulosti nebo že by se měly omezit na jakési výdejní okýnko, kde čtenářům vydají objednanou knihu. „Trend je zcela opačný,“ zdůrazňuje. Během svých cest navštívil velké a úspěšné knihovny, jako třeba v Hradci Králové či v Liberci, ale i dobře fungující knihovny v menších obcích. Krásným příkladem je podle něj právě Liberec, kde je knihovna skutečným centrem kulturního života. Do knihovny tam přijde 1500 lidí denně. Když probíhala anketa, lidé se vyjadřovali, že se zde velice dobře cítí. „Mladí odpovídali, že tam nacházejí klid a ticho. A to je strašně dobře.“ 
+
+Podobně fungují i menší knihovny, které ministr navštívil, třeba ve Větrném Jeníkově. Zde se dokonce zastupitelstvo malé obce rozhodlo, že budou dávat 70 tisíc korun ročně na nákup nových knih. „Knihovna se stává něčím víc než výdejním místem na knihy. Pořádají se tam akce, lidé se tam scházejí. V některých obcích je to jediné místo, kde se mohou sejít,“ popisuje Lubomír Zaorálek. Obce si často stěžují, že by potřebovaly knihovny rozšířit, protože jim praskají ve švech.
+
+Knihovna je podle něj zajímavá tím, že je to nekomerční místo. To mu často říkají i knihovníci, že u nich neplatí zákony světa kolem a informace se zde dají pořídit velmi levně. A to je důležité pro celou řadu lidí, pro které je těžké si kupovat knihy a dostat se k informacím. Knihovny slouží seniorům i školákům. Šikovní knihovníci navíc lidem s literaturou a s prací s informacemi pomáhají. „Skoro bych řekl, že je učí číst. Učí je rozumět knihám. Je to docela zábavné a baví to i děti. V knihovnách se nejen půjčují knihy, ale opravdu se tam pěstuje kultura. Mladí se tam učí vztahu ke knihám.“
+
+Ministr se proto domnívá, že knihovny by měly být daleko víc provázány se školstvím. Proto podepsal memorandum s ministrem školství Robertem Plagou. Snaží se společně, aby se knihovny staly integrální součástí vzdělávání. Má to být  jedna z cest k tomu, abychom výchovu a vzdělávání začali pojímat daleko plastičtěji, barevněji a pestřeji než jen jako pobývání ve škole. Díky knihovnám je možné o vzdělávání uvažovat daleko modernějším a progresivnějším způsobem.
+
+Knihovny navíc umí vzdělávat lidi ve všech věkových kategoriích a sehrály kupříkladu důležitou roli v budování internetové gramotnosti u starších lidí. „Myslím, že nikdo jiný to takto nedokázal,“ poukazuje ministr kultury. Knihovny tak pomáhají lidem zvládat moderní svět, přiblížit se mu a naučit se v něm pohybovat. Unikátní síť šesti tisíc knihoven v České republice proto pokládá za významný dar. „To je jedna z výhod této země. Jako má ochotnická divadla, tak má knihovny.“
+
+Právě nyní knihovny po sto letech ožívají. Ministr kultury se v řadě obcí setkává s tím, že knihovny mají i pro politiky skutečně velký význam. Jeden ze starostů osmitisícového města mu nedávno řekl: „Krize nekrize, knihovna je zásadní věc. Garantuji vám, že na té šetřit nebudeme. To bych tady skončil.“ V obcích, které opravdu žijí a lidé se zde setkávají, jsou právě kulturní instituce jako knihovny klíčové. Knihovny se tak právě nyní stávají spíše důležitější, což by si podle ministra kultury měli všichni uvědomovat a knihovnám se snažit pomoci.
+
+„Nejen že knihovny nejsou zastaralé. Je to naopak něco, co my máme za povinnost začlenit do současného světa. Jinak ho nebudeme zvládat. Je to neuvěřitelné, ale to, co tady vzniklo před sto lety, je najednou velký pomocník. Knihovny nám pomáhají zvládat současný svět – pokud to správně uchopíme a nebudeme se toho bát,“ myslí si ministr kultury Lubomír Zaorálek.
+
+V knihovnách se setkal se spoustou chytrých a vzdělaných lidí, kteří svou práci dělají opravdu dobře, jenže ji dělají sice s velkou chutí, ale za velmi málo peněz. „To mě mrzí a narážím na to jako na nepříjemnou věc.“ Zároveň podle něj nemůže ministerstvo nařídit zvýšení platů, aniž by bylo schopno městům a obcím zajistit adekvátní navýšení rozpočtů. Tohle je úkol, se kterým bude nutné se také poprat. „Získal jsem pocit, že hřešíme na to, že ti lidé to dělají z lásky k věci. Zneužíváme toho, že mají tu práci tak rádi, že neutečou, ani když je velmi mizerně zaplatíme. To není fér, to by stát neměl dělat,“ říká ministr kultury s tím, že se tento stav snaží změnit, ačkoliv to nyní v čase recese není lehké. Hrozí ale, že zejména mladí lidé, kteří zakládají rodiny, budou muset z knihovnictví odejít. „Toto je také v sázce. Pokud má ten nástroj být funkční, musí tam být lidé, kteří ho umí používat. A to taky není každý,“ uzavírá Lubomír Zaorálek.

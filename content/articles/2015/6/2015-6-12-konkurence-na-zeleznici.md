@@ -1,0 +1,31 @@
+---
+title: Konkurence na železnici a školní výlety aneb Postřehy učitele
+category: názory a komentáře
+cover-photo: https://i.ohlasy.info/i/3svqio4.jpg
+author: Hynek Skořepa
+tags: železnice doprava vzdělávání
+---
+
+*Od dubna letošního roku jsme se od Českých drah dočkali ne zrovna příjemných změn týkajících se skupinových jízdenek. Slevy pro skupiny zajímají samozřejmě nejvíc učitele i všechny ostatní, kteří pracují s mládeží, a nevzdali dosud snahu tuto mládež vytáhnout od rozsvícených obrazovek (dnes už především těch počítačových) někam ven.*
+
+{% photo src="https://i.ohlasy.info/i/3svqio4.jpg" /%}
+
+Mnozí ještě matně pamatují, jak to chodívalo za reálného socialismu – objednávání skupin dopředu, seznamy účastníků, pro každého sčítací lístek, složité potvrzování chybějících u průvodčího po každém přestupu a nakonec dohadování se s dráhou (tehdy ČSD) o vrácení peněz za ty, kteří z nějakého důvodu nejeli.
+
+Pak přišla blažená léta svobody. Stačilo přijít na nádraží čtvrthodinku před odjezdem vlaku, spočítat děti a koupit cenově výhodnou skupinovou jízdenku. Při zakoupení zpáteční jízdenky jste se mohli vracet libovolným vlakem, stačilo, že jel po příslušné trati. Od dubna 2015 je ale všechno jinak. Pokud cestujete v menším počtu, třeba s rodinou, stále si můžete koupit skupinovou jízdenku za zvýhodněnou cenu. Nadále platí, že první cestující ve skupině zaplatí plné obyčejné jízdné, druhý obdrží slevu cca 25 % z obyčejného jízdného, třetí až pátý jede za polovic. Kde jsou však ty nedávné přívětivé časy, kdy za polovic jel každý další až do počtu třiceti?
+
+Chcete-li výhodnou slevu pro větší skupinu, můžete ji mít. Přepravu však musíte objednat předem buď na pokladně, nebo vyplněním elektronického formuláře na webu Českých drah. Po schválení objednávky obdržíte transakční kód, který pak potřebujete při vlastním nákupu jízdenek.  Jízdenky musíte zakoupit nejpozději 48 hodin před odjezdem (na pokladně či elektronicky), jinak objednávka propadne. Již oněch 48 hodin předem platíte za plný počet objednaných jízdenek, i když jste třeba už mezi tím zjistili, že vám jedna či dvě dušičky nepojedou. Po návratu pak požadujete u dráhy (ČD) vrácení peněz za ty, kteří nejeli.
+
+Se skupinovou jízdenkou získáváte sice zdarma zároveň bezplatné vyhrazení míst v konkrétním vlaku. Když však přijdete na nádraží, zjistíte si z obrázku řazení vlaku, že váš vagón má být druhý, on pak třeba přijede předposlední (když lokomotivu v rychlosti zařadili na opačný konec) a vy už nemáte čas s dětmi přebíhat. Není-li tedy vlak doslova narvaný k prasknutí, sednete si, kde se dá. To jsou ovšem jen drobné lapálie.
+
+Za největší problém považuji fakt, že kupujete jízdenku na zcela konkrétní vlak. Cestou tam to je ještě celkem jedno, obvykle odjíždíte podle plánu. Při návratu však mohou vzniknout komplikace. Stačí, když se někde zdržíte či naopak potřebujete třeba v případě deště změnit program a odjet dřív. Prostě to nejde.
+
+Při hlubším zamyšlení je uvedené opatření Českých drah vcelku pochopitelné a je nutné ho připsat na vrub konkurenci soukromých dopravců na železnici. Ano, oné konkurenci, od které jsme očekávali zlepšení služeb a zpříjemnění podmínek pro cestující. Jak je to možné? Vysvětlení je jednoduché. Když chcete jet s RegioJetem pana Jančury či jiným soukromým dopravcem na hlavních tratích, nemůžete přijít jen tak na nádraží a počkat si na vlak. Jízdenku musíte mít objednanou předem (nejlépe přes internet, protože pokladny těchto dopravců jsou jen na velkých nádražích). To se to pak panu Jančurovi přistavují vagóny podle počtu rezervovaných míst. Přesto je prý RegioJet na trati Praha – Ostrava ve ztrátě (aspoň jsem zahlédl noticku tohoto znění v Hospodářských novinách). České dráhy tam svými „akčními“ jízdenkami ovšem taky nehrají úplně čistou hru. Zřejmě tam všichni konkurenti jen čekají, kdo vydrží nejdéle, než se ti ostatní položí. A bude po konkurenci, ceny půjdou nahoru. Obávám se, že máme nakročeno na „polskou“ cestu, kde po příchodu soukromých dopravců v podstatě zkolabovala doprava na regionálních tratích. Chcete-li se někam dostat, musíte přes Varšavu. Jinudy to prostě nejde, i když v minulosti přímější spojení existovalo. A když se pak chcete vracet z Polska domů, zjistíte, že bez předchozího zakoupení místenky do mezinárodního vlaku prostě nesmíte.
+
+I u nás jsou zvýhodňováni cestující na hlavních tratích, pasažéři jedoucí mezi krajskými městy či v rámci určitého kraje. Pokud bydlíte na venkově a potřebujete ještě k tomu přejet kousek do sousedního kraje, máte smůlu. Slevy se na vás nevztahují (pokud tedy nemáte zákaznickou InKartu ČD).
+
+Že by se dala čekat změna k lepšímu, pokud by provoz na regionálních tratích převzali soukromníci, se nezdá. Dobře se pamatuji, jak před pár lety začaly žluté vlaky páně Jančurovy zastavovat v Ústí nad Orlicí (na zastávce Ústí nad Orlicí město, dobře dostupné z centra). Měl to být jeden z pokusů přetrumfnout České dráhy, jejichž expresní vlaky zastavují v nedaleké České Třebové. RegioJet vydržel stavět v Ústí ani ne pár měsíců, rychle se ukázalo, že se to ekonomicky nevyplatí, lepší je být o pár minut dřív v Ostravě. A to jste si ty lístky museli koupit dopředu. Inu, reálný kapitalismus. Oč svobodnější jste se kupodivu mohli cítit v socialistických časech, kdy stačilo přijít na nádraží a tam vám prodali lístek do kterékoliv železniční stanice tehdejšího Československa. A bez počítače! Stačilo nahlédnout do objemné, na stroji psané knihy, kde šlo vyhledat kilometrové vzdálenosti do libovolného místa v síti ČSD, třeba i po různých trasách.
+
+Ale zpět ke školním výletům. České dráhy dlouhodobě čelily výtkám, že jejich vlaky bývají přeplněné a nepohodlné. No jistě, když nebylo dopředu známo, kolik lidí pojede, jak chcete přistavit příslušný počet vagónů. A školní výlety situaci komplikovaly nejvíc, tak se dráhy rozhodly ji řešit. Skupiny mladých, školní či jiné, tak ovšem ztratily část své svobody.
+
+A kdo to vlastně nejvíc odnesl? No přece český (moravský, slezský) učitel. Na něm je, aby vše zařídil. Není proto divu, že mnozí kantoři prohlašují, že se na dráhu můžou vykašlat. Raději si objednají autobus a aspoň během jízdy budou bez starostí. Nebo raději rovnou zůstanou sedět ve škole. Uhlídat děti je stále těžší.

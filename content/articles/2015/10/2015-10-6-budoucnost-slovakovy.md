@@ -1,0 +1,22 @@
+---
+title: V jámě na Slovákově bude nejspíš centrum polytechnického vzdělávání
+cover-photo: https://i.ohlasy.info/i/dlqqebv.jpg
+author: Tomáš Trumpeš
+category: zpravodajství
+tags:
+    - sportovní hala
+---
+
+*Asi třicítka lidí se sešla v pondělí ve čtyři hodiny odpoledne v zámeckém skleníku, aby se zúčastnila veřejného projednání záměru na využití stavební jámy, která zbyla po nezdařeném pokusu postavit sportovní halu na rohu ulic Bílkova a Slovákova. Když odpočteme zastupitele, zaměstnance úřadu a novináře, ukáže se, že zájem veřejnosti byl mizivý. Představeny byly tři varianty na využití prostoru staveniště, jasnou prioritu má však evidentně ta poslední – vybudovat na místě centrum polytechnické výchovy a vzdělávání.*
+
+{% photo src="https://i.ohlasy.info/i/ocqtdps.jpg" author="Město Boskovice" /%}
+
+Vedení města představilo stručně také zbylé dva záměry: odpočinkový park s jezírkem za 7,5 milionu korun a hřiště pro tenis a volejbal za 9 milionů. Obě tyto varianty by město muselo financovat z vlastních zdrojů. Třetí možnost je sice nejdražší, vzdělávací centrum má stát 35 milionů korun, je však velká šance, že by na něj Boskovice získaly dotaci z takzvaných evropských peněz ve výši 90 procent nákladů. Snaha vymyslet projekt, který by se dal napasovat na předpokládané dotační tituly v novém plánovacím období, také stála u zrodu celé myšlenky. „Toto řešení není práce jednotlivce, navrhl ho vedoucí odboru pan Zouhar, ale až na základě toho, že jsme byli konzultovat možnosti na Jihomoravském kraji v Centru regionálního rozvoje, abychom věděli, jaké jsou možnosti. Nejprve jsme posháněli informace ohledně nových dotačních titulů, pročetli jsme si nové programovací období a podle toho jsme přizpůsobovali naše myšlenky,“ odpověděla starostka Hana Nedomová na dotaz, jak záměr vzniknul a kdo je jeho autorem.
+
+Centrum polytechnické výchovy a vzdělávání by provozovala boskovická základní škola. V odpoledních hodinách by prostory mohly využívat i další organizace pro volnočasové aktivity. A co všechno záměr zahrnuje? Jedná se především o přístavbu školy, která by poskytovala prostor pro výuku žáků v technických a řemeslných oborech. Centrum by rovněž sloužilo pro výuku přírodovědných oborů a environmentální výchovy. Kromě budovy s dílnami by součástí areálu byl i biotop s jezírkem a zahradní skleník se záhony pro pěstování rostlin. „Celá stavba by měla být příkladem úsporné ekologické architektury realizované z přírodních materiálů jako je dřevo a kámen, měly by tam být zelené střechy, a co největší důraz by měl být kladen na malou spotřebu energií a co nejnižší náklady,“ popsal na setkání vedoucí odboru rozvoje města a investic Petr Zouhar. Kromě toho by na okraji ulice Bílkova vzniklo asi 15 nových parkovacích míst.
+
+Výhodou dotačních titulů, se kterými se pro realizaci záměru počítá, je možnost využití peněz na kompletní vybudování celého projektu – tedy od úprav exteriéru, přes výstavbu budovy, až po její vnitřní vybavení, včetně pomůcek pro výuku. „Byli jsme ujištěni, že příští rok by měly být vypsány konkrétní výzvy a bylo nám ústy zástupkyně Centra regionálního rozvoje sděleno, že tak pěkný návrh ještě nemají a že v rámci okresu Blansku bychom byli jedno z prvních měst, které by takovou stavbu mělo,“ pochvalovala si první odezvu na záměr starostka Hana Nedomová. Pokud by se vše podařilo, stavba by byla dokončena v roce 2017 či 2018. Svou podporu záměru vyjádřil i ředitel boskovické základní školy Vladimír Ochmanský. „Z navrhovaných tří variant by pro nás ta třetí byla nejlepší,“ vyjádřil se ředitel školy. Zpochybnil společně s dalšími pouze myšlenku, že by součástí centra mohla být i diskutovaná lezecká stěna.
+
+Jiné návrhy na využití prostoru na Bílkově na setkání prakticky nezazněly, snad s výjimkou nafukovací tělocvičny pro potřeby na sport zaměřené základní školy. Té podobné prostory pro tělesnou výchovu chybí, stávající tělocvičné zázemí je nedostačující. Tento návrh však vedení města odmítá s tím, že občané dali jasně najevo, že podobnou budovu si v lokalitě nepřejí.
+
+Všechny návrhy na využití jámy na Slovákově ulici budou předloženy k finálnímu rozhodnutí zastupitelstvu na posledním letošním zasedání 8. prosince. To bude mít poslední slovo. „Já myslím, že bychom dalším generacím dětí, které mají zájem dělat něco rukama, měli toto umožnit,“ shrnula svůj postoj k třetí a nejrozsáhlejší variantě starostka Hana Nedomová. Největší počet hlasů ze tří navrhovaných záměrů získalo centrum polytechnické výchovy a vzdělávání také od občanů v anketě na webu města.

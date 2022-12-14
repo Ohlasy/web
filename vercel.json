@@ -1,54 +1,33 @@
 {
-    "redirects": [
-        {
-            "source": "/podcast.xml",
-            "destination": "/podcast/feed.xml"
-        },
-        {
-            "source": "/podcast.html",
-            "destination": "/podcast/"
-        },
-        {
-            "source": "/odpady.ics",
-            "destination": "https://calendar.google.com/calendar/ical/66le85f8os6tp1fnf8k2mtfunc%40group.calendar.google.com/public/basic.ics"
-        },
-        {
-            "source": "/go/cisla",
-            "destination": "https://www.notion.so/ohlasy/Ohlasy-v-slech-0cce47372104440485ff3ddeb90705c3"
-        },
-        {
-            "source": "/go/petiletka",
-            "destination": "https://data.ohlasy.info/2019/vyrocni-zprava.pdf"
-        },
-        {
-            "source": "/go/pripadovka",
-            "destination": "https://data.ohlasy.info/2021/pripadovka.pdf"
-        },
-        {
-            "source": "/darujte",
-            "destination": "https://www.darujme.cz/projekt/1202392"
-        },
-        {
-            "source": "/darujme",
-            "destination": "https://www.darujme.cz/projekt/1202392"
-        },
-        {
-            "source": "/rozhovory",
-            "destination": "https://www.darujme.cz/vyzva/1203372"
-        }
-    ],
-    "headers": [
-        {
-            "source": "/assets/articles.js",
-            "headers": [
-                {
-                    "key": "Access-Control-Allow-Origin",
-                    "value": "*"
-                }
-            ]
-        }
-    ],
-    "github": {
-        "silent": true
+  "redirects": [
+    {
+      "source": "/podcast.html",
+      "destination": "/podcast/"
+    },
+    {
+      "source": "/go/cisla",
+      "destination": "https://www.notion.so/ohlasy/Ohlasy-v-slech-0cce47372104440485ff3ddeb90705c3"
+    },
+    {
+      "source": "/go/petiletka",
+      "destination": "https://data.ohlasy.info/2019/vyrocni-zprava.pdf"
+    },
+    {
+      "source": "/go/pripadovka",
+      "destination": "https://data.ohlasy.info/2021/pripadovka.pdf"
+    },
+    {
+      "source": "/darujte",
+      "destination": "https://www.darujme.cz/projekt/1202392"
+    },
+    {
+      "source": "/darujme",
+      "destination": "https://www.darujme.cz/projekt/1202392"
     }
+  ],
+  "github": {
+    "silent": true
+  },
+  "devCommand": "next dev",
+  "framework": "nextjs"
 }
