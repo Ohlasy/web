@@ -61,7 +61,7 @@ export const PreviewNest5: React.FC<PreviewNestProps> = ({
         <BigArticlePreview article={articles[0]} type="fullheight" />
       </div>
       <div className="col-sm-8 visible-xs">
-        <BigArticlePreview article={articles[0]} />
+        <ArticlePreview article={articles[0]} />
       </div>
       <div className="col-sm-4 hidden-xs">
         <div className="box">
