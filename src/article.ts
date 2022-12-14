@@ -41,7 +41,10 @@ export const decodeMetadata = record({
   title: string,
   author: string,
   perex: string,
-  coverPhoto: field("cover-photo", optional(string)),
+  coverPhoto: field(
+    "cover-photo",
+    withDefault(string, "https://i.ohlasy.info/i/a5c62deb.jpg")
+  ),
   tags: withDefault(array(string), []),
   serial: optional(string),
   featured: withDefault(boolean, false),

@@ -2,7 +2,7 @@ import { NextApiRequest, NextApiResponse } from "next";
 import { Article, compareByDate, getAllArticles, stripBody } from "src/article";
 import { getArticlePath } from "src/routing";
 import { articleRoot } from "src/server-utils";
-import { getSignedResizedImage, IMAGE_SIGNING_KEY, map } from "src/utils";
+import { getSignedResizedImage, IMAGE_SIGNING_KEY } from "src/utils";
 
 export default async (
   request: NextApiRequest,
@@ -22,9 +22,10 @@ function addAuxiliaryData(article: Article) {
     ...stripBody(article),
     "numberOfWords": countWords(article.body),
     "relativeURL": getArticlePath(article),
-    // TBD: Replace optionality with default value
-    "cover-photo": map(article.coverPhoto, (url) =>
-      getSignedResizedImage(url, 640, IMAGE_SIGNING_KEY)
+    "cover-photo": getSignedResizedImage(
+      article.coverPhoto,
+      640,
+      IMAGE_SIGNING_KEY
     ),
     "cover-photo-src": article.coverPhoto,
   };

@@ -21,15 +21,12 @@ export const BigArticlePreview: React.FC<ArticlePreviewProps> = ({
           </div>
         </div>
         <div className="col-sm-8">
-          {/* TBD: Replace optionality with a default value */}
-          {article.coverPhoto && (
-            <div
-              className="force-feature-aspect"
-              style={{
-                backgroundImage: `url(${thumbnail(article.coverPhoto)})`,
-              }}
-            />
-          )}
+          <div
+            className="force-feature-aspect"
+            style={{
+              backgroundImage: `url(${thumbnail(article.coverPhoto)})`,
+            }}
+          />
         </div>
       </Link>
     </div>
@@ -43,15 +40,12 @@ export const ArticlePreview: React.FC<ArticlePreviewProps> = ({
   <div className={`article-preview article-preview-middle ${type}`}>
     <Link href={Route.toArticle(article)}>
       <div className="force-hd-aspect">
-        {/* TBD: Replace optionality with a default value */}
-        {article.coverPhoto && (
-          /* eslint-disable-next-line @next/next/no-img-element */
-          <img
-            src={thumbnail(article.coverPhoto)}
-            className="img-responsive"
-            alt=""
-          />
-        )}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={thumbnail(article.coverPhoto)}
+          className="img-responsive"
+          alt=""
+        />
       </div>
       <Title {...article} />
     </Link>
