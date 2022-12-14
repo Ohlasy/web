@@ -118,6 +118,7 @@ export default async (
     response.setHeader("Content-Type", contentType);
     response.status(200).send(out);
   } catch (e) {
+    response.setHeader("Content-Type", "text/plain");
     response.status(500).send(`Error: ${e}`);
   }
 };
