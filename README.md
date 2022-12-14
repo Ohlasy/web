@@ -4,7 +4,7 @@ Kód je uvolněn pod [licencí MIT](https://opensource.org/licenses/MIT). Na tex
 
 ## Technické řešení
 
-Web je statický, hostovaný na [Vercelu](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss) a generovaný pomocí [Jekylla](http://jekyllrb.com). Zde je uložené pouze HTML a související data, zejména tedy nikoliv fotky a větší data.
+Web je statický, hostovaný na [Vercelu](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss) a generovaný pomocí [Next.js](https://nextjs.org). Zde je uložené pouze HTML a související data, zejména tedy nikoliv fotky a větší data.
 
 Po pushnutí nového commitu na GitHub (nebo úpravě souboru přes webové rozhraní GitHubu) se spustí Vercel a postará se o přeložení a nasazení nové verze webu.
 
