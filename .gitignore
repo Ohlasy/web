@@ -4,8 +4,5 @@
 .next
 .terraform*
 .env*
-_site
-.jekyll-cache
-.jekyll-metadata
 node_modules
 tsconfig.tsbuildinfo
