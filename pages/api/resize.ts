@@ -102,7 +102,7 @@ export default async (
 
     response.setHeader(
       "Cache-Control",
-      "max-age=0, s-maxage=60, stale-while-revalidate=60"
+      "max-age=0, s-maxage=3600, stale-while-revalidate"
     );
 
     // Downscale if needed

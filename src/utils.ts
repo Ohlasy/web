@@ -14,11 +14,10 @@ export function getSignedResizedImage(
   targetWidth: number,
   signingSecret: string
 ): string {
-  const root = "https://nahledy.ohlasy.info";
   const shasum = crypto.createHash("sha1");
   shasum.update([sourceImageUrl, targetWidth, signingSecret].join(":"));
   const proof = shasum.digest("hex");
-  return `${root}/?src=${sourceImageUrl}&width=${targetWidth}&proof=${proof}`;
+  return `/api/resize?src=${sourceImageUrl}&width=${targetWidth}&proof=${proof}`;
 }
 
 export function getImageSrcSet(
