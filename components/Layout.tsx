@@ -9,15 +9,24 @@ const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
 
 export type LayoutProps = {
   title: string;
+  description?: string;
+  image?: string;
   children: React.ReactNode;
 };
 
-export const Layout: React.FC<LayoutProps> = ({ title, children }) => {
+export const Layout: React.FC<LayoutProps> = ({
+  title,
+  description = "Internetové noviny pro Boskovice a okolí",
+  image = "https://i.ohlasy.info/i/a5c62deb.jpg",
+  children,
+}) => {
   return (
     <>
       <Head>
         <meta charSet="utf-8" />
         <title>{title}</title>
+        <meta name="description" content={description} />
+        <meta property="og:image" content={image} />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         <link rel="me" href={Route.toMastodon} />
       </Head>

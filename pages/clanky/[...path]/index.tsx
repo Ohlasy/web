@@ -5,6 +5,7 @@ import { Layout } from "components/Layout";
 import { PreviewNest9 } from "components/PreviewNest";
 import fs from "fs";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
+import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import React from "react";
 import {
@@ -51,7 +52,11 @@ const Page: NextPage<PageProps> = ({
   const bannerGenerator = endlessGeneratorOf(banners);
   const getNextBanner = () => bannerGenerator.next().value;
   return (
-    <Layout title={article.title}>
+    <Layout
+      title={article.title}
+      description={article.perex}
+      image={article.coverPhoto}
+    >
       <main className="container">
         <div className="row article-row">
           <article className="col-md-8">
