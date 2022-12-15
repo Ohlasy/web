@@ -9,7 +9,7 @@ tags: kultura
 
 *Z úst opozice se opakovaně ozývá, že na hodnocení nové koalice je ještě příliš brzy. Pravda je to jen částečná – po dokončení prvního rozpočtu a po prvních zasedáních nové rady už minimálně víme dost o plánech na první rok práce a o hlavních prioritách, které se logicky nové vedení snaží neodkládat. Vyplývá z toho mimo jiné jeden závěr: kultura zatím zůstává tím, čím byla doposud – opomíjenou Popelkou.*
 
-{% photo src="https://i.ohlasy.info/i/1ffc96a6.jpg" /%}
+{% photo src="https://i.ohlasy.info/i/1ffc96a6.jpg" aspect="1.33" /%}
 
 Boskovická kultura má dva hlavní problémy: je dlouhodobě silně podfinancovaná a má špatně rozvrženou infrastrukturu, tedy prostorové a technické zázemí, ve kterém se odehrává.
 
