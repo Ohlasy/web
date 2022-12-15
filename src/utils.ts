@@ -78,3 +78,8 @@ export function map<T, U>(
 ): U | undefined {
   return val ? f(val) : undefined;
 }
+
+/** Tie single-letter prepositions with following text using a non-breaking space */
+export function tilde(str: string): string {
+  return str.replaceAll(/\b([uioaskzv]) /g, "$1 ");
+}

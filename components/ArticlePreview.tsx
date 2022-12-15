@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Metadata } from "src/article";
 import { Route } from "src/routing";
-import { getSignedResizedImage, IMAGE_SIGNING_KEY } from "src/utils";
+import { getSignedResizedImage, IMAGE_SIGNING_KEY, tilde } from "src/utils";
 
 export type ArticlePreviewProps = {
   article: Metadata;
@@ -17,7 +17,9 @@ export const BigArticlePreview: React.FC<ArticlePreviewProps> = ({
         <div className="col-sm-4">
           <div className="article-preview-text">
             <Title {...article} />
-            <p className="article-perex hidden-md hidden-sm">{article.perex}</p>
+            <p className="article-perex hidden-md hidden-sm">
+              {tilde(article.perex)}
+            </p>
           </div>
         </div>
         <div className="col-sm-8">
@@ -67,12 +69,14 @@ const Title = (article: Metadata) => (
   <>
     {article.category === "názory a komentáře" && (
       <h2>
-        {article.title}
+        {tilde(article.title)}
         <br />
         <span className="text-danger">{article.author}</span>
       </h2>
     )}
-    {article.category !== "názory a komentáře" && <h2>{article.title}</h2>}
+    {article.category !== "názory a komentáře" && (
+      <h2>{tilde(article.title)}</h2>
+    )}
   </>
 );
 

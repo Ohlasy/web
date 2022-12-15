@@ -1,4 +1,4 @@
-import { getSignedResizedImage, stripMarkdown } from "./utils";
+import { getSignedResizedImage, stripMarkdown, tilde } from "./utils";
 
 test("Image resizing", () => {
   expect(
@@ -17,4 +17,9 @@ test("Markdown stripping", () => {
   expect(stripMarkdown("*foo*")).toBe("foo");
   expect(stripMarkdown("## foo")).toBe("foo");
   expect(stripMarkdown("[foo](http://foo.com)")).toBe("foo");
+});
+
+test("Single-letter prepositions", () => {
+  expect(tilde("k lesu")).toBe("k lesu");
+  expect(tilde("jdu k lesu")).toBe("jdu k lesu");
 });

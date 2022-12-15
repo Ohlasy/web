@@ -24,7 +24,7 @@ import {
   getFileSystemPathForUrlPathFragments,
   getUrlPathFragmentsForFileSystemPath,
 } from "src/server-utils";
-import { endlessGeneratorOf, filterUndefines } from "src/utils";
+import { endlessGeneratorOf, filterUndefines, tilde } from "src/utils";
 
 //
 // Page
@@ -83,10 +83,10 @@ const Page: NextPage<PageProps> = ({
 const Title: React.FC<Pick<PageProps, "article">> = ({ article }) =>
   article.category === "názory a komentáře" ? (
     <h2 className="main-header">
-      {article.author}: {article.title}
+      {article.author}: {tilde(article.title)}
     </h2>
   ) : (
-    <h2 className="main-header">{article.title}</h2>
+    <h2 className="main-header">{tilde(article.title)}</h2>
   );
 
 type SidebarProps = {
