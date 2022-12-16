@@ -23,7 +23,7 @@ Hospodaření příspěvkové organizace Kulturní zařízení města Boskovice 
 
 Nezaznívá to nejpodstatnější: organizace je dlouhodobě podfinancovaná, k čemuž stačí udělat si základní přehled o vývoji rozpočtu v posledních řekněme deseti letech a provést si srovnání s tím, kolik do podobných organizací investují srovnatelně velká města. Jediné podstatnější navýšení rozpočtu KZMB zaznamenala s převzetím sokolovny, kde však samozřejmě adekvátně vzrostly i náklady. Že není možné dnes efektivně hospodařit se stejným rozpočtem jako před několika lety, je jasné asi každému, kdo řídí cokoliv od domácnosti po továrnu.
 
-Letošní navýšení finančního příspěvku města pro KZMB přitom pokryje sotva nárůst cen za energie a zákonné navýšení platů pro zaměstnance. Na samotný provoz nedostane organizace navíc opět prakticky nic.
+Navýšení finančního příspěvku města pro KZMB na rok 2023 přitom pokryje sotva nárůst cen za energie a zákonné navýšení platů pro zaměstnance. Na samotný provoz nedostane organizace navíc opět prakticky nic.
 
 V nezřizované kultuře je situace jistým způsobem ještě smutnější, a to především v porovnání s tím, jak město přistupuje ke sportu. Sportovní kluby dostávají navíc oproti původnímu návrhu na letošek více než 4 miliony korun, část těchto peněz dostali navíc už letos na pokrytí nárůstu cen. Kromě toho putují další miliony navíc na provoz sportovišť do městských Služeb. Kultura a volnočas nedostaly letos nic a na příští rok dostávají navíc po sto tisících, i když už před energetickou krizí příslušná komise konstatovala, že výše dotací je nedostatečná. Kultura i volnočasové spolky ale také platí nájmy a energie.
 
