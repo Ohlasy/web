@@ -1,6 +1,6 @@
 ---
 title: Jak to vidí opozice
-cover-photo: https://i.imgur.com/4ZPcC0l.jpg
+cover-photo: https://i.ohlasy.info/i/45145783.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Vedle rubriky novinek Z radnice dáváme prostor také boskovické opozici, aby se vyjádřila k aktuálním otázkám, které vedení města řešilo či řeší. Odpovídají zástupci klubů ANO, Pirátů, Sportovců a KSČM.*
 
-{% photo src="https://i.imgur.com/4ZPcC0l.jpg" caption="Model sportovní haly v Červené zahradě podle návrhu Alberto Kalacha" author="T.A.X." /%}
+{% photo src="https://i.ohlasy.info/i/45145783.jpg" caption="Model sportovní haly v Červené zahradě podle návrhu Alberto Kalacha" author="T.A.X." /%}
 
 **Jak se vám líbí [návrh sportovní haly od Alberto Kalacha](https://ohlasy.info/clanky/2021/07/predstaveni-haly.html) a jak jste spokojeni s procesem přípravy investičního záměru?**
 

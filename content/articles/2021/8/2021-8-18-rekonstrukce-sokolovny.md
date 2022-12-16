@@ -1,6 +1,6 @@
 ---
 title: KZMB připravují kompletní přestavbu sokolovny na kulturní dům
-cover-photo: https://i.imgur.com/seOQECV.jpg
+cover-photo: https://i.ohlasy.info/i/b905b744.jpg
 perex: Přestavět sokolovnu na moderní kulturní dům patří k záměrům města od chvíle, kdy budovu převzalo. Nyní vznikla pracovní skupina, která připravuje zadání, začít se stavbou by se mohlo už na konci příštího roku.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: kultura
 
 *Přestavět boskovickou sokolovnu na moderní kulturní dům patří k záměrům města již od chvíle, kdy v roce 2017 budovu převzalo do vlastnictví. Nový ředitel Kulturních zařízení města Boskovice (KZMB) nyní sestavil pracovní skupinu, která připravuje zadání, začít se stavbou by se mohlo už na konci příštího roku.*
 
-{% photo src="https://i.imgur.com/seOQECV.jpg" caption="Interiér hlavního sálu sokolovny" author="Tomáš Znamenáček" /%}
+{% photo src="https://i.ohlasy.info/i/b905b744.jpg" caption="Interiér hlavního sálu sokolovny" author="Tomáš Znamenáček" /%}
 
 Podle ředitele KZMB Ondřeje Dostála by budova sokolovny měla být po přestavbě hlavním prostorem pro konání kulturních akcí ve městě. Nyní je její stav pro organizátory kulturních akcí značně limitující. „Nejedná se jen o prostorové limity, ale i limity infrastrukturní – tedy stav zázemí, elektrických sítí, topení, jevištní techniky, ozvučení a podobně. Pracovní skupina tedy vznikla z toho důvodu, aby bylo možné se relevantně bavit o tom, co by měl kulturní dům obsahovat, jak by měl být využíván a jaké zkušenosti můžeme pro rekonstrukci využít,“ vysvětlil ředitel Ondřej Dostál.
 

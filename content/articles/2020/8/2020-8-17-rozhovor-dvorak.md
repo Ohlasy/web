@@ -1,6 +1,6 @@
 ---
 title: „Tento týden spouštíme koloběžky v Boskovicích, příští v Barceloně.“
-cover-photo: https://i.imgur.com/SSXECcsl.jpg
+cover-photo: https://i.ohlasy.info/i/8bd5ad03.jpg
 perex: Rozhovor s Jakubem Dvořákem, zástupcem firmy Bolt, která umístila do Boskovic elektrické koloběžky. S Jakubem jsme si povídali právě o tom, jak celý systém půjčování koloběžek funguje, jaká jsou zde rizika a jaké přínosy.
 author: Tomáš Trumpeš
 category: rozhovory
@@ -9,7 +9,7 @@ tags: doprava
 
 *Rozhovor s Jakubem Dvořákem, zástupcem firmy Bolt, která umístila do Boskovic elektrické koloběžky. S Jakubem jsme si povídali právě o tom, jak celý systém půjčování koloběžek funguje, jaká jsou zde rizika a jaké přínosy.*
 
-{% photo src="https://i.imgur.com/SSXECcs.jpg" author="Tomáš Znamenáček" /%}
+{% photo src="https://i.ohlasy.info/i/8bd5ad03.jpg" author="Tomáš Znamenáček" /%}
 
 **Jak se zrodil nápad, že by se koloběžky mohly objevit v Boskovicích?**
 
@@ -87,7 +87,7 @@ Ne, vůbec. V Olomouci je to doopravdy populární, v Pardubicích o to mají ve
 
 Úplně to nesledujeme, že bychom měli nějaká přesná data. Ale můžeme vyjít z toho, že aby sis tu koloběžku půjčil, potřebuješ mít chytrý telefon, potřebuješ tam mít vloženou kartu nebo využívat Apple Pay. Takže to musí být člověk, který tenhle přístroj má a je ochoten tam kartu nahrát, což všichni lidi nejsou ochotni udělat. Takže se asi bavíme spíš o mladší generaci, tolik důchodců na tom nejspíš neuvidíme. Ale nějaké třeba ano.
 
-{% photo src="https://i.imgur.com/Dw8hPpG.jpg" author="Tomáš Trumpeš" /%}
+{% photo src="https://i.ohlasy.info/i/7d134de8.jpg" author="Tomáš Trumpeš" /%}
 
 **Pro lidi, kteří se s tímto typem dopravy ještě nesetkali, bychom asi měli říct, o jaké koloběžky se vlastně jedná a jak se ovládají. A taky jak jezdí rychle.**
 

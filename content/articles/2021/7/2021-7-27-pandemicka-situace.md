@@ -1,7 +1,7 @@
 ---
 title: Pandemie polevila také na Boskovicku, odborníci varují před podzimem
 perex: Pandemie nemoci covid-19 v letních měsících polevila také na Boskovicku. Statistiky hlásí pouze jednotky případů. Klesá ale zájem o očkování, nemocnice nyní očkuje zejména druhé dávky.
-cover-photo: https://i.imgur.com/Yymomz0.jpg
+cover-photo: https://i.ohlasy.info/i/b5d2e2ec.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: koronavirus
@@ -9,7 +9,7 @@ tags: koronavirus
 
 *Pandemie nemoci covid-19 v letních měsících polevila také v Boskovicích a na okrese Blansko. Statistiky hlásí pouze jednotky případů. Klesá ale zájem o očkování, nemocnice nyní očkuje zejména druhé dávky.*
 
-{% photo src="https://i.imgur.com/Yymomz0.jpg" author="Tomáš Znamenáček" /%}
+{% photo src="https://i.ohlasy.info/i/b5d2e2ec.jpg" author="Tomáš Znamenáček" /%}
 
 Počet aktuálně pozitivně testovaných na okrese Blansko činil k poslednímu březnu přes 1600 lidí. Na konci dubna to bylo okolo 800 lidí a na konci května přibližně 150 lidí. A strmý pokles pokračoval, takže ke konci června se ve statistice Krajské hygienické stanice objevila u okresu Blansko číslovka 5. „Aktuální situaci hodnotíme jako zcela klidnou, přenos je pouze sporadický, závažné případy se nevyskytují. Příznivý vývoj vidíme ve všech relevantních ukazatelích, zejména v poklesu podílu hospitalizovaných ze všech pozitivně testovaných osob a nízký počet osob ve věku nad 65 let s pozitivním testem,“ hodnotila těsně před prázdninami situaci ředitelka protiepidemického odboru jihomoravských hygieniků Renata Ciupek.
 

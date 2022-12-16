@@ -1,7 +1,7 @@
 ---
 title: I důležité stavby mohou být navrženy s pokorou a skromností
 perex: Svůj dojem z činnosti pracovní skupiny a návrhu haly shrnul architekt a člen SRABu Petr Ondráček.
-cover-photo: https://i.imgur.com/2aUpttD.jpg
+cover-photo: https://i.ohlasy.info/i/163ccff1.jpg
 author: Petr Ondráček
 category: názory a komentáře
 tags:
@@ -12,7 +12,7 @@ tags:
 
 *Svou činnost tento týden završila pracovní skupina, která připravovala zadání investičního záměru sportovní haly podle návrhu, který ve spolupráci s městským architektem Zdeňkem Fránkem připravil mexický architekt Alberto Kalach. Pracovní skupina stavbu městské radě doporučila ke schválení, pro ale nehlasovali členové místního Spolku za rozvoj architektury Boskovic (SRAB). Svůj dojem v komentáři pro Ohlasy shrnul architekt a člen SRABu Petr Ondráček.*
 
-{% photo src="https://i.imgur.com/Gd37iOc.jpg" caption="Olympijský stadion v Tokiu – návrh ateliéru Kengo Kuma Associates, který se nakonec postavil" author="Japan Sport Council" /%}
+{% photo src="https://i.ohlasy.info/i/c0815513.jpg" caption="Olympijský stadion v Tokiu – návrh ateliéru Kengo Kuma Associates, který se nakonec postavil" author="Japan Sport Council" /%}
 
 Na začátku tohoto týdne proběhlo poslední setkání pracovní skupiny ke sportovní hale a zakončilo tak oficiální část debaty o navržené podobě této stavby. Nechci odradit technickými pojmy a fakty – jsou už myslím dostatečně známy, a nebo si je můžete přečíst jak [zde v Ohlasech](https://ohlasy.info/clanky/2021/07/predstaveni-haly.html), [na webu města](https://boskovice.cz/mesto-predstavilo-studii-nove-sportovni-haly/d-42226) nebo [u nás na SRABu](https://www.sraboskovice.cz/clanky). Spíš se chci tentokrát jako jeden ze členů pracovní skupiny zamyslet obecněji nad situací, která tu vznikla. Tedy nad celým procesem přípravy návrhu a možných důsledcích, které rozhodnutí o pokračování tohoto procesu přináší a nebo v budoucnu může přinést.
 
@@ -24,7 +24,7 @@ Po zkušenostech s podobnými stavbami olympijských sportovišť ve světě se 
 
 Nakonec ale došlo k úplnému zastavení původního projektu a rozhodnutí začít znova. Tentokráte už ale soutěž proběhla tak, že se mohli přihlásit pouze architekti, kteří měli za sebou budoucí dodavatele stavby. Tím bylo garantováno, kolik bude stavba stát a zároveň termín, kdy bude opravdu otevřena pro veřejnost. Zaha Hadid se soutěže už neúčastnila – nenašla totiž dodavatele, který by zaručil, že její návrh půjde za dané peníze zrealizovat. Zvítězil tak návrh ateliéru Kengo Kuma Associates, který se skutečně postavil a mohli jsme jej tak vidět při slavnostním zahájení a ukončení her a při atletických soutěžích. Je to poměrně jednoduchá a svým způsobem nenápadná stavba, která vstoupila do svého okolí tak, aby si nenárokovala pozornost více, než je nutné. Japonci tak světu ukázali, že i takto důležité stavby mohou být navrženy s pokorou a skromností. Důležité je také na závěr zmínit cenu – ta lehce přesáhla polovinu původně uvažované částky.
 
-{% photo src="https://i.imgur.com/7v9oqfN.jpg" caption="Původně vítězný návrh Zahy Hadid, od kterého bylo po kritice upuštěno" author="Japan Sport Council" /%}
+{% photo src="https://i.ohlasy.info/i/14d0e58e.jpg" caption="Původně vítězný návrh Zahy Hadid, od kterého bylo po kritice upuštěno" author="Japan Sport Council" /%}
 
 Příběh olympijského stadionu v Tokiu ukazuje něco, z čeho bychom si mohli vzít příklad i zde u nás. Je zde jasně vidět, že jakákoliv sportovní stavba je stavěna hlavně pro to, co se odehrává uvnitř – a tam by mělo být vše co nejlepší a bez kompromisů. Jak vypadá hala zvenčí, je samozřejmě také důležité, ale je to řekněme třešnička na dortu – pokud stavba respektuje svoje okolí, nebo dokonce svojí novou přítomností přispívá k tomu, že se podaří toto okolí zlepšit.
 

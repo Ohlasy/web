@@ -1,6 +1,6 @@
 ---
 title: Kulturní výběr na srpen
-cover-photo: https://i.imgur.com/uMCN2Xn.png
+cover-photo: https://i.ohlasy.info/i/e46b171e.png
 perex: Tak nám za chvíli končí prázdniny, ještě před tím se zastavte na jedné z akcí, které nám kulturní nabídka v srpnu nabízí. Je to pestré a našláplé. Festiválek bez bojů a válek má letos fakt dobrý program.
 author: David Liber
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Tak nám za chvíli končí prázdniny a bude nový školní rok. Každopádně se ještě před tím zastavte na jedné z akcí, které nám kulturní nabídka v srpnu nabízí. Je to pestré a našláplé. Festiválek bez bojů a válek má letos fakt dobrý program a nepíšu to proto, že tam hraje naše kapela, ale protože Floex je prostě výborný a znamenal pro mě most do světa elektronické samplované hudby. Zastavte se také na výstavy nebo do letního kina na přednášku.*
 
-{% photo src="https://i.imgur.com/uMCN2Xn.png" caption="Benedikt Tolar: TadySUVole, instalace na Plačkově ulici" author="Tomáš Znamenáček" /%}
+{% photo src="https://i.ohlasy.info/i/e46b171e.png" caption="Benedikt Tolar: TadySUVole, instalace na Plačkově ulici" author="Tomáš Znamenáček" /%}
 
 ### Festivalové výstavy
 

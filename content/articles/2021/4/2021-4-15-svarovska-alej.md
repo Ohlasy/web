@@ -1,6 +1,6 @@
 ---
 title: Ze Svárovské aleje bude nejspíš stromořadí a ze stromořadí nezbyde nic
-cover-photo: https://i.imgur.com/dnmRk6y.jpg
+cover-photo: https://i.ohlasy.info/i/e5a07044.jpg
 perex: Přípravu kácení oblíbené aleje úřady sice nejprve pozastavily, avšak víceméně z formálních důvodů, a nyní to vypadá, že schvalovací proces doběhne do konce a kácet se bude.
 author: Nikol Halamásková
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Přípravu [kácení oblíbené aleje](https://ohlasy.info/clanky/2021/01/svarovska-alej-roku.html) úřady sice nejprve pozastavily, avšak víceméně z formálních důvodů, a nyní to vypadá, že schvalovací proces doběhne do konce a kácet se bude. Pro jsou všechny dotčené obce, silničáři nechtějí měnit projekt, který je připravený a mají na něj prostředky z takzvaných evropských peněz. Kácení nakonec nezastaví ani hejtman, který ještě před svým zvolením podepsal petici na záchranu aleje. Zastánci aleje plánují pokračovat v pokusech o její záchranu dalšími právními kroky.*
 
-{% photo src="https://i.imgur.com/dnmRk6y.jpg" caption="Svárovská alej" author="Hynek Skořepa" /%}
+{% photo src="https://i.ohlasy.info/i/e5a07044.jpg" caption="Svárovská alej" author="Hynek Skořepa" /%}
 
 Na jižní straně aleje se sice mají kácet jen stromy nemocné a suché, silničáři jsou dokonce ochotni část z nich ponechat ve formě torz, severní strana má však padnout celá. „Problém je v tom, že nechají spodní stranu aleje, která je v horším stavu. Ve chvíli, kdy zmizí horní strana aleje, tak to, co nechají, stejně vyvrátí vítr a nakonec tam nebude nic,“ okomentoval postup Hynek Skořepa, letovický přírodovědec a jeden z hlavních bojovníků za záchranu aleje.
 

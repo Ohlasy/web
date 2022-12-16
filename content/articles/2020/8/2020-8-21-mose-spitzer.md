@@ -1,7 +1,7 @@
 ---
 title: "Příběhy z ghetta: Moše Spitzer, zakladatel moderní hebrejské typografie a knižního designu"
 perex: Letos uplynulo 120 let od narození významného židovského rodáka z Boskovic Mošeho Spitzera, který spatřil světlo světa 8. července 1900.
-cover-photo: https://i.imgur.com/fBMe1iql.jpg
+cover-photo: https://i.ohlasy.info/i/592c9a90.jpg
 author: Helena Janíková
 category: seriály
 serial: ghetto
@@ -10,7 +10,7 @@ tags: historie
 
 *V letošním roce uplynulo 120 let od narození významného židovského rodáka z Boskovic Mošeho Spitzera, který spatřil světlo světa dne 8. července 1900.*
 
-{% photo src="https://i.imgur.com/fBMe1iq.jpg" /%}
+{% photo src="https://i.ohlasy.info/i/592c9a90.jpg" /%}
 
 Narodil se do rodiny obchodníka Maxe Spitzera a jeho ženy Henrietty, společně s celou řadou sourozenců vyrůstal na náměstí Františka Josefa I. (dnes Masarykovo náměstí) v domě číslo 15, na jehož místě v současnosti stojí funkcionalistická budova České spořitelny. Max Spitzer v domě provozoval obchod s koloniálním a střižním zbožím.
 

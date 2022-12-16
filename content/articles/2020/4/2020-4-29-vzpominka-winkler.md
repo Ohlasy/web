@@ -1,14 +1,14 @@
 ---
 title: Opustil nás jazzový dědek (Za Milošem Winklerem)
 perex: Zemřel Miloš Winkler, řečený Jazzový dědek. Vzpomínku na něj napsala Ivana Královcová, zástupkyně mladší generace posluchačů unikátních letovických jazzových koncertů.
-cover-photo: https://i.imgur.com/toufVGXl.jpg
+cover-photo: https://i.ohlasy.info/i/08f9d3e0.jpg
 author: Ivana Královcová
 category: názory a komentáře
 ---
 
 *Smutná zpráva zastihla minulý týden nejen fanoušky letovických jazzových koncertů – zemřel Miloš Winkler, řečený Jazzový dědek. Vzpomínku na něj pro Ohlasy napsala Ivana Královcová, zástupkyně mladší generace posluchačů, kterým v Letovicích Miloš Winkler zařídil výjimečné koncertní jazzové vzdělání.*
 
-{% photo src="https://i.imgur.com/toufVGX.jpg" author="Josef Bednář" /%}
+{% photo src="https://i.ohlasy.info/i/08f9d3e0.jpg" author="Josef Bednář" /%}
 
 Minulé pondělí nás navždy opustila ústřední postava jazzového dění nejen na Blanensku, pan Miloš Winkler. Poslední rozloučení se konalo v sobotu v Letovicích, kde se aktivně zapojoval do kulturního života prostřednictvím pořádání jazzových koncertů. Je to obrovská ztráta pro celé město, které svými aktivitami ve spojení s vytříbeným hudebním citem a kouzlem své osobnosti navždy zanesl do pomyslné mapy české jazzové scény.
 

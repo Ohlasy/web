@@ -1,6 +1,6 @@
 ---
 title: Převod boskovické nemocnice do rukou kraje je znovu ve hře
-cover-photo: https://i.imgur.com/2hLnNqsl.jpg
+cover-photo: https://i.ohlasy.info/i/08ec68f8.jpg
 perex: Nemocnice Boskovice nemusí do budoucna zůstat v rukách města. Jihomoravský kraj si nechává vypracovat studii, jak městská zdravotnická zařízení včetně boskovického začlenit do připravovaného holdingu.
 author: Marek Osouch
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Nemocnice Boskovice nemusí do budoucna zůstat v rukách města. Jihomoravský kraj si nechává vypracovat studii, jak by se mohla městská zdravotnická zařízení včetně toho boskovického začlenit do připravovaného holdingu devíti krajských nemocnic.*
 
-{% photo src="https://i.imgur.com/2hLnNqs.jpg" caption="Boskovická nemocnice" author="Tomáš Trumpeš" /%}
+{% photo src="https://i.ohlasy.info/i/08ec68f8.jpg" caption="Boskovická nemocnice" author="Tomáš Trumpeš" /%}
 
 Jihomoravský kraj si už před časem nechal zpracovat komplexní zdravotnickou koncepci, teď na ni navazuje dalším krokem v podobě studie, která má za cíl představit budoucí fungování krajských nemocnic pod jednou hlavičkou. A to nejen těch krajských. „Jeden z úkolů pro zpracovatele tohoto modelu fungování je posoudit právní možnosti provozování zdravotnického zařízení vlastněného třetí stranou,” uvedl krajský radní pro zdravotnictví Milan Vojta (ANO). Jinými slovy tak míří právě k městským nemocnicím. „V případě Boskovic, kde budova patří patří městu a městská nemocnice je tam v nájmu, by společnost mohla přejít pod holding Krajská zdravotní, nebo jak se nakonec bude tato organizace jmenovat,“ přiblížil s tím, že studie má být hotová do konce letošního roku.
 
