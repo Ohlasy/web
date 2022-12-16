@@ -28,32 +28,16 @@ type PhotoProps = {
 };
 
 const Photo = ({ src, alt, author, caption, aspect }: PhotoProps) => {
-  const img = (
-    /* eslint-disable-next-line @next/next/no-img-element */
-    <img
-      key={src}
-      src={src}
-      srcSet={getImageSrcSet(src, IMAGE_SIGNING_KEY)}
-      alt={alt ?? caption ?? ""}
-      className="img-responsive"
-    />
-  );
   return (
     <div>
-      {/* If we know the aspect ratio, reserve the space to prevent layout shift */}
-      {aspect && (
-        <div
-          style={{
-            aspectRatio: aspect,
-            overflow: "clip",
-            backgroundColor: "#ddd",
-          }}
-        >
-          {img}
-        </div>
-      )}
-      {/* If we don’t know the aspect ratio, there’s not much we can do */}
-      {!aspect && img}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        key={src}
+        src={src}
+        srcSet={getImageSrcSet(src, IMAGE_SIGNING_KEY)}
+        alt={alt ?? caption ?? ""}
+        className="img-responsive"
+      />
       {(author || caption) && (
         <div className="img-meta">
           {caption}
