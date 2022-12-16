@@ -1,6 +1,6 @@
 ---
 title: „Zkoušíme Boskovicím vrátit to, co jsme od nich dostali.“
-cover-photo: https://i.imgur.com/NSiobo9l.jpg
+cover-photo: https://i.ohlasy.info/i/b7619bba.jpg
 perex: Rozhovor s Vojtěchem Sedlákem a Janem Kárlem, organizátory festivalu Raveyard, který se v panském dvoře v Boskovicích bude konat letos potřetí.
 author: Nikol Halamásková
 category: rozhovory
@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Vojtěchem Sedlákem a Janem Kárlem, organizátory festivalu [Raveyard](https://www.facebook.com/events/1153453961727546), který se v panském dvoře v Boskovicích bude konat letos potřetí a kterého se minulý rok zúčastnilo přes 550 lidí. Mluvili jsme o počátcích festivalu, organizační náročnosti a dramaturgii festivalu, o tom, pro koho je festival určený, ale i o kultuře a jejím místě v náročných časech. Vojta je dramaturg festivalu a Honza produkční.*
 
-{% photo src="https://i.imgur.com/HuMJ3PY.jpg" caption="Jan Kárl a Vojtěch Sedlák" author="Nikol Halamásková" /%}
+{% photo src="https://i.ohlasy.info/i/c2644901.jpg" caption="Jan Kárl a Vojtěch Sedlák" author="Nikol Halamásková" /%}
 
 **Kdy a kde vznikl nápad udělat festival?**
 
@@ -38,7 +38,7 @@ HONZA: Zásadní rozdíl a velká změna i pro nás je to, že rozšiřujeme z j
 
 VOJTA: Co se týče dramaturgie, tak zásadní rozdíl je v tom, že při nultém a prvním ročníku jsme při výběru umělců sahali výlučně do českých a slovenských vod a letos jsme poprvé sáhli po dvou zahraničních drum’n’bass jménech. Na to, že to budou první zahraniční vystupující, tak jsou to fakt obrovská jména a jsme rádi, že je můžeme prezentovat tady v Boskovicích.
 
-{% photo src="https://i.imgur.com/l3D0HGo.jpg" caption="Raveyard 2021" author="Josef Šindelka" /%}
+{% photo src="https://i.ohlasy.info/i/d2843c75.jpg" caption="Raveyard 2021" author="Josef Šindelka" /%}
 
 ### Dramaturgie letošního ročníku
 
@@ -70,7 +70,7 @@ VOJTA: Tím pádem to má blahodárný účinek ze dvou důvodů: prvním z nich
 
 Nabízíme program, který je v našem regionu naprosto bezkonkurenční v rámci daných žánrů a náklady na všechno jsou poměrně vysoké. My se samozřejmě snažíme nechat festival finančně přístupný lidem z co nejširších sociálních vrstev. Dotace tvoří asi třetinu našeho rozpočtu, a kdybychom je neměli, tak by ty vstupenky musely být minimálně o třetinu dražší.
 
-{% photo src="https://i.imgur.com/LBE3nTa.jpg" caption="Raveyard 2021" author="Josef Šindelka" /%}
+{% photo src="https://i.ohlasy.info/i/bee29ede.jpg" caption="Raveyard 2021" author="Josef Šindelka" /%}
 
 ### Organizace festivalu
 
@@ -88,7 +88,7 @@ VOJTA: Když to řeknu hodně zjednodušeně, tak já vymyslím, co tady bude hr
 
 HONZA: My jsme teď sice řekli nějaké tři role, ale ono je důležité zmínit to, že fungujeme v kamarádské rovině, nejsme festival založený na tom, že bychom dělali byznys, prostě děláme kulturní akci. Baví nás to, baví nás ta hudba a jsme tady pro sebe a chceme si i mezi těmi jednotlivými obory vypomoct – takže to není tak striktně rozdělené, že Vojta dělá dramaturgii a já produkci a Gon finance. Má to přesahy a všude je možný nějaký konsenzus.
 
-{% photo src="https://i.imgur.com/DHo3eNe.jpg" caption="Raveyard 2021" author="Josef Šindelka" /%}
+{% photo src="https://i.ohlasy.info/i/2a4dd8b6.jpg" caption="Raveyard 2021" author="Josef Šindelka" /%}
 
 ### Kultura v těžkých časech
 

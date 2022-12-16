@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: Kapacita školek, skatepark, oprava SVČ"
-cover-photo: https://i.imgur.com/QCO31mwl.jpg
+cover-photo: https://i.ohlasy.info/i/fbbc3857.jpg
 perex: Na předposledním jednání se sešla aktuální sestava boskovických zastupitelů. Poslední jednání bude pouhých deset dnů před komunálními volbami.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -9,7 +9,7 @@ tags: politika
 
 *Na svém předposledním jednání se sešla na konci června aktuální sestava boskovických zastupitelů. Poslední jednání bude pouhých deset dnů před komunálními volbami.*
 
-{% photo src="https://i.imgur.com/QCO31mw.jpg" caption="Boskovice ještě s hotelem Velen" author="Zdeněk Tesař" /%}
+{% photo src="https://i.ohlasy.info/i/fbbc3857.jpg" caption="Boskovice ještě s hotelem Velen" author="Zdeněk Tesař" /%}
 
 ### Rychlý úvod
 

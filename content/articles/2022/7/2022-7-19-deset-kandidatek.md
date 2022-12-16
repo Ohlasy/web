@@ -1,7 +1,7 @@
 ---
 title: Do boskovických voleb míří deset politických uskupení
 perex: Nejpozději v úterý musely politické subjekty odevzdat kandidátní listiny pověřeným úřadům a do voleb se tak přihlásit. V Boskovicích tak učinilo deset politických uskupení.
-cover-photo: https://i.imgur.com/7BkBCoF.jpg
+cover-photo: https://i.ohlasy.info/i/bd472a90.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
@@ -11,7 +11,7 @@ tags:
 
 *Úterý 19. července znamenalo další předěl na cestě ke komunálním volbám. Nejpozději v tento den totiž musely politické subjekty odevzdat kandidátní listiny pověřeným úřadům a do voleb se tak přihlásit. V Boskovicích tak učinilo deset politických uskupení.*
 
-{% photo src="https://i.imgur.com/7BkBCoF.jpg" caption="Boskovice" author="Zdeněk Tesař" /%}
+{% photo src="https://i.ohlasy.info/i/bd472a90.jpg" caption="Boskovice" author="Zdeněk Tesař" /%}
 
 V Boskovicích se kandidátní listiny odevzdávají na odboru vnitřních věcí. Ten nemůže zatím o kandidátních listinách poskytovat podrobnější informace, vedoucí odboru Iva Močičková tak Ohlasům potvrdila pouze celkový počet kandidátek, které na úřad dorazily – a těch je přímo v Boskovicích právě deset.
 

@@ -1,6 +1,6 @@
 ---
 title: "Z radnice: Nákup energií, Husí slavnosti, odklad prací Na Skalce a nový výběr projektanta haly"
-cover-photo: https://i.imgur.com/ISzSIaVl.jpg
+cover-photo: https://i.ohlasy.info/i/96c24367.jpg
 perex: Stručný výběr zpráv po jednání městské rady na začátku července.
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Po jednání městské rady na začátku července se tentokrát výjimečně kvůli státním svátkům a následným dovoleným nekonala tisková konference. Stejně tak po mimořádném jednání rady o čtyři dny později. Přinášíme alespoň stručný výběr zpráv na základě zápisů, podrobnější informace na základě dotazů na vedení města doplníme po příští tiskové konferenci.*
 
-{% photo src="https://i.imgur.com/ISzSIaV.jpg" caption="Husí slavnosti" author="Kulturní zařízení města Boskovice" /%}
+{% photo src="https://i.ohlasy.info/i/96c24367.jpg" caption="Husí slavnosti" author="Kulturní zařízení města Boskovice" /%}
 
 ### Hospodaření nemocnice
 
