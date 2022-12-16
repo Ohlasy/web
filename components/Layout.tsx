@@ -1,8 +1,9 @@
 import Head from "next/head";
 import Link from "next/link";
-import { Route } from "src/routing";
+import { absolute, Route } from "src/routing";
 import { Dosis } from "@next/font/google";
 import Script from "next/script";
+import { getSignedResizedImage, IMAGE_SIGNING_KEY } from "src/utils";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
@@ -26,7 +27,12 @@ export const Layout: React.FC<LayoutProps> = ({
         <meta charSet="utf-8" />
         <title>{title}</title>
         <meta name="description" content={description} />
-        <meta property="og:image" content={image} />
+        <meta
+          property="og:image"
+          content={absolute(
+            getSignedResizedImage(image, 1200, IMAGE_SIGNING_KEY)
+          )}
+        />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         <link rel="me" href={Route.toMastodon} />
       </Head>
