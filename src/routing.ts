@@ -17,7 +17,10 @@ export const Route = {
   // External routes
   toFacebook: "https://www.facebook.com/ohlasy",
   toMastodon: "https://boskovice.social/@ohlasy",
+  toYouTube: "https://www.youtube.com/channel/UCylOefq0Efb-A452MlTuejw",
+  toInstagram: "http://instagram.com/ohlasy_boskovice/",
   toVercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
+  toSpotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
   toArchive: "http://archiv.ohlasy.info",
   toForum: "https://forum.ohlasy.info",
   toAdsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",

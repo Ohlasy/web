@@ -75,20 +75,21 @@ const Footer = () => (
             </li>
             <li>nepoužíváme žádné cookies, respektujeme vaše soukromí</li>
             <li>
-              <Link href={Route.toAdsInfo}>inzerce</Link> /{" "}
-              <Link href={Route.toArchive}>archiv článků</Link> /{" "}
-              <Link href={Route.toPodcast}>podcast</Link>
+              <Link href={Route.toFacebook}>Facebook</Link> /{" "}
+              <Link href={Route.toMastodon}>Mastodon</Link> /{" "}
+              <Link href={Route.toYouTube}>YouTube</Link> /{" "}
+              <Link href={Route.toInstagram}>Instagram</Link> /{" "}
+              <Link href={Route.toSpotify}>Spotify</Link>
+            </li>
+            <li>
+              <Link href={Route.toAdsInfo}>Inzerce</Link> /{" "}
+              <Link href={Route.toArchive}>Archiv článků</Link> /{" "}
+              <Link href={Route.toForum}>Diskuzní fórum</Link>
             </li>
             <li>
               <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
             </li>
             <li>+420 608 763 954</li>
-            <li>
-              <Link href={Route.toForum}>Diskuzní fórum</Link>
-            </li>
-            <li>
-              <Link href={Route.toFacebook}>Facebook</Link>
-            </li>
             <li>
               <Link href={Route.toVercel} className="powered-by">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
