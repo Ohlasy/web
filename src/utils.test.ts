@@ -22,4 +22,5 @@ test("Markdown stripping", () => {
 test("Single-letter prepositions", () => {
   expect(tilde("k lesu")).toBe("k lesu");
   expect(tilde("jdu k lesu")).toBe("jdu k lesu");
+  expect(tilde("U zabořenýho mlénka")).toBe("U zabořenýho mlénka");
 });

@@ -81,5 +81,5 @@ export function map<T, U>(
 
 /** Tie single-letter prepositions with following text using a non-breaking space */
 export function tilde(str: string): string {
-  return str.replaceAll(/\b([uioaskzv]) /g, "$1 ");
+  return str.replaceAll(/\b([uioaskzv]) /gi, "$1 ");
 }
