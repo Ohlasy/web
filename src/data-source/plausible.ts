@@ -1,7 +1,6 @@
 import { getAllArticles } from "src/article";
 import { getArticlePath } from "src/routing";
 import { articleRoot } from "src/server-utils";
-import fetch from "node-fetch";
 import {
   array,
   decodeType,

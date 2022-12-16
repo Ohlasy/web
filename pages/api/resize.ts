@@ -18,7 +18,6 @@
  */
 import { NextApiRequest, NextApiResponse } from "next";
 import { IMAGE_SIGNING_KEY } from "src/utils";
-import fetch from "node-fetch";
 import sharp from "sharp";
 import crypto from "crypto";
 
