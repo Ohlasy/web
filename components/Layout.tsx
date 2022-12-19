@@ -4,6 +4,7 @@ import { absolute, Route } from "src/routing";
 import { Dosis } from "@next/font/google";
 import Script from "next/script";
 import { getSignedResizedImage, IMAGE_SIGNING_KEY } from "src/utils";
+import { useState } from "react";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
@@ -104,8 +105,40 @@ const Footer = () => (
             </li>
           </ul>
         </div>
-        <div className="col-md-4">{/*{% include search-form.html %}*/}</div>
+        <div className="col-md-4">
+          <SearchForm />
+        </div>
       </div>
     </div>
   </footer>
 );
+
+const SearchForm = () => {
+  const [query, setQuery] = useState("");
+  const handleSubmit = (event: any) => {
+    const localizedQuery = `${query} site:ohlasy.info`;
+    window.location.href = "https://www.google.cz/search?q=" + localizedQuery;
+    event.preventDefault();
+  };
+  return (
+    <form onSubmit={handleSubmit}>
+      <div className="input-group input-group-md">
+        <input
+          type="text"
+          className="query form-control"
+          placeholder="klid duše"
+          onChange={(e) => setQuery(e.target.value)}
+          size={31}
+        />
+        <span className="input-group-btn">
+          <input
+            type="submit"
+            className="btn btn-primary"
+            value="hledej"
+            onClick={handleSubmit}
+          />
+        </span>
+      </div>
+    </form>
+  );
+};
