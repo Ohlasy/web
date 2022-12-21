@@ -1,4 +1,4 @@
-import { resolve } from "path";
+import { resolve, join } from "path";
 import { parsePath } from "./article";
 import fs from "fs";
 
@@ -57,7 +57,8 @@ export function getFileSystemPathForUrlPathFragments(
 ): string | undefined {
   const [year, month, slug] = fragments;
   const nakedSlug = slug.replace(".html", "");
-  return getFilesRecursively(`${articleRoot}/${year}/${+month}`).find((path) =>
+  const folder = join(process.cwd(), "content", "articles", year, month);
+  return getFilesRecursively(folder).find((path) =>
     path.endsWith(`${nakedSlug}.md`)
   );
 }
