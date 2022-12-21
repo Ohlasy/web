@@ -1,4 +1,5 @@
 import { readFile } from "fs/promises";
+import { join } from "path";
 import yaml from "js-yaml";
 import { decodeObject, decodeUrl } from "../decoding";
 import { iTunesShowEpisode } from "../feeds";
@@ -34,10 +35,12 @@ export const decodeAuthors = (value: Pojo) => {
   );
 };
 
-export const getAllAuthors = async () =>
-  await readFile("content/autori.yml", "utf-8")
+export const getAllAuthors = async () => {
+  const path = join(process.cwd(), "content", "autori.yml");
+  return await readFile(path, "utf-8")
     .then((str) => yaml.load(str) as Pojo)
     .then(decodeAuthors);
+};
 
 //
 // Podcasts
