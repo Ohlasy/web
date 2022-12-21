@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import { absolute, Route } from "src/routing";
+import { Route } from "src/routing";
 import { Dosis } from "@next/font/google";
 import Script from "next/script";
 import { getSignedResizedImage, IMAGE_SIGNING_KEY } from "src/utils";
@@ -30,9 +30,7 @@ export const Layout: React.FC<LayoutProps> = ({
         <meta name="description" content={description} />
         <meta
           property="og:image"
-          content={absolute(
-            getSignedResizedImage(image, 1200, IMAGE_SIGNING_KEY)
-          )}
+          content={getSignedResizedImage(image, 1200, IMAGE_SIGNING_KEY)}
         />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         <link rel="me" href={Route.toMastodon} />
