@@ -6,6 +6,13 @@ const nextConfig = {
     locales: ["cs"],
     defaultLocale: "cs",
   },
+  images: {
+    remotePatterns: [
+      { hostname: "**.kulturaboskovice.cz" },
+      { hostname: "**.ohlasy.info" },
+      { hostname: "**.imgur.com" },
+    ],
+  },
   async rewrites() {
     return [
       {
