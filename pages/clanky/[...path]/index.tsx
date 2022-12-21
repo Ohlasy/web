@@ -5,7 +5,7 @@ import { Layout } from "components/Layout";
 import { PreviewNest9 } from "components/PreviewNest";
 import fs from "fs";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
-import Head from "next/head";
+import { join } from "path";
 import { ParsedUrlQuery } from "querystring";
 import React from "react";
 import {
@@ -164,7 +164,10 @@ export const getStaticProps: GetStaticProps<PageProps, QueryParams> = async ({
   const serialIntroPost =
     article.category === "seriály"
       ? // TBD: Add path routing similar to Route
-        fs.readFileSync(`content/serials/${article.serial}.md`, "utf-8")
+        fs.readFileSync(
+          join(process.cwd(), "content", "serials", article.serial + ".md"),
+          "utf-8"
+        )
       : undefined;
 
   const author = authors.find((a) => a.name === article.author)!;
