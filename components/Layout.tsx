@@ -117,7 +117,9 @@ const SearchForm = () => {
   const [query, setQuery] = useState("");
   const handleSubmit = (event: any) => {
     const localizedQuery = `${query} site:ohlasy.info`;
-    window.location.href = "https://www.google.cz/search?q=" + localizedQuery;
+    window.location.href =
+      "https://www.google.cz/search?" +
+      new URLSearchParams({ q: localizedQuery });
     event.preventDefault();
   };
   return (
