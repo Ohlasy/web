@@ -57,7 +57,14 @@ export function getFileSystemPathForUrlPathFragments(
 ): string | undefined {
   const [year, month, slug] = fragments;
   const nakedSlug = slug.replace(".html", "");
-  const folder = join(process.cwd(), "content", "articles", year, month);
+  const folder = join(
+    process.cwd(),
+    "content",
+    "articles",
+    year,
+    // strip leading zero
+    (+month).toString()
+  );
   return getFilesRecursively(folder).find((path) =>
     path.endsWith(`${nakedSlug}.md`)
   );
