@@ -2,6 +2,10 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  i18n: {
+    locales: ["cs"],
+    defaultLocale: "cs",
+  },
   async rewrites() {
     return [
       {
