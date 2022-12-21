@@ -26,4 +26,4 @@ Podrobně je infrastruktura popsaná v souboru [infra.tf](https://github.com/Ohl
 
 Virtuální server u [Digital Ocean](https://digitalocean.com), ručně instalovaná instance [Discourse](https://www.discourse.org).
 
-[![Powered by Vercel](/assets/vercel.svg?raw=true)](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss)
+[![Powered by Vercel](/public/vercel.svg?raw=true)](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss)
