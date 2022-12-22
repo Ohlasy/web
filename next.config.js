@@ -27,10 +27,6 @@ const nextConfig = {
         source: "/podcast/feed.xml",
         destination: "/api/feeds/podcast",
       },
-      {
-        source: "/podcast.html",
-        destination: "/podcast",
-      },
     ];
   },
   async redirects() {
