@@ -35,6 +35,7 @@ const Photo = ({ src, alt, author, caption, aspect }: PhotoProps) => {
         key={src}
         src={src}
         srcSet={getImageSrcSet(src, IMAGE_SIGNING_KEY)}
+        sizes="(min-width: 900px) 60vw, 100vw"
         alt={alt ?? caption ?? ""}
         className="img-responsive"
       />
