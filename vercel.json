@@ -1,30 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/podcast.html",
-      "destination": "/podcast/"
-    },
-    {
-      "source": "/go/cisla",
-      "destination": "https://www.notion.so/ohlasy/Ohlasy-v-slech-0cce47372104440485ff3ddeb90705c3"
-    },
-    {
-      "source": "/go/petiletka",
-      "destination": "https://data.ohlasy.info/2019/vyrocni-zprava.pdf"
-    },
-    {
-      "source": "/go/pripadovka",
-      "destination": "https://data.ohlasy.info/2021/pripadovka.pdf"
-    },
-    {
-      "source": "/darujte",
-      "destination": "https://www.darujme.cz/projekt/1202392"
-    },
-    {
-      "source": "/darujme",
-      "destination": "https://www.darujme.cz/projekt/1202392"
-    }
-  ],
   "github": {
     "silent": true
   }
