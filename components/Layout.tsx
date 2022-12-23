@@ -32,6 +32,10 @@ export const Layout: React.FC<LayoutProps> = ({
           property="og:image"
           content={getSignedResizedImage(image, 1200, IMAGE_SIGNING_KEY)}
         />
+        <meta
+          name="facebook-domain-verification"
+          content="9r1n39410sjkq869x1ymqyoso8ik65"
+        />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         <link rel="me" href={Route.toMastodon} />
       </Head>
