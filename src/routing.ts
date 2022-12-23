@@ -8,8 +8,9 @@ export const siteUrl = "https://ohlasy.info";
 export const Route = {
   // Static routes
   toHomePage: "/",
-  toArticleFeed: "/feed.xml",
   toPodcast: "/podcast",
+  toArticleFeed: "/feed.xml",
+  toHrebenovkaFeed: "/podcast/hrebenovka.xml",
   toPodcastFeed: "/podcast.xml",
   // Dynamic routes
   toArticle: getArticlePath,

@@ -27,6 +27,10 @@ const nextConfig = {
         source: "/podcast/feed.xml",
         destination: "/api/feeds/podcast",
       },
+      {
+        source: "/podcast/hrebenovka.xml",
+        destination: "/api/feeds/hrebenovka",
+      },
     ];
   },
   async redirects() {
