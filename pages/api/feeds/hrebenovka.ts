@@ -3,7 +3,7 @@ import {
   convertEpisodeToPodcastItem,
   getPodcastEpisodes,
 } from "src/data-source/content";
-import { absolute, Route } from "src/routing";
+import { absolute, RouteTo } from "src/routing";
 import { iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
 import { join } from "path";
 
@@ -16,8 +16,8 @@ export default async (
   const feed: iTunesPodcastShow = {
     title: "Hřebenovka",
     author: "Ohlasy",
-    link: absolute(Route.toPodcast),
-    selfLink: absolute(Route.toHrebenovkaFeed),
+    link: absolute(RouteTo.podcasts),
+    selfLink: absolute(RouteTo.hrebenovkaFeed),
     description:
       "Rozhovory z nadhledu se zajímavými lidmi z Boskovic a okolí o důležitých tématech, která pálí naše město. Na kulturu, sport, architekturu, školství nebo komunitní dění se ptají moderátoři Marek Čech a David Liber. O zvuk se stará Jiří Krajíček.",
     image: "https://i.ohlasy.info/i/2e70d674.png",

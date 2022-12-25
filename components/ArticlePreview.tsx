@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Metadata } from "src/article";
-import { Route } from "src/routing";
+import { RouteTo } from "src/routing";
 import { getSignedResizedImage, IMAGE_SIGNING_KEY, tilde } from "src/utils";
 
 export type ArticlePreviewProps = {
@@ -13,7 +13,7 @@ export const BigArticlePreview: React.FC<ArticlePreviewProps> = ({
 }) => (
   <div className="article-preview article-preview-big">
     <div className="row">
-      <Link href={Route.toArticle(article)}>
+      <Link href={RouteTo.article(article)}>
         <div className="col-sm-4">
           <div className="article-preview-text">
             <Title {...article} />
@@ -40,7 +40,7 @@ export const ArticlePreview: React.FC<ArticlePreviewProps> = ({
   type = "",
 }) => (
   <div className={`article-preview article-preview-middle ${type}`}>
-    <Link href={Route.toArticle(article)}>
+    <Link href={RouteTo.article(article)}>
       <div className="force-hd-aspect">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
@@ -59,7 +59,7 @@ export const SmallArticlePreview: React.FC<ArticlePreviewProps> = ({
   type = "",
 }) => (
   <div className={`article-preview article-preview-small ${type}`}>
-    <Link href={Route.toArticle(article)}>
+    <Link href={RouteTo.article(article)}>
       <Title {...article} />
     </Link>
   </div>

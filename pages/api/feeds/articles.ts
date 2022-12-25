@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import { absolute, Route, siteUrl } from "src/routing";
+import { absolute, RouteTo, siteUrl } from "src/routing";
 import { renderFeed, RSSFeed, RSSFeedItem } from "src/feeds";
 import { join } from "path";
 import { compareByDate, getAllArticles, Article } from "src/article";
@@ -15,7 +15,7 @@ export default async (
   const feed: RSSFeed = {
     title: "Ohlasy",
     link: siteUrl,
-    selfLink: absolute(Route.toArticleFeed),
+    selfLink: absolute(RouteTo.articleFeed),
     description: "Noviny pro Boskovice a okolí",
     language: "cs",
     copyright: "Ohlasy, z.s.",
@@ -40,7 +40,7 @@ export default async (
 
 /** Convert article into an RSS feed item with full article text */
 function feedItemFromArticle(article: Article): RSSFeedItem {
-  const permalink = absolute(Route.toArticle(article));
+  const permalink = absolute(RouteTo.article(article));
   const renderContent = (body: string) =>
     ReactDOMServer.renderToStaticMarkup(ArticleContent({ src: body }));
   return {

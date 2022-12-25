@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import { Route } from "src/routing";
+import { RouteTo } from "src/routing";
 import { Dosis } from "@next/font/google";
 import Script from "next/script";
 import { getSignedResizedImage, IMAGE_SIGNING_KEY } from "src/utils";
@@ -37,7 +37,7 @@ export const Layout: React.FC<LayoutProps> = ({
           content="9r1n39410sjkq869x1ymqyoso8ik65"
         />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
-        <link rel="me" href={Route.toMastodon} />
+        <link rel="me" href={RouteTo.Mastodon} />
       </Head>
       <Script
         data-domain="ohlasy.info"
@@ -55,7 +55,7 @@ const NavBar = () => {
     <nav className="navbar navbar-default">
       <div className="container">
         <h1 className={mainHeadingFont.className}>
-          <Link href={Route.toHomePage}>
+          <Link href={RouteTo.homePage}>
             Ohlasy <small>dění na Boskovicku</small>
           </Link>
         </h1>
@@ -77,30 +77,30 @@ const Footer = () => (
               </em>
             </li>
             <li>
-              vydává <Link href={Route.toCompanyInfo}>spolek šílenců</Link>,{" "}
+              vydává <Link href={RouteTo.companyInfo}>spolek šílenců</Link>,{" "}
               <span className="nobreak">
                 protože kdo jiný by dneska dělal noviny
               </span>
             </li>
             <li>nepoužíváme žádné cookies, respektujeme vaše soukromí</li>
             <li>
-              <Link href={Route.toFacebook}>Facebook</Link> /{" "}
-              <Link href={Route.toMastodon}>Mastodon</Link> /{" "}
-              <Link href={Route.toYouTube}>YouTube</Link> /{" "}
-              <Link href={Route.toInstagram}>Instagram</Link> /{" "}
-              <Link href={Route.toSpotify}>Spotify</Link>
+              <Link href={RouteTo.Facebook}>Facebook</Link> /{" "}
+              <Link href={RouteTo.Mastodon}>Mastodon</Link> /{" "}
+              <Link href={RouteTo.YouTube}>YouTube</Link> /{" "}
+              <Link href={RouteTo.Instagram}>Instagram</Link> /{" "}
+              <Link href={RouteTo.Spotify}>Spotify</Link>
             </li>
             <li>
-              <Link href={Route.toAdsInfo}>Inzerce</Link> /{" "}
-              <Link href={Route.toArchive}>Archiv článků</Link> /{" "}
-              <Link href={Route.toForum}>Diskuzní fórum</Link>
+              <Link href={RouteTo.adsInfo}>Inzerce</Link> /{" "}
+              <Link href={RouteTo.archive}>Archiv článků</Link> /{" "}
+              <Link href={RouteTo.forum}>Diskuzní fórum</Link>
             </li>
             <li>
               <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
             </li>
             <li>+420 608 763 954</li>
             <li>
-              <Link href={Route.toVercel} className="powered-by">
+              <Link href={RouteTo.Vercel} className="powered-by">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src="/vercel.svg" alt="Powered by Vercel" />
               </Link>

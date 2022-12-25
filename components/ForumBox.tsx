@@ -1,6 +1,6 @@
 import { Banner } from "src/data-source/banners";
 import { getUserAvatar, LatestTopicsSummary } from "src/data-source/forum";
-import { Route } from "src/routing";
+import { RouteTo } from "src/routing";
 import { BannerBox } from "./BannerBox";
 
 export type Props = {
@@ -28,7 +28,7 @@ export const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
           {topics.map((topic) => (
             <div key={topic.id} className="row">
               <div className="col-sm-8">
-                <a href={Route.toForumTopic(topic)}>{topic.title}</a>
+                <a href={RouteTo.forumTopic(topic)}>{topic.title}</a>
               </div>
               <div className="col-sm-4">
                 {topic.posters.map(({ user_id }) => (

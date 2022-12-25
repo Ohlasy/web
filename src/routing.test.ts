@@ -1,4 +1,4 @@
-import { absolute, getArticlePath, Route } from "./routing";
+import { absolute, getArticlePath, RouteTo } from "./routing";
 
 test("Article path", () => {
   expect(
@@ -10,8 +10,8 @@ test("Article path", () => {
 });
 
 test("Routes", () => {
-  expect(Route.toHomePage).toBe("/");
-  expect(absolute(Route.toHomePage)).toBe("https://ohlasy.info/");
+  expect(RouteTo.homePage).toBe("/");
+  expect(absolute(RouteTo.homePage)).toBe("https://ohlasy.info/");
   expect(absolute("foo")).toBe("https://ohlasy.info/foo");
   expect(absolute("/foo")).toBe("https://ohlasy.info/foo");
   expect(absolute("https://ohlasy.info/foo")).toBe("https://ohlasy.info/foo");

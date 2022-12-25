@@ -3,7 +3,7 @@ import {
   convertEpisodeToPodcastItem,
   getPodcastEpisodes,
 } from "src/data-source/content";
-import { absolute, Route } from "src/routing";
+import { absolute, RouteTo } from "src/routing";
 import { iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
 import { join } from "path";
 
@@ -16,8 +16,8 @@ export default async (
   const feed: iTunesPodcastShow = {
     title: "Ohlasy Podcast",
     author: "Ohlasy",
-    link: absolute(Route.toPodcast),
-    selfLink: absolute(Route.toPodcastFeed),
+    link: absolute(RouteTo.podcasts),
+    selfLink: absolute(RouteTo.mainPodcastFeed),
     description: "Dění na Boskovicku, záznamy debat a rozhovorů",
     image: "https://i.ohlasy.info/i/waibo6c.png",
     category: "News",

@@ -5,27 +5,28 @@ import { getTopicUrl } from "./data-source/forum";
 export const siteUrl = "https://ohlasy.info";
 
 /** Get relative routes to frequently used places */
-export const Route = {
+export const RouteTo = {
   // Static routes
-  toHomePage: "/",
-  toPodcast: "/podcast",
-  toArticleFeed: "/feed.xml",
-  toHrebenovkaFeed: "/podcast/hrebenovka.xml",
-  toPodcastFeed: "/podcast.xml",
+  homePage: "/",
+  podcasts: "/podcast",
+  articleFeed: "/feed.xml",
+  mainPodcastFeed: "/podcast.xml",
+  hrebenovkaFeed: "/podcast/hrebenovka.xml",
   // Dynamic routes
-  toArticle: getArticlePath,
-  toForumTopic: getTopicUrl,
+  article: getArticlePath,
+  forumTopic: getTopicUrl,
   // External routes
-  toFacebook: "https://www.facebook.com/ohlasy",
-  toMastodon: "https://boskovice.social/@ohlasy",
-  toYouTube: "https://www.youtube.com/channel/UCylOefq0Efb-A452MlTuejw",
-  toInstagram: "http://instagram.com/ohlasy_boskovice/",
-  toVercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
-  toSpotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
-  toArchive: "http://archiv.ohlasy.info",
-  toForum: "https://forum.ohlasy.info",
-  toAdsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
-  toCompanyInfo: "https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e",
+  archive: "http://archiv.ohlasy.info",
+  forum: "https://forum.ohlasy.info",
+  adsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
+  companyInfo: "https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e",
+  // Socials
+  Facebook: "https://www.facebook.com/ohlasy",
+  Mastodon: "https://boskovice.social/@ohlasy",
+  YouTube: "https://www.youtube.com/channel/UCylOefq0Efb-A452MlTuejw",
+  Instagram: "http://instagram.com/ohlasy_boskovice/",
+  Vercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
+  Spotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
 };
 
 /**
