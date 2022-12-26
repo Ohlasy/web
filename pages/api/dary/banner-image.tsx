@@ -1,5 +1,6 @@
 import { ImageResponse } from "@vercel/og";
-import { NextRequest } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
+import { Duration } from "src/utils";
 
 export const config = {
   runtime: "edge",
@@ -15,7 +16,7 @@ const parsePercentage = (val: string) => {
   return isNaN(int) ? 0 : Math.min(Math.max(0, int), 100);
 };
 
-export default async function (req: NextRequest) {
+export default async function (req: NextRequest, res: NextResponse) {
   const { searchParams } = req.nextUrl;
   const percentage = parsePercentage(searchParams.get("percentage") || "0");
   const width = (percentage / 100) * 656;
@@ -71,6 +72,9 @@ export default async function (req: NextRequest) {
           data: fontData,
         },
       ],
+      headers: {
+        "Cache-Control": `max-age=${Duration.oneWeek}, s-maxage=${Duration.oneWeek}, stale-while-revalidate`,
+      },
     }
   );
 }

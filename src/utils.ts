@@ -83,3 +83,11 @@ export function map<T, U>(
 export function tilde(str: string): string {
   return str.replaceAll(/\b([uioaskzv]) /gi, "$1 ");
 }
+
+/** Commonly used time durations in seconds */
+export const Duration = {
+  oneMinute: 60,
+  oneHour: 60 * 60,
+  oneDay: 24 * 60 * 60,
+  oneWeek: 7 * 24 * 60 * 60,
+};
