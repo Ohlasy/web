@@ -12,7 +12,10 @@ export const photo: Schema = {
     alt: {
       type: String,
     },
-    aspect: {
+    width: {
+      type: Number,
+    },
+    height: {
       type: Number,
     },
     caption: {

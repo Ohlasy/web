@@ -7,9 +7,9 @@ category: názory a komentáře
 tags: kultura
 ---
 
-*Z úst opozice se opakovaně ozývá, že na hodnocení nové koalice je ještě příliš brzy. Pravda je to jen částečná – po dokončení prvního rozpočtu a po prvních zasedáních nové rady už minimálně víme dost o plánech na první rok práce a o hlavních prioritách, které se logicky nové vedení snaží neodkládat. Vyplývá z toho mimo jiné jeden závěr: kultura zatím zůstává tím, čím byla doposud – opomíjenou Popelkou.*
+_Z úst opozice se opakovaně ozývá, že na hodnocení nové koalice je ještě příliš brzy. Pravda je to jen částečná – po dokončení prvního rozpočtu a po prvních zasedáních nové rady už minimálně víme dost o plánech na první rok práce a o hlavních prioritách, které se logicky nové vedení snaží neodkládat. Vyplývá z toho mimo jiné jeden závěr: kultura zatím zůstává tím, čím byla doposud – opomíjenou Popelkou._
 
-{% photo src="https://i.ohlasy.info/i/1ffc96a6.jpg" aspect=1.33 /%}
+{% photo src="https://i.ohlasy.info/i/1ffc96a6.jpg" width=1600 height=1200 /%}
 
 Boskovická kultura má dva hlavní problémy: je dlouhodobě silně podfinancovaná a má špatně rozvrženou infrastrukturu, tedy prostorové a technické zázemí, ve kterém se odehrává.
 
@@ -35,4 +35,4 @@ Od nového vedení města voliči určitě očekávají víc než hezká slova o
 
 Možná si kultura za svůj osud Popelky může tak trochu sama. Pokud se má něco změnit, musí zjevně vystoupit z kouta a adekvátní peníze v rozpočtu si vybojovat. Nová radnice dala prvním rozpočtem najevo, že samo se nic nestane. Je třeba znovu důrazně připomenout, že navýšení financí pro kulturu měly vítězné strany ve svých programech, a pokud se máme bavit vážně, nemluvíme o desítkách tisíc pro nezřizovanou kulturu a o statisících pro KZMB. Částky musí být o řád vyšší.
 
-*(Autor je režisér divadla NABOSO a řadový člen spolku Unijazz Boskovice, který provozuje kulturní a komunitní centrum Prostor.)*
+_(Autor je režisér divadla NABOSO a řadový člen spolku Unijazz Boskovice, který provozuje kulturní a komunitní centrum Prostor.)_

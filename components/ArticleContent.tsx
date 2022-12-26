@@ -4,6 +4,7 @@ import React from "react";
 import Markdoc from "@markdoc/markdoc";
 import { getImageSrcSet, IMAGE_SIGNING_KEY } from "src/utils";
 import { defaultMarkdocConfig } from "src/markdoc-schema";
+import Image from "next/image";
 
 export type ArticleBodyProps = {
   /** Markdoc source */
@@ -24,13 +25,24 @@ type PhotoProps = {
   alt?: string;
   author?: string;
   caption?: string;
-  aspect?: number;
+  width?: number;
+  height?: number;
 };
 
-const Photo = ({ src, alt, author, caption, aspect }: PhotoProps) => {
-  return (
-    <div>
-      {/* eslint-disable-next-line @next/next/no-img-element */}
+const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
+  const image =
+    width && height ? (
+      <Image
+        key={src}
+        src={src}
+        sizes="(min-width: 900px) 60vw, 100vw"
+        alt={alt ?? caption ?? ""}
+        width={width}
+        height={height}
+        className="img-responsive"
+      />
+    ) : (
+      // eslint-disable-next-line @next/next/no-img-element
       <img
         key={src}
         src={src}
@@ -39,6 +51,10 @@ const Photo = ({ src, alt, author, caption, aspect }: PhotoProps) => {
         alt={alt ?? caption ?? ""}
         className="img-responsive"
       />
+    );
+  return (
+    <div>
+      {image}
       {(author || caption) && (
         <div className="img-meta">
           {caption}

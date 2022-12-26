@@ -6,13 +6,13 @@ perex: "Duchovní zamyšlení napsal evangelický farář Jiří Bureš. S přá
 category: názory a komentáře
 ---
 
-*Duchovní zamyšlení napsal evangelický farář Jiří Bureš pro časopis Na rozcestí. S přáním požehnaných Vánoc jej publikujeme, základem textu je biblický verš ze druhé kapitoly Lukášova evangelia: „Maria porodila svého prvorozeného syna, zavinula jej do plenek a položila do jeslí, protože se pro ně nenašlo místo pod střechou.“*
+_Duchovní zamyšlení napsal evangelický farář Jiří Bureš pro časopis Na rozcestí. S přáním požehnaných Vánoc jej publikujeme, základem textu je biblický verš ze druhé kapitoly Lukášova evangelia: „Maria porodila svého prvorozeného syna, zavinula jej do plenek a položila do jeslí, protože se pro ně nenašlo místo pod střechou.“_
 
-{% photo src="https://i.ohlasy.info/i/0780b6af.jpg" caption="Sudická škola" author="Ondřej Sabol" aspect=1.33 /%}
+{% photo src="https://i.ohlasy.info/i/0780b6af.jpg" caption="Sudická škola" author="Ondřej Sabol" width=1600 height=1200 /%}
 
 Sedíme s dětmi v kruhu ve třídě v Sudické škole. Vyprávím vánoční příběh. Uprostřed jsme z látek rozložili žlutavou hvězdu a siluety domů. Pomáhám si figurkami z kostelního betléma: keramický Josef si po krátkém váhání bere za ženu keramickou Marii. Pak se chopí figurek dvě z dětí a „putují do Betléma“. Obejdou třídu a zvenku kruhu klepou na opěrátka židlí; prosí, aby je majitel pustil k sobě. „Tady je plno.“ „Běžte pryč.“ Scéna se samovolně rozvíjí a vymýšlíme s dětmi nové a nové reakce. – „Cizí lidi nechci do domu.“ – „Už není místo.“ – „Nemám čas.“ – „Dejte mi pokoj!“
 
-Každé Vánoce to máme před očima: Ježíš přichází na svět jako nechtěné a ohrožené dítě. Samotný porod je těžkou hodinou, chvilkou, kdy je v sázce přežití dítěte, někdy i matky. Maria ale navíc musela porodit v chlévě, v koutě, v nejhrubší nouzi. Měla k ruce někoho kromě svého muže? Absolvoval snad Josef předporodní kurz? Měli tam aspoň čistou vodu? 
+Každé Vánoce to máme před očima: Ježíš přichází na svět jako nechtěné a ohrožené dítě. Samotný porod je těžkou hodinou, chvilkou, kdy je v sázce přežití dítěte, někdy i matky. Maria ale navíc musela porodit v chlévě, v koutě, v nejhrubší nouzi. Měla k ruce někoho kromě svého muže? Absolvoval snad Josef předporodní kurz? Měli tam aspoň čistou vodu?
 
 V chlívku? Moc bychom na to nevsadili. Vždyť i kolíbku měl Ježíšek ve žlabu pro dobytek.
 
