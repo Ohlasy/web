@@ -31,6 +31,8 @@ type PhotoProps = {
 
 const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
   const image =
+    // If we have the image dimensions, we can use next/image to get better
+    // speed and format support and less layout jumping.
     width && height ? (
       <Image
         key={src}
@@ -42,6 +44,7 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
         className="img-responsive"
       />
     ) : (
+      // Without image dimensions, we have to resort to plain old <img> with layout jumps.
       // eslint-disable-next-line @next/next/no-img-element
       <img
         key={src}
