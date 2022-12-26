@@ -6,6 +6,7 @@ const nextConfig = {
     remotePatterns: [
       { hostname: "**.kulturaboskovice.cz" },
       { hostname: "**.ohlasy.info" },
+      { hostname: "ohlasy.info" },
       { hostname: "**.imgur.com" },
     ],
   },
