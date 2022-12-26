@@ -1,6 +1,5 @@
 import { ImageResponse } from "@vercel/og";
 import { NextRequest, NextResponse } from "next/server";
-import { Duration } from "src/utils";
 
 export const config = {
   runtime: "edge",
@@ -72,9 +71,6 @@ export default async function (req: NextRequest, res: NextResponse) {
           data: fontData,
         },
       ],
-      headers: {
-        "Cache-Control": `max-age=${Duration.oneWeek}, s-maxage=${Duration.oneWeek}, stale-while-revalidate`,
-      },
     }
   );
 }
