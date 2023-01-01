@@ -24,5 +24,5 @@ export default async (
     "Cache-Control",
     `max-age=${Duration.oneDay}, s-maxage=${Duration.oneDay}, stale-while-revalidate`
   );
-  response.redirect(`/api/dary/banner-image/?percentage=${percentage}`);
+  response.redirect(302, `/api/dary/banner-image/?percentage=${percentage}`);
 };
