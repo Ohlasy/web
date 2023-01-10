@@ -27,6 +27,21 @@ export const photo: Schema = {
   },
 };
 
+export const profile_photo: Schema = {
+  render: "ProfilePhoto",
+  selfClosing: true,
+  attributes: {
+    src: {
+      type: String,
+      required: true,
+      errorLevel: "error",
+    },
+    name: {
+      type: String,
+    },
+  },
+};
+
 export const spotify_episode: Schema = {
   render: "SpotifyEpisode",
   selfClosing: true,
@@ -76,5 +91,11 @@ export const datawrapper_chart: Schema = {
 };
 
 export const defaultMarkdocConfig: Config = {
-  tags: { photo, spotify_episode, youtube_video, datawrapper_chart },
+  tags: {
+    photo,
+    profile_photo,
+    spotify_episode,
+    youtube_video,
+    datawrapper_chart,
+  },
 };

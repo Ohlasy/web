@@ -15,7 +15,13 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
   const syntaxTree = Markdoc.parse(src);
   const content = Markdoc.transform(syntaxTree, defaultMarkdocConfig);
   const node = Markdoc.renderers.react(content, React, {
-    components: { Photo, SpotifyEpisode, YouTubeVideo, DatawrapperChart },
+    components: {
+      Photo,
+      ProfilePhoto,
+      SpotifyEpisode,
+      YouTubeVideo,
+      DatawrapperChart,
+    },
   });
   return <>{node}</>;
 };
@@ -78,6 +84,21 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
     </div>
   );
 };
+
+type ProfilePhotoProps = {
+  src: string;
+  name?: string;
+};
+
+const ProfilePhoto = ({ src, name }: ProfilePhotoProps) => (
+  <Image
+    src={src}
+    alt={name ?? ""}
+    width={100}
+    height={100}
+    style={{ borderRadius: "50%", float: "left", marginRight: "2ex" }}
+  />
+);
 
 type SpotifyEpisodeProps = {
   id: string;
