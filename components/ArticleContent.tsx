@@ -58,13 +58,23 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
   return (
     <div>
       {image}
-      {(author || caption) && (
-        <div className="img-meta">
-          {caption}
-          {caption && "  "}
-          {author && <span className="img-author">foto: {author}</span>}
-        </div>
-      )}
+      <div className="img-meta">
+        {caption && <span style={{ marginRight: "2ex" }}>{caption}</span>}
+        {author && (
+          <span className="img-author">
+            <a href={src} style={{ color: "inherit" }}>
+              foto: {author}
+            </a>
+          </span>
+        )}
+        {!author && (
+          <span className="img-author">
+            <a href={src} style={{ color: "inherit" }}>
+              stáhnout foto
+            </a>
+          </span>
+        )}
+      </div>
     </div>
   );
 };
