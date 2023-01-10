@@ -10,7 +10,7 @@ tags: politika volby2018
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/svrdz2v.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/svrdz2v.jpg" name="" /%}
 
 **ČSSD – Věra Opatřilová**
 
@@ -20,7 +20,7 @@ Dopracujeme řešení provozování sokolovny, provedeme opravy technického zá
 
 Výzvou je pro nás dokončení rekonstrukce letního kina a příprava realizace komunitního centra s knihovnou. Při řešení je na místě úzká spolupráce s městským architektem a fakultou architektury v Liberci. 
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/rqqbm6i.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/rqqbm6i.jpg" name="" /%}
 
 **STAN a Sportovci Boskovice – Vladimír Ryšávka**
 
@@ -30,25 +30,25 @@ Ke knihovně: Při návštěvě jakékoliv dobře spravované a vybavené městs
 
 Dále máme na paměti dokončení opravy letního kina a dotažení úprav exteriéru skleníku, aby návštěvníci různých akcí neměli boty od bahna poté, co přijde májový deštík. Fandíme hlavně tradičním boskovickým akcím – Husí slavnosti nebo Festival pro židovskou čtvrť. Nechceme však zapomenout na podporu komornějších akcí pro vyprofilovanější návštěvníky různorodých kulturních setkání.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/u5fqakj.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/u5fqakj.jpg" name="" /%}
 
 **ODS – Libor Dvořáček**
 
 Dotažení rekonstrukce letního kina i kompletní opravy sokolovny jsou společným zájmem. O potřebě knihovny také není nutné diskutovat. Mnoho akcí, které se dnes odehrávají v Boskovicích, se těší celonárodnímu zájmu, pomáhají turismu i zviditelnění města. Chceme je více podpořit. O ZUŠ jeví zájem více rodičů a dětí. Je renesance živých muzikantů a kapel. Rádi bychom tento trend a aktivitu podpořili. Myslíme si, že větší podporu je potřeba poskytnout všem amatérským divadelníkům, muzikantům, tanečníkům a umělcům, kteří ve městě působí a aktivně se prezentují. Jsme také pro větší podporu mladých i aktivních seniorů. Těmto všem poskytnout prostory pro vytvoření kluboven a zkušeben, kde se mohou scházet a umělci připravovat. Tyto prostory bychom jistě mohli najít v sokolovně, skleníku, katolickém domě či i zatím nevyužité budově O2 nebo i plánované knihovně. Chtěli bychom zviditelnit a více zapojit do kulturního dění školy (i praktickou), Betany a DDM. Další informace najdete v ODS zpravodaji.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ysurmh9.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/ysurmh9.jpg" name="" /%}
 
 **Volba pro Boskovice s podporou TOP 09 – Petr Šafránek**
 
 Co se týče kultury jako takové, je nutné podotknout, že i když se jedná o soubor lidských tvůrčích činností, musíme vytvářet neustále kvalitní zázemí pro ty, kteří ji vytvářejí. Hlavní prioritou, což znamená i prosazení konkrétních kroků, je podporovat kulturu a společenský život pro všechny generace – seniory a tím nejen rozvíjet podmínky pro důstojné stáří, otevřít další možnosti činností pro mladé a nadále podporovat spolkový život a jejich aktivity, protože se všechny tyto skupiny na kultuře ve městě významně podílejí, jak už z pohledu tvůrců nebo těch, kteří kulturní akce navštěvují. Pro naše uskupení Volba pro Boskovice s podporou TOP 09 to bezesporu znamená vybudovat kvalitní prostředí pro městskou knihovnu a podporovat i podmínky pro inovativní vzdělávání, a v neposlední řadě také dokončit kompletně areál letního kina, který je nedílnou součástí a obrazem Boskovic nejen pro místní, ale i atraktivitou pro návštěvníky města nejen během festivalů v letní sezóně.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/0l63kfa.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/0l63kfa.jpg" name="" /%}
 
 **ANO 2011 – Petr Axman**
 
 Boskovice a kultura jsou spolu pevně provázány a již několikrát jsem slyšel: „V Boskovicích to žije!“. I přesto, že kultura v Boskovicích je vnímána velice silně, je možné nalézt prostor, kde bychom rádi přispěli a dosáhli zlepšení. Chceme dokončit nebo viditelně rozpracovat projekty spojené s kulturou v Boskovicích, mezi které patří dokončení oprav sokolovny, dobudovat potřebné umělecké zázemí letního kina a postavit novou knihovnu v budově bývalého ZZN. Když se bavíme o kultuře v Boskovicích, tak se většině vybaví příspěvková organizace KZMB. Ve spojení s KZMB bychom rádi zlepšovali spolupráci s dalšími kulturními kluby, spolky a organizátory uměleckých produkcí. Nesmíme však zapomínat, že důležitým prvkem v kultuře města může být i realizace zajímavých nápadů našich občanů, se kterými bychom rádi spolupracovali a podpořili je. Dále chceme podporovat aktivity, které rozvíjí kulturní cítění v našich dětech, jako je ZUŠ, školky a základní školy.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/50nyggm.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/50nyggm.jpg" name="" /%}
 
 **Piráti – Vojtěch Sedlák**
 
@@ -56,20 +56,20 @@ Jako hlavní úkoly Boskovic v oblasti kultury vnímám realizaci několika velk
 
 Dalším nezbytným krokem pro zlepšení kulturního života v Boskovicích je navýšení celkových výdajů města v oblasti kultury, a to jak za účelem investic, tak pro podporu nových či již zaběhlých kulturních akcí (například festival Boskovice). V neposlední řadě se chci zasadit o vznik alternativního kulturního prostoru finančně podporovaného městem, který by sloužil jako místo setkávání kreativních lidí, takový prostor totiž momentálně v Boskovicích chybí.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/cjtciuu.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/cjtciuu.jpg" name="" /%}
 
 **KDU-ČSL – Tomáš Pléha**
 
 Hlavním dluhem minulých let je knihovna. Je nutné pokračovat v započatých snahách stávající koalice a začít ji opravdu stavět. Projektová dokumentace bude hotová v polovině příštího roku. V rozpočtovém výhledu jsou na její realizaci vyčleněny finanční prostředky. Důležité je zpracovat kvalitní projekt na rekonstrukci sokolovny, intenzivně komunikovat s kulturními spolky a veřejností, aby výsledek byl funkční. Trojici důležitých investic v oblasti kultury představuje dokončení poslední etapy rekonstrukce letního kina a přilehlého parku. Krom toho je třeba finančně podporovat významné festivaly (Festival Boskovice, Mandolínový festival, znovuobnovený Majáles 2019 apod.) a především spolky a soubory, které se věnují kulturním aktivitám. Za mě by bylo zajímavé zřídit nový druh grantu pro malé jednorázové kulturní akce s podporou do 3000 korun bez nutné spoluúčasti žadatele. Na zvážení je obnovení fungování samostatné kulturní komise. Tato skupina by jistě přinesla zajímavé podněty.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ijuc8vw.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/ijuc8vw.jpg" name="" /%}
 
 **Sdružení nestraníků – Petra Srstková**
 
 Kulturní zařízení města Boskovice patří do historických budov v centru města. Proto je náš program motivován těmito snahami.
 Chceme zahájit jednání s majiteli historických budov v centru města o odkoupení panského dvora a zámecké jízdárny. Vypracovat novou koncepci výstavby chybějících kulturních zařízení v těchto dvou historických budovách. Zastavit realizaci projektu Městské knihovny architekta Zdeňka Fránka. Vyhlásit místní referendum, abychom zjistili, zda občané, kteří nedostali příležitost se k této veřejné investici vyjádřit, tuto stavbu skutečně (na tomto místě) chtějí. Chceme vypracovat koncepci výstavby chybějících kulturních zařízení v těchto dvou historických budovách a zajistit financování a chod Kulturních zařízení v současných podmínkách. Provedeme personální audit KZMB, změníme organizační strukturu a budeme organizovat kulturní dění ve městě z vlastních zdrojů a s vlastními zaměstnanci.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/rtd92sn.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/rtd92sn.jpg" name="" /%}
 
 **Boskováci – Zuzana Filipová**
 

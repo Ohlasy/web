@@ -14,7 +14,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/woxgwrp.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/woxgwrp.jpg" name="" /%}
 
 **Michal Pospíšil, volejbal**
 
@@ -24,7 +24,7 @@ Volejbalisté jsou jednoznačně pro to, aby tady už konečně nějaká odpoví
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/zfbucab.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/zfbucab.jpg" name="" /%}
 
 **Ladislav Oujeský, florbal**
 
@@ -34,7 +34,7 @@ Když bych měl připojit svůj osobní názor, je pro mě přidanou hodnotou ve
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/zzauyw3.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/zzauyw3.jpg" name="" /%}
 
 **Vladimír Petrů, fotbal**
 
@@ -46,7 +46,7 @@ Osobně jsem toho názoru, že pokud by se nepodařila najít široká shoda (ja
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/u2rrioq.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/u2rrioq.jpg" name="" /%}
 
 **Petr Toman, basketbal**
 
@@ -58,7 +58,7 @@ Z mého pohledu je nutné mít halu / tělocvičnu, která splňuje parametry h�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/svrdz2v.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/svrdz2v.jpg" name="" /%}
 
 **Věra Opatřilová, TJ Rytmus**
 
@@ -74,7 +74,7 @@ Pokud bychom my byli postaveni před rozhodnutí: Sušilova ✕ Hybešova, nebo 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/8yb1skf.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/8yb1skf.jpg" name="" /%}
 
 **Karel Trefný, aikido**
 
@@ -82,7 +82,7 @@ Já preferoval Slovákovu, nyní preferuji Hybešku. Sušilovu bych připustil z
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/keooask.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/keooask.jpg" name="" /%}
 
 **Lubomír Slezák, sportovní novinář**
 
@@ -96,7 +96,7 @@ Myslím si, že ztracené roky nedožene žádné politické rozhodnutí, které
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ehjaky1.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ehjaky1.jpg" name="" /%}
 
 **Lukáš Lorenc, sportovní novinář**
 

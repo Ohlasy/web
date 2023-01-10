@@ -15,7 +15,7 @@ tags:
 
 ---
 
-<img src="https://i.ohlasy.info/i/pet3wwg.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/pet3wwg.jpg" name="" /%}
 
 **Helena Továrková, ředitelka Nadace Veronica**
 
@@ -23,7 +23,7 @@ Studenti by měli chtít od obce jasný plán adaptace na změnu klimatu – jak
 
 ---
 
-<img src="https://i.ohlasy.info/i/bff5cf09.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/bff5cf09.jpg" name="" /%}
 
 **Žaneta Ondroušková, environmentalistka a mediální analytička**
 
@@ -37,7 +37,7 @@ S tím souvisí další věc, kterou považuji za nezbytnou. Stávkující by na
 
 ---
 
-<img src="https://i.ohlasy.info/i/209ec01a.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/209ec01a.jpg" name="" /%}
 
 **Martina Lukešová, ekoložka a středoškolská pedagožka**
 
@@ -53,7 +53,7 @@ Je třeba si uvědomit, že bez půdy a bez vody nemáme moc šancí přežít. 
 
 ---
 
-<img src="https://i.ohlasy.info/i/lu5pyol.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/lu5pyol.jpg" name="" /%}
 
 **Lukáš Pokorný, environmentální aktivista a AV technik**
 

@@ -11,7 +11,7 @@ category: ankety
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ysqmuc7.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ysqmuc7.jpg" name="" /%}
 
 **Vladimír Petrů, člen sportovní komise, autor sportovní koncepce**
 
@@ -25,7 +25,7 @@ Celkově vnímám návrh velice pozitivně, je vidět, že si autoři s areálem
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/fctoipy.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/fctoipy.jpg" name="" /%}
 
 **Milan Strya, jednatel společnosti Služby Boskovice**
 
@@ -37,7 +37,7 @@ Skatepark v blízkosti fotbalového hřiště není vzhledem k hluku šťastným
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/svrdz2v.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/svrdz2v.jpg" name="" /%}
 
 **Věra Opatřilová, předsedkyně TJ Rytmus**
 
@@ -60,7 +60,7 @@ Jako nevýhodu vidím:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/keooask.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/keooask.jpg" name="" /%}
 
 **Lubomír Slezák, sportovní novinář**
 
@@ -78,7 +78,7 @@ Snad se ve svých zanedlouho šedesáti letech dočkám „alespoň“ té sport
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/f39ba67d.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/f39ba67d.jpg" name="" /%}
 
 **Michaela Žejšková, místostarostka, TOP 09**
 

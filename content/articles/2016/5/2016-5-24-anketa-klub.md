@@ -11,7 +11,7 @@ tags:
 
 ---
 
-<img src="https://i.ohlasy.info/i/enenyzb.jpg" class="profile-picture" alt="Daniela Sedláková">
+{% profile_photo src="https://i.ohlasy.info/i/enenyzb.jpg" name="Daniela Sedláková" /%}
 
 **Daniela Sedláková, pedagožka SPgŠ**
 
@@ -19,7 +19,7 @@ Domnívám se, že velmi nutně. Dětí nejrůznějšího věku, které jsou po 
 
 ---
 
-<img src="https://i.ohlasy.info/i/hn8bgi1.jpg" class="profile-picture" alt="Robert Hořava">
+{% profile_photo src="https://i.ohlasy.info/i/hn8bgi1.jpg" name="Robert Hořava" /%}
 
 **Robert Hořava, vedoucí NZDM v Blansku**
 
@@ -32,7 +32,7 @@ Ve městě Boskovice jsme v rámci terénní práce s dětmi a mládeží proved
 
 ---
 
-<img src="https://i.ohlasy.info/i/k0ygvyc.jpg" class="profile-picture" alt="https://i.ohlasy.info/i/k0ygvyc.jpg">
+{% profile_photo src="https://i.ohlasy.info/i/k0ygvyc.jpg" name="Lenka Ošlejšková" /%}
 
 **Lenka Ošlejšková, psycholožka, Gymnázium Boskovice**
 
@@ -42,7 +42,7 @@ V průběhu své praxe ve školství jsem se setkala se studenty, kteří se nez
 
 ---
 
-<img src="https://i.ohlasy.info/i/fvek0g6.jpg" class="profile-picture" alt="Miroslav Dušil">
+{% profile_photo src="https://i.ohlasy.info/i/fvek0g6.jpg" name="Miroslav Dušil" /%}
 
 **Miroslav Dušil, Vatra Boskovice**
 

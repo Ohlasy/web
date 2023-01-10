@@ -12,7 +12,7 @@ tags: koronavirus
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/6cd44324.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/6cd44324.jpeg" name="" /%}
 
 **Kateřina Buriánová, kavárnice**
 
@@ -20,7 +20,7 @@ To, že jsem se rozvzpomněla, jaké to bylo bez podnikání. Že mít čas pro 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/048f95a9.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/048f95a9.jpeg" name="" /%}
 
 **Dan Štěpánský, jednatel Nemocnice Boskovice**
 
@@ -28,7 +28,7 @@ Trudomyslnosti nepropadám programově, neboť je projevem osobnostní rezignace
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/33a63442.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/33a63442.jpeg" name="" /%}
 
 **Ladislav Oujeský, knihař, spolupracovník Paměti národa**
 
@@ -36,7 +36,7 @@ V Cimrmanově divadelní hře Dobytí severního pólu zapomněli ve vlaku míč
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/fcfb7899.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/fcfb7899.jpeg" name="" /%}
 
 **Jaroslav Dohnálek, starosta Boskovic, ODS**
 
@@ -44,7 +44,7 @@ V prvé řadě zázemí rodiny, kamarádů a nejbližších přátel. Dále snah
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/c92428de.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/c92428de.jpeg" name="" /%}
 
 **Jiří Bureš, evangelický farář**
 
@@ -52,7 +52,7 @@ Moje rodina. My evangeličtí faráři občas zatoužíme po tom, abychom žili 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/07ea8354.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/07ea8354.jpeg" name="" /%}
 
 **Marie Sáňková, ředitelka Městské správy sociálních služeb**
 
@@ -60,7 +60,7 @@ Rok 2020 byl bezesporu nejnáročnějším rokem, jaký jsem za 20 let práce v 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/a4bca8e5.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/a4bca8e5.jpg" name="" /%}
 
 **Ludmila Dobrozemská, Junák – český skaut**
 
@@ -68,7 +68,7 @@ Místo plných víkendů jsem najednou měla volno. Díky tomu jsem s mým Vašk
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/59729f1a.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/59729f1a.jpg" name="" /%}
 
 **Dagmar Hamalová, opoziční zastupitelka, KDU-ČSL**
 
@@ -76,7 +76,7 @@ Největší vzpruhou pro mě byla a je lidská sounáležitost. Celý rok lidé 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/421118b7.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/421118b7.jpeg" name="" /%}
 
 **Tomáš Znamenáček, kulturní a komunitní centrum Prostor**
 
@@ -84,7 +84,7 @@ Koronavirus ovlivnil všechny tři neziskovky, ve kterých jsem zapojený, takž
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/21306a4f.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/21306a4f.jpeg" name="" /%}
 
 **Pavel Kolmačka, ředitel Oblastní charity Blansko**
 
@@ -92,7 +92,7 @@ Lékem na události tohoto roku byla jednoznačně dobrá parta, fungující cha
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ba43ad2d.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ba43ad2d.jpg" name="" /%}
 
 **Pavel J. Michele, středoškolský učitel**
 
@@ -100,7 +100,7 @@ Lékem na události tohoto roku byla jednoznačně dobrá parta, fungující cha
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/6a1ef7c1.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/6a1ef7c1.jpg" name="" /%}
 
 **Lukáš Holík, místostarosta Boskovic, ANO**
 
@@ -108,7 +108,7 @@ Vnitřní síla a motivace posouvat Boskovice stále dopředu, a to ve všech sm
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/0eb36a50.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/0eb36a50.jpeg" name="" /%}
 
 **Jana Syrovátková, architektka, spoluzakladatelka Spolku za rozvoj architektury Boskovic**
 
@@ -116,7 +116,7 @@ Především láska k rodině a s ní spojená spousta radostí i starostí. Tak
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/4a8af69b.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/4a8af69b.jpeg" name="" /%}
 
 **Dana Makovská, předsedkyně Unijazzu Praha**
 
@@ -124,7 +124,7 @@ Osobně největší pomoc a sílu vidím v přístupu nejbližších kolegů i v
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/d2913070.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/d2913070.jpeg" name="" /%}
 
 **Radek Pernica, ředitel kina Scala, předseda boskovické kulturní komise**
 
@@ -132,7 +132,7 @@ Nejsem typ člověka, který by podléhal trudomyslnosti. Hledám na všem spí�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ba3d06d7.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ba3d06d7.jpg" name="" /%}
 
 **Jan Nádvorník, opoziční zastupitel, Piráti**
 
@@ -140,7 +140,7 @@ Otužování v rybníku a určitě blízcí lidé v mém okolí. Bylo sice možn
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/8c98397d.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/8c98397d.jpg" name="" /%}
 
 **Ondřej Štefaňák, divadelní režisér**
 
@@ -148,7 +148,7 @@ Práce. Drží mě zásadně nad vodou, že mohu nadále téměř bez omezení p
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/493e212a.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/493e212a.jpg" name="" /%}
 
 **Jaroslav Parma, tiskový mluvčí boskovické radnice**
 
@@ -156,7 +156,7 @@ Ve zvláštním a těžkém roce 2020 mně samozřejmě nejvíce pomáhala rodin
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/2d498dca.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/2d498dca.jpeg" name="" /%}
 
 **Alen Pohlová, písničkářka**
 
@@ -164,7 +164,7 @@ Rok 2020 byl pro mě navzdory okolnostem velice tvořivý. Vyšla mi deska, spol
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/d90579fd.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/d90579fd.jpeg" name="" /%}
 
 **Michaela Žejšková, předsedkyně boskovické TOP 09**
 
@@ -172,7 +172,7 @@ Soustředit se na fungování vlastního mikrosvěta ve smyslu zajištění zdra
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/233e70cf.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/233e70cf.jpg" name="" /%}
 
 **Ondřej Dostál, vedoucí vnějších vztahů Lékařské fakulty MU**
 

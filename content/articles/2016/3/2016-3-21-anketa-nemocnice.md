@@ -10,7 +10,7 @@ tags: nemocnice zdravotnictví
 
 ---
 
-<img src="https://i.ohlasy.info/i/ekp9x2h.jpg" class="profile-picture" alt="Jan Vlach">
+{% profile_photo src="https://i.ohlasy.info/i/ekp9x2h.jpg" name="Jan Vlach" /%}
 
 **Jan Vlach, emeritní primář chirurgie, bývalý zastupitel**
 
@@ -20,7 +20,7 @@ Jinak je nemocnice složitý organismus, a jsem rád, že díky novému vedení 
 
 ---
 
-<img src="https://i.ohlasy.info/i/hezbkq2.jpg" class="profile-picture" alt="Martina Přichystalová">
+{% profile_photo src="https://i.ohlasy.info/i/hezbkq2.jpg" name="Martina Přichystalová" /%}
 
 **Martina Přichystalová, dětská lékařka, bývalá primářka dětského oddělení, radní za hnutí ANO, členka valné hromady Nemocnice Boskovice s.r.o.**
 
@@ -32,7 +32,7 @@ Neblahá situace postihující celé české zdravotnictví v podobě nedostatku
 
 ---
 
-<img src="https://i.ohlasy.info/i/jrb7aet.png" class="profile-picture" alt="František Jimramovský">
+{% profile_photo src="https://i.ohlasy.info/i/jrb7aet.png" name="František Jimramovský" /%}
 
 **František Jimramovský, zastupitel za Sportovce, bývalý primář dětského oddělení nemocnice a bývalý generální ředitel IN Boskovice**
 
@@ -44,7 +44,7 @@ Nemocnice by měla mít jasnou a pragmatickou strategii, reflektující potřebn
 
 ---
 
-<img src="https://i.ohlasy.info/i/zlksiiu.jpg" class="profile-picture" alt="Miroslav Klíma">
+{% profile_photo src="https://i.ohlasy.info/i/zlksiiu.jpg" name="Miroslav Klíma" /%}
 
 **Miroslav Klíma, dětský lékař, zastupitel za ODS, člen dozorčí rady Nemocnice Boskovice s.r.o.**
 

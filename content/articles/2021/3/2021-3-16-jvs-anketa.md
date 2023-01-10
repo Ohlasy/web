@@ -11,7 +11,7 @@ category: ankety
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/tt55qrl.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/tt55qrl.jpg" name="" /%}
 
 **Luboš Valčik, grafický designér, [lubosvalcik.tumblr.com](https://lubosvalcik.tumblr.com/)**
 
@@ -25,7 +25,7 @@ Druhá věc je, že vůbec nerozumím tomu, proč na takto významný projekt ne
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/06c9b70a.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/06c9b70a.jpg" name="" /%}
 
 **Martin Pecina, grafický designér a knižní grafik, [book-design.eu](https://www.book-design.eu)**
 
@@ -37,7 +37,7 @@ Na vině pochopitelně není dodavatel zvoleného řešení – tiskárna, její
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/63ff97e3.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/63ff97e3.jpeg" name="" /%}
 
 **Věra Marešová, grafická designérka a odbornice na vizuální komunikaci, [vgrafik.cz](https://www.vgrafik.cz)**
 
@@ -45,7 +45,7 @@ Logotyp města Boskovice a jeho vizuální styl bohužel nemůžu hodnotit pří
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ddc54cac.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ddc54cac.jpg" name="" /%}
 
 **Tomáš Kudela, brand manažer Masarykovy univerzity**
 

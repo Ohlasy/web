@@ -13,7 +13,7 @@ tags:
 
 ---
 
-<img src="https://i.ohlasy.info/i/zzauyw3.jpg" class="profile-picture" alt="Vladimír Petrů">
+{% profile_photo src="https://i.ohlasy.info/i/zzauyw3.jpg" name="Vladimír Petrů" /%}
 
 **Vladimír Petrů, člen komise pro tělovýchovu sport a volnočasové aktivity**
 
@@ -23,7 +23,7 @@ Myslím si, že sportovci se nyní nemají, co se týká haly, v čem moc angaž
 
 ---
 
-<img src="https://i.ohlasy.info/i/keooask.jpg" class="profile-picture" alt="Lubomír Slezák">
+{% profile_photo src="https://i.ohlasy.info/i/keooask.jpg" name="Lubomír Slezák" /%}
 
 **Lubomír Slezák, sportovní redaktor týdeníku Zrcadlo**
 
@@ -33,7 +33,7 @@ Je smutné, že hráči především halových sportů nemají patřičné záze
 
 ---
 
-<img src="https://i.ohlasy.info/i/zdrlmu4.jpg" class="profile-picture" alt="Adam Kožoušek">
+{% profile_photo src="https://i.ohlasy.info/i/zdrlmu4.jpg" name="Adam Kožoušek" /%}
 
 **Adam Kožoušek, florbalista**
 
@@ -43,7 +43,7 @@ Je to možná zvláštní, ale i v malém městě, jako jsou Boskovice, nejsou k
 
 ---
 
-<img src="https://i.ohlasy.info/i/nrpbpso.jpg" class="profile-picture" alt="Nikol Halamásková">
+{% profile_photo src="https://i.ohlasy.info/i/nrpbpso.jpg" name="Nikol Halamásková" /%}
 
 **Nikol Halamásková, volejbalistka**
 

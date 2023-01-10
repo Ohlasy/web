@@ -12,7 +12,7 @@ tags:
 
 ---
 
-<img src="https://i.ohlasy.info/i/f3jvwwm.jpg" class="profile-picture" alt="Radim Štěpán">
+{% profile_photo src="https://i.ohlasy.info/i/f3jvwwm.jpg" name="Radim Štěpán" /%}
 
 **Radim Štěpán, kastelán zámku Kunštát na Moravě**
 
@@ -20,7 +20,7 @@ Vývoj boskovického židovského města po roce 1989 vnímám a hodnotím ve dv
 
 ---
 
-<img src="https://i.ohlasy.info/i/bquisqf.jpg" class="profile-picture" alt="Helena Musilová">
+{% profile_photo src="https://i.ohlasy.info/i/bquisqf.jpg" name="Helena Musilová" /%}
 
 **Helena Musilová, kurátorka Musea Kampa, dramaturgyně výstav festivalu Boskovice**
 
@@ -34,7 +34,7 @@ I když, zdá se, že se v židovské čtvrti objevuje víc zajímavých podnik�
 
 ---
 
-<img src="https://i.ohlasy.info/i/phy00bm.jpg" class="profile-picture" alt="Achab Haidler">
+{% profile_photo src="https://i.ohlasy.info/i/phy00bm.jpg" name="Achab Haidler" /%}
 
 **Jaroslav Achab Haidler, herec, dokumentátor židovských hřbitovů**
 
@@ -44,7 +44,7 @@ Myslím, že všichni, kteří se kolem ghetta motali, tak ho v sobě nesou, vzp
 
 ---
 
-<img src="https://i.ohlasy.info/i/rfpt6zv.jpg" class="profile-picture" alt="Josef Pros">
+{% profile_photo src="https://i.ohlasy.info/i/rfpt6zv.jpg" name="Josef Pros" /%}
 
 **Josef Pros, pedagog, Gymnázium Boskovice**
 
@@ -52,7 +52,7 @@ Myslím, že všichni, kteří se kolem ghetta motali, tak ho v sobě nesou, vzp
 
 ---
 
-<img src="https://i.ohlasy.info/i/fzzbsfg.jpg" class="profile-picture" alt="Helena Janíková">
+{% profile_photo src="https://i.ohlasy.info/i/fzzbsfg.jpg" name="Helena Janíková" /%}
 
 **Helena Janíková, průvodkyně po židovské čtvrti**
 
@@ -60,7 +60,7 @@ Jakožto pamětnice tristního stavu boskovické židovské čtvrti v období to
 
 ---
 
-<img src="https://i.ohlasy.info/i/lee1m2d.jpg" class="profile-picture" alt="Ondřej Dostál">
+{% profile_photo src="https://i.ohlasy.info/i/lee1m2d.jpg" name="Ondřej Dostál" /%}
 
 **Ondřej Dostál, ředitel Mendelova muzea MU, předseda Asociace muzeí a galerií ČR**
 
@@ -68,7 +68,7 @@ Těžko mohu hodnotit vývoj, jelikož čtvrť jsem začal intenzivněji vnímat
 
 ---
 
-<img src="https://i.ohlasy.info/i/fcakeoy.jpg" class="profile-picture" alt="Jaroslav Bárta">
+{% profile_photo src="https://i.ohlasy.info/i/fcakeoy.jpg" name="Jaroslav Bárta" /%}
 
 **Jaroslav Bárta, fotograf, pedagog FAMU**
 
@@ -76,7 +76,7 @@ Atmosféra Boskovic je dána tušeným dotýkáním kultur na malém prostoru m�
 
 ---
 
-<img src="https://i.ohlasy.info/i/74mr7yq.jpg" class="profile-picture" alt="Petr Michálek">
+{% profile_photo src="https://i.ohlasy.info/i/74mr7yq.jpg" name="Petr Michálek" /%}
 
 **Petr Michálek, dramaturg filmové sekce festivalu Boskovice**
 
@@ -88,7 +88,7 @@ Již v první půli let devadesátých navrhoval Ing. Klenovský, aby budoucnost
  
  ---
 
-<img src="https://i.ohlasy.info/i/a5upesg.jpg" class="profile-picture" alt="Roman Musil">
+{% profile_photo src="https://i.ohlasy.info/i/a5upesg.jpg" name="Roman Musil" /%}
  
 **Roman Musil, ředitel Západočeské galerie v Plzni**
 
@@ -96,7 +96,7 @@ Boskovice jsem poprvé navštívil v roce 1986, když jsme se skupinou přátel 
 
 ---
 
-<img src="https://i.ohlasy.info/i/aociczw.jpg" class="profile-picture" alt="Petr Vítámvás">
+{% profile_photo src="https://i.ohlasy.info/i/aociczw.jpg" name="Petr Vítámvás" /%}
 
 **Petr Vítámvás, historik, Muzeum regionu Boskovicka**
 
@@ -108,7 +108,7 @@ Symptomatické jsou proluky – na Plačkově ulici zející zde od r. 1945, a u
 
 ---
 
-<img src="https://i.ohlasy.info/i/xiv1gk5.jpg" class="profile-picture" alt="Zdeněk Fránek">
+{% profile_photo src="https://i.ohlasy.info/i/xiv1gk5.jpg" name="Zdeněk Fránek" /%}
 
 **Zdeněk Fránek, architekt, děkan FUA Liberec**
 

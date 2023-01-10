@@ -19,7 +19,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/70b29473.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/70b29473.jpg" name="" /%}
 
 **Lukáš Holík, ANO, 12. pozice**
 
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/fecbbd28.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/fecbbd28.jpg" name="" /%}
 
 **Jan Bařinka, Piráti, 47. pozice**
 
@@ -41,7 +41,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/59e44a8b.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/59e44a8b.jpg" name="" /%}
 
 **Jaroslav Dohnálek, ODS, 10. pozice**
 
@@ -52,7 +52,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/d3ae898f.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/d3ae898f.jpg" name="" /%}
 
 **Dagmar Hamalová, KDU-ČSL, 17. pozice**
 
@@ -63,7 +63,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/816cb000.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/816cb000.jpg" name="" /%}
 
 **Zdeněk Wetter, ČSSD, 21. pozice**
 
@@ -74,7 +74,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/11ca7b20.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/11ca7b20.jpg" name="" /%}
 
 **Petr Novotný, Spolu pro Moravu, 11. pozice**
 
@@ -85,7 +85,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/655b9762.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/655b9762.jpg" name="" /%}
 
 **Jaroslav Zoubek, Starostové pro jižní Moravu, 15. pozice**
 
@@ -96,7 +96,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/da957d41.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/da957d41.jpg" name="" /%}
 
 **Lenka Němcová, Demokratická strana zelených – Za práva zvířat, 2. pozice**
 
@@ -107,7 +107,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/a7ebeca8.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/a7ebeca8.jpg" name="" /%}
 
 **Jaroslava Konůpková, KSČM, 30. pozice**
 
@@ -118,7 +118,7 @@ tags:
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ad42e77a.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ad42e77a.jpg" name="" /%}
 
 **Karel Trefný, Trikolóra, 14. pozice**
 

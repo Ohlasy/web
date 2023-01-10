@@ -11,7 +11,7 @@ tags: vzdělávání
 
 ---
 
-<img src="https://i.ohlasy.info/i/ubptvng.jpg" class="profile-picture" alt="Dagmar Žďárková">
+{% profile_photo src="https://i.ohlasy.info/i/ubptvng.jpg" name="Dagmar Žďárková" /%}
 
 **Dagmar Žďárková, majitelka CK Špuntík**
 
@@ -19,7 +19,7 @@ tags: vzdělávání
 
 ---
 
-<img src="https://i.ohlasy.info/i/ug8p7a7.jpg" class="profile-picture" alt="Kamil Ošlejšek">
+{% profile_photo src="https://i.ohlasy.info/i/ug8p7a7.jpg" name="Kamil Ošlejšek" /%}
 
 **Kamil Ošlejšek, Středisko volného času Boskovice**
 
@@ -27,7 +27,7 @@ Již řadu let jsem vedoucí zájmového kroužku Kutílek ve Středisku volnéh
 
 ---
 
-<img src="https://i.ohlasy.info/i/o1ad1pg.jpg" class="profile-picture" alt="Viktorie Odehnalová">
+{% profile_photo src="https://i.ohlasy.info/i/o1ad1pg.jpg" name="Viktorie Odehnalová" /%}
 
 **Viktorie Odehnalová, Vatra Boskovice, studentka SPgŠ**
 
@@ -39,7 +39,7 @@ Možná by stálo za zamyšlení podpořit děti v rukodělných činnostech, a 
 
 ---
 
-<img src="https://i.ohlasy.info/i/ha0zcp7.jpg" class="profile-picture" alt="Vladimír Farský">
+{% profile_photo src="https://i.ohlasy.info/i/ha0zcp7.jpg" name="Vladimír Farský" /%}
 
 **Vladimír Farský, Pionýrská skupina Boskovice, radní**
 

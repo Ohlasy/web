@@ -13,7 +13,7 @@ tags: politika
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/kcshgha.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/kcshgha.jpg" name="" /%}
 
 **Petr Malach, ČSSD**
 
@@ -25,7 +25,7 @@ Chtěl bych napsat: budeme stavět halu a knihovnu a další věci, ale osobně 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/d3ae898f.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/d3ae898f.jpg" name="" /%}
 
 **Dagmar Hamalová, KDU-ČSL**
 
@@ -39,7 +39,7 @@ Hlavní bude stabilizovat finance a nemocnici v nejisté pandemické době. Měs
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ype8z0p.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ype8z0p.jpg" name="" /%}
 
 **Jan Nádvorník, Piráti**
 
@@ -51,7 +51,7 @@ Dotáhnout soutěž na halu (v případě, že soutěž bude označena za nezák
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/5hzfu14.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/5hzfu14.jpg" name="" /%}
 
 **Vladimír Farský, KSČM**
 

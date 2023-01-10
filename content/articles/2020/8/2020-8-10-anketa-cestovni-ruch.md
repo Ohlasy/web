@@ -12,7 +12,7 @@ tags: koronavirus
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/99872a25.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/99872a25.jpg" name="" /%}
 
 **Roman Malach, ředitel Muzea regionu Boskovicka**
 
@@ -28,7 +28,7 @@ Velmi příjemným překvapením je pro mne skvělá návštěvnost Hraběcí re
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/f3jvwwm.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/f3jvwwm.jpg" name="" /%}
 
 **Radim Štěpán, kastelán zámku Kunštát na Moravě**
 
@@ -41,7 +41,7 @@ Trochu radosti nám přinesl až červenec. I přes absenci hromadných výprav 
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/fctoipy.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/fctoipy.jpg" name="" /%}
 
 **Milan Strya, ředitel Služeb Boskovice**
 
@@ -51,7 +51,7 @@ Nárůst sportujících byl zaznamenán naopak ve sportparku. Tento zvýšený z
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ge4kbws.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ge4kbws.jpg" name="" /%}
 
 **Tomáš Marvan, vedoucí boskovického kina**
 

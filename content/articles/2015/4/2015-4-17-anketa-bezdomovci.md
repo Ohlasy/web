@@ -11,7 +11,7 @@ tags:
 
 ---
 
-<img src="https://i.ohlasy.info/i/ot0sgji.jpg" class="profile-picture" alt="Hana Nedomová">
+{% profile_photo src="https://i.ohlasy.info/i/ot0sgji.jpg" name="Hana Nedomová" /%}
 
 **Hana Nedomová, starostka Boskovic**
 
@@ -21,7 +21,7 @@ V současné době spolupráce výše uvedených subjektů funguje, představuje
 
 ---
 
-<img src="https://i.ohlasy.info/i/zsabqie.jpg" class="profile-picture" alt="Kamila Kavanová">
+{% profile_photo src="https://i.ohlasy.info/i/zsabqie.jpg" name="Kamila Kavanová" /%}
 
 **Kamila Kavanová, sociální kurátorka pro bezdomovce v Brně, žije v Boskovicích**
 
@@ -33,7 +33,7 @@ Zda bezdomovcům pomoci, či je represivně umravnit? To je otázka pro mě jasn
 
 ---
 
-<img src="https://i.ohlasy.info/i/2wbdodn.jpg" class="profile-picture" alt="František Kratochvil">
+{% profile_photo src="https://i.ohlasy.info/i/2wbdodn.jpg" name="František Kratochvil" /%}
 
 **František Kratochvil, vedoucího Nízkoprahového denního centra v Blansku**
 
@@ -42,7 +42,7 @@ Represivní opatření problematiku neřeší, na místě jsou spíše preventiv
 
 ---
 
-<img src="https://i.ohlasy.info/i/hw8op39.jpg" class="profile-picture" alt="David Krátký">
+{% profile_photo src="https://i.ohlasy.info/i/hw8op39.jpg" name="David Krátký" /%}
 
 **David Krátký, ředitel Městské police v Boskovicích**
 

@@ -12,7 +12,7 @@ category: ankety
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/d2bc10ed.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/d2bc10ed.jpeg" name="" /%}
 
 **Hana Kvapilová, Knihkupectví Tomáše Špidlíka**
 
@@ -26,7 +26,7 @@ Na festivalu se mi líbí, že spojuje tolik žánrů, že si snad každý můž
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/056c3b9a.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/056c3b9a.jpg" name="" /%}
 
 **Ondřej Dostál, ředitel KZMB**
 
@@ -40,7 +40,7 @@ A je tu poslední den, bude klidný a vzhledem k rodinným povinnostem bych to v
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/bd42b2a4.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/bd42b2a4.jpg" name="" /%}
 
 **Ludmila Čerbáková, dramaturgická rada Prostoru**
 
@@ -64,7 +64,7 @@ Těším se také na výstavu [Jaroslava Róny](https://www.boskovice-festival.c
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/fa32f77a.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/fa32f77a.jpeg" name="" /%}
 
 **David Liber, hudebník, kulturní redaktor Ohlasů**
 

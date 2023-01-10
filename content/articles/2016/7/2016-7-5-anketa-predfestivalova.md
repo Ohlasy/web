@@ -10,7 +10,7 @@ tags: kultura
 
 ---
 
-<img src="https://i.ohlasy.info/i/ge4kbws.jpg" class="profile-picture" alt="Tomáš Marvan">
+{% profile_photo src="https://i.ohlasy.info/i/ge4kbws.jpg" name="Tomáš Marvan" /%}
 
 **Tomáš Marvan, vedoucí boskovického kina**
 
@@ -24,7 +24,7 @@ Za pozornost stojí i ostatní filmy. Pečlivě je vybral dramaturg festivalový
 
 ---
 
-<img src="https://i.ohlasy.info/i/gpwp0c3.jpg" class="profile-picture" alt="Alena Vítková">
+{% profile_photo src="https://i.ohlasy.info/i/gpwp0c3.jpg" name="Alena Vítková" /%}
 
 **Alena Vítková, dramaturgyně a produkční Kulturně vzdělávacích služeb Knihovny Jiřího Mahena, koordinátorka Studia Scala**
 
@@ -38,7 +38,7 @@ Kromě muziky toho program nabízí tolik, že se sama nechám překvapit, kam m
 
 ---
 
-<img src="https://i.ohlasy.info/i/ti5vx0b.jpg" class="profile-picture" alt="Vojtěch Sedlák">
+{% profile_photo src="https://i.ohlasy.info/i/ti5vx0b.jpg" name="Vojtěch Sedlák" /%}
 
 **Vojtěch Sedlák, student hudební produkce na JAMU, hudebník**
 
@@ -50,7 +50,7 @@ Na začátek posledního dne festivalu volím UNI scénu – na začátek písni
 
 ---
 
-<img src="https://i.ohlasy.info/i/sskgeuy.jpg" class="profile-picture" alt="Kamila Hrnčířová">
+{% profile_photo src="https://i.ohlasy.info/i/sskgeuy.jpg" name="Kamila Hrnčířová" /%}
 
 **Kamila Hrnčířová, studentka gymnázia, zpěvačka a kytaristka skupiny Veka**
 

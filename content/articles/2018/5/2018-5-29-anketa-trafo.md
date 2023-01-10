@@ -10,7 +10,7 @@ category: ankety
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/nswsrnq.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/nswsrnq.jpg" name="" /%}
 
 **Tibor Valter, grafik**
 
@@ -20,7 +20,7 @@ Nynější návrhy mají sice nějaký nápad, provedení je ale amatérské, ne
 
 {% photo src="https://i.ohlasy.info/i/grzujjn.jpg" caption="Návrh číslo 1" /%}
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/5e2f38a4.png" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/5e2f38a4.png" name="" /%}
 
 **Bukaj Laifa, street-artový výtvarník**
 
@@ -28,7 +28,7 @@ Na jednu stranu je super, že se radnice rozhodla realizovat v našem městě mu
 
 {% photo src="https://i.ohlasy.info/i/o1x1a7i.jpg" caption="Návrh číslo 2" /%}
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/77qu3wr.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/77qu3wr.jpg" name="" /%}
 
 **Lenka Sedláčková, doprovodné a edukační programy, Dům umění města Brna**
 
@@ -36,7 +36,7 @@ Návrh číslo 4: Jako velké plus vnímám to, že jde o decentní výtvarnou f
 
 {% photo src="https://i.ohlasy.info/i/3adlyyi.jpg" caption="Návrh číslo 3" /%}
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/vrkieju.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/vrkieju.jpg" name="" /%}
 
 **Magdaléna Roztočilová, výtvarnice**
 
@@ -44,7 +44,7 @@ Proti záměru vyzdobit trafostanici graffiti nic nemám. Dokonce jsem ráda, ž
 
 {% photo src="https://i.ohlasy.info/i/bmsu0lr.jpg" caption="Návrh číslo 4" /%}
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/tt55qrl.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/tt55qrl.jpg" name="" /%}
 
 **Luboš Valčik, grafik**
 
@@ -54,7 +54,7 @@ Ať už ale vyhraje kdokoli, přeji mu pevné nervy ve vyjednávání s městem 
 
 {% photo src="https://i.ohlasy.info/i/36mr5re.jpg" caption="Návrh číslo 5" /%}
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/5vaer7z.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/5vaer7z.jpg" name="" /%}
 
 **Michaela Jančíková, pedagožka výtvarné výchovy, Gymnázium Boskovice**
 

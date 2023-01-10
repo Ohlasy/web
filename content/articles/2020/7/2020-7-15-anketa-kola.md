@@ -12,7 +12,7 @@ tags: doprava
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/a872aa14.png" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/a872aa14.png" name="" /%}
 
 **Adam Kožoušek**
 
@@ -28,7 +28,7 @@ Technologie i doba tedy hraje cyklistům do karet, trumfy ale drží komunální
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/e0180101.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/e0180101.jpg" name="" /%}
 
 **Viktorie Odehnalová**
 
@@ -38,7 +38,7 @@ Nevnímám, že by město mělo cyklodopravu jako prioritu, proto bychom se na [
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/8de7d19f.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/8de7d19f.jpg" name="" /%}
 
 **Kamila Hrnčířová**
 

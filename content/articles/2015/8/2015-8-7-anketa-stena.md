@@ -12,7 +12,7 @@ Petici na podporu lezecké stěny na zadní stěně letního kina podepsalo celk
 
 ---
 
-<img src="https://i.ohlasy.info/i/kcshgha.jpg" class="profile-picture" alt="Petr Malach">
+{% profile_photo src="https://i.ohlasy.info/i/kcshgha.jpg" name="Petr Malach" /%}
 
 ***Petr Malach, místostarosta Boskovic***
 
@@ -20,7 +20,7 @@ Ano, 300 občanů města Boskovice není málo, ale není to taky moc. Pokud si 
 
 ---
 
-<img src="https://i.ohlasy.info/i/gbnabla.jpg" class="profile-picture" alt="Jiří Pevný">
+{% profile_photo src="https://i.ohlasy.info/i/gbnabla.jpg" name="Jiří Pevný" /%}
 
 ***Jiří Pevný, zastupitel za Sportovce***
 
@@ -28,7 +28,7 @@ Jako velmi pozitivní beru skutečnost, kolik lidí svým podpisem zareagovalo n
 
 ---
 
-<img src="https://i.ohlasy.info/i/x5afgxm.jpg" class="profile-picture" alt="Sáša Živná">
+{% profile_photo src="https://i.ohlasy.info/i/x5afgxm.jpg" name="Sáša Živná" /%}
 
 ***Sáša Živná, učitelka TV na gymnáziu, zastupitelka za ANO***
 
@@ -40,7 +40,7 @@ Projekt samozřejmě podporovat budu. Do Boskovic by se nalákalo veliké množs
 
 ---
 
-<img src="https://i.ohlasy.info/i/8telava.jpg" class="profile-picture" alt="Oldřich Kovář">
+{% profile_photo src="https://i.ohlasy.info/i/8telava.jpg" name="Oldřich Kovář" /%}
 
 ***Oldřich Kovář, ředitel KZMB***
 

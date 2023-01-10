@@ -12,7 +12,7 @@ tags: politika volby
 
 ---
 
-<img src="https://i.ohlasy.info/i/kczixdl.jpg" alt="Josef Regec" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/kczixdl.jpg" name="Josef Regec" /%}
 
 **Jozef Regec**
 
@@ -32,7 +32,7 @@ Oblastí, ve kterých se snažím lidem pomáhat, je celá řada. Když projíž
 
 ---
 
-<img src="https://i.ohlasy.info/i/hkjz0jv.jpg" alt="Ivo Polák" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/hkjz0jv.jpg" name="Ivo Polák" /%}
 
 **Ivo Polák**
 
@@ -58,7 +58,7 @@ Blízká je mi po odborné stránce ochrana a bezpečnost krajiny při povodníc
 
 ---
 
-<img src="https://i.ohlasy.info/i/3g2f207.jpg" alt="Jaromíra Vítková" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/3g2f207.jpg" name="Jaromíra Vítková" /%}
  
 **Jaromíra Vítková**
 
@@ -86,7 +86,7 @@ Možná se zdá, že témat a úkolů jsem vytyčila mnoho, ale vyplývají z be
 
 ---
 
-<img src="https://i.ohlasy.info/i/w8fkqnw.jpg" alt="Jan Machač" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/w8fkqnw.jpg" name="Jan Machač" /%}
  
 **Jan Machač**
 
@@ -110,7 +110,7 @@ Na Blanensku a Boskovicku se budu snažit pomoci v komunikaci a spolupráci mezi
 
 ---
 
-<img src="https://i.ohlasy.info/i/6oti5hj.jpg" alt="Mária Koudelová" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/6oti5hj.jpg" name="Mária Koudelová" /%}
 
 **Mária Koudelová**
 
@@ -136,7 +136,7 @@ Dále je nutné dobudovat rychlostní komunikaci na trase Brno – Svitavy. Dopr
 
 ---
 
-<img src="https://i.ohlasy.info/i/0o4mbd7.jpg" alt="Drago Sukalovský" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/0o4mbd7.jpg" name="Drago Sukalovský" /%}
  
 **Drago Sukalovský**
 
@@ -160,7 +160,7 @@ Ale silniční doprava je problémem i v dalších částech okresu Blansko. Nej
 
 ---
  
-<img src="https://i.ohlasy.info/i/szaeoou.jpg" alt="Jiří Míšenský" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/szaeoou.jpg" name="Jiří Míšenský" /%}
  
 **Jiří Míšenský**
 
@@ -184,7 +184,7 @@ Senátor z části vykonává svoji práci v regionální kanceláři, kde je po
 
 ---
 
-<img src="https://i.ohlasy.info/i/lebjigi.jpg" alt="Robert Štěpánek" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/lebjigi.jpg" name="Robert Štěpánek" /%}
 
 **Robert Štěpánek**
 
@@ -204,7 +204,7 @@ Jistě víte, že v okrese Blansko je potřeba zlepšit mnoho a mnoho věcí vč
 
 ---
 
-<img src="https://i.ohlasy.info/i/neqyhwr.jpg" alt="Jiří Šoltys" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/neqyhwr.jpg" name="Jiří Šoltys" /%}
 
 **Jiří Šoltys**
 

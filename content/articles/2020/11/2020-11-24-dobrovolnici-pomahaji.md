@@ -11,7 +11,7 @@ tags: koronavirus
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/b2732c1c.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/b2732c1c.jpeg" name="" /%}
 
 **Andrea Burešová, Městská správa sociálních služeb Boskovice**
 
@@ -33,7 +33,7 @@ Z dobrovolnictví si odnáším novou zkušenost, která mi obohatila obzor. Zej
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ae563a30.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ae563a30.jpg" name="" /%}
 
 **Klára Zouharová, Domov pro seniory Černá Hora**
 
@@ -57,7 +57,7 @@ Přímo v domově jsem domluvená, že kdyby něco potřebovali, tak na mě maj�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/f93230af.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/f93230af.jpg" name="" /%}
 
 **Zuzana Porubská, Azylový dům**
 

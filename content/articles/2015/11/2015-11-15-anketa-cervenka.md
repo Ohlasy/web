@@ -14,7 +14,7 @@ tags:
 
 ---
 
-<img src="https://i.ohlasy.info/i/wscmory.jpg" class="profile-picture" alt="Jiří Klimek">
+{% profile_photo src="https://i.ohlasy.info/i/wscmory.jpg" name="Jiří Klimek" /%}
 
 **Jiří Klimek, architekt**
 
@@ -29,7 +29,7 @@ Pořád si ale myslím, že řešit teď přesné místo pro halu a příští r
 
 ---
 
-<img src="https://i.ohlasy.info/i/zzauyw3.jpg" class="profile-picture" alt="Vladimír Petrů">
+{% profile_photo src="https://i.ohlasy.info/i/zzauyw3.jpg" name="Vladimír Petrů" /%}
 
 **Vladimír Petrů, člen sportovní komise, autor sportovní koncepce**
 
@@ -37,7 +37,7 @@ Osobně se mi nelíbí žádná z variant. Všechny čtyři mi připadají nekon
 
 ---
 
-<img src="https://i.ohlasy.info/i/gbnabla.jpg" class="profile-picture" alt="Jiří Pevný">
+{% profile_photo src="https://i.ohlasy.info/i/gbnabla.jpg" name="Jiří Pevný" /%}
 
 **Jiří Pevný, zastupitel za Sportovce**
 
@@ -47,7 +47,7 @@ Po prvotním zhlédnutí všech variant mě nejvíce zaujala varianta číslo 1.
 
 ---
 
-<img src="https://i.ohlasy.info/i/wo4wxri.jpg" class="profile-picture" alt="Petr Ondráček">
+{% profile_photo src="https://i.ohlasy.info/i/wo4wxri.jpg" name="Petr Ondráček" /%}
 
 **Petr Ondráček, architekt**
 

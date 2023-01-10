@@ -18,7 +18,7 @@ tags: politika
 
 ---
 
-<img src="https://i.ohlasy.info/i/ayamxfp.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/ayamxfp.jpg" /%}
 
 **Radek Mazáč (Sportovci)**
 
@@ -29,7 +29,7 @@ tags: politika
 
 ---
 
-<img src="https://i.ohlasy.info/i/0l63kfa.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/0l63kfa.jpg" /%}
 
 **Petr Axman (ANO 2011)**
 
@@ -42,7 +42,7 @@ tags: politika
 
 ---
 
-<img src="https://i.ohlasy.info/i/pde4bd7.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/pde4bd7.jpg" /%}
 
 **Vladimír Ochmanský (ODS)**
 
@@ -53,7 +53,7 @@ tags: politika
 
 ---
 
-<img src="https://i.ohlasy.info/i/gjvxjze.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/gjvxjze.jpg" /%}
 
 **Dominik Božek (TOP 09)**
 
@@ -68,7 +68,7 @@ tags: politika
 
 ---
 
-<img src="https://i.ohlasy.info/i/yntnbxn.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/yntnbxn.jpg" /%}
 
 **Miroslav Klíma (ODS)**
 

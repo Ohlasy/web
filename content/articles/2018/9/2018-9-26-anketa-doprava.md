@@ -10,13 +10,13 @@ tags: politika volby2018
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/wiglxdk.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/wiglxdk.jpg" name="" /%}
 
 **ČSSD – Marek Ležák**
 
 Hlavním bodem zájmu v oblasti dopravy v Boskovicích a jejich místních částech je pro nás bezpečnost chodců na přechodech, a to zejména v okolí základních škol, kterou lze zvýšit kvalitním nasvětlením přechodů, jež je důležité hlavně v zimních měsících, pravidelným obnovováním vodorovného dopravního značení na vozovkách, zvýrazněním dopravních značek před přechody apod. Chceme vybudovat nové přechody a chodníky pro chodce-děti docházející do škol z lokalit Na Výsluní, Na Chmelnici, Rovná = Bezpečná cesta do školy. Z důvodu nespokojenosti občanů chceme dokončit instalaci měřičů rychlosti v úseku Skalice nad Svitavou – Mladkov, ulice Havlíčkova. Hledání nových parkovacích míst a dopravu budeme řešit společně diskusí s občany, a to v návaznosti na již zpracovanou dopravní studii, vyhotovenou odborníky z VUT Brno. Budeme se podílet a chceme být součástí příprav a realizace staveb nadmístního významu. Budeme-li součástí vládnoucí koalice, bude i dostatečný prostor a čas na plnění našeho programu.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ysqmuc7.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/ysqmuc7.jpg" name="" /%}
 
 **STAN a Sportovci Boskovice – Vladimír Petrů**
 
@@ -30,13 +30,13 @@ Při povolování výstavby nových bytových domů je nutné vyžadovat ještě
 
 Možná to zní zatím trochu fantaskně, ale je třeba začít uvažovat i o podzemním parkovacím domě poblíž centra města. 
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/fmmm69x.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/fmmm69x.jpg" name="" /%}
 
 **ODS – Karel Tlamka**
 
 Problémů je hodně a některé se určitě nedají stihnout během volebního období, například dálnice D43, případně obchvat, pokud výstavba dálnice bude v nedohlednu. Ale to neznamená, že je nebudeme řešit. Jsou totiž naprosto klíčové pro budoucnost dopravy v Boskovicích. Mezi další neméně klíčové body ze střednědobého horizontu patří nedostatek parkovacích míst, neprůjezdnost některých ulic, křižovatka pod poštou, špatně zvolené parkoviště pro kamiony na ulici Mánesova. Jaké to má řešení? Zvážit výstavbu parkovací domů ve vhodných lokalitách, ve spolupráci s občany udělat z vytipovaných ulic jednosměrné ulice, pracovat na vybudování kruhového objezdu pod poštou, přemístit parkoviště pro kamiony do vhodnější lokality.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/srs8v9l.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/srs8v9l.jpg" name="" /%}
 
 **Volba pro Boskovice s podporou TOP 09 – Michaela Žejšková**
 
@@ -44,7 +44,7 @@ Vedení města by mělo zajistit revizi množství a umístění přechodů pro 
 
 Dále by vedení města mělo zajistit úpravu vyhlášky k povinnému minimálnímu počtu parkovacích míst pro nové stavební projekty vzhledem k často neúnosné parkovací situaci v řadě ulic města. Navazujícím opatřením by pak měl být parkovací dům realizovaný formou projektu PPP (Public Private Partnership: projekt partnerství veřejného a soukromého sektoru) – splnění je zde však reálné nejdříve na konci volebního období.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/xw7ixxu.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/xw7ixxu.jpg" name="" /%}
 
 **ANO 2011 – Ondřej Fiala**
 
@@ -52,7 +52,7 @@ Předně chceme vytvořit strategický dokument, generel, který bude řešit do
 
 Je třeba se také zaměřit na alternativní způsoby dopravy a vytvořit takové podmínky, aby se automobilová, pěší i cyklistická doprava vzájemně doplňovala a ne, aby si navzájem překážela. V Boskovicích a okolí je několik míst, která jsou špatně dostupná pro pěší, a přitom jsou lidmi hojně navštěvována. Je třeba opravovat chodníky stávající, ale zároveň je třeba vytipovat místa pro stavbu nových chodníků a cyklostezek, pro větší bezpečnost i pohodlí občanů. Dále se chceme maximálně zasadit o výstavbu rychlostní silnice D43.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/gmwzmnn.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/gmwzmnn.jpg" name="" /%}
 
 **Piráti – Jiří Klimek**
 
@@ -62,13 +62,13 @@ Zpoplatnit veškerá veřejná parkovací stání minimálně v centru města (n
 
 Prosazovat budeme zde popsané i další dobré nápady, které přijdou od zastupitelů nebo od občanů.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/alkv4nq.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/alkv4nq.jpg" name="" /%}
 
 **KDU-ČSL – Jaromíra Vítková**
 
 V oblasti dopravy je nutné řešit situaci v intravilánu města a také dopravní obslužnost, a to hromadnými prostředky (autobusy, železnice) i osobními vozidly. Na území města je nutné projekčně řešit přetížené křižovatky na ulici Nádražní a Sokolská. Dále využít prostorových možností ke zvýšení parkovacích míst na ulici Komenského, Lidické a Nádražní. V místech nebezpečných pro chodce (ulice Janáčkova, Hybešova) je třeba vybudovat přechody. Dlouhodobější cíle s výrazně vyššími finančními náklady vidím v rekonstrukci ulice Milánovy, Podhradí, Bělská, Na Skalce, Ludvíka Vojtěcha, případně další. Vedení města musí spolupracovat s Jihomoravským krajem jako dalším vlastníkem komunikací a usilovat o jejich pravidelnou údržbu. Musíme rozvíjet síť cyklotras i cyklostezek. Ve vztahu k regionu, území kraje a celé republiky dále prosazovat urychlenou výstavbu D43, vyjednávat se společností Kordis a dopravci o optimální dopravní obslužnosti.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/3wnbtj4.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/3wnbtj4.jpg" name="" /%}
 
 **Sdružení nestraníků – Petr Lebiš**
 
@@ -76,7 +76,7 @@ Souvislosti a vliv dopravní infrastruktury, dopravní obslužnosti na zaměstna
 
 Ve spolupráci s občany obce Lhota Rapotina a přilehlých obcí chceme zastavit nesmyslný projekt Boskovické spojky. Podpoříme součinnost okolních samospráv měst a obcí, Ministerstva dopravy, Jihomoravského a Pardubického kraje na dokončení okresní a konečně zahájit realizaci krajské sítě silniční infrastruktury. Prioritou pro Boskovice je zajistit financování jedné ze tří variant obchvatu Boskovic a odstranit problémy s přetíženým centrem.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/m7ce10v.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/m7ce10v.jpg" name="" /%}
 
 **Boskováci – Josef Bártek**
 

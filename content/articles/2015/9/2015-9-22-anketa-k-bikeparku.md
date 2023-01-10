@@ -19,7 +19,7 @@ author: Tomáš Trumpeš
 
 ---
 
-<img src="https://i.ohlasy.info/i/ab9sp6k.jpg" class="profile-picture" alt="Jirka Vorlický">
+{% profile_photo src="https://i.ohlasy.info/i/ab9sp6k.jpg" name="Jirka Vorlický" /%}
 
 ***Jiří Vorlický, fotbalový trenér, autor petice proti dinoparku***
 
@@ -33,7 +33,7 @@ Z pozice vlastníka sousedních pozemků je mi jedno, jak dopadne záměr, a př
 
 ---
 
-<img src="https://i.ohlasy.info/i/kv2uhzy.jpg" class="profile-picture" alt="Ondřej Jarůšek">
+{% profile_photo src="https://i.ohlasy.info/i/kv2uhzy.jpg" name="Ondřej Jarůšek" /%}
 
 ***Ondřej Jarůšek, obchodník, biker***
 
@@ -47,7 +47,7 @@ Takže abych to shrnul: je to podle mě dobrý záměr, jako všechno, co vytáh
 
 ---
 
-<img src="https://i.ohlasy.info/i/j8rknjy.jpg" class="profile-picture" alt="Vinkler">
+{% profile_photo src="https://i.ohlasy.info/i/j8rknjy.jpg" name="Vinkler" /%}
 
 ***Stanislav Vinkler, podnikatel, do Doubrav chodí na procházky***
 
@@ -61,7 +61,7 @@ Takže abych to shrnul: je to podle mě dobrý záměr, jako všechno, co vytáh
 
 ---
 
-<img src="https://i.ohlasy.info/i/kqiynzo.jpg" class="profile-picture" alt="Martina Lukešová">
+{% profile_photo src="https://i.ohlasy.info/i/kqiynzo.jpg" name="Martina Lukešová" /%}
 
 ***Martina Lukešová, ekoložka***
 

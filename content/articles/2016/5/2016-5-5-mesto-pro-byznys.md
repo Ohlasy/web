@@ -34,7 +34,7 @@ Celkově nejúspěšnějším městem pro byznys byl letos v Jihomoravském kraj
 
 ---
 
-<img src="https://i.ohlasy.info/i/uaeh8sq.jpg" class="profile-picture" alt="Radim Petrů">
+{% profile_photo src="https://i.ohlasy.info/i/uaeh8sq.jpg" name="Radim Petrů" /%}
 
 **Radim Petrů, Sport Petrů**
 
@@ -44,7 +44,7 @@ A mám zmínit překážky, tak jedna už byla v minulosti učiněna a zapříč
 
 ---
 
-<img src="https://i.ohlasy.info/i/5kpmqxk.jpg" class="profile-picture" alt="František Vlk">
+{% profile_photo src="https://i.ohlasy.info/i/5kpmqxk.jpg" name="František Vlk" /%}
 
 **František Vlk, Gatema s.r.o.**
 
@@ -56,7 +56,7 @@ Za velký problém Boskovic (ale nejsem si jist, zda to patří do tohoto textu)
 
 ---
 
-<img src="https://i.ohlasy.info/i/oenuovr.jpg" class="profile-picture" alt="Milan Novotný">
+{% profile_photo src="https://i.ohlasy.info/i/oenuovr.jpg" name="Milan Novotný" /%}
 
 **Milan Novotný, Zverex**
 
@@ -64,7 +64,7 @@ Po 24 letech podnikání v centru města si nepřipadám už jen jako obchodník
 
 ---
 
-<img src="https://i.ohlasy.info/i/nmfhppd.jpg" class="profile-picture" alt="Barbora Hanzlová">
+{% profile_photo src="https://i.ohlasy.info/i/nmfhppd.jpg" name="Barbora Hanzlová" /%}
 
 **Barbora Hanzlová, Kafe za rohem, Penzion v židovské čtvrti**
 

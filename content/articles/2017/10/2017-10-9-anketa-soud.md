@@ -13,7 +13,7 @@ Pro zrušení Julínkova místa před dvěma lety hlasovalo šest členů rady, 
 
 ---
 
-<img src="https://i.ohlasy.info/i/m1ms5yt.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/m1ms5yt.jpg" /%}
 
 **Hana Nedomová, starostka za ČSSD, tehdy také jednatelka nemocnice**
 
@@ -25,7 +25,7 @@ Město Boskovice se věcně neztotožňuje s hodnocením soudu, neboť příprav
 
 ---
 
-<img src="https://i.ohlasy.info/i/vushbga.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/vushbga.jpg" /%}
 
 **Dagmar Hamalová, tehdy radní, dnes místostarostka za KDU-ČSL** 
 
@@ -33,7 +33,7 @@ Rada města jakožto valná hromada se spolupodílí na rozhodování ve společ
 
 ---
 
-<img src="https://i.ohlasy.info/i/fdjju7m.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/fdjju7m.jpg" /%}
 
 **Petr Malach, místostarosta za ČSSD**
 
@@ -41,7 +41,7 @@ Nechci se k tomu vyjadřovat, ani to nijak komentovat, protože nemocnice je cit
 
 ---
 
-<img src="https://i.ohlasy.info/i/0jf6tga.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/0jf6tga.jpg" /%}
 
 **Milan Kolínský, radní za ČSSD**
 
@@ -49,7 +49,7 @@ Nechci se k tomu vyjadřovat, ani to nijak komentovat, protože nemocnice je cit
 
 ---
 
-<img src="https://i.ohlasy.info/i/b1p4mfo.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/b1p4mfo.jpg" /%}
 
 **Karel Ošlejšek, radní za ČSSD**
 
@@ -57,7 +57,7 @@ Byly mi podány informace, na základě kterých jsem usoudil, že to místo v 
 
 ---
 
-<img src="https://i.ohlasy.info/i/ces4myf.jpg" class="profile-picture">
+{% profile_photo src="https://i.ohlasy.info/i/ces4myf.jpg" /%}
 
 **Martina Přichystalová, radní za ANO 2011**
 

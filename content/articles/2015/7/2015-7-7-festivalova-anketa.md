@@ -10,7 +10,7 @@ tags: kultura
 
 ---
 
-<img src="https://i.ohlasy.info/i/tjxtwvy.jpg" class="profile-picture" alt="Dagmar Hamalová">
+{% profile_photo src="https://i.ohlasy.info/i/tjxtwvy.jpg" name="Dagmar Hamalová" /%}
 
 ***Dagmar Hamalová, ředitelka Muzea Boskovicka a členka městské rady***
 
@@ -24,7 +24,7 @@ Mám pocit, že jsme jako návštěvníci festivalu tak trochu rozmazlení, je t
 
 ---
 
-<img src="https://i.ohlasy.info/i/naivbwb.jpg" class="profile-picture" alt="Ivo Legner">
+{% profile_photo src="https://i.ohlasy.info/i/naivbwb.jpg" name="Ivo Legner" /%}
 
 ***Ivo Legner, dramaturg KZMB***
 
@@ -40,7 +40,7 @@ A mnoho doporučení jsem slyšel na představení Svět podle Fagi Divadla Dno,
 
 ---
 
-<img src="https://i.ohlasy.info/i/oaever4.jpg" class="profile-picture" alt="Gabriela Kolčavová">
+{% profile_photo src="https://i.ohlasy.info/i/oaever4.jpg" name="Gabriela Kolčavová" /%}
 
 ***Gabriela Kolčavová, fotografka a jazzová zpěvačka***
 
@@ -54,7 +54,7 @@ Z divadelních vystoupení jsem zvědavá na vystoupení boskovického divadla N
 
 ---
 
-<img src="https://i.ohlasy.info/i/9fklu2z.jpg" class="profile-picture" alt="Lukáš Koudelka">
+{% profile_photo src="https://i.ohlasy.info/i/9fklu2z.jpg" name="Lukáš Koudelka" /%}
 
 ***Lukáš Koudelka, hudebník a barman***
 

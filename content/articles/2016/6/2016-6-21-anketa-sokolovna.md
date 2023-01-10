@@ -12,7 +12,7 @@ tags: sokolovna investice kultura
 
 ---
 
-<img src="https://i.ohlasy.info/i/wscmory.jpg" class="profile-picture" alt="Jiří Klimek">
+{% profile_photo src="https://i.ohlasy.info/i/wscmory.jpg" name="Jiří Klimek" /%}
 
 **Jiří Klimek, architekt, člen folklorního souboru Velen**
 
@@ -24,7 +24,7 @@ Sokolovna má za sebou bohatou historii a má-li mít budoucnost pod městem, m�
 
 ---
 
-<img src="https://i.ohlasy.info/i/ajp97pf.jpg" class="profile-picture" alt="Pavel Vlach">
+{% profile_photo src="https://i.ohlasy.info/i/ajp97pf.jpg" name="Pavel Vlach" /%}
 
 **Pavel Vlach, zvukař, produktový specialista DISK Multimedia**
 
@@ -32,7 +32,7 @@ Budova sokolovny má svoji historii, svou minulost, a myslím, že by bylo škod
 
 ---
 
-<img src="https://i.ohlasy.info/i/vrjwauy.jpg" class="profile-picture" alt="Ondřej Dostál">
+{% profile_photo src="https://i.ohlasy.info/i/vrjwauy.jpg" name="Ondřej Dostál" /%}
 
 **Ondřej Dostál, ředitel Mendelova muzea MU, předseda Asociace muzeí a galerií**
 
@@ -40,7 +40,7 @@ Z mého pohledu to není nejen optimální, ba co víc je to nesmyslné. Musím 
 
 ---
 
-<img src="https://i.ohlasy.info/i/rovnr5z.jpg" class="profile-picture" alt="Igor Láník">
+{% profile_photo src="https://i.ohlasy.info/i/rovnr5z.jpg" name="Igor Láník" /%}
 
 **Igor Láník, výkonný ředitel Láník s.r.o., technik divadla NABOSO**
 
@@ -54,7 +54,7 @@ A samozřejmě je to výzva i z hlediska dramaturgie – už nyní při převzet
 
 ---
 
-<img src="https://i.ohlasy.info/i/4ejvgaw.jpg" class="profile-picture" alt="Martin Krajíček">
+{% profile_photo src="https://i.ohlasy.info/i/4ejvgaw.jpg" name="Martin Krajíček" /%}
 
 **Martin Krajíček, pedagog, hudebník**
 

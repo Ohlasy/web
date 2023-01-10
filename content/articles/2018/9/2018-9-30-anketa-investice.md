@@ -11,7 +11,7 @@ tags: politika volby2018
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/hdayrco.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/hdayrco.jpg" name="" /%}
 
 **ČSSD – Petr Malach**
 
@@ -19,7 +19,7 @@ Ano, jsem spokojen, protože vychází ze strategických dokumentů města, jako
 
 Pokud je větším zapojením odborníků a veřejnosti myšleno participativní řízení, nemá toto oporu v legislativě, ale už nyní odborníci a veřejnost může pracovat v odborných komisích zřízených při radě města a zde prezentovat svoje názory a návrhy. Ano, v této oblasti vyzveme více veřejnost i odborníky k činnosti. V případě velkého projektu může vzniknout nový typ komise při RM se stejným zaměřením či názvem.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/mhqqots.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/mhqqots.jpg" name="" /%}
 
 **STAN a Sportovci Boskovice – Jiří Pevný**
 
@@ -29,13 +29,13 @@ S přípravou investičních akcí za uplynulé období nejsem spokojený. Akce 
 
 Z hlediska vlastní přípravy podkladů pro realizaci staveb, tedy činnosti již nepolitické, jsem spokojený s prací odboru rozvoje města a investic. Ovšem i tomuto odboru by měli politici stojící v čele města umožnit větší vstřícnost k žadatelům o informace.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/1nfgpri.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/1nfgpri.jpg" name="" /%}
 
 **ODS – Vladimír Ochmanský**
 
 Z mého pohledu je jedinou větší investiční akcí tohoto volebního období polytechnické centrum, pro někoho možná i přístavba MŠ nebo sportpark. Tyto investice byly napojené na dotační tituly, kdy se investor musí podřídit podmínkám dotace. Samostatně opravujeme jen areál letního kina. Co se týká zapojení odborníků, jsem k tomu docela skeptický. Za odborníky se rádi schovávají politici na všech úrovních, ale zároveň si je sami vybírají. Samozřejmě ty s těmi správnými postoji. Museli bychom definovat, koho vlastně považujeme za odborníka. Pro mě je to například statik nebo geolog. Sporný už však může být ekolog či architekt, kde názory dvou odborníků mohou být protichůdné. Co se týká veřejnosti, jsem toho názoru, že právem každého občana, ne nátlakových skupin, které jsou vždy nejhlasitější, je vyjadřovat se k věcem veřejným. Odpovědnost je pak na politikovi, kterému to pak voliči sečtou v příštích volbách. My v ODS se odpovědnosti nebojíme a nechceme se za nikoho a za nic schovávat.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/urxzznb.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/urxzznb.jpg" name="" /%}
 
 **Volba pro Boskovice s podporou TOP 09 – Dominik Božek**
 
@@ -45,7 +45,7 @@ Dosažení širokého konsenzu (politického i veřejného) je pro úspěch zás
 
 Po schválení investičního záměru by na přesné zadání a průběh měla dohlížet odborná komise sestavená z odborníků na danou problematiku, místních i cizích, kteří mohou mít objektivnější pohled. Jak jsem již uvedl, pravidla týkající se fungování takovéto komise by byla stanovena předem a širokým konsensem.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/79jkojz.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/79jkojz.jpg" name="" /%}
 
 **ANO 2011 – Pavel Schwarzer**
 
@@ -53,7 +53,7 @@ Městské investice stanovuje vždy politické vedení města. Vlastní přípra
 
 Zlepšit je však zapotřebí zpracování podkladů pro přípravu investic města, tzv. zadání staveb. To lze větším zapojením radních, zastupitelů a odborníků z řad občanů. Ti společně pomohou jasně definovat požadavky na investici. Pokud budu nadále pracovat ve vedení, chci prosadit vytvoření pracovních skupin pro přípravu kvalitních zadání ke každé zamýšlené investici. Byl bych rád, kdyby se na přípravě investic podíleli všichni schopní a tvořiví lidé bez ohledu na to, za jakou politickou stranu zrovna kandidovali. Konec konců víme, že politici se mění stále, stavby nám slouží i stovky let.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/qbtiove.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/qbtiove.jpg" name="" /%}
 
 **Piráti – Anna Trávníková**
 
@@ -61,7 +61,7 @@ Momentálně je v procesu několik velkých městských investic (stavba sportov
 
 Současný systém je transparentní v tom smyslu, že člověk s vynaložením většího úsilí dohledá v oblasti městských investic a rozpočtu, co potřebuje. Překvapující je však systém zadávání veřejných zakázek a chybějící výběrová řízení. V tomto smyslu má město co do transparentnosti velké rezervy. Důsledně vypisovaná výběrová řízení a veřejné soutěže by jistě přilákaly odborníky a také firmy, které jsou schopné splnit úkol bez nákladných reklamací, rychleji, efektivněji a velmi často za výhodnějších finančních okolností.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/lwqw1ap.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/lwqw1ap.jpg" name="" /%}
 
 **KDU-ČSL – Barbora Palánová**
 
@@ -69,7 +69,7 @@ Odborníci jsou samotní pracovníci úřadu jednotlivých odborů. Město přij
 
 Ohledně transparentnosti systému nedokážu posoudit přímo, musela bych si udělat nějaký větší průzkum, abych mohla na základě jasných bodů říci, proč je, či není současný systém transparentní. Závěrem bych chtěla říct, že vždy se dá něco zlepšovat. 
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/m1th1an.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/m1th1an.jpg" name="" /%}
 
 **Sdružení nestraníků – Tomáš Frömel**
 
@@ -77,7 +77,7 @@ Zasadíme se o maximální zapojení občanů do celkové koncepce rozvoje měst
 
 Občané se budou vyjadřovat ke všem veřejným investicím. Nechceme, aby například o tom, jak bude vypadat a kde bude stát městská knihovna, rozhodla Rada města a občané dostali šanci vybrat jeden chodník, který se prioritně opraví. Veřejný zájem musí být pro městské investice závazný a bude se realizovat v časových obdobích jednoho a více volebních cyklů. Prostřednictvím tohoto modelu přípravy městských investic dosáhneme potřebné důvěry, která v Boskovicích chybí.
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/3nqyi7u.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/3nqyi7u.jpg" name="" /%}
 
 **Boskováci – Josef Přibyl**
 

@@ -25,7 +25,7 @@ Představitelů opozičních stran jsme se po zveřejnění programového prohl�
 
 ---
 
-<img src="https://i.ohlasy.info/i/5e9rkcq.jpg" class="profile-picture" alt="Jaroslav Dohnálek">
+{% profile_photo src="https://i.ohlasy.info/i/5e9rkcq.jpg" name="Jaroslav Dohnálek" /%}
 
 **Jaroslav Dohnálek, ODS**
 
@@ -37,7 +37,7 @@ Programové prohlášení lze podpořit ve snaze o řešení knihovny a centra 
 
 ---
 
-<img src="https://i.ohlasy.info/i/rfteqqn.jpg" class="profile-picture" alt="Pavel Vlach">
+{% profile_photo src="https://i.ohlasy.info/i/rfteqqn.jpg" name="Pavel Vlach" /%}
 
 **Pavel Vlach, TOP 09**
 

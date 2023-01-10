@@ -9,7 +9,7 @@ category: ankety
 
 ---
 
-<img src="https://i.ohlasy.info/i/tybr17f.jpg" class="profile-picture" alt="Jiří Bureš">
+{% profile_photo src="https://i.ohlasy.info/i/tybr17f.jpg" name="Jiří Bureš" /%}
 
 **Jiří Bureš, evangelický farář**
 
@@ -17,7 +17,7 @@ Nejdůležitějším časem minulého roku pro mne byl týden duchovních cviče
 
 ---
 
-<img src="https://i.ohlasy.info/i/hlcu50w.jpg" class="profile-picture" alt="Jaroslav Dohnálek">
+{% profile_photo src="https://i.ohlasy.info/i/hlcu50w.jpg" name="Jaroslav Dohnálek" /%}
 
 **Jaroslav Dohnálek, bývalý starosta, opoziční zastupitel**
 
@@ -25,7 +25,7 @@ Byl to pro mne zvláštní rok, ale jsem za něj rád. Dobrá a užitečná zku�
 
 ---
 
-<img src="https://i.ohlasy.info/i/kgysnss.jpg" class="profile-picture" alt="Ondřej Dostál">
+{% profile_photo src="https://i.ohlasy.info/i/kgysnss.jpg" name="Ondřej Dostál" /%}
 
 **Ondřej Dostál, ředitel Mendelova muzea MU, předseda Asociace muzeí a galerií ČR**
 
@@ -33,7 +33,7 @@ Letošní rok mi nadělil velké množství zkušeností. Nejlepší a nejdůle�
 
 ---
 
-<img src="https://i.ohlasy.info/i/1qhhgju.jpg" class="profile-picture" alt="Vladimír Farský">
+{% profile_photo src="https://i.ohlasy.info/i/1qhhgju.jpg" name="Vladimír Farský" /%}
 
 **Vladimír Farský, strojvůdce a radní**
 
@@ -41,7 +41,7 @@ Předpokládám, že dotaz je směrován do oblasti politiky. Zde je pro mě dob
 
 ---
 
-<img src="https://i.ohlasy.info/i/6sj8on2.jpg" class="profile-picture" alt="Yvona Ferencová">
+{% profile_photo src="https://i.ohlasy.info/i/6sj8on2.jpg" name="Yvona Ferencová" /%}
 
 **Yvona Ferencová, kurátorka, pedagožka ZUŠ**
 
@@ -49,7 +49,7 @@ Mou největší zkušeností byla dvojí změna: místa pobytu a zaměstnání, 
 
 ---
 
-<img src="https://i.ohlasy.info/i/tjxtwvy.jpg" class="profile-picture" alt="Dagmar Hamalová">
+{% profile_photo src="https://i.ohlasy.info/i/tjxtwvy.jpg" name="Dagmar Hamalová" /%}
 
 **Dagmar Hamalová, ředitelka Muzea Boskovicka, radní**
 
@@ -57,7 +57,7 @@ Ke zkušenostem zvláště významným patřilo setkání s paní Evou Morris a 
 
 ---
 
-<img src="https://i.ohlasy.info/i/bgz5xxh.jpg" class="profile-picture" alt="Lukáš Holík">
+{% profile_photo src="https://i.ohlasy.info/i/bgz5xxh.jpg" name="Lukáš Holík" /%}
 
 **Lukáš Holík, předseda boskovického ANO**
 
@@ -65,7 +65,7 @@ V průběhu roku se mi skálopevně potvrdila některá rčení. Za ta nejdůle�
 
 ---
 
-<img src="https://i.ohlasy.info/i/xjcslgi.jpg" class="profile-picture" alt="Jitka Hurábová">
+{% profile_photo src="https://i.ohlasy.info/i/xjcslgi.jpg" name="Jitka Hurábová" /%}
 
 **Jitka Hurábová, ředitelka LD seating**
 
@@ -73,7 +73,7 @@ Nejsilnějším okamžikem tohoto  roku pro mě osobně bylo silné uvědomění
 
 ---
 
-<img src="https://i.ohlasy.info/i/albmyzw.jpg" class="profile-picture" alt="Ivet Juřeková">
+{% profile_photo src="https://i.ohlasy.info/i/albmyzw.jpg" name="Ivet Juřeková" /%}
 
 **Ivet Juřeková, pedagožka Gymnázia Boskovice**
 
@@ -81,7 +81,7 @@ Můj současný život je svým způsobem jednodušší a o něco méně bohatý
 
 ---
 
-<img src="https://i.ohlasy.info/i/oaever4.jpg" class="profile-picture" alt="Gabriela Kolčavová">
+{% profile_photo src="https://i.ohlasy.info/i/oaever4.jpg" name="Gabriela Kolčavová" /%}
 
 **Gabriela Kolčavová, fotografka, zpěvačka, lektorka**
 
@@ -89,7 +89,7 @@ Někdy člověk touží po nové zkušenosti, a tak se vám stane, že se octnet
 
 ---
 
-<img src="https://i.ohlasy.info/i/5oe6ogk.jpg" class="profile-picture" alt="Ivo Legner">
+{% profile_photo src="https://i.ohlasy.info/i/5oe6ogk.jpg" name="Ivo Legner" /%}
 
 **Ivo Legner, kulturní dramaturg**
 
@@ -97,7 +97,7 @@ Noční záchrana neovladatelné plachetnice na moři při závodech v Chorvatsk
 
 ---
 
-<img src="https://i.ohlasy.info/i/emqsqkv.jpg" class="profile-picture" alt="Daniela Meluzínová">
+{% profile_photo src="https://i.ohlasy.info/i/emqsqkv.jpg" name="Daniela Meluzínová" /%}
 
 **Daniela Meluzínová, aktivní seniorka, organizátorka Tanců dávných tradic**
 
@@ -105,7 +105,7 @@ Zapojením do projektu Dialogem k aktivnímu občanství seniorů se mi potvrdil
 
 ---
 
-<img src="https://i.ohlasy.info/i/cdgcivy.jpg" class="profile-picture" alt="Luděk Řehoř">
+{% profile_photo src="https://i.ohlasy.info/i/cdgcivy.jpg" name="Luděk Řehoř" /%}
 
 **Luděk Řehoř, podnikatel**
 
@@ -113,7 +113,7 @@ Dobrou zkušeností je zjištění, že lidé z Boskovic si neustále více vá�
 
 ---
 
-<img src="https://i.ohlasy.info/i/wp4ydfv.jpg" class="profile-picture" alt="David Škvařil">
+{% profile_photo src="https://i.ohlasy.info/i/wp4ydfv.jpg" name="David Škvařil" /%}
 
 **David Škvařil, tajemník MěÚ Boskovice**
 
@@ -121,7 +121,7 @@ Pro mě je dobrou a důležitou zkušeností každý okamžik, který trávím s
 
 ---
 
-<img src="https://i.ohlasy.info/i/3ulvpbb.jpg" class="profile-picture" alt="Kristýna Znamenáčková">
+{% profile_photo src="https://i.ohlasy.info/i/3ulvpbb.jpg" name="Kristýna Znamenáčková" /%}
 
 **Kristýna Znamenáčková, klavíristka, pedagožka ZUŠ**
 

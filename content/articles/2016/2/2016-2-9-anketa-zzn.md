@@ -12,7 +12,7 @@ tags: architektura investice knihovna
 
 ---
 
-<img src="https://i.ohlasy.info/i/ycnlvh9.jpg" class="profile-picture" alt="Osamu Okamura">
+{% profile_photo src="https://i.ohlasy.info/i/ycnlvh9.jpg" name="Osamu Okamura" /%}
 
 **Osamu Okamura, architekt, programový ředitel mezinárodního festivalu a konference pro obyvatelnější města [reSITE](http://resite.cz/cs/)**
 
@@ -20,7 +20,7 @@ Z boskovické bývalé normalizační architektury lze jistě vytvořit velmi p�
 
 ---
 
-<img src="https://i.ohlasy.info/i/vxqemtb.jpg" class="profile-picture" alt="Zdeněk Fránek">
+{% profile_photo src="https://i.ohlasy.info/i/vxqemtb.jpg" name="Zdeněk Fránek" /%}
 
 **Zdeněk Fránek, [Fránek Architects](http://www.franekarchitects.cz/)**
 
@@ -28,7 +28,7 @@ Je zbytečné budovu bourat. Je to mrhání penězi. Dá se bez problému přest
 
 ---
 
-<img src="https://i.ohlasy.info/i/skicokt.jpg" class="profile-picture" alt="Mirko Lev">
+{% profile_photo src="https://i.ohlasy.info/i/skicokt.jpg" name="Mirko Lev" /%}
 
 **Mirko Lev, [starchitects](http://starchitects.cz/), dříve [RadaArchitekti](http://www.radaarchitekti.cz)**
 
@@ -40,7 +40,7 @@ Jako projektant se rád věnuji rekonstrukcím v případech popsaných v první
 
 ---
 
-<img src="https://i.ohlasy.info/i/wo4wxri.jpg" class="profile-picture" alt="Petr Ondráček">
+{% profile_photo src="https://i.ohlasy.info/i/wo4wxri.jpg" name="Petr Ondráček" /%}
 
 **Petr Ondráček, [AiD team](http://www.aid.as./)**
 
@@ -52,7 +52,7 @@ Ve výsledku si ale nejsem jistý, jestli by případná rekonstrukce vycházej�
 
 ---
 
-<img src="https://i.ohlasy.info/i/iepyoeg.jpg" class="profile-picture" alt="Petr Zouhar">
+{% profile_photo src="https://i.ohlasy.info/i/iepyoeg.jpg" name="Petr Zouhar" /%}
 
 **Petr Zouhar, vedoucí odboru rozvoje města a investic MěÚ Boskovice**
 

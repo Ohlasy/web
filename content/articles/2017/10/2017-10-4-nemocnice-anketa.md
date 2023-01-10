@@ -13,7 +13,7 @@ tags: politika
 
 ---
 
-<img src="https://i.ohlasy.info/i/ces4myf.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ces4myf.jpg" name="" /%}
 
 **Martina Přichystalová, radní za hnutí ANO 2011**
 
@@ -23,7 +23,7 @@ Co se týká převodu nemocnice, tuto možnost vnímám jako jisté východisko 
 
 ---
 
-<img src="https://i.ohlasy.info/i/5hzfu14.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/5hzfu14.jpg" name="" /%}
 
 **Vladimír Farský, nestranický radní zvolený na kandidátce KSČM**
 
@@ -37,7 +37,7 @@ Objevila se zde myšlenka svolání schůze zastupitelstva věnovaného pouze ne
 
 ---
 
-<img src="https://i.ohlasy.info/i/w8zlgxo.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/w8zlgxo.jpg" name="" /%}
 
 **Jaroslav Dohnálek, opoziční zastupitel za ODS**
 
@@ -45,7 +45,7 @@ Formu oslovení, či spíše obsah dopisu, považuji za ne zrovna šťastný. V 
 
 ---
 
-<img src="https://i.ohlasy.info/i/v8n6mm3.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/v8n6mm3.jpg" name="" /%}
 
 **Pavel Vlach, opoziční zastupitel za TOP 09**
 
@@ -59,7 +59,7 @@ A nakonec: Pokud dá kraj každý rok 3 až 5 milionů a z městského rozpočtu
 
 ---
 
-<img src="https://i.ohlasy.info/i/ayamxfp.jpg" class="profile-picture" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ayamxfp.jpg" name="" /%}
 
 **Radek Mazáč, opoziční zastupitel za sdružení Sportovci Boskovice**
 

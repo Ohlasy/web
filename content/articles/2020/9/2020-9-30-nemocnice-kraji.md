@@ -12,7 +12,7 @@ tags: nemocnice
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/59e44a8b.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/59e44a8b.jpg" name="" /%}
 
 **Jaroslav Dohnálek, starosta, ODS**
 
@@ -20,7 +20,7 @@ Na takto položenou otázku nelze odpovědět. Nikdo nepředložil žádnou nab�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/70b29473.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/70b29473.jpg" name="" /%}
 
 **Lukáš Holík, místostarosta, ANO 2011**
 
@@ -28,7 +28,7 @@ Nedokážu se nyní k této otázce vyjádřit detailně, jelikož mi nejsou př
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/ayamxfp.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/ayamxfp.jpg" name="" /%}
 
 **Radek Mazáč, místostarosta, STAN a Sportovci Boskovice**
 
@@ -36,7 +36,7 @@ Zatím jsem nezaznamenal žádný zájem, který by byl podložen konkrétní na
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/5b2425ae.jpeg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/5b2425ae.jpeg" name="" /%}
 
 **Jaroslav Oldřich, radní, Boskováci**
 
@@ -44,7 +44,7 @@ Já vám na ten dotaz neodpovím, protože Ohlasům odpovídat nebudu.
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/v8n6mm3.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/v8n6mm3.jpg" name="" /%}
 
 **Pavel Vlach, koaliční zastupitel, Volba pro Boskovice s podporou TOP 09**
 
@@ -52,7 +52,7 @@ Se zhoršující se ekonomickou situací si dokážeme představit mnohé. Je t�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/kcshgha.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/kcshgha.jpg" name="" /%}
 
 **Petr Malach, opoziční zastupitel, ČSSD**
 
@@ -60,7 +60,7 @@ Se zhoršující se ekonomickou situací si dokážeme představit mnohé. Je t�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/95fd0829.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/95fd0829.jpg" name="" /%}
 
 **Kristýna Znamenáčková, opoziční zastupitelka, Piráti**
 
@@ -68,7 +68,7 @@ Převod nemocnice pod kraj se zdá jako logický krok, pokud to nebude pro Bosko
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/m80lmlh.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/m80lmlh.jpg" name="" /%}
 
 **Michal Knödl, opoziční zastupitel, KDU-ČSL**
 
@@ -76,7 +76,7 @@ KDU-ČSL Boskovice dlouhodobě podporuje myšlenku provozování boskovické nem
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/5hzfu14.jpg" alt="">
+{% profile_photo src="https://i.ohlasy.info/i/5hzfu14.jpg" name="" /%}
 
 **Vladimír Farský, opoziční zastupitel, KSČM**
 

@@ -11,7 +11,7 @@ tags: politika
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/jqfhuop.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/jqfhuop.jpg" name="" /%}
 
 **Hana Nedomová (ČSSD)**
 
@@ -25,7 +25,7 @@ Co nám v programovém prohlášení chybí je oblast rozvoje města, cestovníh
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/xkq3tt7.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/xkq3tt7.jpg" name="" /%}
 
 **Dagmar Hamalová (KDU-ČSL)**
 
@@ -43,7 +43,7 @@ Programové prohlášení je rámec cílů města pro další čtyři roky. Za K
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/zvih7z4.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/zvih7z4.jpg" name="" /%}
 
 **Radek Šamšula (Piráti)**
 
@@ -63,7 +63,7 @@ V konečném důsledku u tak neurčitého dokumentu, jakým programové prohlá�
 
 ---
 
-<img class="profile-picture" src="https://i.ohlasy.info/i/5hzfu14.jpg" alt="" />
+{% profile_photo src="https://i.ohlasy.info/i/5hzfu14.jpg" name="" /%}
 
 **Vladimír Farský (KSČM)**
 
