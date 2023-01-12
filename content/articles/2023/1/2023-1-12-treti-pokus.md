@@ -6,7 +6,7 @@ cover-photo: https://i.ohlasy.info/i/pw5wlls.jpg
 category: názory a komentáře
 ---
 
-První kolo třetí přímé volby prezidenta České republiky proběhne v pátek a v sobotu, o dva týdny později půjdeme volit mezi dvěma postoupivšími v kole druhém. Tedy pokud někdo nezíská už v prvním kole nadpoloviční většinu hlasů, což se však jeví jako krajně nepravděpodobné.
+*První kolo třetí přímé volby prezidenta České republiky proběhne v pátek a v sobotu, o dva týdny později půjdeme volit mezi dvěma postoupivšími v kole druhém. Tedy pokud někdo nezíská už v prvním kole nadpoloviční většinu hlasů, což se však jeví jako krajně nepravděpodobné.*
 
 {% photo src="https://i.ohlasy.info/i/pw5wlls.jpg" caption="Z prezidentské konference Miloše Zemana v Boskovicích" author="Tomáš Trumpeš" width=3264 height=2176 /%}
 
