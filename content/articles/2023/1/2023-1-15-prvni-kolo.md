@@ -1,6 +1,6 @@
 ---
 title: V Boskovicích vyhrál Andrej Babiš. V kraji Petr Pavel
-perex: Poměrně těsné byly i výsledky v Boskovicích, kde vyhrál bývalý premiér, a v Jihomoravském kraji, kde zvítězil generál ve výslužbě.
+perex: První kolo volby prezidenta vyhrál velmi těsně Petr Pavel před Andrejem Babišem. Poměrně těsné byly i výsledky v Boskovicích, kde vyhrál bývalý premiér, a v Jihomoravském kraji, kde zvítězil generál ve výslužbě.
 cover-photo: https://i.ohlasy.info/i/7d8654d2.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
