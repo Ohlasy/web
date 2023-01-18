@@ -8,6 +8,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import { join } from "path";
 import { ParsedUrlQuery } from "querystring";
 import React from "react";
+import Balancer from "react-wrap-balancer";
 import {
   Article,
   compareByDate,
@@ -83,10 +84,14 @@ const Page: NextPage<PageProps> = ({
 const Title: React.FC<Pick<PageProps, "article">> = ({ article }) =>
   article.category === "názory a komentáře" ? (
     <h2 className="main-header">
-      {article.author}: {tilde(article.title)}
+      <Balancer>
+        {article.author}: {tilde(article.title)}
+      </Balancer>
     </h2>
   ) : (
-    <h2 className="main-header">{tilde(article.title)}</h2>
+    <h2 className="main-header">
+      <Balancer>{tilde(article.title)}</Balancer>
+    </h2>
   );
 
 type SidebarProps = {
