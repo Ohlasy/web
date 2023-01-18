@@ -32,6 +32,10 @@ export const getArticlesByAuthor = (as: Article[]) =>
 export const getArticlesByCategory = (as: Article[]) =>
   groupBySelector(as, (a) => a.category);
 
+export const filterByYear = (year: number | undefined) => (a: Article) => {
+  return year ? new Date(a.date).getFullYear() === year : true;
+};
+
 export function renderCSV(stats: Record<string, number>): string {
   return Object.entries(stats)
     .sort(([k1, v1], [k2, v2]) => v2 - v1)

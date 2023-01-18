@@ -4,6 +4,7 @@ import {
   getArticlesByAuthor,
   sum,
   renderCSV,
+  filterByYear,
 } from "src/data-source/content-stats";
 import { NextApiRequest, NextApiResponse } from "next";
 
@@ -16,14 +17,7 @@ export default function handler(
       typeof request.query.year === "string"
         ? parseInt(request.query.year)
         : undefined;
-    const articles = getAllArticles(articleRoot).filter((a) => {
-      if (year) {
-        const date = new Date(a.date);
-        return date.getFullYear() === year;
-      } else {
-        return true;
-      }
-    });
+    const articles = getAllArticles(articleRoot).filter(filterByYear(year));
     const stats = sum(getArticlesByAuthor(articles));
     response.setHeader(
       "Cache-Control",
