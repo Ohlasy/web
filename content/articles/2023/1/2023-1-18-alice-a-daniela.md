@@ -8,7 +8,7 @@ category: názory a komentáře
 
 *V určitém věku se člověk musí smířit s tím, že z jeho života začnou lidé nenávratně odcházet. Je to bolestivé, ale nezbývá nic jiného, než se s tím smířit a oživit je alespoň ve vzpomínkách. V posledních měsících odešly dvě úžasné ženy, se kterými jsem měla tu čest se potkávat a učit se od nich. A protože vím, že nechybí jen mně a že je třeba připomínat si lidi, kteří prosvětlovali naše město, patřili k němu, tvořili jeho atmosféru, píši tyto řádky.*
 
-{% photo src="https://i.ohlasy.info/i/e63b9cb2.jpg" caption="Alice Mezerová" author="Jitka Kiseljevová" width=2315 height=1315 /%}
+{% photo src="https://i.ohlasy.info/i/e63b9cb2.jpg" caption="Alice Mezerová" author="Jitka Kiseljovová" width=2315 height=1315 /%}
 
 Jak ale vzpomínat na člověka, který vám byl blízký, a vyhnout se velkým a patetickým slovům? Zvlášť když víte, že on sám by o ně nestál, že by mu byla spíš k smíchu… Pokusím se tomuto úskalí vyhnout tím, že budu psát jen o svých osobních zkušenostech a zážitcích. 
 
