@@ -9,7 +9,7 @@ tags: politika
 
 *Boskovická městská rada splnila slib, že do konce ledna zveřejní své programové prohlášení na zbytek volebního období do roku 2026. Schválila je na svém posledním lednovém jednání a 31. ledna je představila na tiskové konferenci. Kompletní materiál si [můžete prostudovat zde](https://data.ohlasy.info/2023/programove-prohlaseni.pdf).*
 
-{% photo caption="Boskovičtí radní (na snímku chybí starostka Jana Syrovátková)" src="https://i.ohlasy.info/i/008fc0bf.jpg" width=1500 height=1125 /%}
+{% photo caption="Boskovičtí radní (na snímku chybí starostka Jana Syrovátková)" src="https://i.ohlasy.info/i/008fc0bf.jpg" author="Jaroslav Parma" width=1500 height=1125 /%}
 
 V preambuli rada deklaruje, že prohlášení je závazkem politické reprezentace stojící v čele města a obsahuje priority, na které bude rada klást hlavní důraz: „Základní prioritou je přitom strategické řízení a rozvoj města, které si váží své minulosti, a které myslí na budoucnost. Města transparentního a otevřeného pro všechny věkové a sociální skupiny. Města přitažlivého pro návštěvníky a města, které je spravováno podle principu trvale udržitelného rozvoje. Za nedílnou součást tohoto přístupu považuje Rada města i trvalý dialog se širokou veřejností, podnikateli a politickými subjekty.“
 
