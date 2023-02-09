@@ -45,7 +45,7 @@ Trio vážných muzikantů si pro vás připravilo hudební program složený z 
 
 ### Benefice pro Ukrajinu
 
-*Prostor, 19. února v 17.00*
+*Prostor, 19. února v 19.00*
 
 Výstava fotografií Majdy Slámové, fotografky nezávislého žurnalistického týmu VOXPOT. Zahájení výstavy bude spojeno s promítáním dokumentu *Mariupol – neztracená naděje* od režiséra Maksima Litvinova.
 
