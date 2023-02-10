@@ -91,3 +91,6 @@ export const Duration = {
   oneDay: 24 * 60 * 60,
   oneWeek: 7 * 24 * 60 * 60,
 };
+
+/** Filter out duplicates from an array, returns a new array */
+export const unique = <T>(a: T[]) => [...new Set(a)];
