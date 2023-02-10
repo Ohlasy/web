@@ -20,7 +20,14 @@ export default function handler(
       (a) => new Date(a.date).getFullYear() === year
     );
     const authors = unique(matchingArticles.map((a) => a.author));
-    response.write(`${year},${authors.length}\n`);
+    const isWoman = (name: string) =>
+      name === "Pál" ||
+      name === "Morris" ||
+      name.endsWith("ová") ||
+      name.endsWith("ská");
+    const womanAuthors = authors.filter(isWoman).length;
+    const manAuthors = authors.length - womanAuthors;
+    response.write(`${year},${manAuthors},${womanAuthors}\n`);
   }
   response.end();
 }
