@@ -11,7 +11,10 @@ export default function handler(
   const years = unique(
     articles.map((article) => new Date(article.date).getFullYear())
   ).slice(0, -1);
-  const authors = unique(articles.map((a) => a.author));
+  const authors = unique(articles.map((a) => a.author)).filter(
+    (author) =>
+      articles.filter((article) => article.author === author).length >= 10
+  );
   response.setHeader("Cache-Control", `s-maxage=3600, stale-while-revalidate`);
   response.setHeader("Access-Control-Allow-Origin", "*");
   response.setHeader("Content-Type", "text/csv");
