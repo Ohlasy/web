@@ -4,6 +4,8 @@ perex: Boskovice nedostanou dotaci z Národního plánu obnovy na stavbu nové k
 cover-photo: https://i.ohlasy.info/i/27fe4a06.jpeg
 author: Tomáš Trumpeš
 category: ankety
+tags:
+    - knihovna
 ---
 
 *Boskovice nedostanou dotaci z Národního plánu obnovy na stavbu nové knihovny. Podle vyjádření zástupců vedení města se tak debata o nové knihovně pravděpodobně vrátí na začátek, včetně zvažování jiné lokality a hledání zcela nového řešení. Několika odborníkům jsme proto položili otázky: Jaký postup by byl při hledání dobrého řešení podle vás nyní správný? Preferujete sami nějaké konkrétní řešení pro novou knihovnu? Co by mělo město nyní dál dělat?*
