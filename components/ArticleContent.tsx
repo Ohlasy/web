@@ -91,13 +91,19 @@ type ProfilePhotoProps = {
 };
 
 const ProfilePhoto = ({ src, name }: ProfilePhotoProps) => (
-  <Image
-    src={src}
-    alt={name ?? ""}
-    width={100}
-    height={100}
-    style={{ borderRadius: "50%", float: "left", marginRight: "2ex" }}
-  />
+  <div style={{ marginTop: "2ex" }}>
+    <Image
+      src={src}
+      alt={name ?? ""}
+      width={100}
+      height={100}
+      style={{
+        borderRadius: "50%",
+        float: "left",
+        marginRight: "2ex",
+      }}
+    />
+  </div>
 );
 
 type SpotifyEpisodeProps = {
