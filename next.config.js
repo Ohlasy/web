@@ -54,6 +54,12 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/go/spolek",
+        destination:
+          "https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e",
+        permanent: false,
+      },
+      {
         source: "/darujte/",
         destination: "https://www.darujme.cz/projekt/1202392",
         permanent: false,
