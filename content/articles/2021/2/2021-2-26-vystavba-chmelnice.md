@@ -18,7 +18,7 @@ Boskovická radnice připravuje prodej deset tisíc metrů čtverečních pozemk
 
 Tyto pozemky neleží jen za bytovými domy Na Chmelnici, ale úzkým pruhem se táhnou až k silnici vedoucí ke hřbitovu přesně uprostřed městských pozemků – tedy v místě, kde radnice usiluje o scelení plochy, aby tady mohla do budoucna vybudovat další novou ulici. Developer tak Boskovicím narušil plány. Podle starosty Jaroslava Dohnálka mělo město tyto parcely nad Lipovou koupit v minulém volebním období, ale nestalo se tak. Jenže společnost BK Invest se pozemky koupila až na konci minulého roku, tedy za současného vedení. „Město v tomto volebním období jednalo intenzivně o výkupu pozemků pouze pro výstavbu sportovní haly. S majiteli pozemků Na Chmelnici bylo jednáno ve chvíli, kdy se město dozvědělo, že o pozemky usiluje BK Invest. Výsledek znáte. Město nemá možnost něco koupit okamžitě bez předchozího schválení v zastupitelstvu a bez peněz v rozpočtu,“ poznamenal vedoucí majetkového odboru městského úřadu Pavel Musil.
 
-{% photo src="https://i.ohlasy.info/i/2ee79a8f.png" caption="Majitelé pozemků Na Chmelnici a v okolí" author="Město Boskovice" /%}
+{% photo src="https://i.ohlasy.info/i/5eb692b7.jpg" caption="Majitelé pozemků Na Chmelnici a v okolí" author="Město Boskovice" /%}
 
 Z veřejně dostupných dat je navíc zřejmé, že zápis na katastru byl po nezbytných úkonech dokončen až 18. ledna. Už 5. ledna, tedy před dokončením převodu vlastnictví, se ale firma BK Invest obrátila na město s nabídkou, že mu přenechá pozemky, které radnice potřebuje na scelení plochy pro budoucí ulici – ale výměnou za to chce městské parcely za bytovými domy Na Chmelnici.
 
