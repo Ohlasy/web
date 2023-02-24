@@ -3,7 +3,7 @@ import { absolute, RouteTo, siteUrl } from "src/routing";
 import { renderFeed, RSSFeed, RSSFeedItem } from "src/feeds";
 import { join } from "path";
 import { compareByDate, getAllArticles, Article } from "src/article";
-import { ArticleContent } from "components/ArticleContent";
+import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
 import * as ReactDOMServer from "react-dom/server";
 
 /** Serve last 10 articles as an RSS feed with full article text */

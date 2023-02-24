@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.2.1",
-    "@next/font": "^13.0.4",
     "@vercel/og": "^0.0.21",
     "eslint": "^8.26.0",
     "gray-matter": "^4.0.3",

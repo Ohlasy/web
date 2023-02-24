@@ -4,10 +4,6 @@ import crypto from "crypto";
 // TBD: We intentionally leak the key here, replace with server compontents
 export const IMAGE_SIGNING_KEY = process.env.NEXT_PUBLIC_IMGPROXY_KEY ?? "";
 
-/** This is a hack, see https://github.com/vercel/next.js/issues/11993 */
-export const filterUndefines = <T>(data: T): T =>
-  JSON.parse(JSON.stringify(data));
-
 /** Return a URL to a resized image */
 export function getSignedResizedImage(
   sourceImageUrl: string,

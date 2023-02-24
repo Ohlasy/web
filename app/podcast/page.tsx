@@ -1,21 +1,22 @@
 import { ArticlePreview } from "components/ArticlePreview";
-import { Layout } from "components/Layout";
-import { GetStaticProps } from "next";
-import { filterUndefines } from "src/utils";
-import {
-  compareByDate,
-  getAllArticles,
-  Metadata,
-  stripBody,
-} from "src/article";
+import { compareByDate, getAllArticles } from "src/article";
+import { Metadata } from "next";
 
-type PageProps = {
-  articles: Metadata[];
+export const metadata: Metadata = {
+  title: "Ohlasy Podcast",
+  openGraph: {
+    title: "Ohlasy Podcast",
+    description: "Dění na Boskovicku, záznamy debat a rozhovorů",
+  },
 };
 
-const PodcastPage = ({ articles }: PageProps) => {
+const PodcastPage = async () => {
+  const articles = getAllArticles("content/articles")
+    .filter((a) => a.category === "podcast")
+    .sort(compareByDate);
+
   return (
-    <Layout title="Ohlasy Podcast">
+    <>
       <div className="container">
         <div className="row">
           <div className="col-md-8">
@@ -69,19 +70,8 @@ const PodcastPage = ({ articles }: PageProps) => {
           ))}
         </div>
       </div>
-    </Layout>
+    </>
   );
-};
-
-export const getStaticProps: GetStaticProps<PageProps> = async () => {
-  const articles = getAllArticles("content/articles")
-    .filter((a) => a.category === "podcast")
-    .sort(compareByDate)
-    .map(stripBody);
-  return {
-    props: filterUndefines({ articles }),
-    revalidate: 300, // update every 5 minutes
-  };
 };
 
 export default PodcastPage;

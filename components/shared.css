@@ -173,10 +173,8 @@ h3 {
 }
 
 .force-feature-aspect {
-  height: 100%;
-  padding-bottom: 73.5%;
-  position: relative;
-  overflow: hidden;
+  height: 360px;
+  width: 490px;
   background-size: cover;
 }
 

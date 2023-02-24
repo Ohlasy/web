@@ -3,6 +3,9 @@
  */
 const nextConfig = {
   trailingSlash: true,
+  experimental: {
+    appDir: true,
+  },
   images: {
     remotePatterns: [
       { hostname: "**.kulturaboskovice.cz" },
