@@ -2,6 +2,7 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  trailingSlash: true,
   images: {
     remotePatterns: [
       { hostname: "**.kulturaboskovice.cz" },
@@ -77,7 +78,6 @@ const nextConfig = {
       },
     ];
   },
-  trailingSlash: true,
 };
 
 module.exports = nextConfig;
