@@ -4,7 +4,7 @@
   "description": "A regional newspaper website",
   "homepage": "https://ohlasy.info/",
   "repository": "Ohlasy/web",
-  "author": "Tomáš Znamenáček <tomas.znamenacek@gmail.com>",
+  "author": "Tomáš Znamenáček <zoul@ohlasy.info>",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
