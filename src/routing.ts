@@ -27,6 +27,7 @@ export const RouteTo = {
   Instagram: "http://instagram.com/ohlasy_boskovice/",
   Vercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
   Spotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
+  newsletter: "https://newsletter.ohlasy.info",
 };
 
 /**

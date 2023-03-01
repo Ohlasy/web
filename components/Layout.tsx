@@ -88,7 +88,8 @@ const Footer = () => (
               <Link href={RouteTo.Mastodon}>Mastodon</Link> /{" "}
               <Link href={RouteTo.YouTube}>YouTube</Link> /{" "}
               <Link href={RouteTo.Instagram}>Instagram</Link> /{" "}
-              <Link href={RouteTo.Spotify}>Spotify</Link>
+              <Link href={RouteTo.Spotify}>Spotify</Link> /{" "}
+              <Link href={RouteTo.newsletter}>Newsletter</Link>
             </li>
             <li>
               <Link href={RouteTo.adsInfo}>Inzerce</Link> /{" "}
