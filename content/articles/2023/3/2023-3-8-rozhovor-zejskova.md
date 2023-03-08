@@ -6,7 +6,7 @@ cover-photo: https://i.ohlasy.info/i/6e27e6c4.jpg
 category: podcast
 ---
 
-*Rozhovor s Michaelou Žejškovou, předsedkyní boskovické TOP 09 a opoziční zastupitelkou za koalici SPOLU, kterou vedla do minulých voleb a. Mluvili jsme o opoziční práci, o jejím pohledu na současnou koalici a na stavbu sportovní haly, což bylo její klíčové téma v pozici místostarostky. A taky o politické budoucnosti.*
+*Rozhovor s Michaelou Žejškovou, předsedkyní boskovické TOP 09 a opoziční zastupitelkou za koalici SPOLU, kterou vedla do minulých voleb. Mluvili jsme o opoziční práci, o jejím pohledu na současnou koalici a na stavbu sportovní haly, což bylo její klíčové téma v pozici místostarostky. A taky o politické budoucnosti.*
 
 {% spotify_episode id="5LcFLnT2IGELMfaZJIs09R" /%}
 
