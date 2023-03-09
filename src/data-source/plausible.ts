@@ -34,6 +34,7 @@ async function queryTopPages(
   const url = `${root}?site_id=${siteId}&period=${period}&property=${property}&limit=${limit}`;
   const response = await fetch(url, {
     headers: { Authorization: `Bearer ${apiKey}` },
+    cache: "force-cache",
   });
   return decodeTopPageResponse(await response.json());
 }
