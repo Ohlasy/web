@@ -1,8 +1,7 @@
 import Markdoc, { Node } from "@markdoc/markdoc";
 import crypto from "crypto";
 
-// TBD: We intentionally leak the key here, replace with server compontents
-export const IMAGE_SIGNING_KEY = process.env.NEXT_PUBLIC_IMGPROXY_KEY ?? "";
+export const IMAGE_SIGNING_KEY = process.env.IMGPROXY_KEY ?? "";
 
 /** Return a URL to a resized image */
 export function getSignedResizedImage(
