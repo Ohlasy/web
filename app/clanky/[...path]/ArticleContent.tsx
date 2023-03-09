@@ -1,9 +1,8 @@
-// @ts-ignore, TBD: fix later, types are missing
-import DWChart from "react-datawrapper-chart";
 import React from "react";
 import Markdoc from "@markdoc/markdoc";
 import { getImageSrcSet, IMAGE_SIGNING_KEY } from "src/utils";
 import { defaultMarkdocConfig } from "src/markdoc-schema";
+import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
 
 export type ArticleBodyProps = {
@@ -142,22 +141,4 @@ const YouTubeVideo = ({
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowFullScreen
   ></iframe>
-);
-
-type DatawrapperChartProps = {
-  id: string;
-  version?: number;
-  title?: string;
-};
-
-const DatawrapperChart = ({
-  id,
-  version = 1,
-  title = "Graf",
-}: DatawrapperChartProps) => (
-  <DWChart
-    title={title}
-    src={`https://datawrapper.dwcdn.net/${id}/${version}`}
-    loading="lazy"
-  />
 );
