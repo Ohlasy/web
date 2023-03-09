@@ -2,11 +2,17 @@ import { PreviewNest5, PreviewNest9 } from "components/PreviewNest";
 import { getAllBanners } from "src/data-source/banners";
 import { RouteTo } from "src/routing";
 import { endlessGeneratorOf, shuffleInPlace } from "src/utils";
-import { ForumOverviewBox } from "components/ForumBox";
 import { getTopArticles } from "src/data-source/plausible";
-import { TopArticleBox } from "components/TopArticles";
-import { getLatestTopicsSummary } from "src/data-source/forum";
+import {
+  getLatestTopicsSummary,
+  getUserAvatar,
+  LatestTopicsSummary,
+} from "src/data-source/forum";
 import { compareByDate, getAllArticles, Metadata } from "src/article";
+import { BannerBox } from "components/BannerBox";
+import { Banner } from "src/data-source/banners";
+import { TopArticles } from "src/data-source/plausible";
+import Link from "next/link";
 
 // TODO: ISR
 const Page = async () => {
@@ -63,6 +69,98 @@ const Page = async () => {
       </h2>
       <PreviewNest5 articles={archive} getBanner={getNextBanner} />
     </div>
+  );
+};
+
+//
+// Top Articles
+//
+
+export type TopArticleBoxProps = {
+  topArticles: TopArticles;
+  banner: Banner;
+};
+
+const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
+  <div className="row">
+    <div className="col-md-4 col-sm-6">
+      <ol className="article-list">
+        {topArticles.slice(0, 5).map((entry) => (
+          <li key={entry.title}>
+            <Link href={entry.path}>{entry.title}</Link>
+          </li>
+        ))}
+      </ol>
+    </div>
+    <div className="col-md-4 col-sm-6">
+      <ol className="article-list" start={5}>
+        {topArticles.slice(5, 10).map((entry) => (
+          <li key={entry.title}>
+            <Link href={entry.path}>{entry.title}</Link>
+          </li>
+        ))}
+      </ol>
+    </div>
+    <div className="col-md-4 hidden-sm hidden-xs">
+      <div className="box">
+        <BannerBox banner={banner} />
+      </div>
+    </div>
+  </div>
+);
+
+//
+// Discussion Forum Box
+//
+
+type Props = {
+  latestForumSummary: LatestTopicsSummary;
+  banner: Banner;
+};
+
+const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
+  const { topic_list, users } = latestForumSummary;
+
+  const topics = topic_list.topics
+    // Topic #8 is an old welcome post, not sure why it’s always there
+    .filter((topic) => topic.id !== 8)
+    .slice(0, 10);
+
+  const getAvatarForUserId = (id: number) => {
+    const user = users.find((u) => u.id === id)!;
+    return getUserAvatar(user, 50);
+  };
+
+  return (
+    <>
+      <div className="row">
+        <div className="col-lg-8 forum-topic-list">
+          {topics.map((topic) => (
+            <div key={topic.id} className="row">
+              <div className="col-sm-8">
+                <a href={RouteTo.forumTopic(topic)}>{topic.title}</a>
+              </div>
+              <div className="col-sm-4">
+                {topic.posters.map(({ user_id }) => (
+                  /* eslint-disable-next-line @next/next/no-img-element */
+                  <img
+                    key={user_id}
+                    src={getAvatarForUserId(user_id)}
+                    className="discourse-avatar"
+                    alt=""
+                  />
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+        <div className="col-lg-4 hidden-md hidden-sm hidden-xs">
+          <div className="box">
+            <BannerBox banner={banner} />
+          </div>
+        </div>
+      </div>
+    </>
   );
 };
 
