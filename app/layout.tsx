@@ -1,10 +1,10 @@
 import { RouteTo } from "src/routing";
 import { Dosis } from "next/font/google";
 import { PT_Serif } from "next/font/google";
-import "components/shared.css";
 import Link from "next/link";
 import { SearchForm } from "./SearchForm";
 import { Metadata } from "next";
+import "./global.css";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
