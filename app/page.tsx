@@ -6,23 +6,7 @@ import { ForumOverviewBox } from "components/ForumBox";
 import { getTopArticles } from "src/data-source/plausible";
 import { TopArticleBox } from "components/TopArticles";
 import { getLatestTopicsSummary } from "src/data-source/forum";
-import { Metadata as NextMetadata } from "next";
 import { compareByDate, getAllArticles, Metadata } from "src/article";
-
-export const metadata: NextMetadata = {
-  title: "Ohlasy dění na Boskovicku",
-  openGraph: {
-    title: "Ohlasy dění na Boskovicku",
-    description: "Internetové noviny pro Boskovice a okolí",
-    locale: "cs-CZ",
-    type: "website",
-    images: [
-      {
-        url: "https://i.ohlasy.info/i/a5c62deb.jpg",
-      },
-    ],
-  },
-};
 
 // TODO: ISR
 const Page = async () => {
