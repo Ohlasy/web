@@ -21,7 +21,6 @@
     "js-yaml": "^4.1.0",
     "next": "^13.2.1",
     "react": "^18.2.0",
-    "react-datawrapper-chart": "^1.1.1",
     "react-dom": "^18.2.0",
     "react-wrap-balancer": "^0.3.0",
     "sharp": "^0.30.5",
