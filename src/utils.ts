@@ -75,8 +75,11 @@ export function map<T, U>(
 }
 
 /** Tie single-letter prepositions with following text using a non-breaking space */
-export function tilde(str: string): string {
-  return str.replaceAll(/\b([uioaskzv]) /gi, "$1 ");
+export function tilde(str: string, replacement = " "): string {
+  // We need something like “word boundary followed by single-letter preposition”,
+  // but JavaScript’s regex \b doesn’t support Unicode, so we use a lookbehind with
+  // a Unicode aware class (\P{L} meaning “anything but a letter”).
+  return str.replaceAll(/(?<=\P{L}|^)([uioaskzv]) /giu, `$1${replacement}`);
 }
 
 /** Commonly used time durations in seconds */
