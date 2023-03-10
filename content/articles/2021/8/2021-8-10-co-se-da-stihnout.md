@@ -39,7 +39,7 @@ Pominout ve výčtu asi můžeme výměnu jednatele nemocnice, která patří k 
 
 Město se zbavilo jedné své příspěvkové organizace – muzeum bylo převedeno pod správu kraje, v majetku města však zůstala budova rezidence. Byla zavedena Cena za kulturu, vyhlašovaná jednou za tři roky. Změnil se grantový systém v kultuře, který se kromě organizací otevřel i jednotlivcům, aby mohli i oni samostatně pořádat kulturní akce s podporou města. Vytvořen byl zcela nový dotační titul, v rámci kterého město přispívá na opravy domů, které nejsou prohlášeny kulturními památkami, ale stojí v městské památkové zóně. Byl vytvořen strategický plán města a na radnicí začala na Den Tibetu pravidelně vlát tibetská vlajka.
 
-{% datawrapper_chart id="PAW8x" title="Hospodaření Boskovic" /%}
+{% datawrapper_chart id="PAW8x" version="2" title="Hospodaření Boskovic" /%}
 
 Bylo toho málo, nebo moc? Občané byli na koalici každopádně přísní, a to především na ČSSD, která ve volbách v roce 2018 spadla z osmi mandátů v zastupitelstvu na čtyři. Také lidovci jeden mandát ztratili, hnutí ANO o jeden mandát posílilo a získalo čtyři mandáty. Komunisté, kteří byli nepsanými členy koaličního týmu se zastoupením v radě, rovněž ztratili jednoho zastupitele a jsou dnes na dvou mandátech.
 

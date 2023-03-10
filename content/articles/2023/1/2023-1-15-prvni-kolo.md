@@ -8,7 +8,7 @@ category: zpravodajství
 
 *První kolo volby prezidenta České republiky vyhrál velmi těsně občanský kandidát Petr Pavel před kandidátem hnutí ANO Andrejem Babišem. Poměrně těsné byly i výsledky v Boskovicích, kde vyhrál bývalý premiér, a v Jihomoravském kraji, kde zvítězil generál ve výslužbě.*
 
-{% datawrapper_chart id="Y45L2" version="1" title="Porovnání výsledků prvního kola mezi Boskovicemi a celou ČR" /%}
+{% datawrapper_chart id="Y45L2" version="2" title="Porovnání výsledků prvního kola mezi Boskovicemi a celou ČR" /%}
 
 Petr Pavel získal na celostátní úrovní 35,4 procent hlasů, Andrej Babiš 34,99 procent hlasů. Tento těsný rozdíl představuje jen něco přes dvacet tisíc hlasů. Až s velkým odstupem skončila třetí bývalá rektorka brněnské Mendelovy univerzity Danuše Nerudová se ziskem méně než 14 procent hlasů.
 

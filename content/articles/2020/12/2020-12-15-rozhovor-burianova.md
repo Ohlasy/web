@@ -40,7 +40,7 @@ Teď budu osobní. Mám kolem sebe lidi, kteří reagují rychle a jsou v pohod�
 
 My jsme se teď trochu přizpůsobili v tom, že nejsme otevření úplně na sto procent. Máme až od dvou hodin. Spousta lidí nás za to trošičku hejtuje, že k nám chtěli na snídani a podobně. Ale v tuto chvíli, když nevím, co bude, je to složité. Taky mám spoustu brigádníků, kteří si třeba našli jinou práci a je těžké poskládat tým zase dokupy. Takže jsme to zkrouhli, doufám že vtipnými příspěvky jsme lidi pozvali na snídaně, které jsou jenom v sobotu. V Brně v sobotu a v neděli, kdy se brunch úplně nejvíc vyplatí. Reagujeme pomalu. Protože jinak si nakoupíte hromady avokád – a pak je prodávám, kde můžu… Ale zase se to asi úplně nejméně týká nás v malých kavárnách, protože máme malé náklady. Mít hospodu nebo bar, jsem na tom sakra hůř.
 
-{% datawrapper_chart id="urpK5" version="3" title="Počty otevřených podniků první den po skončení lockdownu" /%}
+{% datawrapper_chart id="urpK5" version="4" title="Počty otevřených podniků první den po skončení lockdownu" /%}
 
 **Jak to řešíte se zaměstnanci, když jim nemůžete říct, jak je budete ve výhledu potřebovat? Někteří už vám tedy zmizeli za jinou prací?**
 

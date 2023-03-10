@@ -8,7 +8,7 @@ category: zpravodajství
 
 *Druhé kolo prezidentské volby je za námi. S drtivým náskokem v něm zvítězil Petr Pavel, který získal 58,32 procent hlasů oproti 41,67 procentům Andreje Babiše. Je to zatím největší rozdíl mezi kandidáty v českých prezidentských volbách, Petr Pavel dosáhl při vysoké účasti přes 70 procent voličů zisku více než 3 350 tisíc hlasů, poražený lídr opozice dostal skoro o milion hlasů méně.*
 
-{% datawrapper_chart id="wt7LM" title="Vítězové druhého kola v okrese Blansko" /%}
+{% datawrapper_chart id="wt7LM" version="2" title="Vítězové druhého kola v okrese Blansko" /%}
 
 Petr Pavel vyhrál stylem, kterému se ve sportu říká *start–cíl*. Sčítání hlasů postrádalo dramatičnosti, protože Andrej Babiš měl být dle předpokladů silnější v menších okrscích, a pokud by chtěl pomýšlet na úspěch, musel by zpočátku výrazně vést, aby Petr Pavel jeho náskok postupně nestáhl. Místo toho vedl od prvních okrsků generál ve výslužbě a náskok už v průběhu sčítání jen navyšoval.
 

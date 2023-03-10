@@ -20,7 +20,7 @@ Celkové příjmy města se vyšplhaly z plánovaných 354 milionů korun na zm�
 
 Celková bilance je tedy výsledkem poměrně velkých změn na obou stranách rozpočtu. Příjmy stouply o víc než 40 milionů a výdaje poklesly o 27 milionů. Namísto původně naplánovaného poměrně masivního schodku přes 50 milionů korun je zde tedy za rok 2021 plusový rozpočet města.
 
-{% datawrapper_chart id="Da1Cg" version="2" title="Boskovický rozpočet: plány a skutečnost" /%}
+{% datawrapper_chart id="Da1Cg" version="3" title="Boskovický rozpočet: plány a skutečnost" /%}
 
 ### Proměny rozpočtu
 
