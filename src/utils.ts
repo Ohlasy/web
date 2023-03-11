@@ -17,12 +17,7 @@ export function getSignedResizedImage(
   signingSecret: string
 ): string {
   const proof = shasum([sourceImageUrl, targetWidth, signingSecret].join(":"));
-  const params = new URLSearchParams({
-    src: sourceImageUrl,
-    width: targetWidth.toString(),
-    proof,
-  });
-  return `https://nahledy.ohlasy.info/?${params}`;
+  return `https://nahledy.ohlasy.info/?src=${sourceImageUrl}&width=${targetWidth}&proof=${proof}`;
 }
 
 export function getImageSrcSet(
