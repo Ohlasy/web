@@ -1,4 +1,5 @@
 import { test, expect } from "@playwright/test";
+import sharp from "sharp";
 
 const ContentType = {
   rss: "application/rss+xml",
@@ -21,3 +22,17 @@ for (const [endpoint, contentType] of Object.entries(endpoints)) {
     }
   });
 }
+
+test("Image resizing works", async ({ page }) => {
+  const params = new URLSearchParams({
+    src: "https://i.ohlasy.info/i/c1552107.jpg",
+    proof: "cce2434090b1ecf1c0ddc72ab2dc809c664df492",
+    width: "640",
+  });
+  const response = await page.request.get(`/api/resize?${params}`);
+  expect(response).toBeOK();
+  expect(response.headers()["content-type"]).toEqual("image/jpeg");
+  let img = sharp(Buffer.from(await response.body()));
+  const metadata = await img.metadata();
+  expect(metadata.width).toBe(640);
+});
