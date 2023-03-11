@@ -173,9 +173,11 @@ h3 {
 }
 
 .force-feature-aspect {
+  position: relative;
   height: 360px;
   width: 490px;
   background-size: cover;
+  overflow: hidden;
 }
 
 /* Article Preview, Middle */

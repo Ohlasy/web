@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Metadata } from "src/article";
 import { RouteTo } from "src/routing";
@@ -23,12 +24,15 @@ export const BigArticlePreview: React.FC<ArticlePreviewProps> = ({
           </div>
         </div>
         <div className="col-sm-8">
-          <div
-            className="force-feature-aspect"
-            style={{
-              backgroundImage: `url(${thumbnail(article.coverPhoto)})`,
-            }}
-          />
+          <div className="force-feature-aspect">
+            <Image
+              src={article.coverPhoto}
+              style={{ objectFit: "cover" }}
+              sizes="(min-width: 900px) 490px, 100vw"
+              alt=""
+              fill
+            />
+          </div>
         </div>
       </Link>
     </div>
