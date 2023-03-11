@@ -1,4 +1,3 @@
-import { NextApiRequest, NextApiResponse } from "next";
 import {
   convertEpisodeToPodcastItem,
   getPodcastEpisodes,
@@ -7,10 +6,7 @@ import { absolute, RouteTo } from "src/routing";
 import { iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
 import { join } from "path";
 
-export default async (
-  request: NextApiRequest,
-  response: NextApiResponse
-): Promise<void> => {
+export async function GET() {
   const dataFile = join(process.cwd(), "content/podcast.yml");
   const episodes = await getPodcastEpisodes(dataFile);
   const feed: iTunesPodcastShow = {
@@ -30,14 +26,10 @@ export default async (
     owner: "tomas.znamenacek@ohlasy.info",
     items: episodes.map(convertEpisodeToPodcastItem),
   };
-
-  response.setHeader(
-    "Content-Type",
-    request.query.plain ? "text/plain" : "application/rss+xml"
-  );
-  response.setHeader(
-    "Cache-Control",
-    "max-age=86400, s-maxage=86400, stale-while-revalidate"
-  );
-  response.status(200).send(renderPodcastFeed(feed));
-};
+  return new Response(renderPodcastFeed(feed), {
+    status: 200,
+    headers: {
+      "Content-Type": "application/rss+xml",
+    },
+  });
+}

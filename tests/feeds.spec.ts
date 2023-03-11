@@ -9,6 +9,7 @@ const ContentType = {
 const endpoints = {
   "/feed.xml": ContentType.rss,
   "/podcast.xml": ContentType.rss,
+  "/podcast/hrebenovka.xml": ContentType.rss,
   "/api/articles": ContentType.json,
 };
 
