@@ -13,6 +13,7 @@ jobs:
     env:
       NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
       PLAUSIBLE_KEY: ${{ secrets.PLAUSIBLE_KEY }}
+      IMGPROXY_KEY: ${{ secrets.IMGPROXY_KEY }}
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
