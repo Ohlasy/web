@@ -3,16 +3,26 @@ import crypto from "crypto";
 
 export const IMAGE_SIGNING_KEY = process.env.IMGPROXY_KEY ?? "";
 
+/** SHA1 sum */
+export function shasum(message: string) {
+  var shasum = crypto.createHash("sha1");
+  shasum.update(message);
+  return shasum.digest("hex");
+}
+
 /** Return a URL to a resized image */
 export function getSignedResizedImage(
   sourceImageUrl: string,
   targetWidth: number,
   signingSecret: string
 ): string {
-  const shasum = crypto.createHash("sha1");
-  shasum.update([sourceImageUrl, targetWidth, signingSecret].join(":"));
-  const proof = shasum.digest("hex");
-  return `https://nahledy.ohlasy.info/?src=${sourceImageUrl}&width=${targetWidth}&proof=${proof}`;
+  const proof = shasum([sourceImageUrl, targetWidth, signingSecret].join(":"));
+  const params = new URLSearchParams({
+    src: sourceImageUrl,
+    width: targetWidth.toString(),
+    proof,
+  });
+  return `https://nahledy.ohlasy.info/?${params}`;
 }
 
 export function getImageSrcSet(

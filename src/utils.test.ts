@@ -1,4 +1,4 @@
-import { getSignedResizedImage, stripMarkdown, tilde } from "./utils";
+import { getSignedResizedImage, shasum, stripMarkdown, tilde } from "./utils";
 
 test("Image resizing", () => {
   expect(
@@ -24,4 +24,8 @@ test("Single-letter prepositions", () => {
   expect(tilde("jdu k lesu", "~")).toBe("jdu k~lesu");
   expect(tilde("U zabořenýho mlénka", "~")).toBe("U~zabořenýho mlénka");
   expect(tilde("Vepři v Boskovicích", "~")).toBe("Vepři v~Boskovicích");
+});
+
+test("SHA1 sum", () => {
+  expect(shasum("bagr")).toBe("c8bb9fc27c3c0e1b27c332563385703e0bbc0e66");
 });

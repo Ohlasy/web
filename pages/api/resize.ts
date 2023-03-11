@@ -17,19 +17,12 @@
  * + Output progressive PNGs and JPEGs
  */
 import { NextApiRequest, NextApiResponse } from "next";
-import { IMAGE_SIGNING_KEY } from "src/utils";
+import { IMAGE_SIGNING_KEY, shasum } from "src/utils";
 import sharp from "sharp";
-import crypto from "crypto";
 
 const maxInputFileSize = 30_000_000;
 const maxInputPixelSize = 7_000;
 const maxOutputPixelSize = 7_000;
-
-function shasum(message: string) {
-  var shasum = crypto.createHash("sha1");
-  shasum.update(message);
-  return shasum.digest("hex");
-}
 
 export default async (
   request: NextApiRequest,
