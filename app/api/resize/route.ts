@@ -54,7 +54,9 @@ export async function GET(request: Request) {
   //
   // Load and validate input image
   //
-  const srcImageResponse = await fetch(srcUrl);
+
+  // Caching the response leads to some weird errors in console
+  const srcImageResponse = await fetch(srcUrl, { cache: "no-store" });
   if (!srcImageResponse.ok) {
     return srcImageResponse;
   }
