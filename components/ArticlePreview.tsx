@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Metadata } from "src/article";
 import { RouteTo } from "src/routing";
-import { getSignedResizedImage, IMAGE_SIGNING_KEY, tilde } from "src/utils";
+import { tilde } from "src/utils";
 
 export type ArticlePreviewProps = {
   article: Metadata;
@@ -46,11 +46,12 @@ export const ArticlePreview: React.FC<ArticlePreviewProps> = ({
   <div className={`article-preview article-preview-middle ${type}`}>
     <Link href={RouteTo.article(article)}>
       <div className="force-hd-aspect">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={thumbnail(article.coverPhoto)}
-          className="img-responsive"
+        <Image
+          src={article.coverPhoto}
+          style={{ objectFit: "cover" }}
+          sizes="(min-width: 900px) 260px, 100vw"
           alt=""
+          fill
         />
       </div>
       <Title {...article} />
@@ -83,6 +84,3 @@ const Title = (article: Metadata) => (
     )}
   </>
 );
-
-const thumbnail = (imageUrl: string) =>
-  getSignedResizedImage(imageUrl, 640, IMAGE_SIGNING_KEY);
