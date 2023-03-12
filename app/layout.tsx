@@ -37,7 +37,7 @@ type Props = {
 
 export default function RootLayout({ children }: Props) {
   return (
-    <>
+    <html lang="cs">
       <head>
         <meta charSet="utf-8" />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
@@ -48,16 +48,14 @@ export default function RootLayout({ children }: Props) {
           defer
         />
       </head>
-      <html lang="cs">
-        <body>
-          <div className={mainFont.className}>
-            <NavBar />
-            {children}
-            <Footer />
-          </div>
-        </body>
-      </html>
-    </>
+      <body>
+        <div className={mainFont.className}>
+          <NavBar />
+          {children}
+          <Footer />
+        </div>
+      </body>
+    </html>
   );
 }
 
