@@ -182,6 +182,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = readArticle(path);
   return {
     title: post.title,
+    description: post.perex,
     openGraph: {
       title: post.title,
       description: post.perex,

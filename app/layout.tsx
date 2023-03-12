@@ -18,6 +18,7 @@ const mainFont = PT_Serif({
 
 export const metadata: Metadata = {
   title: "Ohlasy dění na Boskovicku",
+  description: "Internetové noviny pro Boskovice a okolí",
   openGraph: {
     title: "Ohlasy dění na Boskovicku",
     description: "Internetové noviny pro Boskovice a okolí",
