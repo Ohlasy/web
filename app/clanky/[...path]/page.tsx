@@ -4,6 +4,7 @@ import { BannerBox } from "components/BannerBox";
 import { PreviewNest9 } from "components/PreviewNest";
 import fs from "fs";
 import { Metadata } from "next";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { join } from "path";
 import React from "react";
@@ -141,8 +142,13 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
   });
   return (
     <div className="article-info">
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={author.profilePhotoUrl} alt="" className="profile-picture" />
+      <Image
+        src={author.profilePhotoUrl!}
+        width={100}
+        height={100}
+        alt=""
+        className="profile-picture"
+      />
       <ul className="list-unstyled">
         <li>{article.author}</li>
         {author.mail && (
