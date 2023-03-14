@@ -186,11 +186,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: post.title,
       description: post.perex,
-      images: [
-        {
-          url: getSignedResizedImage(post.coverPhoto, 1200, IMAGE_SIGNING_KEY),
-        },
-      ],
+      images: getSignedResizedImage(post.coverPhoto, 1200, IMAGE_SIGNING_KEY),
     },
   };
 }

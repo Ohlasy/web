@@ -24,11 +24,7 @@ export const metadata: Metadata = {
     description: "Internetové noviny pro Boskovice a okolí",
     locale: "cs-CZ",
     type: "website",
-    images: [
-      {
-        url: "https://i.ohlasy.info/i/a5c62deb.jpg",
-      },
-    ],
+    images: "https://i.ohlasy.info/i/a5c62deb.jpg",
   },
 };
 
