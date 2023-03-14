@@ -1,24 +1,13 @@
 import { Client } from "@notionhq/client";
-import { notEmpty } from "../utils";
 import {
-  CheckboxPropertyValue,
-  NumberPropertyValue,
-  Page,
-  RichTextPropertyValue,
-  TitlePropertyValue,
-  URLPropertyValue,
-} from "@notionhq/client/build/src/api-types";
-
-interface BannerPage extends Page {
-  properties: {
-    "Název"?: TitlePropertyValue;
-    "Odkaz"?: URLPropertyValue;
-    "Zveřejnit"?: CheckboxPropertyValue;
-    "Obrázek"?: URLPropertyValue;
-    "Náhradní text"?: RichTextPropertyValue;
-    "Priorita"?: NumberPropertyValue;
-  };
-}
+  array,
+  boolean,
+  field,
+  literal,
+  number,
+  record,
+  string,
+} from "typescript-json-decoder";
 
 export interface Banner {
   name: string;
@@ -28,46 +17,83 @@ export interface Banner {
   priority: number;
 }
 
+const decodeUrlProperty = record({
+  type: literal("url"),
+  value: field("url", string),
+});
+
+const decodeCheckboxProperty = record({
+  type: literal("checkbox"),
+  value: field("checkbox", boolean),
+});
+
+const decodeNumberProperty = record({
+  type: literal("number"),
+  value: field("number", number),
+});
+
+const decodeRichTextProperty = record({
+  type: literal("rich_text"),
+  value: field(
+    "rich_text",
+    array(
+      record({
+        type: literal("text"),
+        plainText: field("plain_text", string),
+      })
+    )
+  ),
+});
+
+const decodeTitleProperty = record({
+  type: literal("title"),
+  value: field(
+    "title",
+    array(
+      record({
+        type: literal("text"),
+        plainText: field("plain_text", string),
+      })
+    )
+  ),
+});
+
+const decodeQueryResponse = record({
+  object: literal("list"),
+  results: array(
+    record({
+      object: literal("page"),
+      props: field(
+        "properties",
+        record({
+          url: field("Odkaz", decodeUrlProperty),
+          published: field("Zveřejnit", decodeCheckboxProperty),
+          imageUrl: field("Obrázek", decodeUrlProperty),
+          priority: field("Priorita", decodeNumberProperty),
+          alt: field("Náhradní text", decodeRichTextProperty),
+          name: field("Název", decodeTitleProperty),
+        })
+      ),
+    })
+  ),
+});
+
+// TBD: Skip invalid, sort by priority
 export async function getAllBanners(
   apiKey: string = process.env.NOTION_API_KEY ?? ""
 ): Promise<Banner[]> {
   const notion = new Client({ auth: apiKey });
-  const database = "50c3e92b4f7d44ee9cc5a139d81b07b5";
-  const results = await notion.databases
-    .query({ database_id: database })
-    .then((response) => response.results);
-  return results.map(bannerFromPage).filter(notEmpty).sort(compareByPriority);
-}
-
-function bannerFromPage(page: Page): Banner | null {
-  const props = (page as BannerPage).properties;
-
-  const publish = props["Zveřejnit"]?.checkbox;
-  if (publish !== true) {
-    return null;
-  }
-
-  const name = props["Název"]?.title[0]?.plain_text;
-  const image = props["Obrázek"]?.url;
-  const alt = props["Náhradní text"]?.rich_text[0]?.plain_text;
-  const url = props["Odkaz"]?.url;
-  const priority = props["Priorita"]?.number || 0;
-
-  if (!(name && image && alt && url)) {
-    return null;
-  }
-
-  return { name, image, alt, url, priority };
-}
-
-function compareByPriority(a: Banner, b: Banner) {
-  var ap = a.priority || 0;
-  var bp = b.priority || 0;
-  if (ap > bp) {
-    return -1;
-  } else if (bp > ap) {
-    return +1;
-  } else {
-    return Math.random() > 0.5 ? -1 : 1;
-  }
+  const database_id = "50c3e92b4f7d44ee9cc5a139d81b07b5";
+  return await notion.databases
+    .query({ database_id })
+    .then(decodeQueryResponse)
+    .then((response) =>
+      response.results.map(({ props }) => ({
+        name: props.name.value[0].plainText,
+        image: props.imageUrl.value,
+        alt: props.alt.value[0].plainText,
+        url: props.url.value,
+        priority: props.priority.value,
+      }))
+    );
 }
