@@ -115,7 +115,8 @@ h3 {
 }
 
 .article-preview a,
-.article-preview a:hover {
+.article-preview a:hover,
+.box a:hover {
   display: block;
   text-decoration: none;
   color: inherit;
