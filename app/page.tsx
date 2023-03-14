@@ -14,7 +14,10 @@ import { Banner } from "src/data-source/banners";
 import { TopArticles } from "src/data-source/plausible";
 import Link from "next/link";
 
-// TODO: ISR
+// Revalidate this page every 5 minutes
+export const revalidate = 300;
+
+/** Home page */
 const Page = async () => {
   const banners = await getAllBanners();
   const topArticles = await getTopArticles();
