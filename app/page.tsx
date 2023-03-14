@@ -13,6 +13,7 @@ import { BannerBox } from "components/BannerBox";
 import { Banner } from "src/data-source/banners";
 import { TopArticles } from "src/data-source/plausible";
 import Link from "next/link";
+import Image from "next/image";
 
 // Revalidate this page every 5 minutes
 export const revalidate = 300;
@@ -131,7 +132,7 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
 
   const getAvatarForUserId = (id: number) => {
     const user = users.find((u) => u.id === id)!;
-    return getUserAvatar(user, 50);
+    return getUserAvatar(user, 200);
   };
 
   return (
@@ -145,11 +146,12 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
               </div>
               <div className="col-sm-4">
                 {topic.posters.map(({ user_id }) => (
-                  /* eslint-disable-next-line @next/next/no-img-element */
-                  <img
+                  <Image
                     key={user_id}
                     src={getAvatarForUserId(user_id)}
-                    className="discourse-avatar"
+                    style={{ borderRadius: "50%", marginRight: "5px" }}
+                    width={30}
+                    height={30}
                     alt=""
                   />
                 ))}

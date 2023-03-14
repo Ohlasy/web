@@ -303,13 +303,6 @@ ol.article-list li:before {
 
 /* Forum */
 
-.discourse-avatar {
-  width: 1.5em;
-  height: 1.5em;
-  border-radius: 50%;
-  margin-right: 5px;
-}
-
 .forum-topic-list .row {
   padding-top: 6px;
   padding-bottom: 6px;
