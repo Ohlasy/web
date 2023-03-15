@@ -54,13 +54,13 @@ const Page = async () => {
         banner={getNextBanner()}
       />
 
-      <h2 className="section-divider">rozhovory</h2>
-      <PreviewNest5 articles={interviews} getBanner={getNextBanner} />
-
       <h2 className="section-divider">
         <a href={RouteTo.podcasts}>podcast</a>
       </h2>
       <PreviewNest5 articles={podcast} getBanner={getNextBanner} />
+
+      <h2 className="section-divider">rozhovory</h2>
+      <PreviewNest5 articles={interviews} getBanner={getNextBanner} />
 
       <h2 className="section-divider">nejčtenější články</h2>
       <TopArticleBox topArticles={topArticles} banner={getNextBanner()} />
