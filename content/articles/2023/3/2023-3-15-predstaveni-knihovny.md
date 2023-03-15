@@ -5,7 +5,7 @@ cover-photo: https://i.ohlasy.info/i/954e9081.jpg
 author: Tomáš Trumpeš
 ---
 
-*Asi čtyřicítka zájemců dorazila v úterý 7. března do zámeckého skleníku na veřejné představení aktuálního projektu na novou boskovickou knihovnu. Přinášíme shrnutí toho nejpodstatnějšího a zároveň zveme na debatu [Ohlasy naživo: Kam dál s knihovnou](https://www.facebook.com/events/1413069589488743/)? Koná se ve čtvrtek 25. března od 19.00 v Prostoru, diskutovat budeme se starostkou Janou Syrovátkovou (Změna22), architektem Petrem Ondráčkem a vedoucí knihovny Miroslavou Jurdičovou.*
+*Asi čtyřicítka zájemců dorazila v úterý 7. března do zámeckého skleníku na veřejné představení aktuálního projektu na novou boskovickou knihovnu. Přinášíme shrnutí toho nejpodstatnějšího a zároveň zveme na debatu [Ohlasy naživo: Kam dál s knihovnou](https://www.facebook.com/events/1413069589488743/)? Koná se ve čtvrtek 23. března od 19.00 v Prostoru, diskutovat budeme se starostkou Janou Syrovátkovou (Změna22), architektem Petrem Ondráčkem a vedoucí knihovny Miroslavou Jurdičovou.*
 
 {% photo src="https://i.ohlasy.info/i/954e9081.jpg" caption="Aktuální vizualizace projektu" width=4447 height=3133 /%}
 
