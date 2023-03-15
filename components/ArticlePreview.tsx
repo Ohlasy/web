@@ -45,7 +45,14 @@ export const ArticlePreview: React.FC<ArticlePreviewProps> = ({
 }) => (
   <div className={`article-preview article-preview-middle ${type}`}>
     <Link href={RouteTo.article(article)}>
-      <div className="force-hd-aspect">
+      <div
+        style={{
+          aspectRatio: 16 / 9,
+          position: "relative",
+          overflow: "hidden",
+          marginBottom: "20px",
+        }}
+      >
         <Image
           src={article.coverPhoto}
           style={{ objectFit: "cover" }}

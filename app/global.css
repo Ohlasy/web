@@ -453,14 +453,6 @@ article .img-responsive {
   float: left;
 }
 
-.force-hd-aspect {
-  width: 100%;
-  padding-bottom: 56.25%;
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 20px;
-}
-
 .force-43-aspect {
   width: 100%;
   padding-bottom: 75%;
