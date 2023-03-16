@@ -8,7 +8,7 @@ export function GET() {
     articles.map((article) => new Date(article.date).getFullYear())
   );
 
-  let csv = `rok;"článků celkem";"článků od hlavního autora"\n`;
+  let csv = `rok,"článků celkem","článků od hlavního autora"\n`;
   for (const year of years) {
     const allYearArticles = articles.filter(
       (a) => new Date(a.date).getFullYear() === year
