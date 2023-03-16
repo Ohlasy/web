@@ -4,6 +4,7 @@ import sharp from "sharp";
 const ContentType = {
   rss: "application/rss+xml",
   json: "application/json",
+  csv: "text/csv",
 };
 
 const endpoints = {
@@ -11,6 +12,8 @@ const endpoints = {
   "/podcast.xml": ContentType.rss,
   "/podcast/hrebenovka.xml": ContentType.rss,
   "/api/articles": ContentType.json,
+  "/stats/donations/monthly": ContentType.csv,
+  "/stats/donations/last_year": ContentType.csv,
 };
 
 for (const [endpoint, contentType] of Object.entries(endpoints)) {
