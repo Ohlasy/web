@@ -16,6 +16,8 @@ const endpoints = {
   "/stats/donations/last_year": ContentType.csv,
   "/stats/content/authors": ContentType.csv,
   "/stats/content/authors/history": ContentType.csv,
+  "/stats/content/authors/diversity": ContentType.csv,
+  "/stats/content/authors/bus_factor": ContentType.csv,
 };
 
 for (const [endpoint, contentType] of Object.entries(endpoints)) {
