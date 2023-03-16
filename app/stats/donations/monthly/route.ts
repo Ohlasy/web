@@ -1,7 +1,7 @@
 import {
-  getOneTimeDonations,
+  sumOneTimeDonations,
   getPastYearTransactionsByMonth,
-  getRecurrentDonations,
+  sumRecurrentDonations,
 } from "src/data-source/darujme";
 
 export async function GET() {
@@ -14,8 +14,8 @@ export async function GET() {
   const report = await getPastYearTransactionsByMonth(apiId, apiSecret);
   let csv = "měsíc; pravidelné dary; jednorázové dary\n";
   for (const month of report) {
-    const recurring = getRecurrentDonations(month.transactions);
-    const oneTime = getOneTimeDonations(month.transactions);
+    const recurring = sumRecurrentDonations(month.transactions);
+    const oneTime = sumOneTimeDonations(month.transactions);
     csv += `${month.month.month}/${month.month.year}; ${recurring}; ${oneTime}\n`;
   }
 

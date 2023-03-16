@@ -1,6 +1,6 @@
 import {
-  getOneTimeDonations,
-  getRecurrentDonations,
+  sumOneTimeDonations,
+  sumRecurrentDonations,
   getTransactions,
 } from "src/data-source/darujme";
 
@@ -16,8 +16,8 @@ export async function GET() {
   const endDate = new Date();
   const startDate = new Date(Date.now() - oneYearBack * msPerDay);
   const txs = await getTransactions(apiId, apiSecret, startDate, endDate);
-  const repeatingDonations = getRecurrentDonations(txs);
-  const oneTimeDonations = getOneTimeDonations(txs);
+  const repeatingDonations = sumRecurrentDonations(txs);
+  const oneTimeDonations = sumOneTimeDonations(txs);
 
   let csv = `pravidelné dary; ${repeatingDonations}\n`;
   csv += `jednorázové dary; ${oneTimeDonations}\n`;

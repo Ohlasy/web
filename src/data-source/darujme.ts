@@ -58,10 +58,10 @@ export async function getTransactions(
   );
 }
 
-export const getRecurrentDonations = (txs: Transaction[]) =>
+export const sumRecurrentDonations = (txs: Transaction[]) =>
   sumTransactions(txs.filter((t) => t.pledge.isRecurrent));
 
-export const getOneTimeDonations = (txs: Transaction[]) =>
+export const sumOneTimeDonations = (txs: Transaction[]) =>
   sumTransactions(txs.filter((t) => !t.pledge.isRecurrent));
 
 export const sumTransactions = (txs: Transaction[]) =>

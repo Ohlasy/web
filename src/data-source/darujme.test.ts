@@ -1,6 +1,6 @@
 import {
-  getRecurrentDonations,
-  getOneTimeDonations,
+  sumRecurrentDonations,
+  sumOneTimeDonations,
   Transaction,
   formatDate,
   getPastFullMonths,
@@ -56,8 +56,8 @@ test("Stats calculation", () => {
       },
     },
   ];
-  expect(getRecurrentDonations(txs)).toEqual(300);
-  expect(getOneTimeDonations(txs)).toEqual(400);
+  expect(sumRecurrentDonations(txs)).toEqual(300);
+  expect(sumOneTimeDonations(txs)).toEqual(400);
 });
 
 test("Date calculations", () => {
