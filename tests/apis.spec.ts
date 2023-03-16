@@ -14,6 +14,8 @@ const endpoints = {
   "/api/articles": ContentType.json,
   "/stats/donations/monthly": ContentType.csv,
   "/stats/donations/last_year": ContentType.csv,
+  "/stats/content/authors": ContentType.csv,
+  "/stats/content/authors/history": ContentType.csv,
 };
 
 for (const [endpoint, contentType] of Object.entries(endpoints)) {
