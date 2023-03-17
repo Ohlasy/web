@@ -35,6 +35,12 @@ type PhotoProps = {
 };
 
 const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
+  const imageStyle: React.CSSProperties = {
+    maxWidth: "100%",
+    height: "auto",
+    marginTop: "25px",
+    marginBottom: "25px",
+  };
   const image =
     // If we have the image dimensions, we can use next/image to get better
     // speed and format support and less layout jumping.
@@ -46,7 +52,7 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
         alt={alt ?? caption ?? ""}
         width={width}
         height={height}
-        className="img-responsive"
+        style={imageStyle}
       />
     ) : (
       // Without image dimensions, we have to resort to plain old <img> with layout jumps.
@@ -57,28 +63,28 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
         srcSet={getImageSrcSet(src, IMAGE_SIGNING_KEY)}
         sizes="(min-width: 900px) 60vw, 100vw"
         alt={alt ?? caption ?? ""}
-        className="img-responsive"
+        style={imageStyle}
       />
     );
+  const credits = author ? `foto: ${author}` : "stáhnout foto";
   return (
     <div>
       {image}
-      <div className="img-meta">
+      <div
+        style={{
+          marginTop: "-18px",
+          marginBottom: "18px",
+          fontSize: "90%",
+          lineHeight: "1.4em",
+          color: "gray",
+        }}
+      >
         {caption && <span style={{ marginRight: "2ex" }}>{caption}</span>}
-        {author && (
-          <span className="img-author">
-            <a href={src} style={{ color: "inherit" }}>
-              foto: {author}
-            </a>
-          </span>
-        )}
-        {!author && (
-          <span className="img-author">
-            <a href={src} style={{ color: "inherit" }}>
-              stáhnout foto
-            </a>
-          </span>
-        )}
+        <span style={{ textTransform: "uppercase", fontSize: "80%" }}>
+          <a href={src} style={{ color: "inherit" }}>
+            {credits}
+          </a>
+        </span>
       </div>
     </div>
   );

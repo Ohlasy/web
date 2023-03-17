@@ -18,13 +18,28 @@ export const BigArticlePreview: React.FC<ArticlePreviewProps> = ({
         <div className="col-sm-4">
           <div className="article-preview-text">
             <Title {...article} />
-            <p className="article-perex hidden-md hidden-sm">
+            <p
+              className="hidden-md hidden-sm"
+              style={{
+                fontSize: "90%",
+                position: "absolute",
+                fontStyle: "italic",
+                lineHeight: "1.53em",
+              }}
+            >
               {tilde(article.perex)}
             </p>
           </div>
         </div>
         <div className="col-sm-8">
-          <div className="force-feature-aspect">
+          <div
+            style={{
+              position: "relative",
+              height: "360px",
+              width: "490px",
+              overflow: "hidden",
+            }}
+          >
             <Image
               src={article.coverPhoto}
               style={{ objectFit: "cover" }}

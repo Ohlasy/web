@@ -18,13 +18,7 @@ export const BannerBox = ({ banner }: BannerProps) => {
         height: "360px",
       }}
     >
-      <Image
-        src={image}
-        className="img-responsive"
-        sizes="25vw"
-        alt={alt ?? "reklama"}
-        fill
-      />
+      <Image src={image} sizes="25vw" alt={alt ?? "reklama"} fill />
     </a>
   );
 };

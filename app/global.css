@@ -129,10 +129,6 @@ h3 {
   background: #eee;
 }
 
-.noborder {
-  border: none;
-}
-
 @media (max-width: 640px) {
   .article-preview {
     margin-bottom: 1ex;
@@ -164,21 +160,6 @@ h3 {
     font-size: 100%;
     position: absolute;
   }
-}
-
-.article-perex {
-  font-size: 90%;
-  position: absolute;
-  font-style: italic;
-  line-height: 1.53em;
-}
-
-.force-feature-aspect {
-  position: relative;
-  height: 360px;
-  width: 490px;
-  background-size: cover;
-  overflow: hidden;
 }
 
 /* Article Preview, Middle */
@@ -410,27 +391,7 @@ tbody tr:nth-child(odd) {
   margin-left: 0;
 }
 
-/* Image Captions */
-
-.img-meta {
-  margin-top: -18px;
-  margin-bottom: 18px;
-  font-size: 90%;
-  line-height: 1.4em;
-  color: gray;
-}
-
-.img-author {
-  text-transform: uppercase;
-  font-size: 80%;
-}
-
 /* Images & Video */
-
-article .img-responsive {
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
 
 .profile-picture {
   background-repeat: no-repeat;
