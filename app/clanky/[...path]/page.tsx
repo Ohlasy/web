@@ -135,21 +135,33 @@ type InfoBoxProps = {
   article: Article;
 };
 
-// TBD: Add minimum box height for authors with no e-mail?
 const InfoBox = ({ author, article }: InfoBoxProps) => {
   const date = new Date(article.date).toLocaleDateString("cs-CZ", {
     dateStyle: "long",
   });
   return (
-    <div className="article-info">
+    <div
+      style={{
+        padding: "20px",
+        background: "#eee",
+        marginTop: "30px",
+        marginBottom: "30px",
+        borderTop: "1px solid silver",
+      }}
+    >
       <Image
         src={author.profilePhotoUrl!}
         width={100}
         height={100}
         alt=""
-        className="profile-picture"
+        style={{
+          borderRadius: "50%",
+          float: "left",
+          marginRight: "20px",
+          marginBottom: "10px",
+        }}
       />
-      <ul className="list-unstyled">
+      <ul style={{ marginTop: "10px", listStyle: "none" }}>
         <li>{article.author}</li>
         {author.mail && (
           <li>

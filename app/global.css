@@ -372,36 +372,3 @@ th {
 tbody tr:nth-child(odd) {
   background-color: #eee;
 }
-
-/* Article Infobox */
-
-.article-info {
-  padding: 20px;
-  background: rgb(240, 240, 240);
-  margin-top: 30px;
-  margin-bottom: 30px;
-  border-top: 1px solid silver;
-}
-
-.article-info ul {
-  margin-top: 10px;
-}
-
-.article-info .profile-picture {
-  margin-left: 0;
-}
-
-/* Images & Video */
-
-.profile-picture {
-  background-repeat: no-repeat;
-  background-position: 50%;
-  background-size: cover;
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  margin-right: 20px;
-  margin-bottom: 10px;
-  margin-left: -120px;
-  float: left;
-}
