@@ -1,6 +1,6 @@
 import { Article, getAllArticles } from "src/article";
 import { articleRoot } from "src/server-utils";
-import { renderCSV } from "src/data-source/content-stats";
+import { renderCSV } from "app/stats/content-stats";
 
 const readingSpeedInWordsPerMinute = 200;
 

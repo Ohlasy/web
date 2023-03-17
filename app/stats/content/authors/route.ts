@@ -5,7 +5,7 @@ import {
   sum,
   renderCSV,
   filterByYear,
-} from "src/data-source/content-stats";
+} from "app/stats/content-stats";
 
 export function GET(request: Request) {
   const { searchParams } = new URL(request.url);
