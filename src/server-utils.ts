@@ -56,6 +56,9 @@ export function getFileSystemPathForUrlPathFragments(
   fragments: string[]
 ): string | undefined {
   const [year, month, slug] = fragments;
+  if (!year || !month || !slug) {
+    return undefined;
+  }
   const nakedSlug = slug.replace(".html", "");
   const folder = join(
     process.cwd(),
