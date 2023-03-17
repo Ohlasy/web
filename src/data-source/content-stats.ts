@@ -1,4 +1,3 @@
-import { NextApiRequest, NextApiResponse } from "next";
 import { Article } from "src/article";
 
 export function groupBySelector<Key extends keyof any, Value>(
@@ -41,24 +40,4 @@ export function renderCSV(stats: Record<string, number>): string {
     .sort(([k1, v1], [k2, v2]) => v2 - v1)
     .map(([key, val]) => `${key}; ${val}`)
     .join("\n");
-}
-
-export function send(
-  contentType: string,
-  producer: () => Promise<string>
-): (req: NextApiRequest, res: NextApiResponse) => Promise<void> {
-  return async (_, response) => {
-    try {
-      const value = await producer();
-      response.setHeader(
-        "Cache-Control",
-        `s-maxage=3600, stale-while-revalidate`
-      );
-      response.setHeader("Access-Control-Allow-Origin", "*");
-      response.setHeader("Content-Type", contentType);
-      response.status(200).send(value);
-    } catch {
-      response.status(500).send("Error loading source data.");
-    }
-  };
 }
