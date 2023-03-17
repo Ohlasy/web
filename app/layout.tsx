@@ -39,6 +39,11 @@ export default function RootLayout({ children }: Props) {
         <meta charSet="utf-8" />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         <link rel="me" href={RouteTo.Mastodon} />
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          href={RouteTo.articleFeed}
+        />
         <script
           data-domain="ohlasy.info"
           src="https://plausible.io/js/script.outbound-links.js"
