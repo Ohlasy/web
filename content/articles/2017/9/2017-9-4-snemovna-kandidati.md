@@ -7,13 +7,13 @@ category: zpravodajství
 tags: politika
 ---
 
-*Kandidátní listiny do sněmovních voleb jsou odevzdány. Je tudíž jasné, na jaká místa se dostali kandidáti z okresu Blansko. Rozhodli jsme se, že u deseti stran, které mají potenciál získat křesla ve sněmovně, nejvýše postavené politiky z okresu stručně představíme.*
+_Kandidátní listiny do sněmovních voleb jsou odevzdány. Je tudíž jasné, na jaká místa se dostali kandidáti z okresu Blansko. Rozhodli jsme se, že u deseti stran, které mají potenciál získat křesla ve sněmovně, nejvýše postavené politiky z okresu stručně představíme._
 
 {% photo src="https://i.ohlasy.info/i/mtnsvzo.jpg" caption="Budova poslanecké sněmovny ČR" author="Jan Polák, Wikimedia Commons" /%}
 
 ---
 
-<img src="https://i.ohlasy.info/i/xkq3tt7.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/xkq3tt7.jpg" name="Dagmar Hamalová" /%}
 
 **Dagmar Hamalová**
 
@@ -29,7 +29,7 @@ Zkušenosti s politikou: Dagmar Hamalová je od začátku roku 2017 místostaros
 
 ---
 
-<img src="https://i.ohlasy.info/i/9kxzqr3.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/9kxzqr3.jpg" name="Emil Pernica" /%}
 
 **Emil Pernica**
 
@@ -44,7 +44,7 @@ Zkušenosti s politikou: Sedmadvacetiletý Emil Pernica působí od roku 2014 v 
 
 ---
 
-<img src="https://i.ohlasy.info/i/bi54c6a.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/bi54c6a.jpg" name="František Novotný" /%}
 
 **František Novotný**
 
@@ -60,7 +60,7 @@ Zkušenosti s politikou: František Novotný je už sedm let starostou v obci K�
 
 ---
 
-<img src="https://i.ohlasy.info/i/warchm2.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/warchm2.jpg" name="Hana Nedomová" /%}
 
 **Hana Nedomová**
 
@@ -72,11 +72,11 @@ Lídr v Jihomoravském kraji: Bohuslav Sobotka – předseda vlády
 
 Výsledek v minulých volbách na jižní Moravě: 22,94 procent hlasů a 6 mandátů
 
-Zkušenosti s politikou: Hana Nedomová je od roku 2014 starostkou Boskovic, předtím čtyři roky seděla v opozici v zastupitelstvu a pracovala na blanenském a posléze krajském  úřadu. Také ona pro Ohlasy prohlásila, že pokud by ve sněmovních volbách uspěla, vzdá se křesla starostky a nebude dvě funkce kumulovat.
+Zkušenosti s politikou: Hana Nedomová je od roku 2014 starostkou Boskovic, předtím čtyři roky seděla v opozici v zastupitelstvu a pracovala na blanenském a posléze krajském úřadu. Také ona pro Ohlasy prohlásila, že pokud by ve sněmovních volbách uspěla, vzdá se křesla starostky a nebude dvě funkce kumulovat.
 
 ---
 
-<img src="https://i.ohlasy.info/i/m1dnqsr.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/m1dnqsr.jpg" name="Jan Hrnčíř" /%}
 
 **Jan Hrnčíř**
 
@@ -90,7 +90,7 @@ Zkušenosti s politikou: Jan Hrnčíř je od podzimu 2016 zastupitelem Jihomorav
 
 ---
 
-<img src="https://i.ohlasy.info/i/rhy5ewt.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/rhy5ewt.jpg" name="Lenka Dražilová" /%}
 
 **Lenka Dražilová**
 
@@ -102,11 +102,11 @@ Lídr v Jihomoravském kraji: Taťána Malá – náměstkyně jihomoravského h
 
 Výsledek v minulých volbách na jižní Moravě: 17,34 procent a 5 mandátů
 
-Zkušenosti s politikou: Lenka Dražilová, ředitelka domova pro seniory v Blansku, se v politice pohybuje přes deset let. V roce 2006 a 2010 uspěla v komunálních volbách na kandidátce ODS, poté však přešla k hnutí ANO, za které dnes vykonává zastupitelský mandát. Od loňského podzimu je také za ANO krajskou zastupitelkou a letos dostala šanci proniknout i do sněmovny. 
+Zkušenosti s politikou: Lenka Dražilová, ředitelka domova pro seniory v Blansku, se v politice pohybuje přes deset let. V roce 2006 a 2010 uspěla v komunálních volbách na kandidátce ODS, poté však přešla k hnutí ANO, za které dnes vykonává zastupitelský mandát. Od loňského podzimu je také za ANO krajskou zastupitelkou a letos dostala šanci proniknout i do sněmovny.
 
 ---
 
-<img src="https://i.ohlasy.info/i/s1dvear.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/s1dvear.jpg" name="Libor Hoppe" /%}
 
 **Libor Hoppe**
 
@@ -122,7 +122,7 @@ Zkušenosti s politikou: Libor Hoppe z Lipůvky zatím v žádných volbách nek
 
 ---
 
-<img src="https://i.ohlasy.info/i/hcjurit.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/hcjurit.jpg" name="Michal Staněk" /%}
 
 **Michal Staněk**
 
@@ -134,11 +134,11 @@ Lídr v Jihomoravském kraji: Michal Berg – podnikatel
 
 Výsledek v minulých volbách na jižní Moravě: 3,27 procent hlasů a žádný mandát
 
-Zkušenosti s politikou: Michal Staněk z Boskovic kandidoval v různých volbách postupně od roku 2006, pokaždé ale neúspěšně. Přesto však jako náhradník nakonec zasedl mezi roky 2006 a 2010 v místním zastupitelstvu, kam kandidoval za uskupení Nestraníci pro Moravu. 
+Zkušenosti s politikou: Michal Staněk z Boskovic kandidoval v různých volbách postupně od roku 2006, pokaždé ale neúspěšně. Přesto však jako náhradník nakonec zasedl mezi roky 2006 a 2010 v místním zastupitelstvu, kam kandidoval za uskupení Nestraníci pro Moravu.
 
 ---
 
-<img src="https://i.ohlasy.info/i/jtwyriq.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/jtwyriq.jpg" name="Michal Sýkora" /%}
 
 **Michal Sýkora**
 
@@ -154,7 +154,7 @@ Zkušenosti s politikou: Michal Sýkora působí v Šebrově-Kateřině od roku 
 
 ---
 
-<img src="https://i.ohlasy.info/i/2ujl9ee.jpg" class="profile-picture"/>
+{% profile_photo src="https://i.ohlasy.info/i/2ujl9ee.jpg" name="Petr Novotný" /%}
 
 **Petr Novotný**
 
@@ -169,5 +169,5 @@ Výsledek v minulých volbách na jižní Moravě: 9,79 procent hlasů a 2 mand�
 Zkušenosti s politikou: Petr Novotný, který pracuje v Letovicích jako učitel na místní střední škole, se pohybuje v politice od roku 2006. Tehdy v komunálních volbách získal mandát v barvách ODS, v dalších dvojích volbách do letovického zastupitelstva už hájil barvy tehdy vzniklé TOP 09. Neúspěšně dvakrát kandidoval v krajských volbách.
 
 ---
- 
+
 Šanci na úspěch dávají předvolební průzkumy také Pirátům. Ti však nikoho z okresu Blansko na kandidátce nemají. A aby politických stran a hnutí nekandidovalo málo, k výše vyjmenovaným společně s Piráty přijdou každému domů volební lístky s ještě dalšími patnácti uskupeními. Od různých protiuprchlicky naladěných stran, které mají odpor proti migrantům už ve svém názvu, až po hnutí s názvem Cesta odpovědné společnosti nebo Radostné Česko.
