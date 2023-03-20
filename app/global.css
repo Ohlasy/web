@@ -283,18 +283,6 @@ ol.article-list li:before {
   color: silver;
 }
 
-/* Forum */
-
-.forum-topic-list .row {
-  padding-top: 6px;
-  padding-bottom: 6px;
-  margin-left: 0px;
-}
-
-.forum-topic-list .row:not(:last-of-type) {
-  border-bottom: 1px dotted #ddd;
-}
-
 /* Boxes */
 
 .box {

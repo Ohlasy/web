@@ -139,8 +139,18 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
     <>
       <div className="row">
         <div className="col-lg-8 forum-topic-list">
-          {topics.map((topic) => (
-            <div key={topic.id} className="row">
+          {topics.map((topic, index) => (
+            <div
+              key={topic.id}
+              className="row"
+              style={{
+                paddingTop: "6px",
+                paddingBottom: "6px",
+                marginLeft: "0",
+                borderBottom:
+                  index === topics.length - 1 ? "none" : "1px dotted #ddd",
+              }}
+            >
               <div className="col-sm-8">
                 <a href={RouteTo.forumTopic(topic)}>{topic.title}</a>
               </div>
