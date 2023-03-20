@@ -63,7 +63,7 @@ export default function RootLayout({ children }: Props) {
 
 const NavBar = () => {
   return (
-    <nav className="navbar navbar-default">
+    <nav className="navbar navbar-default" style={{ marginBottom: "30px" }}>
       <div className="container">
         <h1 className={mainHeadingFont.className}>
           <Link href={RouteTo.homePage}>

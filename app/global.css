@@ -52,20 +52,6 @@ h3 {
   text-transform: uppercase;
 }
 
-/* Navigation */
-
-.navbar {
-  margin-bottom: 30px;
-}
-
-.row {
-  overflow: hidden;
-}
-
-.row-indented {
-  margin-bottom: 30px;
-}
-
 /* Section Dividers */
 
 .section-divider {
