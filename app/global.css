@@ -186,29 +186,12 @@ h3 {
 
 /* Footer */
 
-footer {
-  font-size: 90%;
-  background: rgb(248, 248, 248);
-  border-top: 1px solid #ddd;
-  padding-bottom: 50px;
-  padding-top: 20px;
-  margin-top: 40px;
-}
-
 footer a {
   color: rgba(148, 82, 0, 0.7);
 }
 
-.nobreak {
-  white-space: nowrap;
-}
-
-.powered-by {
-  display: inline-block;
-  margin-top: 20px;
-}
-
-.powered-by:hover {
+footer a:has(img):hover {
+  text-decoration: none;
   border: none;
 }
 

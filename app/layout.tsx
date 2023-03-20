@@ -5,6 +5,7 @@ import Link from "next/link";
 import { SearchForm } from "./SearchForm";
 import { Metadata } from "next";
 import "./global.css";
+import Image from "next/image";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
@@ -76,7 +77,17 @@ const NavBar = () => {
 };
 
 const Footer = () => (
-  <footer className="text-muted">
+  <footer
+    className="text-muted"
+    style={{
+      fontSize: "90%",
+      background: "rgb(248, 248, 248)",
+      borderTop: "1px solid #ddd",
+      paddingBottom: "50px",
+      paddingTop: "20px",
+      marginTop: "40px",
+    }}
+  >
     <div className="container">
       <div className="row">
         <div className="col-md-8">
@@ -84,12 +95,14 @@ const Footer = () => (
             <li>
               <em>
                 Ohlasy, noviny{" "}
-                <span className="nobreak">pro Boskovice a okolí</span>
+                <span style={{ whiteSpace: "nowrap" }}>
+                  pro Boskovice a okolí
+                </span>
               </em>
             </li>
             <li>
               vydává <Link href={RouteTo.companyInfo}>spolek šílenců</Link>,{" "}
-              <span className="nobreak">
+              <span style={{ whiteSpace: "nowrap" }}>
                 protože kdo jiný by dneska dělal noviny
               </span>
             </li>
@@ -112,9 +125,20 @@ const Footer = () => (
             </li>
             <li>+420 608 763 954</li>
             <li>
-              <Link href={RouteTo.Vercel} className="powered-by">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src="/vercel.svg" alt="Powered by Vercel" />
+              <Link
+                href={RouteTo.Vercel}
+                style={{
+                  display: "inline-block",
+                  marginTop: "30px",
+                  cursor: "pointer",
+                }}
+              >
+                <Image
+                  src="/vercel.svg"
+                  alt="Powered by Vercel"
+                  width={188}
+                  height={39}
+                />
               </Link>
             </li>
           </ul>
