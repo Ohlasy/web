@@ -106,9 +106,7 @@ const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
       </ol>
     </div>
     <div className="col-md-4 hidden-sm hidden-xs">
-      <div className="box">
-        <BannerBox banner={banner} />
-      </div>
+      <BannerBox banner={banner} />
     </div>
   </div>
 );
@@ -170,9 +168,7 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
           ))}
         </div>
         <div className="col-lg-4 hidden-md hidden-sm hidden-xs">
-          <div className="box">
-            <BannerBox banner={banner} />
-          </div>
+          <BannerBox banner={banner} />
         </div>
       </div>
     </>

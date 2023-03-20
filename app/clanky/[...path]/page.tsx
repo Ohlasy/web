@@ -119,12 +119,8 @@ const Sidebar: React.FC<SidebarProps> = ({ serialIntroPost, getBanner }) => {
   } else {
     return (
       <aside className="col-md-4 hidden-sm hidden-xs">
-        <div className="box">
-          <BannerBox banner={getBanner()} />
-        </div>
-        <div className="box">
-          <BannerBox banner={getBanner()} />
-        </div>
+        <BannerBox banner={getBanner()} />
+        <BannerBox banner={getBanner()} />
       </aside>
     );
   }

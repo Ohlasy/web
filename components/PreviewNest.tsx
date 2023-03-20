@@ -25,9 +25,7 @@ export const PreviewNest9: React.FC<PreviewNestProps> = ({
         <ArticlePreview article={articles[0]} type="fullheight" />
       </div>
       <div className="col-sm-4 hidden-xs">
-        <div className="box">
-          <BannerBox banner={getBanner()} />
-        </div>
+        <BannerBox banner={getBanner()} />
       </div>
     </div>
     <div className="row">
@@ -64,9 +62,7 @@ export const PreviewNest5: React.FC<PreviewNestProps> = ({
         <ArticlePreview article={articles[0]} />
       </div>
       <div className="col-sm-4 hidden-xs">
-        <div className="box">
-          <BannerBox banner={getBanner()} />
-        </div>
+        <BannerBox banner={getBanner()} />
       </div>
     </div>
     <div className="row">
