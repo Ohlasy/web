@@ -1,6 +1,6 @@
 ---
 title: Anketa s opozicí
-cover-photo: https://i.ohlasy.info/i/add72546.jpg
+cover-photo: https://i.ohlasy.info/i/d3db430d.jpg
 author: Tomáš Trumpeš
 category: ankety
 tags: politika
