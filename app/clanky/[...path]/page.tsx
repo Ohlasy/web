@@ -88,18 +88,17 @@ const Page = async ({ params }: Props) => {
   );
 };
 
-const Title = ({ article }: { article: Article }) =>
-  article.category === "názory a komentáře" ? (
-    <h2 className="main-header">
-      <Balancer>
-        {article.author}: {tilde(article.title)}
-      </Balancer>
-    </h2>
-  ) : (
-    <h2 className="main-header">
-      <Balancer>{tilde(article.title)}</Balancer>
+const Title = ({ article }: { article: Article }) => {
+  const title =
+    article.category === "názory a komentáře"
+      ? `${article.author}: ${tilde(article.title)}`
+      : tilde(article.title);
+  return (
+    <h2 style={{ marginTop: "0", lineHeight: "1.2em" }}>
+      <Balancer>{title}</Balancer>
     </h2>
   );
+};
 
 type SidebarProps = {
   serialIntroPost?: string;
@@ -112,7 +111,9 @@ const Sidebar: React.FC<SidebarProps> = ({ serialIntroPost, getBanner }) => {
     const renderTree = Markdoc.renderers.react(document, React);
     return (
       <aside className="col-md-4 text-muted">
-        <h2 className="sidebar-header">O seriálu</h2>
+        <h2 style={{ marginTop: "0", lineHeight: "1.2em", color: "gray" }}>
+          O seriálu
+        </h2>
         {renderTree}
       </aside>
     );

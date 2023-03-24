@@ -289,19 +289,6 @@ article hr {
   margin-bottom: 30px;
 }
 
-/* Headers */
-
-.main-header,
-.sidebar-header {
-  margin-top: 0;
-  line-height: 1.2em;
-}
-
-.sidebar-header {
-  font-weight: normal;
-  color: gray;
-}
-
 /* Tables */
 
 table {
