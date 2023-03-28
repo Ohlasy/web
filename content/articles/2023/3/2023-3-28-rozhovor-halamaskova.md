@@ -37,7 +37,7 @@ Peníze. Samozřejmě vůli, vytrvalost, nadšení a dobrý plán, ale to si mys
 
 **Spolek si tedy převezme a bude provozovat i kavárnu? Jde o čistě organizační změnu, nebo čekají v tomto ohledu návštěvníky kavárny nějaké změny?**
 
-Přesně tak, kavárna by nejpozději v roce 2024 měla přejít pod spolek. Změna to bude určitě pro nás, protože bude to bude spolek, kdo bude do větší míry určovat, jak kavárna bude vypadat. Jaký efekt to bude mít pro návštěvníky si zatím netroufám odhadovat – v dlouhodobém horizontu bychom rádi investovali případné zisky z kavárny do služeb, interiéru a zařízení, aby byla kavárna co nejpříjemnější pro jakéhokoli příchozího. 
+Přesně tak, kavárna by nejpozději v roce 2024 měla přejít pod spolek. Změna to bude určitě pro nás, protože to bude spolek, kdo bude do větší míry určovat, jak kavárna bude vypadat. Jaký efekt to bude mít pro návštěvníky si zatím netroufám odhadovat – v dlouhodobém horizontu bychom rádi investovali případné zisky z kavárny do služeb, interiéru a zařízení, aby byla kavárna co nejpříjemnější pro jakéhokoli příchozího. 
 
 **Hlavní motivací k profesionalizaci je tedy co – zajistit fungování Prostoru ekonomicky, nebo spíš personálně dosáhnout za limity dobrovolnické práce?**
 
