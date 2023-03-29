@@ -88,7 +88,10 @@ export async function getAllBanners(
     .query({ database_id })
     .then(decodeQueryResponse)
     .then((response) =>
-      response.results.map(({ props }) => ({
+      response.results.filter((ad) => ad.props.published.value)
+    )
+    .then((results) =>
+      results.map(({ props }) => ({
         name: props.name.value[0].plainText,
         image: props.imageUrl.value,
         alt: props.alt.value[0].plainText,
