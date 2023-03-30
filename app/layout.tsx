@@ -62,7 +62,7 @@ export default function RootLayout({ children }: Props) {
 const NavBar = () => {
   return (
     <nav className="mb-3 md:mb-6 bg-lightGray py-3 lg:py-5 border-silver border-b-[1px]">
-      <div className="max-w-6xl m-auto px-7 overflow-hidden text-2xl lg:text-[42px] uppercase">
+      <div className="max-w-6xl m-auto px-3 md:px-7 overflow-hidden text-2xl lg:text-[42px] uppercase">
         <div>
           <Link
             href={RouteTo.homePage}
