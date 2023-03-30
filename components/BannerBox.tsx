@@ -10,7 +10,7 @@ export const BannerBox = ({ banner }: BannerProps) => {
   return (
     <a
       href={url}
-      className="block relative bg-silver cursor-pointer aspect-square w-full"
+      className="block relative w-full aspect-square bg-silver cursor-pointer"
     >
       <div className="absolute top-[-1.2em] text-xs text-[#666] uppercase">
         reklama

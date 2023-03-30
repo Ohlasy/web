@@ -57,14 +57,16 @@ const Page = async ({ params }: Props) => {
     <>
       <main>
         <div className="grid md:grid-cols-3 gap-7">
-          <article className="col-span-2">
+          <article className="md:col-span-2">
             <Title article={article} />
             <ArticleContent src={article.body} />
             <InfoBox article={article} author={author} />
           </article>
           <aside className="flex flex-col gap-7">
             <BannerBox banner={getNextBanner()} />
-            <BannerBox banner={getNextBanner()} />
+            <div className="max-md:hidden">
+              <BannerBox banner={getNextBanner()} />
+            </div>
           </aside>
         </div>
       </main>
