@@ -1,7 +1,7 @@
 import { PreviewNest } from "components/PreviewNest";
 import { getAllBanners } from "src/data-source/banners";
 import { RouteTo } from "src/routing";
-import { endlessGeneratorOf, shuffleInPlace } from "src/utils";
+import { endlessGeneratorOf, shuffleInPlace, tilde } from "src/utils";
 import { getTopArticles } from "src/data-source/plausible";
 import {
   getLatestTopicsSummary,
@@ -93,11 +93,14 @@ const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
   <div className="grid lg:grid-cols-3 gap-7">
     <ol className="col-span-2 grid md:grid-cols-2 gap-7">
       {topArticles.slice(0, 10).map((entry, index) => (
-        <li key={entry.title} className="flex gap-3">
-          <span className="block text-2xl text-[#666] text-right w-[3ex] pr-2 border-r-[1px] border-silver flex-none">
+        <li
+          key={entry.title}
+          className={`flex gap-4 ${index >= 5 ? "max-md:hidden" : ""}`}
+        >
+          <span className="block text-2xl text-[#666] text-right w-[3ex] flex-none">
             {index + 1}
           </span>
-          <Link href={entry.path}>{entry.title}</Link>
+          <Link href={entry.path}>{tilde(entry.title!)}</Link>
         </li>
       ))}
     </ol>
