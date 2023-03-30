@@ -127,11 +127,26 @@ const Footer = () => (
       <div className="max-md:order-2 flex flex-col gap-3">
         <div>
           <p>co ještě děláme</p>
-          <Links />
+          <LinkList
+            links={[
+              [RouteTo.archive, "archiv článků"],
+              [RouteTo.forum, "diskuzní fórum"],
+              [RouteTo.newsletter, "newsletter"],
+              [RouteTo.podcasts, "podcast"],
+            ]}
+          />
         </div>
         <div>
           <p>kde nás najdete</p>
-          <SocialLinks />
+          <LinkList
+            links={[
+              [RouteTo.Facebook, "Facebook"],
+              [RouteTo.Mastodon, "Mastodon"],
+              [RouteTo.YouTube, "YouTube"],
+              [RouteTo.Instagram, "Instagram"],
+              [RouteTo.Spotify, "Spotify"],
+            ]}
+          />
         </div>
       </div>
       <div className="max-md:order-1">
@@ -153,42 +168,15 @@ const SiteName = () => (
   </Link>
 );
 
-const Links = () => {
-  const links = [
-    [RouteTo.archive, "archiv článků"],
-    [RouteTo.forum, "diskuzní fórum"],
-    [RouteTo.newsletter, "newsletter"],
-    [RouteTo.podcasts, "podcast"],
-  ];
-  return (
-    <ul className="">
-      {links.map(([url, label]) => (
-        <li key={label}>
-          <Link href={url}>{label}</Link>
-        </li>
-      ))}
-    </ul>
-  );
-};
-
-const SocialLinks = () => {
-  const links = [
-    [RouteTo.Facebook, "Facebook"],
-    [RouteTo.Mastodon, "Mastodon"],
-    [RouteTo.YouTube, "YouTube"],
-    [RouteTo.Instagram, "Instagram"],
-    [RouteTo.Spotify, "Spotify"],
-  ];
-  return (
-    <ul className="">
-      {links.map(([url, label]) => (
-        <li key={label}>
-          <Link href={url}>{label}</Link>
-        </li>
-      ))}
-    </ul>
-  );
-};
+const LinkList = ({ links }: { links: string[][] }) => (
+  <ul className="leading-relaxed">
+    {links.map(([url, label]) => (
+      <li key={label}>
+        <Link href={url}>{label}</Link>
+      </li>
+    ))}
+  </ul>
+);
 
 //
 // Helpers
