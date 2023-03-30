@@ -1,7 +1,6 @@
 ---
 title: „Teď je stěžejní zvládnout profesionalizaci Prostoru.“
 cover-photo: https://i.ohlasy.info/i/e76d93a4.jpg
-perex: Rozhovor s Nikol Halamáskovou. Ta byla zvolena na další rok předsedkyní boskovického spolku Unijazz, který provozuje kulturní a komunitní centrum Prostor.
 author: Tomáš Trumpeš
 category: rozhovory
 tags: kultura
