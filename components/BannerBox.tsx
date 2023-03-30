@@ -10,16 +10,7 @@ export const BannerBox = ({ banner }: BannerProps) => {
   return (
     <a
       href={url}
-      className="ad"
-      style={{
-        display: "block",
-        position: "relative",
-        width: "360px",
-        height: "360px",
-        background: "#ddd",
-        marginBottom: "30px",
-        cursor: "pointer",
-      }}
+      className="block relative bg-silver cursor-pointer aspect-square w-full"
     >
       <Image src={image} sizes="25vw" alt={alt ?? "reklama"} fill />
     </a>

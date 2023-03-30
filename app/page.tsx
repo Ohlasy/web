@@ -1,4 +1,4 @@
-import { PreviewNest5, PreviewNest9 } from "components/PreviewNest";
+import { PreviewNest } from "components/PreviewNest";
 import { getAllBanners } from "src/data-source/banners";
 import { RouteTo } from "src/routing";
 import { endlessGeneratorOf, shuffleInPlace } from "src/utils";
@@ -39,12 +39,16 @@ const Page = async () => {
   const getNextBanner = () => bannerGenerator.next().value;
 
   return (
-    <div className="container">
+    <div>
       {/* Most recent */}
-      <PreviewNest9 articles={mostRecentArticles} getBanner={getNextBanner} />
+      <PreviewNest
+        articles={mostRecentArticles}
+        getBanner={getNextBanner}
+        aboveFold={true}
+      />
 
       <h2 className="section-divider">názory &amp; komentáře</h2>
-      <PreviewNest9 articles={opinions} getBanner={getNextBanner} />
+      <PreviewNest articles={opinions} getBanner={getNextBanner} />
 
       <h2 className="section-divider">
         <a href={RouteTo.forum}>diskuzní fórum</a>
@@ -57,21 +61,21 @@ const Page = async () => {
       <h2 className="section-divider">
         <a href={RouteTo.podcasts}>podcast</a>
       </h2>
-      <PreviewNest5 articles={podcast} getBanner={getNextBanner} />
+      <PreviewNest articles={podcast} getBanner={getNextBanner} />
 
       <h2 className="section-divider">rozhovory</h2>
-      <PreviewNest5 articles={interviews} getBanner={getNextBanner} />
+      <PreviewNest articles={interviews} getBanner={getNextBanner} />
 
       <h2 className="section-divider">nejčtenější články</h2>
       <TopArticleBox topArticles={topArticles} banner={getNextBanner()} />
 
       <h2 className="section-divider">seriály</h2>
-      <PreviewNest9 articles={serials} getBanner={getNextBanner} />
+      <PreviewNest articles={serials} getBanner={getNextBanner} />
 
       <h2 className="section-divider">
         vybíráme z <a href={RouteTo.archive}>archivu</a>
       </h2>
-      <PreviewNest5 articles={archive} getBanner={getNextBanner} />
+      <PreviewNest articles={archive} getBanner={getNextBanner} />
     </div>
   );
 };
@@ -86,26 +90,18 @@ export type TopArticleBoxProps = {
 };
 
 const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
-  <div className="row">
-    <div className="col-md-4 col-sm-6">
-      <ol className="article-list">
-        {topArticles.slice(0, 5).map((entry) => (
-          <li key={entry.title}>
-            <Link href={entry.path}>{entry.title}</Link>
-          </li>
-        ))}
-      </ol>
-    </div>
-    <div className="col-md-4 col-sm-6">
-      <ol className="article-list" start={5}>
-        {topArticles.slice(5, 10).map((entry) => (
-          <li key={entry.title}>
-            <Link href={entry.path}>{entry.title}</Link>
-          </li>
-        ))}
-      </ol>
-    </div>
-    <div className="col-md-4 hidden-sm hidden-xs">
+  <div className="grid lg:grid-cols-3 gap-7">
+    <ol className="col-span-2 grid md:grid-cols-2 gap-7">
+      {topArticles.slice(0, 10).map((entry, index) => (
+        <li key={entry.title} className="flex gap-3">
+          <span className="block text-2xl text-[#666] text-right w-[3ex] pr-2 border-r-[1px] border-silver flex-none">
+            {index + 1}
+          </span>
+          <Link href={entry.path}>{entry.title}</Link>
+        </li>
+      ))}
+    </ol>
+    <div className="max-lg:hidden">
       <BannerBox banner={banner} />
     </div>
   </div>
@@ -135,29 +131,22 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
 
   return (
     <>
-      <div className="row">
-        <div className="col-lg-8 forum-topic-list">
-          {topics.map((topic, index) => (
+      <div className="grid lg:grid-cols-3 gap-x-7">
+        <div className="col-span-2">
+          {topics.map((topic) => (
             <div
+              className="grid md:grid-cols-3 border-b-[1px] border-dotted border-silver last:border-0 pb-2 mb-2 gap-x-7"
               key={topic.id}
-              className="row"
-              style={{
-                paddingTop: "6px",
-                paddingBottom: "6px",
-                marginLeft: "0",
-                borderBottom:
-                  index === topics.length - 1 ? "none" : "1px dotted #ddd",
-              }}
             >
-              <div className="col-sm-8">
-                <a href={RouteTo.forumTopic(topic)}>{topic.title}</a>
-              </div>
-              <div className="col-sm-4">
+              <a href={RouteTo.forumTopic(topic)} className="col-span-2">
+                {topic.title}
+              </a>
+              <div>
                 {topic.posters.map(({ user_id }) => (
                   <Image
                     key={user_id}
                     src={getAvatarForUserId(user_id)}
-                    style={{ borderRadius: "50%", marginRight: "5px" }}
+                    className="inline-block rounded-full mr-1"
                     width={30}
                     height={30}
                     alt=""
@@ -167,7 +156,7 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
             </div>
           ))}
         </div>
-        <div className="col-lg-4 hidden-md hidden-sm hidden-xs">
+        <div className="max-lg:hidden">
           <BannerBox banner={banner} />
         </div>
       </div>

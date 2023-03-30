@@ -1,14 +1,11 @@
 import { RouteTo } from "src/routing";
-import { Dosis } from "next/font/google";
 import { PT_Serif } from "next/font/google";
 import Link from "next/link";
 import { SearchForm } from "./SearchForm";
 import { Metadata } from "next";
 import "./global.css";
 import Image from "next/image";
-
-// https://nextjs.org/docs/basic-features/font-optimization
-const mainHeadingFont = Dosis({ subsets: ["latin", "latin-ext"] });
+import Balancer from "react-wrap-balancer";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainFont = PT_Serif({
@@ -54,7 +51,7 @@ export default function RootLayout({ children }: Props) {
       <body>
         <div className={mainFont.className}>
           <NavBar />
-          {children}
+          <div className="max-w-6xl m-auto px-3 md:px-7">{children}</div>
           <Footer />
         </div>
       </body>
@@ -64,89 +61,144 @@ export default function RootLayout({ children }: Props) {
 
 const NavBar = () => {
   return (
-    <nav className="navbar navbar-default" style={{ marginBottom: "30px" }}>
-      <div className="container">
-        <h1 className={mainHeadingFont.className}>
-          <Link href={RouteTo.homePage}>
-            Ohlasy <small>dění na Boskovicku</small>
+    <nav className="mb-3 md:mb-6 bg-lightGray py-3 lg:py-5 border-silver border-b-[1px]">
+      <div className="max-w-6xl m-auto px-7 overflow-hidden text-2xl lg:text-[42px] uppercase">
+        <div>
+          <Link
+            href={RouteTo.homePage}
+            className="flex gap-3 lg:gap-4 items-center"
+          >
+            <h1 className="font-semibold mr-1">Ohlasy</h1>
+            <div className="relative w-6 lg:w-10 aspect-square flex-none">
+              <Image src="/favicon.png" sizes="40px" alt="" fill />
+            </div>
+            <div className="text-[#666] whitespace-nowrap">
+              dění na Boskovicku
+            </div>
           </Link>
-        </h1>
+        </div>
       </div>
     </nav>
   );
 };
 
+//
+// Footer
+//
+
 const Footer = () => (
-  <footer
-    className="text-muted"
-    style={{
-      fontSize: "90%",
-      background: "rgb(248, 248, 248)",
-      borderTop: "1px solid #ddd",
-      paddingBottom: "50px",
-      paddingTop: "20px",
-      marginTop: "40px",
-    }}
-  >
-    <div className="container">
-      <div className="row">
-        <div className="col-md-8">
-          <ul className="list-unstyled">
-            <li>
-              <em>
-                Ohlasy, noviny{" "}
-                <span style={{ whiteSpace: "nowrap" }}>
-                  pro Boskovice a okolí
-                </span>
-              </em>
-            </li>
-            <li>
-              vydává <Link href={RouteTo.companyInfo}>spolek šílenců</Link>,{" "}
-              <span style={{ whiteSpace: "nowrap" }}>
-                protože kdo jiný by dneska dělal noviny
-              </span>
-            </li>
-            <li>nepoužíváme žádné cookies, respektujeme vaše soukromí</li>
-            <li>
-              <Link href={RouteTo.Facebook}>Facebook</Link> /{" "}
-              <Link href={RouteTo.Mastodon}>Mastodon</Link> /{" "}
-              <Link href={RouteTo.YouTube}>YouTube</Link> /{" "}
-              <Link href={RouteTo.Instagram}>Instagram</Link> /{" "}
-              <Link href={RouteTo.Spotify}>Spotify</Link> /{" "}
-              <Link href={RouteTo.newsletter}>Newsletter</Link>
-            </li>
-            <li>
-              <Link href={RouteTo.adsInfo}>Inzerce</Link> /{" "}
-              <Link href={RouteTo.archive}>Archiv článků</Link> /{" "}
-              <Link href={RouteTo.forum}>Diskuzní fórum</Link>
-            </li>
-            <li>
-              <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
-            </li>
-            <li>+420 608 763 954</li>
-            <li>
-              <Link
-                href={RouteTo.Vercel}
-                style={{
-                  display: "inline-block",
-                  marginTop: "30px",
-                  cursor: "pointer",
-                }}
-              >
-                <Image
-                  src="/vercel.svg"
-                  alt="Powered by Vercel"
-                  width={188}
-                  height={39}
-                />
-              </Link>
-            </li>
-          </ul>
+  <footer className="mt-10 bg-lightGray border-t-[1px] border-silver py-10">
+    <div className="max-w-6xl px-7 m-auto grid md:grid-cols-3 gap-7">
+      <div className="grid grid-cols-1 gap-2 max-md:order-3">
+        <SiteName />
+        <p>
+          <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
+          <br />
+          +420 608 763 954
+        </p>
+        <p>
+          <Balancer>
+            Vydává <Link href={RouteTo.companyInfo}>spolek šílenců</Link>,
+            protože kdo jiný by dneska dělal noviny.
+          </Balancer>
+        </p>
+        <p>Nepoužíváme žádné cookies, respektujeme vaše soukromí.</p>
+        <p>
+          <Link href={RouteTo.adsInfo}>Chcete u nás inzerovat?</Link>
+        </p>
+        <p className="mt-7">
+          <Link
+            href={RouteTo.Vercel}
+            style={{
+              display: "inline-block",
+              marginTop: "30px",
+              cursor: "pointer",
+            }}
+          >
+            <Image
+              src="/vercel.svg"
+              alt="Powered by Vercel"
+              width={188}
+              height={39}
+            />
+          </Link>
+        </p>
+      </div>
+      <div className="max-md:order-2 flex flex-col gap-3">
+        <div>
+          <p>co ještě děláme</p>
+          <Links />
         </div>
-        <div className="col-md-4">
-          <SearchForm />
+        <div>
+          <p>kde nás najdete</p>
+          <SocialLinks />
         </div>
+      </div>
+      <div className="max-md:order-1">
+        <SearchForm />
       </div>
     </div>
   </footer>
+);
+
+const SiteName = () => (
+  <Link
+    href={RouteTo.homePage}
+    className="flex gap-2 items-center uppercase mb-2"
+  >
+    <div className="relative w-6 aspect-square flex-none">
+      <Image src="/favicon.png" sizes="24px" alt="" fill />
+    </div>
+    <h1 className="font-semibold mr-1">Ohlasy</h1>
+  </Link>
+);
+
+const Links = () => {
+  const links = [
+    [RouteTo.archive, "archiv článků"],
+    [RouteTo.forum, "diskuzní fórum"],
+    [RouteTo.newsletter, "newsletter"],
+    [RouteTo.podcasts, "podcast"],
+  ];
+  return (
+    <ul className="">
+      {links.map(([url, label]) => (
+        <li key={label}>
+          <Link href={url}>{label}</Link>
+        </li>
+      ))}
+    </ul>
+  );
+};
+
+const SocialLinks = () => {
+  const links = [
+    [RouteTo.Facebook, "Facebook"],
+    [RouteTo.Mastodon, "Mastodon"],
+    [RouteTo.YouTube, "YouTube"],
+    [RouteTo.Instagram, "Instagram"],
+    [RouteTo.Spotify, "Spotify"],
+  ];
+  return (
+    <ul className="">
+      {links.map(([url, label]) => (
+        <li key={label}>
+          <Link href={url}>{label}</Link>
+        </li>
+      ))}
+    </ul>
+  );
+};
+
+//
+// Helpers
+//
+
+const SizeClassIndicator = () => (
+  <div className="fixed top-3 right-3 bg-silver text-offBlack text-xs p-2 rounded-full z-[1000]">
+    <span className="block md:hidden">SM</span>
+    <span className="hidden md:block lg:hidden">MD</span>
+    <span className="hidden lg:block xl:hidden">LG</span>
+    <span className="hidden xl:block">XL</span>
+  </div>
 );

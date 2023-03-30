@@ -1,7 +1,7 @@
 import Markdoc from "@markdoc/markdoc";
 import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
 import { BannerBox } from "components/BannerBox";
-import { PreviewNest9 } from "components/PreviewNest";
+import { PreviewNest } from "components/PreviewNest";
 import fs from "fs";
 import { Metadata } from "next";
 import Image from "next/image";
@@ -38,21 +38,11 @@ const Page = async ({ params }: Props) => {
   const { path } = params!;
   const articlePath = getFileSystemPathForUrlPathFragments(path);
   if (!articlePath) {
-    console.error(`Cannot find article path for “${path.join("/")}”.`);
     notFound();
   }
 
   const article = readArticle(articlePath);
   const { banners, articles, authors } = await getCachedData();
-
-  const serialIntroPost =
-    article.category === "seriály"
-      ? // TBD: Add path routing similar to Route
-        fs.readFileSync(
-          join(process.cwd(), "content", "serials", article.serial + ".md"),
-          "utf-8"
-        )
-      : undefined;
 
   const author = authors.find((a) => a.name === article.author)!;
   const relatedArticles = articles
@@ -65,23 +55,23 @@ const Page = async ({ params }: Props) => {
   const getNextBanner = () => bannerGenerator.next().value;
   return (
     <>
-      <main className="container">
-        <div className="row article-row">
-          <article className="col-md-8">
+      <main>
+        <div className="grid md:grid-cols-3 gap-7">
+          <article className="col-span-2">
             <Title article={article} />
             <ArticleContent src={article.body} />
             <InfoBox article={article} author={author} />
           </article>
-          <Sidebar
-            serialIntroPost={serialIntroPost}
-            getBanner={getNextBanner}
-          />
+          <aside className="flex flex-col gap-7">
+            <BannerBox banner={getNextBanner()} />
+            <BannerBox banner={getNextBanner()} />
+          </aside>
         </div>
       </main>
       {relatedArticles.length >= 9 && (
-        <div className="container">
+        <div className="">
           <h2 className="section-divider">další {article.category}</h2>
-          <PreviewNest9 articles={relatedArticles} getBanner={getNextBanner} />
+          <PreviewNest articles={relatedArticles} getBanner={getNextBanner} />
         </div>
       )}
     </>
@@ -94,37 +84,10 @@ const Title = ({ article }: { article: Article }) => {
       ? `${article.author}: ${tilde(article.title)}`
       : tilde(article.title);
   return (
-    <h2 style={{ marginTop: "0", lineHeight: "1.2em" }}>
+    <h2 className="text-4xl leading-tight font-bold mb-3">
       <Balancer>{title}</Balancer>
     </h2>
   );
-};
-
-type SidebarProps = {
-  serialIntroPost?: string;
-  getBanner: () => Banner;
-};
-
-const Sidebar: React.FC<SidebarProps> = ({ serialIntroPost, getBanner }) => {
-  if (serialIntroPost) {
-    const document = Markdoc.transform(Markdoc.parse(serialIntroPost));
-    const renderTree = Markdoc.renderers.react(document, React);
-    return (
-      <aside className="col-md-4 text-muted">
-        <h2 style={{ marginTop: "0", lineHeight: "1.2em", color: "gray" }}>
-          O seriálu
-        </h2>
-        {renderTree}
-      </aside>
-    );
-  } else {
-    return (
-      <aside className="col-md-4 hidden-sm hidden-xs">
-        <BannerBox banner={getBanner()} />
-        <BannerBox banner={getBanner()} />
-      </aside>
-    );
-  }
 };
 
 type InfoBoxProps = {
@@ -137,35 +100,22 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
     dateStyle: "long",
   });
   return (
-    <div
-      style={{
-        padding: "20px",
-        background: "#eee",
-        marginTop: "30px",
-        marginBottom: "30px",
-        borderTop: "1px solid silver",
-      }}
-    >
+    <div className="mt-10 bg-lightGray p-7 pt-5 border-t-[1px] border-silver flex gap-7 flex-wrap content-center">
       <Image
         src={author.profilePhotoUrl!}
         width={100}
         height={100}
         alt=""
-        style={{
-          borderRadius: "50%",
-          float: "left",
-          marginRight: "20px",
-          marginBottom: "10px",
-        }}
+        className="rounded-full"
       />
-      <ul style={{ marginTop: "10px", listStyle: "none" }}>
+      <ul>
         <li>{article.author}</li>
         {author.mail && (
           <li>
             <a href={`mailto:${author.mail}`}>{author.mail}</a>
           </li>
         )}
-        {author.bio && <li className="text-muted">{author.bio}</li>}
+        {author.bio && <li>{author.bio}</li>}
         <li>vyšlo {date}</li>
       </ul>
     </div>

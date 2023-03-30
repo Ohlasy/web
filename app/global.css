@@ -1,55 +1,12 @@
-@import url(https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 body {
   font-family: serif;
   font-size: 19px;
   line-height: 1.5em;
   color: #444;
-  counter-reset: article-counter;
-}
-
-/* Site Header */
-
-.navbar {
-  min-height: 0;
-}
-
-h1 {
-  font-weight: 600;
-  text-transform: uppercase;
-  color: rgb(148, 82, 0);
-  font-size: max(min(5vw, 42px), 24px);
-  margin-top: 1ex;
-  margin-bottom: 0.8ex;
-  line-height: 1em;
-}
-
-h1 small {
-  font-weight: 400;
-  font-size: inherit;
-  color: silver;
-}
-
-h1 a:hover {
-  border: none;
-}
-
-h2,
-h3 {
-  font-weight: bold;
-  line-height: 1.3em;
-  color: #444;
-}
-
-h2 {
-  font-size: 200%;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-h3 {
-  font-size: 150%;
-  text-transform: uppercase;
 }
 
 /* Section Dividers */
@@ -89,187 +46,6 @@ h3 {
   margin-right: -50%;
 }
 
-/* Article Previews, shared */
-
-.article-grid {
-  margin-bottom: 30px;
-}
-
-.article-preview {
-  position: relative;
-  overflow: hidden;
-}
-
-.article-preview a,
-.article-preview a:hover {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  border: none;
-}
-
-.fullheight {
-  margin-bottom: -500px;
-  padding-bottom: 500px;
-  background: #eee;
-}
-
-@media (max-width: 640px) {
-  .article-preview {
-    margin-bottom: 1ex;
-    padding-bottom: 0;
-  }
-}
-
-/* Article Preview, Big */
-
-.article-preview-big {
-  background: #eee;
-  margin-bottom: 30px;
-}
-
-.article-preview-text {
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-.article-preview-big h2 {
-  font-size: 130%;
-  font-weight: bold;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .article-preview-big h2 {
-    font-size: 100%;
-    position: absolute;
-  }
-}
-
-/* Article Preview, Middle */
-
-.article-preview-middle {
-  background: #eee;
-}
-
-.article-preview-middle h2 {
-  font-weight: normal;
-  font-size: 90%;
-  padding-left: 10px;
-  padding-right: 15px;
-  padding-bottom: 10px;
-  margin-top: 10px;
-}
-
-/* Article Preview, Small */
-
-.article-preview-small {
-  border-top: 1px dotted #ddd;
-  padding-bottom: 15px;
-  height: 5em;
-  margin-bottom: 0px;
-}
-
-.article-preview-small h2 {
-  font-weight: normal;
-  font-size: 90%;
-  margin-bottom: 0;
-  margin-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  display: block;
-  height: 4em;
-  overflow: hidden;
-  color: #444;
-}
-
-/* Footer */
-
-footer a {
-  color: rgba(148, 82, 0, 0.7);
-}
-
-footer a:has(img):hover {
-  text-decoration: none;
-  border: none;
-}
-
-/* Article Lists */
-
-.article-list {
-  font-size: 90%;
-  list-style: none;
-  margin-left: 0;
-  padding-left: 0;
-}
-
-.article-list li {
-  position: relative;
-  margin-left: 0;
-  margin-bottom: 10px;
-}
-
-.article-list li:not(:last-of-type) {
-  border-bottom: 1px dotted #ddd;
-}
-
-.article-list a {
-  display: block;
-  height: 5.6em;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  padding-top: 5px;
-  color: black;
-}
-
-.article-list-dense a {
-  height: 4em;
-}
-
-.article-list a:hover {
-  color: black;
-  border: none;
-}
-
-ol.article-list li {
-  counter-increment: article-counter;
-}
-
-ol.article-list a {
-  padding-left: 50px;
-}
-
-ol.article-list li:before {
-  content: counter(article-counter);
-  position: absolute;
-  left: -20px;
-  top: 10px;
-  width: 50px;
-  text-align: right;
-  font-size: 200%;
-  color: silver;
-}
-
-/* Ads */
-
-a.ad:after {
-  content: "reklama";
-  position: absolute;
-  transform: rotate(90deg) translateX(100%) translateY(-100%);
-  transform-origin: top right;
-  right: 0px;
-  top: 0px;
-  font-size: 10px;
-  line-height: 10px;
-  color: silver;
-}
-
-a.ad:hover {
-  text-decoration: none;
-  border: none;
-}
-
 /* Content */
 
 a {
@@ -277,16 +53,23 @@ a {
   color: rgb(148, 82, 0);
 }
 
-a:hover {
-  text-decoration: none;
-  border-bottom: 1px solid rgb(148, 82, 0);
-  color: rgb(148, 82, 0);
-  padding-bottom: -3px;
-}
-
 article hr {
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+article h3 {
+  font-size: 150%;
+  font-weight: bold;
+  line-height: 1.3em;
+  color: #444;
+  text-transform: uppercase;
+  margin-top: 2ex;
+  margin-bottom: 1ex;
+}
+
+article p {
+  margin-bottom: 1ex;
 }
 
 /* Tables */

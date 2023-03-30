@@ -12,24 +12,19 @@ export const SearchForm = () => {
     event.preventDefault();
   };
   return (
-    <form onSubmit={handleSubmit}>
-      <div className="input-group input-group-md">
-        <input
-          type="text"
-          className="query form-control"
-          placeholder="klid duše"
-          onChange={(e) => setQuery(e.target.value)}
-          size={31}
-        />
-        <span className="input-group-btn">
-          <input
-            type="submit"
-            className="btn btn-primary"
-            value="hledej"
-            onClick={handleSubmit}
-          />
-        </span>
-      </div>
+    <form onSubmit={handleSubmit} className="flex flex-wrap gap-2">
+      <input
+        type="text"
+        className="flex-auto border-[1px] border-silver px-2 py-2"
+        placeholder="sportovní hala"
+        onChange={(e) => setQuery(e.target.value)}
+      />
+      <input
+        type="submit"
+        className="flex-none w-[7ex] px-2 py-2 cursor-pointer text-center bg-brown text-white rounded"
+        value="hledej"
+        onClick={handleSubmit}
+      />
     </form>
   );
 };

@@ -20,13 +20,17 @@ export const RouteTo = {
   forum: "https://forum.ohlasy.info",
   adsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
   companyInfo: "https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e",
+  // Podcast
+  Spotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
+  ApplePodcasts: "https://podcasts.apple.com/cz/podcast/ohlasy/id1480020344",
+  GooglePodcasts:
+    "https://www.google.com/podcasts?feed=aHR0cHM6Ly9vaGxhc3kuaW5mby9wb2RjYXN0LnhtbA%3D%3D",
   // Socials
   Facebook: "https://www.facebook.com/ohlasy",
   Mastodon: "https://boskovice.social/@ohlasy",
   YouTube: "https://www.youtube.com/channel/UCylOefq0Efb-A452MlTuejw",
   Instagram: "http://instagram.com/ohlasy_boskovice/",
   Vercel: "https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss",
-  Spotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
   newsletter: "https://newsletter.ohlasy.info",
 };
 
