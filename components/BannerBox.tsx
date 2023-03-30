@@ -17,7 +17,7 @@ export const BannerBox = ({ banner }: BannerProps) => {
       </div>
       <Image
         src={image}
-        sizes="(min-width: 1024px) 350px, (min-width: 640px) 33vw, 100vw"
+        sizes="(min-width: 1024px) 350px, (min-width: 768px) 33vw, 100vw"
         alt={alt ?? "reklama"}
         fill
       />
