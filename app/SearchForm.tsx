@@ -21,7 +21,7 @@ export const SearchForm = () => {
       />
       <input
         type="submit"
-        className="flex-none w-[7ex] px-2 py-2 cursor-pointer text-center bg-brown text-white rounded"
+        className="flex-none w-[9ex] py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
         value="hledej"
         onClick={handleSubmit}
       />
