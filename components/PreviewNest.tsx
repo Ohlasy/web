@@ -41,9 +41,6 @@ const FeaturePreview = ({ article, aboveFold = false }: ArticleProps) => {
       href={RouteTo.article(article)}
     >
       <div className="p-4 flex flex-col gap-y-2">
-        <h2 className="font-bold text-2xl">
-          <Balancer>{t(article.title)}</Balancer>
-        </h2>
         {notices.length > 0 && (
           <div className="flex gap-2">
             {notices.map((m) => (
@@ -51,6 +48,9 @@ const FeaturePreview = ({ article, aboveFold = false }: ArticleProps) => {
             ))}
           </div>
         )}
+        <h2 className="font-bold text-2xl">
+          <Balancer>{t(article.title)}</Balancer>
+        </h2>
         <p className="italic">{t(article.perex)}</p>
       </div>
       <div className="col-span-2 max-lg:order-first">
