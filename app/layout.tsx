@@ -69,10 +69,10 @@ const NavBar = () => {
             className="flex gap-3 lg:gap-4 items-center"
           >
             <h1 className="font-semibold mr-1">Ohlasy</h1>
-            <div className="relative w-6 lg:w-10 aspect-square flex-none">
+            <div className="relative w-6 lg:w-10 aspect-square flex-none max-md:order-first">
               <Image src="/favicon.png" sizes="40px" alt="" fill />
             </div>
-            <div className="text-[#666] whitespace-nowrap">
+            <div className="invisible md:visible text-[#666] whitespace-nowrap">
               dění na Boskovicku
             </div>
           </Link>
