@@ -139,3 +139,16 @@ export const stripBody = (article: Article): Metadata => {
   const { body, ...metadata } = article;
   return metadata;
 };
+
+export const getArticleNotices = (article: Metadata) => {
+  let markers: string[] = [];
+  if (article.category === "názory a komentáře") {
+    markers.push("názorový text");
+  }
+  const age =
+    new Date(+new Date() - +new Date(article.date)).getFullYear() - 1970;
+  if (age > 1) {
+    markers.push(new Date(article.date).getFullYear().toString());
+  }
+  return markers;
+};
