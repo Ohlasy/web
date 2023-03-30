@@ -12,6 +12,9 @@ export const BannerBox = ({ banner }: BannerProps) => {
       href={url}
       className="block relative bg-silver cursor-pointer aspect-square w-full"
     >
+      <div className="absolute top-[-1.2em] text-xs text-[#666] uppercase">
+        reklama
+      </div>
       <Image src={image} sizes="25vw" alt={alt ?? "reklama"} fill />
     </a>
   );
