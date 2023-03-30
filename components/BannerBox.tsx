@@ -15,7 +15,12 @@ export const BannerBox = ({ banner }: BannerProps) => {
       <div className="absolute top-[-1.2em] text-xs text-[#666] uppercase">
         reklama
       </div>
-      <Image src={image} sizes="25vw" alt={alt ?? "reklama"} fill />
+      <Image
+        src={image}
+        sizes="(min-width: 1024px) 350px, (min-width: 640px) 33vw, 100vw"
+        alt={alt ?? "reklama"}
+        fill
+      />
     </a>
   );
 };
