@@ -124,7 +124,7 @@ const SpotifyEpisode = ({ id }: SpotifyEpisodeProps) => (
     allowFullScreen
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
     loading="lazy"
-    style={{ marginTop: "20px", marginBottom: "20px" }}
+    className="my-6"
   />
 );
 
