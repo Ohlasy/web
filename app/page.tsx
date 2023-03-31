@@ -25,7 +25,13 @@ const Page = async () => {
   const latestForumSummary = await getLatestTopicsSummary();
   const articles = getAllArticles("content/articles").sort(compareByDate);
   const filterCategory = (category: Metadata["category"]) =>
-    articles.filter((a) => a.category === category).slice(0, 10);
+    articles
+      // Skip latest article, it will be displayed on the top of the page anyway
+      .slice(1)
+      // Filter for requested category
+      .filter((a) => a.category === category)
+      // Return first ten
+      .slice(0, 10);
   const mostRecentArticles = articles.slice(0, 10);
   const archive = shuffleInPlace(articles.filter((a) => a.featured)).slice(
     0,
