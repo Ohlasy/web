@@ -67,6 +67,11 @@ export function decodeArticle(
   src: string,
   defaults: Record<string, any> = {}
 ): Article {
+  // Hack: preprocess “tags:” to support Jekyll-style single-line tags.
+  src = src.replaceAll(
+    /tags: (.*)/g,
+    (_, match) => `tags: [${match.split(" ").join(",")}]`
+  );
   const { content, data } = matter(src);
   const firstParagraph = content.split("\n\n")[0];
   const perex = stripMarkdown(firstParagraph);
