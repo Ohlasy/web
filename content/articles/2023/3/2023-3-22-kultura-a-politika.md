@@ -4,6 +4,7 @@ perex: Zamotaný příběh vztahů mezi blanenskými politiky a městskou kultur
 cover-photo: https://i.ohlasy.info/i/6d03a8df.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags: kultura Blansko
 ---
 
 *V Ohlasech jsme se rozhodli věnovat se okrajově i [příběhu blanenské kultury](https://ohlasy.info/clanky/2023/03/kultura-blansko.html), který je v mnoha ohledech platný obecněji. Mimo jiné tím, jak křehká je vazba mezi politikou a kulturou, jak svůdné je pro politiky do kultury zasahovat a chtít ji řídit, i když jí vůbec nerozumějí. Cesta ven je ve změně legislativy.*

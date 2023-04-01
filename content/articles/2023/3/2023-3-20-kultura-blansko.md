@@ -4,7 +4,7 @@ perex: Tentokrát jsme se v našem podcastu vydali za hranice Boskovicka a k roz
 cover-photo: https://i.ohlasy.info/i/8b24800e.jpg
 author: Tomáš Trumpeš
 category: podcast
-tags: kultura
+tags: kultura Blansko
 ---
 
 *Tentokrát jsme se v našem Podcastu Ohlasy vydali za hranice Boskovicka a k rozhovoru jsme pozvali odvolaného ředitele Kulturního střediska města Blanska Víta Šujana a kurátorku Janu Písaříkovou, která dlouhé roky působí v blanenské galerii.*
