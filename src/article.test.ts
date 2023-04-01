@@ -2,6 +2,7 @@ import { parsePath, readArticle } from "./article";
 import { getFilesRecursively } from "./server-utils";
 import { defaultMarkdocConfig } from "./markdoc-schema";
 import Markdoc from "@markdoc/markdoc";
+import matter from "gray-matter";
 
 const allArticlePaths = getFilesRecursively("content/articles")
   // Only take Markdown posts
@@ -18,6 +19,14 @@ test.each(allArticlePaths)("Decode %s", (path) => {
   } catch (e) {
     fail(`Article fails to decode`);
   }
+});
+
+test.skip("Parse simplified tags", () => {
+  const { data } = matter("---\ntitle: foo\ntags: bar baz\n---\n");
+  expect(data).toEqual({
+    title: "foo",
+    tags: ["bar", "baz"],
+  });
 });
 
 test("Parse article path", () => {
