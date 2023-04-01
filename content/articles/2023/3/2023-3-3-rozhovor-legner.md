@@ -4,6 +4,7 @@ cover-photo: https://i.ohlasy.info/i/b052c7b2.jpg
 perex: Rozhovor s Ivo Legnerem, dramaturgem Kulturních zařízení města Boskovice. Bavili jsme se o novém dětském festivalu Větrník, o dramaturgické práci a o velkých koncertech v letňáku. Rozhovor nabízíme i v přepisu.
 author: Tomáš Trumpeš
 category: podcast
+tags: kultura
 ---
 
 *Rozhovor s Ivo Legnerem, dramaturgem Kulturních zařízení města Boskovice. Pozvali jsme ho do prvního dílu našeho nového kulturního podcastu a bavili jsme se o novém [dětském festivalu Větrník](https://www.kulturaboskovice.cz/kultura/akce/vetrnik-detsky-festival-v-boskovicich), o dramaturgické práci a o velkých koncertech v letňáku. Rozhovor nabízíme i v přepisu.*
