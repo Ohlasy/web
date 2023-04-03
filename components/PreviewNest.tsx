@@ -51,7 +51,7 @@ const FeaturePreview = ({ article, aboveFold = false }: ArticleProps) => {
         <h2 className="font-bold text-2xl">
           <Balancer>{t(article.title)}</Balancer>
         </h2>
-        <p className="italic line-clamp-[13]">{t(article.perex)}</p>
+        <p className="italic line-clamp-[9]">{t(article.perex)}</p>
       </div>
       <div className="col-span-2 max-lg:order-first">
         <div className="relative w-full aspect-video lg:aspect-[3/2]">
