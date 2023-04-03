@@ -8,11 +8,17 @@ const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 export const SearchForm = () => {
   const [query, setQuery] = useState("");
   const handleSubmit = (event: any) => {
-    trackEvent("SignUp", { props: { query } });
-    const localizedQuery = `${query} site:ohlasy.info`;
-    window.location.href =
-      "https://www.google.cz/search?" +
-      new URLSearchParams({ q: localizedQuery });
+    trackEvent("SignUp", {
+      props: { query },
+      // Only navigate away after the event is logged
+      // to make sure we don’t interrupt it.
+      callback: () => {
+        const localizedQuery = `${query} site:ohlasy.info`;
+        window.location.href =
+          "https://www.google.cz/search?" +
+          new URLSearchParams({ q: localizedQuery });
+      },
+    });
     event.preventDefault();
   };
   return (
