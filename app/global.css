@@ -72,6 +72,15 @@ article p {
   margin-bottom: 1ex;
 }
 
+article blockquote {
+  padding: 0;
+  border-left: 4px solid rgb(148, 82, 0);
+  padding-left: 2ex;
+  margin-top: 2ex;
+  margin-bottom: 2ex;
+  font-style: italic;
+}
+
 /* Tables */
 
 table {
