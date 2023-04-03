@@ -1,10 +1,14 @@
 "use client";
 
 import { useState } from "react";
+import Plausible from "plausible-tracker";
+
+const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
 export const SearchForm = () => {
   const [query, setQuery] = useState("");
   const handleSubmit = (event: any) => {
+    trackEvent("SignUp", { props: { query } });
     const localizedQuery = `${query} site:ohlasy.info`;
     window.location.href =
       "https://www.google.cz/search?" +
