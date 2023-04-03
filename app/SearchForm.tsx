@@ -8,7 +8,7 @@ const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 export const SearchForm = () => {
   const [query, setQuery] = useState("");
   const handleSubmit = (event: any) => {
-    trackEvent("SignUp", {
+    trackEvent("Site Search", {
       props: { query },
       // Only navigate away after the event is logged
       // to make sure we don’t interrupt it.
