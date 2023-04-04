@@ -26,6 +26,7 @@ export const SearchForm = () => {
       <input
         type="text"
         className="flex-auto border-[1px] border-silver px-2 py-2"
+        autoCapitalize="none"
         placeholder="sportovní hala"
         onChange={(e) => setQuery(e.target.value)}
       />
