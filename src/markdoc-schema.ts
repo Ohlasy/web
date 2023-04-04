@@ -91,6 +91,18 @@ export const datawrapper_chart: Schema = {
 };
 
 export const defaultMarkdocConfig: Config = {
+  nodes: {
+    link: {
+      // Use next/link for hypertext links
+      render: "Link",
+      attributes: {
+        href: {
+          type: "String",
+          required: true,
+        },
+      },
+    },
+  },
   tags: {
     photo,
     profile_photo,

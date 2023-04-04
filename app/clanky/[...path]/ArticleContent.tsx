@@ -4,6 +4,8 @@ import { getImageSrcSet, IMAGE_SIGNING_KEY } from "src/utils";
 import { defaultMarkdocConfig } from "src/markdoc-schema";
 import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
+import { default as NextLink } from "next/link";
+import { siteUrl } from "src/routing";
 
 export type ArticleBodyProps = {
   /** Markdoc source */
@@ -15,6 +17,7 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
   const content = Markdoc.transform(syntaxTree, defaultMarkdocConfig);
   const node = Markdoc.renderers.react(content, React, {
     components: {
+      Link,
       Photo,
       ProfilePhoto,
       SpotifyEpisode,
@@ -23,6 +26,12 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
     },
   });
   return <>{node}</>;
+};
+
+/** Make sure we use local next/link for hyperlinks to keep client-side navigation */
+const Link = ({ href, children }: { href: string; children: string }) => {
+  const target = href.startsWith(siteUrl) ? href.replace(siteUrl, "") : href;
+  return <NextLink href={target}>{children}</NextLink>;
 };
 
 type PhotoProps = {
