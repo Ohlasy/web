@@ -15,7 +15,7 @@ Městská rada schválila nominace na Cenu města za kulturu. Ta se uděluje jed
 
 ### Dotace na energie pro volnočas
 
-Město vyhlásilo speciální dotační program na pokrytí zvýšených nákladů na energie pro spolky působící v oblasti volnočasových aktivit. Zájem projevily nakonec čtyři spolky, které žádají celkem o 235 tisíc korun. Alokovaná částka byla 700 tisíc korun, takže nebyla celá vyčerpaná, zbytek město zatím nechává jako rezervu. Finální slovo v udělení dotací bude mít ještě zastupitelstvo. Místostarostka Radek Šamšula vysvětlil, že část spolků nežádala, protože nesplnila podmínku zdražení energií o více než 50 procent oproti roku 2019.
+Město vyhlásilo speciální dotační program na pokrytí zvýšených nákladů na energie pro spolky působící v oblasti volnočasových aktivit. Zájem projevily nakonec čtyři spolky, které žádají celkem o 235 tisíc korun. Alokovaná částka byla 700 tisíc korun, takže nebyla celá vyčerpaná, zbytek město zatím nechává jako rezervu. Finální slovo v udělení dotací bude mít ještě zastupitelstvo. Místostarosta Radek Šamšula vysvětlil, že část spolků nežádala, protože nesplnila podmínku zdražení energií o více než 50 procent oproti roku 2019.
 
 ### Stavební úpravy ulic Květná a Kosmonautů
 
@@ -23,7 +23,7 @@ Pokročila příprava rekonstrukce ulic Květná a Kosmonautů, město vysoutě�
 
 ### Omezení pyrotechniky
 
-Městská rada se zabývala dopisem občanů, kteří požadují omezení pyrotechniky v blízkosti sídlišť a domů. Město by mohlo situaci řešit obecně závaznou vyhláškou. Rozhodnout bude muset zastupitelstvo, rada její přijetí doporučuje. Místostarosta Radek Šamšula uvedl, že o konkrétních parametrech omezení se teprve diskutuje. „Zatím vyplynulo, že bychom to neradi zakazovali na Silvestra a Nový rok, to bude asi jedna z výjimek, která tam zůstane,“ uvedl místostarosta Radek Šamšula a dodal, že v průběhu roku by město mělo a v případě stávajícího vedení i chtělo užívání pyrotechniky regulovat.
+Městská rada se zabývala dopisem občanů, kteří požadují omezení pyrotechniky v blízkosti sídlišť a domů. Město by mohlo situaci řešit obecně závaznou vyhláškou. Rozhodnout bude muset zastupitelstvo, rada její přijetí doporučuje. Místostarosta Radek Šamšula uvedl, že o konkrétních parametrech omezení se teprve diskutuje. „Zatím vyplynulo, že bychom to neradi zakazovali na Silvestra a Nový rok, to bude asi jedna z výjimek, která tam zůstane,“ uvedl místostarosta Radek Šamšula a dodal, že v průběhu roku by město mělo – a v případě stávajícího vedení i chtělo – užívání pyrotechniky regulovat.
 
 ### TIC Boskovice
 
@@ -49,17 +49,17 @@ Město přispěje 200 tisíc korun na opravu jižní fasády boskovického zámk
 
 V programu na obnovu objektů, které se nachází na území městské památkové zóny Boskovice a nejsou prohlášeny kulturní památkou, doporučila památková komise podpořit tři ze čtyř žádostí. Město přispěje 44 tisíc korun na výměnu dveří domu na Velenově ulici číslo 2180 (bývalá restaurace Makkabi), dále 150 tisíc na výměnu oken domu na [Bílkově ulici číslo 396](https://ohlasy.info/clanky/2022/04/kwasnik-rabinowicz.html) a také 62 tisíc na výměnu vstupních dveří a opravu fasády domu na Zborovské ulici číslo 9 (čajovna). Ve všech třech případech bude město hradit polovinu celkového rozpočtu stavby.
 
-Ve čtvrtém případě se jednalo o výměnu výkladců domu na Masarykově náměstí číslo 28. Komise projekt nedporučila, protože majitel podle ní nezvolil z památkářského hlediska dobré řešení. Místostarosta Radek Šamšula se ale chce s majitelem domu ještě sejít a probrat další možnosti, za kterých je město ochotno na projekt přispět, pokud by majitel souhlasil s vyšší kvalitou. „Pokud by tam byla spolupráce, je ještě cesta, jak tuto dotaci přiznat,“ vyjádřil se Radek Šamšula.
+Ve čtvrtém případě se jednalo o výměnu výkladců domu na Masarykově náměstí číslo 28. Komise projekt nedoporučila, protože majitel podle ní nezvolil z památkářského hlediska dobré řešení. Místostarosta Radek Šamšula se ale chce s majitelem domu ještě sejít a probrat další možnosti, za kterých je město ochotno na projekt přispět, pokud by majitel souhlasil s vyšší kvalitou. „Pokud by tam byla spolupráce, je ještě cesta, jak tuto dotaci přiznat,“ vyjádřil se Radek Šamšula.
 
 ### Snižování nájmů a zahrádka
 
-Rada se rozhodla vyhovět nájemcům, kteří požádali o menší růst nájemného městských prostor. Cena se odvíjí od inflice, ale radní souhlasili s tím, aby nájemné obchodu Hruška a Matějovu pekařství na náměstí vzrostlo namísto 15 procent jen o 6 procent.
+Rada se rozhodla vyhovět nájemcům, kteří požádali o menší růst nájemného městských prostor. Cena se odvíjí od inflace, ale radní souhlasili s tím, aby nájemné obchodu Hruška a Matějovu pekařství na náměstí vzrostlo namísto 15 procent jen o 6 procent.
 
 Matějovo pekařství zároveň získalo souhlas k umístění stolků a židlí před prodejnu. „Podporujeme toto umisťování městských zahrádek do veřejného prostoru. Nebude vadit a zároveň veřejný prostor oživí,“ řekla starostka Jana Syrovátková.
 
 ### Osvětlení v sokolovně
 
-Novou osvětlovací techniku dostane boskovická sokolovna. Stávající je zastaralá a Kulturní zařízení města Boskovice narážejí na to, že zejména divadelní soubory nemohou do Boskovic přijet hrát, protože osvětlovací možnosti nesplňují jejich potřeby. Město se pokusí žádat o dotaci. Modernizace ale podle místostarosty Lukáše Holíka proběhne i bez dotace, protože už je to po 40 letech nutná. Starostka doplnila, že nová technika nebude vázaná na stávající podobu sokolovny, ale bude použitelná i po její rekonstrukci. Investice vyjde asi na 1,2 milionu korun, proběhnout by měla ještě letos.
+Novou osvětlovací techniku dostane boskovická sokolovna. Stávající je zastaralá a Kulturní zařízení města Boskovice narážejí na to, že zejména divadelní soubory nemohou do Boskovic přijet hrát, protože osvětlovací možnosti nesplňují jejich potřeby. Město se pokusí žádat o dotaci. Modernizace ale podle místostarosty Lukáše Holíka proběhne i bez dotace, protože už je to po 40 letech nutné. Starostka doplnila, že nová technika nebude vázaná na stávající podobu sokolovny, ale bude použitelná i po její rekonstrukci. Investice vyjde asi na 1,2 milionu korun, proběhnout by měla ještě letos.
 
 ### Termíny zápisů do MŠ a ZŠ
 
@@ -83,11 +83,11 @@ Místostarosta Radek Šamšula oznámil, že město má připravené nové zněn
 
 ### Knihovna
 
-Na začátku dubna by se mělo znovu rozběhnout přerušené stavební řízení na projekt knihovny podle návrhu architekta Zdeňka Fránka. Místostarosta Lukáš Holík vysvětlil, že byla zpracována nová hluková studie, protože hluk byla jedna z hlavních věcí, kterou rozporovali sousedé stavby. Podle studie je vše v pořádku. 
+Na začátku dubna by se mělo znovu rozběhnout přerušené stavební řízení na projekt knihovny podle návrhu architekta Zdeňka Fránka. Místostarosta Lukáš Holík vysvětlil, že byla zpracována nová hluková studie, protože hluk byl jednou z hlavních věcí, kterou rozporovali sousedé stavby. Podle studie je vše v pořádku. 
 
 ### Starostka v nemocnici
 
-Starostka Jana Syrovátková popsala své zkušenosti s řízením nemocnice, ve které dočasně převzala funkci jednatelky. Popsala, že nyní řešení především výběrové řízení na rozvod medicinálních plynů, což je investiční akce, která má v nemocnici proběhnout. „Byla jsem velmi nemile překvapená, že technické oddělení počítalo s tím, že se nejméně na šest týdnů zavře provoz všech operačních sálů. Za mě a mé kolegy je tato odstávka nemyslitelná, tudíž hledáme cestu a budeme mít požadavek na stavební firmy, které se musí přizpůsobit provozu nemocnice jakožto kritické infrastruktuře. Budeme požadovat práce 24/7 a organizaci výstavby tak, aby nedošlo k výpadku a omezení výkonnosti nemocnice,“ popsala starostka a nyní i jednatelka nemocnice. Dále se vyjádřila, že komunikuje s primáři jednotlivých oddělení a s lékaři a řeší výkonnost a provozní záležitosti. „Mám z toho radost, myslím, že spolupráce funguje,“ uvedla Jana Syrovátková.
+Starostka Jana Syrovátková popsala své zkušenosti s řízením nemocnice, ve které dočasně převzala funkci jednatelky. Popsala, že nyní řeší především výběrové řízení na rozvod medicinálních plynů, což je investiční akce, která má v nemocnici proběhnout. „Byla jsem velmi nemile překvapená, že technické oddělení počítalo s tím, že se nejméně na šest týdnů zavře provoz všech operačních sálů. Za mě a mé kolegy je tato odstávka nemyslitelná, tudíž hledáme cestu a budeme mít požadavek na stavební firmy, které se musí přizpůsobit provozu nemocnice jakožto kritické infrastruktuře. Budeme požadovat práce 24/7 a organizaci výstavby tak, aby nedošlo k výpadku a omezení výkonnosti nemocnice,“ popsala starostka a nyní i jednatelka nemocnice. Dále se vyjádřila, že komunikuje s primáři jednotlivých oddělení a s lékaři a řeší výkonnost a provozní záležitosti. „Mám z toho radost, myslím, že spolupráce funguje,“ uvedla Jana Syrovátková.
 
 V prvním dubnovém týdnu se sejde mimořádná rada, která jmenuje výběrovou komisi pro výběr nového jednatele. Samotným výběrem se pak bude na základě doporučení komise věnovat následující rada až po dubnovém zastupitelstvu.
 
