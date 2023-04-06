@@ -6,7 +6,7 @@ category: zpravodajství
 tags: doprava
 ---
 
-*I když vjezd do ulice u základní školy na náměstí 9. května už čtyři roky monitoruje kamera, řada řidičů si s tím nic nedělá a ke škole i přes letitý zákaz bez povolení jezdí. Každoročně kamera zaznamená kolem 1700 přestupků, to je v průměru téměř pět každý den, a trend není nijak sestupný.*
+*I když vjezd do ulice u základní školy na náměstí 9. května už čtyři roky monitoruje kamera, řada řidičů si z toho nic nedělá a ke škole i přes letitý zákaz bez povolení jezdí. Každoročně kamera zaznamená kolem 1700 přestupků, to je v průměru téměř pět každý den, a trend není nijak sestupný.*
 
 {% photo src="https://i.ohlasy.info/i/fed40d2a.jpeg" caption="Průjezd mezi základní uměleckou školou a základní školou" author="Tomáš Trumpeš" width=4032 height=3024 /%}
 
