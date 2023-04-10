@@ -70,7 +70,7 @@ const NavBar = () => {
           >
             <h1 className="font-semibold mr-1">Ohlasy</h1>
             <div className="relative w-6 lg:w-10 aspect-square flex-none max-md:order-first">
-              <Image src="/favicon.png" sizes="40px" alt="" fill />
+              <Image src="/favicon.png" sizes="40px" alt="" fill priority />
             </div>
             <div className="hidden md:block text-[#666] whitespace-nowrap">
               dění na Boskovicku
