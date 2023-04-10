@@ -25,7 +25,7 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
       DatawrapperChart,
     },
   });
-  return <>{node}</>;
+  return <div className="article-content">{node}</div>;
 };
 
 /** Make sure we use local next/link for hyperlinks to keep client-side navigation */
