@@ -81,6 +81,20 @@ a {
   font-style: italic;
 }
 
+.article-content ul {
+  list-style: disc;
+}
+
+.article-content li {
+  margin-bottom: 1ex;
+}
+
+@media (max-width: 1024px) {
+  .article-content ul {
+    list-style-position: inside;
+  }
+}
+
 /* Tables */
 
 table {
