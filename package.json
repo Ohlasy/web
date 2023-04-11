@@ -32,7 +32,7 @@
     "xmlbuilder2": "^3.0.2"
   },
   "devDependencies": {
-    "@playwright/test": "^1.31.2",
+    "@playwright/test": "^1.32.3",
     "@types/jest": "^26.0.23",
     "@types/js-yaml": "^4.0.5",
     "@types/react": "18.0.24",
