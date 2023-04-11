@@ -37,7 +37,7 @@ export const filterByYear = (year: number | undefined) => (a: Article) => {
 
 export function renderCSV(stats: Record<string, number>): string {
   return Object.entries(stats)
-    .sort(([k1, v1], [k2, v2]) => v2 - v1)
+    .sort(([, v1], [, v2]) => v2 - v1)
     .map(([key, val]) => `${key}; ${val}`)
     .join("\n");
 }

@@ -1,16 +1,12 @@
-import Markdoc from "@markdoc/markdoc";
 import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
 import { BannerBox } from "components/BannerBox";
 import { PreviewNest } from "components/PreviewNest";
-import fs from "fs";
 import { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { join } from "path";
 import React from "react";
 import Balancer from "react-wrap-balancer";
 import { Article, compareByDate, readArticle } from "src/article";
-import { Banner } from "src/data-source/banners";
 import { getCachedData } from "src/data-source/cache";
 import { Author } from "src/data-source/content";
 import {
