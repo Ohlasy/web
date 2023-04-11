@@ -15,7 +15,7 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@markdoc/markdoc": "^0.2.1",
+    "@markdoc/markdoc": "^0.2.2",
     "@notionhq/client": "^2.2.3",
     "@vercel/og": "^0.0.21",
     "encoding": "^0.1.13",
