@@ -16,7 +16,7 @@ const endpoints = {
 for (const [endpoint, contentType] of Object.entries(endpoints)) {
   test(`Endpoint works: ${endpoint}`, async ({ page }) => {
     const response = await page.request.get(endpoint);
-    expect(response).toBeOK();
+    await expect(response).toBeOK();
     expect(response.headers()["content-type"]).toEqual(contentType);
     if (contentType === "application/json") {
       expect(await response.json()).toBeTruthy();
@@ -31,9 +31,9 @@ test("Image resizing works", async ({ page }) => {
     width: "640",
   });
   const response = await page.request.get(`/api/resize?${params}`);
-  expect(response).toBeOK();
+  await expect(response).toBeOK();
   expect(response.headers()["content-type"]).toEqual("image/jpeg");
-  let img = sharp(Buffer.from(await response.body()));
+  const img = sharp(Buffer.from(await response.body()));
   const metadata = await img.metadata();
   expect(metadata.width).toBe(640);
 });

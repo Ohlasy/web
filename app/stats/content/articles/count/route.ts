@@ -3,7 +3,7 @@ import { articleRoot } from "src/server-utils";
 import { renderCSV } from "app/stats/content-stats";
 
 export async function GET() {
-  let stats: Record<string, number> = {};
+  const stats: Record<string, number> = {};
   const articles = getAllArticles(articleRoot);
   articles.forEach((article) => {
     const pubDate = new Date(article.date);

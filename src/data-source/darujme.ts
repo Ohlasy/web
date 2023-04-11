@@ -89,7 +89,7 @@ export interface MonthlyReport {
 }
 
 export function getPastFullMonths(fromDate: Date, count: number): Month[] {
-  let out: Month[] = [];
+  const out: Month[] = [];
   for (let m = 1; m <= count; m++) {
     const date = new Date(fromDate.getFullYear(), fromDate.getMonth() - m, 1);
     out.push({ month: date.getMonth() + 1, year: date.getFullYear() });
@@ -109,7 +109,7 @@ export async function getPastYearTransactionsByMonth(
   apiId: string,
   apiSecret: string
 ): Promise<MonthlyReport[]> {
-  let report: MonthlyReport[] = [];
+  const report: MonthlyReport[] = [];
   for (const month of getPastFullMonths(new Date(), 12)) {
     const fromDate = firstDayOfMonth(month);
     const toDate = lastDayOfMonth(month);

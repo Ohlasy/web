@@ -146,7 +146,7 @@ export const stripBody = (article: Article): Metadata => {
 };
 
 export const getArticleNotices = (article: Metadata) => {
-  let markers: string[] = [];
+  const markers: string[] = [];
   if (article.category === "názory a komentáře") {
     markers.push("názorový text");
   }

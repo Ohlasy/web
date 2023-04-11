@@ -15,7 +15,7 @@ const endpoints = [
 for (const endpoint of endpoints) {
   test(`Endpoint works: ${endpoint}`, async ({ page }) => {
     const response = await page.request.get(endpoint);
-    expect(response).toBeOK();
+    await expect(response).toBeOK();
     expect(response.headers()["content-type"]).toEqual("text/csv");
   });
 }

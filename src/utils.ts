@@ -5,7 +5,7 @@ export const IMAGE_SIGNING_KEY = process.env.IMGPROXY_KEY ?? "";
 
 /** SHA1 sum */
 export function shasum(message: string) {
-  var shasum = crypto.createHash("sha1");
+  const shasum = crypto.createHash("sha1");
   shasum.update(message);
   return shasum.digest("hex");
 }

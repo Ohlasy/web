@@ -18,7 +18,7 @@ export function groupBySelector<Key extends keyof any, Value>(
 export function sum<Value>(
   values: Record<string, Value[]>
 ): Record<string, number> {
-  let counts = {} as Record<string, number>;
+  const counts = {} as Record<string, number>;
   for (const [key, vals] of Object.entries(values)) {
     counts[key] = (vals as Value[]).length;
   }

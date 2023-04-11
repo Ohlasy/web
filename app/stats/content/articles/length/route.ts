@@ -11,7 +11,7 @@ const readingTime = (article: Article) =>
 
 export async function GET() {
   const articles = getAllArticles(articleRoot);
-  let stats: Record<string, number> = {};
+  const stats: Record<string, number> = {};
   for (const article of articles) {
     const dateStamp = new Date(article.date).toISOString();
     stats[dateStamp] = readingTime(article);
