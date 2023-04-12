@@ -28,7 +28,7 @@ export interface Article extends Metadata {
 }
 
 /** Decode a live Date object (ie. not a date stamp string), returning a string timestamp */
-export const decodeDate = (value: Pojo): string => {
+export const decodeDate = (value: unknown): string => {
   if (Object.prototype.toString.call(value) === "[object Date]") {
     return `${value}`;
   } else {
