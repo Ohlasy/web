@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.2.2",
-    "@notionhq/client": "^2.2.3",
+    "@notionhq/client": "^2.2.4",
     "encoding": "^0.1.13",
     "eslint": "^8.38.0",
     "gray-matter": "^4.0.3",
