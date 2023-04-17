@@ -1,0 +1,29 @@
+---
+title: Výběr jednatele nemocnice proběhl mimořádně nešťastně
+cover-photo: https://i.ohlasy.info/i/6115a2e9.jpg
+author: Tomáš Trumpeš
+category: názory a komentáře
+tags: nemocnice
+---
+
+*Nové vedení boskovické radnice už není úplně nové. Ani po víc než půl roce ale zdá se neumí dobře komunikovat s veřejností a nevnímá dostatečně silně potřebu důvěryhodnosti demokratických procesů. Přestává být jasné, jestli je to nováčkovská neobratnost, nebo zkrátka nový politický styl.*
+
+{% photo src="https://i.ohlasy.info/i/6115a2e9.jpg" caption="Ilustrační foto" author="Kristin, Flickr" width=2272 height=1704 /%}
+
+Poslední případ, na kterém se nešťastné postupy nové boskovické koalice naplno projevily, je bohužel věc mimořádně citlivá, a to nejen politicky – výběr jednatele boskovické nemocnice. Tedy pozice opravdu výjimečného významu, neboť se jedná o šéfa instituce, která pečuje o zdraví nejen celého města, ale celého regionu, v některých oborech pak celého okresu, což je více než 100 tisíc lidí. Takže nejde zdaleka jen o to, že bude řídit dceřinou firmu města, která má ale rozpočet výrazně vyšší než samo město a patří mezi největší zaměstnavatele v regionu. Téma nemocnice a veřejného zdraví je samo o sobě křehké, v Boskovicích je navíc jitřeno dlouhodobějšími turbulencemi a nejasnostmi způsobenými specifickými problémy malé městské nemocnice, která to z podstaty v současném systému zdravotnictví nemá lehké.
+
+To ale není podstatou problému, na který chceme v tomto komentáři poukázat – tím je procesní způsob výběru nového jednatele a způsob komunikace této věci k veřejnosti.
+
+Shrňme si to: vedení města oznámilo, že sestaví výběrovou komisi, ta provede výběrové řízení a městská rada rozhodne. Potud je proces standardní. Na upozornění a apel opozičního zastupitele a lékaře Miroslava Klímy vedení města uznalo, že původní termín uzávěrky přihlášek byl příliš krátký, a výběrové řízení protáhlo. To byl první, drobný lapsus, který se podařilo včas napravit.
+
+Poté vedení oznámilo, že výběrovou komisi jmenuje až nedlouho před samotným konkurzem, aby její členové nebyli vystaveni tlaku. Nakonec radní komisi jmenovali na mimořádné radě těsně před konkurzem, čímž se vyhnuli i tiskové konferenci a jména členů komise nezveřejnili vůbec. Zpětně se ukázalo, že v komisi nebyl žádný zástupce opozice, [jako tomu bylo posledně](https://ohlasy.info/clanky/2019/06/konkurz-nemocnice.html). Koalice nabídla místo zmíněnému Miroslavu Klímovi – ale až na poslední chvíli, a když nemohl, nikoho dalšího neoslovila. Pokud to vedení města s místem pro opozici myslelo vážně, mělo jednat včas a obsazení místa zajistit odpovídajícím způsobem. V komisi nebyl ani žádný zástupce zaměstnanců.
+
+Pak radnice deklarovala, že rada jednatele jmenuje až po chystaném zastupitelstvu, na svém řádném jednání na konci dubna. Nakonec se ukázalo, že se již 12. dubna sešla mimořádná rada, jejíž konání nebylo dopředu nijak oznámeno, a nového jednatele jmenovala. 
+
+Celý proces tak působí mimořádně netransparentně, překotně, s vyloučením opozice, zaměstnanců i veřejnosti, a tudíž nedůvěryhodně. Politici jako by opět zapomínali na to, že jejich úkolem není jen vybrat dobrého jednatele, ale vybrat ho důvěryhodným způsobem. Ne proto, aby si tím udrželi přízeň veřejnosti, i když aspoň to by je ze sebezáchovných důvodů zajímat mohlo, ale především proto, že mají širší odpovědnost za politiku jako takovou, za důvěryhodnost demokratických procesů. Celá naše společnost se potýká s krizí důvěry, které se nedá zabránit pěknými řečmi, ale správným a důvěryhodným chováním při správě věcí veřejných. Právě proto se stát ani město neřídí jako firma – nejde o zisk, nejde ani jen o výsledek, ale samotný způsob demokratického řízení je hodnotou a cílem sám o sobě. To musí mít politici stále na paměti. Manažerský tah na branku musí doprovázet úcta k principům a ohled na veřejnost. A dobrá komunikace.
+
+V oblasti komunikace však koalice, pro kterou bylo právě toto silným tématem v kampani, selhala snad ještě víc. Na naše dotazy k výběrové komisi a mimořádné radě nejprve nereagovala, poté vydala stručnou tiskovou zprávu, ve které stroze oznámila jmenování nového jednatele. Bez komentáře, bez jakýchkoliv dalších informací. V minulosti se noví jednatelé představovali na tiskových konferencích druhý den po svém jmenování – představili svoje vize a plány, svou profesní zkušenost a způsobilost, odpovídali na otázky novinářů a opět tak mohli skrze média bezprostředně po jmenování navázat s veřejností otevřený a důvěryhodný vztah.
+
+Tentokrát jsme tedy dostali jen jméno jednatele, po další urgenci pak alespoň jeho stručný profesní životopis. Nedostali jsme ani fotku, natož možnost osobního setkání a přímé komunikace. Ani samo město bez nového jednatele tiskovou konferenci po mimořádné radě nesvolalo, takže komentář starostky jsme si museli zajistit telefonicky. Samo město informaci o novém jednateli zveřejnilo velmi stručně až v pátek odpoledne, tedy dva dny po jednání mimořádné rady, která jednatele jmenovala. Opět bez jakýchkoli podrobnějších informací a komentářů.
+
+Pokud se jedná o politický a manažerský styl nové koalice, na který si máme zvyknout, je to po všech slibech větší transparentnosti a otevřené komunikace pro Boskovice malá politická katastrofa a velký hazard s důvěrou veřejnosti i se základním respektem ve vztazích s opozicí. Pokud je to nováčkovská daň nových hnutí a ne příliš zkušených politiků, je více než půl roku po volbách nejvyšší čas s tím něco dělat. V tom případě ale radnice nepotřebuje experta na sociální sítě, jak nedávno zmínila na tiskové konferenci, ale politického poradce a experta na politickou komunikaci. A potřebuje ho hodně rychle.
