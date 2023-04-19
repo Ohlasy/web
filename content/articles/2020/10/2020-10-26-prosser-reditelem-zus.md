@@ -2,7 +2,8 @@
 title: Novým ředitelem boskovické ZUŠ bude Petr Prosser
 cover-photo: https://i.ohlasy.info/i/2673c2ad.jpg
 author: Tomáš Trumpeš
-category: zpravodajství zuš
+category: zpravodajství
+tags: zuš
 ---
 
 *Rada Jihomoravského kraje jmenovala nového ředitele boskovické základní umělecké školy. Od 1. prosince letošního roku se jím stane Petr Prosser z Velkých Opatovic, který nyní působí jako učitel bicích na ZUŠ v Letovicích a Jevíčku.*
