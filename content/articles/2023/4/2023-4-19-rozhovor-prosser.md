@@ -3,7 +3,7 @@ title: „Škola je živý organismus, situace se zklidnila.“
 cover-photo: https://i.ohlasy.info/i/c6eeed63.jpg
 author: Tomáš Trumpeš
 category: podcast
-tags: kultura
+tags: kultura zuš
 ---
 
 *Rozhovor s Petrem Prosserem, ředitelem boskovické základní umělecké školy. Mluvili jsme o atmosféře ve škole, kterou [přebíral před dvěma a půl lety ve složité situaci](https://ohlasy.info/clanky/2020/10/prosser-reditelem-zus.html), o zájmu o výuku, o souborové hře, o budově školy a taky trochu o muzice a jeho vlastních hudebních aktivitách.*

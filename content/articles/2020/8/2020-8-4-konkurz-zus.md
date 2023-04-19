@@ -3,7 +3,7 @@ title: Krajská rada zrušila konkurz na ředitele boskovické ZUŠ a vyhlásí 
 perex: Nového ředitele boskovické základní umělecké školy nakonec nejmenovala krajská rada Jihomoravského kraje. Ta namísto toho celé výběrové řízení zrušila a vyhlásí nové.
 cover-photo: https://i.ohlasy.info/i/4ldhvc3.jpg
 author: Tomáš Trumpeš
-category: zpravodajství
+category: zpravodajství zuš
 ---
 
 *Nového ředitele boskovické základní umělecké školy nakonec nejmenovala na svém jednání v pondělí 3. srpna krajská rada Jihomoravského kraje. Ta namísto toho celé výběrové řízení zrušila a vyhlásí nové.*

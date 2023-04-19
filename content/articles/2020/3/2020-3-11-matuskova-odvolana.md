@@ -4,7 +4,7 @@ perex: Rada Jihomoravského kraje vyslyšela přání části pedagogů a dalš
 cover-photo: https://i.ohlasy.info/i/eab1tr9.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: vzdělávání
+tags: vzdělávání zuš
 ---
 
 *Rada Jihomoravského kraje na svém pondělním jednání vyslyšela přání části pedagogů a dalších petentů a odvolala ředitelku boskovické základní umělecké školy Stanislavu Matuškovou. Ta byla obviňována z bossingu a šikany zaměstnanců.*

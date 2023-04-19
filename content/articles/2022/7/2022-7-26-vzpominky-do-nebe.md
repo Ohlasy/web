@@ -4,7 +4,7 @@ cover-photo: https://i.ohlasy.info/i/e70871f2.jpeg
 perex: Krátce po svých šedesátých pátých narozeninách odešel 8. července do hudebního nebe bývalý ředitel boskovické Základní umělecké školy Zdeněk Jindra.
 category: názory a komentáře
 author: Michaela Pál
-tags: nekrolog
+tags: nekrolog zuš
 ---
 
 *Krátce po svých šedesátých pátých narozeninách odešel 8. července do hudebního nebe bývalý ředitel boskovické Základní umělecké školy Zdeněk Jindra. Vzpomínkový text pro Ohlasy napsala pedagožka ZUŠ Michaela Pál, která zároveň požádala o pár vzpomínkových slov i své další kolegy.*

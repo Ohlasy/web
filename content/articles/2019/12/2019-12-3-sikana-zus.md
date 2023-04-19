@@ -4,7 +4,7 @@ perex: Deset stávajících a tři bývalí zaměstnanci boskovické základní 
 cover-photo: https://i.ohlasy.info/i/eab1tr9.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
-tags: kultura vzdělávání
+tags: kultura vzdělávání zuš
 ---
 
 *Deset stávajících a tři bývalí zaměstnanci boskovické základní umělecké školy se podepsali pod žádost o odvolání ředitelky Stanislavy Matuškové. Žádost je adresována zřizovateli, kterým je Jihomoravský kraj. Vedle žádosti [vznikla i petice](https://e-petice.cz/en/petitions/petice-za-odvolani-reditelky-zus-boskovice-stanislavy-matuskove.html), ke které se připojilo přes dvě stě lidí.*
