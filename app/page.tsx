@@ -14,6 +14,7 @@ import { Banner } from "src/data-source/banners";
 import { TopArticles } from "src/data-source/plausible";
 import Link from "next/link";
 import Image from "next/image";
+import Script from "next/script";
 
 // Revalidate this page every 5 minutes
 export const revalidate = 300;
@@ -69,6 +70,9 @@ const Page = async () => {
       </h2>
       <PreviewNest articles={podcast} getBanner={getNextBanner} />
 
+      <h2 className="section-divider">podpořte nás</h2>
+      <FundraisingSecion />
+
       <h2 className="section-divider">rozhovory</h2>
       <PreviewNest articles={interviews} getBanner={getNextBanner} />
 
@@ -85,6 +89,38 @@ const Page = async () => {
     </div>
   );
 };
+
+//
+// Fundraising Section
+//
+
+const FundraisingSecion = () => (
+  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-7">
+    <Image
+      className="lg:col-span-2"
+      src="https://i.ohlasy.info/i/9b34a8e0.jpg"
+      sizes="(min-width: 640px) 50vw, 100vw"
+      width={3776}
+      height={2517}
+      alt="Tým Ohlasů"
+    />
+    <div>
+      <div data-darujme-widget-token="yuz8kfm2xy7lb0rb">&nbsp;</div>
+      <Script id="darujme" strategy="afterInteractive">
+        {`
+          +function(w, d, s, u, a, b) {
+            w["DarujmeObject"] = u;
+            w[u] = w[u] || function () { (w[u].q = w[u].q || []).push(arguments) };
+            a = d.createElement(s); b = d.getElementsByTagName(s)[0];
+            a.async = 1; a.src = "https:\/\/www.darujme.cz\/assets\/scripts\/widget.js";
+            b.parentNode.insertBefore(a, b);
+          }(window, document, "script", "Darujme");
+          Darujme(1, "yuz8kfm2xy7lb0rb", "render", "https:\/\/www.darujme.cz\/widget?token=yuz8kfm2xy7lb0rb", "100%");
+          `}
+      </Script>
+    </div>
+  </div>
+);
 
 //
 // Top Articles
