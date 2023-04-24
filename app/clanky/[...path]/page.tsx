@@ -1,6 +1,6 @@
 import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
-import { BannerBox } from "components/BannerBox";
-import { PreviewNest } from "components/PreviewNest";
+import { BannerBox } from "app/(shared)/BannerBox";
+import { PreviewNest } from "app/(shared)/PreviewNest";
 import { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";

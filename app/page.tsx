@@ -1,4 +1,4 @@
-import { PreviewNest } from "components/PreviewNest";
+import { PreviewNest } from "app/(shared)/PreviewNest";
 import { getAllBanners } from "src/data-source/banners";
 import { RouteTo } from "src/routing";
 import { endlessGeneratorOf, shuffleInPlace, tilde } from "src/utils";
@@ -9,7 +9,7 @@ import {
   LatestTopicsSummary,
 } from "src/data-source/forum";
 import { compareByDate, getAllArticles, Metadata } from "src/article";
-import { BannerBox } from "components/BannerBox";
+import { BannerBox } from "app/(shared)/BannerBox";
 import { Banner } from "src/data-source/banners";
 import { TopArticles } from "src/data-source/plausible";
 import Link from "next/link";
