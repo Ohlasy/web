@@ -70,9 +70,6 @@ const Page = async () => {
       </h2>
       <PreviewNest articles={podcast} getBanner={getNextBanner} />
 
-      <h2 className="section-divider">podpořte nás</h2>
-      <FundraisingSecion />
-
       <h2 className="section-divider">rozhovory</h2>
       <PreviewNest articles={interviews} getBanner={getNextBanner} />
 
