@@ -70,6 +70,9 @@ const Page = async () => {
       </h2>
       <PreviewNest articles={podcast} getBanner={getNextBanner} />
 
+      <h2 className="section-divider">podpořte nás</h2>
+      <FundraisingSecion />
+
       <h2 className="section-divider">rozhovory</h2>
       <PreviewNest articles={interviews} getBanner={getNextBanner} />
 
@@ -102,19 +105,20 @@ const FundraisingSecion = () => (
       alt="Tým Ohlasů"
     />
     <div>
-      <div data-darujme-widget-token="yuz8kfm2xy7lb0rb">&nbsp;</div>
-      <Script id="darujme" strategy="afterInteractive">
-        {`
-          +function(w, d, s, u, a, b) {
-            w["DarujmeObject"] = u;
-            w[u] = w[u] || function () { (w[u].q = w[u].q || []).push(arguments) };
-            a = d.createElement(s); b = d.getElementsByTagName(s)[0];
-            a.async = 1; a.src = "https:\/\/www.darujme.cz\/assets\/scripts\/widget.js";
-            b.parentNode.insertBefore(a, b);
-          }(window, document, "script", "Darujme");
-          Darujme(1, "yuz8kfm2xy7lb0rb", "render", "https:\/\/www.darujme.cz\/widget?token=yuz8kfm2xy7lb0rb", "100%");
-          `}
-      </Script>
+      <iframe
+        width="100%"
+        height="408"
+        src="https://www.darujme.cz/widget?token=yuz8kfm2xy7lb0rb"
+        name="widget-yuz8kfm2xy7lb0rb"
+        style={{
+          width: "100%",
+          maxWidth: "100%",
+          overflow: "hidden",
+          border: "none",
+          boxShadow: "none",
+          height: "408px",
+        }}
+      />
     </div>
   </div>
 );
