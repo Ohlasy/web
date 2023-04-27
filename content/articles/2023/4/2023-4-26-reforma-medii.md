@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
-*Jedním z diskutovaných témat na [posledním jednání boskovického zastupitelstva](https://ohlasy.info/clanky/2023/04/zastupitelstvo.html) se stala komunikace a městská média. Logicky – vedení města se totiž rozhodlo přijmut dalšího zaměstnance na post referenta pro styk s veřejností, což znamená navýšení ročního rozpočtu o něco přes 700 tisíc korun. Debata se týkala především tohoto finančního aspektu a prakticky úplně se vyhnula tomu nejpodstatnějšímu – samotnému fungování médií, jejich nastavení a potřebě reformy.*
+*Jedním z diskutovaných témat na [posledním jednání boskovického zastupitelstva](https://ohlasy.info/clanky/2023/04/zastupitelstvo.html) se stala komunikace a městská média. Logicky – vedení města se totiž rozhodlo přijmout dalšího zaměstnance na post referenta pro styk s veřejností, což znamená navýšení ročního rozpočtu o něco přes 700 tisíc korun. Debata se týkala především tohoto finančního aspektu a prakticky úplně se vyhnula tomu nejpodstatnějšímu – samotnému fungování médií, jejich nastavení a potřebě reformy.*
 
 {% photo src="https://i.ohlasy.info/i/f7447a91.jpg" width=1920 height=1080 /%}
 
@@ -15,7 +15,7 @@ Jak už jsem poznamenal ve stručně glose v [únorovém newsletteru](https://ne
 
 Zároveň by kritika opozice měla mířit k podstatě věci. Pokud zaznívá, že když chtěla radnice přijmout dalšího člověka, měla jinde na úřadě najít někoho zbytného, aby se celkově nezvyšovaly stavy, je to volání po takzvaných *tupých škrtech* bez sebemenší snahy řešit podstatu problému.
 
-Prostor pro úspory na na plat nového člověka je totiž přímo v městských médiích samotných. Tato oblast je v Boskovicích částečně podhodnocená – a to vskutku především personálně – a na druhé straně zcela neadekvátně marnotratná. To se týká zejména městského zpravodaje.
+Prostor pro úspory na plat nového člověka je totiž přímo v městských médiích samotných. Tato oblast je v Boskovicích částečně podhodnocená – a to vskutku především personálně – a na druhé straně zcela neadekvátně marnotratná. To se týká zejména městského zpravodaje.
 
 Žádné volání po radikální reformě od opozice ale neslyšíme, možná proto, že má z minulosti sama máslo na hlavě. Byla to koalice s dominancí ČSSD, která se v předminulém volebním období [rozhodla tisknout](https://ohlasy.info/clanky/2017/07/novy-zpravodaj.html) a distribuovat zdarma do všech domácností dvacetistránkový zpravodaj na křídovém papíře, z velké části barevný. Navýšila tak náklady na městská média o statisíce korun. Pravicová opozice sice trochu brblala, ale po převzetí moci model nejenže zachovala, ale ještě rozšířila.
 
