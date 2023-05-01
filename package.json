@@ -26,7 +26,7 @@
     "react": "18.x",
     "react-dom": "18.x",
     "react-wrap-balancer": "^0.4.0",
-    "sharp": "^0.32.0",
+    "sharp": "^0.32.1",
     "typescript-json-decoder": "^1.0.11",
     "xmlbuilder2": "^3.0.2"
   },
