@@ -37,7 +37,7 @@ Včelpo Obora má velké problémy, kontroloři v jeho medu našli zbytky antibi
 
 Ochotnické divadlo Boskovice uvedlo [premiéru inscenace hry Ani za milion](https://www.facebook.com/ohlasy/photos/a.785695738151210.1073741830.781692698551514/912052565515526/?type=3).
 
-[Vatra slaví 45 let](http://ohlasy.info/clanky/2015/11/vatra-45.html) existence.
+[Vatra slaví 45 let](https://ohlasy.info/clanky/2015/11/vatra-45.html) existence.
 
 Ředitelka LD seating Jitka Hurábová se umístila mezi stovkou nejvlivnějších žen v České republice [dle časopisu Forbes](http://www.forbes.cz/nejvlivnejsi-zenou-ceska-je-podle-nasich-vypoctu-opet-lenka-bradacova/).
 

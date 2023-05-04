@@ -15,7 +15,7 @@ Sociální demokraté byli u vlády také o čtyři roky později, což byla pro
 
 To se však změnilo v roce 2008, kdy vládla naopak ODS a kdy opoziční ČSSD pod vedením Jiřího Paroubka dokázala využít téma třicetikorunových poplatků u lékaře. Téma, které se lidí dotýkalo všude v Česku. Díky tomu přišlo k volbám jen v Jihomoravském kraji o sto tisíc lidí více, a zároveň o sto tisíc lidí více než v roce 2004 dalo hlas ČSSD. Je jasné, že zde nebude zcela přímá úměra, nicméně alespoň část voličů ČSSD seděla předtím doma, protože viděla, že v Praze „to“ dělají dobře, protože „zdroje jsou“.
 
-Českem tehdy projela oranžová vlna tsunami a sociální demokraté se ve všech krajích chopili vlády. Na jižní Moravě vystřídal Michal Hašek na pozici hejtmana Stanislava Juránka z KDU-ČSL. V roce 2012 už byla ale situace jiná, i když vládla pravice. [ČSSD si tehdy výrazně pohoršila](http://ohlasy.info/clanky/2016/08/hasek-milovany.html) – kam se (nejen) Haškovy hlasy ztratily, když vládl nenáviděný Kalousek?
+Českem tehdy projela oranžová vlna tsunami a sociální demokraté se ve všech krajích chopili vlády. Na jižní Moravě vystřídal Michal Hašek na pozici hejtmana Stanislava Juránka z KDU-ČSL. V roce 2012 už byla ale situace jiná, i když vládla pravice. [ČSSD si tehdy výrazně pohoršila](https://ohlasy.info/clanky/2016/08/hasek-milovany.html) – kam se (nejen) Haškovy hlasy ztratily, když vládl nenáviděný Kalousek?
 
 1. Část voličů zůstala doma – Téma jako poplatky nebylo a v krajích už ČSSD vládla. Vše tedy bylo pro levicové voliče celkem v pohodě.
 

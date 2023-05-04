@@ -7,7 +7,7 @@ author: Tomáš Trumpeš
 tags: politika
 ---
 
-*Jaromíra Vítková (KDU-ČSL), která 14 let zastává post boskovické místostarostky, se s touto funkcí rozloučí. Byla zvolena senátorkou a před volbami jasně deklarovala, že obě funkce zastávat nebude. V [rozhovoru pro Ohlasy](http://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html) před druhým kolem senátních voleb uvedla, že KDU-ČSL chce na uvolněný post nominovat dosavadní radní a ředitelku boskovického muzea Dagmar Hamalovou. Návrh projedná koalice a novou místostarostku musí schválit zastupitelstvo.*
+*Jaromíra Vítková (KDU-ČSL), která 14 let zastává post boskovické místostarostky, se s touto funkcí rozloučí. Byla zvolena senátorkou a před volbami jasně deklarovala, že obě funkce zastávat nebude. V [rozhovoru pro Ohlasy](https://ohlasy.info/clanky/2016/10/rozhovor-vitkova.html) před druhým kolem senátních voleb uvedla, že KDU-ČSL chce na uvolněný post nominovat dosavadní radní a ředitelku boskovického muzea Dagmar Hamalovou. Návrh projedná koalice a novou místostarostku musí schválit zastupitelstvo.*
 
 {% photo src="https://i.ohlasy.info/i/uw7axjn.jpg" author="Tomáš Znamenáček" /%}
 

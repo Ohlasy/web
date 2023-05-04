@@ -10,7 +10,7 @@ tags: nemocnice
 
 {% photo src="https://i.ohlasy.info/i/zctc0l2.jpg" /%}
 
-[Tomáš Julínek dostal výpověď](http://ohlasy.info/clanky/2015/12/julinek-odvolan.html) v nemocnici loni na konci listopadu poté, co dočasná jednatelka a starostka Boskovic Hana Nedomová (ČSSD) zrušila v organizačním řádu pozici ekonomicko-správního náměstka, kterou Julínek zastával.
+[Tomáš Julínek dostal výpověď](https://ohlasy.info/clanky/2015/12/julinek-odvolan.html) v nemocnici loni na konci listopadu poté, co dočasná jednatelka a starostka Boskovic Hana Nedomová (ČSSD) zrušila v organizačním řádu pozici ekonomicko-správního náměstka, kterou Julínek zastával.
 
 „Výpověď byla zcela účelová, organizační důvody byly jen zástěrkou. Byly tam osobní a politické důvody. Paní starostka je členem ČSSD stejně jako další část radních, nicméně pan Julínek byl v minulosti členem ODS. Organizační změna nebyla vytvořena v nemocnici, ale v radě. Jednalo se tak o nepřípustný zásah společníka do vedení obchodní společnosti,“ prohlásil advokát Tomáše Julínka Ludvík Juřička.
 

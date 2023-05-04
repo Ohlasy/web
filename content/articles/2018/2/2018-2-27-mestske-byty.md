@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Více než tisícovku bytů vlastnilo město v roce 2003, na konci roku 2018 jich bude ale méně než desetina. Jak se vyvíjel městský bytový fond a kde má dnes město nájemní byty?*
 
-Ještě se započítáním dvou bytových domů na Mánesově, [kde se však byty postupně připravují k prodeji](http://ohlasy.info/clanky/2018/02/prodej-manesova.html), dnes město dohromady vlastní 110 bytů určených klasickým nájemníkům. Dalších 125 bytů už má ve své režii Městská správa sociálních služeb a jsou tak určeny důchodcům. Jedná se o Penzion pro seniory na Mánesově ulici a Dům s pečovatelskou službou na Havlíčkově ulici. A kde jsou v Boskovicích městské byty?
+Ještě se započítáním dvou bytových domů na Mánesově, [kde se však byty postupně připravují k prodeji](https://ohlasy.info/clanky/2018/02/prodej-manesova.html), dnes město dohromady vlastní 110 bytů určených klasickým nájemníkům. Dalších 125 bytů už má ve své režii Městská správa sociálních služeb a jsou tak určeny důchodcům. Jedná se o Penzion pro seniory na Mánesově ulici a Dům s pečovatelskou službou na Havlíčkově ulici. A kde jsou v Boskovicích městské byty?
 
 ### Bytové domy Mánesova 43, 45A, 45B
 

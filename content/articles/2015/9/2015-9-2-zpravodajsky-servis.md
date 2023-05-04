@@ -9,7 +9,7 @@ author: Tomáš Trumpeš
 
 Boskovická radnice [představila první verzi Strategického plánu](/clanky/2015/08/strategicky-plan.html), který by měl stanovit priority pro rozvoj města na příštích 10 let. Připomínky a náměty k definovaným problémům, jejich úpravu či doplnění budou občané moci uplatnit v rámci diskuze u kulatých stolů. Ta se uskuteční 15. září v 16 hodin v zámeckém skleníku. [Nedostatků a hrozeb](/clanky/2015/08/strategicky-komentar.html), o kterých je třeba diskutovat, obsahuje dokument přehršel.
 
-Boskovice se rozrůstají. K výstavbě na Rovné [přibudou desítky rodinných domů také Pod Střelnicí](http://ohlasy.info/clanky/2015/08/nova-vystavba.html). Podle architekta Petra Ondráčka je to šance přivést do města [chybějící soudobou architekturu](/clanky/2015/08/komentar-pod-strelnici.html).
+Boskovice se rozrůstají. K výstavbě na Rovné [přibudou desítky rodinných domů také Pod Střelnicí](https://ohlasy.info/clanky/2015/08/nova-vystavba.html). Podle architekta Petra Ondráčka je to šance přivést do města [chybějící soudobou architekturu](/clanky/2015/08/komentar-pod-strelnici.html).
 
 Uzavřela se velmi úspěšná sezóna v letním kině. Risk zapůjčit digitální projektor se vyplatil, kromě filmových projekcí se v areálu konalo i několik hojně navštívených akcí. [Rekonstrukce letního kina se ale zadrhla](/clanky/2015/08/rekonstrukce-letnaku.html).
 

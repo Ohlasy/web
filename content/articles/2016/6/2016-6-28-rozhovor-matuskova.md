@@ -20,7 +20,7 @@ Byly odchody nucené, vesměs pro nesplněné kvalifikační předpoklady, což 
 
 **To byl ten, co měl soudní dohru?**
 
-Soudní dohru měly dva. Jeden jsme vyhráli při prvním jednání, protistrana se ani neodvolávala. [Druhý šel do smíru](http://ohlasy.info/clanky/2015/11/soud-zus.html) – nebylo to z toho důvodu, že bych si myslela, že ho prohrajeme, ale proto, že soudní pře nejsou příjemné a škole nepřináší nic dobrého. Naopak myslím, že to nedělá dobré jméno. A soudní spory v tomto ohledu bývají velmi dlouhé, vysilující a nekonečné.
+Soudní dohru měly dva. Jeden jsme vyhráli při prvním jednání, protistrana se ani neodvolávala. [Druhý šel do smíru](https://ohlasy.info/clanky/2015/11/soud-zus.html) – nebylo to z toho důvodu, že bych si myslela, že ho prohrajeme, ale proto, že soudní pře nejsou příjemné a škole nepřináší nic dobrého. Naopak myslím, že to nedělá dobré jméno. A soudní spory v tomto ohledu bývají velmi dlouhé, vysilující a nekonečné.
 
 **Takže jste se dohodli na smíru?**
 
@@ -52,7 +52,7 @@ Teď je tak nabitá doba, že nejsme schopni si v klidu sednout a popovídat si 
 
 **Předtím odešel ještě někdo další – Jana Kolmačková?**
 
-Ta dala také výpověď. To tak bývá. Bylo to loni, udělali jsme výběrové řízení, přihlásilo se 33 výtvarníků, z toho jsme vybrali [paní Ferencovou](http://ohlasy.info/clanky/2015/10/rozhovor-yvona-ferencova.html) a je to skvělé. Jsem strašně spokojená. Vím, že děti to nesou nelibě, s tím počítám, ale když dá zaměstnanec výpověď, tak ji prostě dá. Já nemám páku mu říct: ne, nepřijmu. To nejde.
+Ta dala také výpověď. To tak bývá. Bylo to loni, udělali jsme výběrové řízení, přihlásilo se 33 výtvarníků, z toho jsme vybrali [paní Ferencovou](https://ohlasy.info/clanky/2015/10/rozhovor-yvona-ferencova.html) a je to skvělé. Jsem strašně spokojená. Vím, že děti to nesou nelibě, s tím počítám, ale když dá zaměstnanec výpověď, tak ji prostě dá. Já nemám páku mu říct: ne, nepřijmu. To nejde.
 
 **Ty výpovědi ale nepřicházejí v nějakém přirozeném běhu, ti lidé odcházejí z nějakého důvodu, evidentně neodcházejí rádi. Je tady někde v atmosféře ve škole nějaký problém, který to zapřičiňuje?**
 
@@ -74,7 +74,7 @@ Ale ne, to ne že bych s nimi byla nespokojená. Ale srovnávám, nedělám na p
 
 Prezentace vůči veřejnosti. To jsou ty věci, které chci zlepšovat. Co se týče výtvarného oboru – víc prezentovat práce našich žáků. Není potřeba udělat jen jednou za rok výstavu, můžeme vyzdobit domov důchodců, zdejší nemocnici, prostě můžeme naše práce prezentovat dál, než jen na jedné ročníkové výstavě. Nebo oslava výročí – myslím, že se nám podařila, obory se zapojily. Nebo teď akce Večer na zámku, která přinesla strašně moc práce. Ono to jde a bude to vždycky vedením školy podporováno. Protože když vidím, že ta práce má nějaký vliv na dění tady v Boskovicích, tak je to pro mě důležité. A nejen v Boskovicích, ale v celém regionu. Naše práce není jen to, aby dítě přišlo do hudebky, odehrálo, případně malovalo, pak šlo domů a nic. Myslím, že naši práci je potřeba lidem představit, ukázat veřejnosti, co my jako zušky tady máme na starosti.
 
-**To chápu, ale zrovna [Martin Krajíček](http://ohlasy.info/clanky/2016/04/rozhovor-krajicek.html), který odchází, byl pro mě spíš typem člověka, který přesně tohle dělá. Byl šéfem umělecké rady, s tím před nějakou dobou skončil…**
+**To chápu, ale zrovna [Martin Krajíček](https://ohlasy.info/clanky/2016/04/rozhovor-krajicek.html), který odchází, byl pro mě spíš typem člověka, který přesně tohle dělá. Byl šéfem umělecké rady, s tím před nějakou dobou skončil…**
 
 Před rokem.
 
@@ -128,7 +128,7 @@ Nevím. Změna ve vedení vždy znamená nějaké personální změny, to si nes
 
 **Jak je těžké sehnat nové pedagogy, je to komplikované?**
 
-Není. Komplikované je dobře vybrat. Je to na intuici, dělali jsme řady výběrových řízení, nejprve na tanečního pedagoga, přihlásilo se sedm lidí. Vybrali jsme [Petra Palase](http://ohlasy.info/clanky/2016/03/rozhovor-palas.html), myslím si, že volba více než dobrá. Další byli klavíristé, zase jsme vypsali výběrová řízení, přišla Eva Kratochvílová, která teď bohužel odešla na mateřskou dovolenou. Letos přichází Sergej Golubkov, z čehož mám velkou radost, to bude velká posila klavírního oddělení. Následoval výtvarný obor a odchod Jany Kolmačkové – třicet tři uchazečů, to byla nelehká práce, ale nad všemi čněla Yvona Ferencová. Zase myslím, že to byla šťastná volba, mám radost, že sem přišla a přináší svůj pohled.
+Není. Komplikované je dobře vybrat. Je to na intuici, dělali jsme řady výběrových řízení, nejprve na tanečního pedagoga, přihlásilo se sedm lidí. Vybrali jsme [Petra Palase](https://ohlasy.info/clanky/2016/03/rozhovor-palas.html), myslím si, že volba více než dobrá. Další byli klavíristé, zase jsme vypsali výběrová řízení, přišla Eva Kratochvílová, která teď bohužel odešla na mateřskou dovolenou. Letos přichází Sergej Golubkov, z čehož mám velkou radost, to bude velká posila klavírního oddělení. Následoval výtvarný obor a odchod Jany Kolmačkové – třicet tři uchazečů, to byla nelehká práce, ale nad všemi čněla Yvona Ferencová. Zase myslím, že to byla šťastná volba, mám radost, že sem přišla a přináší svůj pohled.
 
 **Jak těžké bude nahradit Martina Krajíčka? Výuka mandolíny končí?**
 
@@ -206,7 +206,7 @@ Ano. Jeden čas byl boom kláves, i klavíristé měli v úvazku klávesy a nem�
 
 V podstatě ano. 
 
-**Jak jsou na tom smyčce? [Martin Nerud a František Ostrý nám říkali](http://ohlasy.info/clanky/2016/02/rozhovor-nerud-ostry.html), že pro vytvoření boskovického orchestru chybí hráči na smyčcové nástroje. Je šance, že by absolventů přibylo?**
+**Jak jsou na tom smyčce? [Martin Nerud a František Ostrý nám říkali](https://ohlasy.info/clanky/2016/02/rozhovor-nerud-ostry.html), že pro vytvoření boskovického orchestru chybí hráči na smyčcové nástroje. Je šance, že by absolventů přibylo?**
 
 Pokud jste viděli na zámku náš orchestr, tak tam smyčce jsou. Máme malý problém, a to jsou housle. Housliček máme málo, je to těžký nástroj a je to problematické. Máme tady tři pedagogy, myslím, že se ta situace stabilizuje. Do důchodu odešel Zdeněk Kotouček, to s sebou vždycky nese úskalí. Máme nového učitele Radka Korčáka, který má výhodu, že je houslista a zpěvák, jeho úvazek tudíž sestává z houslí i ze zpěvu. Doufám, že nám tady vydrží, je tady první rok, takže to nejde zatím hodnotit. Ale slyšela jsem jeho žáky na závěrečných zkouškách a byla jsem velmi mile překvapená. Je to vždy odvislé od osobnosti pedagoga a než si vybuduje svoje jméno, chvilku to trvá. Takže budu doufat, že to bude jen lepší a lepší.
 
@@ -216,4 +216,4 @@ V tanečním máme přetlak obrovský. Petr je na žáky ostrý, to ano, ale je 
 
 **A dramatický obor?**
 
-Tam máme standardně nejnižší kapacitu, dramaťáček máme malinký. Učí ho moje zástupkyně [Míša Vymazalová](http://ohlasy.info/clanky/2016/06/rozhovor-impro.html), která má stejně jen devět hodin úvazku ke své funkci, takže to tak akorát vychází. Drží si svůj standard mezi patnácti a pětadvaceti žáky, je to kolísavé.
+Tam máme standardně nejnižší kapacitu, dramaťáček máme malinký. Učí ho moje zástupkyně [Míša Vymazalová](https://ohlasy.info/clanky/2016/06/rozhovor-impro.html), která má stejně jen devět hodin úvazku ke své funkci, takže to tak akorát vychází. Drží si svůj standard mezi patnácti a pětadvaceti žáky, je to kolísavé.

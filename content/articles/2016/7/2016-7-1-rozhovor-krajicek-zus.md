@@ -10,7 +10,7 @@ tags: kultura vzdělávání zuš
 
 {% photo src="https://i.ohlasy.info/i/onzmqmc.jpg" author="Tomáš Znamenáček" /%}
 
-**Martine, [dělali jsme spolu rozhovor](http://ohlasy.info/clanky/2016/04/rozhovor-krajicek.html) asi před dvěma měsíci, během té doby ses rozhodl odejít z boskovické ZUŠ. Proč?**
+**Martine, [dělali jsme spolu rozhovor](https://ohlasy.info/clanky/2016/04/rozhovor-krajicek.html) asi před dvěma měsíci, během té doby ses rozhodl odejít z boskovické ZUŠ. Proč?**
 
 Ze dvou důvodů. První byl ten, že jsem dostal nabídku nového místa, takže jsem nešel do neznáma, ale na nové pracoviště, kde je jistě svěží vzduch, k čemuž se určitě ještě dostanu. A k člověku, kterého si nesmírně vážím, a to je Petr Křivinka *(ředitel letovické ZUŠ, pozn. red.)*. Tuto nabídku jsem přijal.
 
@@ -36,9 +36,9 @@ Ne. Já jsem pracovitý, tohle mi nevadí. S tím problém nemám, to mě naopak
 
 **Přesto jsi z umělecké rady odešel. K tomu vedlo co?**
 
-Už před těmi pár lety bylo běžné, že jsem s paní ředitelkou nesouhlasil a říkal jí třeba, že mě oslovil kolektiv, aby nebyla tak prudká a byla jemnější v zacházení s kolegy. Když vyvstal [problém s Ludmilou Keršnerovou](http://ohlasy.info/clanky/2015/11/soud-zus.html), byl jsem vyzván všemi ostatními kolegy, ať já s ředitelkou promluvím, protože jsem její pravá ruka a jsme taky přátelé, takže na mě snad dá. To jsem všechno udělal několikrát.
+Už před těmi pár lety bylo běžné, že jsem s paní ředitelkou nesouhlasil a říkal jí třeba, že mě oslovil kolektiv, aby nebyla tak prudká a byla jemnější v zacházení s kolegy. Když vyvstal [problém s Ludmilou Keršnerovou](https://ohlasy.info/clanky/2015/11/soud-zus.html), byl jsem vyzván všemi ostatními kolegy, ať já s ředitelkou promluvím, protože jsem její pravá ruka a jsme taky přátelé, takže na mě snad dá. To jsem všechno udělal několikrát.
 
-**Dělals to? Řešili jste problémy průběžně? [Paní ředitelka dnes říká](http://ohlasy.info/clanky/2016/06/rozhovor-matuskova.html), že ona lidem do hlav nevidí a nikdo za ní s takovými problémy nechodí.**
+**Dělals to? Řešili jste problémy průběžně? [Paní ředitelka dnes říká](https://ohlasy.info/clanky/2016/06/rozhovor-matuskova.html), že ona lidem do hlav nevidí a nikdo za ní s takovými problémy nechodí.**
 
 Mluvili jsme spolu včera a takto mi to říkala taky. Že není nikde žádný problém. 
 
@@ -100,7 +100,7 @@ Protože mají strach. Včera jsme se o tom bavili. Na základní umělecké šk
 
 **Zaznělo to od [paní Keršnerové](http://blanensky.denik.cz/zpravy_region/reditelka-skoly-nas-chce-vyhodit-napsala-ucitelka-ministrovi-20140701.html).**
 
-Od paní Keršnerové a [od Magdy Markové u soudu](http://ohlasy.info/clanky/2015/11/soud-zus.html). Přesně tohle.
+Od paní Keršnerové a [od Magdy Markové u soudu](https://ohlasy.info/clanky/2015/11/soud-zus.html). Přesně tohle.
 
 {% photo src="https://i.ohlasy.info/i/w3kf736.jpg" author="Tomáš Znamenáček" /%}
 
@@ -114,7 +114,7 @@ Nemyslím si to. Musím jen zopakovat, že mě ovlivnilo to, když na jedné por
 
 **S paní Keršnerovou?**
 
-Ano. Jediné, čeho jsem byl tehdy schopen, bylo, že jsem jí přinesl sklenici vody. Já jsem kromě zázemí v rodině byl také členem [oddílu Vatra](http://ohlasy.info/clanky/2015/11/vatra-45.html), kde jsme si na našich pravdivých hodnotách a postojích hodně zakládali, takže jsem pak seděl doma úplně překvapený a říkal si: kde mám tyhle svoje ideály? A musel jsem tyto pravdy znovu hledat. A jsem rád, že jsem je našel.
+Ano. Jediné, čeho jsem byl tehdy schopen, bylo, že jsem jí přinesl sklenici vody. Já jsem kromě zázemí v rodině byl také členem [oddílu Vatra](https://ohlasy.info/clanky/2015/11/vatra-45.html), kde jsme si na našich pravdivých hodnotách a postojích hodně zakládali, takže jsem pak seděl doma úplně překvapený a říkal si: kde mám tyhle svoje ideály? A musel jsem tyto pravdy znovu hledat. A jsem rád, že jsem je našel.
 
 **Říkáš, žes byl přítomen [bossingu](https://cs.wikipedia.org/wiki/Mobbing) – to už je docela vážné obvinění. Řekněme, že to překračuje hranici toho, že někde někomu ujely nervy. To se v té době nedalo řešit nějak víc?**
 

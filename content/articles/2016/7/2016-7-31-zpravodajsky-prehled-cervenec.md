@@ -9,25 +9,25 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/ati6qpc.jpg" author="Tomáš Trumpeš" /%}
 
-Proběhl [24. ročník festivalu Boskovice](http://ohlasy.info/clanky/2016/07/festivalovy-zapisnik.html), který je věnován [místní židovské čtvrti](http://ohlasy.info/clanky/2016/07/anketa-zidovska-ctvrt.html). Do 21. srpna jsou ještě ke zhlédnutí festivalové výstavy, třeba [Pomník Bruno Zwickera od Pavla Karouse](http://ohlasy.info/clanky/2016/07/rozhovor-karous.html).
+Proběhl [24. ročník festivalu Boskovice](https://ohlasy.info/clanky/2016/07/festivalovy-zapisnik.html), který je věnován [místní židovské čtvrti](https://ohlasy.info/clanky/2016/07/anketa-zidovska-ctvrt.html). Do 21. srpna jsou ještě ke zhlédnutí festivalové výstavy, třeba [Pomník Bruno Zwickera od Pavla Karouse](https://ohlasy.info/clanky/2016/07/rozhovor-karous.html).
 
 Na náměstí v Blansku našli [mrtvého primáře boskovické nemocnice](http://zpravy.aktualne.cz/regiony/jihomoravsky/na-namesti-v-blansku-nasli-mrtveho-primare-boskovicke-nemocn/r~8f608faa4f3a11e69d46002590604f2e/). Případ vyšetřuje policie.
 
-Policie [odložila trestní oznámení](http://ohlasy.info/clanky/2016/07/vysetrovani-cervenka.html), kterému čelila boskovická radnice v souvislosti s odkupem Dvořáčkova mlýna. K trestnému činu podle policie nedošlo.
+Policie [odložila trestní oznámení](https://ohlasy.info/clanky/2016/07/vysetrovani-cervenka.html), kterému čelila boskovická radnice v souvislosti s odkupem Dvořáčkova mlýna. K trestnému činu podle policie nedošlo.
 
-V boskovickém muzeu restaurují oponu, o které dlouho nevěděli, kdo ji maloval a odkud pochází. Prokázalo se, že [jejím autorem je Alfons Mucha](http://ohlasy.info/clanky/2016/07/muchova-opona.html).
+V boskovickém muzeu restaurují oponu, o které dlouho nevěděli, kdo ji maloval a odkud pochází. Prokázalo se, že [jejím autorem je Alfons Mucha](https://ohlasy.info/clanky/2016/07/muchova-opona.html).
 
-Reprezentanti boskovické radnice letos intenzivně navštěvují partnerská města, základní [myšlenka partnerství však zůstává nenaplněna](http://ohlasy.info/clanky/2016/07/partnerska-mesta.html).
+Reprezentanti boskovické radnice letos intenzivně navštěvují partnerská města, základní [myšlenka partnerství však zůstává nenaplněna](https://ohlasy.info/clanky/2016/07/partnerska-mesta.html).
 
 Na boskovická střední škole André Citroëna připravují [projekt za 50 milionů](http://blanensky.denik.cz/zpravy_region/projekt-za-50-milionu-boskovicka-stredni-skola-chce-vymenit-i-stare-stroje-20160722.html). 
 
-V plném proudu je turistická sezóna, návštěvníci míří i do [kartografického centra ve Velkých Opatovicích](http://ohlasy.info/clanky/2016/07/rozhovor-kaderkova.html), kde mají novou expozici.
+V plném proudu je turistická sezóna, návštěvníci míří i do [kartografického centra ve Velkých Opatovicích](https://ohlasy.info/clanky/2016/07/rozhovor-kaderkova.html), kde mají novou expozici.
 
 Hlediště letního kina bude mít po rekonstrukci [kapacitu tři tisíce diváků](http://zrcadlo.net/clanky/Hlediste-boskovickeho-letniho-kina-bude-mit-vice-mist-na-sezeni-3001/).
 
-Zemřel legendární kytarista a lídr skupiny S–band [Pavel Koudelka řečený Silver](http://ohlasy.info/clanky/2016/07/nekrolog-silver.html).
+Zemřel legendární kytarista a lídr skupiny S–band [Pavel Koudelka řečený Silver](https://ohlasy.info/clanky/2016/07/nekrolog-silver.html).
 
-Z boskovické Základní umělecké školy [odešel Martin Krajíček](http://ohlasy.info/clanky/2016/07/rozhovor-krajicek-zus.html).
+Z boskovické Základní umělecké školy [odešel Martin Krajíček](https://ohlasy.info/clanky/2016/07/rozhovor-krajicek-zus.html).
 
 Soud potrestal bývalého [ředitele letovického kulturního střediska Jiřího Palána](http://zrcadlo.net/clanky/Soud-potrestal-byvaleho-reditele-MKS-Letovice-Jiriho-Palana-3047/).
 

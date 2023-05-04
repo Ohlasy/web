@@ -32,7 +32,7 @@ Následujícího dne se program festivalu Concentus Moraviae přesune do Boskovi
 
 *Svitávka, 2. června 15:00*
 
-Archeologickou vycházku na Hradisko u Svitávky pod vedením kurátora sbírek letovického muzea [Dr. Antonína Štrofa](http://ohlasy.info/clanky/2019/03/rozhovor-strof.html) bude možné absolvovat v neděli 2. června. Účastníci se by se podle organizátorů měli dozvědět, kdo a jak žil v minulých dobách na návrší, které bylo osídleno už od pravěku a sehrálo významnou roli v historii našeho kraje i celé Moravy.
+Archeologickou vycházku na Hradisko u Svitávky pod vedením kurátora sbírek letovického muzea [Dr. Antonína Štrofa](https://ohlasy.info/clanky/2019/03/rozhovor-strof.html) bude možné absolvovat v neděli 2. června. Účastníci se by se podle organizátorů měli dozvědět, kdo a jak žil v minulých dobách na návrší, které bylo osídleno už od pravěku a sehrálo významnou roli v historii našeho kraje i celé Moravy.
 
 ### Zemlinského kvarteto a hosté
 

@@ -28,7 +28,7 @@ Zelení a Piráti 3:
 
 {% photo src="https://i.ohlasy.info/i/gxs6ucf.png" author="Tomáš Znamenáček" /%}
 
-Drtivá porážka Michala Haška. Tak by se jednoduše daly tyto výsledky shrnout. Že se ČSSD bude oproti minulým a předminulým volbám bude dále propadat, jsme [v Ohlasech předpovídali](http://ohlasy.info/clanky/2016/08/hasek-milovany.html), ale že to bude o tolik, netušil asi nikdo.
+Drtivá porážka Michala Haška. Tak by se jednoduše daly tyto výsledky shrnout. Že se ČSSD bude oproti minulým a předminulým volbám bude dále propadat, jsme [v Ohlasech předpovídali](https://ohlasy.info/clanky/2016/08/hasek-milovany.html), ale že to bude o tolik, netušil asi nikdo.
 
 Propad zaznamenaly tradiční strany jako celek. Nejlépe to dokládá postupně se tenčící počet mandátů, které ukazuje následující graf:
 
@@ -56,7 +56,7 @@ Zajímavý je i celkový výsledek v okrese Blansko, kde dokázali zvítězit li
 
 ### První kolo senátních voleb na Blanensku
 
-Boskovické finále. To čeká voliče do Senátu ve druhém kole následující pátek a sobotu. Jako vítězka prvního kola do něj postupuje boskovická místostarostka [Jaromíra Vítková](http://ohlasy.info/special/volby2016/dotaznik-vitkova.html) (18,73 procenta) a druhé postupové místo vybojoval velmi těsně primář boskovické nemocnice [Jan Machač](http://ohlasy.info/special/volby2016/dotaznik-machac.html) (15,48 procenta).
+Boskovické finále. To čeká voliče do Senátu ve druhém kole následující pátek a sobotu. Jako vítězka prvního kola do něj postupuje boskovická místostarostka [Jaromíra Vítková](https://ohlasy.info/special/volby2016/dotaznik-vitkova.html) (18,73 procenta) a druhé postupové místo vybojoval velmi těsně primář boskovické nemocnice [Jan Machač](https://ohlasy.info/special/volby2016/dotaznik-machac.html) (15,48 procenta).
 
 Velkým překvapením je neúspěch blanenského starosty Ivo Poláka. K postupu do druhého kola mu chybělo pouhých 291 hlasů. Poměrně těsně před kompletním sečtením hlasů byl jeho souboj s Janem Machačem zcela vyrovnaný, v dramatickém finiši, kdy se čekalo na spočtení posledních okrsků z Lysic a Drásova, nakonec Ivo Polák dostatečný počet hlasů nezískal.
 
@@ -65,4 +65,4 @@ V samotných Boskovicích zvítězila Jaromíra Vítková nad Janem Machačem v 
 Účast u prvního kola senátních voleb byla podstatně nižší než před šesti lety, činila 34,15 procenta (v roce 2010 to bylo 51,74). Druhé kolo tak rozhodne mimo jiné to, kolik lidí k němu přijde, respektive kterému z kandidátů se podaří přitáhnout více svých voličů.
 
 Otázkou je, jak se zachovají levicoví voliči, když do druhého kola postoupili zcela nečekaně dva konzervativní kandidáti.
-Pokud by ve druhém kole uspěla Jaromíra Vítková, můžeme se dočkat také změn v boskovické politice. Dosavadní místostarostka Jaromíra Vítková [deklarovala, že je v případě úspěchu připravena tento post opustit](http://ohlasy.info/special/volby2016/dotaznik-vitkova.html). Naopak Jan Machač chce v případě úspěchu i nadále pokračovat v práci v boskovické nemocnici.
+Pokud by ve druhém kole uspěla Jaromíra Vítková, můžeme se dočkat také změn v boskovické politice. Dosavadní místostarostka Jaromíra Vítková [deklarovala, že je v případě úspěchu připravena tento post opustit](https://ohlasy.info/special/volby2016/dotaznik-vitkova.html). Naopak Jan Machač chce v případě úspěchu i nadále pokračovat v práci v boskovické nemocnici.

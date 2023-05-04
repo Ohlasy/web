@@ -44,7 +44,7 @@ tags:
 
 *Podzim 2014*: Konají se komunální volby, ve kterých hala hraje jedno z důležitých témat. Koalice je vnímaná jako ta, která chce ve stavbě pokračovat, opozice jako ta, která chce stavbu zastavit. Opozice se po volbách ujímá vedení města, nicméně k otázce sportovní haly je zdrženlivá.
 
-*Zima 2015*: [Krajský úřad předává stanovisko k odvolání](http://ohlasy.info/clanky/2015/02/stavba-haly-stoji.html). Několika podnětům obyvatel vyhovuje a říká stavebnímu úřadu, že je musí vzít v potaz a více se na ně zaměřit. Nové vedení města ale proces povolování stavby pozastavuje, odpovědi na nevyřešené otázky by měl přinést zadaný audit. Zástupci města se také setkávají se zástupci firmy IMOS, která staví halu. Nic konkrétního se ale nedozvídáme.
+*Zima 2015*: [Krajský úřad předává stanovisko k odvolání](https://ohlasy.info/clanky/2015/02/stavba-haly-stoji.html). Několika podnětům obyvatel vyhovuje a říká stavebnímu úřadu, že je musí vzít v potaz a více se na ně zaměřit. Nové vedení města ale proces povolování stavby pozastavuje, odpovědi na nevyřešené otázky by měl přinést zadaný audit. Zástupci města se také setkávají se zástupci firmy IMOS, která staví halu. Nic konkrétního se ale nedozvídáme.
 
 *Jaro 2015*: Vedení města stále mlčí o tom, co bude s výstavbou haly. [Staveniště přitom působí problémy v blízké škole](/clanky/2015/04/staveniste-haly.html). Podle starostky Hany Nedomové (ČSSD) je mnoho pro a proti a jsou potřeba odborné posudky a výsledky auditu. [Zároveň už ale vedení města vytipovává jiné lokality](/clanky/2015/06/pozemky-pro-halu.html), kde by mohla být hala: za nemocnicí, na Mánesově, u židovského hřbitova, za pedagogickou školou nebo v areálu Červené zahrady.
 

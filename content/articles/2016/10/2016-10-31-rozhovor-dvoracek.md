@@ -13,7 +13,7 @@ featured: true
 
 **Jak to člověka napadne – vyrazit z Boskovic pěšky do Santiaga?**
 
-Jsou v tom dvě věci. Ta první je sportovní výkon. A potom, jak říká moje teta podle knihy Ernesta Hemingwaye Stařec a moře: každý si má chytit svoji rybu. Mně to přicházelo postupně, potkal jsem pana Liznu a další lidi, kteří šli do Santiaga. Tak jsem si řekl, že takový dobrý skutek a moje *chycení ryby* bude cesta do Santiaga. [My Vatráci](http://ohlasy.info/clanky/2015/11/vatra-45.html) jsme sportovci, jsem taky tramp a miluju všechno krásné, sport i přírodu, takže jsem to spojil všechno dohromady. Sportovní výkon to tedy nakonec pro mě nebyl, unavený jsem vůbec nebyl, ale hlavně jsem spojil duchovno a přírodu.
+Jsou v tom dvě věci. Ta první je sportovní výkon. A potom, jak říká moje teta podle knihy Ernesta Hemingwaye Stařec a moře: každý si má chytit svoji rybu. Mně to přicházelo postupně, potkal jsem pana Liznu a další lidi, kteří šli do Santiaga. Tak jsem si řekl, že takový dobrý skutek a moje *chycení ryby* bude cesta do Santiaga. [My Vatráci](https://ohlasy.info/clanky/2015/11/vatra-45.html) jsme sportovci, jsem taky tramp a miluju všechno krásné, sport i přírodu, takže jsem to spojil všechno dohromady. Sportovní výkon to tedy nakonec pro mě nebyl, unavený jsem vůbec nebyl, ale hlavně jsem spojil duchovno a přírodu.
 
 **Do Santiaga míří víc lidí, ale málokoho asi napadne, že půjde pěšky rovnou z Boskovic.**
 

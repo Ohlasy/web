@@ -24,9 +24,9 @@ V pátek 30. září si přijdou na své příznivci hudby dechové, v kulturní
 
 ### Divadlo
 
-V neděli 4. září se v Muzeu regionu Boskovicka koná dětské divadelní představení Pošťácká pohádka, které podle textu Karla Čapka připravilo Divadlo JeštěHrochu; v režii [Hasana Zahiroviće](http://ohlasy.info/clanky/2015/04/rozhovor-hasan-zahirovic.html) hrají Tomáš Morávek a Hasan Zahirović. V pátek 9. září v kulturním domě v Letovicích vystoupí Simona Stašová s inscenací Shirley Valentine, představení je však již vyprodáno.
+V neděli 4. září se v Muzeu regionu Boskovicka koná dětské divadelní představení Pošťácká pohádka, které podle textu Karla Čapka připravilo Divadlo JeštěHrochu; v režii [Hasana Zahiroviće](https://ohlasy.info/clanky/2015/04/rozhovor-hasan-zahirovic.html) hrají Tomáš Morávek a Hasan Zahirović. V pátek 9. září v kulturním domě v Letovicích vystoupí Simona Stašová s inscenací Shirley Valentine, představení je však již vyprodáno.
 
-Příznivci improvizace si můžou v pátek 16. září zajít do zámeckého skleníku, kde další ze svých [improvizačních zápasů](http://ohlasy.info/clanky/2016/06/rozhovor-impro.html) předvede místní improvizační tým Lísky.
+Příznivci improvizace si můžou v pátek 16. září zajít do zámeckého skleníku, kde další ze svých [improvizačních zápasů](https://ohlasy.info/clanky/2016/06/rozhovor-impro.html) předvede místní improvizační tým Lísky.
 
 ### Výstavy
 
@@ -58,6 +58,6 @@ Zářijový program boskovického kina začíná dvěma projekcemi ozvěn Letní
 
 Ve čtvrtek 8. září se koná celosvětová premiéra filmu Nick Cave: One More Time With Feeling, kde budou poprvé ke slyšení skladby z nového alba Nicka Cavea & The Bad Seeds s názvem Skeleton Tree.
 
-Ve čtvrtek 15. září bude v boskovickém kině uveden cestovatelský film [Miloše Brunnera](http://ohlasy.info/clanky/2016/08/rozhovor-brunner.html) Madagaskar: Film, který málem nebyl; následovat bude beseda s autorem.
+Ve čtvrtek 15. září bude v boskovickém kině uveden cestovatelský film [Miloše Brunnera](https://ohlasy.info/clanky/2016/08/rozhovor-brunner.html) Madagaskar: Film, který málem nebyl; následovat bude beseda s autorem.
 
 Filmový klub Boskovice v září nabídne dvě animované klasiky: ve čtvrtek 22. září Cestu do fantazie japonského tvůrce Hajaa Mijazakiho a ve čtvrtek 29. září film Baron Prášil legendárního českého režiséra, výtvarníka a animátora Karla Zemana.

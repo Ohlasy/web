@@ -6,7 +6,7 @@ author: Tomáš Trumpeš
 category: rozhovory
 ---
 
-*Rozhovor s Jiřím Mazalem, který po 31 letech opouští boskovický hrad. Poslední asi dvě desetiletí památku provozoval jako soukromý nájemce, od letošního roku mu majitel objektu razantně zvýšil nájem, v létě následovala výpověď. Po [rozhovoru se zástupcem majitele, ředitelem společnosti MP Holding Dominikem Božkem](http://ohlasy.info/clanky/2016/09/rozhovor-bozek.html), jsme si o důvodech odchodu, ale především o provozu hradu a jeho stavu povídali i s dlouholetým a dnes již bývalým hradním kastelánem. Do rozhovoru občas vstoupil i jeho plánovaný obchodní partner Michal Luffer, se kterým chtěl Jiří Mazal hrad dále provozovat.*
+*Rozhovor s Jiřím Mazalem, který po 31 letech opouští boskovický hrad. Poslední asi dvě desetiletí památku provozoval jako soukromý nájemce, od letošního roku mu majitel objektu razantně zvýšil nájem, v létě následovala výpověď. Po [rozhovoru se zástupcem majitele, ředitelem společnosti MP Holding Dominikem Božkem](https://ohlasy.info/clanky/2016/09/rozhovor-bozek.html), jsme si o důvodech odchodu, ale především o provozu hradu a jeho stavu povídali i s dlouholetým a dnes již bývalým hradním kastelánem. Do rozhovoru občas vstoupil i jeho plánovaný obchodní partner Michal Luffer, se kterým chtěl Jiří Mazal hrad dále provozovat.*
 
 {% photo src="https://i.ohlasy.info/i/mccf4mw.jpg" author="Tomáš Znamenáček" /%}
 
