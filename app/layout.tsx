@@ -1,4 +1,4 @@
-import { RouteTo } from "src/routing";
+import { RouteTo, siteUrl } from "src/routing";
 import { PT_Serif } from "next/font/google";
 import Link from "next/link";
 import { SearchForm } from "./SearchForm";
@@ -16,6 +16,7 @@ const mainFont = PT_Serif({
 
 export const metadata: Metadata = {
   title: "Ohlasy dění na Boskovicku",
+  metadataBase: new URL(siteUrl),
   description: "Internetové noviny pro Boskovice a okolí",
   openGraph: {
     title: "Ohlasy dění na Boskovicku",
