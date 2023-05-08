@@ -6,6 +6,7 @@ import { Metadata } from "next";
 import "./global.css";
 import Image from "next/image";
 import Balancer from "react-wrap-balancer";
+import { NewsletterBox } from "./newsletter/NewsletterBox";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainFont = PT_Serif({
@@ -151,7 +152,10 @@ const Footer = () => (
         </div>
       </div>
       <div className="max-md:order-1">
-        <SearchForm />
+        <div className="flex flex-col gap-7">
+          <SearchForm />
+          <NewsletterBox />
+        </div>
       </div>
     </div>
   </footer>

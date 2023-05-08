@@ -22,20 +22,24 @@ export const SearchForm = () => {
     event.preventDefault();
   };
   return (
-    <form onSubmit={handleSubmit} className="flex flex-wrap gap-2">
-      <input
-        type="text"
-        className="flex-auto border-[1px] border-silver px-2 py-2"
-        autoCapitalize="none"
-        placeholder="sportovní hala"
-        onChange={(e) => setQuery(e.target.value)}
-      />
-      <input
-        type="submit"
-        className="flex-none w-[9ex] py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
-        value="hledej"
-        onClick={handleSubmit}
-      />
-    </form>
+    <div className="flex flex-col gap-2">
+      <p className="text-base uppercase">Vyhledávání</p>
+      <form onSubmit={handleSubmit} className="flex flex-wrap gap-2">
+        <input
+          type="text"
+          className="flex-auto border-[1px] border-silver px-2 py-2"
+          autoCapitalize="none"
+          placeholder="sportovní hala"
+          onChange={(e) => setQuery(e.target.value)}
+          required
+        />
+        <input
+          type="submit"
+          className="flex-none w-[10ex] py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
+          value="hledej"
+          onClick={handleSubmit}
+        />
+      </form>
+    </div>
   );
 };
