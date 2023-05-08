@@ -4,6 +4,7 @@ cover-photo: https://i.ohlasy.info/i/a4duaz8.jpg
 perex: Vzpomínku na Danielu Meluzínovou, která zemřela po těžké nemoci v minulém týdnu, doprovází vzpomínka na Alici Mezerovou.
 author: Daniela Sedláková
 category: názory a komentáře
+tags: nekrolog
 ---
 
 *V určitém věku se člověk musí smířit s tím, že z jeho života začnou lidé nenávratně odcházet. Je to bolestivé, ale nezbývá nic jiného, než se s tím smířit a oživit je alespoň ve vzpomínkách. V posledních měsících odešly dvě úžasné ženy, se kterými jsem měla tu čest se potkávat a učit se od nich. A protože vím, že nechybí jen mně a že je třeba připomínat si lidi, kteří prosvětlovali naše město, patřili k němu, tvořili jeho atmosféru, píši tyto řádky.*
