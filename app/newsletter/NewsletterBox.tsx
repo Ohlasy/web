@@ -27,14 +27,14 @@ export const NewsletterBox = () => {
           <form onSubmit={handleSubmit} className="flex flex-wrap gap-2">
             <input
               type="email"
-              className="flex-auto border-[1px] border-silver px-2 py-2"
+              className="flex-auto border-[1px] border-silver px-2 py-2 text-base"
               autoCapitalize="none"
               placeholder="váš@email.cz"
               onChange={(e) => setModel({ ...model, email: e.target.value })}
             />
             <input
               type="submit"
-              className="flex-none w-[10ex] py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
+              className="flex-none px-4 py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
               value="přihlásit"
               onClick={handleSubmit}
             />

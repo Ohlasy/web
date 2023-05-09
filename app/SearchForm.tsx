@@ -27,16 +27,16 @@ export const SearchForm = () => {
       <form onSubmit={handleSubmit} className="flex flex-wrap gap-2">
         <input
           type="text"
-          className="flex-auto border-[1px] border-silver px-2 py-2"
+          className="flex-auto border-[1px] border-silver px-2 py-2 text-base"
           autoCapitalize="none"
-          placeholder="sportovní hala"
+          placeholder="co vás zajímá?"
           onChange={(e) => setQuery(e.target.value)}
           required
         />
         <input
           type="submit"
-          className="flex-none w-[10ex] py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
-          value="hledej"
+          className="flex-none px-4 py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
+          value="hledat"
           onClick={handleSubmit}
         />
       </form>
