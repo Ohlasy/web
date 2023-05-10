@@ -66,3 +66,11 @@ export async function getTopArticles(
       .slice(0, 10)
   );
 }
+
+export type PlausibleCustomGoal = {
+  name: "Internal Link";
+  type: "article-content";
+};
+
+export const plausibleEventClass = (goal: PlausibleCustomGoal) =>
+  "plausible-event-name=Internal+Link plausible-event-type=article-content";

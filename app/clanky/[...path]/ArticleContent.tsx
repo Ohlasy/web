@@ -6,6 +6,7 @@ import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
 import { default as NextLink } from "next/link";
 import { siteUrl } from "src/routing";
+import { plausibleEventClass } from "src/data-source/plausible";
 
 export type ArticleBodyProps = {
   /** Markdoc source */
@@ -30,8 +31,21 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
 
 /** Make sure we use local next/link for hyperlinks to keep client-side navigation */
 const Link = ({ href, children }: { href: string; children: string }) => {
-  const target = href.startsWith(siteUrl) ? href.replace(siteUrl, "") : href;
-  return <NextLink href={target}>{children}</NextLink>;
+  if (href.startsWith(siteUrl)) {
+    return (
+      <NextLink
+        href={href.replace(siteUrl, "")}
+        className={plausibleEventClass({
+          name: "Internal Link",
+          type: "article-content",
+        })}
+      >
+        {children}
+      </NextLink>
+    );
+  } else {
+    return <NextLink href={href}>{children}</NextLink>;
+  }
 };
 
 type PhotoProps = {

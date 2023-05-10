@@ -46,7 +46,7 @@ export default function RootLayout({ children }: Props) {
         />
         <script
           data-domain="ohlasy.info"
-          src="https://plausible.io/js/script.outbound-links.js"
+          src="https://plausible.io/js/script.tagged-events.outbound-links.js"
           defer
         />
       </head>
