@@ -69,8 +69,8 @@ export async function getTopArticles(
 
 export type PlausibleCustomGoal = {
   name: "Internal Link";
-  type: "article-content";
+  type: string;
 };
 
-export const plausibleEventClass = (goal: PlausibleCustomGoal) =>
-  "plausible-event-name=Internal+Link plausible-event-type=article-content";
+export const plausibleEventClass = ({ type }: PlausibleCustomGoal) =>
+  `plausible-event-name=Internal+Link plausible-event-type=${type}`;

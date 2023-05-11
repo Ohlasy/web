@@ -69,7 +69,11 @@ const Page = async ({ params }: Props) => {
       {relatedArticles.length >= 9 && (
         <div className="">
           <h2 className="section-divider">další {article.category}</h2>
-          <PreviewNest articles={relatedArticles} getBanner={getNextBanner} />
+          <PreviewNest
+            articles={relatedArticles}
+            getBanner={getNextBanner}
+            analyticsId="related-articles-box"
+          />
         </div>
       )}
     </>

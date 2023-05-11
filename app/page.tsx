@@ -2,7 +2,7 @@ import { PreviewNest } from "app/(shared)/PreviewNest";
 import { getAllBanners } from "src/data-source/banners";
 import { RouteTo } from "src/routing";
 import { endlessGeneratorOf, shuffleInPlace, tilde } from "src/utils";
-import { getTopArticles } from "src/data-source/plausible";
+import { getTopArticles, plausibleEventClass } from "src/data-source/plausible";
 import {
   getLatestTopicsSummary,
   getUserAvatar,
@@ -14,7 +14,6 @@ import { Banner } from "src/data-source/banners";
 import { TopArticles } from "src/data-source/plausible";
 import Link from "next/link";
 import Image from "next/image";
-import Script from "next/script";
 
 // Revalidate this page every 5 minutes
 export const revalidate = 300;
@@ -52,10 +51,15 @@ const Page = async () => {
         articles={mostRecentArticles}
         getBanner={getNextBanner}
         aboveFold={true}
+        analyticsId="latest-articles-box"
       />
 
       <h2 className="section-divider">názory &amp; komentáře</h2>
-      <PreviewNest articles={opinions} getBanner={getNextBanner} />
+      <PreviewNest
+        articles={opinions}
+        getBanner={getNextBanner}
+        analyticsId="opinion-box"
+      />
 
       <h2 className="section-divider">
         <a href={RouteTo.forum}>diskuzní fórum</a>
@@ -68,24 +72,40 @@ const Page = async () => {
       <h2 className="section-divider">
         <a href={RouteTo.podcasts}>podcast</a>
       </h2>
-      <PreviewNest articles={podcast} getBanner={getNextBanner} />
+      <PreviewNest
+        articles={podcast}
+        getBanner={getNextBanner}
+        analyticsId="podcast-box"
+      />
 
       <h2 className="section-divider">podpořte nás</h2>
       <FundraisingSecion />
 
       <h2 className="section-divider">rozhovory</h2>
-      <PreviewNest articles={interviews} getBanner={getNextBanner} />
+      <PreviewNest
+        articles={interviews}
+        getBanner={getNextBanner}
+        analyticsId="interview-box"
+      />
 
       <h2 className="section-divider">nejčtenější články</h2>
       <TopArticleBox topArticles={topArticles} banner={getNextBanner()} />
 
       <h2 className="section-divider">seriály</h2>
-      <PreviewNest articles={serials} getBanner={getNextBanner} />
+      <PreviewNest
+        articles={serials}
+        getBanner={getNextBanner}
+        analyticsId="serial-box"
+      />
 
       <h2 className="section-divider">
         vybíráme z <a href={RouteTo.archive}>archivu</a>
       </h2>
-      <PreviewNest articles={archive} getBanner={getNextBanner} />
+      <PreviewNest
+        articles={archive}
+        getBanner={getNextBanner}
+        analyticsId="archive-box"
+      />
     </div>
   );
 };
@@ -143,7 +163,15 @@ const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
           <span className="block text-2xl text-[#666] text-right w-[3ex] flex-none">
             {index + 1}
           </span>
-          <Link href={entry.path}>{tilde(entry.title!)}</Link>
+          <Link
+            className={plausibleEventClass({
+              name: "Internal Link",
+              type: "top-articles-box",
+            })}
+            href={entry.path}
+          >
+            {tilde(entry.title!)}
+          </Link>
         </li>
       ))}
     </ol>

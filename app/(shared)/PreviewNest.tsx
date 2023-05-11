@@ -6,23 +6,30 @@ import Image from "next/image";
 import { RouteTo } from "src/routing";
 import Balancer from "react-wrap-balancer";
 import Link from "next/link";
+import { plausibleEventClass } from "src/data-source/plausible";
 
 export type PreviewNestProps = {
   getBanner: () => Banner;
   articles: Article[];
   aboveFold?: boolean;
+  analyticsId?: string;
 };
 
 export const PreviewNest = ({
   articles,
   getBanner,
+  analyticsId,
   aboveFold = false,
 }: PreviewNestProps) => (
   <div className="grid grid-cols-1 gap-7">
-    <FeaturePreview article={articles[0]} aboveFold={aboveFold} />
+    <FeaturePreview
+      article={articles[0]}
+      aboveFold={aboveFold}
+      analyticsId={analyticsId}
+    />
     <div className="grid md:grid-cols-3 gap-7">
-      <SecondaryPreview article={articles[1]} />
-      <SecondaryPreview article={articles[2]} />
+      <SecondaryPreview article={articles[1]} analyticsId={analyticsId} />
+      <SecondaryPreview article={articles[2]} analyticsId={analyticsId} />
       <BannerBox banner={getBanner()} />
     </div>
   </div>
@@ -31,13 +38,21 @@ export const PreviewNest = ({
 type ArticleProps = {
   article: Article;
   aboveFold?: boolean;
+  analyticsId?: string;
 };
 
-const FeaturePreview = ({ article, aboveFold = false }: ArticleProps) => {
+const FeaturePreview = ({
+  article,
+  analyticsId,
+  aboveFold = false,
+}: ArticleProps) => {
   const notices = getArticleNotices(article);
   return (
     <Link
-      className="grid lg:grid-cols-3 lg:gap-7 bg-lightGray text-offBlack"
+      className={mergeClasses(
+        "grid lg:grid-cols-3 lg:gap-7 bg-lightGray text-offBlack",
+        analyticsId
+      )}
       href={RouteTo.article(article)}
     >
       <div className="p-4 flex flex-col gap-y-2">
@@ -69,11 +84,11 @@ const FeaturePreview = ({ article, aboveFold = false }: ArticleProps) => {
   );
 };
 
-const SecondaryPreview = ({ article }: ArticleProps) => {
+const SecondaryPreview = ({ article, analyticsId }: ArticleProps) => {
   const notices = getArticleNotices(article);
   return (
     <Link
-      className="bg-lightGray text-offBlack"
+      className={mergeClasses("bg-lightGray text-offBlack", analyticsId)}
       href={RouteTo.article(article)}
     >
       <div className="relative w-full aspect-video">
@@ -104,3 +119,15 @@ const NoticeBubble = ({ label }: { label: string }) => (
     {label}
   </div>
 );
+
+const mergeClasses = (baseClasses: string, analyticsId: string | undefined) => {
+  if (analyticsId) {
+    const plausibleClasses = plausibleEventClass({
+      name: "Internal Link",
+      type: analyticsId,
+    });
+    return [baseClasses, plausibleClasses].join(" ");
+  } else {
+    return baseClasses;
+  }
+};
