@@ -5,7 +5,7 @@ author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
-*Zástupci Boskovic minulý týden v Praze předali čestné občanství města Josefu Koudelkovi, bez nadsázky jednomu z celosvětově nejslavnějších fotografů své generace. Koudelkova rodina pochází z Bukové, sám Koudelka se narodil v roce 1938 v Boskovicích a vyrůstal ve Valchově. Fotil od mládí, vystudoval ale na leteckého konstruktéra a této profesi se i pár let věnoval. V roce 1968 nafotil ikonickou sérii o vpádu vojsk Varšavské smlouvy do Česka; fotografie i jejich autor následně úspěšně opustili okupovanou vlast a začal dlouhý příběh Koudelkova toulání a focení po celém světě.*
+*Zástupci Boskovic minulý týden v Praze předali čestné občanství města Josefu Koudelkovi, bez nadsázky jednomu z celosvětově nejslavnějších fotografů své generace. Koudelkova rodina pochází z Bukové, sám Koudelka se narodil v roce 1938 v Boskovicích a vyrůstal ve Valchově. Fotil od mládí, vystudoval ale na leteckého konstruktéra a této profesi se i pár let věnoval. V roce 1968 nafotil ikonickou sérii o vpádu vojsk Varšavské smlouvy do Československa; fotografie i jejich autor následně úspěšně opustili okupovanou vlast a začal dlouhý příběh Koudelkova toulání a focení po celém světě.*
 
 {% photo src="https://i.ohlasy.info/i/17b4cfbf.jpg" author="Tomáš Znamenáček" width=3348 height=2565 /%}
 
