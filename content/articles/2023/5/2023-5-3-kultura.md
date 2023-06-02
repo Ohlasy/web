@@ -1,8 +1,8 @@
 ---
-title: Kulturní podcast na květen s hostem Vojtěchem Havlem
+title: Kulturní výběr na květen s Vojtěchem Havlem
 cover-photo: https://i.ohlasy.info/i/49583e57.jpg
 author: Tomáš Trumpeš
-category: zpravodajství
+category: podcast
 ---
 
 *Další díl nového pravidelného pořadu, ve kterém se chceme každý měsíc věnovat boskovické kultuře, upozorňovat na zajímavé kulturní akce a zvát si inspirativní hosty, kteří tyto akce v Boskovicích reprezentují a pořádají. Moderují Magda Arnoštová a Tomáš Trumpeš. Hostem byl tentokrát hudebník Vojtěch Havel, a to výjimečně u příležitosti pražského koncertu, který odehrají právě Irena a Vojtěch Havlovi společně s globálními hvězdami Kronos Quartet. Součástí podcastu jsou i pozvánky na vybrané květnové akce, které si můžete níže také přečíst.*
