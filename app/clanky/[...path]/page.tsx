@@ -103,13 +103,15 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
   });
   return (
     <div className="mt-10 bg-lightGray p-7 pt-5 border-t-[1px] border-silver flex gap-7 flex-wrap content-center">
-      <Image
-        src={author.profilePhotoUrl!}
-        width={100}
-        height={100}
-        alt=""
-        className="rounded-full"
-      />
+      <div>
+        <Image
+          src={author.profilePhotoUrl!}
+          width={100}
+          height={100}
+          alt=""
+          className="rounded-full"
+        />
+      </div>
       <ul>
         <li>{article.author}</li>
         {author.mail && (
