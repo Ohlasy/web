@@ -1,0 +1,63 @@
+---
+title: Železničáři Farský a Říha litují konce osobní železniční dopravy na Velké Opatovice
+cover-photo: https://i.ohlasy.info/i/94e1b69d.jpeg
+author: Tomáš Trumpeš
+category: zpravodajství
+tags: železnice
+---
+
+*Boskovická lokálka se v sobotu 10. června naposledy projela až do Velkých Opatovic. Nyní už bude jezdit jen mezi Skalicí nad Svitavou a Boskovicemi. Strojvůdce Vladimír Farský i výpravčí Marek Říha to vidí jako chybu a trend ukončování lokálních tratí nevnímají jako pozitivní.*
+
+{% photo src="https://i.ohlasy.info/i/94e1b69d.jpeg" author="Tomáš Trumpeš" caption="Poslední lokálka ve směru na Velké Opatovice odjíždí z boskovického nádraží" width=4032 height=3024 /%}
+
+Vladimír Farský nastoupil k dráze v roce 1977, nejprve do depa v Maloměřicích. Do Skalice nad Svitavou se přesunul před 27 lety. „Jezdil jsem v Heršpicích na osobácích a tady potřebovali výpomoc. Poslali mě sem na tři měsíce a už jsem zde zůstal,“ říká Vladimír Farský a dodává, že kolikrát jel trasu ze Skalice nad Svitavou do Velkých Opatovic, to už dneska nikdo nespočítá. Zpočátku jezdil nákladní i osobní dopravu, a to přes Chornice až do České Třebové. Pak se trasa omezovala a nyní se zavírá úplně. Zůstává trasa z Boskovic do Skalice nad Svitavou, kterou jede třeba desetkrát za směnu.
+
+Výpravčí Marek Říha je mimo jiné jednatelem Chornického železničního klubu a v roce 2008 vydal knihu *100 let místní dráhy Skalice nad Svitavou – Velké Opatovice*. V poslední době podle něj zájem o knihu opět vzrostl, dnes je možné ji zakoupit mimo jiné v [e-shopu Chornického železničního klubu](http://www.chzk.cz/index.php/edicni-cinnost/e-shop/kalendare-2/100-let-m%C3%ADstn%C3%AD-dr%C3%A1hy-skalice-nad-svitavou-velk%C3%A9-opatovice-detail). „Každý týden někdo telefonuje nebo píše, že ji chce,“ říká Marek Říha, který přišel pracovat do Boskovic na nádraží v roce 1995 z Velkých Opatovic, na trati slouží už skoro třicet roků. Nyní se přesune do Blanska, ale občas bude mít stále směny i v Boskovicích, kde budou jinak častěji sloužit stávající výpravčí ze Šebetova a Velkých Opatovic.
+
+{% photo src="https://i.ohlasy.info/i/476c4580.jpeg" caption="Strojvůdce Vladimír Farský" author="Tomáš Trumpeš" width=4608 height=3072 /%}
+
+### Obvyklý postup: špatný jízdní řád a pak zrušení
+
+Strojvůdce Vladimír Farský je dlouhodobě aktivní i v politice a těsně po komunálních volbách se jako zastupitel za Naše Boskovice zúčastnil i jednání s Jihomoravským krajem. Se zástupci kraje a Kordisu se tehdy setkali starostové z obcí po celé trase a celého regionu, za Boskovice tam jel Vladimír Farský se starostkou Janou Syrovátkovou (Změna22) a místostarostou Lukášem Holíkem (Naše Boskovice). 
+
+Oficiální stanovisko kraje znělo, že se musí šetřit, i když tehdy ještě nebyla řeč o tom, že se trasa zavře úplně – rušil se jeden motorový vůz a místo dvou už jezdil jen jeden. „Hlavní důvod byl, že je to nevytížené a neekonomické,“ popisuje Vladimír Farský. Kromě toho zaznívaly i argumenty zaváděním nového systému ETCS, ale to podle něj byly jen pomocné věci.
+
+„Mně se to nelíbí. Když jezdí na jedné straně spoje na Tišnov nebo do Blanska po čtvrt hodině a ve špičkách jsou úplně nacpané cestujícími, takže si ani nemají kam sednout a průvodčí se mezi ně nedostane, když jsou na tom tyhle spoje ekonomicky velice dobře, tak proč by nemohly v rámci jednotného dopravního systému ufinancovat i sedmnáct kilometrů do Opatovic a zpátky? Ale to je můj pohled, do ekonomiky nevidím, kraj to tají. Beru to tak a zatím mně to nikdo nevyvrátil,“ domnívá se boskovický strojvůdce a politik.
+
+Jednání s krajem podle něj nebylo otevřené žádné diskuzi. „Všechno bylo rozhodnuté, nám to jenom sdělili. Nebyl tam žádný prostor pro diskuzi.“ Vladimír Farský moc nebere ani argument úsporami – když motorový vlak ujede pět kilometrů ze Skalice do Boskovic a pak zde stojí tři čtvrtě hodiny, tak nevydělá ani korunu a náklady na strojvůdce a na průvodčího jsou pořád stejné.
+
+Podle Marka Říhy se někteří politici netají názorem, že by se tratě, kde jezdí lokálky, měly pozavírat. Jenže už v devadesátých letech se proti tomu zvedla vlna odporu, a proto se tyto tratě zavírají pomalu a postupně, což nebudí takovou nevoli. „Aplikuje se vždycky stejný postup: udělá se jízdní řád tak, aby tím nikdo nejezdil, a pak se řekne, že tím nikdo nejezdí. To se stalo i tady,“ popisuje Marek Říha. Přípoje začaly jezdit na rychlíky, které ale mívají od Prahy značné zpoždění. A navíc je zde i dost lidí, kteří nesměřují až do Brna, dnes se ale nedostanou vlakem do Doubravice, do Zboňku, do Svitávky a podobně. Zároveň je zde problém s návazností vlaků na autobusy, [jak Ohlasy v minulosti popsaly](https://ohlasy.info/clanky/2023/01/navaznosti.html). Marek Říha potvrzuje, že zaznamenává hodně podobných stížností. 
+
+Vlaky byly podle něj vytížené, když jezdily tak, jak to lidem vyhovovalo. „Když zrušíte vlak ve 14.30, kterým jezdila děcka ze škol, a místo toho uděláte vlak v 11.30 – kdo tím proboha pojede?“ ptá se řečnicky Marek Říha. A vzpomíná na vlak, který přijížděl do Boskovic z Velkých Opatovic v 5.45 a ve stejnou dobu přijížděl vlak ze Skalice, aby lidé stíhali směnu ve fabrice. „Vlaky byly z obou stran plné,“ říká výpravčí. Tento vlak skončil po zavedení integrovaného dopravního systému. 
+
+Stejně tak bylo možné se z Velkých Opatovic dostat na sedmou do Brna. A rovněž si pamatuje vlak, který odjížděl z Velkých Opatovic ve 14.10 a jezdili s ním lidé ze šamotky. „Někdy na přelomu století ho začali postupně posouvat do dřívějších časů, a když odjížděl ve 13.55, tak s ním kupodivu už nikdo nejezdil,“ říká ironicky Marek Říha. 
+
+Fungování systému pociťuje i sám na sobě – je totiž neřidič a cestuje tak výhradně veřejnou dopravou. A dostat se do práce ze Svitávky, kde bydlí, je problém. „Pořád je nám zdůrazňováno, že náš Integrovaný systém Jihomoravského kraje je nejlepší v republice, ale já se jako neřidič nedostanu do práce,“ glosuje situaci výpravčí. Autobus ze Svitávky totiž do Boskovic, kde řada podniků začíná v šest, přijíždí až v 6.14. „Dřív jsem jezdil vlakem, ale v srpnu optimalizovali jízdní řády, takže už tady nikdo nejezdí. To je vždycky první krok, který se dělá, když chcete něco zavřít. Teď se plácají po zádech, ale já to tady vidím – nádraží bylo vždycky plné lidí a teď tady nikdo není,“ říká Marek Říha. Stejně tak mu dříve navazoval vlak těsně po konci noční směny v 6 hodin – do Skalice a odtud do Svitávky. Dnes jede vlak do Skalice později a vlak do Svitávky nenavazuje vůbec.
+
+{% photo src="https://i.ohlasy.info/i/2ccac6d2.jpeg" caption="Výpravčí Marek Říha" author="Tomáš Trumpeš" width=4608 height=3072 /%}
+
+### Výhody železnice
+
+A proč vnímají železničáři rušení trati jako chybu? Hlavní výhodu osobní železniční dopravy vidí Vladimír Farský v pohodlí cestujících ve vlaku a také jistotě, že se do vlaku dostanou. Na jednání s krajem si podle něj kupříkladu starosta Cetkovic stěžoval, že výchozí autobus z Velkých Opatovic k nim ráno přijede už tak plný, že se cestující dovnitř všichni nevejdou. „Kdyby tam byly třeba dvě maminky s kočárky, které jedou do boskovické nemocnice, tak se tam prostě nedostanou. A nemluvím o starších lidech, kteří nevydrží stát až do Boskovic pověšení na tyčce v uličce,“ říká Vladimír Farský.
+
+Výpravčí Marek Říha se domnívá, že z vlaků na rozdíl autobusů navíc neprofituje zdaleka tolik firem a autobusová doprava je proto jednoznačně preferovaná. Podobně jako Vladimír Farský vidí hlavní výhodu železnice v komfortu cestujících a také zdůrazňuje cestující s kočárkem, případně cyklisty, kteří vezou kolo, a vozíčkáře, kteří si zvykli vlaky více využívat, když začaly jezdit vícepodlažní Regionovy. „Dráha je také odolnější vůči rozmarům počasí a zácpám na silnici. Sám jsem za tři čtvrtě roku, co jezdím autobusem, zažil neuvěřitelné věci – a to jezdím jen čtyři kilometry.“ 
+
+Další argument železničářů je, že dnes příliš nefunguje koordinace mezi vlaky a autobusy. Vladimíru Farskému se běžně stává, že jede s lokálkou, ve které sedí pět lidí, a vedle něj po silnici jede autobus, ve kterém sedí také pět lidí. Zároveň by autobus, který jezdí po Boskovické brázdě od vesnice k vesnici, mohl lidi popovézt k zastávce, která je třeba v Cetkovicích poměrně daleko. „A já bych je odtud odvezl do Skalice, kde by pokračovali na jednu nebo na druhou stranu. Dělá to jedna firma, Kordis, tak si myslím, že by to takto zkoordinovat klidně šlo.“ Podle Marka Říhy by se daly zastávky posunout blíž k obcím, což už se podle něj mělo udělat dávno. 
+
+Trochu paradoxně může působit, že se po ukončení osobní železniční dopravy budou investovat desítky milionů korun do přejezdů – konkrétně do úpravy stávajících zařízení, ne že by se budovaly nové přejezdy – a Velké Opatovice se budou předělávat na světelná návěstidla. Tím pádem by se ale podle Farského daly výrazně zkrátit i jízdní doby. „Dnes se přes přejezdy, kde není přehled, plazíme rychlostí třeba deset, patnáct kilometrů v hodině,“ popisuje Vladimír Farský. Společně se zvýšením rychlosti na rovinatých úsecích by to podle něj pomohlo zkrátit jízdní dobu mezi Velkými Opatovicemi a Skalicí nad Svitavou až o třetinu.
+
+Po celou dobu, kdy se o změnách hovoří, má i strojvůdce Farský značnou odezvu od cestujících, se kterými mluví. Největší zvrat nastal loni po ukončení velké výluky, kdy podle něj začaly vlaky jezdit v nesmyslných časech a naopak přestaly jezdit v časech, kdy je lidé nejvíc potřebovali. „To tady člověk sedí a vidí, že ještě půl roku po zavedení nového grafikonu lidé chodí na vlaky, které nejely. Byli naučení, že se jelo v celou a o půl. A to byla opravdu nevole,“ popisuje Vladimír Farský a dodává, že jemu osobně by to profesně vadit nemuselo, protože on bude zkrácením trasy a častějším ježděním mezi Boskovicemi a Skalicí ještě finančně zvýhodněn. „Měl bych být potichu a rád, ale nedá mně to, protože vidíme, že pro cestující je to prostě špatně.“
+
+Marek Říha připomíná, že za Rakouska se uvažovalo o tom, jak tratě lokálek propojit a síť doplnit, protože provoz na kousku trati je neefektivní, ale propojením by celý systém mohl dobře fungovat. Dnes se jde opačným směrem a tratě se ruší nebo se uměle vytvářejí kratší kousky. „Mám čím dál intenzivnější pocit, že momentální politické garnitury se chovají, jako by už neměly být žádné volby,“ dodává Marek Říha. 
+
+Nyní se spojení na trati z Boskovic do Skalice nad Svitavou opět zahustí. Marek Říha věří, že to bude fungovat. Zkušenost má i z Blanska, kde lidé podle něj pochopili, že tak rychle jako vlakem se do Brna po silnici nikdy nedostanou. „Dokud nebude postavená R43, tak to bude platit i pro Boskováky,“ myslí si Marek Říha.
+
+### Co bude s tratí
+
+Trať na Velké Opatovice zůstane ale zachovaná a v provozu – třikrát týdně po ní pojede nákladní vlak, který zároveň funguje jako manipulační vlak a obsluhuje všechny stanice po cestě. Výpravčí zde budou chodit jen na pár hodin týdně do práce v Šebetově a Velkých Opatovicích, kde je zájem o nakládku.
+
+To zároveň znamená, že obnovení osobní dopravy by do budoucna bylo možné. V rozhodnutí o zrušení se podle Vladimíra Farského objevuje slovo *zatím*, tedy že kraj zatím neuvažuje o obnovení osobní dopravy. „A zatím není nikdy,“ říká strojvůdce. Trasa každopádně zůstane provozuschopná a navíc je i strategicky důležitá – kdyby se něco stalo na hlavní trati, je stále možné ze Skalice nad Svitavou dojet do České Třebové přes Velké Opatovice a Chornici. 
+
+Uskutečnit by se tak mohla i tradiční Mikulášská jízda vlakem taženým parní lokomotivou. Tuto akci pořádá právě Chornický železniční klub a jeho jednatel Marek Říha říká, že by ji letos uspořádat chtěli. Jediný rozdíl by pro ně spočíval v tom, že by museli objednat u Správy železnic obsazení stanic Šebetov a Velké Opatovice výpravčími. Výhodou naopak bude volnější ruka při přípravě jízdního řádu. Akce by mohla být místo neděle v sobotu a jízda by se mohlo konat dříve, aby se vyhnula brzkému setmění. Nejvíc bude ale záležet na financích, protože náklady akce značně vzrostly. „Tuna černého uhlí šla z 6 tisíc na 19, takže když jsme nechali akci zkalkulovat, dostali jsme se na 170 procent roku 2019. Když k tomu připočteme ostatní náklady, dostaneme se někam na čtvrt milionu. Musíme se rozhodnout, jestli do toho jít,“ říká Marek Říha s tím, že zvýšit se bude muset jízdné, které se dosud pořadatelé snažili držet nízko, ale ani tak nelze čekat, že by náklady pokrylo. Jednat budou s hlavními sponzory. 
+
+Pokud se to podaří, budou mít cestující na Mikuláše nejen výjimečnou příležitost projet se vlakem s parní lokomotivou, ale vůbec projet se zase jednou vlakem z Boskovic do Velkých Opatovic.
