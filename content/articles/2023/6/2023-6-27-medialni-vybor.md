@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
-*Hlavním diskusním tématem červnového zastupitelstva bylo zřízení nového mediálního výboru. Tématu městských médií se v komentářích věnujeme opakovaně, ale zastupitelská debata byla natolik paradoxní a zmatečná, že si znovu dovolím připojit pár poznámek.*
+*Hlavním diskusním tématem [červnového zastupitelstva](https://ohlasy.info/clanky/2023/06/zastupitelstvo.html) bylo zřízení nového mediálního výboru. Tématu městských médií se v komentářích věnujeme opakovaně, ale zastupitelská debata byla natolik paradoxní a zmatečná, že si znovu dovolím připojit pár poznámek.*
 
 {% photo src="https://i.ohlasy.info/i/6115a2e9.jpg" caption="Ilustrační foto" author="Kristin, Flickr" width=2272 height=1704 /%}
 
