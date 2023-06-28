@@ -48,8 +48,9 @@ Pokud chce vedení města zpravodaj v této podobě zachovat, mělo by disponova
 
 ### Obsahová analýza
 
-K takto tvrdému odsudku zpravodaje mě nevede jen jeho přežitá forma, ale i rozsahu zcela neodpovídající obsah. I jen letmá analýza toho, co a jak se ve zpravodaji reálně píše, ukáže poměrně zřetelně, že rozsah informací a způsob jejich prezentace v celém zpravodaji vůbec neodpovídají tomu, co se ve městě a především na radnici děje a co je opravdu důležité. 
-Odstínění politiky
+K takto tvrdému odsudku zpravodaje mě nevede jen jeho přežitá forma, ale i rozsahu zcela neodpovídající obsah. I jen letmá analýza toho, co a jak se ve zpravodaji reálně píše, ukáže poměrně zřetelně, že rozsah informací a způsob jejich prezentace v celém zpravodaji vůbec neodpovídají tomu, co se ve městě a především na radnici děje a co je opravdu důležité.
+
+### Odstínění politiky
 
 V zastupitelské debatě dokonce zaznělo i téma odstínění vlivu politiků na práci profesionálů při výrobě zpravodaje. Bývalá starostka Hana Nedomová (Soc Dem) sympaticky poznamenala, že by se práce mediálních profesionálů měla od politiky oddělit. Zároveň později paradoxně uvedla, že na zpravodaj má dohlížet hlavně starosta. Navíc tím hájila model redakční rady, ale zapomněla dodat, že redakční radu v minulém období řídil člen městské rady, což je právě zásadní lapsus. (Že byl navíc ve flagrantním střetu zájmů, neboť se stále podílel i na vydávání soukromého média, je další mimořádně nepěkný, i když v tuto chvíli už naštěstí nezajímavý příběh.)
 
