@@ -19,7 +19,7 @@
     "@notionhq/client": "^2.2.5",
     "@slack/web-api": "^6.8.1",
     "encoding": "^0.1.13",
-    "eslint": "^8.39.0",
+    "eslint": "^8.44.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "next": "13.x",
