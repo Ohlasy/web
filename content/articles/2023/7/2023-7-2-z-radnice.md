@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které na konci června oznámilo vedení města – starostka Jana Syrovátková (Změna22), místostarostové Lukáš Holík (Naše Boskovice) a Radek Šamšula (Piráti) a tajemník David Škvařil.*
 
-{% photo src="https://i.imgur.com/e8Wv4OT.jpg" caption="Nová výzdova druhé trafostanice u MŠ Komenského" author="Tomáš Trumpeš" width=4032 height=3024 /%}
+{% photo src="https://i.imgur.com/e8Wv4OT.jpg" caption="Nová výzdoba druhé trafostanice u MŠ Komenského" author="Tomáš Trumpeš" width=4032 height=3024 /%}
 
 ### Veřejné osvětlení
 Přibližně jedna čtvrtina města se letos dočká nového veřejného osvětlení. Rekonstrukce vyjde na necelých 5 milionů korun, přičemž skoro 4 miliony pokryje dotace. „Bude to teplé, žluté světlo, zároveň je zde i požadavek na snížení intenzity v nočních hodinách. Takže tato výměna, kterou plánujeme udělat v celém městě, by měla mít i velmi pozitivní dopad na spotřebu elektrické energie,“ popsala starostka Jana Syrovátková. Zbylé tři čtvrtiny města by podle ní mohly být už kompletně součástí druhé etapy, kterou by město mohlo zvládnout do dvou let. Ideálně opět s přispěním dotací. Dalšími výhodami je, že nová světla nebudou oslňovat a dojde ke snížení světelného smogu.
