@@ -37,6 +37,7 @@ export default function RootLayout({ children }: Props) {
     <html lang="cs">
       <head>
         <meta charSet="utf-8" />
+        <meta name="theme-color" content="#945200" />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         <link rel="me" href={RouteTo.Mastodon} />
         <link
