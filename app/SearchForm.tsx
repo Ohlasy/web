@@ -35,8 +35,9 @@ export const SearchForm = () => {
         />
         <input
           type="submit"
-          className="flex-none px-4 py-2 cursor-pointer text-base text-center bg-brown text-white rounded"
+          className="flex-none px-4 py-2 cursor-pointer text-base text-center bg-brown disabled:bg-gray text-white rounded"
           value="hledat"
+          disabled={query === ""}
           onClick={handleSubmit}
         />
       </form>
