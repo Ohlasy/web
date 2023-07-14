@@ -1,6 +1,7 @@
 import { getAllArticles } from "src/article";
 import { getArticlePath } from "src/routing";
 import { articleRoot } from "src/server-utils";
+import { Duration } from "src/utils";
 import {
   array,
   decodeType,
@@ -34,7 +35,7 @@ async function queryTopPages(
   const url = `${root}?site_id=${siteId}&period=${period}&property=${property}&limit=${limit}`;
   const response = await fetch(url, {
     headers: { Authorization: `Bearer ${apiKey}` },
-    cache: "force-cache",
+    next: { revalidate: Duration.oneDay },
   });
   return decodeTopPageResponse(await response.json());
 }
