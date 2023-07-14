@@ -62,7 +62,7 @@ const Page = async () => {
 const AuthorList = ({ authors }: { authors: Author[] }) => (
   <div className="flex flex-row flex-wrap gap-7 justify-center">
     {authors.map((a) => (
-      <div key={a.name} className="text-center">
+      <div key={a.name} className="text-center max-w-[150px]">
         <Image
           key={a.name}
           src={a.profilePhotoUrl!}
