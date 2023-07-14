@@ -59,23 +59,31 @@ const Page = async () => {
   );
 };
 
-const AuthorList = ({ authors }: { authors: Author[] }) => (
-  <div className="flex flex-row flex-wrap gap-7 justify-center">
-    {authors.map((a) => (
-      <div key={a.name} className="text-center max-w-[150px]">
-        <Image
+const AuthorList = ({ authors }: { authors: Author[] }) => {
+  const archiveUrl = (name: string) =>
+    `https://archiv.ohlasy.info/?autor=${name.replaceAll(" ", "+")}`;
+  return (
+    <div className="flex flex-row flex-wrap gap-7 justify-center">
+      {authors.map((a) => (
+        <a
           key={a.name}
-          src={a.profilePhotoUrl!}
-          width={150}
-          height={150}
-          className="rounded-full mb-2 m-auto"
-          alt=""
-        />
-        <h3>{a.name}</h3>
-      </div>
-    ))}
-  </div>
-);
+          className="text-center max-w-[150px]"
+          href={archiveUrl(a.name)}
+        >
+          <Image
+            key={a.name}
+            src={a.profilePhotoUrl!}
+            width={150}
+            height={150}
+            className="rounded-full mb-2 m-auto border-4 border-white hover:border-brown"
+            alt=""
+          />
+          <h3 className="text-offBlack">{a.name}</h3>
+        </a>
+      ))}
+    </div>
+  );
+};
 
 const SectionHeader = ({ children }: { children: ReactNode }) => (
   <h2 className="font-bold text-2xl text-center mb-7 border-b-[1px] pb-2 border-gray">
