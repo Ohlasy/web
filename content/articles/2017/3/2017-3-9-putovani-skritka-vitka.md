@@ -1,7 +1,7 @@
 ---
 title: Putování skřítka Vítka je knihou o naději
 cover-photo: https://i.ohlasy.info/i/xttthfv.jpg
-author: Anna Dudková
+author: Anna Dušilová
 category: zpravodajství
 tags: kultura
 ---

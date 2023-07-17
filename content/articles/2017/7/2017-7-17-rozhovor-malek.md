@@ -2,7 +2,7 @@
 title: „Dřevotříska nesmí přes práh našeho domu.“
 perex: Rozhovor se stolařem Pavlem Málkem. Žije a pracuje společně s manželkou na Dvou dvorech, kde také chovají koně. Bydlí v krásné dřevostavbě, kterou si sami postavili. A zaměřují se výhradně na výrobu kvalitního nábytku z masivu.
 cover-photo: https://i.ohlasy.info/i/xfn5m5t.jpg
-author: Anna Dudková
+author: Anna Dušilová
 category: rozhovory
 ---
 

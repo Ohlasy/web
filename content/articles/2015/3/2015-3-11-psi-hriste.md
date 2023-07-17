@@ -1,7 +1,7 @@
 ---
 title: Ve městě žijí stovky psů. Potřebují hřiště?
 cover-photo: https://i.ohlasy.info/i/ejstmd0.jpg
-author: Anna Dudková
+author: Anna Dušilová
 ---
 
 *V Boskovicích se v poslední době rozběhla debata o tom, jestli by bylo dobré vybudovat speciální oplocené hřiště pro psy. Těch ve městě nežije vůbec málo, počítají se na stovky a vedle radostí je s nimi spojeno také několik strastí, jako například neschopnost páníčků po svých psích kamarádech při venčení uklízet. Úklid částečně hradí i město, které na poplatcích za psy vybere ročně několik set tisíc korun. Zvyky pejskařů se v průběhu let mění, pes je čím dál víc pro lidi kamarád, a právě proto dnes vznikají i psí hřiště.*

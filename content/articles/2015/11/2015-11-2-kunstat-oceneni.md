@@ -2,7 +2,7 @@
 title: Kunštátská základní škola získala ocenění za anglický projekt
 cover-photo: https://i.ohlasy.info/i/pdqjzhr.jpg
 category: zpravodajství
-author: Anna Dudková
+author: Anna Dušilová
 tags: vzdělávání
 ---
 

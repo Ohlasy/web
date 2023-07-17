@@ -3,7 +3,7 @@ title: "Lesní školky: Velký zájem, pozitivní výsledky, ale stále legislat
 category: zpravodajství
 cover-photo: https://i.ohlasy.info/i/ldxxqpi.jpg
 tags: vzdělávání
-author: Anna Dudková
+author: Anna Dušilová
 ---
 
 *Snad všichni znají staré pravidlo, že není špatné počasí, jen špatné oblečení. Málokdo se jím ale ve skutečnosti řídí. Výjimkou se snaží být takzvané lesní školky, kde je tato myšlenka chápána jako jedna z hlavních zásad. Také u nás v regionu působí navzdory legislativní nepřízni hned několik školek, které se úplně nebo alespoň částečně o tento přístup snaží. Zájem mezi rodiči je evidentně značný, problémem zůstávají finance.*

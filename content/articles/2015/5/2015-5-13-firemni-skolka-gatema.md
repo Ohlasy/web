@@ -2,7 +2,7 @@
 title: Gatema buduje firemní školku, možná zbudou i místa pro veřejnost
 category: zpravodajství
 cover-photo: https://i.ohlasy.info/i/jhzypgv.jpg
-author: Anna Dudková
+author: Anna Dušilová
 tags: podnikání
 ---
 
