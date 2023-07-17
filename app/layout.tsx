@@ -101,8 +101,8 @@ const Footer = () => (
         </p>
         <p>
           <Balancer>
-            Vydává <Link href={RouteTo.companyInfo}>spolek šílenců</Link>,
-            protože kdo jiný by dneska dělal noviny.
+            Vydává <Link href={RouteTo.about}>spolek šílenců</Link>, protože kdo
+            jiný by dneska dělal noviny.
           </Balancer>
         </p>
         <p>Nepoužíváme žádné cookies, respektujeme vaše soukromí.</p>

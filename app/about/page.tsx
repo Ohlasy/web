@@ -45,7 +45,8 @@ const Page = async () => {
           </p>
           <p>
             Noviny v roce 2015 společně založili a vedou Tomáš Trumpeš a Tomáš
-            Znamenáček.
+            Znamenáček, od roku 2019 jako{" "}
+            <a href={RouteTo.companyInfo}>spolek Ohlasy</a>.
           </p>
           <p>
             Společně s několika desítkami pravidelných autorů i občasných

@@ -12,6 +12,7 @@ export const RouteTo = {
   articleFeed: "/feed.xml",
   mainPodcastFeed: "/podcast.xml",
   hrebenovkaFeed: "/podcast/hrebenovka.xml",
+  about: "/about",
   // Dynamic routes
   article: getArticlePath,
   forumTopic: getTopicUrl,
@@ -19,7 +20,8 @@ export const RouteTo = {
   archive: "http://archiv.ohlasy.info",
   forum: "https://forum.ohlasy.info",
   adsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
-  companyInfo: "https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e",
+  companyInfo:
+    "https://ohlasy.notion.site/Spolek-9101128690ce46d6908f322fff37065e?pvs=4",
   // Podcast
   Spotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
   ApplePodcasts: "https://podcasts.apple.com/cz/podcast/ohlasy/id1480020344",
