@@ -12,14 +12,20 @@ const Page = async () => {
   const episodes = await getPodcastEpisodes("content/podcast.yml");
   const articles = getAllArticles("content/articles");
   const authors = await getAllAuthors();
+
   const countArticles = (name: string) =>
     articles.filter((article) => article.author === name).length;
+
   const authorsByArticleCount = authors
     .map((author) => ({
       ...author,
       articleCount: countArticles(author.name),
     }))
     .sort((a, b) => b.articleCount - a.articleCount);
+
+  const profilePhotoUrlFor = (name: string) =>
+    authors.find((candidate) => candidate.name === name)!.profilePhotoUrl!;
+
   return (
     <div className="flex flex-col gap-10">
       <section className="grid lg:grid-cols-3 gap-7 lg:mt-7">
@@ -33,22 +39,52 @@ const Page = async () => {
         />
         <div className="max-w-prose flex flex-col gap-2">
           <p>
-            Ohlasy jsou nezávislé regionální noviny pro Boskovice a okolí,
-            založené v roce 2015. Chceme dělat kvalitní regionální novinařinu,
-            která zlepšuje život ve městě i celém regionu.
+            Ohlasy jsou nezávislé regionální noviny pro Boskovice a okolí.
+            Chceme dělat kvalitní regionální novinařinu, která zlepšuje život ve
+            městě i celém regionu.
           </p>
           <p>
-            Noviny společně založili a vedou Tomáš Trumpeš (texty, koordinace
-            autorů) a Tomáš Znamenáček (redakce a korektury, technika,
-            fotografie, provoz).
+            Noviny v roce 2015 společně založili a vedou Tomáš Trumpeš a Tomáš
+            Znamenáček.
           </p>
           <p>
             Společně s několika desítkami pravidelných autorů i občasných
             přispěvatelů jsme od založení vydali{" "}
             <a href={RouteTo.archive}>{articles.length} článků</a>,{" "}
-            <a href={RouteTo.podcasts}>{episodes.length} dílů podcastu</a> a 
+            <a href={RouteTo.podcasts}>{episodes.length} dílů podcastu</a>, tři
+            knihy a 
             <a href={RouteTo.YouTube}>desítky videí</a>.
           </p>
+        </div>
+      </section>
+      <section>
+        <SectionHeader>Redakce</SectionHeader>
+        <div className="flex flex-row flex-wrap justify-evenly gap-7">
+          <PersonCard
+            name="Tomáš Trumpeš"
+            photoUrl={profilePhotoUrlFor("Tomáš Trumpeš")}
+            info="texty, koordinace autorů, moderování"
+          />
+          <PersonCard
+            name="Tomáš Znamenáček"
+            photoUrl={profilePhotoUrlFor("Tomáš Znamenáček")}
+            info="redakce a korektury, technika, fotografie, provoz"
+          />
+          <PersonCard
+            name="Marek Osouch"
+            photoUrl={profilePhotoUrlFor("Marek Osouch")}
+            info="zpravodajství"
+          />
+          <PersonCard
+            name="Nikol Halamásková"
+            photoUrl={profilePhotoUrlFor("Nikol Halamásková")}
+            info="sociální sítě"
+          />
+          <PersonCard
+            name="Magda Arnoštová"
+            photoUrl={profilePhotoUrlFor("Magda Arnoštová")}
+            info="vydávání knih, moderování"
+          />
         </div>
       </section>
       <section className="mb-20">
@@ -58,6 +94,28 @@ const Page = async () => {
     </div>
   );
 };
+
+const PersonCard = ({
+  name,
+  info,
+  photoUrl,
+}: {
+  name: string;
+  info: string;
+  photoUrl: string;
+}) => (
+  <div className="w-[180px] text-center">
+    <Image
+      src={photoUrl}
+      className="rounded-full mb-3 m-auto"
+      width={150}
+      height={150}
+      alt=""
+    />
+    <h3>{name}</h3>
+    <p className="text-sm">{info}</p>
+  </div>
+);
 
 const AuthorList = ({ authors }: { authors: Author[] }) => {
   const archiveUrl = (name: string) =>
