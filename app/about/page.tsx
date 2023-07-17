@@ -28,7 +28,7 @@ const Page = async () => {
 
   return (
     <div className="flex flex-col gap-10">
-      <section className="grid lg:grid-cols-3 gap-7 lg:mt-7">
+      <section className="grid lg:grid-cols-3 gap-7 lg:mt-7 bg-lightGray">
         <Image
           className="lg:col-span-2 lg:order-2"
           src="https://i.ohlasy.info/i/9b34a8e0.jpg"
@@ -37,7 +37,7 @@ const Page = async () => {
           height={2517}
           alt="Tým Ohlasů"
         />
-        <div className="max-w-prose flex flex-col gap-2">
+        <div className="max-w-prose flex flex-col gap-2 p-5">
           <p>
             Ohlasy jsou nezávislé regionální noviny pro Boskovice a okolí.
             Chceme dělat kvalitní regionální novinařinu, která zlepšuje život ve
