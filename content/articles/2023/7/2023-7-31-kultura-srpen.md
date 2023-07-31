@@ -6,7 +6,7 @@ category: podcast
 tags: kultura
 ---
 
-*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. V souhrnu srpnových kulturních událostí připomínáme další ročník festivalu drum and bassu a rapu Raveyard Festival. A právě o tomto festivalu jsme si povídali s jedním z jeho zakládajících členů Vojtou Sedlákem. Součástí podcastu jsou i pozvánky na vybrané červnové akce, které si můžete níže také přečíst.*
+*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. V souhrnu srpnových kulturních událostí připomínáme další ročník festivalu drum and bassu a rapu Raveyard Festival. A právě o tomto festivalu jsme si povídali s jedním z jeho zakládajících členů Vojtou Sedlákem. Součástí podcastu jsou i pozvánky na vybrané srpnové akce, které si můžete níže také přečíst.*
 
 {% spotify_episode id="6lgB63Sjf2phpSepGr9dAC" /%}
 
