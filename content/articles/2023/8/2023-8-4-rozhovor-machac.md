@@ -87,9 +87,9 @@ Obecně se dá říct, že v okamžiku, kdy už ti začne narůstat břicho, kdy
 
 U každého je to jinak. Někdo zůstane v inzulinové rezistenci dlouho, aniž by diabetes dostal. Není to totiž jen o jídle. Ale i o tom, jak člověk spí, jak se hýbe a jak je schopný si poradit se stresem. Když se hodně hýbeš, jíš střídmě, medituješ, modlíš se, máš mnohem menší riziko vzniku různých nemocí. Zkrátka vše, co snižuje inzulinovou rezistenci, je pro tělo správné. 
 
-**Ty jako lékař měříš svým pacientům hladinu cukru v krvi pravidelně? Jak často se to dělává?**
+**Ty jako lékař měříš svým pacientům hladinu inzulinu v krvi pravidelně? Jak často se to dělává?**
 
-Inzulin každému neberu, jen při podezření na syndrom inzulinové rezistence. Když je někdo zdravý a hubený, cukr nehlídám. Ale třeba přijde člověk, který řekne, že mu nic není, ale už má viditelně břicho. Pak inzulin vezmu a on má trojnásobnou hladinu, i když tvrdí, že břicho má třeba z piva. Často se stává, že pokud lidé zjistí, že mají ztučněná játra, vysoký cholesterol nebo přibývají na váze, dostanou radu, že nesmí jíst tuk. Vyřadí sádlo a máslo a přejdou na libové maso, což ale zvyšuje inzulin. Začnou jíst více rýži, jejíž jedna porce je v přepočtu dvanáct lžiček cukru, a brambory, tedy deset lžiček cukru na porci ve formě škrobu. Ve snaze snížit zdravotní riziko se lidé vystaví riziku většímu.
+Inzulin každému neberu, jen při podezření na syndrom inzulinové rezistence. Nebo třeba přijde člověk, který řekne, že mu nic není, ale už má viditelně břicho. Pak inzulin vezmu a on má trojnásobnou hladinu, i když tvrdí, že břicho má třeba z piva. Často se stává, že pokud lidé zjistí, že mají ztučněná játra, vysoký cholesterol nebo přibývají na váze, dostanou radu, že nesmí jíst tuk. Vyřadí sádlo a máslo a přejdou na libové maso, což ale zvyšuje inzulin. Začnou jíst více rýži, jejíž jedna porce je v přepočtu dvanáct lžiček cukru, a brambory, tedy deset lžiček cukru na porci ve formě škrobu. Ve snaze snížit zdravotní riziko se lidé vystaví riziku většímu.
 
 {% photo src="https://i.ohlasy.info/i/cfbbeeda.jpg" author="Martina Vašková" width=2480 height=1654 /%}
 
