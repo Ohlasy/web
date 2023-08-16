@@ -1,6 +1,6 @@
 ---
 title: Ludíkovská knihovna Modračka slaví 10 let
-cover-photo: https://i.ohlasy.info/i/0bb46f94.jpg
+cover-photo: https://i.ohlasy.info/i/bc790d95.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: kultura
