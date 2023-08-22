@@ -8,7 +8,7 @@ tags: nemocnice
 
 *Razantnější personální změny ve vedení boskovické nemocnice navrhl po dvou měsících ve funkci jednatel Miloslav Kavka. Městská rada jeho návrh odsouhlasila, v nemocnici tak končí náměstci Dana Baláčová a Lubomír Moráň.*
 
-{% photo src="https://i.ohlasy.info/i/98b8b40c.jpg" author="Tomáš Trumpeš" width=4608 height=3072 /%}
+{% photo src="https://i.ohlasy.info/i/98b8b40c.jpg" caption="Jednatel nemocnice Miloslav Kavka" author="Tomáš Trumpeš" width=4608 height=3072 /%}
 
 Nová organizační struktura obsahuje dva zásadní prvky. Prvním je vytvoření oddělení kvality a bezpečnosti, které se má podílet na vytváření vize a strategických priorit organizace. Zaměřit se má zejména na oblast zajištění kvality poskytovaných služeb, na systém řízení bezpečnosti informací, realizaci marketingových aktivit nemocničních týmů a služeb, získávání nových klientů-pacientů a posilování pozice nemocnice na trhu.
 
