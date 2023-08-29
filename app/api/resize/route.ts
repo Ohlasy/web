@@ -2,8 +2,8 @@ import { IMAGE_SIGNING_KEY, shasum } from "src/utils";
 import sharp from "sharp";
 
 const maxInputFileSize = 30_000_000;
-const maxInputPixelSize = 7_000;
-const maxOutputPixelSize = 7_000;
+const maxInputPixelSize = 12_000;
+const maxOutputPixelSize = 12_000;
 
 /*
  * Image resizing service using https://sharp.pixelplumbing.com/
