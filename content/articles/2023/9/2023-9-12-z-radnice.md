@@ -65,7 +65,7 @@ Do zastupitelstva míří také dotační program pro Sport a tělovýchovné ak
 
 ### Trafostanice
 
-Na výzdobu další trafostanice se podle místostarosty Lukáše Holíka sešlo devět návrhů, ze kterých bude vybírat komise.
+Na výzdobu další trafostanice se podle místostarosty Lukáše Holíka sešlo devět návrhů. Ten vítězný má vzejít z [hlasování v anketě](https://1url.cz/OuHxb).
 
 ### Knihovna
 
