@@ -37,6 +37,8 @@ Možnost získání dotace se otevírá také pro komplexní obnovu parku u zám
 
 Obnova parku má očistit park od zchátralých stavebních prvků a nekoncepčních či přestárlých výsadeb. „Záměrem je reagovat na soudobé potřeby užívání městského parku, při tom zásadně neměnit jeho charakter. V rámci obnovy budou řešeny mlatové pochozí plochy i dlážděné plochy kolem budovy, které budou sloužit jako zahrádka restaurace s hudebním altánem, dále plochy pro děti a juniory, plocha kde bude umístěn venkovní gril s posezením. Obnova řeší i vodní prvky jako přírodní jezírko, pítko na pitnou vodu, mobiliář jako lavičky a lehací plochy, odpadkové koše na tříděný odpad, stojany na kola, plochy pro informování návštěvníků, oplocení a podobně,“ popisuje město projekt podrobněji.
 
+Více vizualizací aktuálního návrhu parku si můžete prohlédnout [na našem diskuzním fóru](https://forum.ohlasy.info/t/obnova-parku-u-skleniku/519).
+
 ### Projekt na TIC
 
 Možnou dotaci hledá město také na rekonstrukci infocentra, původně zvažovaná dotace na cestovní ruch nakonec nebyla možná. Nyní se otevírá možnost využít přeshraniční spolupráci se Slovenskem, a to společně s vytvořením nové naučné stezky Pod Oborou. Projekt vzniká ve spolupráci se slovenskými Čachticemi a zahrnuje pořízení nového nábytku, rekonstrukci toalet, pořízení turniketů pro vstup na toaletu a drobné stavební úpravy spočívající v propojení galerie Otakara Kubína s infocentrem, pořízení kamerového systému a nové osvětlení.
