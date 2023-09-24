@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Na boskovickém gymnáziu došlo v úterý k tragické události. Naše noviny Ohlasy dění na Boskovicku se rozhodly respektovat výzvu ke zdrženlivosti v informování o této velmi citlivé záležitosti, kde jde o zdraví dítěte. Nevylučujeme, že v budoucnu se budeme celou věcí v širším kontextu zabývat, nyní publikujeme pouze vyjádření ředitelky gymnázia a krajského radního pro vzdělávání.*
+*Na boskovickém gymnáziu došlo v úterý k tragické události, kdy jeden z žáků z dosud neznámých důvodů vyskočil z okna na konci vyučovací hodiny. Naše noviny Ohlasy dění na Boskovicku se rozhodly respektovat výzvu ke zdrženlivosti v informování o této velmi citlivé záležitosti, kde jde o zdraví dítěte. Nevylučujeme, že v budoucnu se budeme celou věcí v širším kontextu zabývat, nyní publikujeme pouze vyjádření ředitelky gymnázia a krajského radního pro vzdělávání.*
 
 {% photo src="https://i.ohlasy.info/i/9d01032c.jpg" author="Tomáš Znamenáček" width=3194 height=2132 /%}
 
@@ -19,7 +19,7 @@ Děkuji také všem, kteří nabídli pomocnou ruku a vyjádřili podporu. Váž
 
 Nyní jsou naše myšlenky s rodinou.
 
-_Alena Svanovská, ředitelka Gymnázia, Boskovice_
+_Alena Svanovská, ředitelka gymnázia Boskovice_
 
 
 Velmi nás zasáhla tragická událost, která se stala včera v Boskovicích. Ze srdce doufám, že se chlapci podaří ze zranění uzdravit. Prosíme novináře, aby vytvořili prostor rodičům chlapce, spolužákům i učitelskému sboru vypořádat se s mimořádně traumatickým zážitkem. Nyní není vhodné vynášet jakékoli soudy, které jsou bez zjištění zejména ze strany Policie ČR nepodložené. V současné chvíli již nebudeme věc komentovat, a to s ohledem na rodinu a citlivý věk studenta.
