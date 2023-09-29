@@ -14,7 +14,7 @@ V úvodním bodu dotazů a připomínek občanů vystoupil Martin Staněk, člen
 
 První větší diskuze proběhla nad zprávou o činnosti nového mediálního výboru. Předseda výboru Jan Flíček (Změna22) informoval, že byl vybrán dodavatel na redesign městského zpravodaje. Opozičního zastupitele Michala Knödla zajímala podrobnější čísla k nákladům na tisk zpravodaje v dosavadní modelu a po aktuální změně, kdy ho bude tisknout jiná firma a město samo bude dělat sazbu. Místostarosta Radek Šamšula (Piráti) slíbil odpovědět písemně, přesná číslo nemělo vedení města k dispozici. Michalu Knödlovi se nelíbilo, že město vypovědělo dlouhodobou a z jeho pohledu dobrou spolupráci s místní firmou Artron – místostarosta reagoval, že spolupráci ukončila firma Artron a do nového výběrového řízení se přes výzvu nepřihlásila. Jaroslav Dohnálek (SPOLU) kritizoval, že materiál je špatně postaven, protože nezohlednil navýšení nákladů na mzdy nové tiskové mluvčí a informuje pouze o úsporách. Dal proto protinávrh, aby byl materiál stažen. Ten neprošel a koalice materiál schválila.
 
-Starostka představitelům novou vedoucí odboru vnitřních věcí Evu Havlovou, která přeprava funkci po Ivě Močičkové.
+Starostka představila novou vedoucí odboru vnitřních věcí Evu Havlovou, která přebírá funkci po Ivě Močičkové.
 
 ### Dotace
 
