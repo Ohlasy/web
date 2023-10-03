@@ -1,12 +1,12 @@
 ---
 title: Kulturní výběr na září s Tomášem Marvanem
 cover-photo: https://i.ohlasy.info/i/0a7570c1.jpg
-author: Magda Arnoštová
+author: Magda Znamenáčková
 category: podcast
 tags: kultura
 ---
 
-*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. V souhrnu zářijových kulturních událostí připomínáme také filmový klub. A právě k tématu filmového klubu, nového malého sálu a návštěvnosti boskovických kin jsme si pozvali vedoucího kina Tomáše Marvana. Součástí podcastu jsou i pozvánky na vybrané zářijové akce, které si můžete níže také přečíst.*
+_V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. V souhrnu zářijových kulturních událostí připomínáme také filmový klub. A právě k tématu filmového klubu, nového malého sálu a návštěvnosti boskovických kin jsme si pozvali vedoucího kina Tomáše Marvana. Součástí podcastu jsou i pozvánky na vybrané zářijové akce, které si můžete níže také přečíst._
 
 {% spotify_episode id="165tjFDWmeLlJUXTFMhAwN" /%}
 
@@ -16,15 +16,15 @@ Muzeum pořádá v pátek 1. září od 18 hodin v synagoze koncert skladatele a
 
 ### Vatra Fest
 
-První zářijovou sobotu se můžete nechat unést kouzlem zálesáctví. Boskovický oddíl Vatra totiž jak pro své členy, tak pro širokou veřejnost pořádá jednodenní festival Vatrafest. Kromě koncertu, výstavy a divadla se bude číst z vatrácké kroniky, promítat skautské filmy nebo hrát u ohně na kytaru. 
+První zářijovou sobotu se můžete nechat unést kouzlem zálesáctví. Boskovický oddíl Vatra totiž jak pro své členy, tak pro širokou veřejnost pořádá jednodenní festival Vatrafest. Kromě koncertu, výstavy a divadla se bude číst z vatrácké kroniky, promítat skautské filmy nebo hrát u ohně na kytaru.
 
 ### Roman Ženatý: Odvrácená strana mojí hlavy
 
-V pátek 8. září v 19 hodin v Prostoru začne vernisáž umělce Romana Ženatého. Rodák z Karviné žijící v Brně tvoří obrazy kombinující malbu, psané slovo, koláž, modelářství a další artefakty. Výstava bude na zdech Prostoru zavěšena do půlky října. 
+V pátek 8. září v 19 hodin v Prostoru začne vernisáž umělce Romana Ženatého. Rodák z Karviné žijící v Brně tvoří obrazy kombinující malbu, psané slovo, koláž, modelářství a další artefakty. Výstava bude na zdech Prostoru zavěšena do půlky října.
 
 ### Archeologická procházka v okolí Hradiska u Velkých Opatovic
 
-S archeoložkou a kurátorkou Zuzanou Jarůškovou z boskovického muzea se můžete vydat na další procházku boskovickou krajinou s neformálním povídáním o archeologických nálezech. Poutavými body budou Borotínské čihadlo, skála, které se říká Rýbrcoulovo či Krakonošovo srdce, prastaré opevnění Opatovického hradiska a nedaleké skalní reliéfy.  Procházka začne v sobotu 9. září ve 13 hodin a sraz bude v Borotíně na návsi. 
+S archeoložkou a kurátorkou Zuzanou Jarůškovou z boskovického muzea se můžete vydat na další procházku boskovickou krajinou s neformálním povídáním o archeologických nálezech. Poutavými body budou Borotínské čihadlo, skála, které se říká Rýbrcoulovo či Krakonošovo srdce, prastaré opevnění Opatovického hradiska a nedaleké skalní reliéfy.  Procházka začne v sobotu 9. září ve 13 hodin a sraz bude v Borotíně na návsi.
 
 ### Recitál písničkáře Karla Plíhala
 
@@ -60,7 +60,7 @@ V Prostoru pokračuje 23. září od 20 hodin cyklus Amplitudy, který se věnuj
 
 ### Husí slavnosti 2023
 
-Husí slavnosti asi nemusíme blíže připomínat. Letos se kromě hostiny pod vedením šéfkuchaře Jana Horáka můžete těšit třeba na Michala Hrůzu, Wohnouty, rappera Raega a další, nebude chybět ani dětský program a trhy s řemeslnými výrobky. Slavnosti budou probíhat o víkendu 23. a 24. září. 
+Husí slavnosti asi nemusíme blíže připomínat. Letos se kromě hostiny pod vedením šéfkuchaře Jana Horáka můžete těšit třeba na Michala Hrůzu, Wohnouty, rappera Raega a další, nebude chybět ani dětský program a trhy s řemeslnými výrobky. Slavnosti budou probíhat o víkendu 23. a 24. září.
 
 ### ArchiTalk #03
 

@@ -1,7 +1,7 @@
 ---
 title: Kulturní výběr na duben s Tomášem Liznou
 cover-photo: https://i.ohlasy.info/i/3e9a3baf.jpg
-author: Magda Arnoštová
+author: Magda Znamenáčková
 category: podcast
 tags: kultura
 ---

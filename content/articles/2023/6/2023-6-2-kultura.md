@@ -1,7 +1,7 @@
 ---
 title: Kulturní výběr na červen s Gabrielou Sauer Kolčavovou
 cover-photo: https://i.ohlasy.info/i/06c14279.jpg
-author: Magda Arnoštová
+author: Magda Znamenáčková
 category: podcast
 tags: kultura
 ---

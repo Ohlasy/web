@@ -1,7 +1,7 @@
 ---
 title: Kulturní výběr na červenec o festivalu Boskovice 2023
 cover-photo: https://i.imgur.com/r897OZb.jpg
-author: Magda Arnoštová
+author: Magda Znamenáčková
 category: podcast
 tags: kultura
 ---
