@@ -82,8 +82,8 @@ const Page = async () => {
             info="sociální sítě"
           />
           <PersonCard
-            name="Magda Arnoštová"
-            photoUrl={profilePhotoUrlFor("Magda Arnoštová")}
+            name="Magda Znamenáčková"
+            photoUrl={profilePhotoUrlFor("Magda Znamenáčková")}
             info="vydávání knih, moderování"
           />
         </div>
