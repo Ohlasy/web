@@ -22,8 +22,8 @@ jobs:
         with:
           node-version: 18
       - name: Install dependencies
-        run: yarn
+        run: npm ci
       - name: Install Playwright Browsers
-        run: yarn playwright install webkit --with-deps
+        run: npm run playwright install webkit --with-deps
       - name: Run Playwright tests
-        run: yarn playwright test
+        run: npm run playwright test
