@@ -15,13 +15,13 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@markdoc/markdoc": "^0.3.2",
+    "@markdoc/markdoc": "^0.3.3",
     "@notionhq/client": "^2.2.13",
     "@slack/web-api": "^6.9.0",
     "eslint": "^8.51.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
-    "next": "^13.5.3",
+    "next": "^13.5.4",
     "plausible-tracker": "^0.3.8",
     "react": "18.x",
     "react-dom": "18.x",
@@ -31,7 +31,7 @@
     "xmlbuilder2": "^3.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.38.1",
+    "@playwright/test": "^1.39.0",
     "@types/jest": "^29.5.5",
     "@types/js-yaml": "^4.0.7",
     "@types/react": "18.x",
