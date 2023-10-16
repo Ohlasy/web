@@ -65,26 +65,31 @@ const Page = async () => {
             name="Tomáš Trumpeš"
             photoUrl={profilePhotoUrlFor("Tomáš Trumpeš")}
             info="texty, koordinace autorů, moderování"
+            mail="tomas.trumpes@ohlasy.info"
           />
           <PersonCard
             name="Tomáš Znamenáček"
             photoUrl={profilePhotoUrlFor("Tomáš Znamenáček")}
             info="redakce a korektury, technika, fotografie, provoz"
+            mail="tomas.znamenacek@ohlasy.info"
           />
           <PersonCard
             name="Marek Osouch"
             photoUrl={profilePhotoUrlFor("Marek Osouch")}
+            mail="osouch.marek@gmail.com"
             info="zpravodajství"
-          />
-          <PersonCard
-            name="Nikol Halamásková"
-            photoUrl={profilePhotoUrlFor("Nikol Halamásková")}
-            info="sociální sítě"
           />
           <PersonCard
             name="Magda Znamenáčková"
             photoUrl={profilePhotoUrlFor("Magda Znamenáčková")}
             info="vydávání knih, moderování"
+            mail="magda@ohlasy.info"
+          />
+          <PersonCard
+            name="Nikol Halamásková"
+            photoUrl={profilePhotoUrlFor("Nikol Halamásková")}
+            mail="nikihalami@email.cz"
+            info="sociální sítě"
           />
         </div>
       </section>
@@ -100,10 +105,12 @@ const PersonCard = ({
   name,
   info,
   photoUrl,
+  mail,
 }: {
   name: string;
   info: string;
   photoUrl: string;
+  mail: string;
 }) => (
   <div className="w-[180px] text-center">
     <Image
@@ -114,6 +121,9 @@ const PersonCard = ({
       alt=""
     />
     <h3>{name}</h3>
+    <p className="text-sm mb-1">
+      <a href={`mailto:${mail}`}>{mail}</a>
+    </p>
     <p className="text-sm">{info}</p>
   </div>
 );
