@@ -76,7 +76,7 @@ const Page = async () => {
           <PersonCard
             name="Marek Osouch"
             photoUrl={profilePhotoUrlFor("Marek Osouch")}
-            mail="osouch.marek@gmail.com"
+            mail="marek@ohlasy.info"
             info="zpravodajství"
           />
           <PersonCard
@@ -88,7 +88,7 @@ const Page = async () => {
           <PersonCard
             name="Nikol Halamásková"
             photoUrl={profilePhotoUrlFor("Nikol Halamásková")}
-            mail="nikihalami@email.cz"
+            mail="nikol@ohlasy.info"
             info="sociální sítě"
           />
         </div>
