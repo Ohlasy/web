@@ -5,7 +5,6 @@ import {
   boolean,
   field,
   literal,
-  number,
   record,
   string,
 } from "typescript-json-decoder";
@@ -25,11 +24,6 @@ const decodeUrlProperty = record({
 const decodeCheckboxProperty = record({
   type: literal("checkbox"),
   value: field("checkbox", boolean),
-});
-
-const decodeNumberProperty = record({
-  type: literal("number"),
-  value: field("number", number),
 });
 
 const decodeRichTextProperty = record({
