@@ -1,4 +1,5 @@
 import { Client } from "@notionhq/client";
+import { shuffled } from "src/utils";
 import {
   array,
   boolean,
@@ -14,7 +15,6 @@ export interface Banner {
   image: string;
   alt: string;
   url: string;
-  priority: number;
 }
 
 const decodeUrlProperty = record({
@@ -69,7 +69,6 @@ const decodeQueryResponse = record({
           url: field("Odkaz", decodeUrlProperty),
           published: field("Zveřejnit", decodeCheckboxProperty),
           imageUrl: field("Obrázek", decodeUrlProperty),
-          priority: field("Priorita", decodeNumberProperty),
           alt: field("Náhradní text", decodeRichTextProperty),
           name: field("Název", decodeTitleProperty),
         })
@@ -78,25 +77,22 @@ const decodeQueryResponse = record({
   ),
 });
 
-// TBD: Skip invalid, sort by priority
 export async function getAllBanners(
   apiKey: string = process.env.NOTION_API_KEY ?? ""
 ): Promise<Banner[]> {
   const notion = new Client({ auth: apiKey });
   const database_id = "50c3e92b4f7d44ee9cc5a139d81b07b5";
-  return await notion.databases
+  const rows = await notion.databases
     .query({ database_id })
     .then(decodeQueryResponse)
     .then((response) =>
       response.results.filter((ad) => ad.props.published.value)
-    )
-    .then((results) =>
-      results.map(({ props }) => ({
-        name: props.name.value[0].plainText,
-        image: props.imageUrl.value,
-        alt: props.alt.value[0].plainText,
-        url: props.url.value,
-        priority: props.priority.value,
-      }))
     );
+  const banners = rows.map(({ props }) => ({
+    name: props.name.value[0].plainText,
+    image: props.imageUrl.value,
+    alt: props.alt.value[0].plainText,
+    url: props.url.value,
+  }));
+  return shuffled(banners);
 }
