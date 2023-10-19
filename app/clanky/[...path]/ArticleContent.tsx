@@ -1,6 +1,6 @@
 import React from "react";
 import Markdoc from "@markdoc/markdoc";
-import { getImageSrcSet, IMAGE_SIGNING_KEY } from "src/utils";
+import { getImageSrcSet, IMAGE_SIGNING_KEY, tilde } from "src/utils";
 import { defaultMarkdocConfig } from "src/markdoc-schema";
 import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
@@ -15,6 +15,14 @@ export type ArticleBodyProps = {
 
 export const ArticleContent = ({ src }: ArticleBodyProps) => {
   const syntaxTree = Markdoc.parse(src);
+
+  // Tie single-letter prepositions
+  for (const node of syntaxTree.walk()) {
+    if (node.type === "text") {
+      node.attributes.content = tilde(node.attributes.content);
+    }
+  }
+
   const content = Markdoc.transform(syntaxTree, defaultMarkdocConfig);
   const node = Markdoc.renderers.react(content, React, {
     components: {
