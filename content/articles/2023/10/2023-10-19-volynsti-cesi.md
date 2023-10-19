@@ -22,7 +22,7 @@ Příspěvek českých migrantů k rozvoji Volyně v následujících desetile
 
 Po válce dochází na základě dohody mezi Československem a Sovětským svazem k částečnému návratu volyňských Čechů (hlavně vojáků a jejich rodin) do vlasti. Zpět jich přichází víc jak 30 tisíc a zabydlují se hlavně v prázdných oblastech po násilně vysídlených sudetských Němcích. Jako příklad může posloužit obec Frankštát u Šumperka, přejmenovaná po vylidnění a následném příchodu volyňských Čechů roku 1947 na [Nový Malín](https://en.mapy.cz/s/fekokolubo); dnes je zde pomník připomínající tragédii v Českém Malíně na Ukrajině.
 
-{% photo src="https://i.ohlasy.info/i/4b3b9419.jpg" caption=" Památník českým rodinám z vesnice Český Malín na ukrajinské Volyni, kteří byli zavražděni nacisty v roce 1943" author="Dajda4603, Wikimedia Commons" width=3204 height=2136 /%}
+{% photo src="https://i.ohlasy.info/i/4b3b9419.jpg" caption="Pomník v Novém Malíně" author="Dajda4603, Wikimedia Commons" width=3204 height=2136 /%}
 
 Na Volyni zůstávají hlavně Češi, kteří žijí ve smíšeném česko-ukrajinském manželství. Na začátku 90. let se i v důsledku opožděného zveřejnění faktu silnějších následků černobylské katastrofy, než bylo dosud známo, vrací zpět dalších asi 10 tisíc lidí. Zájem vrátit se do Česka ještě vzrůstá po začátku rusko-ukrajinské války v roce 2014. Žádosti volyňských Čechů o návrat tehdy aktivně podporuje i český prezident. Český živel na Volyni nyní stále více slábne.
 
