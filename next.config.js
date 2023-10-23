@@ -69,13 +69,7 @@ const nextConfig = {
         source: "/darujme/",
         destination: "https://www.darujme.cz/projekt/1202392",
         permanent: false,
-      },
-      {
-        // This is a temporary measure after moving to Next, safe to delete later
-        source: "/assets/favicon.png",
-        destination: "/favicon.png",
-        permanent: true,
-      },
+      }
     ];
   },
 };
