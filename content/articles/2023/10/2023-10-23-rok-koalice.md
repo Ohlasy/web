@@ -6,7 +6,7 @@ category: zpravodajství
 tags: politika
 ---
 
-*V pátek 20. října uplyne rok od chvíle, kdy byla do funkcí zvolena nová boskovická koalice Změny22, Našich Boskovic a Pirátů. Na 9. listopadu chystá radnice setkání s veřejností, kde chce první rok vlády probrat. Pro Ohlasy první rok hodnotili koaliční lídři, připravujeme i pohled opozice ze SPOLU, Sociální demokracie a SPD + Trikolory.*
+*V pátek 20. října uplynul rok od chvíle, kdy byla do funkcí zvolena nová boskovická koalice Změny22, Našich Boskovic a Pirátů. Na 9. listopadu chystá radnice setkání s veřejností, kde chce první rok vlády probrat. Pro Ohlasy první rok hodnotili koaliční lídři, připravujeme i pohled opozice ze SPOLU, Sociální demokracie a SPD + Trikolory.*
 
 {% photo src="https://i.ohlasy.info/i/4833321c.jpg" caption="Vedení města, zleva místostarosta Radek Šamšula, místostarosta Lukáš Holík a starostka Jana Syrovátková" author="Tomáš Znamenáček" width=5690 height=3794 /%}
 
