@@ -6,7 +6,7 @@ category: zpravodajství
 tags: politika
 ---
 
-*V pátek 20. října uplynul rok od chvíle, kdy byla do funkcí zvolena nová boskovická koalice Změny22, Našich Boskovic a Pirátů. Na 9. listopadu chystá radnice setkání s veřejností, kde chce první rok vlády probrat. Pro Ohlasy první rok hodnotili koaliční lídři, připravujeme i pohled opozice ze SPOLU, Sociální demokracie a SPD + Trikolory.*
+*V pátek 20. října uplynul rok od chvíle, kdy byla do funkcí zvolena nová boskovická koalice Změny22, Našich Boskovic a Pirátů. Na 9. listopadu chystá radnice setkání s veřejností, kde chce první rok vlády probrat. Pro Ohlasy první rok hodnotili koaliční lídři; pohled opozice ze SPOLU, Sociální demokracie a SPD + Trikolory [najdete v samostatném textu](https://ohlasy.info/clanky/2023/10/rok-opozice.html).*
 
 {% photo src="https://i.ohlasy.info/i/4833321c.jpg" caption="Vedení města, zleva místostarosta Radek Šamšula, místostarosta Lukáš Holík a starostka Jana Syrovátková" author="Tomáš Znamenáček" width=5690 height=3794 /%}
 
@@ -37,5 +37,3 @@ Z konkrétních věcí, kterými se zabývá, má pirátský místostarosta velk
 ### Bez emocí
 
 K prvním roku nové koalice se vyjádřil také čtvrtý, nepolitický člen vedení města – [tajemník David Škvařil](https://ohlasy.info/clanky/2022/11/rozhovor-skvaril.html). „Musím říct, že jsem s tou spoluprací velmi spokojen. Jak bylo řečeno, atmosféra na úřadě je velmi dobrá, aspoň to tak vnímám. Porady ve vedení města jsou velmi konstruktivní, bez emocí, věcné. Hodnotím ten rok velmi dobře,“ uvedl tajemník s tím, že úřad se opravdu maximálně snaží být pro vedení města oporou.
-
-*Zajímá vás, jak vidí první rok fungování nového vedení města boskovická opozice? Pohled z její kritické perspektivy jsme zpracovali samostatně a vydáme ho zítra.*
