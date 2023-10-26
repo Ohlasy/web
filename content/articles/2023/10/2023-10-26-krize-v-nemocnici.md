@@ -1,0 +1,51 @@
+---
+title: Situace v nemocnici je kritická, jednatel říká, že potřebují přežít do dubna
+cover-photo: https://i.ohlasy.info/i/f4f6e2bb.jpg
+author: Tomáš Trumpeš
+category: zpravodajství
+tags: nemocnice
+---
+
+*Stejně jako v celé republice se i v Boskovicích řeší požadavky lékařů na snížení přesčasů, kromě toho se hledá nový primář dětského oddělení a pokračuje také komunikace s krajem ohledně možného převzetí nemocnice. Situace v boskovické nemocnici je celkově velmi vážná, starostka ji dokonce označuje za „šílenou“. Opoziční uskupení SPOLU požaduje svolání mimořádného zastupitelstva.*
+
+{% photo src="https://i.ohlasy.info/i/f4f6e2bb.jpg" caption="Ilustrační foto z provozu boskovické nemocnice" author="Tomáš Znamenáček" width=4896 height=3264 /%}
+
+Jako možná nejméně krizový moment se ve světle ostatních obtíží jeví aktuální omezení operací kvůli stavebním pracím. V nemocnici běží investice do nových rozvodů medicinálních plynů, a proto musela být omezena plánovaná operativa. Stav potrvá až do poloviny prosince, operační sály zatím budou fungovat na střídačku pouze pro akutní případy.
+
+Kritičtější je situace na dětském oddělení, které stále nemá nového primáře či primářku. „Řešíme to, probíhají jednání. Sami víte, jak to vypadá v republice s dostupností lékařů. Volní lékaři v systému nejsou,“ uvedl na tiskové konferenci města jednatel nemocnice Miloslav Kavka. Aktuálně je řízením oddělení pověřená bývalá primářka, která už ve funkci nechce pokračovat. Dohoda o dočasném řízení platí do konce listopadu. „Nejsem schopný vám teď říct, jak to bude pokračovat. Máme před sebou ještě několik jednání s potenciálními primáři. Pořád věřím, že toho primáře budeme mít, máme ještě měsíc,“ odpověděl jednatel na otázku, jak bude oddělení fungovat od prosince. Další podobnou situaci s konkrétní výpovědí na jiném oddělení aktuálně podle jednatele nemocnice řešit nemusí. Podle starostky Jany Syrovátkové (Změna22) trvá problém na dětském oddělení už tři roky, ale předchozí vedení nemocnice ho neřešilo.
+
+Opravdovou krizi však představuje pro nemocnici hlavně celorepubliková akce[  Lékaři jsou jenom lidi](https://lekarijsoujenomlidi.com/), v rámci které lékaři požadují snížení počtu přesčasů a nastavení dlouhodobě udržitelných pracovních podmínek.
+
+Také v Boskovicích probíhají jednání a vedení města se snaží požadavky lékařů řešit. Lékaři se podle jednatele semkli do jednoho šiku a většina z nich chce vypovědět dohody, v rámci kterých slouží nad rámec svého běžného pracovního úvazku. V Boskovicích se k akci připojuje okolo 95 procent lékařů, takže skoro všichni. Situaci vyvolala změna v legislativě, která podmínky dohod upravila a zvýšila objem přesčasové práce pro zdravotníky. Lékaři navíc upozorňují, že celý systém mnohdy funguje jen díky systematickému a vědomému porušování zákoníku práce. „My teď hledáme řešení, jak se s lékaři dohodnout, aby nemocnice mohla fungovat ve standardním režimu akutní péče 24 hodin denně, sedm dní v týdnu,“ uvedl Miloslav Kavka. 
+
+Do řešení situace aktivně vstupuje i starostka Jana Syrovátková, jakožto zástupkyně města, které nemocnici vlastní. Ta kromě toho komunikuje i s dalšími vlastníky nemocnic. Současná akce lékařů podle ní představuje opravdovou revoluci ve zdravotnictví, která může mít mnohem větší dopady než všechny předchozí akce a požadavky lékařů. „V tuto chvíli nejde o peníze, jako tomu bylo obvykle doposud, ale jde o čas,“ vysvětluje starostka s poukazem na to, že lékařům jde především o to, aby už v nemocnicích nemuseli trávit tolik času na úkor svého osobního života. 
+
+V České republice je obecně poměrně vysoký počet nemocnic, lékařů i lůžek na počet obyvatel. Nyní jde podle starostky o to, jestli tato síť zůstane zachována, nebo zkrátka některé nemocnice skončí, lékaři se přeskupí a péče bude pro pacienty méně dostupná a pohodlná. „V západních i okolních státech dokáže obyvatele obsoužit menší počet lékařů a menší počet lůžek, ale za cenu toho, že přicházejí o komfort a dostupnost péče. Na urgentní příjmu čekáte desítky hodin a podobně,“ uvedla starostka.
+
+Pokud by se vyhovělo požadavkům lékařů, celý systém by byl podle ní asi o třicet procent dražší a zároveň by bylo potřeba mnohem více lékařů. Pro boskovickou nemocnici by nárůst znamenal v platové sféře asi 100 milionů korun, ale výkonnost by přitom výrazně klesla.
+
+Lékaři podle starostky chtějí pracovat 40 hodin týdně za trojnásobek běžného platu, a pokud budou na svém požadavku trvat, začnou nemocnice krachovat. „Bez nějaké náběhové křivky je ten systém neufinancovatelný a neudržitelný. V republice skončí třicet nebo padesát nemocnic. Na Západě je vidět, že systém se s tím dokáže popasovat, na úkor pacientů. Vyhrají ti, kdo budou mít uvědomělé lékaře,“ říká boskovická starostka. 
+
+Se zástupci lékařského odborového klubu jednala i městská rada, která je valnou hromadou společnosti Nemocnice Boskovice. Podle starostky jsou lékaři ultimátní a autoritativní a Česká republika přijde o jedno z nejlepších zdravotnictví ve světě. 
+
+Starostka se domnívá, že na situaci nakonec doplatí i sami lékaři, kteří budou muset měnit zaměstnání, dojíždět za prací a přijdou i o rovnováhu osobního a pracovního života, o kterou usilují. Celkově se zvýší konkurenceschopnost, nároky i finanční ohodnocení. „Myslím, že toto si lékaři neuvědomují,“ dodává Jana Syrovátková. I na straně lékařů podle ní vyhrají ti, kdo se nakonec ke stávce nepřidají, ale podrží vlastní nemocnici. Když taková nemocnice krizi přežije, bude nakonec těžit z toho, že okolní nemocnice popadají.
+
+Místostarosta Lukáš Holík (Naše Boskovice) poukazuje na to, že se jedná o dlouhodobě neřešený problém českého zdravotnictví, kterému chybí komplexní reforma. Navíc dnes začínají být podmínky pro lékaře u nás horší nejenom ve srovnání se Západem, ale i kupříkladu se Slovenskem, kam se vracejí i slovenští absolventi českých lékařských fakult. Na rozdíl od minulosti už se jim nevyplatí zde zůstat. Pokud podle Lukáše Holíka nedojde k řešení na celostátní úrovni v řádu týdnů, systém se opravdu zhroutí.
+
+Jednatel Miloslav Kavka upřesnil, že nyní se čeká na datum 15. listopadu, kdy chtějí lékaři výpovědi dohod podat. Celorepublikově se ukáže, kolik lékařů se připojí. „Určitě to nebude sto procent, protože jsou stále lékaři, kteří své povolání vnímají jako poslání, chtějí sloužit lidem a není to pro ně o penězích,“ vyjádřil se také jednatel nemocnici kriticky k postupu lékařů. Celkově ale očekává, že číslo bude vysoké.
+
+Stát se podle jednatele Miloslava Kavky k celé situaci staví tak, že ji nebude řešit a nechá to na jednotlivých nemocnicích. „To je úplně mimo,“ říká k tomu místostarosta Lukáš Holík. Ministr Vlastimil Válek (TOP 09) podle něj celou situaci vyvolal a teď od ní dává ruce pryč. Starostka Jana Syrovátková dodává, že celá situace také může být chtěná a je zde záměr nechat některé nemocnice padnout.
+
+Situaci chce starostka řešit i na nějaké formě veřejného setkání, aby měli občané o dění v nemocnici přehled. Do toho vstoupili opoziční zastupitelé za koalici SPOLU, kteří požadují svolání mimořádného zastupitelstva. „Vzhledem k tomu, že dění v Nemocnici Boskovice s.r.o. a především situace v personální oblasti je mírně řečeno hodně turbulentní, žádáme vás o poskytnutí ověřených informací, jak všem zastupitelům, tak veřejnosti,“ napsali zastupitelé za SPOLU starostce s tím, že žádají o svolání mimořádného zastupitelstva města, které se bude věnovat jen a pouze stávajícímu dění a situaci v nemocnici. „Svolání tohoto zastupitelstva žádáme co nejdříve. Jako reálný termín navrhujeme první polovinu listopadu. Pokud této žádosti nevyhovíte, uděláme vše pro to, aby bylo toto zastupitelstvo svoláno jiným způsobem, jak to umožňuje zákon o obcích,“ uzavřeli svou výzvu zastupitelé Michaela Žejšková, Jaroslav Dohnálek, Michal Knödl, Dagmar Hamalová, Miroslav Klíma a Radek Stříž. Podle informací Ohlasů chce starostka žádosti vyhovět a zastupitelstvo v listopadu svolat.
+
+K jednání s Jihomoravským krajem starostka uvedla, že obdržela dopis od krajského radního pro zdravotnictví Karla Podzimka (ODS), který město žádá o stanovisko k převodu nemocnice pod kraj. Odpověď město plánuje zveřejnit. „Můj mandát od zastupitelstva jednat s krajem o převodu trvá, v tomto duchu odpovídáme. S tím, že bychom rádi znali představu Jihomoravského kraje o případném převodu. My o něj zájem samozřejmě máme, ale čekáme i na to, jakým způsobem se k tomu kraj postaví a budeme ho vyzývat k odpovědi,“ popisuje starostka, která odmítá, že by na jednáních s krajem uvedla, že se za jejího mandátu jednání o převodu neposunou. 
+
+Jana Syrovátková v kampani před komunálními volbami říkala, že nemocnice by měla zůstat v rukou města, která je schopné ji efektivně provozovat. Dnes vysvětluje, že bohužel nevěděla, že dojde k takové celorepublikové akci lékařů a že nemocnici „můžou potopit vlastní lidi“. 
+
+„Chtěla jsem nemocnici držet v městských rukou, protože jsem si myslela, že pokud ji tady chceme, dokážeme ji dobře vést. A myslím si to pořád,“ říká starostka s tím, že bojovat dokáže ale jen na jednu stranu a nemůže uspět, pokud se za nemocnici nepostaví vlastní personál a připojí se ke stávce. „My jako rada města uděláme všechno pro to, aby lékařská péče pro naše občany zůstala zachována. Jednáme s Jihomoravským krajem, měla jsem schůzku s ředitelem Fakultní Nemocnice Brno, který nám přislíbil spolupráci. Připravujeme memorandum. Hledáme všechna různá řešení, jakékoliv cesty, jak zachovat péči v maximálním možném rozsahu,“ dodala Jana Syrovátková.
+
+Na otázku, jestli už nyní nemocnice uvažuje nad tím, jestli by mohla provozovat jen některé typy lékařských služeb, ale ne komplexní péči, starostka odpověděla: „Vzhledem k tomu, v jak šílené situaci se nacházíme, modelujeme všechny varianty.“
+
+Jednatel Miloslav Kavka říká, že pokud by nemocnice krizi přežila a jiné nemocnice ne, mohla by pak naopak zvýšit svou výkonnost. „Ale musíme přežít alespoň do dubna,“ říká. A starostka dodává, že přežije pouze taková nemocnice, za kterou se postaví její tým. „Pokud budou lékaři zmanipulovaní a budou si trvat na svém, sami si podříznou větev,“ domnívá se rovněž jednatel Miloslav Kavka.
+
+*Ohlasy plánují dát samostatný prostor také zástupcům lékařů a zprostředkovat i jejich pohled na situaci.*
