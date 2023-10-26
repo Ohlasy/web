@@ -1,6 +1,6 @@
 ---
 title: Postřehy ze semináře – debata o rozdělení škol pokračuje
-cover-photo: https://i.ohlasy.info/i/d825c85d.jpg
+cover-photo: https://i.ohlasy.info/i/63f5b500.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: školství
@@ -8,7 +8,7 @@ tags: školství
 
 *Boskovičtí zastupitelé a zástupci základní školy se sešli v pondělí navečer na radnici k semináři, na kterém jim odborník na vzdělávání Lukáš Kohoutek prezentoval svou analýzu rozdělení či zachování boskovické základní školy. K takřka čtyřhodinové diskuzi byla přizvána i média. Prezentace pro veřejnost se bude konat 15. listopadu od 17 hodin v zámeckém skleníku.*
 
-{% photo src="https://i.ohlasy.info/i/d825c85d.jpg" author="Martina Vašková" width=4000 height=3000 /%}
+{% photo src="https://i.ohlasy.info/i/63f5b500.jpg" author="Martina Vašková" width=4000 height=3000 /%}
 
 Autor tohoto textu se pondělního semináře účastnil a seminář pokládá za velice přínosný – věcná úroveň analýzy, datové podklady i způsob prezentace dalece předčily to, na co jsme byli v Boskovicích běžně zvyklí. Ať už se bude debata dál odvíjet jakkoli a ať už skončí jakýmkoli výsledkem, je třeba konstatovat, že vedení města dělá opravdu hodně pro to, aby rozhodnutí zastupitelů bylo informované a téma bylo řádně vydiskutované s odborníky, zástupci škol i veřejností.
 
