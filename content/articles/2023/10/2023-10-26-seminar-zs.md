@@ -6,7 +6,7 @@ category: zpravodajství
 tags: školství
 ---
 
-*Boskovičtí zastupitelé a zástupci základní školy se sešli v pondělí navečer na radnici k semináři, na kterém jim odborník na vzdělávání Lukáš Kohoutek prezentoval svou analýzu rozdělení či zachování boskovické základní školy. K takřka čtyřhodinové diskuzi byla přizvána i média. Prezentace pro veřejnost se bude konat 15. listopadu od 17 hodin v zámeckém skleníku.*
+*Boskovičtí zastupitelé a zástupci základní školy se sešli v pondělí navečer na radnici k semináři, na kterém jim odborník na vzdělávání Lukáš Kohoutek prezentoval svou analýzu rozdělení či zachování boskovické základní školy. K takřka čtyřhodinové diskuzi byla přizvána i média. Prezentace pro veřejnost se bude konat 15. listopadu od 17 hodin v sokolovně.*
 
 {% photo src="https://i.ohlasy.info/i/63f5b500.jpg" author="Martina Vašková" width=4000 height=3000 /%}
 
