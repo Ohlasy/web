@@ -81,6 +81,10 @@ a {
   font-style: italic;
 }
 
+.article-content ol {
+  list-style: decimal;
+}
+
 .article-content ul {
   list-style: disc;
 }
@@ -90,7 +94,8 @@ a {
 }
 
 @media (max-width: 1024px) {
-  .article-content ul {
+  .article-content ul,
+  .article-content ol {
     list-style-position: inside;
   }
 }
