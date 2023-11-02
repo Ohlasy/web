@@ -6,7 +6,7 @@ category: zpravodajství
 tags: nemocnice
 ---
 
-*Boskovická městská rada se sešla v pondělí 30. listopadu k mimořádnému jednání a řešila situaci v boskovické nemocnici. Oproti výrokům na předchozí tiskové konferenci je vedení města vůči protestní akci lékařů chápavější. A chystá i mimořádné zastupitelstvo.*
+*Boskovická městská rada se sešla v pondělí 30. října k mimořádnému jednání a řešila situaci v boskovické nemocnici. Oproti výrokům na předchozí tiskové konferenci je vedení města vůči protestní akci lékařů chápavější. A chystá i mimořádné zastupitelstvo.*
 
 {% photo src="https://i.ohlasy.info/i/wv5hsdn.jpg" caption="Boskovická nemocnice" author="Tomáš Znamenáček" width=3522 height=2348 /%}
 
