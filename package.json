@@ -33,7 +33,7 @@
   "devDependencies": {
     "@playwright/test": "^1.39.0",
     "@types/jest": "^29.5.6",
-    "@types/js-yaml": "^4.0.8",
+    "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
     "@types/react-dom": "18.x",
     "@vercel/node": "^3.0.7",
