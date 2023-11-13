@@ -15,7 +15,7 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@markdoc/markdoc": "^0.3.4",
+    "@markdoc/markdoc": "^0.3.5",
     "@notionhq/client": "^2.2.13",
     "@slack/web-api": "^6.9.0",
     "eslint": "^8.52.0",
