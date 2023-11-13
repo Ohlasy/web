@@ -46,7 +46,7 @@ const Intro = () => (
         <div className="flex flex-col gap-2">
           <PlayerPill href={RouteTo.Spotify} title="Spotify" />
           <PlayerPill href={RouteTo.ApplePodcasts} title="Apple Podcasts" />
-          <PlayerPill href={RouteTo.GooglePodcasts} title="Google Podcasts" />
+          <PlayerPill href={RouteTo.YouTubePodcast} title="YouTube" />
         </div>
       </div>
 

@@ -25,8 +25,8 @@ export const RouteTo = {
   // Podcast
   Spotify: "https://open.spotify.com/show/5WSL7RX8M7vaL7HQ1uUj10",
   ApplePodcasts: "https://podcasts.apple.com/cz/podcast/ohlasy/id1480020344",
-  GooglePodcasts:
-    "https://www.google.com/podcasts?feed=aHR0cHM6Ly9vaGxhc3kuaW5mby9wb2RjYXN0LnhtbA%3D%3D",
+  YouTubePodcast:
+    "https://www.youtube.com/playlist?list=PLPvYKKWRSI7m5OQoWYe4CcUU8CmRScHkY",
   // Socials
   Facebook: "https://www.facebook.com/ohlasy",
   Mastodon: "https://boskovice.social/@ohlasy",
