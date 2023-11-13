@@ -6,7 +6,7 @@ category: názory a komentáře
 tags: nekrolog
 ---
 
-*V říjnu zastihla muzikantský svět nečekaná zpráva, že náhle zemřel ředitel letovické Základní školy a dirigent Velkého dechového orchestru Petr Křivinka. Na pohřbu promluvil jeho kolega a kamarád Petr Prosser, jehož řeč jako vzpomínku publikujeme.*
+*V říjnu zastihla muzikantský svět nečekaná zpráva, že náhle zemřel ředitel letovické Základní umělecké školy a dirigent Velkého dechového orchestru Petr Křivinka. Na pohřbu promluvil jeho kolega a kamarád Petr Prosser, jehož řeč jako vzpomínku publikujeme.*
 
 {% photo src="https://i.ohlasy.info/i/218dd3fe.jpg" width=3644 height=2429 /%}
 
