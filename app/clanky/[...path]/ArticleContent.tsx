@@ -151,7 +151,6 @@ const SpotifyEpisode = ({ id }: SpotifyEpisodeProps) => (
     src={`https://open.spotify.com/embed/episode/${id}`}
     width="100%"
     height="352"
-    frameBorder="0"
     allowFullScreen
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
     loading="lazy"
@@ -172,7 +171,6 @@ const YouTubeVideo = ({
 }: YouTubeVideoProps) => (
   <iframe
     width="100%"
-    frameBorder="0"
     style={{ aspectRatio: aspect, marginTop: "20px", marginBottom: "20px" }}
     src={`https://www.youtube-nocookie.com/embed/${id}`}
     title={title}
