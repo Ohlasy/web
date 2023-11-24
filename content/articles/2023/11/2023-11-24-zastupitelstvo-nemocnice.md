@@ -40,7 +40,7 @@ Bývalá starostka a opoziční zastupitelka Hana Nedomová (SocDem) připomněl
 
 Radní Vladimír Petrů (Změna22) připomněl, že letos nemocnice funguje s velmi dobrým hospodářským výsledkem, který je oproti předpokladům plusový. A to je podle něj díky zaměstnancům.
 
-Další konkrétní fungování nemocnice od prosince bude podle jednatele nutné nastavit podle časupodle času, který nemocnice dostane od zaměstnanců. Zbytek péče bude směrován do Brna.
+Další konkrétní fungování nemocnice od prosince bude podle jednatele nutné nastavit podle času, který nemocnice dostane od zaměstnanců. Zbytek péče bude směrován do Brna.
 
 ### Debata s veřejností
 
