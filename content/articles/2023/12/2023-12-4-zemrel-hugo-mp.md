@@ -10,7 +10,7 @@ tags: nekrolog
 
 {% photo src="https://i.ohlasy.info/i/044fc189.jpg" caption="V roce 2020 Hugo Mensdorff-Pouilly převzal čestné občanství města Boskovice" author="Tomáš Trumpeš" width=4608 height=3072 /%}
 
-Hugo Mensdorff-Pouilly se narodil 24. října 1929 v Boskovicích do rodiny Alfonse Karla Mensdorff-Pouilly a Marie rozené Strachowitzové. Byl čtvrtým z osmi sourozenců, kteří se do rodiny Mensdorff-Pouilly v Boskovicích narodili. Dětství strávil v rodném městě.
+Hugo Mensdorff-Pouilly se narodil 24. října 1929 v Boskovicích do rodiny Alfonse Karla Mensdorff-Pouilly a Marie rozené Strachwitzové. Byl čtvrtým z osmi sourozenců, kteří se do rodiny Mensdorff-Pouilly v Boskovicích narodili. Dětství strávil v rodném městě.
 
 Počátkem druhé světové války jeho otec podepsal Národní prohlášení české šlechty a rodina se přihlásila k českému občanství. Zámek následně obsadilo nacistické vojsko. Po skončení války Hugo nastoupil na místní gymnázium, ale kvůli nástupu komunistů byl ze školy vyloučen a bylo mu zakázáno školu dokončit. 
 
@@ -20,7 +20,7 @@ Po povinné vojenské službě pracoval na různých technicko-úřednických po
 
 Roku 1963 se oženil s Barborou Polákovou a záhy se narodil syn Jan. Po srpnové invazi v roce 1968 se vydali do Francie, avšak po několika týdnech se vrátili.
 
-Nové obzory pro Huga Mensdorff-Pouilly otevřely až události roku 1989. Rodině byl navrácen neprávem zkonfiskovaný rodinný majetek nejen v Boskovicích. Hugo od roku 1990 pracoval na českém velvyslanectví v Paříži, po návratu do ČR působil na velvyslanectví Maltézských rytířů v Praze. Byl čestným rytířem Maltézského řádu, Řádu sv. Jiří a Řádu Domu Habsbursko-Lotrinského.  
+Nové obzory pro Huga Mensdorff-Pouilly otevřely až události roku 1989. Rodině byl navrácen neprávem zkonfiskovaný rodinný majetek nejen v Boskovicích. Hugo od roku 1990 pracoval na českém velvyslanectví v Paříži, po návratu do ČR působil na velvyslanectví Maltézských rytířů v Praze. Byl čestným rytířem Maltézského řádu, Řádu sv. Jiří – řádu Domu Habsbursko-Lotrinského.  
 
 Návrat rodinného majetku znamenal i návrat Huga do rodných Boskovic, kde pečoval o zámek, hrad a nemovitosti společně s ostatními členy rodiny. 
 
