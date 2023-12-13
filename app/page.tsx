@@ -54,6 +54,9 @@ const Page = async () => {
         analyticsId="latest-articles-box"
       />
 
+      <h2 className="section-divider">podpořte nás</h2>
+      <FundraisingSecion />
+
       <h2 className="section-divider">názory &amp; komentáře</h2>
       <PreviewNest
         articles={opinions}
@@ -77,9 +80,6 @@ const Page = async () => {
         getBanner={getNextBanner}
         analyticsId="podcast-box"
       />
-
-      <h2 className="section-divider">podpořte nás</h2>
-      <FundraisingSecion />
 
       <h2 className="section-divider">rozhovory</h2>
       <PreviewNest
@@ -116,14 +116,15 @@ const Page = async () => {
 
 const FundraisingSecion = () => (
   <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-7">
-    <Image
-      className="lg:col-span-2"
-      src="https://i.ohlasy.info/i/9b34a8e0.jpg"
-      sizes="(min-width: 640px) 50vw, 100vw"
-      width={3776}
-      height={2517}
-      alt="Tým Ohlasů"
-    />
+    <div className="lg:col-span-2">
+      <iframe
+        width="100%"
+        height="100%"
+        src={`https://www.youtube-nocookie.com/embed/xvg4h0EP_qM`}
+        title="Přispějte nám na provoz"
+        allowFullScreen
+      ></iframe>
+    </div>
     <div>
       <iframe
         width="100%"
