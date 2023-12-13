@@ -120,6 +120,7 @@ const FundraisingSecion = () => (
       <iframe
         width="100%"
         height="100%"
+        className="aspect-video"
         src={`https://www.youtube-nocookie.com/embed/xvg4h0EP_qM`}
         title="Přispějte nám na provoz"
         allowFullScreen
