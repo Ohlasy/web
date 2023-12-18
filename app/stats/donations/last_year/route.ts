@@ -1,7 +1,7 @@
 import {
   sumOneTimeDonations,
   sumRecurrentDonations,
-  getTransactions,
+  getPastYearTransactionsByMonth,
 } from "src/data-source/darujme";
 
 export async function GET() {
@@ -11,13 +11,13 @@ export async function GET() {
     return new Response("Missing Darujme auth in env", { status: 500 });
   }
 
-  const oneYearBack = 365;
-  const msPerDay = 1000 * 3600 * 24;
-  const endDate = new Date();
-  const startDate = new Date(Date.now() - oneYearBack * msPerDay);
-  const txs = await getTransactions(apiId, apiSecret, startDate, endDate);
-  const repeatingDonations = sumRecurrentDonations(txs);
-  const oneTimeDonations = sumOneTimeDonations(txs);
+  const report = await getPastYearTransactionsByMonth(apiId, apiSecret);
+  let repeatingDonations = 0;
+  let oneTimeDonations = 0;
+  for (const month of report) {
+    repeatingDonations += sumRecurrentDonations(month.transactions);
+    oneTimeDonations += sumOneTimeDonations(month.transactions);
+  }
 
   let csv = `pravidelné dary; ${repeatingDonations}\n`;
   csv += `jednorázové dary; ${oneTimeDonations}\n`;
