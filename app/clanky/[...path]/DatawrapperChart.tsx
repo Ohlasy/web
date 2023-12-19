@@ -24,6 +24,15 @@ export const DatawrapperChart = ({ id, version }: Props) => {
   }, [elem, script, id, embedUrl]);
 
   return (
-    <div ref={elem} style={{ marginTop: "30px", marginBottom: "30px" }}></div>
+    <div ref={elem} style={{ marginTop: "30px", marginBottom: "30px" }}>
+      <noscript>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={`https://datawrapper.dwcdn.net/${id}/full.png`}
+          alt="Graf"
+          loading="lazy"
+        />
+      </noscript>
+    </div>
   );
 };
