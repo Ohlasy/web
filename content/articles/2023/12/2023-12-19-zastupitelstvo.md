@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Přesně čtyři hodiny jednali boskovičtí zastupitelé na své poslední letošní schůzi. Mimo jiné schválili klíčový bod prosincového zastupitelstva: rozpočet města na příští rok. Řešilo se také uzavření dětské pohotovosti v nemocnici, voda se zavírá nad Fránkovým návrhem knihovny.*
 
-{% photo src="https://i.ohlasy.info/i/67b1d139.jpg" author="Tomáš Znamenáček" width=4032 height=3024 /%}
+{% youtube_video id="6ShzGgajWK0" /%}
 
 Zastupitel Jan Nádvorník (Piráti) v úvodu zastoupil nepřítomného Jana Flíčka (Změna22) a představil zprávu o činnosti nového výboru pro média a participaci. Ten mimo jiné připravil dotazníkové šetření mezi občany ke zpravodaji, nyní probíhá zpracování výsledků. Místostarosta Radek Šamšula (Piráti) doplnil na dotaz Michaely Žejškové (SPOLU), že nová grafická podoba zpravodaje bude fungovat od ledna. Hanu Nedomovou (SocDem) zajímalo navýšení cen za inzerci – místostarosta vysvětlil, že si město nechalo zpracovat přehled cen z okolních měst a navýšení bude schvalovat městská rada.
 
