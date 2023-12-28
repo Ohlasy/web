@@ -6,7 +6,7 @@ author: Jan Bařinka
 category: názory a komentáře
 ---
 
-*Vzpomínku na legendárního boskovického hospodského, jehož poslední podnik Turbína fungoval i jako klub a svébytná kulturní scéna, napsal pro Ohlasy Jan Bařinka. Ze Zdeňkem Palátem jsme také před několika lety [vedli rozhovor](https://ohlasy.info/clanky/2019/04/rozhovor-palat.html).*
+*Vzpomínku na legendárního boskovického hospodského, jehož poslední podnik Turbína fungoval i jako klub a svébytná kulturní scéna, napsal pro Ohlasy Jan Bařinka. Se Zdeňkem Palátem jsme také před několika lety [vedli rozhovor](https://ohlasy.info/clanky/2019/04/rozhovor-palat.html).*
 
 {% photo src="https://i.ohlasy.info/i/ue9tsw8.jpg" author="Martina Vašková" width=3543 height=2362 /%}
 
