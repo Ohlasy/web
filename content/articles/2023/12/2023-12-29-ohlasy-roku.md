@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Končící rok 2023 vybízí opět k tomu, abychom si jej připomněli také pohledem do statistik čtenosti našeho webu. Jaké události a témata vás čtenáře v roce 2022 nejvíc zajímaly? Na čelních místech se letos bohužel neumístila pozitivní témata.*
+*Končící rok 2023 vybízí opět k tomu, abychom si jej připomněli také pohledem do statistik čtenosti našeho webu. Jaké události a témata vás čtenáře v roce 2023 nejvíc zajímaly? Na čelních místech se letos bohužel neumístila pozitivní témata.*
 
 {% photo src="https://i.ohlasy.info/i/e85a8f7b.jpeg" caption="Nejlajkovanější fotka roku na FB profilu Ohlasů: fotograf Josef Koudelka přebírá čestné občanství Boskovic – města, kde se narodil." author="Tomáš Znamenáček" width=1280 height=854 /%}
 
