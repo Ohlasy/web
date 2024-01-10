@@ -1,35 +1,27 @@
 import Markdoc, { Node } from "@markdoc/markdoc";
-import crypto from "crypto";
 
-export const IMAGE_SIGNING_KEY = process.env.IMGPROXY_KEY ?? "";
+type SupportedImageWidth = 640 | 1080 | 1920 | 3840;
 
-/** SHA1 sum */
-export function shasum(message: string) {
-  const shasum = crypto.createHash("sha1");
-  shasum.update(message);
-  return shasum.digest("hex");
-}
-
-/** Return a URL to a resized image */
-export function getSignedResizedImage(
+/**
+ * Return a URL to a resized image
+ *
+ * This is (mis)using the undocumented Next.js image URL scheme,
+ * if Vercel changes something, will this go down in flames?
+ */
+export const getResizedImageUrl = (
   sourceImageUrl: string,
-  targetWidth: number,
-  signingSecret: string
-): string {
-  const proof = shasum([sourceImageUrl, targetWidth, signingSecret].join(":"));
-  return `https://nahledy.ohlasy.info/?src=${sourceImageUrl}&width=${targetWidth}&proof=${proof}`;
-}
+  targetWidth: SupportedImageWidth
+) =>
+  `/_next/image/?url=${encodeURIComponent(
+    sourceImageUrl
+  )}&w=${targetWidth}&q=75`;
 
 export function getImageSrcSet(
   sourceUrl: string,
-  signingSecret: string,
-  widths = [3000, 2000, 1000, 500]
+  widths: SupportedImageWidth[] = [3840, 1920, 1080, 640]
 ): string {
   return widths
-    .map((w) => {
-      const resizedUrl = getSignedResizedImage(sourceUrl, w, signingSecret);
-      return `${resizedUrl} ${w}w`;
-    })
+    .map((w) => `${getResizedImageUrl(sourceUrl, w)} ${w}w`)
     .join(", ");
 }
 

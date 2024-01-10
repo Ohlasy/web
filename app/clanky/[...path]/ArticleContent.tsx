@@ -1,6 +1,6 @@
 import React from "react";
 import Markdoc from "@markdoc/markdoc";
-import { getImageSrcSet, IMAGE_SIGNING_KEY, tilde } from "src/utils";
+import { getImageSrcSet, tilde } from "src/utils";
 import { defaultMarkdocConfig } from "src/markdoc-schema";
 import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
@@ -91,7 +91,7 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
       <img
         key={src}
         src={src}
-        srcSet={getImageSrcSet(src, IMAGE_SIGNING_KEY)}
+        srcSet={getImageSrcSet(src)}
         sizes="(min-width: 900px) 60vw, 100vw"
         alt={alt ?? caption ?? ""}
         style={imageStyle}
