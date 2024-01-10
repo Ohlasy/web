@@ -5,7 +5,6 @@ import { SearchForm } from "./SearchForm";
 import { Metadata } from "next";
 import "./global.css";
 import Image from "next/image";
-import Balancer from "react-wrap-balancer";
 import { NewsletterBox } from "./newsletter/NewsletterBox";
 
 // https://nextjs.org/docs/basic-features/font-optimization
@@ -99,11 +98,9 @@ const Footer = () => (
           <br />
           +420 608 763 954
         </p>
-        <p>
-          <Balancer>
-            Vydává <Link href={RouteTo.about}>spolek šílenců</Link>, protože kdo
-            jiný by dneska dělal noviny.
-          </Balancer>
+        <p className="text-balance">
+          Vydává <Link href={RouteTo.about}>spolek šílenců</Link>, protože kdo
+          jiný by dneska dělal noviny.
         </p>
         <p>Nepoužíváme žádné cookies, respektujeme vaše soukromí.</p>
         <p>

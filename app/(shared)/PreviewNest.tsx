@@ -4,7 +4,6 @@ import { BannerBox } from "./BannerBox";
 import { tilde as t } from "src/utils";
 import Image from "next/image";
 import { RouteTo } from "src/routing";
-import Balancer from "react-wrap-balancer";
 import Link from "next/link";
 import { plausibleEventClass } from "src/data-source/plausible";
 
@@ -63,9 +62,7 @@ const FeaturePreview = ({
             ))}
           </div>
         )}
-        <h2 className="font-bold text-2xl">
-          <Balancer>{t(article.title)}</Balancer>
-        </h2>
+        <h2 className="font-bold text-2xl text-balance">{t(article.title)}</h2>
         <p className="italic line-clamp-[9]">{t(article.perex)}</p>
       </div>
       <div className="col-span-2 max-lg:order-first">

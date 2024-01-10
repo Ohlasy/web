@@ -5,7 +5,6 @@ import { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import React from "react";
-import Balancer from "react-wrap-balancer";
 import { Article, compareByDate, readArticle } from "src/article";
 import { getCachedData } from "src/data-source/cache";
 import { Author } from "src/data-source/content";
@@ -81,8 +80,8 @@ const Title = ({ article }: { article: Article }) => {
       ? `${article.author}: ${tilde(article.title)}`
       : tilde(article.title);
   return (
-    <h2 className="text-4xl leading-tight font-bold mb-3">
-      <Balancer>{title}</Balancer>
+    <h2 className="text-4xl leading-tight font-bold mb-3 text-balance">
+      {title}
     </h2>
   );
 };
