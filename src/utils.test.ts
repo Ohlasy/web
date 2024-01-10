@@ -1,14 +1,8 @@
-import { getSignedResizedImage, shasum, stripMarkdown, tilde } from "./utils";
+import { getResizedImageUrl, stripMarkdown, tilde } from "./utils";
 
 test("Image resizing", () => {
-  expect(
-    getSignedResizedImage(
-      "https://i.ohlasy.info/i/53173baa.jpg",
-      640,
-      "oovah1Ch"
-    )
-  ).toBe(
-    "https://nahledy.ohlasy.info/?src=https://i.ohlasy.info/i/53173baa.jpg&width=640&proof=73bcf420ab6236793b3fda3bc5a2bf779ad50c13"
+  expect(getResizedImageUrl("https://i.ohlasy.info/i/53173baa.jpg", 640)).toBe(
+    "/_next/image/?url=https%3A%2F%2Fi.ohlasy.info%2Fi%2F53173baa.jpg&w=640&q=75"
   );
 });
 
@@ -24,8 +18,4 @@ test("Single-letter prepositions", () => {
   expect(tilde("jdu k lesu", "~")).toBe("jdu k~lesu");
   expect(tilde("U zabořenýho mlénka", "~")).toBe("U~zabořenýho mlénka");
   expect(tilde("Vepři v Boskovicích", "~")).toBe("Vepři v~Boskovicích");
-});
-
-test("SHA1 sum", () => {
-  expect(shasum("bagr")).toBe("c8bb9fc27c3c0e1b27c332563385703e0bbc0e66");
 });

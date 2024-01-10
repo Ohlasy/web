@@ -15,12 +15,7 @@ import {
   getFileSystemPathForUrlPathFragments,
   getUrlPathFragmentsForFileSystemPath,
 } from "src/server-utils";
-import {
-  endlessGeneratorOf,
-  getSignedResizedImage,
-  IMAGE_SIGNING_KEY,
-  tilde,
-} from "src/utils";
+import { endlessGeneratorOf, getResizedImageUrl, tilde } from "src/utils";
 
 type Params = {
   path: string[];
@@ -149,7 +144,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: post.title,
       description: post.perex,
-      images: getSignedResizedImage(post.coverPhoto, 1200, IMAGE_SIGNING_KEY),
+      images: getResizedImageUrl(post.coverPhoto, 1920),
     },
   };
 }

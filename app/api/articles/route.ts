@@ -1,7 +1,7 @@
 import { Article, compareByDate, getAllArticles, stripBody } from "src/article";
-import { getArticlePath } from "src/routing";
+import { absolute, getArticlePath } from "src/routing";
 import { articleRoot } from "src/server-utils";
-import { getSignedResizedImage, IMAGE_SIGNING_KEY } from "src/utils";
+import { getResizedImageUrl } from "src/utils";
 
 export async function GET() {
   const articles = getAllArticles(articleRoot)
@@ -20,11 +20,7 @@ function addAuxiliaryData(article: Article) {
     ...stripBody(article),
     "numberOfWords": countWords(article.body),
     "relativeURL": getArticlePath(article),
-    "cover-photo": getSignedResizedImage(
-      article.coverPhoto,
-      640,
-      IMAGE_SIGNING_KEY
-    ),
+    "cover-photo": absolute(getResizedImageUrl(article.coverPhoto, 640)),
     "cover-photo-src": article.coverPhoto,
   };
 }
