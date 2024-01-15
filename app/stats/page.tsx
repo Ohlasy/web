@@ -15,6 +15,7 @@ const Page = async () => {
       <Section title="Dary od čtenářstva">
         <DatawrapperChart id="16wqV" />
         <DatawrapperChart id="sTTab" />
+        <DatawrapperChart id="HrbmM" />
       </Section>
       <Section title="Diverzita">
         <DatawrapperChart id="hUM06" />
