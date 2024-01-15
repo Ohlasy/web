@@ -23,7 +23,7 @@ const Page = async () => {
         <DatawrapperChart id="CWiCY" />
         <DatawrapperChart id="HmlKw" />
       </Section>
-      <Section title="Návštěvnost">
+      <Section title="Návštěvnost webu">
         <iframe
           plausible-embed
           className="w-full h-[500px] col-span-2 mt-7"
