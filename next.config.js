@@ -40,9 +40,8 @@ const nextConfig = {
       },
       {
         source: "/go/cisla/",
-        destination:
-          "https://www.notion.so/ohlasy/Ohlasy-v-slech-0cce47372104440485ff3ddeb90705c3",
-        permanent: false,
+        destination: "/stats/",
+        permanent: true,
       },
       {
         source: "/go/petiletka/",
@@ -69,7 +68,7 @@ const nextConfig = {
         source: "/darujme/",
         destination: "https://www.darujme.cz/projekt/1202392",
         permanent: false,
-      }
+      },
     ];
   },
 };

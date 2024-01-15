@@ -23,6 +23,15 @@ const Page = async () => {
         <DatawrapperChart id="CWiCY" />
         <DatawrapperChart id="HmlKw" />
       </Section>
+      <Section title="Návštěvnost">
+        <iframe
+          plausible-embed
+          className="w-full h-[500px] col-span-2 mt-7"
+          src="https://plausible.io/share/ohlasy.info?auth=-aOd5Bi-4jyxpKQMlPrtI&embed=true&theme=light"
+          loading="lazy"
+        ></iframe>
+        <script async src="https://plausible.io/js/embed.host.js"></script>
+      </Section>
     </main>
   );
 };
