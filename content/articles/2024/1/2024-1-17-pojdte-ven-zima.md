@@ -6,7 +6,7 @@ category: seriály
 serial: pojdte-ven
 ---
 
-*V posledních letech nebývají zimy takové, jaké mnozí pamatují z dětství. Místo závějí sněhu zem jen mírně pocukrovaná, poletující sněhové vločky nahradily dešťové kapky. Nevím jak vy, ale já tu čím dál víc mokrou a blátivou zimu ráda nemám. Na druhou stranu, když vše kolem není přikryto bílou peřinou, život v zimní přírodě mi přijde tak nějak viditelnější, zřetelnější. Pojďte se mnou projít, ukážu vám, jak se dívat.*
+*V posledních letech nebývají zimy takové, jaké mnozí pamatují z dětství. Místo závějí sněhu zem jen mírně pocukrovaná, poletující sněhové vločky nahradily dešťové kapky. Nevím jak vy, ale já tu čím dál víc mokrou a blátivou zimu ráda nemám. Na druhou stranu, když vše kolem není přikryto bílou peřinou, život v zimní přírodě mi přijde tak nějak viditelnější, zřetelnější. Pojďte se se mnou projít, ukážu vám, jak se dívat.*
 
 {% photo src="https://i.ohlasy.info/i/fd87d3d0.jpg" author="Kateřina Laštůvková" width=2736 height=2052 /%}
 
