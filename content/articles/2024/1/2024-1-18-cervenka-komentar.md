@@ -1,0 +1,22 @@
+---
+title: Boskovice po dekádách nezájmu a pokusů přestávají léčit zlomeniny přikládáním pijavic
+cover-photo: https://i.ohlasy.info/i/3171ee9a.jpg
+author: Tomáš Znamenáček
+category: názory a komentáře
+---
+
+*V těchto dnech se úspěšně uzavřela architektonická soutěž na plán rozvoje sportovního areálu Červená zahrada. Jde o první regulérní architektonickou soutěž v moderních dějinách města a potenciálně o velký milník, který Boskovice po dekádách váhání definitivně nasměruje na cestu k lepší architektuře.*
+
+{% youtube_video id="1ydLaR_cJ48" /%}
+
+Boskovice mohou být pyšné na řadu věcí, ale moderní architektura veřejného prostoru mezi ně nepatří. Po předchozích generacích jsme zdědili řadu krásných a kvalitních budov, ale v porevoluční historii města jsme k nim nepřidali téměř žádnou veřejnou stavbu, na kterou bychom mohli být hrdí a kterou bychom mohli s radostí používat a předat ji nadcházejícím generacím.
+
+Za tento žalostný stav mohl nejprve nezájem politických reprezentací a nepochopení toho, jakou hodnotu může architektura do města přinést. Slýchali jsme fráze o tom, že někdo má rád tuhle barvu a jiný zase tamtu, takže je to všechno subjektivní a tudíž je to jedno. Diskuze se často nedostala za otázku vzhledu fasády, veřejná debata mnohdy připomínala Tinder a omezila se pouze na swipe doprava (líbí) nebo doleva (nelíbí). Jenže město je pro většinu z nás přece jen vztah na déle než jednu noc.
+
+Následovala vyčerpávající pionýrská fáze hledání nových cest a slepých odboček tam, kde už přitom roky existují ověřené příklady dobré praxe. Při plánování nových staveb jsme ztráceli roky a milióny objevováním rychlých zkratek a úsporných řešení; stali jsme se dokonalou ilustrací hesla „je to sice delší, ale o to horší cesta“. [Vrcholem této etapy byla scéna](https://ohlasy.info/clanky/2021/11/pejsek-a-kocicka.html), za kterou by se nemusel stydět ani mistr grotesky Charlie Chaplin – dvakrát za sebou jsme upadli na obličej při pokusu o vypsání regulérní soutěže na sportovní halu, vzali jsme se do hlavy při pokusu o zadání projektu „z ruky“ tehdejšímu městskému architektovi a na závěr vkročili do otevřeného kanálu snahou o divokou adaptaci staršího studentského projektu. Publikum jistě nevědělo, jestli se smát, nebo brečet. My ovšem v tomhle vtipu žijeme.
+
+Přesto posledních deset let nebylo ztracených. V roce 2017 jsme po letech chátrání začali s [velmi povedenou rekonstrukcí letního kina](https://ohlasy.info/clanky/2017/05/letnak-zije.html), které následně dostalo i moderní digitální projektor a dnes lze bez nadsázky říct, že může být vzorem pro letní kina v celé republice. Dva roky nato jsme otevřeli [Centrum polytechnické výchovy](https://ohlasy.info/clanky/2019/09/cpv-otevreno.html), které sice vzniklo spíše shodou okolností než velkým chtěním, ale i tak jde o zdařilou výjimku z naší porevoluční architektonické impotence – díky za ni! A v roce 2020 jsme [odkoupili pozemky v Červené zahradě](https://ohlasy.info/clanky/2020/06/zastupitelstvo.html), zcela zásadní pro dnešní rozvoj areálu.
+
+Tím se dostáváme do současnosti. Bez velkých průtahů rovnou řeknu, že právě [dokončená urbanistická soutěž na areál Červené zahrady](https://ohlasy.info/clanky/2023/12/cervenka-vitez.html) je zásadní pozitivní milník ve vývoji města. Po letech vymlouvání se na to, jak dlouhé, drahé a zbytečné soutěže jsou, jsme během jediného roku získali desítku návrhů, odborná porota s převahou nezávislých členů z nich vybrala ten nejlepší, ten byl společně s dalšími oceněnými návrhy představen veřejnosti a celé nás to nestálo ani setinu částky, kterou chceme v dalších dekádách v Červené zahradě postupně investovat. Co k tomu dodat?
+
+Jedna povedená soutěž ještě neznamená výhru, k nové a dobré sportovní hale – natožpak celému areálu! – nás čeká ještě dlouhá cesta. Přesto je potřeba ocenit, že jsme poprvé v moderní historii města dokázali projít standardním, otevřeným a civilizovaným procesem architektonické soutěže a zaslouženě díky němu získali kvalitní plán rozvoje Červené zahrady. Jak trefně zaznělo na veřejném představení projektu, je už na nás voličích, aby tento trend vydržel napříč změnami politických reprezentací i v následujících desítkách let. Stojí to za to.
