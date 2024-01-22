@@ -10,20 +10,10 @@ Po pushnutí nového commitu na GitHub (nebo úpravě souboru přes webové rozh
 
 ## Fotky
 
-Fotky nejsou uložené v repository, protože jich máme moc a jsou příliš velké. Plné rozlišení je uložené v AWS S3 a klientům nabízíme několik různých menších rozlišení, které pak generujeme/konvertujeme za běhu a kešujeme.
+Fotky nejsou uložené v repozitáři, protože jich máme moc a jsou příliš velké. Plné rozlišení je uložené v AWS S3 a klientům nabízíme několik různých menších rozlišení, které pak generujeme/konvertujeme za běhu a kešujeme (používáme standardní obrázkovou pipeline Vercelu).
 
-Ve výsledku tedy fotky chodí směrem od klienta cestou prohlížeč → CDN (nahledy.ohlasy.info) → náhledová služba (`/api/resize`) → CDN (i.ohlasy.info) → S3. Ta poslední CDN (i.ohlasy.info) by asi šla vynechat, ale takhle máme k dispozici i pěkná HTTPS URL k obrázkům v původním rozlišení.
+## Data
 
-Podrobně je infrastruktura popsaná v souboru [infra.tf](https://github.com/Ohlasy/web/blob/master/infra.tf).
-
-## Další servery
-
-### data.ohlasy.info
-
-Úložiště větších dat, například příloh, záznamů a podobně. AWS S3 + AWS CloudFront.
-
-### forum.ohlasy.info
-
-Virtuální server u [Digital Ocean](https://digitalocean.com), ručně instalovaná instance [Discourse](https://www.discourse.org).
+Větší data, například přílohy nebo epizody podcastu, jsou na serveru data.ohlasy.info (AWS S3 + CloudFront).
 
 [![Powered by Vercel](/public/vercel.svg?raw=true)](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss)
