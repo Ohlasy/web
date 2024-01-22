@@ -1,0 +1,25 @@
+---
+title: Ondřej Dostál končí jako ředitel KZMB
+cover-photo: https://i.ohlasy.info/i/95830ec5.jpg
+author: Tomáš Trumpeš
+category: zpravodajství
+tags: kultura
+---
+
+*Kulturní zařízení města Boskovice (KZMB) budou mít nového ředitele. Ondřej Dostál po necelých třech letech ve funkci končí, odchází pracovat na ministerstvo kultury. Město na uvolněný post vypíše výběrové řízení.*
+
+{% photo src="https://i.ohlasy.info/i/95830ec5.jpg" author="Tomáš Znamenáček" width=3689 height=2459 /%}
+
+Ondřej Dostál nastoupil do KZMB v červnu 2021 po Oldřichu Kovářovi, který byl prvním a po dvě dekády také jediným šéfem organizace, která sdružuje kulturní středisko, kino, knihovnu a aktuálně také informační centrum. Nyní se Ondřej Dostál obloukem vrací ke svému původnímu zaměření – vystudovaný přírodovědec byl v minulosti ředitelem boskovického muzea a poté především více než deset let ředitelem Mendelova muzea v Brně. Muzejnictví se teď bude věnovat z trochu jiné pozice – od března se stane ředitelem odboru muzeí a galerií na ministerstvu kultury. 
+
+„Je to velmi silně emocionální,“ uvedl ke svému odchodu Ondřej Dostál s tím, že mu KZMB přirostla k srdci a opouští je s nostalgií, i když upřímně dodává, že se neskutečně těší na novou pracovní pozici. Jeho případné úspěchy ve funkci podle něj musí zhodnotit jiní, deficity podle svých slov vidí jasně: „Nepodařilo se mi vyvolat větší tlak kvůli knihovně. V řadě personálních věcí jsem mohl vystupovat jinak.“ 
+
+Na své pozici by rád viděl někoho, kdo bude pevný ve směřování organizace a bude podporovat zaměstnance a vytvářet široké spektrum kulturního vyžití ve městě. „Ideálně někoho, kdo přinese novou kvalitu,“ dodává končící ředitel KZMB Ondřej Dostál. Ten byl hostem [lednového vydání kulturního podcastu](https://ohlasy.info/clanky/2024/01/kultura.html) Ohlasů – v té době se ještě nevědělo, že ve funkci skončí. Na otázku, co podle něj městská kulturní organizace aktuálně hlavně potřebuje ke svému rozvoji, odpověděl takto: „Hlavních výzev je několik. Samozřejmě jsou to ty velké – tedy knihovna a také sokolovna, což je prostor, který je nutné řešit a vyřešit, protože naše aktivity by měly v budoucnu směřovat jen do jednoho objektu, který by měl mít víc sálů. A to je z mého pohledu jedině sokolovna.“ K tomu pak podle něj přibývají výzvy běžného provozu, jako je dobré personální zázemí organizace, finanční zajištění a zlepšení propagace. To vše by KZMB měla podle Ondřeje Dostála dělat tak, aby v Boskovicích nalézali dostatečné kulturní vyžití jak občané města, tak návštěvníci, kteří sem přijíždějí. „A abychom se tím jen neubavili k smrti, ale také se trochu kultivovali,“ uzavřel svou úvahu Ondřej Dostál.
+
+Viděno z čistě finančního pohledu odchází Ondřej Dostál přesně v momentě, kdy se mu povedlo organizaci finančně stabilizovat a vyjednat si na zřizovateli výrazně větší podporu. Během dvou let se finanční příspěvek města na činnost KZMB zvedl z přibližně 11 milionů na 17,3 milionů korun.
+
+Místostarosta Lukáš Holík (Naše Boskovice), pod něhož spadá oblast kultury, říká, že byl odchodem Ondřeje Dostála nejprve překvapen. „Ale potom přišlo to, že jeho rozhodnutí samozřejmě chápu a držím mu pěsti v novém zaměstnání,“ popsal místostarosta. Na ředitelském působení Ondřeje Dostála v KZMB si cení především jeho lidskosti a pracovitosti. Je podle něj určitým paradoxem, že odchází ve chvíli, kdy konečně skončila covidová omezení a radnice kultuře výrazně finančně pomohla. „Vnímám to tak, že v tomto roce dojde k velkému nadechnutí kultury. Plyne to i z toho, co nám bylo ze strany Ondřeje Dostála předloženo jako dramaturgický plán. Pracovně mně bude Ondřej velice chybět, vždycky jsme spolu našli společnou řeč, kromě určitých dramaturgických záležitostí – ale do toho jsem se mu nechtěl plést, protože politik by neměl do dramaturgie vstupovat, od toho je v KZMB dramaturg a ředitel,“ uvedl Lukáš Holík. Dobře podle něj fungovala vzájemná spolupráce na konkrétních projektech. „Ta práce s ním mě obohacovala, pokud bychom našli dalšího takto pracujícího člověka, byl bych moc rád. Pozvedl a určitě by dál pozvedával celou organizaci – nepřišel v jednoduchém období a když teď mohlo nastat rozpětí, tak odchází,“ dodal Lukáš Holík.
+
+Město se podle něj bude už na nejbližším zasedání městské rady zabývat výběrovým řízením na nového ředitele. To by mohlo proběhnout tak, aby rada nového ředitele odsouhlasila ve druhé polovině března. Pak bude záležet, jaké budou jeho stávající pracovní závazky a kdy bude moci nastoupit. S končícím ředitelem je podle místostarosty také dohoda na tom, jak předá svou agendu, aby mohla KZMB nějakou dobu podle plánu fungovat i bez ředitele. 
+
+Nový ředitel by měl být podle místostarosty Lukáše Holíka pozitivní lídr a týmový hráč, který má velký rozsah. „A dokáže vybalancovat klasickou kulturu a zábavu, která je v našem městě zapotřebí. Vnitřně jsem trošku cítil, že zde v minulém období nebyla, což bylo spjato i s finanční stránkou věci,“ uvedl místostarosta s tím, že nový ředitel by měl dělat obojí – kulturu i zábavu pro občany Boskovic.
