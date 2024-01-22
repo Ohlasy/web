@@ -1,7 +1,3 @@
-## Licencování
-
-Kód je uvolněn pod [licencí MIT](https://opensource.org/licenses/MIT). Na texty článků se vztahuje licence [Creative Commons BY–NC–ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) – stručně řečeno je můžete volně šířit, ale pouze pokud odkážete na jejich zdroj, nebudete je nijak měnit a nebudete je využívat komerčně.
-
 ## Technické řešení
 
 Web je statický, hostovaný na [Vercelu](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss) a generovaný pomocí [Next.js](https://nextjs.org). Zde je uložené pouze HTML a související data, zejména tedy nikoliv fotky a větší data.
