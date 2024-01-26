@@ -67,6 +67,7 @@ const Page = async ({ params }: Props) => {
             articles={relatedArticles}
             getBanner={getNextBanner}
             analyticsId="related-articles-box"
+            authors={authors}
           />
         </div>
       )}

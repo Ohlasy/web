@@ -14,6 +14,7 @@ import { Banner } from "src/data-source/banners";
 import { TopArticles } from "src/data-source/plausible";
 import Link from "next/link";
 import Image from "next/image";
+import { getAllAuthors } from "src/data-source/content";
 
 // Revalidate this page every 5 minutes
 export const revalidate = 300;
@@ -24,6 +25,7 @@ const Page = async () => {
   const topArticles = await getTopArticles();
   const latestForumSummary = await getLatestTopicsSummary();
   const articles = getAllArticles("content/articles").sort(compareByDate);
+  const authors = await getAllAuthors();
   const filterCategory = (category: Metadata["category"]) =>
     articles
       // Skip latest article, it will be displayed on the top of the page anyway
@@ -52,6 +54,7 @@ const Page = async () => {
         getBanner={getNextBanner}
         aboveFold={true}
         analyticsId="latest-articles-box"
+        authors={authors}
       />
 
       <h2 className="section-divider">názory &amp; komentáře</h2>
@@ -59,6 +62,7 @@ const Page = async () => {
         articles={opinions}
         getBanner={getNextBanner}
         analyticsId="opinion-box"
+        authors={authors}
       />
 
       <h2 className="section-divider">
@@ -76,6 +80,7 @@ const Page = async () => {
         articles={podcast}
         getBanner={getNextBanner}
         analyticsId="podcast-box"
+        authors={authors}
       />
 
       <h2 className="section-divider">podpořte nás</h2>
@@ -86,6 +91,7 @@ const Page = async () => {
         articles={interviews}
         getBanner={getNextBanner}
         analyticsId="interview-box"
+        authors={authors}
       />
 
       <h2 className="section-divider">nejčtenější články</h2>
@@ -96,6 +102,7 @@ const Page = async () => {
         articles={serials}
         getBanner={getNextBanner}
         analyticsId="serial-box"
+        authors={authors}
       />
 
       <h2 className="section-divider">
@@ -105,6 +112,7 @@ const Page = async () => {
         articles={archive}
         getBanner={getNextBanner}
         analyticsId="archive-box"
+        authors={authors}
       />
     </div>
   );

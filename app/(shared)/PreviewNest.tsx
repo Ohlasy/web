@@ -6,43 +6,61 @@ import Image from "next/image";
 import { RouteTo } from "src/routing";
 import Link from "next/link";
 import { plausibleEventClass } from "src/data-source/plausible";
+import { Author } from "src/data-source/content";
 
 export type PreviewNestProps = {
   getBanner: () => Banner;
   articles: Article[];
   aboveFold?: boolean;
   analyticsId?: string;
+  authors: Author[];
 };
 
 export const PreviewNest = ({
   articles,
   getBanner,
   analyticsId,
+  authors,
   aboveFold = false,
-}: PreviewNestProps) => (
-  <div className="grid grid-cols-1 gap-7">
-    <FeaturePreview
-      article={articles[0]}
-      aboveFold={aboveFold}
-      analyticsId={analyticsId}
-    />
-    <div className="grid md:grid-cols-3 gap-7">
-      <SecondaryPreview article={articles[1]} analyticsId={analyticsId} />
-      <SecondaryPreview article={articles[2]} analyticsId={analyticsId} />
-      <BannerBox banner={getBanner()} />
+}: PreviewNestProps) => {
+  const getAuthor = (article: Article) =>
+    authors.find((a) => a.name === article.author)!;
+  return (
+    <div className="grid grid-cols-1 gap-7">
+      <FeaturePreview
+        article={articles[0]}
+        aboveFold={aboveFold}
+        analyticsId={analyticsId}
+        author={getAuthor(articles[0])}
+      />
+      <div className="grid md:grid-cols-3 gap-7">
+        <SecondaryPreview
+          article={articles[1]}
+          analyticsId={analyticsId}
+          author={getAuthor(articles[1])}
+        />
+        <SecondaryPreview
+          article={articles[2]}
+          analyticsId={analyticsId}
+          author={getAuthor(articles[2])}
+        />
+        <BannerBox banner={getBanner()} />
+      </div>
     </div>
-  </div>
-);
+  );
+};
 
 type ArticleProps = {
   article: Article;
   aboveFold?: boolean;
   analyticsId?: string;
+  author: Author;
 };
 
 const FeaturePreview = ({
   article,
   analyticsId,
+  author,
   aboveFold = false,
 }: ArticleProps) => {
   const notices = getArticleNotices(article);
@@ -63,6 +81,16 @@ const FeaturePreview = ({
           </div>
         )}
         <h2 className="font-bold text-2xl text-balance">{t(article.title)}</h2>
+        <p className="text-sm uppercase flex flex-row gap-2 items-center">
+          <Image
+            src={author.profilePhotoUrl!}
+            className="rounded-full inline-block border-[1px] border-gray"
+            alt=""
+            width={25}
+            height={25}
+          />
+          <span>{author.name}</span>
+        </p>
         <p className="italic line-clamp-[9]">{t(article.perex)}</p>
       </div>
       <div className="col-span-2 max-lg:order-first">
