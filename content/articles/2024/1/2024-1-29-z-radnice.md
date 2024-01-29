@@ -15,7 +15,7 @@ Stejně tak jsme samostatně zpracovali [téma Boskovické spojky](https://ohlas
 
 ### Přechod na Dukelské
 
-Město zahájilo jednání s dopravní policií, zda policieta povolí vytvoření přechodu přes ulici Dukelskou u Lasákova mlýna. Na místě jsou chodníky bezbariérově upraveny pro přecházení, místo je nasvětleno, ale značení přechodu zde není. Silnice je širší než 7 metrů, takže zde není možné zřídit přechod bez stavebních úprav, neboť 7 metrů je maximální možná délka přechodu. Majetkový odbor radnice proto doporučuje zřídit zde pouze takzvané [místo pro přecházení](https://cs.wikipedia.org/wiki/M%C3%ADsto_pro_p%C5%99ech%C3%A1zen%C3%AD). Kromě dopravní policie musí město získat i souhlas Správy a údržby silnic Jihomoravského kraje, který je majitelem silnice. „Občané, kteří bydlí v této části, nemají zajištěný bezpečný pěší příchod do města. Přechod je tam nanejvýš vhodný,“ vyjádřila se starostka Jana Syrovátková.
+Město zahájilo jednání s dopravní policií, zda policie povolí vytvoření přechodu přes ulici Dukelskou u Lasákova mlýna. Na místě jsou chodníky bezbariérově upraveny pro přecházení, místo je nasvětleno, ale značení přechodu zde není. Silnice je širší než 7 metrů, takže zde není možné zřídit přechod bez stavebních úprav, neboť 7 metrů je maximální možná délka přechodu. Majetkový odbor radnice proto doporučuje zřídit zde pouze takzvané [místo pro přecházení](https://cs.wikipedia.org/wiki/M%C3%ADsto_pro_p%C5%99ech%C3%A1zen%C3%AD). Kromě dopravní policie musí město získat i souhlas Správy a údržby silnic Jihomoravského kraje, který je majitelem silnice. „Občané, kteří bydlí v této části, nemají zajištěný bezpečný pěší příchod do města. Přechod je tam nanejvýš vhodný,“ vyjádřila se starostka Jana Syrovátková.
 
 ### Nová okna na ZUŠ
 
