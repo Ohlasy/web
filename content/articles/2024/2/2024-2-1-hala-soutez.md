@@ -1,0 +1,22 @@
+---
+title: Na řadě je sportovní hala – město řeší, jak velká a jak vybrat návrh
+cover-photo: https://i.ohlasy.info/i/mycprve.jpg
+author: Tomáš Trumpeš
+category: zpravodajství
+---
+
+*Generel na Červenou zahradu [je vybrán](https://ohlasy.info/clanky/2023/12/cervenka-vitez.html), místo pro sportovní halu je určeno a na radnici se tudíž rozběhla ostrá fáze příprav této stavby. Boskovice stojí hned na dvou křižovatkách – musí se rozhodnout, jakou halu vlastně chtějí, a jakým způsobem vyberou finální návrh.*
+
+{% photo src="https://i.ohlasy.info/i/mycprve.jpg" caption="Sportovní areál Červená zahrada, kde bude nová hala stát" author="Tomáš Znamenáček" width=4896 height=3264 /%}
+
+„V tuto chvíli probíhají intenzivní práce na zadání na sportovní halu,“ uvedla starostka Jana Syrovátková (Změna22) s tím, že společně s kolegy objeli několik nových sportovních hal, aby načerpali zkušenosti – a to nejen s přípravou a se stavbou, ale i s provozem.
+
+Starostka se také sešla se zástupcem České komory architektů a prodiskutovala s ním různé možnosti, jak se dostat k návrhu haly a k projektu. První varianta je klasická otevřená architektonická soutěž. Další řešení je takzvaná soutěž o návrh, kde by si radnice z přihlášených zájemců vybrala pět ateliérů, které by návrh zpracovaly, a odborná komise vybrala vítěze. A pak je ve hře ještě třetí varianta, a to je otevřená soutěž formou zvanou Design & Build. Takto se podařilo postavit třeba [novou léčebnu se speleoterapií v Ostrově u Macochy](https://www.archiweb.cz/n/souteze/detska-lecebna-se-speleoterapii-v-ostrove-u-macochy-vysledky-souteze) – v tomto modelu se nesoutěží pouze návrh, ale rovnou i zpracování projektové dokumentace a zhotovení stavby. „Všechny varianty jsou na stole. Hledáme pro a proti jednotlivých variant a na jedné z příštích rad rozhodneme, kterou cestou se dáme,“ uvedla boskovická starostka.
+
+Místostarosta Lukáš Holík (Naše Boskovice) doplnil, že před městem jsou dvě možnosti získání dotací na samotnou stavbu. Ta větší od Národní sportovní agentury by mohla činit 90 milionů, ale město by muselo vyhovět parametrům dotace, což znamená, že by muselo postavit halu výrazně velkorysejší, než je základ aktuálních požadavků. Konkrétně by musela kapacita hlediště činit ne 200, ale minimálně 300 míst, a větší požadavky by byly kupříkladu na sportovní šatny nebo na velikost restaurace. Větší kapacita hlediště zároveň znamená větší nárok na shromažďovací prostory a další bezpečnosti požadavky ze strany hasičů a hygieny. Otázka tedy je, jestli by se stavba neprodražila o výrazně víc peněz, než je 90 milionů, na které by město mohlo dosáhnout, a jestli by také neúměrně nenarostly náklady na další provoz. Druhá možná dotace rovněž z NSA by mohla činit 40 milionů korun a její podmínky jsou pro město méně zatěžující. „Je to na misce vah a rozhodujeme se, kterou cestou jít,“ uvedl místostarosta s tím, že je třeba si dát pozor, aby město nepřiplácelo za něco, co vlastně nechce. Město by se podle něj nemělo nechat dotačními podmínkami úplně svazovat.
+
+Starostka doplnila, že podobnou zkušenost získali kupříkladu v Modřicích, kde je nová hala, která má mezi architekty dobré renomé. „Podle informací od provozního jen náklady na různé servisy, revize a regulace, protože jsou tam požární klapky a odvětrávání, na hlídání a zabezpečení činí dohromady ročně 900 tisíc korun. Takže nejde jen o pořizovací náklady, které zvedne to, že se bude nafukovat obestavěný prostor, ale musíme mít na paměti i to, jaké bude hala generovat náklady do budoucna,“ řekla Jana Syrovátková s tím, že město si musí spočítat, jestli mu za tyto zvýšené náklady třeba větší kapacita hlediště stojí.
+
+V Újezdě u Brna se naopak potýkají s tím, že i podmínky nižší dotace omezují možnost prodávat hodiny v hale jen na dvacet procent provozu, což značně omezuje možnost využití. Zároveň by se tomu mohlo město přizpůsobit tím, že by změnilo systém podpory sportovních klubů, kterým dnes zčásti dává v dotacích peníze na to, aby si platily hodiny v městských sportovištích.
+
+Podle starostky i místostarosty už proběhla debata ve sportovní komisi a jednání se zástupci halových sportů a došlo ke konsenzu. Boskovičtí sportovci souhlasí s halou v základních parametrech, tedy v řekneme menší variantě, i když rozšířenější varianta by se jim samozřejmě také líbila, protože by mimo jiné zlepšila jejich zázemí.
