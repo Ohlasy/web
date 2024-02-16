@@ -46,7 +46,7 @@ Tato myšlenka mě dost trápí, v dramaturgické radě se jí snažíme aktivn�
 
 Věřím ale, že celkový počet návštěvníků i pestrost programu jsou nejlepším důkazem toho, že Prostor opravdu nefunguje pro třicet nebo padesát lidí, kteří se zde točí stále dokola, jak někdy slýchávám. A velmi důležitá je v tomto ohledu i spolupráce s řadou institucí, především s boskovickými školami – zejména základní uměleckou školou, ale i s dalšími spolky a občanskými iniciativami.
 
-Kulturu nejen přivážet, ale dávat příležitost místním, mnohdy začínajícím či studentským uměleckým a občanským aktivitám, je myslím jen z hlavních úkolů a přínosů Prostoru.
+Kulturu nejen přivážet, ale dávat příležitost místním, mnohdy začínajícím či studentským uměleckým a občanským aktivitám, je myslím jeden z hlavních úkolů a přínosů Prostoru.
 
 Stejně tak je v oblasti dramaturgie obrovským přínosem, kolik produkčních z nejrůznějších žánrů a oblastí se zapojuje. Mimo jiné proto, že využívají síť vlastních kontaktů, na které by jeden sebelepší profesionální dramaturg nikdy nedosáhl. Z toho pak v pestrosti kulturní nabídky profituje celé město.
 
