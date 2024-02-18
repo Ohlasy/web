@@ -17,6 +17,7 @@ A ještě přidáme pár odkazů na média a zdroje, o kterých v této epizodě
 * [A2larm](https://a2larm.cz)
 * [Deník Referendum](https://denikreferendum.cz)
 * [Respekt](https://www.respekt.cz)
+* [Voxpot](https://www.voxpot.cz/)
 
 Podcasty:
 
