@@ -16,6 +16,7 @@ A ještě přidáme pár odkazů na média a zdroje, o kterých v této epizodě
 * [Seznam Zprávy](https://www.seznamzpravy.cz)
 * [A2larm](https://a2larm.cz)
 * [Deník Referendum](https://denikreferendum.cz)
+* [Respekt](https://www.respekt.cz)
 
 Podcasty:
 
