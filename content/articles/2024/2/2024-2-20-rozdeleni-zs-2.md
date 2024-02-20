@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Další debata v sokolovně výrazně odkryla karty v dalších plánech města se základní školou. O případném rozdělení rozhodne mimořádné březnové zastupitelstvo.*
+*Další debata v sokolovně výrazně odkryla karty v dalších plánech města se základní školou. O případném rozdělení rozhodne březnové zastupitelstvo.*
 
 {% photo src="https://i.ohlasy.info/i/e6a9c702.jpeg" author="Tomáš Trumpeš" width=3803 height=2139 /%}
 
