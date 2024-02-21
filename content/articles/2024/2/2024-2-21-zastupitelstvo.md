@@ -9,7 +9,7 @@ category: zpravodajství
 
 {% photo src="https://i.ohlasy.info/i/fc36f512.jpg" caption="Ilustrační foto" author="Zdeněk Tesař" width=5472 height=3078 /%}
 
-První výraznější debata se tentokrát věnovala městským médiím. Zastupitelé se zabývali Zprávou o činnosti Výboru pro média a participaci, změnou statutu tohoto výboru a návrhem nových Pravidel využití informačních prostředků města Boskovice.
+První výraznější debata se tentokrát věnovala městským médiím. Zastupitelé se zabývali [Zprávou o činnosti Výboru pro média a participaci](https://data.ohlasy.info/2024/cinnost-medialniho-vyboru.pdf), změnou statutu tohoto výboru a návrhem nových Pravidel využití informačních prostředků města Boskovice.
 
 Materiály představili předseda mediálního výboru Jan Flíček (Změna22) a Jan Nádvorník (Piráti). Velká část debaty se týkala Boskovického zpravodaje, jeho nové grafické podoby i vlastní fyzické podoby po změně tiskárny. Jan Flíček uvedl, že vnímají výhrady, které se ke zpravodaji objevily, ale postupem času se podle něj podaří některé nedostatky zlepšit.
 
