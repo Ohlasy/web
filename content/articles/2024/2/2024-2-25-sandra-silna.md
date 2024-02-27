@@ -1,7 +1,7 @@
 ---
 title: Ohlasy naživo s husitskou farářkou Sandrou Silnou
 cover-photo: https://i.ohlasy.info/i/9fb98a6a.jpg
-author: Tomáš Trumpeš
+author: Magda Znamenáčková
 category: podcast
 ---
 
