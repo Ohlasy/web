@@ -71,7 +71,7 @@ Také Valentýna Provazník (Změna22) požádala o podporu rozdělení školy. 
 
 Dagmar Hamalová znovu zkritizovala přístup města ke kvalitě diskuse a poskytování informací.
 
-Na závěr dostala prostor pro diskusi přítomná veřejnost. Slova se ujal bývalý zastupitel Dušil Sušil, který uvedl, že zastupitelům rozhodování nezávidí. Jako klíčové faktory zmínil ekonomiku a aprobovanost. Dlouholetý ředitel Národohospodářské školy a bývalý zastupitel Pavel Vlach upozornil na to, že dotace jsou nenárokové a také na to, že město nedává škole všechny peníze, které na ni dostává.
+Na závěr dostala prostor pro diskusi přítomná veřejnost. Slova se ujal bývalý zastupitel Dušan Sušil, který uvedl, že zastupitelům rozhodování nezávidí. Jako klíčové faktory zmínil ekonomiku a aprobovanost. Dlouholetý ředitel Národohospodářské školy a bývalý zastupitel Pavel Vlach upozornil na to, že dotace jsou nenárokové a také na to, že město nedává škole všechny peníze, které na ni dostává.
 
 Michaela Žejšková nakonec předložila protinávrh, kterým by zastupitelé schválili pouze přípravu rozdělení školy, a to s tím, že by se vlastní rozdělení odložilo o rok – tedy na srpen 2026.
 
