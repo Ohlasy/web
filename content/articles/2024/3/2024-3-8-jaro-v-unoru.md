@@ -1,0 +1,35 @@
+---
+title: "Dobrý den, pojďte ven: Brzké jaro už od února"
+cover-photo: https://i.ohlasy.info/i/12820501.jpg
+author: Kateřina Laštůvková
+category: seriály
+serial: pojdte-ven
+---
+
+_Minulá zima byla nejteplejší za posledních sto let a ta letošní ji možná překoná. Není se tedy co divit, že už v půlce února se příroda chová jako jiné roky v dubnu. Všechno pučí, kdeco kvete, kdekdo zpívá a alergici plynule přechází z období chřipek do období pylových radovánek._
+
+{% photo src="https://i.ohlasy.info/i/12820501.jpg" caption="Lýkovec jedovatý v Melkovském údolí" author="Kateřina Laštůvková" width=3648 height=2736 /%}
+
+Dříve jsem vlastně tohle předjaří moc ráda neměla. Přišlo mi špinavé. Pocházím z Podkrkonoší, kde zima bývala (a některé roky ještě stále bývá) mrazivá se spoustou sněhu. Taková čistá. Ani pozůstatky psích vycházek nebyly tolik vidět. A pak přišlo jarní tání, všechno dosud schované pod sněhem se zase objevilo, vše bylo od bláta, tráva stále spíš hnědá než zelená, nic moc ještě nekvetlo, stromy holé, celá krajina tak nějak šedo-hnědá. A bylo to tak až téměř do dubna. Ale letošním předjařím, i když není dobré pro všechny části přírody, se skutečně kochám. Pojďte se kochat se mnou.
+
+Když půjdete podél potoků a říček se zvednutou hlavou, všimnete si změn na větvích některých stromů. Lískám, olším a osikám se protahují jehnědy. Zkuste někdy za slunečného dne lískovou větvičkou s jehnědami zatřepat. Objeví se oblak žlutého pylu. Všechny tyto druhy kvetou ještě před olistěním, takže jsou jejich dlouhé jehnědy dobře vidět. Zvlášť květy osiky jsou výrazné, dlouhé, chlupaté, připomínají vypasené housenky. Tyto dřeviny jsou první včelí pastvou, která ale poskytuje pouze pyl. První významnější nektarodárnou jarní dřevinou je vrba jíva a její kočičky.
+
+Nezaměnitelnou dřevinou, kterou na jaře poznáte nejen podle květů, ale i podle intenzivní vůně, je lýkovec jedovatý. Když se projdete listnatým nebo smíšeným lesem, například Melkovským údolím, z hnědošedého spadaného listí a holých větví na vás vyskočí růžovofialové květy nahloučené na tenkých větvích. Stačí se ke keříku přiblížit a ucítíte jeho omamnou vůni. Druhové jméno „jedovatý" nemá jen tak pro nic za nic. Jeho plody (drobné jasně červené bobule) jsou skutečně prudce jedovaté, dospělého člověka může zabít už 10 kusů. Naštěstí jsou prý ale poměrně nechutné, takže víc než jednu kuličku si nedáte.
+
+Další jarní poklady kvetou často těsně u země. Ve spárách chodníků, na suťovištích, zídkách a na krajích trávníků můžete rozpoznat drobounké bílé kvítky osívky jarní. Tato jarní kráska má velmi krátký životní cyklus, na brzkém jaře krátce zasvítí a zbytek roku čeká ve formě semen na další jaro.
+
+V zahrádkách a na okrasných plochách se jako jarní drahokamy třpytí květy krokusů, bílé, žluté i v nejrůznějších odstínech fialové. Krokus je obecně používané jméno, vlastně latinský název (_crocus_), české jméno je šafrán. Určitě znáte rčení, že něčeho je jako šafránu. Nejde v tomto případě o množství květů na jaře, ale o vzácné koření. Toto se získává z květů šafránu setého (_Crocus sativus_), který kvete fialově nebo bíle od října do listopadu. Sbírají se rezavě hnědé čnělky, které jsou v každém květu pouze tři. Na 1 kilo šafránu (koření) je třeba ručně, protože žádný stroj s tím nepomůže, nasbírat asi 100 tisíc čnělek (to znamená obrat přes 33 tisíc květů). V současnosti je to nejdražší koření na světě, proto takové rčení. Jediný gram šafránu stojí i přes 300 korun.
+
+V zahrádkách jsou prvními posly jara kromě šafránů (krokusů) žlutě kvetoucí talovíny, bílé až fialové květy čeměřice, a samozřejmě bílé krásky, sněženka podsněžník a bledule jarní. Zatímco sněženky se ve volné přírodě příliš nevyskytují, a když, tak jde nejpravděpodobněji o rostliny zplanělé ze zahrad, bledulí bývá jak naseto. Ale jen na některých místech. Místa jejich hojného výskytu pak jsou obvykle vyhlášená chráněným územím, například přírodní památky [Hersica](https://ohlasy.info/clanky/2015/03/hersica.html), Babolský háj nebo Údolí Chlébského potoka. Podmáčené lokality pokryje zelenobílý koberec a je to nádhera.
+
+{% photo src="https://i.ohlasy.info/i/6af0e1b0.jpg" caption="Bledule v Babolském háji" author="Kateřina Laštůvková" width=4000 height=2250 /%}
+
+Ale pozor, bledule jarní je podle zákona o ochraně přírody a krajiny zvláště chráněným druhem, a proto je chráněna ve všech svých nadzemních i podzemních vývojových stádiích, stejně tak je chráněn jejich biotop. Takže za trhání květů, vyrýpávání rostlin s cibulkami kvůli přesazení na zahrádku nebo za přejezd přes lokalitu například na kole vám hrozí nemalá pokuta. Kromě přímého poškozování jednotlivých rostlinek je problematický i vstup na jejich lokalitu. I velmi opatrný sešlap rostliny poškozuje, čerstvě rašící cibule jsou náchylné k mechanickému poškození stejně jako mladé listy. Na mnoha lokalitách tak dochází k úbytkům na početnosti populací bledule jarní a to je taková škoda. Osamocené trsy bílých zvonečků potěší a zvednou náladu, ale nevyrovná se to dojmům z pohledu na jednolitý rozkvetlý koberec.
+
+Na podobných lokalitách jako bledule jarní už začíná rašit oblíbený česnek medvědí. I on vyžaduje vlhké až podmáčené půdy v listnatých lesích. Než se ale dočkáte jeho jasně zelených listů, abyste z nich vykouzlili svěží jarní pomazánku nebo pesto, můžete ochutnat divoký česnek, který je právě na vrcholu. Někdy se mu říká divoký šnytlík nebo lesní pažitka, pravděpodobně jde o česnek viničný. Najdete ho v listnatých lesích, na okrajích remízků a podél lesních cest, třeba v okolí Sasiny nebo pod vodní nádrží Křetínka.
+
+{% photo src="https://i.ohlasy.info/i/4140053e.jpg" caption="Najdi skokana!" author="Kateřina Laštůvková" width=3121 height=2179 /%}
+
+A když už budete koukat pod nohy, nelekněte se, když se z ničeho nic něco pohne. Nastal čas skokanů hnědých, našeho nejčastějšího druhu takzvaných hnědých skokanů. Ano, zní to zvláštně, že skokan hnědý je druh hnědého skokana, ale to proto, že naši skokani se dělí na hnědé a zelené. Na našem území jsou tři druhy [hnědých skokanů](https:/obojzivelnici.wbs.cz/urcovani_hnedych_skokanu.pdf) (skokan hnědý, ostronosý a štíhlý) a dva druhy a jejich hybrid ze skupiny [zelených](http:/jedovatihadi.cz/wp-content/uploads/downloads/2013/10/Klic_zeleni_skokani.pdf) (skokan skřehotavý, zelený a krátkonohý). Skokani hnědí jsou naši nejotužilejší obojživelníci. Na polích často ještě leží sníh, uprostřed rybníků plují kusy ledu, ale kolem břehů, kde už led roztál a je voda, se páří skokani. Vždyť i staré české přísloví říká, že _na svatého Řehoře čáp letí přes moře a žába hubu otevře_. Řehoř má svátek až 12. března, ale skokani hnědí už se přesouvají na takzvané shromaždiště u vodních ploch, takže je můžete potkat už teď. A až hubu skutečně otevřou, aby se navzájem našli, můžete slyšet [jejich volání](https://temata.rozhlas.cz/skokan-hnedy-7946527).
+
+Ať už se vydáte do lesa, mezi pole, podél potoků nebo do městského parku, užijte si pobyt venku a mějte oči otevřené. Možná zjistíte, že když se správně díváte, na každém kroku můžete objevit něco zajímavého, čeho jste si do teď třeba nevšimli.
