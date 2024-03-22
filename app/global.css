@@ -2,13 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* We can remove this once text-balance arrives to stable Tailwind */
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
-
 body {
   font-family: serif;
   font-size: 19px;
