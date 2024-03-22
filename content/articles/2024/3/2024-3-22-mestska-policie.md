@@ -15,7 +15,7 @@ Městská policie čítá v Boskovicích osmnáct strážníků včetně ředite
 
 Základní čísla o práci městské policie říkají toto: ​​Bylo přijato 1 570 oznámení, mimo tato oznámení od občanů ještě městská policie přijala 113 oznámení od státní policie. Strážníci řešili celkem 5 741 přestupků (v roce 2022 to bylo 4 691 přestupků). Napomenutím nebo domluvou bylo vyřešeno 519 přestupků, v příkazním řízení bylo vyřešeno 2 950 přestupků, za které byly uloženy pokuty v celkové výši 1 259 400 korun (v předchozím roce 823 000 korun) a 2 272 přestupkových spisů bylo odesláno příslušným správním orgánům. Mimo dopravní přestupky městská policie zjistila a následně řešila 469 přestupků, z toho 339 jich řešila domluvou nebo v příkazním řízení a 130 jich postoupila příslušným správním orgánům – přestupkové komisi nebo dalším subjektům.
 
-{% datawrapper_chart id="DiHYX" version=5 /%}
+{% datawrapper_chart id="DiHYX" version="5" /%}
 
 Loňský rok byl podle šéfa boskovické městské policie Davida Krátkého z hlediska oznámení, kterými se strážníci zabývali, plus mínus podobný jako rok 2022. Skladba přestupků je víceméně obdobná, ale dochází k jejich nárůstu. „Město trápí hlavně nárůst dopravních přestupků,“ popsal David Krátký s tím, že městská policie řeší jak problémy s auty v pohybu, tak s jejich parkováním.
 
