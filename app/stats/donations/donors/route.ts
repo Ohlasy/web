@@ -1,6 +1,8 @@
 import { getPastYearTransactionsByMonth } from "src/data-source/darujme";
 import { unique } from "src/utils";
 
+export const dynamic = "force-dynamic";
+
 export async function GET(): Promise<Response> {
   const apiId = process.env.DARUJME_ID;
   const apiSecret = process.env.DARUJME_SECRET;
