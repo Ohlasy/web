@@ -18,7 +18,7 @@
     "@markdoc/markdoc": "^0.4.0",
     "@notionhq/client": "^2.2.14",
     "@slack/web-api": "^7.0.2",
-    "eslint": "^8.57.0",
+    "eslint": "^9.0.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "next": "^14.1.4",
@@ -29,12 +29,12 @@
     "xmlbuilder2": "^3.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.42.1",
+    "@playwright/test": "^1.43.0",
     "@types/jest": "^29.5.12",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
     "@types/react-dom": "18.x",
-    "@vercel/node": "^3.0.25",
+    "@vercel/node": "^3.0.26",
     "autoprefixer": "^10.4.19",
     "eslint-config-next": "14.x",
     "jest": "^29.7.0",
