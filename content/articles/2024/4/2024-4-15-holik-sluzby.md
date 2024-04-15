@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Ke změně kompetencí přistoupilo vedení Boskovic – místostarostka Lukáš Holík (Naše Boskovice) bude nově politicky dohlížet na městskou firmu Služby. Chce zlepšit její hospodaření a zvažuje se i rozšíření její působnosti o péči o zeleň. Starostka Jana Syrovátková (Změna22) bude nově pečovat o vztahy s podnikateli.*
+*Ke změně kompetencí přistoupilo vedení Boskovic – místostarosta Lukáš Holík (Naše Boskovice) bude nově politicky dohlížet na městskou firmu Služby. Chce zlepšit její hospodaření a zvažuje se i rozšíření její působnosti o péči o zeleň. Starostka Jana Syrovátková (Změna22) bude nově pečovat o vztahy s podnikateli.*
 
 {% photo src="https://i.ohlasy.info/i/eswiguy.jpg" caption="Od roku 2021 Služby provozují mimo jiné i systém centrálního zásobování teplem s několika kotelnami po celém městě" author="Tomáš Znamenáček" width=4340 height=2893 /%}
 
