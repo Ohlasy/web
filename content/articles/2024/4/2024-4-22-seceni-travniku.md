@@ -10,7 +10,7 @@ tags: zeleň
 
 {% photo src="https://i.ohlasy.info/i/9f66a166.jpeg" caption="Nesečený trávník v proluce U Koupadel, který má ve správě Zelená peřina" author="Tomáš Znamenáček" width=4032 height=3024 /%}
 
-Od nového vedení radnice jsme si mimo jiné slibovali posun v péči o veřejnou zeleň. V několika oblastech k k němu z našeho pohledu určitě došlo, a to zejména co se týče zakládání trvalkových květinových záhonů, které jsou z ekologického, ekonomického a dle našeho názoru i estetického hlediska přínosem. 
+Od nového vedení radnice jsme si mimo jiné slibovali posun v péči o veřejnou zeleň. V několika oblastech k němu z našeho pohledu určitě došlo, a to zejména co se týče zakládání trvalkových květinových záhonů, které jsou z ekologického, ekonomického a dle našeho názoru i estetického hlediska přínosem. 
 
 Co se týče péče o travní plochy, cítíme zklamání, smutek a marnost.
 
@@ -38,4 +38,4 @@ Nedošlo zde ke zbytečnému mrhání veřejnými prostředky? Že je ekologie p
 
 Jak to tedy je, chceme mít zdravé město se zelení přinášející užitek a lahodící oku? Chceme mít ve městě příjemné nebo alespoň snesitelné klima, nebo se v něm péci? Chceme peníze vynakládat s rozmyslem? 
 
-Letošní extrémní výkyvy teplot ukazují, že je potřeba k péči o zeleň a životní prostředí přistupovat s rozmyslem a citlivě. Velmi pravděpodobně nás čeká suché léto, na které se můžeme připravit i tím, že budeme pečovat o zeleň ve městě šetrně.
+Letošní extrémní výkyvy teplot ukazují, že je potřeba k péči o zeleň a životní prostředí přistupovat uvážlivě a citlivě. Velmi pravděpodobně nás čeká suché léto, na které se můžeme připravit i tím, že budeme pečovat o zeleň ve městě šetrně.
