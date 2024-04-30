@@ -1,6 +1,6 @@
 ---
 title: S Jiřím Davidem o knižní kultuře a o knihovně
-cover-photo: https://i.ohlasy.info/i/c3a31788.jpg
+cover-photo: https://i.ohlasy.info/i/9d647e8e.jpg
 author: Tomáš Trumpeš
 category: podcast
 tags: knihovna
