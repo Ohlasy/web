@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: podcast
 ---
 
-*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si pozvali režisérku Janu Tajovskou Krajčovičovou společně s jejím manželem, dirigentem Ondřejem Tajovským.  Ona režijně připravila scénické provedení kantáty Svatební košile Antonína Dvořáka, on řídí hudební nastudování. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, ty si zde můžete také přečíst.*
+*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si pozvali režisérku Janu Tajovskou Krajčovičovou společně s jejím manželem, dirigentem Ondřejem Tajovským. Ona režijně připravila scénické provedení kantáty Svatební košile Antonína Dvořáka, on řídí hudební nastudování. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, ty si zde můžete také přečíst.*
 
 {% spotify_episode id="1dolY4fjpIfDFLSPeKrVyw" /%}
 
@@ -15,7 +15,7 @@ Hudební publicista a organizátor Jan Hocek rozšiřuje svůj podzimní festiva
 
 ### Jezgrlz: A vy si dáte?
 
-V pátek 3. května a v sobotu 4. května ve 20 hodin budete mít možnost zhlédnout v Prostoru  autorské představení divadelního souboru Jezgrlz. Jezgrlz je soubor pěti studentek Katedry autorské tvorby a pedagogiky DAMU, *A vy si dáte?* je participační performance tematizující dění ve veřejném prostoru kavárny z pohledu zaměstnanců i hostů. Vstát, přijít, obléknout, zavázat, připravit, otevřít, usmívat se. S čím přichází do podniku zákazník a s čím zaměstnanec? Co očekáváme od servisu v kavárně? Co očekáváme od zákazníků? Doporučujeme si zakoupit vstupenky předem, odkaz najdete třeba na FB události.
+V pátek 3. května a v sobotu 4. května ve 20 hodin budete mít možnost zhlédnout v Prostoru autorské představení divadelního souboru Jezgrlz. Jezgrlz je soubor pěti studentek Katedry autorské tvorby a pedagogiky DAMU, *A vy si dáte?* je participační performance tematizující dění ve veřejném prostoru kavárny z pohledu zaměstnanců i hostů. Vstát, přijít, obléknout, zavázat, připravit, otevřít, usmívat se. S čím přichází do podniku zákazník a s čím zaměstnanec? Co očekáváme od servisu v kavárně? Co očekáváme od zákazníků? Doporučujeme si zakoupit vstupenky předem, odkaz najdete třeba na FB události.
 
 ### Duo Adamus–Marešová
 
