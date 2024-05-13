@@ -28,12 +28,12 @@
     "xmlbuilder2": "^3.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.43.1",
+    "@playwright/test": "^1.44.0",
     "@types/jest": "^29.5.12",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
     "@types/react-dom": "18.x",
-    "@vercel/node": "^3.0.28",
+    "@vercel/node": "^3.1.1",
     "autoprefixer": "^10.4.19",
     "eslint-config-next": "14.x",
     "jest": "^29.7.0",
