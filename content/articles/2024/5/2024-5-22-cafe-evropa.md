@@ -31,4 +31,4 @@ V závěru besedy zaznělo, že by hodnocení členství nemělo být redukován
 
 Zazněla i otázka, jakým přínosem jsme pro Evropskou unii my. Starostka Jana Syrovátková vidí z hlediska města velký přínos v komunikaci, potkávání se a jako hlavní přínos pro EU vidí naši kulturu. Vendula Kazlauskas v této souvislosti připomněla heslo Evropské unie *Jednota v rozmanitosti*. A doplnila, že čeští diplomaté jsou vždy oceňováni za to, že dokážou najít flexibilní řešení a dokážou takzvaně myslet *out of the box*. Pozitivně se to projevilo kupříkladu při řešení energetické krize a řešení závislosti na Rusku. Tomáš Kostelecký dodal, že pověstné české kutilství je někdy nevýhodné – to, že Češi rádi dělají věci nestandardně, může být problematické v dobrých časech, kdy platí normy, ale velmi přínosné právě v krizích. „Když nastanou netypické situace, jsou kutilství a flexibilita dobré,“ uzavřel sociolog Tomáš Kostelecký.
 
-Boskovická debata Café Evropa se konala krátce před evropskými volbami, které proběhnou v pátek 7. a v sobotu 8. května.
+Boskovická debata Café Evropa se konala krátce před evropskými volbami, které proběhnou v pátek 7. a v sobotu 8. června.
