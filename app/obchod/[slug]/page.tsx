@@ -1,3 +1,4 @@
+import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllBooks } from "src/data-source/books";
 
@@ -11,8 +12,7 @@ type Props = {
 
 export default async function Page({ params }: Props) {
   const { slug } = params;
-  const books = await getAllBooks();
-  const book = books.find((b) => b.slug === slug);
+  const book = await getBookWithSlug(slug);
   if (!book) {
     notFound();
   }
@@ -30,3 +30,23 @@ export async function generateStaticParams(): Promise<Params[]> {
   const books = await getAllBooks();
   return books.map(({ slug }) => ({ slug }));
 }
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = params;
+  const book = await getBookWithSlug(slug);
+  if (!book) {
+    return {};
+  }
+  return {
+    title: book.title,
+    description: book.description,
+    openGraph: {
+      title: book.title,
+      description: book.description,
+      images: book.coverImageUrl,
+    },
+  };
+}
+
+const getBookWithSlug = (slug: string) =>
+  getAllBooks().then((books) => books.find((b) => b.slug === slug));
