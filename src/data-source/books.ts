@@ -3,6 +3,7 @@ import {
   decodeId,
   decodePlainRichtext,
   decodeTitle,
+  decodeUrl,
   getTypedDatabaseRows,
 } from "./notion";
 
@@ -13,6 +14,8 @@ export const decodeBookProps = record({
   title: field("Název", decodeTitle),
   slug: field("URL slug", decodePlainRichtext),
   subtitle: field("Podtitul", decodePlainRichtext),
+  description: field("Anotace", decodePlainRichtext),
+  coverImageUrl: field("Fotka", decodeUrl),
   publishYear: field("Rok vydání", decodePlainRichtext),
   authors: field("Autorstvo", decodePlainRichtext),
 });
