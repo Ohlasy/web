@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getAllBooks } from "src/data-source/books";
 
@@ -17,11 +18,27 @@ export default async function Page({ params }: Props) {
     notFound();
   }
   return (
-    <div>
-      <h1>{book.title}</h1>
-      <h2>
-        {book.subtitle} ({book.publishYear})
-      </h2>
+    <div className="flex flex-col gap-7">
+      <div className="grid grid-cols-3 gap-7">
+        <div className="relative aspect-[2/3]">
+          <Image
+            src={book.coverImageUrl}
+            className="object-cover"
+            alt=""
+            fill
+          />
+        </div>
+        <div className="col-span-2 flex flex-col gap-2">
+          <div>
+            <h1>{book.title}</h1>
+            <h2>{book.subtitle}</h2>
+          </div>
+          <p>
+            {book.authors}; {book.publishYear}
+          </p>
+          <p>{book.description}</p>
+        </div>
+      </div>
     </div>
   );
 }
