@@ -1,4 +1,5 @@
 import { Article } from "./article";
+import { Book } from "./data-source/books";
 import { getTopicUrl } from "./data-source/forum";
 
 /** Site URL without trailing slash */
@@ -16,6 +17,7 @@ export const RouteTo = {
   // Dynamic routes
   article: getArticlePath,
   forumTopic: getTopicUrl,
+  book: (book: Pick<Book, "slug">) => `/obchod/${book.slug}`,
   // External routes
   archive: "http://archiv.ohlasy.info",
   forum: "https://forum.ohlasy.info",

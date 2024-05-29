@@ -5,6 +5,8 @@ import {
   boolean,
   field,
   literal,
+  nullable,
+  number,
   record,
   string,
 } from "typescript-json-decoder";
@@ -49,6 +51,17 @@ const notionTitle = record({
   ),
 });
 
+const notionId = record({
+  type: literal("unique_id"),
+  value: field(
+    "unique_id",
+    record({
+      prefix: nullable(string),
+      number: number,
+    })
+  ),
+});
+
 //
 // Value Decoders
 //
@@ -66,6 +79,8 @@ export const decodeTitle = map(notionTitle, (v) =>
 export const decodePlainRichtext = map(notionRichText, (v) =>
   string(v.value.at(0)?.plainText)
 );
+
+export const decodeId = map(notionId, (v) => v.value.number);
 
 //
 // Support
