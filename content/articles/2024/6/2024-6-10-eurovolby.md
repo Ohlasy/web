@@ -19,7 +19,7 @@ Velmi těsný rozestup dělí poslední dvě strany, které si rovněž prohodil
 
 Volební účast dosáhla v České republice 36,45 procent voličů, v Boskovicích je lehce nižší – volit přišlo 35,16 procent voličů. To představuje 3215 odevzdaných platných hlasů.
 
-Pokud by vás tedy zajímaly ne procenta, ale přesný počet voličů, kteří podpořili jednotlivé strany, vypadá výsledek v Boskovicích takto: ANO volilo 807 lidí, SPOLU 669 lidí, Stačilo 414, Přísahu a Motoristy 321, SPD a Trikoloru 179 a Piráty 172 lidí.
+Pokud by vás tedy zajímala ne procenta, ale přesný počet voličů, kteří podpořili jednotlivé strany, vypadá výsledek v Boskovicích takto: ANO volilo 807 lidí, SPOLU 669 lidí, Stačilo 414, Přísahu a Motoristy 321, SPD a Trikoloru 179 a Piráty 172 lidí.
 
 ### Preferenční hlasy
 
