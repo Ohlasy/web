@@ -1,5 +1,5 @@
 ---
-title: Základní škola: kroky k rozdělení, snížení kapacity, zápis, konkurz na ředitele, investiční dluh a nová strategie
+title: Základní škola: kroky k rozdělení, snížení kapacity, zápis, investiční dluh a nová strategie
 cover-photo: https://i.ohlasy.info/i/3893095a.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
