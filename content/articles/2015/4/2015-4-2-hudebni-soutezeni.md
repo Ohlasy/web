@@ -2,7 +2,7 @@
 title: Hudební soutěže často nadělají víc škody než užitku
 category: názory a komentáře
 cover-photo: https://i.ohlasy.info/i/ud7pn5y.jpg
-author: Kristýna Znamenáčková
+author: Kristýna Šamšulová
 tags: hudba
 ---
 

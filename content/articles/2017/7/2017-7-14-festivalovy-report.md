@@ -2,7 +2,7 @@
 title: "Dvojitá reportáž: Festival Boskovice 2017 očima Kristýny Znamenáčkové a Gianniho Bařinky"
 perex: Dojmy z festivalového programu den po dni – co zajímavého jste viděli a slyšeli?
 cover-photo: https://i.ohlasy.info/i/zmlrhos.jpg
-author: Kristýna Znamenáčková
+author: Kristýna Šamšulová
 category: zpravodajství
 ---
 

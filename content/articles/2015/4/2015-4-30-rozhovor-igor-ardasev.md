@@ -2,7 +2,7 @@
 title: "Klavírista Igor Ardašev: Je potřeba chránit si své ticho"
 category: rozhovory
 cover-photo: https://i.ohlasy.info/i/dpdgsro.jpg
-author: Kristýna Znamenáčková
+author: Kristýna Šamšulová
 featured: true
 tags: hudba kultura
 ---

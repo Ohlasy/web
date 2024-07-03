@@ -2,7 +2,7 @@
 title: Probíhá Měsíc raka. Ženy a slečny, jděte na prohlídku
 category: názory a komentáře
 cover-photo: https://i.ohlasy.info/i/q37me5n.jpg
-author: Kristýna Znamenáčková
+author: Kristýna Šamšulová
 ---
 
 *V pondělí 22. června se na internetu objevila nová stránka s názvem Měsíc raka. Její lehce provokativní a nápadité logo upoutá pozornost na první pohled, stejně jako rychlost, se kterou se tato stránka dostala do povědomí uživatelů Facebooku. Iniciátorkou projektu je Lucie Bittalová, sedmadvacetiletá studentka a aktivistka z Brna (spojovaná především s hnutími Žít Brno nebo HateFree Culture), která před necelým rokem onemocněla rakovinou děložního čípku. Prostřednictvím této kampaně se snaží upozornit ženy a dívky na riziko vzniku této nemoci a možnost prohlídek, které nezanedbatelné procento z nich nevyužívá a vystavuje se tak většímu nebezpečí. Období od 22. června do 22. července je v astronomickém kalendáři ve znamení raka, čehož kampaň využívá a [Měsíc raka](http://mesicraka.cz/), osvětová akce na podporu prevence, probíhá právě v této době.*

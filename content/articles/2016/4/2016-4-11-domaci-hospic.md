@@ -1,7 +1,7 @@
 ---
 title: „Smrt není nic, čeho by se člověk musel bát.“
 cover-photo: https://i.ohlasy.info/i/drcqte2.jpg
-author: Kristýna Znamenáčková
+author: Kristýna Šamšulová
 category: rozhovory
 featured: true
 tags:

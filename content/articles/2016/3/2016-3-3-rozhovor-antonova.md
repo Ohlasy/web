@@ -1,6 +1,6 @@
 ---
 title: „Facebook je pro mě takové větší Brno.“
-author: Kristýna Znamenáčková
+author: Kristýna Šamšulová
 cover-photo: https://i.ohlasy.info/i/0xqd6pf.jpg
 category: rozhovory
 tags: politika

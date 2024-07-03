@@ -2,7 +2,7 @@
 title: Když zmizí technika, zůstane hudba
 category: názory a komentáře
 cover-photo: https://i.ohlasy.info/i/d7clo88.jpg
-author: Kristýna Znamenáčková
+author: Kristýna Šamšulová
 tags: hudba kultura
 ---
 
