@@ -25,6 +25,7 @@ export const decodeAuthor = record({
   phoneNumber: field("telefon", optional(string)),
   profilePhotoUrl: field("profilovka", optional(decodeUrl)),
   bio: optional(string),
+  fedi: optional(string),
 });
 
 export const decodeAuthors = (value: Pojo) => {

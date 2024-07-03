@@ -7,7 +7,7 @@ import { notFound } from "next/navigation";
 import React from "react";
 import { Article, compareByDate, readArticle } from "src/article";
 import { getCachedData } from "src/data-source/cache";
-import { Author } from "src/data-source/content";
+import { Author, getAllAuthors } from "src/data-source/content";
 import {
   articleRoot,
   getFilesRecursively,
@@ -138,14 +138,18 @@ export async function generateStaticParams(): Promise<Params[]> {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = getFileSystemPathForUrlPathFragments(params.path) || notFound();
   const post = readArticle(path);
+  const authors = await getAllAuthors();
+  const author = authors.find((a) => a.name === post.author)!;
   return {
     title: post.title,
     description: post.perex,
+    authors: { name: author.name },
     openGraph: {
       title: post.title,
       description: post.perex,
       images: getResizedImageUrl(post.coverPhoto, 1920),
     },
+    other: author.fedi ? { "fediverse:creator": author.fedi! } : {},
   };
 }
 
