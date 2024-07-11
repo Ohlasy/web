@@ -47,7 +47,7 @@ Boskovice budou mít nový generel vodovodní sítě. Podle Svazku vodovodu a ka
 
 Bylo navrženo rozdělení nové dotace pro sportovní trenéry mládeže. Zájem o ni projevilo sedm klubů, mezi které poputuje půl milionu korun. Návrh, který budou schvalovat zastupitelé, vypadá po zaokrouhlení takto: FC Boskovice-Letovice – 200 tisíc, HC Boskovice 20 tisíc, Orel jednota Boskovice 68 tisíc, SKMB Boskovice 85 tisíc, Polez s námi 20 tisíc, Elite Sport Boskovice 80 tisíc a Minerva Boskovice 30 tisíc. Podle vysvětlení místostarosty Radka Šamšuly kluby nežádaly o konkrétní částky, ale půl milionu korun město rozdělilo poměrem podle vykázaných tréninkových hodin.
 
-{% datawrapper_chart id="dhafh" version=3 /%}
+{% datawrapper_chart id="dhafh" version="3" /%}
 
 ### Dar hasičům
 
