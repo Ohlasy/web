@@ -17,7 +17,7 @@ Za necelých pět milionů korun pořídí Boskovice stacionární radary na tak
 
 ### Revitalizace rybníka u Vratíkova
 
-Vodní nádrž u Vratíkova by se měla dočkat revitalizace za více než 2,5 milionu korun. „Jedná se především o odtěžení sedimentů ze zdrže, kompletní rekonstrukci spodní výpusti a hráze, která nyní nezadrží vodu, a doplnění chybějícího bezpečnostního přelivu,“ uvádí město s tím, že stávající objekty jsou ve špatném technickém stavu a na revitalizaci je zpracován projekt. Třicet procent nákladů by mohla pokrýt dotace z ministerstva zemědělství, o kterou město nyní žádá, o dalších 700 tisíc bude žádat Jihomoravský kraj.
+[Vodní nádrž u Vratíkova](https://en.mapy.cz/s/bajekevude) by se měla dočkat revitalizace za více než 2,5 milionu korun. „Jedná se především o odtěžení sedimentů ze zdrže, kompletní rekonstrukci spodní výpusti a hráze, která nyní nezadrží vodu, a doplnění chybějícího bezpečnostního přelivu,“ uvádí město s tím, že stávající objekty jsou ve špatném technickém stavu a na revitalizaci je zpracován projekt. Třicet procent nákladů by mohla pokrýt dotace z ministerstva zemědělství, o kterou město nyní žádá, o dalších 700 tisíc bude žádat Jihomoravský kraj.
 
 *⚠️ Původně jsme mylně uvedli, že jde o boskovickou přehradu, tedy vodní nádrž Boskovice. Ve skutečnosti jde o rybník nad Vratíkovem. Omlouváme se za nedorozumění.*
 
