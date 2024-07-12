@@ -1,5 +1,5 @@
 ---
-title: "Z radnice: úsekové měření, revitalizace přehrady, Farský do rady a budoucnost kruháče u pošty"
+title: "Z radnice: úsekové měření, dotace trenérům, Farský do rady a budoucnost kruháče u pošty"
 cover-photo: https://i.ohlasy.info/i/bbe4e91f.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
@@ -15,9 +15,9 @@ Důležitým bodem tiskové konference bylo představení vítězů výběrovéh
 
 Za necelých pět milionů korun pořídí Boskovice stacionární radary na takzvané úsekové měření. To bude probíhat na dvou místech – na Sokolské ulici a na ulicích Lidická, Sušilova a Dukelská. Provoz zařízení bude stát přes půl milionu korun ročně, zároveň bude ale generovat příjmy z pokut. Podle starostky Jany Syrovátkové není účelem vydělávat na pokutách, ale především zklidnit dopravu a ukáznit řidiče v místech, kde dochází k opravdu [nebezpečnému překračování rychlosti](https://ohlasy.info/clanky/2023/09/doprava-pokuty.html).
 
-### Revitalizace přehrady
+### Revitalizace rybníka u Vratíkova
 
-Vodní nádrž u Vratíkova by se měla dočkat revitalizace za více než 2,5 milionu korun. „Jedná se především o odtěžení sedimentů ze zdrže, kompletní rekonstrukci spodní výpusti a hráze, která nyní nezadrží vodu, a doplnění chybějícího bezpečnostního přelivu,“ uvádí město s tím, že stávající objekty jsou ve špatném technickém stavu a na revitalizaci je zpracován projekt. Třicet procent nákladů by mohla pokrýt dotace z ministerstva zemědělství, o kterou město nyní žádá, o dalších 700 tisíc bude žádat Jihomoravský kraj.
+Vodní nádrž u Vratíkova *(EDIT: Nejedná se o přehradu, jak jsme původně omylem uvedli, ale o rybník nad Vratíkovem)* by se měla dočkat revitalizace za více než 2,5 milionu korun. „Jedná se především o odtěžení sedimentů ze zdrže, kompletní rekonstrukci spodní výpusti a hráze, která nyní nezadrží vodu, a doplnění chybějícího bezpečnostního přelivu,“ uvádí město s tím, že stávající objekty jsou ve špatném technickém stavu a na revitalizaci je zpracován projekt. Třicet procent nákladů by mohla pokrýt dotace z ministerstva zemědělství, o kterou město nyní žádá, o dalších 700 tisíc bude žádat Jihomoravský kraj.
 
 ### Správce stavby sportovní haly
 
