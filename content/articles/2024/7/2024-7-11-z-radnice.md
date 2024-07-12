@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: úsekové měření, dotace trenérům, Farský do rady a budoucnost kruháče u pošty"
-cover-photo: https://i.ohlasy.info/i/bbe4e91f.jpeg
+cover-photo: https://i.ohlasy.info/i/b4ea6e46.jpg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které oznámilo po jednání městské rady na začátku července vedení města – starostka Jana Syrovátková (Změna22), místostarostové Lukáš Holík (Naše Boskovice) a Radek Šamšula (Piráti).*
 
-{% photo src="https://i.ohlasy.info/i/bbe4e91f.jpeg" caption="Vratíkovská přehrada" author="Tomáš Znamenáček" width=1280 height=849 /%}
+{% photo src="https://i.ohlasy.info/i/b4ea6e46.jpg" caption="Křižovatka u pošty" author="Tomáš Znamenáček" width=1280 height=849 /%}
 
 Důležitým bodem tiskové konference bylo představení vítězů výběrového řízení na ředitele škol, mateřské i základní. Stali se jimi Renáta Klimešová a Martin Staněk, podrobnosti jsme popsali [v samostatném textu](https://ohlasy.info/clanky/2024/07/reditele.html).
 
