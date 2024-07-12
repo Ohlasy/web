@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které oznámilo po jednání městské rady na začátku července vedení města – starostka Jana Syrovátková (Změna22), místostarostové Lukáš Holík (Naše Boskovice) a Radek Šamšula (Piráti).*
 
-{% photo src="https://i.ohlasy.info/i/b4ea6e46.jpg" caption="Křižovatka u pošty" author="Tomáš Znamenáček" width=1280 height=849 /%}
+{% photo src="https://i.ohlasy.info/i/b4ea6e46.jpg" caption="Křižovatka u pošty" author="Tomáš Trumpeš" width=2466 height=1644 /%}
 
 Důležitým bodem tiskové konference bylo představení vítězů výběrového řízení na ředitele škol, mateřské i základní. Stali se jimi Renáta Klimešová a Martin Staněk, podrobnosti jsme popsali [v samostatném textu](https://ohlasy.info/clanky/2024/07/reditele.html).
 
@@ -17,7 +17,9 @@ Za necelých pět milionů korun pořídí Boskovice stacionární radary na tak
 
 ### Revitalizace rybníka u Vratíkova
 
-Vodní nádrž u Vratíkova *(EDIT: Nejedná se o přehradu, jak jsme původně omylem uvedli, ale o rybník nad Vratíkovem)* by se měla dočkat revitalizace za více než 2,5 milionu korun. „Jedná se především o odtěžení sedimentů ze zdrže, kompletní rekonstrukci spodní výpusti a hráze, která nyní nezadrží vodu, a doplnění chybějícího bezpečnostního přelivu,“ uvádí město s tím, že stávající objekty jsou ve špatném technickém stavu a na revitalizaci je zpracován projekt. Třicet procent nákladů by mohla pokrýt dotace z ministerstva zemědělství, o kterou město nyní žádá, o dalších 700 tisíc bude žádat Jihomoravský kraj.
+Vodní nádrž u Vratíkova by se měla dočkat revitalizace za více než 2,5 milionu korun. „Jedná se především o odtěžení sedimentů ze zdrže, kompletní rekonstrukci spodní výpusti a hráze, která nyní nezadrží vodu, a doplnění chybějícího bezpečnostního přelivu,“ uvádí město s tím, že stávající objekty jsou ve špatném technickém stavu a na revitalizaci je zpracován projekt. Třicet procent nákladů by mohla pokrýt dotace z ministerstva zemědělství, o kterou město nyní žádá, o dalších 700 tisíc bude žádat Jihomoravský kraj.
+
+*⚠️ Původně jsme mylně uvedli, že jde o boskovickou přehradu, tedy vodní nádrž Boskovice. Ve skutečnosti jde o rybník nad Vratíkovem. Omlouváme se za nedorozumění.*
 
 ### Správce stavby sportovní haly
 
