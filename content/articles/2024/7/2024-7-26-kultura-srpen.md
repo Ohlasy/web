@@ -31,7 +31,7 @@ Minulý rok dostali do Boskovic Flowdana, vítěze Grammy Award, a ani letos net
 
 ### Hrnek Street Party
 
-Hrnek Street Party je název akce, která proběhne v sobotu 17. srpna od 14 hodin na Zborovské ulici a kterou jsme částečně představili už v předchozím dílu našeho podcastu, totiž v [rozhovoru s Václavem Cikánem, provozovatelem čajovny a kafírny](https://ohlasy.info/clanky/2024/07/cajovna-kafirna.html). Akce je totiž právě jakousi jubilejní party těchto podniků, které slaví 30 a 20 let. Zahrají zde DJ O-Charm, Mothers Angels, Hard to Frame, Omnion, Moimir Papalescu a The Stylists s Tonyou Graves.
+Hrnek Street Party je název akce, která proběhne v sobotu 17. srpna od 14 hodin na Zborovské ulici a kterou jsme částečně představili už v předchozím dílu našeho podcastu, totiž v [rozhovoru s Václavem Cikánem, provozovatelem čajovny a kafírny](https://ohlasy.info/clanky/2024/07/cajovna-kafirna.html). Akce je totiž právě jakousi jubilejní party těchto podniků, které slaví 30 a 20 let. Zahrají zde DJ O-Charm, Mothers Angels, Hard to Frame, Omnion, Moimir Papalescu and The Stylists s Tonyou Graves.
 
 ### Silver Fest 2024
 
