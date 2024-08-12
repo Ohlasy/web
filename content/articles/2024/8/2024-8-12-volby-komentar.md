@@ -4,9 +4,9 @@ cover-photo: https://i.ohlasy.info/i/8ced9422.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:
-	- volby
-	- politika
-	- krajské volby 2024
+    - volby
+    - politika
+    - krajské volby 2024
 ---
 
 *Do krajských voleb, které se konají v pátek 20\. a v sobotu 21\. září, sice zbývá už jen pár týdnů, ale horké je zatím jen počasí. Vzhledem k prázdninám teď politika moc nikoho nezajímá a tímto komentářem tedy vstupujeme do poměrně chladné fáze kampaně. Blíží se volby, které by v našem kraji mohly být docela napínavé, i když jinak, než to na první pohled vypadá.*
