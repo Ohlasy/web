@@ -15,10 +15,10 @@ Hlavním záměrem města je přestěhovat do budovy po rekonstrukci středisko 
 
 Prostor v podkroví bude rozdělen na poloviny – jedna je podle městské architektky plánována pro pionýry a druhá pro skauty. Tímto bude celá budova kompletně obsazená a žádné volné prostory už zde nezůstanou. 
 
-Na projektu aktuálně pracuje architektonické studio [Martina Doležela](https://ohlasy.info/clanky/2024/01/rozhovor-dolezel.html), vítěze architektonického návrhu na sportovní halu, společně právě s městskou architektkou Andreou Prajsovou. „Koncem září bude architekt odevzdávat projektovou přípravu, poté budeme vyřizovat stavební povolení a prováděcí dokumentaci. Už proběhl stavebně technický průzkum, podle kterého je budova ve velmi dobrém stavu,“ popsala Andrea Prajsová.
+Na projektu aktuálně pracuje architektonické studio [Martina Doležela](https://ohlasy.info/clanky/2024/01/rozhovor-dolezel.html), vítěze architektonického návrhu na sportovní areál v Červené zahradě, společně právě s městskou architektkou Andreou Prajsovou. „Koncem září bude architekt odevzdávat architektonickou studii, poté budeme vyřizovat stavební povolení a prováděcí dokumentaci. Už proběhl stavebně technický průzkum, podle kterého je budova ve velmi dobrém stavu,“ popsala Andrea Prajsová.
 
 Budova je nyní přístupná vchodem z ulice Svatopluka Čecha mezi bytovými domy. Vjezd z Legionářské ulici je nedostupný, protože tuto část pozemků město již dříve prodalo soukromému developerovi, který zde připravuje výstavbu bytových domů [na místě bývalého boskovického hřbitova](https://ohlasy.info/clanky/2020/06/kosti-mrtvych.html).
 
 Ve hře je stále možnost vytvoření přístupu z ulice Hybešovy, tedy od České pošty. „Architekt připravuje způsob, jak tyto pozemky napojit na pozemek, který patří církvi. Část pozemku je i v majetku České pošty, se kterou také budeme jednat,“ uvedla městská architektka.
 
-Město zatím nedisponuje vizualizací nové podoby objektu po rekonstrukci, ta bude k dispozici až po odevzdání projektové dokumentace koncem září nebo začátkem října. Stejně tak rozpočet ani harmonogram rekonstrukce budovy město zatím nemá, konkrétní čísla a data bude vědět, až bude mít prováděcí studii.
+Město zatím nedisponuje vizualizací nové podoby objektu po rekonstrukci, ta bude k dispozici až po odevzdání architektonické studie koncem září. Stejně tak rozpočet ani harmonogram rekonstrukce budovy město zatím nemá, konkrétní čísla a data bude vědět, až bude mít prováděcí dokumentaci.
