@@ -47,7 +47,8 @@
   },
   "jest": {
     "roots": [
-      "src"
+      "src",
+      "app"
     ],
     "moduleDirectories": [
       "node_modules",
