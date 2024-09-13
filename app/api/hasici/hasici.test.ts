@@ -1,9 +1,15 @@
-import { decodeIncidentFeed } from "./upstream";
+import { buildUrlForDay, decodeIncidentFeed } from "./upstream";
 
 test("Decode sample feed", () => {
   const feed = decodeIncidentFeed(sampleFeed);
   expect(feed.length).toBe(13);
-  console.log(feed.filter((report) => report.orp === "Boskovice"));
+});
+
+test("Build URL for given date", () => {
+  const url = buildUrlForDay(new Date("2024-09-13T00:00:00.000Z"));
+  expect(url).toBe(
+    "https://udalosti.firebrno.cz/api/?casOd=2024-09-12T00:00:00.000Z&casDo=2024-09-13T00:00:00.000Z&krajId=116&okresId=3701&background=true&stavIds=210&stavIds=400&stavIds=410&stavIds=420&stavIds=430&stavIds=440&stavIds=500&stavIds=510&stavIds=520&stavIds=600&stavIds=610&stavIds=620&stavIds=700&stavIds=710&stavIds=750&stavIds=760&stavIds=780&stavIds=800"
+  );
 });
 
 const sampleFeed = [

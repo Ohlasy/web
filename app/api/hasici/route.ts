@@ -1,10 +1,9 @@
 import { renderFeed, RSSFeed, RSSFeedItem } from "src/feeds";
-import { decodeIncidentFeed, IncidentReport } from "./upstream";
+import { buildUrlForDay, decodeIncidentFeed, IncidentReport } from "./upstream";
 import { absolute } from "src/routing";
 
 export async function GET(): Promise<Response> {
-  const feedUrl =
-    "https://udalosti.firebrno.cz/api/?casOd=2024-09-12T22:00:00.000Z&casDo=2024-09-13T21:59:59.999Z&krajId=116&okresId=3701&background=true&stavIds=210&stavIds=400&stavIds=410&stavIds=420&stavIds=430&stavIds=440&stavIds=500&stavIds=510&stavIds=520&stavIds=600&stavIds=610&stavIds=620&stavIds=700&stavIds=710&stavIds=750&stavIds=760&stavIds=780&stavIds=800";
+  const feedUrl = buildUrlForDay(new Date());
   const incidentFeed = await fetch(feedUrl)
     .then((response) => response.json())
     .then(decodeIncidentFeed)
