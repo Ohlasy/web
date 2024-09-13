@@ -9,11 +9,26 @@ import {
   string,
 } from "typescript-json-decoder";
 
+export const incidentTypes: Record<string, string | undefined> = {
+  "3200": "dopravní nehoda",
+  "3500": "technická pomoc",
+};
+
+export const incidentSubtypes: Record<string, string | undefined> = {
+  "3212": "uvolnění komunikace, odtažení",
+  "3505": "odstranění stromu",
+  "3527": "čerpání vody",
+  "3501": "odstranění nebezpečných stavů",
+  "3526": "odstraňování překážek",
+};
+
 export type IncidentReport = decodeType<typeof decodeIncidentReport>;
 export const decodeIncidentReport = record({
   id: number,
   orp: field("ORP", string),
   obec: string,
+  typId: number,
+  podtypId: number,
   castObce: nullable(string),
   ulice: nullable(string),
   casVzniku: nullable(date),

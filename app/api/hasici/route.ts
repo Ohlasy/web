@@ -1,5 +1,11 @@
 import { renderFeed, RSSFeed, RSSFeedItem } from "src/feeds";
-import { buildUrlForDay, decodeIncidentFeed, IncidentReport } from "./upstream";
+import {
+  buildUrlForDay,
+  decodeIncidentFeed,
+  IncidentReport,
+  incidentSubtypes,
+  incidentTypes,
+} from "./upstream";
 import { absolute } from "src/routing";
 
 export async function GET(): Promise<Response> {
@@ -31,12 +37,17 @@ export async function GET(): Promise<Response> {
 }
 
 function incidentReportToFeedItem(report: IncidentReport): RSSFeedItem {
+  const type = incidentTypes[String(report.typId)] ?? "neznáme";
+  const subtype = incidentSubtypes[String(report.podtypId)] ?? "neznáme";
+  const description = `
+Typ události: ${report.typId} (${type})
+Podtyp události: ${report.podtypId} (${subtype})
+Poznámka pro média: ${report.poznamkaProMedia ?? "(není)"}
+`;
   return {
-    title: [report.obec, report.castObce, report.ulice]
-      .filter((item) => !!item)
-      .join(" / "),
-    description: report.poznamkaProMedia ?? "",
+    title: report.ulice ? `${report.obec} (${report.ulice})` : report.obec,
     pubDate: report.casOhlaseni,
+    description,
     guid: {
       value: String(report.id),
       isPermaLink: false,
