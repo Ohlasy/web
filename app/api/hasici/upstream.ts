@@ -12,6 +12,7 @@ import {
 export const incidentTypes: Record<string, string | undefined> = {
   "3200": "dopravní nehoda",
   "3500": "technická pomoc",
+  "3100": "požár",
 };
 
 export const incidentSubtypes: Record<string, string | undefined> = {
@@ -20,6 +21,7 @@ export const incidentSubtypes: Record<string, string | undefined> = {
   "3527": "čerpání vody",
   "3501": "odstranění nebezpečných stavů",
   "3526": "odstraňování překážek",
+  "3107": "trafostanice, rozvodny",
 };
 
 export type IncidentReport = decodeType<typeof decodeIncidentReport>;
