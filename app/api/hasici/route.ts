@@ -8,6 +8,8 @@ import {
 } from "./upstream";
 import { absolute } from "src/routing";
 
+export const dynamic = "force-dynamic";
+
 export async function GET(): Promise<Response> {
   const feedUrl = buildUrlForDay(new Date());
   const incidentFeed = await fetch(feedUrl)
@@ -31,6 +33,7 @@ export async function GET(): Promise<Response> {
   return new Response(renderFeed(rssFeed), {
     status: 200,
     headers: {
+      "Cache-Control": "s-maxage=300, stale-while-revalidate",
       "Content-Type": "application/rss+xml",
     },
   });
