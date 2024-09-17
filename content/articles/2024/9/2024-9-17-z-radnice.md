@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Novinky z boskovické radnice, které oznámilo po mimořádném prázdninovém jednání městské rady na začátku září vedení města – tentokrát se tiskové konference účastili pouze místostarosta Lukáš Holík a tajemník David Škvařil.*
+*Novinky z boskovické radnice, které oznámilo po jednání městské rady na začátku září vedení města – tentokrát se tiskové konference účastili pouze místostarosta Lukáš Holík a tajemník David Škvařil.*
 
 {% photo src="https://i.ohlasy.info/i/64395be7.jpeg" caption="Slavnostní otevření galerie PRUH" author="Monika Šindelková" width=1335 height=890 /%}
 
