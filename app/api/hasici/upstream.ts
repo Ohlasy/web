@@ -24,6 +24,7 @@ export const incidentSubtypes: Record<string, string | undefined> = {
   "3526": "odstraňování překážek",
   "3107": "trafostanice, rozvodny",
   "3401": "na pozemní komunikaci",
+  "3214": "se zraněním",
 };
 
 export type IncidentReport = decodeType<typeof decodeIncidentReport>;
