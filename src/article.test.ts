@@ -8,16 +8,14 @@ const allArticlePaths = getFilesRecursively("content/articles")
   .filter((path) => path.endsWith(".md"));
 
 test.each(allArticlePaths)("Decode %s", (path) => {
-  try {
-    const article = readArticle(path);
-    const syntaxTree = Markdoc.parse(article.body);
-    const bodyErrors = Markdoc.validate(syntaxTree, defaultMarkdocConfig)
-      // TBD: fix later
-      .filter((e) => e.error.id !== "child-invalid");
-    bodyErrors.forEach((e) => fail(e));
-  } catch (e) {
-    fail(`Article fails to decode`);
-  }
+  const article = readArticle(path);
+  const syntaxTree = Markdoc.parse(article.body);
+  const bodyErrors = Markdoc.validate(syntaxTree, defaultMarkdocConfig)
+    // TBD: fix later
+    .filter((e) => e.error.id !== "child-invalid");
+  bodyErrors.forEach((e) => {
+    throw e;
+  });
 });
 
 test("Parse article path", () => {
