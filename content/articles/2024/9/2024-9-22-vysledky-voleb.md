@@ -25,7 +25,7 @@ Do krajského zastupitelstva se dostala ještě další dvě uskupení: SPD a St
 
 Volební účast činila v Jihomoravském kraji 35 procent. Na okrese Blansko to bylo přes 36 procent, v Boskovicích jen přes 33 procent.
 
-{% datawrapper_chart id="tdvtU" version=7 /%}
+{% datawrapper_chart id="tdvtU" version="7" /%}
 
 ### Preferenční hlasy
 
