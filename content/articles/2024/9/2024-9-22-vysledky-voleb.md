@@ -1,6 +1,6 @@
 ---
 title: "Jak jsme volili v krajských volbách: V Boskovicích vyhrálo ANO, vyšel i „zázračný“ regionální mandát"
-cover-photo: https://i.ohlasy.info/i/14fdd821.jpeg
+cover-photo: https://i.ohlasy.info/i/380bd0b5.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags:
