@@ -17,14 +17,15 @@ export const incidentTypes: Record<string, string | undefined> = {
 };
 
 export const incidentSubtypes: Record<string, string | undefined> = {
-  "3212": "uvolnění komunikace, odtažení",
-  "3505": "odstranění stromu",
-  "3527": "čerpání vody",
-  "3501": "odstranění nebezpečných stavů",
-  "3526": "odstraňování překážek",
   "3107": "trafostanice, rozvodny",
-  "3401": "na pozemní komunikaci",
+  "3212": "uvolnění komunikace, odtažení",
+  "3213": "úklid vozovky",
   "3214": "se zraněním",
+  "3401": "na pozemní komunikaci",
+  "3501": "odstranění nebezpečných stavů",
+  "3505": "odstranění stromu",
+  "3526": "odstraňování překážek",
+  "3527": "čerpání vody",
 };
 
 export type IncidentReport = decodeType<typeof decodeIncidentReport>;
