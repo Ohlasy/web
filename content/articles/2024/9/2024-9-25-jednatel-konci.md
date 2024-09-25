@@ -8,7 +8,7 @@ tags: nemocnice
 
 *Půl roku. Tak dlouho vydržel v čele boskovické nemocnice jednatel Radim Dembiňák. Rezignaci oznámil podle informací Ohlasů už po úterním jednání zastupitelstva, oficiálně ji podal druhý den. Hned ve středu se sejde mimořádná rada města, která bude situaci řešit.*
 
-{% photo src="https://i.ohlasy.info/i/44b15d72.jpeg" author="Tomáš Trumpeš" /%}
+{% photo src="https://i.ohlasy.info/i/44b15d72.jpeg" author="Tomáš Trumpeš" width=3000 height=2000 /%}
 
 Ve středu dopoledne město zveřejnilo informaci, že jednatel Radim Dembiňák odchází ze své funkce z osobních důvodů. S končícím jednatelem se Ohlasům spojit nepodařilo; tisková mluvčí nemocnice Eliška Windová rezignaci jednatele pouze potvrdila a uvedla, že podrobnější informace budou až po mimořádném jednání městské rady, která je valnou hromadou nemocnice.
 
