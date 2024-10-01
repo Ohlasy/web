@@ -18,6 +18,9 @@ export const incidentTypes: Record<string, string | undefined> = {
 
 export const incidentSubtypes: Record<string, string | undefined> = {
   "3107": "trafostanice, rozvodny",
+  "3108": "dopravní prostředky",
+  "3110": "lesního porostu",
+  "3111": "odpad, ostatní",
   "3212": "uvolnění komunikace, odtažení",
   "3213": "úklid vozovky",
   "3214": "se zraněním",
