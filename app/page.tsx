@@ -40,7 +40,6 @@ const Page = async () => {
     10
   );
   const opinions = filterCategory("názory a komentáře");
-  const interviews = filterCategory("rozhovory");
   const podcast = filterCategory("podcast");
   const serials = filterCategory("seriály");
   const bannerGenerator = endlessGeneratorOf(banners);

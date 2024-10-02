@@ -53,7 +53,7 @@ export default function RootLayout({ children }: Props) {
       <body>
         <div className={mainFont.className}>
           <NavBar />
-          <div className="max-w-6xl m-auto px-3 md:px-7">{children}</div>
+          <div className="max-w-6xl m-auto px-5 md:px-7">{children}</div>
           <Footer />
         </div>
       </body>
@@ -63,7 +63,7 @@ export default function RootLayout({ children }: Props) {
 
 const NavBar = () => {
   return (
-    <nav className="mb-3 md:mb-6 bg-lightGray py-3 lg:py-5 border-silver border-b-[1px]">
+    <nav className="mb-4 md:mb-6 bg-lightGray py-3 lg:py-5 border-silver border-b-[1px]">
       <div className="max-w-6xl m-auto px-3 md:px-7 overflow-hidden text-2xl lg:text-[42px] uppercase">
         <div>
           <Link
