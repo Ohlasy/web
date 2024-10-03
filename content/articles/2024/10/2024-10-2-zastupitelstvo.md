@@ -39,7 +39,7 @@ Velká část diskuse zastupitelstva se týkala procesních záležitostí, kdy 
 
 Dále se diskutovalo, jestli a do jaké míry má zastupitelstvo zasahovat do záměrů majitelů pozemků, nebo jestli mají nechat vše na stavebním řízení a jeho zákonných limitech.
 
-Koalice byla v této otázce nejednotná. Pro přepracování územní změny a omezení stavitelů byla Změna22 a Piráti. K nim se nakonec nepřidala opozice a zastupitelstvo tak změnu územního plánu schválilo v navržené podobě. Hlasování způsobilo rozpory nejen v koalici a opozici, ale i uvnitř některých uskupení. Pro schválení hlasovalo SPOLU a Naše Boskovice, k nim se přidali sociální demokraté Petr Malach a Oldřich Kovář a Pirát Jan Nádvorník. To zajistilo většinu 16 mandátů. Schválení nepodpořila Změna22 a také sociální demokraté Hana Nedomová a Milan Janáč a Pirát Radek Šamšula.
+Koalice byla v této otázce nejednotná. Pro přepracování územní změny a omezení stavitelů byla Změna22 a Piráti. K nim se nakonec nepřidala opozice a zastupitelstvo tak změnu územního plánu schválilo v navržené podobě. Hlasování způsobilo rozpory nejen v koalici a opozici, ale i uvnitř některých uskupení. Pro schválení hlasovalo SPOLU a Naše Boskovice, k nim se přidali sociální demokraté Petr Malach a Oldřich Kovář a Pirát Jan Nádvorník. To zajistilo většinu 16 mandátů. Schválení nepodpořila Změna22 a také sociální demokraté Hana Nedomová a Milan Janáč a Pirát Radek Šamšula. Proti byl i Karel Trefný z SPD a Trikolory.
 
 Na samotný závěr zastupitelstva pak ještě Dagmar Hamalová prosadila uspořádání zastupitelského semináře k této lokalitě a dalšímu postupu.
 
