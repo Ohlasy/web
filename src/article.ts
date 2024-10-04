@@ -9,7 +9,6 @@ import {
   decodeType,
   field,
   optional,
-  Pojo,
   record,
   string,
   union,
