@@ -53,6 +53,6 @@ Pro Ohlasy byl letošní rok možná trochu nečekaně úplně nejúspěšnějš
 
 Novinkou letošního roku je rozesílání pravidelného [měsíčního newsletteru](https://newsletter.ohlasy.info/), který shrnuje a trochu komentuje dění za uplynulý měsíc. První vyšel v únoru, zájem o newsletter nás moc těší a při pročítání jednotlivých dílů si můžete připomenout, jak se vyvíjela nejrůznější témata v průběhu roku.
 
-Dalším důležitým posunem pro Ohlasy byl vznik pravidelného kulturního podcastu a obecně mnohem větší intenzita natáčení [našeho podcastu](https://archiv.ohlasy.info/?rubrika=podcast). V tom chceme určitě pokračovat, plánujeme nějaké zásadní novinky, o kterých budeme informovat v příštím roce. I zde nás zájem posluchačů velmi těší.
+Dalším důležitým posunem pro Ohlasy byl vznik pravidelného kulturního podcastu a obecně mnohem větší intenzita natáčení [našeho podcastu](/podcast/). V tom chceme určitě pokračovat, plánujeme nějaké zásadní novinky, o kterých budeme informovat v příštím roce. I zde nás zájem posluchačů velmi těší.
 
 Závěrem tedy děkujeme za opravdu mimořádnou přízeň a na viděnou v Ohlasech v roce 2024, kdy načneme desátý rok existence našich novin!
