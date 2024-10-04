@@ -1,6 +1,6 @@
 "use client";
 
-import { Article } from "src/article";
+import { Metadata } from "src/article";
 import { Filter, FilterOptions, filters, match, Settings } from "./filters";
 import Link from "next/link";
 import Image from "next/image";
@@ -10,7 +10,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { ChangeEvent } from "react";
 
 type Props = {
-  allArticles: ReadonlyArray<Article>;
+  allArticles: ReadonlyArray<Metadata>;
   filterOptions: FilterOptions;
 };
 
@@ -133,7 +133,7 @@ export const FilterControl = (props: FilterControlProps) => {
   );
 };
 
-const ArticlePreview = ({ article }: { article: Article }) => {
+const ArticlePreview = ({ article }: { article: Metadata }) => {
   const formatDate = (d: string) =>
     new Date(d).toLocaleDateString("cs-CZ", { dateStyle: "medium" });
   return (
@@ -162,5 +162,5 @@ const ArticlePreview = ({ article }: { article: Article }) => {
 };
 
 /** Compare articles by publish date, sorting last published first */
-const compareByDate = <A extends Pick<Article, "date">>(a1: A, a2: A) =>
+const compareByDate = <A extends Pick<Metadata, "date">>(a1: A, a2: A) =>
   Date.parse(a2.date) - Date.parse(a1.date);
