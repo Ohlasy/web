@@ -24,9 +24,11 @@ Texty Pavla Kolmačky mají tendenci zakořenit v nitru čtenářů, v mém př�
 
 „Bůh rozsápán, rozházen.  
 V červáncích dopadá  
-do trávy v zahradách.“  
-*(ze sbírky Wittgenstein bije žáka, 2014)*
+do trávy v zahradách.“
 
+*(ze sbírky Wittgenstein bije žáka, 2014)*
+  
+  
 „Hle, každodenní znamení:  
 nebe se barví rudě,  
 na stole hrnec s lečem.  
@@ -37,9 +39,11 @@ Výmluvné, jasné mlčení
 všedních a přehlížených věcí.  
 Za okny ve vsi, za plotem  
 Večerníček se s kotrmelci  
-vrhá vstříc prázdnotě.“  
-*(ze sbírky Viděl jsi že jsi, 1998)*
+vrhá vstříc prázdnotě.“
 
+*(ze sbírky Viděl jsi že jsi, 1998)*
+  
+  
 Kde se to vzalo? Jak tohle může někdo vymyslet? – napadalo mě často při čtení Pavlových básní.
 
 Pavel si ale svoje texty nevymýšlí. Spíš je zachycuje. Taková je jeho metoda. Pozorně naslouchat, vnímat. A pak zapisovat. Nechat slova a příběhy samy přicházet. Opakovaně se potkávat se svými postavami. Nechat je žít takové, jaké jsou, a žasnout nad tím, jak se potýkají se svým osudem. Pavel nevěděl dopředu, jak příběh románu *Canto ostinato* uzavře, jak bude román dlouhý a co přesně prožijí jeho postavy. Prostě šel s nimi, ponořil se do jejich tužeb, víry, strachu, minulosti a každodenního života.
@@ -59,10 +63,8 @@ Pavel netvoří pro masy, ale pro jednotlivce. Těm ale jeho texty proměňují 
 
 „Den v zoo.  
 
-
 Nedělní otcové s půjčenými dětmi  
 míjejí výběhy.  
-
 
 Zírají do mlhy, tam někde stojí lamy.  
 Srovnáni s ženami, jež sveřepě nakupují,  
@@ -78,6 +80,7 @@ schovanou v rukavici,
 z řeky jde zima, zítra pondělí.  
 Sloni jsou bez nálady,  
 tučňáci veselí.“  
+
 *(ze sbírky Wittgenstein bije žáka)*
 
 Pavlovy texty jsou tu pro všechny hladové po hloubce a doteku s opravdovým životem včetně toho, co jej přesahuje. Pokud jste o Pavlovi zatím jen něco slyšeli, nebo třeba zachytili zprávu o Seifertově ceně, zkuste se začíst do jeho textů. Zvou nás k tomu podzimní plískanice, mlhy, kaštany a zpožděné rychlíky ve Skalici.
