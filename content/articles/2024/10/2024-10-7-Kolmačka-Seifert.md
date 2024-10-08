@@ -3,7 +3,6 @@ title: Pavel Kolmačka dostal Seifertovu cenu
 cover-photo: https://i.imgur.com/uPLLR9p.jpg
 author: Ondřej Sabol
 category: názory a komentáře
-published: false
 ---
 
 *Na konci září převzal básník, prozaik a překladatel Pavel Kolmačka Cenu Jaroslava Seiferta za svůj román Canto ostinato s přihlédnutím k dřívější tvorbě. Zařadil se tak definitivně mezi klasiky české literatury. Pavel Kolmačka ale nepíše kvůli cenám nebo uznání. Tvoří v ústraní a jeho duchovní témata patří spíše na okraj zájmu většiny čtenářů. Svými texty ale dokáže čtenářům proměnit den, vnímání světa a možná i život. Osobní čtenářské laudatio na oceněného literáta Pavla Kolmačku napsal pro Ohlasy Ondřej Sabol.*
