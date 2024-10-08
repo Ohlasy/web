@@ -27,7 +27,6 @@ do trávy v zahradách.“
 
 *(ze sbírky Wittgenstein bije žáka, 2014)*
   
-
   
 „Hle, každodenní znamení:  
 nebe se barví rudě,  
