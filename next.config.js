@@ -74,6 +74,11 @@ const nextConfig = {
         destination: "https://www.darujme.cz/projekt/1202392",
         permanent: false,
       },
+      {
+        source: "/clanky/:year(\\d{4})",
+        destination: "/clanky/?rok=:year",
+        permanent: false,
+      },
     ];
   },
 };

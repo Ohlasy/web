@@ -6,7 +6,7 @@ category: seriály
 serial: jazyk
 ---
 
-*Naše [seznamování s jazyky, kterými se mluví na Ukrajině](https://archiv.ohlasy.info/?serial=jazyk), by nebylo úplné, kdybychom si něco nepověděli o českém osídlení na jejím území a podobě tamní češtiny. Jedná se hlavně o historické území Volyň na dnešní severozápadní Ukrajině. Nejvýznamnějšími centry této oblasti jsou města Žitomir (ukrajinsky Žytomyr), Rovno (Rivne) a Luck (Luc’k).*
+*Naše [seznamování s jazyky, kterými se mluví na Ukrajině](/archiv/?serial=jazyk), by nebylo úplné, kdybychom si něco nepověděli o českém osídlení na jejím území a podobě tamní češtiny. Jedná se hlavně o historické území Volyň na dnešní severozápadní Ukrajině. Nejvýznamnějšími centry této oblasti jsou města Žitomir (ukrajinsky Žytomyr), Rovno (Rivne) a Luck (Luc’k).*
 
 {% photo src="https://i.ohlasy.info/i/b6c6fa8a.jpg" caption="Volyňští evangelíci po návratu do vlasti na Řípu při zájezdu do Krabčic, 22. 6. 1947" author="Českobratrská církev evangelická" width=1245 height=859 /%}
 
