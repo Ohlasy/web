@@ -28,7 +28,7 @@ export const ArchiveView = ({ allArticles, filterOptions }: Props) => {
 
   // Update filter settings by changing the URL
   const setSettings = (settings: Record<string, string>) =>
-    router.replace("/archiv/?" + new URLSearchParams(settings));
+    router.replace("/clanky/?" + new URLSearchParams(settings));
 
   // Update settings based on events from the filter panel
   const updateSettings = (id: string, newValue: string | undefined) => {
