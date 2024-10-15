@@ -156,25 +156,28 @@ export type TopArticleBoxProps = {
 const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
   <div className="grid lg:grid-cols-3 gap-7">
     <ol className="col-span-2 grid md:grid-cols-2 gap-7">
-      {topArticles.slice(0, 10).map((entry, index) => (
-        <li
-          key={entry.title}
-          className={`flex gap-4 ${index >= 5 ? "max-md:hidden" : ""}`}
-        >
-          <span className="block text-2xl text-[#666] text-right w-[3ex] flex-none">
-            {index + 1}
-          </span>
-          <Link
-            className={plausibleEventClass({
-              name: "Internal Link",
-              type: "top-articles-box",
-            })}
-            href={entry.path}
+      {topArticles
+        .filter((e) => !!e.title)
+        .slice(0, 10)
+        .map((entry, index) => (
+          <li
+            key={entry.title}
+            className={`flex gap-4 ${index >= 5 ? "max-md:hidden" : ""}`}
           >
-            {tilde(entry.title!)}
-          </Link>
-        </li>
-      ))}
+            <span className="block text-2xl text-[#666] text-right w-[3ex] flex-none">
+              {index + 1}
+            </span>
+            <Link
+              className={plausibleEventClass({
+                name: "Internal Link",
+                type: "top-articles-box",
+              })}
+              href={entry.path}
+            >
+              {tilde(entry.title!)}
+            </Link>
+          </li>
+        ))}
     </ol>
     <div className="max-lg:hidden">
       <BannerBox banner={banner} />
