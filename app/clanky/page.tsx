@@ -2,6 +2,16 @@ import { getAllArticles, stripBody } from "src/article";
 import { ArchiveView } from "./ArchiveView";
 import { buildFilterOptions } from "./filters";
 import { Suspense } from "react";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Archiv článků | Ohlasy",
+  description:
+    "Archiv všech doposud vydaných článků. Filtrujte podle autora, rubriky nebo seriálu.",
+  openGraph: {
+    images: "https://i.ohlasy.info/i/0037315a.jpg",
+  },
+};
 
 async function Page() {
   const articles = getAllArticles("content/articles").map(stripBody);
