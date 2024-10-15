@@ -13,11 +13,11 @@ export const RouteTo = {
   mainPodcastFeed: "/podcast.xml",
   hrebenovkaFeed: "/podcast/hrebenovka.xml",
   about: "/about",
+  archive: "/clanky",
   // Dynamic routes
   article: getArticlePath,
   forumTopic: getTopicUrl,
   // External routes
-  archive: "http://archiv.ohlasy.info",
   forum: "https://forum.ohlasy.info",
   adsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
   companyInfo:
