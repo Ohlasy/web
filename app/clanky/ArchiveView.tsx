@@ -83,10 +83,11 @@ const FilterPanel = ({
           onChange={(value) => onChange(filter.id, value)}
         />
       ))}
-      <div>
+      <div className="mt-4">
         <button
           onClick={removeAllFilters}
           disabled={Object.keys(settings).length === 0}
+          className="w-full px-4 py-2 cursor-pointer text-base text-center bg-brown disabled:bg-gray text-white rounded"
         >
           Smazat filtry
         </button>
@@ -144,7 +145,7 @@ const ArticlePreview = ({ article }: { article: Metadata }) => {
       <div className="relative aspect-video">
         <Image
           src={article.coverPhoto}
-          className="object-cover"
+          className="object-cover bg-gray"
           sizes="(min-width: 768px) 30vw, 100vw"
           alt=""
           fill

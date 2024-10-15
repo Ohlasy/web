@@ -21,7 +21,7 @@ const Sort = {
 export const filters: Filter[] = [
   {
     id: "autor",
-    name: "Autor",
+    name: "Autor*ka",
     valueSort: Sort.none,
     extractPossibleValues: (article) => [article.author],
     match: (article, value) => article.author === value,
