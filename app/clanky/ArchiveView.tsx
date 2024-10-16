@@ -50,6 +50,7 @@ export const ArchiveView = ({ allArticles, filterOptions }: Props) => {
           settings={settings}
           onChange={updateSettings}
           removeAllFilters={clearSettings}
+          matchCount={matchingArticles.length}
         />
         {matchingArticles.map((a) => (
           <ArticlePreview key={a.date + a.title} article={a} />
@@ -64,6 +65,7 @@ type FilterPanelProps = {
   settings: Settings;
   onChange: (id: string, value: string | undefined) => void;
   removeAllFilters: () => void;
+  matchCount: number;
 };
 
 const FilterPanel = ({
@@ -71,7 +73,20 @@ const FilterPanel = ({
   settings,
   onChange,
   removeAllFilters,
+  matchCount,
 }: FilterPanelProps) => {
+  const DressedCount = ({ count }: { count: number }) => {
+    if (count === 0) {
+      return "Aktuálnímu nastavení neodpovídá žádný článek.";
+    } else if (count === 1) {
+      return `Aktuálnímu nastavení odpovídá celkem 1 článek.`;
+    } else if (count >= 2 && count <= 4) {
+      return `Aktuálnímu nastavení odpovídají celkem ${count} články.`;
+    } else {
+      return `Aktuálnímu nastavení odpovídá celkem ${count} článků.`;
+    }
+  };
+
   return (
     <div className="flex flex-col gap-2 bg-lightGray p-4">
       {filters.map((filter) => (
@@ -91,6 +106,9 @@ const FilterPanel = ({
         >
           Smazat filtry
         </button>
+      </div>
+      <div className="text-sm text-center text-balance mt-2">
+        <DressedCount count={matchCount} />
       </div>
     </div>
   );
