@@ -3,7 +3,7 @@ title: "Každý má svůj příběh: Anna Staňková – Ta ženská nemá s kom
 cover-photo: https://i.ohlasy.info/i/4be8b552.jpg
 author: Ladislav Oujeský
 category: seriály
-serial: priběhy
+serial: pribehy
 ---
 
 *Občas si na ni vzpomenu. Na první pohled to byla drobná, nenápadná paní, seděla ve svém ušáku, kolem spousta novin, časopisů, výstřižků a poznámek…  I ke konci svého bohatého života měla na dění kolem sebe osobitý pohled. Podobně jako v době komunistické totality, když na ni StB vyvíjela soustavný nátlak a ona několikrát odmítla spolupráci, přestože kvůli tomu nemohla dělat to, co bylo jejím životním posláním. Na začátku nového školního roku příběh statečné ženy možná zaujme nejen pedagogy.*

@@ -41,15 +41,17 @@ export const filters: Filter[] = [
     match: (article, value) => article.serial === value,
     displayValue: (serialId: string) => {
       const names: any = {
-        pribehy: "Každý má svůj příběh",
-        krajiny: "Krajiny Boskovicka",
-        ghetto: "Příběhy z ghetta",
-        prochazky: "Procházky po památkách",
-        jazyk: "Rendez-vous s jazykem",
-        depozitar: "Z muzejního depozitáře",
-        osmicky: "Osmičková výročí",
-        stromy: "Život pod stromy",
-        historie: "Pohledy do historie",
+        "pribehy": "Každý má svůj příběh",
+        "krajiny": "Krajiny Boskovicka",
+        "ghetto": "Příběhy z ghetta",
+        "prochazky": "Procházky po památkách",
+        "jazyk": "Rendez-vous s jazykem",
+        "depozitar": "Z muzejního depozitáře",
+        "osmicky": "Osmičková výročí",
+        "stromy": "Život pod stromy",
+        "historie": "Pohledy do historie",
+        "pojdte-ven": "Pojďte ven",
+        "komise": "Z komisí",
       };
       return names[serialId] || serialId;
     },
