@@ -11,5 +11,3 @@ Fotky nejsou uložené v repozitáři, protože jich máme moc a jsou příliš 
 ## Data
 
 Větší data, například přílohy nebo epizody podcastu, jsou na serveru data.ohlasy.info (AWS S3 + CloudFront).
-
-[![Powered by Vercel](/public/vercel.svg?raw=true)](https://www.vercel.com?utm_source=[ohlasy]&utm_campaign=oss)

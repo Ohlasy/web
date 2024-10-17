@@ -106,23 +106,6 @@ const Footer = () => (
         <p>
           <Link href={RouteTo.adsInfo}>Chcete u nás inzerovat?</Link>
         </p>
-        <p className="mt-7">
-          <Link
-            href={RouteTo.Vercel}
-            style={{
-              display: "inline-block",
-              marginTop: "30px",
-              cursor: "pointer",
-            }}
-          >
-            <Image
-              src="/vercel.svg"
-              alt="Powered by Vercel"
-              width={188}
-              height={39}
-            />
-          </Link>
-        </p>
       </div>
       <div className="max-md:order-2 flex flex-col gap-3">
         <div>
