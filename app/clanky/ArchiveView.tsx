@@ -102,7 +102,7 @@ const FilterPanel = ({
         <button
           onClick={removeAllFilters}
           disabled={Object.keys(settings).length === 0}
-          className="w-full px-4 py-2 cursor-pointer text-base text-center bg-brown disabled:bg-gray text-white rounded"
+          className="w-full btn-primary"
         >
           Smazat filtry
         </button>

@@ -29,7 +29,11 @@ const BookPreview = ({ book }: { book: Book }) => (
         <h3>{book.subtitle}</h3>
       </div>
       <p>{book.description}</p>
-      <Link href={RouteTo.book(book)}>zobrazit detail</Link>
+      <div>
+        <Link href={RouteTo.book(book)} className="btn-primary">
+          Zobrazit detaily
+        </Link>
+      </div>
     </div>
   </div>
 );

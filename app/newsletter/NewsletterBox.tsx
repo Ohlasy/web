@@ -34,8 +34,8 @@ export const NewsletterBox = () => {
             />
             <input
               type="submit"
-              className="flex-none px-4 py-2 cursor-pointer text-base text-center bg-brown disabled:bg-gray text-white rounded"
-              value="přihlásit"
+              className="flex-none btn-primary"
+              value="Přihlásit"
               disabled={model.email === ""}
               onClick={handleSubmit}
             />
