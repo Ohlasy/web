@@ -1,7 +1,10 @@
+import { Breadcrumbs } from "app/(shared)/Breadcrumbs";
 import { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
+import { Fragment } from "react";
 import { getAllBooks } from "src/data-source/books";
+import { RouteTo } from "src/routing";
 
 type Params = {
   slug: string;
@@ -18,28 +21,34 @@ export default async function Page({ params }: Props) {
     notFound();
   }
   return (
-    <div className="flex flex-col gap-7">
-      <div className="grid grid-cols-3 gap-7">
-        <div className="relative aspect-[2/3]">
-          <Image
-            src={book.coverImageUrl}
-            className="object-cover"
-            alt=""
-            fill
-          />
-        </div>
-        <div className="col-span-2 flex flex-col gap-2">
-          <div>
-            <h1>{book.title}</h1>
-            <h2>{book.subtitle}</h2>
+    <Fragment>
+      <Breadcrumbs
+        parentItems={[{ title: "Obchod", path: "/obchod" }]}
+        currentItemTitle={book.title}
+      />
+      <div className="flex flex-col gap-7">
+        <div className="grid grid-cols-3 gap-7">
+          <div className="relative aspect-[2/3]">
+            <Image
+              src={book.coverImageUrl}
+              className="object-cover"
+              alt=""
+              fill
+            />
           </div>
-          <p>
-            {book.authors}; {book.publishYear}
-          </p>
-          <p>{book.description}</p>
+          <div className="col-span-2 flex flex-col gap-2">
+            <div>
+              <h1>{book.title}</h1>
+              <h2>{book.subtitle}</h2>
+            </div>
+            <p>
+              {book.authors}; {book.publishYear}
+            </p>
+            <p>{book.description}</p>
+          </div>
         </div>
       </div>
-    </div>
+    </Fragment>
   );
 }
 

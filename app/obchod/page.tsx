@@ -1,3 +1,4 @@
+import { Breadcrumbs } from "app/(shared)/Breadcrumbs";
 import Image from "next/image";
 import Link from "next/link";
 import { Book, getAllBooks, sortByYear } from "src/data-source/books";
@@ -7,7 +8,7 @@ export default async function Page() {
   const books = await getAllBooks();
   return (
     <div>
-      <h1 className="mb-7">Obchůdek</h1>
+      <Breadcrumbs currentItemTitle="Obchod" />
       <div className="flex flex-col gap-12">
         {books.sort(sortByYear).map((book) => (
           <BookPreview key={book.id} book={book} />
