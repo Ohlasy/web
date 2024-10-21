@@ -28,7 +28,7 @@
     "xmlbuilder2": "^3.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.48.0",
+    "@playwright/test": "^1.48.1",
     "@types/jest": "^29.5.13",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
@@ -38,7 +38,7 @@
     "eslint-config-next": "14.x",
     "jest": "^29.7.0",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.13",
+    "tailwindcss": "^3.4.14",
     "ts-jest": "^29.2.5",
     "typescript": "5.x"
   },
