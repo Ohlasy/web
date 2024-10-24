@@ -6,7 +6,7 @@ category: názory a komentáře
 tags: nekrolog
 ---
 
-*V úterý 22\. října nás zasáhla nečekaná zpráva o náhlé smrti hudebníka, cestovatele, Boskováka a kamaráda Vojty Havla. Stalo se tak jen den předtím, než měl spolu se svojí ženou Irenou v Boskovicích odehrát benefiční koncert na podporu Sudické školy. Jak by znělo autentické provedení skladeb z nového alba Four Hands pro klavír a varhany v našem evangelickém kostele, si už můžeme jen představovat, a děkovat za všechna hudební i jiná setkání, které jsme společně zažít mohli.*
+*V úterý 22\. října nás zasáhla nečekaná zpráva o náhlé smrti hudebníka, cestovatele, Boskováka a kamaráda Vojty Havla. Stalo se tak jen den předtím, než měl spolu se svojí ženou Irenou v Boskovicích odehrát benefiční koncert na podporu Sudické školy. Jak by znělo autentické provedení skladeb z nového alba Four Hands pro klavír a varhany v našem evangelickém kostele, si už můžeme jen představovat, a děkovat za všechna hudební i jiná setkání, která jsme společně zažít mohli.*
 
 {% photo src="https://i.ohlasy.info/i/db55bc2e.jpg" caption="Adventní koncert v evangelickém kostele" author="Tomáš Znamenáček" width=4160 height=2773 /%}
 
