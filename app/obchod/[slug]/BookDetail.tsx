@@ -8,9 +8,10 @@ import { OrderForm } from "./OrderForm";
 
 type Props = {
   book: Book;
+  placeOrderAction: (formData: FormData) => Promise<void>;
 };
 
-export const BookDetails = ({ book }: Props) => {
+export const BookDetails = ({ book, placeOrderAction }: Props) => {
   const [showOrder, setShowOrder] = useState(false);
 
   const ShowOrderButton = () => (
@@ -51,7 +52,7 @@ export const BookDetails = ({ book }: Props) => {
       {showOrder && (
         <div>
           <hr className="text-gray mb-7" />
-          <OrderForm />
+          <OrderForm itemId={book.databaseId} action={placeOrderAction} />
         </div>
       )}
     </div>

@@ -1,11 +1,14 @@
+"use server";
+
 import { Breadcrumbs } from "app/(shared)/Breadcrumbs";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Fragment } from "react";
-import { getAllBooks } from "src/data-source/books";
+import { createOrder, getAllBooks } from "src/data-source/books";
 import { RouteTo } from "src/routing";
 import { BookDetails } from "./BookDetail";
 import Image from "next/image";
+import { record, string, union } from "typescript-json-decoder";
 
 type Params = {
   slug: string;
@@ -38,11 +41,35 @@ export default async function Page({ params }: Props) {
             />
           </div>
         </div>
-        <BookDetails book={book} />
+        <BookDetails book={book} placeOrderAction={placeOrder} />
       </div>
     </Fragment>
   );
 }
+
+//
+// Order Handling
+//
+
+export async function placeOrder(formData: FormData) {
+  const decodeOrder = record({
+    orderedItemId: string,
+    deliveryType: union("osobně", "poštou"),
+    deliveryName: string,
+    deliveryAddress: string,
+    deliveryEmail: string,
+  });
+  try {
+    const orderData = decodeOrder(Object.fromEntries(formData.entries()));
+    await createOrder(orderData);
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+//
+// Data Generation
+//
 
 export async function generateStaticParams(): Promise<Params[]> {
   const books = await getAllBooks();
@@ -65,6 +92,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
   };
 }
+
+//
+// Helpers
+//
 
 const getBookWithSlug = (slug: string) =>
   getAllBooks().then((books) => books.find((b) => b.slug === slug));

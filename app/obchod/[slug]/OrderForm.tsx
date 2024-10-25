@@ -1,19 +1,26 @@
-export const OrderForm = () => (
+type Props = {
+  itemId: string;
+  action: (formData: FormData) => Promise<void>;
+};
+
+export const OrderForm = ({ itemId, action }: Props) => (
   <div>
-    <form className="flex flex-col gap-4">
+    <form action={action} className="flex flex-col gap-4">
+      <input type="hidden" name="orderedItemId" value={itemId} />
+
       <DeliveryTypeSelect />
 
-      <TextInput id="form-name" label="Celé jméno:" required />
+      <TextInput id="deliveryName" label="Celé jméno:" required />
 
       <TextInput
-        id="form-address"
+        id="deliveryAddress"
         label="Dodací adresa:"
         placeholder="Rašínova 1234, 68001 Boskovice"
         required
       />
 
       <TextInput
-        id="form-email"
+        id="deliveryEmail"
         label="E-mail:"
         placeholder="váš@email.cz"
         type="email"
@@ -38,15 +45,15 @@ const DeliveryTypeSelect = () => (
       <input
         type="radio"
         name="deliveryType"
-        value="personal"
-        id="form-personal"
+        value="osobně"
+        id="orderPersonal"
         defaultChecked
       />
-      <label htmlFor="form-personal">osobně po Boskovicích (zdarma)</label>
+      <label htmlFor="orderPersonal">osobně po Boskovicích (zdarma)</label>
     </div>
     <div className="flex flex-row gap-2 items-center">
-      <input type="radio" name="deliveryType" value="post" id="form-post" />
-      <label htmlFor="form-post">poštou kamkoliv (za příplatek)</label>
+      <input type="radio" name="deliveryType" value="poštou" id="orderPost" />
+      <label htmlFor="orderPost">poštou kamkoliv (za příplatek)</label>
     </div>
   </section>
 );
@@ -73,6 +80,7 @@ const TextInput = ({
     <input
       type={type}
       id={id}
+      name={id}
       placeholder={placeholder}
       className="border-[1px] border-gray rounded px-2 py-2"
       size={40}
