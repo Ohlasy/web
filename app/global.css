@@ -4,7 +4,7 @@
 
 @layer components {
   .btn-base {
-    @apply px-4 py-2 cursor-pointer disabled:cursor-not-allowed text-base text-center rounded;
+    @apply px-4 py-2 cursor-pointer disabled:cursor-not-allowed text-lg text-center rounded shadow-md;
   }
 
   .btn-primary {

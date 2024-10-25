@@ -24,7 +24,7 @@ export const SearchForm = () => {
   return (
     <div className="flex flex-col gap-2">
       <p className="text-base uppercase">Vyhledávání</p>
-      <form onSubmit={handleSubmit} className="flex flex-wrap gap-2">
+      <form onSubmit={handleSubmit} className="flex flex-wrap gap-3">
         <input
           type="text"
           className="flex-auto border-[1px] border-silver px-2 py-2 text-base"
@@ -35,7 +35,7 @@ export const SearchForm = () => {
         />
         <input
           type="submit"
-          className="flex-none btn-primary"
+          className="flex-none btn-primary text-sm"
           value="Hledat"
           disabled={query === ""}
           onClick={handleSubmit}
