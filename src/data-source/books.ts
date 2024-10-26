@@ -5,6 +5,7 @@ import {
   decodeType,
   field,
   number,
+  optional,
   record,
   string,
   union,
@@ -43,6 +44,7 @@ export const decodeBook = record({
   coverImageUrl: field("Fotka", string),
   publishYear: field("Rok vydání", string),
   authors: field("Autorstvo", string),
+  price: field("Cena za kus", optional(number)),
 });
 
 export const getAllBooks = async () =>
@@ -51,6 +53,13 @@ export const getAllBooks = async () =>
     .all()
     .then(unwrapRecords)
     .then(array(decodeBook));
+
+export const getBookById = async (databaseId: string) =>
+  getTable(bookTableId)
+    .find(databaseId)
+    .then(unwrapRecord)
+    .then(decodeBook)
+    .catch((_) => null);
 
 export const sortByYear = (a: Book, b: Book) =>
   b.publishYear.localeCompare(a.publishYear);
@@ -70,14 +79,19 @@ export const decodeOrder = record({
   deliveryEmail: field("Kontaktní mail", string),
   deliveryType: field("Způsob doručení", union("osobně", "poštou")),
   status: field("Stav objednávky", union("nová", "vyřízená", "stornovaná")),
+  invoiceUrl: field("Faktura", string),
 });
 
 export const createOrder = async (order: Omit<Order, "id" | "status">) =>
-  getTable(orderTableId).create({
-    "Objednaný titul": [order.orderedItemId!],
-    "Jméno": order.deliveryName,
-    "Doručovací adresa": order.deliveryAddress,
-    "Kontaktní mail": order.deliveryEmail,
-    "Způsob doručení": order.deliveryType,
-    "Stav objednávky": "nová",
-  });
+  getTable(orderTableId)
+    .create({
+      "Objednaný titul": [order.orderedItemId!],
+      "Jméno": order.deliveryName,
+      "Doručovací adresa": order.deliveryAddress,
+      "Kontaktní mail": order.deliveryEmail,
+      "Způsob doručení": order.deliveryType,
+      "Faktura": order.invoiceUrl,
+      "Stav objednávky": "nová",
+    })
+    .then(unwrapRecord)
+    .then(decodeOrder);
