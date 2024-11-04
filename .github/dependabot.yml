@@ -4,6 +4,10 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    ignore:
+      # We have to do this manually
+      - dependency-name: "next"
+        update-types: ["version-update:semver-major"]
     groups:
       dev-dependencies:
         patterns:
