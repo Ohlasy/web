@@ -6,7 +6,7 @@ category: ankety
 tags: politika
 ---
 
-*Po čase jsme opět položili několik otázek boskovické opozici. Odpovídali Michaela Žejšková za koalici SPOLU, Hana Nedomová, Oldřich Kovář a Milan Janáč za Sociální demokracii a Karel Trefný za SPD a Trikoloru.*
+*Po čase jsme opět položili několik otázek boskovické opozici. Odpovídali Michaela Žejšková za koalici SPOLU, Hana Nedomová a Oldřich Kovář za Sociální demokracii a Karel Trefný za SPD a Trikoloru.*
 
 {% photo src="https://i.ohlasy.info/i/9c6f90c7.jpg" caption="Vizualizace budoucí podoby Střediska volného času v bývalém štábu civilní obrany na ulici Svatopluka Čecha" author="Martin Doležel" width=1304 height=730 /%}
 
