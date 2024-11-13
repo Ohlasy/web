@@ -23,14 +23,20 @@ export const BookDetails = ({ book }: Props) => {
     : orderVerb;
 
   const ShowOrderButton = () => (
-    <button className="btn-primary" onClick={() => setShowOrder(true)}>
+    <button
+      className="btn-primary max-sm:w-full"
+      onClick={() => setShowOrder(true)}
+    >
       {orderLabel}
     </button>
   );
 
   // TBD: Hide after successful order
   const CancelOrderButton = () => (
-    <button className="btn-inverted" onClick={() => setShowOrder(false)}>
+    <button
+      className="btn-inverted max-sm:w-full"
+      onClick={() => setShowOrder(false)}
+    >
       Zrušit objednávku
     </button>
   );
@@ -49,7 +55,7 @@ export const BookDetails = ({ book }: Props) => {
 
       <p>{book.description}</p>
 
-      <div className="flex flex-col md:flex-row gap-4 mt-2">
+      <div className="mt-2">
         {showOrder ? <CancelOrderButton /> : <ShowOrderButton />}
       </div>
 

@@ -85,7 +85,7 @@ const SubmitButton = () => {
   return (
     <input
       type="submit"
-      className="btn-primary"
+      className="btn-primary max-sm:w-full"
       value={pending ? "Odesílám…" : "Odeslat objednávku"}
       disabled={pending}
     />
@@ -148,8 +148,7 @@ const TextInput = ({
         id={id}
         name={id}
         placeholder={placeholder}
-        className="border-[1px] border-gray rounded px-2 py-2"
-        size={40}
+        className="border-[1px] border-gray rounded px-2 py-2 w-full sm:w-[40ex]"
         required={required}
         disabled={pending}
       />
