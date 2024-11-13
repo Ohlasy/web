@@ -28,6 +28,7 @@ export const BookDetails = ({ book }: Props) => {
     </button>
   );
 
+  // TBD: Hide after successful order
   const CancelOrderButton = () => (
     <button className="btn-inverted" onClick={() => setShowOrder(false)}>
       Zrušit objednávku

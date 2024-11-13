@@ -52,9 +52,11 @@ export async function getBearerTokenFromEnv() {
 // Subjects
 //
 
+/** https://www.fakturoid.cz/api/v3/subjects */
 type Subject = {
   name: string;
   email?: string;
+  phone?: string;
 };
 
 export async function createSubject(

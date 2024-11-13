@@ -64,6 +64,15 @@ export function OrderForm({ itemId }: Props) {
           required
         />
 
+        <TextInput
+          id="deliveryPhone"
+          label="Telefonní číslo:"
+          placeholder="777 123 456"
+          type="tel"
+          disabled={isPending}
+          required
+        />
+
         <section className="mt-3 mb-2">
           <input
             type="submit"
@@ -109,7 +118,7 @@ const DeliveryTypeSelect = ({ disabled }: { disabled?: boolean }) => (
         id="orderPost"
         disabled={disabled}
       />
-      <label htmlFor="orderPost">poštou kamkoliv (za příplatek)</label>
+      <label htmlFor="orderPost">poštou kamkoliv (příplatek 100 Kč)</label>
     </div>
   </section>
 );
@@ -118,7 +127,7 @@ type TextInputProps = {
   id: string;
   label: string;
   placeholder?: string;
-  type?: "text" | "email";
+  type?: "text" | "email" | "tel";
   required?: boolean;
   disabled?: boolean;
 };

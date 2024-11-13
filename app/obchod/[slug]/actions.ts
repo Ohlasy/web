@@ -1,19 +1,22 @@
 "use server";
 
-import { createOrder, getBookById } from "src/data-source/books";
+import { Book, createOrder, getBookById } from "src/data-source/books";
 import {
   createInvoice,
   createSubject,
   getBearerTokenFromEnv,
+  InvoiceLine,
 } from "src/fakturoid";
-import { record, string, union } from "typescript-json-decoder";
+import { decodeType, record, string, union } from "typescript-json-decoder";
 
+type Order = decodeType<typeof decodeOrder>;
 const decodeOrder = record({
   orderedItemId: string,
   deliveryType: union("osobně", "poštou"),
   deliveryName: string,
   deliveryAddress: string,
   deliveryEmail: string,
+  deliveryPhone: string,
 });
 
 export type State =
@@ -47,6 +50,7 @@ export async function placeOrder(
     const subjectId = await createSubject(token, {
       name: orderData.deliveryName,
       email: orderData.deliveryEmail,
+      phone: orderData.deliveryPhone,
     });
     if (!subjectId) {
       throw new Error("Nepodařilo se nám založit kontakt ve Fakturoidu.");
@@ -56,16 +60,9 @@ export async function placeOrder(
     // Create invoice
     //
     const invoiceUrl = await createInvoice(token, {
+      lines: buildInvoiceLines(book, orderData),
       subject_id: subjectId,
       tags: ["knihy"],
-      lines: [
-        {
-          name: `Kniha ${book.title}`,
-          quantity: "1",
-          unit_name: "ks",
-          unit_price: String(book.price),
-        },
-      ],
     });
     if (!invoiceUrl) {
       throw "Nepodařilo se nám vytvořit fakturu.";
@@ -85,3 +82,19 @@ export async function placeOrder(
     return { tag: "error", message: `${e}` };
   }
 }
+
+const buildInvoiceLines = (book: Book, order: Order): InvoiceLine[] => {
+  const bookLine: InvoiceLine = {
+    name: `Kniha ${book.title}`,
+    quantity: "1",
+    unit_name: "ks",
+    unit_price: String(book.price),
+  };
+  const postLine: InvoiceLine = {
+    name: "Poštovné a balné",
+    quantity: "1",
+    unit_name: "ks",
+    unit_price: "100",
+  };
+  return order.deliveryType === "osobně" ? [bookLine] : [bookLine, postLine];
+};
