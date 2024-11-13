@@ -8,13 +8,23 @@ type Props = {
   book: Book;
 };
 
-// TBD: Fix order button logic
 export const BookDetails = ({ book }: Props) => {
   const [showOrder, setShowOrder] = useState(false);
 
+  const priceFormatter = Intl.NumberFormat("cs-CZ", {
+    style: "currency",
+    currency: "CZK",
+    maximumFractionDigits: 0,
+  });
+
+  const orderVerb = book.state === "v předprodeji" ? "Předobjednat" : "Koupit";
+  const orderLabel = book.price
+    ? `${orderVerb} za ${priceFormatter.format(book.price)}`
+    : orderVerb;
+
   const ShowOrderButton = () => (
     <button className="btn-primary" onClick={() => setShowOrder(true)}>
-      Objednat
+      {orderLabel}
     </button>
   );
 
@@ -25,28 +35,26 @@ export const BookDetails = ({ book }: Props) => {
   );
 
   return (
-    <div className="flex flex-col gap-7">
-      {/* Book Info */}
-      <div className="flex flex-col gap-4">
-        <div>
-          <h1>{book.title}</h1>
-          <h2>{book.subtitle}</h2>
-        </div>
+    <div className="flex flex-col gap-4">
+      <div className="flex flex-col gap-1">
+        <h1 className="text-4xl leading-tight font-bold text-balance">
+          {book.title}
+        </h1>
+        <h2 className="italic">{book.subtitle}</h2>
         <p>
           {book.authors}; {book.publishYear}
         </p>
-        <p>{book.description}</p>
       </div>
 
-      {/* Actions */}
-      <div className="flex flex-col md:flex-row gap-4">
+      <p>{book.description}</p>
+
+      <div className="flex flex-col md:flex-row gap-4 mt-2">
         {showOrder ? <CancelOrderButton /> : <ShowOrderButton />}
       </div>
 
-      {/* Order Form */}
       {showOrder && (
         <div>
-          <hr className="text-gray mb-7" />
+          <hr className="text-gray mt-4 mb-7" />
           <OrderForm itemId={book.databaseId} />
         </div>
       )}
