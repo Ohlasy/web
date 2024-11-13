@@ -6,7 +6,6 @@ import { getAllBooks } from "src/data-source/books";
 import { RouteTo } from "src/routing";
 import { BookDetails } from "./BookDetail";
 import Image from "next/image";
-import { placeOrder } from "./actions";
 
 type Params = {
   slug: string;
@@ -39,7 +38,7 @@ export default async function Page({ params }: Props) {
             />
           </div>
         </div>
-        <BookDetails book={book} placeOrderAction={placeOrder} />
+        <BookDetails book={book} />
       </div>
     </Fragment>
   );
