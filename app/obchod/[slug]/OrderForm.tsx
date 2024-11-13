@@ -1,4 +1,4 @@
-import { useFormState } from "react-dom";
+import { useFormState, useFormStatus } from "react-dom";
 import { placeOrder } from "./actions";
 import Link from "next/link";
 
@@ -6,11 +6,8 @@ type Props = {
   itemId: string;
 };
 
-// TBD: Fix pending state
 export function OrderForm({ itemId }: Props) {
-  const [state, formAction, isPending] = useFormState(placeOrder, {
-    tag: "idle",
-  });
+  const [state, formAction] = useFormState(placeOrder, { tag: "idle" });
 
   if (state.tag === "sent") {
     return (
@@ -38,20 +35,14 @@ export function OrderForm({ itemId }: Props) {
       <form action={formAction} className="flex flex-col gap-4">
         <input type="hidden" name="orderedItemId" value={itemId} />
 
-        <DeliveryTypeSelect disabled={isPending} />
+        <DeliveryTypeSelect />
 
-        <TextInput
-          id="deliveryName"
-          label="Celé jméno:"
-          disabled={isPending}
-          required
-        />
+        <TextInput id="deliveryName" label="Celé jméno:" required />
 
         <TextInput
           id="deliveryAddress"
           label="Dodací adresa:"
           placeholder="Rašínova 1234, 68001 Boskovice"
-          disabled={isPending}
           required
         />
 
@@ -60,7 +51,6 @@ export function OrderForm({ itemId }: Props) {
           label="E-mail:"
           placeholder="váš@email.cz"
           type="email"
-          disabled={isPending}
           required
         />
 
@@ -69,17 +59,11 @@ export function OrderForm({ itemId }: Props) {
           label="Telefonní číslo:"
           placeholder="777 123 456"
           type="tel"
-          disabled={isPending}
           required
         />
 
         <section className="mt-3 mb-2">
-          <input
-            type="submit"
-            className="btn-primary"
-            value={isPending ? "Odesílám…" : "Odeslat objednávku"}
-            disabled={isPending}
-          />
+          <SubmitButton />
         </section>
 
         {state.tag === "error" && (
@@ -96,32 +80,47 @@ export function OrderForm({ itemId }: Props) {
   );
 }
 
-const DeliveryTypeSelect = ({ disabled }: { disabled?: boolean }) => (
-  <section className="flex flex-col">
-    <legend className="mb-1">Způsob doručení:</legend>
-    <div className="flex flex-row gap-2 items-center">
-      <input
-        type="radio"
-        name="deliveryType"
-        value="osobně"
-        id="orderPersonal"
-        disabled={disabled}
-        defaultChecked
-      />
-      <label htmlFor="orderPersonal">osobně po Boskovicích (zdarma)</label>
-    </div>
-    <div className="flex flex-row gap-2 items-center">
-      <input
-        type="radio"
-        name="deliveryType"
-        value="poštou"
-        id="orderPost"
-        disabled={disabled}
-      />
-      <label htmlFor="orderPost">poštou kamkoliv (příplatek 100 Kč)</label>
-    </div>
-  </section>
-);
+const SubmitButton = () => {
+  const { pending } = useFormStatus();
+  return (
+    <input
+      type="submit"
+      className="btn-primary"
+      value={pending ? "Odesílám…" : "Odeslat objednávku"}
+      disabled={pending}
+    />
+  );
+};
+
+const DeliveryTypeSelect = () => {
+  const { pending } = useFormStatus();
+  return (
+    <section className="flex flex-col">
+      <legend className="mb-1">Způsob doručení:</legend>
+      <div className="flex flex-row gap-2 items-center">
+        <input
+          type="radio"
+          name="deliveryType"
+          value="osobně"
+          id="orderPersonal"
+          disabled={pending}
+          defaultChecked
+        />
+        <label htmlFor="orderPersonal">osobně po Boskovicích (zdarma)</label>
+      </div>
+      <div className="flex flex-row gap-2 items-center">
+        <input
+          type="radio"
+          name="deliveryType"
+          value="poštou"
+          id="orderPost"
+          disabled={pending}
+        />
+        <label htmlFor="orderPost">poštou kamkoliv (příplatek 100 Kč)</label>
+      </div>
+    </section>
+  );
+};
 
 type TextInputProps = {
   id: string;
@@ -129,7 +128,6 @@ type TextInputProps = {
   placeholder?: string;
   type?: "text" | "email" | "tel";
   required?: boolean;
-  disabled?: boolean;
 };
 
 const TextInput = ({
@@ -137,22 +135,24 @@ const TextInput = ({
   label,
   placeholder,
   required,
-  disabled,
   type = "text",
-}: TextInputProps) => (
-  <section>
-    <label className="block mb-1" htmlFor={id}>
-      {label}
-    </label>
-    <input
-      type={type}
-      id={id}
-      name={id}
-      placeholder={placeholder}
-      className="border-[1px] border-gray rounded px-2 py-2"
-      size={40}
-      required={required}
-      disabled={disabled}
-    />
-  </section>
-);
+}: TextInputProps) => {
+  const { pending } = useFormStatus();
+  return (
+    <section>
+      <label className="block mb-1" htmlFor={id}>
+        {label}
+      </label>
+      <input
+        type={type}
+        id={id}
+        name={id}
+        placeholder={placeholder}
+        className="border-[1px] border-gray rounded px-2 py-2"
+        size={40}
+        required={required}
+        disabled={pending}
+      />
+    </section>
+  );
+};
