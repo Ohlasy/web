@@ -1,9 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import { useState } from "react";
 import { Book } from "src/data-source/books";
-import { RouteTo } from "src/routing";
 import { OrderForm } from "./OrderForm";
 
 type Props = {
@@ -43,9 +41,6 @@ export const BookDetails = ({ book }: Props) => {
       {/* Actions */}
       <div className="flex flex-col md:flex-row gap-4">
         {showOrder ? <CancelOrderButton /> : <ShowOrderButton />}
-        <Link href={RouteTo.shop} className="btn-inverted">
-          Zpátky na seznam titulů
-        </Link>
       </div>
 
       {/* Order Form */}
