@@ -14,7 +14,9 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
     return (
       <div className="flex flex-col gap-7">
         <p>
-          Objednávka úspěšně odeslána! Evidujeme ji pod číslem {state.orderId}.
+          Objednávka úspěšně odeslána! Evidujeme ji pod číslem #{state.orderId}.
+          Kdybyste měli nějaký dotaz nebo potřebovali s něčím pomoct, napište
+          nám prosím na <ClickableMail />.
         </p>
         <div>
           <Link
@@ -72,15 +74,17 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
           <p>
             Při zpracování objednávky došlo k chybě. ({state.message}) Zkuste
             prosím objednávku odeslat ještě jednou a kdyby to stále nefungovalo,
-            dejte nám vědět na{" "}
-            <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>. Pardon
-            za nepříjemnosti!
+            dejte nám vědět na <ClickableMail />. Pardon za nepříjemnosti!
           </p>
         )}
       </form>
     </div>
   );
 }
+
+const ClickableMail = () => (
+  <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
+);
 
 const CancelButton = ({ onClick }: { onClick: () => void }) => {
   const { pending } = useFormStatus();
