@@ -24,7 +24,7 @@ export const NewsletterBox = () => {
       <p className="text-base uppercase">Newsletter</p>
       {model.state === "idle" && (
         <Fragment>
-          <form onSubmit={handleSubmit} className="flex flex-wrap gap-2">
+          <form onSubmit={handleSubmit} className="flex flex-wrap gap-3">
             <input
               type="email"
               className="flex-auto border-[1px] border-silver px-2 py-2 text-base"
@@ -34,8 +34,8 @@ export const NewsletterBox = () => {
             />
             <input
               type="submit"
-              className="flex-none px-4 py-2 cursor-pointer text-base text-center bg-brown disabled:bg-gray text-white rounded"
-              value="přihlásit"
+              className="flex-none btn-primary text-sm"
+              value="Přihlásit"
               disabled={model.email === ""}
               onClick={handleSubmit}
             />

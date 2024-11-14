@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .btn-base {
+    @apply px-4 py-2 cursor-pointer disabled:cursor-not-allowed disabled:bg-gray text-lg text-center rounded shadow-md;
+  }
+
+  .btn-primary {
+    @apply btn-base bg-brown text-white;
+  }
+
+  .btn-inverted {
+    @apply btn-base border-brown border-2 text-brown bg-white disabled:text-white disabled:border-none;
+  }
+}
+
 body {
   font-family: serif;
   font-size: 19px;

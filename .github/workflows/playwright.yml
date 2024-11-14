@@ -13,7 +13,6 @@ jobs:
     env:
       NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
       PLAUSIBLE_KEY: ${{ secrets.PLAUSIBLE_KEY }}
-      IMGPROXY_KEY: ${{ secrets.IMGPROXY_KEY }}
       DARUJME_ID: ${{ secrets.DARUJME_ID }}
       DARUJME_SECRET: ${{ secrets.DARUJME_SECRET }}
     steps:
