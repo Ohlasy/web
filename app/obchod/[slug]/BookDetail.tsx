@@ -31,16 +31,6 @@ export const BookDetails = ({ book }: Props) => {
     </button>
   );
 
-  // TBD: Hide after successful order
-  const CancelOrderButton = () => (
-    <button
-      className="btn-inverted max-sm:w-full"
-      onClick={() => setShowOrder(false)}
-    >
-      Zrušit objednávku
-    </button>
-  );
-
   return (
     <div className="flex flex-col gap-4">
       <div className="flex flex-col gap-1">
@@ -55,14 +45,19 @@ export const BookDetails = ({ book }: Props) => {
 
       <p>{book.description}</p>
 
-      <div className="mt-2">
-        {showOrder ? <CancelOrderButton /> : <ShowOrderButton />}
-      </div>
-
       {showOrder && (
         <div>
           <hr className="text-gray mt-4 mb-7" />
-          <OrderForm itemId={book.databaseId} />
+          <OrderForm
+            itemId={book.databaseId}
+            onCancel={() => setShowOrder(false)}
+          />
+        </div>
+      )}
+
+      {!showOrder && (
+        <div className="mt-2">
+          <ShowOrderButton />
         </div>
       )}
     </div>

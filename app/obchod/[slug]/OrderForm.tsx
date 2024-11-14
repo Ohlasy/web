@@ -4,9 +4,10 @@ import Link from "next/link";
 
 type Props = {
   itemId: string;
+  onCancel?: () => void;
 };
 
-export function OrderForm({ itemId }: Props) {
+export function OrderForm({ itemId, onCancel = () => {} }: Props) {
   const [state, formAction] = useFormState(placeOrder, { tag: "idle" });
 
   if (state.tag === "sent") {
@@ -62,8 +63,9 @@ export function OrderForm({ itemId }: Props) {
           required
         />
 
-        <section className="mt-3 mb-2">
+        <section className="mt-3 mb-2 flex flex-col sm:flex-row gap-4">
           <SubmitButton />
+          <CancelButton onClick={onCancel} />
         </section>
 
         {state.tag === "error" && (
@@ -79,6 +81,19 @@ export function OrderForm({ itemId }: Props) {
     </div>
   );
 }
+
+const CancelButton = ({ onClick }: { onClick: () => void }) => {
+  const { pending } = useFormStatus();
+  return (
+    <input
+      type="button"
+      onClick={onClick}
+      className="btn-inverted max-sm:w-full"
+      value="Zrušit objednávku"
+      disabled={pending}
+    />
+  );
+};
 
 const SubmitButton = () => {
   const { pending } = useFormStatus();
