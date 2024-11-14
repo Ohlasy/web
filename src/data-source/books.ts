@@ -42,6 +42,7 @@ export const decodeBook = record({
   subtitle: field("Podtitul", string),
   description: field("Anotace", string),
   coverImageUrl: field("Fotka", string),
+  openGraphImageUrl: field("Open Graph Image", optional(string)),
   publishYear: field("Rok vydání", string),
   authors: field("Autorstvo", string),
   price: field("Cena za kus", optional(number)),
