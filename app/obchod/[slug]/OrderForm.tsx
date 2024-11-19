@@ -1,5 +1,6 @@
 import { useFormState, useFormStatus } from "react-dom";
 import { placeOrder } from "./actions";
+import Plausible from "plausible-tracker";
 import Link from "next/link";
 
 type Props = {
@@ -9,6 +10,7 @@ type Props = {
 
 export function OrderForm({ itemId, onCancel = () => {} }: Props) {
   const [state, formAction] = useFormState(placeOrder, { tag: "idle" });
+  const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
   if (state.tag === "sent") {
     return (
@@ -35,7 +37,11 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
 
   return (
     <div>
-      <form action={formAction} className="flex flex-col gap-4">
+      <form
+        action={formAction}
+        onSubmit={() => trackEvent("Shop Order")}
+        className="flex flex-col gap-4"
+      >
         <input type="hidden" name="orderedItemId" value={itemId} />
 
         <DeliveryTypeSelect />
