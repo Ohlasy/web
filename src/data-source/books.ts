@@ -46,7 +46,7 @@ export const decodeBook = record({
   publishYear: field("Rok vydání", string),
   authors: field("Autorstvo", string),
   price: field("Cena za kus", optional(number)),
-  state: field("Stav", union("v předprodeji", "v prodeji", "vyprodáno")),
+  state: field("Stav", union("v prodeji", "vyprodáno")),
 });
 
 export const getAllBooks = async () =>

@@ -17,10 +17,9 @@ export const BookDetails = ({ book }: Props) => {
     maximumFractionDigits: 0,
   });
 
-  const orderVerb = book.state === "v předprodeji" ? "Předobjednat" : "Koupit";
   const orderLabel = book.price
-    ? `${orderVerb} za ${priceFormatter.format(book.price)}`
-    : orderVerb;
+    ? `Koupit za ${priceFormatter.format(book.price)}`
+    : "Koupit";
 
   const ShowOrderButton = () => (
     <button
