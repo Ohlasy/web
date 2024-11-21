@@ -28,6 +28,7 @@ export const incidentSubtypes: Record<string, string | undefined> = {
   "3213": "úklid vozovky",
   "3214": "se zraněním",
   "3401": "na pozemní komunikaci",
+  "3404": "do ovzduší",
   "3501": "odstranění nebezpečných stavů",
   "3505": "odstranění stromu",
   "3524": "zasypané, zavalené",
