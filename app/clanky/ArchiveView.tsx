@@ -7,7 +7,7 @@ import Image from "next/image";
 import { RouteTo } from "src/routing";
 import { tilde } from "src/utils";
 import { useRouter, useSearchParams } from "next/navigation";
-import { ChangeEvent } from "react";
+import { ChangeEvent, useState } from "react";
 
 type Props = {
   allArticles: ReadonlyArray<Metadata>;
@@ -16,31 +16,39 @@ type Props = {
 
 export const ArchiveView = ({ allArticles, filterOptions }: Props) => {
   const router = useRouter();
+  const searchParams = useSearchParams() ?? [];
 
   // Read initial filter settings from URL search params
-  const searchParams = useSearchParams() ?? [];
-  const settings = Object.fromEntries(searchParams.entries());
+  const [settings, setSettings] = useState(
+    Object.fromEntries(searchParams.entries())
+  );
 
   // Filter all articles according to settings
   const matchingArticles = allArticles
     .filter((a) => match(a, settings))
     .sort(compareByDate);
 
-  // Update filter settings by changing the URL
-  const setSettings = (settings: Record<string, string>) =>
+  // Update URL when settings change
+  const updateRoute = (settings: Record<string, string>) =>
     router.replace("/clanky/?" + new URLSearchParams(settings));
 
   // Update settings based on events from the filter panel
   const updateSettings = (id: string, newValue: string | undefined) => {
     if (newValue) {
-      setSettings({ ...settings, [id]: newValue });
+      const newSettings = { ...settings, [id]: newValue };
+      setSettings(newSettings);
+      updateRoute(newSettings);
     } else {
       const { [id]: _, ...newSettings } = settings;
       setSettings(newSettings);
+      updateRoute(newSettings);
     }
   };
 
-  const clearSettings = () => setSettings({});
+  const clearSettings = () => {
+    setSettings({});
+    updateRoute({});
+  };
 
   return (
     <div className="flex flex-col gap-7">
