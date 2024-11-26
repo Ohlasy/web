@@ -40,6 +40,9 @@ export default async function Page({ params }: Props) {
 // Data Generation
 //
 
+// Revalidate this page every 5 minutes
+export const revalidate = 300;
+
 export async function generateStaticParams(): Promise<Params[]> {
   const books = await getAllBooks();
   return books.map(({ slug }) => ({ slug }));
