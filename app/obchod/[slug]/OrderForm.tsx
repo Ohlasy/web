@@ -120,28 +120,38 @@ const SubmitButton = () => {
 const DeliveryTypeSelect = () => {
   const { pending } = useFormStatus();
   return (
-    <section className="flex flex-col">
+    <section className="flex flex-col gap-2 mb-2">
       <legend className="mb-1">Způsob doručení:</legend>
-      <div className="flex flex-row gap-2 items-center">
-        <input
-          type="radio"
-          name="deliveryType"
-          value="osobně"
-          id="orderPersonal"
-          disabled={pending}
-          defaultChecked
-        />
-        <label htmlFor="orderPersonal">osobně po Boskovicích (zdarma)</label>
+      <div className="flex flex-col">
+        <div className="flex flex-row gap-2 items-center">
+          <input
+            type="radio"
+            name="deliveryType"
+            value="osobně"
+            id="orderPersonal"
+            disabled={pending}
+            defaultChecked
+          />
+          <label htmlFor="orderPersonal">osobně po Boskovicích</label>
+        </div>
+        <p className="text-sm ml-5">
+          Knihu vám osobně doneseme na adresu v Boskovicích.
+        </p>
       </div>
-      <div className="flex flex-row gap-2 items-center">
-        <input
-          type="radio"
-          name="deliveryType"
-          value="poštou"
-          id="orderPost"
-          disabled={pending}
-        />
-        <label htmlFor="orderPost">poštou kamkoliv (příplatek 100 Kč)</label>
+      <div className="flex flex-col">
+        <div className="flex flex-row gap-2 items-center">
+          <input
+            type="radio"
+            name="deliveryType"
+            value="poštou"
+            id="orderPost"
+            disabled={pending}
+          />
+          <label htmlFor="orderPost">poštou kamkoliv (příplatek 100 Kč)</label>
+        </div>
+        <p className="text-sm ml-5">
+          Knihu vám pošleme klasicky poštou kamkoliv.
+        </p>
       </div>
     </section>
   );
