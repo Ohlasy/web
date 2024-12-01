@@ -11,7 +11,7 @@ author: Tomáš Znamenáček
 
 Je poněkud paradoxní nechat úvod fotografické výstavy mně, který se necítím být fotografem a tím méně rozumím fotografii jako oboru, o kterém bych mohl nějak zasvěceně mluvit nebo do něj vtahovat někoho dalšího. Začnu tedy od něčeho, čemu rozumím, a můžeme kolektivně doufat, že se dopracuji k něčemu, co bude zajímavé pro nás pro všechny coby úvod této výstavy. (Kdyby ne, předesílám, že to aspoň nebude trvat dlouho.)
 
-Čemu rozumím jsou čísla. Která dříve neměla s fotografií mnoho společného, ale dnes, v době, kdy drtivá většina fotografií vzniká digitální cestou, leží čísla v samotném základu fotografie, po technické a ostatně i po čistě jazykové stránce (*digitus* = číslice).
+Čemu rozumím, jsou čísla. Která dříve neměla s fotografií mnoho společného, ale dnes, v době, kdy drtivá většina fotografií vzniká digitální cestou, leží čísla v samotném základu fotografie, po technické a ostatně i po čistě jazykové stránce (*digitus* = číslice).
 
 Žijeme tedy v překrásné době, kdy už není nutné fotografie v oparu leptavých výparů pracně množit pod zvětšovákem, kdy je každá fotografie bezvadně reprezentována maticí čísel a lze ji nekonečněkrát reprodukovat bez sebemenší ztráty kvality. Protože čísla jsou zkrátka čísla a když zkopírujete dejme tomu pětku, není z ní ani trojka ani šestka, ani čtyři celá devět, ale zase krystalicky, matematicky čistá pětka. Což je stále ještě zázrak pro mou generaci, která ještě zažila strašlivé kopírování hudby na analogových kazetách – které rozhodně nenechávalo pětky pětkami, občas z nich dělalo čtyřky, občas šestky a občas banán nebo hořčici.
 
@@ -19,7 +19,7 @@ Je poněkud paradoxní nechat úvod fotografické výstavy mně, který se necí
 
 Čísla totiž kradou duši. (Ne fotoaparáty.)
 
-A my jsme si démona čísel za posledního čtvrt století všichni pustili hodně blízko na kůži v podobě nesčetných digitálních přístrojů. Není tedy divu, že naše fotografie, nově teď se strojovou přísností srovnané do číselných řádků a sloupců, jaksi ztratily svou individuální vůni nebo zápach – případně, nebojíte-li se větších slov, onu duši. Uvázli jsme pod hromadou dokonale vybroušených, identických, nerozlišitelných pětek. A když se neopatrně pohneme, zmnoží se kolem nás jako prokletý poklad v sejfu u Gringotů, aby nás zasypaly.
+A my jsme si démona čísel za posledního čtvrt století všichni pustili hodně blízko na kůži v podobě nesčetných digitálních přístrojů. Není tedy divu, že naše fotografie, nově teď se strojovou přísností srovnané do číselných řádků a sloupců, jaksi ztratily svou individuální vůni nebo zápach – případně, nebojíte-li se větších slov, onu duši. Uvázli jsme pod hromadou dokonale vybroušených, identických, nerozlišitelných pětek. A když se neopatrně pohneme, zmnoží se kolem nás jako prokletý poklad v sejfu u Gringottů, aby nás zasypaly.
 
 Žijeme tedy ve strašlivé době, kdy už není nutné fotografie v oparu leptavých výparů pracně množit pod zvětšovákem, kdy je každá fotografie bezvadně reprezentována maticí čísel a lze ji nekonečněkrát reprodukovat bez sebemenší ztráty kvality. Protože čísla jsou zkrátka čísla a když zkopírujete dejme tomu pětku, je z ní zase krystalicky, matematicky čistá pětka. Což je stále větší a větší hrůza pro některé lidi z mé generace, která ještě zažila překrásné kopírování hudby na analogových kazetách – které rozhodně nenechávalo pětky pětkami, občas z nich dělalo čtyřky, občas šestky a občas rybu nebo mišpuli.
 
