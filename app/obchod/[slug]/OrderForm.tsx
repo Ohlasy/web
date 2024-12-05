@@ -140,12 +140,35 @@ const DeliveryTypeSelect = () => {
             disabled={pending}
             defaultChecked
           />
-          <label htmlFor="orderPersonal">osobně po Boskovicích</label>
+          <label htmlFor="orderPersonal">osobní donáška po Boskovicích</label>
         </div>
         <p className="text-sm ml-5">
           Knihu vám osobně doneseme na adresu v Boskovicích.
         </p>
       </div>
+
+      <div className="flex flex-col">
+        <div className="flex flex-row gap-2 items-center">
+          <input
+            type="radio"
+            name="deliveryType"
+            value="knihkupectví"
+            id="orderBookstore"
+            disabled={pending}
+          />
+          <label htmlFor="orderBookstore">
+            vyzvednutí v Knihkupectví Tomáše Špidlíka
+          </label>
+        </div>
+        <p className="text-sm ml-5">
+          Knihu zaplatíte online, po zaplacení si ji můžete vyzvednout v{" "}
+          <a href="https://mapy.cz/s/rezujelega" target="_blank">
+            Knihkupectví Tomáše Špidlíka
+          </a>
+          .
+        </p>
+      </div>
+
       <div className="flex flex-col">
         <div className="flex flex-row gap-2 items-center">
           <input

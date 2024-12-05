@@ -15,7 +15,7 @@ type Order = decodeType<typeof decodeOrder>;
 const decodeOrder = record({
   orderedItemId: string,
   itemCount: numberFromString,
-  deliveryType: union("osobně", "poštou"),
+  deliveryType: union("osobně", "poštou", "knihkupectví"),
   deliveryName: string,
   deliveryAddress: string,
   deliveryEmail: string,
@@ -99,5 +99,5 @@ const buildInvoiceLines = (book: Book, order: Order): InvoiceLine[] => {
     unit_name: "ks",
     unit_price: "100",
   };
-  return order.deliveryType === "osobně" ? [bookLine] : [bookLine, postLine];
+  return order.deliveryType === "poštou" ? [bookLine, postLine] : [bookLine];
 };
