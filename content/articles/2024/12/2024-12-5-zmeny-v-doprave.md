@@ -20,7 +20,8 @@ Krajský koordinátor veřejné dopravy, společnost Kordis, nabízí takzvanou 
 
 **Nechci nikam nahrávat peníze, nemám chytrý telefon, platím jen v hotovosti, chci papírový lístek. Budu si ho moct koupit?**
 
-Ano, samozřejmě. Cestující si jej zakoupí v trafikách, kde se lístky prodávají, popřípadě na autobusovém nádraží v Boskovicích, kde funguje takzvané kontaktní centrum Integrovaného dopravního systému Jihomoravského kraje (IDS JMK), lidově řečeno krajská pokladna jízdenek. Papírový lístek je ale dražší než elektronický a je nutné jej označit. K tomu slouží stejný jízdenkový automat na nádraží jako pro platbu kartou. Papírový lístek za hotovost prodá i průvodčí ve vlaku, ale pouze s přirážkou 50 korun. Aby si lidé na nový systém zvykli, až do konce ledna 2025 se při koupi lístku u průvodčího přirážky bát nemusí.
+Ano, samozřejmě. Cestující si jej zakoupí v trafikách, kde se lístky prodávají, popřípadě na autobusovém nádraží v Boskovicích, kde funguje takzvané kontaktní centrum Integrovaného dopravního systému Jihomoravského kraje (IDS JMK), lidově řečeno krajská pokladna jízdenek. Papírový lístek je nutné označit. K tomu slouží stejný jízdenkový automat na nádraží jako pro platbu kartou. Papírový lístek za hotovost prodá i průvodčí ve vlaku, ale pouze s přirážkou 50 korun. Aby si lidé na nový systém zvykli, až do konce ledna 2025 se při koupi lístku u průvodčího přirážky bát nemusí.
+*EDIT: Původně jsme chybně uvedli, že papírový lístek je dražší než elektronický, ale jejich cena je stejná. Levnější jsou pouze jízdenky v aplikaci Poseidon.*
 
 **A co senioři, kteří moderní technologie neovládají?**
 
