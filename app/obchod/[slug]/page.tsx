@@ -23,9 +23,16 @@ export default async function Page({ params }: Props) {
       <div>
         <div className="relative aspect-square md:aspect-[2/3] w-full md:w-[350px] shrink-0">
           <Image
-            src={book.coverImageUrl}
-            sizes="(min-width: 768px) 350px, 100vw"
-            className="absolute object-cover object-top"
+            src={book.photoPortrait}
+            className="absolute object-cover object-top bg-gray max-md:hidden"
+            sizes="350px"
+            alt=""
+            fill
+          />
+          <Image
+            src={book.photoLandscape}
+            className="absolute object-cover object-top bg-gray md:hidden"
+            sizes="100vw"
             alt=""
             fill
           />
@@ -60,7 +67,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: book.title,
       description: book.description,
-      images: book.openGraphImageUrl ?? book.coverImageUrl,
+      images: book.photoLandscape,
     },
   };
 }
