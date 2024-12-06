@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getAllBooks } from "src/data-source/books";
 import { BookDetails } from "./BookDetail";
 import Image from "next/image";
+import { getResizedImageUrl } from "src/utils";
 
 type Params = {
   slug: string;
@@ -67,7 +68,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: book.title,
       description: book.description,
-      images: book.photoLandscape,
+      images: getResizedImageUrl(book.photoLandscape, 1920),
     },
   };
 }
