@@ -43,6 +43,7 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
         className="flex flex-col gap-4"
       >
         <input type="hidden" name="orderedItemId" value={itemId} />
+        <input type="hidden" name="itemCount" value="1" />
 
         <DeliveryTypeSelect />
 

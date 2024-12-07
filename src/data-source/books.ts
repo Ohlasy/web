@@ -76,6 +76,7 @@ export type Order = decodeType<typeof decodeOrder>;
 export const decodeOrder = record({
   id: field("ID", number),
   orderedItemId: field("Objednaný titul", relationToZeroOrOne),
+  itemCount: field("Počet kusů", number),
   deliveryName: field("Jméno", string),
   deliveryAddress: field("Doručovací adresa", string),
   deliveryEmail: field("Kontaktní mail", string),
@@ -89,6 +90,7 @@ export const createOrder = async (order: Omit<Order, "id" | "status">) =>
   getTable(orderTableId)
     .create({
       "Objednaný titul": [order.orderedItemId!],
+      "Počet kusů": order.itemCount,
       "Jméno": order.deliveryName,
       "Doručovací adresa": order.deliveryAddress,
       "Kontaktní mail": order.deliveryEmail,

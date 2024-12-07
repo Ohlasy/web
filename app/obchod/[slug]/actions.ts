@@ -9,9 +9,12 @@ import {
 } from "src/fakturoid";
 import { decodeType, record, string, union } from "typescript-json-decoder";
 
+const numberFromString = (val: unknown) => parseInt(string(val));
+
 type Order = decodeType<typeof decodeOrder>;
 const decodeOrder = record({
   orderedItemId: string,
+  itemCount: numberFromString,
   deliveryType: union("osobně", "poštou"),
   deliveryName: string,
   deliveryAddress: string,
@@ -86,7 +89,7 @@ export async function placeOrder(
 const buildInvoiceLines = (book: Book, order: Order): InvoiceLine[] => {
   const bookLine: InvoiceLine = {
     name: `Kniha ${book.title}`,
-    quantity: "1",
+    quantity: order.itemCount.toString(),
     unit_name: "ks",
     unit_price: String(book.price),
   };
