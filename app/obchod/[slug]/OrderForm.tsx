@@ -43,9 +43,16 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
         className="flex flex-col gap-4"
       >
         <input type="hidden" name="orderedItemId" value={itemId} />
-        <input type="hidden" name="itemCount" value="1" />
 
         <DeliveryTypeSelect />
+
+        <TextInput
+          id="itemCount"
+          label="Počet kusů:"
+          type="number"
+          defaultValue="1"
+          required
+        />
 
         <TextInput id="deliveryName" label="Celé jméno:" required />
 
@@ -162,7 +169,8 @@ type TextInputProps = {
   id: string;
   label: string;
   placeholder?: string;
-  type?: "text" | "email" | "tel";
+  defaultValue?: string;
+  type?: "text" | "email" | "tel" | "number";
   required?: boolean;
 };
 
@@ -170,6 +178,7 @@ const TextInput = ({
   id,
   label,
   placeholder,
+  defaultValue,
   required,
   type = "text",
 }: TextInputProps) => {
@@ -184,6 +193,7 @@ const TextInput = ({
         id={id}
         name={id}
         placeholder={placeholder}
+        defaultValue={defaultValue}
         className="border-[1px] border-gray rounded px-2 py-2 w-full sm:w-[40ex]"
         required={required}
         disabled={pending}
