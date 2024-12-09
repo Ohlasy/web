@@ -7,6 +7,7 @@ import {
   getPodcastEpisodes,
 } from "src/data-source/content";
 import { ReactNode } from "react";
+import Link from "next/link";
 
 const Page = async () => {
   const episodes = await getPodcastEpisodes("content/podcast.yml");
@@ -51,9 +52,9 @@ const Page = async () => {
           <p>
             Společně s několika desítkami pravidelných autorů i občasných
             přispěvatelů jsme od založení vydali{" "}
-            <a href={RouteTo.archive}>{articles.length} článků</a>,{" "}
-            <a href={RouteTo.podcasts}>{episodes.length} dílů podcastu</a>, tři
-            knihy a 
+            <Link href={RouteTo.archive}>{articles.length} článků</Link>,{" "}
+            <Link href={RouteTo.podcasts}>{episodes.length} dílů podcastu</Link>
+            , <Link href={RouteTo.shop}>pět knih</Link> a 
             <a href={RouteTo.YouTube}>desítky videí</a>.
           </p>
         </div>
