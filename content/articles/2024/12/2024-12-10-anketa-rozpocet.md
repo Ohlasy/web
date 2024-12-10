@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: ankety
 ---
 
-*Další díl opoziční ankety věnujeme jednomu tématu: návrhu rozpočtu města na rok 2023\. Návrh už schválila městská rada, Ohlasy ho [představily v podrobném rozboru](https://ohlasy.info) a nyní ho bude schvalovat zastupitelstvo. Svůj názor v anketě prezentují za koalici SPOLU Michaela Žejšková, za ČSSD Petr Malach a za SPD a Trikoloru Karel Trefný.*
+*Další díl opoziční ankety věnujeme jednomu tématu: návrhu rozpočtu města na rok 2025\. Návrh už schválila městská rada, Ohlasy ho [představily v podrobném rozboru](https://ohlasy.info) a nyní ho bude schvalovat zastupitelstvo. Svůj názor v anketě prezentují za koalici SPOLU Michaela Žejšková, za ČSSD Petr Malach a za SPD a Trikoloru Karel Trefný.*
 
 {% photo src="https://i.ohlasy.info/i/ceb653f7.jpg" caption="Vánoční osvětlení na boskovickém náměstí" author="Město Boskovice" width=2048 height=1536 /%}
 
