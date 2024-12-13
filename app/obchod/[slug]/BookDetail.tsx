@@ -17,6 +17,8 @@ export const BookDetails = ({ book }: Props) => {
     maximumFractionDigits: 0,
   });
 
+  const inStock = book.state === "v prodeji";
+
   const orderLabel = book.price
     ? `Koupit za ${priceFormatter.format(book.price)}`
     : "Koupit";
@@ -44,7 +46,7 @@ export const BookDetails = ({ book }: Props) => {
 
       <p>{book.description}</p>
 
-      {showOrder && (
+      {inStock && showOrder && (
         <div>
           <hr className="text-gray mt-4 mb-7" />
           <OrderForm
@@ -54,9 +56,17 @@ export const BookDetails = ({ book }: Props) => {
         </div>
       )}
 
-      {!showOrder && (
+      {inStock && !showOrder && (
         <div className="mt-2">
           <ShowOrderButton />
+        </div>
+      )}
+
+      {!inStock && (
+        <div className="mt-2">
+          <button className="btn-primary" disabled>
+            Kniha je vyprodaná
+          </button>
         </div>
       )}
     </div>
