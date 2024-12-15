@@ -2,14 +2,18 @@ import { useFormState, useFormStatus } from "react-dom";
 import { placeOrder } from "./actions";
 import Plausible from "plausible-tracker";
 import Link from "next/link";
+import { useState } from "react";
 
 type Props = {
   itemId: string;
   onCancel?: () => void;
 };
 
+type DeliveryType = "osobně" | "poštou" | "knihkupectví";
+
 export function OrderForm({ itemId, onCancel = () => {} }: Props) {
   const [state, formAction] = useFormState(placeOrder, { tag: "idle" });
+  const [deliveryType, setDeliveryType] = useState<DeliveryType>("osobně");
   const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
   if (state.tag === "sent") {
@@ -44,7 +48,7 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
       >
         <input type="hidden" name="orderedItemId" value={itemId} />
 
-        <DeliveryTypeSelect />
+        <DeliveryTypeSelect onChange={setDeliveryType} />
 
         <TextInput
           id="itemCount"
@@ -56,12 +60,14 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
 
         <TextInput id="deliveryName" label="Celé jméno:" required />
 
-        <TextInput
-          id="deliveryAddress"
-          label="Dodací adresa:"
-          placeholder="Rašínova 1234, 68001 Boskovice"
-          required
-        />
+        {deliveryType !== "knihkupectví" && (
+          <TextInput
+            id="deliveryAddress"
+            label="Dodací adresa:"
+            placeholder="Rašínova 1234, 68001 Boskovice"
+            required
+          />
+        )}
 
         <TextInput
           id="deliveryEmail"
@@ -125,7 +131,13 @@ const SubmitButton = () => {
   );
 };
 
-const DeliveryTypeSelect = () => {
+type DeliveryTypeSelectProps = {
+  onChange?: (value: DeliveryType) => void;
+};
+
+const DeliveryTypeSelect = ({
+  onChange = () => {},
+}: DeliveryTypeSelectProps) => {
   const { pending } = useFormStatus();
   return (
     <section className="flex flex-col gap-2 mb-2">
@@ -136,6 +148,7 @@ const DeliveryTypeSelect = () => {
             type="radio"
             name="deliveryType"
             value="osobně"
+            onClick={() => onChange("osobně")}
             id="orderPersonal"
             disabled={pending}
             defaultChecked
@@ -152,6 +165,7 @@ const DeliveryTypeSelect = () => {
           <input
             type="radio"
             name="deliveryType"
+            onClick={() => onChange("knihkupectví")}
             value="knihkupectví"
             id="orderBookstore"
             disabled={pending}
@@ -174,6 +188,7 @@ const DeliveryTypeSelect = () => {
           <input
             type="radio"
             name="deliveryType"
+            onClick={() => onChange("poštou")}
             value="poštou"
             id="orderPost"
             disabled={pending}
