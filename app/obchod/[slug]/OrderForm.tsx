@@ -2,14 +2,18 @@ import { useFormState, useFormStatus } from "react-dom";
 import { placeOrder } from "./actions";
 import Plausible from "plausible-tracker";
 import Link from "next/link";
+import { useState } from "react";
 
 type Props = {
   itemId: string;
   onCancel?: () => void;
 };
 
+type DeliveryType = "osobně" | "poštou" | "knihkupectví";
+
 export function OrderForm({ itemId, onCancel = () => {} }: Props) {
   const [state, formAction] = useFormState(placeOrder, { tag: "idle" });
+  const [deliveryType, setDeliveryType] = useState<DeliveryType>("osobně");
   const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
   if (state.tag === "sent") {
@@ -44,7 +48,7 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
       >
         <input type="hidden" name="orderedItemId" value={itemId} />
 
-        <DeliveryTypeSelect />
+        <DeliveryTypeSelect onChange={setDeliveryType} />
 
         <TextInput
           id="itemCount"
@@ -56,12 +60,14 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
 
         <TextInput id="deliveryName" label="Celé jméno:" required />
 
-        <TextInput
-          id="deliveryAddress"
-          label="Dodací adresa:"
-          placeholder="Rašínova 1234, 68001 Boskovice"
-          required
-        />
+        {deliveryType !== "knihkupectví" && (
+          <TextInput
+            id="deliveryAddress"
+            label="Dodací adresa:"
+            placeholder="Rašínova 1234, 68001 Boskovice"
+            required
+          />
+        )}
 
         <TextInput
           id="deliveryEmail"
@@ -125,7 +131,13 @@ const SubmitButton = () => {
   );
 };
 
-const DeliveryTypeSelect = () => {
+type DeliveryTypeSelectProps = {
+  onChange?: (value: DeliveryType) => void;
+};
+
+const DeliveryTypeSelect = ({
+  onChange = () => {},
+}: DeliveryTypeSelectProps) => {
   const { pending } = useFormStatus();
   return (
     <section className="flex flex-col gap-2 mb-2">
@@ -136,29 +148,57 @@ const DeliveryTypeSelect = () => {
             type="radio"
             name="deliveryType"
             value="osobně"
+            onClick={() => onChange("osobně")}
             id="orderPersonal"
             disabled={pending}
             defaultChecked
           />
-          <label htmlFor="orderPersonal">osobně po Boskovicích</label>
+          <label htmlFor="orderPersonal">Osobní donáška po Boskovicích</label>
         </div>
         <p className="text-sm ml-5">
-          Knihu vám osobně doneseme na adresu v Boskovicích.
+          Knihu zaplatíte online, po zaplacení vám ji doneseme na adresu v
+          Boskovicích.
         </p>
       </div>
+
       <div className="flex flex-col">
         <div className="flex flex-row gap-2 items-center">
           <input
             type="radio"
             name="deliveryType"
+            onClick={() => onChange("knihkupectví")}
+            value="knihkupectví"
+            id="orderBookstore"
+            disabled={pending}
+          />
+          <label htmlFor="orderBookstore">
+            Vyzvednutí v Knihkupectví Tomáše Špidlíka
+          </label>
+        </div>
+        <p className="text-sm ml-5">
+          Knihu zaplatíte online, po zaplacení si ji můžete vyzvednout v{" "}
+          <a href="https://mapy.cz/s/rezujelega" target="_blank">
+            Knihkupectví Tomáše Špidlíka
+          </a>
+          .
+        </p>
+      </div>
+
+      <div className="flex flex-col">
+        <div className="flex flex-row gap-2 items-center">
+          <input
+            type="radio"
+            name="deliveryType"
+            onClick={() => onChange("poštou")}
             value="poštou"
             id="orderPost"
             disabled={pending}
           />
-          <label htmlFor="orderPost">poštou kamkoliv (příplatek 100 Kč)</label>
+          <label htmlFor="orderPost">Poštou kamkoliv (příplatek 100 Kč)</label>
         </div>
         <p className="text-sm ml-5">
-          Knihu vám pošleme klasicky poštou kamkoliv.
+          Knihu zaplatíte online, po zaplacení vám ji pošleme klasicky poštou
+          kamkoliv.
         </p>
       </div>
     </section>

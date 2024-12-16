@@ -78,10 +78,13 @@ export const decodeOrder = record({
   orderedItemId: field("Objednaný titul", relationToZeroOrOne),
   itemCount: field("Počet kusů", number),
   deliveryName: field("Jméno", string),
-  deliveryAddress: field("Doručovací adresa", string),
+  deliveryAddress: field("Doručovací adresa", optional(string)),
   deliveryEmail: field("Kontaktní mail", string),
   deliveryPhone: field("Kontaktní telefon", string),
-  deliveryType: field("Způsob doručení", union("osobně", "poštou")),
+  deliveryType: field(
+    "Způsob doručení",
+    union("osobně", "poštou", "knihkupectví")
+  ),
   status: field("Stav objednávky", union("nová", "vyřízená", "stornovaná")),
   invoiceUrl: field("Faktura", string),
 });

@@ -7,7 +7,13 @@ import {
   getBearerTokenFromEnv,
   InvoiceLine,
 } from "src/fakturoid";
-import { decodeType, record, string, union } from "typescript-json-decoder";
+import {
+  decodeType,
+  optional,
+  record,
+  string,
+  union,
+} from "typescript-json-decoder";
 
 const numberFromString = (val: unknown) => parseInt(string(val));
 
@@ -15,9 +21,9 @@ type Order = decodeType<typeof decodeOrder>;
 const decodeOrder = record({
   orderedItemId: string,
   itemCount: numberFromString,
-  deliveryType: union("osobně", "poštou"),
+  deliveryType: union("osobně", "poštou", "knihkupectví"),
   deliveryName: string,
-  deliveryAddress: string,
+  deliveryAddress: optional(string),
   deliveryEmail: string,
   deliveryPhone: string,
 });
@@ -99,5 +105,5 @@ const buildInvoiceLines = (book: Book, order: Order): InvoiceLine[] => {
     unit_name: "ks",
     unit_price: "100",
   };
-  return order.deliveryType === "osobně" ? [bookLine] : [bookLine, postLine];
+  return order.deliveryType === "poštou" ? [bookLine, postLine] : [bookLine];
 };
