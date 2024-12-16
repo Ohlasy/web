@@ -153,10 +153,11 @@ const DeliveryTypeSelect = ({
             disabled={pending}
             defaultChecked
           />
-          <label htmlFor="orderPersonal">osobní donáška po Boskovicích</label>
+          <label htmlFor="orderPersonal">Osobní donáška po Boskovicích</label>
         </div>
         <p className="text-sm ml-5">
-          Knihu vám osobně doneseme na adresu v Boskovicích.
+          Knihu zaplatíte online, po zaplacení vám ji doneseme na adresu v
+          Boskovicích.
         </p>
       </div>
 
@@ -171,7 +172,7 @@ const DeliveryTypeSelect = ({
             disabled={pending}
           />
           <label htmlFor="orderBookstore">
-            vyzvednutí v Knihkupectví Tomáše Špidlíka
+            Vyzvednutí v Knihkupectví Tomáše Špidlíka
           </label>
         </div>
         <p className="text-sm ml-5">
@@ -193,10 +194,11 @@ const DeliveryTypeSelect = ({
             id="orderPost"
             disabled={pending}
           />
-          <label htmlFor="orderPost">poštou kamkoliv (příplatek 100 Kč)</label>
+          <label htmlFor="orderPost">Poštou kamkoliv (příplatek 100 Kč)</label>
         </div>
         <p className="text-sm ml-5">
-          Knihu vám pošleme klasicky poštou kamkoliv.
+          Knihu zaplatíte online, po zaplacení vám ji pošleme klasicky poštou
+          kamkoliv.
         </p>
       </div>
     </section>
