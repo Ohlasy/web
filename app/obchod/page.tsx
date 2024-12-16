@@ -35,7 +35,7 @@ const BookBox = ({ book }: { book: Book }) => (
       />
     </div>
     <div>
-      <h2 className="text-3xl leading-tight font-bold text-balance mb-2">
+      <h2 className="text-4xl leading-tight font-bold text-balance mb-2">
         {book.title}
       </h2>
       <p className="max-w-prose">{book.description}</p>
