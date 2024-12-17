@@ -4,6 +4,8 @@ import { getAllBooks } from "src/data-source/books";
 import { BookDetails } from "./BookDetail";
 import Image from "next/image";
 import { getResizedImageUrl } from "src/utils";
+import { Breadcrumbs } from "components/Breadcrumbs";
+import { RouteTo } from "src/routing";
 
 type Params = {
   slug: string;
@@ -39,7 +41,13 @@ export default async function Page({ params }: Props) {
           />
         </div>
       </div>
-      <BookDetails book={book} />
+      <div className="pt-1">
+        <Breadcrumbs
+          parentItems={[{ title: "Obchod", path: RouteTo.shop }]}
+          currentItemTitle={book.title}
+        />
+        <BookDetails book={book} />
+      </div>
     </div>
   );
 }
