@@ -1,7 +1,19 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { Book, getAllBooks, sortByYear } from "src/data-source/books";
 import { RouteTo } from "src/routing";
+import { getResizedImageUrl } from "src/utils";
+
+export const metadata: Metadata = {
+  title: "Ohlasy: Knihy",
+  openGraph: {
+    title: "Ohlasy: Knihy",
+    description:
+      "Příběhy, vzpomínky a vyprávění z Boskovic a okolí. V knižní podobě.",
+    images: getResizedImageUrl("https://i.ohlasy.info/i/fee8715f.jpg", 1920),
+  },
+};
 
 async function Page() {
   const books = await getAllBooks();
