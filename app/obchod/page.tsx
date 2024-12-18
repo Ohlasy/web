@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Ohlasy: Knihy",
     description:
       "Příběhy, vzpomínky a vyprávění z Boskovic a okolí. V knižní podobě.",
-    images: getResizedImageUrl("https://i.ohlasy.info/i/fee8715f.jpg", 1920),
+    images: getResizedImageUrl("https://i.ohlasy.info/i/9bbdb607.jpeg", 1920),
   },
 };
 
