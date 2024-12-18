@@ -112,6 +112,7 @@ const Footer = () => (
           <p>co ještě děláme</p>
           <LinkList
             links={[
+              [RouteTo.store, "knihy"],
               [RouteTo.archive, "archiv článků"],
               [RouteTo.forum, "diskuzní fórum"],
               [RouteTo.newsletter, "newsletter"],

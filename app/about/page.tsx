@@ -54,7 +54,7 @@ const Page = async () => {
             přispěvatelů jsme od založení vydali{" "}
             <Link href={RouteTo.archive}>{articles.length} článků</Link>,{" "}
             <Link href={RouteTo.podcasts}>{episodes.length} dílů podcastu</Link>
-            , <Link href={RouteTo.shop}>pět knih</Link> a 
+            , <Link href={RouteTo.store}>pět knih</Link> a 
             <a href={RouteTo.YouTube}>desítky videí</a>.
           </p>
         </div>

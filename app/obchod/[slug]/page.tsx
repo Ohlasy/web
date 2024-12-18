@@ -43,7 +43,7 @@ export default async function Page({ params }: Props) {
       </div>
       <div className="pt-1">
         <Breadcrumbs
-          parentItems={[{ title: "Obchod", path: RouteTo.shop }]}
+          parentItems={[{ title: "Obchod", path: RouteTo.store }]}
           currentItemTitle={book.title}
         />
         <BookDetails book={book} />

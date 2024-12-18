@@ -15,7 +15,7 @@ export const RouteTo = {
   hrebenovkaFeed: "/podcast/hrebenovka.xml",
   about: "/about",
   archive: "/clanky",
-  shop: "/obchod",
+  store: "/obchod",
   // Dynamic routes
   article: getArticlePath,
   forumTopic: getTopicUrl,
