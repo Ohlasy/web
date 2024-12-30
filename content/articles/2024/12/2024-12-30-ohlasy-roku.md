@@ -21,7 +21,7 @@ Popularizace architektury se Petru Ondráčkovi daří v Boskovicích dlouhodob�
 
 ### Žebříček
 
-Žebříček nejčtenějších textů za rok 2023 vypadá tedy takto:
+Žebříček nejčtenějších textů za rok 2024 vypadá tedy takto:
 
 1. [Vzpomínka na Kucmocha](https://ohlasy.info/clanky/2024/01/kucmoch.html)
 2. [Změny v dopravě](https://ohlasy.info/clanky/2024/12/zmeny-v-doprave.html)
