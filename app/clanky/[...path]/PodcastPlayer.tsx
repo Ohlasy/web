@@ -88,7 +88,7 @@ const Button = ({
   icon: JSX.Element;
 }) => (
   <button
-    className="block aspect-square w-[50px] text-white hover:scale-110"
+    className="block aspect-square w-[50px] text-white hover:scale-110 transition-transform"
     onClick={onClick}
   >
     {icon}
