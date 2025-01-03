@@ -12,6 +12,7 @@ type PodcastPlayerProps = {
 export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
   const playerRef = useRef<HTMLAudioElement>(null);
   const [playing, setPlaying] = useState(false);
+
   return (
     <div className="bg-plum rounded-xl p-7 md:p-9 my-6">
       <audio
@@ -40,24 +41,16 @@ export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
           </div>
           <div>
             {!playing && (
-              <button
-                className="btn-inverted border-none max-sm:w-full"
-                onClick={() => {
-                  playerRef.current?.play();
-                }}
-              >
-                Spustit
-              </button>
+              <Button
+                icon={PlayIcon}
+                onClick={() => playerRef.current?.play()}
+              />
             )}
             {playing && (
-              <button
-                className="btn-inverted border-none max-sm:w-full"
-                onClick={() => {
-                  playerRef.current?.pause();
-                }}
-              >
-                Pozastavit
-              </button>
+              <Button
+                onClick={() => playerRef.current?.pause()}
+                icon={PauseIcon}
+              />
             )}
           </div>
         </div>
@@ -65,3 +58,44 @@ export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
     </div>
   );
 };
+
+const Button = ({
+  onClick,
+  icon,
+}: {
+  onClick: () => void;
+  icon: JSX.Element;
+}) => (
+  <button
+    className="block aspect-square w-[50px] text-white hover:scale-110"
+    onClick={onClick}
+  >
+    {icon}
+  </button>
+);
+
+const PlayIcon = (
+  <svg
+    role="img"
+    aria-hidden="false"
+    viewBox="0 0 24 24"
+    fill="currentColor"
+    stroke="currentColor"
+  >
+    <title>Spustit</title>
+    <path d="M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm8.75-4.567a.5.5 0 0 0-.75.433v8.268a.5.5 0 0 0 .75.433l7.161-4.134a.5.5 0 0 0 0-.866L9.75 7.433z"></path>
+  </svg>
+);
+
+const PauseIcon = (
+  <svg
+    role="img"
+    aria-hidden="false"
+    viewBox="0 0 24 24"
+    fill="currentColor"
+    stroke="currentColor"
+  >
+    <title>Pozastavit</title>
+    <path d="M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm7.5-5a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h2a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-2zm5 0a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h2a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-2z"></path>
+  </svg>
+);
