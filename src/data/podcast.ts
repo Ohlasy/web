@@ -1,4 +1,7 @@
 import { decodeUrl, decodeDate } from "src/decoding";
+import { resolve } from "path";
+import yaml from "js-yaml";
+import fs from "fs";
 import {
   array,
   decodeType,
@@ -20,3 +23,9 @@ export const decodePodcastEpisode = record({
 
 export type Podcast = decodeType<typeof decodePodcast>;
 export const decodePodcast = array(decodePodcastEpisode);
+
+export function getAllPodcastEpisodes(): Podcast {
+  const path = resolve("content", "podcast.yml");
+  const src = fs.readFileSync(path, { encoding: "utf-8" });
+  return decodePodcast(yaml.load(src));
+}
