@@ -7,7 +7,7 @@ category: podcast
 
 *Salesián Petr Cvrkal pochází z Boskovic a je aktuálně je ředitelem bulharské salesiánské komunity. V Bulharsku působí jako kněz, vede kurzy animátorů, duchovně doprovází a věnuje se práci s mládeží.*
 
-{% spotify_episode id="5h6hTFgmxOm9SjcpYdGrez" /%}
+{% podcast_player file="2023/podcast/cvrkal.mp3" /%}
 
 **Petře, jaká byla tvoje cesta ke kněžství?** 
 

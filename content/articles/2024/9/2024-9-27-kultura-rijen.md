@@ -8,7 +8,7 @@ tags: kultura
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Hostem rozhovoru byl tentokrát hudební publicista a organizátor festivalu Melomania Jan Hocek. Součástí podcastu jsou i pozvánky na vybrané říjnové akce, ty si zde můžete také přečíst.*
 
-{% spotify_episode id="5zxeXztIuYA7baECQF7uan" /%}
+{% podcast_player file="2024/podcast/hocek.mp3" /%}
 
 ### Hrnčířský jarmark
 

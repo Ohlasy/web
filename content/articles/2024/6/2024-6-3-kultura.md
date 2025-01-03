@@ -8,7 +8,7 @@ tags: kultura
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si po telefonu vyzpovídali Evu Dittrichovou z mezinárodního hudebního festivalu Concentus Moraviae, který v průběhu června navštíví Boskovice a také Rájec a Lysice. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, ty si zde můžete také přečíst.*
 
-{% spotify_episode id="1xBkspdkt8p9laUR2Hiafc" /%}
+{% podcast_player file="2024/podcast/concentus.mp3" /%}
 
 ### Melomania | Nela Dusová & 2in2out – křest alba
 

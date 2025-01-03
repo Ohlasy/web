@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s místostarostou Radkem Šamšulou, zvoleným za Českou pirátskou stranu. Hlavním tématem bylo fungování městských médií, která má místostarosta na starosti a avizuje jejich postupnou proměnu. Dotkli jsme se také výsledků voleb a fungování koalice.*
 
-{% spotify_episode id="1TwcwCnfmBtMYrNcM6BtRw" /%}
+{% podcast_player file="2023/podcast/samsula.mp3" /%}
 
 **Pojďme se na začátek ještě vrátit k výsledku komunálních voleb. Piráti se na základě jejich výsledku dostali do koalice, získali pro tebe post místostarosty. Na druhou stranu jste za ty čtyři roky v opozici ztratili skoro polovinu hlasů, místo tří mandátů máte dva a to ještě dost těsně. Tak jak to vlastně interpretovat, byl to úspěch, nebo to byl neúspěch? Jak to vnímáš a kde vidíš příčiny?**
 

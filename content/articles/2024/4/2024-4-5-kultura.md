@@ -8,7 +8,7 @@ tags: kultura
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si pozvali Marka a Ladislava Oujeské [ze sýpky](https://ohlasy.info/clanky/2023/04/sypka.html), kde sídlí Knihařství a písařství Oujeských a kromě toho se z ní stalo další boskovické kulturní centrum. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, ty si zde můžete také přečíst.*
 
-{% spotify_episode id="76pb1D2UMr0bqvlg4j9YEn" /%}
+{% podcast_player file="2024/podcast/oujesti.mp3" /%}
 
 ### Koncerty ve skleníku
 

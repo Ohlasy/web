@@ -8,7 +8,7 @@ tags: kultura
 
 _V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. V souhrnu zářijových kulturních událostí připomínáme také filmový klub. A právě k tématu filmového klubu, nového malého sálu a návštěvnosti boskovických kin jsme si pozvali vedoucího kina Tomáše Marvana. Součástí podcastu jsou i pozvánky na vybrané zářijové akce, které si můžete níže také přečíst._
 
-{% spotify_episode id="165tjFDWmeLlJUXTFMhAwN" /%}
+{% podcast_player file="2023/podcast/marvan.mp3" /%}
 
 ### Koncert Jiřího Slavíka
 

@@ -8,7 +8,7 @@ tags: kultura zuš
 
 *Rozhovor s Petrem Prosserem, ředitelem boskovické základní umělecké školy. Mluvili jsme o atmosféře ve škole, kterou [přebíral před dvěma a půl lety ve složité situaci](https://ohlasy.info/clanky/2020/10/prosser-reditelem-zus.html), o zájmu o výuku, o souborové hře, o budově školy a taky trochu o muzice a jeho vlastních hudebních aktivitách.*
 
-{% spotify_episode id="3rQdT9jWvBoQ7ykDZNtIFZ" /%}
+{% podcast_player file="2023/podcast/prosser.mp3" /%}
 
 **Kdybys měl zhodnotit svoje působení po dvou a půl letech ve funkci ředitele – tak jak se ti daří?**
 

@@ -7,7 +7,7 @@ category: podcast
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát byl naším hostem sbormistr boskovického smíšeného pěveckého sboru Janáček František Ostrý. Součástí podcastu jsou i pozvánky na vybrané prosincové  akce, ty si zde můžete také přečíst.*
 
-{% spotify_episode id="3Q5FpUOWaWAehoCyh8Ldop" /%}
+{% podcast_player file="2024/podcast/ostry.mp3" /%}
 
 ### Advent v kostele
 

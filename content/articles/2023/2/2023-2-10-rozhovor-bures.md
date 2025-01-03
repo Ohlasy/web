@@ -7,7 +7,7 @@ category: podcast
 
 *Rozhovor s boskovickým evangelickým farářem Jiřím Burešem. Pozvali jsme ho, abychom se zeptali, jestli „jezulátko funguje“, ale hlavně abychom se vážněji pobavili o náboženství a politice.*
 
-{% spotify_episode id="3MLSW0Pys4HOsfCRv10Pdi" /%}
+{% podcast_player file="2023/podcast/bures.mp3" /%}
 
 **Tak co to jezulátko, bratře faráři, funguje, nebo nefunguje?**
 

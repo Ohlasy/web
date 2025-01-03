@@ -9,7 +9,7 @@ tags: politika
 
 *Hostem dalšího setkání z cyklu Ohlasy naživo byl ve čtvrtek 28. května Petr Malach, předseda boskovické ČSSD a zastupitel. Jedno volební období byl místostarostou, po komunálních volbách v roce 2018 však ČSSD skončila v opozici. Tématem našeho rozhovoru tak byla právě politická práce v opozici, názory na současné směřování města, ale i obecný pohled na fungování a budoucnost sociální demokracie, která prochází celostátně těžkou krizí a její podpora dlouhodobě klesá. Má ta boskovická nějaký plán na záchranu a co chce do budoucna nabídnout?*
 
-{% spotify_episode id="2AjoaNl114HxcP85Z3W0z4" /%}
+{% podcast_player file="2020/podcast/malach.mp3" /%}
 
 Úvod rozhovoru jsme věnovali zkušenosti, kterou Petr Malach učinil s politikou, a to jak komunální, tak celostátní, do které nahlédl díky práci pro premiéra Bohuslava Sobotku. Co ho na práci bavilo a co je na ní naopak obtížné? Stýská se mu po práci na radnici?
 

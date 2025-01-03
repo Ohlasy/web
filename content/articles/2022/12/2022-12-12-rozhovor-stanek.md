@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Martinem Staňkem, studentem práv a členem boskovické ODS. Patří k nejaktivnějším mladým politikům ve městě a vzdát to neplánuje, i když se mu v komunálních volbách nepodařilo proniknout do zastupitelstva. Bavili jsme se o příčinách volební porážky koalice SPOLU a také o její budoucnosti.*
 
-{% spotify_episode id="3XTLwV2LshBp8tyUbZg8ns" /%}
+{% podcast_player file="2022/podcast/mstanek.mp3" /%}
 
 **Na začátku ti položím otázku, která se vztahuje ke komunálním volbám, které před časem proběhly, a samozřejmě se nabízí: Vy jste šli do voleb jako koalice SPOLOU, šli jste do nich jako hlavní favorit, ale nakonec jste skončili třetí se šesti mandáty. Jednoduchá novinářská otázka zní: Proč? Kde vidíš příčiny tohoto výsledku?**
 

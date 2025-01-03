@@ -7,7 +7,7 @@ category: podcast
 
 *Pozvání k živému rozhovoru na narozeninové akci Pět let Ohlasů přijala naše nejpovolanější odbornice na lokální žurnalistiku – mediální analytička Lenka Waschková Císařová z Fakulty sociálních studií MU v Brně.*
 
-{% spotify_episode id="26ne8vSYPObg5HHEsfg4cR" /%}
+{% podcast_player file="2020/podcast/lwc.mp3" /%}
 
 Vzhledem k tomu, že rozhovor proběhl u příležitosti narozeninové oslavy našich novin, využili jsme úvodu k otázce, jak Lenka Waschková vidí naši práci, způsob, jakým noviny děláme, a to v širším kontextu lokální novinařiny.
 

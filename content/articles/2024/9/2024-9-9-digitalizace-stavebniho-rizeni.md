@@ -7,7 +7,7 @@ category: podcast
 
 *Rozhovor s tajemníkem boskovického městského úřadu Davidem Škvařilem a vedoucím stavebního odboru Tomášem Měkotou o probíhající digitalizaci stavebního řízení.*
 
-{% spotify_episode id="2vbS7ja9YBUURoUqYDoUUg" /%}
+{% podcast_player file="2024/podcast/digitalizace.mp3" /%}
 
 **Rozhovor vedeme 4\. září odpoledne – v jakém stavu digitalizace stavebního řízení právě teď je? Jaká je aktuální situace, ve které se tady na úřadě nacházíte?**
 

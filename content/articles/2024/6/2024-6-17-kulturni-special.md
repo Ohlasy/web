@@ -8,4 +8,4 @@ tags: kultura
 
 _Speciální díl kulturního podcastu jsme tentokrát věnovali akci RapAmbush, která proběhne v sobotu 22. června v Prostoru. Moderují tentokrát Tomáš Trumpeš a Tomáš Znamenáček, hosty byli pořadatelé akce Šimon Mach a Filip Kvěch. Povídali jsme si nejen o akci, ale taky o rapu samotném._
 
-{% spotify_episode id="2mX7eQkZNpYjueYAJo4je6" /%}
+{% podcast_player file="2024/podcast/ambush.mp3" /%}

@@ -7,7 +7,7 @@ category: podcast
 
 *Deváté narozeniny Ohlasů jsme oslavili redakční debatou, ke které se sešli Marek Osouch, Tomáš Znamenáček a Tomáš Trumpeš. Mluvili jsme o tom, jaká média a které novináře sledujeme a odkud čerpáme informace. Zkrátka o tom, jaké noviny – kromě Ohlasů – máme rádi. A taky trochu o budoucnosti novinařiny.*
 
-{% spotify_episode id="3zDlaT4PNKvNDYvtWnppTA" /%}
+{% podcast_player file="2024/podcast/narozeniny.mp3" /%}
 
 A ještě přidáme pár odkazů na média a zdroje, o kterých v této epizodě mluvíme. Zpravodajské weby:
 
