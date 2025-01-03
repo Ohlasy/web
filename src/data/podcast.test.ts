@@ -6,7 +6,7 @@ test("Decode podcast", () => {
   expect(podcast).toEqual([
     {
       bytes: 14000000,
-      date: new Date("Tue, 17 Dec 2024 9:16:00 +0200"),
+      date: "Tue, 17 Dec 2024 9:16:00 +0200",
       description: "Další rozhovor s evangelickým farářem…",
       duration: "00:26:41",
       image: "https://i.ohlasy.info/i/9483608e.jpg",
@@ -15,7 +15,7 @@ test("Decode podcast", () => {
     },
     {
       bytes: 17000000,
-      date: new Date("Thu, 12 Dec 2024 9:16:00 +0200"),
+      date: "Thu, 12 Dec 2024 9:16:00 +0200",
       description: "Ohlasy vydaly knihu textů Heleny Janíkové…",
       duration: "00:34:17",
       image: "https://i.ohlasy.info/i/7ff92dc9.jpg",

@@ -15,7 +15,7 @@ export const decodePodcastEpisode = record({
   title: string,
   image: string,
   duration: string,
-  date: decodeDate,
+  date: string,
   url: decodeUrl,
   bytes: number,
   description: string,

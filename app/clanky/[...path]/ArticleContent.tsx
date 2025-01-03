@@ -7,7 +7,7 @@ import Image from "next/image";
 import { default as NextLink } from "next/link";
 import { siteUrl } from "src/routing";
 import { plausibleEventClass } from "src/data/plausible";
-import { PodcastEpisode } from "src/data/podcast";
+import { PodcastPlayer } from "./PodcastPlayer";
 
 export type ArticleBodyProps = {
   /** Markdoc source */
@@ -179,12 +179,4 @@ const YouTubeVideo = ({
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowFullScreen
   ></iframe>
-);
-
-type PodcastPlayerProps = {
-  episode: PodcastEpisode;
-};
-
-const PodcastPlayer = ({ episode }: PodcastPlayerProps) => (
-  <div>{episode.title}</div>
 );
