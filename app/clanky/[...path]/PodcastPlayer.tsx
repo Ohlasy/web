@@ -37,9 +37,7 @@ export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
         <div className="flex flex-col gap-4">
           <div className="text-white">
             <p className="text-2xl text-balance">{tilde(episode.title)}</p>
-            <p className="text-sm">
-              {Intl.DateTimeFormat("cs-CZ").format(new Date(episode.date))} 
-            </p>
+            <p>{episode.duration.replace("00:", "")}</p>
           </div>
           <div>
             {!playing && (
