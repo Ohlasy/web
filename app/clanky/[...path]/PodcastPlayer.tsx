@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Plausible from "plausible-tracker";
 import { useRef, useState } from "react";
 import { PodcastEpisode } from "src/data/podcast";
 import { tilde } from "src/utils";
@@ -12,6 +13,7 @@ type PodcastPlayerProps = {
 export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
   const playerRef = useRef<HTMLAudioElement>(null);
   const [playing, setPlaying] = useState(false);
+  const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
   return (
     <div className="bg-plum rounded-xl p-7 md:p-9 my-6">
@@ -43,7 +45,10 @@ export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
             {!playing && (
               <Button
                 icon={PlayIcon}
-                onClick={() => playerRef.current?.play()}
+                onClick={() => {
+                  trackEvent("Start Playback");
+                  playerRef.current?.play();
+                }}
               />
             )}
             {playing && (
