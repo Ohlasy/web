@@ -4,6 +4,7 @@ import Image from "next/image";
 import Plausible from "plausible-tracker";
 import { useRef, useState } from "react";
 import { PodcastEpisode } from "src/data/podcast";
+import { RouteTo } from "src/routing";
 import { tilde } from "src/utils";
 
 type PodcastPlayerProps = {
@@ -16,7 +17,7 @@ export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
   const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
   return (
-    <div className="bg-plum rounded-xl p-7 md:p-9 my-6">
+    <div className="bg-plum rounded-xl p-7 md:p-9 my-6 flex flex-col gap-7">
       <audio
         src={episode.url}
         ref={playerRef}
@@ -58,9 +59,26 @@ export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
           </div>
         </div>
       </div>
+      <div className="flex flex-row flex-wrap gap-4 text-sm -mb-2">
+        <ServiceButton href={RouteTo.Spotify} title="Spotify" />
+        <ServiceButton href={RouteTo.ApplePodcasts} title="Apple Podcasts" />
+        <ServiceButton href={RouteTo.YouTubePodcast} title="YouTube" />
+        <ServiceButton href={RouteTo.mainPodcastFeed} title="RSS" />
+        <ServiceButton href={episode.url} title="stáhnout MP3" />
+      </div>
     </div>
   );
 };
+
+const ServiceButton = ({ href, title }: { href: string; title: string }) => (
+  <a
+    href={href}
+    className="rounded-full whitespace-nowrap border-[1px] text-white border-white px-2 hover:bg-white hover:text-plum"
+    target="_blank"
+  >
+    ▷ {title}
+  </a>
+);
 
 const Button = ({
   onClick,
