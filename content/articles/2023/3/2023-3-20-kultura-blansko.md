@@ -9,7 +9,7 @@ tags: kultura Blansko
 
 *Tentokrát jsme se v našem Podcastu Ohlasy vydali za hranice Boskovicka a k rozhovoru jsme pozvali odvolaného ředitele Kulturního střediska města Blanska Víta Šujana a kurátorku Janu Písaříkovou, která dlouhé roky působí v blanenské galerii.*
 
-{% spotify_episode id="7isPlpwjJOlOfiA8CXlHMZ" /%}
+{% podcast_player file="2023/podcast/blansko.mp3" /%}
 
 Pozváním obou aktérů do podcastu jsme se rozhodli reagovat na zvláštní situaci, která v Blansku vznikla, když městská rada jen s velmi strohým vysvětlením odvolala šéfa kulturního střediska a dosadila místo něj dosavadního pořadatele komerčních sportovních a kulturních akcí, bez adekvátního vzdělání a navíc politicky napojeného na ODS. Kultura nás jako téma samozřejmě velmi zajímá a blanenský případ je v mnohém příznačný. Kromě toho nás jako novináře vyprovokovala situace, kdy na jednání blanenského zastupitelstva nedostali vůbec příležitost promluvit nejen bývalý ředitel, ale ani zástupci občanské společnosti – odborné ani té zajímající se.
 

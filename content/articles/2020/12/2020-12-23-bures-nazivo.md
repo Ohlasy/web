@@ -8,7 +8,7 @@ category: podcast
 
 *Hostem streamovaného speciálního předvánočního vydání byl evangelický farář Jiří Bureš a hudební duo Ireny a Vojtěcha Havlových. Tématem rozhovoru byl vánoční příběh a křesťanské vánoční poselství. V hudební části večera zahráli své skladby významní představitelé české alternativní scény manželé Havlovi, kteří svou hudbou předávají mírumilovné duchovní poselství.*
 
-{% spotify_episode id="0kJNKqbxsxxmNmwRjKKvtn" /%}
+{% podcast_player file="2020/podcast/vanoce.mp3" /%}
 
 V předvánočním rozhovoru jsme s Jiřím Burešem prošli biblický příběh o narození Ježíše Krista. Na začátku nás zajímalo, jestli faráře po letech služby dokáže toto vyprávění ještě něčím překvapovat, nebo dokonce provokovat. Ptali jsme se, v čem je Ježíšovo narození a jeho vstup do toho světa specifické, oproti jiným náboženstvím či mýtům, ve kterých se Bůh rovněž stane člověkem.
 

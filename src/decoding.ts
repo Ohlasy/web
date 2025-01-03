@@ -63,3 +63,5 @@ export const relationToZeroOrOne = (value: unknown) => {
     return string(value);
   }
 };
+
+export const decodeDate = (value: unknown) => new Date(string(value));

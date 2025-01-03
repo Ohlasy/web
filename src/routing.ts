@@ -1,6 +1,6 @@
 import { Article } from "./article";
-import { Book } from "./data-source/books";
-import { getTopicUrl } from "./data-source/forum";
+import { Book } from "./data/books";
+import { getTopicUrl } from "./data/forum";
 
 /** Site URL without trailing slash */
 export const siteUrl = "https://ohlasy.info";

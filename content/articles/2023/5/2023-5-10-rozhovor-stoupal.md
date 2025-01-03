@@ -7,7 +7,7 @@ category: podcast
 
 *Rozhovor s Václavem Stoupalem, provozovatelem prodejny zdravé výživy Na cestě. Bavili jsme se o malých obchodech, konkurenci supermarketů, specifickém sortimentu zdravé výživy, a protože je Václav bývalý novinář a aktivista, tak také o městě a boskovické politice.*
 
-{% spotify_episode id="2hSVUCaAs9R4l99ytdr1FE" /%}
+{% podcast_player file="2023/podcast/stoupal.mp3" /%}
 
 **Václave, jak se daří maloobchodníkům na malém městě v roce 2023? Přeje vám doba, nebo jak to teď máš?** 
 

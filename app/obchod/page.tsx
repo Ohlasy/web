@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { Book, getAllBooks, sortByYear } from "src/data-source/books";
+import { Book, getAllBooks, sortByYear } from "src/data/books";
 import { RouteTo } from "src/routing";
 import { getResizedImageUrl } from "src/utils";
 

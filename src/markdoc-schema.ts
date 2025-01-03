@@ -1,4 +1,5 @@
-import { Schema, Config } from "@markdoc/markdoc";
+import { Schema, Config, Tag } from "@markdoc/markdoc";
+import { getAllPodcastEpisodes } from "./data/podcast";
 
 export const photo: Schema = {
   render: "Photo",
@@ -90,6 +91,27 @@ export const datawrapper_chart: Schema = {
   },
 };
 
+export const podcast_player: Schema = {
+  render: "PodcastPlayer",
+  selfClosing: true,
+
+  attributes: {
+    file: {
+      type: String,
+      required: true,
+      errorLevel: "error",
+    },
+  },
+
+  transform(node, config) {
+    const attributes = node.transformAttributes(config);
+    const allEpisodes = getAllPodcastEpisodes();
+    console.debug(`Loaded ${allEpisodes?.length ?? "no"} podcast episodes.`);
+    const episode = allEpisodes.find((e) => e.url.endsWith(attributes.file));
+    return new Tag("PodcastPlayer", { episode });
+  },
+};
+
 export const defaultMarkdocConfig: Config = {
   nodes: {
     link: {
@@ -109,5 +131,6 @@ export const defaultMarkdocConfig: Config = {
     spotify_episode,
     youtube_video,
     datawrapper_chart,
+    podcast_player,
   },
 };

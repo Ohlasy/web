@@ -8,7 +8,7 @@ tags: nemocnice
 
 *Rozhovor s lékařem Tadeášem Vašířem, který před dvěma a půl lety nastoupil jako mladý absolvent medicíny na boskovické ARO. Ptali jsme se, jak vnímá situaci ve zdravotnictví, aktuální akci Lékaři jsou taky lidi a atmosféru v boskovické nemocnici.*
 
-{% spotify_episode id="23OkVM5NSVu6SEcpeE7MyC" /%}
+{% podcast_player file="2023/podcast/vasir.mp3" /%}
 
 **Potkali jsme se, abychom probrali protestní akci lékařů, pro kterou celorepublikově zvolili heslo Lékaři jsou taky lidi. Tak se chci na začátek zeptat, jestli jsou lékaři taky lidi, a co pro tebe konkrétně to heslo představuje?**
 

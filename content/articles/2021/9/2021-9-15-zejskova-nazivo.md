@@ -10,7 +10,7 @@ tags:
 
 *Rozhovor s Michaelou Žejškovou, boskovickou místostarostkou za TOP 09. Byla hostem dalšího dílu našeho cyklu Ohlasy naživo ve čtvrtek 9. září, tématem debaty byl její vstup na radnici, sportovní hala, pohled na lokální politickou scénu a školství. Rozhovor nabízíme v přepisu a zvukovém záznamu, najdete ho také v podcastových aplikacích.*
 
-{% spotify_episode id="0GPlZf79fLLYpcycD12DTv" /%}
+{% podcast_player file="2021/podcast/zejskova.mp3" /%}
 
 **Na začátku se zeptám na tvůj vstup do profesionální politiky. Tvůj příchod na radnici byl trochu překotný, došlo k němu v rámci [koaličního převratu](https://ohlasy.info/clanky/2021/03/pad-koalice.html) dva a půl roku po volbách. Do jaké míry to pro tebe bylo obtížné rozhodnutí a váhala jsi, jestli do toho jít? Byla to přece jen jiná situace, než když někdo kandiduje ve volbách, usiluje o tu funkci, vyhraje a pak se jí ujme.**
 

@@ -8,7 +8,7 @@ tags: politika
 
 *Polovina volebního období je také dobrou příležitostí vyzpovídat podrobněji představitele opozice. Rozhovor jsme proto vedli s tím nejzkušenějším opozičním zastupitelem, Jaroslavem Dohnálkem (ODS), který odsloužil celkem tři volební období jako starosta a v boskovické politice působí už tři dekády. Zajímalo nás, jaký je jeho pohled na vládnoucí koalici, ale taky na aktuální pozice opozičních stran a na budoucnost.*
 
-{% spotify_episode id="3fxn0pvpX4iPJcU0Twp7Zv" /%}
+{% podcast_player file="2024/podcast/dohnalek.mp3" /%}
 
 **Na začátek mi dovolte, abych se vás zeptal, jak se máte. Jak se vám daří bez výkonné politické funkce?**
 

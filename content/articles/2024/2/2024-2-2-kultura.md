@@ -7,7 +7,7 @@ category: podcast
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si pozvali Moniku Lepkovou, která vyučuje dramatickou výchovu na Střední pedagogické škole. Bavili jsme se mimo jiné o představení, které na letošek připravili a zahrají je i pro veřejnost. Součástí podcastu jsou i pozvánky na vybrané únorové akce, které si můžete níže také přečíst a které jsme si tentokrát tematicky rozřadili podle žánrů.*
 
-{% spotify_episode id="2Kq01kkDWSacvDpeIXAJfN" /%}
+{% podcast_player file="2024/podcast/lepkova.mp3" /%}
 
 ### Nejraději bych ho zabila aneb Osm žen Richarda Šťastného
 

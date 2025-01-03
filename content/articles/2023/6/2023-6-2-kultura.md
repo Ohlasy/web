@@ -8,7 +8,7 @@ tags: kultura
 
 *Další díl nového pravidelného pořadu, ve kterém se chceme každý měsíc věnovat boskovické kultuře, upozorňovat na zajímavé kulturní akce a zvát si inspirativní hosty, kteří tyto akce v Boskovicích reprezentují a pořádají. Moderují Magda Arnoštová a Tomáš Trumpeš. Hostem byla tentokrát fotografka a kurátorka Gabriela Sauer Kolčavová, kterou jsme vyzpovídali u příležitosti výstavy Angilee Wilkerson a pobavili se především právě o její kurátorské činnosti. Součástí podcastu jsou i pozvánky na vybrané červnové akce, které si můžete níže také přečíst.*
 
-{% spotify_episode id="3wiUrZAISUfSG0vXVOLbCu" /%}
+{% podcast_player file="2023/podcast/sauerova.mp3" /%}
 
 ### Jana Koubková – Roman Hampacher
 

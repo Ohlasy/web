@@ -7,7 +7,7 @@ category: podcast
 
 *Rozhovor s Markem Osouchem, který obdržel prestižní Novinářskou cenu v kategorii Regionální žurnalistika. Ptali jsme se proto hlavně na jeho novinářskou práci v Brně, ale také na to, jak o novinařině přemýšlí, jak ji prožívá a co ho na ní baví.*
 
-{% spotify_episode id="1vTGSo0AbP5oPMTLO3xqzF" /%}
+{% podcast_player file="2023/podcast/osouch.mp3" /%}
 
 **Marku, jak moc si té ceny ceníš? Co pro tebe znamená?** 
 

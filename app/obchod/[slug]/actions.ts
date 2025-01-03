@@ -1,6 +1,6 @@
 "use server";
 
-import { Book, createOrder, getBookById } from "src/data-source/books";
+import { Book, createOrder, getBookById } from "src/data/books";
 import {
   createInvoice,
   createSubject,

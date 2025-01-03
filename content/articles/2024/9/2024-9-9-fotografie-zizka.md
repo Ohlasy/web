@@ -8,4 +8,4 @@ tags: kultura
 
 *Rozhovor o fotografii a fotografování s Ondřejem Žižkou, který v Boskovicích pořádá fotografické dílny, má tiskařskou firmu Fotografiks a sám je absolventem Institutu tvůrčí fotografie na Slezské univerzitě v Opavě.*
 
-{% spotify_episode id="5Sd2U9CZeHrU2HIohivYoe" /%}
+{% podcast_player file="2024/podcast/zizka.mp3" /%}

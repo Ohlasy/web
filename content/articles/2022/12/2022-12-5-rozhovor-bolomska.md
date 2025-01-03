@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Barborou Bolomskou, knihovnicí z dětského oddělení boskovické knihovny. Do našeho podcastu jsme ji pozvali především k tématu dětského čtenářství, ale došlo i na zázemí naší knihovny a na Bářiny vlastní čtenářské preference. Rozhovor nabízíme k četbě i k poslechu.*
 
-{% spotify_episode id="6Aoz3ILZRqXGzSfCRZvrKm" /%}
+{% podcast_player file="2022/podcast/bolomska.mp3" /%}
 
 **Často slýcháme, jak už dnešní děti nečtou. Jaká je tvoje zkušenost? Čtou dnešní děti?**
 

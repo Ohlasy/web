@@ -7,7 +7,7 @@ category: podcast
 
 *Rozhovor s architektem Martinem Doleželem, který se svým týmem [uspěl v první regulérní boskovické architektonické soutěži](https://ohlasy.info/clanky/2023/12/cervenka-vitez.html). Podle jeho návrhu by se tak měl v příštích letech postupně proměňovat areál Červená zahrada. Přečtěte si či poslechněte, z čeho vycházel a jak budoucí rozvržení areálu koncipoval. Osobně návrh představí v zámeckém skleníku ve středu 17. ledna od 18.00.*
 
-{% spotify_episode id="6EoKugIwNq60lXbgNL9D5M" /%}
+{% podcast_player file="2024/podcast/dolezel.mp3" /%}
 
 **Co vás přesvědčilo se do soutěže na generel Červené zahrady přihlásit? Co pro vás na tom bylo zajímavé?**
 

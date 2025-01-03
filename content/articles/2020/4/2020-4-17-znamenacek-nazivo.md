@@ -8,7 +8,7 @@ category: podcast
 
 *Hostem dalšího setkání z cyklu Ohlasy naživo byl ve čtvrtek 16. dubna Tomáš Znamenáček. Kmenový člen naší redakce byl tentokrát respondentem rozhovoru, ve kterém jsme se zaměřili na Tomášovo aktuální hlavní zaměstnání – a to je práce pro Česko.Digital. Tato komunita špičkových IT odborníků si klade za cíl skrz digitální technologie pomáhat státu i nestátním organizacím a měnit tak Česko k lepšímu. K poslechu nabízíme rozhovor, který proběhl v kulturním a komunitním centru Prostor, tentokrát bez publika, ale jako součást [non-stop streamu Krmelec Prostor](https://krmelec.prostor.wtf/).*
 
-{% spotify_episode id="5Dix08PLFRndKQ24Z4MezQ" /%}
+{% podcast_player file="2020/podcast/zoul.mp3" /%}
 
 Na úvod jsme probrali především to, v jaké digitální kondici je Česká republika, proč tomu tak je, proč nejsme alespoň poloviční Estonsko a jakým způsobem to podnítilo právě v komunitě IT specialistů chuť to změnit a státu pomoct.
 

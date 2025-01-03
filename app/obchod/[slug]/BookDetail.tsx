@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Book } from "src/data-source/books";
+import { Book } from "src/data/books";
 import { OrderForm } from "./OrderForm";
 
 type Props = {

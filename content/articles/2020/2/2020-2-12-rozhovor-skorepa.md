@@ -8,7 +8,7 @@ tags: krajina
 
 *K živému rozhovoru jsme na narozeninové akci Pět let Ohlasů pozvali také autora jednoho z našich nejoblíbenějších seriálů – přírodovědce Hynka Skořepu, který do Ohlasů píše o Krajinách Boskovicka.*
 
-{% spotify_episode id="4qdO6mOowux8qk2lGC1DX4" /%}
+{% podcast_player file="2020/podcast/hynek.mp3" /%}
 
 Rozhovor vedl Tomáš Znamenáček, který se na úvod Hynka Skořepy vyptal, jaký měl vztah k procházkám a výletům jako dítě. A jestli jejich rodinné výlety mířily spíš do vzdálenějších krajů, nebo se toulali už tehdy i v okolí Boskovic.
 

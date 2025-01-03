@@ -13,6 +13,7 @@ module.exports = {
         gray: "#c0c0c0",
         brown: "#945200",
         offBlack: "#444",
+        plum: "#853B36",
       },
     },
   },

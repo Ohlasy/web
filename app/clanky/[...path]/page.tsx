@@ -6,8 +6,8 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import React from "react";
 import { Article, compareByDate, readArticle } from "src/article";
-import { getCachedData } from "src/data-source/cache";
-import { Author, getAllAuthors } from "src/data-source/content";
+import { getCachedData } from "src/data/cache";
+import { Author, getAllAuthors } from "src/data/content";
 import {
   articleRoot,
   getFilesRecursively,

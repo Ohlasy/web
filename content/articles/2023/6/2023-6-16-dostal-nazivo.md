@@ -8,4 +8,4 @@ tags: kultura
 
 *Rozhovor s Ondřejem Dostálem, ředitelem Kulturních zařízení města Boskovice. Od jeho nástupu do funkce uběhly dva roky, takže jsme se ohlédli za jeho dosavadním působením. A probrali témata od knihovny přes financování až po dramaturgii akcí.*
 
-{% spotify_episode id="5YfLKdqXpW4gip4XajP0JT" /%}
+{% podcast_player file="2023/podcast/dostal.mp3" /%}

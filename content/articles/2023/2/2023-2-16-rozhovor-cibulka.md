@@ -7,7 +7,7 @@ category: podcast
 
 *Rozhovor s Janem Cibulkou, datovým novinářem z Českého Rozhlasu a specialistou na ochranu dat a soukromí. Právě o tom jsme si povídali, probrali jsme roli státu, chování firem, rizika uniklých informací a opatrnost na sítích.*
 
-{% spotify_episode id="2nZ2riWltj8qAiLBu9IfPt" /%}
+{% podcast_player file="2023/podcast/cibulka.mp3" /%}
 
 **Honzo, jak moc by měl být člověk opatrný na to, jaké informace o něm jsou veřejně dostupné? Co by se mělo hlavně hlídat?**
 

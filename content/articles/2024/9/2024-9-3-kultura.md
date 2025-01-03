@@ -8,7 +8,7 @@ tags: kultura
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Hostkou rozhovoru byla tentokrát Markéta Klaudová, sopranistka z ansámblu Drei Engel, který v Boskovicích přivítáme v rámci cyklu vážně? v sobotu 28\. září. Součástí podcastu jsou i pozvánky na vybrané zářijové akce, ty si zde můžete také přečíst.*
 
-{% spotify_episode id="4wCkccCRKuUJ3c1PIZsPz5" /%}
+{% podcast_player file="2024/podcast/klaudova.mp3" /%}
 
 ### Živé slovo: Pavel Kolmačka
 

@@ -7,4 +7,4 @@ category: podcast
 
 *Živý rozhovor s Antonínem Kocábkem, hudebním dramaturgem festivalu Boskovice. Tématem byla dramaturgie festivalu, její pestrost, ale i limity, napětí mezi popem a alternativou a pohled na českou hudební scénu. Během natáčení nám dvakrát vypadla elektřina, takže prosím omluvte jeden dva divočejší střihy :)*
 
-{% spotify_episode id="1X3HRNFp5NdpaAjxCnjRTC" /%}
+{% podcast_player file="2024/podcast/kocabek.mp3" /%}

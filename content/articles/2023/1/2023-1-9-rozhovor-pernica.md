@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Radkem Pernicou, radním a garantem pro kulturu v politickém uskupení Změna22, které vyhrálo boskovické komunální volby. V návaznosti na kritický komentář, který Ohlasy [uveřejnily v prosinci](https://ohlasy.info/clanky/2022/12/kultura-popelkou.html), jsme se bavili o tom, jestli je boskovická kultura podfinancovaná, jak se k tomu nové vedení postaví a také o plánované nové koncepci kultury.*
 
-{% spotify_episode id="7LoPOu3giovzapDNN4Sc6r" /%}
+{% podcast_player file="2023/podcast/pernica.mp3" /%}
 
 **Nejdřív se tě, Radku, úplně obecně zeptám, jestli to tady v té základní rovině vnímáš podobně – tedy že je boskovická kultura dlouhodobě silně podfinancovaná a zasloužila by si větší podporu ze strany města.**
 

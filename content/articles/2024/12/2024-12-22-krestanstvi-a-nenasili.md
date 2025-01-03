@@ -7,7 +7,7 @@ category: podcast
 
 *Další rozhovor s evangelickým farářem Jiřím Burešem jsme tentokrát věnovali pacifismu, nenásilí a postojům křesťanů ve válečných konfliktech. V předvánočním čase jsme probrali biblické obrazy a texty, které jsou v tomto tématu inspirativní, a co může znamenat být poslem pokoje v časech, kdy ve světě sílí nepokoje.*
 
-{% spotify_episode id="5El7aiqBDs3JtBlENIBj2g" /%}
+{% podcast_player file="2024/podcast/bures.mp3" /%}
 
 **Dnešní setkání nám vyšlo zrovna do předvánočního času. Tak já se tě rovnou zeptám – když jsme si vybrali téma nenásilí a pacifismu – jestli nám zrovna Vánoce něco speciálního k tomuto tématu vzkazují.**
 

@@ -11,7 +11,7 @@ tags:
 
 *Rozhovor s ředitelkou Sudické školy Dagmar Hamalovou. Nově otevřená škola má za sebou první pololetí provozu, takže jsme si povídali nejen o tom, jak těžké bylo školu připravit, ale také o tom, jak se Sudické škole daří, jaká je v ní atmosféra, jak jsou spokojené děti i rodiče a jaké má plány do budoucna.*
 
-{% spotify_episode id="3YNujOQ2g1UNmyI4KVPoAm" /%}
+{% podcast_player file="2023/podcast/hamalova.mp3" /%}
 
 **Vraťme se nejdřív k samotnému založení školy. Jak těžké bylo, dnes už zpětně viděno, postavit ten projekt na nohy – tedy dostat se od prvního nápadu k otevření školy 1. září?**
 

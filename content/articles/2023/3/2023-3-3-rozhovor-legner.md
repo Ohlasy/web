@@ -9,7 +9,7 @@ tags: kultura
 
 *Rozhovor s Ivo Legnerem, dramaturgem Kulturních zařízení města Boskovice. Pozvali jsme ho do prvního dílu našeho nového kulturního podcastu a bavili jsme se o novém [dětském festivalu Větrník](https://www.kulturaboskovice.cz/kultura/akce/vetrnik-detsky-festival-v-boskovicich), o dramaturgické práci a o velkých koncertech v letňáku. Rozhovor nabízíme i v přepisu.*
 
-{% spotify_episode id="01qVkeFGMluczESX1SG75J" /%}
+{% podcast_player file="2023/podcast/legner.mp3" /%}
 
 **Ivo, my jsme si tě pozvali hlavně proto, abys představil nový boskovický dětský festival Větrník. Řekneš nám nejdřív, jak myšlenka uspořádat takovou akci vůbec vznikla?**
 

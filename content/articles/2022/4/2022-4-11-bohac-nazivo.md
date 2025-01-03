@@ -8,7 +8,7 @@ category: podcast
 
 *Zvláštním hostem Ohlasů naživo byl ve středu 6. dubna reportér Voxpotu Vojtěch Boháč, který pokrýval první týdny válečné dění na Ukrajině – a hned druhý den po besedě v boskovickém Prostoru se tam opět vracel. Úvodní rozhovor nabízíme ve zvukovém záznamu, najdete ho také v podcastových aplikacích.*
 
-{% spotify_episode id="3xg1Fi0uVER3MObwtD6y0L" /%}
+{% podcast_player file="2022/podcast/bohac.mp3" /%}
 
 Vojtěch Boháč odjel na Ukrajinu ještě před ruskou invazí, protože byl přesvědčený, že k ní dojde. Navzdory novinářskému označení se stal [terčem ostré ruské palby](https://www.voxpot.cz/zaciname-to-tu-cistit-od-tech-fasistu-tech-hovad-reportaz-z-nestabilni-fronty-mezi-okupanty-a-obranci-ukrajiny/). 
 

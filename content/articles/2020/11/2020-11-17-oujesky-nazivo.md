@@ -9,7 +9,7 @@ tags: historie
 
 *Dalším hostem Ohlasů naživo byl Ladislav Oujeský, knihař, skaut a také spolupracovník Paměti národa. Pro tu zpracovává vzpomínky pamětníků z Boskovicka na 20. století a dva totalitní režimy – nacistický a komunistický. Před časem získal unikátní archiv skautského odbojáře Leopolda Färbera, tak řečeného Hurvínka, a s ním i podrobnější informace o dalším boskovickém odbojáři Karlu Boháčkovi. A právě o práci pro Paměť národa jsme si především povídali v živém rozhovoru.*
 
-{% spotify_episode id="6UdepMObqZpH9YI4LrlyPY" /%}
+{% podcast_player file="2020/podcast/oujesky.mp3" /%}
 
 Ladislav Oujeský nám v úvodu rozhovoru popsal, jak se k zájmu o Paměť národa a o historii 20. století a příběhy pamětníků dostal. Probrali jsme, jak jeho činnost a zaznamenávání vzpomínek probíhá, v čem spočívá jeho práce a jakou má s respondenty zkušenost. Chtějí o svých příbězích mluvit? Jsou rádi, že se o ně někdo zajímá? Mluvil taky s někým, kdo v těžkých obdobích našich dějin neobstál a nezachoval se odvážně?
 

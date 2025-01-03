@@ -1,7 +1,7 @@
 import {
   convertEpisodeToPodcastItem,
   getPodcastEpisodes,
-} from "src/data-source/content";
+} from "src/data/content";
 import { absolute, RouteTo } from "src/routing";
 import { iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
 import { join } from "path";

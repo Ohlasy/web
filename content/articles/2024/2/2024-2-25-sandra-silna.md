@@ -7,4 +7,4 @@ category: podcast
 
 *V Boskovicích probíhal další ročník festivalu o smrti a umírání Smrtfest. Při té příležitosti proběhlo i vystoupení husitské farářky Sandy Silné a následné Ohlasy naživo, ve kterých se s ní Magda Znamenáčková a Tomáš Trumpeš bavili právě o hlavních festivalových tématech. A také o její profesi farářky.*
 
-{% spotify_episode id="66jpZT7kKEZWNbexczth1f" /%}
+{% podcast_player file="2024/podcast/silna.mp3" /%}

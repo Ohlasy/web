@@ -7,7 +7,7 @@ category: podcast
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Hned s několika prosincovými akcemi má co dočinění klavíristka, ale také sbormistryně a hudební dramaturgyně a organizátorka Kristýna Znamenáčková. A právě tu jsme tentokrát pozvali k rozhovoru. Součástí podcastu jsou i pozvánky na vybrané prosincové akce, které si můžete níže také přečíst.*
 
-{% spotify_episode id="5FDpQhsEws7sS2LW4BszXH" /%}
+{% podcast_player file="2023/podcast/znamenackova2.mp3" /%}
 
 ### Advent v kostele
 

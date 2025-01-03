@@ -8,7 +8,7 @@ tags: kultura
 
 *Tématem červencového kulturního podcastu je nepřekvapivě festival Boskovice, klíčová kulturní akce nejen měsíce července, ale celého boskovického kulturního roku. Naše pozvání přijala Simona Kumpanová, která má na starosti PR festivalu a do Boskovic přijela představit letošní ročník festivalu pro židovskou čtvrť. A připojili jsme tipy Tomáše Trumpeše a Magdy Arnoštové z festivalového programu. Tyto tipy si můžete i přečíst.*
 
-{% spotify_episode id="6eZkg4WHL2p4LmLHgeTWAi" /%}
+{% podcast_player file="2023/podcast/festival.mp3" /%}
 
 ### ČTVRTEK
 

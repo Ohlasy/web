@@ -8,7 +8,7 @@ tags: kultura
 
 *Druhý díl nového pravidelného pořadu, ve kterém se chceme každý měsíc věnovat boskovické kultuře, upozorňovat na zajímavé kulturní akce a zvát si inspirativní hosty, kteří tyto akce v Boskovicích reprezentují a pořádají. Moderují Magda Arnoštová a Tomáš Trumpeš. Hostem byl iniciátor a hlavní pořadatel festivalu BozaCon Tomáš Lizna z KZMB. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, které si můžete níže také přečíst.*
 
-{% spotify_episode id="7wuQsWnF6mq6J7I5EFEBTG" /%}
+{% podcast_player file="2023/podcast/lizna2.mp3" /%}
 
 ### Koncert v evangelickém kostele
 

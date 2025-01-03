@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Kristýnou Znamenáčkovou, spolupořadatelkou Smrtfestu – festivalu o smrti a umírání, který proběhne 24. a 25. února v boskovickém Prostoru. Bavili jsme se o programu festivalu, o jeho hlavních tématech: truchlení, péči o umírající a alternativním pohřbívání. A také o novém spolku, který se chce tématům věnovat v Boskovicích kontinuálně.*
 
-{% spotify_episode id="3pXhPriqImlg0SPZLYkssw" /%}
+{% podcast_player file="2023/podcast/znamenackova.mp3" /%}
 
 **Na konci února pořádáte už čtvrtý Smrtfest, což je festival smrti a umírání. Proč toto téma?**
 

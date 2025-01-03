@@ -8,7 +8,7 @@ tags: kultura
 
 *Rozhovor s Petrem Pazderou Paynem, literátem a výtvarníkem. V kulturním a komunitním centru Prostor bude v pátek 21. dubna v 18 hodin zahájena výstava jeho linorytů a plastik Obličeje masky osoby. Proto jsme si povídali hodně o výtvarném umění, ale také o psaní a o angažmá ve veřejném životě.*
 
-{% spotify_episode id="6AxmXSQgADzPGAebFWMEkM" /%}
+{% podcast_player file="2023/podcast/payne.mp3" /%}
 
 **Petře, co přesně budeš tady v Prostoru vystavovat?**
 

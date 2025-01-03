@@ -10,7 +10,7 @@ tags: historie politika
 
 *U příležitosti 30. výročí Listopadu 89 pořádá Muzeum regionu Boskovicka v kulturním a komunitním centru Prostor sérii besed. Hostem další z nich byl ekonom Pavel Kysilka, který v úvodu odpovídal na otázky muzejního historika Petra Vítámváse. Hlavním tématem debaty byla ekonomická transformace po roce 1989. Záznam rozhovoru zde přinášíme.*
 
-{% spotify_episode id="7KZUIQfUoxOzw4mBrYp47M" /%}
+{% podcast_player file="2019/podcast/kysilka.mp3" /%}
 
 Výchozím bodem debaty se stala ekonomická situace na konci 80. let v Československu a její vliv na zhroucení totalitního režimu. Pavel Kysilka popisoval také názorové spektrum a diskuse v odborné ekonomické veřejnosti, která si čím dál víc uvědomovala nutnost reforem a přechod k tržnímu hospodářství.
 

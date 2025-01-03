@@ -8,4 +8,4 @@ tags: kultura
 
 *Nejistá budoucnost nejen kvůli špatnému stavu budovy, ale i kvůli nejasnému přístupu politiků – to je situace, se kterou se nyní potýká brněnské kino Scala. Podrobněji jsme to probrali s šéfem kina Radkem Pernicou.*
 
-{% spotify_episode id="1vcsFcZ719n10DO562IJNM" /%}
+{% podcast_player file="2023/podcast/pernica2.mp3" /%}

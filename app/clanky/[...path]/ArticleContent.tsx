@@ -6,7 +6,8 @@ import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
 import { default as NextLink } from "next/link";
 import { siteUrl } from "src/routing";
-import { plausibleEventClass } from "src/data-source/plausible";
+import { plausibleEventClass } from "src/data/plausible";
+import { PodcastPlayer } from "./PodcastPlayer";
 
 export type ArticleBodyProps = {
   /** Markdoc source */
@@ -32,6 +33,7 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
       SpotifyEpisode,
       YouTubeVideo,
       DatawrapperChart,
+      PodcastPlayer,
     },
   });
   return <div className="article-content">{node}</div>;
