@@ -1,12 +1,12 @@
 import { getArticleNotices, Metadata as Article } from "src/article";
-import { Banner } from "src/data-source/banners";
+import { Banner } from "src/data/banners";
 import { BannerBox } from "./BannerBox";
 import { tilde as t } from "src/utils";
 import Image from "next/image";
 import { RouteTo } from "src/routing";
 import Link from "next/link";
-import { plausibleEventClass } from "src/data-source/plausible";
-import { Author } from "src/data-source/content";
+import { plausibleEventClass } from "src/data/plausible";
+import { Author } from "src/data/content";
 
 export type PreviewNestProps = {
   getBanner: () => Banner;

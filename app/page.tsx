@@ -1,20 +1,20 @@
 import { PreviewNest } from "components/PreviewNest";
-import { getAllBanners } from "src/data-source/banners";
+import { getAllBanners } from "src/data/banners";
 import { RouteTo } from "src/routing";
 import { endlessGeneratorOf, shuffleInPlace, tilde } from "src/utils";
-import { getTopArticles, plausibleEventClass } from "src/data-source/plausible";
+import { getTopArticles, plausibleEventClass } from "src/data/plausible";
 import {
   getLatestTopicsSummary,
   getUserAvatar,
   LatestTopicsSummary,
-} from "src/data-source/forum";
+} from "src/data/forum";
 import { compareByDate, getAllArticles, Metadata } from "src/article";
 import { BannerBox } from "components/BannerBox";
-import { Banner } from "src/data-source/banners";
-import { TopArticles } from "src/data-source/plausible";
+import { Banner } from "src/data/banners";
+import { TopArticles } from "src/data/plausible";
 import Link from "next/link";
 import Image from "next/image";
-import { getAllAuthors } from "src/data-source/content";
+import { getAllAuthors } from "src/data/content";
 
 // Revalidate this page every 5 minutes
 export const revalidate = 300;

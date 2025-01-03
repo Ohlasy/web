@@ -6,7 +6,7 @@ import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
 import { default as NextLink } from "next/link";
 import { siteUrl } from "src/routing";
-import { plausibleEventClass } from "src/data-source/plausible";
+import { plausibleEventClass } from "src/data/plausible";
 
 export type ArticleBodyProps = {
   /** Markdoc source */

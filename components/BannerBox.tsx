@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Banner } from "src/data-source/banners";
+import { Banner } from "src/data/banners";
 
 export type BannerProps = {
   banner: Banner;
