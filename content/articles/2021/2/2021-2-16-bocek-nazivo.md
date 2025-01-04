@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Janem Bočkem, datovým žurnalistou z Českého rozhlasu. Do Ohlasů naživo jsme si ho pozvali tak trochu na oslavu 6. výročí vzniku našich novin a mluvili jsme o novinařině, speciálně o datové žurnalistice, které se Jan Boček věnuje. A taky obecněji o tom, jak naše společnost nakládá s informacemi. Rozhovor proběhl v živém streamu Ohlasy naživo, kromě zvukového záznamu nabízíme i kompletní přepis.*
 
-{% spotify_episode id="2X254Qkx0Ja8VDsJdOE2NB" /%}
+{% podcast_player file="2021/podcast/bocek.mp3" /%}
 
 **Když jsem se chystal na rozhovor, zjistil jsem, že prakticky všechny články o vaší datové žurnalistice začínají narážkou na asi tvůj bonmot, že jste šli dělat grafy do rozhlasu a co to je za nápad. Tak ať si to odbydeme: co to je za nápad, jít dělat grafy do rozhlasu?**
 

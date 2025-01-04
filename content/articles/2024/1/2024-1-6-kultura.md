@@ -7,7 +7,7 @@ category: podcast
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si pozvali ředitele KZMB Ondřeje Dostála, abychom probrali zásadní navýšení peněz pro KZMB od města a rozšíření dramaturgického plánu na příští rok. Došlo ale i na vánoční poslech Sepultury. Součástí podcastu jsou i pozvánky na vybrané prosincové akce, které si můžete níže také přečíst.*
 
-{% spotify_episode id="1Q85fJHf2Ta9vWnCgnnLua" /%}
+{% podcast_player file="2023/podcast/dostal2.mp3" /%}
 
 ### Novoroční koncert Symfonického orchestru
 

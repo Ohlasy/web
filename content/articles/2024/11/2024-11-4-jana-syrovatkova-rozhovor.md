@@ -7,7 +7,7 @@ category: podcast
 
 *Volební období se překlenulo do své druhé poloviny a při té příležitosti jsme vedli delší poločasový rozhovor s boskovickou starostkou Janou Syrovátkovou (Změna22). Probrali jsme její dosavadní zkušenost s politikou, investiční akce města, vztahy v koalici i vztahy s opozicí a samozřejmě také nemocnici, kde aktuálně působí jako jednatelka.*
 
-{% spotify_episode id="7dhDvNX4tQM240W5eOMYAP" /%}
+{% podcast_player file="2024/podcast/syrovatkova.mp3" /%}
 
 **Nechávám si osobně laděné otázky obvykle až na závěr rozhovoru, ale tentokrát bych tím začal a zeptal se tě, co ty dva roky znamenají pro tebe osobně, z hlediska tvé kariéry a profesní zkušenosti. Jak to prožíváš a jak přechod do profesionální politické funkce vnímáš?**
 

@@ -7,7 +7,7 @@ category: podcast
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si pozvali režisérku Janu Tajovskou Krajčovičovou společně s jejím manželem, dirigentem Ondřejem Tajovským. Ona režijně připravila scénické provedení kantáty Svatební košile Antonína Dvořáka, on řídí hudební nastudování. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, ty si zde můžete také přečíst.*
 
-{% spotify_episode id="1dolY4fjpIfDFLSPeKrVyw" /%}
+{% podcast_player file="2024/podcast/tajovsti.mp3" /%}
 
 ### Májová Melomania!
 

@@ -8,7 +8,7 @@ tags: kultura
 
 *Rozhovor s Petrem Krkavcem – hudebníkem, podnikatelem a letos také pořadatelem festivalu Silver Fest, který se koná v panském dvoře v Boskovicích v sobotu 26. srpna od 16 hodin. Mluvili jsme o muzice a písních Silverů, o festivalu i o Petrově práci.*
 
-{% spotify_episode id="3wJd5YqBsZpRvRtT7f2xWM" /%}
+{% podcast_player file="2023/podcast/krkavec.mp3" /%}
 
 **Petře, ty máš k Silver Bandu speciální vztah – Pavel Koudelka, takřečený Silver, byl tvůj strýc, pokud se nepletu.** 
 

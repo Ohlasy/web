@@ -9,7 +9,7 @@ tags: politika
 
 *Rozhovor s Dagmar Hamalovou (KDU-ČSL), bývalou místostarostkou a dnes opoziční zastupitelkou. Probrali jsme boskovickou politiku z obecnějšího pohledu i optikou aktuálních kauz. Rozhovor proběhl v živém streamu Ohlasy naživo, kromě zvukového záznamu nyní nabízíme i kompletní přepis.*
 
-{% spotify_episode id="58VeLKeVggzkiJNfRQGn8f" %/}
+{% podcast_player file="2021/podcast/hamalova.mp3" /%}
 
 **Tvoje boskovická politická kariéra je učebnicově postupná: začala jsi jako zastupitelka, pak se z tebe stala radní, pak místostarostka, ale po posledních volbách přijel trochu zvrat a jako lidovci jste skončili v opozici. Jaká je to pro tebe zkušenost?**
 

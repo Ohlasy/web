@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s tajemníkem boskovického městského úřadu Davidem Škvařilem jsme točili pro podcast Ohlasů. Pozvali jsme ho u příležitosti spuštění [Portálu občana](https://www.boskovice.cz/portal-obcana-boskovice/d-45031), takže jsme se nejprve bavili o digitalizaci, pak o samotném fungování úřadu, reputaci úředníků a trochu tajemné roli tajemníka.*
 
-{% spotify_episode id="4iEmMF0WRJwJcrPgLONCp2" /%}
+{% podcast_player file="2022/podcast/skvaril.mp3" /%}
 
 **Jak snadné je si Portál občana zřídit? Co k tomu člověk potřebuje?**
 

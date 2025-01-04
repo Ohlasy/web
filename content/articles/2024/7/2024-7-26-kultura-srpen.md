@@ -7,7 +7,7 @@ category: podcast
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Hostem našeho rozhovoru byl tentokrát Jenda Nádvorník, hlavní pořadatel [Festiválku bez bojů a válek](http://festivalekbezbojuavalek.cz/), který slaví letos 20. jubileum. Součástí podcastu jsou i pozvánky na vybrané srpnové akce, ty si zde můžete také přečíst.*
 
-{% spotify_episode id="4FKScLw4FKdLyMF6zrvDbd" /%}
+{% podcast_player file="2024/podcast/nadvornik.mp3" /%}
 
 ### Pohádkový hřebínek
 

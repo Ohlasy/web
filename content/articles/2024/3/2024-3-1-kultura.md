@@ -7,7 +7,7 @@ category: podcast
 
 _V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát jsme si pozvali DJ Ammu a DJ Scorna, kteří budou ke konci března organizovat akci Lokal Session. Kromě toho jsme se ale bavili také o boskovické dýdžejské scéně nebo o tom, co dělá dobrého DJ dobrým DJem. Součástí podcastu jsou i pozvánky na vybrané březnové akce, ty si zde můžete také přečíst._
 
-{% spotify_episode id="7ItTeV1ZZ5Ji0CxajASQIi" /%}
+{% podcast_player file="2024/podcast/amma-scorn.mp3" /%}
 
 ### Amplitudy
 

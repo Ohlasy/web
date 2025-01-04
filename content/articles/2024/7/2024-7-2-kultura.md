@@ -7,7 +7,7 @@ category: podcast
 
 *V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Dominantním tématem července je samozřejmě festival pro židovskou čtvrť Boskovice 2024. Pozvánky, které si zde můžete také přečíst, jsme proto tentokrát rozdělili na mimofestivalové červencové akce a na naše festivalové programové tipy. K rozhovoru jsme pozvali kurátorku Janu Písaříkovou, která připravila jednu z festivalových výstav a která se bude podílet na [novém provozu Galerie Otakara Kubína](https://ohlasy.info/clanky/2023/03/prevzeti-galerie.html).*
 
-{% spotify_episode id="5aYZvbEYOttL0MoVZBOvd4" /%}
+{% podcast_player file="2024/podcast/pisarikova.mp3" /%}
 
 Začneme mimofestivalovými akcemi:
 

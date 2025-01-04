@@ -8,7 +8,7 @@ category: podcast
 
 *Rozhovor s Ondřejem Dostálem, nově jmenovaným ředitelem Kulturních zařízení města Boskovice. Mluvili jsme o [koncepci, se kterou uspěl ve výběrovém řízení](https://data.ohlasy.info/2021/koncepce-kzmb.pdf), a o jeho představách o fungování organizace, do které nastoupí od začátku června. Rozhovor proběhl v živém streamu Ohlasy naživo, kromě zvukového záznamu nabízíme i kompletní přepis.*
 
-{% spotify_episode id="2dQmwcLj53GzfCwoVLcZWb" /%}
+{% podcast_player file="2021/podcast/dostal.mp3" /%}
 
 **V Boskovicích jsi pracoval jako ředitel muzea, potom jsi byl dlouhá léta ředitel Mendelova muzea v Brně, jezdil jsi po celém světě o Mendelovi přednášet, pak jsi víc než rok působil na univerzitě na Tchaj-wanu, v poslední době jsi teď šéf vnějších vztahů lékařské fakulty Masarykovy univerzity. Teď ses rozhodl vrátit do Boskovic. Proč?**
 

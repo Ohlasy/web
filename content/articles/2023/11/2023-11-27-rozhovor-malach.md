@@ -8,7 +8,7 @@ tags: politika
 
 *Rozhovor s Petrem Malachem, opozičním zastupitelem a předsedou boskovické Sociální demokracie. Mluvili jsme především o boskovické politice a jejích klíčových tématech, ale nakonec i o krajské a celostátní politice a situaci SocDem.*
 
-{% spotify_episode id="1QzViZt3m6vcp0I3DFpPO2" /%}
+{% podcast_player file="2023/podcast/malach.mp3" /%}
 
 **Na začátek se zeptám ještě na takové ohlédnutí rok zpátky – k výsledkům loňských komunálních voleb. Sociální demokracie získala tady v Boskovicích čtyři mandáty. To byl vzhledem k celostátní situaci strany docela úspěch, nebo jak to hodnotíš?**
 

@@ -7,4 +7,4 @@ category: podcast
 
 *Živý rozhovor s kurátorkou festivalových výstav Helenou Musilovou a vizuální umělkyní Markétou Magidovou o současném výtvarném umění, o dramaturgii festivalových výstav a o umění ve veřejném prostoru.*
 
-{% spotify_episode id="0ngPJDN1YRPR8acFP8TmAv" /%}
+{% podcast_player file="2024/podcast/vytvarnice.mp3" /%}

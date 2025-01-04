@@ -1,11 +1,7 @@
 import Image from "next/image";
 import { getAllArticles } from "src/article";
 import { RouteTo } from "src/routing";
-import {
-  getAllAuthors,
-  Author,
-  getPodcastEpisodes,
-} from "src/data-source/content";
+import { getAllAuthors, Author, getPodcastEpisodes } from "src/data/content";
 import { ReactNode } from "react";
 import Link from "next/link";
 

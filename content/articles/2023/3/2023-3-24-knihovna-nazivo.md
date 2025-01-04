@@ -9,7 +9,7 @@ tags: knihovna
 
 *Kudy by se mělo město vydat poté, co nezískalo ministerskou dotaci na knihovnu a stávající projekt se potýká s mnoha nejasnostmi? Dočká se knihovna po 26 letech v provizoriu v dohledné době reálné šance na přesun do důstojných a reprezentativních prostor? K diskuzi jsme pozvali starostku Janu Syrovátkovou (Změna22), architekta Petra Ondráčka a vedoucí knihovny Miroslavu Jurdičovou. V podcastových aplikacích nebo v přehrávači níže si můžete poslechnout celou debatu, v přepisu nabízíme také několik základních myšlenek, které v zazněly.*
 
-{% spotify_episode id="6OP6vxr8kRlpRqkCkwBcxt" /%}
+{% podcast_player file="2023/podcast/knihovna.mp3" /%}
 
 ### Je stávající projekt podle návrhu Zdeňka Fránka „mrtvý kůň“?
 

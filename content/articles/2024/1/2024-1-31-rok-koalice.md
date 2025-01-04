@@ -8,4 +8,4 @@ tags: politika
 
 *Boskovická koalice Změny22, Našich Boskovic a Pirátů [vydala materiál](https://www.koaliceboskovice.cz), ve kterém hodnotí svou dosavadní práci. Ke kritické diskuzi nad materiálem a působením koalice pozvali Tomáš Trumpeš a Tomáš Znamenáček z Ohlasů opoziční zastupitelku Dagmar Hamalovou (SPOLU).*
 
-{% spotify_episode id="0IwStMJdAe0j75OGmORt8N" /%}
+{% podcast_player file="2024/podcast/koalice.mp3" /%}

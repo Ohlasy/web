@@ -2,7 +2,7 @@ import {
   sumOneTimeDonations,
   sumRecurrentDonations,
   getPastYearTransactionsByMonth,
-} from "src/data-source/darujme";
+} from "src/data/darujme";
 
 export const dynamic = "force-dynamic";
 
