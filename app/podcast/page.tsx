@@ -47,6 +47,7 @@ const Intro = () => (
           <PlayerPill href={RouteTo.Spotify} title="Spotify" />
           <PlayerPill href={RouteTo.ApplePodcasts} title="Apple Podcasts" />
           <PlayerPill href={RouteTo.YouTubePodcast} title="YouTube" />
+          <PlayerPill href={RouteTo.mainPodcastFeed} title="RSS" />
         </div>
       </div>
 
