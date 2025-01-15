@@ -1,0 +1,31 @@
+---
+title: Soutěž vyhlášena. Sportovní hala má stát asi 175 milionů a začátek stavby je v plánu příští rok
+cover-photo: https://i.ohlasy.info/i/fc56a767.png
+author: Tomáš Trumpeš
+category: zpravodajství
+---
+
+*Boskovice vyhlásily soutěž na sportovní halu [metodou Design & Build](https://ohlasy.info/clanky/2024/05/sportovni-hala.html). To znamená, že porota vybere rovnou v jednom balíčku autora návrhu, zpracovatele projektové dokumentace a zhotovitele stavby. Vítěz by měl být znám letos v říjnu, předpokládaná hodnota celé zakázky je 174,5 milionů, strop pro nabídky město stanovilo na 230 milionů korun.*
+
+{% photo src="https://i.ohlasy.info/i/fc56a767.png" caption="Generel sportovního areálu Červená zahrada, napravo od kruhové křižovatky naznačena poloha budoucí sportovní haly" author="Martin Doležel a kolektiv" width=4000 height=2589/%}
+
+„Jsem velmi ráda, že se nám podařilo po roce příprav a pečlivé mravenčí práci tuto zakázku vyhlásit,“ uvedla starostka Jana Syrovátková (Změna22). Jaký je o soutěž zájem, bude vědět radnice poměrně brzy – první fáze, ve které zájemci z řad dodavatelů podávají žádosti o účast a prokazují svou kvalifikaci, trvá třicet dnů. Zpravidla se podle starostky jedná o tandemy architektonických ateliérů a stavebních firem. Poté bude následovat fáze podání předběžných nabídek, jejichž součástí už je architektonický návrh. Z nich porota vybere návrhy, které postoupí do další fáze. Ta zahrnuje jednání s cílem nabídky vylepšit a vyjasnit zadání. Pak už účastníci odevzdají finální nabídky, které porota vyhodnotí a předloží městské radě. Celý tento proces by se měl završit v říjnu letošního roku.
+
+Pak následuje žádost o stavební povolení a rozpracování projektové dokumentace pro všechny jeho fáze. Podle starostky Jany Syrovátkové (Změna22) je ideální scénář, že o stavební povolení bude zažádáno na jaře roku 2026 a ještě tentýž rok bude stavba zahájena. Poklepání základního kamene by se tak mohlo přibližně krýt s komunálními volbami, které budou právě na podzim roku 2026\. Samotná stavba by pak měla trvat asi rok.
+
+Boskovická radnice nakonec zvolila variantu úspornější sportovní haly. To znamená, že oproti předchozím návrhům zůstanou zachovány všechny parametry pro hlavní sportovní plochu, ale nepočítá se kupříkladu s restaurací, pouze s menším bufetem. Došlo také k redukci míst pro diváky, plánovaná hala jich má pojmout 250, v předchozím návrhu to bylo 500\. Naopak se podle vedoucího odboru investic Petra Zouhara navýšil počet šaten – budou sice o něco menší, ale bude jich víc. Součástí haly nebude kuželna. S lezeckou stěnou se sice počítá, ale v této fázi má být navržen pouze prostor, ve kterém stěna bude – její konkrétní podoba má vzniknout až později, po samostatné přípravě ve spolupráci s boskovickými lezci.
+
+Samotná hlavní sportovní plocha je dána požadavkem sportu nejnáročnějšího na prostor, což je florbal. Rozměry haly jsou koncipovány tak, aby všechny sporty mohly hrát krajské soutěže. Na celostátní ligové úrovni by zde nebylo možné hrát volejbal, protože tam už jsou náročnější požadavky na výšku haly. „Hala bude sloužit pro více sportů, například volejbal, basketbal, florbal, futsal, nohejbal, lezení či gymnastiku,“ uvedla starostka Jana Syrovátková. Kromě hlavní plochy bude součástí haly ještě menší sportovní sál, který může sloužit třeba právě pro gymnastiku nebo pro rozcvičení týmů při turnajích.
+
+„Součástí balíku zadávacích dokumentů je zadávací dokumentace, ve které je popsaný celý proces zadávacího řízení a veškeré administrativní podmínky. Potom takzvaná kniha místností, ve které je soupis všech místností, které jako zadavatel požadujeme, aby v hale byly. Dál je to ještě kniha standardů, kde jsou podrobně popsány veškeré nároky na stavební konstrukce, na provedení povrchů, dlažby, omítek, pak elektroinstalace, topení, zařízení zajišťující výměnu vzduchu – všechny tyto věci jsou podrobně popsány,“ vysvětlil Petr Zouhar. Součástí zakázky je i dopravní napojení, parkování a prostor nejbližšího okolí haly.
+
+Na vlastní náplni haly podle starostky panuje shoda – a to po projednání v komisích a se sportovními kluby. „Splnili jsme požadavky jednotlivých oddílů,“ uvedla starostka. Místostarosta Lukáš Holík (Naše Boskovice) doplnil, že základní shoda je dnes i na politickém spektru, takže tentokrát už by se nemělo stát, že proces bude někdo blokovat nebo ho bude chtít kupříkladu po volbách zvrátit. „To už se nestane,“ vyjádřil se optimisticky Lukáš Holík.
+
+Ve výběru vítěze má podle starostky hrát roli ze 70 procent architektonická kvalita návrhu a ze 30 procent cena. Sama starostka věří, že výsledná cena okolo 175 milionů korun je reálná a nemusela by se šplhat výše k 230 milionům, které radnice stanovila jako finanční strop. Vítěz soutěže se zavazuje k tomu, že za uvedené peníze stavbu postaví; celkově je podle starostky metoda Design & Build výhodná hlavně v tom, že eliminuje problémy a třenice mezi městem jako zadavatelem stavby a zhotovitelem.
+
+Porotu, která bude jednotlivé návrhy hodnotit, tvoří architekt Jakub Kynčl jako předseda, kromě něj další dva nezávislí členové a architekti Ondřej Tuček a Miroslav Pospíšil. Závislými členy poroty, tedy zástupci města v soutěži, jsou starostka Jana Syrovátková a zastupitel za opoziční ODS Radek Stříž. Jako náhradníci byli určeni nezávislí architekti Jan Horký a Patrik Hoffmann, za město zastupitelé Vladimír Petrů (Změna22) a Petr Malach (SocDem).
+
+„Nejdůležitější pro nás je získat kvalitní návrh, který bude důstojným vstupem do města. Rozpočet města ale není neomezený, proto jsme stanovili maximální částku, kterou je město schopno zaplatit. Ověřovali jsme si, že cena je reálná,“ vyjádřila se starostka Jana Syrovátková.
+
+Pokud tedy celý proces už opravdu nic nezvrátí ani nezdrží, dočkají se Boskovice po desítkách let příprav a blamáží nové sportovní haly v roce 2027\. „Realizace sportovní haly je první etapou přestavby sportovního areálu Červená zahrada,“ připomněla starostka s tím, že na celkovou proměnu areálu město uspořádalo předchozí architektonickou soutěž, kterou [vyhrálo studio Martina Doležela](https://ohlasy.info/clanky/2024/01/rozhovor-dolezel.html). Nyní se město podle starostky soustředí na halu, o plánech na další pokračování přestavby areálu zatím nemá konkrétní představu.
+
