@@ -41,7 +41,7 @@ Městská rada doporučila rozdělit dotace na provoz volnočasových aktivit ta
 
 ### Architektonická soutěž na knihovnu
 
-Do otevřené architektonické soutěže na novou knihovnu bylo přihlášeno 44 návrhů. Výsledky budou známy v červnu, město je představí na speciální akci ve skleníku, kde by pak měly zůstat ke zhlédnutí ještě několik dní, a následně bude prezentace pokračovat na boskovickém náměstí. Nyní návrhy vyhodnocuje porota, kterou tvoří jako nezávislí Adam Halíř, Vítězslav Nový a Jan Sochor a za město starostka Jana Syrovátková a ředitel KZMB Ondřej Dostál. Náhradníky jsou za město Oldřich Kovář, Andrea Prajsová a Lukáš Holík, jako nezávislí Petra Houdová a Roman Čerbák.
+Do otevřené architektonické soutěže na novou knihovnu bylo přihlášeno 44 návrhů. Výsledky budou známy v březnu, město je představí na speciální akci ve skleníku, kde by pak měly zůstat ke zhlédnutí ještě několik dní, a následně bude prezentace pokračovat na boskovickém náměstí. Nyní návrhy vyhodnocuje porota, kterou tvoří jako nezávislí Adam Halíř, Vítězslav Nový a Jan Sochor a za město starostka Jana Syrovátková a ředitel KZMB Ondřej Dostál. Náhradníky jsou za město Oldřich Kovář, Andrea Prajsová a Lukáš Holík, jako nezávislí Petra Houdová a Roman Čerbák.
 
 ### Poptávka materiálů z války
 
