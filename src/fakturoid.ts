@@ -1,4 +1,10 @@
-import { literal, number, record, string } from "typescript-json-decoder";
+import {
+  array,
+  literal,
+  number,
+  record,
+  string,
+} from "typescript-json-decoder";
 
 //
 // Authentication
@@ -143,3 +149,22 @@ export async function createInvoice(token: string, invoiceData: Invoice) {
 
   return publicUrl;
 }
+
+//
+// Webhooks
+//
+
+export const decodeWebhook = record({
+  webhook_id: number,
+  event_name: string,
+  body: record({
+    invoice: record({
+      id: number,
+      pdf_url: string,
+      lines: array(record({ name: string })),
+    }),
+    payment: record({
+      amount: string,
+    }),
+  }),
+});
