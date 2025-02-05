@@ -106,7 +106,6 @@ export const podcast_player: Schema = {
   transform(node, config) {
     const attributes = node.transformAttributes(config);
     const allEpisodes = getAllPodcastEpisodes();
-    console.debug(`Loaded ${allEpisodes?.length ?? "no"} podcast episodes.`);
     const episode = allEpisodes.find((e) => e.url.endsWith(attributes.file));
     return new Tag("PodcastPlayer", { episode });
   },
