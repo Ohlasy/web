@@ -16,6 +16,8 @@ Postupně bude ale rozhodovat už jen bydliště, právě podle vymezených ško
 
 Kam budou děti z vaší lokality příslušet, si můžete najít v následujícím přehledu.
 
+{% photo src="https://i.ohlasy.info/i/25aeca74.png" caption="Orientační rozdělení školských obvodů podle ulic" width=1065 height=751 /%}
+
 **Základní škola na náměstí 9\. května**: Absolonova, Boženy Němcové, Čížovky, Gagarinova, Hybešova, K Lipníkům, Kosmonautů, Křižíkova, Květná, Lipová, Ludvíka Vojtěcha, Na Chmelnici, Na Pískách, Na Skalce, Na Vyhlídce, Na Výsluní, náměstí 9\. května, Pod Střelnicí, Svatopluka Čecha, U Lomu, Wolkerova
 
 **Základní škola na ulici Sušilova**: 17\. listopadu, Bedřicha Smetany, Bělská, Bezručova, Dukelská, Dva Dvory, Hálkova, Havlíčkova, Hradní, Joštova, Kpt. Jaroše, Krátká, Legionářská č. p. 1, 2, 2a, 2b, 2d, 3, 4, 5, 7, 9, Lesnická, Lidická, Masarykovo náměstí, Milánovy, Na Horce, Na Hrázi, nám. Dr. Snětiny, Nerudova, Pilské údolí, Plačkova, Pod Klášterem, Podhradí, Podlesí, Průchodní, Růžové náměstí, Sadová, Sokolská č. p. 2, 4, 6, 8, 10, 14, Sušilova, Šemberova, Šmelcovna, U Lázní, Velenova, Zástřizlova, Zborovská, Žerotínova, Hrádkov, Vratíkov, Úzká
