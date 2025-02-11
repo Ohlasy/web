@@ -25,6 +25,7 @@ export const incidentSubtypes: Record<string, string | undefined> = {
   "3109": "popelnice, kontejner",
   "3110": "lesního porostu",
   "3111": "odpad, ostatní",
+  "3117": "sazí v komíně",
   "3211": "se zraněním",
   "3212": "uvolnění komunikace, odtažení",
   "3213": "úklid vozovky",
