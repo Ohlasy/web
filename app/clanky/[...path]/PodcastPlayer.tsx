@@ -9,9 +9,10 @@ import { tilde } from "src/utils";
 
 type PodcastPlayerProps = {
   episode: PodcastEpisode;
+  t?: number;
 };
 
-export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
+export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
   const playerRef = useRef<HTMLAudioElement>(null);
   const [playing, setPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
@@ -20,7 +21,7 @@ export const PodcastPlayer = ({ episode }: PodcastPlayerProps) => {
   return (
     <div className="bg-plum rounded-xl p-7 md:p-9 my-6 flex flex-col gap-7">
       <audio
-        src={episode.url}
+        src={t ? `${episode.url}#t=${t}` : episode.url}
         ref={playerRef}
         onPlaying={() => setPlaying(true)}
         onPause={() => setPlaying(false)}

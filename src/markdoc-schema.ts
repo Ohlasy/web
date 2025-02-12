@@ -101,13 +101,17 @@ export const podcast_player: Schema = {
       required: true,
       errorLevel: "error",
     },
+    t: {
+      type: Number,
+      required: false,
+    },
   },
 
   transform(node, config) {
     const attributes = node.transformAttributes(config);
     const allEpisodes = getAllPodcastEpisodes();
     const episode = allEpisodes.find((e) => e.url.endsWith(attributes.file));
-    return new Tag("PodcastPlayer", { episode });
+    return new Tag("PodcastPlayer", { episode, ...attributes });
   },
 };
 
