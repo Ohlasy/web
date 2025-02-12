@@ -8,7 +8,7 @@ tags: kultura
 
 *Rozhovor s předsedkyní boskovického Unijazzu Alžbětou Flíčkovou, která byla na začátku února [hostkou našeho kulturního podcastu,](https://ohlasy.info/clanky/2025/01/kultura-unor.html) vedli společně Tomáš Trumpeš a Magda Znamenáčková. Mluvili jsme o fungování kulturního a komunitního centra Prostor, které Unijazz Boskovice provozuje, a tento rozhovor nyní vydáváme i v přepisu.*
 
-{% photo src="https://i.ohlasy.info/i/06ee50c5.jpg" author="Tomáš Znamenáček" width=6240 height=4160 /%}
+{% podcast_player file="2025/podcast/flickova.mp3" t=336 /%}
 
 **Jak se daří Prostoru na začátku roku 2025?**
 
