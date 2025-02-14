@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Boskovické muzeum vydalo knihu Přežití a láska. Dvojí útěk před nacisty. Knihu Teda Baileyho přeložil Petr Buchal a pojednává o osudech poslední boskovické žijící přeživší holocaustu Lizzy rozené Schwarzové a jejího manžela Jerszyho Dyszkiewicze. S překladatelem jsme vedli o knize rozhovor v [lednovém kulturním podcastu](https://ohlasy.info/clanky/2025/01/kultura.html), nyní přinášíme několik ukázek, které se týkají Boskovic. Knihu je možné zakoupit v boskovickém muzeu.*
+*Boskovické muzeum vydalo knihu „Přežití a láska. Dvojí útěk před nacisty“. Knihu Teda Baileyho přeložil Petr Buchal a pojednává o osudech poslední boskovické žijící přeživší holocaustu Lizzy rozené Schwarzové a jejího manžela Jerszyho Dyszkiewicze. S překladatelem jsme vedli o knize rozhovor v [lednovém kulturním podcastu](https://ohlasy.info/clanky/2025/01/kultura.html), nyní přinášíme několik ukázek, které se týkají Boskovic. Knihu je možné zakoupit v boskovickém muzeu.*
 
 {% youtube_video id="C6XOV_ev8kw" /%}
 
