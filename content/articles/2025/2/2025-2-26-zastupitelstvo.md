@@ -52,7 +52,7 @@ Dále zastupitelé schválili rozpočtové opatření, které počítá s navý�
 
 ### Rozdělení školy
 
-Jako obvykle si radní Radek Pernice připravil informace o rozdělení základní školy. Tentokrát krátce informoval především o tom, že město stále čeká na rozhodnutí ministerstva školství a že pro příští školní rok bude zápis do základní školy probíhat ještě podle jednoho společného školského obvodu, jako tomu bylo doposud. Zápis proběhne 15\. dubna. Pokud ministerstvo schválí rozdělení školy a zastupitelé následně schválí školské obvody, budou platit až pro další školní rok 2026/27.
+Jako obvykle si radní Radek Pernica připravil informace o rozdělení základní školy. Tentokrát krátce informoval především o tom, že město stále čeká na rozhodnutí ministerstva školství a že pro příští školní rok bude zápis do základní školy probíhat ještě podle jednoho společného školského obvodu, jako tomu bylo doposud. Zápis proběhne 15\. dubna. Pokud ministerstvo schválí rozdělení školy a zastupitelé následně schválí školské obvody, budou platit až pro další školní rok 2026/27.
 
 ### Nemocnice
 
