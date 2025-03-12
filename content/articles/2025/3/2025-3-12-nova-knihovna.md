@@ -18,15 +18,15 @@ Sekretář soutěže David Mikulášek pak zopakoval, že se porota snažila vyb
 
 Zástupce autorského týmu Jan Doubek ve své prezentaci nejprve ocenil možnost zúčastnit se soutěže, která podle něj svou anonymitou zaručuje soutěžícím transparentnost a rovnost příležitostí. Knihovna podle něj není jen místem pro půjčování knih, ale i centrem vzdělávání, kulturu a komunitní život města; autorský tým ji vnímá jako otevřený veřejný prostor pod střechou. Na stávajícím objektu vidí problematicky zejména dispozici, nedostatek světla v interiéru a nefunkční veřejný prostor kolem budovy. Výsledný návrh se snaží o citlivou adaptaci stávajícího objektu s využitím jeho předností, ale přitom radikálně mění jeho vnitřní logiku.
 
-{% photo src="https://i.ohlasy.info/i/6934ba21.jpg" caption="Celkové řešení a veřejný prostor" author="Jan Doubek a Soňa Minárechová" width=11602 height=6499 /%}
+{% photo src="https://i.ohlasy.info/i/b41ff01b.jpg" caption="Celkové řešení a veřejný prostor" author="Jan Doubek a Soňa Minárechová" width=4000 height=2241 /%}
 
-{% photo src="https://i.ohlasy.info/i/5b5ba488.jpg" caption="Pohled z ulice Kapitána Jaroše" author="Jan Doubek a Soňa Minárechová" width=11612 height=6509 /%}
+{% photo src="https://i.ohlasy.info/i/2134c31a.jpg" caption="Pohled z ulice Kapitána Jaroše" author="Jan Doubek a Soňa Minárechová" width=4000 height=2242 /%}
 
-{% photo src="https://i.ohlasy.info/i/49c87a8f.jpg" caption="Propojovací hala, kterou jde projít z takzvané Obchodní uličky od náměstí do kavárny či na dvorek za knihovnou" author="Jan Doubek a Soňa Minárechová" width=12312 height=8891 /%}
+{% photo src="https://i.ohlasy.info/i/f387060a.jpg" caption="Propojovací hala, kterou jde projít z takzvané Obchodní uličky od náměstí do kavárny či na dvorek za knihovnou" author="Jan Doubek a Soňa Minárechová" width=4000 height=2889 /%}
 
-{% photo src="https://i.ohlasy.info/i/c2ca0c74.jpg" caption="Vnitřní schodiště prosvětlené střešním světlíkem" author="Jan Doubek a Soňa Minárechová" width=11613 height=6489 /%}
+{% photo src="https://i.ohlasy.info/i/4b40c8b9.jpg" caption="Vnitřní schodiště prosvětlené střešním světlíkem" author="Jan Doubek a Soňa Minárechová" width=4000 height=2235 /%}
 
-{% photo src="https://i.ohlasy.info/i/de67bfcb.jpg" caption="Úprava dvora" author="Jan Doubek a Soňa Minárechová" width=11601 height=6516 /%}
+{% photo src="https://i.ohlasy.info/i/09c3865b.jpg" caption="Úprava dvora" author="Jan Doubek a Soňa Minárechová" width=4000 height=2247 /%}
 
 Pokud vás projekt zaujal, můžete se podívat na [celou prezentaci](https://data.ohlasy.info/2025/knihovna-prezentace.pdf) (PDF, 7 MB) nebo počkat na duben, kdy Ohlasy přinesou s jeho autorským týmem rozhovor.
 
