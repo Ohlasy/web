@@ -5,7 +5,7 @@ author: Kristýna Kráčalíková
 category: názory a komentáře
 ---
 
-*Adaptace měst na klimatickou změnu přináší nejrůznější témata a opatření, kterými je možné zlepšit život ve městě v horkých letních měsících. Jedním z témat je i vhodné řešení střech – diskutovalo se nedávno i na boskovickém zastupitelstvu v souvislosti s plánovanými stavbami veřejných budov. O střechách zelených i bílých napsala pro Ohlasy text Kristýna Kráčalíková ze Zelené peřiny.*
+*Adaptace měst na klimatickou změnu přináší nejrůznější témata a opatření, kterými je možné zlepšit život ve městě v horkých letních měsících. Jedním z témat je i vhodné řešení střech – diskutovalo se nedávno i na boskovickém zastupitelstvu v souvislosti s plánovanými stavbami veřejných budov. O střechách zelených i bílých napsala pro Ohlasy text Kristýna Kráčalíková ze [Zelené peřiny](https://www.zelena-perina.cz).*
 
 {% photo src="https://i.ohlasy.info/i/654c6223.jpeg" caption="Zelená střecha na Centru polytechnické výchovy u základní školy na Slovákově ulici" author="Tomáš Znamenáček" width=4032 height=3024 /%}
 
