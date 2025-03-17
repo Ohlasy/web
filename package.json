@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.5.1",
-    "@notionhq/client": "^2.2.16",
+    "@notionhq/client": "^2.3.0",
     "@slack/web-api": "^7.8.0",
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",
@@ -34,7 +34,7 @@
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
     "@types/react-dom": "18.x",
-    "@vercel/node": "^5.1.12",
+    "@vercel/node": "^5.1.14",
     "autoprefixer": "^10.4.21",
     "eslint-config-next": "15.x",
     "jest": "^29.7.0",
