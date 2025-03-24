@@ -17,11 +17,11 @@
   "dependencies": {
     "@markdoc/markdoc": "^0.5.1",
     "@notionhq/client": "^2.3.0",
-    "@slack/web-api": "^7.8.0",
+    "@slack/web-api": "^7.9.0",
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
-    "next": "^14.2.24",
+    "next": "^14.2.25",
     "plausible-tracker": "^0.3.9",
     "react": "18.x",
     "react-dom": "18.x",
@@ -29,7 +29,7 @@
     "xmlbuilder2": "^3.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.51.0",
+    "@playwright/test": "^1.51.1",
     "@types/jest": "^29.5.14",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
