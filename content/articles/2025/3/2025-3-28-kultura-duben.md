@@ -6,7 +6,7 @@ category: podcast
 tags: kultura
 ---
 
-*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. K rozhovoru jsme tentokrát pozvali dramaturgyni a producentku koncertního cyklu Amplitudy Ludmilu Čerbákovou. Amplitudy probíhají v Prostoru a dubnové pokračování bude poměrně speciální. Součástí podcastu jsou i pozvánky na vybrané únorové akce, ty si zde můžete také přečíst.*
+*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. K rozhovoru jsme tentokrát pozvali dramaturgyni a producentku koncertního cyklu Amplitudy Ludmilu Čerbákovou. Amplitudy probíhají v Prostoru a dubnové pokračování bude poměrně speciální. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, ty si zde můžete také přečíst.*
 
 {% podcast_player file="2025/podcast/ludmila.mp3" /%}
 
