@@ -4,6 +4,7 @@ cover-photo: https://i.ohlasy.info/i/272b5426.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:
+	- politika
 	- komunální volby 2026
 ---
 
