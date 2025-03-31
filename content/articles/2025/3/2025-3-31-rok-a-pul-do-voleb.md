@@ -4,8 +4,8 @@ cover-photo: https://i.ohlasy.info/i/272b5426.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
 tags:
-	- politika
-	- komunální volby 2026
+    - politika
+    - komunální volby 2026
 ---
 
 *Přesně za rok a půl nás čekají komunální volby. To to letí, že? Komentář k aktuálnímu rozložení pozic a sil na boskovické politické scéně napsal Tomáš Trumpeš.*
