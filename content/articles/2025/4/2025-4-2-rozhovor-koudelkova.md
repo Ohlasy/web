@@ -8,7 +8,7 @@ tags: kultura
 
 *Rozhovor s flétnistkou Michaelou Koudelkovou, která pochází z Boskovic a v současnosti připravuje vydání svého prvního studiového CD. Probrali jsme zejména tento aktuální počin, ale i její další hudební aktivity. Vydání CD můžete [podpořit i na Hithitu](https://www.hithit.com/cs/project/13319/podporte-debutove-cd-fletnistky-michaely-koudelkove).*
 
-{% photo src="https://i.ohlasy.info/i/4d54ce96.jpeg" author="Marcel Plavec" width=1600 height=1067 /%}
+{% photo src="https://i.ohlasy.info/i/4d54ce96.jpeg" author="Magdalena Hałas" width=1600 height=1067 /%}
 
 **Připravuješ svoje první album, takže nejdřív se zeptám: jak dlouho ta myšlenka zrála?**
 
