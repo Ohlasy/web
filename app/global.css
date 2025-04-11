@@ -85,6 +85,7 @@ a {
 .article-content p {
   margin-bottom: 1ex;
   hyphens: auto;
+  text-wrap: pretty;
 }
 
 .article-content blockquote {
