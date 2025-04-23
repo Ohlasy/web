@@ -6,7 +6,7 @@ category: zpravodajství
 tags: doprava
 ---
 
-*O dvou velkých dopravních stavbách v našem regionu se dlouho mluví, dlouho se připravují a občas o nich také nějakou dobu není moc slyšet – Ohlasy se proto příslušných orgánů zeptaly, jak vypadá aktuální stav příprav silnice I/73 a a železniční Boskovické spojky.*
+*O dvou velkých dopravních stavbách v našem regionu se dlouho mluví, dlouho se připravují a občas o nich také nějakou dobu není moc slyšet – Ohlasy se proto příslušných orgánů zeptaly, jak vypadá aktuální stav příprav silnice I/73 a železniční Boskovické spojky.*
 
 {% photo src="https://i.ohlasy.info/i/3a3642d5.jpg" caption="Budoucí trasa silnice I/73 v úseku Bořitov–Svitávka" author="Marek Osouch" width=4032 height=3016 /%}
 
