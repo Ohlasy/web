@@ -64,7 +64,7 @@ Myslím, že je taky dobré si vyjasnit, co to vlastně cyklostezka je. Z vlastn
 
 {% photo src="https://i.ohlasy.info/i/63c49877.jpg" author="Prahou na kole" caption="Stezka pro pěší a cyklisty – u nás nejrozšířenější řešení, většinou ale mimo město" width=600 height=600 /%}
 
-{% photo src="https://i.ohlasy.info/i/1596de5f.jpg" author="Prahou na kole" caption="Stezka pro cyklisty – řešení běžné ve světě, budované mimo města pouze pro cyklisty" /%}
+{% photo src="https://i.ohlasy.info/i/1596de5f.jpg" author="Prahou na kole" caption="Stezka pro cyklisty – řešení běžné ve světě, budované mimo města pouze pro cyklisty" width=600 height=600 /%}
 
 ### Jedu na sever, jedu na jih
 
