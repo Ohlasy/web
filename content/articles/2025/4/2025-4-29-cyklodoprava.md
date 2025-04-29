@@ -54,17 +54,17 @@ Buďme rádi, že u nás ve středu Evropy máme v tomto ohledu docela stabilní
 
 Myslím, že je taky dobré si vyjasnit, co to vlastně cyklostezka je. Z vlastní zkušenosti vím, že ne všichni si pod tímto pojmem představí to stejné – a vznikají pak různé šumy. Existuje několik typů cyklistické infrastruktury a ne všechny bych s klidným svědomím za všech okolností nazval cyklostezkou. Zejména z hlediska bezpečnosti účastníků provozu je velký rozdíl mezi hojně užívaným piktokoridorem, který je právě často vydáván za „cyklostezku“ (je logicky nejlevnější, ale nic moc nezlepšuje), ochranným či vyhrazeným cyklopruhem (lepší řešení, ale je hodně závislé na respektu motoristů vůči cyklistům a naopak) a konečně odděleným cyklopásem (ideální řešení, které, pokud to jde, by mělo být našim cílem). Jednotlivé příklady a s nimi spojený pocit bezpečí pro cyklistu můžete posoudit na obrázcích níže:
 
-{% photo src="https://i.ohlasy.info/i/f1753271.jpg" author="Petr Ondráček" caption="Piktokoridor – nejjednodušší opatření, které příliš bezpečí pro cyklistu neskýtá; pouze informuje řidiče vozidla, že se může s cyklistou potkat" width=600 height=600 /%}
+{% photo src="https://i.ohlasy.info/i/f1753271.jpg" author="Prahou na kole" caption="Piktokoridor – nejjednodušší opatření, které příliš bezpečí pro cyklistu neskýtá; pouze informuje řidiče vozidla, že se může s cyklistou potkat" width=600 height=600 /%}
 
-{% photo src="https://i.ohlasy.info/i/a890a264.jpg" author="Petr Ondráček" caption="Ochranný cyklopruh – lepší opatření než předchozí, stále ale není příliš bezpečné pro ty, kteří nejezdí příliš často – mohou do něj vjíždět vozidla, pro které není jízdní pruh dostatečně široký" width=600 height=600 /%}
+{% photo src="https://i.ohlasy.info/i/a890a264.jpg" author="Prahou na kole" caption="Ochranný cyklopruh – lepší opatření než předchozí, stále ale není příliš bezpečné pro ty, kteří nejezdí příliš často – mohou do něj vjíždět vozidla, pro které není jízdní pruh dostatečně široký" width=600 height=600 /%}
 
-{% photo src="https://i.ohlasy.info/i/ef715614.jpg" author="Petr Ondráček" caption="Vyhrazený cyklopruh – lepší varianta předchozího řešení, která nabízí jízdní pruh vyhrazený pouze pro cyklistu a nikdo do něj nesmí vjíždět ani na něm parkovat" width=600 height=600 /%}
+{% photo src="https://i.ohlasy.info/i/ef715614.jpg" author="Prahou na kole" caption="Vyhrazený cyklopruh – lepší varianta předchozího řešení, která nabízí jízdní pruh vyhrazený pouze pro cyklistu a nikdo do něj nesmí vjíždět ani na něm parkovat" width=600 height=600 /%}
 
-{% photo src="https://i.ohlasy.info/i/a6b27440.jpg" author="Petr Ondráček" caption="Oddělený cyklopás – ideální řešení jako páteřní linii do města, které ale ne vždy jde aplikovat, například kvůli nedostatečnému profilu ulice" width=600 height=600 /%}
+{% photo src="https://i.ohlasy.info/i/a6b27440.jpg" author="Prahou na kole" caption="Oddělený cyklopás – ideální řešení jako páteřní linii do města, které ale ne vždy jde aplikovat, například kvůli nedostatečnému profilu ulice" width=600 height=600 /%}
 
-{% photo src="https://i.ohlasy.info/i/63c49877.jpg" author="Petr Ondráček" caption="Stezka pro pěší a cyklisty – u nás nejrozšířenější řešení, většinou ale mimo město" width=600 height=600 /%}
+{% photo src="https://i.ohlasy.info/i/63c49877.jpg" author="Prahou na kole" caption="Stezka pro pěší a cyklisty – u nás nejrozšířenější řešení, většinou ale mimo město" width=600 height=600 /%}
 
-{% photo src="https://i.ohlasy.info/i/1596de5f.jpg" author="Petr Ondráček" caption="Stezka pro cyklisty – řešení běžné ve světě, budované mimo města pouze pro cyklisty" /%}
+{% photo src="https://i.ohlasy.info/i/1596de5f.jpg" author="Prahou na kole" caption="Stezka pro cyklisty – řešení běžné ve světě, budované mimo města pouze pro cyklisty" /%}
 
 ### Jedu na sever, jedu na jih
 
