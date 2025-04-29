@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 
 type Props = {
   id: string;
-  version?: number;
+  version?: string;
   title?: string; // TBD: insert to embed
 };
 

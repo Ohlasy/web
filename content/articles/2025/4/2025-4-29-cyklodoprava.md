@@ -28,7 +28,7 @@ To, že na kole trávím většinu volného času, asi víte – na Ohlasech jst
 
 V té souvislosti jsem si vzpomněl na [zajímavý text](https://mestemnakole.cz/2025/02/cyklorank-2024-detailne-v-jakych-mestech-vedou-cyklopruhy-v-jakych-cyklostezky/), kde se píše o aktuálním stavu cyklistické infrastruktury v českých městech. Zde tedy v městech velikosti Boskovic (10+ tisíc obyvatel). Zjištění bylo tehdy pro mne hodně překvapivé – ze 127 hodnocených měst jsme byli hodnoceni na pátém místě od konce – tedy na 123\. místě\! Přeloženo do češtiny to znamená, že podmínky pro cyklodopravu jsou u nás na úrovni, že vlastně téměř žádné nejsou. O to víc mne zajímalo, bude-li mít koncepce řešení dopravy ve městě s tímto nelichotivým stavem ambici něco dělat.
 
-{% datawrapper_chart id="PIyYQ" version=4 /%}
+{% datawrapper_chart id="PIyYQ" version="4" /%}
 
 Prezentace pro mne byla příjemným překvapením. Potěšilo mne konečně uvažování v kontextu celého města, třeba i proto, že alespoň náznak něčeho podobného jsem zde několik posledních desítek let zatím nezažil. Jsme sice na začátku, ale mám pocit, že se konečně vydáváme správnou cestou. Je jasné, že realizace nebude hotova za jedno volební období, ale pojďme to prosím začít. Tak, aby se na to v dalších volebních obdobích dalo bez problému navazovat.
 
