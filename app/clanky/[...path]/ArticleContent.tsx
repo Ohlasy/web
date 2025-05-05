@@ -104,6 +104,7 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
     <div>
       {image}
       <div
+        className="text-balance"
         style={{
           marginTop: "-18px",
           marginBottom: "18px",
