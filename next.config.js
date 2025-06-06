@@ -79,6 +79,11 @@ const nextConfig = {
         destination: "/clanky/?rok=:year",
         permanent: false,
       },
+      {
+        source: "/extra/",
+        destination: "https://www.darujme.cz/ohlasy-extra",
+        permanent: false,
+      },
     ];
   },
 };
