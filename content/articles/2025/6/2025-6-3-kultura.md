@@ -48,7 +48,7 @@ V pátek 27\. června se koná už pátý ročník festivalu Ticho nechcem. Hlav
 
 ### Nebojsy: Kuchyňské porno
 
-Novou inscenaci svého souboru Nebojsy přiveze do Boskovic tanečnice a herečka Kristýna Štarhová, která odtud pochází. Inscenace nazvaná Kuchyňské porno chce reflektovat a zviditelnit problematiku genderových nerovností ve společnosti. Hlavním inspiračním zdrojem jsou knihy Proč jsme tak naštvané?, Neviditelné ženy a Kdo vaří ekonomům? Koná se v sobotu 14\. června od 19 hodin v Prostoru.
+Novou inscenaci svého souboru Nebojsy přiveze do Boskovic tanečnice a herečka Kristýna Štarhová, která odtud pochází. Inscenace nazvaná Kuchyňské porno chce reflektovat a zviditelnit problematiku genderových nerovností ve společnosti. Hlavním inspiračním zdrojem jsou knihy Proč jsme tak naštvané?, Neviditelné ženy a Kdo vaří ekonomům? Koná se v sobotu 14\. června od 17 hodin v Prostoru.
 
 ### Divadlo NABOSO: Inkognito–Spoluvina–Rozsudek
 
