@@ -34,4 +34,4 @@ Vzhledem k pokročilým možnostem měření můžeme být o nestandardních jev
 
 ---
 
-*Tento text vznikl díky příspěvku Nadačního fondu nezávislé žurnalistiky a darům našeho publika v rámci projektu Ohlasy Extra. Pokud si to můžete dovolit, [přispějte prosím také](https://ohlasy.info/extra), ať se nám práce zaplatí.*
+*Tento text vznikl díky příspěvku [Nadačního fondu nezávislé žurnalistiky](https://www.nfnz.cz) a darům našeho publika v rámci projektu Ohlasy Extra. Pokud si to můžete dovolit, [přispějte prosím také](https://ohlasy.info/extra), ať se nám práce zaplatí.*
