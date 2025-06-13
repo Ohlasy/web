@@ -118,10 +118,10 @@ const FundraisingSecion = () => (
     <div className="lg:col-span-2">
       <Image
         className="lg:col-span-2"
-        src="https://i.ohlasy.info/i/4040c852.jpg"
+        src="https://i.ohlasy.info/i/0ef79d75.jpg"
         sizes="(min-width: 640px) 50vw, 100vw"
-        width={2048}
-        height={1365}
+        width={5842}
+        height={3894}
         alt="Tým Ohlasů"
       />
     </div>
