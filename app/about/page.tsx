@@ -28,10 +28,10 @@ const Page = async () => {
       <section className="grid lg:grid-cols-3 gap-7 lg:mt-7 bg-lightGray">
         <Image
           className="lg:col-span-2 lg:order-2"
-          src="https://i.ohlasy.info/i/9b34a8e0.jpg"
+          src="https://i.ohlasy.info/i/0ef79d75.jpg"
           sizes="(min-width: 1024px) 50vw, 100vw"
-          width={3776}
-          height={2517}
+          width={5842}
+          height={3894}
           alt="Tým Ohlasů"
         />
         <div className="max-w-prose flex flex-col gap-2 p-5">
@@ -71,10 +71,10 @@ const Page = async () => {
             mail="tomas.znamenacek@ohlasy.info"
           />
           <PersonCard
-            name="Marek Osouch"
-            photoUrl={profilePhotoUrlFor("Marek Osouch")}
-            mail="marek@ohlasy.info"
-            info="zpravodajství"
+            name="Kristina Studená"
+            photoUrl={profilePhotoUrlFor("Kristina Studená")}
+            mail="kristina.studena@gmail.com"
+            info="texty"
           />
           <PersonCard
             name="Magda Znamenáčková"
@@ -83,10 +83,10 @@ const Page = async () => {
             mail="magda@ohlasy.info"
           />
           <PersonCard
-            name="Nikol Halamásková"
-            photoUrl={profilePhotoUrlFor("Nikol Halamásková")}
-            mail="nikol@ohlasy.info"
-            info="sociální sítě"
+            name="Marek Osouch"
+            photoUrl={profilePhotoUrlFor("Marek Osouch")}
+            mail="marek@ohlasy.info"
+            info="zpravodajství"
           />
         </div>
       </section>
