@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Boskovičtí zastupitelé se sešli dva týdny před svým naplánovaným jednáním i mimořádně – aby v časovém limitu schválili příslušné smlouvy k budování cyklostezky do Svitávky. Kromě toho se na jednání odvinula delší debata o nočních akcích ve městě.*
 
-{% photo src="https://i.ohlasy.info/i/e52d8fa5.jpg" caption="Večerní dění na Plačkově ulici během festivalu Boskovice, 2015" author="Tomáš Znamenáček" width=1280 height=853" /%}
+{% photo src="https://i.ohlasy.info/i/e52d8fa5.jpg" caption="Večerní dění na Plačkově ulici během festivalu Boskovice, 2015" author="Tomáš Znamenáček" width=1280 height=853 /%}
 
 Mimořádného zastupitelstva se účastnilo jen osmnáct zastupitelů a zastupitelek z dvaceti sedmi, z toho dvanáct koaličních a šest opozičních. Pro dosažení zastupitelské většiny čtrnácti hlasů a tedy schválení čehokoli tak byla nutná shoda koalice a opozice. 
 
