@@ -1,0 +1,28 @@
+---
+title: Noční akce potřebují jasnější pravidla, která ale nemůžou vycházet jen ze stížností občanů u městské policie
+cover-photo: https://i.ohlasy.info/i/6a7f92f9.jpg
+author: Tomáš Znamenáček
+category: názory a komentáře
+---
+
+*Na [mimořádném zastupitelstvu](https://ohlasy.info/clanky/2025/06/zastupitelstvo.html) trochu nečekaně vyvřela debata o jednom z tradičních témat nejen boskovické městské politiky – rušení nočního klidu. Na noční klid máme všichni nárok ze zákona, město z něj může v opodstatněných případech udělit jednotlivé výjimky. Boskovická debata o nich se ale hodně zamotala, tak se pojďme pokusit ji společně rozmotat.*
+
+{% photo src="https://i.ohlasy.info/i/6a7f92f9.jpg" caption="Festival Raveyard, 2020" author="Tomáš Znamenáček" width=4896 height=3264 /%}
+
+Jedním z hlavních problémů naší městské „politiky nočního klidu“ je její nepředvídatelnost. Ačkoliv se kolem boskovické kultury motám už přes 15 let, městskou vyhlášku o nočním klidu jsem v různých verzích podrobně četl a dokonce jsem pro ostatní pořadatele vyráběl orientační diagram, kdy platí jaké limity, dodnes se vlastně neorientuji v tom, do kdy můžou jaké typy produkce trvat, kdy je potřeba žádat o případné výjimky a jakým procesem se o nich přesně rozhodne.
+
+Tato nepředvídatelnost je problém pro obě strany debaty. Ti, kteří by se chtěli na hlučné akce nějak mentálně připravit či před nimi prchnout, mají právo, aby takové situace byly jen párkrát do roka, nejlépe v pevná a zaběhnutá data slavností nebo festivalů. [Potvrzuje to i Ústavní soud](https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/2016/Pl._US_4_16_na_web.pdf), jak na zastupitelstvu trefně zmínil ředitel městské policie David Krátký. Přímo katastrofální ale může být nejistota v udělování výjimek pro pořadatele akcí, kteří často ručí za statisícové rozpočty, akce mohou plánovat dlouhé měsíce předem – a dozvědět se na poslední chvíli o neudělení výjimky je pro ně likvidační.
+
+Jak už na mimořádném zastupitelstvu poznamenala zastupitelka Dagmar Hamalová, město by tedy mělo mít na udělování výjimek jasná, předvídatelná pravidla. Když se bude o osudu kulturních akcí rozhodovat v nahodilé debatě na zastupitelstvu nebo v městské radě pár týdnů před jejich konáním, neuděláme radost vůbec nikomu. Stejně tak nedává příliš smysl snažit se o „kompromis“ posouváním časových limitů jednotlivých akcí o pár hodin tam či zpátky. Ukončit kupříkladu párty s elektronickou taneční hudbou o půlnoci dává stejný smysl jako začínat ve stejný čas dětské divadelní představení. Půlnoc v takových případech není kompromis, ale jen zákaz s lepším PR.
+
+Zcela nepřijatelné podle mě je, aby městskou politiku v tomto směru určovala nebo vedla městská policie. Tu si platíme, aby byl ve městě pořádek, a kulturní akce pro ni pochopitelně představují jen mrzení. Hezky to ilustroval ředitel městské policie, když na zastupitelstvu vysvětloval, kolik lidí si na akce stěžuje. Mají snad všichni, kterým se akce líbila, taky zatelefonovat na městskou policii, aby srovnali skóre a bylo jasné, že kultura ve městě není jen zátěž?
+
+Pro stížnosti městské policie mám ale velké pochopení, setkávat se s některými účastníky akcí v ranních hodinách je nevděčná disciplína. Určitě má smysl bavit se s pořadateli akcí o tom, jak negativní dopady na město omezit – ostatně tato debata z mé zkušenosti probíhá a spolupráce s městskou policií je často přínosná a konstruktivní. Policie ale nemůže volat po zákazu akcí, podobně jako třeba úklidová firma nemůže volat po zákazu jídla na veřejnosti, protože občas někomu něco upadne a oni to pak musí uklízet. Drtivou většinu agendy městské policie mimochodem tvoří řešení dopravních přestupků – budeme volat po zákazu dopravy ve městě, aby se problém „vyřešil“? V čem je kultura jiná?
+
+O kulturní politice by místo policie měli rozhodovat zvolení politici. Kteří samozřejmě můžou vycházet z podkladů od městské policie nebo zkušeností místních podnikatelů – ale také nutně z podkladů kulturní komise nebo zkušenostní místních kulturních promotérů, abychom téma neredukovali jen na problémy, které akce působí, a nerozhodovali podle toho, kdo zrovna přijde zahrozit rukou na zastupitelstvo nebo zavolá na policii.
+
+Přiznám se, že zcela nesrozumitelné jsou pro mě úvahy o omezování vnitřních akcí, které na zastupitelstvu též zazněly. Pokud někdo pořádá uvnitř soukromé budovy akci, která porušuje zákon, například přílišným hlukem, předpokládám, že policie přijde s důkazy, tedy například naměřenými hlukovými hodnotami. A pokud akce zákon prokazatelně neporušuje, nikomu do ní nic není a úvahy o jejím povolování či zakazování podle mě vůbec nejsou téma pro zastupitelstvo.
+
+Kultura a jiné formy života do města zkrátka patří a jejich odvrácené stránky se musíme naučit řešit jinak než odsouváním a zákazy. Aktivní kulturní život je výkladní skříní našeho města a často i důvodem, proč zde lidé zůstávají nebo se sem stěhují. Byla by škoda udělat z Boskovic jakousi Floridu Moravy, která se bude prsit tím, že se tu vůbec nic neděje. Právo na noční klid je na druhou stranu zcela pochopitelné a garantované zákonem, tak pojďme hledat vhodnou rovnováhu. Pro začátek třeba tím, že nastavíme jasný a předvídatelný systém výjimek z nočního klidu.
+
+*Autor je spoluzakladatelem a členem spolku Unijazz Boskovice, který provozuje kulturní centrum Prostor, jehož se debata na zastupitelstvu často dotýkala. Chodí spát po Večerníčku a hlučné akce například ve spodním zámeckém parku na něj dopadají velice těžce a nemile.*
