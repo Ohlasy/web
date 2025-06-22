@@ -25,4 +25,4 @@ Přiznám se, že zcela nesrozumitelné jsou pro mě úvahy o omezování vnitř
 
 Kultura a jiné formy života do města zkrátka patří a jejich odvrácené stránky se musíme naučit řešit jinak než odsouváním a zákazy. Aktivní kulturní život je výkladní skříní našeho města a často i důvodem, proč zde lidé zůstávají nebo se sem stěhují. Byla by škoda udělat z Boskovic jakousi Floridu Moravy, která se bude prsit tím, že se tu vůbec nic neděje. Právo na noční klid je na druhou stranu zcela pochopitelné a garantované zákonem, tak pojďme hledat vhodnou rovnováhu. Pro začátek třeba tím, že nastavíme jasný a předvídatelný systém výjimek z nočního klidu.
 
-*Autor je spoluzakladatelem a členem spolku Unijazz Boskovice, který provozuje kulturní centrum Prostor, jehož se debata na zastupitelstvu často dotýkala. Chodí spát po Večerníčku a hlučné akce například ve spodním zámeckém parku na něj dopadají velice těžce a nemile.*
+*Autor je spoluzakladatelem a členem spolku Unijazz Boskovice, který provozuje kulturní centrum Prostor, jehož se debata na zastupitelstvu často dotýkala. Chodí spát po Večerníčku a hlučné akce například v zámeckém parku na něj dopadají velice těžce a nemile.*
