@@ -1,0 +1,26 @@
+---
+title: Poučení z kauzy Blažek a boskovická politika jako krasobruslení
+cover-photo: https://i.ohlasy.info/i/fa470af9.jpg
+author: Tomáš Trumpeš
+category: názory a komentáře
+---
+
+*Existuje poučení z bitcoinové kauzy bývalého ministra Blažka i pro naši komunální politiku, pro lokální novináře a pro občanskou společnost na malém městě? V komentáři se zamýšlí Tomáš Trumpeš.*
+
+{% photo src="https://i.ohlasy.info/i/fa470af9.jpg" caption="Bruslení v Central parku, Charles Parsons, 1862" width=956 height=640 /%}
+
+Na celostátní úrovni se řeší bitcoinový příběh ministra Pavla Blažka a většina politologů, komentátorů a sociologů z výzkumných agentur se shoduje, že je to kauza, která aktuální sněmovní většině definitivně vzala šanci na obhajobu vládních pozic.
+
+Z celé kauzy asi plynou různá ponaučení. Mě nejvíc zajímá ne to, jak by se měli poučit politici, ale spíš co z toho plyne pro nás ostatní, kterým politika není lhostejná – novináře i občanskou společnost.
+
+V poslední době, ale asi by se dalo říct, že v průběhu celého tohoto volebního období, jsem absolvoval několik úmorných a místy nepříjemných názorových střetů a debat s příznivci stávající vládní sestavy Petra Fialy. Jejich společným jmenovatelem byl postoj, který bych formuloval takto: *Nekritizujme tuto vládu a premiéra, to jenom nahrává nedemokratickým silám v zemi.* 
+
+Kauza Blažek podle mě ukázala, že pravý opak je pravdou. Pro novináře i aktivní občany by mělo být samozřejmé, že k těm, kdo mají moc, přistupují kriticky. A na ty z vlastního tábora by měli být možná nejpřísnější. Když totiž politiky ke kritické reflexi nepřimějeme my, udělají to ti voliči, kteří jinak mlčí – a to v příštích volbách. Na ministra Pavla Blažka se kupříkladu snesla kritika za setkání s nechvalně proslulým proruským lobbistou Martinem Nejedlým – a právě zde jsme podle mého názoru selhali: novináři, občanská společnost i koaliční partneři. Kdybychom tehdy byli kritičtější a víc křičeli, že toto je nepřijatelné, mohl se „problém Blažek“ vyřešit už tehdy a nemusel dorůst do mnohem většího průšvihu. Toto mi přijde ukázkové. Nedůslednost se nevyplatila. Přístup *raději nebudeme vládu kritizovat* tak postupně připravil tu vládu o poslední naděje.
+
+Podobně jsme to už několikrát zažili i v Boskovicích. V Ohlasech jsme mnohokrát čelili nařčení, že kritizujeme příliš a za každou cenu a že nafukujeme věci, které vadí jenom nám a jinak nikoho nezajímají. Často jsme politikům říkali: *Buďte rádi, když vás kritizujeme my, to ještě máte šanci věci napravit, až vám to dají najevo voliči ve volbách, bude pozdě.* Obvykle se nám smáli a situaci sebevědomě zlehčovali. A pak jsme zažili pád koalice vedené ODS v roce 2014, [pád koalice vedené ČSSD v roce 2018](https://ohlasy.info/clanky/2018/10/volby-vysledky.html) a jasnou [prohru ambiciózní koalice SPOLU v roce 2022](https://ohlasy.info/clanky/2022/09/vysledky-voleb.html). Namísto zlehčování pak někdy došlo na obviňování, že za prohry může nikoliv špatný výkon politiků, ale právě naše kritika. Jakkoli si své novinářské práce v principu vážíme, představa, že se stovky či tisíce voličů rozhodují podle několika našich kritických komentářů, je absurdní.
+
+Co je ale podstatné: pro město to není dobře. Z neustálých volebních proher proto nelze mít radost. Hned po volbách v roce 2022 jsem proto psal o tom, že je důležité, aby nová koalice [obhájila své pozice](https://ohlasy.info/clanky/2022/09/koalice-komentar.html) a konečně tady někdo souvisle pracoval osm let. Nyní to po mém soudu vypadá, že to stejně jako v minulosti nikdo nevzal vážně.
+
+V posledních dnech jsem pracoval na tématu veřejného obrazu a komunikace současného vedení města. A u toho jsem si kladl *blažkovskou* otázku: nekritizujeme současnou boskovickou vládu málo? Psali jsme o problémech s komunikací opakovaně, zatím se ale zdá, že se situace pořád jen zhoršuje. Marně vysvětlujeme, že politika je jako krasobruslení a kromě *technického provedení* se hodnotí se stejným, ne-li větším dopadem na výsledek i *umělecký dojem* – tedy politický a komunikační styl. Na malém městě navíc nejen ten mediální, ale i osobní. To je zároveň hůř uchopitelné a oproti věcným programovým omylům se pochybení v této oblasti obtížněji vysvětlují. Přesto mi připadá zjevné, že je zde zásadní problém, který může klíčovým způsobem ovlivnit výsledek komunálních voleb v roce 2026\.
+
+Starostka Jana Syrovátková už před časem v [rozhovoru pro naše noviny](https://ohlasy.info/clanky/2024/11/jana-syrovatkova-rozhovor.html) deklarovala, že chce svou funkci obhájit. Do sněmovních voleb už zbývá jen něco přes tři měsíce, do těch komunálních ještě rok a čtvrt. To je na jednu stranu dost, ale na druhou stranu to lze brát i tak, že teď o prázdninách se na politiku trochu zapomene a pak už se rozběhne poslední rok ve znamení sílící kampaně. A proto je třeba jasně a kriticky říct: pokud chce mít Změna22 šanci obhájit svou pozici vůdčí politické síly ve městě, musí ve svém *uměleckém dojmu* něco zcela zásadním způsobem změnit a zlepšit. Jinak směřuje k další z řady boskovických volebních proher. A pracovní kontinuity aspoň na dvě volební období se opět nedočkáme.
