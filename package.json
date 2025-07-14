@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.5.2",
-    "@notionhq/client": "^4.0.0",
+    "@notionhq/client": "^4.0.1",
     "@slack/web-api": "^7.9.3",
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",
@@ -29,12 +29,12 @@
     "xmlbuilder2": "^3.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.53.2",
+    "@playwright/test": "^1.54.1",
     "@types/jest": "^30.0.0",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
     "@types/react-dom": "18.x",
-    "@vercel/node": "^5.3.3",
+    "@vercel/node": "^5.3.5",
     "autoprefixer": "^10.4.21",
     "eslint-config-next": "15.x",
     "jest": "^30.0.4",
