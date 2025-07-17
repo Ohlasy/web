@@ -2,11 +2,11 @@
 title: „Vyprodukujeme zhruba tři miliony vřeten ročně.“
 perex: Rozhovor s ředitelem společnosti Novibra Markusem Külzerem o výrobcích, zaměstnancích, ale i o tom, jaké bylo přestěhovat se před více než dvaceti lety z německého velkoměsta sem do Boskovic.
 cover-photo: https://i.ohlasy.info/i/kgavffp.jpg
-author: Martina Vašková
+author: Martina Žižková
 category: rozhovory
 ---
 
-*Rozhovor s ředitelem společnosti Novibra Markusem Külzerem. Novibra v Boskovicích funguje už pětadvacet let a patří zde k největším zaměstnavatelům. S ředitelem jsme si povídali o jejich výrobcích, zaměstnancích, ale i o tom, jaké bylo přestěhovat se před více než dvaceti lety z německého velkoměsta sem do Boskovic.*
+_Rozhovor s ředitelem společnosti Novibra Markusem Külzerem. Novibra v Boskovicích funguje už pětadvacet let a patří zde k největším zaměstnavatelům. S ředitelem jsme si povídali o jejich výrobcích, zaměstnancích, ale i o tom, jaké bylo přestěhovat se před více než dvaceti lety z německého velkoměsta sem do Boskovic._
 
 {% photo src="https://i.ohlasy.info/i/kgavffp.jpg" caption="Markus Külzer" author="Martina Vašková" /%}
 
@@ -46,11 +46,11 @@ Největší odběratelé jsou samozřejmě v Číně, tam dodáváme orientačn�
 
 **Na svých webových stránkách píšete, že v roce 1988 byla vyvinutá nová revoluční vřetena HPS – používají se ještě dnes, nebo už máte vřetena technicky dokonalejší?**
 
-Vřetena z roku 1988 byla v našem oboru skutečně revoluční. Nová konstrukce změnila klasické prstencové předení a přinesla nové možnosti. Nejdůležitější z nich byla vysoká rychlost, z původních šestnácti až sedmnácti tisíc otáček jsme se dostali na pětadvacet tisíc otáček za minutu. V té době jsme měli velkého konkurenta ve firmě SKF a díky našim novým vřetenům jsme získali velké množství zákazníků v různých zemích. Například v Pákistánu, to nám hodně pomohlo. 
+Vřetena z roku 1988 byla v našem oboru skutečně revoluční. Nová konstrukce změnila klasické prstencové předení a přinesla nové možnosti. Nejdůležitější z nich byla vysoká rychlost, z původních šestnácti až sedmnácti tisíc otáček jsme se dostali na pětadvacet tisíc otáček za minutu. V té době jsme měli velkého konkurenta ve firmě SKF a díky našim novým vřetenům jsme získali velké množství zákazníků v různých zemích. Například v Pákistánu, to nám hodně pomohlo.
 
-Vřeteno HPS z roku 1988 se pořád používá po celém světě a vlastně nebylo dosud překonáno. Přesto jsme vyvinuli vřetena nová, upravená, která z toho původního vycházejí. Vyrábíme například vřeteno LENA, které vypadá skoro stejně jako to originální, jen je o trochu menší a ekonomičtější. Což byl hlavní důvod, proč jsme jej vymysleli. 
+Vřeteno HPS z roku 1988 se pořád používá po celém světě a vlastně nebylo dosud překonáno. Přesto jsme vyvinuli vřetena nová, upravená, která z toho původního vycházejí. Vyrábíme například vřeteno LENA, které vypadá skoro stejně jako to originální, jen je o trochu menší a ekonomičtější. Což byl hlavní důvod, proč jsme jej vymysleli.
 
-Další z těch inovativních je například korunka CROCOdoff, která zajišťuje lepší uchycení a řezání příze a minimalizuje problémy spojené s automatickým sejmutím plné cívky a začátkem nového dopřádání. Což v praxi znamená, že to šetří zaměstnancům práci. Na vřeteno totiž automat musí nasunout prázdnou plastovou dutinku, na kterou se pak navine příze. Pokud se ovšem příze uvolní ještě před navinutím na dutinku, musí přijít obsluha a ručně to celé spravit. A když si představíte, že máte stroj se dvěma tisíci vřeteny, které byste měli ručně spravovat, to už je hodně práce navíc. Takže jsme vyvinuli systém, který přízi zachytí, pak usekne, ale volný konec pevně podrží a včas pustí, aby byl na cívce vytvořen dostatečný návin a ruční opravy nebyly potřeba. 
+Další z těch inovativních je například korunka CROCOdoff, která zajišťuje lepší uchycení a řezání příze a minimalizuje problémy spojené s automatickým sejmutím plné cívky a začátkem nového dopřádání. Což v praxi znamená, že to šetří zaměstnancům práci. Na vřeteno totiž automat musí nasunout prázdnou plastovou dutinku, na kterou se pak navine příze. Pokud se ovšem příze uvolní ještě před navinutím na dutinku, musí přijít obsluha a ručně to celé spravit. A když si představíte, že máte stroj se dvěma tisíci vřeteny, které byste měli ručně spravovat, to už je hodně práce navíc. Takže jsme vyvinuli systém, který přízi zachytí, pak usekne, ale volný konec pevně podrží a včas pustí, aby byl na cívce vytvořen dostatečný návin a ruční opravy nebyly potřeba.
 
 **Vaše firma se neustále rozrůstá, v roce 2015 jste otevřeli novou halu. Plánujete podobně velkou investici v následujících letech?**
 
@@ -70,7 +70,7 @@ Za poslední dva roky jsme velmi výrazně navyšovali mzdu, ale volných míst 
 
 **Co jako firma děláte pro spokojenost svých zaměstnanců?**
 
-Poskytujeme jim nejrůznější příspěvky na sport, autobusovou dopravu a volnočasové aktivity. Administrativní pracovníci mají pružnou pracovní dobu a banku hodin, ze které mohou čerpat. Zaměstnanci se mohou dále vzdělávat nebo získávat v průběhu roku nejrůznější finanční či nefinanční odměny. Úspěch mělo i pořízení několika odpočinkových zón v areálu firmy. 
+Poskytujeme jim nejrůznější příspěvky na sport, autobusovou dopravu a volnočasové aktivity. Administrativní pracovníci mají pružnou pracovní dobu a banku hodin, ze které mohou čerpat. Zaměstnanci se mohou dále vzdělávat nebo získávat v průběhu roku nejrůznější finanční či nefinanční odměny. Úspěch mělo i pořízení několika odpočinkových zón v areálu firmy.
 
 **Jak se vám v Boskovicích podniká, potřebujete vlastně ke své práci město?**
 

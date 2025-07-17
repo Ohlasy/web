@@ -1,11 +1,11 @@
 ---
 title: „Hlavně, aby děti měly důstojné prostředí a chodily do SVČ rády.“
 cover-photo: https://i.ohlasy.info/i/447ffe4b.jpg
-author: Martina Vašková
+author: Martina Žižková
 category: rozhovory
 ---
 
-*Rozhovor s Alenou Staňkovou, ředitelkou Střediska volného času Boskovice (SVČ). V SVČ pracuje již čtyřicet let, z toho posledních jedenáct let jako ředitelka. V současné době musí řešit spoustu novinek – nový způsob financování, slučování s letovickým střediskem volného času Letokruh a stěhování celé organizace do nového místa.*
+_Rozhovor s Alenou Staňkovou, ředitelkou Střediska volného času Boskovice (SVČ). V SVČ pracuje již čtyřicet let, z toho posledních jedenáct let jako ředitelka. V současné době musí řešit spoustu novinek – nový způsob financování, slučování s letovickým střediskem volného času Letokruh a stěhování celé organizace do nového místa._
 
 {% photo src="https://i.ohlasy.info/i/447ffe4b.jpg" author="Martina Vašková" width=2835 height=1890 /%}
 
@@ -41,7 +41,7 @@ Padlo stavění nové budovy i oprava domu, ve kterém teď jsme, takže víme, 
 
 **Které jsou ty vaše stěžejní akce, o nichž možná ani veřejnost neví, že je pořádá právě středisko volného času?**
 
-Každoročně připravujeme oblíbený mikulášský průvod *Mikuláši, co máš v koši*, také drakiády, karnevaly v sokolovně i na ledě. Pod nás patří také šachové turnaje a krajské plavecké závody, například Jarní cena města Boskovice. Jedeme přes všechny prázdniny, o každých prázdninách máme příměstské tábory. Nemáme ve vyhlášce, že musíme, ale můžeme a chceme. Na letošní léto už máme některé tábory plné. Pravidelně se zapojujeme do akcí města, jako jsou Den s policií či zahájení turistické sezóny, kde připravujeme doprovodný program. Hodně spolupracujeme s MAS Boskovicko PLUS na vánočních a velikonočních dílnách pro školy a veřejnost. Na každý měsíc nám vychází jedna větší akce, a to vše i s kroužky zvládáme v pěti zaměstnancích. Ale pak máme logicky problém si vůbec vybrat dovolenou.
+Každoročně připravujeme oblíbený mikulášský průvod _Mikuláši, co máš v koši_, také drakiády, karnevaly v sokolovně i na ledě. Pod nás patří také šachové turnaje a krajské plavecké závody, například Jarní cena města Boskovice. Jedeme přes všechny prázdniny, o každých prázdninách máme příměstské tábory. Nemáme ve vyhlášce, že musíme, ale můžeme a chceme. Na letošní léto už máme některé tábory plné. Pravidelně se zapojujeme do akcí města, jako jsou Den s policií či zahájení turistické sezóny, kde připravujeme doprovodný program. Hodně spolupracujeme s MAS Boskovicko PLUS na vánočních a velikonočních dílnách pro školy a veřejnost. Na každý měsíc nám vychází jedna větší akce, a to vše i s kroužky zvládáme v pěti zaměstnancích. Ale pak máme logicky problém si vůbec vybrat dovolenou.
 
 **Říkala jste, že v letošním školním roce máte sto čtrnáct kroužků. Reagujete nějak na poptávku po nových kroužcích, které přináší doba?**
 

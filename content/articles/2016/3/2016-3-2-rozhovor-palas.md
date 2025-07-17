@@ -1,12 +1,12 @@
 ---
 title: „Z tancování budou žáci vždy šikovnější než z běhání po hřišti.“
 cover-photo: https://i.ohlasy.info/i/macmhid.jpg
-author: Martina Vašková
+author: Martina Žižková
 category: rozhovory
 tags: kultura vzdělávání
 ---
 
-*Rozhovor s Petrem Palasem, který vede třetím rokem taneční obor v ZUŠ Boskovice. Než se dostal do Boskovic, působil jako sólista baletu v Českých Budějovicích a Liberci. V Boskovicích se mu zatím daří – což dokládá dvakrát vyprodané představení Sněhová královna, kde tančilo všech téměř osmdesát žáků tanečního oboru. V těchto dnech už chystají nové představení, tentokrát žáci zatančí v zahradě boskovického zámku.*
+_Rozhovor s Petrem Palasem, který vede třetím rokem taneční obor v ZUŠ Boskovice. Než se dostal do Boskovic, působil jako sólista baletu v Českých Budějovicích a Liberci. V Boskovicích se mu zatím daří – což dokládá dvakrát vyprodané představení Sněhová královna, kde tančilo všech téměř osmdesát žáků tanečního oboru. V těchto dnech už chystají nové představení, tentokrát žáci zatančí v zahradě boskovického zámku._
 
 {% photo src="https://i.ohlasy.info/i/macmhid.jpg" author="Tomáš Znamenáček" /%}
 
@@ -16,7 +16,7 @@ Od rodičů vím, že prvotním impulsem k tomu stát se tanečníkem byla svatb
 
 **A co vás přivedlo z Českých Budějovic až do Boskovic?**
 
-Přistěhoval jsem se do Vratíkova za svou přítelkyní, když jsem se rozhodl skončit s divadlem. A protože jako bývalý tanečník na trhu práce moc nabídek nemáte a já se vždy zajímal o auta, prodával jsem několik let auta v Kunštátě. 
+Přistěhoval jsem se do Vratíkova za svou přítelkyní, když jsem se rozhodl skončit s divadlem. A protože jako bývalý tanečník na trhu práce moc nabídek nemáte a já se vždy zajímal o auta, prodával jsem několik let auta v Kunštátě.
 
 **Proč jste se rozhodl s tancováním skončit?**
 
@@ -26,11 +26,11 @@ To bylo jednoduché. Po tom, co jsem od šesti let prakticky celý život tanči
 
 **Předpokládám, že budete asi jediný tanečník v ZUŠ na okrese.**
 
-Loni jsem byl na setkání pedagogů tanečního oboru a seděl tam ještě jeden muž, takže úplně sám asi nebudu. Ale rarita jistě jsme. 
+Loni jsem byl na setkání pedagogů tanečního oboru a seděl tam ještě jeden muž, takže úplně sám asi nebudu. Ale rarita jistě jsme.
 
 **Své zkušenosti s divadlem můžete výborně zúročit i v představeních a práci se žáky…**
 
-Přesně tak. Mám rád, když z tance vycházejí emoce – ať už pohybové nebo charakterové – které jsou spojené s danou rolí. Požaduji proto po žácích, aby nepředváděli jen prostoduchý pohyb, ale aby se svou roli snažili prožít a téma příběhu z nich vyzařovalo. Je důležité, aby divák, který je neznalý, tušil, která role je kladná a která záporná. Myslím, že tím, že jsem byl u divadla, mám na žáky větší nároky a občas prostě mají tu nevýhodu, že je neberu jako žáky, ale jako tanečníky. 
+Přesně tak. Mám rád, když z tance vycházejí emoce – ať už pohybové nebo charakterové – které jsou spojené s danou rolí. Požaduji proto po žácích, aby nepředváděli jen prostoduchý pohyb, ale aby se svou roli snažili prožít a téma příběhu z nich vyzařovalo. Je důležité, aby divák, který je neznalý, tušil, která role je kladná a která záporná. Myslím, že tím, že jsem byl u divadla, mám na žáky větší nároky a občas prostě mají tu nevýhodu, že je neberu jako žáky, ale jako tanečníky.
 
 **Jak tedy docílíte toho, že žáci zatancují své role tak, jak si představujete? To není úplně jednoduché třeba u malých dětí.**
 
@@ -50,7 +50,7 @@ Návštěvnost reprízy byla stejná jako na premiéře, okolo tři sta padesát
 
 **Bude ještě nějaká možnost Sněhovou královnu vidět?**
 
-Reprízu zatím neplánuji. Pouze pokud bychom dostali nějakou nabídku na zájezd, tak bychom znovu tančili, jinak nejspíš ne. Nejsem si totiž jistý, zda bychom dokázali sokolovnu znovu naplnit a byl bych nerad, kdyby na osmdesát tanečníků koukalo osmdesát diváků. 
+Reprízu zatím neplánuji. Pouze pokud bychom dostali nějakou nabídku na zájezd, tak bychom znovu tančili, jinak nejspíš ne. Nejsem si totiž jistý, zda bychom dokázali sokolovnu znovu naplnit a byl bych nerad, kdyby na osmdesát tanečníků koukalo osmdesát diváků.
 
 **Nějaké další představení ale plánujete…**
 
@@ -62,29 +62,29 @@ Ano, plány na nové představení už mám. Chtěl bych uvést ve spolupráci s
 
 **Učíte žáky od pěti do osmnácti let, jak vlastně vypadají vaše hodiny?**
 
-Letos učím celkem šedesát dva dětí, takže výuka musí být rozdělena do několika stupňů. Ti nejmenší od pěti do sedmi let chodí jednou týdně do taneční přípravky. Zde se učí pracovat se svým tělíčkem, aby věděli, jak je udržet, jak chodit přes špičky a hlavně, aby se naučili orientovat v prostoru a vzájemně si nepřekáželi. Víc za jednu hodinu stihnout ani nemůžeme. Starší žáci už jsou pak rozděleni podle jednotlivých ročníků a tančí dvakrát týdně. Učí se základy taneční techniky a jevištního projevu, což je takový univerzální základ pro všechno ostatní. A v druhé části školního roku připravujeme choreografie a vystoupení. V hodinách reagujeme na aktuální témata, když v televizi dávali pořad Stardance, zkoušeli jsme základy společenských tanců. Ty probíráme i s těmi, co začínají chodit do tanečních. Občas tančíme moderní tance, občas použijeme lidovky. Vždy je ale vše položené na základech klasické taneční techniky.  
+Letos učím celkem šedesát dva dětí, takže výuka musí být rozdělena do několika stupňů. Ti nejmenší od pěti do sedmi let chodí jednou týdně do taneční přípravky. Zde se učí pracovat se svým tělíčkem, aby věděli, jak je udržet, jak chodit přes špičky a hlavně, aby se naučili orientovat v prostoru a vzájemně si nepřekáželi. Víc za jednu hodinu stihnout ani nemůžeme. Starší žáci už jsou pak rozděleni podle jednotlivých ročníků a tančí dvakrát týdně. Učí se základy taneční techniky a jevištního projevu, což je takový univerzální základ pro všechno ostatní. A v druhé části školního roku připravujeme choreografie a vystoupení. V hodinách reagujeme na aktuální témata, když v televizi dávali pořad Stardance, zkoušeli jsme základy společenských tanců. Ty probíráme i s těmi, co začínají chodit do tanečních. Občas tančíme moderní tance, občas použijeme lidovky. Vždy je ale vše položené na základech klasické taneční techniky.
 
 **Když vymýšlíte choreografie vašich představení, spoluvytváříte je se žáky, inspirujete se navzájem?**
 
-Ve většině případů to bývá tak, že s nápady přicházím já. Snažím se tance vymýšlet tak, aby byly pro žáky spíš těžší a měli se stále kam posunovat a růst. Ale ovlivňujeme se i navzájem, měl jsem třídu, kdy žačky opravdu pusu nezavřely, tak jsme společně vymysleli pásmo lidových tanců „drbny“. Holky to vzaly s humorem a mnoho rodičů nám pak potvrdilo, že jsme to vystihli naprosto přesně. 
+Ve většině případů to bývá tak, že s nápady přicházím já. Snažím se tance vymýšlet tak, aby byly pro žáky spíš těžší a měli se stále kam posunovat a růst. Ale ovlivňujeme se i navzájem, měl jsem třídu, kdy žačky opravdu pusu nezavřely, tak jsme společně vymysleli pásmo lidových tanců „drbny“. Holky to vzaly s humorem a mnoho rodičů nám pak potvrdilo, že jsme to vystihli naprosto přesně.
 
 **V současné době učíte šedesát dva žáků. Berete všechny, kteří se přihlásí, nebo si vybíráte?**
 
-Dosud jsme brali všechny přihlášené a jediné omezení jsme měli od Jihomoravského kraje jako našeho zřizovatele, který nám povolil jen určitý počet tanečníků. Ti, kteří se do tohoto počtu nevešli, nastoupili do výuky pod hlavičkou Spolku na podporu ZUŠ Boskovice. Výuka probíhala stejně, zatančili si stejně, jen nedostali závěrečné osvědčení o absolvování ZUŠ, což v přípravce pro malé děti, nebo pro ty, kteří si tanec chtějí jen vyzkoušet, nevadí. Letos to ale bude jinak. Poprvé chceme dělat přijímací talentové zkoušky a zjistit, jestli naši uchazeči mají cit pro tanec a cítí rytmus. 
+Dosud jsme brali všechny přihlášené a jediné omezení jsme měli od Jihomoravského kraje jako našeho zřizovatele, který nám povolil jen určitý počet tanečníků. Ti, kteří se do tohoto počtu nevešli, nastoupili do výuky pod hlavičkou Spolku na podporu ZUŠ Boskovice. Výuka probíhala stejně, zatančili si stejně, jen nedostali závěrečné osvědčení o absolvování ZUŠ, což v přípravce pro malé děti, nebo pro ty, kteří si tanec chtějí jen vyzkoušet, nevadí. Letos to ale bude jinak. Poprvé chceme dělat přijímací talentové zkoušky a zjistit, jestli naši uchazeči mají cit pro tanec a cítí rytmus.
 
 **Je z vašeho pohledu zájem o tanec a pohyb mezi dětmi?**
 
-Podle počtu přihlášených žaček můžu říct, že ano. Dnes je velká nabídka ve všem, i ve sportu a pohybových aktivitách a každý si může vybrat, co by chtěl dělat. U tance je nevýhoda to, že déle trvá, než se tělo naučí hýbat takovým způsobem, že na to nemusíte myslet. První rok tance je vždy investice do dřiny, kterou nevidíte, což se žákům těžko vysvětluje. 
+Podle počtu přihlášených žaček můžu říct, že ano. Dnes je velká nabídka ve všem, i ve sportu a pohybových aktivitách a každý si může vybrat, co by chtěl dělat. U tance je nevýhoda to, že déle trvá, než se tělo naučí hýbat takovým způsobem, že na to nemusíte myslet. První rok tance je vždy investice do dřiny, kterou nevidíte, což se žákům těžko vysvětluje.
 
 **Co by měl tanec vašim žákům přinést?**
 
-Jsem přesvědčen, že to, co se při tanci naučí, využijí v budoucím životě mnohokrát. I když se nebude jednat jen o tanec. Při představeních musí často spolupracovat, což se hodí, protože budou zvyklí pracovat v týmu. Vědí, že je nutné pracovat pořádně, protože to ostatním jinak kazí. A jistě je tanec připraví pro budoucí život i v tom, že když zjistí, že něco nejde, musí to zkoušet a nesmí se nechat rychle odradit. A z pružnosti svého těla budou čerpat ještě dlouho. Je jasné, že z tancování totiž budou vždy šikovnější než z běhání po hřišti. 
+Jsem přesvědčen, že to, co se při tanci naučí, využijí v budoucím životě mnohokrát. I když se nebude jednat jen o tanec. Při představeních musí často spolupracovat, což se hodí, protože budou zvyklí pracovat v týmu. Vědí, že je nutné pracovat pořádně, protože to ostatním jinak kazí. A jistě je tanec připraví pro budoucí život i v tom, že když zjistí, že něco nejde, musí to zkoušet a nesmí se nechat rychle odradit. A z pružnosti svého těla budou čerpat ještě dlouho. Je jasné, že z tancování totiž budou vždy šikovnější než z běhání po hřišti.
 
 {% photo src="https://i.ohlasy.info/i/we79n0e.jpg" author="Tomáš Znamenáček" /%}
 
 **Může se naučit tančit každý? Je při tanci důležitější píle, nebo talent?**
 
-Já tvrdím, že s polkou a valčíkem se narodí opravdu každý. Podle mě to tak je. A co se týče talentu, ten je hodně vítán, ale jako všude je důležitější práce. Talent je tak deset procent a zbytek dřina. Samozřejmě také vždy záleží, jak má člověk uzpůsobené tělo. 
+Já tvrdím, že s polkou a valčíkem se narodí opravdu každý. Podle mě to tak je. A co se týče talentu, ten je hodně vítán, ale jako všude je důležitější práce. Talent je tak deset procent a zbytek dřina. Samozřejmě také vždy záleží, jak má člověk uzpůsobené tělo.
 
 **Co pro vás představuje úspěch ve vaší práci? Tanečníci na konzervatoři, skvěle odtančená představení, nové zajímavé hry?**
 
@@ -92,7 +92,7 @@ Já tvrdím, že s polkou a valčíkem se narodí opravdu každý. Podle mě to 
 
 **Co by měl vědět člověk, který se rozhodne tančit?**
 
-Hlavně se bude muset smířit s tím, že tanec bolí. Že bude muset tvrdě a pilně trénovat, a když povolí, vždy se mu to vrátí ve zlém. Ideálně by měl mít pohybovou paměť, která se dá hezky vycvičit. A určitě by měl mít odhodlání, protože už třeba na konzervatoři bude mnohokrát zklamán. A šlachy se natáhnou, ale pokud se zasekne hlava, nikdo s tím už nic neudělá.  
+Hlavně se bude muset smířit s tím, že tanec bolí. Že bude muset tvrdě a pilně trénovat, a když povolí, vždy se mu to vrátí ve zlém. Ideálně by měl mít pohybovou paměť, která se dá hezky vycvičit. A určitě by měl mít odhodlání, protože už třeba na konzervatoři bude mnohokrát zklamán. A šlachy se natáhnou, ale pokud se zasekne hlava, nikdo s tím už nic neudělá.
 
 **Jaký máte názor na taneční? Jde o přežitek, nebo nutnost?**
 

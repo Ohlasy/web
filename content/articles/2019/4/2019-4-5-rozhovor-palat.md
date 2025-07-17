@@ -1,12 +1,12 @@
 ---
 title: „Hosté se změnili úplně ve všem.“
 cover-photo: https://i.ohlasy.info/i/ue9tsw8.jpg
-author: Martina Vašková
+author: Martina Žižková
 category: rozhovory
 tags: podnikání kultura
 ---
 
-*Rozhovor se Zdeňkem Palátem, který provozuje Turbínu. Hospodu, kde se konají nejen hudební akce a atmosférou se blíží klubovému prostředí. Přispívají k tomu i prostory, ve kterých sídlí – bývalá městská elektrárna postavená podle návrhu Dušana Jurkoviče.*
+_Rozhovor se Zdeňkem Palátem, který provozuje Turbínu. Hospodu, kde se konají nejen hudební akce a atmosférou se blíží klubovému prostředí. Přispívají k tomu i prostory, ve kterých sídlí – bývalá městská elektrárna postavená podle návrhu Dušana Jurkoviče._
 
 {% photo src="https://i.ohlasy.info/i/ue9tsw8.jpg" author="Martina Vašková" /%}
 
@@ -80,7 +80,7 @@ Z tohoto zákona jsem nadšený, je to výborný. Zákaz kouření jsem přivít
 
 **Práci hospodského děláte dlouho, co vás na ní baví?**
 
-Všechno. Vše, co jsem dělal, jsem dělal rád. Nevím, jestli je to ve mně, nebo jsem tak byl vychovaný, ale když něco dělám, dělám to tak, abych když se někdo zeptá, kdo to dělal, mohl říct, že já.  
+Všechno. Vše, co jsem dělal, jsem dělal rád. Nevím, jestli je to ve mně, nebo jsem tak byl vychovaný, ale když něco dělám, dělám to tak, abych když se někdo zeptá, kdo to dělal, mohl říct, že já.
 
 Ještě třeba před dvěma roky jsem si říkal, že si otevřu novou hospodu v Brně a vše si tam odstěhuju. Ale místo, které jsem si tam vybral, mě nakonec úplně neoslovilo. Tak jsem rád, že jsem to vzdal. Mně dnes vyhovuje to, co mám. Nerad někoho řídím a sekýruju, to jsem musel dělat celý život.
 

@@ -1,17 +1,17 @@
 ---
 title: „Největší radost je, pokud vrátím někoho zpět do života.“
 cover-photo: https://i.ohlasy.info/i/f1dc4e91.jpg
-author: Martina Vašková
+author: Martina Žižková
 category: rozhovory
 ---
 
-*Rozhovor s Emilem Kyklošem, vedoucím lékařem boskovické záchranné služby. Povídali jsme si o nové výjezdové základně boskovických záchranářů v areálu nemocnice, o chystaných novinkách na Blanensku nebo o tom, které jejich výjezdy patří k těm nejčastějším i nejtěžším.*
+_Rozhovor s Emilem Kyklošem, vedoucím lékařem boskovické záchranné služby. Povídali jsme si o nové výjezdové základně boskovických záchranářů v areálu nemocnice, o chystaných novinkách na Blanensku nebo o tom, které jejich výjezdy patří k těm nejčastějším i nejtěžším._
 
 {% photo src="https://i.ohlasy.info/i/f1dc4e91.jpg" author="Martina Vašková" width=6240 height=4160 /%}
 
 **Jaký je váš dnešní pracovní den? Máte v práci klid, nebo už máte za sebou nějaký výjezd?**
 
-Díky tomu, že jste se hezky trefila do dne, kdy mám dovolenou, mám úplný pracovní klid. Ale jinak já i mí kolegové býváme v práci vždy dvanáct hodin. 
+Díky tomu, že jste se hezky trefila do dne, kdy mám dovolenou, mám úplný pracovní klid. Ale jinak já i mí kolegové býváme v práci vždy dvanáct hodin.
 
 **A jaký tedy bývá váš běžný pracovní den v boskovické výjezdové základně? Co vás během těch dvanácti hodin čeká?**
 
@@ -57,7 +57,7 @@ Výjezdy mívám zde a když je potřeba, sloužím i v Blansku. Ve Velkých Opa
 
 **Když se vrátíme na úplný začátek, jak to vlastně funguje, když někdo zavolá na číslo 155, tedy na rychlou záchrannou službu? Co se pak děje?**
 
-Když zavoláte na linku 155, dovoláte se na krajské operační středisko v Brně. Zde je náš dispečink, který vyhodnotí naléhavost vašeho hovoru. A je několik možností, co se poté stane. Často vám jen správně poradí, co je v dané chvíli nejlepší udělat, případně můžou vyslat pouze převozovou sanitku. Ale pokud dispečer nazná, že je potřeba poslat záchranku, zjišťuje kam a z jakého důvodu. Klade velice konkrétní dotazy, které mají své logické pořadí a svou důležitost. Na začátek operátor vždy zjišťuje adresu a zatímco se ptá na další věci, už může posádce vyslat výjezd s adresou a s volajícím dořešit vše potřebné. Operační středisko vyhodnocuje naléhavost zdravotního stavu pacienta a podle ní vysílá jednotlivé posádky. Pokud je naléhavost nejvyšší, což znamená zástava krevního oběhu nebo ohrožení životních funkcí, vyšle operační středisko nejbližší posádku, a také posádku s lékařem. 
+Když zavoláte na linku 155, dovoláte se na krajské operační středisko v Brně. Zde je náš dispečink, který vyhodnotí naléhavost vašeho hovoru. A je několik možností, co se poté stane. Často vám jen správně poradí, co je v dané chvíli nejlepší udělat, případně můžou vyslat pouze převozovou sanitku. Ale pokud dispečer nazná, že je potřeba poslat záchranku, zjišťuje kam a z jakého důvodu. Klade velice konkrétní dotazy, které mají své logické pořadí a svou důležitost. Na začátek operátor vždy zjišťuje adresu a zatímco se ptá na další věci, už může posádce vyslat výjezd s adresou a s volajícím dořešit vše potřebné. Operační středisko vyhodnocuje naléhavost zdravotního stavu pacienta a podle ní vysílá jednotlivé posádky. Pokud je naléhavost nejvyšší, což znamená zástava krevního oběhu nebo ohrožení životních funkcí, vyšle operační středisko nejbližší posádku, a také posádku s lékařem.
 
 **A v tu chvíli se dozvídáte, že máte vyrazit.**
 
@@ -65,15 +65,15 @@ Když nás má dispečink vyslat na místo, začne nám to zde blikat a zvonit a
 
 **A stíháte to? Jsou dvě minuty dostatečné?**
 
-Dvě minuty jsou dané zákonem, vyjet do té doby opravdu musíme a je to hlídáno. Proto třeba nemůžeme být v té posilovně. My jen seběhneme do auta a vyrážíme. Když to ale z nějakého důvodu trvá nebo člověk na místě má pocit, že dlouho nejdeme, nikdy to není proto, že by se nám nechtělo nebo že bychom dělali něco jiného. Má to většinou jiné důvody, že je například nejbližší posádka vyjetá a musí dojet posádka ze vzdálenější základny. To se bohužel samo sebou stát může. 
+Dvě minuty jsou dané zákonem, vyjet do té doby opravdu musíme a je to hlídáno. Proto třeba nemůžeme být v té posilovně. My jen seběhneme do auta a vyrážíme. Když to ale z nějakého důvodu trvá nebo člověk na místě má pocit, že dlouho nejdeme, nikdy to není proto, že by se nám nechtělo nebo že bychom dělali něco jiného. Má to většinou jiné důvody, že je například nejbližší posádka vyjetá a musí dojet posádka ze vzdálenější základny. To se bohužel samo sebou stát může.
 
-Jakmile přijedeme na místo, v tu chvíli začíná naše práce, zhodnocujeme stav pacienta, zda je kritický, či nikoliv. 
+Jakmile přijedeme na místo, v tu chvíli začíná naše práce, zhodnocujeme stav pacienta, zda je kritický, či nikoliv.
 
 **A pokud se jedná o kritického pacienta, potom postupujete jak?**
 
-U toho kritického máme přesné postupy, co dělat. Pokud nemá zastavený krevní oběh, vyšetřujeme podle postupnosti A-B-C-D-E. Kde A jsou dýchací cesty, B je dýchání, C krevní oběh a dále. Tohle má velmi dobrý smysl v tom, že hledáme a řešíme to, co zabíjí nejdřív. Když si představíte někoho, kdo se bude dusit a zároveň má krvácení z prstu, tak ho nezabije to krvácení, ale to, že se udusí. Řešíme tedy to, co pacienta ohrožuje na životě, snažíme se jej stabilizovat a co nejdřív transportovat do zdravotnického zařízení. Toto jsou výjezdy, kde opravdu jde o čas. 
+U toho kritického máme přesné postupy, co dělat. Pokud nemá zastavený krevní oběh, vyšetřujeme podle postupnosti A-B-C-D-E. Kde A jsou dýchací cesty, B je dýchání, C krevní oběh a dále. Tohle má velmi dobrý smysl v tom, že hledáme a řešíme to, co zabíjí nejdřív. Když si představíte někoho, kdo se bude dusit a zároveň má krvácení z prstu, tak ho nezabije to krvácení, ale to, že se udusí. Řešíme tedy to, co pacienta ohrožuje na životě, snažíme se jej stabilizovat a co nejdřív transportovat do zdravotnického zařízení. Toto jsou výjezdy, kde opravdu jde o čas.
 
-Náš systém pokročil ještě dále, protože když dojde k zástavě krevního oběhu a příčinou je takzvaná fibrilace srdečních komor, u které je velmi důležité podat co nejrychleji defibrilační výboj, existují automatické externí defibrilátory, které mají v své výbavě hasiči i policisté. A jelikož pokrytí policistů i hasičů je četnější než u záchranky, dispečink je může vyslat na místo taky. Oni jsou zároveň trénovaní k základní resuscitaci a můžou velice výrazně pomoct. Zdravotnické pokrytí je v našem kraji opravdu široké a je ošetřeno dobře. 
+Náš systém pokročil ještě dále, protože když dojde k zástavě krevního oběhu a příčinou je takzvaná fibrilace srdečních komor, u které je velmi důležité podat co nejrychleji defibrilační výboj, existují automatické externí defibrilátory, které mají v své výbavě hasiči i policisté. A jelikož pokrytí policistů i hasičů je četnější než u záchranky, dispečink je může vyslat na místo taky. Oni jsou zároveň trénovaní k základní resuscitaci a můžou velice výrazně pomoct. Zdravotnické pokrytí je v našem kraji opravdu široké a je ošetřeno dobře.
 
 A pokud je naléhavost nižší, je vyslána nejbližší adekvátní posádka, operátor se na základě zjištěných informací rozhoduje, jestli vyšle posádku s lékařem, nebo bez něj. U nekritických pacientů nejde o minuty, času na vyšetření máme víc a pokud převoz do nemocnice není nutný, můžeme tyto pacienty ponechat i doma.
 

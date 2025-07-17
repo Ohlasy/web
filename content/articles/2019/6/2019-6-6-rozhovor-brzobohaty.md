@@ -2,19 +2,19 @@
 title: „Plánů máme hodně, ale vše je odvislé od lidí, kteří se k nám přidají a jaký program budou chtít tvořit.“
 perex: Rozhovor s Oldřichem Brzobohatým, členem skupiny, která v panském dvoře startuje nové kulturní a komunitní centrum.
 cover-photo: https://i.ohlasy.info/i/s6lhret.jpg
-author: Martina Vašková
+author: Martina Žižková
 category: rozhovory
 tags: kultura
 date: 2019-6-6 12:00:45
 ---
 
-*Rozhovor s Oldřichem Brzobohatým, jedním ze členů skupiny, která připravuje v panském dvoře start Prostoru – nového kulturního a komunitního centra s kavárnou. Ptali jsme se, co vše zde má vzniknout a jak má centrum fungovat. Je třeba dodat, že Ohlasy se na vzniku Prostoru částečně personálně podílejí a měly by přispívat i do programu.*
+_Rozhovor s Oldřichem Brzobohatým, jedním ze členů skupiny, která připravuje v panském dvoře start Prostoru – nového kulturního a komunitního centra s kavárnou. Ptali jsme se, co vše zde má vzniknout a jak má centrum fungovat. Je třeba dodat, že Ohlasy se na vzniku Prostoru částečně personálně podílejí a měly by přispívat i do programu._
 
 {% photo src="https://i.ohlasy.info/i/s6lhret.jpg" author="Tomáš Znamenáček" /%}
 
 **V Boskovicích na panském dvoře vzniká nové kulturní a komunitní centrum s názvem Prostor. Můžete lidem podstatu Prostoru přiblížit?**
 
-Prostor pro nás vystihují tři zásadní slova: kafe, kultura a komunita. Kafe jako kavárna v panském dvoře, kam může přijít kdykoliv kdokoliv. Kultura proto, že se v tomto místě budou dít kulturní a společenské akce ve smyslu setkávání se. Chceme, aby vznikl prostor pro cokoliv, co může člověka jakýmkoliv způsobem kultivovat. Počítáme s tím, že podstatu Prostoru budou tvořit nejen například koncerty a výstavy, ale třeba i setkávání rodičů s dětmi, besedy na nejrůznější témata a mnoho dalších. Naším cílem je, aby Prostor byl žánrově různorodý. Což je dáno jednak lidmi, kteří jej začali vytvářet, a také tím, že jsme v menším městě. Kdybychom se totiž zaměřili jen na jeden žánr a jiný vyřadili, Prostor by nemusel být provozuschopný. Vnímám to tak, že toto místo musí být otevřené a mít širší záběr. A s tím vším souvisí i slovo komunita. Protože naším cílem není otevřít si v několika lidech komunitní centrum, a pak jej vlastními silami plnit obsahem. To opravdu ne. 
+Prostor pro nás vystihují tři zásadní slova: kafe, kultura a komunita. Kafe jako kavárna v panském dvoře, kam může přijít kdykoliv kdokoliv. Kultura proto, že se v tomto místě budou dít kulturní a společenské akce ve smyslu setkávání se. Chceme, aby vznikl prostor pro cokoliv, co může člověka jakýmkoliv způsobem kultivovat. Počítáme s tím, že podstatu Prostoru budou tvořit nejen například koncerty a výstavy, ale třeba i setkávání rodičů s dětmi, besedy na nejrůznější témata a mnoho dalších. Naším cílem je, aby Prostor byl žánrově různorodý. Což je dáno jednak lidmi, kteří jej začali vytvářet, a také tím, že jsme v menším městě. Kdybychom se totiž zaměřili jen na jeden žánr a jiný vyřadili, Prostor by nemusel být provozuschopný. Vnímám to tak, že toto místo musí být otevřené a mít širší záběr. A s tím vším souvisí i slovo komunita. Protože naším cílem není otevřít si v několika lidech komunitní centrum, a pak jej vlastními silami plnit obsahem. To opravdu ne.
 
 **Co je tedy vaším cílem z hlediska komunity?**
 
@@ -26,19 +26,19 @@ Aby nás bylo co nejvíc. Čím víc, tím líp. Prostor rozjíždíme v devíti
 
 **Co s sebou členství ve vašem spolku nese za výhody a závazky?**
 
-Členové platí příspěvek dvě stě korun za měsíc, z čeho budeme částečně pokrývat provoz centra. Každý z členů pak může přijít a říct, že například dělá akce s dětmi, chce si tedy jednou měsíčně zabrat celý prostor i se zázemím. Náš prostor totiž není jen kavárna v úžasném prostředí panského dvora, ale i plně vybavený sál se zázemím pro přibližně devadesát lidí, což je právě místo, které podle nás Boskovicím chybělo. Sál je vhodný na cokoliv od divadel, workshopů, recitálů, diskuzí až po oslavu křtin, o což nás aktuálně někdo požádal.  Anebo může během dne sloužit jako klidnější místo pro práci na počítači nebo spočinutí v centru města. 
+Členové platí příspěvek dvě stě korun za měsíc, z čeho budeme částečně pokrývat provoz centra. Každý z členů pak může přijít a říct, že například dělá akce s dětmi, chce si tedy jednou měsíčně zabrat celý prostor i se zázemím. Náš prostor totiž není jen kavárna v úžasném prostředí panského dvora, ale i plně vybavený sál se zázemím pro přibližně devadesát lidí, což je právě místo, které podle nás Boskovicím chybělo. Sál je vhodný na cokoliv od divadel, workshopů, recitálů, diskuzí až po oslavu křtin, o což nás aktuálně někdo požádal. Anebo může během dne sloužit jako klidnější místo pro práci na počítači nebo spočinutí v centru města.
 
 **Takže já budu platit dvě stovky za měsíc a na oplátku můžu kdykoliv váš prostor využít pro například uspořádání besedy nebo pro tanečky s holčičkami?**
 
-Ano. Samozřejmě záleží na vzájemné domluvě, ale je to tak.  
+Ano. Samozřejmě záleží na vzájemné domluvě, ale je to tak.
 
 **A nečekáte za poměrně malou měsíční částku přetlak zájemců?**
 
-Myslím, že vyšší částkou bychom zájemce třeba z řad studentů mohli odradit. A pak taky úplně nepředpokládáme, že se tady sejde například dvacet velmi aktivních lidí, kteří nám udělají měsíční program a my budeme mít plno. I když to by bylo splnění naší vize a bylo by to skvělé. 
+Myslím, že vyšší částkou bychom zájemce třeba z řad studentů mohli odradit. A pak taky úplně nepředpokládáme, že se tady sejde například dvacet velmi aktivních lidí, kteří nám udělají měsíční program a my budeme mít plno. I když to by bylo splnění naší vize a bylo by to skvělé.
 
 **Na webových stránkách Prostoru máte napsáno, že vítáte aktivní lidi s chutí a nápadem. Co když ještě nevím, jaký budu mít nápad, a zda jej vůbec budu mít. Ale chci se k vám stejně přidat.**
 
-I na tyto lidi jsme mysleli. Pokud budou chtít Prostor jen podpořit, protože jim to celé dává smysl, mohou se stát jen podporovateli a výši příspěvku si sami zvolit. Ale doufám, že když třeba přijde mladý člověk a uvidí, jak to tam funguje, zažije pár akcí, tak to může danou osobu nakopnout a posunout dál, i když ho to dosud ani nenapadlo. My prostě máme místo a zázemí, kde se dá dělat ledasco, ne tedy úplně cokoliv, a dost často se stává, že už jen to místo samé může člověku pomoct rozvíjet nápady. 
+I na tyto lidi jsme mysleli. Pokud budou chtít Prostor jen podpořit, protože jim to celé dává smysl, mohou se stát jen podporovateli a výši příspěvku si sami zvolit. Ale doufám, že když třeba přijde mladý člověk a uvidí, jak to tam funguje, zažije pár akcí, tak to může danou osobu nakopnout a posunout dál, i když ho to dosud ani nenapadlo. My prostě máme místo a zázemí, kde se dá dělat ledasco, ne tedy úplně cokoliv, a dost často se stává, že už jen to místo samé může člověku pomoct rozvíjet nápady.
 
 **Říkáte ne úplně cokoliv. Může se stát, že byste nějakou akci nepovolili?**
 
@@ -56,7 +56,7 @@ Určitě vyloženě ne. V jednorázových akcích počítáme spíš s aktivitou
 
 **Plánujete zde spíš akce večerní, nebo ty v průběhu dne?**
 
-Obojí. Přes den určitě lidé využijí místo pro přednášky nebo jako neformální místo setkávání rodičů s dětmi. Panský dvůr je totiž největší dětský koutek v Boskovicích. Plánů máme hodně, ale vše je odvislé od lidí, kteří se k nám přidají a jaký program budou chtít tvořit. 
+Obojí. Přes den určitě lidé využijí místo pro přednášky nebo jako neformální místo setkávání rodičů s dětmi. Panský dvůr je totiž největší dětský koutek v Boskovicích. Plánů máme hodně, ale vše je odvislé od lidí, kteří se k nám přidají a jaký program budou chtít tvořit.
 
 **Pak budete dělat nějaký měsíční program akcí?**
 
@@ -68,7 +68,7 @@ Lepší místo v Boskovicích není. Panský dvůr je v epicentru dění, a zár
 
 **Boskovice jsou vnímány jako kulturní město s poměrně pestrou nabídkou akcí. Vy chcete tuto nabídku doplňovat, nebo jak se to dá vlastně chápat?**
 
-V rámci místní kultury Prostor vnímáme jako alternativu. Určitě to není žádná konkurence k čemukoliv. Nejsme Kulturní zařízení města Boskovice, která se podle mě skvěle starají o kulturu. Nejsme Turbína, která svůj program zaměřuje vesměs na punk a dělá to taky dobře. Můžeme říct, že bychom byli rádi všechno ostatní, čeho se nám tu zdálo pomálu. Jsme prostě takový spodní proud, který si plyne vedle toho hlavního a mělo by to tak být v pořádku. Můžeme fungovat vedle oficiální kultury a nemusíme si konkurovat. Naopak. Ideální by bylo vést spolu dialog a být v kontaktu. Pokud bych to přirovnal třeba k Brnu, to má svoje příspěvkové organizace tvořící kulturu, ale má zároveň i dotační program pro hudební kluby a alternativní místa, kde se lidi potkávají a něco společně tvoří. A je to vnímané jako v pořádku. My rozhodně nehodláme jít proti ničemu, co zde už funguje. 
+V rámci místní kultury Prostor vnímáme jako alternativu. Určitě to není žádná konkurence k čemukoliv. Nejsme Kulturní zařízení města Boskovice, která se podle mě skvěle starají o kulturu. Nejsme Turbína, která svůj program zaměřuje vesměs na punk a dělá to taky dobře. Můžeme říct, že bychom byli rádi všechno ostatní, čeho se nám tu zdálo pomálu. Jsme prostě takový spodní proud, který si plyne vedle toho hlavního a mělo by to tak být v pořádku. Můžeme fungovat vedle oficiální kultury a nemusíme si konkurovat. Naopak. Ideální by bylo vést spolu dialog a být v kontaktu. Pokud bych to přirovnal třeba k Brnu, to má svoje příspěvkové organizace tvořící kulturu, ale má zároveň i dotační program pro hudební kluby a alternativní místa, kde se lidi potkávají a něco společně tvoří. A je to vnímané jako v pořádku. My rozhodně nehodláme jít proti ničemu, co zde už funguje.
 
 **Navazujete nějakým způsobem na občanské sdružení se stejným jménem Prostor, které zde kdysi otvíralo Sklepy?**
 
@@ -76,7 +76,7 @@ To nás původně ani nenapadlo. Ale když padlo jméno Prostor, na němž jsme 
 
 **Jakým způsobem chcete Prostor financovat?**
 
-Projíždíme dotační výzvy na komunitní centra. U většiny výzev už lidé musí prokázat nějakou předchozí činnost, ale protože našemu spolku předcházel Unijazz Brno, pokusíme se dotace získat. Počítáme s tím, že první rok bude nejtěžší. Určitě nám pomohou klubové příspěvky, ale ty provoz nezaplatí. Prostor by měl žít primárně přes den z věcí, které budou finančně a produkčně nenáročné, a akce typu koncerty a divadla by měly být jen jednou za čas jako hlavní bod programu. Ale vše se ukáže až časem. A také doufáme, že budeme spolupracovat s městem Boskovice, bez vzájemné spolupráce bychom vlastně ani nefungovat nemohli. 
+Projíždíme dotační výzvy na komunitní centra. U většiny výzev už lidé musí prokázat nějakou předchozí činnost, ale protože našemu spolku předcházel Unijazz Brno, pokusíme se dotace získat. Počítáme s tím, že první rok bude nejtěžší. Určitě nám pomohou klubové příspěvky, ale ty provoz nezaplatí. Prostor by měl žít primárně přes den z věcí, které budou finančně a produkčně nenáročné, a akce typu koncerty a divadla by měly být jen jednou za čas jako hlavní bod programu. Ale vše se ukáže až časem. A také doufáme, že budeme spolupracovat s městem Boskovice, bez vzájemné spolupráce bychom vlastně ani nefungovat nemohli.
 
 **Kde jste se pro myšlenku komunitního centra inspirovali?**
 

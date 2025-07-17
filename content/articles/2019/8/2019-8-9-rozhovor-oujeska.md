@@ -2,12 +2,12 @@
 title: „Chtěli jsme školu na bázi oboustranné důvěry.“
 perex: Rozhovor s Monikou Oujeskou, ředitelkou Naší školy ve Velenově. S činorodou maminkou pěti dětí jsme si povídaly o tom, jak funguje škola, kde se nezvoní ani neznámkuje, a jak se dá skloubit zaměstnání s péčí o více dětí.
 cover-photo: https://i.ohlasy.info/i/53hvjlv.jpg
-author: Martina Vašková
+author: Martina Žižková
 category: rozhovory
 tags: vzdělávání
 ---
 
-*Rozhovor s Monikou Oujeskou, ředitelkou Naší školy ve Velenově. Školu, která počítá se čtyřiadvaceti žáky, se místním podařilo obnovit přesně čtyřicet let po jejím uzavření. S činorodou maminkou pěti dětí jsme si povídaly o tom, jak funguje škola, kde se nezvoní ani neznámkuje, a jak se dá skloubit zaměstnání s péčí o více dětí.*
+_Rozhovor s Monikou Oujeskou, ředitelkou Naší školy ve Velenově. Školu, která počítá se čtyřiadvaceti žáky, se místním podařilo obnovit přesně čtyřicet let po jejím uzavření. S činorodou maminkou pěti dětí jsme si povídaly o tom, jak funguje škola, kde se nezvoní ani neznámkuje, a jak se dá skloubit zaměstnání s péčí o více dětí._
 
 {% photo src="https://i.ohlasy.info/i/53hvjlv.jpg" author="Martina Vašková" /%}
 
@@ -65,7 +65,7 @@ Přijde k nám sedm prvňáčků, což je absolutní strop. Místa jsme výhradn
 
 **Říkala jsi, že k vám nastoupí Boskovičtí. Proč si myslíš, že v dnešní době rodiče, a to nejen ti Boskovičtí, vyhledávají alternativy ke klasickým základním školám?**
 
-Důvodů asi bude víc. Rodiče mohou dnes vybírat. Chtějí pro své dítě to nejlepší.  A pokud takto přemýšlí, budou pak logicky volit mezi různými druhy škol, ať už v jiných městech nebo s jiným zaměřením. Nebo se mohou poohlédnout, jaká vyučující bude zrovna učit mého prvňáka, jak to která malotřídka dělá nebo jen přemýšlet nad tím, že i malý kolektiv může být velká devíza. Pokud se jim nelíbí prostředí, kdy za každé zapomenutí dostane dítě puntík, za pět třídní důtku a za patnáct důtku ředitele, což se dnes běžně děje, prostě musí volit jinak. Já to ale nehodnotím ani nesoudím, chápu, že se ve třídách snoubí hodně dětí a asi dost problémů, ale věřím tomu, že i na velké škole jdou dělat krásné věci.
+Důvodů asi bude víc. Rodiče mohou dnes vybírat. Chtějí pro své dítě to nejlepší. A pokud takto přemýšlí, budou pak logicky volit mezi různými druhy škol, ať už v jiných městech nebo s jiným zaměřením. Nebo se mohou poohlédnout, jaká vyučující bude zrovna učit mého prvňáka, jak to která malotřídka dělá nebo jen přemýšlet nad tím, že i malý kolektiv může být velká devíza. Pokud se jim nelíbí prostředí, kdy za každé zapomenutí dostane dítě puntík, za pět třídní důtku a za patnáct důtku ředitele, což se dnes běžně děje, prostě musí volit jinak. Já to ale nehodnotím ani nesoudím, chápu, že se ve třídách snoubí hodně dětí a asi dost problémů, ale věřím tomu, že i na velké škole jdou dělat krásné věci.
 
 **Takže věříš, že i ve velkých školách je změna přístupu ke vzdělání možná? Jakým způsobem by se to mohlo stát?**
 
@@ -85,7 +85,7 @@ Aktuálně u nás vzniká venkovní učebna, protože jsme jako jeden ze tří p
 
 **Vím, že jsi velmi aktivní člověk, kromě školy a dětí jste měly se sestrou na starosti i Zámecké hemžení, aktivně jsi působila v boskovickém mateřském centru. Můžeš shrnout, co všechno jsi vlastně dělala?**
 
-Založila jsem boskovický dívčí skautský oddíl Minetaka. Můj manžel Marek založil chlapecký oddíl Nibowaka ještě osm let přede mnou. Byl mi v tom velkým vzorem.Oddíl jem vedla naplno víc než dvanáct let, bylo to takové moje první dítě. Během toho se mi narodily moje dvě první holčičky, takže jsem jezdívala na tábory i s nimi. Potom jsem spolupracovala s mateřským centrem, kde jsem vedla hudebně pohybové aktivity pro děti od dvou let a přidala jsem k tomu kroužek flétniček. Protože jsem věděla, že bych chtěla trošku víc, než mi mateřské centrum umožňovalo, založila jsem hudební školičku, kterou prošlo okolo stovky dětí. Rodiče samozřejmě byli celého tohoto hraní součástí, děti pak později ke mně přecházely hrát na příčné flétny.  A do toho jsme se sestrou pořádaly Zámecké hemžení, charitativní akci právě pro podporu mateřského centra. Protože já teď vedu velenovskou školu a sestra dětskou skupinu v Boskovicích, Zámecké hemžení jsme na čas přerušily. Ale myslím, že se k němu zase vrátíme. Taky jsme založili klub rodinného skautingu a každoročně pořádáme skautský tábor pro rodiny s dětmi.
+Založila jsem boskovický dívčí skautský oddíl Minetaka. Můj manžel Marek založil chlapecký oddíl Nibowaka ještě osm let přede mnou. Byl mi v tom velkým vzorem.Oddíl jem vedla naplno víc než dvanáct let, bylo to takové moje první dítě. Během toho se mi narodily moje dvě první holčičky, takže jsem jezdívala na tábory i s nimi. Potom jsem spolupracovala s mateřským centrem, kde jsem vedla hudebně pohybové aktivity pro děti od dvou let a přidala jsem k tomu kroužek flétniček. Protože jsem věděla, že bych chtěla trošku víc, než mi mateřské centrum umožňovalo, založila jsem hudební školičku, kterou prošlo okolo stovky dětí. Rodiče samozřejmě byli celého tohoto hraní součástí, děti pak později ke mně přecházely hrát na příčné flétny. A do toho jsme se sestrou pořádaly Zámecké hemžení, charitativní akci právě pro podporu mateřského centra. Protože já teď vedu velenovskou školu a sestra dětskou skupinu v Boskovicích, Zámecké hemžení jsme na čas přerušily. Ale myslím, že se k němu zase vrátíme. Taky jsme založili klub rodinného skautingu a každoročně pořádáme skautský tábor pro rodiny s dětmi.
 
 **Jak se to dá všechno zvládnout s tolika dětmi? Někdy maminky padají únavou, a to mají jedno, dvě děti…**
 
