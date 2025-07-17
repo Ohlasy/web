@@ -1,14 +1,14 @@
 ---
 title: „Dospělé děti si hrají na vojáky a my jsme jejich pěšáci nebo oběti.“
 author: Martina Žižková
-cover-photo: https://i.ohlasy.info/i/cb643a4e.jpg
+cover-photo: https://i.ohlasy.info/i/9c10821d.jpg
 category: rozhovory
 tags: kultura
 ---
 
 _Boskovice mají na necelý rok novou sochu ve veřejném prostoru. Díky festivalu Boskovice stojí před muzeem a bránou do židovského města monumentální instalace Ježek v kleci od sochaře a intermediálního umělce [Patrika Proška](http://www.prosko.cz). Rozhovor s ním vedla Martina Žižková._
 
-{% photo src="https://i.ohlasy.info/i/cb643a4e.jpg" caption="Ježek v kleci během festivalu Boskovice" author="Tomáš Znamenáček" width=6149 height=4099 /%}
+{% photo src="https://i.ohlasy.info/i/9c10821d.jpg" caption="Ježek v kleci během festivalu Boskovice" author="Andrej Boleslavský" width=2048 height=1365 /%}
 
 **Patriku, popište nám – jak vznikala socha Ježek v kleci?**
 
