@@ -14,7 +14,7 @@ V Jihomoravském kraji se v minulých volbách rozdělovalo 23 z celkových 200 
 
 {% datawrapper_chart id="BBOLg" /%}
 
-Na jižní Moravě letos kandiduje do sněmovny celkem [22 politických uskupení](https://www.volby.cz/app/ps2025/cs/name-lists/!_7_6200), kompletní kandidátku s 34 jmény má však jen devět z nich. Podle aktuálních volebních modelů renomovaných agentur má šanci na úspěch šest až sedm z nich. 
+Na jižní Moravě letos kandiduje do sněmovny celkem [22 politických uskupení](https://www.volby.cz/app/ps2025/cs/name-lists/!_1_6200), kompletní kandidátku s 34 jmény má však jen devět z nich. Podle aktuálních volebních modelů renomovaných agentur má šanci na úspěch šest až sedm z nich. 
 
 Favoritem voleb je hnutí ANO. Zrovna to je v Boskovicích docela úspěšné – jeho místní lídr Lukáš Holík jen těsně nevyhrál poslední komunální volby, ve kterých však členové hnutí kandidovali s dalšími kandidáty pod značkou Naše Boskovice. A když kandidoval v krajských volbách, uspělo ANO v Boskovicích mnohem lépe než na krajské úrovni. Krajská dominance hejtmana Jana Grolicha (SPOLU) v Boskovicích nefungovala a ANO zde zvítězilo. Pokud bychom tedy Boskovice označili jako jednu z bašt hnutí ANO, do krajské kandidátky pro sněmovní volby se to nepromítlo. Lukáš Holík nekandiduje a zdejší buňka nejenže nezískala volitelný post, ale nikdo z města či regionu není ani mezi dalšími kandidáty. Blansko má na kandidátce hned tři zástupce, přičemž aktuální poslankyně a blanenská místostarostka Lenka Dražilová je na páté pozici. Před čtyřmi lety hnutí ANO získalo v kraji osm mandátů.
 
