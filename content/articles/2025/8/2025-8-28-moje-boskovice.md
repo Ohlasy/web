@@ -1,0 +1,28 @@
+---
+title: Festivalová fotovýzva přechází v seriál Moje Boskovice. A stále se můžete přidat
+cover-photo: https://i.ohlasy.info/i/16cdcc6a.jpg
+author: Tomáš Trumpeš
+category: seriály
+---
+
+*Spouštíme nový seriál! Tentokrát bude zaměřený na fotografie a postupně přinese snímky různých míst v Boskovicích. Úvodní sadu fotografií jsme shromáždili v rámci [festivalové fotovýzvy](https://ohlasy.info/clanky/2025/04/festival-boskovice-2025.html), do které se zapojili občané města. Ti fotili a komentovali místa, která se jim líbí nebo naopak nelíbí a na která jsou hrdí.*
+
+{% photo src="https://i.ohlasy.info/i/16cdcc6a.jpg" caption="Jedno z míst, která se na fotografiích ve fotovýzvě opakují, je schodiště u kostela sv. Jakuba – máme je rádi, ale mrzí nás jeho stav" author="Martina Vopatová" width=1161 height=869 /%}
+
+Na výzvu reagovalo celkem 18 lidí. Někteří poslali k jednotlivým tématům nazvaným stručně ANO, NE  a HRDOST více fotografií, takže ve výsledku jsme získali přes osmdesát fotek. „Výsledný soubor představuje pestrý obraz města, v němž se setkávají různé pohledy, zkušenosti i osobní preference. Potvrdilo se, že fotografie není jen prostředkem dokumentace, ale také nástrojem, jak místa ohledávat, zkoumat a podrobovat je osobnímu hodnocení,“ říká kurátorka festivalových výstav Helena Musilová.
+
+Fotky a autorské komentáře k nim budeme nyní postupně publikovat. Celý projekt se totiž podle nás mimořádně vydařil a byla by velká škoda s fotkami a k nim připojenými komentáři dál nepracovat a nemít další příležitost se nad nimi zamyslet. Seriál jsme nazvali Moje Boskovice, protože přináší individuální vizuální i slovní reflexi města. A vydařil se v obou těchto směrech – výsledný materiál obsahuje mnoho krásných fotek a k nim komentáře plné pozoruhodných postřehů a inspirativních myšlenek, které nás můžou posunout v přemýšlení o městě, v pečlivějším sledování veřejného prostoru a pestřejším vnímání různých možných pohledů na Boskovice a jejich klady i nedostatky.
+
+„Zajímavým momentem je rozdílné vnímání stejných lokalit: některé snímky byly označeny jednou jako přitažlivé (tedy ANO), jindy jako problematické (tedy NE). Tento rozdíl poukazuje na subjektivní povahu vztahu k prostředí – na to, že každé místo je pro jednotlivce zatíženo osobní zkušeností, emocí i hodnotovým rámcem. Právě tato pluralita výpovědí je největší přidanou hodnotou celé akce. Autoři měli možnost připojit k fotografiím také krátké textové komentáře, které se staly důležitou součástí celku. Tyto poznámky dokreslují osobní pohled, objasňují důvody hodnocení a ukazují, jak se vizuální vjem propojuje s konkrétní zkušeností či emocí. Účastníci zároveň využívají širokou škálu fotografických přístupů – od detailních záběrů po celkové pohledy, od barevných kompozic po černobílé kontrasty. Tato vizuální rozmanitost posiluje charakter celé fotovýzvy: ukazuje, že i jedno místo může být prostřednictvím různých formálních prostředků interpretováno zcela odlišně,“ popisuje Helena Musilová.
+
+Fotovýzva tak podle ní otevírá debatu o podobě Boskovic nejen z hlediska architektonického či urbanistického, ale především v rovině prožívání města jeho obyvateli. „Ukazuje, že vztah k místu, kde žijeme, nevzniká automaticky, ale je výsledkem neustálé interakce – mezi každodenní zkušeností, vizuálním vnímáním a individuální interpretací. Fotografie v tomto smyslu působí jako médium, které umožňuje zastavit se, promyslet a znovu si definovat, jak k městu přistupujeme,“ vysvětluje se Helena Musilová.
+
+Projekt podle ní zároveň potvrzuje, že kolektivní sdílení obrazů je důležitým krokem k tomu, abychom si uvědomili pestrost vztahů, které k Boskovicím existují – společná platforma pro různé pohledy je cestou, jak posilovat identitu města, jak podporovat diskuzi o jeho podobě a jak vést k uvědomělejšímu vztahu k prostředí, jež spoluutváří náš každodenní život.
+
+„Výsledný soubor fotografií proto nepůsobí jako jednolitý obraz, ale spíše jako mozaika. Ukazuje, že Boskovice nejsou *jedny* pro všechny – jejich význam se proměňuje podle toho, kdo se dívá a jak se dívá. A právě tato rozmanitost pohledů je podstatná pro budoucí přemýšlení o městě i jeho podobě,“ říká festivalová kurátorka.
+
+S myšlenkou festivalové fotovýzvy přišla právě Helena Musilová a my jí moc děkujeme, že naše noviny společně s Kulturními zařízeními města Boskovice k celé akci přizvala. V hospodě U Pultu v katolickém domě je ještě do konce prázdnin umístěná výstava, kde si úvodní výběr fotografií můžete prohlédnout i fyzicky. Výstava podle Heleny Musilové ukázala také několik velkých fotografických talentů, kteří v Boskovicích působí a své město pravidelně a s obrovským nadšením fotografují. 
+
+Ohlasy budou v seriálu Moje Boskovice výstupy z fotovýzvy publikovat postupně během celého roku, a co je důležité – budeme i dál shromažďovat další příspěvky. Takže pokud máte svá oblíbená a neoblíbená místa, plus něco, na co jste v Boskovicích hrdí, neváhejte je vyfotit a se stručným komentářem poslat na adresu <ohlasy@ohlasy.info>. Budeme moc rádi, když celý soubor poroste a bude přinášet nové postřehy, objevovat nová místa a těšit nás všechny pěknými i nepěknými záběry našeho města.
+
+„Čím pestřejší soubor vznikne, tím lépe může ukázat, jak rozmanitě své město vnímáme a jaké otázky před nás jednotlivá místa staví. Sdílené fotografie se tak mohou stát impulzem k přemýšlení o tom, co v Boskovicích rozvíjet, co chránit a jak s konkrétními prostory zacházet do budoucna,“ uzavírá kurátorka Helena Musilová.
