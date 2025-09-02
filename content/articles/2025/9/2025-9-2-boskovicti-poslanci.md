@@ -8,7 +8,7 @@ tags: politika volby
 
 *Před blížícími se poslaneckými volbami jsme se třemi boskovickými politiky probrali vztah regionální a velké politiky – zajímalo nás, jestli je škoda, že [region není ve sněmovně reprezentován](https://ohlasy.info/clanky/2025/08/kandidatky-do-snemovny.html), čemu konkrétně by to pomohlo a jaká témata by je v celostátní politice zajímala. Odpověděli nám Lukáš Holík (ANO), Martin Staněk (ODS) a Vítězslav Kulíšek (STAN).*
 
-{% photo src="https://i.ohlasy.info/i/8ae6e7fd.jpg" caption="Sněmovní ulice s Thunovským palácem, sídlem českého parlamentu" author="VitVit, Wikimedia Commons" width=2048 height=1256 /%}
+{% photo src="https://i.ohlasy.info/i/8ae6e7fd.jpg" caption="Sněmovní ulice s Thunovským palácem, sídlem české poslanecké sněmovny" author="VitVit, Wikimedia Commons" width=2048 height=1256 /%}
 
 Jediný z této trojice, kdo do sněmovny kandiduje, je Vítězslav Kulíšek ze STAN. „Kandiduji, protože mi není lhostejné, kam naše země směřuje. Cítím, že nastal čas mé zkušenosti předat a využít i na vyšší úrovni. Chci být hlasem *obyčejných lidí* – těch, kteří pracují, starají se o rodiny a potřebují, aby stát fungoval jednoduše a férově a zároveň zachoval svou demokratickou tvář,“ říká Vítězslav Kulíšek, který je na 11\. místě kandidátky Starostů.
 
