@@ -6,7 +6,7 @@ category: podcast
 tags: kultura
 ---
 
-*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát byl hostem ředitel Kulturních zařízení města Boskovice – mluvili jsme o Husích slavnostech, o letošním ročníku i výhledu akce do budoucna. Součástí podcastu jsou i pozvánky na vybrané srpnové akce, ty si zde můžete také přečíst.*
+*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. Tentokrát byl hostem ředitel Kulturních zařízení města Boskovice – mluvili jsme o Husích slavnostech, o letošním ročníku i výhledu akce do budoucna. Součástí podcastu jsou i pozvánky na vybrané zářijové akce, ty si zde můžete také přečíst.*
 
 {% podcast_player file="2025/podcast/dostal.mp3" /%}
 
