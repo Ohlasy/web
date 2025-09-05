@@ -84,6 +84,11 @@ const nextConfig = {
         destination: "https://www.darujme.cz/ohlasy-extra",
         permanent: false,
       },
+      {
+        source: "/newsletter/",
+        destination: "https://newsletter.ohlasy.info",
+        permanent: false,
+      },
     ];
   },
 };
