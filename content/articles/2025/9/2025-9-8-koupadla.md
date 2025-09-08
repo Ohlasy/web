@@ -1,0 +1,48 @@
+---
+title: Zelená peřina vrací městu louku v proluce, radnice chce dokončit původní projekt
+cover-photo: https://i.ohlasy.info/i/13ff108d.jpg
+author: Tomáš Trumpeš
+category: zpravodajství
+---
+
+*O louku v proluce v boskovické židovské čtvrti se tři roky starala místní iniciativa [Zelená peřina](https://ohlasy.info/clanky/2020/06/zelena-perina.html) – teď ji vrací do rukou města. To se plánuje vrátit k původnímu návrhu právě Zelené peřiny a dokončit zde projekt, který získal podporu v prvním ročníku participativního rozpočtu a byl uskutečněn jen částečně.*
+
+{% photo src="https://i.ohlasy.info/i/13ff108d.jpg" caption="Proluka v roce 2019" author="Tomáš Znamenáček" width=4836 height=3224 /%}
+
+Zelená peřina získala do své péče od města největší zelenou plochu v židovské čtvrti v roce 2022\. Už v roce 2020 zde však připravila projekt, který měl vytvořit v proluce U Koupadel vytvořit příjemné místo s estetickou a ekologickou hodnotou, které zároveň připomene jeho historii. Projekt uspěl v prvním ročníku boskovického participativního rozpočtu, nakonec byl však vzhledem k ceně a náročnosti značně omezen.
+
+Proběhly zde terénní a demoliční práce a úpravy zelených ploch směřující k oživení trvalkovými záhony. Do proluky byly umístěny lavičky, ježkovník, informační tabule. Také zde bylo položeno několik Kamenů zmizelých. Naopak nedošlo na instalace infopanelů s dobovými fotografiemi a stručnými informacemi o původní podobě místa či připomenutí původní zástavby pomocí žulových kostek, doplněných vysypáním půdorysu pískem, což bylo [součástí projektu](https://participace.mobilnirozhlas.cz/boskovice/rok2020/), který pro Zelenou peřinu vytvořil Spolek za rozvoj architektury Boskovic (SRAB). Ve vzniklé mozaice měl být dle projektu Deany Láníkové vysetý pochozí trávník v místech, kde stály domy, a luční trávník v místech, kde byly dvorky či zahrádky.
+
+Zelená peřina, ze které se postupně stal pobočný spolek Českého svazu ochránců přírody, odpracovala na místě spoustu dobrovolnických hodin – třeba na odstranění keřového porostu, vyčištění sutě, ale také zajištění architektonických i zahradnických návrhů. Spolupráce s městem však během uskutečňování projektu skřípala. „Byly to tuším dva roky intenzivní práce, schůzek s městem, jednání s dalšími subjekty… a nakonec zklamání ze zbytečně proinvestovaných peněz,“ hodnotí výsledek původního projektu předsedkyně Zelené peřiny Hana Kvapilová.
+
+A dodává, že Zelená peřina domluvila také provedení části prací sponzorsky, ale v důsledku špatné komunikace ze strany úředního aparátu k této spolupráci nedošlo. Výsledkem podle Hany Kvapilové bylo, že výsledné práce přišly nejen dráž, ale navíc poškodily chodníky i velkou plochu trávníku, která měla být zachována v původním stavu. To způsobilo prodražení celého projektu a další komplikace. Následně zde došlo také ke zcela nevhodné seči, která poškozenou luční plochu už prakticky zahubila.
+
+{% photo src="https://i.ohlasy.info/i/209d54e9.jpg" caption="Studie zástavby proluky od ateliéru EA architekti" author="EA architekti" width=4000 height=2398 /%}
+
+### První boskovická adopce zeleně
+
+Přesto se Zelená peřina rozhodla „překonat pocit marnosti“, jak říká Hana Kvapilová, a v roce 2022 louku adoptovala a až do dnešních dnů se o ni starala. To zahrnovalo sekání trávy, pletí záhonů, odplevelování zpevněných ploch, na čemž se podílely desítky dobrovolníků, mimo jiné pomáhali i dospívající z dětského domova. Zelená peřina svou prací městu šetřila finanční prostředky a kromě toho zde pořádala i akce. „Prostranství bylo po čtyři roky místem komunitní aktivity Zvuky a barvy židovské čtvrti, která připomínala židovskou minulost společně s aktivitami ekologického zaměření. Na podzimní akci Krokusy si holocaust připomněli žáci a studenti místních škol, současně se podíleli na vysazování krokusů za dětské oběti fašistického vyvražďování,“ popsala Hana Kvapilová. Letos se díky grantu a finanční podpoře dvou zdejších veterinárních ordinací podařilo doplnit lokalitu o koš na psí exkrementy, který tu roky chyběl.
+
+Projekt byl prvním oficiálním příkladem adopce zeleně v Boskovicích. I když měl projekt řadu přínosů, současně narážel na překážky. „Z pohledu členů občanské iniciativy byl problematický požadavek města, aby součástí adopce byly kromě všech zelených ploch také chodníky. V jiných městech bývá praxe, že občané-dobrovolníci se starají o zeleň, kterou sami obnovili. Rozsah adoptovaných ploch byl v případě louky v proluce větší, než iniciativa požadovala,“ říká členka Zelené peřiny Dagmar Hamalová.
+
+Projekt Louka v proluce podle Dagmar Hamalové přesto ukázal, že spolupráce s dobrovolníky má v Boskovicích smysl, umožnil zapojení občanů, podnikatelů a dalších organizací do společného díla. A zlepšil největší proluku v židovské čtvrti výsadbou dlouhodobě udržitelné zeleně i ukázkou méně časté a vyšší seče. „I proto Zelená peřina prosazuje rozšíření možností adopcí zeleně ve více lokalitách, více lidmi. O dalších aktivitách v této oblasti budeme průběžně informovat,“ dodává Dagmar Hamalová s tím, že nyní Zelená peřina vidí hlavní úkoly na městě Boskovice – největší proluka v židovské čtvrti si podle ní zaslouží lepší údržbu obrubníků a chodníků, dále pravidelnou údržbu a úklid odpadků u kašny, stejně jako zajištění bezpečnosti nad garážemi, které jsou po vykácení keřů bez zábradlí nebezpečné. „Město přijalo koncepci cestovního ruchu postavenou na boskovické židovské tradici a židovských památkách. Snad se louce v proluce dostane ze strany města Boskovice zasloužené pozornosti,“ dodává Dagmar Hamalová.
+
+{% photo src="https://i.ohlasy.info/i/2e9345b8.jpg" caption="Proluka v roce 2019" author="Tomáš Znamenáček" width=4836 height=3224 /%}
+
+### Návrat k původnímu projektu
+
+Podle prvních reakcí radice to vypadá, že město o další péči a rozvoj lokality zájem má. Podle místostarosty Radka Šamšuly (Piráti) je komunikace se Zelenou peřinou dlouhodobě korektní a dobrá. „Možná mají někdy na naše město trochu progresivnější názory. Ale bylo to fajn a o proluku se starali pěkně – celý prostor ožil, bylo tam několik kulturních akcí. Trochu mě překvapilo, že odchází. Doufám, že se poohlédli po nějaké další činnosti, které se budou věnovat a budou pokračovat v osvětové činnosti,“ zhodnotil spolupráci Radek Šamšula.
+
+Starostka Jana Syrovátková (Změna22) uvedla, že byla blízko vzniku původního projektu ještě před svým vstupem do politiky, [jako členka spolku SRAB](https://ohlasy.info/clanky/2020/12/prichazi-srab.html). Dnes společně s místostarostou Radkem Šamšulou oslovili architekta Petra Ondráčka, který byl autorem původního projektu. Cílem je celý záměr dotáhnout do konce. „Myslím, že to tam chybí a prostor je trochu neukotvený,“ popsala starostka. Nyní ještě město prověřuje technický stav infrastruktury, protože někteří obyvatelé okolních domů si stěžovali na problémy s kanalizací. Zvažuje se předláždění prostoru a zejména jeho doplnění o původně plánované prvky. 
+
+Celá proluka by měla být ve střednědobém výhledu podle starostky zastavěna, ale než se tak stane, může zde podle starostky na přechodnou dobu vzniknout hezké místo, které bude hodnotné jak vzhledem k životnímu prostředí, tak jako připomínka historie. „Byl zde špalíček domů, který by měl být zobrazen žulovými kostkami osazenými do písku. Takto by se zde odrazily domy, které zde původně byly, včetně parcel a zahrádek,“ popsala starostka s tím, že s odborem životního prostředí také řeší různý typ osevů – některé víc květinové a jiné víc trávníkové. „Aby bylo vidět, co byl dům, co byla zahrada – aby se tam ta historie otiskla. V tuto chvíli tam každý chodí s tím, že je tam nějaká proluka, ale řada mladých už ani neví, že tam byly domy, “ dodala starostka Jana Syrovátková. Ta je přesvědčená o tom, že by mohla vzniknout velmi pěkná část města za nepříliš velké náklady. „Zkultivoval by se prostor, který si to zaslouží – na tom se tady asi všichni shodneme,“ uzavřela starostka.
+
+Na budoucí zástavbu proluky už vznikly dva záměry – první vytvořilo [architektonické studio EA architekti](https://data.ohlasy.info/2017/koupadla-studie.pdf) a [druhý chilský architekt Smiljan Radič](https://ohlasy.info/clanky/2019/04/radicova-koupadla.html).
+
+### Další aktivity Zelené peřiny
+
+Ze záměru města původní projekt dokončit má podle Hany Kvapilové Zelená peřina radost. „Ostatně většinu *příkoří* a neoprávněných výtek ze strany města v médiích, která jsme zažívali průběhu realizace, jsme nechávali bez odezvy hlavně ze strachu, aby práce na projektu nebyly ukončeny. Jen nerozumíme tomu, proč s tímto návrhem nepříšlo město dříve. Takto jsme vlastními silami a pomocí grantů museli uhradit projekt na umístění poslední lavičky a edukačního stojanu i umístění koše na exkrementy,“ popisuje Hana Kvapilová.
+
+Stále se podle ní ukazuje, že město není dostatečně připraveno nebo ochotno spolupracovat s občanskými iniciativami. A dodává, že po počáteční velké podpoře ze strany místostarosty Lukáše Holíka se po jeho odchodu z radnice v roce 2021 stala Zelená peřina pro město spíše přítěží. „Spolupráce s místostarostou Radkem Šamšulou je po volbách v roce 2022 o poznání vstřícnější, stále však vidíme rezervy. Doufáme, že se nám podaří naši komunikaci dále posunout a otevřít tak cestu dalším občanům, kteří by se jakkoli rádi zapojili do zvelebování našeho města,“ uzavírá Hana Kvapilová.
+
+V letošním roce se Zelené peřině podařilo dokončit projekt, o kterém začala s městem jednat v roce 2022 – trvalkový záhon před bytovým domem na ulici Mánesova 5 a 7, který si rovněž vzala do následné péče. Podmínkou města navíc bylo, že si Zelená peřina přibere i přilehlé travní plochy. I proto se Zelená peřina rozhodla neprodlužovat smlouvu na adopci proluky U Koupadel a věnovat se této nové oblasti.
