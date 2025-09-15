@@ -2,7 +2,7 @@
 .vscode
 .vercel
 .next
-.terraform*
 .env*
+.obsidian
 node_modules
 tsconfig.tsbuildinfo
