@@ -7,11 +7,11 @@ tags:
   - Ohlasy Extra 2025
 ---
 
-*Před Festivalem Boskovice jsme se ptali návštěvníků a návštěvnic, na co se nejvíce těší. Často padala odpověď, že zejména na to, až „Boskovice ožijí“. Návštěvnost festivalu i dalších kulturních akcí a letních aktivit ale ohrožují bouřky, zima a deštivé dny. Už několikátým rokem se ukazuje, že zatímco se připravujeme na prázdniny, počasí může přinést cokoliv od nekonečných tropických dnů přes silné bouřky až po vleklé lijáky. Jak nám takové proměny zasahují do prázdninového života v Boskovicích?*
+*Před festivalem Boskovice jsme se ptali návštěvníků a návštěvnic, na co se nejvíce těší. Často padala odpověď, že zejména na to, až „Boskovice ožijí“. Návštěvnost festivalu i dalších kulturních akcí a letních aktivit ale ohrožují bouřky, zima a deštivé dny. Už několikátým rokem se ukazuje, že zatímco se připravujeme na prázdniny, počasí může přinést cokoliv od nekonečných tropických dnů přes silné bouřky až po vleklé lijáky. Jak nám takové proměny zasahují do prázdninového života v Boskovicích?*
 
 {% photo src="https://i.ohlasy.info/i/e4dca187.jpg" caption="Festivalový déšť – Boskovice 2020" author="Tomáš Znamenáček" width=6240 height=4160 /%}
 
-*V rámci projektu Ohlasy Extra vám společně s [Nadačním fondem nezávislé žurnalistiky](https://www.nfnz.cz) přinášíme texty zaměřené (nejen) na výzvy týkající se změny klimatu. Podpořte vznik nových článků a videí na ohlasy.info/extra. Chceme vám nabídnout nové pohledy na události v našem regionu, zároveň se plánujeme inspirovat chytrými řešeními v jiných městech.*
+*V rámci projektu Ohlasy Extra vám společně s [Nadačním fondem nezávislé žurnalistiky](https://www.nfnz.cz) přinášíme texty zaměřené (nejen) na výzvy týkající se změny klimatu. Podpořte vznik nových článků a videí na [ohlasy.info/extra](http://ohlasy.info/extra). Chceme vám nabídnout nové pohledy na události v našem regionu, zároveň se plánujeme inspirovat chytrými řešeními v jiných městech.*
 
 Z nedalekého skleníku se ozývá svižná jazzová melodie, majitelka stánku s kávou kvapně uklízí zákusky před silným větrem. Bouřkové mraky se rychle blíží k pódiu, kde se zrovna odehrává debata s Pavlem Kosatíkem. Organizátorský tým festivalu deště očekával, ale průtrž stejně řadu lidí překvapí. Letošní červenec byl co do srážek a teplot statisticky spíše průměrným měsícem, ale vzhledem k vysokým teplotám v závěru června jsme měli tendenci očekávat pokračování podobného scénaře i po zbytek léta. Tři chladné červencové úseky a vícedenní srážky zkomplikovaly plánování aktivit od zemědělských prací a zahradničení přes organizaci táborů až po pořádání kulturních akcí.
 
