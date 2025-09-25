@@ -1,25 +1,27 @@
 import { shuffled } from "src/utils";
-import { decodeType, field, record } from "typescript-json-decoder";
 import {
-  decodeCheckbox,
-  decodePlainRichtext,
-  decodeTitle,
-  decodeUrl,
-  getTypedDatabaseRows,
-} from "./notion";
+  array,
+  decodeType,
+  field,
+  record,
+  string,
+} from "typescript-json-decoder";
+import { getTable, unwrapRecords } from "./airtable";
 
-export type Banner = decodeType<typeof decodeBannerProps>;
+const bannerTable = () => getTable("appcP5M7jTIUMZaRc", "tblxgfyRlovII0SC2");
 
-export const decodeBannerProps = record({
-  name: field("Název", decodeTitle),
-  published: field("Zveřejnit", decodeCheckbox),
-  image: field("Obrázek", decodeUrl),
-  alt: field("Náhradní text", decodePlainRichtext),
-  url: field("Odkaz", decodeUrl),
+export type Banner = decodeType<typeof decodeBanner>;
+export const decodeBanner = record({
+  name: field("Název", string),
+  image: field("Obrázek", string),
+  url: field("Odkaz", string),
+  alt: field("Náhradní text", string),
 });
 
-export async function getAllBanners(): Promise<Banner[]> {
-  const databaseId = "50c3e92b4f7d44ee9cc5a139d81b07b5";
-  const banners = await getTypedDatabaseRows(databaseId, decodeBannerProps);
-  return shuffled(banners.filter((b) => b.published));
-}
+export const getAllBanners = () =>
+  bannerTable()
+    .select({ view: "Zveřejněné" })
+    .all()
+    .then(unwrapRecords)
+    .then(array(decodeBanner))
+    .then(shuffled);

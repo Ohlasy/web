@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.5.4",
-    "@notionhq/client": "^4.0.2",
     "@slack/web-api": "^7.10.0",
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",

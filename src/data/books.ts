@@ -1,5 +1,5 @@
-import Airtable, { FieldSet, Record, Records } from "airtable";
 import { relationToZeroOrOne } from "src/decoding";
+import { getTable, unwrapRecord, unwrapRecords } from "./airtable";
 import {
   array,
   decodeType,
@@ -12,26 +12,10 @@ import {
 } from "typescript-json-decoder";
 
 //
-// Airtable Support
-//
-
-/** Unwrap the raw fields object from an Airtable `Record` type */
-export const unwrapRecord = <Schema extends FieldSet>(record: Record<Schema>) =>
-  record.fields as unknown;
-
-/** Unwrap the raw fields objects from an Airtable `Records` type */
-export const unwrapRecords = <Schema extends FieldSet>(
-  records: Records<Schema>
-) => records.map(unwrapRecord);
-
-const getTable = (tableNameOrId: string) =>
-  new Airtable().base("apptZroU7Vo0zMDjT")(tableNameOrId);
-
-//
 // Books
 //
 
-const bookTableId = "tblODWl1pWKSEAKmv";
+const booksTable = () => getTable("apptZroU7Vo0zMDjT", "tblODWl1pWKSEAKmv");
 
 export type Book = decodeType<typeof decodeBook>;
 export const decodeBook = record({
@@ -50,14 +34,10 @@ export const decodeBook = record({
 });
 
 export const getAllBooks = async () =>
-  getTable(bookTableId)
-    .select()
-    .all()
-    .then(unwrapRecords)
-    .then(array(decodeBook));
+  booksTable().select().all().then(unwrapRecords).then(array(decodeBook));
 
 export const getBookById = async (databaseId: string) =>
-  getTable(bookTableId)
+  booksTable()
     .find(databaseId)
     .then(unwrapRecord)
     .then(decodeBook)
@@ -70,7 +50,7 @@ export const sortByYear = (a: Book, b: Book) =>
 // Orders
 //
 
-const orderTableId = "tbllODnsl8U1U8X7N";
+const ordersTable = () => getTable("apptZroU7Vo0zMDjT", "tbllODnsl8U1U8X7N");
 
 export type Order = decodeType<typeof decodeOrder>;
 export const decodeOrder = record({
@@ -90,7 +70,7 @@ export const decodeOrder = record({
 });
 
 export const createOrder = async (order: Omit<Order, "id" | "status">) =>
-  getTable(orderTableId)
+  ordersTable()
     .create({
       "Objednaný titul": [order.orderedItemId!],
       "Počet kusů": order.itemCount,
