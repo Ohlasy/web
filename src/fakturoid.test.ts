@@ -1,4 +1,6 @@
 import { decodeWebhook } from "./fakturoid";
+import assert from "node:assert";
+import test from "node:test";
 
 test("Decode webhook", () => {
   const payload = {
@@ -80,7 +82,7 @@ test("Decode webhook", () => {
     },
   };
   const hook = decodeWebhook(payload);
-  expect(hook).toEqual({
+  assert.deepEqual(hook, {
     webhook_id: 5,
     event_name: "invoice_paid",
     body: {

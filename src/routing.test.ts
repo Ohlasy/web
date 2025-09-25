@@ -1,18 +1,21 @@
+import assert from "node:assert";
+import test from "node:test";
 import { absolute, getArticlePath, RouteTo } from "./routing";
 
 test("Article path", () => {
-  expect(
+  assert.equal(
     getArticlePath({
       date: "Wed Mar 03 2021 09:50:47 GMT",
       slug: "bagr-lopata",
-    })
-  ).toBe("/clanky/2021/03/bagr-lopata.html");
+    }),
+    "/clanky/2021/03/bagr-lopata.html"
+  );
 });
 
 test("Routes", () => {
-  expect(RouteTo.homePage).toBe("/");
-  expect(absolute(RouteTo.homePage)).toBe("https://ohlasy.info/");
-  expect(absolute("foo")).toBe("https://ohlasy.info/foo");
-  expect(absolute("/foo")).toBe("https://ohlasy.info/foo");
-  expect(absolute("https://ohlasy.info/foo")).toBe("https://ohlasy.info/foo");
+  assert.equal(RouteTo.homePage, "/");
+  assert.equal(absolute(RouteTo.homePage), "https://ohlasy.info/");
+  assert.equal(absolute("foo"), "https://ohlasy.info/foo");
+  assert.equal(absolute("/foo"), "https://ohlasy.info/foo");
+  assert.equal(absolute("https://ohlasy.info/foo"), "https://ohlasy.info/foo");
 });

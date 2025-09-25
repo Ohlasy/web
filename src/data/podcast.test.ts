@@ -1,9 +1,11 @@
 import yaml from "js-yaml";
+import assert from "node:assert";
+import test from "node:test";
 import { decodePodcast } from "./podcast";
 
 test("Decode podcast", () => {
   const podcast = decodePodcast(yaml.load(sample));
-  expect(podcast).toEqual([
+  assert.deepEqual(podcast, [
     {
       bytes: 14000000,
       date: "Tue, 17 Dec 2024 9:16:00 +0200",

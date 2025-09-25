@@ -1,31 +1,36 @@
 import { parsePath, readArticle } from "./article";
 import { getFilesRecursively } from "./server-utils";
 import { defaultMarkdocConfig } from "./markdoc-schema";
+import assert from "node:assert";
+import test from "node:test";
 import Markdoc from "@markdoc/markdoc";
 
-const allArticlePaths = getFilesRecursively("content/articles")
-  // Only take Markdown posts
-  .filter((path) => path.endsWith(".md"));
-
-test.each(allArticlePaths)("Decode %s", (path) => {
-  const article = readArticle(path);
-  const syntaxTree = Markdoc.parse(article.body);
-  const bodyErrors = Markdoc.validate(syntaxTree, defaultMarkdocConfig)
-    // TBD: fix later
-    .filter((e) => e.error.id !== "child-invalid");
-  bodyErrors.forEach((e) => {
-    throw e;
-  });
+test("Decode all articles", async (t) => {
+  const allArticlePaths = getFilesRecursively("content/articles")
+    // Only take Markdown posts
+    .filter((path) => path.endsWith(".md"));
+  for (const path of allArticlePaths) {
+    await t.test(`Decode ${path}`, () => {
+      const article = readArticle(path);
+      const syntaxTree = Markdoc.parse(article.body);
+      const bodyErrors = Markdoc.validate(syntaxTree, defaultMarkdocConfig)
+        // TBD
+        .filter((e) => e.error.id !== "child-invalid");
+      bodyErrors.forEach((e) => {
+        throw e;
+      });
+    });
+  }
 });
 
 test("Parse article path", () => {
-  expect(parsePath("2021-2-26-vystavba-chmelnice.md")).toEqual([
+  assert.deepEqual(parsePath("2021-2-26-vystavba-chmelnice.md"), [
     new Date("2021-2-26"),
     "vystavba-chmelnice",
   ]);
-  expect(() => parsePath("2021-2-90-vystavba-chmelnice.md")).toThrow();
-  expect(() => parsePath("2021-2-vystavba-chmelnice.md")).toThrow();
-  expect(() => parsePath("2021-2-12-.md")).toThrow();
-  expect(() => parsePath("2021-2-12-křeč.md")).toThrow();
-  expect(() => parsePath("2021-2-12-sleva-50%.md")).toThrow();
+  assert.throws(() => parsePath("2021-2-90-vystavba-chmelnice.md"));
+  assert.throws(() => parsePath("2021-2-vystavba-chmelnice.md"));
+  assert.throws(() => parsePath("2021-2-12-.md"));
+  assert.throws(() => parsePath("2021-2-12-křeč.md"));
+  assert.throws(() => parsePath("2021-2-12-sleva-50%.md"));
 });

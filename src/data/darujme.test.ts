@@ -1,3 +1,5 @@
+import assert from "node:assert";
+import test from "node:test";
 import {
   sumRecurrentDonations,
   sumOneTimeDonations,
@@ -9,7 +11,7 @@ import {
 } from "./darujme";
 
 test("Date formatting", () => {
-  expect(formatDate(new Date("2020-4-1"))).toBe("2020-04-01");
+  assert.equal(formatDate(new Date("2020-4-1")), "2020-04-01");
 });
 
 test("Stats calculation", () => {
@@ -56,20 +58,22 @@ test("Stats calculation", () => {
       },
     },
   ];
-  expect(sumRecurrentDonations(txs)).toEqual(300);
-  expect(sumOneTimeDonations(txs)).toEqual(400);
+  assert.equal(sumRecurrentDonations(txs), 300);
+  assert.equal(sumOneTimeDonations(txs), 400);
 });
 
 test("Date calculations", () => {
-  expect(getPastFullMonths(new Date("2021-2-13"), 3)).toEqual([
+  assert.deepEqual(getPastFullMonths(new Date("2021-2-13"), 3), [
     { month: 1, year: 2021 },
     { month: 12, year: 2020 },
     { month: 11, year: 2020 },
   ]);
-  expect(firstDayOfMonth({ month: 1, year: 2021 })).toEqual(
+  assert.deepEqual(
+    firstDayOfMonth({ month: 1, year: 2021 }),
     new Date("2021-1-1")
   );
-  expect(lastDayOfMonth({ month: 2, year: 2021 })).toEqual(
+  assert.deepEqual(
+    lastDayOfMonth({ month: 2, year: 2021 }),
     new Date("2021-2-28")
   );
 });

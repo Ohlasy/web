@@ -1,3 +1,5 @@
+import assert from "node:assert";
+import test from "node:test";
 import {
   decodeAuthor,
   decodeAuthors,
@@ -6,39 +8,45 @@ import {
 } from "./content";
 
 test("Decode authors", async () => {
-  expect(
+  assert.deepEqual(
     decodeAuthor({
       name: "Tomáš Trumpeš",
       mail: "tomas.trumpes@ohlasy.info",
       telefon: "608 763 954",
       profilovka: "https://i.ohlasy.info/i/0961fcd0.jpg",
-    })
-  ).toEqual({
-    name: "Tomáš Trumpeš",
-    mail: "tomas.trumpes@ohlasy.info",
-    phoneNumber: "608 763 954",
-    profilePhotoUrl: "https://i.ohlasy.info/i/0961fcd0.jpg",
-  });
-  expect(
+    }),
+    {
+      name: "Tomáš Trumpeš",
+      mail: "tomas.trumpes@ohlasy.info",
+      phoneNumber: "608 763 954",
+      profilePhotoUrl: "https://i.ohlasy.info/i/0961fcd0.jpg",
+      bio: undefined,
+      fedi: undefined,
+    }
+  );
+  assert.deepEqual(
     decodeAuthors({
       "Tomáš Trumpeš": {
         mail: "tomas.trumpes@ohlasy.info",
         telefon: "608 763 954",
         profilovka: "https://i.ohlasy.info/i/0961fcd0.jpg",
       },
-    })
-  ).toEqual([
-    {
-      name: "Tomáš Trumpeš",
-      mail: "tomas.trumpes@ohlasy.info",
-      phoneNumber: "608 763 954",
-      profilePhotoUrl: "https://i.ohlasy.info/i/0961fcd0.jpg",
-    },
-  ]);
-  expect(await getAllAuthors()).resolves;
+    }),
+    [
+      {
+        name: "Tomáš Trumpeš",
+        mail: "tomas.trumpes@ohlasy.info",
+        phoneNumber: "608 763 954",
+        profilePhotoUrl: "https://i.ohlasy.info/i/0961fcd0.jpg",
+        bio: undefined,
+        fedi: undefined,
+      },
+    ]
+  );
+  assert.doesNotReject(getAllAuthors());
 });
 
 test("Decode podcasts", async () => {
-  expect(await getPodcastEpisodes("content/hrebenovka.yml")).resolves;
-  expect(await getPodcastEpisodes("content/podcast.yml")).resolves;
+  assert.doesNotReject(getPodcastEpisodes("content/hrebenovka.yml"));
+  assert.doesNotReject(getPodcastEpisodes("content/podcast.yml"));
 });

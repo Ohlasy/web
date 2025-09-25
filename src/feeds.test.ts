@@ -1,3 +1,5 @@
+import assert from "node:assert";
+import test from "node:test";
 import {
   RSSFeed,
   renderFeed,
@@ -13,11 +15,12 @@ const normalizeWhitespace = (str: string) =>
     .join("\n");
 
 test("Normalize whitespace", () => {
-  expect(
+  assert.equal(
     normalizeWhitespace(`
     foo
-    `)
-  ).toBe("foo");
+    `),
+    "foo"
+  );
 });
 
 test("Render regular RSS feed", () => {
@@ -52,7 +55,8 @@ test("Render regular RSS feed", () => {
       },
     ],
   };
-  expect(normalizeWhitespace(renderFeed(feed))).toBe(
+  assert.equal(
+    normalizeWhitespace(renderFeed(feed)),
     normalizeWhitespace(`
       <?xml version="1.0"?>
       <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -117,7 +121,8 @@ test("Render podcast feed", () => {
       },
     ],
   };
-  expect(normalizeWhitespace(renderPodcastFeed(feed))).toBe(
+  assert.equal(
+    normalizeWhitespace(renderPodcastFeed(feed)),
     normalizeWhitespace(`
     <?xml version="1.0"?>
     <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
