@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 60
     runs-on: ubuntu-latest
     env:
-      NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+      AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
       PLAUSIBLE_KEY: ${{ secrets.PLAUSIBLE_KEY }}
       DARUJME_ID: ${{ secrets.DARUJME_ID }}
       DARUJME_SECRET: ${{ secrets.DARUJME_SECRET }}
