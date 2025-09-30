@@ -3,6 +3,8 @@ title: Chybí nám kámen? Roste spotřeba kamene i rychlost výstavby, obce ale
 cover-photo: https://i.ohlasy.info/i/f2e7d749.jpg
 author: Kristina Studená
 category: zpravodajství
+tags:
+  - Ohlasy Extra 2025
 ---
 
 *Lom u Lhoty Rapotiny a ložisko u Kuniček jsou od Boskovic, co by kamenem dohodil. Zatímco obce vyjadřují hlasitý nesouhlas, Ministerstvo průmyslu a obchodu, stavební firmy i experti mají jasno – chybí kámen, potřebujeme stavět. Bez rozšiřování stávajících lomů a otevírání nových se zjevně neobejdeme, přesto stát komunikaci ohledně nových strategických ložisek nechal takzvaně na poslední chvíli.*
