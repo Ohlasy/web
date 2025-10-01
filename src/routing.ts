@@ -20,6 +20,8 @@ export const RouteTo = {
   article: getArticlePath,
   forumTopic: getTopicUrl,
   book: (book: Pick<Book, "slug">) => `/obchod/${book.slug}`,
+  articlesByAuthor: (name: string) =>
+    `/clanky/?autor=${encodeURIComponent(name)}`,
   // External routes
   forum: "https://forum.ohlasy.info",
   adsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
