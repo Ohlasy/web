@@ -3,6 +3,7 @@ title: Volíme nejen vládu, ale také opozici. I to má smysl, je to příští
 cover-photo: https://i.ohlasy.info/i/a9dc5a82.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags: politika volby
 ---
 
 *Volby do Poslanecké sněmovny se konají v pátek 3\. a v sobotu 4\. října. Volební místnosti jsou otevřeny v pátek od 14 do 22 hodin, v sobotu od 8 do 14 hodin. Výsledky složení nové sněmovny, ze které vzejde i nová vláda, budeme znát v sobotu navečer. Předvolební komentář napsal Tomáš Trumpeš.*
