@@ -2,6 +2,7 @@
 title: "Z radnice: Výběrové řízení na vedení nemocnice, konec Mountfieldu, prohlídka objektu na Svatopluka Čecha a nové reuse centrum"
 cover-photo: https://i.ohlasy.info/i/8a26efa7.jpg
 author: Tomáš Trumpeš
+category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které oznámilo po jednání městské rady na tiskové konferenci na konci září vedení města – starostka Jana Syrovátková (Změna22), místostarostové Lukáš Holík (Naše Boskovice) a Radek Šamšula (Piráti) a tajemník David Škvařil.*
