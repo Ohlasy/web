@@ -12,7 +12,7 @@ tags: politika volby
 
 Suverénem letošních sněmovních voleb se stal Andrej Babiš, který se svým hnutím ANO získal necelých 35 procent hlasů, což pro něj znamená zisk 80 mandátů. Druhá skončila koalice SPOLU se ziskem přes 23 procent, což představuje 52 mandátů. 
 
-Třetí Starostové překonali 11 procent hlasů a budou mít 22 mandátů, čtvrtí Piráti s necelými 9 procenty 18 mandátů. Až páté nakonec skončilo hnutí SPD se ziskem pod 8 procent a 15 mandáty, jako nováči pronikli do sněmovny také Motoristé sobě, jejichž zisk necelých 7 procent znamená 13 poslaneckých míst. Pod 5 procenty skončilo hnutí Stačilo\!
+Třetí Starostové překonali 11 procent hlasů a budou mít 22 mandátů, čtvrtí Piráti s necelými 9 procenty 18 mandátů. Až páté nakonec skončilo hnutí SPD se ziskem pod 8 procent a 15 mandáty, jako nováči pronikli do sněmovny také Motoristé sobě, jejichž zisk necelých 7 procent znamená 13 poslaneckých míst. Pod 5 procenty skončilo hnutí Stačilo\!.
 
 Volby do sněmovny provázela nebývale vysoká účast – přišlo skoro 69 procent oprávněných voličů a voliček.
 
