@@ -6,7 +6,7 @@ category: ankety
 tags: politika
 ---
 
-*Do komunálních voleb zbývá jeden rok. Boskovických zastupitelů jsme se při té příležitosti zeptali: Jste už rozhodnutí, jestli budete chtít obhajovat zastupitelský mandát? Pokud ano, jak? A jaké motivace hrají ve Vašem rozhodování nejdůležitější roli?*
+*Do komunálních voleb zbývá jeden rok. Boskovických zastupitelek a zastupitelů jsme se při té příležitosti zeptali: Jste už rozhodnutí, jestli budete chtít obhajovat zastupitelský mandát? Pokud ano, jak? A jaké motivace hrají ve vašem rozhodování nejdůležitější roli?*
 
 {% photo src="https://i.imgur.com/Q6T1eNv.jpeg" caption="Pohled na boskovickou radnici" author="Tomáš Znamenáček" width=3000 height=2006 /%}
 
