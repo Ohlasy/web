@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.5.4",
-    "@slack/web-api": "^7.10.0",
+    "@slack/web-api": "^7.11.0",
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
@@ -25,14 +25,14 @@
     "react": "18.x",
     "react-dom": "18.x",
     "typescript-json-decoder": "^1.0.11",
-    "xmlbuilder2": "^3.1.1"
+    "xmlbuilder2": "^4.0.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.55.1",
+    "@playwright/test": "^1.56.1",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
     "@types/react-dom": "18.x",
-    "@vercel/node": "^5.3.24",
+    "@vercel/node": "^5.4.1",
     "autoprefixer": "^10.4.21",
     "eslint-config-next": "15.x",
     "glob": "^11.0.3",
