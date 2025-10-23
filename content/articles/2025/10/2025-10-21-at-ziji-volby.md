@@ -3,6 +3,8 @@ title: "Do komunálních voleb zbývá rok. Jak by je mohly ovlivnit ty sněmovn
 cover-photo: https://i.ohlasy.info/i/c0cb8218.jpeg
 author: Tomáš Trumpeš
 category: názory a komentáře
+tags:
+  - komunální volby 2026
 ---
 
 *„Volby jsou za námi, ať žijí volby\!“ žertujeme v redakci, protože přesně po sněmovních volbách začínáme odpočítávat poslední rok do komunálních voleb. Na ty má určitý vliv i rozložení celkových politických nálad ve společnosti – pojďme se tedy zkusit podívat, co nám celostátní volby před těmi lokálními řekly. Komentář napsal Tomáš Trumpeš.*

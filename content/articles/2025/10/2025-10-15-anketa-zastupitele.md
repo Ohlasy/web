@@ -3,7 +3,9 @@ title: "Anketa se zastupiteli: Plánujete obhajovat mandát?"
 cover-photo: https://i.imgur.com/Q6T1eNv.jpeg
 author: Tomáš Trumpeš
 category: ankety
-tags: politika
+tags:
+  - politika
+  - komunální volby 2026
 ---
 
 *Do komunálních voleb zbývá jeden rok. Boskovických zastupitelek a zastupitelů jsme se při té příležitosti zeptali: Jste už rozhodnutí, jestli budete chtít obhajovat zastupitelský mandát? Pokud ano, jak? A jaké motivace hrají ve vašem rozhodování nejdůležitější roli?*
