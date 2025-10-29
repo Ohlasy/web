@@ -40,7 +40,10 @@ export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
         </div>
         <div className="flex flex-col gap-4">
           <div className="text-white">
-            <p className="text-2xl text-balance">{tilde(episode.title)}</p>
+            {/* TBD: Why doesn’t hyphens-none work here? Old Tailwind? */}
+            <p className="text-2xl text-balance" style={{ hyphens: "none" }}>
+              {tilde(episode.title)}
+            </p>
             <div className="flex flex-row gap-3">
               {!playing && <div>{episode.duration.replace("00:", "")}</div>}
               {playing && (
