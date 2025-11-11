@@ -1,0 +1,32 @@
+---
+title: Boskovickou nemocnici povede nový jednatel Jan Trna
+cover-photo: https://i.ohlasy.info/i/68d471b7.jpeg
+author: Tomáš Trumpeš
+category: zpravodajství
+---
+
+*Ve výběrovém řízení na jednatele boskovické nemocnice uspěl lékař Jan Trna, který v nemocnici působí jako vedoucí gastroenterologického oddělení. Řízení nemocnice se ujme od 1\. prosince. Z nemocnice naopak odchází primář dětského oddělení Karel Mittner.*
+
+{% photo src="https://i.ohlasy.info/i/68d471b7.jpeg" caption="Jan Trna, nový jednatel boskovické nemocnice" author="Tomáš Trumpeš" width=3162 height=2372 /%}
+
+Jmenování Jana Trny doporučila výběrová komise a městská rada, která je zároveň valnou hromadou společnosti Nemocnice Boskovice, nového jednatele jmenovala. V návaznosti na to byla odvolána z funkce jednatelky starostka Jana Syrovátková (Změna22), která byla řízením pověřena dočasně – právě do výběru nového jednatele. Ta uvedla, že nový jednatel nejprve i radním představil svou koncepci a ti jí byli mile překvapeni. Kromě toho jsou rádi, že nemocnici povede místní člověk. „Prokázal, že mu na nemocnici velmi záleží a že je to pro něj srdcová záležitost, stejně jako pro mě,“ uvedla starostka a končící jednatelka Jana Syrovátková.
+
+Doc. MUDr. Jan Trna, Ph.D. vystudoval lékařskou fakultu v Brně, specializuje se na gastroenterologii, působil ve fakultní nemocnici v Brně-Bohunicích., poté na Masarykově onkologickém ústavu, kde mezi lety 2022 a 2024 vykonával funkci primáře. Dlouhodobě také vyučuje na lékařské fakultě Masarykovy univerzity a působí právě v boskovické nemocnici.
+
+„Je to pro mě nová situace, nečekal bych, že v mé kariéře nastane – ale v této nemocnici jsem se narodil, pracuji zde od roku 2014\. Prošel jsem řadu pracovišť tuzemských i zahraničních a v závěru jsem dospěl k tomu, že v této nemocnici se mi pracuje nejlíp – její tým a kolektiv je vynikající, potřebujeme ji a chceme ji. Pro město Boskovice i okolí je to srdcová věc,“ vyjádřil se nový jednatel Jan Trna. Boskovická nemocnice má podle něj obrovský potenciál – je zde dost práce i obyvatelstvo, které o nemocnici stojí.
+
+Do výběrového řízení se podle svých slov přihlásil proto, že se už dlouho hledal někdo, kdo by nemocnici úspěšně a stabilně vedl. „Vzhledem k tomu, že se stále nikdo neobjevoval, víc a víc jsem dospěl k tomu, že bych to chtěl zkusit a situaci v nemocnici uklidnit,“ popsal Jan Trna. V tuto chvíli je podle něj navíc dobré, když nemocnici povede lékař, jakkoli je možné i to, aby ji vedl i nelékařský manažer a obě varianty mají svá pro a proti. „Potřebujeme hlavně stabilizovat tým. Mým hlavním plánem je nemocnici vyprofilovat po stránce lékařské péče, aby se v rámci ostatních jihomoravských pracovišť našly obory, ve kterých je Nemocnice Boskovice dobrá, má v nich už teď dobré jméno a má potenciál je kapacitně rozšířit a tyto služby nabídnout obyvatelstvu Jihomoravského kraje. A pokusit se zasanovat i finanční výsledek tím, že se budeme profilovat na určité oblasti, po kterých je poptávka,“ uvedl nový jednatel Jan Trna.
+
+Personální a finanční problematika spolu podle nového jednatele úzce souvisí. Nedostatek personálu znamená nižší bodovou produkci a menší příjmy nemocnice. Hlavním úkolem je proto podle něj právě zastabilizovat lékařský tým a dát lékařům vizi dlouhodobě fungujícího zaměstavatele, který platí odpovídající mzdy. „A pak jim nabídnout to, co třeba v Brně nemohou dostat – a to dostat se rychle k zajímavým podoborům medicíny a k zajímavým výkonům, které můžou dělat a na které se ve fakultních nemocnicích čeká a jsou takříkajíc za odměnu. Vím dobře, o čem hovořím, sám jsem tam pracoval patnáct let a na odměnu dlouho čekal. Zde se dá tato odměna nabídnout rychle a pokud se vyberou vhodné obory, které jsou i úhradově zajímavé, lidé za tím přijdou a nemocnici to v závěru pomůže se stabilizací finanční stránky,“ vysvětlil Jan Trna.
+
+Nového jednatele vybrala devítičlenná komise, kterou tvořili předseda dozorčí rady Jozef Machek, auditor nemocnice Dalimil Chocholáč, za Českou lékařskou komoru emeritní primář Jan Machač starší, zastupitelka Martina Přichystalová, předseda městské zdravotnické komise Libor Straka, zástupkyně odborové organizace Michaela Šustková, zástupce opozice František Jimramovský, tajemník David Škvařil a radní Radek Pernica.
+
+Uchazečů bylo původně pět, jedna uchazečka ale v průběhu odstoupila a jedna nesplnila kvalifikační předpoklady. 
+
+Hodně síly popřál novému jednateli místostarosta Lukáš Holík (Naše Boskovice) a deklaroval, že městská rada mu chce dávat maximální podporu.
+
+Starostka a končící jednatelka Jana Syrovátková zároveň na tiskové konferenci potvrdila, že den před konáním výběrového řízení podal výpověď primář dětského oddělení Karel Mittner. Právě tento post byl v nemocnici v minulosti problematický a lůžková část oddělení byla kvůli absenci primáře několik měsíců uzavřena. Nyní bude na pozici vyhlášeno výběrové řízení.
+
+Nový jednatel Jan Trna se vyjádřil i k případnému převodu nemocnice pod kraj. Je to podle něj otázka, která by měla být široce a transparentně diskutována i s veřejností. Ta by měla vědět, jaké výhody a nevýhody jednotlivá řešení mají. Tyto výhody a nevýhody se navíc mohou lišit z pohledu města, zaměstnanců a pacientů. „Dlouhodobě mně vadilo, když se tady říkalo – když to připodobním ke hře Člověče, nezlob se – že když se nemocnice převede pod kraj, tak jsme v domečku, zachráněni. To tak z mého pohledu vůbec není, každá ta verze má své plusy a mínusy a ty by měly být otevřeně popsány. Pokud ztratíme nad nemocnicí kontrolu, nebudeme mít možnost ovlivnit, co se v ní bude dít – to je legitimní nevýhoda. Pro město je naopak nevýhoda, že současné uspořádání může stát dost peněz,“ řekl nový jednatel boskovické nemocnice Jan Trna.
+
+Starostka Jana Syrovátková doplnila, že nyní bude záležet i na tom, co bude chtít nová česká vláda a kam bude zdravotnictví směřovat. Sama stále věří tomu, že nemocnice se i pod městem umí postarat o to, aby její provoz nebyl ztrátový. Místostarosta Lukáš Holík uvedl, že jako krajský zastupitel dnes necítí vůli k tomu, aby kraj nemocnici převzal. Konkrétní informace však město nyní nemá, aktuálně žádná jednání neprobíhala. Do konce volebního období by podle Lukáše Holíka mělo být vyjasněno, jestli je převod pod kraj jen chiméra, nebo ne.
