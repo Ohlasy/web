@@ -52,6 +52,7 @@ export const filters: Filter[] = [
         "historie": "Pohledy do historie",
         "pojdte-ven": "Pojďte ven",
         "komise": "Z komisí",
+        "moje-boskovice": "Moje Boskovice",
       };
       return names[serialId] || serialId;
     },
