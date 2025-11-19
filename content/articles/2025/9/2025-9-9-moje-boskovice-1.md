@@ -3,6 +3,7 @@ title: "Moje Boskovice: Pavlína Vítková a Petr Ondráček"
 cover-photo: https://i.ohlasy.info/i/de9ee5fd.jpg
 author: Tomáš Trumpeš
 category: seriály
+serial: moje-boskovice
 ---
 
 *Seriál Moje Boskovice vychází z fotovýzvy, kterou vyhlásil festival Boskovice ve spolupráci s našimi novinami a Kulturními zařízeními města Boskovice. Výsledkem je soubor snímků, ve kterých především místní fotografové a fotografky zachycují svá oblíbená i neoblíbená místa ve městě a také to, na co jsou jako občané hrdí. Výzva pokračuje dál, takže pokud se chcete zapojit, posílejte fotky a komentáře k nim na mail <ohlasy@ohlasy.info>. Dnes publikujeme snímky a postřehy Pavlíny Vítkové a Petra Ondráčka.*
