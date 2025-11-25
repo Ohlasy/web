@@ -110,7 +110,7 @@ Představení parku bylo v době, kdy se odevzdávala projektová dokumentace, c
 
 **A veřejnost?** 
 
-Veřejnost má možnost i na zastupitelstvu. Já jsem nepovažoval za zase nějak zásadní a důležité, když v minulosti o to zájem nebyl… možná je to chyba. Vyhodnotil jsem to možná špatně, že by znovu ten zájem nebyl, když už ten stejný projekt by se omýlal znovu po nějakých dvou letech. Říkal jsem si, že tady představení už jednou bylo. 
+Veřejnost má možnost i na zastupitelstvu. Já jsem nepovažoval za zase nějak zásadní a důležité, když v minulosti o to zájem nebyl… možná je to chyba. Vyhodnotil jsem to možná špatně, že by znovu ten zájem nebyl, když už ten stejný projekt by se omílal znovu po nějakých dvou letech. Říkal jsem si, že tady představení už jednou bylo. 
 
 ### Ještě můžeme ten vztah vyčistit
 
