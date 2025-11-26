@@ -56,3 +56,7 @@ V rámci adaptace lze mnoho udělat i přímo v budovách, zejména pokud jde o 
 Budovy se mohou přehřívat i kvůli nevhodným materiálů a barvám. Tmavé odstíny a masivní materiály, jako je beton, se mohou rozpálit až na 60 stupňů a teplo dlouho držet, zatímco světlé barvy, zejména bílý plech, zůstávají o desítky stupňů chladnější, protože lépe odrážejí záření a méně akumulují teplo. „Při výběru střešní krytiny se vyplatí volit světlejší odstíny a také zohlednit vlastnosti materiálu, jeho schopnost teplo pojmout a rychlost, s jakou ho dokáže odevzdat zpět do okolí,“ uzavírá tuto část Martin Ander.
 
 Závěr přednášky patřil konkrétním příkladům z praxe, z nichž některé byly také oceněni v soutěži [Adapterra Awards](https://www.adapterraawards.cz). Ta už sedm let shromažďuje a oceňuje ověřené příklady dobré praxe a nabízí je veřejnosti v [online databázi](https://www.adapterraawards.cz/cs/databaze) jako inspiraci pro další města a projekty.
+
+---
+
+*Tento text vznikl díky projektu Ohlasy Extra, ve kterém vám společně s [Nadačním fondem nezávislé žurnalistiky](https://www.nfnz.cz/) přinášíme obsah zaměřený na běžně opomíjená témata. Podpořte vznik nových článků a videí na [ohlasy.info/extra](https://ohlasy.info/extra/).*
