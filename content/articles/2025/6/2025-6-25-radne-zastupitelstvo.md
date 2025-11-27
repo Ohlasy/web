@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Červnové jednání boskovického zastupitelstva proběhlo opět ve velmi klidném duchu a netrvalo ani dvě hodiny. Řešila se obvyklá témata – nemocnice, sportovní hala, knihovna i školství – ale zdá se, že rok a čtvrt před komunálními volbami není nálada na politické scéně nijak konfliktní.*
 
-{% youtube_video id="CvFtr4OWJYk" /%}
+{% youtube_video id="zmQcLR5uH2U" /%}
 
 V úvodu zastupitelstva starostka Jana Syrovátková poděkovala a předala děkovný list a pamětní medaili zaměstnanci městského úřadu Jaroslavu Koudelkovi – za záchranu lidského života a statečnost. Podle informací Ohlasů se podílel na zásahu při [tragické události v Úsobrně](https://blanensky.denik.cz/zpravy_region/vrazda-pokud-o-vrazdu-osobrno-blanensko-vnuk-prarodice.html).
 
