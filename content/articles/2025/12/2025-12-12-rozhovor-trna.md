@@ -1,0 +1,86 @@
+---
+title: „Dna už jsme dosáhli, teď je potřeba se z něj co nejrychleji odrazit.“
+cover-photo: https://i.ohlasy.info/i/11fe54a3.jpg
+author: Tomáš Trumpeš
+category: podcast
+---
+
+*Rozhovor s Janem Trnou, novým jednatelem boskovické nemocnice. O jeho vizi, šancích malé městské nemocnice a situaci, jaká panuje v té boskovické.*
+
+{% podcast_player file="2025/podcast/trna.mp3" /%}
+
+**Jak se rodilo tvoje rozhodnutí kandidovat na jednatele? Dlouho to vypadalo, že uvnitř nemocnice se žádný kandidát neobjeví – a nakonec ses objevil ty.** 
+
+Je to tak, jak říkáš – několik výběrových řízení jsem čekal na to, jestli se někdo přihlásí. Někdo, komu bych cítil, že mohu dát podporu a že má víceméně dobrou šanci řídit nemocnici dobře. Postupem času jsem měl pocit, že se tvrdí, že vlastně nikdo nechce, že nejsou žádní kandidáti a tak podobně. Tak jsem si řekl, že se přihlásím – už jenom proto, abych ukázal, že prostě lidi můžou být, když chtějí. 
+
+**Jak budeš dál kloubit svou lékařskou a manažerskou práci? To je otázka, která člověka samozřejmě napadne, protože jsi docela renomovaný odborník a… nechci říct, že je to škoda, že jdeš dělat jednatele, ale budeš se snažit dál pokračovat v lékařské profesi? Je nějaký prostor, zůstat aspoň nějakou částí úvazku na oddělení?** 
+
+Je to otázka, kterou dostávám velmi často. Hodně lidí to zajímá. Jak jsi správně řekl, mě to hlavně baví. Prostě si nedokážu představit, že bych neendoskopoval, nedělal gastroenterologii, takže se budu snažit to nějakým způsobem skloubit. Je mi jasné, že hlavně na začátku to asi nepůjde a manažerská práce bude muset mít přednost, ale i tak se budu snažit si v programu dejme tomu den a půl vyšetřit na práci v ambulanci. A pokud se pak podaří nastavit procesy, tak by to snad mohlo být i víc. 
+
+**Můžeš prosím popsat, jaká je tvoje základní vize, se kterou jsi ve výběrovém řízení uspěl?** 
+
+Moje základní vize byla taková, že v tuhle chvíli si myslím, že je potřeba, aby jednatelem nemocnice byl lékař. Mám totiž pocit, že po těch několika výměnách managementu, kdy to byli nelékaři, se to opravdu určitým způsobem rozklížilo a že v tuhle chvíli má lékař možnost své kolegy, zdravotníky i sestřičky strhnout, zkusit jim jít příkladem a nějakým způsobem namotivovat k tomu, abychom zase táhli všichni za jeden provaz. Takže jsem si řekl, že to bude můj cíl.
+
+Tím, že jsem pracoval i v privátní ambulanci, mám v sobě už nějaký nádech toho, že zdravotnictví nežije ve vzduchoprázdnu, ale že si na sebe musí „vydělat“. To se budu chtít snažit přenést mezi kolegy. My logicky většinou léčíme, záleží nám na tom a moc nesledujeme, jestli se to ekonomicky vyplatí a co dělat pro to, aby se to vyplatilo. Jak budu pronikat do těch ekonomických a manažerských věcí, budu se chtít snažit do toho zatahovat i zbytek personálu, abychom tu situaci ekonomicky ustáli a rozvíjeli obory, na které tady máme kapacity a odborníky. 
+
+**Můžeme zkusit postupně probrat situaci v nemocnici, do které teď jako jednatel vstupuješ. A začneme právě od té ekonomiky – máš už nějakou podrobnou představu o tom, jak si nemocnice teď zrovna stojí, v jaké je kondici?** 
+
+Já si myslím, že si pořád ještě stojí docela slušně. Ono je potřeba všechno vnímat v určitém globálu. Upřímně řečeno, myslím si, že celý systém –  pod čarou to říkají i zástupci druhé strany, ať už jsou to pojišťovny nebo stát – k tomu tak trochu přistupuje tak, že nemocnice si vydělaly za covidu určitý balík peněz a teď že by s nimi měly nějakým způsobem pár let žít. Svým způsobem je v mínusu velká většina nemocnic, takže bych to neviděl úplně tak, že v tom jsme sami. Určitý polštář peněz z covidu tam ještě zůstává. Vždycky je samozřejmě škoda ten polštář projíst a nezainvestovat. Když se to dělá dobře, tak se ty peníze dají využít lépe. My je do určité míry posledních pár let projídáme, ale ještě tam nějaké jsou a myslím si, že z těch dat, která se samozřejmě vždycky vidí až zpětně, by se situace minimálně neměla dále zhoršovat. Takže snad už jsme dosáhli v loňském roce nějakého dna a teď bude samozřejmě potřeba se od něj co nejrychleji odrazit a zase se ekonomicky vrátit alespoň na nulu. 
+
+**A co personální situace? To je věc, která se v Boskovicích často probírá – příchody, odchody lékařů. Už jsme zažili i to, že se muselo zavřít jedno oddělení, protože tam nebyl primář. Jak vnímáš aktuální stav?**
+
+Doufám, že to je nějakým způsobem stabilizované. Ono asi v každé práci a ve zdravotnictví zvlášť prostě lidé přicházejí a odcházejí, to je normální. Problém je třeba ve srovnání s velkou klinikou fakultní nemocnice, kde je na jednom oddělení třeba 40 lékařů – tam je zastupitelnost větší. Malé nemocnice opravdu může personálně ohrozit i odchod jednoho, dvou lékařů, který se prostě může stát. A nemusí to být ani chyba managementu – lidé se prostě stěhují, dostanou jinou výzvu, koneckonců můžou onemocnět. Takže malé nemocnice jsou tímto ohroženy řekl bych permanentně. Ale já doufám, že postupně se to nějakým způsobem stabilizuje. Na internu už nám pár mladších kolegyň přišlo, tam bychom potřebali samozřejmě ještě nějaké lidi. Přišel nový primář na urologii, který zase stahuje tím, že má nějaký moderní přístup, další lidi. To je jeden z oborů, které bychom chtěli rozvíjet. Takže doufám, že se situace stabilizuje, že i v tomhle máme to „dno“ za sebou.
+
+**Už jsi trochu narazil i na to, jaká je atmosféra mezi zaměstnanci a že cítíš určitou výzvu v tom, abys ji vylepšil. Rád bych se toho ještě dotkl, protože události těch posledních let v nemocnici byly opravdu poměrně turbulentní – tak jak tu náladu dneska vnímáš? Můžeš to ještě popsat?** 
+
+Myslím, že postupně. Snažím se teď projít jednotlivé provozy, potkat se tam nejen s vedením, ale jednotlivými lékaři, sestřičkami, vidět ty zaměstnance. S velkou většinou z nich se samozřejmě znám. To si myslím, že je má velká výhoda, protože v té nemocnici trávím více jak polovinu hodin v měsíci jako lékař. Samozřejmě neznám všechny. Nejsem třeba na operačních sálech, kromě výjimek, když tam děláme nějakou akutní endoskopii. Takže některým se i představuju. Vnímám to tak, že moje vítězství v konkurzu vnímá většina těch lidí jako určitou šanci – že se „jeden z nás“ stal jednatelem nemocnice. Ale je mi jasné, že toto nadšení a očekávání nevydrží úplně dlouhou dobu. A teď bude mou největší výzvou to nějakým způsobem naplnit a jejich očekávání nezklamat. 
+
+### Menší nemocnice mohou fungovat
+
+**Jaké jsou dneska šance takové malé městské nemocnice? Věříš tomu, že je možné ji udržet nad vodou a v rozumné provozní bilanci?** 
+
+Já si myslím, že ano. Z toho, co o tom vím, když vidím, kde jsou naše mínusy nebo plusy, si myslím, že i v současné situaci se dá při dobrém managementu a naplánování péče víceméně udržet minimálně na nule. A myslím si, že nikdo neočekává ani ve městě, že bychom měli na nemocnici vydělávat. My ji tady hlavně chceme mít a potřebujeme, abychom ji nemuseli moc dotovat. Takže když budeme na černé nule, tak si myslím, že bude víceméně každý spokojený. A to si myslím, že je nemocnice schopná zařídit. 
+
+Upřímně řečeno, všechny ty ostatní varianty stejně nezaručují nic moc jiného, protože třeba dlouho skloňovaný převod na kraj by vyřešil akorát to, že politické hrátky by se z Boskovic přesunuly o jedno patro politické garnitury výš a případný mínus by sanoval kraj, a ne město Boskovice. Takže to by byla hlavní výhoda, ale lékaře nebo jiné zdravotníky nám kraj nevyčaruje. Oni taky žádné nemají. Takže víceméně by nám to stejně nepomohlo, protože kolem není síť jiných krajských zdravotnických zařízení. Dobře to umí dělat chytrým posíláním si na svá pracoviště Agel. Evidentně tudíž menší nemocnice mohou fungovat, když se dají dohromady. 
+
+**A myslíš si, že je to možné i za cenu, že se nebudou žádným způsobem omezovat a redukovat služby? Protože ty soukromé nemocnice to tak dělají, že neposkytují komplexní služby, vyberou si to, co funguje dobře i ekonomicky. Ale boskovická nemocnice potřebuje poskytovat služby kompletní – vnímáš to tak?** 
+
+I nemocnice, které má Agel, pokud jsou v prostoru, kde není jiná jejich nemocnice, musí poskytnout ten základ. My taky neposkytujeme všechno a na specializované metody posíláme jinam. Výhodou Agelu je, že v každé nemocnici má třeba něco trochu specializovaného a tudíž oni neposílají takzvanou vyžádanou péči. To znamená, že platíš za nějaký výkon, který sám nemáš, někomu jinému. Oni naprostou většinu výkonů třeba nedělají v té konkrétní nemocnici, ale v jiné nemocnici holdingu. Takže si přihrávají práci sami sobě a tím jsou na tom v součtu ekonomicky lépe. Ale určitě musí udržet základní obory v těch menších nemocnicích, kde široko daleko nic není. 
+
+Většina oborů se dá provozovat tak, aby byla víceméně rentabilní. S některými výjimkami – v menších nemocnicích se vždy uvažuje o dětském oddělení, které asi už z podstaty věci nemůže moc generovat zisk. Ale tam si myslím, že to je o té otevřené debatě s populací a s námi všemi, že my to tady chceme, protože nechceme se svými dětmi čekat pět hodin v Černých Polích. Takže musíme počítat s tím, že tenhle provoz musí být do určité míry sanovaný nějakým jiným, který zase něco vydělá, a chceme ho tady jako službu. Takže některé provozy pak jsou sanovány těmi druhými, ale v součtu to musí vyjít na nulu. A to se v relativně velké nemocnici, jak jsme my, dá zasanovat.
+
+**Čili když to shrnu, neobáváš se toho, že bys musel dělat drastická rozhodnutí typu, že některé oddělení budeme muset úplně zavřít a vzdát se té služby?** 
+
+Doufám, že ne. Myslím, že takovéto věci by vzešly spíš z těch personálních problémů. Že bychom opravdu narazili znovu na to, že nebudeme mít dost personálu, abychom dané oddělení pokryli. Jinak si myslím, že tam máme relativně výdělečná oddělení, která jsou dobře úhradou pokrytá, jako třeba ortopedie a podobně. A ty dokážou vygenerovat dostatečný zisk, abychom určitou ztrátu, kterou bude zase generovat třeba to dětské, dokázali zasanovat. Náklady tam zase nejsou tak extrémní, takže se to vyrovná. 
+
+Druhá věc – a tu asi neovlivníme – jsou počty porodů. Tam můžeme ztrácet relativně velké peníze a porodů ubývá, takže tohoto bych se trochu obával. Ale boskovická porodnice byla vyhlášená a doufejme, že se i nadále udrží a že bude spádově stahovat rodičky a udržíme se aspoň na počtech, které budou rentabilní. 
+
+**Bylo by naopak potřeba něco rozšiřovat? Jsou nějaké služby, které tady v Boskovicích chybí nebo ti připadají nedostatečné a bylo by potřeba je posílit a rozvíjet?** 
+
+V každém oboru jsou určitě podobory, které tady prostě chybí a lidi za nimi musí dojíždět nebo se k té službě obtížně dostávají. Když budu mluvit o tom, co je mi nejbližší, a to je vnitřní lékařství, interna, tak je zde řada podoborů, kde je problém získat specialistu – ať už je to revmatologie, diabetologie a podobně. Jsou to v podstatě obory, které nemocnice dlouhodobě neměla. Byly zde v soukromíci, kteří tyto služby poskytovali, a přitom jsou to obory, ve kterých je opravdu veliká poptávka a je možná škoda, že nemocnice už dávno nepracovala na tom, aby některé kolegy nebo kolegyně profilovala do těchto podoborů interny. Začíná se na tom pracovat, internu – endokrinologii už máme. Podobně když zmíním chirurgii, tak léčby chronických ran a podobně jsou veliké problémy, které lidi řeší, a chtělo by to nějakou specializovanou péči i v chirurgii poskytovat. 
+
+A pak u těch oborů, které máme vynikající, narážíme na kapacity prostorové a lidské. Třeba naše ortopedie má takové jméno, že jsou tam dlouhé čekací doby, takže kdybychom byli schopni tohle nafouknout víceméně na dvojnásobek, stejně by pacienti byli. Takže bych chtěl tyto obory profilovat a ty ambulantní nějakým způsobem zavést, aby lidi nemuseli jezdit do Brna třeba na diabetologii. 
+
+**Jaké jsou dnes v nemocnici investiční priority? Co tě čeká v tomto ohledu?**
+
+Když se budeme bavit o investicích, tak jedna z velkých investic, která nás čeká a je to pro mě trochu taková noční můra, je nový informační systém. Náš informační systém je opravdu už na konci své podpory a své existence a nezbývá nám, než vysoutěžit nový. Což je samozřejmě tak, jak to u těch IT projektů bývá – jednak spousta peněz, spousta různých úskalí, a jednak to, že když někomu vyměníte informační systém, tak lidi z logiky věci budou naštvaní, protože je to prostě veliký krok mimo něco, na co je člověk zvyklý. Takže to je teď nejaktuálnější věc. 
+
+A pak spousta takových drobností. Každé oddělení má nějaký plán investic, co by chtělo pořídit, takže budeme samozřejmě postupně obnovovat různé technologie. Ale nemyslím si, že by v tuto chvíli byl úplně plán koupit nějakou převratnou novou technologii, krom toho informačního systému, který vidět není, ale je podstatný. 
+
+### Dostat lidi k jednomu stolu
+
+**Ještě se chci zeptat na aktuální manažerský tým ve vedení nemocnice – jestli tam plánuješ nějaké změny, jestli je potřeba přivést si třeba nějaké nové lidi na místa náměstků a podobně. Jaká je teď v managementu situace, do které jsi přišel?** 
+
+Situace je asi taková, že po několika změnách managementu je tam řada různých lidí, kteří bohužel tvoří do určité míry různé skupinky. Takže v tom takzvaném modrém domečku, jak my říkáme ředitelství, ta situace dobrá není. To říkám na rovinu. Mojí snahou je ty lidi dostat k jednomu stolu, probrat si situaci, prodiskutovat to s nimi. A snažit se najít cestu, aby ty pozitivní vlastnosti, které z té krátké nebo delší doby – podle toho, jak s kým mám zkušenosti – vidím na každém, protože nikdo není černobílý, dali dohromady. Potom si myslím, že by to mohlo fungovat dobře. 
+
+Samozřejmě jestli to dohromady půjde, to se všechno uvidí. Řeknu teď takový bonmot: kdybych poslechl všechny rádce, kteří mi radí, koho mám po svém nástupu vyhodit, tak bych tam v tuhle chvíli seděl s paní sekretářkou sám. Takže já jsem se momentálně pokusil jít opačnou cestou, nehodlám z těch lidí lidově řečeno „vyhazovat“ nebo „vyštípávat“ nikoho. Chci si dát nějaký čas, abych pochopil, jak ten člověk pracuje, jak je přínosný, jak je i schopný v daném kolektivu fungovat. Někdo může být šikovný a chytrý, ale prostě nezapadne do zbytku kolektivu. Ve sportu taky bývají vyměněny největší hvězdy, pokud to nefunguje, a potom se postupně ten tým vykrystalizuje. 
+
+**Jak důležitá je pro tebe komunikace a vztahy nemocnice s veřejností?** 
+
+Já si myslím, že by to měla být opravdu zásadní věc. Obyvatelé Boskovicka a okolí na jednu stranu mají svou nemocnici rádi a jsou na ni hrdí. Její služby využívají vcelku dost. Na druhou stranu jsme se asi všichni setkali s různými názory, že *v Boskovicích bych si nenechal ani to, ani tamto*. Protože mě relativně zajímá historie, četl jsem si o zakládání nemocnice, jak to tady bylo dalo by se říct vytoužené dítě – ale přitom mám pocit, že od prvopočátku se tvrdilo, že má ta nemocnice špatnou pověst. To se tak jaksi nese, každý tam chodí, ale každý svým způsobem občas nadává na kvalitu péče. Myslím, že je potřeba komunikovat, vysvětlit lidem, jak nemocnice funguje, že opravdu jsou zde věci, které každý z nás bere jako normální. Že přijdeme do nemocnice víceméně kdykoli během služby. A to čekání, které nám samozřejmě někdy může přijít jako dlouhé, ve srovnání s tím, co já jsem zažil ve velkých fakultních nemocnicích, kde jsou to opravdu na čekárnách urgetních příjmů prosezené hodiny a hodiny, tak to je obrovský benefit, že tady to vyšetření probíhá místy až v rodinné atmosféře. Je to něco, čeho by si občané měli vážit a myslím si, že by měli víc a víc slyšet, že to prostě není samozřejmost. Pokud by tady ta nemocnice nebyla a o to víc lidí by bylo na těch urgentních příjmech v Brně, tak by to bylo možná k neučekání. Takže my máme obrovskou výhodu, že tady tu nemocnici máme a měli bychom si jí proto vážit a měli bychom ji opravdu brát jako takové rodinné stříbro. 
+
+**Bavíme se celou dobu o městské nemocnici, to znamená, že nemocnice je společnost s ručením omezeným a valnou hromadu tvoří boskovická městská rada. My tady v Boskovicích máme velké zkušenosti s tím, jak politici do fungování nemocnice a práce jednatele poměrně invazivně zasahují. Máš nějakou naději, že to teď bude jinak a že to bude třeba lepší?** 
+
+Doufám, že ano. Doufám, že nejsem příliš naivní. Jednak si myslím, že po tom všem, co se stalo, by opravdu mohlo politické reprezentaci dojít, že to nedělá dobrotu. Osobně jsem se setkal s nemálo lidmi, kteří říkali, že nebudou aspirovat na místo jednatele právě proto, že politická garnitura do toho chodu neustále zasahuje a že to nemají zapotřebí. Takže doufám, že tam dojde k určitému pochopení. 
+
+S paní starostkou, se kterou jsem si funkci předával, jsme si vcelku narovinu tyto věci probrali. Nastavili jsme si mantinely spolupráce. Ona tam samozřejmě strávila nemalý čas a představuje v podstatě majitele, tak jsme se domluvili, jakým způsobem se budeme informovat, abychom se nepřekvapovali, ale na druhou stranu, aby bylo dodrženo to, co vychází ze zákona o tomhle typu organizací. To znamená, že jednatel jedná nezávisle a pak se dejme tomu zpovídá vlastníkovi z výsledků. Ale že tam nefunguje vztah nějakého přímého úkolování, protože jinak by vlastník nebo s. r. o. jednatele nepotřebovalo mít, kdyby to řídili sami.
