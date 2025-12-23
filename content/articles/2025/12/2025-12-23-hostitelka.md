@@ -3,6 +3,8 @@ title: „Jezdím někam, kde jsou lidé rádi, že tam jsem. A já jsem moc rá
 cover-photo: https://i.ohlasy.info/i/bd5abd82.jpg
 author: Kristina Studená
 category: podcast
+tags:
+  - Ohlasy Extra 2025
 ---
 
 *Rozhovor o hostitelské péči. O možnosti nabídnout dětem z dětských domovů trávit občas společný čas a vytvořit si pevné vztahy si Kristýna Studená povídala s Gabrielou a s Verčou, které hostitelské péče využívají.*
