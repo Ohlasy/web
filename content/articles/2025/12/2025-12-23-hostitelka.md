@@ -7,7 +7,7 @@ tags:
   - Ohlasy Extra 2025
 ---
 
-*Rozhovor o hostitelské péči. O možnosti nabídnout dětem z dětských domovů trávit občas společný čas a vytvořit si pevné vztahy si Kristýna Studená povídala s Gabrielou a s Verčou, které hostitelské péče využívají.*
+*Rozhovor o hostitelské péči. O možnosti nabídnout dětem z dětských domovů trávit občas společný čas a vytvořit si pevné vztahy si Kristina Studená povídala s Gabrielou a s Verčou, které hostitelské péče využívají.*
 
 {% podcast_player file="2025/podcast/hostitelka.mp3" /%}
 
