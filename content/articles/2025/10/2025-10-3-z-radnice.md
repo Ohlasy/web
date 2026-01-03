@@ -57,7 +57,7 @@ V době konání tiskové konference město ještě nemělo k dispozici přeprac
 
 ### Prohlídka bývalého štábu na ulici Svatopluka Čecha
 
-Na středu 15\. října od 16 hodin naplánovalo město setkání s veřejností spojené s prohlídkou [budovy bývalého štábu civilní obrany](https://fotky.ohlasy.info/Štáb-civilní-obrany) na ulici Svatopluka Čecha.
+Na středu 15\. října od 16 hodin naplánovalo město setkání s veřejností spojené s prohlídkou [budovy bývalého štábu civilní obrany](https://fotky.ohlasy.info/share/3lDmFigZ14AVasjhK8LrrtEWLXzicsDOR-3D1zG-tDbE5rMHmD-dMmMBxsQTjiTwxu4) na ulici Svatopluka Čecha.
 
 ### Otevření skateparku
 

@@ -44,7 +44,7 @@ Zájem byl také o [novou ředitelku mateřské školy a ředitele základní š
 
 Z rozhovorů vás letos nejvíc zaujal ten [se starostkou Janou Syrovátkovou](https://ohlasy.info/clanky/2024/11/jana-syrovatkova-rozhovor.html) (Změna22) u příležitosti bilancování v polovině volebního období.
 
-Zapomínat bychom neměli ani na fotky, proto tady připomenu dvě fotogalerie, které se rovněž dočkaly mimořádného zájmu. První byl [fotoreport Tomáše Znamenáčka z povodní](https://fotky.ohlasy.info/Velk%C3%A1-voda), druhý [z budovy bývalého štábu civilní obrany](https://fotky.ohlasy.info/%C5%A0t%C3%A1b-civiln%C3%AD-obrany) na ulici Svatopluka Čecha.
+Zapomínat bychom neměli ani na fotky, proto tady připomenu dvě fotogalerie, které se rovněž dočkaly mimořádného zájmu. První byl [fotoreport Tomáše Znamenáčka z povodní](https://fotky.ohlasy.info/share/GXjZLBMPJ4j-aN88OMe3JsoIUmlGd18n8eg4WyNYgN0NMmvZBK4nX2vyHLLMMbqonfw), druhý [z budovy bývalého štábu civilní obrany](https://fotky.ohlasy.info/share/3lDmFigZ14AVasjhK8LrrtEWLXzicsDOR-3D1zG-tDbE5rMHmD-dMmMBxsQTjiTwxu4) na ulici Svatopluka Čecha.
 
 ### Rok 2024 v Ohlasech
 

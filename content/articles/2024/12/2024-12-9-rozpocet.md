@@ -11,7 +11,7 @@ category: zpravodajství
 
 Mnozí možná čekají, že tím, kvůli čemu se takzvaně kopne do země, bude dvě desetiletí plánovaná stavba sportovní haly či ještě delší dobu připravovaná nová budova knihovny. Jenže ani protentokrát se s těmito dvěma velkými investičními dluhy nepočítá. Obě stavby jsou zatím, respektive opět, pouze v přípravách.
 
-Hlavní pozornost města se soustředí jiným směrem, a to na [bývalou budovu hasičů na ulici Svatopluka Čecha](https://fotky.ohlasy.info/Štáb-civilní-obrany). Právě do tohoto objektu schovaného za bytovými domy chce město přesunout Středisko volného času ze stávající budovy na ulici 17\. listopadu, která je ve špatném stavu. „Prostor SVČ je naplánován na 1,5 patra,“ popsala starostka Jana Syrovátková (Změna22) s tím, že v budově vzniknou také dvě třídy mateřské školy.
+Hlavní pozornost města se soustředí jiným směrem, a to na [bývalou budovu hasičů na ulici Svatopluka Čecha](https://fotky.ohlasy.info/share/3lDmFigZ14AVasjhK8LrrtEWLXzicsDOR-3D1zG-tDbE5rMHmD-dMmMBxsQTjiTwxu4). Právě do tohoto objektu schovaného za bytovými domy chce město přesunout Středisko volného času ze stávající budovy na ulici 17\. listopadu, která je ve špatném stavu. „Prostor SVČ je naplánován na 1,5 patra,“ popsala starostka Jana Syrovátková (Změna22) s tím, že v budově vzniknou také dvě třídy mateřské školy.
 
 „V půdních prostorech jsou pak rezervy pro klubovny spolků, které je budou potřebovat. Zatím je to jen volná kapacita,“ doplnila. V návrhu rozpočtu města na příští rok se počítá, že rekonstrukce vyjde na 50 milionů korun. Radnice by i ráda získala dotaci.
 
