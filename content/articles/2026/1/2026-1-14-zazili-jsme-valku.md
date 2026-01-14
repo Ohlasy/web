@@ -6,7 +6,7 @@ category: seriály
 serial: pribehy
 ---
 
-*V dalším díle seriálu Každý má svůj příběh se spolupracovník Paměti národa vrací k zákulisí vzniku unikátního dokumentárního filmu Zažili jsme válku – příběhy z Boskovic, který vznikl v loňském roce při příležitosti 80 výročí konce 2\. světové války.*
+*V dalším díle seriálu Každý má svůj příběh se spolupracovník Paměti národa vrací k zákulisí vzniku unikátního dokumentárního filmu Zažili jsme válku – příběhy z Boskovic, který vznikl v loňském roce při příležitosti 80. výročí konce 2\. světové války.*
 
 {% youtube_video id="OGyUvmRpnWs" /%}
 
