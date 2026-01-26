@@ -70,6 +70,9 @@ export const youtube_video: Schema = {
     title: {
       type: String,
     },
+    time: {
+      type: Number,
+    },
   },
 };
 

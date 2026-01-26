@@ -165,19 +165,27 @@ type YouTubeVideoProps = {
   id: string;
   aspect?: number;
   title?: string;
+  time?: number;
 };
 
 const YouTubeVideo = ({
   id,
   aspect = 16 / 9,
   title = "Přehrávač videa",
-}: YouTubeVideoProps) => (
-  <iframe
-    width="100%"
-    style={{ aspectRatio: aspect, marginTop: "20px", marginBottom: "20px" }}
-    src={`https://www.youtube-nocookie.com/embed/${id}`}
-    title={title}
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowFullScreen
-  ></iframe>
-);
+  time,
+}: YouTubeVideoProps) => {
+  const embedUrl = new URL(`https://www.youtube-nocookie.com/embed/${id}`);
+  if (time) {
+    embedUrl.searchParams.set("start", time.toString());
+  }
+  return (
+    <iframe
+      width="100%"
+      style={{ aspectRatio: aspect, marginTop: "20px", marginBottom: "20px" }}
+      src={embedUrl.toString()}
+      title={title}
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen
+    ></iframe>
+  );
+};
