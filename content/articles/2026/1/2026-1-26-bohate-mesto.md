@@ -1,5 +1,5 @@
 ---
-title: Jsme bohaté město a potřebujeme mít odvahu investovat, nebo potřebujeme šetřit od nejmenších položek jako staří obchodníci?
+title: Jsme bohaté město a potřebujeme mít odvahu investovat, nebo potřebujeme šetřit jako staří obchodníci?
 cover-photo: https://i.ohlasy.info/i/6e73117f.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
