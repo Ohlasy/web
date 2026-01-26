@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: názory a komentáře
 ---
 
-*Jednání zastupitelstva může působit suchopárně, někdy až úmorně. Je to logické, řeší se konkrétní věci, často technikálie, které jsou samozřejmě důležité, politický podtext diskuse také moc nenahrává sofistikované diskuzi. Přesto občas dojde k nějaké intelektuálně podnětné výměně názorů. [Na posledním zastupitelstvu](https://ohlasy.info/clanky/2025/12/zastupitelstvo-report.html) jedna takto mimořádně zajímavá debata proběhla a stojí za to si ji připomenout. Vedli ji především Radek Pernica (Změna22) a Jaroslav Dohnálek (SPOLU, ODS).*
+*Jednání zastupitelstva může působit suchopárně, někdy až úmorně. Je to logické, řeší se konkrétní věci, často technikálie, které jsou samozřejmě důležité, politický podtext diskuse také moc nenahrává sofistikované debatě. Přesto občas dojde k nějaké intelektuálně podnětné výměně názorů. [Na posledním zastupitelstvu](https://ohlasy.info/clanky/2025/12/zastupitelstvo-report.html) jedna takto mimořádně zajímavá debata proběhla a stojí za to si ji připomenout. Vedli ji především Radek Pernica (Změna22) a Jaroslav Dohnálek (SPOLU, ODS).*
 
 {% photo src="https://i.ohlasy.info/i/6e73117f.jpg" caption="Bagr na staveništi Centra polytechnické výchovy, jedné z mála veřejných staveb v moderní historii Boskovic (2018)" author="Tomáš Znamenáček" width=4896 height=3264 /%}
 
