@@ -5,7 +5,7 @@ author: Kristina Studená
 category: zpravodajství
 ---
 
-*Společně s novým rokem zahájil boskovický Unijazz, pobočný spolek pražského Unijazzu, projekt financovaný Nadací OSF. Spolek, který vede kulturní a komunitní centrum Prostor a stejnojmennou kavárnu, se v konkurenci 277 žádostí z celé republiky dostal až do finálního kola, ve kterém bylo podpořeno jen 14 organizací. Z [Nadace OSF](https://osf.cz) a programu [Stronger Roots](https://osf.cz/co-delame/stronger-roots/) tak organizace obdrží téměř milion korun na rozvoj komunikace, fundrasingu a vytváření komunity.*
+*Společně s novým rokem zahájil boskovický Unijazz, pobočný spolek pražského Unijazzu, projekt financovaný Nadací OSF. Spolek, který vede kulturní a komunitní centrum Prostor a stejnojmennou kavárnu, se v konkurenci 277 žádostí z celé republiky dostal až do finálního kola, ve kterém bylo podpořeno jen 14 organizací. Z [Nadace OSF](https://osf.cz) a programu [Stronger Roots](https://osf.cz/co-delame/stronger-roots/) tak organizace obdrží téměř milion korun na rozvoj komunikace, fundraisingu a vytváření komunity.*
 
 {% photo src="https://i.ohlasy.info/i/26da5918.jpg" caption="Vánoční Koledomat, oblíbené kolední tour po Boskovicích se stařičkým harmoniem, tradičně se zakončením v Prostoru" author="Tomáš Znamenáček" width=4896 height=3264 /%}
 
