@@ -28,11 +28,11 @@
     "xmlbuilder2": "^4.0.3"
   },
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
+    "@playwright/test": "^1.58.0",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "18.x",
     "@types/react-dom": "18.x",
-    "@vercel/node": "^5.5.22",
+    "@vercel/node": "^5.5.28",
     "autoprefixer": "^10.4.23",
     "eslint-config-next": "16.x",
     "glob-bin": "^1.0.0",
