@@ -41,4 +41,4 @@ Po sečtení všech investic se samozřejmě nabízí otázka, kde na to na vše
 
 Běžné příjmy města jsou během čtyř let odhadnuty na více než 2 miliardy korun. Kromě utracení výše zmíněných úspor pak město plánuje pořídit si ještě druhý investiční úvěr 140 milionů korun. „Město si může vzít úvěr až 200 milionů korun. To je strop, ale nepočítáme, že bychom šli na hranu,“ uvedla starostka Jana Syrovátková.
 
-Vzhledem k tomu, že letos jsou komunální volby, bude také záležet na tom, jestli příští vedení města plán investičních akcí převezme, nebo se bude snažit ho změnit. V Boskovicích bylo vždy zvykem spíše to druhé. Pokud ale bude rozestavěný park u skleníku a smluvně zavázaná stavba haly, příští vedení města moc manipulativního prostoru mít nebude.
+Vzhledem k tomu, že letos jsou komunální volby, bude také záležet na tom, jestli příští vedení města plán investičních akcí převezme, nebo se bude snažit ho změnit. V Boskovicích bylo vždy zvykem spíše to druhé. Pokud ale bude rozestavěný park u skleníku a smluvně zavázaná stavba haly, příští vedení města moc manipulačního prostoru mít nebude.
