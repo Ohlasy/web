@@ -10,7 +10,7 @@ type Props = {
 
 export const DatawrapperChart = ({ id, version }: Props) => {
   const elem = useRef<HTMLDivElement | null>(null);
-  const script = useRef<HTMLScriptElement>();
+  const script = useRef<HTMLScriptElement>(null);
   const embedUrl = version
     ? `https://datawrapper.dwcdn.net/${id}/embed.js?v=${version}`
     : `https://datawrapper.dwcdn.net/${id}/embed.js`;
