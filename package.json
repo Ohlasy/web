@@ -9,8 +9,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "lint": "next lint",
-    "typecheck": "tsc --noEmit",
     "test": "glob-bin -c 'tsx --test' '{src,app}/**/*.test.ts'",
     "playwright": "playwright test"
   },
@@ -20,34 +18,23 @@
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.1",
-    "next": "^14.2.35",
+    "next": "^16.1.6",
     "plausible-tracker": "^0.3.9",
-    "react": "18.x",
-    "react-dom": "18.x",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "typescript-json-decoder": "^1.0.11",
     "xmlbuilder2": "^4.0.3"
   },
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/js-yaml": "^4.0.9",
-    "@types/react": "18.x",
-    "@types/react-dom": "18.x",
-    "@vercel/node": "^5.6.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.24",
-    "eslint-config-next": "16.x",
     "glob-bin": "^1.1.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19",
     "tsx": "^4.21.0",
     "typescript": "5.x"
-  },
-  "prettier": {
-    "quoteProps": "consistent"
-  },
-  "eslintConfig": {
-    "extends": "next/core-web-vitals",
-    "rules": {
-      "import/no-anonymous-default-export": "off"
-    }
   }
 }
