@@ -4,7 +4,6 @@ import { PreviewNest } from "components/PreviewNest";
 import { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import React from "react";
 import { Article, compareByDate, readArticle } from "src/article";
 import { getCachedData } from "src/data/cache";
 import { Author, getAllAuthors } from "src/data/content";
@@ -21,11 +20,11 @@ type Params = {
 };
 
 type Props = {
-  params: Params;
+  params: Promise<Params>;
 };
 
 const Page = async ({ params }: Props) => {
-  const { path } = params!;
+  const { path } = await params;
   const articlePath = getFileSystemPathForUrlPathFragments(path);
   if (!articlePath) {
     notFound();
@@ -136,7 +135,8 @@ export async function generateStaticParams(): Promise<Params[]> {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const path = getFileSystemPathForUrlPathFragments(params.path) || notFound();
+  const path =
+    getFileSystemPathForUrlPathFragments((await params).path) || notFound();
   const post = readArticle(path);
   const authors = await getAllAuthors();
   const author = authors.find((a) => a.name === post.author)!;
