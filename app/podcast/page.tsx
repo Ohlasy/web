@@ -1,5 +1,5 @@
-import { Article, compareByDate, getAllArticles } from "src/article";
-import { Metadata } from "next";
+import { type Article, compareByDate, getAllArticles } from "src/article";
+import type { Metadata } from "next";
 import { RouteTo } from "src/routing";
 import Image from "next/image";
 import { tilde } from "src/utils";

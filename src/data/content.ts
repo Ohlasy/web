@@ -2,14 +2,14 @@ import { readFile } from "fs/promises";
 import { join } from "path";
 import yaml from "js-yaml";
 import { decodeObject, decodeUrl } from "../decoding";
-import { iTunesShowEpisode } from "../feeds";
+import type { iTunesShowEpisode } from "../feeds";
 import {
   array,
-  decodeType,
+  type decodeType,
   field,
   number,
   optional,
-  Pojo,
+  type Pojo,
   record,
   string,
 } from "typescript-json-decoder";

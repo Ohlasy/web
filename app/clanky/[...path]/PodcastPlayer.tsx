@@ -2,8 +2,8 @@
 
 import Image from "next/image";
 import Plausible from "plausible-tracker";
-import { Fragment, JSX, useRef, useState } from "react";
-import { PodcastEpisode } from "src/data/podcast";
+import { Fragment, type JSX, useRef, useState } from "react";
+import type { PodcastEpisode } from "src/data/podcast";
 import { RouteTo } from "src/routing";
 import { tilde } from "src/utils";
 

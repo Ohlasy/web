@@ -3,7 +3,7 @@ import test from "node:test";
 import {
   sumRecurrentDonations,
   sumOneTimeDonations,
-  Transaction,
+  type Transaction,
   formatDate,
   getPastFullMonths,
   firstDayOfMonth,

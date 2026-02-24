@@ -1,6 +1,6 @@
 import {
   array,
-  decodeType,
+  type decodeType,
   number,
   optional,
   record,

@@ -1,10 +1,10 @@
 import assert from "node:assert";
 import test from "node:test";
 import {
-  RSSFeed,
+  type RSSFeed,
   renderFeed,
   renderPodcastFeed,
-  iTunesPodcastShow,
+  type iTunesPodcastShow,
 } from "./feeds";
 
 const normalizeWhitespace = (str: string) =>

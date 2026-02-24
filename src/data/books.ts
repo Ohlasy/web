@@ -2,7 +2,7 @@ import { relationToZeroOrOne } from "src/decoding";
 import { getTable, unwrapRecord, unwrapRecords } from "./airtable";
 import {
   array,
-  decodeType,
+  type decodeType,
   field,
   number,
   optional,

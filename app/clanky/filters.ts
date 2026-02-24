@@ -1,4 +1,4 @@
-import { Metadata } from "src/article";
+import type { Metadata } from "src/article";
 import { unique } from "src/utils";
 
 export type FilterOptions = Record<string, string[]>;
@@ -75,7 +75,7 @@ export const filters: Filter[] = [
 
 export function buildFilterOptions(articles: Metadata[]): FilterOptions {
   const getPossibleValues = (f: Filter) =>
-    unique(articles.map(f.extractPossibleValues).flat()).sort(f.valueSort);
+    unique(articles.flatMap(f.extractPossibleValues)).sort(f.valueSort);
   const filtersAndValues = filters.map((filter) => [
     filter.id,
     getPossibleValues(filter),

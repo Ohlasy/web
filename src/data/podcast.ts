@@ -4,7 +4,7 @@ import yaml from "js-yaml";
 import fs from "fs";
 import {
   array,
-  decodeType,
+  type decodeType,
   number,
   record,
   string,

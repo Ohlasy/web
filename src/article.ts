@@ -1,18 +1,18 @@
+import fs from "node:fs";
 import matter from "gray-matter";
-import { withDefault } from "./decoding";
-import { getFilesRecursively } from "./server-utils";
-import { stripMarkdown } from "./utils";
-import fs from "fs";
 import {
   array,
   boolean,
-  decodeType,
+  type decodeType,
   field,
   optional,
   record,
   string,
   union,
 } from "typescript-json-decoder";
+import { withDefault } from "./decoding";
+import { getFilesRecursively } from "./server-utils";
+import { stripMarkdown } from "./utils";
 
 //
 // Types and decoding
@@ -91,7 +91,7 @@ export function decodeArticle(
  * The expected filename format is `2021-2-26-vystavba-chmelnice.md`.
  */
 export function parsePath(path: string): [Date, string] {
-  const filename = path.replace(/^.*[\\\/]/, "");
+  const filename = path.replace(/^.*[\\/]/, "");
   const matches = filename.match(/^(\d+-\d+-\d+)-(.*)\.md$/);
 
   if (!matches || matches.length < 2) {

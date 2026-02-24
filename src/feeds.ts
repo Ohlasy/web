@@ -1,5 +1,5 @@
 import { create } from "xmlbuilder2";
-import { XMLBuilder } from "xmlbuilder2/lib/interfaces";
+import type { XMLBuilder } from "xmlbuilder2/lib/interfaces";
 
 const iTunesNS = "http://www.itunes.com/dtds/podcast-1.0.dtd";
 const AtomNS = "http://www.w3.org/2005/Atom";

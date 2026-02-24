@@ -1,14 +1,14 @@
 "use server";
 
-import { Book, createOrder, getBookById } from "src/data/books";
+import { type Book, createOrder, getBookById } from "src/data/books";
 import {
   createInvoice,
   createSubject,
   getBearerTokenFromEnv,
-  InvoiceLine,
+  type InvoiceLine,
 } from "src/fakturoid";
 import {
-  decodeType,
+  type decodeType,
   optional,
   record,
   string,

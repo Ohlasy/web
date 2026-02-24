@@ -1,7 +1,7 @@
-import { Article, getAllArticles } from "src/article";
+import { type Article, getAllArticles } from "src/article";
 import { articleRoot } from "src/server-utils";
-import { Banner, getAllBanners } from "./banners";
-import { Author, getAllAuthors } from "./content";
+import { type Banner, getAllBanners } from "./banners";
+import { type Author, getAllAuthors } from "./content";
 
 type Cache = {
   banners: Banner[];
@@ -9,7 +9,7 @@ type Cache = {
   authors: Author[];
 };
 
-let cache: Cache | undefined = undefined;
+let cache: Cache | undefined ;
 
 export async function getCachedData(): Promise<Cache> {
   if (cache === undefined) {

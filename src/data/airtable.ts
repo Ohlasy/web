@@ -1,4 +1,4 @@
-import Airtable, { FieldSet, Record, Records } from "airtable";
+import Airtable, { type FieldSet, type Record, type Records } from "airtable";
 
 /** Unwrap the raw fields object from an Airtable `Record` type */
 export const unwrapRecord = <Schema extends FieldSet>(record: Record<Schema>) =>

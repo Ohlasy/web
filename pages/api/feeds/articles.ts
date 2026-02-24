@@ -1,8 +1,8 @@
-import { NextApiRequest, NextApiResponse } from "next";
+import type { NextApiRequest, NextApiResponse } from "next";
 import { absolute, RouteTo, siteUrl } from "src/routing";
-import { renderFeed, RSSFeed, RSSFeedItem } from "src/feeds";
+import { renderFeed, type RSSFeed, type RSSFeedItem } from "src/feeds";
 import { join } from "path";
-import { compareByDate, getAllArticles, Article } from "src/article";
+import { compareByDate, getAllArticles, type Article } from "src/article";
 import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
 import * as ReactDOMServer from "react-dom/server";
 

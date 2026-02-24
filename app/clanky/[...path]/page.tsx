@@ -1,12 +1,12 @@
 import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
 import { BannerBox } from "components/BannerBox";
 import { PreviewNest } from "components/PreviewNest";
-import { Metadata } from "next";
+import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { Article, compareByDate, readArticle } from "src/article";
+import { type Article, compareByDate, readArticle } from "src/article";
 import { getCachedData } from "src/data/cache";
-import { Author, getAllAuthors } from "src/data/content";
+import { type Author, getAllAuthors } from "src/data/content";
 import {
   articleRoot,
   getFilesRecursively,

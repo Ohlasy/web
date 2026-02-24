@@ -3,7 +3,7 @@ import {
   getPodcastEpisodes,
 } from "src/data/content";
 import { absolute, RouteTo } from "src/routing";
-import { iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
+import { type iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
 import { join } from "path";
 
 export async function GET() {

@@ -1,4 +1,4 @@
-import { Article, getAllArticles } from "src/article";
+import { type Article, getAllArticles } from "src/article";
 import { articleRoot } from "src/server-utils";
 import { renderCSV } from "app/stats/content-stats";
 

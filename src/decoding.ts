@@ -1,8 +1,8 @@
 import {
   array,
-  Decoder,
-  DecoderFunction,
-  decodeType,
+  type Decoder,
+  type DecoderFunction,
+  type decodeType,
   dict,
   string,
 } from "typescript-json-decoder";

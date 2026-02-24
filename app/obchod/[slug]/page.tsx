@@ -1,4 +1,4 @@
-import { Metadata } from "next";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllBooks } from "src/data/books";
 import { BookDetails } from "./BookDetail";

@@ -1,4 +1,4 @@
-import { Article } from "src/article";
+import type { Article } from "src/article";
 
 export function groupBySelector<Key extends keyof any, Value>(
   values: Value[],

@@ -4,7 +4,7 @@ import { articleRoot } from "src/server-utils";
 import { Duration } from "src/utils";
 import {
   array,
-  decodeType,
+  type decodeType,
   number,
   record,
   string,

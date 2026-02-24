@@ -1,4 +1,4 @@
-import { Schema, Config, Tag } from "@markdoc/markdoc";
+import { type Schema, type Config, Tag } from "@markdoc/markdoc";
 import { getAllPodcastEpisodes } from "./data/podcast";
 
 export const photo: Schema = {

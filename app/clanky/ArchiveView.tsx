@@ -1,13 +1,13 @@
 "use client";
 
-import { Metadata } from "src/article";
-import { Filter, FilterOptions, filters, match, Settings } from "./filters";
+import type { Metadata } from "src/article";
+import { type Filter, type FilterOptions, filters, match, type Settings } from "./filters";
 import Link from "next/link";
 import Image from "next/image";
 import { RouteTo } from "src/routing";
 import { tilde } from "src/utils";
 import { useRouter, useSearchParams } from "next/navigation";
-import { ChangeEvent, useState } from "react";
+import { type ChangeEvent, useState } from "react";
 
 type Props = {
   allArticles: ReadonlyArray<Metadata>;

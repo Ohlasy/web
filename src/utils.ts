@@ -1,4 +1,4 @@
-import Markdoc, { Node } from "@markdoc/markdoc";
+import Markdoc, { type Node } from "@markdoc/markdoc";
 
 type SupportedImageWidth = 640 | 1080 | 1920 | 3840;
 

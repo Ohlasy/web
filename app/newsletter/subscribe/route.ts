@@ -1,4 +1,4 @@
-import { NextRequest } from "next/server";
+import type { NextRequest } from "next/server";
 import { record, string } from "typescript-json-decoder";
 import { WebClient } from "@slack/web-api";
 

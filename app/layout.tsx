@@ -2,7 +2,7 @@ import { RouteTo, siteUrl } from "src/routing";
 import { PT_Serif } from "next/font/google";
 import Link from "next/link";
 import { SearchForm } from "./SearchForm";
-import { Metadata } from "next";
+import type { Metadata } from "next";
 import "./global.css";
 import Image from "next/image";
 import { NewsletterBox } from "./newsletter/NewsletterBox";

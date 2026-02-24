@@ -6,12 +6,12 @@ import { getTopArticles, plausibleEventClass } from "src/data/plausible";
 import {
   getLatestTopicsSummary,
   getUserAvatar,
-  LatestTopicsSummary,
+  type LatestTopicsSummary,
 } from "src/data/forum";
-import { compareByDate, getAllArticles, Metadata } from "src/article";
+import { compareByDate, getAllArticles, type Metadata } from "src/article";
 import { BannerBox } from "components/BannerBox";
-import { Banner } from "src/data/banners";
-import { TopArticles } from "src/data/plausible";
+import type { Banner } from "src/data/banners";
+import type { TopArticles } from "src/data/plausible";
 import Link from "next/link";
 import Image from "next/image";
 import { getAllAuthors } from "src/data/content";

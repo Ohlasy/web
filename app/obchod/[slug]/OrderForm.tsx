@@ -177,7 +177,7 @@ const DeliveryTypeSelect = ({
         </div>
         <p className="text-sm ml-5">
           Knihu zaplatíte online, po zaplacení si ji můžete vyzvednout v{" "}
-          <a href="https://mapy.cz/s/rezujelega" target="_blank">
+          <a href="https://mapy.cz/s/rezujelega" target="_blank" rel="noopener">
             Knihkupectví Tomáše Špidlíka
           </a>
           .

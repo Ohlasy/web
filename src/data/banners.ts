@@ -1,7 +1,7 @@
 import { shuffled } from "src/utils";
 import {
   array,
-  decodeType,
+  type decodeType,
   field,
   record,
   string,
