@@ -12,7 +12,7 @@ type Model = {
 
 export const NewsletterBox = () => {
   const [model, setModel] = useState<Model>({ state: "idle", email: "" });
-  const handleSubmit = async (event: any) => {
+  const handleSubmit = async (event: React.SyntheticEvent) => {
     event.preventDefault();
     setModel({ ...model, state: "submitting" });
     trackEvent("Newsletter Subscribe");

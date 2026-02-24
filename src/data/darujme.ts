@@ -1,29 +1,42 @@
-export interface TransactionResponse {
-  transactions: Transaction[];
-}
+import {
+  array,
+  boolean,
+  type decodeType,
+  nullable,
+  number,
+  record,
+  string,
+} from "typescript-json-decoder";
 
-export interface Transaction {
-  transactionId: number;
-  sentAmount: Amount | null;
-  pledge: Pledge;
-}
+export type Amount = decodeType<typeof decodeAmount>;
+const decodeAmount = record({
+  cents: number,
+  currency: string,
+});
 
-export interface Amount {
-  cents: number;
-  currency: string;
-}
+export type Pledge = decodeType<typeof decodePledge>;
+const decodePledge = record({
+  pledgeId: number,
+  isRecurrent: boolean,
+});
 
-export interface Pledge {
-  pledgeId: number;
-  isRecurrent: boolean;
-}
+export type Transaction = decodeType<typeof decodeTransaction>;
+const decodeTransaction = record({
+  transactionId: number,
+  sentAmount: nullable(decodeAmount),
+  pledge: decodePledge,
+});
+
+const decodeTransactionResponse = record({
+  transactions: array(decodeTransaction),
+});
 
 async function call<T>(
   apiId: string,
   apiSecret: string,
   path: string,
   params: { [key: string]: string } = {},
-  extract: (data: any) => T = (d: any) => d,
+  extract: (data: unknown) => T,
 ): Promise<T> {
   const baseUrl = "https://www.darujme.cz/api/v1/organization/1200499";
   const endpoint = `${baseUrl}/${path}`;
@@ -54,7 +67,7 @@ export async function getTransactions(
       fromReceivedDate: formatDate(fromDate),
       toReceivedDate: formatDate(toDate),
     },
-    (data) => data.transactions,
+    (data) => decodeTransactionResponse(data).transactions,
   );
 }
 

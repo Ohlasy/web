@@ -1,6 +1,6 @@
 import type { Article } from "src/article";
 
-export function groupBySelector<Key extends keyof any, Value>(
+export function groupBySelector<Key extends PropertyKey, Value>(
   values: Value[],
   sel: (_: Value) => Key | null | undefined,
 ): Record<Key, Value[]> {

@@ -1,13 +1,13 @@
 "use client";
 
-import { useState } from "react";
 import Plausible from "plausible-tracker";
+import { useState } from "react";
 
 const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
 export const SearchForm = () => {
   const [query, setQuery] = useState("");
-  const handleSubmit = (event: any) => {
+  const handleSubmit = (event: React.SyntheticEvent) => {
     trackEvent("Site Search", {
       props: { query },
       // Only navigate away after the event is logged
