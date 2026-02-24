@@ -1,6 +1,7 @@
 import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
 import { BannerBox } from "components/BannerBox";
 import { PreviewNest } from "components/PreviewNest";
+import { SectionDivider } from "components/SectionDivider";
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -9,8 +10,8 @@ import { getCachedData } from "src/data/cache";
 import { type Author, getAllAuthors } from "src/data/content";
 import {
   articleRoot,
-  getFilesRecursively,
   getFileSystemPathForUrlPathFragments,
+  getFilesRecursively,
   getUrlPathFragmentsForFileSystemPath,
 } from "src/server-utils";
 import { endlessGeneratorOf, getResizedImageUrl, tilde } from "src/utils";
@@ -60,8 +61,8 @@ const Page = async ({ params }: Props) => {
         </div>
       </main>
       {relatedArticles.length >= 9 && (
-        <div className="">
-          <h2 className="section-divider">další {article.category}</h2>
+        <div>
+          <SectionDivider>další {article.category}</SectionDivider>
           <PreviewNest
             articles={relatedArticles}
             getBanner={getNextBanner}

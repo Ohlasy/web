@@ -23,43 +23,6 @@ body {
   color: #444;
 }
 
-/* Section Dividers */
-
-.section-divider {
-  color: #555;
-  font-size: 90%;
-  font-weight: normal;
-  text-transform: uppercase;
-  margin-bottom: 25px;
-  margin-top: 40px;
-}
-
-.section-divider {
-  overflow: hidden;
-  text-align: center;
-}
-
-.section-divider:before,
-.section-divider:after {
-  background-color: #ddd;
-  content: "";
-  display: inline-block;
-  height: 1px;
-  position: relative;
-  vertical-align: middle;
-  width: 50%;
-}
-
-.section-divider:before {
-  right: 0.5em;
-  margin-left: -50%;
-}
-
-.section-divider:after {
-  left: 0.5em;
-  margin-right: -50%;
-}
-
 /* Content */
 
 a {

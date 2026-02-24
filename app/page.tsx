@@ -1,5 +1,6 @@
 import { BannerBox } from "components/BannerBox";
 import { PreviewNest } from "components/PreviewNest";
+import { SectionDivider } from "components/SectionDivider";
 import Image from "next/image";
 import Link from "next/link";
 import { compareByDate, getAllArticles, type Metadata } from "src/article";
@@ -56,10 +57,10 @@ const Page = async () => {
         authors={authors}
       />
 
-      <h2 className="section-divider">podpořte nás</h2>
+      <SectionDivider>podpořte nás</SectionDivider>
       <FundraisingSecion />
 
-      <h2 className="section-divider">názory &amp; komentáře</h2>
+      <SectionDivider>názory &amp; komentáře</SectionDivider>
       <PreviewNest
         articles={opinions}
         getBanner={getNextBanner}
@@ -67,17 +68,17 @@ const Page = async () => {
         authors={authors}
       />
 
-      <h2 className="section-divider">
+      <SectionDivider>
         <a href={RouteTo.forum}>diskuzní fórum</a>
-      </h2>
+      </SectionDivider>
       <ForumOverviewBox
         latestForumSummary={latestForumSummary}
         banner={getNextBanner()}
       />
 
-      <h2 className="section-divider">
+      <SectionDivider>
         <a href={RouteTo.podcasts}>podcast</a>
-      </h2>
+      </SectionDivider>
       <PreviewNest
         articles={podcast}
         getBanner={getNextBanner}
@@ -85,10 +86,10 @@ const Page = async () => {
         authors={authors}
       />
 
-      <h2 className="section-divider">nejčtenější články</h2>
+      <SectionDivider>nejčtenější články</SectionDivider>
       <TopArticleBox topArticles={topArticles} banner={getNextBanner()} />
 
-      <h2 className="section-divider">seriály</h2>
+      <SectionDivider>seriály</SectionDivider>
       <PreviewNest
         articles={serials}
         getBanner={getNextBanner}
@@ -96,9 +97,9 @@ const Page = async () => {
         authors={authors}
       />
 
-      <h2 className="section-divider">
+      <SectionDivider>
         vybíráme z <a href={RouteTo.archive}>archivu</a>
-      </h2>
+      </SectionDivider>
       <PreviewNest
         articles={archive}
         getBanner={getNextBanner}
