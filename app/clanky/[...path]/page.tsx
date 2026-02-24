@@ -97,7 +97,7 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
     dateStyle: "long",
   });
   return (
-    <div className="mt-10 bg-lightGray p-7 pt-5 border-t-[1px] border-silver flex gap-7 flex-wrap content-center">
+    <div className="mt-10 bg-lightGray p-7 pt-5 border-t border-silver flex gap-7 flex-wrap content-center">
       <div>
         <Image
           src={author.profilePhotoUrl!}
@@ -111,7 +111,9 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
         <li>{article.author}</li>
         {author.mail && (
           <li>
-            <a href={`mailto:${author.mail}`}>{author.mail}</a>
+            <a href={`mailto:${author.mail}`} className="typo-link">
+              {author.mail}
+            </a>
           </li>
         )}
         {author.bio && <li>{author.bio}</li>}

@@ -169,15 +169,17 @@ const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
             <span className="block text-2xl text-[#666] text-right w-[3ex] flex-none">
               {index + 1}
             </span>
-            <Link
-              className={plausibleEventClass({
-                name: "Internal Link",
-                type: "top-articles-box",
-              })}
-              href={entry.path}
-            >
-              {tilde(entry.title!)}
-            </Link>
+            <div className="typo-link">
+              <Link
+                className={plausibleEventClass({
+                  name: "Internal Link",
+                  type: "top-articles-box",
+                })}
+                href={entry.path}
+              >
+                {tilde(entry.title!)}
+              </Link>
+            </div>
           </li>
         ))}
     </ol>
@@ -214,10 +216,13 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
       <div className="col-span-2">
         {topics.map((topic) => (
           <div
-            className="grid md:grid-cols-3 border-b-[1px] border-dotted border-silver last:border-0 pb-2 mb-2 gap-x-7"
+            className="grid md:grid-cols-3 border-b border-dotted border-silver last:border-0 pb-2 mb-2 gap-x-7"
             key={topic.id}
           >
-            <a href={RouteTo.forumTopic(topic)} className="col-span-2">
+            <a
+              href={RouteTo.forumTopic(topic)}
+              className="col-span-2 typo-link"
+            >
               {topic.title}
             </a>
             <div>

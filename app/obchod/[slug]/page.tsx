@@ -24,7 +24,7 @@ export default async function Page({ params }: Props) {
   return (
     <div className="flex flex-col md:flex-row gap-7">
       <div>
-        <div className="relative aspect-square md:aspect-[2/3] w-full md:w-[350px] shrink-0">
+        <div className="relative aspect-square md:aspect-2/3 w-full md:w-[350px] shrink-0">
           <Image
             src={book.photoPortrait}
             className="absolute object-cover object-top bg-gray max-md:hidden"

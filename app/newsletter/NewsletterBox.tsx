@@ -27,7 +27,7 @@ export const NewsletterBox = () => {
           <form onSubmit={handleSubmit} className="flex flex-wrap gap-3">
             <input
               type="email"
-              className="flex-auto border-[1px] border-silver px-2 py-2 text-base"
+              className="flex-auto border border-silver px-2 py-2 text-base bg-white"
               autoCapitalize="none"
               placeholder="váš@email.cz"
               onChange={(e) => setModel({ ...model, email: e.target.value })}
@@ -43,8 +43,10 @@ export const NewsletterBox = () => {
           <p className="text-base">
             Nechte nám na sebe e‑mail a my vám jednou měsíčně pošleme shrnutí
             toho, co se v regionu událo. Na předchozí vydání newsletteru se{" "}
-            <a href="https://newsletter.ohlasy.info">můžete podívat tady</a>.
-            Odběr můžete kdykoliv snadno zrušit.
+            <a href="https://newsletter.ohlasy.info" className="typo-link">
+              můžete podívat tady
+            </a>
+            . Odběr můžete kdykoliv snadno zrušit.
           </p>
         </Fragment>
       )}
@@ -59,8 +61,10 @@ export const NewsletterBox = () => {
         <p>
           Něco se pokazilo 😞 Zkuste prosím obnovit stránku a zadat mail ještě
           jednou. A kdyby to nepomohlo, napište nám prosím na{" "}
-          <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>, chybu
-          opravíme. Díky!
+          <a href="mailto:ohlasy@ohlasy.info" className="typo-link">
+            ohlasy@ohlasy.info
+          </a>
+          , chybu opravíme. Díky!
         </p>
       )}
     </div>

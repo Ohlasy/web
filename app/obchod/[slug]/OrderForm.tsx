@@ -1,8 +1,8 @@
+import Link from "next/link";
+import Plausible from "plausible-tracker";
+import { useState } from "react";
 import { useFormState, useFormStatus } from "react-dom";
 import { placeOrder } from "./actions";
-import Plausible from "plausible-tracker";
-import Link from "next/link";
-import { useState } from "react";
 
 type Props = {
   itemId: string;
@@ -103,7 +103,9 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
 }
 
 const ClickableMail = () => (
-  <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
+  <a href="mailto:ohlasy@ohlasy.info" className="typo-link">
+    ohlasy@ohlasy.info
+  </a>
 );
 
 const CancelButton = ({ onClick }: { onClick: () => void }) => {
@@ -177,7 +179,12 @@ const DeliveryTypeSelect = ({
         </div>
         <p className="text-sm ml-5">
           Knihu zaplatíte online, po zaplacení si ji můžete vyzvednout v{" "}
-          <a href="https://mapy.cz/s/rezujelega" target="_blank" rel="noopener">
+          <a
+            href="https://mapy.cz/s/rezujelega"
+            target="_blank"
+            rel="noopener"
+            className="typo-link"
+          >
             Knihkupectví Tomáše Špidlíka
           </a>
           .
@@ -234,7 +241,7 @@ const TextInput = ({
         name={id}
         placeholder={placeholder}
         defaultValue={defaultValue}
-        className="border-[1px] border-gray rounded px-2 py-2 w-full sm:w-[40ex]"
+        className="border border-gray rounded-sm px-2 py-2 w-full sm:w-[40ex]"
         required={required}
         disabled={pending}
       />

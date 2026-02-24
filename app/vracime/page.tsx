@@ -1,5 +1,5 @@
 const Page = () => (
-  <main className="min-h-[400px] max-w-prose flex flex-col gap-4">
+  <main className="min-h-100 max-w-prose flex flex-col gap-4">
     <h2 className="text-3xl uppercase font-bold">Proč vám vracíme platbu?</h2>
     <p>
       Na tuhle stránku jste se dostali nejspíš kvůli tomu, že jsme vám vrátili
@@ -15,14 +15,19 @@ const Page = () => (
       </em>
     </p>
     <p>
-      Alternativně můžete darovat též <a href="/darujme">přes server Darujme</a>
+      Alternativně můžete darovat též{" "}
+      <a href="/darujme" className="typo-link">
+        přes server Darujme
+      </a>
       . Tam už je účel platby úplně jasný a navíc od nás koncem účetního roku
       automaticky dostanete potvrzení o daru, abyste si ho mohli odečíst z daní.
     </p>
     <p>
       Kdybyste měli ještě nějaké dotazy, ozvěte se na{" "}
-      <a href="mailto:darci@ohlasy.info">darci@ohlasy.info</a>. A pardon za
-      komplikace!
+      <a href="mailto:darci@ohlasy.info" className="typo-link">
+        darci@ohlasy.info
+      </a>
+      . A pardon za komplikace!
     </p>
   </main>
 );

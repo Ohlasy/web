@@ -94,7 +94,7 @@ export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
 const ServiceButton = ({ href, title }: { href: string; title: string }) => (
   <a
     href={href}
-    className="rounded-full whitespace-nowrap border-[1px] text-white border-white px-2 hover:bg-white hover:text-plum"
+    className="rounded-full whitespace-nowrap border text-white border-white px-2 hover:bg-white hover:text-plum"
     target="_blank"
   >
     ▷ {title}

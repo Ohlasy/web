@@ -10,9 +10,6 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    ignore:
-      - dependency-name: "tailwindcss"
-        update-types: ["version-update:semver-major"]
     groups:
       dev-dependencies:
         patterns:

@@ -18,8 +18,10 @@ export default function Custom404() {
       </ul>
       <p>
         Pokud nic z toho nezabírá, zkuste napsat na{" "}
-        <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>, mrkneme se
-        na to.
+        <a href="mailto:ohlasy@ohlasy.info" className="typo-link">
+          ohlasy@ohlasy.info
+        </a>
+        , mrkneme se na to.
       </p>
     </div>
   );

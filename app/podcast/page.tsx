@@ -1,9 +1,9 @@
-import { type Article, compareByDate, getAllArticles } from "src/article";
 import type { Metadata } from "next";
-import { RouteTo } from "src/routing";
 import Image from "next/image";
-import { tilde } from "src/utils";
 import Link from "next/link";
+import { type Article, compareByDate, getAllArticles } from "src/article";
+import { RouteTo } from "src/routing";
+import { tilde } from "src/utils";
 
 export const metadata: Metadata = {
   title: "Ohlasy Podcast",
@@ -33,7 +33,10 @@ const Intro = () => (
         <h2 className="text-3xl font-bold mb-3">Podcast Ohlasy</h2>
         <p className="mb-3">
           Obšírnější článek o tom, co jsou podcasty, si můžete přečíst
-          <a href="https://blog.audiolibrix.cz/tema/co-je-to-podcast/">
+          <a
+            href="https://blog.audiolibrix.cz/tema/co-je-to-podcast/"
+            className="typo-link"
+          >
             {" "}
             například tady
           </a>
@@ -68,7 +71,7 @@ const Intro = () => (
 const PlayerPill = ({ href, title }: { href: string; title: string }) => (
   <a
     href={href}
-    className="rounded-full border-[1px] border-brown px-2 hover:bg-brown hover:text-white"
+    className="rounded-full border border-brown px-2 hover:bg-brown hover:text-white"
   >
     ▷ {title}
   </a>

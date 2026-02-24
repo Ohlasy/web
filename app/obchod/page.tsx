@@ -28,7 +28,7 @@ async function Page() {
 
 const BookBox = ({ book }: { book: Book }) => (
   <div className="flex flex-col md:flex-row gap-7">
-    <div className="w-[350px] aspect-[2/3] bg-gray shrink-0 relative max-md:hidden">
+    <div className="w-[350px] aspect-2/3 bg-gray shrink-0 relative max-md:hidden">
       <Image
         src={book.photoPortrait}
         className="object-cover"
@@ -37,7 +37,7 @@ const BookBox = ({ book }: { book: Book }) => (
         fill
       />
     </div>
-    <div className="w-full aspect-[3/2] bg-gray shrink-0 relative md:hidden">
+    <div className="w-full aspect-3/2 bg-gray shrink-0 relative md:hidden">
       <Image
         src={book.photoLandscape}
         className="object-cover"

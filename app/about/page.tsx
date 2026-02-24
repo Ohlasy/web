@@ -47,15 +47,30 @@ const Page = async () => {
           <p>
             Noviny v roce 2015 společně založili a vedou Tomáš Trumpeš a Tomáš
             Znamenáček, od roku 2019 jako{" "}
-            <a href={RouteTo.companyInfo}>spolek Ohlasy</a>.
+            <a href={RouteTo.companyInfo} className="typo-link">
+              spolek Ohlasy
+            </a>
+            .
           </p>
           <p>
             Společně s několika desítkami pravidelných autorů i občasných
             přispěvatelů jsme od založení vydali{" "}
-            <Link href={RouteTo.archive}>{articles.length} článků</Link>,{" "}
-            <Link href={RouteTo.podcasts}>{episodes.length} dílů podcastu</Link>
-            , <Link href={RouteTo.store}>pět knih</Link> a 
-            <a href={RouteTo.YouTube}>desítky videí</a>.
+            <Link href={RouteTo.archive} className="typo-link">
+              {articles.length} článků
+            </Link>
+            ,{" "}
+            <Link href={RouteTo.podcasts} className="typo-link">
+              {episodes.length} dílů podcastu
+            </Link>
+            ,{" "}
+            <Link href={RouteTo.store} className="typo-link">
+              pět knih
+            </Link>{" "}
+            a 
+            <a href={RouteTo.YouTube} className="typo-link">
+              desítky videí
+            </a>
+            .
           </p>
         </div>
       </section>
@@ -152,7 +167,7 @@ const AuthorList = ({ authors }: { authors: Author[] }) => (
 );
 
 const SectionHeader = ({ children }: { children: ReactNode }) => (
-  <h2 className="font-bold text-2xl text-center mb-7 border-b-[1px] pb-2 border-gray">
+  <h2 className="font-bold text-2xl text-center mb-7 border-b pb-2 border-gray">
     {children}
   </h2>
 );

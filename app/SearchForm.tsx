@@ -27,7 +27,7 @@ export const SearchForm = () => {
       <form onSubmit={handleSubmit} className="flex flex-wrap gap-3">
         <input
           type="text"
-          className="flex-auto border-[1px] border-silver px-2 py-2 text-base"
+          className="flex-auto border border-silver px-2 py-2 text-base bg-white"
           autoCapitalize="none"
           placeholder="co vás zajímá?"
           onChange={(e) => setQuery(e.target.value)}

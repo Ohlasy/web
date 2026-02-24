@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import { PT_Serif } from "next/font/google";
+import Image from "next/image";
 import Link from "next/link";
 import { RouteTo, siteUrl } from "src/routing";
+import { NewsletterBox } from "./newsletter/NewsletterBox";
 import { SearchForm } from "./SearchForm";
 import "./global.css";
-import Image from "next/image";
-import { NewsletterBox } from "./newsletter/NewsletterBox";
 
 // https://nextjs.org/docs/basic-features/font-optimization
 const mainFont = PT_Serif({
@@ -63,14 +63,14 @@ export default function RootLayout({ children }: Props) {
 
 const NavBar = () => {
   return (
-    <nav className="mb-4 md:mb-6 bg-lightGray py-3 lg:py-5 border-silver border-b-[1px]">
+    <nav className="mb-4 md:mb-6 bg-lightGray py-3 border-silver border-b">
       <div className="max-w-6xl m-auto px-3 md:px-7 overflow-hidden text-2xl lg:text-[42px] uppercase">
         <div>
           <Link
             href={RouteTo.homePage}
             className="flex gap-3 lg:gap-4 items-center max-md:justify-center"
           >
-            <h1 className="font-semibold mr-1">Ohlasy</h1>
+            <h1 className="font-semibold mr-1 typo-link">Ohlasy</h1>
             <div className="relative w-6 lg:w-10 aspect-square flex-none max-md:order-first">
               <Image src="/favicon.png" sizes="40px" alt="" fill priority />
             </div>
@@ -89,22 +89,29 @@ const NavBar = () => {
 //
 
 const Footer = () => (
-  <footer className="mt-10 bg-lightGray border-t-[1px] border-silver py-10">
+  <footer className="mt-10 bg-lightGray border-t border-silver py-10">
     <div className="max-w-6xl px-7 m-auto grid md:grid-cols-3 gap-7">
       <div className="grid grid-cols-1 gap-2 max-md:order-3">
         <SiteName />
         <p>
-          <a href="mailto:ohlasy@ohlasy.info">ohlasy@ohlasy.info</a>
+          <a href="mailto:ohlasy@ohlasy.info" className="typo-link">
+            ohlasy@ohlasy.info
+          </a>
           <br />
           +420 608 763 954
         </p>
         <p className="text-balance">
-          Vydává <Link href={RouteTo.about}>spolek šílenců</Link>, protože kdo
-          jiný by dneska dělal noviny.
+          Vydává{" "}
+          <Link href={RouteTo.about} className="typo-link">
+            spolek šílenců
+          </Link>
+          , protože kdo jiný by dneska dělal noviny.
         </p>
         <p>Nepoužíváme žádné cookies, respektujeme vaše soukromí.</p>
         <p>
-          <Link href={RouteTo.adsInfo}>Chcete u nás inzerovat?</Link>
+          <Link href={RouteTo.adsInfo} className="typo-link">
+            Chcete u nás inzerovat?
+          </Link>
         </p>
       </div>
       <div className="max-md:order-2 flex flex-col gap-3">
@@ -151,7 +158,7 @@ const SiteName = () => (
     <div className="relative w-6 aspect-square flex-none">
       <Image src="/favicon.png" sizes="24px" alt="" fill />
     </div>
-    <h1 className="font-semibold mr-1">Ohlasy</h1>
+    <h1 className="font-semibold mr-1 typo-link">Ohlasy</h1>
   </Link>
 );
 
@@ -159,7 +166,9 @@ const LinkList = ({ links }: { links: string[][] }) => (
   <ul className="leading-relaxed">
     {links.map(([url, label]) => (
       <li key={label}>
-        <Link href={url}>{label}</Link>
+        <Link href={url} className="typo-link">
+          {label}
+        </Link>
       </li>
     ))}
   </ul>

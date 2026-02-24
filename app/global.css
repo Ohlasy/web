@@ -1,19 +1,28 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-@layer components {
-  .btn-base {
-    @apply px-4 py-2 cursor-pointer disabled:cursor-not-allowed disabled:bg-gray text-lg text-center rounded shadow-md;
-  }
+@theme {
+  --color-lightGray: #f8f8f8;
+  --color-silver: #ddd;
+  --color-gray: #c0c0c0;
+  --color-brown: #945200;
+  --color-offBlack: #444;
+  --color-plum: #853b36;
+}
 
-  .btn-primary {
-    @apply btn-base bg-brown text-white;
-  }
+@utility btn-base {
+  @apply px-4 py-2 cursor-pointer disabled:cursor-not-allowed disabled:bg-gray text-lg text-center rounded-sm shadow-md;
+}
 
-  .btn-inverted {
-    @apply btn-base border-brown border-2 text-brown bg-white disabled:text-white disabled:border-none;
-  }
+@utility btn-primary {
+  @apply btn-base bg-brown text-white;
+}
+
+@utility btn-inverted {
+  @apply btn-base border-brown border-2 text-brown bg-white disabled:text-white disabled:border-none;
+}
+
+@utility typo-link {
+  @apply text-brown;
 }
 
 body {
@@ -25,7 +34,7 @@ body {
 
 /* Content */
 
-a {
+.article-content a {
   text-decoration: none;
   color: rgb(148, 82, 0);
 }

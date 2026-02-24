@@ -84,17 +84,17 @@ const FeaturePreview = ({
         <p className="text-sm uppercase flex flex-row gap-2 items-center">
           <Image
             src={author.profilePhotoUrl!}
-            className="rounded-full inline-block border-[1px] border-gray"
+            className="rounded-full inline-block border border-gray"
             alt=""
             width={25}
             height={25}
           />
           <span>{author.name}</span>
         </p>
-        <p className="italic line-clamp-[9]">{t(article.perex)}</p>
+        <p className="italic line-clamp-9">{t(article.perex)}</p>
       </div>
       <div className="col-span-2 max-lg:order-first">
-        <div className="relative w-full aspect-video lg:aspect-[3/2]">
+        <div className="relative w-full aspect-video lg:aspect-3/2">
           <Image
             src={article.coverPhoto}
             sizes="(min-width: 1024px) 800px, 100vw"
@@ -140,7 +140,7 @@ const SecondaryPreview = ({ article, analyticsId }: ArticleProps) => {
 };
 
 const NoticeBubble = ({ label }: { label: string }) => (
-  <div className="inline-block rounded border-[1px] border-brown text-brown text-sm py-[1px] px-2">
+  <div className="inline-block rounded-sm border border-brown text-brown text-sm py-px px-2">
     {label}
   </div>
 );
