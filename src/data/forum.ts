@@ -57,7 +57,7 @@ export const getTopicUrl = (topic: Pick<Topic, "id">) =>
 
 export const getUserAvatar = (
   user: Pick<User, "avatar_template">,
-  size: number
+  size: number,
 ) =>
   "https://forum.ohlasy.info/" +
   user.avatar_template?.replace("{size}", size.toString());

@@ -22,7 +22,7 @@ test("Decode authors", async () => {
       profilePhotoUrl: "https://i.ohlasy.info/i/0961fcd0.jpg",
       bio: undefined,
       fedi: undefined,
-    }
+    },
   );
   assert.deepEqual(
     decodeAuthors({
@@ -41,7 +41,7 @@ test("Decode authors", async () => {
         bio: undefined,
         fedi: undefined,
       },
-    ]
+    ],
   );
   assert.doesNotReject(getAllAuthors());
 });

@@ -16,7 +16,7 @@ export const decodeUrl = (value: unknown) => new URL(string(value)).toString();
 
 /** Decode an object with given entries */
 export function decodeObject<D extends Decoder<unknown>>(
-  decoder: D
+  decoder: D,
 ): DecoderFunction<Record<string, decodeType<D>>> {
   return (value: unknown) => Object.fromEntries(dict(decoder)(value));
 }
@@ -24,7 +24,7 @@ export function decodeObject<D extends Decoder<unknown>>(
 /** Try decoding with the provided decoder and return a default value if it fails */
 export const withDefault = <T>(
   decoder: DecoderFunction<T>,
-  defaultValue: T
+  defaultValue: T,
 ) => {
   return (value: unknown) => {
     try {
@@ -55,7 +55,7 @@ export const relationToZeroOrOne = (value: unknown) => {
     const decoded = decodeArray(value);
     if (decoded.length !== 1) {
       console.warn(
-        `Unexpected number of records when decoding relation, expected 0 or 1 values, got ${decoded.length}`
+        `Unexpected number of records when decoding relation, expected 0 or 1 values, got ${decoded.length}`,
       );
     }
     return decoded[0];

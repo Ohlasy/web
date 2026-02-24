@@ -8,7 +8,7 @@ test("Article path", () => {
       date: "Wed Mar 03 2021 09:50:47 GMT",
       slug: "bagr-lopata",
     }),
-    "/clanky/2021/03/bagr-lopata.html"
+    "/clanky/2021/03/bagr-lopata.html",
   );
 });
 

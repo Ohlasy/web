@@ -19,9 +19,9 @@ export async function getBearerToken(clientId: string, clientSecret: string) {
     method: "POST",
     body: JSON.stringify(payload, null, 2),
     headers: {
-      "Authorization": `Basic ${clientData}`,
+      Authorization: `Basic ${clientData}`,
       "Content-Type": "application/json",
-      "Accept": "application/json",
+      Accept: "application/json",
     },
   });
 
@@ -67,7 +67,7 @@ type Subject = {
 
 export async function createSubject(
   token: string,
-  subject: Subject
+  subject: Subject,
 ): Promise<number | null> {
   const response = await fetch(
     "https://app.fakturoid.cz/api/v3/accounts/ohlasyzs/subjects.json",
@@ -75,10 +75,10 @@ export async function createSubject(
       method: "POST",
       body: JSON.stringify(subject, null, 2),
       headers: {
-        "Authorization": `Bearer ${token}`,
+        Authorization: `Bearer ${token}`,
         "Content-Type": "application/json",
       },
-    }
+    },
   );
 
   if (!response.ok) {
@@ -119,11 +119,11 @@ export async function createInvoice(token: string, invoiceData: Invoice) {
       method: "POST",
       body: JSON.stringify(invoiceData),
       headers: {
-        "Authorization": `Bearer ${token}`,
+        Authorization: `Bearer ${token}`,
         "Content-Type": "application/json",
-        "Accept": "application/json",
+        Accept: "application/json",
       },
-    }
+    },
   );
   if (!response.ok) {
     console.error("Failed to create Fakturoid invoice.");

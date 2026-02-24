@@ -42,7 +42,7 @@ export const decodeMetadata = record({
   perex: string,
   coverPhoto: field(
     "cover-photo",
-    withDefault(string, "https://i.ohlasy.info/i/a5c62deb.jpg")
+    withDefault(string, "https://i.ohlasy.info/i/a5c62deb.jpg"),
   ),
   tags: withDefault(array(string), []),
   serial: optional(string),
@@ -56,20 +56,20 @@ export const decodeMetadata = record({
       "seriály",
       "rozhovory",
       "podcast",
-      "ankety"
-    )
+      "ankety",
+    ),
   ),
 });
 
 /** Decode article from a standard frontmatter + body text file */
 export function decodeArticle(
   src: string,
-  defaults: Record<string, any> = {}
+  defaults: Record<string, any> = {},
 ): Article {
   // Hack: preprocess “tags:” to support Jekyll-style single-line tags.
   src = src.replaceAll(
     /tags: (.*)/g,
-    (_, match) => `tags: [${match.split(" ").join(",")}]`
+    (_, match) => `tags: [${match.split(" ").join(",")}]`,
   );
   const { content, data } = matter(src);
   const firstParagraph = content.split("\n\n")[0];

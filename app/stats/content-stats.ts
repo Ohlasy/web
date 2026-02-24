@@ -2,7 +2,7 @@ import { Article } from "src/article";
 
 export function groupBySelector<Key extends keyof any, Value>(
   values: Value[],
-  sel: (_: Value) => Key | null | undefined
+  sel: (_: Value) => Key | null | undefined,
 ): Record<Key, Value[]> {
   const out = {} as Record<Key, Value[]>;
   for (const v of values) {
@@ -16,7 +16,7 @@ export function groupBySelector<Key extends keyof any, Value>(
 }
 
 export function sum<Value>(
-  values: Record<string, Value[]>
+  values: Record<string, Value[]>,
 ): Record<string, number> {
   const counts = {} as Record<string, number>;
   for (const [key, vals] of Object.entries(values)) {

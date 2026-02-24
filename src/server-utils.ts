@@ -53,7 +53,7 @@ export function getUrlPathFragmentsForFileSystemPath(path: string): string[] {
  * into some structure and query that?
  */
 export function getFileSystemPathForUrlPathFragments(
-  fragments: string[]
+  fragments: string[],
 ): string | undefined {
   const [year, month, slug] = fragments;
   if (!year || !month || !slug) {
@@ -66,9 +66,9 @@ export function getFileSystemPathForUrlPathFragments(
     "articles",
     year,
     // strip leading zero
-    (+month).toString()
+    (+month).toString(),
   );
   return getFilesRecursively(folder).find((path) =>
-    path.endsWith(`${nakedSlug}.md`)
+    path.endsWith(`${nakedSlug}.md`),
   );
 }

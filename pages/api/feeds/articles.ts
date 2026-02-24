@@ -9,7 +9,7 @@ import * as ReactDOMServer from "react-dom/server";
 /** Serve last 10 articles as an RSS feed with full article text */
 export default async (
   request: NextApiRequest,
-  response: NextApiResponse
+  response: NextApiResponse,
 ): Promise<void> => {
   const dataRoot = join(process.cwd(), "content/articles");
   const feed: RSSFeed = {
@@ -29,11 +29,11 @@ export default async (
 
   response.setHeader(
     "Content-Type",
-    request.query.plain ? "text/plain" : "application/rss+xml"
+    request.query.plain ? "text/plain" : "application/rss+xml",
   );
   response.setHeader(
     "Cache-Control",
-    "max-age=0, s-maxage=60, stale-while-revalidate=86400"
+    "max-age=0, s-maxage=60, stale-while-revalidate=86400",
   );
   response.status(200).send(renderFeed(feed));
 };

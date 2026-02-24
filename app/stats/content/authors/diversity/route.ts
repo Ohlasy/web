@@ -5,13 +5,13 @@ import { unique } from "src/utils";
 export function GET() {
   const articles = getAllArticles(articleRoot);
   const years = unique(
-    articles.map((article) => new Date(article.date).getFullYear())
+    articles.map((article) => new Date(article.date).getFullYear()),
   );
 
   let csv = `rok,"počet autorů","počet autorek"\n`;
   for (const year of years) {
     const matchingArticles = articles.filter(
-      (a) => new Date(a.date).getFullYear() === year
+      (a) => new Date(a.date).getFullYear() === year,
     );
     const authors = unique(matchingArticles.map((a) => a.author));
     const isWoman = (name: string) =>

@@ -23,7 +23,7 @@ async function call<T>(
   apiSecret: string,
   path: string,
   params: { [key: string]: string } = {},
-  extract: (data: any) => T = (d: any) => d
+  extract: (data: any) => T = (d: any) => d,
 ): Promise<T> {
   const baseUrl = "https://www.darujme.cz/api/v1/organization/1200499";
   const endpoint = baseUrl + "/" + path;
@@ -34,7 +34,7 @@ async function call<T>(
         apiId,
         apiSecret,
         ...params,
-      })
+      }),
   );
   const json = await response.json();
   return extract(json);
@@ -44,7 +44,7 @@ export async function getTransactions(
   apiId: string,
   apiSecret: string,
   fromDate: Date,
-  toDate: Date
+  toDate: Date,
 ): Promise<Transaction[]> {
   return call(
     apiId,
@@ -54,7 +54,7 @@ export async function getTransactions(
       fromReceivedDate: formatDate(fromDate),
       toReceivedDate: formatDate(toDate),
     },
-    (data) => data.transactions
+    (data) => data.transactions,
   );
 }
 
@@ -107,7 +107,7 @@ export function lastDayOfMonth(month: Month): Date {
 
 export async function getPastYearTransactionsByMonth(
   apiId: string,
-  apiSecret: string
+  apiSecret: string,
 ): Promise<MonthlyReport[]> {
   const report: MonthlyReport[] = [];
   for (const month of getPastFullMonths(new Date(), 12)) {

@@ -35,7 +35,7 @@ export type State =
 
 export async function placeOrder(
   currentState: State,
-  formData: FormData
+  formData: FormData,
 ): Promise<State> {
   try {
     //
@@ -45,7 +45,7 @@ export async function placeOrder(
     const book = await getBookById(orderData.orderedItemId);
     if (!book || !book.price) {
       throw new Error(
-        "Objednávaný titul jsme nenašli nebo k němu chybí informace."
+        "Objednávaný titul jsme nenašli nebo k němu chybí informace.",
       );
     }
 

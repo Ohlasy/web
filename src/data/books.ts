@@ -63,7 +63,7 @@ export const decodeOrder = record({
   deliveryPhone: field("Kontaktní telefon", string),
   deliveryType: field(
     "Způsob doručení",
-    union("osobně", "poštou", "knihkupectví")
+    union("osobně", "poštou", "knihkupectví"),
   ),
   status: field("Stav objednávky", union("nová", "vyřízená", "stornovaná")),
   invoiceUrl: field("Faktura", string),
@@ -74,12 +74,12 @@ export const createOrder = async (order: Omit<Order, "id" | "status">) =>
     .create({
       "Objednaný titul": [order.orderedItemId!],
       "Počet kusů": order.itemCount,
-      "Jméno": order.deliveryName,
+      Jméno: order.deliveryName,
       "Doručovací adresa": order.deliveryAddress,
       "Kontaktní mail": order.deliveryEmail,
       "Kontaktní telefon": order.deliveryPhone,
       "Způsob doručení": order.deliveryType,
-      "Faktura": order.invoiceUrl,
+      Faktura: order.invoiceUrl,
       "Stav objednávky": "nová",
     })
     .then(unwrapRecord)

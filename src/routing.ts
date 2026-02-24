@@ -62,7 +62,7 @@ export const absolute = (path = "/") => {
  * Includes leading slash, ie. `/clanky/2021/03/bagr-lopata.html`
  */
 export function getArticlePath(
-  article: Pick<Article, "date" | "slug">
+  article: Pick<Article, "date" | "slug">,
 ): string {
   const date = new Date(article.date);
   const year = date.getFullYear();

@@ -32,7 +32,7 @@ export const decodeAuthors = (value: Pojo) => {
   const decodeWrapper = decodeObject(decodeObject(string));
   const authorMap = decodeWrapper(value);
   return Object.entries(authorMap).map(([name, fields]) =>
-    decodeAuthor({ name, ...fields })
+    decodeAuthor({ name, ...fields }),
   );
 };
 
@@ -64,7 +64,7 @@ export const getPodcastEpisodes = async (path: string) =>
     .then(array(decodePodcastEpisode));
 
 export function convertEpisodeToPodcastItem(
-  episode: PodcastEpisode
+  episode: PodcastEpisode,
 ): iTunesShowEpisode {
   const { title, description, duration, url, bytes, date, image } = episode;
   return {

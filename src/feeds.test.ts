@@ -19,7 +19,7 @@ test("Normalize whitespace", () => {
     normalizeWhitespace(`
     foo
     `),
-    "foo"
+    "foo",
   );
 });
 
@@ -82,7 +82,7 @@ test("Render regular RSS feed", () => {
               </item>
           </channel>
       </rss>
-      `)
+      `),
   );
 });
 
@@ -153,6 +153,6 @@ test("Render podcast feed", () => {
           </item>
     </channel>
     </rss>
-    `)
+    `),
   );
 });

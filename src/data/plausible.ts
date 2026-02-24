@@ -20,7 +20,7 @@ const decodeTopPageResponse = record({
     record({
       page: string,
       visitors: number,
-    })
+    }),
   ),
 });
 
@@ -29,7 +29,7 @@ async function queryTopPages(
   siteId = "ohlasy.info",
   period = "30d",
   property = "event:page",
-  limit = 15
+  limit = 15,
 ): Promise<TopPageResponse> {
   const root = "https://plausible.io/api/v1/stats/breakdown";
   const url = `${root}?site_id=${siteId}&period=${period}&property=${property}&limit=${limit}`;
@@ -47,7 +47,7 @@ async function queryTopPages(
 export type TopArticles = { path: string; title?: string }[];
 
 export async function getTopArticles(
-  plausibleApiKey = process.env.PLAUSIBLE_KEY ?? ""
+  plausibleApiKey = process.env.PLAUSIBLE_KEY ?? "",
 ): Promise<TopArticles> {
   const report = await queryTopPages(plausibleApiKey);
   const allArticles = getAllArticles(articleRoot);

@@ -18,8 +18,8 @@ export async function GET() {
 function addAuxiliaryData(article: Article) {
   return {
     ...stripBody(article),
-    "numberOfWords": countWords(article.body),
-    "relativeURL": getArticlePath(article),
+    numberOfWords: countWords(article.body),
+    relativeURL: getArticlePath(article),
     "cover-photo": absolute(getResizedImageUrl(article.coverPhoto, 640)),
     "cover-photo-src": article.coverPhoto,
   };

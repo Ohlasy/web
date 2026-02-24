@@ -70,10 +70,10 @@ test("Date calculations", () => {
   ]);
   assert.deepEqual(
     firstDayOfMonth({ month: 1, year: 2021 }),
-    new Date("2021-1-1")
+    new Date("2021-1-1"),
   );
   assert.deepEqual(
     lastDayOfMonth({ month: 2, year: 2021 }),
-    new Date("2021-2-28")
+    new Date("2021-2-28"),
   );
 });

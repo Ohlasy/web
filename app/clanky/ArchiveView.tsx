@@ -20,7 +20,7 @@ export const ArchiveView = ({ allArticles, filterOptions }: Props) => {
 
   // Read initial filter settings from URL search params
   const [settings, setSettings] = useState(
-    Object.fromEntries(searchParams.entries())
+    Object.fromEntries(searchParams.entries()),
   );
 
   // Filter all articles according to settings

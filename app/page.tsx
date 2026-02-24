@@ -37,7 +37,7 @@ const Page = async () => {
   const mostRecentArticles = articles.slice(0, 10);
   const archive = shuffleInPlace(articles.filter((a) => a.featured)).slice(
     0,
-    10
+    10,
   );
   const opinions = filterCategory("názory a komentáře");
   const podcast = filterCategory("podcast");

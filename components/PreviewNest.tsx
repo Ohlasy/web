@@ -68,7 +68,7 @@ const FeaturePreview = ({
     <Link
       className={mergeClasses(
         "grid lg:grid-cols-3 lg:gap-7 bg-lightGray text-offBlack",
-        analyticsId
+        analyticsId,
       )}
       href={RouteTo.article(article)}
     >

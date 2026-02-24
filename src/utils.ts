@@ -10,15 +10,15 @@ type SupportedImageWidth = 640 | 1080 | 1920 | 3840;
  */
 export const getResizedImageUrl = (
   sourceImageUrl: string,
-  targetWidth: SupportedImageWidth
+  targetWidth: SupportedImageWidth,
 ) =>
   `/_next/image/?url=${encodeURIComponent(
-    sourceImageUrl
+    sourceImageUrl,
   )}&w=${targetWidth}&q=75`;
 
 export function getImageSrcSet(
   sourceUrl: string,
-  widths: SupportedImageWidth[] = [3840, 1920, 1080, 640]
+  widths: SupportedImageWidth[] = [3840, 1920, 1080, 640],
 ): string {
   return widths
     .map((w) => `${getResizedImageUrl(sourceUrl, w)} ${w}w`)
@@ -38,7 +38,7 @@ export function shuffleInPlace<T>(array: T[]): T[] {
 export const shuffled = <T>(array: readonly T[]) => shuffleInPlace([...array]);
 
 export function notEmpty<TValue>(
-  value: TValue | null | undefined
+  value: TValue | null | undefined,
 ): value is TValue {
   return value !== null && value !== undefined;
 }
@@ -66,7 +66,7 @@ export function renderPlainText(doc: Node): string {
 
 export function map<T, U>(
   val: T | undefined | null,
-  f: (_: T) => U
+  f: (_: T) => U,
 ): U | undefined {
   return val ? f(val) : undefined;
 }
