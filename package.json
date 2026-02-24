@@ -26,6 +26,7 @@
     "xmlbuilder2": "^4.0.3"
   },
   "devDependencies": {
+    "@biomejs/biome": "^2.4.4",
     "@playwright/test": "^1.58.2",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "^19.2.14",
