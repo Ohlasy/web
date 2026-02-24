@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "lint": "npx @biomejs/biome lint --write",
     "test": "glob-bin -c 'tsx --test' '{src,app}/**/*.test.ts'",
     "playwright": "playwright test"
   },
