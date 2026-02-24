@@ -109,6 +109,7 @@ const PlaybackButton = ({
   icon: JSX.Element;
 }) => (
   <button
+    type="button"
     className="block mt-1 aspect-square w-[50px] text-white hover:scale-110 transition-transform"
     onClick={onClick}
   >
@@ -124,6 +125,7 @@ const SeekButton = ({
   icon: JSX.Element;
 }) => (
   <button
+    type="button"
     className="block aspect-square w-[16px] hover:scale-110 transition-transform"
     onClick={onClick}
   >
@@ -135,7 +137,7 @@ const formatTime = (time: number) => {
   const h = Math.floor(time / 3600);
   const m = Math.floor((time % 3600) / 60);
   const s = Math.floor(time % 60);
-  const str = (n: number) => (n > 9 ? n.toString() : "0" + n.toString());
+  const str = (n: number) => (n > 9 ? n.toString() : `0${n.toString()}`);
   return [h, m, s].map(str).join(":");
 };
 

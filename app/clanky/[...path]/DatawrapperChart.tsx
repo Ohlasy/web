@@ -21,12 +21,12 @@ export const DatawrapperChart = ({ id, version }: Props) => {
       script.current.defer = true;
       elem.current!.appendChild(script.current);
     }
-  }, [elem, script, id, embedUrl]);
+  }, [embedUrl]);
 
   return (
     <div ref={elem} style={{ marginTop: "30px", marginBottom: "30px" }}>
       <noscript>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
+        {/** biome-ignore lint/performance/noImgElement: nope */}
         <img
           src={`https://datawrapper.dwcdn.net/${id}/full.png`}
           alt="Graf"

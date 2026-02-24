@@ -1,4 +1,9 @@
-import { type Article, compareByDate, getAllArticles, stripBody } from "src/article";
+import {
+  type Article,
+  compareByDate,
+  getAllArticles,
+  stripBody,
+} from "src/article";
 import { absolute, getArticlePath } from "src/routing";
 import { articleRoot } from "src/server-utils";
 import { getResizedImageUrl } from "src/utils";

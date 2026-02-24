@@ -14,7 +14,7 @@ export interface Filter {
 }
 
 const Sort = {
-  none: (a: string, b: string) => 1,
+  none: () => 1,
   alpha: (a: string, b: string) => a.localeCompare(b, "cs-CZ"),
 };
 
@@ -40,7 +40,7 @@ export const filters: Filter[] = [
     extractPossibleValues: ({ serial }) => (serial ? [serial] : []),
     match: (article, value) => article.serial === value,
     displayValue: (serialId: string) => {
-      const names: any = {
+      const names: Record<string, string> = {
         pribehy: "Každý má svůj příběh",
         krajiny: "Krajiny Boskovicka",
         ghetto: "Příběhy z ghetta",

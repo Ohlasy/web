@@ -1,10 +1,10 @@
-import type { NextApiRequest, NextApiResponse } from "next";
-import { absolute, RouteTo, siteUrl } from "src/routing";
-import { renderFeed, type RSSFeed, type RSSFeedItem } from "src/feeds";
-import { join } from "path";
-import { compareByDate, getAllArticles, type Article } from "src/article";
+import { join } from "node:path";
 import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
+import type { NextApiRequest, NextApiResponse } from "next";
 import * as ReactDOMServer from "react-dom/server";
+import { type Article, compareByDate, getAllArticles } from "src/article";
+import { type RSSFeed, type RSSFeedItem, renderFeed } from "src/feeds";
+import { absolute, RouteTo, siteUrl } from "src/routing";
 
 /** Serve last 10 articles as an RSS feed with full article text */
 export default async (

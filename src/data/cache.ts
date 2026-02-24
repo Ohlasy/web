@@ -9,7 +9,7 @@ type Cache = {
   authors: Author[];
 };
 
-let cache: Cache | undefined ;
+let cache: Cache | undefined;
 
 export async function getCachedData(): Promise<Cache> {
   if (cache === undefined) {

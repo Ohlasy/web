@@ -64,7 +64,7 @@ export const decodeMetadata = record({
 /** Decode article from a standard frontmatter + body text file */
 export function decodeArticle(
   src: string,
-  defaults: Record<string, any> = {},
+  defaults: Record<string, unknown> = {},
 ): Article {
   // Hack: preprocess “tags:” to support Jekyll-style single-line tags.
   src = src.replaceAll(
@@ -101,7 +101,7 @@ export function parsePath(path: string): [Date, string] {
   const date = new Date(matches[1]);
   const slug = matches[2];
 
-  if (isNaN(date.getTime())) {
+  if (Number.isNaN(date.getTime())) {
     throw `Invalid date ${date} in ${filename}`;
   }
 
@@ -150,7 +150,7 @@ export const getArticleNotices = (article: Metadata) => {
     markers.push("názorový text");
   }
   const age =
-    new Date(+new Date() - +new Date(article.date)).getFullYear() - 1970;
+    new Date(+Date.now() - +new Date(article.date)).getFullYear() - 1970;
   if (age > 1) {
     markers.push(new Date(article.date).getFullYear().toString());
   }

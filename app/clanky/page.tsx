@@ -1,8 +1,8 @@
+import type { Metadata } from "next";
+import { Suspense } from "react";
 import { getAllArticles, stripBody } from "src/article";
 import { ArchiveView } from "./ArchiveView";
 import { buildFilterOptions } from "./filters";
-import { Suspense } from "react";
-import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Archiv článků | Ohlasy",
@@ -25,6 +25,7 @@ async function Page() {
 
 const Spinner = () => (
   <div className="min-h-[400px] flex flex-col">
+    {/** biome-ignore lint/a11y/useSemanticElements: status role good enough */}
     <div className="m-auto pb-10" role="status">
       <svg
         aria-hidden="true"

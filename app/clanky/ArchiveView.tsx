@@ -1,13 +1,19 @@
 "use client";
 
-import type { Metadata } from "src/article";
-import { type Filter, type FilterOptions, filters, match, type Settings } from "./filters";
-import Link from "next/link";
 import Image from "next/image";
-import { RouteTo } from "src/routing";
-import { tilde } from "src/utils";
+import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { type ChangeEvent, useState } from "react";
+import type { Metadata } from "src/article";
+import { RouteTo } from "src/routing";
+import { tilde } from "src/utils";
+import {
+  type Filter,
+  type FilterOptions,
+  filters,
+  match,
+  type Settings,
+} from "./filters";
 
 type Props = {
   allArticles: ReadonlyArray<Metadata>;
@@ -30,7 +36,7 @@ export const ArchiveView = ({ allArticles, filterOptions }: Props) => {
 
   // Update URL when settings change
   const updateRoute = (settings: Record<string, string>) =>
-    router.replace("/clanky/?" + new URLSearchParams(settings));
+    router.replace(`/clanky/?${new URLSearchParams(settings)}`);
 
   // Update settings based on events from the filter panel
   const updateSettings = (id: string, newValue: string | undefined) => {
@@ -108,6 +114,7 @@ const FilterPanel = ({
       ))}
       <div className="mt-4">
         <button
+          type="reset"
           onClick={removeAllFilters}
           disabled={Object.keys(settings).length === 0}
           className="w-full btn-primary"
@@ -150,8 +157,8 @@ export const FilterControl = (props: FilterControlProps) => {
         value={selected ?? emptyLabel}
       >
         <option key="na">{emptyLabel}</option>
-        {values.map((item, index) => (
-          <option key={index} value={item}>
+        {values.map((item) => (
+          <option key={item} value={item}>
             {dressValue(item)}
           </option>
         ))}

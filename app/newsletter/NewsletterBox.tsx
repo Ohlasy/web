@@ -1,7 +1,7 @@
 "use client";
 
-import { Fragment, useState } from "react";
 import Plausible from "plausible-tracker";
+import { Fragment, useState } from "react";
 
 const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
@@ -78,4 +78,4 @@ const subscribeToNewsletter = async (email: string) =>
     }),
   })
     .then((response) => response.ok)
-    .catch((e) => false);
+    .catch((_) => false);

@@ -1,6 +1,6 @@
-import yaml from "js-yaml";
 import assert from "node:assert";
 import test from "node:test";
+import yaml from "js-yaml";
 import { decodePodcast } from "./podcast";
 
 test("Decode podcast", () => {

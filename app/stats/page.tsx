@@ -26,6 +26,7 @@ const Page = async () => {
       <Section title="Návštěvnost webu">
         <iframe
           plausible-embed
+          title="Plausible Analytics"
           className="w-full h-[500px] col-span-2 mt-7"
           src="https://plausible.io/share/ohlasy.info?auth=-aOd5Bi-4jyxpKQMlPrtI&embed=true&theme=light"
           loading="lazy"

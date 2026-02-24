@@ -252,7 +252,9 @@ export function renderFeed(feed: RSSFeed): string {
     node.ele("image", { href: feed.image });
   }
 
-  feed.items?.forEach((item) => renderItem(node, item));
+  feed.items?.forEach((item) => {
+    renderItem(node, item);
+  });
 
   return node.end({ prettyPrint: true });
 }
@@ -298,7 +300,9 @@ export function renderPodcastFeed(feed: iTunesPodcastShow): string {
     node.ele(iTunesNS, "owner").ele(iTunesNS, "email").txt(feed.owner);
   }
 
-  feed.items?.forEach((item) => renderItem(node, item));
+  feed.items?.forEach((item) => {
+    renderItem(node, item);
+  });
 
   return node.end({ prettyPrint: true });
 }

@@ -26,7 +26,7 @@ async function call<T>(
   extract: (data: any) => T = (d: any) => d,
 ): Promise<T> {
   const baseUrl = "https://www.darujme.cz/api/v1/organization/1200499";
-  const endpoint = baseUrl + "/" + path;
+  const endpoint = `${baseUrl}/${path}`;
   const response = await fetch(
     endpoint +
       "?" +

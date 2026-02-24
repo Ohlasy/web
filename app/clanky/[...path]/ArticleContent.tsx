@@ -1,12 +1,12 @@
-import React from "react";
 import Markdoc from "@markdoc/markdoc";
-import { getImageSrcSet, tilde } from "src/utils";
-import { defaultMarkdocConfig } from "src/markdoc-schema";
-import { DatawrapperChart } from "./DatawrapperChart";
 import Image from "next/image";
 import { default as NextLink } from "next/link";
-import { siteUrl } from "src/routing";
+import React from "react";
 import { plausibleEventClass } from "src/data/plausible";
+import { defaultMarkdocConfig } from "src/markdoc-schema";
+import { siteUrl } from "src/routing";
+import { getImageSrcSet, tilde } from "src/utils";
+import { DatawrapperChart } from "./DatawrapperChart";
 import { PodcastPlayer } from "./PodcastPlayer";
 
 export type ArticleBodyProps = {
@@ -89,7 +89,7 @@ const Photo = ({ src, alt, author, caption, width, height }: PhotoProps) => {
       />
     ) : (
       // Without image dimensions, we have to resort to plain old <img> with layout jumps.
-      // eslint-disable-next-line @next/next/no-img-element
+      // biome-ignore lint/performance/noImgElement: see comment above
       <img
         key={src}
         src={src}
@@ -151,6 +151,7 @@ type SpotifyEpisodeProps = {
 
 const SpotifyEpisode = ({ id }: SpotifyEpisodeProps) => (
   <iframe
+    title="Spotify"
     src={`https://open.spotify.com/embed/episode/${id}`}
     width="100%"
     height="352"

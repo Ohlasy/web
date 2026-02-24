@@ -25,6 +25,7 @@ export const BookDetails = ({ book }: Props) => {
 
   const ShowOrderButton = () => (
     <button
+      type="button"
       className="btn-primary max-sm:w-full"
       onClick={() => setShowOrder(true)}
     >
@@ -64,7 +65,7 @@ export const BookDetails = ({ book }: Props) => {
 
       {!inStock && (
         <div className="mt-2">
-          <button className="btn-primary" disabled>
+          <button type="button" className="btn-primary" disabled>
             Kniha je vyprodaná
           </button>
         </div>

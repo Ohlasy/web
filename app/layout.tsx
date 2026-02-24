@@ -1,8 +1,8 @@
-import { RouteTo, siteUrl } from "src/routing";
+import type { Metadata } from "next";
 import { PT_Serif } from "next/font/google";
 import Link from "next/link";
+import { RouteTo, siteUrl } from "src/routing";
 import { SearchForm } from "./SearchForm";
-import type { Metadata } from "next";
 import "./global.css";
 import Image from "next/image";
 import { NewsletterBox } from "./newsletter/NewsletterBox";
@@ -163,17 +163,4 @@ const LinkList = ({ links }: { links: string[][] }) => (
       </li>
     ))}
   </ul>
-);
-
-//
-// Helpers
-//
-
-const SizeClassIndicator = () => (
-  <div className="fixed top-3 right-3 bg-silver text-offBlack text-xs p-2 rounded-full z-[1000]">
-    <span className="block md:hidden">SM</span>
-    <span className="hidden md:block lg:hidden">MD</span>
-    <span className="hidden lg:block xl:hidden">LG</span>
-    <span className="hidden xl:block">XL</span>
-  </div>
 );

@@ -1,6 +1,6 @@
+import { WebClient } from "@slack/web-api";
 import type { NextRequest } from "next/server";
 import { record, string } from "typescript-json-decoder";
-import { WebClient } from "@slack/web-api";
 
 export async function POST(request: NextRequest): Promise<Response> {
   const decodeBody = record({
@@ -9,7 +9,7 @@ export async function POST(request: NextRequest): Promise<Response> {
   const body = await request
     .json()
     .then(decodeBody)
-    .catch((e) => null);
+    .catch((_) => null);
   if (!body) {
     return new Response("Error decoding body, see the source please.", {
       status: 400,
@@ -27,7 +27,7 @@ export async function POST(request: NextRequest): Promise<Response> {
       channel: "CNV9CHDUH",
       text: `Máme nového zájemce nebo zájemkyni o odběr newsletteru 🎉 Adresa je ${body.email}, zadejte ji někdo prosím <https://newsletter.ohlasy.info/publish/subscribers|do Substacku> a označte tohle vlákno za vyřešené. Díky! 👋`,
     })
-    .catch((e) => null);
+    .catch((_) => null);
   return response?.ok
     ? new Response("OK", { status: 200 })
     : new Response("Slack error, sorry.", { status: 500 });

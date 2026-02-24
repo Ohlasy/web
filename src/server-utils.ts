@@ -1,6 +1,6 @@
-import { resolve, join } from "path";
+import fs from "node:fs";
+import { join, resolve } from "node:path";
 import { parsePath } from "./article";
-import fs from "fs";
 
 /** Root folder containing all the articles */
 export const articleRoot = "content/articles";

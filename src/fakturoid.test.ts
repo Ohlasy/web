@@ -1,6 +1,6 @@
-import { decodeWebhook } from "./fakturoid";
 import assert from "node:assert";
 import test from "node:test";
+import { decodeWebhook } from "./fakturoid";
 
 test("Decode webhook", () => {
   const payload = {

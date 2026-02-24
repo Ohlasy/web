@@ -1,20 +1,20 @@
+import { BannerBox } from "components/BannerBox";
 import { PreviewNest } from "components/PreviewNest";
+import Image from "next/image";
+import Link from "next/link";
+import { compareByDate, getAllArticles, type Metadata } from "src/article";
+import type { Banner } from "src/data/banners";
 import { getAllBanners } from "src/data/banners";
-import { RouteTo } from "src/routing";
-import { endlessGeneratorOf, shuffleInPlace, tilde } from "src/utils";
-import { getTopArticles, plausibleEventClass } from "src/data/plausible";
+import { getAllAuthors } from "src/data/content";
 import {
   getLatestTopicsSummary,
   getUserAvatar,
   type LatestTopicsSummary,
 } from "src/data/forum";
-import { compareByDate, getAllArticles, type Metadata } from "src/article";
-import { BannerBox } from "components/BannerBox";
-import type { Banner } from "src/data/banners";
 import type { TopArticles } from "src/data/plausible";
-import Link from "next/link";
-import Image from "next/image";
-import { getAllAuthors } from "src/data/content";
+import { getTopArticles, plausibleEventClass } from "src/data/plausible";
+import { RouteTo } from "src/routing";
+import { endlessGeneratorOf, shuffleInPlace, tilde } from "src/utils";
 
 // Revalidate this page every 5 minutes
 export const revalidate = 300;
@@ -127,6 +127,7 @@ const FundraisingSecion = () => (
     </div>
     <div>
       <iframe
+        title="Darujte"
         width="100%"
         height="408"
         src="https://www.darujme.cz/widget?token=yuz8kfm2xy7lb0rb"
@@ -208,37 +209,35 @@ const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
   };
 
   return (
-    <>
-      <div className="grid lg:grid-cols-3 gap-x-7">
-        <div className="col-span-2">
-          {topics.map((topic) => (
-            <div
-              className="grid md:grid-cols-3 border-b-[1px] border-dotted border-silver last:border-0 pb-2 mb-2 gap-x-7"
-              key={topic.id}
-            >
-              <a href={RouteTo.forumTopic(topic)} className="col-span-2">
-                {topic.title}
-              </a>
-              <div>
-                {topic.posters.map(({ user_id }) => (
-                  <Image
-                    key={user_id}
-                    src={getAvatarForUserId(user_id)}
-                    className="inline-block rounded-full mr-1"
-                    width={30}
-                    height={30}
-                    alt=""
-                  />
-                ))}
-              </div>
+    <div className="grid lg:grid-cols-3 gap-x-7">
+      <div className="col-span-2">
+        {topics.map((topic) => (
+          <div
+            className="grid md:grid-cols-3 border-b-[1px] border-dotted border-silver last:border-0 pb-2 mb-2 gap-x-7"
+            key={topic.id}
+          >
+            <a href={RouteTo.forumTopic(topic)} className="col-span-2">
+              {topic.title}
+            </a>
+            <div>
+              {topic.posters.map(({ user_id }) => (
+                <Image
+                  key={user_id}
+                  src={getAvatarForUserId(user_id)}
+                  className="inline-block rounded-full mr-1"
+                  width={30}
+                  height={30}
+                  alt=""
+                />
+              ))}
             </div>
-          ))}
-        </div>
-        <div className="max-lg:hidden">
-          <BannerBox banner={banner} />
-        </div>
+          </div>
+        ))}
       </div>
-    </>
+      <div className="max-lg:hidden">
+        <BannerBox banner={banner} />
+      </div>
+    </div>
   );
 };
 

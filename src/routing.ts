@@ -52,7 +52,7 @@ export const absolute = (path = "/") => {
   } else if (path.startsWith("/")) {
     return siteUrl + path;
   } else {
-    return siteUrl + "/" + path;
+    return `${siteUrl}/${path}`;
   }
 };
 

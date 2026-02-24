@@ -1,9 +1,13 @@
 import Image from "next/image";
-import { getAllArticles } from "src/article";
-import { RouteTo } from "src/routing";
-import { getAllAuthors, type Author, getPodcastEpisodes } from "src/data/content";
-import type { ReactNode } from "react";
 import Link from "next/link";
+import type { ReactNode } from "react";
+import { getAllArticles } from "src/article";
+import {
+  type Author,
+  getAllAuthors,
+  getPodcastEpisodes,
+} from "src/data/content";
+import { RouteTo } from "src/routing";
 
 const Page = async () => {
   const episodes = await getPodcastEpisodes("content/podcast.yml");

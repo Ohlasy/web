@@ -1,9 +1,9 @@
-import { parsePath, readArticle } from "./article";
-import { getFilesRecursively } from "./server-utils";
-import { defaultMarkdocConfig } from "./markdoc-schema";
 import assert from "node:assert";
 import test from "node:test";
 import Markdoc from "@markdoc/markdoc";
+import { parsePath, readArticle } from "./article";
+import { defaultMarkdocConfig } from "./markdoc-schema";
+import { getFilesRecursively } from "./server-utils";
 
 test("Decode all articles", async (t) => {
   const allArticlePaths = getFilesRecursively("content/articles")

@@ -15,7 +15,7 @@ import {
   union,
 } from "typescript-json-decoder";
 
-const numberFromString = (val: unknown) => parseInt(string(val));
+const numberFromString = (val: unknown) => parseInt(string(val), 10);
 
 type Order = decodeType<typeof decodeOrder>;
 const decodeOrder = record({
@@ -34,6 +34,7 @@ export type State =
   | { tag: "sent"; orderId: string; invoiceUrl: string };
 
 export async function placeOrder(
+  // biome-ignore lint/correctness/noUnusedFunctionParameters: This is a standard Next.js signature we can’t muck with?
   currentState: State,
   formData: FormData,
 ): Promise<State> {

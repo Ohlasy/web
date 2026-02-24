@@ -1,10 +1,10 @@
+import { join } from "node:path";
 import {
   convertEpisodeToPodcastItem,
   getPodcastEpisodes,
 } from "src/data/content";
-import { absolute, RouteTo } from "src/routing";
 import { type iTunesPodcastShow, renderPodcastFeed } from "src/feeds";
-import { join } from "path";
+import { absolute, RouteTo } from "src/routing";
 
 export async function GET() {
   const dataFile = join(process.cwd(), "content/podcast.yml");

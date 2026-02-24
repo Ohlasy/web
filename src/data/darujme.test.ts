@@ -1,13 +1,13 @@
 import assert from "node:assert";
 import test from "node:test";
 import {
-  sumRecurrentDonations,
-  sumOneTimeDonations,
-  type Transaction,
+  firstDayOfMonth,
   formatDate,
   getPastFullMonths,
-  firstDayOfMonth,
   lastDayOfMonth,
+  sumOneTimeDonations,
+  sumRecurrentDonations,
+  type Transaction,
 } from "./darujme";
 
 test("Date formatting", () => {

@@ -1,16 +1,17 @@
+import {
+  filterByYear,
+  getArticlesByAuthor,
+  renderCSV,
+  sum,
+} from "app/stats/content-stats";
 import { getAllArticles } from "src/article";
 import { articleRoot } from "src/server-utils";
-import {
-  getArticlesByAuthor,
-  sum,
-  renderCSV,
-  filterByYear,
-} from "app/stats/content-stats";
 
 export function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const yearParam = searchParams.get("year");
-  const year = typeof yearParam === "string" ? parseInt(yearParam) : undefined;
+  const year =
+    typeof yearParam === "string" ? parseInt(yearParam, 10) : undefined;
   const articles = getAllArticles(articleRoot).filter(filterByYear(year));
   const stats = sum(getArticlesByAuthor(articles));
   return new Response(renderCSV(stats), {
