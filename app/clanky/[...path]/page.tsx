@@ -97,7 +97,7 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
     dateStyle: "long",
   });
   return (
-    <div className="mt-10 bg-lightGray p-7 pt-5 border-t border-silver flex gap-7 flex-wrap content-center">
+    <div className="mt-10 bg-light-gray p-7 pt-5 border-t border-silver flex gap-7 flex-wrap content-center">
       <div>
         <Image
           src={author.profilePhotoUrl!}

@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 @theme {
-  --color-lightGray: #f8f8f8;
+  --color-light-gray: #f8f8f8;
   --color-silver: #ddd;
   --color-gray: #c0c0c0;
   --color-brown: #945200;
-  --color-offBlack: #444;
+  --color-off-black: #444;
   --color-plum: #853b36;
 }
 
@@ -29,14 +29,14 @@ body {
   font-family: serif;
   font-size: 19px;
   line-height: 1.5em;
-  color: #444;
+  color: var(--color-off-black);
 }
 
 /* Content */
 
 .article-content a {
   text-decoration: none;
-  color: rgb(148, 82, 0);
+  color: var(--color-brown);
 }
 
 .article-content hr {
@@ -48,7 +48,7 @@ body {
   font-size: 150%;
   font-weight: bold;
   line-height: 1.3em;
-  color: #444;
+  color: var(--color-off-black);
   text-transform: uppercase;
   margin-top: 1.2ex;
   margin-bottom: 0.2ex;
@@ -62,7 +62,7 @@ body {
 
 .article-content blockquote {
   padding: 0;
-  border-left: 4px solid rgb(148, 82, 0);
+  border-left: 4px solid var(--color-brown);
   padding-left: 2ex;
   margin-top: 2ex;
   margin-bottom: 2ex;

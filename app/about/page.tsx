@@ -29,7 +29,7 @@ const Page = async () => {
 
   return (
     <div className="flex flex-col gap-10">
-      <section className="grid lg:grid-cols-3 gap-7 lg:mt-7 bg-lightGray">
+      <section className="grid lg:grid-cols-3 gap-7 lg:mt-7 bg-light-gray">
         <Image
           className="lg:col-span-2 lg:order-2"
           src="https://i.ohlasy.info/i/0ef79d75.jpg"
@@ -160,7 +160,7 @@ const AuthorList = ({ authors }: { authors: Author[] }) => (
           className="rounded-full mb-2 m-auto border-4 border-white hover:border-brown"
           alt=""
         />
-        <h3 className="text-offBlack">{a.name}</h3>
+        <h3 className="text-off-black">{a.name}</h3>
       </a>
     ))}
   </div>

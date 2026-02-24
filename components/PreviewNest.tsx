@@ -67,7 +67,7 @@ const FeaturePreview = ({
   return (
     <Link
       className={mergeClasses(
-        "grid lg:grid-cols-3 lg:gap-7 bg-lightGray text-offBlack",
+        "grid lg:grid-cols-3 lg:gap-7 bg-light-gray text-off-black",
         analyticsId,
       )}
       href={RouteTo.article(article)}
@@ -113,7 +113,7 @@ const SecondaryPreview = ({ article, analyticsId }: ArticleProps) => {
   const notices = getArticleNotices(article);
   return (
     <Link
-      className={mergeClasses("bg-lightGray text-offBlack", analyticsId)}
+      className={mergeClasses("bg-light-gray text-off-black", analyticsId)}
       href={RouteTo.article(article)}
     >
       <div className="relative w-full aspect-video">

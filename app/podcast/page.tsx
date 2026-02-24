@@ -28,7 +28,7 @@ const PodcastPage = async () => {
 
 const Intro = () => (
   <>
-    <div className="grid lg:grid-cols-3 lg:gap-7 bg-lightGray">
+    <div className="grid lg:grid-cols-3 lg:gap-7 bg-light-gray">
       <div className="p-4">
         <h2 className="text-3xl font-bold mb-3">Podcast Ohlasy</h2>
         <p className="mb-3">
@@ -80,9 +80,9 @@ const PlayerPill = ({ href, title }: { href: string; title: string }) => (
 const EpisodeList = ({ articles }: { articles: Article[] }) => (
   <div className="grid grid-cols-2 md:grid-cols-3 gap-7">
     {articles.map((article) => (
-      <div className="bg-lightGray" key={article.title}>
+      <div className="bg-light-gray" key={article.title}>
         <Link
-          className="bg-lightGray text-offBlack"
+          className="bg-light-gray text-off-black"
           href={RouteTo.article(article)}
         >
           <div className="relative w-full aspect-video">

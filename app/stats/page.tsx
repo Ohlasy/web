@@ -45,7 +45,7 @@ const Section = ({
   title: string;
 }) => (
   <section className="mb-20">
-    <h2 className="text-3xl uppercase font-bold bg-lightGray px-3 py-4">
+    <h2 className="text-3xl uppercase font-bold bg-light-gray px-3 py-4">
       {title}
     </h2>
     <div className="grid lg:grid-cols-2 gap-7">{children}</div>

@@ -102,7 +102,7 @@ const FilterPanel = ({
   };
 
   return (
-    <div className="flex flex-col gap-2 bg-lightGray p-4">
+    <div className="flex flex-col gap-2 bg-light-gray p-4">
       {filters.map((filter) => (
         <FilterControl
           key={filter.id}
@@ -185,7 +185,7 @@ const ArticlePreview = ({ article }: { article: Metadata }) => {
         />
       </div>
       <h2 className="text-balance font-bold">{tilde(article.title)}</h2>
-      <p className="text-sm uppercase text-offBlack">
+      <p className="text-sm uppercase text-off-black">
         {article.author} {formatDate(article.date)}
       </p>
       <p className="line-clamp-6 text-sm text-balance">

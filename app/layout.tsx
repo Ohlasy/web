@@ -63,7 +63,7 @@ export default function RootLayout({ children }: Props) {
 
 const NavBar = () => {
   return (
-    <nav className="mb-4 md:mb-6 bg-lightGray py-3 border-silver border-b">
+    <nav className="mb-4 md:mb-6 bg-light-gray py-3 border-silver border-b">
       <div className="max-w-6xl m-auto px-3 md:px-7 overflow-hidden text-2xl lg:text-[42px] uppercase">
         <div>
           <Link
@@ -89,7 +89,7 @@ const NavBar = () => {
 //
 
 const Footer = () => (
-  <footer className="mt-10 bg-lightGray border-t border-silver py-10">
+  <footer className="mt-10 bg-light-gray border-t border-silver py-10">
     <div className="max-w-6xl px-7 m-auto grid md:grid-cols-3 gap-7">
       <div className="grid grid-cols-1 gap-2 max-md:order-3">
         <SiteName />
