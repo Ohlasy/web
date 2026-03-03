@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: podcast
 ---
 
-*Rozhovor s Janem Flíčkem, boskovickým zastupitelem zvoleným za Změnu22, ze které však před časem vystoupil. A také pořadatelem boskovické demonstrace Milionu chvilek pro demokracii na podporu prezidenta Petra Pavla. Mluvili jsme o demonstraci i o Honzově zkušenosti s komunální politikou.*
+*Rozhovor s Janem Flíčkem, boskovickým zastupitelem zvoleným za Změnu22, ze které však před časem vystoupil. A také spolupořadatelem boskovické demonstrace Milionu chvilek pro demokracii na podporu prezidenta Petra Pavla. Mluvili jsme o demonstraci i o Honzově zkušenosti s komunální politikou.*
 
 {% podcast_player file="2026/podcast/flicek.mp3" /%}
 
