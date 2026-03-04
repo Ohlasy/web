@@ -1,5 +1,6 @@
 ---
 title: Ohlasy ledna
+cover-photo: https://i.ohlasy.info/i/4273088f.jpg
 author: Tomáš Trumpeš
 tags: newsletter
 ---
