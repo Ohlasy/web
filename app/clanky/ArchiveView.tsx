@@ -152,7 +152,7 @@ export const FilterControl = (props: FilterControlProps) => {
         {filter.name} {selected && <span className="text-blue-400">●</span>}
       </div>
       <select
-        className="w-full"
+        className="w-full border border-gray rounded-md p-1"
         onChange={handleChange}
         value={selected ?? emptyLabel}
       >
