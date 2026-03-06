@@ -1,8 +1,8 @@
 ---
 title: Ohlasy ledna
+category: newsletter
 cover-photo: https://i.ohlasy.info/i/4273088f.jpg
 author: Tomáš Trumpeš
-tags: newsletter
 ---
 
 *Slučování muzea, politické zásahy do nemocnice, debata o hospodaření města a první pozvání na festival Boskovice*

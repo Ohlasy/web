@@ -1,8 +1,8 @@
 ---
 title: Ohlasy února
+category: newsletter
 cover-photo: https://i.ohlasy.info/i/45b4a62d.jpeg
 author: Tomáš Trumpeš
-tags: newsletter
 ---
 
 *Demonstrace Milionu chvilek, vizualizace sportovní haly, pravidla diskuse na sítích, velkopanské chování Grolichova kraje, kritika investic a úspěšný projekt Prostoru*

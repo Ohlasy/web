@@ -57,6 +57,7 @@ export const decodeMetadata = record({
       "rozhovory",
       "podcast",
       "ankety",
+      "newsletter",
     ),
   ),
 });
@@ -149,7 +150,7 @@ export const getArticleNotices = (article: Metadata) => {
   if (article.category === "názory a komentáře") {
     markers.push("názorový text");
   }
-  if (article.tags.includes("newsletter")) {
+  if (article.category === "newsletter") {
     markers.push("newsletter");
   }
   const age =
