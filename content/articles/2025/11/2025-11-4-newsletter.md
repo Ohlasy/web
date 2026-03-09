@@ -48,7 +48,7 @@ Když jsme připravovali k vydání rozhovor s Alexandrou Polarczyk, bylo jasné
 * Byly zahájeny [zdravotní řezy lipového stromořadí](https://www.boskovice.cz/zdravotni-rezy-lip-na-ulici-otakara-kubina) na ulici Otakara Kubína.  
 * V muzeu byla otevřena [výstava o době bronzové](https://www.boskovice.cz/muzeum-se-preneslo-do-doby-bronzove). V Galerii Otakara Kubína [výstava Sylvy Lacinové](https://www.boskovice.cz/sylva-lacinova-pribeh-ne-jedne-sochy).
 
-{% photo src="https://i.ohlasy.info/i/aa86bcb2.jpg" caption="„Měsíc\! Svítí Měsíc\!“ Bonusem na vernisáži v Galerii Otakara Kubína bylo vystoupení Petra Fialy z kapely Mňága a Ždorp, která hrála ten večer v sokolovně" author="Tomáš Trumpeš" width=1024 height=768 /%}
+{% photo src="https://i.ohlasy.info/i/aa86bcb2.jpg" caption="„Měsíc! Svítí Měsíc!“ Bonusem na vernisáži v Galerii Otakara Kubína bylo vystoupení Petra Fialy z kapely Mňága a Ždorp, která hrála ten večer v sokolovně" author="Tomáš Trumpeš" width=1024 height=768 /%}
 
 ### Podcast
 
