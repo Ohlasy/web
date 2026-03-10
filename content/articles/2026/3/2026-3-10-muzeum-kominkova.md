@@ -1,0 +1,22 @@
+---
+title: Boskovické muzeum má novou ředitelku – Pavlínu Komínkovou z Blanska
+cover-photo: https://i.ohlasy.info/i/b546bd21.png
+author: Tomáš Trumpeš
+category: zpravodajství
+---
+
+*Situace v boskovickém muzeu se zatím vyvíjí dle plánů kraje. Řízení muzea se od března ujala ředitelka blanenského muzea Pavlína Komínková a obě instituce směřují ke sloučení.*
+
+{% photo src="https://i.ohlasy.info/i/b546bd21.png" caption="Pavlína Komínková" author="Lenka Skotáková" width=1460 height=1032 /%}
+
+Sloučit boskovické a blanenské muzeum od příštího roku, ale změnu ve vedení toho boskovického provést už v prvních měsících letoška – to byl záměr, který v muzeu představila delegace z kraje [už na začátku roku](https://ohlasy.info/clanky/2026/01/muzeum-slucovani.html). Scénář se zatím naplňuje, na konci února pověřila krajská rada řízením boskovického muzea Pavlínu Komínkovou, která v současnosti působí jako ředitelka Muzea Blanenska. Podle informací z kraje je řízením pověřena dočasně a na místo kraj vypíše výběrové řízení.
+
+Situaci kraji nakonec zjednodušil dosavadní ředitel muzea Roman Malach, který se rozhodl ředitelské funkce sám vzdát. Hned na začátku roku se jasně vyjádřil proti postupu kraje při záměru muzea sloučit a logicky se tak ocitl pod velkým tlakem ze strany zřizovatele. „Pochopil jsem, že už nemám podporu svých nadřízených pro další výkon manažerské funkce. Mé představy o směřování a rozvoji muzea se v některých ohledech rozcházejí s představou zřizovatele,“ uvedl Roman Malach pro Ohlasy.
+
+V muzeu by měl dosavadní ředitel zůstat na odborné pozici historika. Sám je přesvědčen, že navzdory výše popsanému nesouladu se zřizovatelem může být pro muzeum nadále přínosem právě v odborné rovině. „Do nové pozice jdu s cílem věnovat se intenzivněji výzkumu regionální historie a tématům blízkým mé odborné specializaci. Muzeum totiž není jen o péči o sbírky a jejich prezentaci veřejnosti. Stejně důležitý je i systematický výzkum, práce s pamětníky, dokumentace, získávání předmětů a souvisejících informací, aby i za desítky let mělo muzeum dostatek kvalitního materiálu pro poznání a prezentaci bohaté historie regionu. Věřím, že právě v této odborné rovině mohu muzeu nabídnout to nejsilnější, co odpovídá mému vzdělání, dosavadní praxi i dlouhodobému profesnímu zaměření,“ vyjádřil se Roman Malach.
+
+Nová ředitelka Pavlína Komínková pro naše noviny uvedla, že má s příchodem do Boskovic nastaveny čtyři hlavní priority. První je strategie – je podle ní potřeba nastavit rozvoj expozic, sbírky a postavení muzea do dalších let, plus stěžejní témata, kterým by se muzeum mělo věnovat. Zásadní je také důraz na PR. Druhé téma jsou lidé, což představuje nastavení optimálního fungování všech pracovníků, mapování kompetencí a případné přerozdělení, aby mohl každý fungovat co nejlépe. Třetím tématem je spolupráce. „Muzeum je hlavní partner pro město, pro KZMB, pořadatele festivalů a další. Spolupráce je zásadní a chtěla bych ji nejen udržet, ale hlavně rozvíjet. Speciální důraz si zaslouží spolupráce Boskovic a Blanska, která by měla díky sloučení nabírat na intenzitě,“ uvedla Pavlína Komínková. A posledním tématem je kontinuita. „Ráda bych udržela všechno, co funguje, pokračuje plánování akcí, výstav, zapojení stávajícího tématu Posvátné krajiny doby bronzové do akcí města a tradičních akcí muzea,“ popsala Pavla Komínková. Zmíněná výstava bude v muzeu pokračovat až do konce roku 2026\.
+
+Změnu ve vedení Muzea regionu Boskovicka okomentoval na tiskové konferenci města také místostarosta Lukáš Holík (Naše Boskovice), který má na starosti kulturu. „Dvakrát přijeli velcí páni z kraje a výsledek je ten, že pan ředitel Malach podal rezignaci. Na předchozí schůzce nám bylo řečeno, že se zatím nebude nic personálně měnit a nebude se nic tlačit. A znovu je tady vidět ten výsledek. Něco se slíbí, a pak je to úplně někde jinde,“ vyjádřil se Lukáš Holík, který je rovněž krajským opozičním zastupitelem za hnutí ANO. Netajil se tím, že z komunikace s krajem v něm vzbuzuje především naštvanost a skepsi. Stejně tak ho mrzelo, že po jmenování nové ředitelky nikdo město o této skutečnosti neinformoval. Kraj podle něj také vůbec nereagoval na dopis od Asociace muzeí a galerií, která se o slučování muzeí zajímala. Označil to za selhání kraje.
+
+Podle místostarosty Lukáše Holíka tak vše směřuje ke sloučení muzeí. Byl by rád, aby v případě sloučení existovaly nějaké záruky, že časem nebude činnost muzea v Boskovicích omezena a nestane se z něj jen „přívěšek Blanska“. To je podle něj největší hrozba.
