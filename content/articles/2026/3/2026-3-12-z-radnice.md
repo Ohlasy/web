@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Novinky z boskovické radnice, které oznámilo po jednání městské rady na tiskové konferenci na začátku března vedení města – starostka Jana Syrovátková (Změna22), místostarostové Lukáš Holík (Naše Boskovice) a Radek Šamšula (Piráti) a tajemník David Škvařil.*
 
-{% photo src="https://i.ohlasy.info/i/d3551054.jpeg" caption="Školka Na Dolech" author="Tomáš Trumpeš" width=4032 height=3024 /%}
+{% photo src="https://i.ohlasy.info/i/d3551054.jpeg" caption="Školka Na Dolech bude celé letní prázdniny uzavřená kvůli stavebním pracem" author="Tomáš Trumpeš" width=4032 height=3024 /%}
 
 ### Policejní zprávy
 
