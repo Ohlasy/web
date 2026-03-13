@@ -14,7 +14,7 @@
     "playwright": "playwright test"
   },
   "dependencies": {
-    "@markdoc/markdoc": "^0.5.4",
+    "@markdoc/markdoc": "^0.5.5",
     "@slack/web-api": "^7.14.1",
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",
@@ -27,14 +27,14 @@
     "xmlbuilder2": "^4.0.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.4",
+    "@biomejs/biome": "^2.4.6",
     "@playwright/test": "^1.58.2",
     "@tailwindcss/postcss": "^4.2.1",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "glob-bin": "^1.1.0",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.8",
     "tailwindcss": "^4.2.1",
     "tsx": "^4.21.0",
     "typescript": "5.x"
