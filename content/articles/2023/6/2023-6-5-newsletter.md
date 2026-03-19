@@ -73,8 +73,7 @@ Mimochodem odchod Jiřího Nantla z kraje je mimo školství pro Boskovice zají
 
 * Byly [vyhlášeny výsledky](https://boskovice.cz/boskovice-znaji-nejlepsi-sportovce/d-46581) ankety **Nejlepší sportovec, družstvo a trenér** města Boskovice za rok 2022\. Do Sportovní síně slávy byl uveden Milan Huzlík, dlouholetý hráč, trenér a funkcionář fotbalového klubu.
 
-{% photo src="https://i.ohlasy.info/i/0a1c5e7f.jpg" caption="Nová fasáda trafostanice na sídlišti poblíž Komenského ulice
-" width=2048 height=1366 /%}
+{% photo src="https://i.ohlasy.info/i/0a1c5e7f.jpg" caption="Nová fasáda trafostanice na sídlišti poblíž Komenského ulice" width=2048 height=1366 /%}
 
 Podcast Ohlasy tentokrát uvítal našeho kolegu Marka Osoucha v poněkud netradiční roli hosta. Markův velký úspěch v letošním ročníku Novinářské ceny jsme museli zreflektovat a Marka se na jeho novinářskou práci trochu víc vyptat.
 
