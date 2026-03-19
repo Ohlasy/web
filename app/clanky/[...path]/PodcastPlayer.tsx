@@ -31,7 +31,7 @@ export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
       <div className="flex flex-col md:flex-row gap-7">
         <div className="relative aspect-square w-full md:w-[216px] shrink-0">
           <Image
-            className="bg-gray shadow-lg rounded-xl"
+            className="bg-gray shadow-lg rounded-xl object-cover"
             sizes="(min-width: 768px) 216px, 100vw"
             src={episode.image}
             alt=""
