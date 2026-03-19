@@ -31,6 +31,8 @@ Určitě. Jak už jsem říkala, financování ve vědě je celkem náročné, p
 
 Přesně tak. 
 
+{% photo src="https://i.ohlasy.info/i/c4271dbe.jpg" caption="Sběr sloního trusu" author="archiv Barbory Pafčo" width=2314 height=1737 /%}
+
 ### Popsat koloběh parazitů je důležité
 
 **My se zatím bavíme tak nejasně – teď bych se rád dostal k tomu, co co vlastně chceš. Co je ta podstata tvé práce? Můžeš na začátku krátce vysvětlit, kde teď působíš, na jakém pracovišti a čím přesně se zabýváš?** 
@@ -59,6 +61,8 @@ My jsme schopni přijít na to, kdy byl ten parazit někam zavlečen. Takže to 
 
 A úplně poslední téma, kterému se věnuju v rámci projektu, je paleoparazitologie. To je vlastně objevování parazitů v nějakém historickém kontextu, v nějakém historickém materiálu. Začala jsem pracovat s antropology, s archeology na historických vykopávkách a snažíme se přijít na to, jak vlastně paraziti vypadali v minulosti, jaká vůbec byla diverzita, co lidi měli za parazity a jak se změnili v čase až do současnosti. 
 
+{% photo src="https://i.ohlasy.info/i/fb134fd4.jpg" caption="Habituace goril" author="archiv Barbory Pafčo" width=1720 height=1293 /%}
+
 ### Věděla jsem, že chci jezdit do Afriky
 
 **Jak ses ke svým výzkumným tématům dostala?** 
@@ -76,6 +80,8 @@ Začala jsem jezdit vzorkovat do Kateřinské jeskyně s jednou PhD studentkou, 
 Asi ano. Samozřejmě, že když si člověk na střední škole vybírá, čím by chtěl být, tak je to prostě složité. Já jsem věděla, že mám ráda zvířata, ale že se jich nemám potřebu úplně dotýkat. Takže jsem věděla, že nechci být třeba veterinářka. Vždycky mě bavila biologie, takže jsem ještě uvažovala nad medicínou, pak mi došlo, že bych musela pracovat s lidmi a taky se jich dotýkat, což taky není úplně pro mě. Takže jsem šla cestou zoologie.
 
 A když se potom dostanete na školu, tak ono už moc cest není, co byste mohli v oboru dělat. Buď zůstanete ve vědě, nebo skončíte někde v muzeu, nebo na nějakém CHKO, nebo něco takového. Mě to hodně chytlo, takže už během bakalářské práce jsem si říkala, že věda je to, co chci dělat. Nějak pokračovat v těch tématech. Ale úplně na začátku jsem si spíš myslela, že budu spíš pracovat v muzeu nebo v národním parku.
+
+{% photo src="https://i.ohlasy.info/i/caf64931.jpg" author="archiv Barbory Pafčo" width=1770 height=1179 /%}
 
 ### Není tam sklo ani mříže a to zvíře je kousek od vás
 
@@ -105,6 +111,8 @@ Přestože jsou ty gorily habituované a lidi tam jsou každý den, občas samec
 
 Ve Středoafrické republice jsem byla rok, tak jak to bylo plánováno, to se stalo. A od té doby už jsem začala jezdit do Afriky úplně pravidelně, byla jsem moctkrát v Kamerunu, byla jsem v republice Kongo, ve Rwandě, v Tanzánii. Jak člověk jednou odjede a osvědčí se, tak už jezdí docela často. Když do nějakých jiných projektů bylo potřeba, aby tam někdo odjel, tak mě oslovili, nebo jsem dělala různé parazitologické workshopy pro různé organizace, pro WWF třeba, na vysoké škole v Kamerunu jsem přednášela a tak. Potom je už člověk zvaný do Afriky na vzorkování, na workshopy a podobně.
 
+{% photo src="https://i.ohlasy.info/i/5d8fd5e8.jpg" author="archiv Barbory Pafčo" width=978 height=734 /%}
+
 ### Máme jedny z nejlepších laboratoří
 
 **Ještě se vrátím k té vědecké práci jako takové. Máš už dneska větší nadhled a srovnání – kdybys to měla říct obecně, jaké jsou podmínky pro vědeckou práci tady v České republice, nebo speciálně v Brně? Jak se žije vědcům?** 
@@ -117,7 +125,9 @@ Já třeba pracuji na Masarykově univerzitě a hodně věcí dělám ve spolupr
 
 Držíme rozhodně krok. A nejenže držíme krok, já bych řekla, že to jsou jedny z nejlepších laboratoří, ve kterých jsem pracovala. My bychom fakt měli být rádi za to, co se tady v posledních desítkách let stalo. Jak vypadají naše školy, jak vypadají naše nemocnice, a takhle vypadá i ta vědecká komunita nebo vědecká vybavenost. 
 
-Když potom jedete do jiných zemí, pro nás vyspělejších, tak třeba ta úroveň není taková. V Japonsku, ve Spojených státech jsem viděla laboratoře, jaké tady už prostě nejsou. Byly tady třeba před dvaceti lety, ale dneska tady laboratoře už takhle nevypadají. Zase je fajn, že když někoho pozvete zvenku, tak to nečeká – jede do východní Evropy a vy mu pak ukážete takovéto laboratoře. Často jsou ti lidi překvapení, jak vypadá náš výzkum, kde pracujeme, jaká data produkujeme a podobně. Takže to je příjemné, myslím si, že to tady je na dobré úrovni. I to, že s námi lidi chtějí spolupracovat – já jsem naprosto pro spolupráci – takže já jsem tady spokojená. Samozřejmě člověk by mohl vždycky najít mouchy, financování, ano, s tím se potýkáme úplně všude. Ale pořád si myslím, že situace je prostě dobrá. 
+Když potom jedete do jiných zemí, pro nás vyspělejších, tak třeba ta úroveň není taková. V Japonsku, ve Spojených státech jsem viděla laboratoře, jaké tady už prostě nejsou. Byly tady třeba před dvaceti lety, ale dneska tady laboratoře už takhle nevypadají. Zase je fajn, že když někoho pozvete zvenku, tak to nečeká – jede do východní Evropy a vy mu pak ukážete takovéto laboratoře. Často jsou ti lidi překvapení, jak vypadá náš výzkum, kde pracujeme, jaká data produkujeme a podobně. Takže to je příjemné, myslím si, že to tady je na dobré úrovni. I to, že s námi lidi chtějí spolupracovat – já jsem naprosto pro spolupráci – takže já jsem tady spokojená. Samozřejmě člověk by mohl vždycky najít mouchy, financování, ano, s tím se potýkáme úplně všude. Ale pořád si myslím, že situace je prostě dobrá.
+
+{% photo src="https://i.ohlasy.info/i/9b788bea.jpg" author="archiv Barbory Pafčo" width=1224 height=812 /%}
 
 ### Rovnocenný vztah, než žena otěhotní
 
@@ -153,7 +163,9 @@ Můj muž, rozhodně.
 
 To říkám úplně všem. Bydlíme tady u Boskovic, já jsem ze severních Čech, on je ze severního Slovenska, takže jsme na půl cesty, 300 kilometrů na každou stranu, takže babičky tady nemáme, i když jsou skvělé, strašně by chtěly a když můžou, tak se nám snaží pomoct. Ale pracují, takže si musí brát dovolenou nebo přijedou na víkend, není to to každodenní hlídání, vyzvedávání z kroužků, školek, škol a podobně. Takže je to na nás. Vědu můžu dělat díky tomu, že můj muž souhlasí s tím, že pojedeme půl na půl. Oba pracujeme a střídáme si děti půl na půl. Já vstávám brzo, on pracuje dlouho do noci. Je to nějaký balanc mezi pracovním a osobním životem. On do toho musel dát strašně moc své energie a souhlasit s tím. 
 
-Na druhou stranu, já si taky myslím, že to je strašně dobře, hlavně pro ty děti. Že nemají tátu, který přijde odpoledne unavený z práce a nemá na ně čas. Oni s mým mužem ten čas tráví, pro ně to je opravdu člověk, který je vychovává, což je skvělé. Je to skvělý vzor, skvělý vztah a i ukázka těm dětem, jak se ten život dá žít, že můžou dělat, co chtějí, že si můžou plnit svoje sny. Hodně často vidí, co já nebo můj muž Tomáš děláme, bereme je někam s sebou. Myslím, že to je pro ně důležité. 
+Na druhou stranu, já si taky myslím, že to je strašně dobře, hlavně pro ty děti. Že nemají tátu, který přijde odpoledne unavený z práce a nemá na ně čas. Oni s mým mužem ten čas tráví, pro ně to je opravdu člověk, který je vychovává, což je skvělé. Je to skvělý vzor, skvělý vztah a i ukázka těm dětem, jak se ten život dá žít, že můžou dělat, co chtějí, že si můžou plnit svoje sny. Hodně často vidí, co já nebo můj muž Tomáš děláme, bereme je někam s sebou. Myslím, že to je pro ně důležité.
+
+{% photo src="https://i.ohlasy.info/i/b210fc32.jpg" author="archiv Barbory Pafčo" width=1268 height=953 /%}
 
 ### Jsme tady strašně spokojení
 
