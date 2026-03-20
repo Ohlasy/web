@@ -14,8 +14,8 @@
     "playwright": "playwright test"
   },
   "dependencies": {
-    "@markdoc/markdoc": "^0.5.5",
-    "@slack/web-api": "^7.14.1",
+    "@markdoc/markdoc": "^0.5.6",
+    "@slack/web-api": "^7.15.0",
     "airtable": "^0.12.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.1",
