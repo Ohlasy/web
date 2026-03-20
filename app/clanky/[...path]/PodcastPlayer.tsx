@@ -13,23 +13,11 @@ type PodcastPlayerProps = {
 };
 
 export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
-  const playerRef = useRef<HTMLAudioElement>(null);
-  const [playing, setPlaying] = useState(false);
-  const [currentTime, setCurrentTime] = useState(0);
   const { trackEvent } = Plausible({ domain: "ohlasy.info" });
-
   return (
     <div className="bg-plum rounded-xl p-7 md:p-9 my-6 flex flex-col gap-7">
-      <audio
-        src={t ? `${episode.url}#t=${t}` : episode.url}
-        ref={playerRef}
-        onPlaying={() => setPlaying(true)}
-        onPause={() => setPlaying(false)}
-        onEnded={() => setPlaying(false)}
-        onTimeUpdate={() => setCurrentTime(playerRef.current?.currentTime ?? 0)}
-      />
       <div className="flex flex-col md:flex-row gap-7">
-        <div className="relative aspect-square w-full md:w-[216px] shrink-0">
+        <div className="relative aspect-square w-full md:w-54 shrink-0">
           <Image
             className="bg-gray shadow-lg rounded-xl object-cover"
             sizes="(min-width: 768px) 216px, 100vw"
@@ -38,46 +26,18 @@ export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
             fill
           />
         </div>
-        <div className="flex flex-col gap-4">
-          <div className="text-white">
-            {/* TBD: Why doesn’t hyphens-none work here? Old Tailwind? */}
-            <p className="text-2xl text-balance" style={{ hyphens: "none" }}>
-              {tilde(episode.title)}
-            </p>
-            <div className="flex flex-row gap-3">
-              {!playing && <div>{episode.duration.replace("00:", "")}</div>}
-              {playing && (
-                <Fragment>
-                  <div className="tabular-nums">{formatTime(currentTime)}</div>
-                  <SeekButton
-                    onClick={() => (playerRef.current!.currentTime -= 15)}
-                    icon={Reverse15Icon}
-                  />
-                  <SeekButton
-                    onClick={() => (playerRef.current!.currentTime += 15)}
-                    icon={Forward15Icon}
-                  />
-                </Fragment>
-              )}
-            </div>
-          </div>
-          <div>
-            {!playing && (
-              <PlaybackButton
-                icon={PlayIcon}
-                onClick={() => {
-                  trackEvent("Start Playback");
-                  playerRef.current?.play();
-                }}
-              />
-            )}
-            {playing && (
-              <PlaybackButton
-                onClick={() => playerRef.current?.pause()}
-                icon={PauseIcon}
-              />
-            )}
-          </div>
+        <div className="flex flex-col gap-4 text-white">
+          <p className="text-2xl text-balance hyphens-none">
+            {tilde(episode.title)}
+          </p>
+          <audio
+            className="w-full"
+            src={t ? `${episode.url}#t=${t}` : episode.url}
+            onPlay={() => {
+              trackEvent("Start Playback");
+            }}
+            controls
+          />
         </div>
       </div>
       <div className="flex flex-row flex-wrap gap-4 text-sm -mb-2">
