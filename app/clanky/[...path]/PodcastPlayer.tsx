@@ -14,7 +14,7 @@ type PodcastPlayerProps = {
 export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
   const { trackEvent } = Plausible({ domain: "ohlasy.info" });
   return (
-    <div className="bg-plum rounded-xl p-7 my-6 flex flex-col gap-7 shadow-md">
+    <div className="bg-plum md:rounded-xl p-5 py-7 md:p-7 my-6 flex flex-col gap-7 shadow-md max-sm:-mx-5">
       <div className="flex flex-col md:flex-row gap-7">
         <div className="relative aspect-square w-full md:w-54 shrink-0">
           <Image
