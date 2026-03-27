@@ -52,7 +52,7 @@ const ServiceButton = ({ href, title }: { href: string; title: string }) => (
   <a
     href={href}
     className="rounded-full whitespace-nowrap border text-white! border-white px-2 hover:bg-white hover:text-plum!"
-    target="_blank"
+    target="_blank" rel="noopener"
   >
     ▷ {title}
   </a>

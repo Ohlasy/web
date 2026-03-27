@@ -24,8 +24,7 @@ async function Page() {
 }
 
 const Spinner = () => (
-  <div className="min-h-[400px] flex flex-col">
-    {/** biome-ignore lint/a11y/useSemanticElements: status role good enough */}
+  <div className="min-h-100 flex flex-col">
     <div className="m-auto pb-10" role="status">
       <svg
         aria-hidden="true"
