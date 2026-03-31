@@ -31,7 +31,7 @@ Boskovická spojka a silnice I/73 jsou tématem tak trochu pořád, občas je al
 
 * Za necelý jeden milion korun proběhne v nejbližší době [první fáze snahy řešit stav dešťové kanalizace](https://ohlasy.info/clanky/2025/05/z-radnice.html) na Komenského ulici, kde při přívalových deštích pravidelně vzniká laguna.
 
-* Kompletní [rekonstrukce elektroinstalace](https://ohlasy.info/clanky/2025/05/z-radnice.html) se dočká budova Zelené školy na náměstí 9\. května.
+* Kompletní [rekonstrukce elektroinstalace](https://ohlasy.info/clanky/2025/05/z-radnice.html) se dočká budova Zelené školy na náměstí 9. května.
 
 * V Červené zahradě dojde k [přeložce trafostanice](https://ohlasy.info/clanky/2025/05/z-radnice.html), která je nutná kvůli výstavbě sportovní haly.
 
@@ -39,7 +39,7 @@ Boskovická spojka a silnice I/73 jsou tématem tak trochu pořád, občas je al
 
 * Rada města uložila firmě Recovera [změnit provozní dobu boskovického sběrného dvora](https://ohlasy.info/clanky/2025/05/z-radnice.html). Posouvá se jednak začátek letního období už na duben, dále se sobotní provoz zahajuje až v 8 hodin, protože o dobu od 6.30 do 8 hodin ráno byl velice nízký zájem.
 
-* V pondělí 5\. května se [zahajuje oprava vodovodu](https://ohlasy.info/clanky/2025/05/z-radnice.html) na ulicích Mánesova a Bílkova. Stavební práce zde budou trvat dva až tři měsíce.
+* V pondělí 5. května se [zahajuje oprava vodovodu](https://ohlasy.info/clanky/2025/05/z-radnice.html) na ulicích Mánesova a Bílkova. Stavební práce zde budou trvat dva až tři měsíce.
 
 * Zastupitelé schválili [rozdělení památkových dotací](https://ohlasy.info/clanky/2025/04/zastupitelstvo.html).
 
@@ -47,7 +47,7 @@ Boskovická spojka a silnice I/73 jsou tématem tak trochu pořád, občas je al
 
 * Při schvalování rozpočtového opatření se [zastupitelé neshodli](https://ohlasy.info/clanky/2025/04/zastupitelstvo.html) na schválení částky na projektovou dokumentaci ke knihovně – budou se kvůli tomu asi muset sejít mimořádně.
 
-* Galerie Otakara Kubína oznámila, že se znovu otevře v červnu a [první vystavující bude Toy\_Box](https://ohlasy.info/clanky/2025/04/toybox-mural.html), která ve městě navíc vytvoří i mural.
+* Galerie Otakara Kubína oznámila, že se znovu otevře v červnu a [první vystavující bude Toy_Box](https://ohlasy.info/clanky/2025/04/toybox-mural.html), která ve městě navíc vytvoří i mural.
 
 * Město má stavební povolení a požádá o dotaci ze Státního fondu dopravní infrastruktury [na výstavbu Stezky pro chodce a cyklisty Mladkov–Svitávka](https://ohlasy.info/clanky/2025/04/z-radnice.html) a lávky pro pěší a cyklisty přes řeku.
 
@@ -81,13 +81,13 @@ Do standardního dílu kulturního podcastu jsme pozvali Jaroslava Janouška, kt
 
 {% podcast_player file="2025/podcast/janousek.mp3" /%}
 
-{% photo src="https://i.ohlasy.info/i/c0b07d42.jpg" caption="Autor tohoto newsletteru se musel vracet a znovu fotit kotelnu, protože nejprve nepochopil, kde přesně bude mural Toy\_Box. Budou to tyto dvě stěny" author="Tomáš Tomáš" width=1600 height=1200 /%}
+{% photo src="https://i.ohlasy.info/i/c0b07d42.jpg" caption="Autor tohoto newsletteru se musel vracet a znovu fotit kotelnu, protože nejprve nepochopil, kde přesně bude mural Toy_Box. Budou to tyto dvě stěny" author="Tomáš Tomáš" width=1600 height=1200 /%}
 
 ### Glosy a Radost\!
 
 Na závěr dvě tradiční glosy:
 
-*Moc se mi líbí výběr lokality pro mural věhlasné Toy\_Box. Přijde mi dobré, že nebude na nějakém honosném místě, ale na nepěkné budově kotelny na sídlišti, kam právě přinese novou kvalitu. Celkově je tento počin spojený s první výstavou v nově otevřené Galerii Otakara Kubína od kurátorky Gabriely Kolčavové docela majstrštyk a nejspíš se můžeme těšit, kam bude galerii směřovat dál. Boskovice zřejmě získávají další kulturní prostor, který může svým významem dalece přesahovat hranice města.*
+*Moc se mi líbí výběr lokality pro mural věhlasné Toy_Box. Přijde mi dobré, že nebude na nějakém honosném místě, ale na nepěkné budově kotelny na sídlišti, kam právě přinese novou kvalitu. Celkově je tento počin spojený s první výstavou v nově otevřené Galerii Otakara Kubína od kurátorky Gabriely Kolčavové docela majstrštyk a nejspíš se můžeme těšit, kam bude galerii směřovat dál. Boskovice zřejmě získávají další kulturní prostor, který může svým významem dalece přesahovat hranice města.*
 
 *My novináři jsme fakt hrozní – když se politici hádají, pohoršujeme se nad tím, a když je dění na politické scéně moc velká selanka, taky nám to nevoní :) Po posledním nebývale poklidném  jednání zastupitelstva jsem si tudíž zabrblal, že se nám zdravý a věcný konflikt nějak vytrácí. No ještě je brzo na soudy, ale časem uvidíme, jestli to není trend – komunální volby se blíží a jeden hrozný novinář by se skoro bál, že tentokrát se nebudou všichni politici čím dál víc přít, ale naopak budou čím dál víc smířliví, protože si nechtějí nikdo s nikým kazit koaliční potenciál. A při vší opatrnosti nám nakonec nikdo pořádně neřekne, co a jak chce pro město udělat.*
 
