@@ -55,7 +55,7 @@ Vždycky říkám, že určitě nemůžeme říct, že mladší generace je něj
 
 Co se týká zákazu mobilních telefonů ve škole, nejsem zastánkyní úplného zákazu. Máme omezení pro výuku, žáci ví, že mobilní telefon nemají používat mimo vyzvání učitelů – protože máme i různé výukové aplikace, které na mobilním telefonu nebo na tabletech používají. Ale přestávky zatím neomezujeme. I o tom jsme diskutovali, se žáky máme platformu *Snídaně s ředitelkou*, tak tam jsme o tom hodně diskutovali. Já vycházím z toho, že mobilní telefony k našim životům patří a žáci by se spíš měli naučit efektivně využívat to pozitivní na nich. 
 
-Takže se snažíme víc pracovat s prevencí. Máme výbornou spolupracující organizaci [SOFA](https://www.societyforall.cz), která dělá prevenci pro žáky, učitele, ale i rodiče. A ty rodiče bych akcentovala, protože podle výzkumů děti nejvíce mobilní telefony využívají mezi 18\. a 23\. hodinou, což už je mimo dosah školy. 
+Takže se snažíme víc pracovat s prevencí. Máme výbornou spolupracující organizaci [Onfine](https://www.onfine.cz/), která dělá prevenci pro žáky, učitele, ale i rodiče. A ty rodiče bych akcentovala, protože podle výzkumů děti nejvíce mobilní telefony využívají mezi 18\. a 23\. hodinou, což už je mimo dosah školy. 
 
 O přestávkách se žákům snažíme nabídnout alternativy. Mají k dispozici volně ve škole deskovky, relaxační aktivity, fotbálky, stavebnice. Takže mají co dělat i jiného. Oni se tedy u nás během dne i docela stěhují mezi učebnami, takže i nějaký pohyb tam je. 
 
