@@ -3,9 +3,9 @@ import {
   getArticlesByAuthor,
   renderCSV,
   sum,
-} from "app/stats/content-stats";
-import { getAllArticles } from "src/article";
-import { articleRoot } from "src/server-utils";
+} from "@/app/stats/content-stats";
+import { getAllArticles } from "@/src/article";
+import { articleRoot } from "@/src/server-utils";
 
 export function GET(request: Request) {
   const { searchParams } = new URL(request.url);

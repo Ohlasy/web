@@ -1,5 +1,5 @@
-import { type Article, getAllArticles } from "src/article";
-import { articleRoot } from "src/server-utils";
+import { type Article, getAllArticles } from "@/src/article";
+import { articleRoot } from "@/src/server-utils";
 import { type Banner, getAllBanners } from "./banners";
 import { type Author, getAllAuthors } from "./content";
 

@@ -1,7 +1,6 @@
 import fs from "node:fs";
 import { resolve } from "node:path";
 import yaml from "js-yaml";
-import { decodeUrl } from "src/decoding";
 import {
   array,
   type decodeType,
@@ -9,6 +8,7 @@ import {
   record,
   string,
 } from "typescript-json-decoder";
+import { decodeUrl } from "@/src/decoding";
 
 export type PodcastEpisode = decodeType<typeof decodePodcastEpisode>;
 export const decodePodcastEpisode = record({

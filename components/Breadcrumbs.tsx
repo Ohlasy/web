@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { RouteTo } from "src/routing";
+import { RouteTo } from "@/src/routing";
 
 export type PathItem = {
   title: string;

@@ -1,5 +1,5 @@
 import type { NextRequest } from "next/server";
-import { decodeWebhook } from "src/fakturoid";
+import { decodeWebhook } from "@/src/fakturoid";
 
 export async function POST(request: NextRequest): Promise<Response> {
   const auth = request.headers.get("Authorization");

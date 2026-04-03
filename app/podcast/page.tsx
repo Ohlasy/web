@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { type Article, compareByDate, getAllArticles } from "src/article";
-import { RouteTo } from "src/routing";
-import { tilde } from "src/utils";
+import { type Article, compareByDate, getAllArticles } from "@/src/article";
+import { RouteTo } from "@/src/routing";
+import { tilde } from "@/src/utils";
 
 export const metadata: Metadata = {
   title: "Ohlasy Podcast",

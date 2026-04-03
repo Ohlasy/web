@@ -1,7 +1,3 @@
-import { getAllArticles } from "src/article";
-import { getArticlePath } from "src/routing";
-import { articleRoot } from "src/server-utils";
-import { Duration } from "src/utils";
 import {
   array,
   type decodeType,
@@ -9,6 +5,10 @@ import {
   record,
   string,
 } from "typescript-json-decoder";
+import { getAllArticles } from "@/src/article";
+import { getArticlePath } from "@/src/routing";
+import { articleRoot } from "@/src/server-utils";
+import { Duration } from "@/src/utils";
 
 //
 // Plausible support

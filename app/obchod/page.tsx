@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { type Book, getAllBooks, sortByYear } from "src/data/books";
-import { RouteTo } from "src/routing";
-import { getResizedImageUrl } from "src/utils";
+import { type Book, getAllBooks, sortByYear } from "@/src/data/books";
+import { RouteTo } from "@/src/routing";
+import { getResizedImageUrl } from "@/src/utils";
 
 export const metadata: Metadata = {
   title: "Ohlasy: Knihy",

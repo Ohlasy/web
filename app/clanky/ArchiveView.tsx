@@ -4,9 +4,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { type ChangeEvent, useState } from "react";
-import type { Metadata } from "src/article";
-import { RouteTo } from "src/routing";
-import { tilde } from "src/utils";
+import type { Metadata } from "@/src/article";
+import { RouteTo } from "@/src/routing";
+import { tilde } from "@/src/utils";
 import {
   type Filter,
   type FilterOptions,

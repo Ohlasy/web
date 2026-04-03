@@ -1,11 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
-import { type Metadata as Article, getArticleNotices } from "src/article";
-import type { Banner } from "src/data/banners";
-import type { Author } from "src/data/content";
-import { plausibleEventClass } from "src/data/plausible";
-import { RouteTo } from "src/routing";
-import { tilde as t } from "src/utils";
+import { type Metadata as Article, getArticleNotices } from "@/src/article";
+import type { Banner } from "@/src/data/banners";
+import type { Author } from "@/src/data/content";
+import { plausibleEventClass } from "@/src/data/plausible";
+import { RouteTo } from "@/src/routing";
+import { tilde as t } from "@/src/utils";
 import { BannerBox } from "./BannerBox";
 
 export type PreviewNestProps = {
