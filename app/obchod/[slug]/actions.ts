@@ -44,7 +44,7 @@ export async function placeOrder(
     //
     const orderData = decodeOrder(Object.fromEntries(formData.entries()));
     const book = await getBookById(orderData.orderedItemId);
-    if (!book || !book.price) {
+    if (!book?.price) {
       throw new Error(
         "Objednávaný titul jsme nenašli nebo k němu chybí informace.",
       );
