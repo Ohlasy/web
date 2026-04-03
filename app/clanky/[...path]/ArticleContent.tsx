@@ -2,10 +2,10 @@ import Markdoc from "@markdoc/markdoc";
 import Image from "next/image";
 import { default as NextLink } from "next/link";
 import React from "react";
-import { plausibleEventClass } from "src/data/plausible";
-import { defaultMarkdocConfig } from "src/markdoc-schema";
-import { siteUrl } from "src/routing";
-import { getImageSrcSet, tilde } from "src/utils";
+import { plausibleEventClass } from "@/src/data/plausible";
+import { defaultMarkdocConfig } from "@/src/markdoc-schema";
+import { siteUrl } from "@/src/routing";
+import { getImageSrcSet, tilde } from "@/src/utils";
 import { DatawrapperChart } from "./DatawrapperChart";
 import { PodcastPlayer } from "./PodcastPlayer";
 

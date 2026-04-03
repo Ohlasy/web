@@ -1,21 +1,21 @@
-import { BannerBox } from "components/BannerBox";
-import { PreviewNest } from "components/PreviewNest";
-import { SectionDivider } from "components/SectionDivider";
 import Image from "next/image";
 import Link from "next/link";
-import { compareByDate, getAllArticles, type Metadata } from "src/article";
-import type { Banner } from "src/data/banners";
-import { getAllBanners } from "src/data/banners";
-import { getAllAuthors } from "src/data/content";
+import { BannerBox } from "@/components/BannerBox";
+import { PreviewNest } from "@/components/PreviewNest";
+import { SectionDivider } from "@/components/SectionDivider";
+import { compareByDate, getAllArticles, type Metadata } from "@/src/article";
+import type { Banner } from "@/src/data/banners";
+import { getAllBanners } from "@/src/data/banners";
+import { getAllAuthors } from "@/src/data/content";
 import {
   getLatestTopicsSummary,
   getUserAvatar,
   type LatestTopicsSummary,
-} from "src/data/forum";
-import type { TopArticles } from "src/data/plausible";
-import { getTopArticles, plausibleEventClass } from "src/data/plausible";
-import { RouteTo } from "src/routing";
-import { endlessGeneratorOf, shuffleInPlace, tilde } from "src/utils";
+} from "@/src/data/forum";
+import type { TopArticles } from "@/src/data/plausible";
+import { getTopArticles, plausibleEventClass } from "@/src/data/plausible";
+import { RouteTo } from "@/src/routing";
+import { endlessGeneratorOf, shuffleInPlace, tilde } from "@/src/utils";
 
 // Revalidate this page every 5 minutes
 export const revalidate = 300;

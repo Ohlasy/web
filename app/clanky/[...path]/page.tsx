@@ -1,20 +1,20 @@
-import { ArticleContent } from "app/clanky/[...path]/ArticleContent";
-import { BannerBox } from "components/BannerBox";
-import { PreviewNest } from "components/PreviewNest";
-import { SectionDivider } from "components/SectionDivider";
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { type Article, compareByDate, readArticle } from "src/article";
-import { getCachedData } from "src/data/cache";
-import { type Author, getAllAuthors } from "src/data/content";
+import { ArticleContent } from "@/app/clanky/[...path]/ArticleContent";
+import { BannerBox } from "@/components/BannerBox";
+import { PreviewNest } from "@/components/PreviewNest";
+import { SectionDivider } from "@/components/SectionDivider";
+import { type Article, compareByDate, readArticle } from "@/src/article";
+import { getCachedData } from "@/src/data/cache";
+import { type Author, getAllAuthors } from "@/src/data/content";
 import {
   articleRoot,
   getFileSystemPathForUrlPathFragments,
   getFilesRecursively,
   getUrlPathFragmentsForFileSystemPath,
-} from "src/server-utils";
-import { endlessGeneratorOf, getResizedImageUrl, tilde } from "src/utils";
+} from "@/src/server-utils";
+import { endlessGeneratorOf, getResizedImageUrl, tilde } from "@/src/utils";
 
 type Params = {
   path: string[];

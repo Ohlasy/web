@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
-import { getAllArticles, stripBody } from "src/article";
+import { getAllArticles, stripBody } from "@/src/article";
 import { ArchiveView } from "./ArchiveView";
 import { buildFilterOptions } from "./filters";
 

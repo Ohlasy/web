@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
-import { getAllBooks } from "src/data/books";
-import { BookDetails } from "./BookDetail";
 import Image from "next/image";
-import { getResizedImageUrl } from "src/utils";
-import { Breadcrumbs } from "components/Breadcrumbs";
-import { RouteTo } from "src/routing";
+import { notFound } from "next/navigation";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { getAllBooks } from "@/src/data/books";
+import { RouteTo } from "@/src/routing";
+import { getResizedImageUrl } from "@/src/utils";
+import { BookDetails } from "./BookDetail";
 
 type Params = {
   slug: string;

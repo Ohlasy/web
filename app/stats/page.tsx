@@ -1,5 +1,5 @@
-import { DatawrapperChart } from "app/clanky/[...path]/DatawrapperChart";
 import type { Metadata } from "next";
+import { DatawrapperChart } from "@/app/clanky/[...path]/DatawrapperChart";
 
 export const metadata: Metadata = {
   title: "Ohlasy v číslech",
@@ -27,7 +27,7 @@ const Page = async () => {
         <iframe
           plausible-embed
           title="Plausible Analytics"
-          className="w-full h-[500px] col-span-2 mt-7"
+          className="w-full h-125 col-span-2 mt-7"
           src="https://plausible.io/share/ohlasy.info?auth=-aOd5Bi-4jyxpKQMlPrtI&embed=true&theme=light"
           loading="lazy"
         ></iframe>

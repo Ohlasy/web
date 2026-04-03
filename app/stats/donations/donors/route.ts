@@ -1,5 +1,5 @@
-import { getPastYearTransactionsByMonth } from "src/data/darujme";
-import { unique } from "src/utils";
+import { getPastYearTransactionsByMonth } from "@/src/data/darujme";
+import { unique } from "@/src/utils";
 
 export const dynamic = "force-dynamic";
 

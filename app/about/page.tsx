@@ -1,13 +1,13 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
-import { getAllArticles } from "src/article";
+import { getAllArticles } from "@/src/article";
 import {
   type Author,
   getAllAuthors,
   getPodcastEpisodes,
-} from "src/data/content";
-import { RouteTo } from "src/routing";
+} from "@/src/data/content";
+import { RouteTo } from "@/src/routing";
 
 const Page = async () => {
   const episodes = await getPodcastEpisodes("content/podcast.yml");
@@ -128,7 +128,7 @@ const PersonCard = ({
   photoUrl: string;
   mail: string;
 }) => (
-  <div className="w-[180px] text-center">
+  <div className="w-45 text-center">
     <Image
       src={photoUrl}
       className="rounded-full mb-3 m-auto"

@@ -1,4 +1,3 @@
-import { shuffled } from "src/utils";
 import {
   array,
   type decodeType,
@@ -6,6 +5,7 @@ import {
   record,
   string,
 } from "typescript-json-decoder";
+import { shuffled } from "@/src/utils";
 import { getTable, unwrapRecords } from "./airtable";
 
 const bannerTable = () => getTable("appcP5M7jTIUMZaRc", "tblxgfyRlovII0SC2");

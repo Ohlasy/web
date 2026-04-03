@@ -1,5 +1,5 @@
-import type { Metadata } from "src/article";
-import { unique } from "src/utils";
+import type { Metadata } from "@/src/article";
+import { unique } from "@/src/utils";
 
 export type FilterOptions = Record<string, string[]>;
 export type Settings = Record<string, string>;

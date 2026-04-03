@@ -1,6 +1,6 @@
-import { getAllArticles } from "src/article";
-import { articleRoot } from "src/server-utils";
-import { renderCSV } from "app/stats/content-stats";
+import { renderCSV } from "@/app/stats/content-stats";
+import { getAllArticles } from "@/src/article";
+import { articleRoot } from "@/src/server-utils";
 
 export async function GET() {
   const stats: Record<string, number> = {};

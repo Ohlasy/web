@@ -1,4 +1,3 @@
-import { relationToZeroOrOne } from "src/decoding";
 import {
   array,
   type decodeType,
@@ -9,6 +8,7 @@ import {
   string,
   union,
 } from "typescript-json-decoder";
+import { relationToZeroOrOne } from "@/src/decoding";
 import { getTable, unwrapRecord, unwrapRecords } from "./airtable";
 
 //

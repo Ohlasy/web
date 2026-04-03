@@ -1,12 +1,5 @@
 "use server";
 
-import { type Book, createOrder, getBookById } from "src/data/books";
-import {
-  createInvoice,
-  createSubject,
-  getBearerTokenFromEnv,
-  type InvoiceLine,
-} from "src/fakturoid";
 import {
   type decodeType,
   optional,
@@ -14,6 +7,13 @@ import {
   string,
   union,
 } from "typescript-json-decoder";
+import { type Book, createOrder, getBookById } from "@/src/data/books";
+import {
+  createInvoice,
+  createSubject,
+  getBearerTokenFromEnv,
+  type InvoiceLine,
+} from "@/src/fakturoid";
 
 const numberFromString = (val: unknown) => parseInt(string(val), 10);
 

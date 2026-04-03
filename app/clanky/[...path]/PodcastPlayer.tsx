@@ -2,9 +2,9 @@
 
 import Image from "next/image";
 import Plausible from "plausible-tracker";
-import type { PodcastEpisode } from "src/data/podcast";
-import { RouteTo } from "src/routing";
-import { tilde } from "src/utils";
+import type { PodcastEpisode } from "@/src/data/podcast";
+import { RouteTo } from "@/src/routing";
+import { tilde } from "@/src/utils";
 
 type PodcastPlayerProps = {
   episode: PodcastEpisode;
@@ -52,7 +52,8 @@ const ServiceButton = ({ href, title }: { href: string; title: string }) => (
   <a
     href={href}
     className="rounded-full whitespace-nowrap border text-white! border-white px-2 hover:bg-white hover:text-plum!"
-    target="_blank" rel="noopener"
+    target="_blank"
+    rel="noopener"
   >
     ▷ {title}
   </a>

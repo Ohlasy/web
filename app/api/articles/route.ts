@@ -3,10 +3,10 @@ import {
   compareByDate,
   getAllArticles,
   stripBody,
-} from "src/article";
-import { absolute, getArticlePath } from "src/routing";
-import { articleRoot } from "src/server-utils";
-import { getResizedImageUrl } from "src/utils";
+} from "@/src/article";
+import { absolute, getArticlePath } from "@/src/routing";
+import { articleRoot } from "@/src/server-utils";
+import { getResizedImageUrl } from "@/src/utils";
 
 export async function GET() {
   const articles = getAllArticles(articleRoot)

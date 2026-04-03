@@ -1,6 +1,6 @@
-import { getAllArticles } from "src/article";
-import { articleRoot } from "src/server-utils";
-import { unique } from "src/utils";
+import { getAllArticles } from "@/src/article";
+import { articleRoot } from "@/src/server-utils";
+import { unique } from "@/src/utils";
 
 export function GET() {
   const articles = getAllArticles(articleRoot);
