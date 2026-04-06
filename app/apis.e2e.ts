@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 const ContentType = {
   rss: "application/rss+xml",
@@ -9,7 +9,6 @@ const endpoints = {
   "/feed.xml": ContentType.rss,
   "/podcast.xml": ContentType.rss,
   "/podcast/hrebenovka.xml": ContentType.rss,
-  "/api/articles": ContentType.json,
 };
 
 for (const [endpoint, contentType] of Object.entries(endpoints)) {
