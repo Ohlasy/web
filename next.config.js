@@ -9,6 +9,7 @@ const nextConfig = {
   },
   trailingSlash: true,
   images: {
+    minimumCacheTTL: 604800, // one week
     remotePatterns: [
       { hostname: "**.kulturaboskovice.cz" },
       { hostname: "**.ohlasy.info" },
