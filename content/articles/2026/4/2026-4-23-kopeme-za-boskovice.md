@@ -1,0 +1,30 @@
+---
+title: ODS a TOP 09 se spojily do kandidátky Kopeme za Boskovice
+cover-photo: https://i.ohlasy.info/i/e1bf2e49.jpeg
+author: Tomáš Trumpeš
+category: zpravodajství
+tags:
+    - komunální volby 2026
+---
+
+*O podobě další výrazné kandidátky pro komunální volby je jasno. Společný postup oznámily strany ODS a TOP 09, uskupení ponese název Kopeme za Boskovice a do voleb je povede šéf místního fotbalu Radek Stříž z ODS.*
+
+{% photo src="https://i.ohlasy.info/i/e1bf2e49.jpeg" caption="Martin Staněk, Radek Stříž a Vladimír Klement" author="Tomáš Trumpeš" width=4032 height=3024 /%}
+
+V letošních volbách tedy nebude pokračovat koalice SPOLU (ODS \+ KDU-ČSL \+ TOP 09), která před čtyřmi lety získala 6 mandátů, výsledek pro ni byl zklamáním a znamenal odchod do opozice. Podle předsedy boskovické ODS Martina Staňka se po sérii konstruktivních diskusí ukázalo, že KDU-ČSL má trochu jiné představy a akcentuje jiná témata, proto bylo přirozené, že se lidovci vydali samostatnou cestou. Povolební spolupráci s nimi si nicméně dokáže představit velmi dobře. Zbylé dvě strany se na společném postupu domluvit dokázaly.
+
+Kandidátní listina Kopeme za Boskovice je podle Martina Staňka složena nejen ze členů ODS a TOP 09, ale také z nestranických osobností. Uskupení má připravených 27 jmen – se snížením počtu kandidátů nepočítá a strany je ani nepodporují.
+
+Na místa straníků postavila ODS 12 lidí a TOP 09 6 lidí. Zbylých 9 zástupců je nestranických. Na kandidátce je 18 mužů a 9 žen, což je podle Martina Staňka „historicky největší počet kandidátů ženského pohlaví na kandidátce ODS od roku 1992 v Boskovicích“. V první desítce je ovšem žena jen jedna, a to právě na desátém místě. „Oproti minulým obdobím nám kandidátka výrazně omládla a věkový průměr je 44,2 let,“ dodává ke statistikám Martin Staněk. Celkem 9 kandidujících má méně než 35 let. Dvě třetiny pak mají vysokoškolské vzdělání.
+
+V duchu fotbalových sestav zatím uskupení Kopeme za Boskovice zveřejnilo první jedenáctku. Na jedenáctém místě je ředitel Vodárenské akciové společnosti Petr Fiala, na zmíněném desátém místě lektorka tance Mariana Klevetová, dále advokát Martin Pospíšil, bývalý starosta Jaroslav Dohnálek, manažer a právník Čestmír Sekanina, bývalý ředitel SŠ a VOŠ Hybešova Pavel Vlach, lékař Miroslav Klíma a ředitel Kulturních zařízení Ondřej Dostál. Třetí místo na kandidátce dostal podnikatel a nový předseda boskovické TOP 09 Vladimír Klement, na druhém místě je právník a předseda boskovické ODS Martin Staněk a jedničkou do voleb je obchodní zástupce, šéf boskovického fotbalového klubu a zastupitel Radek Stříž.
+
+„Do voleb jdeme s tím, že je chceme vyhrát,“ řekl v úvodním vyjádření v pozici lídra Radek Stříž. Ten dále deklaruje, že pokud se tak stane, je cílem podívat se na všechny připravené projekty města a v těch, které jsou rozjeté a smysluplné, samozřejmě pokračovat. 
+
+Sám Radek Stříž říká, že je ochotný opustit po 26 letech své zaměstnání a po 13 letech post šéfa fotbalového klubu, aby se mohl případně věnovat naplno politice na pozici starosty. Stejně tak by se vzdal i funkcí v okresním fotbalovém svazu. „Určitě se chci s každým domluvit,“ říká Radek Stříž ke své představě o tom, jakým by chtěl být starostou. A popisuje, že dnes jako opoziční zastupitel nemá špatné vztahy ani se starostkou Janou Syrovátkovou, ani s místostarostou Lukášem Holíkem. „Myslím, že se potřebujeme hlavně domlouvat. Pokud se v Boskovicích neposuneme směrem ke spolupráci, nikdy tady nic mít nebudeme a nebude to fungovat,“ říká Radek Stříž a pochvaluje si kupříkladu své působení jakožto opozičního zastupitele v komisi pro výběr sportovní haly. Proto nechce dopředu ani říkat, koho vidí před volbami jako bližší potenciální koaliční partnery, ale preferuje spíše myšlenku široké spolupráce. „Chceme se domluvit se všemi – a ne že si někdo bude házet klacky pod nohy. Pojďme se domluvit všichni a pojďme všichni táhnout pro Boskovice. Ať mi nikdo neříká, že to nejde. Záleží vždycky na lidech. Jde to v mezilidských vztazích, jde to ve spolcích, tak proč by to nemohlo jít i v politice,“ domnívá se Radek Stříž.
+
+Šéf TOP 09 Vladimír Klement zdůraznil, že za jeho stranu jdou do voleb hlavně lidé, kteří už mají profesně něco za sebou a do politiky jdou něco udělat a ne si zvedat ego. On sám vystřídal na pozici stranického lídra Michaelu Žejškovou, která v minulých volbách zaznamenala velmi dobrý osobní výsledek, na stávající kandidátce však vůbec není. „I pro mě bylo překvapení, že jsem byl zvolen předsedou TOP 09,“ uvedl Vladimír Klement s tím, že straníci na sněmu mu dali přednost. Také on zdůrazňuje téma spolupráce a říká, že v boskovickém podnikatelském prostředí vztahy fungují dobře a je to dobré pro celé město.
+
+Priority uskupení Kopeme za Boskovice jsou podle Martina Staňka jednoznačně školství, zdravotnictví, doprava a dostupné bydlení. A dotažení velkých investičních akcí. „Politika je řemeslo a troufám si tvrdit, že my ho umíme,“ dodal Martin Staněk. Lídr Radek Stříž doplnil, že kupříkladu v oblasti školství si kandidáti obešli všechny školy a školky a mají jasnou představu o tom, jaké investice je sem třeba nasměrovat. „Máme konkrétní plán, co je potřeba udělat,“ uvedl Radek Stříž. K nemocnici lídr říká, že nejprve bude nutné se opravdu podrobně seznámit jejím stavem, určitou strategii už ale uskupení má. Martin Staněk, který v nemocnici působí jako právník, dodal, že stávající jednatel má jejich plnou podporu. 
+
+Uskupení Kopeme za Boskovice chce podporovat také spolkový život ve městě. „Je potřeba se spolkům víc věnovat a také s nimi víc komunikovat,“ domnívá se lídr kandidátky Radek Stříž. Podle něj by celý systém podpory zasloužil zjednodušení a radnice by měla mít větší důvěru v to, že spolky samy nejlépe ví, jak finance od města smysluplně využít. „Starosta nemusí být ten, který rozumí úplně všemu. Má to být manažer a okolo sebe mít lidi, kteří tomu rozumí. A těm lidem musíte věřit,“ dodal na závěr kandidát na starostu Radek Stříž.
