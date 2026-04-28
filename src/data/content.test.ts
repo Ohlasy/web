@@ -47,6 +47,6 @@ test("Decode authors", async () => {
 });
 
 test("Decode podcasts", async () => {
-  assert.doesNotReject(getPodcastEpisodes("content/hrebenovka.yml"));
-  assert.doesNotReject(getPodcastEpisodes("content/podcast.yml"));
+  assert.doesNotReject(getPodcastEpisodes("content/podcasts/hrebenovka.yml"));
+  assert.doesNotReject(getPodcastEpisodes("content/podcasts/ohlasy.yml"));
 });

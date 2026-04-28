@@ -10,7 +10,7 @@ import {
 import { RouteTo } from "@/src/routing";
 
 const Page = async () => {
-  const episodes = await getPodcastEpisodes("content/podcast.yml");
+  const episodes = await getPodcastEpisodes("content/podcasts/ohlasy.yml");
   const articles = getAllArticles("content/articles");
   const authors = await getAllAuthors();
 
