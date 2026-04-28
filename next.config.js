@@ -41,7 +41,12 @@ const nextConfig = {
     return [
       {
         source: "/podcast.html",
-        destination: "/podcast/",
+        destination: "/podcasty/",
+        permanent: true,
+      },
+      {
+        source: "/podcast",
+        destination: "/podcasty/",
         permanent: true,
       },
       {
