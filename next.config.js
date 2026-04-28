@@ -20,53 +20,62 @@ const nextConfig = {
   async rewrites() {
     return [
       {
+        /** RSS feed serviced by an endpoint in the `pages` router */
         source: "/feed.xml",
         destination: "/api/feeds/articles",
       },
       {
+        /** Legacy feed URL for the Ohlasy podcast */
         source: "/podcast.xml",
-        destination: "/api/feeds/podcast",
+        destination: "/podcasty/ohlasy/feed",
       },
       {
+        /** Legacy feed URL for the Ohlasy podcast */
         source: "/podcast/feed.xml",
-        destination: "/api/feeds/podcast",
+        destination: "/podcasty/ohlasy/feed",
       },
       {
+        /** Legacy feed URL for the Hřebenovka podcast */
         source: "/podcast/hrebenovka.xml",
-        destination: "/api/feeds/hrebenovka",
+        destination: "/podcasty/hrebenovka/feed",
       },
     ];
   },
   async redirects() {
     return [
       {
+        /** Legacy podcasting homepage */
         source: "/podcast.html",
         destination: "/podcasty/",
         permanent: true,
       },
       {
+        /** Legacy podcasting homepage */
         source: "/podcast",
         destination: "/podcasty/",
         permanent: true,
       },
       {
+        /** Fundraising shortcut */
         source: "/darujte/",
         destination: "https://www.darujme.cz/projekt/1202392",
         permanent: false,
       },
       {
+        /** Fundraising shortcut */
         source: "/darujme/",
         destination: "https://www.darujme.cz/projekt/1202392",
         permanent: false,
       },
       {
-        source: "/clanky/:year(\\d{4})",
-        destination: "/clanky/?rok=:year",
+        /** Fundraising shortcut */
+        source: "/extra/",
+        destination: "https://www.darujme.cz/ohlasy-extra",
         permanent: false,
       },
       {
-        source: "/extra/",
-        destination: "https://www.darujme.cz/ohlasy-extra",
+        source: "/clanky/:year(\\d{4})",
+        destination: "/clanky/?rok=:year",
         permanent: false,
       },
       {

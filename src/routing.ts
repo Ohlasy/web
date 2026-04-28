@@ -9,7 +9,7 @@ export const siteUrl = "https://ohlasy.info";
 export const RouteTo = {
   // Static routes
   homePage: "/",
-  podcasts: "/podcast",
+  podcasts: "/podcasty",
   articleFeed: "/feed.xml",
   mainPodcastFeed: "/podcast.xml",
   hrebenovkaFeed: "/podcast/hrebenovka.xml",

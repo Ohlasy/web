@@ -25,7 +25,7 @@ export type Podcast = decodeType<typeof decodePodcast>;
 export const decodePodcast = array(decodePodcastEpisode);
 
 export function getAllPodcastEpisodes(): Podcast {
-  const path = resolve("content", "podcast.yml");
+  const path = resolve("content", "podcasts", "ohlasy.yml");
   const src = fs.readFileSync(path, { encoding: "utf-8" });
   return decodePodcast(yaml.load(src));
 }
