@@ -50,27 +50,6 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: "/go/cisla/",
-        destination: "/stats/",
-        permanent: true,
-      },
-      {
-        source: "/go/petiletka/",
-        destination: "https://data.ohlasy.info/2019/vyrocni-zprava.pdf",
-        permanent: false,
-      },
-      {
-        source: "/go/pripadovka/",
-        destination: "https://data.ohlasy.info/2021/pripadovka.pdf",
-        permanent: false,
-      },
-      {
-        source: "/go/spolek",
-        destination:
-          "https://wiki.ohlasy.info/9101128690ce46d6908f322fff37065e",
-        permanent: false,
-      },
-      {
         source: "/darujte/",
         destination: "https://www.darujme.cz/projekt/1202392",
         permanent: false,
