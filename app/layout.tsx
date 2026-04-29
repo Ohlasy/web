@@ -135,7 +135,6 @@ const Footer = () => (
               [RouteTo.Mastodon, "Mastodon"],
               [RouteTo.YouTube, "YouTube"],
               [RouteTo.Instagram, "Instagram"],
-              [RouteTo.Spotify, "Spotify"],
             ]}
           />
         </div>

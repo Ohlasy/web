@@ -2,7 +2,7 @@ import type { NextRequest } from "next/server";
 import {
   convertEpisodeToFeedItem,
   getAllPodcastEpisodesSync,
-  getPodcastMetadata,
+  getPodcastMetadataSync,
 } from "@/src/data/podcasts";
 import { type iTunesPodcastShow, renderPodcastFeed } from "@/src/feeds";
 import { absolute, RouteTo } from "@/src/routing";
@@ -17,7 +17,7 @@ type Props = {
 
 export async function GET(_: NextRequest, { params }: Props) {
   const { slug } = await params;
-  const metadata = await getPodcastMetadata(slug).catch(() => null);
+  const metadata = getPodcastMetadataSync(slug);
   if (!metadata) {
     return new Response(
       `Podcast “${slug}” not found (or has invalid metadata)`,

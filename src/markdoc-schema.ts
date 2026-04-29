@@ -1,5 +1,8 @@
 import { type Config, type Schema, Tag } from "@markdoc/markdoc";
-import { getAllPodcastEpisodesSync } from "./data/podcasts";
+import {
+  getAllPodcastEpisodesSync,
+  getPodcastMetadataSync,
+} from "./data/podcasts";
 
 export const photo: Schema = {
   render: "Photo",
@@ -107,7 +110,8 @@ export const podcast_player: Schema = {
     const attributes = node.transformAttributes(config);
     const allEpisodes = getAllPodcastEpisodesSync(attributes.show);
     const episode = allEpisodes.find((e) => e.url.endsWith(attributes.file));
-    return new Tag("PodcastPlayer", { episode, ...attributes });
+    const showMetadata = getPodcastMetadataSync(attributes.show);
+    return new Tag("PodcastPlayer", { episode, showMetadata, ...attributes });
   },
 };
 

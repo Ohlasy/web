@@ -1,15 +1,15 @@
 import { readFileSync } from "node:fs";
-import { readFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import yaml from "js-yaml";
 import {
   array,
   type decodeType,
+  dict,
   number,
   record,
   string,
 } from "typescript-json-decoder";
-import { decodeUrl } from "@/src/decoding";
+import { decodeObject, decodeUrl } from "@/src/decoding";
 import type { iTunesShowEpisode } from "@/src/feeds";
 
 export type PodcastEpisode = decodeType<typeof decodePodcastEpisode>;
@@ -32,13 +32,13 @@ export const decodePodcastMetadata = record({
   feed: string,
   image: string,
   description: string,
+  links: decodeObject(string),
 });
 
-export async function getPodcastMetadata(
-  podcastId: string,
-): Promise<PodcastMetadata> {
+/** This is intentionally sync, otherwise our custom tag Markdoc code breaks down somehow */
+export function getPodcastMetadataSync(podcastId: string): PodcastMetadata {
   const path = resolve("content", "podcasts", podcastId, "metadata.yml");
-  const src = await readFile(path, { encoding: "utf-8" });
+  const src = readFileSync(path, { encoding: "utf-8" });
   return decodePodcastMetadata(yaml.load(src));
 }
 

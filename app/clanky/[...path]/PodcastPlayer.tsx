@@ -2,16 +2,20 @@
 
 import Image from "next/image";
 import Plausible from "plausible-tracker";
-import type { PodcastEpisode } from "@/src/data/podcasts";
-import { RouteTo } from "@/src/routing";
+import type { PodcastEpisode, PodcastMetadata } from "@/src/data/podcasts";
 import { tilde } from "@/src/utils";
 
 type PodcastPlayerProps = {
   episode: PodcastEpisode;
+  showMetadata: PodcastMetadata;
   t?: number;
 };
 
-export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
+export const PodcastPlayer = ({
+  episode,
+  showMetadata,
+  t,
+}: PodcastPlayerProps) => {
   const { trackEvent } = Plausible({ domain: "ohlasy.info" });
   return (
     <div className="bg-plum rounded-none sm:rounded-xl p-5 py-7 md:p-7 my-6 flex flex-col gap-7 shadow-md max-sm:-mx-5">
@@ -38,11 +42,10 @@ export const PodcastPlayer = ({ episode, t }: PodcastPlayerProps) => {
         }}
       />
       <div className="flex flex-row flex-wrap gap-4 text-sm">
-        <ServiceButton href={RouteTo.Spotify} title="Spotify" />
-        <ServiceButton href={RouteTo.ApplePodcasts} title="Apple Podcasts" />
-        <ServiceButton href={RouteTo.YouTubePodcast} title="YouTube" />
-        <ServiceButton href={RouteTo.mainPodcastFeed} title="RSS" />
-        <ServiceButton href={episode.url} title="stáhnout MP3" />
+        {Object.entries(showMetadata.links).map(([title, url]) => (
+          <ServiceButton key={title} href={url} title={title} />
+        ))}
+        <ServiceButton key="download" href={episode.url} title="stáhnout MP3" />
       </div>
     </div>
   );

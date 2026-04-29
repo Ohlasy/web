@@ -46,12 +46,6 @@ const Intro = () => (
           v klidu poslechnout třeba na procházce, v autě nebo při žehlení
           (doporučujeme!).
         </p>
-        <div className="flex flex-col gap-2">
-          <PlayerPill href={RouteTo.Spotify} title="Spotify" />
-          <PlayerPill href={RouteTo.ApplePodcasts} title="Apple Podcasts" />
-          <PlayerPill href={RouteTo.YouTubePodcast} title="YouTube" />
-          <PlayerPill href={RouteTo.mainPodcastFeed} title="RSS" />
-        </div>
       </div>
 
       <div className="max-lg:order-first lg:col-span-2">
@@ -66,15 +60,6 @@ const Intro = () => (
       </div>
     </div>
   </>
-);
-
-const PlayerPill = ({ href, title }: { href: string; title: string }) => (
-  <a
-    href={href}
-    className="rounded-full border border-brown px-2 hover:bg-brown hover:text-white"
-  >
-    ▷ {title}
-  </a>
 );
 
 const EpisodeList = ({ articles }: { articles: Article[] }) => (
