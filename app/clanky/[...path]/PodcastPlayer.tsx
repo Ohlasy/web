@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Plausible from "plausible-tracker";
-import type { PodcastEpisode } from "@/src/data/podcast";
+import type { PodcastEpisode } from "@/src/data/podcasts";
 import { RouteTo } from "@/src/routing";
 import { tilde } from "@/src/utils";
 

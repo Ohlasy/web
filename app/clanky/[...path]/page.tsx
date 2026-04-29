@@ -6,8 +6,8 @@ import { BannerBox } from "@/components/BannerBox";
 import { PreviewNest } from "@/components/PreviewNest";
 import { SectionDivider } from "@/components/SectionDivider";
 import { type Article, compareByDate, readArticle } from "@/src/article";
+import { type Author, getAllAuthors } from "@/src/data/authors";
 import { getCachedData } from "@/src/data/cache";
-import { type Author, getAllAuthors } from "@/src/data/content";
 import {
   articleRoot,
   getFileSystemPathForUrlPathFragments,

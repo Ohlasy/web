@@ -1,7 +1,7 @@
 import assert from "node:assert";
 import test from "node:test";
 import yaml from "js-yaml";
-import { decodePodcast } from "./podcast";
+import { decodePodcast } from "./podcasts";
 
 test("Decode podcast", () => {
   const podcast = decodePodcast(yaml.load(sample));

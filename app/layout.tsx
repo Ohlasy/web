@@ -123,7 +123,7 @@ const Footer = () => (
               [RouteTo.archive, "archiv článků"],
               [RouteTo.forum, "diskuzní fórum"],
               [RouteTo.newsletter, "newsletter"],
-              [RouteTo.podcasts, "podcast"],
+              [RouteTo.podcasts, "podcasty"],
             ]}
           />
         </div>

@@ -4,9 +4,9 @@ import { BannerBox } from "@/components/BannerBox";
 import { PreviewNest } from "@/components/PreviewNest";
 import { SectionDivider } from "@/components/SectionDivider";
 import { compareByDate, getAllArticles, type Metadata } from "@/src/article";
+import { getAllAuthors } from "@/src/data/authors";
 import type { Banner } from "@/src/data/banners";
 import { getAllBanners } from "@/src/data/banners";
-import { getAllAuthors } from "@/src/data/content";
 import {
   getLatestTopicsSummary,
   getUserAvatar,
@@ -77,7 +77,7 @@ const Page = async () => {
       />
 
       <SectionDivider>
-        <a href={RouteTo.podcasts}>podcast</a>
+        <a href={RouteTo.podcasts}>podcasty</a>
       </SectionDivider>
       <PreviewNest
         articles={podcast}

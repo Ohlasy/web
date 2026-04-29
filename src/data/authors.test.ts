@@ -1,11 +1,6 @@
 import assert from "node:assert";
 import test from "node:test";
-import {
-  decodeAuthor,
-  decodeAuthors,
-  getAllAuthors,
-  getPodcastEpisodes,
-} from "./content";
+import { decodeAuthor, decodeAuthors, getAllAuthors } from "./authors";
 
 test("Decode authors", async () => {
   assert.deepEqual(
@@ -44,9 +39,4 @@ test("Decode authors", async () => {
     ],
   );
   assert.doesNotReject(getAllAuthors());
-});
-
-test("Decode podcasts", async () => {
-  assert.doesNotReject(getPodcastEpisodes("content/podcasts/hrebenovka.yml"));
-  assert.doesNotReject(getPodcastEpisodes("content/podcasts/ohlasy.yml"));
 });

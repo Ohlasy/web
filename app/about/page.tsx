@@ -2,15 +2,12 @@ import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
 import { getAllArticles } from "@/src/article";
-import {
-  type Author,
-  getAllAuthors,
-  getPodcastEpisodes,
-} from "@/src/data/content";
+import { type Author, getAllAuthors } from "@/src/data/authors";
+import { getAllPodcastEpisodesSync } from "@/src/data/podcasts";
 import { RouteTo } from "@/src/routing";
 
 const Page = async () => {
-  const episodes = await getPodcastEpisodes("content/podcasts/ohlasy.yml");
+  const episodes = getAllPodcastEpisodesSync("ohlasy");
   const articles = getAllArticles("content/articles");
   const authors = await getAllAuthors();
 

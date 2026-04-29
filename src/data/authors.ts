@@ -2,21 +2,14 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 import yaml from "js-yaml";
 import {
-  array,
   type decodeType,
   field,
-  number,
   optional,
   type Pojo,
   record,
   string,
 } from "typescript-json-decoder";
 import { decodeObject, decodeUrl } from "../decoding";
-import type { iTunesShowEpisode } from "../feeds";
-
-//
-// Authors
-//
 
 export type Author = decodeType<typeof decodeAuthor>;
 export const decodeAuthor = record({
@@ -42,45 +35,3 @@ export const getAllAuthors = async () => {
     .then((str) => yaml.load(str) as Pojo)
     .then(decodeAuthors);
 };
-
-//
-// Podcasts
-//
-
-export type PodcastEpisode = decodeType<typeof decodePodcastEpisode>;
-export const decodePodcastEpisode = record({
-  title: string,
-  image: decodeUrl,
-  duration: string,
-  date: string,
-  url: decodeUrl,
-  bytes: number,
-  description: string,
-});
-
-export const getPodcastEpisodes = async (path: string) =>
-  await readFile(path, "utf-8")
-    .then((str) => yaml.load(str) as Pojo)
-    .then(array(decodePodcastEpisode));
-
-export function convertEpisodeToPodcastItem(
-  episode: PodcastEpisode,
-): iTunesShowEpisode {
-  const { title, description, duration, url, bytes, date, image } = episode;
-  return {
-    title,
-    description,
-    duration,
-    pubDate: new Date(date),
-    image,
-    guid: {
-      value: url,
-      isPermaLink: true,
-    },
-    enclosure: {
-      url,
-      type: "audio/mpeg",
-      length: bytes,
-    },
-  };
-}
