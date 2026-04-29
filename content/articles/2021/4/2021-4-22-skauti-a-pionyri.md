@@ -8,7 +8,7 @@ category: podcast
 
 *Představujeme vám Hřebenovku, náš nový podcast, ve kterém najdete rozhovory z nadhledu se zajímavými lidmi z Boskovic a okolí. Na kulturu, sport, architekturu, školství nebo komunitní dění se ptají moderátoři Marek Čech a David Liber. O zvuk se stará Jiří Krajíček.*
 
-{% spotify_episode id="3MKHCmFTVpdt5EPbW161pJ" /%}
+{% podcast_player show="hrebenovka" file="2021/podcast/skaut-pionyr.mp3" /%}
 
 V druhém dílu podcastu Hřebenovka si povídáme se skautkou Ludmilou Dobrozemskou, koordinátorkou programových projektů a donedávna vedoucí boskovického oddílu Minetaka, a pionýrem Janem Dufkem, vedoucím oddílu Generace alfa. Bavili jsme se o práci s dětmi, proč je Skaut nebo Pionýr pro děti důležitý, jak se Pionýr vypořádal se svou historií, jak se na něj vzhledem k minulosti dívají skauti a jaký mezi sebou mají obě organizace vztah. Zajímaly nás vize do budoucna, skautský dům nebo největší současné problémy obou organizací. Spoustu nových a překvapujících informací můžete slyšel v novém dílu rozhovorů z nadhledu.
 

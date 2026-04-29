@@ -10,7 +10,7 @@ tags: kultura
 
 *Představujeme vám Hřebenovku, náš nový podcast, ve kterém najdete rozhovory z nadhledu se zajímavými lidmi z Boskovic a okolí. Na kulturu, sport, architekturu, školství nebo komunitní dění se ptají moderátoři Marek Čech a David Liber. O zvuk se stará Jiří Krajíček.*
 
-{% spotify_episode id="6K3n9DepWPIiIQjS2X6QqF" /%}
+{% podcast_player show="hrebenovka" file="2021/podcast/kinari.mp3" /%}
 
 Jak se daří kinům v současné době? Kolik lidí chodí do kina a kolik takové kino stojí měsíčně? Není kultura, která se nezaplatí, zbytečná? O tom všem a dalších tématech jsme se bavili v 90 minutách rozhovoru s Radkem Pernicou – ředitelem kina Scala, předsedou boskovické kulturní komise a příležitostným sanitářem boskovické nemocnice a s Tomášem Marvanem – vedoucím boskovického kina, členem spolku Unijazz Boskovice, donedávna pracujícím i v jeho výboru.
 

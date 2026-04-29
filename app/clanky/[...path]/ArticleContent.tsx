@@ -30,7 +30,6 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
       Link,
       Photo,
       ProfilePhoto,
-      SpotifyEpisode,
       YouTubeVideo,
       DatawrapperChart,
       PodcastPlayer,
@@ -143,23 +142,6 @@ const ProfilePhoto = ({ src, name }: ProfilePhotoProps) => (
       }}
     />
   </div>
-);
-
-type SpotifyEpisodeProps = {
-  id: string;
-};
-
-const SpotifyEpisode = ({ id }: SpotifyEpisodeProps) => (
-  <iframe
-    title="Spotify"
-    src={`https://open.spotify.com/embed/episode/${id}`}
-    width="100%"
-    height="352"
-    allowFullScreen
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-    loading="lazy"
-    className="my-6"
-  />
 );
 
 type YouTubeVideoProps = {
