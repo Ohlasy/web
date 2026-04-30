@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { DatawrapperChart } from "@/app/clanky/[...path]/DatawrapperChart";
+import { DatawrapperChart } from "@/components/DatawrapperChart";
 
 export const metadata: Metadata = {
   title: "Ohlasy v číslech",

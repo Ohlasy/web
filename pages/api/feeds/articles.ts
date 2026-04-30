@@ -1,7 +1,7 @@
 import { join } from "node:path";
 import type { NextApiRequest, NextApiResponse } from "next";
 import * as ReactDOMServer from "react-dom/server";
-import { ArticleContent } from "@/app/clanky/[...path]/ArticleContent";
+import { ArticleContent } from "@/components/ArticleContent";
 import { type Article, compareByDate, getAllArticles } from "@/src/article";
 import { type RSSFeed, type RSSFeedItem, renderFeed } from "@/src/feeds";
 import { absolute, RouteTo, siteUrl } from "@/src/routing";

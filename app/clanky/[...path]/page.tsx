@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { ArticleContent } from "@/app/clanky/[...path]/ArticleContent";
+import { ArticleContent } from "@/components/ArticleContent";
 import { BannerBox } from "@/components/BannerBox";
 import { PreviewNest } from "@/components/PreviewNest";
 import { SectionDivider } from "@/components/SectionDivider";
