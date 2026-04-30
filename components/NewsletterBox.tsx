@@ -1,28 +1,19 @@
 "use client";
 
-import Plausible from "plausible-tracker";
 import { Fragment, useState } from "react";
-
-const { trackEvent } = Plausible({ domain: "ohlasy.info" });
-
-type Model = {
-  state: "idle" | "submitting" | "succeeded" | "failed";
-  email: string;
-};
+import { useNewsletterSubscription } from "@/src/hooks/newsletter";
 
 export const NewsletterBox = () => {
-  const [model, setModel] = useState<Model>({ state: "idle", email: "" });
+  const [email, setEmail] = useState("");
+  const { state, subscribe } = useNewsletterSubscription();
   const handleSubmit = async (event: React.SyntheticEvent) => {
     event.preventDefault();
-    setModel({ ...model, state: "submitting" });
-    trackEvent("Newsletter Subscribe");
-    const success = await subscribeToNewsletter(model.email);
-    setModel({ ...model, state: success ? "succeeded" : "failed" });
+    subscribe(email, true);
   };
   return (
     <div className="flex flex-col gap-2">
       <p className="text-base uppercase">Newsletter</p>
-      {model.state === "idle" && (
+      {state === "idle" && (
         <Fragment>
           <form onSubmit={handleSubmit} className="flex flex-wrap gap-3">
             <input
@@ -30,13 +21,13 @@ export const NewsletterBox = () => {
               className="flex-auto border border-silver px-2 py-2 text-base bg-white"
               autoCapitalize="none"
               placeholder="váš@email.cz"
-              onChange={(e) => setModel({ ...model, email: e.target.value })}
+              onChange={(e) => setEmail(e.target.value)}
             />
             <input
               type="submit"
               className="flex-none btn-primary text-sm"
               value="Přihlásit"
-              disabled={model.email === ""}
+              disabled={email === ""}
               onClick={handleSubmit}
             />
           </form>
@@ -50,14 +41,14 @@ export const NewsletterBox = () => {
           </p>
         </Fragment>
       )}
-      {model.state === "submitting" && <p>Malý moment…</p>}
-      {model.state === "succeeded" && (
+      {state === "subscribing" && <p>Malý moment…</p>}
+      {state === "subscribed" && (
         <p>
           Úspěšně odesláno! 🎉 Děkujeme za váš zájem, newsletter dostanete
           mailem poprvé začátkem příštího měsíce.
         </p>
       )}
-      {model.state === "failed" && (
+      {state === "failed" && (
         <p>
           Něco se pokazilo 😞 Zkuste prosím obnovit stránku a zadat mail ještě
           jednou. A kdyby to nepomohlo, napište nám prosím na{" "}
@@ -70,16 +61,3 @@ export const NewsletterBox = () => {
     </div>
   );
 };
-
-const subscribeToNewsletter = async (email: string) =>
-  await fetch(`/newsletter/subscribe`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      email,
-    }),
-  })
-    .then((response) => response.ok)
-    .catch((_) => false);
