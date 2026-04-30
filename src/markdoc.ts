@@ -106,6 +106,7 @@ export const podcast_player: Schema = {
     },
   },
 
+  // TBD: This doesn’t work when async, why?
   transform(node, config) {
     const attributes = node.transformAttributes(config);
     const allEpisodes = getAllPodcastEpisodesSync(attributes.show);
@@ -113,6 +114,11 @@ export const podcast_player: Schema = {
     const showMetadata = getPodcastMetadataSync(attributes.show);
     return new Tag("PodcastPlayer", { episode, showMetadata, ...attributes });
   },
+};
+
+export const subscribe_box: Schema = {
+  render: "NewsletterSubscribeBox",
+  selfClosing: true,
 };
 
 export const defaultMarkdocConfig: Config = {
@@ -134,5 +140,6 @@ export const defaultMarkdocConfig: Config = {
     youtube_video,
     datawrapper_chart,
     podcast_player,
+    subscribe_box,
   },
 };

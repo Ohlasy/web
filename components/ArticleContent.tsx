@@ -3,10 +3,11 @@ import Image from "next/image";
 import { default as NextLink } from "next/link";
 import React from "react";
 import { plausibleEventClass } from "@/src/data/plausible";
-import { defaultMarkdocConfig } from "@/src/markdoc-schema";
+import { defaultMarkdocConfig } from "@/src/markdoc";
 import { siteUrl } from "@/src/routing";
 import { getImageSrcSet, tilde } from "@/src/utils";
 import { DatawrapperChart } from "./DatawrapperChart";
+import { NewsletterSubscribeBox } from "./NewsletterSubscribeBox";
 import { PodcastPlayer } from "./PodcastPlayer";
 
 export type ArticleBodyProps = {
@@ -33,6 +34,7 @@ export const ArticleContent = ({ src }: ArticleBodyProps) => {
       YouTubeVideo,
       DatawrapperChart,
       PodcastPlayer,
+      NewsletterSubscribeBox,
     },
   });
   return <div className="article-content">{node}</div>;

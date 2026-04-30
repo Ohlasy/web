@@ -11,6 +11,8 @@ category: newsletter
 
 Vážené čtenářky a vážení čtenáři Ohlasů, máte před sebou další shrnutí boskovického dění v pravidelném e-mailu. V březnu se nám možná trochu nečekaně setkala dvě témata týkající se středních škol, zaznamenali jsme opatrný start komunální kampaně, představili jsme návrh sportovní haly a nadále sledovali situaci v boskovickém muzeu.
 
+{% subscribe_box /%}
+
 ### Témata
 
 Při pohledu na nejsilnější březnová témata v Ohlasech mě napadá, že mají všechna společný jmenovatel – a to je mezilidská komunikace a vztahy. Možná kdyby víc lidí prošlo vzděláním, o jaké usilují na boskovickém gymnáziu, nebo si aspoň přečetli náš rozhovor s ředitelkou, bylo by na světě méně snahy prosazovat něco na sílu, chovat se paternalisticky, snažit se věci vymlčet nebo rovnou práskat bičem. Prospělo by to školství, politice, řízení projektů i kultuře.
