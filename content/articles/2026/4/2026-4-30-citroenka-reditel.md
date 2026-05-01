@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Po více než měsíci od vypuknutí [kauzy na Střední škole André Citroëna](https://ohlasy.info/clanky/2026/03/andre-citroena.html) se Ohlasům konečně podařilo získat obsáhlejší vyjádření ředitele školy Radovana Krajíčka, který vysvětluje svůj postup v celé záležitosti. Nyní má škola těsně po komplexní inspekci – podrobnější výsledky budou známy za několik týdnů. Na podporu stávajícího školy mezitím vznikla mezi zaměstnanci petice.*
+*Po více než měsíci od vypuknutí [kauzy na Střední škole André Citroëna](https://ohlasy.info/clanky/2026/03/andre-citroena.html) se Ohlasům konečně podařilo získat obsáhlejší vyjádření ředitele školy Radovana Krajíčka, který vysvětluje svůj postup v celé záležitosti. Nyní má škola těsně po komplexní inspekci – podrobnější výsledky budou známy za několik týdnů. Na podporu stávajícího vedení školy mezitím vznikla mezi zaměstnanci petice.*
 
 {% photo src="https://i.ohlasy.info/i/0dd414c9.jpg" author="Tomáš Znamenáček" width=4032 height=3024 /%}
 
