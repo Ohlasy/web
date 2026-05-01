@@ -6,7 +6,7 @@ category: podcast
 tags: kultura
 ---
 
-*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. K rozhovoru jsme si tentokrát pozvali kurátorku Galerie Otakara Kubína Gabrielu Sauer Kolčavovou, se kterou jsme probrali pro Boskovice zcela mimořádnou událost – výstavu Josefa Koudelky Invaze 68\. Součástí podcastu jsou i pozvánky na vybrané dubnové akce, ty si zde můžete také přečíst.*
+*V kulturním podcastu každý měsíc shrnujeme to nejzajímavější z boskovické kultury a také si zveme inspirativní hosty, kteří tyto akce pořádají. K rozhovoru jsme si tentokrát pozvali kurátorku Galerie Otakara Kubína Gabrielu Sauer Kolčavovou, se kterou jsme probrali pro Boskovice zcela mimořádnou událost – výstavu Josefa Koudelky Invaze 68\. Součástí podcastu jsou i pozvánky na vybrané květnové akce, ty si zde můžete také přečíst.*
 
 {% podcast_player file="2026/podcast/sauerova.mp3" /%}
 
