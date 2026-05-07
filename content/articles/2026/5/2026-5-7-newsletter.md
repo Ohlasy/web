@@ -7,9 +7,11 @@ category: newsletter
 
 *Kauzy na SŠ André Citroëna, Ježek v kleci, napadení soutěže na rekonstrukci parku a předvolební dění*
 
+{% photo src="https://i.ohlasy.info/i/1b475db7.jpg" caption="Koupit, či nekoupit? Myšlenka pořídit Ježka nastálo rozpoutala poměrně vášnivé diskuse." author="Tomáš Znamenáček" width=6240 height=4160 /%}
+
 Vážené čtenářky a vážení čtenáři Ohlasů, máte před sebou další shrnutí boskovického dění v pravidelném e-mailu. V dubnu jsme se v Ohlasech hodně vraceli na známá místa ke známým tématům. V novinařině nejde jen o to, přinášet pořád nějaké novinky, ale také vytrvale sledovat důležité záležitosti.
 
-{% photo src="https://i.ohlasy.info/i/1b475db7.jpg" caption="Koupit, či nekoupit? Myšlenka pořídit Ježka nastálo rozpoutala poměrně vášnivé diskuse." author="Tomáš Znamenáček" width=6240 height=4160 /%}
+{% subscribe_box /%}
 
 ### Témata
 
