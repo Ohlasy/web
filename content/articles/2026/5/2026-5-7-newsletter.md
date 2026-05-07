@@ -70,12 +70,12 @@ V kulturním výběru jsme probrali s Gabrielou Sauer Kolčavovou chystanou výs
 
 Následují tři obligátní glosy od kmenového autorstva Ohlasů.
 
-_TOMÁŠ TRUMPEŠ: Po minulých volbách jsem psal v komentáři o tom, že by Boskovicím slušela širší koalice a že by stálo za to nabídnout jedno místo v radě i opozici. Dnes se na tento můj text odvolává lídr ODS a kandidátky Kopeme za Boskovice, což je poměrně nebývalé. Vypadá to, že konsensuální politika a schopnost se dohodnout bude v této kampani takzvaně trendy. No a pak uvidíme, jestli to vydrží i po volbách, nebo zvítězí reálpolitika, schopnost rychle sestavit těsnou většinu a urvat co nejvíc moci pro sebe.
-_
-_TOMÁŠ ZNAMENÁČEK: Abych po minulém newsletteru navázal na volný seriál ze svých běhů :), letos jsem se poprvé zúčastnil těch Boskovických a moc se mně líbila jejich atmosféra, hlavně díky skvělému fandícímu publiku, které obložilo prakticky celou víc než desetikilometrovou hlavní trať. Městu tahle dobře zvládnutá akce sluší, musela s ní být hromada práce. Díky pořadatelům!
-_
-_KRISTINA STUDENÁ: V rozhovoru s Dalimilem jsme se bavili o tom, jak může člověk dávat péči krajině a regionu, odkud pochází. Když mám pocit, že už nevstřebám další várku zpráv ze světa, vzpomenu si na tento aktivní přístup – každý můžeme udělat i něco zdánlivě bezvýznamného, věnovat den dobrovolné práce pro okolní přírodu a lidi. A načerpat sílu, kterou nám tahle nezištná pomoc poskytuje. Tyhle jarní dny jsou k tomu přímo ideální.
-_
+*TOMÁŠ TRUMPEŠ: Po minulých volbách jsem psal v komentáři o tom, že by Boskovicím slušela širší koalice a že by stálo za to nabídnout jedno místo v radě i opozici. Dnes se na tento můj text odvolává lídr ODS a kandidátky Kopeme za Boskovice, což je poměrně nebývalé. Vypadá to, že konsensuální politika a schopnost se dohodnout bude v této kampani takzvaně trendy. No a pak uvidíme, jestli to vydrží i po volbách, nebo zvítězí reálpolitika, schopnost rychle sestavit těsnou většinu a urvat co nejvíc moci pro sebe.*
+
+*TOMÁŠ ZNAMENÁČEK: Abych po minulém newsletteru navázal na volný seriál ze svých běhů :), letos jsem se poprvé zúčastnil těch Boskovických a moc se mně líbila jejich atmosféra, hlavně díky skvělému fandícímu publiku, které obložilo prakticky celou víc než desetikilometrovou hlavní trať. Městu tahle dobře zvládnutá akce sluší, musela s ní být hromada práce. Díky pořadatelům!*
+
+*KRISTINA STUDENÁ: V rozhovoru s Dalimilem jsme se bavili o tom, jak může člověk dávat péči krajině a regionu, odkud pochází. Když mám pocit, že už nevstřebám další várku zpráv ze světa, vzpomenu si na tento aktivní přístup – každý můžeme udělat i něco zdánlivě bezvýznamného, věnovat den dobrovolné práce pro okolní přírodu a lidi. A načerpat sílu, kterou nám tahle nezištná pomoc poskytuje. Tyhle jarní dny jsou k tomu přímo ideální.*
+
 Závěrečnou rubriku Radost! věnuji tentokrát boskovickému zastupitelstvu, které našlo dost odvahy a konečně snížilo opravdu neobhajitelný počet zastupitelek a zastupitelů pro příští volební období. Upřímně řečeno jsem nevěřil, že to nakonec projde – jak se volby blíží, motivace ohrozit možná svou vlastní zastupitelskou židli klesá. Nakonec se ale pro snížení vyjádřilo i dost zastupitelů z opozice a výsledek lze označit za širší politickou shodu, což je určitě dobře. V diskusi zaznělo i pár zajímavých argumentů proti – ty budou podle mě relevantní, až se budeme bavit o snížení počtu mandátů třeba z 21 na 15. Ale 27 byl vzhledem k velikosti města opravdu boskovický úlet. Možná bychom se měli spíš snažit být výjimeční v něčem pozitivním.
 
 Srdečně zdraví a pěkné květnové dny přeje
