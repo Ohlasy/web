@@ -34,7 +34,7 @@
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
     "glob-bin": "^1.1.0",
-    "postcss": "^8.5.10",
+    "postcss": "^8.5.13",
     "tailwindcss": "^4.2.1",
     "tsx": "^4.21.0",
     "typescript": "6.x"
