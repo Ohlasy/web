@@ -1,13 +1,13 @@
 ---
 title: "O rekonstrukci parku u skleníku rozhodl pirátský hlas. Naše Boskovice byly pro, Změna22 proti"
-cover-photo: https://i.imgur.com/6Dkjgiq.jpeg
+cover-photo: https://i.ohlasy.info/i/7cc26e89.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Městská rada potvrdila výsledek výběrového řízení na zhotovitele rekonstrukce parku u zámeckého skleníku. Smlouva by se měla podepsat na konci května a od června se má začít stavět. Rozhodnutí v radě proběhlo nejtěsnější možnou většinou, ale projekt má podporu opozice.*
 
-{% photo src="https://i.imgur.com/6Dkjgiq.jpeg" caption="Park u zámeckého skleníku" author="Tomáš Trumpeš" width=4032 height=3024 /%}
+{% photo src="https://i.ohlasy.info/i/7cc26e89.jpeg" caption="Park u zámeckého skleníku" author="Tomáš Trumpeš" width=4032 height=3024 /%}
 
 Do výběrového řízení se přihlásilo celkem šest firem. Výběrová komise doporučila a rada schválila nejvýhodnější nabídku – sdružení společností Nakostav a Vykrut má rekonstrukci provést za necelých 77,5 milionu korun. 
 
