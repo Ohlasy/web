@@ -5,6 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 tags:
   - komunální volby 2026
+  - NFNZ 2026
 ---
 
 *Boskovický zastupitelský sbor čítá 27 lidí, ale v příští volebním období jejich počet poklesne na 23\. Pokud by voliči odebrali mandát těm, kteří jsou nejméně aktivní, na jednáních by to prakticky nebylo poznat. Těch mlčících totiž není úplně málo.*
@@ -50,3 +51,7 @@ Poměrně aktivní jsou ovšem i opoziční hlasy zvolené za Sociální demokra
 ### SPD a Trikolora
 
 Jako jediný zástupce společné kandidátky SPD a Trikolory pronikl do zastupitelstva také Karel Trefný. Ten se vyjadřuje rovněž poměrně sporadicky, za poslední rok vstoupil do diskuse celkem čtyřikrát.
+
+---
+
+*Tento text vznikl mimo jiné díky příspěvku [Nadačního fondu nezávislé žurnalistiky](https://www.nfnz.cz/) a darům našeho publika. Pokud si to můžete dovolit, [přispějte prosím také](https://www.ohlasy.info/darujte), ať se nám práce zaplatí.*
