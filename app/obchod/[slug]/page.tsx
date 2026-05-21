@@ -12,11 +12,11 @@ type Params = {
 };
 
 type Props = {
-  params: Params;
+  params: Promise<Params>;
 };
 
 export default async function Page({ params }: Props) {
-  const { slug } = params;
+  const { slug } = await params;
   const book = await getBookWithSlug(slug);
   if (!book) {
     notFound();
