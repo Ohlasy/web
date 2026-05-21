@@ -1,6 +1,6 @@
 ---
 title: "Anketa se zastupiteli: Plánujete obhajovat mandát?"
-cover-photo: https://i.imgur.com/Q6T1eNv.jpeg
+cover-photo: https://i.ohlasy.info/i/93609d23.jpeg
 author: Tomáš Trumpeš
 category: ankety
 tags:
@@ -10,7 +10,7 @@ tags:
 
 *Do komunálních voleb zbývá jeden rok. Boskovických zastupitelek a zastupitelů jsme se při té příležitosti zeptali: Jste už rozhodnutí, jestli budete chtít obhajovat zastupitelský mandát? Pokud ano, jak? A jaké motivace hrají ve vašem rozhodování nejdůležitější roli?*
 
-{% photo src="https://i.imgur.com/Q6T1eNv.jpeg" caption="Pohled na boskovickou radnici" author="Tomáš Znamenáček" width=3000 height=2006 /%}
+{% photo src="https://i.ohlasy.info/i/93609d23.jpeg" caption="Pohled na boskovickou radnici" author="Tomáš Znamenáček" width=3744 height=2496 /%}
 
 ### Změna22
 
