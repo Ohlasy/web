@@ -1,13 +1,13 @@
 ---
 title: "Rebel Alois Muna – lysický rodák, levicový radikál a poslanec"
-cover-photo: https://i.imgur.com/bepeqo9.jpeg
+cover-photo: https://i.ohlasy.info/i/8c38be48.jpg
 author: Hynek Skořepa
 category: názory a komentáře
 ---
 
 *Před 140 lety se v Lysicích nedaleko Boskovic narodil Alois Muna (1886–1943), levicový radikál, odborový předák a poslanec. Ač měl omezené vzdělání (pouhých pět tříd obecné školy), vyučil se krejčím, viděl kus světa a celý život hájil práva těch nejchudších. Vzpomínku na něj napsal Hynek Skořepa původně pro [dvouměsíčník Listy](https://www.listy.cz/), my text o lysickém rodákovi přinášíme regionálnímu publiku.*
 
-{% photo src="https://i.imgur.com/bepeqo9.jpeg" caption="V Kladně dodnes stojí takzvaný „Muňák“, první činžovní dům postavený krátce po vzniku republiky jako sociální bydlení" author="Sládečkovo vlastivědné muzeum v Kladně" width=1993 height=1454 /%}
+{% photo src="https://i.ohlasy.info/i/8c38be48.jpg" caption="V Kladně dodnes stojí takzvaný „Muňák“, první činžovní dům postavený krátce po vzniku republiky jako sociální bydlení" author="Sládečkovo vlastivědné muzeum v Kladně" width=1993 height=1454 /%}
 
 Muna (uváděn též jako Můňa) se už za monarchie angažoval v Českoslovanské sociálně demokratické straně dělnické, existující od roku 1878\. Již ve svých sedmnácti letech, když odešel na zkušenou do Vídně, se stal členem sociálně demokratické mládeže. V letech 1908 až 1911 pak působil mezi mladými sociálními demokraty v Praze. Posléze se vrátil na Moravu a pracoval jako tajemník Odborového sdružení českoslovanského v Prostějově. To vzniklo již počátkem roku 1897 v Praze, po vzniku republiky se přejmenovalo na Odborové sdružení Československé (OSČ). S výjimkou krátké epizody po vzniku KSČ patřilo OSČ k nejvýznamnějším odborovým centrálám meziválečné republiky. Komunisté po odtržení od sociální demokracie vytvořili vlastní Rudé odbory, když se však vedení KSČ zmocnili počátkem roku 1929 „karlínští kluci“ (Gottwald, Slánský, Šverma a další), hned další rok se většina jejich členstva  vrátila do OSČ. Roku 1926 našlo OSČ společnou řeč s dělnickými předáky německé menšiny, byla uzavřena dohoda o koordinaci postupu a společném vedení. Ještě o desetiletí později (1937) sdružovala OSČ 31 % všech odborově organizovaných zaměstnanců české a slovenské národnosti v republice, na sesterskou německou část připadalo dokonce 36 % ze všech odborářů.
 
