@@ -4,7 +4,6 @@ import yaml from "js-yaml";
 import {
   array,
   type decodeType,
-  dict,
   number,
   record,
   string,
