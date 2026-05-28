@@ -1,13 +1,13 @@
 ---
 title: Koncert pro Sudickou školu s novou hudbou Ireny a Vojtěcha Havlových
-cover-photo: https://i.imgur.com/iP5s7SU.jpg
+cover-photo: 
 author: Jan Hocek
 category: názory a komentáře
 ---
 
 *Ve středu 23. října proběhne od 19.00 v evangelickém kostele v Boskovicích Koncert pro Sudickou školu. Ve prospěch této jedinečné církevní MŠ a ZŠ v nedalekých Sudicích, otevřené v září 2022, vystoupí neméně jedineční hudebníci – Irena a Vojtěch Havlovi. Koncertně provedou čtyřruční skladby pro piano a varhany, jež vyšly v květnu letošního roku na albu Four Hands u vydavatelství Animal Music. O Havlových a novém albu pro Ohlasy napsal hudební publicista Jan Hocek.*
 
-{% photo src="https://i.imgur.com/iP5s7SU.jpg" caption="Irena a Vojtěch Havlovi" author="Libor Galia, Animal Music" width=4032 height=3024 /%}
+{% photo src="https://i.ohlasy.info/i/2c4d08db.jpeg" caption="Irena a Vojtěch Havlovi" author="Libor Galia, Animal Music" width=3997 height=2665 /%}
 
 Počátek společného hraní manželů Havlových najdeme již v polovině osmdesátých let minulého století, kdy vznikla experimentální formace Capella Antiqua e Moderna. Ta prováděla díla evropské klasické hudby od renesance až po současnost. Počátkem devadesátých let Havlovi spolupracovali s nedávno zesnulým písničkářem Oldřichem Janotou. Zhusta poté navštěvovali Indii, aby zde studovali tamní tradiční hudbu a spiritualitu. Experimentovali s meditační a minimalistickou hudbou, a postupně tak vznikl jejich osobitý hudební výraz. Intenzivní koncertní aktivita je zavedla do mnoha zemí Evropy, Afriky, také do Japonska, Kanady a Spojených států. Natočili dosud 23 alb, jako zatím poslední je právě Four Hands, které vyšlo nejen na CD, ale také na 2LP.
 

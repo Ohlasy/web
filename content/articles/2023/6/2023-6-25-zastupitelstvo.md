@@ -1,6 +1,6 @@
 ---
 title: "Ze zastupitelstva: mediální výbor a těsné ne zákazu ohňostrojů"
-cover-photo: https://i.imgur.com/x6HGpTr.jpg
+cover-photo: https://i.ohlasy.info/i/1a8ee016.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: politika
@@ -8,7 +8,7 @@ tags: politika
 
 *Na posledním jednání před prázdninami se sešli 20. června boskovičtí zastupitelé. Stále relativně nová sestava boskovických politiků tentokrát jednání neúměrně nenatahovala a jednala něco přes dvě a půl hodiny. Hlavním tématem bylo zřízení mediálního výboru.*
 
-{% photo src="https://i.imgur.com/x6HGpTr.jpg" author="Zdeněk Tesař" width=4000 height=2250 /%}
+{% photo src="https://i.ohlasy.info/i/1a8ee016.jpeg" author="Zdeněk Tesař" width=4000 height=2250 /%}
 
 V úvodním bodu dotazů a připomínek občanů promluvil podnikatel a bývalý šéf boskovického hnutí ANO Luděk Řehoř. Zajímalo ho zřízení veřejného grilovacího místa na sídlišti Pod Oborou a v souvislosti s tím vznesl dotaz, proč není raději využíván areál polytechnického centra.
 

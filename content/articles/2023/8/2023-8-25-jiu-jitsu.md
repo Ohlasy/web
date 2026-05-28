@@ -1,6 +1,6 @@
 ---
 title: "„Lidské šachy.“ Boskovický klub brazilského jiu-jitsu Panter se rozvíjí"
-cover-photo: https://i.imgur.com/OxciWPG.jpg
+cover-photo: https://i.ohlasy.info/i/eff2ecb6.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
 tags: sport
@@ -8,7 +8,7 @@ tags: sport
 
 *Nové prostory v panském dvoře, častější tréninky a nábor nových lidí – to je rozvoj, kterým si aktuálně prochází boskovický klub [Panter BJJ](https://www.facebook.com/profile.php?id=100092970499761). Zkratka BJJ znamená brazilské jiu-jitsu, což je v současné době jeden z nejoblíbenějších bojových sportů.*
 
-{% photo src="https://i.imgur.com/UYqIJeT.jpg" author="Kamil Vočko Altrichter" width=3000 height=2047 /%}
+{% photo src="https://i.ohlasy.info/i/eff2ecb6.jpeg" author="Kamil Vočko Altrichter" width=6240 height=4160 /%}
 
 „Dnes samozřejmě hodně frčí MMA, oktagon – naše liga je velmi populární. Ale určitě to zase není tak, že by obrovské masy lidí dělaly MMA, protože je to velmi tvrdý sport. Asi stejná skupina lidí dělá brazilské jiu-jitsu, je to velmi populární, zatímco tradičnější bojové sporty jsou na ústupu,“ vysvětluje Michal Herčka, vedoucí boskovického klubu a držitel černého pásu.
 

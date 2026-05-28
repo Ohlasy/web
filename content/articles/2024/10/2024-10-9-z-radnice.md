@@ -1,13 +1,13 @@
 ---
 title: "Z radnice: tůně u Mladkova, budoucnost zubařské ordinace, neshoda na úsekovém měření, snížení počtu zastupitelů"
-cover-photo: https://i.imgur.com/Jj4Gg1U.jpg
+cover-photo: https://i.ohlasy.info/i/149550b3.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Novinky z boskovické radnice, které oznámilo po jednání městské rady na začátku září vedení města – tentokrát se tiskové konference účastnili pouze místostarostové Lukáš Holík (Naše Boskovice) a Radek Šamšula (Piráti) a tajemník David Škvařil. Starostka Jana Syrovátková (Změna22) se pro nemoc omluvila.*
 
-{% photo src="https://i.imgur.com/Jj4Gg1U.jpg" caption="Zrekonstruované hřiště na Bílkově ulici" author="Město Boskovice" width=1335 height=890 /%}
+{% photo src="https://i.ohlasy.info/i/149550b3.jpeg" caption="Zrekonstruované hřiště na Bílkově ulici" author="Město Boskovice" width=1186 height=890 /%}
 
 ### Dotace KZMB
 

@@ -1,13 +1,13 @@
 ---
 title: Ohlasy roku 2024 pohledem čtenářského zájmu
-cover-photo: https://i.imgur.com/gqKQguk.jpg
+cover-photo: https://i.ohlasy.info/i/ce14763c.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Končící rok 2024 vybízí opět k tomu, abychom si jej připomněli také pohledem do statistik čtenosti našeho webu. Jaké události a témata vás čtenáře v roce 2024 nejvíc zajímaly?*
 
-{% photo src="https://i.imgur.com/gqKQguk.jpg" caption="Z letošní galerie roku – jez na Bělé při zářijové povodni" author="Tomáš Znamenáček" width=1280 height=854 /%}
+{% photo src="https://i.ohlasy.info/i/ce14763c.jpeg" caption="Z letošní galerie roku – jez na Bělé při zářijové povodni" author="Tomáš Znamenáček" width=2048 height=1365 /%}
 
 Mezi nejčtenější texty končícího roku bohužel patří opět i ty, které píšeme nejméně rádi: vzpomínky na ty, kteří nás opustili. A když pokračujeme dále – samotné krajské volby se sice v konkrétních článcích do úplné špičky nepropsaly, ale pokud se říkalo, že hlavními tématy voleb je doprava a zdravotnictví, pak to sedí stoprocentně. Velký zájem byl samozřejmě o dvě události negativního, ale naštěstí ne tragického rázu – rozsáhlý [požár v průmyslové zóně](https://ohlasy.info/clanky/2024/09/pozar-haly.html) a [povodně](https://ohlasy.info/clanky/2024/09/povodne.html). Silně bodovaly ale i texty, které znovu potvrdily, že si vytváříme silný vztah k zajímavým místům a budovám ve městě.
 

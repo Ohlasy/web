@@ -1,13 +1,13 @@
 ---
 title: "Také v Boskovicích vyhrálo ANO před SPOLU. Třetí Stačilo!, čtvrtí Přísaha a Motoristé"
-cover-photo: https://i.imgur.com/YaA8Qr4.jpg
+cover-photo: https://i.ohlasy.info/i/fc9c86f1.jpeg
 author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
 *Jen mírně se liší výsledky voleb do Evropského parlamentu v Boskovicích od těch celostátních. I v našem městě překročilo nutnou pětiprocentní hranici sedm stran, které uspěly celostátně. Stejné je i pořadí na prvních dvou místech – také v Boskovicích zvítězilo ANO před koalicí SPOLU.*
 
-{% photo src="https://i.imgur.com/YaA8Qr4.jpg" caption="Volební místnost v Boskovicích" author="Tomáš Trumpeš" width=4032 height=3024 /%}
+{% photo src="https://i.ohlasy.info/i/fc9c86f1.jpeg" caption="Volební místnost v Boskovicích" author="Tomáš Trumpeš" width=3557 height=2374 /%}
 
 Na celostátní úrovni získalo vítězné ANO 26,14 procent hlasů, v Boskovicích o něco méně: 25,10 procent. Koalice SPOLU poklesla o trochu víc, celostátně dosáhla na 22,27 procent, v Boskovicích na 20,80 procent hlasů.
 
