@@ -70,7 +70,7 @@ A zveme také do kina. V rámci festivalu Tady Vary proběhne 10\. června před
 
 ### Film proti rasismu
 
-V rámci Dne proti rasismu, který pořádají boskovičtí evangelíci v neděli 7\. června, bude v Prostoru od 18 hodin promítnut také film proti rasismu. Konkrétně snímek *Letní škola* – první vietnamský film vzniklý v České republice. Následovat bude debata.
+V rámci Dne proti rasismu, který pořádají boskovičtí evangelíci v neděli 7\. června, bude v Prostoru od 18 hodin promítnut také film proti rasismu. Konkrétně snímek *Letní škola, 2001* – první vietnamský film vzniklý v České republice. Následovat bude debata.
 
 ### Plenér s Toy_Box 
 
