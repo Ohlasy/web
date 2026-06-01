@@ -5,7 +5,7 @@ author: Richard Jurečka
 category: názory a komentáře
 ---
 
-*Debata o soše na Plačkově ulici pokračuje, město si nechává zpracovávat odborné posudky a zvažuje, jestli Ježka v kleci do Boskovic koupit natrvalo. Svůj pohled na estetiku sochy Patrika Proška do Ohlasů poslal ředitel školy Heuréka Richard Jurečka, který v Boskovicích žije.*
+*Debata o soše na Hradní ulici pokračuje, město si nechává zpracovávat odborné posudky a zvažuje, jestli Ježka v kleci do Boskovic koupit natrvalo. Svůj pohled na estetiku sochy Patrika Proška do Ohlasů poslal ředitel školy Heuréka Richard Jurečka, který v Boskovicích žije.*
 
 {% photo src="https://i.ohlasy.info/i/cb643a4e.jpg" caption="Ježek v kleci u brány do bývalého židovského ghetta" author="Tomáš Znamenáček" width=6149 height=4099 /%}
 
