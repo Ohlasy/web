@@ -55,7 +55,7 @@ Sněmovní volby jsou tedy za námi a my lokální novináři bychom mohli zvola
 * Projekt na úpravu okolí Zelené školy je [rozdělen do etap](https://ohlasy.info/clanky/2025/09/z-radnice.html). Na první etapu je vydáno stavební povolení, další etapy se vyřizují.  
 * Výměna trávníku na fotbalovém hřišti proběhne příští rok, řeší se i [osvětlení a systém zavlažování](https://ohlasy.info/clanky/2025/10/z-radnice.html).  
 * Soutěž na zhotovitele se už připravuje na [rekonstrukci objektu](https://ohlasy.info/clanky/2025/09/z-radnice.html) bývalého hasičského štábu. Stavba by mohla začít v zimě.  
-* Na středu 15\. října od 16 hodin naplánovalo město [setkání s veřejností](https://ohlasy.info/clanky/2025/10/z-radnice.html) spojené s prohlídkou právě [budovy na ulici Svatopluka Čecha](https://fotky.ohlasy.info/%C5%A0t%C3%A1b-civiln%C3%AD-obrany).  
+* Na středu 15\. října od 16 hodin naplánovalo město [setkání s veřejností](https://ohlasy.info/clanky/2025/10/z-radnice.html) spojené s prohlídkou právě [budovy na ulici Svatopluka Čecha](https://fotky.ohlasy.info/share/3lDmFigZ14AVasjhK8LrrtEWLXzicsDOR-3D1zG-tDbE5rMHmD-dMmMBxsQTjiTwxu4).  
 * V sobotu 18\. října ve 14 hodin proběhne slavnostní [otevření skateparku](https://ohlasy.info/clanky/2025/10/z-radnice.html).  
 * Na ulici 17\. listopadu bude v prostorách bývalé prodejny zeleniny 31\. října v 15 hodin otevřeno [nové reuse centrum](https://ohlasy.info/clanky/2025/10/z-radnice.html) Prostředník.  
 * Chatbot na webu města se [jmenuje Velen](https://www.boskovice.cz/chatbot-na-webu-mesta-se-jmenuje-velen).  

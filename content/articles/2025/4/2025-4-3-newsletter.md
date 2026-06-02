@@ -9,7 +9,7 @@ category: newsletter
 
 {% photo src="https://i.ohlasy.info/i/d04d83c5.jpg" caption="Ohlasy oslavily 10 let! Byl dort a hlavně debata se čtenáři o naší práci. Aktuální jádro redakce tvoří Tomáš Znamenáček, Tomáš Trumpeš, Marek Osouch a Magda Znamenáčková, která se stará o naši knižní produkci" author="Oto Matal" width=1600 height=1066 /%}
 
-Vážené čtenářky a vážení čtenáři Ohlasů, máte před sebou další shrnutí boskovického dění v pravidelném e-mailu. Tentokrát musím na začátku poděkovat všem, kdo nám popřáli k 10\. narozeninám našich novin a kdo nás čtete, posloucháte a podporujete. [Oslava byla moc fajn](https://fotky.ohlasy.info/10-let-Ohlas%C5%AF) a přinesla nám zajímavé postřehy k tomu, jak pro vás dál dělat co nejlepší noviny.
+Vážené čtenářky a vážení čtenáři Ohlasů, máte před sebou další shrnutí boskovického dění v pravidelném e-mailu. Tentokrát musím na začátku poděkovat všem, kdo nám popřáli k 10\. narozeninám našich novin a kdo nás čtete, posloucháte a podporujete. Oslava byla moc fajn a přinesla nám zajímavé postřehy k tomu, jak pro vás dál dělat co nejlepší noviny.
 
 Ještě si dovolím na začátku upozornit na delší text [*V regionu vstupujete na mediální poušť*](https://www.goethe.de/prj/jad/cs/the/rur/26491290.html), který jsem na pozvání spisovatelky Terezy Semotamové napsal pro JÁDU – česko-slovensko-německo-ukrajinský online magazín Goethe-Institutu. Článek tak trochu shrnuje právě desetiletou zkušenost s provozem Ohlasů a budu moc rád, když si ho přečtete.
 
