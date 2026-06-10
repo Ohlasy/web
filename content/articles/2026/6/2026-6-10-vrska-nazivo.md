@@ -9,4 +9,4 @@ category: podcast
 
 {% podcast_player file="2026/podcast/vrska.mp3" /%}
 
-*Debata Les na rozcestí proběhla 8. 6. 2026 v Prostoru ve spolupráci se Zelenou peřinou. Akce byla podpořena z grantu Jihomoravského kraje.*
+*Debata Les na rozcestí proběhla 8. 6. 2026 v kulturním a komunitním centru Prostor ve spolupráci se Zelenou peřinou. Akce byla podpořena z grantu Jihomoravského kraje v rámci projektu Boskovický vzdělávací rok pro ochranu klimatu.* 
