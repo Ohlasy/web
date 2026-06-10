@@ -1,6 +1,7 @@
 import { WebClient } from "@slack/web-api";
 import type { NextRequest } from "next/server";
 import { record, string } from "typescript-json-decoder";
+import { looksLikeBotEmail } from "@/src/utils";
 
 export async function POST(request: NextRequest): Promise<Response> {
   const decodeBody = record({
@@ -14,6 +15,10 @@ export async function POST(request: NextRequest): Promise<Response> {
     return new Response("Error decoding body, see the source please.", {
       status: 400,
     });
+  }
+
+  if (looksLikeBotEmail(body.email)) {
+    return new Response("Bots not welcome here", { status: 400 });
   }
 
   const token = process.env.SLACK_BOT_KEY;

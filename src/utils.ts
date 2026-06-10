@@ -25,6 +25,10 @@ export function getImageSrcSet(
     .join(", ");
 }
 
+export function looksLikeBotEmail(email: string) {
+  return !!email.match(/user\d+@gmail\.com/);
+}
+
 /** Shuffle array in place, returns a reference to the same array */
 export function shuffleInPlace<T>(array: T[]): T[] {
   for (let i = array.length - 1; i > 0; i--) {
