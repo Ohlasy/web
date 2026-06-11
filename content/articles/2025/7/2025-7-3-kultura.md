@@ -2,7 +2,7 @@
 title: Kulturní výběr na červenec s festivalovou anketou
 cover-photo: https://i.ohlasy.info/i/5b90f876.jpg
 author: Tomáš Trumpeš
-category: zpravodajství
+category: podcast
 tags: kultura
 ---
 
