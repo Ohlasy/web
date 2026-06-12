@@ -26,7 +26,12 @@ export function getImageSrcSet(
 }
 
 export function looksLikeBotEmail(email: string) {
-  return !!email.match(/user\d+@gmail\.com/);
+  return (
+    // user7237465@gmail.com
+    !!email.match(/user\d+@gmail\.com/) ||
+    // iwan.u.jac.iy.a.8.2.8@gmail.com
+    !!email.match(/(\w+\.){5,}\w+@gmail\.com/)
+  );
 }
 
 /** Shuffle array in place, returns a reference to the same array */

@@ -23,7 +23,11 @@ test("Markdown stripping", () => {
 
 test("Bot e-mail detection", () => {
   assert.equal(looksLikeBotEmail("user1234@gmail.com"), true);
+  assert.equal(looksLikeBotEmail("iwan.u.jac.iy.a.8.2.8@gmail.com"), true);
   assert.equal(looksLikeBotEmail("other@gmail.com"), false);
+  assert.equal(looksLikeBotEmail("joe1@gmail.com"), false);
+  assert.equal(looksLikeBotEmail("joe.1@gmail.com"), false);
+  assert.equal(looksLikeBotEmail("nice.joe.1@gmail.com"), false);
 });
 
 test("Single-letter prepositions", () => {
