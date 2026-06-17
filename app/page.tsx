@@ -22,7 +22,7 @@ export const revalidate = 300;
 
 /** Home page */
 const Page = async () => {
-  const banners = await getAllBanners().then(shuffleInPlace);
+  const banners = await getAllBanners();
   const topArticles = await getTopArticles();
   const latestForumSummary = await getLatestTopicsSummary();
   const articles = getAllArticles("content/articles").sort(compareByDate);
