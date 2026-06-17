@@ -105,7 +105,6 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
           height={100}
           alt=""
           className="rounded-full"
-          fetchPriority="high"
         />
       </div>
       <ul>

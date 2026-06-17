@@ -88,6 +88,7 @@ const FeaturePreview = ({
             alt=""
             width={25}
             height={25}
+            fetchPriority="high"
           />
           <span>{author.name}</span>
         </p>
