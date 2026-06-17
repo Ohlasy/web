@@ -11,7 +11,6 @@ import "./global.css";
 const mainFont = PT_Serif({
   weight: ["400", "700"],
   style: ["normal", "italic"],
-  subsets: ["latin", "latin-ext"],
 });
 
 export const metadata: Metadata = {
