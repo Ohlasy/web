@@ -105,6 +105,7 @@ const InfoBox = ({ author, article }: InfoBoxProps) => {
           height={100}
           alt=""
           className="rounded-full"
+          preload
         />
       </div>
       <ul>
