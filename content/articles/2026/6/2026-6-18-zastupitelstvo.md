@@ -11,7 +11,7 @@ category: zpravodajství
 
 V úvodním bloku dotazů a připomínek občanů se ozval bývalý pracovník stavebního úřadu Vlastimil Kolář a upozornil právě na plánovanou výstavbu bytových domů na křižovatce ulic Křižíkova, Na Vyhlídce a náměstí 9\. května. „Záměr se mi nelíbí a vystupuji proti němu,“ uvedl s tím, že proti záměru se postavila i stavební komise. Stavební úřad záměr povolil, město se odvolalo. Vlastimil Kolář navrhl městu tři hlavní body, z nichž hlavně dva považuje za vážné, a byl nespokojen s tím, že město je nezapracovalo do odvolání a navíc formálně pochybilo při podání odvolání, které mělo být směrováno přímo na krajský úřad.
 
-Starostka Jana Syrovátková (Změna22) popsala, že všechny podněty postoupila úřadu, odvolání připravoval investiční odbor. Jeho šéf Petr Zouhar popsal, že odvolání konzultoval s městskou architektkou i kolegy ze stavebního odboru a právě ti označili některé námitky Vlastimila Koláře jako nepoužitelné vzhledem ke stávajícímu stavebnímu právu. „Zapracovali jsme pouze ty námitky, které by mohly projít,“ popsal Petr Zouhar.
+Starostka Jana Syrovátková (Změna22) popsala, že všechny podněty postoupila úřadu, odvolání připravoval investiční odbor. Jeho šéf Petr Zouhar popsal, že odvolání konzultoval s městskou architektkou i kolegy ze stavebního úřadu a právě ti označili některé námitky Vlastimila Koláře jako nepoužitelné vzhledem ke stávajícímu stavebnímu právu. „Zapracovali jsme pouze ty námitky, které by mohly projít,“ popsal Petr Zouhar.
 
 Proti tomuto postupu se Vlastimil Kolář silně ohradil – není podle něj možné, aby se ten, kdo podává odvolání, radil s tím, kdo rozhodnutí vydal. Vyjádření starostky i vedoucího investičního odboru označil za vytáčky a lhaní. 
 
