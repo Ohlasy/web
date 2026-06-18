@@ -97,7 +97,7 @@ const Footer = () => (
             ohlasy@ohlasy.info
           </a>
           <br />
-          +420 608 763 954
+          <a href="tel:+420 608 763 954">+420 608 763 954</a>
         </p>
         <p className="text-balance">
           Vydává{" "}
