@@ -11,6 +11,8 @@ import {
 import { decodeObject, decodeUrl } from "@/src/decoding";
 import type { iTunesShowEpisode } from "@/src/feeds";
 
+export const allValidPodcastIds = ["ohlasy", "hrebenovka"];
+
 export type PodcastEpisode = decodeType<typeof decodePodcastEpisode>;
 export const decodePodcastEpisode = record({
   title: string,
@@ -46,6 +48,10 @@ export function getAllPodcastEpisodesSync(podcastId: string): Podcast {
   const path = resolve("content", "podcasts", podcastId, "episodes.yml");
   const src = readFileSync(path, { encoding: "utf-8" });
   return decodePodcast(yaml.load(src));
+}
+
+export function getOverallPodcastEpisodeCountSync(): number {
+  return allValidPodcastIds.flatMap(getAllPodcastEpisodesSync).length;
 }
 
 export function convertEpisodeToFeedItem(

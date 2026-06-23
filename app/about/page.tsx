@@ -3,11 +3,11 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 import { getAllArticles } from "@/src/article";
 import { type Author, getAllAuthors } from "@/src/data/authors";
-import { getAllPodcastEpisodesSync } from "@/src/data/podcasts";
+import { getOverallPodcastEpisodeCountSync } from "@/src/data/podcasts";
 import { RouteTo } from "@/src/routing";
 
 const Page = async () => {
-  const episodes = getAllPodcastEpisodesSync("ohlasy");
+  const episodes = getOverallPodcastEpisodeCountSync();
   const articles = getAllArticles("content/articles");
   const authors = await getAllAuthors();
 
@@ -57,7 +57,7 @@ const Page = async () => {
             </Link>
             ,{" "}
             <Link href={RouteTo.podcasts} className="typo-link">
-              {episodes.length} dílů podcastu
+              {episodes} dílů podcastů
             </Link>
             ,{" "}
             <Link href={RouteTo.store} className="typo-link">
