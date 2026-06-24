@@ -25,6 +25,8 @@ const decodePodcastEpisode = record({
 });
 
 export type Podcast = decodeType<typeof decodePodcast>;
+
+/** @internal */
 export const decodePodcast = array(decodePodcastEpisode);
 
 export type PodcastMetadata = decodeType<typeof decodePodcastMetadata>;

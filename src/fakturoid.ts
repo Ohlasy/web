@@ -154,6 +154,7 @@ export async function createInvoice(token: string, invoiceData: Invoice) {
 // Webhooks
 //
 
+/** @internal */
 export const decodeWebhook = record({
   webhook_id: number,
   event_name: string,

@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/knip@6/schema.json",
-  "tags": ["-lintignore"],
-  "ignoreFiles": ["**/*.test.ts"],
-  "ignoreDependencies": ["tsx"]
+  "tags": ["-internal"],
+  "ignoreDependencies": ["tsx"],
+  "ignoreFiles": ["**/*.test.ts"]
 }

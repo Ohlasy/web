@@ -12,6 +12,8 @@ import {
 import { decodeObject, decodeUrl } from "@/src/decoding";
 
 export type Author = decodeType<typeof decodeAuthor>;
+
+/** @internal */
 export const decodeAuthor = record({
   name: string,
   mail: optional(string),
@@ -21,6 +23,7 @@ export const decodeAuthor = record({
   fedi: optional(string),
 });
 
+/** @internal */
 export const decodeAuthors = (value: Pojo) => {
   const decodeWrapper = decodeObject(decodeObject(string));
   const authorMap = decodeWrapper(value);
