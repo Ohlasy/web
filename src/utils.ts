@@ -46,12 +46,6 @@ export function shuffleInPlace<T>(array: T[]): T[] {
 /** Return a shuffled copy of the input array */
 export const shuffled = <T>(array: readonly T[]) => shuffleInPlace([...array]);
 
-export function notEmpty<TValue>(
-  value: TValue | null | undefined,
-): value is TValue {
-  return value !== null && value !== undefined;
-}
-
 export function* endlessGeneratorOf<T>(items: T[]): Generator<T, T, unknown> {
   let index = 0;
   while (true) {
@@ -60,10 +54,7 @@ export function* endlessGeneratorOf<T>(items: T[]): Generator<T, T, unknown> {
   }
 }
 
-export const stripMarkdown = (mdown: string) =>
-  renderPlainText(Markdoc.parse(mdown));
-
-export function renderPlainText(doc: Node): string {
+function renderPlainText(doc: Node): string {
   let output = "";
   for (const node of doc.walk()) {
     if (node.type === "text") {
@@ -73,12 +64,8 @@ export function renderPlainText(doc: Node): string {
   return output;
 }
 
-export function map<T, U>(
-  val: T | undefined | null,
-  f: (_: T) => U,
-): U | undefined {
-  return val ? f(val) : undefined;
-}
+export const stripMarkdown = (mdown: string) =>
+  renderPlainText(Markdoc.parse(mdown));
 
 /** Tie single-letter prepositions with following text using a non-breaking space */
 export function tilde(str: string, replacement = " "): string {

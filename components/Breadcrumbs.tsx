@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { RouteTo } from "@/src/routing";
 
-export type PathItem = {
+type PathItem = {
   title: string;
   path: string;
 };
 
-export type Props = {
+type Props = {
   parentItems?: PathItem[];
   currentItemTitle: string;
 };

@@ -7,11 +7,6 @@ import { compareByDate, getAllArticles, type Metadata } from "@/src/article";
 import { getAllAuthors } from "@/src/data/authors";
 import type { Banner } from "@/src/data/banners";
 import { getAllBanners } from "@/src/data/banners";
-import {
-  getLatestTopicsSummary,
-  getUserAvatar,
-  type LatestTopicsSummary,
-} from "@/src/data/forum";
 import type { TopArticles } from "@/src/data/plausible";
 import { getTopArticles, plausibleEventClass } from "@/src/data/plausible";
 import { RouteTo } from "@/src/routing";
@@ -24,7 +19,6 @@ export const revalidate = 300;
 const Page = async () => {
   const banners = await getAllBanners().then(shuffleInPlace);
   const topArticles = await getTopArticles();
-  const latestForumSummary = await getLatestTopicsSummary();
   const articles = getAllArticles("content/articles").sort(compareByDate);
   const authors = await getAllAuthors();
   const filterCategory = (category: Metadata["category"]) =>
@@ -66,14 +60,6 @@ const Page = async () => {
         getBanner={getNextBanner}
         analyticsId="opinion-box"
         authors={authors}
-      />
-
-      <SectionDivider>
-        <a href={RouteTo.forum}>diskuzní fórum</a>
-      </SectionDivider>
-      <ForumOverviewBox
-        latestForumSummary={latestForumSummary}
-        banner={getNextBanner()}
       />
 
       <SectionDivider>
@@ -188,63 +174,5 @@ const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
     </div>
   </div>
 );
-
-//
-// Discussion Forum Box
-//
-
-type Props = {
-  latestForumSummary: LatestTopicsSummary;
-  banner: Banner;
-};
-
-const ForumOverviewBox = ({ latestForumSummary, banner }: Props) => {
-  const { topic_list, users } = latestForumSummary;
-
-  const topics = topic_list.topics
-    // Topic #8 is an old welcome post, not sure why it’s always there
-    .filter((topic) => topic.id !== 8)
-    .slice(0, 10);
-
-  const getAvatarForUserId = (id: number) => {
-    const user = users.find((u) => u.id === id)!;
-    return getUserAvatar(user, 200);
-  };
-
-  return (
-    <div className="grid lg:grid-cols-3 gap-x-7">
-      <div className="col-span-2">
-        {topics.map((topic) => (
-          <div
-            className="grid md:grid-cols-3 border-b border-dotted border-silver last:border-0 pb-2 mb-2 gap-x-7"
-            key={topic.id}
-          >
-            <a
-              href={RouteTo.forumTopic(topic)}
-              className="col-span-2 typo-link"
-            >
-              {topic.title}
-            </a>
-            <div>
-              {topic.posters.map(({ user_id }) => (
-                <Image
-                  key={user_id}
-                  src={getAvatarForUserId(user_id)}
-                  className="inline-block rounded-full mr-1"
-                  width={30}
-                  height={30}
-                  alt=""
-                />
-              ))}
-            </div>
-          </div>
-        ))}
-      </div>
-      <div className="max-lg:hidden">
-        <BannerBox banner={banner} />
-      </div>
-    </div>
-  );
-};
 
 export default Page;

@@ -10,7 +10,7 @@ import {
 // Authentication
 //
 
-export async function getBearerToken(clientId: string, clientSecret: string) {
+async function getBearerToken(clientId: string, clientSecret: string) {
   const base64 = (s: string) => Buffer.from(s).toString("base64");
   const clientData = base64([clientId, clientSecret].join(":"));
   const payload = { grant_type: "client_credentials" };

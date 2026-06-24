@@ -4,7 +4,7 @@ import {
   getPodcastMetadataSync,
 } from "./data/podcasts";
 
-export const photo: Schema = {
+const photo: Schema = {
   render: "Photo",
   selfClosing: true,
   attributes: {
@@ -31,7 +31,7 @@ export const photo: Schema = {
   },
 };
 
-export const profile_photo: Schema = {
+const profile_photo: Schema = {
   render: "ProfilePhoto",
   selfClosing: true,
   attributes: {
@@ -46,7 +46,7 @@ export const profile_photo: Schema = {
   },
 };
 
-export const youtube_video: Schema = {
+const youtube_video: Schema = {
   render: "YouTubeVideo",
   selfClosing: true,
   attributes: {
@@ -67,7 +67,7 @@ export const youtube_video: Schema = {
   },
 };
 
-export const datawrapper_chart: Schema = {
+const datawrapper_chart: Schema = {
   render: "DatawrapperChart",
   selfClosing: true,
   attributes: {
@@ -85,7 +85,7 @@ export const datawrapper_chart: Schema = {
   },
 };
 
-export const podcast_player: Schema = {
+const podcast_player: Schema = {
   render: "PodcastPlayer",
   selfClosing: true,
 
@@ -116,7 +116,7 @@ export const podcast_player: Schema = {
   },
 };
 
-export const subscribe_box: Schema = {
+const subscribe_box: Schema = {
   render: "NewsletterSubscribeBox",
   selfClosing: true,
 };

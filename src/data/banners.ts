@@ -11,7 +11,7 @@ import { getTable, unwrapRecords } from "./airtable";
 const bannerTable = () => getTable("appcP5M7jTIUMZaRc", "tblxgfyRlovII0SC2");
 
 export type Banner = decodeType<typeof decodeBanner>;
-export const decodeBanner = record({
+const decodeBanner = record({
   name: field("Název", string),
   image: field("Obrázek", string),
   url: field("Odkaz", string),

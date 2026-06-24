@@ -27,7 +27,7 @@ export interface Article extends Metadata {
 }
 
 /** Decode a live Date object (ie. not a date stamp string), returning a string timestamp */
-export const decodeDate = (value: unknown): string => {
+const decodeDate = (value: unknown): string => {
   if (Object.prototype.toString.call(value) === "[object Date]") {
     return `${value}`;
   } else {
@@ -36,7 +36,7 @@ export const decodeDate = (value: unknown): string => {
 };
 
 /** Decode article metadata from an object */
-export const decodeMetadata = record({
+const decodeMetadata = record({
   title: string,
   author: string,
   perex: string,
@@ -63,7 +63,7 @@ export const decodeMetadata = record({
 });
 
 /** Decode article from a standard frontmatter + body text file */
-export function decodeArticle(
+function decodeArticle(
   src: string,
   defaults: Record<string, unknown> = {},
 ): Article {

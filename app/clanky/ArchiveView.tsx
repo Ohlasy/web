@@ -136,7 +136,7 @@ type FilterControlProps = {
   onChange: (value: string | undefined) => void;
 };
 
-export const FilterControl = (props: FilterControlProps) => {
+const FilterControl = (props: FilterControlProps) => {
   const emptyLabel = "bez omezení";
   const { filter, values, selected, onChange } = props;
   const handleChange = (event: ChangeEvent<HTMLSelectElement>) => {

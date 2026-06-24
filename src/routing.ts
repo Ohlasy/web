@@ -1,6 +1,5 @@
 import type { Article } from "./article";
 import type { Book } from "./data/books";
-import { getTopicUrl } from "./data/forum";
 
 /** Site URL without trailing slash */
 export const siteUrl = "https://ohlasy.info";
@@ -16,12 +15,10 @@ export const RouteTo = {
   store: "/obchod",
   // Dynamic routes
   article: getArticlePath,
-  forumTopic: getTopicUrl,
   book: (book: Pick<Book, "slug">) => `/obchod/${book.slug}`,
   articlesByAuthor: (name: string) =>
     `/clanky/?autor=${encodeURIComponent(name)}`,
   // External routes
-  forum: "https://forum.ohlasy.info",
   adsInfo: "https://wiki.ohlasy.info/4d80dd164e614461a16f4a65597c6304",
   companyInfo:
     "https://ohlasy.notion.site/Spolek-9101128690ce46d6908f322fff37065e?pvs=4",

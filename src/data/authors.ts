@@ -9,7 +9,7 @@ import {
   record,
   string,
 } from "typescript-json-decoder";
-import { decodeObject, decodeUrl } from "../decoding";
+import { decodeObject, decodeUrl } from "@/src/decoding";
 
 export type Author = decodeType<typeof decodeAuthor>;
 export const decodeAuthor = record({

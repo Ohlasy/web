@@ -21,7 +21,7 @@ export function useNewsletterSubscription() {
   return { state, subscribe };
 }
 
-export const subscribeToNewsletter = async (email: string) =>
+const subscribeToNewsletter = async (email: string) =>
   await fetch(`/newsletter/subscribe`, {
     method: "POST",
     headers: {

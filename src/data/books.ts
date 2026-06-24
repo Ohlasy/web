@@ -18,7 +18,7 @@ import { getTable, unwrapRecord, unwrapRecords } from "./airtable";
 const booksTable = () => getTable("apptZroU7Vo0zMDjT", "tblODWl1pWKSEAKmv");
 
 export type Book = decodeType<typeof decodeBook>;
-export const decodeBook = record({
+const decodeBook = record({
   id: field("ID", number),
   databaseId: field("Databázové ID", string),
   title: field("Název", string),
@@ -53,7 +53,7 @@ export const sortByYear = (a: Book, b: Book) =>
 const ordersTable = () => getTable("apptZroU7Vo0zMDjT", "tbllODnsl8U1U8X7N");
 
 export type Order = decodeType<typeof decodeOrder>;
-export const decodeOrder = record({
+const decodeOrder = record({
   id: field("ID", number),
   orderedItemId: field("Objednaný titul", relationToZeroOrOne),
   itemCount: field("Počet kusů", number),

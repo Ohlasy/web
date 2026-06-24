@@ -120,7 +120,6 @@ const Footer = () => (
             links={[
               [RouteTo.store, "knihy"],
               [RouteTo.archive, "archiv článků"],
-              [RouteTo.forum, "diskuzní fórum"],
               [RouteTo.newsletter, "newsletter"],
               [RouteTo.podcasts, "podcasty"],
             ]}

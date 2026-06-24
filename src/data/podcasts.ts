@@ -11,10 +11,10 @@ import {
 import { decodeObject, decodeUrl } from "@/src/decoding";
 import type { iTunesShowEpisode } from "@/src/feeds";
 
-export const allValidPodcastIds = ["ohlasy", "hrebenovka"];
+const allValidPodcastIds = ["ohlasy", "hrebenovka"];
 
 export type PodcastEpisode = decodeType<typeof decodePodcastEpisode>;
-export const decodePodcastEpisode = record({
+const decodePodcastEpisode = record({
   title: string,
   image: string,
   duration: string,
@@ -28,7 +28,7 @@ export type Podcast = decodeType<typeof decodePodcast>;
 export const decodePodcast = array(decodePodcastEpisode);
 
 export type PodcastMetadata = decodeType<typeof decodePodcastMetadata>;
-export const decodePodcastMetadata = record({
+const decodePodcastMetadata = record({
   title: string,
   feed: string,
   image: string,
