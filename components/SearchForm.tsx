@@ -2,6 +2,7 @@
 
 import Plausible from "plausible-tracker";
 import { useState } from "react";
+import { Button } from "@/components/Button";
 
 const { trackEvent } = Plausible({ domain: "ohlasy.info" });
 
@@ -33,10 +34,10 @@ export const SearchForm = () => {
           onChange={(e) => setQuery(e.target.value)}
           required
         />
-        <input
+        <Button
           type="submit"
-          className="flex-none btn-primary text-sm"
-          value="Hledat"
+          text="Hledat"
+          size="small"
           disabled={query === ""}
           onClick={handleSubmit}
         />

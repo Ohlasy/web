@@ -1,7 +1,7 @@
-import Link from "next/link";
 import Plausible from "plausible-tracker";
 import { useState } from "react";
 import { useFormState, useFormStatus } from "react-dom";
+import { Button } from "@/components/Button";
 import { placeOrder } from "./actions";
 
 type Props = {
@@ -24,14 +24,13 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
           Kdybyste měli nějaký dotaz nebo potřebovali s něčím pomoct, napište
           nám prosím na <ClickableMail />.
         </p>
-        <div>
-          <Link
+        <div className="flex flex-row">
+          <Button
+            text="Zobrazit fakturu a zaplatit"
             href={state.invoiceUrl}
+            stretch="mobile"
             target="_blank"
-            className="btn-primary py-3"
-          >
-            Zobrazit fakturu a zaplatit
-          </Link>
+          />
         </div>
       </div>
     );
@@ -111,11 +110,12 @@ const ClickableMail = () => (
 const CancelButton = ({ onClick }: { onClick: () => void }) => {
   const { pending } = useFormStatus();
   return (
-    <input
-      type="button"
+    <Button
+      type="reset"
+      style="secondary"
+      text="Zrušit objednávku"
       onClick={onClick}
-      className="btn-inverted max-sm:w-full"
-      value="Zrušit objednávku"
+      stretch="mobile"
       disabled={pending}
     />
   );
@@ -124,11 +124,11 @@ const CancelButton = ({ onClick }: { onClick: () => void }) => {
 const SubmitButton = () => {
   const { pending } = useFormStatus();
   return (
-    <input
-      type="submit"
-      className="btn-primary max-sm:w-full"
-      value={pending ? "Odesílám…" : "Odeslat objednávku"}
+    <Button
+      text={pending ? "Odesílám…" : "Odeslat objednávku"}
       disabled={pending}
+      type="submit"
+      stretch="mobile"
     />
   );
 };

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import Link from "next/link";
+import { Button } from "@/components/Button";
 import { type Book, getAllBooks, sortByYear } from "@/src/data/books";
 import { RouteTo } from "@/src/routing";
 import { getResizedImageUrl } from "@/src/utils";
@@ -51,13 +51,12 @@ const BookBox = ({ book }: { book: Book }) => (
         {book.title}
       </h2>
       <p className="max-w-prose">{book.description}</p>
-      <div className="my-7">
-        <Link
-          className="inline-block max-sm:w-full btn-primary"
+      <div className="my-7 flex flex-row">
+        <Button
           href={RouteTo.book(book)}
-        >
-          Zobrazit detaily
-        </Link>
+          text="Zobrazit detaily"
+          stretch="mobile"
+        />
       </div>
     </div>
   </div>

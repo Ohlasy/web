@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { type ChangeEvent, useState } from "react";
+import { Button } from "@/components/Button";
 import type { Metadata } from "@/src/article";
 import { RouteTo } from "@/src/routing";
 import { tilde } from "@/src/utils";
@@ -113,14 +114,13 @@ const FilterPanel = ({
         />
       ))}
       <div className="mt-4">
-        <button
+        <Button
           type="reset"
+          stretch="always"
           onClick={removeAllFilters}
           disabled={Object.keys(settings).length === 0}
-          className="w-full btn-primary"
-        >
-          Smazat filtry
-        </button>
+          text="Smazat filtry"
+        />
       </div>
       <div className="text-sm text-center text-balance mt-2">
         <DressedCount count={matchCount} />

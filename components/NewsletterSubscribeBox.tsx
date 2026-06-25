@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { Button } from "@/components/Button";
 import { useNewsletterSubscription } from "@/src/hooks/newsletter";
 import { FullWidthCard } from "./FullWidthCard";
 
@@ -34,12 +35,13 @@ export const NewsletterSubscribeBox = () => {
               placeholder="váš@email.cz"
               onChange={(e) => setEmail(e.target.value)}
             />
-            <input
+            <Button
               type="submit"
-              className="w-full btn-primary"
-              value="Přihlásit"
+              text="Přihlásit"
+              size="small"
               disabled={email === ""}
               onClick={handleSubmit}
+              stretch="always"
             />
           </form>
         )}

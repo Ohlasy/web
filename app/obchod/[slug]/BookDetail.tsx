@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { Button } from "@/components/Button";
 import type { Book } from "@/src/data/books";
 import { OrderForm } from "./OrderForm";
 
@@ -22,16 +23,6 @@ export const BookDetails = ({ book }: Props) => {
   const orderLabel = book.price
     ? `Koupit za ${priceFormatter.format(book.price)}`
     : "Koupit";
-
-  const ShowOrderButton = () => (
-    <button
-      type="button"
-      className="btn-primary max-sm:w-full"
-      onClick={() => setShowOrder(true)}
-    >
-      {orderLabel}
-    </button>
-  );
 
   return (
     <div className="flex flex-col gap-4">
@@ -59,15 +50,13 @@ export const BookDetails = ({ book }: Props) => {
 
       {inStock && !showOrder && (
         <div className="mt-2">
-          <ShowOrderButton />
+          <Button onClick={() => setShowOrder(true)} text={orderLabel} />
         </div>
       )}
 
       {!inStock && (
         <div className="mt-2">
-          <button type="button" className="btn-primary" disabled>
-            Kniha je vyprodaná
-          </button>
+          <Button text="Kniha je vyprodaná" disabled />
         </div>
       )}
     </div>

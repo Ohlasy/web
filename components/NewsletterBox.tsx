@@ -1,6 +1,7 @@
 "use client";
 
 import { Fragment, useState } from "react";
+import { Button } from "@/components/Button";
 import { useNewsletterSubscription } from "@/src/hooks/newsletter";
 
 export const NewsletterBox = () => {
@@ -23,12 +24,12 @@ export const NewsletterBox = () => {
               placeholder="váš@email.cz"
               onChange={(e) => setEmail(e.target.value)}
             />
-            <input
+            <Button
               type="submit"
-              className="flex-none btn-primary text-sm"
-              value="Přihlásit"
+              text="Přihlásit"
               disabled={email === ""}
               onClick={handleSubmit}
+              size="small"
             />
           </form>
           <p className="text-base">
