@@ -1,13 +1,13 @@
 ---
 title: Jsme tu, protože bráníme instituce, které v dobách krize budeme potřebovat všichni
-cover-photo: https://i.ohlasy.info/i/6eb40d20.jpg
+cover-photo: https://i.ohlasy.info/i/925a7225.jpg
 author: Tereza Machová
 category: názory a komentáře
 ---
 
 *Na boskovickém Masarykově náměstí se v pátek dopoledne konala malá demonstrace na podporu médií veřejné služby. Zúčastilo se asi pětadvacet lidí. Za pořadatele promluvila studentka jedné z boskovických středních škol Tereza Machová, jejíž projev publikujeme. A zveme na debatu Ohlasy naživo o médiích veřejné služby se socioložkou Klárou Smejkal a datovým novinářem Českého rozhlasu Janem Bočkem, kterou pořádáme [na festivalu Boskovice](https://www.facebook.com/events/1694139331894571/1694139335227904) v pátek 10\. července od 14.30 za muzeem.*
 
-{% photo src="https://i.ohlasy.info/i/6eb40d20.jpg" caption="Demonstrující na boskovickém hlavním náměstí" author="Tomáš Znamenáček" width=5888 height=3925 /%}
+{% photo src="https://i.ohlasy.info/i/925a7225.jpg" caption="Demonstrující na boskovickém hlavním náměstí" author="Tomáš Znamenáček" width=6240 height=4160 /%}
 
 Dobré dopoledne, zdravím, díky, že jste přišli. Tady venku na slunci se sice teploty už nyní blíží ke 30 stupňům Celsia, ale my tu i tak stojíme, abychom politikům vzkázali, že nám není jedno, co se děje v naší zemi, a že nám záleží na demokracii.
 
