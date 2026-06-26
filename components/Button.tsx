@@ -41,6 +41,8 @@ export const Button = (props: Props) => {
     size === "small" && "text-sm",
     // Disabled style
     "disabled:bg-gray disabled:text-white disabled:border-none",
+    // Active
+    "active:not-disabled:shadow-none",
     // Stretch
     stretch === "always"
       ? "w-full"
