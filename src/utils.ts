@@ -30,7 +30,7 @@ export function looksLikeBotEmail(email: string) {
     // user7237465@gmail.com
     !!email.match(/user\d+@gmail\.com/) ||
     // iwan.u.jac.iy.a.8.2.8@gmail.com
-    !!email.match(/(\w+\.){5,}\w+@gmail\.com/)
+    !!email.match(/(\w+\.){4,}\w+@gmail\.com/)
   );
 }
 
