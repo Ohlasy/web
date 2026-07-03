@@ -1,10 +1,10 @@
 import assert from "node:assert";
 import test from "node:test";
-import yaml from "js-yaml";
+import { load } from "js-yaml";
 import { decodePodcast } from "./podcasts";
 
 test("Decode podcast", () => {
-  const podcast = decodePodcast(yaml.load(sample));
+  const podcast = decodePodcast(load(sample));
   assert.deepEqual(podcast, [
     {
       bytes: 14000000,

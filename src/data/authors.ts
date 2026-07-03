@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
-import yaml from "js-yaml";
+import { load } from "js-yaml";
 import {
   type decodeType,
   field,
@@ -35,6 +35,6 @@ export const decodeAuthors = (value: Pojo) => {
 export const getAllAuthors = async () => {
   const path = join(process.cwd(), "content", "autori.yml");
   return await readFile(path, "utf-8")
-    .then((str) => yaml.load(str) as Pojo)
+    .then((str) => load(str) as Pojo)
     .then(decodeAuthors);
 };

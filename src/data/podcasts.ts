@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
-import yaml from "js-yaml";
+import { load } from "js-yaml";
 import {
   array,
   type decodeType,
@@ -42,14 +42,14 @@ const decodePodcastMetadata = record({
 export function getPodcastMetadataSync(podcastId: string): PodcastMetadata {
   const path = resolve("content", "podcasts", podcastId, "metadata.yml");
   const src = readFileSync(path, { encoding: "utf-8" });
-  return decodePodcastMetadata(yaml.load(src));
+  return decodePodcastMetadata(load(src));
 }
 
 /** This is intentionally sync, otherwise our custom tag Markdoc code breaks down somehow */
 export function getAllPodcastEpisodesSync(podcastId: string): Podcast {
   const path = resolve("content", "podcasts", podcastId, "episodes.yml");
   const src = readFileSync(path, { encoding: "utf-8" });
-  return decodePodcast(yaml.load(src));
+  return decodePodcast(load(src));
 }
 
 export function getOverallPodcastEpisodeCountSync(): number {
