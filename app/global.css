@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+/* Colors */
+
 @theme {
   --color-light-gray: #f8f8f8;
   --color-silver: #ddd;
@@ -9,14 +11,23 @@
   --color-plum: #853b36;
 }
 
+/* Typography */
+
 @utility typo-link {
   @apply text-brown;
+}
+
+@utility typo-head1 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 125%;
+  text-wrap: pretty;
 }
 
 body {
   font-family: serif;
   font-size: 19px;
-  line-height: 1.5em;
+  line-height: 145%;
   color: var(--color-off-black);
 }
 

@@ -80,11 +80,7 @@ const Title = ({ article }: { article: Article }) => {
     article.category === "názory a komentáře"
       ? `${article.author}: ${tilde(article.title)}`
       : tilde(article.title);
-  return (
-    <h2 className="text-4xl leading-tight font-bold mb-3 text-balance">
-      {title}
-    </h2>
-  );
+  return <h2 className="typo-head1 mb-3">{title}</h2>;
 };
 
 type InfoBoxProps = {
