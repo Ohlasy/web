@@ -47,7 +47,6 @@ const Page = async () => {
         articles={mostRecentArticles}
         getBanner={getNextBanner}
         aboveFold={true}
-        analyticsId="latest-articles-box"
         authors={authors}
       />
 
@@ -58,7 +57,6 @@ const Page = async () => {
       <PreviewNest
         articles={opinions}
         getBanner={getNextBanner}
-        analyticsId="opinion-box"
         authors={authors}
       />
 
@@ -68,7 +66,6 @@ const Page = async () => {
       <PreviewNest
         articles={podcast}
         getBanner={getNextBanner}
-        analyticsId="podcast-box"
         authors={authors}
       />
 
@@ -79,7 +76,6 @@ const Page = async () => {
       <PreviewNest
         articles={serials}
         getBanner={getNextBanner}
-        analyticsId="serial-box"
         authors={authors}
       />
 
@@ -89,7 +85,6 @@ const Page = async () => {
       <PreviewNest
         articles={archive}
         getBanner={getNextBanner}
-        analyticsId="archive-box"
         authors={authors}
       />
     </div>
