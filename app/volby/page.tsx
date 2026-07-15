@@ -20,7 +20,10 @@ export default async function ElectionPage() {
     .map(stripBody);
   return (
     <div className="flex flex-col gap-7">
-      <h1 className="typo-head1">Komunální volby 2026</h1>
+      <div className="text-center flex flex-col gap-2 my-4">
+        <h1 className="typo-head1">Komunální volby 2026</h1>
+        <h2>9.–10. října 2026</h2>
+      </div>
 
       <ImageCard
         imageUrl="https://i.ohlasy.info/i/c5295800.jpg"
