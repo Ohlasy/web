@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { BannerBox } from "@/components/BannerBox";
+import { FundraisingBox } from "@/components/FundraisingBox";
 import { PreviewNest } from "@/components/PreviewNest";
 import { SectionDivider } from "@/components/SectionDivider";
 import { compareByDate, getAllArticles, type Metadata } from "@/src/article";
@@ -51,7 +52,7 @@ const Page = async () => {
       />
 
       <SectionDivider>podpořte nás</SectionDivider>
-      <FundraisingSecion />
+      <FundraisingBox />
 
       <SectionDivider>názory &amp; komentáře</SectionDivider>
       <PreviewNest
@@ -90,42 +91,6 @@ const Page = async () => {
     </div>
   );
 };
-
-//
-// Fundraising Section
-//
-
-const FundraisingSecion = () => (
-  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-7">
-    <div className="lg:col-span-2">
-      <Image
-        className="lg:col-span-2"
-        src="https://i.ohlasy.info/i/0ef79d75.jpg"
-        sizes="(min-width: 640px) 50vw, 100vw"
-        width={5842}
-        height={3894}
-        alt="Tým Ohlasů"
-      />
-    </div>
-    <div>
-      <iframe
-        title="Darujte"
-        width="100%"
-        height="408"
-        src="https://www.darujme.cz/widget?token=yuz8kfm2xy7lb0rb"
-        name="widget-yuz8kfm2xy7lb0rb"
-        style={{
-          width: "100%",
-          maxWidth: "100%",
-          overflow: "hidden",
-          border: "none",
-          boxShadow: "none",
-          height: "408px",
-        }}
-      />
-    </div>
-  </div>
-);
 
 //
 // Top Articles

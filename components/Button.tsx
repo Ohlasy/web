@@ -29,7 +29,7 @@ export const Button = (props: Props) => {
 
   const styles = clsx(
     // Base shape
-    "block px-4 py-2 rounded-sm shadow-md",
+    "block px-5 py-2 rounded-sm shadow-md",
     // Cursor
     "cursor-pointer disabled:cursor-not-allowed",
     // Colors
