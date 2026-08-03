@@ -38,7 +38,7 @@
     "@types/react-dom": "19.2.3",
     "glob-bin": "^1.1.0",
     "knip": "^6.29.0",
-    "postcss": "^8.5.22",
+    "postcss": "^8.5.23",
     "tailwindcss": "^4.2.1",
     "tsx": "^4.23.1",
     "typescript": "7.0.2"
