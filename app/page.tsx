@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { BannerBox } from "@/components/BannerBox";
 import { FundraisingBox } from "@/components/FundraisingBox";
