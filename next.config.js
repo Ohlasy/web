@@ -2,9 +2,6 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
-  experimental: {
-    useTypeScriptCli: true,
-  },
   logging: {
     fetches: {
       fullUrl: true,
