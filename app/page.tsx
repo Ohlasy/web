@@ -3,10 +3,12 @@ import { BannerBox } from "@/components/BannerBox";
 import { FundraisingBox } from "@/components/FundraisingBox";
 import { PreviewNest } from "@/components/PreviewNest";
 import { SectionDivider } from "@/components/SectionDivider";
+import { ShortsBox } from "@/components/ShortsBox";
 import { compareByDate, getAllArticles, type Metadata } from "@/src/article";
 import { getAllAuthors } from "@/src/data/authors";
 import type { Banner } from "@/src/data/banners";
 import { getAllBanners } from "@/src/data/banners";
+import { getAllShorts } from "@/src/data/shorts";
 import type { TopArticles } from "@/src/data/plausible";
 import { getTopArticles, plausibleEventClass } from "@/src/data/plausible";
 import { RouteTo } from "@/src/routing";
@@ -18,6 +20,7 @@ export const revalidate = 300;
 /** Home page */
 const Page = async () => {
   const banners = await getAllBanners().then(shuffleInPlace);
+  const shorts = await getAllShorts();
   const topArticles = await getTopArticles();
   const articles = getAllArticles("content/articles").sort(compareByDate);
   const authors = await getAllAuthors();
@@ -49,6 +52,9 @@ const Page = async () => {
         aboveFold={true}
         authors={authors}
       />
+
+      <SectionDivider>krátce</SectionDivider>
+      <ShortsBox shorts={shorts} />
 
       <SectionDivider>podpořte nás</SectionDivider>
       <FundraisingBox />
