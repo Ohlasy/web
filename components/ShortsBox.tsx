@@ -6,7 +6,7 @@ export type ShortsBoxProps = {
 
 export const ShortsBox = ({ shorts }: ShortsBoxProps) => {
   return (
-    <div className="flex gap-4 overflow-x-auto snap-x snap-mandatory -mx-4 px-4 pb-7 -mb-4 scroll-px-4">
+    <div className="flex gap-4 overflow-x-auto snap-x snap-mandatory px-4 scrollbar-none">
       {shorts.map((video) => (
         <div
           key={video.id}
