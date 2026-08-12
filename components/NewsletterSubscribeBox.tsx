@@ -10,7 +10,7 @@ export const NewsletterSubscribeBox = () => {
   const { state, subscribe } = useNewsletterSubscription();
   const handleSubmit = async (event: React.SyntheticEvent) => {
     event.preventDefault();
-    subscribe(email, true);
+    subscribe({ email });
   };
   return (
     <FullWidthCard>

@@ -9,7 +9,7 @@ export const NewsletterBox = () => {
   const { state, subscribe } = useNewsletterSubscription();
   const handleSubmit = async (event: React.SyntheticEvent) => {
     event.preventDefault();
-    subscribe(email, true);
+    subscribe({ email });
   };
   return (
     <div className="flex flex-col gap-2">

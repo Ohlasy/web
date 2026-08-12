@@ -1,11 +1,12 @@
 import { WebClient } from "@slack/web-api";
 import type { NextRequest } from "next/server";
-import { record, string } from "typescript-json-decoder";
+import { optional, record, string } from "typescript-json-decoder";
 import { looksLikeBotEmail } from "@/src/utils";
 
 export async function POST(request: NextRequest): Promise<Response> {
   const decodeBody = record({
     email: string,
+    context: optional(string),
   });
   const body = await request
     .json()
@@ -30,7 +31,7 @@ export async function POST(request: NextRequest): Promise<Response> {
   const response = await slackClient.chat
     .postMessage({
       channel: "CNV9CHDUH",
-      text: `Máme nového zájemce nebo zájemkyni o odběr newsletteru 🎉 Adresa je ${body.email}, zadejte ji někdo prosím <https://newsletter.ohlasy.info/publish/subscribers|do Substacku> a označte tohle vlákno za vyřešené. Díky! 👋`,
+      text: `Máme nového zájemce nebo zájemkyni o odběr newsletteru 🎉 Adresa je ${body.email}, kontext ${body.context ?? "žádný"}, zadejte ji někdo prosím <https://newsletter.ohlasy.info/publish/subscribers|do Substacku> a označte tohle vlákno za vyřešené. Díky! 👋`,
     })
     .catch((_) => null);
   return response?.ok
