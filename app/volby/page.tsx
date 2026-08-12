@@ -1,14 +1,18 @@
+import type { Metadata } from "next";
 import Image from "next/image";
-import type { ReactNode } from "react";
-import { Button } from "@/components/Button";
 import { FundraisingBox } from "@/components/FundraisingBox";
 import { SectionDivider } from "@/components/SectionDivider";
 import { SmallArticlePreview } from "@/components/SmallArticlePreview";
 import { getAllArticles, stripBody } from "@/src/article";
+import { getResizedImageUrl } from "@/src/utils";
 
-const previousElectionPlaylistUrl =
-  "https://www.youtube.com/watch?v=ADXHH4XAHN8&list=PLPvYKKWRSI7nAl7usr46TbUZ1_3lNyxnI";
-const previousElectionDebateUrl = "https://www.youtube.com/watch?v=KwIXt-nOF6w";
+export const metadata: Metadata = {
+  title: "Komunální volby 2026",
+  description: "Všechny důležité informace na jednom místě",
+  openGraph: {
+    images: getResizedImageUrl("https://i.ohlasy.info/i/369e00cb.jpeg", 1920),
+  },
+};
 
 export default async function ElectionPage() {
   const electionArticles = getAllArticles("content/articles")
@@ -20,54 +24,20 @@ export default async function ElectionPage() {
     .map(stripBody);
   return (
     <div className="flex flex-col gap-7">
-      <div className="text-center flex flex-col gap-2 my-4">
-        <h1 className="typo-head1">Komunální volby 2026</h1>
-        <h2>9.–10. října 2026</h2>
-      </div>
-
-      <ImageCard
-        imageUrl="https://i.ohlasy.info/i/c5295800.jpg"
-        imageWidth={1734}
-        imageHeight={977}
-      >
-        <h2 className="typo-head1">Chystáme: Volební rozhovory</h2>
-        <p className="max-w-prose m-auto text-balance">
-          Stavíme pro vás natáčecí studio a přineseme vám videorozhovory s lídry
-          a lídryněmi všech kandidátek. Můžete se na ně těšit v první polovině
-          září.
-        </p>
-        <div className="flex flex-row justify-center mt-4">
-          <Button
-            href={previousElectionPlaylistUrl}
-            text="Jak to vypadalo minule?"
-            target="_blank"
-          />
-        </div>
-      </ImageCard>
-
-      <ImageCard
-        imageUrl="https://i.ohlasy.info/i/7d1284c9.jpg"
-        imageWidth={1734}
-        imageHeight={977}
-      >
-        <h2 className="typo-head1">Chystáme: Předvolební debata</h2>
-        <p className="max-w-prose m-auto text-balance">
-          Stejně jako minule se můžete těšit i na živou debatu kandidátů a
-          kandidátek na starost(k)u, kterou uspořádáme v posledních týdnech před
-          volbami.
-        </p>
-        <div className="flex flex-row justify-center mt-4">
-          <Button
-            href={previousElectionDebateUrl}
-            text="Jak to vypadalo minule?"
-            target="_blank"
-          />
-        </div>
-      </ImageCard>
+      <HeroCard />
+      <InterviewsCard />
 
       <div>
         <SectionDivider>Hoďte to taky nám</SectionDivider>
-        <FundraisingBox />
+        <FundraisingBox
+          widgetToken="5cfak3j2zmvvsxns"
+          imagePreset={{
+            url: "https://i.ohlasy.info/i/fbe74bd1.jpeg",
+            alt: "Momentka z natáčení minulých voleb",
+            width: 4032,
+            height: 3024,
+          }}
+        />
       </div>
 
       <div>
@@ -82,30 +52,36 @@ export default async function ElectionPage() {
   );
 }
 
-type ImageCardProps = {
-  imageUrl: string;
-  imageWidth: number;
-  imageHeight: number;
-  children: ReactNode;
-};
-
-const ImageCard = ({
-  imageUrl,
-  imageWidth,
-  imageHeight,
-  children,
-}: ImageCardProps) => (
-  <div className="relative overflow-hidden">
+const HeroCard = () => (
+  <div className="relative w-full aspect-4/3 sm:aspect-2/1 md:aspect-3/1 overflow-hidden rounded-lg">
     <Image
-      alt=""
-      className="absolute w-full h-full blur-md object-cover brightness-80"
-      sizes="(min-width: 640px) 1096px, 100vw"
-      src={imageUrl}
-      width={imageWidth}
-      height={imageHeight}
+      src="https://i.ohlasy.info/i/369e00cb.jpeg"
+      alt="Komunální volby 2026"
+      fill
+      priority
+      sizes="100vw"
+      className="object-cover"
     />
-    <div className="relative p-10 pb-15 lg:pt-40 lg:pb-50 flex flex-col gap-4 text-white text-center">
-      {children}
+    <div className="absolute inset-0 bg-linear-to-t from-black/70 via-black/40 to-black/20" />
+    <div className="absolute inset-0 flex flex-col justify-end md:justify-center gap-2 p-5 sm:p-6 md:p-10 text-white">
+      <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold">
+        Komunální volby 2026
+      </h1>
+      <p className="text-sm sm:text-base md:text-xl max-w-prose">
+        Všechny důležité informace na jednom místě
+      </p>
     </div>
+  </div>
+);
+
+const InterviewsCard = () => (
+  <div className="rounded-lg bg-plum px-6 py-10 md:px-10 md:py-16 text-white">
+    <h2 className="text-xl md:text-2xl font-bold">
+      Chystáme: Volební rozhovory
+    </h2>
+    <p className="mt-2 text-base md:text-lg max-w-prose">
+      Stavíme pro vás natáčecí studio a přineseme vám videorozhovory s lídry
+      a lídryněmi všech kandidátek. Můžete se na ně těšit v první polovině září.
+    </p>
   </div>
 );
