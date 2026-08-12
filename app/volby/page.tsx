@@ -5,6 +5,7 @@ import { SectionDivider } from "@/components/SectionDivider";
 import { SmallArticlePreview } from "@/components/SmallArticlePreview";
 import { getAllArticles, stripBody } from "@/src/article";
 import { getResizedImageUrl } from "@/src/utils";
+import { SignUpForm } from "./SignUpForm";
 
 export const metadata: Metadata = {
   title: "Komunální volby 2026",
@@ -75,13 +76,17 @@ const HeroCard = () => (
 );
 
 const InterviewsCard = () => (
-  <div className="rounded-lg bg-plum px-6 py-10 md:px-10 md:py-16 text-white">
-    <h2 className="text-xl md:text-2xl font-bold">
-      Chystáme: Volební rozhovory
-    </h2>
-    <p className="mt-2 text-base md:text-lg max-w-prose">
-      Stavíme pro vás natáčecí studio a přineseme vám videorozhovory s lídry
-      a lídryněmi všech kandidátek. Můžete se na ně těšit v první polovině září.
-    </p>
+  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-7">
+    <SignUpForm />
+    <div className="lg:col-span-2">
+      <Image
+        className="lg:col-span-2 h-full object-cover"
+        src="https://i.ohlasy.info/i/c21066c0.jpg"
+        sizes="(min-width: 640px) 50vw, 100vw"
+        width={1734}
+        height={977}
+        alt="Natáčecí studio z minulých voleb"
+      />
+    </div>
   </div>
 );
