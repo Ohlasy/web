@@ -65,10 +65,8 @@ const HeroCard = () => (
     />
     <div className="absolute inset-0 bg-linear-to-t from-black/70 via-black/40 to-black/20" />
     <div className="absolute inset-0 flex flex-col justify-end md:justify-center gap-2 p-5 sm:p-6 md:p-10 text-white">
-      <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold">
-        Komunální volby 2026
-      </h1>
-      <p className="text-sm sm:text-base md:text-xl max-w-prose">
+      <h1 className="text-3xl md:text-4xl font-bold">Komunální volby 2026</h1>
+      <p className="md:text-xl max-w-prose">
         Všechny důležité informace na jednom místě
       </p>
     </div>
