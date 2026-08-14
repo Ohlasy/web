@@ -33,7 +33,6 @@ export function getFilesRecursively(dir: string): string[] {
  * TBD: Could we introduce a better URL format and use a permanent redirect for
  * the old URLs?
  */
-
 export function getUrlPathFragmentsForFileSystemPath(path: string): string[] {
   const [date, slug] = parsePath(path);
   const year = date.getFullYear();
@@ -68,7 +67,12 @@ export function getFileSystemPathForUrlPathFragments(
     // strip leading zero
     (+month).toString(),
   );
-  return getFilesRecursively(folder).find((path) =>
-    path.endsWith(`${nakedSlug}.md`),
-  );
+  return getFilesRecursively(folder).find((path) => {
+    try {
+      const [, slug] = parsePath(path);
+      return slug === nakedSlug;
+    } catch {
+      return false;
+    }
+  });
 }
