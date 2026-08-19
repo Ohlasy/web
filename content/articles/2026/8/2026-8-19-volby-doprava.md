@@ -88,7 +88,7 @@ Tyto cíle jsou během volebního období 2026–2030 reálně dosažitelné dí
 
 Za svou hlavní prioritu považuji vybudování bezpečného dopravního propojení pro pěší a cyklisty mezi jednotlivými částmi města, včetně úpravy rizikových přechodů a křižovatek. Tento projekt přinese větší bezpečnost dětem při cestě do škol Štefánikova, Sušilova, Slovákova, seniorům i všem obyvatelům, kteří se po městě pohybují pěšky nebo na kole. Kvalitní dopravní infrastruktura není jen otázkou komfortu, ale především kvality života a bezpečnosti všech občanů Boskovic.
 
-{% profile_photo src="https://i.imgur.com/S25k0hE" name="Barbora Sedláčková" /%}
+{% profile_photo src="https://i.imgur.com/5vqxxze.jpeg" name="Barbora Sedláčková" /%}
 
 ### Barbora Sedláčková (lidovci)
 
