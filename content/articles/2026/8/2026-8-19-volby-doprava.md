@@ -110,7 +110,7 @@ Z hlediska bezpečnosti chodců, zejména našich dětí, je pro nás důležit�
 
 Každé ráno vidíme, že dopravu u přechodů pro chodce, kudy chodí žáci a studenti, řídí příslušníci Městské policie i Policie ČR. Myslíme si, jejich hlavním úkolem je udržovat pořádek ve městě. Policisty na přechodech mohou nahradit jednak světelné semafory a nebo také dobrovolníci z řad boskovických seniorů, tak jak je zvykem v okolních zemích.
 
-{% profile_photo src="https://i.imgur.com/zQBHyrf" name="Jiří Pevný" /%}
+{% profile_photo src="https://i.imgur.com/CulkQMg.jpeg" name="Jiří Pevný" /%}
 
 ### Jiří Pevný (Boskováci s podporou Starostů a Sociální demokracie)
 
