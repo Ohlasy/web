@@ -10,7 +10,7 @@ tags:
 
 *Před komunálními volbami jsme připravili tématickou anketu, ve které zástupci jednotlivých kandidátek vysvětlují své priority v oblasti, která je jim blízká. Dnes publikujeme téma sport, odpovídají Čestmír Sekanina, Vladimír Petrů, Vlastimil Slaný, Pavel Odehnal, Michal Knödl, Petr Krejčíř a Jindřich Mládek.*
 
-{% photo src="https://i.ohlasy.info/i/eb444d4b.jpg" caption="Vizualizace budoucí sportovní haly v Červené zahradě" author="Desk Architekti" width="4000" height="2667" /%}
+{% photo src="https://i.ohlasy.info/i/eb444d4b.jpg" caption="Vizualizace budoucí sportovní haly v Červené zahradě" author="Desk Architekti" width=4000 height=2667 /%}
 
 **Jaké hlavní priority máte v oblasti sportu a proč? Jak konkrétně je podle vás reálné je naplnit během volebního období 2026–2030? Můžete jmenovat jeden projekt, který pokládáte za prioritní a chtěli byste ho prosadit?**
 
