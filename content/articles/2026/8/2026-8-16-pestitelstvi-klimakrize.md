@@ -7,7 +7,7 @@ category: zpravodajství
 
 *Na to, že nám kvůli mírné zimě předčasně rozkvetou a následně zmrznou meruňky, jsme si už zvykli. Že se nedá spolehnout na bouřkové mraky valící se od Svitav, ze kterých někdy ani nezaprší a jindy způsobí lokální záplavu. Jak se ale vypořádat s měsíci trvajícím suchem a teplotami, které ani v noci neklesnou pod 20 stupňů? Letní vedra tenčí zásoby v nádržích i v půdě, překáží nám při práci a naopak vytváří ideální konstelaci pro škůdce. Dá se v takových podmínkách ještě vůbec pěstovat tradiční ovoce a zelenina, které si s chutí dáváme do buchet a do zavařenin, nebo si budeme ve Valchově pěstovat místo brambor melouny?*
 
-{% photo src="https://i.ohlasy.info/i/337b117c.jpg" caption="Kombajn v poli" author="Tomáš Znamenáček" width=4032 height=3024 /%}
+{% photo src="https://i.ohlasy.info/i/337b117c.jpg" caption="Kombajn v prašném poli na jižní Moravě" author="Tomáš Znamenáček" width=4032 height=3024 /%}
 
 Od poloviny června letos zažíváme rekordní vedra a sucho. Na poplach bijí nejen ochránci přírody, reálné a citelné dopady už nyní vidíme v zemědělství, ovocnářství, lesnictví, zkrátka všude tam, kde k produkci potřebujeme vláhu. Zásadní dopad bude mít letošní počasí na úrodu – například podle prvních odhadů sklizně základních obilovin budou výnosy řádově nižší než v loňském roce – o cca 17 procent méně, z hlediska pětiletého průměru je odhad o 13 procent nižší. Ačkoliv Česku nehrozí nedostatek obilovin díky loňské nadprůměrné úrodě, letošní rok je z hlediska sklizně obilovin nejhorší za posledních 14 let, u řepky dokonce za 21 let.
 
@@ -25,7 +25,7 @@ Průvodním jevem, který si možná ihned nespojíme s nárůstem průměrných
 
 Podobné zkušenosti mají i na statku v Útěchově. „Všichni chápou, že je sucho a musí se zalévat, ale tohle počasí je rájem pro nové typy škůdců. Škůdci můžou tlačit mnohem víc na plodiny, na které jsme tradičně zvyklí. Dřepčíci nám kompletně zničili záhony, třeba tři až čtyři stovky květáků, a to jsou nepřímé škody počasí. Právě košťáloviny, zejména pak květáky, brokolice, různé hlávkový zelí, se bez chemického ošetření pěstují velmi obtížně. Lze použít různé netkané textilie nebo sítě proti hmyzu, ale to zatím nemáme,” představuje David Procházka rozsah škod.
 
-{% photo src="https://i.ohlasy.info/i/e8008362.jpg" caption="Strom v poli" author="Tomáš Znamenáček" width=4032 height=3024 /%}
+{% photo src="https://i.ohlasy.info/i/e8008362.jpg" caption="Strom v poli na jižní Moravě" author="Tomáš Znamenáček" width=4032 height=3024 /%}
 
 ### Rostliny vadnou, nemáme čím zalévat
 

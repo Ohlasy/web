@@ -2,7 +2,7 @@
 title: "Programová anketa: DOPRAVA"
 cover-photo: https://i.ohlasy.info/i/93d160f8.jpg
 author: Tomáš Trumpeš
-category: zpravodajství
+category: ankety
 tags:
   - komunální volby 2026
   - NFNZ 2026
@@ -10,11 +10,11 @@ tags:
 
 *Před komunálními volbami jsme připravili tématickou anketu, ve které zástupci jednotlivých kandidátek vysvětlují své priority v oblasti, která je jim blízká. Dnes publikujeme téma doprava, odpovídají Vladimír Farský, Vladimír Klement, Antonín Klíč, Richard Kříž, Barbora Sedláčková, Pavel Koudelka a Jiří Pevný.*
 
-{% photo src="https://i.ohlasy.info/i/93d160f8.jpg" caption="Vizualizace okružní křižovatky u pošty" author="DHV PRO" width=1011 height=659 /%}
+{% photo src="https://i.ohlasy.info/i/93d160f8.jpg" caption="Vizualizace okružní křižovatky u pošty" author="DHV PRO" width=5000 height=2791 /%}
 
 **Jaké hlavní priority máte v oblasti dopravy a proč? Jak konkrétně je podle vás reálné je naplnit během volebního období 2026–2030? Můžete jmenovat jeden projekt, který pokládáte za prioritní a chtěli byste ho prosadit?**
 
-{% profile_photo src="https://i.imgur.com/Nel7DoN.jpeg" name="Vladimír Farský" /%}
+{% profile_photo src="https://i.ohlasy.info/i/61c58082.jpeg" name="Vladimír Farský" /%}
 
 ### Vladimír Farský (ANO Naše Boskovice) 
 
@@ -30,7 +30,7 @@ Při řešení dopravy v jednotlivých lokalitách budu důsledně vycházet ze 
 
 Pokud jde o jeden prioritní projekt, je to pro mě jednoznačně křižovatka pod poštou. Půjde o společnou investici města a Jihomoravského kraje. Tím, že jsme před čtyřmi lety upustili od výstavby okružní křižovatky, podařilo se ušetřit přibližně 35 milionů korun. Věřím, že se nám v příštím volebním období podaří znovu získat potřebnou dotaci a tuto dlouho očekávanou přestavbu konečně zrealizovat.
 
-{% profile_photo src="https://i.imgur.com/WKXKjaY.jpeg" name="Vladimír Klement" /%}
+{% profile_photo src="https://i.ohlasy.info/i/ac53cb83.jpeg" name="Vladimír Klement" /%}
 
 ### Vladimír Klement (Kopeme za Boskovice)
 
@@ -50,7 +50,7 @@ Stejně důležité je vrátit se k projektům, které už byly v minulosti při
 
 Naším cílem není řidiče omezovat. Chceme, aby se po Boskovicích dalo pohybovat bezpečněji, plynuleji a s menším stresem. Dobře nastavená doprava totiž prospívá všem – obyvatelům, podnikatelům i návštěvníkům města.
 
-{% profile_photo src="https://i.imgur.com/Mq8yGeo.jpeg" name="Antonín Klíč" /%}
+{% profile_photo src="https://i.ohlasy.info/i/40ce300c.jpeg" name="Antonín Klíč" /%}
 
 ### Antonín Klíč (Změna22)
 
@@ -63,22 +63,17 @@ Důležité je, že neřešíme jen auta. Město spustilo Senior dopravu pro sta
 V období 2026–2030 chceme tyto kroky posunout dál. Prioritami jsou:
 
 1. přestavba křižovatky pod poštou
-
 2. rekonstrukce Lidické a navazujícího úseku Komenského – Kapitána Jaroše
-
 3. zřízení cyklopruhů tam, kde to prostorově i bezpečnostně dává smysl
-
 4. dokončení cyklostezky Boskovice–Mladkov–Svitávka a zahájení přípravy trasy Boskovice–Hrádkov–Vratíkov
-
 5. pokračování v propojování a budování pěších tras po městě, například po vzoru propojení pod letním kinem směrem do Červené zahrady
-
 6. příprava parkování v centru: projektová příprava parkovacího domu v ulici Nádražní, úprava parkoviště na 17\. listopadu a vytipování další lokality pro parkovací dům v blízkosti centra.
 
 Pěší trasy nám stále chybějí například v okolí židovského hřbitova. Budeme se také snažit prosadit vybudování štěrkové pěší trasy podél přehrady na Melkov, která by nabídla bezpečné a příjemné propojení pro pěší.
 
 Za nejdůležitější projekt považuji přestavbu křižovatky pod poštou. Je to místo, kde se potkává pěší, školní, autobusová i automobilová doprava. Pokud uspějeme právě tady, zlepšíme bezpečnost i plynulost v širším centru města. Reálnost vidím v etapizaci: kvalitní projektová příprava, dohoda s dotčenými institucemi, aktivní práce s dotačními tituly a otevřená komunikace s veřejností před zahájením stavby.
 
-{% profile_photo src="https://i.imgur.com/SaSfRJM.jpeg" name="Richard Kříž" /%}
+{% profile_photo src="https://i.ohlasy.info/i/2da688a1.jpeg" name="Richard Kříž" /%}
 
 ### Richard Kříž (Srdce pro Boskovice)
 
@@ -88,7 +83,7 @@ Tyto cíle jsou během volebního období 2026–2030 reálně dosažitelné dí
 
 Za svou hlavní prioritu považuji vybudování bezpečného dopravního propojení pro pěší a cyklisty mezi jednotlivými částmi města, včetně úpravy rizikových přechodů a křižovatek. Tento projekt přinese větší bezpečnost dětem při cestě do škol Štefánikova, Sušilova, Slovákova, seniorům i všem obyvatelům, kteří se po městě pohybují pěšky nebo na kole. Kvalitní dopravní infrastruktura není jen otázkou komfortu, ale především kvality života a bezpečnosti všech občanů Boskovic.
 
-{% profile_photo src="https://i.imgur.com/5vqxxze.jpeg" name="Barbora Sedláčková" /%}
+{% profile_photo src="https://i.ohlasy.info/i/ffc821ac.jpeg" name="Barbora Sedláčková" /%}
 
 ### Barbora Sedláčková (lidovci)
 
@@ -96,7 +91,7 @@ Oblast dopravy je velmi důležitá. Většina lidí využívá automobilové do
 
 Nadčasovou prioritou je výstavba a rychlé zahájení I. etapy I/73. Tento dlouhodobý projekt nepřinese své ovoce mávnutím proutku, ale je důležitý i pro Boskovice. Odvede se tím doprava ve směru Jevíčko z území města. Dalším stěžejním bodem je oprava krajských silnic v katastrálním území města a sloučených obcích. V rámci volebního období jsme schopni připravit a zrealizovat dílčí projekty. Zjišťovali jsme si u občanů, co je trápí, a jedna z často opakovaných potřeb bylo zmíněno parkování. Projekty na rozšíření či úpravu stávajících parkovacích stání jsme schopni zrealizovat. Větším projektem je parkovací dům. Reálně můžeme mluvit o posunutí přípravy tohoto velkého projektu. Menší prioritou s velkou důležitostí je také například oprava železniční stanice tak, aby vyhovovala cestujícím a jejich potřebám. Zde se již malé kroky posunuly, například zpřístupnění toalet, a to díky senátorce Vítkové a jejím intervencím. Další plány jsou ve smyslu bezbariérového přístupu do vagonů a celkový stav nástupiště, které je tvořeno nezpevněnou plochou. Důležitá je také příprava a realizace bezpečného propojení Boskovic ve směru Rájec-Jestřebí a Blansko. Neméně důležitá je také efektivní a dostupná veřejná doprava, oprava chodníků a další. Postupně bychom chtěli prosadit samozřejmě vše, protože jsou věci, které spolu souvisí a navazují na sebe.
 
-{% profile_photo src="https://i.imgur.com/cdMGXwx.jpeg" name="Pavel Koudelka" /%}
+{% profile_photo src="https://i.ohlasy.info/i/81874251.jpeg" name="Pavel Koudelka" /%}
 
 ### Pavel Koudelka (SPD)
 
@@ -110,7 +105,7 @@ Z hlediska bezpečnosti chodců, zejména našich dětí, je pro nás důležit�
 
 Každé ráno vidíme, že dopravu u přechodů pro chodce, kudy chodí žáci a studenti, řídí příslušníci Městské policie i Policie ČR. Myslíme si, jejich hlavním úkolem je udržovat pořádek ve městě. Policisty na přechodech mohou nahradit jednak světelné semafory a nebo také dobrovolníci z řad boskovických seniorů, tak jak je zvykem v okolních zemích.
 
-{% profile_photo src="https://i.imgur.com/CulkQMg.jpeg" name="Jiří Pevný" /%}
+{% profile_photo src="https://i.ohlasy.info/i/77c6d973.jpeg" name="Jiří Pevný" /%}
 
 ### Jiří Pevný (Boskováci s podporou Starostů a Sociální demokracie)
 

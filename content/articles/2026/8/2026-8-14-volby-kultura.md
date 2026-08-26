@@ -2,7 +2,7 @@
 title: "Programová anketa: KULTURA"
 cover-photo: https://i.ohlasy.info/i/11c62d95.jpg
 author: Tomáš Trumpeš
-category: zpravodajství
+category: ankety
 tags:
   - komunální volby 2026
   - NFNZ 2026
