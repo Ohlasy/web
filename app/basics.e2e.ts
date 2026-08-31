@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test("Basic sanity tests", async ({ page }) => {
   await page.goto("/");
@@ -12,10 +12,10 @@ test("Not found page", async ({ page }) => {
 
 test("Fundraising shortcut #1", async ({ page }) => {
   await page.goto("/darujte");
-  await expect(page).toHaveTitle(/Provoz regionálních novin Ohlasy/);
+  await expect(page).toHaveTitle(/Hoďte to taky nám/);
 });
 
 test("Fundraising shortcut #2", async ({ page }) => {
   await page.goto("/darujme");
-  await expect(page).toHaveTitle(/Provoz regionálních novin Ohlasy/);
+  await expect(page).toHaveTitle(/Hoďte to taky nám/);
 });
