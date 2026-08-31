@@ -58,13 +58,13 @@ const nextConfig = {
       {
         /** Fundraising shortcut */
         source: "/darujte/",
-        destination: "https://www.darujme.cz/projekt/1202392",
+        destination: "https://www.darujme.cz/darovat/1213575",
         permanent: false,
       },
       {
         /** Fundraising shortcut */
         source: "/darujme/",
-        destination: "https://www.darujme.cz/projekt/1202392",
+        destination: "https://www.darujme.cz/darovat/1213575",
         permanent: false,
       },
       {
