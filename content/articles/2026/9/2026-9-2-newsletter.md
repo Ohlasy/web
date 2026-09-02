@@ -1,13 +1,13 @@
 ---
 title: Ohlasy srpna
-cover-photo: https://i.ohlasy.info/i/75a051a8.heic
+cover-photo: https://i.ohlasy.info/i/17fc4b1c.jpg
 author: Tomáš Trumpeš
 category: newsletter
 ---
 
 *Vážené čtenářky a vážení čtenáři Ohlasů, máte před sebou další shrnutí boskovického dění v pravidelném e-mailu. Tentokrát se bude jednat o poněkud speciální podobu newsletteru – v Ohlasech nás totiž už naplno zaměstnávají komunální volby, které se uskuteční v pátek 9\. a v sobotu 10\. října.*
 
-{% photo src="https://i.ohlasy.info/i/75a051a8.heic" caption="Štáb Ohlasů po natočení posledního rozhovoru a uklizení studia" author="Tomáš Trumpeš" width=4032 height=3024 /%}
+{% photo src="https://i.ohlasy.info/i/17fc4b1c.jpg" caption="Štáb Ohlasů po natočení posledního rozhovoru a uklizení studia" author="Tomáš Trumpeš" width=4032 height=3024 /%}
 
 Na konci srpna jsme kompletně natočili videorozhovory s lídryněmi a lídry všech sedmi politických uskupení, která v Boskovicích kandidují. Zveřejníme je začátkem příštího týdne. Nyní probíhá horečnatá práce ve střižně. Celé natáčení je pro nás mimořádně náročná práce a stojí nás spolu s přípravou a postprodukcí neskutečné množství času. A peněz. Jsme vděční za podporu Nadačnímu fondu nezávislé žurnalistiky a firmě LD Seating, ale náš letošní rozpočet je popravdě momentálně výrazně ztrátový, a proto potřebujeme vaši pomoc. Tentokrát tedy obzvlášť naléhavě prosíme o vaši finanční podporu tohoto jedinečného předvolebního zpravodajství, [darovat můžete tady](http://www.ohlasy.info/darujte).
 
