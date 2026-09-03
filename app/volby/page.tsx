@@ -41,8 +41,8 @@ export default async function ElectionPage() {
         <FundraisingBox
           widgetToken="5cfak3j2zmvvsxns"
           imagePreset={{
-            url: "https://i.ohlasy.info/i/fbe74bd1.jpeg",
-            alt: "Momentka z natáčení minulých voleb",
+            url: "https://i.ohlasy.info/i/17fc4b1c.jpg",
+            alt: "Momentka z natáčení",
             width: 4032,
             height: 3024,
           }}
@@ -96,10 +96,10 @@ const InterviewsCard = () => (
     <div className="lg:col-span-2">
       <Image
         className="lg:col-span-2 h-full object-cover"
-        src="https://i.ohlasy.info/i/c21066c0.jpg"
+        src="https://i.ohlasy.info/i/58470cc9.jpg"
         sizes="(min-width: 640px) 50vw, 100vw"
-        width={1734}
-        height={977}
+        width={6240}
+        height={4160}
         alt="Natáčecí studio z minulých voleb"
       />
     </div>
