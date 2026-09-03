@@ -3,7 +3,11 @@ import Image from "next/image";
 import { FundraisingBox } from "@/components/FundraisingBox";
 import { SectionDivider } from "@/components/SectionDivider";
 import { SmallArticlePreview } from "@/components/SmallArticlePreview";
-import { getAllArticles, stripBody } from "@/src/article";
+import {
+  type Metadata as ArticleMetadata,
+  getAllArticles,
+  stripBody,
+} from "@/src/article";
 import { getResizedImageUrl } from "@/src/utils";
 import { SignUpForm } from "./SignUpForm";
 
@@ -16,13 +20,17 @@ export const metadata: Metadata = {
 };
 
 export default async function ElectionPage() {
-  const electionArticles = getAllArticles("content/articles")
+  const articles = getAllArticles("content/articles")
     // Only take election articles
     .filter(({ tags }) => tags.includes("komunální volby 2026"))
     // In reverse chronological order
     .reverse()
     // Without article body
     .map(stripBody);
+  const isProgrammePoll = (a: ArticleMetadata) =>
+    a.title.includes("Programová anketa");
+  const pollArticles = articles.filter(isProgrammePoll);
+  const otherArticles = articles.filter((a) => !isProgrammePoll(a));
   return (
     <div className="flex flex-col gap-7">
       <HeroCard />
@@ -42,9 +50,18 @@ export default async function ElectionPage() {
       </div>
 
       <div>
+        <SectionDivider>Programy stran</SectionDivider>
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-7">
+          {pollArticles.map((article) => (
+            <SmallArticlePreview key={article.title} article={article} />
+          ))}
+        </div>
+      </div>
+
+      <div>
         <SectionDivider>Napsali a natočili jsme o volbách</SectionDivider>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-7">
-          {electionArticles.map((article) => (
+          {otherArticles.map((article) => (
             <SmallArticlePreview key={article.title} article={article} />
           ))}
         </div>
