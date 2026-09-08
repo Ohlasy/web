@@ -9,7 +9,6 @@ import {
   stripBody,
 } from "@/src/article";
 import { getResizedImageUrl } from "@/src/utils";
-import { SignUpForm } from "./SignUpForm";
 
 export const metadata: Metadata = {
   title: "Komunální volby 2026",
@@ -18,6 +17,21 @@ export const metadata: Metadata = {
     images: getResizedImageUrl("https://i.ohlasy.info/i/369e00cb.jpeg", 1920),
   },
 };
+
+type Interview = {
+  videoId: string;
+  title: string;
+};
+
+const interviewIds: Interview[] = [
+  { videoId: "sBOe7mc_V6s", title: "Lukáš Holík, ANO Naše Boskovice" },
+  { videoId: "pz6bczpIcDA", title: "Jana Syrovátková, Změna22" },
+  { videoId: "liLDyilbhmo", title: "Radek Stříž, Kopeme za Boskovice" },
+  { videoId: "b5YuUACNqQ8", title: "Jaromíra Vítková, Lidovci" },
+  { videoId: "MnPCqlTCzqY", title: "Petr Malach, Srdce pro Boskovice" },
+  { videoId: "tm_zYVTHpKQ", title: "Karel Trefný, SPD" },
+  { videoId: "1fbOcqZZiBU", title: "Michal Staněk, Boskováci" },
+];
 
 export default async function ElectionPage() {
   const articles = getAllArticles("content/articles")
@@ -34,7 +48,15 @@ export default async function ElectionPage() {
   return (
     <div className="flex flex-col gap-7">
       <HeroCard />
-      <InterviewsCard />
+
+      <div>
+        <SectionDivider>Předvolební rozhovory</SectionDivider>
+        <div className="grid md:grid-cols-2 gap-7">
+          {interviewIds.map((i) => (
+            <InterviewCard key={i.videoId} interview={i} />
+          ))}
+        </div>
+      </div>
 
       <div>
         <SectionDivider>Hoďte to taky nám</SectionDivider>
@@ -71,7 +93,7 @@ export default async function ElectionPage() {
 }
 
 const HeroCard = () => (
-  <div className="relative w-full aspect-4/3 sm:aspect-2/1 md:aspect-3/1 overflow-hidden rounded-lg">
+  <div className="relative w-full aspect-4/3 sm:aspect-2/1 md:aspect-3/1 overflow-hidden rounded-lg -mb-7">
     <Image
       src="https://i.ohlasy.info/i/369e00cb.jpeg"
       alt="Komunální volby 2026"
@@ -90,18 +112,19 @@ const HeroCard = () => (
   </div>
 );
 
-const InterviewsCard = () => (
-  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-7">
-    <SignUpForm />
-    <div className="lg:col-span-2">
-      <Image
-        className="lg:col-span-2 h-full object-cover"
-        src="https://i.ohlasy.info/i/58470cc9.jpg"
-        sizes="(min-width: 640px) 50vw, 100vw"
-        width={6240}
-        height={4160}
-        alt="Natáčecí studio z minulých voleb"
-      />
+const InterviewCard = ({ interview }: { interview: Interview }) => {
+  const embedUrl = new URL(
+    `https://www.youtube-nocookie.com/embed/${interview.videoId}`,
+  );
+  return (
+    <div className="bg-light-gray">
+      <iframe
+        className="w-full aspect-video"
+        src={embedUrl.toString()}
+        title={interview.title}
+        allow="gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
     </div>
-  </div>
-);
+  );
+};
