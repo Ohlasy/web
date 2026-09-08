@@ -88,6 +88,27 @@ export default async function ElectionPage() {
           ))}
         </div>
       </div>
+
+      <div className="flex flex-col gap-4 text-center">
+        <SectionDivider>Autorstvo</SectionDivider>
+        <p className="max-w-prose m-auto text-balance">
+          Volební rozhovory pro vás připravili Tomáš Trumpeš (
+          <i>obsah, moderování</i>), Tomáš Znamenáček (
+          <i>kamera, zvuk, střih</i>), Oto Matal (<i>kamery</i>), Magda
+          Znamenáčková (<i>střih</i>) a Kristina Studená (<i>fundraising</i>)).
+        </p>
+        <p className="max-w-prose m-auto text-balance">
+          Na pokrytí boskovických komunálních voleb přispěli{" "}
+          <a href="https://www.nfnz.cz" className="typo-link">
+            Nadační fond nezávislé žurnalistiky
+          </a>{" "}
+          a firma{" "}
+          <a href="https://ldseating.com" className="typo-link">
+            LD Seating
+          </a>
+          .
+        </p>
+      </div>
     </div>
   );
 }
