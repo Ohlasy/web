@@ -95,7 +95,7 @@ export default async function ElectionPage() {
           Volební rozhovory pro vás připravili Tomáš Trumpeš (
           <i>obsah, moderování</i>), Tomáš Znamenáček (
           <i>kamera, zvuk, střih</i>), Oto Matal (<i>kamery</i>), Magda
-          Znamenáčková (<i>střih</i>) a Kristina Studená (<i>fundraising</i>)).
+          Znamenáčková (<i>střih</i>) a Kristina Studená (<i>fundraising</i>).
         </p>
         <p className="max-w-prose m-auto text-balance">
           Na pokrytí boskovických komunálních voleb přispěli{" "}
