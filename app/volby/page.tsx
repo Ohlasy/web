@@ -12,7 +12,8 @@ import { getResizedImageUrl } from "@/src/utils";
 
 export const metadata: Metadata = {
   title: "Komunální volby 2026",
-  description: "Všechny důležité informace na jednom místě",
+  description:
+    "Všechny důležité informace na jednom místě: rozhovory s lídry*němi kandidátek, programová anketa, podcasty a další",
   openGraph: {
     images: getResizedImageUrl("https://i.ohlasy.info/i/369e00cb.jpeg", 1920),
   },
