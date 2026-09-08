@@ -89,7 +89,7 @@ export default async function ElectionPage() {
         </div>
       </div>
 
-      <div className="flex flex-col gap-4 text-center">
+      <div className="flex flex-col gap-4 text-center mb-20">
         <SectionDivider>Autorstvo</SectionDivider>
         <p className="max-w-prose m-auto text-balance">
           Volební rozhovory pro vás připravili Tomáš Trumpeš (
@@ -106,7 +106,7 @@ export default async function ElectionPage() {
           <a href="https://ldseating.com" className="typo-link">
             LD Seating
           </a>
-          .
+          . Díky!
         </p>
       </div>
     </div>
