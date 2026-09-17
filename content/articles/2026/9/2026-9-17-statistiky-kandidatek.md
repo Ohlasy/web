@@ -34,4 +34,4 @@ Co se vzdělání týče, je pozoruhodné, že do boskovického zastupitelstva k
 
 Při bližším pohledu na kandidátní listiny je ovšem u několika případů zjevné, že ne všichni si titul u jména uvádějí, ačkoliv vysokoškolské vzdělání mají. Z tohoto pohledu by proto bylo mírně zavádějící dělat statistiky na základě údajů zveřejněných statistickým úřadem. Kompletní kandidátní listiny může studovat právě na [webu ČSU](https://volby.gov.cz/app/kv2026/cs/20261009/name-lists/!_0__6200_6201_581372) nebo přímo v této tabulce:
 
-{% datawrapper_chart id="FiNUY" /%}
+{% datawrapper_chart id="FiNUY" version="2" /%}
