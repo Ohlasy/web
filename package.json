@@ -23,28 +23,28 @@
     "js-yaml": "^5.4.1",
     "next": "^16.3.4",
     "plausible-tracker": "^0.3.9",
-    "react": "19.2.8",
-    "react-dom": "19.2.8",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
     "typescript-json-decoder": "^1.0.11",
     "xmlbuilder2": "^4.0.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.12",
-    "@playwright/test": "^1.62.1",
+    "@biomejs/biome": "^2.5.13",
+    "@playwright/test": "^1.63.0",
     "@tailwindcss/postcss": "^4.3.3",
     "@types/js-yaml": "^4.0.9",
-    "@types/node": "^26.4.1",
-    "@types/react": "19.2.18",
-    "@types/react-dom": "19.2.7",
+    "@types/node": "^26.5.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
     "glob-bin": "^1.1.0",
-    "knip": "^6.34.0",
+    "knip": "^6.35.1",
     "postcss": "^8.5.28",
     "tailwindcss": "^4.2.1",
     "tsx": "^4.23.13",
     "typescript": "7.0.2"
   },
   "overrides": {
-    "@types/react": "19.2.18",
-    "@types/react-dom": "19.2.7"
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0"
   }
 }
