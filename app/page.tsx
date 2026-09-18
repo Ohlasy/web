@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { BannerBox } from "@/components/BannerBox";
-import { Button } from "@/components/Button";
 import { FundraisingBox } from "@/components/FundraisingBox";
 import { PreviewNest } from "@/components/PreviewNest";
 import { SectionDivider } from "@/components/SectionDivider";
