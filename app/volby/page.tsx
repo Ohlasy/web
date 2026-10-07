@@ -51,6 +51,11 @@ export default async function ElectionPage() {
       <HeroCard />
 
       <div>
+        <SectionDivider>Předvolební debata</SectionDivider>
+        <DebateVideo />
+      </div>
+
+      <div>
         <SectionDivider>Předvolební rozhovory</SectionDivider>
         <div className="grid md:grid-cols-2 gap-7">
           {interviewIds.map((i) => (
@@ -150,3 +155,15 @@ const InterviewCard = ({ interview }: { interview: Interview }) => {
     </div>
   );
 };
+
+const DebateVideo = () => (
+  <div className="bg-light-gray">
+    <iframe
+      className="w-full aspect-video"
+      src="https://www.youtube-nocookie.com/embed/CONqUyuw1_Y"
+      title="Předvolební debata"
+      allow="gyroscope; picture-in-picture"
+      allowFullScreen
+    ></iframe>
+  </div>
+);
