@@ -14,6 +14,8 @@ tags:
 
 Vítěz voleb získal přes 28 procent hlasů, což představuje 7 mandátů z nově třiadvacetičlenného zastupitelstva. U hnutí ANO Naše Boskovice preferenční hlasy jen lehce měnily pořadí, ale mandát nakonec dostalo všech prvních sedm lidí z kandidátky. Vítěz voleb Lukáš Holík dostal celkem 1710 hlasů. Do zastupitelstva ho doprovodí Martina Přichystalová, Vladimír Farský, Petr Axman, Vlastimil Slaný, Zdeněk Učeň a Pavel Šafář.
 
+„Moc děkujeme všem za podporu, je to velice zavazující. Nyní budeme vyjednávat o složení příštího vedení města. Vyhráli jsme a budeme chtít obsadit post starosty,“ uvedl Lukáš Holík s tím, že jeho cíl je sestavit silný tým, který bude řešit situaci v boskovické nemocnici, což vidí jako hlavní úkol nastávajícího volebního období.
+
 {% datawrapper_chart id="OP9qw" /%}
 
 Na druhém místě skončilo uskupení Kopeme za Boskovice se ziskem více než 22 procent, což vydalo na 6 mandátů. Zde se ovšem pořadí hodně měnilo. Na čelní pozici doskočil z osmého místa bývalý starosta Jaroslav Dohnálek a následoval ho z pátého místa Miroslav Klíma. Až třetí skončil volební lídr Radek Stříž a na čtvrté místo doskočil až z jedenácté pozice Petr Fiala z TOP 09\. Páté místo získal Ondřej Dostál a na poslední šestou pozici se ze druhého místa propadl předseda místní ODS Martin Staněk.
