@@ -1,5 +1,5 @@
 ---
-title: V Boskovických volbách nikdo nezazářil a nikdo z relevantních hráčů ani nepropadl
+title: Boskovické volby – kdo zazářil, kdo propadl a jaká bude příští koalice?
 cover-photo: https://i.ohlasy.info/i/0d86ba60.jpg
 author: Tomáš Trumpeš
 category: názory a komentáře
