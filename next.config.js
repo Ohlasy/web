@@ -74,6 +74,12 @@ const nextConfig = {
         permanent: false,
       },
       {
+        /** Future-proofing our election page paths */
+        source: "/volby/2026",
+        destination: "/volby",
+        permanent: false,
+      },
+      {
         source: "/clanky/:year(\\d{4})",
         destination: "/clanky/?rok=:year",
         permanent: false,
