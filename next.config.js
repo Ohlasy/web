@@ -74,9 +74,8 @@ const nextConfig = {
         permanent: false,
       },
       {
-        /** Future-proofing our election page paths */
-        source: "/volby/2026",
-        destination: "/volby",
+        source: "/volby",
+        destination: "/volby/2026",
         permanent: false,
       },
       {

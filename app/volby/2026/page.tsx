@@ -5,6 +5,7 @@ import { SectionDivider } from "@/components/SectionDivider";
 import { SmallArticlePreview } from "@/components/SmallArticlePreview";
 import {
   type Metadata as ArticleMetadata,
+  compareByDate,
   getAllArticles,
   stripBody,
 } from "@/src/article";
@@ -39,7 +40,7 @@ export default async function ElectionPage() {
     // Only take election articles
     .filter(({ tags }) => tags.includes("komunální volby 2026"))
     // In reverse chronological order
-    .reverse()
+    .sort(compareByDate)
     // Without article body
     .map(stripBody);
   const isProgrammePoll = (a: ArticleMetadata) =>
