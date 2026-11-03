@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import { Button } from "@/components/Button";
 import { type Book, getAllBooks, sortByYear } from "@/src/data/books";
+import getScaledImageUrl from "@/src/imgproxy";
 import { RouteTo } from "@/src/routing";
-import { getResizedImageUrl } from "@/src/utils";
 
 export const metadata: Metadata = {
   title: "Ohlasy: Knihy",
@@ -11,7 +11,10 @@ export const metadata: Metadata = {
     title: "Ohlasy: Knihy",
     description:
       "Příběhy, vzpomínky a vyprávění z Boskovic a okolí. V knižní podobě.",
-    images: getResizedImageUrl("https://i.ohlasy.info/i/9bbdb607.jpeg", 1920),
+    images: getScaledImageUrl({
+      src: "https://i.ohlasy.info/i/9bbdb607.jpeg",
+      width: 1920,
+    }),
   },
 };
 

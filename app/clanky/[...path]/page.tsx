@@ -8,13 +8,14 @@ import { SectionDivider } from "@/components/SectionDivider";
 import { type Article, compareByDate, readArticle } from "@/src/article";
 import { type Author, getAllAuthors } from "@/src/data/authors";
 import { getCachedData } from "@/src/data/cache";
+import getScaledImageUrl from "@/src/imgproxy";
 import {
   articleRoot,
   getFileSystemPathForUrlPathFragments,
   getFilesRecursively,
   getUrlPathFragmentsForFileSystemPath,
 } from "@/src/server-utils";
-import { endlessGeneratorOf, getResizedImageUrl, tilde } from "@/src/utils";
+import { endlessGeneratorOf, tilde } from "@/src/utils";
 
 type Params = {
   path: string[];
@@ -145,7 +146,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: post.title,
       description: post.perex,
-      images: getResizedImageUrl(post.coverPhoto, 1920),
+      images: getScaledImageUrl({ src: post.coverPhoto, width: 1920 }),
     },
     other: author.fedi ? { "fediverse:creator": author.fedi! } : {},
   };

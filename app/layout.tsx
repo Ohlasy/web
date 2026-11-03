@@ -71,7 +71,13 @@ const NavBar = () => {
           >
             <h1 className="font-semibold mr-1 typo-link">Ohlasy</h1>
             <div className="relative w-6 lg:w-10 aspect-square flex-none max-md:order-first">
-              <Image src="/favicon.png" sizes="40px" alt="" fill priority />
+              <Image
+                src="https://i.ohlasy.info/i/336266f1.png"
+                sizes="40px"
+                alt=""
+                fill
+                priority
+              />
             </div>
             <div className="hidden md:block text-[#666] whitespace-nowrap">
               dění na Boskovicku
@@ -153,7 +159,12 @@ const SiteName = () => (
     className="flex gap-2 items-center uppercase mb-2"
   >
     <div className="relative w-6 aspect-square flex-none">
-      <Image src="/favicon.png" sizes="24px" alt="" fill />
+      <Image
+        src="https://i.ohlasy.info/i/336266f1.png"
+        sizes="24px"
+        alt=""
+        fill
+      />
     </div>
     <h1 className="font-semibold mr-1 typo-link">Ohlasy</h1>
   </Link>

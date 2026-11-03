@@ -9,13 +9,8 @@ const nextConfig = {
   },
   trailingSlash: true,
   images: {
-    minimumCacheTTL: 604800, // one week
-    remotePatterns: [
-      { hostname: "**.kulturaboskovice.cz" },
-      { hostname: "**.ohlasy.info" },
-      { hostname: "ohlasy.info" },
-      { hostname: "**.imgur.com" },
-    ],
+    loader: "custom",
+    loaderFile: "./src/imgproxy.ts",
   },
   async rewrites() {
     return [

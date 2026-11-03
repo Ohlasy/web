@@ -1,18 +1,6 @@
 import assert from "node:assert";
 import test from "node:test";
-import {
-  getResizedImageUrl,
-  looksLikeBotEmail,
-  stripMarkdown,
-  tilde,
-} from "./utils";
-
-test("Image resizing", () => {
-  assert.equal(
-    getResizedImageUrl("https://i.ohlasy.info/i/53173baa.jpg", 640),
-    "/_next/image/?url=https%3A%2F%2Fi.ohlasy.info%2Fi%2F53173baa.jpg&w=640&q=75",
-  );
-});
+import { looksLikeBotEmail, stripMarkdown, tilde } from "./utils";
 
 test("Markdown stripping", () => {
   assert.equal(stripMarkdown("foo"), "foo");

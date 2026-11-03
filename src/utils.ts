@@ -1,30 +1,5 @@
 import Markdoc, { type Node } from "@markdoc/markdoc";
 
-type SupportedImageWidth = 640 | 1080 | 1920 | 3840;
-
-/**
- * Return a URL to a resized image
- *
- * This is (mis)using the undocumented Next.js image URL scheme,
- * if Vercel changes something, will this go down in flames?
- */
-export const getResizedImageUrl = (
-  sourceImageUrl: string,
-  targetWidth: SupportedImageWidth,
-) =>
-  `/_next/image/?url=${encodeURIComponent(
-    sourceImageUrl,
-  )}&w=${targetWidth}&q=75`;
-
-export function getImageSrcSet(
-  sourceUrl: string,
-  widths: SupportedImageWidth[] = [3840, 1920, 1080, 640],
-): string {
-  return widths
-    .map((w) => `${getResizedImageUrl(sourceUrl, w)} ${w}w`)
-    .join(", ");
-}
-
 export function looksLikeBotEmail(email: string) {
   return (
     // user7237465@gmail.com
