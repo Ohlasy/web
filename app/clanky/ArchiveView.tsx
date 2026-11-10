@@ -83,6 +83,18 @@ type FilterPanelProps = {
   matchCount: number;
 };
 
+const DressedCount = ({ count }: { count: number }) => {
+  if (count === 0) {
+    return "Aktuálnímu nastavení neodpovídá žádný článek.";
+  } else if (count === 1) {
+    return `Aktuálnímu nastavení odpovídá celkem 1 článek.`;
+  } else if (count >= 2 && count <= 4) {
+    return `Aktuálnímu nastavení odpovídají celkem ${count} články.`;
+  } else {
+    return `Aktuálnímu nastavení odpovídá celkem ${count} článků.`;
+  }
+};
+
 const FilterPanel = ({
   options,
   settings,
@@ -90,18 +102,6 @@ const FilterPanel = ({
   removeAllFilters,
   matchCount,
 }: FilterPanelProps) => {
-  const DressedCount = ({ count }: { count: number }) => {
-    if (count === 0) {
-      return "Aktuálnímu nastavení neodpovídá žádný článek.";
-    } else if (count === 1) {
-      return `Aktuálnímu nastavení odpovídá celkem 1 článek.`;
-    } else if (count >= 2 && count <= 4) {
-      return `Aktuálnímu nastavení odpovídají celkem ${count} články.`;
-    } else {
-      return `Aktuálnímu nastavení odpovídá celkem ${count} článků.`;
-    }
-  };
-
   return (
     <div className="flex flex-col gap-2 bg-light-gray p-4">
       {filters.map((filter) => (
