@@ -12,12 +12,10 @@ import {
 
 export type Short = decodeType<typeof decodeShort>;
 
-/** @internal */
 export const decodeShort = record({
   id: field("url", (value) => parseYouTubeId(string(value))),
 });
 
-/** @internal */
 export const decodeShorts = array(decodeShort);
 
 /** Extract the YouTube video ID from a Shorts or watch URL, throwing if it can’t be found */

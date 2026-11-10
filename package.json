@@ -11,8 +11,7 @@
     "build": "next build",
     "lint": "npx @biomejs/biome lint --write",
     "test": "glob-bin -c 'tsx --test' '{src,app}/**/*.test.ts'",
-    "playwright": "playwright test",
-    "knip": "knip"
+    "playwright": "playwright test"
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.5.11",
@@ -37,7 +36,6 @@
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
     "glob-bin": "^1.1.0",
-    "knip": "^6.44.0",
     "postcss": "^8.5.32",
     "tailwindcss": "^4.2.1",
     "tsx": "^4.23.15",
