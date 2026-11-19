@@ -11,25 +11,25 @@ category: názory a komentáře
 
 ### Situace v nemocnici
 
-V posledních měsících roku 2023 nabralo na síle a vážnosti věčné boskovické téma [provozu městské nemocnice](https://forum.ohlasy.info/t/personalni-krize-v-nemocnici/526). A zatím to vůbec nevypadá, že by to v roce 2024 mělo být jinak. Zatím neznáme ani přesné výsledky dohody s lékaři ohledně jejich přesčasů a mezd, dětské oddělení stále nemá primáře, je zde problém se zajišťováním pohotovostních služeb. Vedení města zároveň zaznamenalo velký reputační problém a narušení důvěry ze strany zaměstnanců i veřejnosti, jestli situaci v nemocnici řeší ve spolupráci se svým novým jednatelem kompetentně a citlivě. Zmatky panují i okolo politických jednání s Jihomoravským krajem ohledně možného převodu nemocnice.
+V posledních měsících roku 2023 nabralo na síle a vážnosti věčné boskovické téma provozu městské nemocnice. A zatím to vůbec nevypadá, že by to v roce 2024 mělo být jinak. Zatím neznáme ani přesné výsledky dohody s lékaři ohledně jejich přesčasů a mezd, dětské oddělení stále nemá primáře, je zde problém se zajišťováním pohotovostních služeb. Vedení města zároveň zaznamenalo velký reputační problém a narušení důvěry ze strany zaměstnanců i veřejnosti, jestli situaci v nemocnici řeší ve spolupráci se svým novým jednatelem kompetentně a citlivě. Zmatky panují i okolo politických jednání s Jihomoravským krajem ohledně možného převodu nemocnice.
 
 Podaří se situaci v nemocnici stabilizovat, a to po provozní, finanční i lidské stránce? Získá vedení města zpět důvěru? Jak se budou dál odvíjet jednání o možném převodu pod kraj?
 
 ### Noví ředitelé škol a debata o rozdělení
 
-Šest let uteklo jako voda a na jaře proběhnou výběrová řízení na posty boskovické základní i mateřské školy. Tentokrát se jeví jako pravděpodobné, že se do čela od srpna postaví noví ředitelé. Zároveň s tím bude pokračovat i [debata o možném rozdělení základní školy](https://forum.ohlasy.info/t/rozdeleni-zakladnich-skol/523) na dva či tři samostatné subjekty. Klíčové téma školství se otevřelo už v loňském roce, ale letos by mělo gradovat.
+Šest let uteklo jako voda a na jaře proběhnou výběrová řízení na posty boskovické základní i mateřské školy. Tentokrát se jeví jako pravděpodobné, že se do čela od srpna postaví noví ředitelé. Zároveň s tím bude pokračovat i debata o možném rozdělení základní školy na dva či tři samostatné subjekty. Klíčové téma školství se otevřelo už v loňském roce, ale letos by mělo gradovat.
 
 Kdo bude řídit boskovické školy, až budou děti 1. září usedat do lavic při zahájení nového školního roku? A udělají Boskovice nějaké výrazné kroky a posuny směrem k rozdělení své největší základní školy v republice?
 
 ### Architektonická soutěž na halu
 
-Boskovice mají za sebou [první regulérní architektonickou soutěž](https://forum.ohlasy.info/t/soutez-na-generel-cervene-zahrady/510), a to na generel Červené zahrady. Navázat by měla soutěž na sportovní halu. Zatím ani nevíme, jak bude vypadat finální zadání, které pravděpodobně oproti poslední variantě s restaurací dozná změn. Neznáme ani plánované parametry soutěže, ani finanční náročnost stavby, na kterou bude soutěž cílit.
+Boskovice mají za sebou první regulérní architektonickou soutěž, a to na generel Červené zahrady. Navázat by měla soutěž na sportovní halu. Zatím ani nevíme, jak bude vypadat finální zadání, které pravděpodobně oproti poslední variantě s restaurací dozná změn. Neznáme ani plánované parametry soutěže, ani finanční náročnost stavby, na kterou bude soutěž cílit.
 
 Jak velkorysé bude zadání na sportovní halu a jaké budou její požadované parametry a vybavení? Proběhne další velká, otevřená soutěž? Kdo vyhraje, jak bude hala vypadat a jak bude drahá?
 
 ### Nová lokalita pro knihovnu
 
-Oproti sportovní hale se příprava stavby nové knihovny dostala znovu do slepé uličky. [Projekt podle návrhu Zdeňka Fránka](https://forum.ohlasy.info/t/nova-knihovna-podle-franka-stavet-nebo-ne/507), do kterého město nainvestovalo několik let a několik milionů, už nevypadá reálně. Pravděpodobné je, že nová varianta by znamenala i novou lokalitu. Na té ovšem není shoda a posun nepřineslo ani fungování pracovní skupiny, která jednotlivé varianty prověřovala.
+Oproti sportovní hale se příprava stavby nové knihovny dostala znovu do slepé uličky. Projekt podle návrhu Zdeňka Fránka, do kterého město nainvestovalo několik let a několik milionů, už nevypadá reálně. Pravděpodobné je, že nová varianta by znamenala i novou lokalitu. Na té ovšem není shoda a posun nepřineslo ani fungování pracovní skupiny, která jednotlivé varianty prověřovala.
 
 Dokáže se zastupitelstvo rychle a přesvědčivě shodnout na nové lokalitě pro knihovnu? Postoupí přípravy dál směrem k zadání architektonické soutěže? Budeme na konci roku aspoň rámcově vědět, kde a jakou knihovnu chceme?
 
@@ -41,7 +41,7 @@ Přiblížíme se v roce 2024 ke stavbě Boskovické spojky i silnice I/73 natol
 
 ### Rekonstrukce parku u skleníku
 
-Po volbách to možná tak úplně nevypadalo, ale nakonec se zdá, že nejpravděpodobnějším velkých investičním projektem, který se nové koalici podaří dotáhnout do konce, bude [rekonstrukce parku u zámeckého skleníku](https://forum.ohlasy.info/t/obnova-parku-u-skleniku/519). Projekt je připravený, město začátkem roku zažádá o dotaci a opozice dokonce tlačí na to, aby se park rekonstruoval i v případě neúspěchu takzvaně *za vlastní*.
+Po volbách to možná tak úplně nevypadalo, ale nakonec se zdá, že nejpravděpodobnějším velkých investičním projektem, který se nové koalici podaří dotáhnout do konce, bude rekonstrukce parku u zámeckého skleníku. Projekt je připravený, město začátkem roku zažádá o dotaci a opozice dokonce tlačí na to, aby se park rekonstruoval i v případě neúspěchu takzvaně *za vlastní*.
 
 Klapne dotace na rekonstrukci parku u skleníku? Začnou práce už letos po Husích slavnostech?
 

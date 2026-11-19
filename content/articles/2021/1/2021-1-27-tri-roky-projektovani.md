@@ -15,7 +15,7 @@ Studii s architektonickým návrhem věnoval Zdeněk Fránek svému rodnému mě
 
 Na podzim proběhly komunální volby a ve vedení města došlo ke změně. ČSSD skončila v opozici a již bývalý místostarosta Petr Malach ještě po komunálních volbách projevil velkou dávku politického optimismu, [když tvrdil](https://ohlasy.info/clanky/2018/10/rozhovor-malach.html): „Projekt je hotový, je zažádáno o stavební povolení a de facto a z pozice laika řeknu, že by se třeba na jaře nebo na podzim příštího roku mohlo začít stavět.“ Od té doby uběhly víc než dva roky a řízení na stavebním úřadě stále neběží. Jak je to možné?
 
-Vzhledem k připomínkám stavebního úřadu bylo nutné projektovou dokumentaci přepracovat a termíny se začaly prodlužovat. Nové vedení města navíc začalo projekt přehodnocovat a odklad využilo také k přeřešení vnitřních prostor knihovny, k čemuž ustanovilo [pracovní skupinu](https://forum.ohlasy.info/t/1-schuzka-pracovni-skupiny-pro-knihovnu/238).
+Vzhledem k připomínkám stavebního úřadu bylo nutné projektovou dokumentaci přepracovat a termíny se začaly prodlužovat. Nové vedení města navíc začalo projekt přehodnocovat a odklad využilo také k přeřešení vnitřních prostor knihovny, k čemuž ustanovilo pracovní skupinu.
 
 Starosta Jaroslav Dohnálek (ODS) se na konci roku 2018 vyjádřil, že proces běží a radnice ho chce maximálně urychlit, zároveň však nevidí problém v tom, jestli bude projektová dokumentace hotová o pár týdnů dříve, či později. Úvahy o týdnech se opět ukázaly jako zbytečně optimistické.
 

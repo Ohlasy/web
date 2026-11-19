@@ -7,7 +7,7 @@ category: názory a komentáře
 tags: politika volby2018
 ---
 
-*[Předvolební zpravodajství Ohlasů](http://www.ohlasy.info/volby/2018/) zakončujeme posledním komentářem. Zbývá vybrat, odvolit, a pak se můžeme v sobotu odpoledne sejít u sledování volebních výsledků třeba na [našem novém diskusním fóru](https://forum.ohlasy.info/t/komunalni-volby-2018/29).*
+*[Předvolební zpravodajství Ohlasů](http://www.ohlasy.info/volby/2018/) zakončujeme posledním komentářem. Zbývá vybrat, odvolit, a pak se můžeme v sobotu odpoledne sejít u sledování volebních výsledků třeba na našem novém diskusním fóru.*
 
 {% photo src="https://i.ohlasy.info/i/svrmkoo.jpg" caption="Návštěva TGM v Boskovicích na obrazu Pavla Bačovského" author="Muzeum regionu Boskovicka" /%}
 

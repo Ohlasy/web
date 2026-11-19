@@ -19,7 +19,7 @@ Druhá žádost o dotaci bude směřována na ministerstvo kultury, a to o 60 ti
 
 Boskovická radnice chce postupně čistit město od takzvaného reklamního smogu. Nyní vypověděla smlouvy na tři poutače na ulici 17. listopadu, u kruhového objezdu a na ulici Mánesově. „Tím celá akce nekončí, ale pokračuje dál – budeme vytipovávat místa v majetku města, kde je zbytečný vizuální smog a budeme se tím zabývat,“ vyjádřil se místostarosta Radek Šamšula.
 
-Trochu paradoxem se mohlo jevit, že ve stejné době město [zaplavila intenzivní vizuální reklama](https://forum.ohlasy.info/t/cerna-reklamni-kampan/549) ve veřejném prostoru – ukázalo se ale, že šlo o nepovolenou reklamu, za kterou bude radnice zpětně vymáhat nezaplacené poplatky. Tématu jsme věnovali [samostatný text](https://ohlasy.info/clanky/2024/10/nelegalni-reklama.html).
+Trochu paradoxem se mohlo jevit, že ve stejné době město zaplavila intenzivní vizuální reklama ve veřejném prostoru – ukázalo se ale, že šlo o nepovolenou reklamu, za kterou bude radnice zpětně vymáhat nezaplacené poplatky. Tématu jsme věnovali [samostatný text](https://ohlasy.info/clanky/2024/10/nelegalni-reklama.html).
 
 ### Veřejné osvětlení a světelná signalizace
 

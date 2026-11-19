@@ -6,7 +6,7 @@ author: Tomáš Znamenáček
 category: názory a komentáře
 ---
 
-*Tak, jako se podle nás město neobejde bez nezávislých novin, neobejde se ani bez otevřené a civilizované diskuze. Proto jsme se rozhodli spustit [veřejné diskuzní fórum](https://forum.ohlasy.info), otevřený prostor pro výměnu názorů a zkušeností, konstruktivní kritiku, reakce na naše články, přípravu investic nebo zkrátka cokoliv, o čem bychom chtěli společně mluvit. Nemáme předem vymezené žádné definitivní hranice toho, k čemu všemu by fórum mohlo sloužit – i toto může být předmětem debaty.*
+*Tak, jako se podle nás město neobejde bez nezávislých novin, neobejde se ani bez otevřené a civilizované diskuze. Proto jsme se rozhodli spustit veřejné diskuzní fórum, otevřený prostor pro výměnu názorů a zkušeností, konstruktivní kritiku, reakce na naše články, přípravu investic nebo zkrátka cokoliv, o čem bychom chtěli společně mluvit. Nemáme předem vymezené žádné definitivní hranice toho, k čemu všemu by fórum mohlo sloužit – i toto může být předmětem debaty.*
 
 {% photo src="https://i.ohlasy.info/i/8igrt4u.jpg" caption="Civilizovaná debata po španělsku" author="Tomáš Znamenáček" /%}
 
@@ -16,4 +16,4 @@ Pokusů o zavedení veřejného diskuzního fóra už bylo v Boskovicích v posl
 
 Samostatnou kapitolou je [existující diskuzní fórum provozované městem](http://www.boskovice.cz/diskuze/). Jeho zavedení je vítaným krokem, za který si předchozí vedení radnice zaslouží pochválit. Ale kvůli zvolenému technickému provedení, nedostatečné propagaci a příliš striktnímu systému registrace a moderování se z celého diskuzního fóra ujaly pouze otázky pro vedení města – a i jejich osud je po volebním střídání stran nejistý. Spuštěním vlastního fóra se nechceme přetahovat o prostor k diskuzi, chceme jen, aby fórum provozoval někdo, kdo mu bude přikládat odpovídající důležitost a věnovat dostatečnou, dlouhodobou péči.
 
-S čímž také souvisí technické řešení. K provozu fóra jsme vybrali špičkový moderní systém [Discourse](https://www.discourse.org), který bezvadně funguje na stolních počítačích, tabletech i telefonech, a stručně řečeno umí po všech stránkách to, co bychom ve třetím tisíciletí od diskuzního systému očekávali. Tedy kromě samostatného psaní příspěvků, naštěstí. [V tom už spoléháme na vás.](https://forum.ohlasy.info)
+S čímž také souvisí technické řešení. K provozu fóra jsme vybrali špičkový moderní systém [Discourse](https://www.discourse.org), který bezvadně funguje na stolních počítačích, tabletech i telefonech, a stručně řečeno umí po všech stránkách to, co bychom ve třetím tisíciletí od diskuzního systému očekávali. Tedy kromě samostatného psaní příspěvků, naštěstí. V tom už spoléháme na vás.

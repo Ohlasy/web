@@ -19,7 +19,7 @@ V srpnu jsme si během horkých dnů dopřáli trochu úlevy od běžné noviná
 
 **Informace z radnice** – Naše publikum zjevně místní zpravodajství zajímá i o prázdninách, což je hezká zpráva. V [reportu po jednání městské rady](https://ohlasy.info/clanky/2024/08/z-radnice-2.html) jsme psali o přebudování bývalého učiliště Krasu na bytový dům, o nové zástupkyni ředitele základní školy, o požadavku na nové přechody pro chodce na Janáčkově ulici a o novém vánočním osvětlení města. Kdo by to byl čekal, že se v lokální žurnalistice může objevit i takováto věta: *„Součástí kontraktu mají být i dva andělé.“*
 
-**Krajské volby** – Termín letošních krajských voleb je pátek 20\. a sobota 21\. září. To znamená, že kampaň je poměrně krátká, protože o prázdninách do ní pro politické strany nemělo moc smysl investovat peníze a energii. My jsme téma v Ohlasech zahájili [otevíracím komentářem](https://ohlasy.info/clanky/2024/08/volby-komentar.html), o který byl pěkný zájem, a pokračujeme také na [našem diskusním fóru](https://forum.ohlasy.info/t/krajske-volby-2024/546), kde mimo jiné stručně reportujeme o mítincích na náměstí.
+**Krajské volby** – Termín letošních krajských voleb je pátek 20\. a sobota 21\. září. To znamená, že kampaň je poměrně krátká, protože o prázdninách do ní pro politické strany nemělo moc smysl investovat peníze a energii. My jsme téma v Ohlasech zahájili [otevíracím komentářem](https://ohlasy.info/clanky/2024/08/volby-komentar.html), o který byl pěkný zájem, a pokračujeme také na našem diskusním fóru, kde mimo jiné stručně reportujeme o mítincích na náměstí.
 
 {% photo src="https://i.ohlasy.info/i/5af69e84.jpg" caption="Nový památník zemřelým a nenarozeným dětem na boskovickém hřbitově" author="Tomáš Trumpeš" width=1024 height=768 /%}
 

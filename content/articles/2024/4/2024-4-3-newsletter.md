@@ -87,7 +87,7 @@ Taky nám udělal radost vynikající novinář Jakub Zelenka, který se o nás 
 
 > Pokud vás zajímá pozitivní příklad nějakého regionálního projektu, tak mohu doporučit ohlasy.info z Boskovic (12 tisíc obyvatel). Tam místní parta kromě médií udržuje i poměrně živé fórum pro občany.
 
-Fórum bychom si, pravda, představovali ještě živější, takže pokud nám chcete udělat radost, můžete se [zapojit třeba do ankety](https://forum.ohlasy.info/t/petice-za-prevod-nemocnice-pod-kraj/535), kterou k tématu směřování boskovické nemocnice připravil Tomáš Znamenáček.
+Fórum bychom si, pravda, představovali ještě živější, takže pokud nám chcete udělat radost, můžete se zapojit třeba do ankety, kterou k tématu směřování boskovické nemocnice připravil Tomáš Znamenáček.
 
 Srdečně zdraví a pěkné dubnové dny přeje
 

@@ -31,7 +31,7 @@ V září se nám mezi hlavními tématy sešly samé nepříznivé události, d
 
 ### Stručně
 
-* Jak se dalo čekat po sečtení hlasů v krajských volbách, [hejtmanem zůstane Jan Grolich](https://forum.ohlasy.info/t/krajske-volby-2024/546/18) za SPOLU a na vedení Jihomoravského kraje se budou podílet ještě Starostové.  
+* Jak se dalo čekat po sečtení hlasů v krajských volbách, hejtmanem zůstane Jan Grolich za SPOLU a na vedení Jihomoravského kraje se budou podílet ještě Starostové.  
 * Město [prezentovalo první pracovní návrh](https://ohlasy.info/clanky/2024/10/zastupitelstvo.html) na vytvoření školských obvodů v případě rozdělení základní školy.  
 * Městský úřad bude [napojen teplovodem na okruh CZT Boskovice střed](https://ohlasy.info/clanky/2024/09/z-radnice.html). A v budoucnu by se měla připojit i nová městská knihovna.  
 * Na novou knihovnu byla vyhlášena [architektonická soutěž](https://zakazky.boskovice.cz/document_download_2317.html).  

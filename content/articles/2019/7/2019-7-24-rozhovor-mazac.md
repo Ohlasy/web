@@ -77,7 +77,7 @@ Ano.
 
 Ne, ne, to je jenom slovíčkaření. Jaksi se to táhne jako červená nit celou tou debatou, jestli je to tělocvična, nebo hala. Já to označuji jako sportovní halu, která splňuje požadavky, a důležité je to, že rozměr hřiště se hodí pro všechny typy sportů, včetně těch, co mají největší požadavky na rozměr, co se týče délky a šířky, ať už je to florbal nebo házená. Bude tam dostatečná výška, hlavním sportem, který má požadavek na výšku, je volejbal. No a samozřejmě co by to bylo za sportovní stánek bez diváků a příznivců, takže tam bude i hlediště.
 
-**Existuje nějaký podrobnější materiál, který tyto parametry představuje? Zatím jsem se dozvěděli [jen ten úplný základ](https://forum.ohlasy.info/t/zadani-na-sportovni-halu/233) – rozměry hřiště a kapacitu hlediště. Ostatní podrobnosti neznáme.**
+**Existuje nějaký podrobnější materiál, který tyto parametry představuje? Zatím jsem se dozvěděli jen ten úplný základ – rozměry hřiště a kapacitu hlediště. Ostatní podrobnosti neznáme.**
 
 Máme zpracovaný materiál, který bude sloužit pro zadání projektového týmu či architekta. Ten obnáší parametry, které by měla sportovní hala mít. Rozměry hřiště, výška tělocvičny, požadované prostory: počet šaten, chodeb, jestli tam bude občerstvení, jestli tam budou gymnastické sály, kapacita hlediště například pro pět set diváků, kolik má být sedících. Jaké má mít hala vybavení, to znamená, že má mít takové a takové ozvučení, že tam má být taková a taková světelná tabule. Takže ten materiál máme a bude součástí technicko-odborného požadavku pro vytvoření projektu a architektonického ztvárnění.
 

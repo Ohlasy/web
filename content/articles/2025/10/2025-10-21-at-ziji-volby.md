@@ -35,7 +35,7 @@ V jednom aspektu přinesly sněmovní volby podobný vzkaz jako už to udělaly 
 
 Boskovickým specifikem naopak je, že se o pětiprocentní hranici nemusí bát Sociální demokraté. Ale i u nich by podobně jako u ODS a Změny22 případné spojování s menšími dávalo smysl – pokud chce někdo z nich opravdu uspět a hnutí ANO potažmo Našim Boskovicím reálně konkurovat a usilovat o vítězství. Druhou variantou je, že budeme sledovat pouze výběrové řízení slabších politických stran na koaličního partnera pro Lukáše Holíka.
 
-A zde je potřeba připomenout ještě jednu důležitou věc – pokud v Boskovicích opravdu dojde ke [snížení nesmyslně vysokého počtu zastupitelů](https://forum.ohlasy.info/t/velikost-zastupitelstva/48), ještě víc to přispěje k marginalizaci menších subjektů a politická scéna se pravděpodobně ještě více zúží. A silní budou ještě silnější.
+A zde je potřeba připomenout ještě jednu důležitou věc – pokud v Boskovicích opravdu dojde ke snížení nesmyslně vysokého počtu zastupitelů, ještě víc to přispěje k marginalizaci menších subjektů a politická scéna se pravděpodobně ještě více zúží. A silní budou ještě silnější.
 
 ### Úspěch liberálů
 

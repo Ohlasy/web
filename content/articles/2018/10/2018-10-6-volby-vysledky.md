@@ -33,4 +33,4 @@ Na rozdíl od ODS nedokázali přetavit opoziční práci v posílení voličsk�
 
 Naopak uspěli Piráti, kteří do zastupitelstva pronikli jako čtvrtí se ziskem 3 mandátů. A uspělo také uskupení Boskováci, které získalo 1 mandát. Lídra Michala Staňka však přeskočil Jaroslav Oldřich. V zastupitelstvu usednou také komunisté – i ti však tratili a místo tří mandátů budou mít dva.
 
-Kompletní seznam nově zvolených zastupitelů společně s dalšími zajímavými daty a odkazy najdete na [diskuzním fóru Ohlasů](https://forum.ohlasy.info/t/komunalni-volby-2018/29/11).
+Kompletní seznam nově zvolených zastupitelů společně s dalšími zajímavými daty a odkazy najdete na diskuzním fóru Ohlasů.

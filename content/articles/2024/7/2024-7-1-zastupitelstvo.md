@@ -68,7 +68,7 @@ Opoziční zastupitelka Hana Nedomová upozornila, že zakázku města na vytvo�
 
 Ludmila Klíčová (Změna22) požádala o úpravy pravidel pro parkování u školky na Lidické, mimo jiné aby nebylo blokováno o prázdninách v čase, kdy bude školka zavřená.
 
-Radek Pernica (Změna22) informoval o stavu příprav [rozdělení základní školy](https://forum.ohlasy.info/t/rozdeleni-zakladnich-skol/523) – byla nastavena kapacita jednotlivých škol, dále se řeší záležitosti se stavebním úřadem a hygienou a po konzultaci s Jihomoravským krajem se připravuje žádost o zápis samostatných škol do školského rejstříku. Připravuje se také stanovení školských obvodů.
+Radek Pernica (Změna22) informoval o stavu příprav rozdělení základní školy – byla nastavena kapacita jednotlivých škol, dále se řeší záležitosti se stavebním úřadem a hygienou a po konzultaci s Jihomoravským krajem se připravuje žádost o zápis samostatných škol do školského rejstříku. Připravuje se také stanovení školských obvodů.
 
 Proběhlo výběrové řízení na ředitele základní a mateřské školy – vítěze jmenuje rada na začátku července.
 

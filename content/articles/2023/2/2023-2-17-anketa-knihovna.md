@@ -16,7 +16,7 @@ tags:
 
 ### Petr Ondráček, architekt
 
-To, že jsme nedostali požadovanou dotaci, ještě neznamená, že projekt, respektive snaha o jeho realizaci, musí skončit. V současné chvíli ale nevím, jaké úpravy proběhly od poslední veřejně diskutované podoby, v rámci [pracovní skupiny ze začátku roku 2019](https://forum.ohlasy.info/tag/pracovn%C3%AD-skupiny). Další úpravy už nebyly dále veřejně představeny. Nedokážu tak posoudit, jak moc závažné jsou připomínky bránící úspěšnému získání stavebního povolení. 
+To, že jsme nedostali požadovanou dotaci, ještě neznamená, že projekt, respektive snaha o jeho realizaci, musí skončit. V současné chvíli ale nevím, jaké úpravy proběhly od poslední veřejně diskutované podoby, v rámci pracovní skupiny ze začátku roku 2019. Další úpravy už nebyly dále veřejně představeny. Nedokážu tak posoudit, jak moc závažné jsou připomínky bránící úspěšnému získání stavebního povolení. 
 
 Je třeba si v první řadě říci, jsme-li schopni u stávajícího projektu reálně získat stavební povolení. Ujišťování, že se blížíme konci, jsem slyšel už několikrát a vždy se bohužel ukázalo jako liché. Délka této snahy trvající více než 6 let mi také nepřijde úplně standardní. Přemýšlím, jestli není ta správná chvíle opustit něco, co se jeví jako neprosaditelné, a jestli investovat další čas (asi i peníze) do projektu, kde nelze vyloučit další odvolání.
 

@@ -79,7 +79,7 @@ Dále se zastupiteli za komunisty nelíbilo rušení nočního klidu 9. června,
 
 Vladimíra Farského dále zajímalo, kde by se v Boskovicích mohly konat cirkusy, kdyby se začalo s plánovanou výstavbou za nemocnicí. Podle starosty se to zatím neřeší, s výstavbou se zatím neplánuje začít. Další dotaz zastupitele směřoval k proluce na Plačkově ulici. Nehezký stav proluky ulici podle něj hyzdí. Vedoucí majetkového odboru upřesnil, že proluka není v majetku města, ačkoliv se zastupitel Farský odkazoval na údaje z katastru nemovitostí. Vladimír Farský dále projevil zájem o prohlídku Centra polytechnické výchovy pro zastupitele.
 
-Kristýna Znamenáčková (Piráti) se zajímala o [četnost sečí trávy ve městě](https://forum.ohlasy.info/t/seceni-travy-a-klimaticka-komise/315), což se řešilo už na minulém zastupitelstvu. Zajímalo ji, jestli město plánuje snížit počet sečí. „Nemáme v úmyslu omezovat počet sečení za rok,“ odpověděl místostarosta Radek Mazáč. Město hledá další lokality pro luční trávníky. Jejich příprava je ale komplikovanější a zabere nějaký čas.
+Kristýna Znamenáčková (Piráti) se zajímala o četnost sečí trávy ve městě, což se řešilo už na minulém zastupitelstvu. Zajímalo ji, jestli město plánuje snížit počet sečí. „Nemáme v úmyslu omezovat počet sečení za rok,“ odpověděl místostarosta Radek Mazáč. Město hledá další lokality pro luční trávníky. Jejich příprava je ale komplikovanější a zabere nějaký čas.
 
 Radního Petra Axmana zajímal již několikrát diskutovaný stav silnice na Kamenici. Podle místostarosty Lukáše Holíka vyplynulo z jednání s dopravní policií, že lokalitu není potřeba omezovat a přistupovat tam k nějakým změnám.
 

@@ -37,7 +37,7 @@ Investice plánuje vedení dále v letním kině. Za dva miliony pořídí digit
 
 ### Sport
 
-Koalice s ODS a Sportovci se po čtyřech letech sezení v opozičních lavicích vrací k práci na sportovní hale. Příští rok chce za 1,5 milionu připravit projektovou dokumentaci. Do té doby se však musí rozhodnout, kde bude chtít halu stavět a jak bude vlastně vypadat. Koalice totiž otevřela také variantu [postavit ji na Hybešově ulici na pozemcích tamní střední školy](https://forum.ohlasy.info/t/novy-pozemek-pro-sportovni-halu/117).
+Koalice s ODS a Sportovci se po čtyřech letech sezení v opozičních lavicích vrací k práci na sportovní hale. Příští rok chce za 1,5 milionu připravit projektovou dokumentaci. Do té doby se však musí rozhodnout, kde bude chtít halu stavět a jak bude vlastně vypadat. Koalice totiž otevřela také variantu postavit ji na Hybešově ulici na pozemcích tamní střední školy.
 
 Dále plánují za 2,8 milionu vyměnit světla na zimním stadionu, za 1,2 milionu zahájit první etapu opravu plotu kolem tenisových kurtů a necelý půl milion investovat do nových dětských hřišť. Oproti plánům bývalého vedení ponechala současná koalice příspěvek na Boskovické běhy ve výši 170 tisíc. Minulá koalice ho chtěla navýšit na čtvrt milionu s odůvodněním, že se jedná o jubilejní desátý ročník.
 

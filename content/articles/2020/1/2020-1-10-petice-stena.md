@@ -68,7 +68,7 @@ Formu petice jsem zvolil proto, abychom v případných úvahách, proč stěnu 
 
 **Kde a dokdy je možné petici podepsat?**
 
-Petici je možné podepsat pouze fyzicky na archy, které jsou umístěny na místech uvedených [zde na Fóru](https://forum.ohlasy.info/t/petice-za-lezeckou-stenu-v-hale/378). Petici si lze tamtéž i stáhnout, podepsat samostatně a poté odeslat na adresu uvedenou v jejím záhlaví.
+Petici je možné podepsat pouze fyzicky na archy, které jsou umístěny na místech uvedených zde na Fóru. Petici si lze tamtéž i stáhnout, podepsat samostatně a poté odeslat na adresu uvedenou v jejím záhlaví.
 
 Původně jsem uvažoval i o elektronické / online verzi petice – ta ale musí být podepsána zaručeným elektronickým podpisem, čímž se reálný počet lidí, kteří by toto vlastnili, skoro limitně blíží nule. Elektronická petice totiž bez takto zaručených elektronických podpisů není peticí ve smyslu zákona o právu petičním a správní orgán na ni nemusí odpovědět.
 

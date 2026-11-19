@@ -24,7 +24,7 @@ Podaří se letos s přípravou stavby opravdu výrazně pohnout a mít nejen ja
 
 ### První architektonická soutěž
 
-Samostatný bod stojí za to věnovat způsobu, jakým bude vybrána architektonická studie, podle které by měl vzniknout projekt na budovu nové haly. Vedení města deklarovalo záměr [vyhlásit vyzvanou architektonickou soutěž](https://ohlasy.info/clanky/2019/11/hala-soutez.html) bez [spolupráce s architektonickou komorou](https://forum.ohlasy.info/t/prvni-architektonicka-soutez-v-boskovicich/355/3). To však naráží na některé překážky. Zároveň by se jednalo o první skutečnou soutěž, ve které by Boskovice vybíraly příští stavbu z několika návrhů.
+Samostatný bod stojí za to věnovat způsobu, jakým bude vybrána architektonická studie, podle které by měl vzniknout projekt na budovu nové haly. Vedení města deklarovalo záměr [vyhlásit vyzvanou architektonickou soutěž](https://ohlasy.info/clanky/2019/11/hala-soutez.html) bez spolupráce s architektonickou komorou. To však naráží na některé překážky. Zároveň by se jednalo o první skutečnou soutěž, ve které by Boskovice vybíraly příští stavbu z několika návrhů.
 
 Proběhne skutečně vyzvaná soutěž bez komory? Podaří se přesto získat k účasti zajímavé architekty a vybírat z kvalitních návrhů? Vyvolá vítězný návrh opět vlnu diskusí či kontroverzí, jako návrh nové knihovny od Zdeňka Fránka nebo návrh na zástavbu Koupadel od Smiljana Radiće?
 
@@ -38,7 +38,7 @@ Bude odhad ceny za knihovnu akceptovatelný pro kompletní vedení města i opoz
 
 Za svou velkou prioritu označuje vedení města dopravu. Hlavním větším krokem, který hodlá učinit, je vybudování [kruhového objezdu pod poštou](https://ohlasy.info/clanky/2019/09/z-radnice.html). Příprava stavby bude poměrně náročná, takže stavět by se mělo začít až v roce 2021.
 
-Podaří se vyřešit všechny potřebné náležitosti skutečně tak, aby záměr směřoval k zahájení stavby v roce 2021? Zvedne se ještě [vlna diskusí o tom, jestli je kruháč správným řešením](https://forum.ohlasy.info/t/kruhac-u-posty/345) a je dobře koncipovaný pro danou křižovatku?
+Podaří se vyřešit všechny potřebné náležitosti skutečně tak, aby záměr směřoval k zahájení stavby v roce 2021? Zvedne se ještě vlna diskusí o tom, jestli je kruháč správným řešením a je dobře koncipovaný pro danou křižovatku?
 
 ### CZT – centrální zásobování teplem
 

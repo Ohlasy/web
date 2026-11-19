@@ -107,6 +107,6 @@ K dalším posunům dochází v přípravě [cykostezky z Mladkova do Svitávky]
 
 Mimo informace z tiskové konference se objevily také dvě zajímavé informace na úřední desce.
 
-Na cestě Na Kamenici, která se hojně řešila na zastupitelstvu [i na našem diskuzním fóru](https://forum.ohlasy.info/t/ulehcime-chodcum-cyklistum-konakum-na-zkratce-od-gagarinovy-ke-smelcovne/395), bude zákaz vjezdu všech motorových vozidel. Výjimka bude možná jen na povolení městského úřadu.
+Na cestě Na Kamenici, která se hojně řešila na zastupitelstvu i na našem diskuzním fóru, bude zákaz vjezdu všech motorových vozidel. Výjimka bude možná jen na povolení městského úřadu.
 
 Přerušená bude cesta kolem muzea zemědělské techniky – od 11. února až do 1. května zde nebude možné využít chodník ani navazující přechod u budovy městského úřadu. Energetická společnost E.ON místo zcela uzavře kvůli opravě kabelů.

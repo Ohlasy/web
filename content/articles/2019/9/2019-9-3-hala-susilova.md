@@ -22,7 +22,7 @@ Především bychom rádi řekli, že Boskovice by si opravdu zasloužily konstr
 
 ### Argumenty pro Sušilovu
 
-My jsme se na základě následujících argumentů přiklonili ke stavbě haly na Sušilově ulici u základní školy, na místě dnešních tělocvičen. Jedná se o smysluplné umístění podporující další rozvoj celé lokality, hala bude v dopoledních hodinách sloužit dětem ze základní školy a bude v bezprostřední blízkosti areálu Červená zahrada. Vnímáme [silný názor veřejnosti](https://forum.ohlasy.info/t/vyber-lokality-pro-sportovni-halu/325/108), že hala by měla stát v Červené zahradě. Věříme, že při vhodném propojení se z varianty Sušilova může stát jakási *Červenka light*. Když se cesta z areálu k hale zkrátí na několik málo minut, což není nereálné, bude možné celé území zahrnující Červenou zahradu, novou halu, jízdárnu, školičku a lázně vnímat a hlavně využívat jako jeden celek. To se nám jeví jako dobrý cíl. Vždyť Sušilovu od Červené zahrady  dělí vzdušnou čarou jen asi 300 metrů. A to je pro sportovce malina.
+My jsme se na základě následujících argumentů přiklonili ke stavbě haly na Sušilově ulici u základní školy, na místě dnešních tělocvičen. Jedná se o smysluplné umístění podporující další rozvoj celé lokality, hala bude v dopoledních hodinách sloužit dětem ze základní školy a bude v bezprostřední blízkosti areálu Červená zahrada. Vnímáme silný názor veřejnosti, že hala by měla stát v Červené zahradě. Věříme, že při vhodném propojení se z varianty Sušilova může stát jakási *Červenka light*. Když se cesta z areálu k hale zkrátí na několik málo minut, což není nereálné, bude možné celé území zahrnující Červenou zahradu, novou halu, jízdárnu, školičku a lázně vnímat a hlavně využívat jako jeden celek. To se nám jeví jako dobrý cíl. Vždyť Sušilovu od Červené zahrady  dělí vzdušnou čarou jen asi 300 metrů. A to je pro sportovce malina.
 
 Městský architekt Zdeněk Fránek [upozorňuje na přínos haly na Sušilově](https://ohlasy.info/clanky/2019/08/diskuse-hala.html) pro rozvoj celé lokality. Velkým důvodem je pro nás už samotné využití budovy novogotické jízdárny. Tato historická památka si veřejné využití jednoznačně zaslouží. A má to samozřejmě i praktické dopady – na výhodu sousedství nové haly a menší haly jízdárna při pořádání turnajů a podobně [upozorňují třeba florbalisté](https://ohlasy.info/clanky/2019/08/hala-anketa.html).
 
@@ -56,7 +56,7 @@ Do střetu zájmu se navíc v případě Hybešovy dostávají hned dva zastupit
 
 Konstruktivně by se podle našeho názoru měla chovat také opozice. Trvat nyní za každou cenu na Červené zahradě v důsledku nejspíš znamená buď to, že hala nebude v dohledné době v Boskovicích vůbec, nebo že bude po průtazích na Hybešově, což je pro areál Červená zahrada výrazně horší varianta. Daleko větší smysl by tedy mělo nabídnout svou podporu pro Sušilovu, jakožto *Červenku light*.
 
-Zbývá snad poslední argument: podporovat po zkušenosti ze Slovákovy Hybešovu, kde [hrozí podobný odpor obyvatel](https://forum.ohlasy.info/t/vyber-lokality-pro-sportovni-halu/325/55), nepůsobí jako politicky uvážlivé a prozíravé řešení.
+Zbývá snad poslední argument: podporovat po zkušenosti ze Slovákovy Hybešovu, kde hrozí podobný odpor obyvatel, nepůsobí jako politicky uvážlivé a prozíravé řešení.
 
 ### Demokracie staví
 

@@ -20,4 +20,4 @@ Jsme moc rádi, že nemocnici máme, její práce si velmi vážíme. Nechtěli 
 
 České právo není – narozdíl třeba od anglosaského – založeno na precedentech, takže rozhodnutí soudu neznamená, že otázka je rozhodnuta „jednou provždy“. Rozsudek se ale stane součástí takzvané *judikatury*, tedy souboru dřívějších soudních rozhodnutí, která mají význam pro rozhodování obdobných případů do budoucna. Rozhodnutím jsme tedy získali hned třikrát: nemocnice nám velmi pravděpodobně vydá výstupy auditu, pro příště jsme si ujasnili její povinnosti vůči zákonu 106, a do budoucna může v ČR rozsudkem argumentovat kdokoliv v podobné situaci.
 
-A aby byla celá mozaika ještě úplnější, podali jsme před měsícem [druhou soudní žalobu](https://forum.ohlasy.info/t/jak-zadat-verejne-instituce-o-informace/151), opět pro neposkytnutí informací, tentokrát na společnost Vodárenská akciová.
+A aby byla celá mozaika ještě úplnější, podali jsme před měsícem druhou soudní žalobu, opět pro neposkytnutí informací, tentokrát na společnost Vodárenská akciová.

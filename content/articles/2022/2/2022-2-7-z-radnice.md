@@ -52,7 +52,7 @@ Při testování na konci ledna bylo v základní škole antigenními testy odch
 
 ### Sportovní hala
 
-Místostarostka Michaela Žejšková na tiskové konferenci okomentovala také [zveřejněný situační plán nového umístění sportovní haly](https://forum.ohlasy.info/t/priprava-stavby-sportovni-haly-v-cervene-zahrade/430/138). Na místě po hotelu Velen se podle místostarostky hala postavit v podstatě nedá, protože při minimální výšce dané požadavky sportovních klubů nevyjde takzvané sklopení stavby tak, aby nebyla narušena práva sousedů. Hala je proto posunuta na pozemek po bývalém lihovaru. „Při zachování vize atletického oválu je to jediné místo, jak se s tím vypořádat,“ vyjádřila se místostarostka.
+Místostarostka Michaela Žejšková na tiskové konferenci okomentovala také zveřejněný situační plán nového umístění sportovní haly. Na místě po hotelu Velen se podle místostarostky hala postavit v podstatě nedá, protože při minimální výšce dané požadavky sportovních klubů nevyjde takzvané sklopení stavby tak, aby nebyla narušena práva sousedů. Hala je proto posunuta na pozemek po bývalém lihovaru. „Při zachování vize atletického oválu je to jediné místo, jak se s tím vypořádat,“ vyjádřila se místostarostka.
 
 Nový plán již nepočítá s vybudováním kruhového objezdu. Místostarostka vysvětlila, že u předchozího návrhu mexického architekta Kalacha byl kruhový objezd nutný, neboť výjezd z areálu oklo ní neumožňoval splnění povinných rozhledových trojúhelníků. U nového návrhu haly ale tato komplikace padá. „Proto se od toho upustilo, čímž se šetří miliony korun,“ uvedla místostarostka.
 

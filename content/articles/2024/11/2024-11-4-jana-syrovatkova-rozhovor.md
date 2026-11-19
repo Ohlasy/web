@@ -43,7 +43,7 @@ Jsem spokojená. Co se týče sportovní haly, [zvolili jsme systém Design & Bu
 
 Já jsem zvyklá, protože jsem zvyklá připravovat projekty další dobu, než je stavím. Kvalitní příprava znamená, že na stavbě se potom skutečně eliminuje velká řada nepřesností, nejasností, oprav. Takže dbát na dostatečný čas na přípravu ve finále znamená výrazné zkrácení vlastní realizace. 
 
-A musím říct, že my jsme zdědili několik projektů – ten, který posouváme dál, je [projekt na rekonstrukci parku](https://forum.ohlasy.info/t/obnova-parku-u-skleniku/519). Ale tam jsme zatím nezískali dotaci a myslím si, že bez dotace, která měla být ve výši 40 milionů korun, se tento projekt jenom tak nerozběhne.
+A musím říct, že my jsme zdědili několik projektů – ten, který posouváme dál, je projekt na rekonstrukci parku. Ale tam jsme zatím nezískali dotaci a myslím si, že bez dotace, která měla být ve výši 40 milionů korun, se tento projekt jenom tak nerozběhne.
 
 **Už víte výsledek, že jste ji letos nedostali?** 
 
@@ -147,7 +147,7 @@ Samozřejmě hledáme jednatele, ale hledáme takového jednatele, který povede
 
 Nemyslím si. Protože jediné, co měl jako úkol, bylo přednést nám strategii řízení nemocnice pod svým vedením tak, aby rostla. A na ten popud on to položil. Takže to byl ten cíl. Já když se teď dívám do výročních zpráv, tak musím říct, že jsem nemile překvapena, že třeba klesají počty operací a podobně. Takže si myslím, že tady opravdu je prostor pro zlepšení a myslím si, že je i čas to v tuto chvíli otočit.
 
-**Zároveň vy jste pana Štěpánského [kritizovali už před volbami](https://forum.ohlasy.info/t/odchazi-jednatel-nemocnice-dan-stepansky/508). Stavěli jste to tak, že to není člověk úplně na své místě, dokonce tam zaznívalo, že k nemocnici nemá správný vztah. Potom jste ale přivedli dva nové jednatele, kteří mně ve srovnání s ním přišli právě jako ti univerzální manažeři, kteří k tomu neměli na rozdíl od něj vůbec žádný vztah. On s nemocnicí přece jen [prošel například covidem](https://ohlasy.info/clanky/2021/06/rozhovor-stepansky.html) a podobně, tak jeho osobní vztahy byly asi silnější. Co teď? Teď doufáte, že konečně do třetice najdete někoho, kdo bude prostě dobrý a kdo vám bude vyhovovat a koho už budete moci nechat dělat jeho práci?** 
+**Zároveň vy jste pana Štěpánského kritizovali už před volbami. Stavěli jste to tak, že to není člověk úplně na své místě, dokonce tam zaznívalo, že k nemocnici nemá správný vztah. Potom jste ale přivedli dva nové jednatele, kteří mně ve srovnání s ním přišli právě jako ti univerzální manažeři, kteří k tomu neměli na rozdíl od něj vůbec žádný vztah. On s nemocnicí přece jen [prošel například covidem](https://ohlasy.info/clanky/2021/06/rozhovor-stepansky.html) a podobně, tak jeho osobní vztahy byly asi silnější. Co teď? Teď doufáte, že konečně do třetice najdete někoho, kdo bude prostě dobrý a kdo vám bude vyhovovat a koho už budete moci nechat dělat jeho práci?** 
 
 Přesně tak. Ale říkám: ten, kdo má řídit nemocnici, skutečně musí už v tuto chvíli prokázat nějaké skutečné zkušenosti, znalosti a vůbec to, že je ta nemocnice pro něj tak důležitá jako pro nás.
 

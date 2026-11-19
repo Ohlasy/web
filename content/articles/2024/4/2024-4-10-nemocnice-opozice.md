@@ -46,7 +46,7 @@ Oproti tomu SPD a Trikolora petici vidí jen jako snahu lidovců o zviditelněn�
 
 ### Nejlepší model provozu
 
-Na ideální budoucí model provozování nemocnice nemá opozice jednotný názor. Ohlasy položily opozičním stranám podobně formulovanou otázku, jaká už padla v [anketě na diskusním fóru našich novin](https://forum.ohlasy.info/t/petice-za-prevod-nemocnice-pod-kraj/535) – tedy jestli je nejlepší provozovatel pro nemocnici město, kraj, nebo soukromá společnost.
+Na ideální budoucí model provozování nemocnice nemá opozice jednotný názor. Ohlasy položily opozičním stranám podobně formulovanou otázku, jaká už padla v anketě na diskusním fóru našich novin – tedy jestli je nejlepší provozovatel pro nemocnici město, kraj, nebo soukromá společnost.
 
 Stručně a jednoznačně pro převod pod kraj se vyjádřili lidovci: „Dlouhodobě prosazujeme spolupráci a provozování nemocnice Jihomoravským krajem,“ uvedla Dagmar Hamalová.
 

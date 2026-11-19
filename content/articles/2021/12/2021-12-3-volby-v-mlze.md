@@ -34,7 +34,7 @@ Trochu cynicky se pak člověku vkrádá na mysl myšlenka, že by zastupitelé 
 
 Zajímavé ovšem je, že politická logika tohoto problému může být i jiná – jak mě upozornil kamarád politolog, může být enormní počet boskovických politických uskupení právě důsledkem nadměrného počtu zastupitelů. Kdyby jich bylo míň, měli by politici daleko menší chuť do samostatného fungování stran, které by opakovaně končily pod čarou nebo s jedním mandátem. 
 
-Další pádný důvod, [proč počet zastupitelů snížit](https://forum.ohlasy.info/t/velikost-zastupitelstva/48). Výhodné by to bylo zejména pro větší strany, které zároveň mají sílu to prosadit. Zdá se ale, že jim to zatím nedošlo.
+Další pádný důvod, proč počet zastupitelů snížit. Výhodné by to bylo zejména pro větší strany, které zároveň mají sílu to prosadit. Zdá se ale, že jim to zatím nedošlo.
 
 ### Senátní volby
 

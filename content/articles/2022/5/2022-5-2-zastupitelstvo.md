@@ -81,7 +81,7 @@ Především rozpočtový odhad kritizoval kolega Radka Mazáče Jiří Pevný. 
 
 Další debata víceméně nic nového k tématu nepřinesla, snad s výjimkou tématu tenisových kurtů, jejichž část nepatří městu ale tenisovému klubu. Starosta se v reakci na informaci, že tenistům se nelíbí aktuální záměr, jak v budoucnosti jejich sportoviště v rámci Červené zahrady řešit a nebudou tudíž souhlasit s převodem, vyjádřil, že kurty nyní město nepotřebuje. Pirátského zastupitele Jana Nádvorníka zajímalo, jestli si tím ale město neuzavře cestu k obnovení atletického areálu, pro což pozemky a posun kurtů potřebuje. Starosta odpověděl, že rozšíření či posun oválu se bude řešit tak za dvacet či třicet let, takže v tuto chvíli to město řešit nemusí.
 
-Místostarostka Michaela Žejšková nedokázala odpovědět Lukáši Holíkovi na otázku, [proč město zpracovávalo generel](https://forum.ohlasy.info/t/sportovni-hala-se-vraci-do-cervene-zahrady/402/4), který zpracovává rozmístění dalších sportovišť, a jestli se jím bude dál řídit. Uvedla, že nyní se město bude soustředit na halu a pak se uvidí.
+Místostarostka Michaela Žejšková nedokázala odpovědět Lukáši Holíkovi na otázku, proč město zpracovávalo generel, který zpracovává rozmístění dalších sportovišť, a jestli se jím bude dál řídit. Uvedla, že nyní se město bude soustředit na halu a pak se uvidí.
 
 Opoziční zastupitel za KSČM Vladimír Farský se dotazoval na stav příprav okružní křižovatky u pošty, knihovny a nafukovací haly nad částí tenisových kurtů. Kromě toho měl připomínky ke kvalitě živého přenosu ze zastupitelstva a apeloval na město, aby se pokusilo kvalitu zlepšit.
 

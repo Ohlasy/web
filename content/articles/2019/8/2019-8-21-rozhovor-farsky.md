@@ -168,7 +168,7 @@ To je úplně jednoduché. Pokud se nám nepodaří to do zářijového zastupit
 
 **Říkáte „nám“. Ono se dost řeší, jestli bude jednotná koalice, ale co opozice? Domluvíte se na společném postupu před zastupitelstvem?**
 
-S opozičními kolegy jsem se delší dobu neviděl, od minulého zastupitelstva. Během prázdnin se [rozjela debata](https://forum.ohlasy.info/t/vyber-lokality-pro-sportovni-halu/325), kterou předpokládám většina zastupitelů sleduje, i když se aktivně nezapojují, což mě velice mrzí. Ale to je jejich boj, jejich svědomí a jejich zodpovědnost.
+S opozičními kolegy jsem se delší dobu neviděl, od minulého zastupitelstva. Během prázdnin se rozjela debata, kterou předpokládám většina zastupitelů sleduje, i když se aktivně nezapojují, což mě velice mrzí. Ale to je jejich boj, jejich svědomí a jejich zodpovědnost.
 
 Před zastupitelstvem se pochopitelně sejdeme a názory si budeme vyříkávat. Vím o lidovcích, že preferují rychlé řešení, paní Hamalová to řekla na setkání s veřejností, že budou hlasovat pro nejrychlejší variantu. Což se mi nelíbí, v současné situaci už nějaký ten měsíc nebo třeba i rok navíc není to, co by mělo být úplně rozhodující. Opravdu se v prvé řadě dívám na kvalitu a na ty souvislosti, které jsem už popsal.
 
@@ -196,7 +196,7 @@ Mně to přijde nedostatečné. Na Hybešce by byla srovnatelná kapacita parkov
 
 ### Ega jsou vysoko
 
-**Řekl jste, že rozhodnutí zastupitelstva byste respektoval. Co to znamená v praxi? Pokud vyhraje Hybešova a občané tam začnou připravovat odpor, [jak avizovali](https://forum.ohlasy.info/t/vyber-lokality-pro-sportovni-halu/325/55), neangažoval byste se proti té stavbě jako na Slovákově? Snažili byste se vyhnout nějaké další „válce“?**
+**Řekl jste, že rozhodnutí zastupitelstva byste respektoval. Co to znamená v praxi? Pokud vyhraje Hybešova a občané tam začnou připravovat odpor, jak avizovali, neangažoval byste se proti té stavbě jako na Slovákově? Snažili byste se vyhnout nějaké další „válce“?**
 
 Budu mluvit jen za sebe, nemůžu mluvit za ostatní. Co se týče toho problému s občany z Výsluní, mě pan magistr Machek oslovil, měli jsme spolu delší rozhovor a připravujeme osobní setkání. Jejich výhrady chápu, protože jsem byl u toho, když se vymýšlely možnosti odporu na Slovákově ulici. Chápu je a vnímám.
 

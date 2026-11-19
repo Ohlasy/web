@@ -90,4 +90,4 @@ Místostarosta Lukáš Holík představil radě návrh na umístění a výstavb
 
 ### Pracovní skupina ke knihovně
 
-[Setkání s veřejností k výstavbě nové knihovny](https://forum.ohlasy.info/t/verejne-setkani-k-nove-knihovne/211) se koná ve čtvrtek 31. ledna od 17 hodin v zámeckém skleníku. Po setkání začne fungovat pracovní skupina, která bude pod vedením místostarosty Holíka na přípravě projektu pracovat. „Skupina bude otevřená a výstupy z ní budou veřejné. Zastupitelé na ni budou moci chodit, i když nebudou jejími členy – což bych byl rád, protože informovanost je důležitá,“ zdůraznil Lukáš Holík.
+Setkání s veřejností k výstavbě nové knihovny se koná ve čtvrtek 31. ledna od 17 hodin v zámeckém skleníku. Po setkání začne fungovat pracovní skupina, která bude pod vedením místostarosty Holíka na přípravě projektu pracovat. „Skupina bude otevřená a výstupy z ní budou veřejné. Zastupitelé na ni budou moci chodit, i když nebudou jejími členy – což bych byl rád, protože informovanost je důležitá,“ zdůraznil Lukáš Holík.

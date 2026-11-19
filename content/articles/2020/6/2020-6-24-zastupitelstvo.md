@@ -86,7 +86,7 @@ V závěrečném bodě se zeptal Petr Axman na sečení trávy, neboť si občan
 
 Senátorka Jaromíra Vítková (KDU-ČSL) informovala o stavu příprav stavby prvního úseku D43. „Jde to ztuha, ale věci se posunují,“ popsala. Karel Ošlejšek informoval, že od září bude v tělocvičně Střední školy André Citroëna menší lezecká stěna. Petr Malach opět připomněl potřebu [přechodu pro chodce na Hybešově ulici](https://ohlasy.info/clanky/2018/06/prechod-hybesova.html) a dále neutěšený stav dětských hřišť. Podle místostarosty Lukáše Holíka stále trvá stanovisko dopravní policie, že přechod bude umožněn až po dokončení čtvrté etapy výstavby Na Výsluní.
 
-Místostarosta Lukáš Holík dále informoval, že se město zabývá [zklidněním dopravní situace na Kamenici](https://forum.ohlasy.info/t/ulehcime-chodcum-cyklistum-konakum-na-zkratce-od-gagarinovy-ke-smelcovne/395).
+Místostarosta Lukáš Holík dále informoval, že se město zabývá zklidněním dopravní situace na Kamenici.
 
 Dagmar Hamalovou zajímaly úpravy spojené s budovnáním CZT Boskovice střed, jestli budou spojené s rozsáhlejším kácením. Místostarosta Radek Mazáč přislíbil, že kácení stromů prověří.
 

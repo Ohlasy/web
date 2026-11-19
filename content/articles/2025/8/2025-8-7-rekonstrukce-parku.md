@@ -5,7 +5,7 @@ author: Tomáš Trumpeš
 category: zpravodajství
 ---
 
-*Boskovice se chystají na jednu z největších investičních akcí za dlouhé roky. Jedná se o kompletní [rekonstrukci parku u zámeckého skleníku](https://forum.ohlasy.info/t/obnova-parku-u-skleniku/519). Cena je poměrně závratná – aktuálně narostla na 103 milionů korun. Město nyní schválilo zadání změn v projektu, které mají stavbu zjednodušit a zlevnit.*
+*Boskovice se chystají na jednu z největších investičních akcí za dlouhé roky. Jedná se o kompletní rekonstrukci parku u zámeckého skleníku. Cena je poměrně závratná – aktuálně narostla na 103 milionů korun. Město nyní schválilo zadání změn v projektu, které mají stavbu zjednodušit a zlevnit.*
 
 {% photo src="https://i.ohlasy.info/i/43b8cc0a.jpg" caption="Vizualizace budoucí podoby parku" author="ea architekti" width=1920 height=1076 /%}
 

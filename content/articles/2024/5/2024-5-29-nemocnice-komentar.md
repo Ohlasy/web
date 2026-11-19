@@ -10,7 +10,7 @@ tags: nemocnice
 
 {% photo src="https://i.ohlasy.info/i/f7534de5.jpg" author="Tomáš Znamenáček" width=4032 height=3024 /%}
 
-„Současné problémy způsobila nekomunikace, sebestřednost a arogance při řízení nemocnice v dobách, kdy jednateli byli paní starostka a následně pan Kavka.“ Takto tvrdá slova zazněla od opoziční ODS v reakci na to, že z nemocnice odešli někteří lékaři a [muselo dojít k omezení lůžkové kapacity na interních odděleních](https://ohlasy.info/clanky/2024/05/nemocnice-interna.html). Nedlouho předtím rovněž opoziční lidovci vytáhli také poměrně razantní nástroj, i když ne rétorický – k situaci v nemocnici [zorganizovali petici](https://forum.ohlasy.info/t/petice-za-prevod-nemocnice-pod-kraj/535). A ostrou kritikou nešetří ani TOP 09, třetí člen boskovické koalice SPOLU.
+„Současné problémy způsobila nekomunikace, sebestřednost a arogance při řízení nemocnice v dobách, kdy jednateli byli paní starostka a následně pan Kavka.“ Takto tvrdá slova zazněla od opoziční ODS v reakci na to, že z nemocnice odešli někteří lékaři a [muselo dojít k omezení lůžkové kapacity na interních odděleních](https://ohlasy.info/clanky/2024/05/nemocnice-interna.html). Nedlouho předtím rovněž opoziční lidovci vytáhli také poměrně razantní nástroj, i když ne rétorický – k situaci v nemocnici zorganizovali petici. A ostrou kritikou nešetří ani TOP 09, třetí člen boskovické koalice SPOLU.
 
 Při sledování této vyhrocené politické diskuse si ovšem člověk musí nutně položit otázku: Do jaké míry je krize v boskovické nemocnici součástí komplikované celostátní situace ve zdravotnictví, která dopadá prakticky na všechny podobné nemocnice v zemi, a do jaké míry je skutečně způsobena manažerskými a komunikačními přehmaty vedení nemocnice i vedení města?
 

@@ -27,7 +27,7 @@ Nechme se tedy překvapit, co všechno se za tu dobu dá stihnout. Vytvořit kva
 
 Zatím tomu nic nenasvědčuje. Na posledním jednání zastupitelstva se [radní za hnutí ANO vyjádřil](https://youtu.be/tCsG1wsnZI4?t=6745), že „v hale se počítá nejen s jedním velkým sálem, ale budou tam i gymnastické sály.“ Skvělé. Odkud ta informace pochází? Znamená to, že už máme podrobné zadání toho, co by v hale mělo a nemělo být, jaké jsou parametry vnitřních dispozic? Proč tyto informace nejsou veřejné, ale radnice je tají?
 
-Poté, co nám vedení města [odmítalo vydat i materiály](https://forum.ohlasy.info/t/zadani-na-sportovni-halu/233?u=tomas_t), na které má veřejnost ze zákona nárok, vidíme, že se zde hraje stále stejná hra. A té se říká *S vyloučením veřejnosti*. Ve sportovní hantýrce by se dalo říct *postavení mimo hru* – tedy porušení pravidel.
+Poté, co nám vedení města odmítalo vydat i materiály, na které má veřejnost ze zákona nárok, vidíme, že se zde hraje stále stejná hra. A té se říká *S vyloučením veřejnosti*. Ve sportovní hantýrce by se dalo říct *postavení mimo hru* – tedy porušení pravidel.
 
 Důsledky tohoto politického stylu už jsou nám v Boskovicích přitom dobře známé. Ano, myslím případ zrušené stavby na Slovákově ulici. Dělat s politiku s vyloučením veřejnosti je v 21. století nejen neetické, ale i navýsost rizikové. Současný postup radnice přitom ze všeho nejvíc kopíruje právě tyto staré, špatné způsoby: seženeme si či zobchodujeme potřebnou většinu v zastupitelstvu a prostě to protlačíme.
 

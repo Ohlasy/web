@@ -15,7 +15,7 @@ Samotná inspekce probíhala jeden týden v listopadu na všech školních praco
 
 Naopak velmi dobře je hodnocená metodická práce u školní družiny. Její úroveň je ve zprávě opakovaně vyzdvihována.
 
-Na rozdíl od předchozích šetření, která se nedávno diskutovala v souvislosti s [úvahami o rozdělení školy](https://forum.ohlasy.info/t/rozdeleni-zakladnich-skol/523), popisuje ČŠI, že na škole panuje dobrá atmosféra a vztahy. „Pedagogové s žáky jednají zdvořilým a respektujícím způsobem, což přispívá k příznivému školnímu klimatu,“ uvádí přímo inspekční zpráva.
+Na rozdíl od předchozích šetření, která se nedávno diskutovala v souvislosti s úvahami o rozdělení školy, popisuje ČŠI, že na škole panuje dobrá atmosféra a vztahy. „Pedagogové s žáky jednají zdvořilým a respektujícím způsobem, což přispívá k příznivému školnímu klimatu,“ uvádí přímo inspekční zpráva.
 
 Rozšířit by podle inspekce potřebovalo školní poradenské pracoviště, které tvoří výchovní poradci, metodici prevence, školní speciální pedagožky a školní psycholožky.
 
