@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { BannerBox } from "@/components/BannerBox";
 import { FundraisingBox } from "@/components/FundraisingBox";
@@ -53,8 +52,6 @@ const Page = async () => {
         aboveFold={true}
         authors={authors}
       />
-
-      <ElectionBanner />
 
       <SectionDivider>krátce</SectionDivider>
       <ShortsBox shorts={shorts} />
@@ -141,34 +138,6 @@ const TopArticleBox = ({ topArticles, banner }: TopArticleBoxProps) => (
       <BannerBox banner={banner} />
     </div>
   </div>
-);
-
-const ElectionBanner = () => (
-  <Link href="/volby">
-    <div className="relative w-full aspect-4/3 sm:aspect-2/1 md:aspect-3/1 overflow-hidden rounded-lg mt-7">
-      <Image
-        src="https://i.ohlasy.info/i/369e00cb.jpeg"
-        alt="Komunální volby 2026"
-        fill
-        priority
-        sizes="100vw"
-        className="object-cover"
-      />
-      <div className="absolute inset-0 bg-linear-to-t from-black/70 via-black/40 to-black/20" />
-      <div className="absolute inset-0 flex flex-col justify-center gap-2 p-5 sm:p-6 md:p-10 text-white">
-        <h1 className="text-3xl md:text-4xl font-bold">Komunální volby 2026</h1>
-        <ul className="md:text-xl max-w-prose">
-          <li className="inline sm:list-item after:content-['•'] after:mx-2 sm:after:content-none sm:after:mx-0">
-            Všechny důležité informace na jednom místě
-          </li>
-          <li className="inline sm:list-item">
-            Rozhovory s lídry*němi kandidátek, programová anketa, podcasty a
-            další →
-          </li>
-        </ul>
-      </div>
-    </div>
-  </Link>
 );
 
 export default Page;
