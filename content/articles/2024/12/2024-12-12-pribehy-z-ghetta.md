@@ -5,6 +5,6 @@ author: Tomáš Trumpeš
 category: podcast
 ---
 
-*Ohlasy vydaly knihu textů Heleny Janíkové [Příběhy z ghetta](http://ohlasy.info/obchod/pribehy/). Máme z ní velkou radost, v podcastu si o ní povídají a ukázky svých oblíbených pasáží čtou Magda Znamenáčková, Tomáš Znamenáček a Tomáš Trumpeš. Probrali jsme náš vztah k textům, editorskou práci, fyzickou podobu knihy i odvážné výtvarné řešení.*
+*Ohlasy vydaly knihu textů Heleny Janíkové [Příběhy z ghetta](https://ohlasy.info/obchod/pribehy/). Máme z ní velkou radost, v podcastu si o ní povídají a ukázky svých oblíbených pasáží čtou Magda Znamenáčková, Tomáš Znamenáček a Tomáš Trumpeš. Probrali jsme náš vztah k textům, editorskou práci, fyzickou podobu knihy i odvážné výtvarné řešení.*
 
 {% podcast_player file="2024/podcast/pribehy.mp3" /%}

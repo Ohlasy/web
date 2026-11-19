@@ -11,4 +11,4 @@ tags:
 
 {% podcast_player file="2025/podcast/tresnak.mp3" /%}
 
-*Rozhovor proběhl díky projektu Ohlasy Extra, ve kterém vám společně s [Nadačním fondem nezávislé žurnalistiky](https://www.nfnz.cz/) přinášíme obsah zaměřený na běžně opomíjená témata. Podpořte vznik nových článků a videí na [ohlasy.info/extra](http://ohlasy.info/extra).*
+*Rozhovor proběhl díky projektu Ohlasy Extra, ve kterém vám společně s [Nadačním fondem nezávislé žurnalistiky](https://www.nfnz.cz/) přinášíme obsah zaměřený na běžně opomíjená témata. Podpořte vznik nových článků a videí na [ohlasy.info/extra](https://ohlasy.info/extra).*

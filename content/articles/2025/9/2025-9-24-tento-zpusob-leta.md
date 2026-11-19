@@ -11,7 +11,7 @@ tags:
 
 {% photo src="https://i.ohlasy.info/i/c508a6a7.jpg" caption="Z festivalu Boskovice 2025" author="Tomáš Znamenáček" width=6240 height=4160 /%}
 
-*V rámci projektu Ohlasy Extra vám přinášíme texty zaměřené (nejen) na výzvy týkající se změny klimatu. Podpořte vznik nových článků a videí na [ohlasy.info/extra](http://ohlasy.info/extra). Chceme vám nabídnout nové pohledy na události v našem regionu, zároveň se plánujeme inspirovat chytrými řešeními v jiných městech.* 
+*V rámci projektu Ohlasy Extra vám přinášíme texty zaměřené (nejen) na výzvy týkající se změny klimatu. Podpořte vznik nových článků a videí na [ohlasy.info/extra](https://ohlasy.info/extra). Chceme vám nabídnout nové pohledy na události v našem regionu, zároveň se plánujeme inspirovat chytrými řešeními v jiných městech.* 
 
 Za období prázdnin se vystřídalo několik dramaticky odlišných vln – na přelomu června a července zasáhly Česko tropické teploty přerušované intenzivními bouřkami. Následovalo několik chladných vln s vleklými dešti a nízkými teplotami. Zatímco v červnu jsme si sdíleli tipy, jak sebe i města efektivně ochladit v horkých dnech, o dva týdny později jsme řešili, kde roste nejvíc hub a jak zabavit děti o prázdninách uvnitř. Přestože tropických dnů poskytl červenec hned jedenáct ([ČHMÚ](https://www.chmi.cz/files/portal/docs/tiskove_zpravy/2025/Tiskova_zprava_2025-7.pdf)), v naší paměti uvízl daleko víc jako deštivý a studený měsíc. 
 
