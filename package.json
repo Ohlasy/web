@@ -14,13 +14,13 @@
     "playwright": "playwright test"
   },
   "dependencies": {
-    "@markdoc/markdoc": "^0.5.11",
+    "@markdoc/markdoc": "^0.5.12",
     "@slack/web-api": "^8.3.0",
     "airtable": "^0.12.2",
     "clsx": "^2.1.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^5.5.0",
-    "next": "^16.4.5",
+    "next": "^16.4.6",
     "plausible-tracker": "^0.3.9",
     "react": "19.3.1",
     "react-dom": "19.3.1",
@@ -28,9 +28,9 @@
     "xmlbuilder2": "^4.0.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.6.5",
+    "@biomejs/biome": "^2.6.7",
     "@playwright/test": "^1.65.0",
-    "@tailwindcss/postcss": "^4.3.4",
+    "@tailwindcss/postcss": "^4.3.5",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^26.6.6",
     "@types/react": "19.3.0",
