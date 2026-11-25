@@ -1,14 +1,11 @@
 import {
-  array,
   type decodeType,
   field,
   record,
   string,
 } from "typescript-json-decoder";
 import { shuffled } from "@/src/utils";
-import { getTable, unwrapRecords } from "./airtable";
-
-const bannerTable = () => getTable("appcP5M7jTIUMZaRc", "tblxgfyRlovII0SC2");
+import { fetchAllRecords } from "./airtable";
 
 export type Banner = decodeType<typeof decodeBanner>;
 const decodeBanner = record({
@@ -19,9 +16,9 @@ const decodeBanner = record({
 });
 
 export const getAllBanners = () =>
-  bannerTable()
-    .select({ view: "Zveřejněné" })
-    .all()
-    .then(unwrapRecords)
-    .then(array(decodeBanner))
-    .then(shuffled);
+  fetchAllRecords({
+    appId: "appcP5M7jTIUMZaRc",
+    tableId: "tblxgfyRlovII0SC2",
+    view: "Zveřejněné",
+    decoder: decodeBanner,
+  }).then(shuffled);

@@ -1,5 +1,4 @@
 import {
-  array,
   type decodeType,
   field,
   number,
@@ -8,13 +7,7 @@ import {
   string,
   union,
 } from "typescript-json-decoder";
-import { getTable, unwrapRecords } from "./airtable";
-
-//
-// Books
-//
-
-const booksTable = () => getTable("apptZroU7Vo0zMDjT", "tblODWl1pWKSEAKmv");
+import { fetchAllRecords } from "./airtable";
 
 export type Book = decodeType<typeof decodeBook>;
 const decodeBook = record({
@@ -33,7 +26,11 @@ const decodeBook = record({
 });
 
 export const getAllBooks = async () =>
-  booksTable().select().all().then(unwrapRecords).then(array(decodeBook));
+  fetchAllRecords({
+    appId: "apptZroU7Vo0zMDjT",
+    tableId: "tblODWl1pWKSEAKmv",
+    decoder: decodeBook,
+  });
 
 export const sortByYear = (a: Book, b: Book) =>
   b.publishYear.localeCompare(a.publishYear);
