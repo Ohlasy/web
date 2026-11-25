@@ -8,8 +8,7 @@ import {
   string,
   union,
 } from "typescript-json-decoder";
-import { relationToZeroOrOne } from "@/src/decoding";
-import { getTable, unwrapRecord, unwrapRecords } from "./airtable";
+import { getTable, unwrapRecords } from "./airtable";
 
 //
 // Books
@@ -36,51 +35,5 @@ const decodeBook = record({
 export const getAllBooks = async () =>
   booksTable().select().all().then(unwrapRecords).then(array(decodeBook));
 
-export const getBookById = async (databaseId: string) =>
-  booksTable()
-    .find(databaseId)
-    .then(unwrapRecord)
-    .then(decodeBook)
-    .catch((_) => null);
-
 export const sortByYear = (a: Book, b: Book) =>
   b.publishYear.localeCompare(a.publishYear);
-
-//
-// Orders
-//
-
-const ordersTable = () => getTable("apptZroU7Vo0zMDjT", "tbllODnsl8U1U8X7N");
-
-export type Order = decodeType<typeof decodeOrder>;
-const decodeOrder = record({
-  id: field("ID", number),
-  orderedItemId: field("Objednaný titul", relationToZeroOrOne),
-  itemCount: field("Počet kusů", number),
-  deliveryName: field("Jméno", string),
-  deliveryAddress: field("Doručovací adresa", optional(string)),
-  deliveryEmail: field("Kontaktní mail", string),
-  deliveryPhone: field("Kontaktní telefon", string),
-  deliveryType: field(
-    "Způsob doručení",
-    union("osobně", "poštou", "knihkupectví"),
-  ),
-  status: field("Stav objednávky", union("nová", "vyřízená", "stornovaná")),
-  invoiceUrl: field("Faktura", string),
-});
-
-export const createOrder = async (order: Omit<Order, "id" | "status">) =>
-  ordersTable()
-    .create({
-      "Objednaný titul": [order.orderedItemId!],
-      "Počet kusů": order.itemCount,
-      Jméno: order.deliveryName,
-      "Doručovací adresa": order.deliveryAddress,
-      "Kontaktní mail": order.deliveryEmail,
-      "Kontaktní telefon": order.deliveryPhone,
-      "Způsob doručení": order.deliveryType,
-      Faktura: order.invoiceUrl,
-      "Stav objednávky": "nová",
-    })
-    .then(unwrapRecord)
-    .then(decodeOrder);

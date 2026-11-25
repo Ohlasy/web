@@ -1,20 +1,23 @@
 import Plausible from "plausible-tracker";
-import { useState } from "react";
-import { useFormState, useFormStatus } from "react-dom";
+import { type SubmitEvent, useState } from "react";
 import { Button } from "@/components/Button";
-import { placeOrder } from "./actions";
+import { type DeliveryType, useOrderSubmission } from "./actions";
 
 type Props = {
   itemId: string;
   onCancel?: () => void;
 };
 
-type DeliveryType = "osobně" | "poštou" | "knihkupectví";
-
 export function OrderForm({ itemId, onCancel = () => {} }: Props) {
-  const [state, formAction] = useFormState(placeOrder, { tag: "idle" });
+  const { state, submit, pending } = useOrderSubmission();
   const [deliveryType, setDeliveryType] = useState<DeliveryType>("osobně");
   const { trackEvent } = Plausible({ domain: "ohlasy.info" });
+
+  const handleSubmit = (event: SubmitEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    trackEvent("Shop Order");
+    submit(new FormData(event.currentTarget));
+  };
 
   if (state.tag === "sent") {
     return (
@@ -36,34 +39,35 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
     );
   }
 
-  console.assert(state.tag === "idle" || state.tag === "error");
-
   return (
     <div>
-      <form
-        action={formAction}
-        onSubmit={() => trackEvent("Shop Order")}
-        className="flex flex-col gap-4"
-      >
+      <form onSubmit={handleSubmit} className="flex flex-col gap-4">
         <input type="hidden" name="orderedItemId" value={itemId} />
 
-        <DeliveryTypeSelect onChange={setDeliveryType} />
+        <DeliveryTypeSelect onChange={setDeliveryType} pending={pending} />
 
         <TextInput
           id="itemCount"
           label="Počet kusů:"
           type="number"
           defaultValue="1"
+          pending={pending}
           required
         />
 
-        <TextInput id="deliveryName" label="Celé jméno:" required />
+        <TextInput
+          id="deliveryName"
+          label="Celé jméno:"
+          pending={pending}
+          required
+        />
 
         {deliveryType !== "knihkupectví" && (
           <TextInput
             id="deliveryAddress"
             label="Dodací adresa:"
             placeholder="Rašínova 1234, 68001 Boskovice"
+            pending={pending}
             required
           />
         )}
@@ -73,6 +77,7 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
           label="E-mail:"
           placeholder="váš@email.cz"
           type="email"
+          pending={pending}
           required
         />
 
@@ -81,12 +86,13 @@ export function OrderForm({ itemId, onCancel = () => {} }: Props) {
           label="Telefonní číslo:"
           placeholder="777 123 456"
           type="tel"
+          pending={pending}
           required
         />
 
         <section className="mt-3 mb-2 flex flex-col sm:flex-row gap-4">
-          <SubmitButton />
-          <CancelButton onClick={onCancel} />
+          <SubmitButton pending={pending} />
+          <CancelButton onClick={onCancel} pending={pending} />
         </section>
 
         {state.tag === "error" && (
@@ -107,40 +113,41 @@ const ClickableMail = () => (
   </a>
 );
 
-const CancelButton = ({ onClick }: { onClick: () => void }) => {
-  const { pending } = useFormStatus();
-  return (
-    <Button
-      type="reset"
-      style="secondary"
-      text="Zrušit objednávku"
-      onClick={onClick}
-      stretch="mobile"
-      disabled={pending}
-    />
-  );
-};
+const CancelButton = ({
+  onClick,
+  pending,
+}: {
+  onClick: () => void;
+  pending: boolean;
+}) => (
+  <Button
+    type="reset"
+    style="secondary"
+    text="Zrušit objednávku"
+    onClick={onClick}
+    stretch="mobile"
+    disabled={pending}
+  />
+);
 
-const SubmitButton = () => {
-  const { pending } = useFormStatus();
-  return (
-    <Button
-      text={pending ? "Odesílám…" : "Odeslat objednávku"}
-      disabled={pending}
-      type="submit"
-      stretch="mobile"
-    />
-  );
-};
+const SubmitButton = ({ pending }: { pending: boolean }) => (
+  <Button
+    text={pending ? "Odesílám…" : "Odeslat objednávku"}
+    disabled={pending}
+    type="submit"
+    stretch="mobile"
+  />
+);
 
 type DeliveryTypeSelectProps = {
   onChange?: (value: DeliveryType) => void;
+  pending: boolean;
 };
 
 const DeliveryTypeSelect = ({
   onChange = () => {},
+  pending,
 }: DeliveryTypeSelectProps) => {
-  const { pending } = useFormStatus();
   return (
     <section className="flex flex-col gap-2 mb-2">
       <legend className="mb-1">Způsob doručení:</legend>
@@ -219,6 +226,7 @@ type TextInputProps = {
   defaultValue?: string;
   type?: "text" | "email" | "tel" | "number";
   required?: boolean;
+  pending: boolean;
 };
 
 const TextInput = ({
@@ -228,8 +236,8 @@ const TextInput = ({
   defaultValue,
   required,
   type = "text",
+  pending,
 }: TextInputProps) => {
-  const { pending } = useFormStatus();
   return (
     <section>
       <label className="block mb-1" htmlFor={id}>

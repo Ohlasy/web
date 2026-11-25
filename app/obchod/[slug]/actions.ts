@@ -1,110 +1,60 @@
-"use server";
+import { useState } from "react";
 
-import {
-  type decodeType,
-  optional,
-  record,
-  string,
-  union,
-} from "typescript-json-decoder";
-import { type Book, createOrder, getBookById } from "@/src/data/books";
-import {
-  createInvoice,
-  createSubject,
-  getBearerTokenFromEnv,
-  type InvoiceLine,
-} from "@/src/fakturoid";
+export type DeliveryType = "osobně" | "poštou" | "knihkupectví";
 
-const numberFromString = (val: unknown) => parseInt(string(val), 10);
-
-type Order = decodeType<typeof decodeOrder>;
-const decodeOrder = record({
-  orderedItemId: string,
-  itemCount: numberFromString,
-  deliveryType: union("osobně", "poštou", "knihkupectví"),
-  deliveryName: string,
-  deliveryAddress: optional(string),
-  deliveryEmail: string,
-  deliveryPhone: string,
-});
-
-export type State =
+export type OrderState =
   | { tag: "idle" }
+  | { tag: "sending" }
   | { tag: "error"; message: string }
-  | { tag: "sent"; orderId: string; invoiceUrl: string };
+  | { tag: "sent"; orderId: number; invoiceUrl: string };
 
-export async function placeOrder(
-  // biome-ignore lint/correctness/noUnusedFunctionParameters: This is a standard Next.js signature we can’t muck with?
-  currentState: State,
-  formData: FormData,
-): Promise<State> {
-  try {
-    //
-    // Decode order & load item details
-    //
-    const orderData = decodeOrder(Object.fromEntries(formData.entries()));
-    const book = await getBookById(orderData.orderedItemId);
-    if (!book?.price) {
-      throw new Error(
-        "Objednávaný titul jsme nenašli nebo k němu chybí informace.",
-      );
-    }
+const ordersEndpoint = "https://api.ohlasy.info/store/orders";
 
-    //
-    // Create new invoice subject
-    //
-    const token = await getBearerTokenFromEnv();
-    if (!token) {
-      throw new Error("Chyba v napojení na Fakturoid.");
-    }
-    const subjectId = await createSubject(token, {
-      name: orderData.deliveryName,
-      email: orderData.deliveryEmail,
-      phone: orderData.deliveryPhone,
-    });
-    if (!subjectId) {
-      throw new Error("Nepodařilo se nám založit kontakt ve Fakturoidu.");
-    }
-
-    //
-    // Create invoice
-    //
-    const invoiceUrl = await createInvoice(token, {
-      lines: buildInvoiceLines(book, orderData),
-      subject_id: subjectId,
-      tags: ["knihy"],
-    });
-    if (!invoiceUrl) {
-      throw "Nepodařilo se nám vytvořit fakturu.";
-    }
-
-    //
-    // Save order to the DB
-    //
-    const createdOrder = await createOrder({ ...orderData, invoiceUrl });
-    return {
-      tag: "sent",
-      orderId: String(createdOrder.id),
-      invoiceUrl,
-    };
-  } catch (e) {
-    console.error(e);
-    return { tag: "error", message: `${e}` };
+const buildPayload = (formData: FormData): Record<string, unknown> => {
+  const get = (key: string) => (formData.get(key) as string | null) ?? "";
+  const deliveryType = get("deliveryType") as DeliveryType;
+  const payload: Record<string, unknown> = {
+    orderedItemId: get("orderedItemId"),
+    itemCount: parseInt(get("itemCount"), 10),
+    deliveryType,
+    deliveryName: get("deliveryName"),
+    deliveryEmail: get("deliveryEmail"),
+    deliveryPhone: get("deliveryPhone"),
+  };
+  if (deliveryType !== "knihkupectví") {
+    payload.deliveryAddress = get("deliveryAddress");
   }
-}
-
-const buildInvoiceLines = (book: Book, order: Order): InvoiceLine[] => {
-  const bookLine: InvoiceLine = {
-    name: `Kniha ${book.title}`,
-    quantity: order.itemCount.toString(),
-    unit_name: "ks",
-    unit_price: String(book.price),
-  };
-  const postLine: InvoiceLine = {
-    name: "Poštovné a balné",
-    quantity: "1",
-    unit_name: "ks",
-    unit_price: "100",
-  };
-  return order.deliveryType === "poštou" ? [bookLine, postLine] : [bookLine];
+  return payload;
 };
+
+export function useOrderSubmission() {
+  const [state, setState] = useState<OrderState>({ tag: "idle" });
+
+  const submit = async (formData: FormData) => {
+    setState({ tag: "sending" });
+    try {
+      const response = await fetch(ordersEndpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(buildPayload(formData)),
+      });
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      const data = (await response.json()) as {
+        createdOrderId: number;
+        publicInvoiceUrl: string;
+      };
+      setState({
+        tag: "sent",
+        orderId: data.createdOrderId,
+        invoiceUrl: data.publicInvoiceUrl,
+      });
+    } catch (e) {
+      console.error(e);
+      setState({ tag: "error", message: `${e}` });
+    }
+  };
+
+  return { state, submit, pending: state.tag === "sending" };
+}
