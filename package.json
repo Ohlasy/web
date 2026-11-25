@@ -11,7 +11,7 @@
     "build": "next build",
     "lint": "npx @biomejs/biome lint --write",
     "test": "tsx --test '{src,app}/**/*.test.ts'",
-    "playwright": "playwright test"
+    "test:e2e": "next build && tsx --test 'src/end-to-end-tests.ts'"
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.5.13",
@@ -27,7 +27,6 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.6.8",
-    "@playwright/test": "^1.65.1",
     "@tailwindcss/postcss": "^4.3.5",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^26.6.6",
