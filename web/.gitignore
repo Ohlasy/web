@@ -1,6 +1,4 @@
-.DS_Store
 .vercel
 .next
-node_modules
 tsconfig.tsbuildinfo
 next-env.d.ts
