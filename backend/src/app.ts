@@ -9,21 +9,21 @@ export const app = new Hono<Env>();
 
 // Allow browser calls from the production website
 app.use(
-	"*",
-	cors({
-		origin: ["https://ohlasy.info", "https://www.ohlasy.info"],
-		allowMethods: ["POST", "GET", "OPTIONS"],
-		allowHeaders: ["Content-Type"],
-	}),
+  "*",
+  cors({
+    origin: ["https://ohlasy.info", "https://www.ohlasy.info"],
+    allowMethods: ["POST", "GET", "OPTIONS"],
+    allowHeaders: ["Content-Type"],
+  }),
 );
 
 // Merge routes. This has to be done in the chaining fashion
 // in order to build the app route schema correctly into `routes`.
 const routes = app
-	.get("/", (c) => c.text("Hello!\n"))
-	.route("/newsletter", newsletterRoutes)
-	.route("/slackbot", slackRoutes)
-	.route("/store", storeRoutes);
+  .get("/", (c) => c.text("Hello!\n"))
+  .route("/newsletter", newsletterRoutes)
+  .route("/slackbot", slackRoutes)
+  .route("/store", storeRoutes);
 
 // This can be imported from the client for type-safe backend calls
 export type RoutingSchema = typeof routes;

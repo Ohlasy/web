@@ -1,16 +1,18 @@
 import assert from "node:assert";
 import test from "node:test";
-import { decodeShort, decodeShorts, getAllShorts, parseYouTubeId } from "./shorts";
+import {
+  decodeShort,
+  decodeShorts,
+  getAllShorts,
+  parseYouTubeId,
+} from "./shorts";
 
 test("Parse YouTube ID from various URL forms", () => {
   assert.equal(
     parseYouTubeId("https://www.youtube.com/shorts/n_6CEdRoh7I"),
     "n_6CEdRoh7I",
   );
-  assert.equal(
-    parseYouTubeId("https://youtu.be/n_6CEdRoh7I"),
-    "n_6CEdRoh7I",
-  );
+  assert.equal(parseYouTubeId("https://youtu.be/n_6CEdRoh7I"), "n_6CEdRoh7I");
   assert.equal(
     parseYouTubeId("https://www.youtube.com/watch?v=n_6CEdRoh7I"),
     "n_6CEdRoh7I",
