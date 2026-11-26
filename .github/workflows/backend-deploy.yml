@@ -1,4 +1,4 @@
-name: Build and Push
+name: Backend deploy
 
 on:
   push:
@@ -12,7 +12,7 @@ jobs:
   test:
     uses: ./.github/workflows/backend-test.yml
 
-  build-and-push:
+  deploy:
     needs: test
     runs-on: ubuntu-latest
     permissions:
