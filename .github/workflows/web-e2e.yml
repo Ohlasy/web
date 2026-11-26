@@ -3,8 +3,14 @@ name: Web E2E test
 on:
   push:
     branches: [master]
+    paths:
+      - "web/**"
+      - ".github/workflows/web-e2e.yml"
   pull_request:
     branches: [master]
+    paths:
+      - "web/**"
+      - ".github/workflows/web-e2e.yml"
 
 defaults:
   run:

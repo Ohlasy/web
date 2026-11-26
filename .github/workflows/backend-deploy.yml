@@ -3,6 +3,10 @@ name: Backend deploy
 on:
   push:
     branches: [master]
+    paths:
+      - "backend/**"
+      - ".github/workflows/backend-deploy.yml"
+      - ".github/workflows/backend-test.yml"
 
 env:
   REGISTRY: ghcr.io

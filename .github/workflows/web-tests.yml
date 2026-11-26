@@ -3,8 +3,14 @@ name: Web test
 on:
   push:
     branches: [master]
+    paths:
+      - "web/**"
+      - ".github/workflows/web-tests.yml"
   pull_request:
     branches: [master]
+    paths:
+      - "web/**"
+      - ".github/workflows/web-tests.yml"
 
 defaults:
   run:
