@@ -6,6 +6,10 @@ on:
   pull_request:
     branches: [master]
 
+defaults:
+  run:
+    working-directory: web
+
 jobs:
   test:
     timeout-minutes: 60
@@ -19,6 +23,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: web/package-lock.json
       - name: Install dependencies
         run: npm ci
       - name: Run end-to-end tests

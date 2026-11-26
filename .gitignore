@@ -1,9 +1,3 @@
 .DS_Store
-.vercel
-.next
-.env*
-.obsidian
 node_modules
-tsconfig.tsbuildinfo
-test-results
-next-env.d.ts
+.envrc
