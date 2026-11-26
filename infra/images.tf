@@ -40,8 +40,8 @@ resource "bunnynet_compute_container_app" "imgproxy" {
     image_registry    = 1156
     image_namespace   = "imgproxy"
     image_name        = "imgproxy"
-    image_tag         = "latest"
-    image_digest      = "sha256:7c374cedbb44ee8a41c629af6d3b0d68595381b62ed4d6b40919497ed025d151"
+    image_tag         = "v4.0.25-amd64"
+    image_digest      = "sha256:405b563a1fe604ccdac7375b2bfd2286f1024dfe858785d4d185312dfaeeef26"
     image_pull_policy = "IfNotPresent"
 
     env {
