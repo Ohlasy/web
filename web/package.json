@@ -14,7 +14,7 @@
     "test:e2e": "next build && tsx --test 'src/end-to-end-tests.ts'"
   },
   "dependencies": {
-    "@markdoc/markdoc": "^0.5.13",
+    "@markdoc/markdoc": "^0.5.14",
     "clsx": "^2.1.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^5.5.0",
